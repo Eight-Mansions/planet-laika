@@ -1,0 +1,452 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002A29)
+
+// Pos: 00002A29
+
+#WLB(PTR, $00000190)
+
+#WHB(PTR, $00000191)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nちょっと話し合いたいんだ、\n開こえているのか？
+\n
+We need to talk for a\n
+minute. Can you two
+<$0C>
+hear me?
+<$00>
+
+
+
+
+// Pos: 00002A50
+
+#WLB(PTR, $000001AC)
+
+#WHB(PTR, $000001AD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nどうなんだ？ アーネスト… ヨランダ…\n私の声が開こえているか？
+\n
+Come on, come on...\n
+Earnest! Yolanda! Can
+<$0C>
+you hear my voice?
+<$00>
+
+
+
+
+// Pos: 00002A7F
+
+#WLB(PTR, $00000398)
+
+#WHB(PTR, $00000399)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nガリルがどうかしたって？\n教えてやろうか、やつのこと。
+\n
+Did you say "Garyl"?\n
+Shall I tell you
+<$0C>
+about him?
+<$00>
+
+
+
+
+// Pos: 00002AA6
+
+#WLB(PTR, $000003AC)
+
+#WHB(PTR, $000003AD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nああ…
+\n
+Uhm...
+<$00>
+
+
+
+
+// Pos: 00002AB6
+
+#WLB(PTR, $000003C0)
+
+#WHB(PTR, $000003C1)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあんた誰？
+\n
+Who are you?
+<$00>
+
+
+
+
+// Pos: 00002AC7
+
+#WLB(PTR, $000003D4)
+
+#WHB(PTR, $000003D5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n
+\n
+<$0F>
+//だ…
+...
+<$00>
+
+
+
+
+// Pos: 00002AD7
+
+#WLB(PTR, $000003E8)
+
+#WHB(PTR, $000003E9)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nそう、よかったね。ふふふ、よかった。
+\n
+Yes, good! Huhuhu, I\n
+thought as much!
+<$00>
+
+
+
+
+// Pos: 00002AF4
+
+#WLB(PTR, $000003FC)
+
+#WHB(PTR, $000003FD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nガリルのこと、教えてくれ。
+\n
+All right, tell me\n
+about Garyl.
+<$00>
+
+
+
+
+// Pos: 00002B0F
+
+#WLB(PTR, $00000410)
+
+#WHB(PTR, $00000411)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nやつだよ、ヴェロニカに汚い布をわたして\nヴァニティフェイスをはびこらせたの。
+\n
+Well, Garyl gave\n
+Veronica a filthy
+<$0C>
+cloth before vanity\n
+face went rampant.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nレッドにコスマスを引き合わせたのも\nあいつさ。
+\n
+He's also the one who\n
+introduced Cosmas to
+<$0C>
+Red.
+<$00>
+
+
+
+
+// Pos: 00002B65
+
+#WLB(PTR, $00000424)
+
+#WHB(PTR, $00000425)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n憎しみの火種を付けて回ってるんだな。
+\n
+Stoking the coals of\n
+hatred, was he?
+<$00>
+
+
+
+
+// Pos: 00002B89
+
+#WLB(PTR, $00000438)
+
+#WHB(PTR, $00000439)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nはじめのうちはね。
+\n
+In the beginning, I\n
+do.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nそのうち誰も彼もが\n悪に憑かれるようになったのさ。
+\n
+From then on,\n
+everyone became
+<$0C>
+obsessed with "evil".
+<$00>
+
+
+
+
+// Pos: 00002BC3
+
+#WLB(PTR, $000008E8)
+
+#WHB(PTR, $000008E9)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n君は…今…
+\n
+What...are you...?
+<$00>
+
+
+
+
+// Pos: 00002BD6
+
+#WLB(PTR, $00000954)
+
+#WHB(PTR, $00000955)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nねぇ、コスマスを助けてやってよ。
+\n
+Please, save Cosmas.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあんたがここまで来れたのもあいつのおかげ…\nそうじゃないの？
+\n
+You only got this far\n
+because of him, you
+<$0C>
+know. So please?
+<$00>
+
+
+
+
+// Pos: 00002C1B
+
+#WLB(PTR, $00000968)
+
+#WHB(PTR, $00000969)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n彼と約束をかわした。\nしかし、どうやって？
+\n
+I'd promise, but save\n
+him "how"? Red keeps
+<$0C>
+constant tabs on him.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあのレッドが眼を光らせてる。\nそれに…君はコスマスとどういう関係なのだ？
+\n
+Which begs the\n
+question: what is
+<$0C>
+your relationship to\n
+Cosmas?
+<$00>
+
+
+
+
+// Pos: 00002C72
+
+#WLB(PTR, $0000097C)
+
+#WHB(PTR, $0000097D)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nレッドは出かけてるよ。\n今の間にコスマスを連れ出すのさ。
+\n
+Red is out. Now's the\n
+time to lure him out.
+<$00>
+
+
+
+
+// Pos: 00002C9E
+
+#WLB(PTR, $00000990)
+
+#WHB(PTR, $00000991)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n答えてくれ。 君たちは兄弟なのか？
+\n
+You dodged my\n
+question. Are you two
+<$0C>
+siblings?
+<$00>
+
+
+
+
+// Pos: 00002CBF
+
+#WLB(PTR, $000009A4)
+
+#WHB(PTR, $000009A5)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n人形だよ。\n黒い人形であいつを誘い出せる。
+\n
+There's a doll. A\n
+black doll that can
+<$0C>
+get him out of the\n
+house
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあいつ、夢遊病みたいに付いてくるよ。
+\n
+If you use it, he'll\n
+come to you- almost
+<$0C>
+like he's\n
+sleepwalking.
+<$00>
+
+
+
+
+// Pos: 00002D04
+
+#WLB(PTR, $000009B8)
+
+#WHB(PTR, $000009B9)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nダミアヌス、私は質問しているのだ。
+\n
+Damianos, I'm asking\n
+you a question.
+<$00>
+
+
+
+
+// Pos: 00002D24
+
+#WLB(PTR, $000009CC)
+
+#WHB(PTR, $000009CD)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n人形の名前はダークマンだ。
+\n
+The doll's name is\n
+Darkman.
+<$00>
+
+
+
+
+// Pos: 00002D3E
+
+#WLB(PTR, $00000B30)
+
+#WHB(PTR, $00000B31)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nまだいるんだろう？ そこに…
+\n
+All right, you two\n
+still there?
+<$00>
+
+
+
+

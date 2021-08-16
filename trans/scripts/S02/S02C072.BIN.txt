@@ -1,0 +1,93 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001DD5)
+
+// Pos: 00001DD5
+
+#WLB(PTR, $00000140)
+
+#WHB(PTR, $00000141)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nああよかった、はぐれちゃったかと思った。\nコロニーはこの先よ。\nイーブルマインドは現れていないみたいね。
+\n
+Ah, good! I thought\n
+I'd lost you.\n
+The colony is dead\n
+ahead, and I don't\n
+see any Evil Mind.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n砂嵐の気配もない…\nねえ、小屋に戻りましょうよ。
+\n
+No sign of sandstorms\n
+either.\n
+Let's head back,\n
+shall we?
+<$00>
+
+
+
+
+// Pos: 00001E3F
+
+#WLB(PTR, $0000018C)
+
+#WHB(PTR, $0000018D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n船長は何がなんでも今日中にコロニーに\n着くつもりよ。
+\n
+The captain has his\n
+heart set on reaching
+<$0C>
+the colony today.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nだったら日が暮れないうちに出発しなきゃ。\nそれに…なんだか気分がすぐれないの。
+\n
+I'm not so keen on\n
+the idea, but if
+<$0C>
+we're going to do it,\n
+we'd better regroup\n
+now.
+<$00>
+
+
+
+
+// Pos: 00001E9F
+
+#WLB(PTR, $00000A2C)
+
+#WHB(PTR, $00000A2D)
+
+<$10><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nシークレットパワー…\nフェイスを消滅させることもできるのか。
+<$0C><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nこれが僕の力…
+<$00>
+
+
+
+

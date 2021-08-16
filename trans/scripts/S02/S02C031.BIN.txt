@@ -1,0 +1,234 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000EF5)
+
+// Pos: 00000EF5
+
+#WLB(PTR, $000004D0)
+
+#WHB(PTR, $000004D1)
+
+<$12><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\nああ、前が見えねぇ。
+\n
+I can't see a damned\n
+thing.
+<$0E><$14><$17><$00>
+
+
+
+
+// Pos: 00000F0D
+
+#WLB(PTR, $000004EC)
+
+#WHB(PTR, $000004ED)
+
+<$12><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\nこのままではまずいな。
+\n
+I'm not sure how much\n
+farther we can wade
+<$0C>
+through this.
+<$0E><$14><$17><$00>
+
+
+
+
+// Pos: 00000F2B
+
+#WLB(PTR, $00000508)
+
+#WHB(PTR, $00000509)
+
+<$12><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\nヌーン、どこかに待避場所はないのか？
+\n
+Noon, were there any\n
+shelters marked in
+<$0C>
+the area?
+<$0E><$14><$17><$00>
+
+
+
+
+// Pos: 00000F54
+
+#WLB(PTR, $00000524)
+
+#WHB(PTR, $00000525)
+
+<$12><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\nああ、砂だ…ちくしょう、ざらざらしてきた、\n頭ん中までざらざら、ざらざらだ。
+\n
+Am I the only one who\n
+hates sand?\n
+It's up to my goddamn\n
+ears here!
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00000F8B
+
+#WLB(PTR, $00000540)
+
+#WHB(PTR, $00000541)
+
+<$12><$11>
+//子エイプリル：
+子April:
+<$0D>
+//\n近くに避難小屋があるはずよ。ねぇ、ヌーン。
+\n
+There should be a\n
+safe room nearby,
+<$0C>
+right Noon?
+<$0E><$14><$17><$00>
+
+
+
+
+// Pos: 00000FB5
+
+#WLB(PTR, $0000055C)
+
+#WHB(PTR, $0000055D)
+
+<$12><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\nあああ、避難小屋だ。\n
+\n
+Ohhhh, right! A safe\n
+room!\n
+<$0E><$14><$17><$00>
+
+
+
+
+// Pos: 00000FD2
+
+#WLB(PTR, $00000578)
+
+#WHB(PTR, $00000579)
+
+<$12><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\nご一行は避難小屋に着きました、\nそこでおネンネしました、
+\n
+"The crew found a\n
+safe room,\n
+and went blissfully\n
+to sleep..."
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00001003
+
+#WLB(PTR, $00000594)
+
+#WHB(PTR, $00000595)
+
+<$12><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\n目が覚めたらおウチでした。
+\n
+"And when they woke\n
+up, they were already
+<$0C>
+home."
+<$0E><$14><$17><$00>
+
+
+
+
+// Pos: 00001020
+
+#WLB(PTR, $000005B0)
+
+#WHB(PTR, $000005B1)
+
+<$12><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\n火星は平和でした、報告書はそう書けばいいんだ\nそうじゃねぇのか？
+\n
+"Mars was declared\n
+peaceful, and they
+<$0C>
+all lived happily\n
+ever after. THE END!"
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00001056
+
+#WLB(PTR, $000005CC)
+
+#WHB(PTR, $000005CD)
+
+<$12><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\nヌーン、おくれてるぞ。\nライカ、どうした、ペースを上げるんだ！
+\n
+Stop dragging your\n
+ass, Noon.\n
+And where's Laika?
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00001089
+
+#WLB(PTR, $000005E8)
+
+#WHB(PTR, $000005E9)
+
+<$12><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\nライカ！ なにをぐずぐずしてる、\nはぐれてしまうぞ！
+\n
+Laika, don't fall\n
+behind!\n
+You'll get yourself\n
+lost!
+<$0E><$3C><$17><$00>
+
+
+
+

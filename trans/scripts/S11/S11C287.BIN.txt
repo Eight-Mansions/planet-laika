@@ -1,0 +1,250 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000203C)
+
+// Pos: 0000203C
+
+#WLB(PTR, $0000068C)
+
+#WHB(PTR, $0000068D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあ、これからお前は\n自分に向き合う旅を始める、
+\n
+Come. It's time for\n
+you to start your
+<$0C>
+journey to face the\n
+self.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺は約束の場所に行く、そういうことだ。
+\n
+When I am going to\n
+the Promised Land,
+<$0C>
+that is what I mean.
+<$00>
+
+
+
+
+// Pos: 00002082
+
+#WLB(PTR, $000001B2)
+
+#WHB(PTR, $000001B3)
+
+#WLB(PTR, $000006A0)
+
+#WHB(PTR, $000006A1)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺の頭の中で呼ぶ声が開こえるんだ…
+\n
+I can hear the voices\n
+calling in my head.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n早く来い、約束の場所が待っているぞ、\n早く来いリトルってな。
+\n
+They say, "Hurry. We\n
+await you in the
+<$0C>
+Promised Land."\n
+"Hurry, Liter."
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
+\n
+Dammit, the voices\n
+only got worse and
+<$0C>
+worse after you came\n
+here.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあ、どこだ、俺を連れて行くんだ。
+\n
+So, are you going to\n
+show me where that
+<$0C>
+is?
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nお前が連れていく、\n俺の頭の中じゃそうなってるんだ。
+\n
+Show me the way, I'm\n
+thinking. That's how
+<$0C>
+things are going up\n
+there.
+<$00>
+
+
+
+
+// Pos: 0000213A
+
+#WLB(PTR, $00000970)
+
+#WHB(PTR, $00000971)
+
+<$10><$13><$19><$0B><$0D>
+//あああ、用済み、\nそうさ、用済みの場所に行くんだ！
+Yes, serve your\n
+purpose! Go to the\n
+place that will
+<$0C>
+render you obsolete!
+<$00>
+
+
+
+
+// Pos: 00002160
+
+#WLB(PTR, $00000A18)
+
+#WHB(PTR, $00000A19)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nくそったれ！また前に出やがる！
+\n
+Dammit, don't pop out\n
+like that!
+<$00>
+
+
+
+
+// Pos: 00002179
+
+#WLB(PTR, $00000B2C)
+
+#WHB(PTR, $00000B2D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nへへへ、金星人のドカンだ。
+\n
+Hehe, check out that\n
+Venusian surge,
+<$0C>
+there.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nスペースルームのやつら、\nいかれちまったってワケだ。
+\n
+It drove those guys\n
+in the space room and
+<$0C>
+broke their minds.
+<$00>
+
+
+
+
+// Pos: 000021B3
+
+#WLB(PTR, $00000B40)
+
+#WHB(PTR, $00000B41)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n主人の家の門で腹を空かせる犬は\n国家の滅亡を言い当てる…
+\n
+"A dog starved at his\n
+master's gate.
+<$0C>
+Predicts the ruin of\n
+the state," hehe...
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nふっ、終末の暗示を含んだ詩だ。\nお前に分かるか？
+\n
+Heh, do you know what\n
+that's from?
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n金星人野郎の頭はこの詩であふれた。\nそして弾けた。
+\n
+A poem that flooded\n
+the heads of those
+<$0C>
+Venusian bastards\n
+until they popped.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n逃げようたって無理なんだ、\nこの星にいる限りはな。
+\n
+But we can't run from\n
+ruin, not as long as
+<$0C>
+we are on this\n
+planet.
+<$00>
+
+
+
+
+// Pos: 00002257
+
+#WLB(PTR, $00000B6C)
+
+#WHB(PTR, $00000B6D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nへっ、他にもお前に話したいやつがいるのか。\n無線テレビだ、そうだそうだ。
+\n
+If you want to talk\n
+with anyone, use that
+<$0C>
+monitor, get it? You\n
+get it?
+<$1E>
+//家
+家
+<$00>
+
+
+
+

@@ -1,0 +1,26 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000328)
+
+// Pos: 00000328
+
+#WLB(PTR, $000000C8)
+
+#WHB(PTR, $000000C9)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nあいつのことか？ 黒い騎士っていうのは…
+\n
+What was that thing,\n
+the Black Rider?!
+<$00>
+
+
+
+

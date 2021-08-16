@@ -1,0 +1,23 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000DC0)
+
+// Pos: 00000DC0
+
+#WLB(PTR, $00000188)
+
+#WHB(PTR, $00000189)
+
+<$11><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nここにいたのは…確か凍った大男がいたはず。\n分身…誰だ、ユニバーサルマンだ、\nそんな話が開こえていた。
+<$00>
+
+
+
+

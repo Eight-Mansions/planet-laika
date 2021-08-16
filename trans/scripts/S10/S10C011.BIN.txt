@@ -1,0 +1,990 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000400D)
+
+// Pos: 0000400D
+
+#WLB(PTR, $000002C4)
+
+#WHB(PTR, $000002C5)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nすべてはウラジミールのせいなの？
+\n
+It was all Vladimir's\n
+fault, no?
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n
+\n
+<$0F>
+//の新しいパパでしょ。\nあんたにとっても。
+'s "new batya". He\n
+did this to you.
+<$00>
+
+
+
+
+// Pos: 00004046
+
+#WLB(PTR, $000002D8)
+
+#WHB(PTR, $000002D9)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nふん！ ウラジミールなんてろくでなしよ。\nすこぶる付きのろくでなし。
+\n
+Hmph. Vladimir was a\n
+dirt-fucking bastard.
+<$0C>
+To put it nicely.
+<$00>
+
+
+
+
+// Pos: 00004075
+
+#WLB(PTR, $000002EC)
+
+#WHB(PTR, $000002ED)
+
+<$11><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n
+\n
+<$0F>
+//のママは\nウラジミールにはひどい目にあわされた、\nそうなんだね。
+'s mama lived a\n
+hellish life under\n
+his hand. There's no
+<$0C>
+mistaking that.
+<$00>
+
+
+
+
+// Pos: 000040A2
+
+#WLB(PTR, $00000300)
+
+#WHB(PTR, $00000301)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nタニアはいじめ抜かれたのよ。
+\n
+Tanya was abused.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nすっかり性格が変わって、\nすぐにふさぎ込むようになって…
+\n
+Her disposition\n
+changed entirely. Her
+<$0C>
+spirits had hit rock\n
+bottom.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそして限界を超えちゃったのよ。
+\n
+And, when they\n
+started digging...
+<$00>
+
+
+
+
+// Pos: 00004101
+
+#WLB(PTR, $00000314)
+
+#WHB(PTR, $00000315)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n自殺したんだね、バスルームで。\n見たんでしょ。
+\n
+She committed suicide\n
+in the bathroom. You
+<$0C>
+found her.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nあんたが表に出たのは\nその時がはじめてなんだね。
+\n
+That was the first\n
+time you, Yolanda,
+<$0C>
+ever surfaced.
+<$00>
+
+
+
+
+// Pos: 00004148
+
+#WLB(PTR, $00000328)
+
+#WHB(PTR, $00000329)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n可哀想に… もっと早く\nアタシが話し相手になってあげれば…
+\n
+I'm pathetic... If\n
+only I'd talked to
+<$0C>
+her sooner.
+<$00>
+
+
+
+
+// Pos: 00004178
+
+#WLB(PTR, $0000033C)
+
+#WHB(PTR, $0000033D)
+
+<$11><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nタニアは
+\n
+Tanya is...
+<$0F>
+//のママだよね、\nあんたのママってこと？\nどう思ってたの？
+'s mother. Doesn't\n
+that maker her your\n
+mother too? Or am I
+<$0C>
+wrong?
+<$00>
+
+
+
+
+// Pos: 000041A5
+
+#WLB(PTR, $00000350)
+
+#WHB(PTR, $00000351)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシには友達なのよ。
+\n
+She was my friend!
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n
+\n
+<$0F>
+//には何もできないの…\nせいぜいが宇宙飛行士になることくらい。
+couldn't help her! He\n
+was too busy wanting\n
+to be a fucking
+<$0C>
+cosmonaut!
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nタニアの相談相手は、アタシをおいて\n他にいないわ。
+\n
+I was Tanya's\n
+shoulder to lean on!
+<$0C>
+I was the only one\n
+there for her!
+<$00>
+
+
+
+
+// Pos: 00004212
+
+#WLB(PTR, $00000968)
+
+#WHB(PTR, $00000969)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nアーネストは？\n彼はなぜ存在するの？
+\n
+What about Ernest?\n
+Why does he exist?
+<$00>
+
+
+
+
+// Pos: 00004232
+
+#WLB(PTR, $0000097C)
+
+#WHB(PTR, $0000097D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n守るためよ。\n生まれてくるはずだった妹…
+\n
+To protect. He came\n
+to protect his little
+<$0C>
+sister...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアーネストは\nその妹を守るためにやってきたのよ。
+\n
+...the little sister\n
+whom Tanya was to
+<$0C>
+give birth to.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nウラジミールとセルゲイの暴力から\n妹を守るためよ。
+\n
+Ernest meant to keep\n
+his sister safe from
+<$0C>
+Vladimir and Sergei's\n
+physical abuse.
+<$00>
+
+
+
+
+// Pos: 0000429E
+
+#WLB(PTR, $00000990)
+
+#WHB(PTR, $00000991)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nでも妹は生まれてこなかった。
+\n
+But, that sister\n
+arrived stillborn.
+<$00>
+
+
+
+
+// Pos: 000042B9
+
+#WLB(PTR, $000009A4)
+
+#WHB(PTR, $000009A5)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nううん、生まれたの。
+\n
+Well, in real life, I\n
+mean...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアーネストにしてみれば、\n生まれたことになってるの。
+\n
+...but in Ernest's\n
+eyes, she's out
+<$0C>
+there, somewhere.
+<$00>
+
+
+
+
+// Pos: 000042F4
+
+#WLB(PTR, $000009B8)
+
+#WHB(PTR, $000009B9)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n作り出したの？
+\n
+He dreamed her up\n
+after the fact?
+<$00>
+
+
+
+
+// Pos: 00004308
+
+#WLB(PTR, $000009CC)
+
+#WHB(PTR, $000009CD)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nどうやらそのようね。\n詳しいことは分からない、本人じゃなきゃね。
+\n
+Apparently, he did. I\n
+don't know the
+<$0C>
+details, so you'd\n
+have to ask him.
+<$00>
+
+
+
+
+// Pos: 00004336
+
+#WLB(PTR, $000009E0)
+
+#WHB(PTR, $000009E1)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n本当は生まれたときには死んでたんだよね、\nミーシャって名前まで用意してたのに。
+\n
+So, she was born\n
+dead. Was "Misha" the
+<$0C>
+name that Tanya and\n
+Vladimir were\n
+planning to give her?
+<$00>
+
+
+
+
+// Pos: 0000436F
+
+#WLB(PTR, $000009F4)
+
+#WHB(PTR, $000009F5)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nミーシャは殺されたのよ…
+\n
+Misha was killed.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nウラジミールがはかったの。\nもう子供は欲しくなかったのよ。
+\n
+Vladimir made sure of\n
+that. He didn't want
+<$0C>
+any more children.
+<$00>
+
+
+
+
+// Pos: 000043B1
+
+#WLB(PTR, $00000D08)
+
+#WHB(PTR, $00000D09)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nスペーサーはどうなの？
+\n
+Did Spacer know this?
+<$00>
+
+
+
+
+// Pos: 000043C7
+
+#WLB(PTR, $00000D1C)
+
+#WHB(PTR, $00000D1D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n彼は司令塔よ。\nアタシたちの監視役。
+\n
+Well, he's our little\n
+command tower. He
+<$0C>
+keeps an eye over the\n
+lot of us.
+<$00>
+
+
+
+
+// Pos: 000043EC
+
+#WLB(PTR, $00000D30)
+
+#WHB(PTR, $00000D31)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nそしてアーネストからミーシャを取り上げた。
+\n
+So, in a way, he took\n
+Misha's place out
+<$0C>
+from under Ernest's\n
+nose.
+<$00>
+
+
+
+
+// Pos: 0000440E
+
+#WLB(PTR, $00000D44)
+
+#WHB(PTR, $00000D45)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそうよ。ミーシャっていう人格が\nひとり歩きしないようにね。
+\n
+Right. By that point,\n
+the idea of "Misha"
+<$0C>
+had taken a life of\n
+its own.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n妹を消されたことでアーネストは\n彼をうらんでるわ。
+\n
+And Ernest resents\n
+Spacer for letting
+<$0C>
+that idea, his\n
+sister, slip away.
+<$00>
+
+
+
+
+// Pos: 0000445E
+
+#WLB(PTR, $00000D58)
+
+#WHB(PTR, $00000D59)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nスペーサーは大の勉強家だよね。
+\n
+But Spacer is a\n
+largely studios
+<$0C>
+person, isn't he.
+<$00>
+
+
+
+
+// Pos: 0000447C
+
+#WLB(PTR, $00000D6C)
+
+#WHB(PTR, $00000D6D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそうみたいね。
+\n
+I'd say so.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n彼は図書室の本の中から現れて
+\n
+He emerged from some\n
+book in the library.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nいつのまにか…\n
+\n
+Before anyone could\n
+notice...he'd planted
+<$0C>
+himself into
+<$0F>
+//の中に住み着いたのよ、
+'s mind as they read.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシはそう思ってる。
+\n
+At least, I think\n
+that's what happened.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n
+\n
+In the end,
+<$0F>
+//が宇宙飛行士になれたのも\nスペーサーがいたからよ。
+became a cosmonaut\n
+because of Spacer.
+<$00>
+
+
+
+
+// Pos: 0000450A
+
+#WLB(PTR, $000010A8)
+
+#WHB(PTR, $000010A9)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\n実に満ち足りたひとときだったよ、ライカ君。\n君はすばらしい、可能性に輝いている。
+\n
+This was fun, Laika.\n
+You're wonderful!
+<$0C>
+Brimming with\n
+potential!
+<$00>
+
+
+
+
+// Pos: 00004542
+
+#WLB(PTR, $00001108)
+
+#WHB(PTR, $00001109)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\n私は君よりもっとあやふやな存在だった。\nせまり来る不安の中で自信を失っていた。
+\n
+Once upon a time, I\n
+was even more
+<$0C>
+uncertain an\n
+existance than you. I\n
+lost all ease, all\n
+confidence.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nしかしどうだ、\n今や明るい理性の庭にいる。
+\n
+But you know what?\n
+Now, I am the shining
+<$0C>
+beacon of reason!
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\n全てはこの星の意志に\n触れたからに他ならない。
+\n
+It only happened\n
+because I was touched
+<$0C>
+by the will of the\n
+planet.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nもう恐れは去ったのだ、冷たい触手に\nからめ取られることもない。
+\n
+My fears are now\n
+gone. Those cold
+<$0C>
+tentacles can no\n
+longer clutch me.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nどうだね、\n私と共に世界の再生に立ち会わないか。
+\n
+What do you say,\n
+Laika? Would you like
+<$0C>
+to witness world\n
+rebirth at my side?
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\n君は求められているのではないかね。
+\n
+That's what you want,\n
+isn't it?
+<$00>
+
+
+
+
+// Pos: 00004630
+
+#WLB(PTR, $00001184)
+
+#WHB(PTR, $00001185)
+
+<$10>
+//ダメだよ、だまされてるよ！
+No! Don't let him\n
+trick you!
+<$00>
+
+
+
+
+// Pos: 0000463F
+
+#WLB(PTR, $0000122C)
+
+#WHB(PTR, $0000122D)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nそいつはあんたの苦しみを\n利用しようとしてるんだ。
+\n
+All Garyl wants is to\n
+capitalize on your
+<$0C>
+suffering.
+<$00>
+
+
+
+
+// Pos: 00004666
+
+#WLB(PTR, $0000128C)
+
+#WHB(PTR, $0000128D)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\n立役者のご登場というわけか。\nお前の神様はどうした？
+\n
+Ah, the so-called\n
+"leading man" makes
+<$0C>
+his appearance. What\n
+happened to your god?
+<$00>
+
+
+
+
+// Pos: 00004690
+
+#WLB(PTR, $000012A0)
+
+#WHB(PTR, $000012A1)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nあれは神様なんかじゃない！\nイーブルマインドのカスだ！
+\n
+That wasn't God!\n
+Th-that was just a
+<$0C>
+mass of Evil Mind!
+<$00>
+
+
+
+
+// Pos: 000046B8
+
+#WLB(PTR, $000012B4)
+
+#WHB(PTR, $000012B5)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nそのカスに祈り続けて、\nお前の罪はつぐなえたのか？
+\n
+Do you pray to that\n
+mass, then? Or do you
+<$0C>
+continue to sin?
+<$00>
+
+
+
+
+// Pos: 000046DD
+
+#WLB(PTR, $000012C8)
+
+#WHB(PTR, $000012C9)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n僕は何もしちゃいない！
+\n
+I didn't do anything\n
+wrong!
+<$00>
+
+
+
+
+// Pos: 000046F4
+
+#WLB(PTR, $000012DC)
+
+#WHB(PTR, $000012DD)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\n双子たちに悪夢のプレゼントを配ったのは\nお前だ、リトル！お前が生き埋めにしたんだ！
+\n
+YOU gave twins the\n
+present of
+<$0C>
+nightmares, Liter!\n
+YOU buried them\n
+alive!
+<$00>
+
+
+
+
+// Pos: 0000472C
+
+#WLB(PTR, $000012F0)
+
+#WHB(PTR, $000012F1)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nそうだ、リトル。お前だリトル。\nリトル、リトル、この名を呼び続けてやろう！
+\n
+That's right, LITER!\n
+It was you, LITER!
+<$0C>
+LITER! LITER! AND I\n
+WILL SHALL YOU LITER!
+<$00>
+
+
+
+
+// Pos: 0000475D
+
+#WLB(PTR, $00001378)
+
+#WHB(PTR, $00001379)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nうわっ！
+\n
+No!
+<$00>
+
+
+
+
+// Pos: 0000476C
+
+#WLB(PTR, $00000698)
+
+#WHB(PTR, $00000699)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあの日…アタシ、妙に胸騒ぎを覚えて\n学校を抜け出したのよ。
+\n
+I...remember ditching\n
+class because of a
+<$0C>
+bad feeling I got\n
+that day.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n
+\n
+<$0F>
+//を追いやって…
+couldn't help it. I\n
+forced him out.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nタニアのことが心配だったの。\n気が急いたわ。
+\n
+I was worried about\n
+Tanya. I had to
+<$0C>
+hurry.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n家に帰って人の気配がしないからさがしたの、
+\n
+When we got home, I\n
+heard no sign of her,
+<$0C>
+so I went looking.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nタニア、タニアって、\n呼ぶ声が口をついて出てきた。
+\n
+"Tanya! Tanya," I\n
+cried. That's all
+<$0C>
+that came out.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nバスルームから水の音が開こえて…\nもう見るまでもなかった。
+\n
+I head the sound of\n
+running water from
+<$0C>
+the bath room. I\n
+didn't have to look\n
+anymore.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n分かってたのよ、
+\n
+I knew what she did.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nタニアの心が\n持ちこたえられそうもないってことは。
+\n
+I knew Tanya's heart\n
+couldn't take it any
+<$0C>
+longer.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシは何もしてあげられなかった。
+\n
+I knew I couldn't\n
+save her.
+<$00>
+
+
+
+

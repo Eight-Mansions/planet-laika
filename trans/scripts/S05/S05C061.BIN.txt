@@ -1,0 +1,501 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000020E5)
+
+// Pos: 000020E5
+
+#WLB(PTR, $00000360)
+
+#WHB(PTR, $00000361)
+
+<$11><$0B>
+//ユニバーサルマン：
+Universalman:
+<$0D>
+//\nあああああああ…
+<$0C><$0B>
+//ユニバーサルマン：
+Universalman:
+<$0D>
+//\n死の分身を…氷の中で冷たくなっている分身だ。\nあああ、死を完成させねばならない、\nあああ…死…
+\n
+My alter ego in\n
+death...is frozen in
+<$0C>
+the ice, while I am\n
+buried in stoooone...
+<$00>
+
+
+
+
+// Pos: 00002141
+
+#WLB(PTR, $00000380)
+
+#WHB(PTR, $00000381)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nアイスレイクにいたやつか…\nその分身を呼び寄せるのか？
+\n
+The big guy down in\n
+Ice Lake? Do you call
+<$0C>
+him your alter ego?
+<$00>
+
+
+
+
+// Pos: 0000216C
+
+#WLB(PTR, $0000039C)
+
+#WHB(PTR, $0000039D)
+
+<$10><$0B>
+//ユニバーサルマン：
+Universalman:
+<$0D>
+//\nあああ、死の動機を得るのだ、\n死に向き合えば、エレミヤに近付ける…
+\n
+Finnnnd a\n
+reason...for dying,
+<$0C>
+face death, and\n
+Jeremiah will\n
+commme...
+<$0C><$0B>
+//ユニバーサルマン：
+Universalman:
+<$0D>
+//\n残りの預言はエレミヤのうちに…
+\n
+The rrrrremaining\n
+prophecies...rest in
+<$0C>
+Jeremiaaaah...
+<$0C><$0B>
+//ユニバーサルマン：
+Universalman:
+<$0D>
+//\nお前にも惑じるぞ、同じだ、私と同じだ。
+\n
+You can feeeeeeel it\n
+toooo. You and I...
+<$0C>
+We are the\n
+saaaaame...
+<$00>
+
+
+
+
+// Pos: 000021E5
+
+#WLB(PTR, $000003BC)
+
+#WHB(PTR, $000003BD)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n死の世界に入ろうとしているのか？\nまだすぐには無理そうだな。
+\n
+Do you want into\n
+world of death? I
+<$0C>
+didn't think that was\n
+possible yet.
+<$00>
+
+
+
+
+// Pos: 00002216
+
+#WLB(PTR, $00000418)
+
+#WHB(PTR, $00000419)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nどこかで死の世界とつながっている。\nそれはどこだ。
+\n
+Or, is there some\n
+sort of special
+<$0C>
+entrance? Where is\n
+that?
+<$00>
+
+
+
+
+// Pos: 0000223F
+
+#WLB(PTR, $00000550)
+
+#WHB(PTR, $00000551)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nあんたも半分死んでるの？
+\n
+You're not half-dead\n
+too, are you?
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n
+\n
+<$0F>
+//じゃない、あんたは誰？
+\n
+...? No, that's not\n
+it. What's your name?
+<$00>
+
+
+
+
+// Pos: 00002271
+
+#WLB(PTR, $00000564)
+
+#WHB(PTR, $00000565)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあああ、私はスペーサーだ、スペーサー。\n君は確か…
+\n
+Ah, I'm Spacer.\n
+Spa-cer. And who're
+<$0C>
+you?
+<$00>
+
+
+
+
+// Pos: 00002298
+
+#WLB(PTR, $00000578)
+
+#WHB(PTR, $00000579)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nアタシ、ヴェロニカ。
+\n
+I'm Veronica.
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nねぇ、開くけどあんたは、あんただけなの？\n他にはいないの？
+\n
+I thought I heard\n
+talking, but it's
+<$0C>
+just you. Are you\n
+expecting someone?
+<$00>
+
+
+
+
+// Pos: 000022D8
+
+#WLB(PTR, $0000058C)
+
+#WHB(PTR, $0000058D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私だけ… もしそうだとしたら？\n私が全てだとしたら…
+\n
+Expecting someone...?\n
+Uhm, no. It's just
+<$0C>
+me, myself and\n
+this...wall here...
+<$00>
+
+
+
+
+// Pos: 00002300
+
+#WLB(PTR, $000005A0)
+
+#WHB(PTR, $000005A1)
+
+<$11><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nじゃあ、合わさったの？\nそれともはじめからひとりなの？\nねえ、どっち？
+\n
+Well, WERE you\n
+talking to someone,
+<$0C>
+or were you scheming\n
+to yourself?
+<$00>
+
+
+
+
+// Pos: 00002331
+
+#WLB(PTR, $000005B4)
+
+#WHB(PTR, $000005B5)
+
+<$11><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n合わさる…\nどういうことだ、合わさるとは。\n私たちが合わさる…
+\n
+What? There's no\n
+scheming, we were
+<$0C>
+just...
+<$00>
+
+
+
+
+// Pos: 00002360
+
+#WLB(PTR, $000005C8)
+
+#WHB(PTR, $000005C9)
+
+<$11><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nほら、やっぱり。\nひとりじゃないんだよ。\n私たちだなんて言って…ばれてるよ。
+\n
+Ah-ha, you weren't\n
+alone after all! I
+<$0C>
+caught you when you\n
+said "we"!
+<$00>
+
+
+
+
+// Pos: 00002393
+
+#WLB(PTR, $000005DC)
+
+#WHB(PTR, $000005DD)
+
+<$11><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n君は…\n君にも誰かいるのか…
+\n
+W-well, what about\n
+you, huh? What's your
+<$0C>
+deal...?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nそうか！ 思い出したぞ、フェイだ、\n君はフェイのことをきらってる、\nそして取り込もうとしているんだな！
+\n
+Oh, right, I remember\n
+Hui. You don't like
+<$0C>
+her, so you're trying\n
+to subdue her.
+<$00>
+
+
+
+
+// Pos: 000023F0
+
+#WLB(PTR, $000005F0)
+
+#WHB(PTR, $000005F1)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nふふふ、アタシはいいこと思いついたのよ、\nふたりがひとりになれる特別の方法を。
+\n
+Huhuhu! I thought\n
+long and hard, you
+<$0C>
+know. I've got a plan\n
+now to become one.
+<$00>
+
+
+
+
+// Pos: 00002429
+
+#WLB(PTR, $00000604)
+
+#WHB(PTR, $00000605)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nなんだ、どうするんだ？\n教えてくれ！
+\n
+How would that work,\n
+huh? Tell me.
+<$00>
+
+
+
+
+// Pos: 00002449
+
+#WLB(PTR, $00000618)
+
+#WHB(PTR, $00000619)
+
+<$11><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nアタシ、決めたの。\n吸収するのよ、あの女を、フェイを。\nアタシが見つけたやり方で！
+Simple, really. I've\n
+decided I'll absorb\n
+that woman, Hui. I've
+<$0C>
+found that's my best\n
+option.
+<$00>
+
+
+
+
+// Pos: 00002484
+
+#WLB(PTR, $00000694)
+
+#WHB(PTR, $00000695)
+
+<$11><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nドールダンスか…
+\n
+Through the doll\n
+dance. That's it,
+<$0C>
+isn't it?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nそうなのか、メディスンマンたちのまじないで\n人格を統合させようとしているのか…\n人格統合…
+\n
+Veronica wants to use\n
+the medicine men's
+<$0C>
+magic to integrate\n
+Hui's personality\n
+into hers.
+<$00>
+
+
+
+
+// Pos: 000024D6
+
+#WLB(PTR, $000006E4)
+
+#WHB(PTR, $000006E5)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n開こえるか…私の声が。\nヨランダ、アーネスト…どうなんだ？
+\n
+Hey, can you two hear\n
+my voice? Ernest,
+<$0C>
+Yolanda? Hello!
+<$00>
+
+
+
+
+// Pos: 00002502
+
+#WLB(PTR, $00000704)
+
+#WHB(PTR, $00000705)
+
+#WLB(PTR, $00001A72)
+
+#WHB(PTR, $00001A73)
+
+#WLB(PTR, $00001B32)
+
+#WHB(PTR, $00001B33)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nまだ眠っているのか。\n人格統合だ、その時はどうなる？
+\n
+Are you two still\n
+sleeping? But, but
+<$0C>
+what happens in\n
+personality\n
+integration?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n誰が残るんだ。\nそれとも誰も残れないのか、どうなんだ？
+\n
+Who remains, huh? Or\n
+is it that there
+<$0C>
+won't be either of\n
+you left?
+<$00>
+
+
+
+

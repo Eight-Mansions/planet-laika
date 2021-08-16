@@ -1,0 +1,1118 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002C2E)
+
+// Pos: 00002C2E
+
+#WLB(PTR, $00000218)
+
+#WHB(PTR, $00000219)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nおい、ここなのか？\n約束の場所はここなのか？
+\n
+Hey, what is this\n
+place? Is this...the
+<$0C>
+Promised Land?
+<$00>
+
+
+
+
+// Pos: 00002C51
+
+#WLB(PTR, $0000022C)
+
+#WHB(PTR, $0000022D)
+
+#WLB(PTR, $00002282)
+
+#WHB(PTR, $00002283)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあは、あははは、\nクリスマスだ、プレゼントだ。
+\n
+Ah-hah! It's\n
+Christmas!\n
+It's time for\n
+presents!
+<$00>
+
+
+
+
+// Pos: 00002C71
+
+#WLB(PTR, $0000023C)
+
+#WHB(PTR, $0000023D)
+
+//仮夢のプレゼントだよ、\nリトル君。
+\n
+Here are your\n
+presents of
+<$0C>
+nightmares, Liter!
+<$00>
+
+
+
+
+// Pos: 00002C85
+
+#WLB(PTR, $0000028C)
+
+#WHB(PTR, $0000028D)
+
+#WLB(PTR, $00002486)
+
+#WHB(PTR, $00002487)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n靴下に詰めたんだ。
+\n
+Ohh! Stuffed in\n
+stockings?
+<$00>
+
+
+
+
+// Pos: 00002C9A
+
+#WLB(PTR, $000002AC)
+
+#WHB(PTR, $000002AD)
+
+//興うだ、\nお前が悪夢をばらまいた。
+That's right. Now,\n
+go.\n
+Pass the nightmare
+<$0C>
+around.
+<$00>
+
+
+
+
+// Pos: 00002CAE
+
+#WLB(PTR, $000002D8)
+
+#WHB(PTR, $000002D9)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあはは、ユカイだな。
+\n
+Ahaha, how amusing!
+<$00>
+
+
+
+
+// Pos: 00002CC1
+
+#WLB(PTR, $000002E8)
+
+#WHB(PTR, $000002E9)
+
+//仮夢の中で穴を掘ったんだ。\nリトル、お前が生き埋めにしたんだ。
+\n
+You dug holes in\n
+nightmares,\n
+and buried us alive!
+<$00>
+
+
+
+
+// Pos: 00002CE8
+
+#WLB(PTR, $0000031C)
+
+#WHB(PTR, $0000031D)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあ、クリスマスだ、穴に落ちろ！
+\n
+That's how Christmas\n
+works, everyone! Down
+<$0C>
+the chute!
+<$00>
+
+
+
+
+// Pos: 00002D03
+
+#WLB(PTR, $0000032C)
+
+#WHB(PTR, $0000032D)
+
+//案ぴの中でもがき、苦しみ、\n湿った土が口をふさいだ。
+We suffered,\n
+strugging in that\n
+hole. Wet mud filled
+<$0C>
+our mouths shut.
+<$0C>
+//死はゆっくりとおとずれた。\n肉は腐り、イヤな臭いがただよった。
+Death was a slow-met\n
+end.\n
+We smelled the
+<$0C>
+sickening\n
+rot of our own flesh.
+<$0C>
+//じめじめした土の上を、\n行き場のないタマシイがさまよった。
+Our ghosts rose to\n
+the muddied surface\n
+with nowhere to go.
+<$0C>
+//みんなお前のしたことだ、\nリトル君！
+You did that to all\n
+of us, Liter!
+<$0C>
+//この星は待っていたんだよ、\n罪のすべてを背負う人間を！
+The planet's waiting\n
+for a human\n
+who will carry your
+<$0C>
+sins.
+<$00>
+
+
+
+
+// Pos: 00002D9F
+
+#WLB(PTR, $0000033C)
+
+#WHB(PTR, $0000033D)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあはは、あはは、\nくるくる回る、世界が回る。
+\n
+Ahaha! Ahaha! Round\n
+and round! All around
+<$0C>
+the world!
+<$00>
+
+
+
+
+// Pos: 00002DC2
+
+#WLB(PTR, $0000034C)
+
+#WHB(PTR, $0000034D)
+
+//広かしいなリトル君、\nクリスマスの靴下があと一足あまってるぞ。\n誰の分かね？
+Behave, Liter.\n
+We have one more pair\n
+of\n
+Christmas stockings.\n
+Do you know who\n
+they're for?
+<$00>
+
+
+
+
+// Pos: 00002DEF
+
+#WLB(PTR, $00000490)
+
+#WHB(PTR, $00000491)
+
+<$00><$02><$65>
+っ暗だ、何も見えない…\nお前、どこにいるんだ…
+<$0C>
+寒い… ここは寒い…
+<$00>
+
+
+
+// Pos: 00002E18
+
+#WLB(PTR, $0000060C)
+
+#WHB(PTR, $0000060D)
+
+<$00><$0A><$0B>
+      
+<$0D>
+青い石を手に入れた。
+<$00><$00>
+
+
+
+// Pos: 00002E32
+
+#WLB(PTR, $00002A50)
+
+#WHB(PTR, $00002A51)
+
+<$00>
+
+
+
+// Pos: 00002E33
+
+#WLB(PTR, $000022A6)
+
+#WHB(PTR, $000022A7)
+
+<$00>
+
+
+
+// Pos: 00002E34
+
+#WLB(PTR, $00002A54)
+
+#WHB(PTR, $00002A55)
+
+<$00><$00>
+
+
+
+// Pos: 00002E36
+
+#WLB(PTR, $00002A58)
+
+#WHB(PTR, $00002A59)
+
+マラケシュフラワー
+<$00>
+
+
+
+// Pos: 00002E40
+
+#WLB(PTR, $0000272A)
+
+#WHB(PTR, $0000272B)
+
+#WLB(PTR, $00002742)
+
+#WHB(PTR, $00002743)
+
+#WLB(PTR, $00002A5C)
+
+#WHB(PTR, $00002A5D)
+
+花の命ははかない？
+<$00>
+
+
+
+// Pos: 00002E4C
+
+#WLB(PTR, $00002A60)
+
+#WHB(PTR, $00002A61)
+
+ブーマーズナイト
+<$00><$00>
+
+
+
+// Pos: 00002E56
+
+#WLB(PTR, $00002A64)
+
+#WHB(PTR, $00002A65)
+
+怖い夜って？
+<$00><$00>
+
+
+
+// Pos: 00002E60
+
+#WLB(PTR, $00002786)
+
+#WHB(PTR, $00002787)
+
+#WLB(PTR, $000027A6)
+
+#WHB(PTR, $000027A7)
+
+#WLB(PTR, $00002A68)
+
+#WHB(PTR, $00002A69)
+
+クロウドリーム
+<$00>
+
+
+
+// Pos: 00002E68
+
+#WLB(PTR, $00002446)
+
+#WHB(PTR, $00002447)
+
+#WLB(PTR, $00002A6C)
+
+#WHB(PTR, $00002A6D)
+
+夢の散歩者？
+<$00><$00>
+
+
+
+// Pos: 00002E74
+
+#WLB(PTR, $00002A70)
+
+#WHB(PTR, $00002A71)
+
+ジャニュアリー
+<$00>
+
+
+
+// Pos: 00002E7C
+
+#WLB(PTR, $00002A74)
+
+#WHB(PTR, $00002A75)
+
+始まりの１月
+<$00><$00>
+
+
+
+// Pos: 00002E86
+
+#WLB(PTR, $00002A78)
+
+#WHB(PTR, $00002A79)
+
+フェブラリー
+<$00><$00>
+
+
+
+// Pos: 00002E8E
+
+#WLB(PTR, $00002A7C)
+
+#WHB(PTR, $00002A7D)
+
+凍える２月
+<$00>
+
+
+
+// Pos: 00002E96
+
+#WLB(PTR, $00002A80)
+
+#WHB(PTR, $00002A81)
+
+マーチ
+<$00>
+
+
+
+// Pos: 00002E9A
+
+#WLB(PTR, $00002A84)
+
+#WHB(PTR, $00002A85)
+
+３月、芽吹く春
+<$00><$00>
+
+
+
+// Pos: 00002EA6
+
+#WLB(PTR, $00002A88)
+
+#WHB(PTR, $00002A89)
+
+メイ
+<$00><$00>
+
+
+
+// Pos: 00002EAA
+
+#WLB(PTR, $00002A8C)
+
+#WHB(PTR, $00002A8D)
+
+５月、光のシーズン
+<$00>
+
+
+
+// Pos: 00002EB6
+
+#WLB(PTR, $00002A90)
+
+#WHB(PTR, $00002A91)
+
+ジュン
+<$00>
+
+
+
+// Pos: 00002EBA
+
+#WLB(PTR, $00002A94)
+
+#WHB(PTR, $00002A95)
+
+悲しみの６月
+<$00><$00>
+
+
+
+// Pos: 00002EC4
+
+#WLB(PTR, $00002A98)
+
+#WHB(PTR, $00002A99)
+
+ジュライ
+<$00><$00>
+
+
+
+// Pos: 00002ECA
+
+#WLB(PTR, $00002A9C)
+
+#WHB(PTR, $00002A9D)
+
+風の７月
+<$00><$00>
+
+
+
+// Pos: 00002ED2
+
+#WLB(PTR, $00002AA0)
+
+#WHB(PTR, $00002AA1)
+
+オーガスト
+<$00>
+
+
+
+// Pos: 00002ED8
+
+#WLB(PTR, $00002AA4)
+
+#WHB(PTR, $00002AA5)
+
+寝付けない８月の夜
+<$00>
+
+
+
+// Pos: 00002EE6
+
+#WLB(PTR, $00002AA8)
+
+#WHB(PTR, $00002AA9)
+
+セプテンバー
+<$00><$00>
+
+
+
+// Pos: 00002EEE
+
+#WLB(PTR, $00002AAC)
+
+#WHB(PTR, $00002AAD)
+
+９月、実り
+<$00>
+
+
+
+// Pos: 00002EF6
+
+#WLB(PTR, $00002AB0)
+
+#WHB(PTR, $00002AB1)
+
+ノベンバー
+<$00>
+
+
+
+// Pos: 00002EFC
+
+#WLB(PTR, $00002AB4)
+
+#WHB(PTR, $00002AB5)
+
+冷たい朝、１１月
+<$00>
+
+
+
+// Pos: 00002F08
+
+#WLB(PTR, $00002AB8)
+
+#WHB(PTR, $00002AB9)
+
+ディセンバー
+<$00><$00>
+
+
+
+// Pos: 00002F10
+
+#WLB(PTR, $00002ABC)
+
+#WHB(PTR, $00002ABD)
+
+春のような１２月
+<$00>
+
+
+
+// Pos: 00002F1A
+
+#WLB(PTR, $00002AC0)
+
+#WHB(PTR, $00002AC1)
+
+<$08>
+砂のシンパシー
+<$05><$00><$00>
+
+
+
+// Pos: 00002F26
+
+#WLB(PTR, $00002AC4)
+
+#WHB(PTR, $00002AC5)
+
+ダミアヌスを呼び出す
+<$00><$00>
+
+
+
+// Pos: 00002F34
+
+#WLB(PTR, $00002AC8)
+
+#WHB(PTR, $00002AC9)
+
+<$08>
+銀のカプセル
+<$05><$00>
+
+
+
+// Pos: 00002F3E
+
+#WLB(PTR, $00002ACC)
+
+#WHB(PTR, $00002ACD)
+
+５つの預言をしまう
+<$00><$00>
+
+
+
+// Pos: 00002F4A
+
+#WLB(PTR, $00002AD0)
+
+#WHB(PTR, $00002AD1)
+
+<$08>
+赤い石
+<$05><$00>
+
+
+
+// Pos: 00002F52
+
+#WLB(PTR, $00002AD4)
+
+#WHB(PTR, $00002AD5)
+
+赤い石
+<$00>
+
+
+
+// Pos: 00002F58
+
+#WLB(PTR, $00002AD8)
+
+#WHB(PTR, $00002AD9)
+
+<$08>
+青い石
+<$05><$00>
+
+
+
+// Pos: 00002F60
+
+#WLB(PTR, $00002ADC)
+
+#WHB(PTR, $00002ADD)
+
+青い石
+<$00>
+
+
+
+// Pos: 00002F66
+
+#WLB(PTR, $00002AE0)
+
+#WHB(PTR, $00002AE1)
+
+<$08>
+白い石
+<$05><$00>
+
+
+
+// Pos: 00002F6E
+
+#WLB(PTR, $00002AE4)
+
+#WHB(PTR, $00002AE5)
+
+白い石
+<$00>
+
+
+
+// Pos: 00002F74
+
+#WLB(PTR, $00002AE8)
+
+#WHB(PTR, $00002AE9)
+
+<$08>
+黄色い石
+<$05><$00>
+
+
+
+// Pos: 00002F7E
+
+#WLB(PTR, $00002AEC)
+
+#WHB(PTR, $00002AED)
+
+黄色い石
+<$00>
+
+
+
+// Pos: 00002F86
+
+#WLB(PTR, $00002AF0)
+
+#WHB(PTR, $00002AF1)
+
+<$08>
+綠の石
+<$05><$00>
+
+
+
+// Pos: 00002F8E
+
+#WLB(PTR, $00002AF4)
+
+#WHB(PTR, $00002AF5)
+
+綠の石
+<$00>
+
+
+
+// Pos: 00002F94
+
+#WLB(PTR, $00002AF8)
+
+#WHB(PTR, $00002AF9)
+
+Pカプセル
+<$00>
+
+
+
+// Pos: 00002F9A
+
+#WLB(PTR, $00002AFC)
+
+#WHB(PTR, $00002AFD)
+
+知悪を増やすクスリ
+<$00>
+
+
+
+// Pos: 00002FA6
+
+#WLB(PTR, $000019EA)
+
+#WHB(PTR, $000019EB)
+
+#WLB(PTR, $0000235A)
+
+#WHB(PTR, $0000235B)
+
+#WLB(PTR, $00002B00)
+
+#WHB(PTR, $00002B01)
+
+Aカプセル
+<$00>
+
+
+
+// Pos: 00002FAC
+
+#WLB(PTR, $00002B04)
+
+#WHB(PTR, $00002B05)
+
+力悪を増やすクスリ
+<$00>
+
+
+
+// Pos: 00002FB8
+
+#WLB(PTR, $00002B08)
+
+#WHB(PTR, $00002B09)
+
+Vカプセル
+<$00>
+
+
+
+// Pos: 00002FBE
+
+#WLB(PTR, $000016AA)
+
+#WHB(PTR, $000016AB)
+
+#WLB(PTR, $0000183A)
+
+#WHB(PTR, $0000183B)
+
+#WLB(PTR, $00001A02)
+
+#WHB(PTR, $00001A03)
+
+#WLB(PTR, $00001E52)
+
+#WHB(PTR, $00001E53)
+
+#WLB(PTR, $0000232E)
+
+#WHB(PTR, $0000232F)
+
+#WLB(PTR, $00002B0C)
+
+#WHB(PTR, $00002B0D)
+
+欲悪を増やすクスリ
+<$00>
+
+
+
+// Pos: 00002FCA
+
+#WLB(PTR, $00002B10)
+
+#WHB(PTR, $00002B11)
+
+ペキン
+<$00>
+
+
+
+// Pos: 00002FCE
+
+#WLB(PTR, $00002B14)
+
+#WHB(PTR, $00002B15)
+
+知悪をかなり増やせる
+<$00><$00>
+
+
+
+// Pos: 00002FDC
+
+#WLB(PTR, $00002B18)
+
+#WHB(PTR, $00002B19)
+
+マルセイユ
+<$00>
+
+
+
+// Pos: 00002FE2
+
+#WLB(PTR, $00002B1C)
+
+#WHB(PTR, $00002B1D)
+
+力悪をかなり増やせる
+<$00><$00>
+
+
+
+// Pos: 00002FF0
+
+#WLB(PTR, $00002B20)
+
+#WHB(PTR, $00002B21)
+
+サイゴン
+<$00><$00>
+
+
+
+// Pos: 00002FF6
+
+#WLB(PTR, $00002B24)
+
+#WHB(PTR, $00002B25)
+
+欲悪をかなり増やせる
+<$00><$00>
+
+
+
+// Pos: 00003004
+
+#WLB(PTR, $00002B28)
+
+#WHB(PTR, $00002B29)
+
+フラッシュ
+<$00>
+
+
+
+// Pos: 0000300A
+
+#WLB(PTR, $00002B2C)
+
+#WHB(PTR, $00002B2D)
+
+マインドスコープを中和
+<$00>
+
+
+
+// Pos: 00003018
+
+#WLB(PTR, $00002B30)
+
+#WHB(PTR, $00002B31)
+
+４９
+<$00><$00>
+
+
+
+// Pos: 0000301C
+
+#WLB(PTR, $00002B34)
+
+#WHB(PTR, $00002B35)
+
+惑応中の悪を増やす
+<$00>
+
+
+
+// Pos: 0000302A
+
+#WLB(PTR, $00002B38)
+
+#WHB(PTR, $00002B39)
+
+マジックライト
+<$00>
+
+
+
+// Pos: 00003032
+
+#WLB(PTR, $00002B3C)
+
+#WHB(PTR, $00002B3D)
+
+３悪いずれかを増やす
+<$00>
+
+
+
+// Pos: 0000303E
+
+#WLB(PTR, $00002B40)
+
+#WHB(PTR, $00002B41)
+
+ブルースモーク
+<$00>
+
+
+
+// Pos: 00003046
+
+#WLB(PTR, $00002B44)
+
+#WHB(PTR, $00002B45)
+
+スペーサーのEM回復
+<$00><$00>
+
+
+
+// Pos: 00003054
+
+#WLB(PTR, $00002B48)
+
+#WHB(PTR, $00002B49)
+
+レッドスモーク
+<$00>
+
+
+
+// Pos: 0000305C
+
+#WLB(PTR, $00002B4C)
+
+#WHB(PTR, $00002B4D)
+
+アーネストのEM回復
+<$00><$00>
+
+
+
+// Pos: 0000306A
+
+#WLB(PTR, $00002B50)
+
+#WHB(PTR, $00002B51)
+
+イエロースモーク
+<$00><$00>
+
+
+
+// Pos: 00003074
+
+#WLB(PTR, $00002B54)
+
+#WHB(PTR, $00002B55)
+
+ヨランダのEM回復
+<$00>
+
+
+
+// Pos: 00003080
+
+#WLB(PTR, $00002B58)
+
+#WHB(PTR, $00002B59)
+
+タオゴールド
+<$00><$00>
+
+
+
+// Pos: 00003088
+
+#WLB(PTR, $00002B5C)
+
+#WHB(PTR, $00002B5D)
+
+全てのEMを回復する
+<$00><$00><$00>
+
+
+
+// Pos: 00003098
+
+#WLB(PTR, $00000584)
+
+#WHB(PTR, $00000585)
+
+<$10>
+//アイテムがいっぱいです。\nどれか、捨てるアイテムを選んでください。
+\n
+The item bag is full!\n
+Select an item to
+<$0C>
+trash.
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 000030C0
+
+#WLB(PTR, $000005A8)
+
+#WHB(PTR, $000005A9)
+
+<$10>
+//それは、捨てられません。\nもう一度、アイテムを選んでください。
+Cannot be trashed!\n
+Select a different\n
+item to trash.
+<$0E><$1E><$17><$00>
+
+
+
+

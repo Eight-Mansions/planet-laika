@@ -1,0 +1,25 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000CDD)
+
+// Pos: 00000CDD
+#WLB(PTR, $00000458)
+#WHB(PTR, $00000459)
+<$12><$0B>
+//ノーブルロック：
+<$0D>
+//\nタンキー人形はどこだ…
+<$00>
+
+// Pos: 00000CF6
+#WLB(PTR, $0000046C)
+#WHB(PTR, $0000046D)
+<$12><$0B>
+//ノーブルロック：
+<$0D>
+//\nドールダンスでタマシイを戻さねば…\n正しいドールダンスで…
+<$00>
+

@@ -1,0 +1,143 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000EA8)
+
+// Pos: 00000EA8
+
+#WLB(PTR, $0000050C)
+
+#WHB(PTR, $0000050D)
+
+<$12><$13>
+// ヨウコソ プリズン４ヘ。\nミスター、
+WELCOME TO PRISON 4,\n
+COMRADE "
+<$0F>
+//！
+"!
+<$00>
+
+
+
+
+// Pos: 00000EC0
+
+#WLB(PTR, $0000057C)
+
+#WHB(PTR, $0000057D)
+
+#WLB(PTR, $00000608)
+
+#WHB(PTR, $00000609)
+
+#WLB(PTR, $00000694)
+
+#WHB(PTR, $00000695)
+
+#WLB(PTR, $00000C38)
+
+#WHB(PTR, $00000C39)
+
+<$12><$13>
+// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+NOT REGISTERED FOR\n
+ENTRY. FOR DETAILS,\n
+SPEAK TO AN
+<$0C>
+ADMINISTRATOR.
+<$00>
+
+
+
+
+// Pos: 00000EEC
+
+#WLB(PTR, $000005B0)
+
+#WHB(PTR, $000005B1)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nちくしょう！\nなにが登録だ、くそったれ！
+The Hell? What am I\n
+supposed to register\n
+for?!
+<$00>
+
+
+
+
+// Pos: 00000F0F
+
+#WLB(PTR, $0000063C)
+
+#WHB(PTR, $0000063D)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何よこれ？\n失礼しちゃうわね！
+\n
+What do you mean?\n
+Hello?\n
+Can I talk to your\n
+manager?
+<$00>
+
+
+
+
+// Pos: 00000F2C
+
+#WLB(PTR, $000006C4)
+
+#WHB(PTR, $000006C5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nやはりな…\n私ではだめなのだ。
+\n
+Hmm, this thing\n
+doesn't want to let
+<$0C>
+me in. Fun, fun, fun.
+<$00>
+
+
+
+
+// Pos: 00000F48
+
+#WLB(PTR, $00000568)
+
+#WHB(PTR, $00000569)
+
+#WLB(PTR, $000005F4)
+
+#WHB(PTR, $000005F5)
+
+#WLB(PTR, $00000680)
+
+#WHB(PTR, $00000681)
+
+#WLB(PTR, $00000C18)
+
+#WHB(PTR, $00000C19)
+
+<$12><$13>
+// ヤハリ アナタハ\nトウロクサレテイマセン。
+USER NOT REGISTERED\n
+FOR ENTRY.
+<$00>
+
+
+
+

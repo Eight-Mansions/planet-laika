@@ -1,0 +1,489 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002049)
+
+// Pos: 00002049
+
+#WLB(PTR, $000009D0)
+
+#WHB(PTR, $000009D1)
+
+<$00><$20><$20>
+ ママはそんなことじゃ死なないよ。
+<$00>
+
+
+
+// Pos: 0000205F
+
+#WLB(PTR, $00000A8C)
+
+#WHB(PTR, $00000A8D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーン！
+\n
+Noon!
+<$00>
+
+
+
+
+// Pos: 0000206E
+
+#WLB(PTR, $00000AD0)
+
+#WHB(PTR, $00000AD1)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nエイプリルじゃないか！
+\n
+Is that you, April?!
+<$00>
+
+
+
+
+// Pos: 00002082
+
+#WLB(PTR, $00000AF4)
+
+#WHB(PTR, $00000AF5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうしたの、ヌーン！ 何があったの？
+\n
+What are you doing\n
+here?!
+<$00>
+
+
+
+
+// Pos: 0000209F
+
+#WLB(PTR, $00000B50)
+
+#WHB(PTR, $00000B51)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nそれにライカ君も…\nこれでおニ方、おそろいと言うわけだ。
+\n
+I could ask you and\n
+Laika the same. Guess
+<$0C>
+you two stuck\n
+together.
+<$00>
+
+
+
+
+// Pos: 000020C6
+
+#WLB(PTR, $00000B74)
+
+#WHB(PTR, $00000B75)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nちょっと、機関士のあんた、\nなに気取ってんのよ！
+\n
+Pardon me, Mr.\n
+"Engineer".
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそれに、アタシのこと人建いしないで。\nアタシはヨランダよ。
+\n
+Don't mistake me for\n
+Laika when I'm
+<$0C>
+clearly not them! I'm\n
+Yolanda!
+<$00>
+
+
+
+
+// Pos: 00002115
+
+#WLB(PTR, $00000B98)
+
+#WHB(PTR, $00000B99)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nほう！\nそう呼んで欲しければそれで構わない。
+\n
+Fine, I'll call you\n
+whatever you want.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nこんな夜ふけに、私の屋敷に何の用かな、\nヨランダとやら。
+\n
+So, tell me,\n
+Yo-lan-da! What are
+<$0C>
+you two doing in MY\n
+house at this hour?
+<$00>
+
+
+
+
+// Pos: 0000215F
+
+#WLB(PTR, $00000BBC)
+
+#WHB(PTR, $00000BBD)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーン… ここは屋敷なんかじゃない、\nそれにあなたは町長じゃない、
+\n
+Noon... This isn't\n
+your house, and your
+<$0C>
+not this town's\n
+elder.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私たちと一緒に来て。任務よ。
+\n
+You need to come back\n
+with us. We have a
+<$0C>
+mission to do.
+<$00>
+
+
+
+
+// Pos: 000021AC
+
+#WLB(PTR, $00000BE0)
+
+#WHB(PTR, $00000BE1)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n任務！\nほほー、これはおどろきだ。
+\n
+The mission?! Hah!\n
+Have fun with that.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n生憎だが今は書き物の最中でね、自伝だよ、\n歴史が私の名を求めているのだよ。
+\n
+I'm in the middle of\n
+penning my
+<$0C>
+autobiography. My\n
+name'll go down in\n
+history.
+<$00>
+
+
+
+
+// Pos: 00002202
+
+#WLB(PTR, $00000C04)
+
+#WHB(PTR, $00000C05)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何言ってんの、この人？
+\n
+What are you talking\n
+about?!
+<$00>
+
+
+
+
+// Pos: 00002219
+
+#WLB(PTR, $00000C54)
+
+#WHB(PTR, $00000C55)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーン、お家に帰りたくないの？\n任務が終われば、それだけ早く帰れるのよ。
+\n
+Noon, you wanted this\n
+mission over with.
+<$0C>
+Why don't you want to\n
+come home?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nママの思い出に、会えるのよ。
+\n
+You'll have more time\n
+to reminisce in
+<$0C>
+memories of your\n
+mother back on Earth.
+<$00>
+
+
+
+
+// Pos: 0000226A
+
+#WLB(PTR, $00000C78)
+
+#WHB(PTR, $00000C79)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nううう、ママ！ ママと一緒なんだよう！\nママ、もう僕のことせめたりしないで！
+\n
+Aww, Mummy! But\n
+Mummy's right here!
+<$0C>
+Mummy doesn't blame\n
+me anymore!
+<$00>
+
+
+
+
+// Pos: 0000229C
+
+#WLB(PTR, $00000C9C)
+
+#WHB(PTR, $00000C9D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあなたが言うこと開かないと、\nママ怒っちゃうわよ！
+\n
+Didn't you hear what\n
+I said? You'll make
+<$0C>
+Mommy angryyy!
+<$00>
+
+
+
+
+// Pos: 000022C3
+
+#WLB(PTR, $00000CC0)
+
+#WHB(PTR, $00000CC1)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nうるさい！ お前はママじゃない！
+\n
+Shut up! You're NOT\n
+Mummy!
+<$00>
+
+
+
+
+// Pos: 000022DC
+
+#WLB(PTR, $00000CE4)
+
+#WHB(PTR, $00000CE5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここはあなたのお家じゃないのよ、ヌーン。
+\n
+And this place isn't\n
+your home, Noon.
+<$00>
+
+
+
+
+// Pos: 000022FC
+
+#WLB(PTR, $00000D08)
+
+#WHB(PTR, $00000D09)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nううう、もらったんだ、\nガリルさんにもらったんだ、
+\n
+Ouwww, but it IS\n
+mine! Garyl gave it
+<$0C>
+to me!
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nここでママと一緒になれる…
+\n
+He gave it to me so I\n
+could live together
+<$0C>
+with Mummy...
+<$00>
+
+
+
+
+// Pos: 00002335
+
+#WLB(PTR, $00000D38)
+
+#WHB(PTR, $00000D39)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nガリル！\nアタシたちがさがしている人ね！
+\n
+Garyl?! That's the\n
+former colonel we
+<$0C>
+were looking for!
+<$00>
+
+
+
+
+// Pos: 00002355
+
+#WLB(PTR, $00000D70)
+
+#WHB(PTR, $00000D71)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nガリルに会ったの？\nヌーン、目を覚まして！
+\n
+You met Garyl?! Noon,\n
+listen to what you're
+<$0C>
+saying!
+<$00>
+
+
+
+
+// Pos: 00002378
+
+#WLB(PTR, $00000D94)
+
+#WHB(PTR, $00000D95)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nママが呼んでる！
+\n
+Mummy's calling me!
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n行かなきゃ、ママ！\n僕、悪くないよ、しからないで！
+\n
+I'm coming, Mummy!\n
+D-don't worry! I'm
+<$0C>
+not being bad!
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nすっかりいかれちゃった、そんな惑じね。
+<$00><$10><$0B>
+//エイプリル：
+<$0D>
+//\nガリルがいるのよ、すぐ近くに。
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nよく思い出せないんだけど…\nロケットの中で話してたわね、ガリルのこと。
+<$0C><$0B>
+//ヨランダ：
+<$0D>
+//\n話の雰囲気からして、神様になろうとしている…\nそんな惑じじゃなかった？
+<$00><$10><$0B>
+//エイプリル：
+<$0D>
+//\n火星で多くの人が幻覚に悩まされたりするように\nなったのは、ガリルが姿を消してからなの。
+<$0C><$0B>
+//エイプリル：
+<$0D>
+//\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
+<$0C><$0B>
+//エイプリル：
+<$0D>
+//\nこの星とガリルがつながっている…\n光の私…船長はそんな言葉を口にしていたね。
+<$00><$11><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\n船長たちねぇ…そう言えばクロエちゃんの\nいい人ってタトラー船長のことでしょ。\nどこにいるの？ さがしてみない？
+<$00><$10><$0B>
+//エイプリル：
+<$0D>
+//\n船長をさがすんでしょ。\n町の方に戻ってみない？
+<$00>
+
+
+
+

@@ -1,0 +1,1 @@
+TableCreator.exe -b laika_kanji_wip.txt laika.tbl 20

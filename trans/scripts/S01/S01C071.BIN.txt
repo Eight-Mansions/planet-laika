@@ -1,0 +1,145 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001B7C)
+
+// Pos: 00001B7C
+
+#WLB(PTR, $000006B0)
+
+#WHB(PTR, $000006B1)
+
+//歪子タトラー船長：
+歪子Cap. Tatler：
+<$0D>
+//\nあああ…君は…あああ…まさか！\n生きていたのか…いや、そんなはずはないぞ！
+\n
+A-Are you...? No!\n
+There's no way! How
+<$0C>
+are you alive?!
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00001BB5
+
+#WLB(PTR, $000007FC)
+
+#WHB(PTR, $000007FD)
+
+//歪子エイプリル：
+歪子April：
+<$0D>
+//\nここは…私の…どうして？\nもうなくなったはずなのに…
+\n
+This is my...but why?\n
+I thought it was all
+<$0C>
+gone!
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00001BDF
+
+#WLB(PTR, $00000554)
+
+#WHB(PTR, $00000555)
+
+//歪子ヌーン：
+歪子Noon：
+<$0D>
+//\nママ…ママなの、僕が悪かったの…\nあああ、建う！ ママじゃない、うそだ！
+\n
+Mummy? Mummy, was I\n
+bad again?\n
+Wait, no! You're not\n
+Mummy! You can't be!
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00001C13
+
+#WLB(PTR, $000009A0)
+
+#WHB(PTR, $000009A1)
+
+<$10><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\nみんな、惑わされるんじゃない！\n何かの…その…幻覚だ。
+\n
+Don't be fooled,\n
+everyone!\n
+These\n
+are...hallucinations!
+<$0E><$3C><$17><$00>
+
+
+
+
+// Pos: 00001C44
+
+#WLB(PTR, $000009BC)
+
+#WHB(PTR, $000009BD)
+
+<$10><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\n見えたんだ！ 確かに。\nあれは俺の、俺の…
+\n
+But I saw her! I know\n
+I did!\n
+That was... That was\n
+my...!
+<$0E><$3C><$17><$00>
+
+
+
+
+// Pos: 00001C68
+
+#WLB(PTR, $000009D8)
+
+#WHB(PTR, $000009D9)
+
+<$10><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\nヌーン、よさないか！ これは幻覚だ、\nこの星の邪悪な力が作用しているんだ。
+\n
+Get a grip, Noon!\n
+It's fake!\n
+This is the planet's\n
+wicked power at work!
+<$0E><$3C><$17><$00>
+
+
+
+
+// Pos: 00001CA7
+
+#WLB(PTR, $00000B14)
+
+#WHB(PTR, $00000B15)
+
+//葉顔\n\n      怪物は心の中にいる。
+The monster\n
+\n
+is in the mind.
+<$0E><$FF><$17><$00>
+
+
+
+

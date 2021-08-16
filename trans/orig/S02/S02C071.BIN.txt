@@ -1,0 +1,19 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000D61)
+
+// Pos: 00000D61
+#WLB(PTR, $00000878)
+#WHB(PTR, $00000879)
+//案ウが弱いとダメさ。 あんたは…
+<$0C>
+//うーん、読めないな。\n強いのか、弱いのか、わからないよ。
+<$0C>
+//さっきの人は読めたよ、ひどくおびえてるよ。\n弱いんだね、きっと。
+<$1E>
+//炎
+<$00>
+

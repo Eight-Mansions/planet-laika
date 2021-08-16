@@ -1,0 +1,28 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000012AC)
+
+// Pos: 000012AC
+#WLB(PTR, $000004BC)
+#WHB(PTR, $000004BD)
+<$12>
+//うわー！\nシー！
+<$00>
+
+// Pos: 000012B6
+#WLB(PTR, $000004D8)
+#WHB(PTR, $000004D9)
+<$12>
+//家が燃えて、落ちた、\n穴だ、シー！
+<$00>
+
+// Pos: 000012CD
+#WLB(PTR, $00000540)
+#WHB(PTR, $00000541)
+<$12>
+//おーい、下だ。 シー！\n落ちた、シー！\n無線テレビでアラート解除してくれ、シー！
+<$00>
+

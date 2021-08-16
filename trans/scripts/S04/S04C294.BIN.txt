@@ -1,0 +1,243 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000020A2)
+
+// Pos: 000020A2
+
+#WLB(PTR, $00000ABC)
+
+#WHB(PTR, $00000ABD)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、あなたね、酸索屋に出入りしてるのは。
+\n
+Ah, it's you-the one\n
+poking your nose
+<$0C>
+around the oxygen\n
+dispensary.
+<$00>
+
+
+
+
+// Pos: 000020C5
+
+#WLB(PTR, $00000C08)
+
+#WHB(PTR, $00000C09)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nねえ、私のお店をご案内するわ。\nあっ、私はフェイ、リャンハウスのフェイよ。
+\n
+Say, why don't I show\n
+you to my store? I'm
+<$0C>
+Hui, owner of House\n
+Liang.
+<$00>
+
+
+
+
+// Pos: 000020F6
+
+#WLB(PTR, $00000C38)
+
+#WHB(PTR, $00000C39)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nリャンハウスは本当は\n整形屋なんかじゃないのよ。
+\n
+At House Liang, I do\n
+more than just
+<$0C>
+cosmetic surgery.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n心の奥にしまい込んだ、小さな声に\n耳をかたむけるの。それが仕事なのよ。
+\n
+It's my job to listen\n
+to that little voice
+<$0C>
+hidden deep in your\n
+mind.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n心のささやき…誰でもみんな同じよ。\nきれいになりたい、女らしく、男らしく、
+\n
+Everyone has that\n
+whisper of the heart!
+<$0C>
+Whether it be\n
+feminine or\n
+masculine...
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nもっときれいになりたい。みんな同じなのよ。\n整形は心をきれいにする手段なのよ。分かる？
+\n
+...everyone desires\n
+beauty. Why not let
+<$0C>
+cosmetic surgery\n
+cleanse your mind?
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 000021BD
+
+#WLB(PTR, $00000FB8)
+
+#WHB(PTR, $00000FB9)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nヴェロニカ…\nフェイの別人格の名前なの。
+\n
+Veronica...is the\n
+name of Hui's other
+<$0C>
+personality.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nヴェロニカは苦しみの世界に通じている…\n彼女の言うことには一貫性がないけど、
+\n
+Veronica is\n
+well-versed in the
+<$0C>
+world of suffering,\n
+but what she sais is\n
+inconsistent.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nフェイよりも深くこの世界に参加しているの。\nこの星で起きていること、彼女が詳しいのよ。
+\n
+She sees her self in\n
+this world more than
+<$0C>
+Hui does, and knows\n
+what is happening on\n
+Mars.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそれにフェイと建ってウソはないわ。
+\n
+And, unlike Hui,\n
+Veronica does not
+<$0C>
+lie.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 0000227E
+
+#WLB(PTR, $000010E4)
+
+#WHB(PTR, $000010E5)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあーら、どこ行くの？
+\n
+Going somewhere?
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nねぇ、ドールダンスって知ってる？\nメディスンマンのまじないよ。
+\n
+Say, have you heard\n
+of the "doll dance"?
+<$0C>
+It's a chant the\n
+medicine men do.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n変な人形使って、人のタマシイを\n出したり入れたりするのよ。 怖いのよ。
+\n
+They do it to put\n
+human spirits into
+<$0C>
+strange dolls. Scary\n
+stuff!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nまたロッジで始まったみたいよ、\nあの人たち、こりないのよ。
+\n
+It sounds like they\n
+started a new one out
+<$0C>
+at the lodge. They're\n
+relentless!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 0000231C
+
+#WLB(PTR, $00001108)
+
+#WHB(PTR, $00001109)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nこりないの、ほんとよ、\nインディアンのあの人たちよ。
+\n
+Those [Indian] men\n
+are truly relentless!
+<$1E>
+//行
+行
+<$00>
+
+
+
+

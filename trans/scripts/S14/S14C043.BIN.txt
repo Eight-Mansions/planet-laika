@@ -1,0 +1,28 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000C8F)
+
+// Pos: 00000C8F
+
+#WLB(PTR, $00000164)
+
+#WHB(PTR, $00000165)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nどうなのじゃ、お前は預言を理解できるのか。\n無理は言わんぞ、誰か別な者を使うことじゃ。
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n預言が理解できるサイコ系をさがすのじゃ。\nそれが手っ取り早いぞ。安全だぞ。
+<$00>
+
+
+
+

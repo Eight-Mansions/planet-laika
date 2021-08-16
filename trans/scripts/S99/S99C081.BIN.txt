@@ -1,0 +1,389 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000E59)
+
+// Pos: 00000E59
+
+#WLB(PTR, $0000034C)
+
+#WHB(PTR, $0000034D)
+
+//興うか、この１月のできごとが先にあったんだ。\nそれからさっきの３月になって、\n１１月でケリがついたんだ。
+All begins in\n
+January, of course.\n
+Then comes March.
+<$0C>
+Then, comes the end\n
+in November.
+<$0C>
+//なんでこの１月が後回しになったのかなぁ？\nねぇ、あんたが思い出したくなかったの？
+Which begs the\n
+question, why did\n
+January come later?
+<$0C>
+Are we forgetting\n
+something?
+<$00>
+
+
+
+
+// Pos: 00000EC1
+
+#WLB(PTR, $0000016C)
+
+#WHB(PTR, $0000016D)
+
+<$12>
+//\n
+\n
+<$0B>
+//   
+
+<$0D>
+//フェブラリーを手に入れた。
+"FEBRUARY" acquired.
+<$00>
+
+
+
+
+// Pos: 00000ED8
+
+#WLB(PTR, $000002AC)
+
+#WHB(PTR, $000002AD)
+
+<$12>
+//\n
+\n
+<$0B>
+//    
+
+<$0D>
+//マーチを手に入れた。
+"MARCH" acquired.
+<$00>
+
+
+
+
+// Pos: 00000EED
+
+#WLB(PTR, $0000038C)
+
+#WHB(PTR, $0000038D)
+
+<$12>
+//\n
+\n
+<$0B>
+//     
+
+<$0D>
+//メイを手に入れた。
+"MAY" acquired.
+<$00>
+
+
+
+
+// Pos: 00000F02
+
+#WLB(PTR, $0000020C)
+
+#WHB(PTR, $0000020D)
+
+<$12>
+//\n
+\n
+<$0B>
+//    
+
+<$0D>
+//ジュンを手に入れた。
+"JUNE" acquired.
+<$00>
+
+
+
+
+// Pos: 00000F17
+
+#WLB(PTR, $000003E0)
+
+#WHB(PTR, $000003E1)
+
+<$12>
+//\n
+\n
+<$0B>
+//    
+
+<$0D>
+//ジュライを手に入れた。
+"JULY" acquired.
+<$00>
+
+
+
+
+// Pos: 00000F2D
+
+#WLB(PTR, $000001BC)
+
+#WHB(PTR, $000001BD)
+
+<$12>
+//\n
+\n
+<$0B>
+//   
+
+<$0D>
+//オーガストを手に入れた。
+"AUGUST" acquired.
+<$00>
+
+
+
+
+// Pos: 00000F43
+
+#WLB(PTR, $0000025C)
+
+#WHB(PTR, $0000025D)
+
+<$12>
+//\n
+\n
+<$0B>
+//   
+
+<$0D>
+//セプテンバーを手に入れた。
+"SEPTEMBER" acquired.
+<$00>
+
+
+
+
+// Pos: 00000F5A
+
+#WLB(PTR, $000002FC)
+
+#WHB(PTR, $000002FD)
+
+<$12>
+//\n
+\n
+<$0B>
+//   
+
+<$0D>
+//ノベンバーを手に入れた。
+"NOVEMBER" acquired.
+<$00>
+
+
+
+
+// Pos: 00000F70
+
+#WLB(PTR, $0000011C)
+
+#WHB(PTR, $0000011D)
+
+<$12>
+\n
+<$0B>
+   
+<$0D>
+ディセンバーを手に入れた。
+<$00><$02><$FC>
+からないな、\nあんたがどんな夢を見てるのか。
+<$00>
+
+
+
+// Pos: 00000FA1
+
+#WLB(PTR, $0000012C)
+
+#WHB(PTR, $0000012D)
+
+//広客さんだね、そこにいるの。\nわかるんだ、\nここは僕の夢とつながってるからね。
+I know you're there,\n
+my dear guest.\n
+For this place is
+<$0C>
+where our dreams\n
+connect.
+<$0C>
+//それで何を見つけたの？
+So, what have you\n
+found?
+<$0C>
+//１２月って…\nそうか、いろんなことが始まったときだね。
+The twelfth month...\n
+I see. A month when\n
+many gears began to
+<$0C>
+turn.
+<$0C>
+//何があったの？\nアガタに読んでもらうといいよ。
+What happened, I\n
+wonder?\n
+Let Agatha have a
+<$0C>
+read.
+<$00>
+
+
+
+
+// Pos: 00001010
+
+#WLB(PTR, $0000017C)
+
+#WHB(PTR, $0000017D)
+
+//振月は寒い、遊ぶには向いてないね。\nもっとも、あんたにしちゃ、\n遊ぶどころじゃなかったみたいだけど。
+振The second month is\n
+too cold for play.\n
+Of course, your home
+<$0C>
+was always\n
+too "cold" for\n
+playtime.
+<$00>
+
+
+
+
+// Pos: 00001049
+
+#WLB(PTR, $000001CC)
+
+#WHB(PTR, $000001CD)
+
+//立う８月かぁ… 寝付けない夜だね。\nなんだか騒ぎが起きてるみたいだけど、\nだいじょうぶなの？
+August's long nights\n
+welcome sleep, but\n
+a commotion keeps you
+<$0C>
+up one night.\n
+Is everything all\n
+right?
+<$00>
+
+
+
+
+// Pos: 0000107F
+
+#WLB(PTR, $0000021C)
+
+#WHB(PTR, $0000021D)
+
+//捨れから１年近くたったね。\nやけに静かな夜… ６月だよ。
+Almost a year has\n
+passed.\n
+It's a very quiet
+<$0C>
+night in June.
+<$0C>
+//でもこれからのことを考えると、\n嵐の前の静けさだね、きっと。
+However, knowing\n
+what's to come,\n
+this is the calm
+<$0C>
+before the storm.
+<$00>
+
+
+
+
+// Pos: 000010C4
+
+#WLB(PTR, $0000026C)
+
+#WHB(PTR, $0000026D)
+
+//場９いよ… なんだかとても。\n９月、何かが計画されているみたいだよ。\nあんた、平気なの？
+The ninth month.\n
+Nine. Something was\n
+to be delivered after
+<$0C>
+nine months. Was it\n
+peace?
+<$00>
+
+
+
+
+// Pos: 000010F6
+
+#WLB(PTR, $000002BC)
+
+#WHB(PTR, $000002BD)
+
+//状月！ あああ、イヤな惑じだよ。\nフキツな惑じだよ。
+What an ominous mess\n
+of a month this is!
+<$00>
+
+
+
+
+// Pos: 00001115
+
+#WLB(PTR, $0000030C)
+
+#WHB(PTR, $0000030D)
+
+捨れ？ １１月だ…\nそうか、これが最後なんだ。\nいろんなことが終りかけているよ。
+<$0C>
+でも、あんたがここで見つけなきゃ\nいけないもの、まだ残ってるんだけどなぁ…
+<$00><$02><$31>
+月！ じゅんばんが逆になってたんだね…\nうん！ すごくイヤな惑じだよ。
+<$00>
+
+
+
+// Pos: 00001193
+
+#WLB(PTR, $0000039C)
+
+#WHB(PTR, $0000039D)
+
+//詳月か… たくらみのにおいがするよ、\nほんとだよ。
+This is a busy month.\n
+A good month for\n
+planning ahead.
+<$00>
+
+
+
+
+// Pos: 000011AF
+
+#WLB(PTR, $000003F0)
+
+#WHB(PTR, $000003F1)
+
+//諸月！ 静かだよ、とっても。\nそれでいてやっぱりイヤな惑じだ。\nねぇ、これが最後だよ、もうないよ。
+This is a quiet\n
+month. Still\n
+unpleasant, but...
+<$0C>
+Oh! There's nothing\n
+after this.
+<$00>
+
+
+
+

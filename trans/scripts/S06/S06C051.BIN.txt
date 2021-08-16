@@ -1,0 +1,67 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000D5B)
+
+// Pos: 00000D5B
+
+#WLB(PTR, $00000188)
+
+#WHB(PTR, $00000189)
+
+<$12><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何もないじゃない！
+\n
+There's nothing here.
+<$00>
+
+
+
+
+// Pos: 00000D6E
+
+#WLB(PTR, $000001A8)
+
+#WHB(PTR, $000001A9)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここの人たちにたずねてみない？
+\n
+Maybe we should ask\n
+more people in the
+<$0C>
+area.
+<$00>
+
+
+
+
+// Pos: 00000D88
+
+#WLB(PTR, $000001BC)
+
+#WHB(PTR, $000001BD)
+
+<$12><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそうね。乗り気しないけど…
+\n
+We might have to, not\n
+that I'm enthusiastic
+<$0C>
+about it...
+<$00>
+
+
+
+

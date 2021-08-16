@@ -1,0 +1,230 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001D85)
+
+// Pos: 00001D85
+
+#WLB(PTR, $000002BC)
+
+#WHB(PTR, $000002BD)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nアガタ！\nあのふたりを帰したの？
+\n
+Agatha! Did you make\n
+those two go away?
+<$00>
+
+
+
+
+// Pos: 00001DA1
+
+#WLB(PTR, $000002D0)
+
+#WHB(PTR, $000002D1)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそうよ。\nさあ、行って。早く！
+\n
+Yes, for a moment.\n
+Now, you must go!
+<$00>
+
+
+
+
+// Pos: 00001DBF
+
+#WLB(PTR, $000002E4)
+
+#WHB(PTR, $000002E5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n教えて欲しいの。この星には何があるの？\n黒い騎士とか蕃判とか…
+\n
+Can I ask you\n
+something? How are
+<$0C>
+the Black Rider and\n
+Judgment affecting\n
+Mars?
+<$00>
+
+
+
+
+// Pos: 00001DF1
+
+#WLB(PTR, $000002F8)
+
+#WHB(PTR, $000002F9)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nエイプリル、今は時間がないのよ。\nあなたの仲間が捕らえられてしまうわ。
+\n
+April, we must save\n
+that for later or
+<$0C>
+your companions will\n
+be taken.
+<$00>
+
+
+
+
+// Pos: 00001E27
+
+#WLB(PTR, $0000030C)
+
+#WHB(PTR, $0000030D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n誰？\nそんなことする人って？
+\n
+What?! Taken by who?!\n
+Who would do such a
+<$0C>
+thing?
+<$00>
+
+
+
+
+// Pos: 00001E41
+
+#WLB(PTR, $00000320)
+
+#WHB(PTR, $00000321)
+
+<$11><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n人？いいえ、人なんかじゃない。\nさあ、早く、仲間を助けなきゃ。\n地球に戻れなくなるわ。
+\n
+There is no "who",\n
+April. Save your
+<$0C>
+companions and return\n
+to Earth.
+<$00>
+
+
+
+
+// Pos: 00001E80
+
+#WLB(PTR, $00000334)
+
+#WHB(PTR, $00000335)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nわかった。\nありがとう、アガタ。
+\n
+I understand. Thank\n
+you for this, Agatha.
+<$00>
+
+
+
+
+// Pos: 00001E9B
+
+#WLB(PTR, $00000348)
+
+#WHB(PTR, $00000349)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところよ。
+\n
+Take Brick Road down\n
+to Memory Valley, and
+<$0C>
+look for the black\n
+wall.
+<$00>
+
+
+
+
+// Pos: 00001ECB
+
+#WLB(PTR, $0000035C)
+
+#WHB(PTR, $0000035D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nなんで…\nなんで私たちが記憶の谷に行くって…
+\n
+Memory Valley... What\n
+a strange place for
+<$0C>
+us to have to go...
+<$00>
+
+
+
+
+// Pos: 00001EF0
+
+#WLB(PTR, $00000370)
+
+#WHB(PTR, $00000371)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nこの星に来て、迷いこむとしたら\nあそこしかないの。
+\n
+When one is lost on\n
+the world, that is
+<$0C>
+the only place for\n
+them to go.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nさ、行って。\n気を付けてね。
+\n
+There is no time, so\n
+please. Be careful
+<$0C>
+for me.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+

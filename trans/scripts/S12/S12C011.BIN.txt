@@ -1,0 +1,199 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001029)
+
+// Pos: 00001029
+
+#WLB(PTR, $00000198)
+
+#WHB(PTR, $00000199)
+
+<$11><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nえらいことになった、フェイだ、\nあいつがよう、メディスンマンのドームから\n気味悪い人形を盗もうとしたんだ。
+\n
+Hui's done it now.\n
+She tried stealing a
+<$0C>
+creepy doll from the\n
+medicine mens' dome.
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nそしたら人形から変な光が出てよう、\nカベに埋まってるやつを照らし出した…
+\n
+Then, a light shot\n
+out from the doll,
+<$0C>
+and the guy in the\n
+wall there started\n
+glowing.
+<$00>
+
+
+
+
+// Pos: 0000109D
+
+#WLB(PTR, $000001F8)
+
+#WHB(PTR, $000001F9)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nあー、いやだ！そこへ溶けた氷みたいなやつが\nやってきたんだ！
+\n
+Oh maaaaan! That\n
+melted ice guy that
+<$0C>
+started all of this!
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\n氷の野郎は、カベに埋まったやつと\n合体しやがった！ あー、いやだ！
+\n
+The ice mongrel\n
+became one with the
+<$0C>
+guy buried in the\n
+wall. This can't be\n
+good!
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\n地獄の底から響くような声が開こえてきて…
+\n
+That's when I heard a\n
+voice echoing from
+<$0C>
+the depths of Hell...
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nエレミヤ、死の動機、エレミヤって\nくり返すんだ。
+\n
+"Jeremiah...reason\n
+for
+<$0C>
+dying...Jeremiah,"\n
+over and over again!
+<$00>
+
+
+
+
+// Pos: 0000113B
+
+#WLB(PTR, $00000220)
+
+#WHB(PTR, $00000221)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\n俺の頭の中にも声が響きはじめてよう、\nエレミヤ、エレミヤ、エレミヤ…
+\n
+I started hearing the\n
+voice in my head.
+<$0C>
+"Jeremiah, Jeremiah,\n
+Jeremiah."
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nあはー、頭が変になりそうだ、数を忘れそうだ！\n俺は光る石をにぎりしめたさ！
+\n
+God, I'd losing count\n
+of it! I was going
+<$0C>
+crazy! I'd kept\n
+squeezing the glowing\n
+stone.
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\n力のもとだ、英知のもとだ！
+\n
+It's the source of\n
+power! The source of
+<$0C>
+wisdom!
+<$00>
+
+
+
+
+// Pos: 000011B5
+
+#WLB(PTR, $00000280)
+
+#WHB(PTR, $00000281)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nだんだん光が強くなって…\nな、やばい惑じがするだろ？ 走って走って…
+\n
+The light got\n
+stronger. I'd sensed
+<$0C>
+something bad, right?\n
+So I ran, and I ran.
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nあの目玉の家まできたときに急に\n気を失ったんだ。
+\n
+And just when I made\n
+it to the eyeball
+<$0C>
+house, I fainted.
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 0000120D
+
+#WLB(PTR, $00000310)
+
+#WHB(PTR, $00000311)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nでもな、怖くない。\n光る石が守ってくれるからな。
+\n
+But I'm not scared,\n
+because the glowing
+<$0C>
+stone will protect\n
+me.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+

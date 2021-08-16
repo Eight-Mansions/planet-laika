@@ -1,0 +1,319 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000135D)
+
+// Pos: 0000135D
+
+#WLB(PTR, $000003CC)
+
+#WHB(PTR, $000003CD)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nハウスのやつらが…\nああなるのは分かってたんだ。
+\n
+THE MEN AT PSYCHO\n
+HOUSE...HAVE PARTED
+<$0C>
+WAYS, I SEE.
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n見えねぇ目玉やら日記やら、\nおかしな話だらけだ。
+\n
+WHAT I CANNOT SEE ARE\n
+THE EYEBALLS AND
+<$0C>
+ETCHED NOTES AND\n
+OTHER ODDITIES\n
+RIDDLED INSIDE...
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 000013A8
+
+#WLB(PTR, $000003C0)
+
+#WHB(PTR, $000003C1)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n俺には見えねぇ、\n見えねぇもんは見えねぇんだ。
+<$1E>
+//家
+<$00><$10><$0B>
+//ブーマー：
+<$0D>
+//\nレッドのやつ、もうじき戻ってくるぜ…\n気を付けな…
+<$00>
+
+
+
+
+// Pos: 000013F1
+
+#WLB(PTR, $000003F4)
+
+#WHB(PTR, $000003F5)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nまだ収まらねぇ… どうなっちまうんだ？
+<$1E>
+//声
+<$00>
+
+
+
+
+// Pos: 00001412
+
+#WLB(PTR, $00000434)
+
+#WHB(PTR, $00000435)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nレッドのやつだ、\nさがしてたぜ、あんたのこと。
+\n
+Red's out there\n
+looking for you.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00001436
+
+#WLB(PTR, $00000404)
+
+#WHB(PTR, $00000405)
+
+#WLB(PTR, $00000414)
+
+#WHB(PTR, $00000415)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nあああ、ここにいても何か変な惑じがするぜ。\nパチパチ、パチパチ。
+\n
+Ohhh, there's a\n
+strange crackle
+<$0C>
+crackling around\n
+here. Crackle,\n
+crackle...
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00001465
+
+#WLB(PTR, $00000424)
+
+#WHB(PTR, $00000425)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n脳ミソパチパチ、まだ続くのか？\nもう終わりなのか？
+\n
+Is the brain\n
+crackling still
+<$0C>
+underway? Is it over\n
+yet?
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 0000148E
+
+#WLB(PTR, $00000444)
+
+#WHB(PTR, $00000445)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nもう夜は来ねぇんじゃねえか、\n白い光が見えたぜ。
+<$00>
+
+
+
+
+// Pos: 000014B4
+
+#WLB(PTR, $00000464)
+
+#WHB(PTR, $00000465)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nあんた… 夜を抜けてきたのか。
+\n
+Did you...break the\n
+night?
+<$00>
+
+
+
+
+// Pos: 000014CF
+
+#WLB(PTR, $000004A4)
+
+#WHB(PTR, $000004A5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nそこの様子が変だぞ。\nあそこは何て言ったか…
+\n
+That's an off thing\n
+to ask. What "break"
+<$0C>
+are you talking\n
+about?
+<$00>
+
+
+
+
+// Pos: 000014F5
+
+#WLB(PTR, $000004B4)
+
+#WHB(PTR, $000004B5)
+
+<$13><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nハウスだろ、サイコハウスだ。\n連中は夜を壊そうとしやがったんだ。\nそれでおかしくなりやがった。
+\n
+Psycho House. The\n
+guys therebroke the
+<$0C>
+night. That was how\n
+they went mad.
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nパチパチだ、デンパでパチパチ。\nあんたも仲間か？
+\n
+With a boom and a\n
+crackle, crackle,
+<$0C>
+crackle. Didn't you\n
+go see them?
+<$00>
+
+
+
+
+// Pos: 00001555
+
+#WLB(PTR, $000004F4)
+
+#WHB(PTR, $000004F5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nああ、いや、私は見るだけだ。\n金星人のデンパなど、私は信じない。
+\n
+h, uh, just to look.\n
+I don't beleive in
+<$0C>
+that Venusian radio\n
+wave stuff.
+<$00>
+
+
+
+
+// Pos: 00001585
+
+#WLB(PTR, $00000504)
+
+#WHB(PTR, $00000505)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nそうかい。でもよ、\nガツンといきたいって顔に書いてあるぜ。
+\n
+I see, and yet, it's\n
+written on your face
+<$0C>
+that you're ready to\n
+pop too.
+<$00>
+
+
+
+
+// Pos: 000015AE
+
+#WLB(PTR, $00000524)
+
+#WHB(PTR, $00000525)
+
+<$13><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nやつらにケチつけられたんじゃねぇのか？
+\n
+You're not out to\n
+rain on their
+<$0C>
+parades, are you?
+<$00><$12><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\nいや、私に限ってそんなことはない。
+<$00>
+
+
+
+

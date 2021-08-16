@@ -1,0 +1,702 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00003D3A)
+
+// Pos: 00003D3A
+
+#WLB(PTR, $0000177C)
+
+#WHB(PTR, $0000177D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n思念の眼が…
+\n
+The mind's eye...
+<$00>
+
+
+
+
+// Pos: 00003D50
+
+#WLB(PTR, $00001874)
+
+#WHB(PTR, $00001875)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n深い… あああ、言葉が… 出てこない…\nあ、あ、あ…詩？
+\n
+It's deep,\n
+but...aaah...the
+<$0C>
+words won't come out,\n
+but...is this...a\n
+poem?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n読む？ 詩を読むか？
+\n
+Peotry? Do I read\n
+poetry?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私に尋ねているのか？\n思念の眼が…
+\n
+Who's asking me that?\n
+Was it the mind's
+<$0C>
+eye?
+<$1B>
+//？読む\n読まない
+？I do\n
+I don't
+<$00><$17><$00>
+
+
+
+
+// Pos: 00003DC0
+
+#WLB(PTR, $000021F0)
+
+#WHB(PTR, $000021F1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあ、あ、あ、あ…
+\n
+Aah! Aah, aah...!
+<$00>
+
+
+
+
+// Pos: 00003DD5
+
+#WLB(PTR, $0000220C)
+
+#WHB(PTR, $0000220D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n主人の家の門で腹を空かせる犬は\n国家の滅亡を言い当てる… あ、あ、あ
+\n
+"A dog starved at his\n
+master's gate
+<$0C>
+predicts the ruin of\n
+the state"... Aah!
+<$00>
+
+
+
+
+// Pos: 00003E0F
+
+#WLB(PTR, $00002344)
+
+#WHB(PTR, $00002345)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nやめろ、おい！ やめるるる…
+\n
+Hey, stop! You have\n
+to stoooooop...
+<$00>
+
+
+
+
+// Pos: 00003E26
+
+#WLB(PTR, $00002354)
+
+#WHB(PTR, $00002355)
+
+<$10><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n何ひへる、ほまへ、ほこれ、何ひへる…
+\n
+Who! What! Where!\n
+When! Why! WHO! WHAT!
+<$0C>
+WHERE! WHEN! WHY!
+<$00>
+
+
+
+
+// Pos: 00003E43
+
+#WLB(PTR, $00002370)
+
+#WHB(PTR, $00002371)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nスペースアンプが暴走している。\nこのまま続けると…
+\n
+The Space A.M.P. is\n
+out of control! If
+<$0C>
+you guys keep it\n
+running like this...
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nああ、なんということ、\nマウンテンとヤングは惑電死だ。
+\n
+Ah, what am I saying?\n
+Mountain and Yang are
+<$0C>
+dead by\n
+electrocution.
+<$00>
+
+
+
+
+// Pos: 00003E94
+
+#WLB(PTR, $000019FC)
+
+#WHB(PTR, $000019FD)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nまただ… また問いかけだ。\nこのまま続けると、このふたりが… 危ない…
+\n
+It's still going!\n
+I'll check again. If
+<$0C>
+this keeps running,\n
+these two are going\n
+to...
+<$1B>
+//？読む\n読まない
+？Read\n
+Exit
+<$00><$17><$00>
+
+
+
+
+// Pos: 00003ED4
+
+#WLB(PTR, $00002030)
+
+#WHB(PTR, $00002031)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n主人の家の門で腹を空かせる犬は\n国家の滅亡を言い当てる。
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n路上でこき使われる馬は\nつぐないの人の血を神に呼ぴ求める…
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nなぜこの詩ばかりがくり返されるのか…
+<$00>
+
+
+
+
+// Pos: 00003F54
+
+#WLB(PTR, $00002168)
+
+#WHB(PTR, $00002169)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nふはーふはー、ふはー
+<$00>
+
+
+
+
+// Pos: 00003F67
+
+#WLB(PTR, $00002178)
+
+#WHB(PTR, $00002179)
+
+<$10><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nほへほ、ほほへへ…
+<$00>
+
+
+
+
+// Pos: 00003F7B
+
+#WLB(PTR, $00001B84)
+
+#WHB(PTR, $00001B85)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあ、あ、あ、私を試しているのか？
+\n
+Aaaah, aah! Are you\n
+t-trying to test me?
+<$1B>
+//？読む\n読まない
+？Read\n
+Exit
+<$00><$17><$00>
+
+
+
+
+// Pos: 00003FA6
+
+#WLB(PTR, $00001E70)
+
+#WHB(PTR, $00001E71)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n路上でこき使われる馬はつぐないの人の血を\n神に呼ぴ求める… あ、あ、あ
+<$00>
+
+
+
+
+// Pos: 00003FDD
+
+#WLB(PTR, $00001FA8)
+
+#WHB(PTR, $00001FA9)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nひ？ ろ？ ひろ、ひろ、ひろ？
+<$00>
+
+
+
+
+// Pos: 00003FF5
+
+#WLB(PTR, $00001FB8)
+
+#WHB(PTR, $00001FB9)
+
+<$10><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nミルクは後、ハチミツが先。
+<$00>
+
+
+
+
+// Pos: 0000400F
+
+#WLB(PTR, $00001D0C)
+
+#WHB(PTR, $00001D0D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあ、あ、あ…ダメだ。\nこれ以上は、私には… あ、あ、あ…
+\n
+Aah, aah! D-dammit! I\n
+can't...take it any
+<$0C>
+more...
+<$1B>
+//？読む\n読まない
+？Read\n
+Exit
+<$00><$17><$00>
+
+
+
+
+// Pos: 00004047
+
+#WLB(PTR, $000023E8)
+
+#WHB(PTR, $000023E9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n追い立てられるウサギの叫び声が\n人の脳から一本ずつ筋をひきちぎる…苦しい…
+\n
+"Each outcry of the\n
+hunted hare. A fibre
+<$0C>
+from the Brain does\n
+tear." ...Sounds\n
+painful.
+<$00>
+
+
+
+
+// Pos: 00004081
+
+#WLB(PTR, $00001000)
+
+#WHB(PTR, $00001001)
+
+<$00><$AB><$D9>
+セージはありません。
+<$00><$00><$02>
+ん線テレビに着信しています。
+<$00>
+
+
+
+// Pos: 000040A3
+
+#WLB(PTR, $00000F4C)
+
+#WHB(PTR, $00000F4D)
+
+<$00><$13><$13>
+//調子はどうかね、ヌケガラ君。
+How goes it, you\n
+little husk?
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\nア、アーネスト…どうして…
+\n
+Ernest, is that you?\n
+But why are you in
+<$0C>
+the...
+<$0C><$13><$13>
+//子犬が鳴いた、キャンキャンキャン\nお家に帰る道がわからない。哀れなものだ。
+Oh, the lost little\n
+puppy yipping and\n
+yapping away because
+<$0C>
+he can't find his way\n
+home? Pathetic...
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nアーネストではないな、誰だ！
+\n
+You're not Ernest.\n
+Who are you?
+<$0C><$13><$13>
+//そういう先生こそ誰なのでしょう？\n深い憎しみを抱いた先生。
+Let's say I'm...a\n
+scholar, shall we?\n
+One grasping a deep
+<$0C>
+hatred for\n
+everything. Sound\n
+like someone you\n
+know?
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\n私は…私は…
+\n
+I...I'm...
+<$0F>
+//の…\nいや、私はスペーサーだ。その本人だ
+'s...\n
+No, I'm Spacer! I'm\n
+the person in
+<$0C>
+question!
+<$0C><$13><$13>
+//ほほう、ご本人とな。それは結構。\nあなたは
+Hoho, splendid!\n
+You're an interesting\n
+one. You're not
+<$0F>
+//ではなく、\nあなただ、そう言うんですね。
+, you're you, you\n
+say?\n
+<$0C>
+//つまり
+In other words,
+<$0F>
+//はあなただと。\nなるほど…自信家だ。
+is a part of you. I\n
+see... You're very\n
+confident in
+<$0C>
+yourself.
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nいや…
+\n
+No...
+<$0F>
+//が私なのではなく、\n私が
+isn't me. I'm
+<$0F>
+//なのだ…私が…
+, right...? Am I...?
+<$0C><$13><$13>
+//おや！あなたはスペーサー氏ではなく\n
+Ah-hah! So you're not\n
+THE Spacer, but
+<$0F>
+//なのですか！\nいずれにせよ、ひとつ忠告しておこう。
+! In that case,\n
+here's a piece of\n
+advice.
+<$0C>
+//この星のことをろくに知らない者が、\n星の意志に逆らおうとしても\nムダというものだ。
+It's useless to try\n
+to defy the will of\n
+this planet.
+<$0C>
+//世界の再生、\nそれはこの星が決めたことなのだ。
+This planet has\n
+chosen world rebirth.
+<$0C>
+//私は星の意志に触れ、使命を受けている。
+I touched the\n
+planet's will and\n
+found life.
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n星の意志？\n邪悪なイーブルマインドではないか！
+\n
+"The planet's will"?\n
+Don't you mean that
+<$0C>
+wicked Evil Mind\n
+stuff?
+<$0C><$13><$13>
+//邪悪！私が邪悪だと、そう言いたいのかね。\nなら君の期待を裏切ることになりそうだ。
+Wicked! Do you mean\n
+to tell me I am\n
+wicked? If so, then
+<$0C>
+I'm sorry to\n
+disappoint you.
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私はイーブルマインドが\n人を苦しめる様を見てきた。
+\n
+I've seen the torment\n
+Evil Mind inflicts on
+<$0C>
+people.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n心の悪に働きかけ、人を苦しめるのを！\nそれが悪でなくてなんだ？
+\n
+It promotes the mind\n
+to spread its inner
+<$0C>
+evil out to others.\n
+Don't you think\n
+that's wrong?
+<$0C><$13><$13>
+//そう憤るな。もうすぐ君に会えそうだ。\n楽しみに待っているよ。
+It's nothing to get\n
+angry about. We can\n
+discuss this in
+<$0C>
+person very soon. I'm\n
+looking forward to\n
+it.
+<$00>
+
+
+
+
+// Pos: 00004341
+
+#WLB(PTR, $00000F74)
+
+#WHB(PTR, $00000F75)
+
+<$00><$13><$13>
+//調子はどうかね、ヌケガラ君。
+How goes it, you\n
+little husk?
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\n誰だ、私に気安く…
+<$0C><$13><$13>
+//子犬が鳴いた、キャンキャンキャン\nお家に帰る道がわからない。哀れなものだ。
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\nそこにいるのは誰だ！
+<$0C><$13><$13>
+//そういう先生こそ誰なのでしょう？\n深い憎しみを抱いた先生。
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\n私は…私は…
+<$0F>
+//の…\nいや、私はスペーサーだ。その本人だ。
+<$0C><$13><$13>
+//ほほう、ご本人とな。それは結構。\nあなたは
+<$0F>
+//ではなく、あなただ、\nそう言うんですね。
+<$0C>
+//つまり
+<$0F>
+//はあなただと。\nなるほど…自信家だ。
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\nいや…
+<$0F>
+//が私なのではなく、\n私が
+<$0F>
+//なのだ…私が…
+<$0C><$13><$13>
+//おや！ あなたはスペーサー氏ではなく\n
+<$0F>
+//なのですか！\nいずれにせよ、ひとつ忠告しておこう。
+<$0C>
+//この星のことをろくに知らない者が、\n星の意志に逆らおうとしても\nムダというものだ。
+<$0C>
+//世界の再生、\nそれはこの星が決めたことなのだ。
+<$0C>
+//私は星の意志に触れ、使命を受けている。
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\n星の意志？\n邪悪なイーブルマインドではないか！
+<$0C><$13><$13>
+//邪悪！私が邪悪だと、そう言いたいのかね。\nなら君の期待を裏切るることになりそうだ。
+<$0C><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\n私はイーブルマインドが\n人を苦しめる様を見てきた。
+<$0C>
+//心の悪に働きかけ、人を苦しめるのを！\nそれが悪でなくてなんだ？
+<$0C><$13><$13>
+//そう憤るな。もうすぐ君に会えそうだ。\n楽しみに待っているよ。
+<$00>
+
+
+
+
+// Pos: 000045D3
+
+#WLB(PTR, $00000EC0)
+
+#WHB(PTR, $00000EC1)
+
+#WLB(PTR, $00000EFC)
+
+#WHB(PTR, $00000EFD)
+
+<$00><$13><$13>
+//調子はどうかね、ヌケガラ君。
+How goes it, you\n
+little husk?
+<$0C>
+//君は、いや君たちは実に哀れだ。
+You, no, all of you,\n
+are so pathetic.
+<$0C>
+//ひとつ忠告をさずけよう。\nこの星の意志に逆らおうとしても\n無駄というものだ。
+Here's a piece of\n
+advice: It's useless\n
+to try to defy the
+<$0C>
+will of this planet.
+<$0C>
+//世界の再生、\nそれはこの星が決めたことなのだ。
+This planet has\n
+chosen world rebirth.
+<$0C>
+//私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
+I touched the\n
+planet's will and\n
+found life. Rebirth
+<$0C>
+is not my purpose. It\n
+is the planet's\n
+purpose.
+<$0C>
+//もうすぐ君に会えるだろう。\n楽しみに待っているよ。
+I will see you soon.\n
+I'm looking forward\n
+to it.
+<$00><$00><$13><$13>
+//調子はどうかね、ヌケガラ君。
+<$0C>
+//君は、いや君たちは実に哀れだ。
+<$0C>
+//ひとつ忠告をさずけよう。\nこの星の意志に逆らおうとしても\nムダというものだ。
+<$0C>
+//世界の再生、\nそれはこの星が決めたことなのだ。
+<$0C>
+//私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
+<$0C>
+//もうすぐ君に会えるだろう。\n楽しみに待っているよ。
+<$00>
+
+
+
+

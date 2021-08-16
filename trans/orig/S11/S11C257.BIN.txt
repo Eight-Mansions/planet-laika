@@ -1,0 +1,16 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000CD1)
+
+// Pos: 00000CD1
+#WLB(PTR, $00000140)
+#WHB(PTR, $00000141)
+<$12><$0B>
+//コスマス：
+<$0D>
+//\nああああああ、顔が…\nああ、ははは、はははは、痛いよう…
+<$00>
+

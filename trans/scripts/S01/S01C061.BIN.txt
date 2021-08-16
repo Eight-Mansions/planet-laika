@@ -1,0 +1,384 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000349E)
+
+// Pos: 0000349E
+
+#WLB(PTR, $000009B0)
+
+#WHB(PTR, $000009B1)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n気を抜くんじゃないぞ。
+\n
+Everyone, behave\n
+yourselves.
+<$00>
+
+
+
+
+// Pos: 000034B8
+
+#WLB(PTR, $000009F8)
+
+#WHB(PTR, $000009F9)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n降りたら勝手に動くな、全員で行動する、\n分かったな。
+\n
+Not one of you better\n
+run off, am I clear?
+<$00>
+
+
+
+
+// Pos: 000034E8
+
+#WLB(PTR, $00000A2C)
+
+#WHB(PTR, $00000A2D)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nうまく着陸できた、機関も異常なしだ。
+\n
+Hey, I landed this\n
+ship too damn well to
+<$0C>
+be talked down to.
+<$00>
+
+
+
+
+// Pos: 00003509
+
+#WLB(PTR, $00000A94)
+
+#WHB(PTR, $00000A95)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nヌーン、もういいぞ。\n私たちは着陸すべくして着陸した。
+\n
+And? When I say,\n
+"land", you land.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nそういうことだ。
+\n
+That's your whole\n
+job.
+<$00>
+
+
+
+
+// Pos: 0000354B
+
+#WLB(PTR, $00000ABC)
+
+#WHB(PTR, $00000ABD)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n船長、ヌーンのおかげで私たち…
+\n
+Captain, it's only\n
+thanks to Noon that
+<$0C>
+we didn't get into an\n
+accident.
+<$00>
+
+
+
+
+// Pos: 00003567
+
+#WLB(PTR, $00000B04)
+
+#WHB(PTR, $00000B05)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nこの船にアクシデントなどなかったのだ。\nわからんのか…
+\n
+I don't care about\n
+accidents. If we dent
+<$0C>
+something, we fix it\n
+later.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n報告書はそうまとめる。 さ、準備だ！
+\n
+For now, we prepare\n
+to head out!
+<$00>
+
+
+
+
+// Pos: 000035B5
+
+#WLB(PTR, $00000C34)
+
+#WHB(PTR, $00000C35)
+
+<$11><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nけっ、とっととガリルって妄想野郎を\nとっつかまえて地球に戻ろうぜ。\nこんなブッソウな星に長居したくない。
+\n
+Heh, maybe we can\n
+drag that mad dog
+<$0C>
+Galil back to Earth.\n
+I just hope we're\n
+quick.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nこの星には頭がおかしくなった\n密航者ばかりだ。
+\n
+I hate this planet.\n
+Anyone who skips town
+<$0C>
+to stow out here is a\n
+whackjob.
+<$00>
+
+
+
+
+// Pos: 00003620
+
+#WLB(PTR, $00000C48)
+
+#WHB(PTR, $00000C49)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n密航者だけではない。\n流刑者のなれのはても生きながらえている。
+\n
+Not necessarily. Some\n
+are exiled to live
+<$0C>
+out here too.
+<$00>
+
+
+
+
+// Pos: 00003654
+
+#WLB(PTR, $00000C5C)
+
+#WHB(PTR, $00000C5D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n彼らの協力が得られないと、\nちょっとやっかいよ。
+\n
+If we can't get\n
+residents to
+<$0C>
+cooperate, this won't\n
+be an easy job.
+<$00>
+
+
+
+
+// Pos: 0000367B
+
+#WLB(PTR, $00000C70)
+
+#WHB(PTR, $00000C71)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nふん！ いよいよとなれば、力ずくでも…
+\n
+Oh, I'll make them\n
+cooperate...
+<$00>
+
+
+
+
+// Pos: 00003698
+
+#WLB(PTR, $00000D34)
+
+#WHB(PTR, $00000D35)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nさ、用意はいいか。
+\n
+Enough. Is everyone\n
+ready?
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nライカ、なにをぐずぐずしてる？\n君が最初に降り立つんだ。
+\n
+What're you waiting\n
+for, Laika? You go
+<$0C>
+first.
+<$00>
+
+
+
+
+// Pos: 000036DE
+
+#WLB(PTR, $00000D48)
+
+#WHB(PTR, $00000D49)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nライカ、大丈夫よ。\nハッチを抜けて右よ。
+\n
+To your right, Laika.\n
+Take that hatch
+<$0C>
+outside.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n自分のヘルメット、\n確かめてね。
+\n
+Make sure your\n
+helmet's on nice and
+<$0C>
+tight first.
+<$00>
+
+
+
+
+// Pos: 0000371E
+
+#WLB(PTR, $00000D5C)
+
+#WHB(PTR, $00000D5D)
+
+<$11><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nロケットから離れるんじゃないぞ、\n迷子になっても\nママはむかえに来てくれないぜ。
+\n
+If you run off the\n
+rocket and get
+<$0C>
+yourself lost, don't\n
+come cryin' to Mummy.
+<$00>
+
+
+
+
+// Pos: 00003753
+
+#WLB(PTR, $00000EB0)
+
+#WHB(PTR, $00000EB1)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nライカ、君がはじめの一歩を記すんだ。
+\n
+Laika, you hop out\n
+first.
+<$00>
+
+
+
+
+// Pos: 00003776
+
+#WLB(PTR, $00000F0C)
+
+#WHB(PTR, $00000F0D)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nおっかなびっくりなんじゃねえのか？
+\n
+What's the matter?\n
+Nervous?
+<$00>
+
+
+
+
+// Pos: 00003790
+
+#WLB(PTR, $00000F68)
+
+#WHB(PTR, $00000F69)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n前の任務もうまくいったじゃない。\n今度もきっと平気よ。
+\n
+So, maybe the\n
+previous mission
+<$0C>
+failed, but our unit\n
+will nail it this\n
+time!
+<$00>
+
+
+
+

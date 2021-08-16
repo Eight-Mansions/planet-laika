@@ -1,0 +1,96 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000817)
+
+// Pos: 00000817
+
+#WLB(PTR, $000002B4)
+
+#WHB(PTR, $000002B5)
+
+//輪イプリル…あなたね…
+April, it's you...
+<$00>
+
+
+
+
+// Pos: 00000824
+
+#WLB(PTR, $000002D8)
+
+#WHB(PTR, $000002D9)
+
+//演と愛いエイプリル…\nあなたがこんなに近くにいるなんて…\nうれしいわ…エイプリル…私のエイプリル…
+My darling April...\n
+I'm so delighted\n
+you're near.\n
+April, my April...
+<$00>
+
+
+
+
+// Pos: 00000859
+
+#WLB(PTR, $00000338)
+
+#WHB(PTR, $00000339)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nエイプリル、そっちじゃないみたいね！
+\n
+Sorry, April! Nothing\n
+over there either!
+<$00>
+
+
+
+
+// Pos: 00000877
+
+#WLB(PTR, $00000384)
+
+#WHB(PTR, $00000385)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、町の中に入ってみましょう。
+\n
+That's it for up\n
+here! It's time we
+<$0C>
+looked inside the\n
+town-
+<$00>
+
+
+
+
+// Pos: 00000896
+
+#WLB(PTR, $000003C4)
+
+#WHB(PTR, $000003C5)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n誰の声なの… 私のこと…
+\n
+That voice again...\n
+It did call my name.
+<$00>
+
+
+
+

@@ -1,0 +1,589 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000020FA)
+
+// Pos: 000020FA
+
+#WLB(PTR, $00000170)
+
+#WHB(PTR, $00000171)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n簡単なことなのよ。\nヴァニティフェイスで性格が良くなって、\n悪意が無くなる。
+\n
+A vanity face can\n
+safely better your
+<$0C>
+dispostion and remove\n
+ill will.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nそれでもう安心。 蕃判だの奇跡だの、\n何が起きても変なふうにならずに済むのよ。\n強くなれるのよ。
+\n
+This miracle of\n
+Judgment will make
+<$0C>
+you strong-it'll keep\n
+you from feeling not\n
+like your self.
+<$00>
+
+
+
+
+// Pos: 00002172
+
+#WLB(PTR, $00000320)
+
+#WHB(PTR, $00000321)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n私が先に入るわ。 後に続いて。
+\n
+I'll go in first. You\n
+should follow.
+<$00>
+
+
+
+
+// Pos: 00002192
+
+#WLB(PTR, $0000032C)
+
+#WHB(PTR, $0000032D)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n私が先に入るわ。 後に続いて。
+\n
+I'll go in first. You\n
+should follow.
+<$00>
+
+
+
+
+// Pos: 000021B2
+
+#WLB(PTR, $0000043C)
+
+#WHB(PTR, $0000043D)
+
+<$13><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nヴェロニカはフェイを\n取り込もうとしてるみたいね。\nどうするのかしら…
+\n
+It seems Veronica is\n
+trying to absorb Hui.
+<$0C>
+I'm not sure how to\n
+feel about that.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそれにしても心の悪を照らす鏡だなんて、\nイヤな話ね。
+\n
+In any case, I don't\n
+like the idea of a
+<$0C>
+mirror that\n
+illuminates a mind's\n
+evil.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそんな鏡、どこにあるのかしら。\n鏡のことはフェイに\nそれとなく開いてみるしかなさそうね。
+\n
+And where would one\n
+find such a mirror?
+<$0C>
+I've no choice but to\n
+ask Hui about it\n
+later.
+<$00>
+
+
+
+
+// Pos: 00002249
+
+#WLB(PTR, $00000474)
+
+#WHB(PTR, $00000475)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあっ！
+\n
+Ah!
+<$00>
+
+
+
+
+// Pos: 00002259
+
+#WLB(PTR, $000004AC)
+
+#WHB(PTR, $000004AD)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nいけない… ヘロデが目を覚ましたの。\n悪夢の世界で眠れなくなると大変…
+\n
+Damn! Herod woke\n
+up... He cannot sleep
+<$0C>
+when in his world of\n
+nightmares.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nこっちに戻れなくなるのよ。\n彼は悪夢の住人なの。もう行かなきゃ。
+\n
+But he cannot stay\n
+here. He is a dweller
+<$0C>
+of the world of\n
+nightmares. I must\n
+go.
+<$00>
+
+
+
+
+// Pos: 000022C2
+
+#WLB(PTR, $0000051C)
+
+#WHB(PTR, $0000051D)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nねぇ、何かエイプリルの持ち物ない？
+\n
+By the way, does\n
+April have any
+<$0C>
+personal belongings?
+<$00>
+
+
+
+
+// Pos: 000022E2
+
+#WLB(PTR, $0000053C)
+
+#WHB(PTR, $0000053D)
+
+<$13><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそう… 私、物の記憶が読めるの…。
+\n
+You see, I can peer\n
+into a person simply
+<$0C>
+by looking at their\n
+personal effects.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n物を見るだけで、いろんなようすが\n目に浮かんでくるの。\n物はいろんなことを教えてくれる…
+\n
+When I see an object,\n
+various other images
+<$0C>
+related to it will\n
+come unto me.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nでもここじゃダメね、集中できないから。
+\n
+It demands my full\n
+concentration, so
+<$0C>
+it's not a skill I'd\n
+use out here in the\n
+street.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n何か私に見せたい物があるときは、\n私の部屋に来て。 テレビのそばにある\nクリスタルボールに触れてみて。
+\n
+If you wish to see\n
+me, come to my room.
+<$0C>
+Touch the crystal\n
+ball near the TV.
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 000023A9
+
+#WLB(PTR, $000006A0)
+
+#WHB(PTR, $000006A1)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nここの人、\nみんなあさっての方向見ちゃってるのよねー。
+\n
+The people here have\n
+to keep their eyes on
+<$0C>
+the road ahead.
+<$00>
+
+
+
+
+// Pos: 000023CF
+
+#WLB(PTR, $000006B4)
+
+#WHB(PTR, $000006B5)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nリトルって知ってるよね、\nあの人もあさって組よー。
+\n
+You know Liter,\n
+right? He keeps his
+<$0C>
+eyes on the road too.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\n気味の悪い顔のお化けを神様だなんて、ねー。\nどうしちゃったの。
+\n
+But he thinks God is\n
+a ghoul with a bit of
+<$0C>
+a negative face.\n
+Like, what?
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあー嫌だ嫌だ、
+\n
+Eh, I can't say I'm a\n
+fan.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあんたも変なやつらと\n付き合わない方がいいよー。
+\n
+For your own sake, I\n
+suggest you avoid his
+<$0C>
+ilk like the plague.
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00002457
+
+#WLB(PTR, $000007E8)
+
+#WHB(PTR, $000007E9)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあさって、あさって…\nあさってが来なかったら、ねー、どうしよう…
+<$1E>
+//中
+<$00>
+
+
+
+
+// Pos: 00002484
+
+#WLB(PTR, $0000090C)
+
+#WHB(PTR, $0000090D)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあらー、もう話つけたのー、\n予約でも入れたのー。
+\n
+Uh-oh! I already\n
+asked before and
+<$0C>
+booked the room here.
+<$00>
+
+
+
+
+// Pos: 000024A9
+
+#WLB(PTR, $00000978)
+
+#WHB(PTR, $00000979)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nねぇー、ここー、寝る時間でもないのに\n消灯時間ですーっていうのよー。
+\n
+You know, they like\n
+to call "lights-out"
+<$0C>
+here, even when it's\n
+not bedtime.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\n変ねー、朝でもそうなのー。
+\n
+It's weird, right?\n
+They even pull this
+<$0C>
+in the morning!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 000024F5
+
+#WLB(PTR, $000009F0)
+
+#WHB(PTR, $000009F1)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\n変ねー、いつでも消灯時間だなんてねー、\nあのベッドがこわれてるのよー。
+\n
+How weird. It's\n
+always lights-out
+<$0C>
+time, feels like.\n
+Maybe that bed is\n
+busted.
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 00002529
+
+#WLB(PTR, $0000076C)
+
+#WHB(PTR, $0000076D)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nねーねー、いいこと、教えてあげるよー、\n顔のこと。ヴァニティフェイス、
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nどうやって作るか、知ってる？
+<$1B>
+//？知ってる\n知らない
+<$00><$17><$00>
+
+
+
+
+// Pos: 0000257E
+
+#WLB(PTR, $00000798)
+
+#WHB(PTR, $00000799)
+
+<$11><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nうそばっかー。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
+<$1E>
+//中
+<$00>
+
+
+
+
+// Pos: 000025DD
+
+#WLB(PTR, $0000078C)
+
+#WHB(PTR, $0000078D)
+
+<$11><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nすごいんだからー、すごいの。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
+<$1E>
+//中
+<$00>
+
+
+
+
+// Pos: 00002643
+
+#WLB(PTR, $000007C8)
+
+#WHB(PTR, $000007C9)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nヴァニティフェイスのこと、\n後でねー、教えてあげるー。
+<$1E>
+//〇
+<$00>
+
+
+
+
+// Pos: 0000266C
+
+#WLB(PTR, $00000840)
+
+#WHB(PTR, $00000841)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\n蕃判なんてうそっぱちよー、\n焦る気持ちは分かるけどねー。
+\n
+That "Judgment" talk\n
+is straight-up
+<$0C>
+bullshit. People will\n
+freak out over\n
+anything.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nみんな自信ないのよー、\nそれでおかしくなるのよー
+\n
+Everyone thinks their\n
+so helpless! Sad,
+<$0C>
+don't you think?
+<$1E>
+//中
+<$00><$10><$0B>
+//イースト：
+<$0D>
+//\nおい、どこ行く？
+<$00><$10><$0B>
+//ウェスト：
+<$0D>
+//\n知ってるだろ。
+<$00><$10><$0B>
+//イースト：
+<$0D>
+//\nリトルさん。
+<$00><$10><$0B>
+//ウェスト：
+<$0D>
+//\n居場所だ。
+<$00><$10><$0B>
+//イースト：
+<$0D>
+//\n物音がした。
+<$00><$10><$0B>
+//ウェスト：
+<$0D>
+//\nロッジだ。
+<$00><$10><$0B>
+//イースト：
+<$0D>
+//\nあいつらの。
+<$00><$10><$0B>
+//ウェスト：
+<$0D>
+//\n連れてけ。
+<$00><$10><$0B>
+//ウェスト：
+<$0D>
+//\n今すぐだ。
+<$00>
+
+
+
+

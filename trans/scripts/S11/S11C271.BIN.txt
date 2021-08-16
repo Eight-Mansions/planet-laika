@@ -1,0 +1,364 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000799)
+
+// Pos: 00000799
+
+#WLB(PTR, $000002D8)
+
+#WHB(PTR, $000002D9)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n行かないで！ダークマン…
+\n
+Don't go, Darkman!
+<$00>
+
+
+
+
+// Pos: 000007B0
+
+#WLB(PTR, $00000328)
+
+#WHB(PTR, $00000329)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nお客さん…そこにいるの、お客さんだよね。\n分かるんだよ、気配で。
+\n
+Oh...a customer.\n
+Sorry, I didn't see
+<$0C>
+you. But, maybe this\n
+is a...
+<$00>
+
+
+
+
+// Pos: 000007DD
+
+#WLB(PTR, $00000358)
+
+#WHB(PTR, $00000359)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nねぇ、ひとつお願いしていい？\n僕を自由にしてくれる？
+\n
+Say, can I ask one\n
+favor? Can you...free
+<$0C>
+me?
+<$1B>
+//、もちろん\nどうやって？
+、Of course\n
+Free you how?
+<$00><$17><$00>
+
+
+
+
+// Pos: 00000814
+
+#WLB(PTR, $00000378)
+
+#WHB(PTR, $00000379)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nありがとう。きっとだよ。約束だよ。
+\n
+Thank you! Remember,\n
+it's a promise.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nダークマンの言ったこと、\n本当だったんだね。今に救われるって。
+\n
+Then what Darkman\n
+said is true! I
+<$0C>
+really will be saved!
+<$00>
+
+
+
+
+// Pos: 0000085D
+
+#WLB(PTR, $00000384)
+
+#WHB(PTR, $00000385)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n簡単なことさ。
+\n
+It's simple.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n僕はこの顔で不幸になったんだ、\n元に戻したいんだよ。
+\n
+I want to reverse the\n
+misfortune brought on
+<$0C>
+my face.
+<$00>
+
+
+
+
+// Pos: 00000899
+
+#WLB(PTR, $000003BC)
+
+#WHB(PTR, $000003BD)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nダークマンを呼び戻すからね、\n助けてくれるのはそれからでいいよ。
+\n
+Next time I call to\n
+Darkman, I'm sure
+<$0C>
+he'll help.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nあんたはリバーをさがさなきゃ。\n彼、あんたのこと待ってるよ。
+\n
+I need you to meet\n
+River. He'll be
+<$0C>
+waiting for you.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nイースト、ウェストに見つからないように…\nコロニーの中じゃないけど。どこかな…
+\n
+He's outside of the\n
+colony, somewhere
+<$0C>
+where East and West\n
+won't find him.
+<$00>
+
+
+
+
+// Pos: 00000920
+
+#WLB(PTR, $0000044C)
+
+#WHB(PTR, $0000044D)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nねぇ、あんたはケンカする人でしょ、
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n火事…リバー…導いてくれる…\n預言の場所にだよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nうん、火事って言葉が浮かんできたよ。
+<$00>
+
+
+
+
+// Pos: 000009A8
+
+#WLB(PTR, $00000468)
+
+#WHB(PTR, $00000469)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nねぇ、あんたはあの目玉が見える人でしょ、
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nロケット…リバー…導いてくれる…\n預言の場所にだよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nうん、ロケットって言葉が浮かんできたよ。
+<$00>
+
+
+
+
+// Pos: 00000A35
+
+#WLB(PTR, $0000045C)
+
+#WHB(PTR, $0000045D)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nねぇ、あんたは顔作りに来た人でしょ、
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n避難小屋…リバー…導いてくれる…\n預言の場所にだよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nうん、避難小屋って言葉が\n浮かんできたよ。
+<$00>
+
+
+
+
+// Pos: 00000ACA
+
+#WLB(PTR, $0000043C)
+
+#WHB(PTR, $0000043D)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nうーんと、あんたはねぇ…\nよく見えてこないなぁ。
+\n
+Hmmm... How odd. I\n
+can't seem to tell.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nどんなタイプなのかなぁ…
+\n
+Which type are you?
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n力持ちなら火事、\n頭がいいとロケット、欲ばりだと避難小屋…
+\n
+If you have power,\n
+seek fire. If you
+<$0C>
+have knowledge, seek\n
+the rocket.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nそこまではわかるんだけど。
+\n
+If you have desire,\n
+seek the escape hut.
+<$0C>
+That's all I can\n
+tell, and yet...
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nタイプをはっきりさせないと、\nリバーは見つからないよ。
+\n
+...if you don't have\n
+a type, you'll never
+<$0C>
+find River.
+<$00>
+
+
+
+
+// Pos: 00000B6B
+
+#WLB(PTR, $000004AC)
+
+#WHB(PTR, $000004AD)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nリバーが待ってるよ。
+\n
+River is waiting.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n待ってるのはあんたのことじゃないよ、\nあんたの中の誰かさ。
+\n
+He's not waiting for\n
+"you" per se, but
+<$0C>
+someone inside of\n
+you.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nきっといろいろ話したいんだろうね。
+\n
+I suppose River and\n
+that someone have
+<$0C>
+much to discuss.
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+

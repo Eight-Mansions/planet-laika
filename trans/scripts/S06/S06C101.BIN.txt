@@ -1,0 +1,323 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000012AE)
+
+// Pos: 000012AE
+
+#WLB(PTR, $000009C8)
+
+#WHB(PTR, $000009C9)
+
+<$10><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nあーあー、ライカ君かね？\nあー、君はライカ君？ そこにいるかね？
+\n
+Ayyye, Laika! Is that\n
+you, Laika? Are you
+<$0C>
+there?
+<$0C><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシたちに用なの？\nねえ、これ地球からなんでしょ？
+\n
+Can we help you? Hey,\n
+is this message from
+<$0C>
+Earth?
+<$0C><$13>
+//か
+か
+<$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nあーあー、君は誰？\nあー、新しい事実だ、あーあー…
+\n
+Ayyye? And who are\n
+you...? Ah, yes. A
+<$0C>
+new reality, ayyye...
+<$0C><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nちょっと、しっかりしてよ。\nこっちも新しい事実が分かったのよ！
+\n
+You're telling me!\n
+I've been seeing
+<$0C>
+nothing but new\n
+realities here.
+<$0C><$13>
+//か
+<$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nあーあー、ライカ君に代わってくれ、\n彼に話があるんだ、あーあーあー。
+\n
+Ayyye, I see. Very\n
+well. I have a story
+<$0C>
+I'd like to tell you\n
+in Laika's place,\n
+ayyye...
+<$00>
+
+
+
+
+// Pos: 0000139D
+
+#WLB(PTR, $00000A24)
+
+#WHB(PTR, $00000A25)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何よ！ シーシーの次は、あーあーなの！
+\n
+What's going on?\n
+First it's, "Whoosh,
+<$0C>
+whoosh," and now it's\n
+"Ahhh!"
+<$00>
+
+
+
+
+// Pos: 000013BD
+
+#WLB(PTR, $00000AE0)
+
+#WHB(PTR, $00000AE1)
+
+<$11><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nあー、ライカ君だね、騒ぎは収まりそうもない。\nそこで少し見方を変えて、火星人について、\n掘り下げようと思う。
+\n
+Ah, Laika! I'd like\n
+to take your
+<$0C>
+attention away from\n
+the blatant "uproar"\n
+for a moment.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n長年、火星人と昆虫との類似点を研究している\n学者がいる。彼の意見を開いてみて欲しい。
+\n
+Listen to this\n
+scholar. He has
+<$0C>
+studied both Martian\n
+and insect life for\n
+many years.
+<$00>
+
+
+
+
+// Pos: 0000145B
+
+#WLB(PTR, $00000B04)
+
+#WHB(PTR, $00000B05)
+
+<$10><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\nフンフン、開こえていますか、フンフン！
+\n
+Bzzbzz! Can you hear\n
+me, bzzbzz!
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\nフン！君は白アリについて、\nどれほど知っていますか、フン！
+\n
+Bzz, so tell me! What\n
+do you know about
+<$0C>
+termites, bzz?
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\n白アリというのは実に不思議な生き物です、\nフンフン！
+\n
+Termites are strange\n
+little creatures for
+<$0C>
+sure, bzz!
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\n彼らは何万四という全体でひとつの個性を\n作っています。
+\n
+They're hiveminded:\n
+their tens of
+<$0C>
+thousands of little\n
+minds all act as one,\n
+bzz!
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\nつまりです、一四ずつではなく、\n全体でひとつなのです、フンフン。
+\n
+Bzz, as the saying\n
+goes, "It's all for
+<$0C>
+one, and one for all!\n
+Or...you die!"
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\n私の白アリ説を用いると、火星人が絶滅した\nそのわけもはっきりしてきます、フンフン！
+\n
+Assuming Martians\n
+were hiveminded too,
+<$0C>
+their extinction make\n
+sense, bzz!
+<$00>
+
+
+
+
+// Pos: 00001575
+
+#WLB(PTR, $00000B20)
+
+#WHB(PTR, $00000B21)
+
+<$10><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\nかねがね火星人というもの、白アリのような生態\nではなかったかと考えます、フン。
+\n
+It's fun to compare\n
+Martian ecology to
+<$0C>
+that of termites,\n
+isn't it, bzz?
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\n火星人がその昔に地球にやってきて\n人間の顔を求めた…
+\n
+Long ago, the\n
+Martians came to
+<$0C>
+earth and asked us\n
+humans for our faces.
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\nそう伝えられていますが、彼らに人間の顔は\n合わなかったのです、フンフン。
+\n
+As we came to find\n
+out, the faces didn't
+<$0C>
+merge onto the\n
+Martians so well.
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\n顔の個性が邪魔をした、それで火星人社会の\nルールがおかしくなった、
+\n
+The individuality in\n
+every face disturbed
+<$0C>
+the order of the\n
+Martian hivemind.
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\nそう考えられます、フンフン。
+\n
+At least, that's what\n
+I think, bzzbzz!
+<$0C><$0B>
+//昆虫学者：
+Entomologist:
+<$0D>
+//\n人間の顔がなんと火星人の絶滅をまねいたのです\nフンフンフン！
+\n
+And THAT'S how the\n
+human face wiped all
+<$0C>
+Martian life off the\n
+map, bzzbzzbzz!
+<$00>
+
+
+
+
+// Pos: 00001699
+
+#WLB(PTR, $00000BC4)
+
+#WHB(PTR, $00000BC5)
+
+#WLB(PTR, $00000C5C)
+
+#WHB(PTR, $00000C5D)
+
+<$00><$13><$20>
+坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
+<$0C>
+繰り返します。坑道を閉鎖します。\n閉鎖まで、あと少し。\n直ちに坑道から退出してください。
+<$0C>
+これは訓練ではありません。
+<$00>
+
+
+
+// Pos: 0000171B
+
+#WLB(PTR, $00000D10)
+
+#WHB(PTR, $00000D11)
+
+<$00><$13><$20>
+アラートを解除します。\n繰り返します。 アラートを解除します。
+<$00>
+
+
+
+// Pos: 00001744
+
+#WLB(PTR, $00000D90)
+
+#WHB(PTR, $00000D91)
+
+<$00><$AB><$D9>
+セージはありません…
+<$00>
+
+

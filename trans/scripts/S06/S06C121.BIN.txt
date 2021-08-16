@@ -1,0 +1,549 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000021A4)
+
+// Pos: 000021A4
+
+#WLB(PTR, $00000110)
+
+#WHB(PTR, $00000111)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n燃えてるぜ。
+\n
+She's engulfed!
+<$00>
+
+
+
+
+// Pos: 000021B8
+
+#WLB(PTR, $00000154)
+
+#WHB(PTR, $00000155)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nライカ君、頼む、クロエちゃんを！
+\n
+Laika, please! You\n
+have save Chloe!
+<$00>
+
+
+
+
+// Pos: 000021D7
+
+#WLB(PTR, $00000178)
+
+#WHB(PTR, $00000179)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n俺は…
+\n
+I SAID-!
+<$00>
+
+
+
+
+// Pos: 000021E7
+
+#WLB(PTR, $0000020C)
+
+#WHB(PTR, $0000020D)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nクロエちゃーん、今そこに行くからねー
+\n
+Don't worry, Chloe!\n
+Help's on the way!
+<$00>
+
+
+
+
+// Pos: 00002209
+
+#WLB(PTR, $00000230)
+
+#WHB(PTR, $00000231)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n何だ、あの青いのは？
+\n
+Hang on, what's that\n
+blue stuff?
+<$00>
+
+
+
+
+// Pos: 00002221
+
+#WLB(PTR, $00000254)
+
+#WHB(PTR, $00000255)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nバリアだ。\nオリンピア２号が守ってくれてる。
+\n
+It's a barrier.\n
+Olympia #2 is
+<$0C>
+protecting her.
+<$00>
+
+
+
+
+// Pos: 00002247
+
+#WLB(PTR, $00000298)
+
+#WHB(PTR, $00000299)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nああ、燃える燃える、クロエちゃんが、\n燃えてしまうぅぅぅぅ…
+\n
+Please, no! She's\n
+burning! Burning! My
+<$0C>
+Chloe's burniiiing!
+<$00>
+
+
+
+
+// Pos: 00002276
+
+#WLB(PTR, $000002FC)
+
+#WHB(PTR, $000002FD)
+
+<$10><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nホノオがオソってきます。\nオンドはアツいです。
+\n
+FLAMES, RISING.\n
+TEMPERATURES, RISING.
+<$00>
+
+
+
+
+// Pos: 0000229D
+
+#WLB(PTR, $00000340)
+
+#WHB(PTR, $00000341)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n早く！ ライカ君、急いでくれたまえ！\n私は表で待ってるからね！
+\n
+Do something quick,\n
+Laika! I-I'll wait
+<$0C>
+out front!
+<$00>
+
+
+
+
+// Pos: 000022CE
+
+#WLB(PTR, $00000384)
+
+#WHB(PTR, $00000385)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nああ、待ってろ！
+\n
+Hey, wait!
+<$00>
+
+
+
+
+// Pos: 000022E4
+
+#WLB(PTR, $00000428)
+
+#WHB(PTR, $00000429)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n燃える、燃える、何とかしてくれ。
+\n
+She's burning! She's\n
+burning! You have to
+<$0C>
+do something!
+<$00>
+
+
+
+
+// Pos: 00002304
+
+#WLB(PTR, $00000454)
+
+#WHB(PTR, $00000455)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nくそったれ！ 役に立たねぇ野郎だぜ！
+\n
+Some help you are,\n
+good for nothing
+<$0C>
+mongrel.
+<$00>
+
+
+
+
+// Pos: 00002327
+
+#WLB(PTR, $000004E8)
+
+#WHB(PTR, $000004E9)
+
+<$10><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nホノオはヌーンのクラいジョウネンから\nウマれました。
+\n
+THESE FLAMES SPAWNED\n
+FROM NOON'S DARKEST
+<$0C>
+SENTIMENTS.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nホノオは、このホシのアクイにフレて\nイシをモッたのです。
+\n
+THESE FLAMES ARE\n
+STOKED BY THE ILL
+<$0C>
+WILL OF MARS.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nホノオとタタカってください。
+\n
+THESE FLAMES CAN ONLY\n
+BE DEFEATED THROUGH
+<$0C>
+BATTLE.
+<$00>
+
+
+
+
+// Pos: 00002395
+
+#WLB(PTR, $0000050C)
+
+#WHB(PTR, $0000050D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nなんだか分からねぇけど、\nどうやって闘うんだ？
+\n
+Defeated through\n
+battle? What am I
+<$0C>
+supposed to do, punch\n
+the flame?!
+<$00>
+
+
+
+
+// Pos: 000023BA
+
+#WLB(PTR, $00000538)
+
+#WHB(PTR, $00000539)
+
+<$10><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nホノオがハきダすネンパをはねカエすのです。\nココロのチカラでタタカうのです。
+\n
+THE FLAMES WILL FIRE\n
+"PULS" AT YOU. REPEL
+<$0C>
+THE PULS WITH THE\n
+POWER OF YOUR SPIRIT.
+<$00>
+
+
+
+
+// Pos: 000023F0
+
+#WLB(PTR, $0000055C)
+
+#WHB(PTR, $0000055D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nはね返すんだな、念波だな。
+\n
+Okay, so I'm to\n
+volley the mind
+<$0C>
+bullets?
+<$00>
+
+
+
+
+// Pos: 0000240D
+
+#WLB(PTR, $00000588)
+
+#WHB(PTR, $00000589)
+
+<$11><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nそうです、タイミングがタイセツです。
+\n
+CORRECT, BUT TIMING\n
+IS CRUCUAL.
+<$00><$10><$13><$13><$0B>
+//アーネスト：
+<$0D>
+//\nなんとか、やっつけたぜ。
+<$00><$10><$0B>
+//クロエ：
+<$0D>
+//\n助けてくれて、ありがとう。
+<$00>
+
+
+
+
+// Pos: 0000245F
+
+#WLB(PTR, $00000760)
+
+#WHB(PTR, $00000761)
+
+<$10><$0B>
+//クロエ：
+Chloe:
+<$0D>
+//\n助けてくれてありがとう…\nはじめてよ…人に助けられたの…
+\n
+Thank you for helping\n
+me. It's the first
+<$0C>
+time anyone's ever\n
+helped me.
+<$00>
+
+
+
+
+// Pos: 00002486
+
+#WLB(PTR, $00000790)
+
+#WHB(PTR, $00000791)
+
+<$10><$0B>
+//クロエ：
+Chloe:
+<$0D>
+//\nアーネスト…そう言うんでしょ…\n他の人たちのことも知ってるわ…
+\n
+Ernest... I know who\n
+you are, and I know
+<$0C>
+who the others with\n
+you are.
+<$0C><$0B>
+//クロエ：
+Chloe:
+<$0D>
+//\nそれにフェニックスのことも…\nあなたは…私と同じ…体がないの…
+\n
+And I know about\n
+Phoenix. You are all
+<$0C>
+like me, you all have\n
+no bodies.
+<$00>
+
+
+
+
+// Pos: 000024D9
+
+#WLB(PTR, $00000880)
+
+#WHB(PTR, $00000881)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nおう、何だ、びっくりするじゃねぇか！
+\n
+Whoa, hang on. That\n
+doesn't scare you?
+<$00>
+
+
+
+
+// Pos: 000024F8
+
+#WLB(PTR, $000008AC)
+
+#WHB(PTR, $000008AD)
+
+<$10><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシはツカれたので、\nココロがスコしミダれています。
+\n
+I AM FATIGUED. MY\n
+SPIRIT IS IN SOME
+<$0C>
+DISARRAY.
+<$00>
+
+
+
+
+// Pos: 00002523
+
+#WLB(PTR, $0000096C)
+
+#WHB(PTR, $0000096D)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nやあやあやあ、ライカ君！ よくやった！\n君のことは前から頼りにしてたんだ！
+\n
+Oh, Laika! You did so\n
+well! I knew I could
+<$0C>
+count on you!
+<$00>
+
+
+
+
+// Pos: 00002557
+
+#WLB(PTR, $0000097C)
+
+#WHB(PTR, $0000097D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n俺は…アーネストだ…
+\n
+I'm...Ernest.
+<$00>
+
+
+
+
+// Pos: 0000256E
+
+#WLB(PTR, $000009C0)
+
+#WHB(PTR, $000009C1)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nあああ、クロエちゃん！
+\n
+Ohh, Chloe!
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nあはは！ 平気だ、平気。\nクロエちゃんが平気だ！
+\n
+Ahaha! You're safe!\n
+SAFE! My Chloe is
+<$0C>
+safe!
+<$00>
+
+
+
+

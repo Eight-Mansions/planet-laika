@@ -1,0 +1,98 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001669)
+
+// Pos: 00001669
+
+#WLB(PTR, $00000A50)
+
+#WHB(PTR, $00000A51)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあああ、見たぞ、この先…\nそうだ、鏡だ… ダムだ！
+\n
+Wait! I know I saw\n
+it... Up ahead,
+<$0C>
+right? Yeah...a wall!\n
+A dam!
+<$00>
+
+
+
+
+// Pos: 0000168D
+
+#WLB(PTR, $00000ABC)
+
+#WHB(PTR, $00000ABD)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n思い出したぞ！トーテムポールみたいなやつだ、\nそいつが俺を
+\n
+I remember! The guy\n
+who looked like a big
+<$0C>
+totem pole! He...!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nああああ、いやな息を吹きかけられて…
+\n
+Augh, his foul air\n
+blew me away!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあああ、あれは夢じゃなかったのか、
+\n
+That was no dream\n
+after all! Grr...
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあああ、いやだ、建う、思い出したくない、\nあれはただの夢だったんだ。そうだそうだ！
+\n
+But no! I don't want\n
+to remember! Th-that
+<$0C>
+was a dream! It had\n
+to be!
+<$00>
+
+
+
+
+// Pos: 00001720
+
+#WLB(PTR, $000006F4)
+
+#WHB(PTR, $000006F5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうしたの、急におびえはじめて。\nこの先に何があるの？
+\n
+What's happening up\n
+ahead? I'm getting
+<$0C>
+scared now.
+<$00>
+
+
+
+

@@ -1,0 +1,26 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001A79)
+
+// Pos: 00001A79
+#WLB(PTR, $000002F8)
+#WHB(PTR, $000002F9)
+#WLB(PTR, $00000374)
+#WHB(PTR, $00000375)
+<$10><$0B>
+//ノーブルロック：
+<$0D>
+//\n長老はロッジの中だ。私はここで待つ。
+<$00>
+
+// Pos: 00001A9C
+#WLB(PTR, $00000584)
+#WHB(PTR, $00000585)
+//甘い、ないぞ！\nくそ人形、どこやりやがった！
+<$0C>
+//フェイの野郎か、やっぱりあの女が…
+<$00>
+

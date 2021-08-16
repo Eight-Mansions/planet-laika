@@ -1,0 +1,54 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00004DA4)
+
+// Pos: 00004DA4
+
+#WLB(PTR, $00000114)
+
+#WHB(PTR, $00000115)
+
+<$00><$14><$02><$11>
+//幅ペーサー、お前の存在に意味などないのだ。
+Spacer, your\n
+existence is\n
+insignificant.
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004DC6
+
+#WLB(PTR, $00000130)
+
+#WHB(PTR, $00000131)
+
+<$00><$14><$02><$11>
+//期を学んだ？ リトルから何を学んだのだ？
+Well? What did you\n
+learn from Liter?
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004DE5
+
+#WLB(PTR, $00000138)
+
+#WHB(PTR, $00000139)
+
+<$00><$14><$02><$11>
+//~ウの闇に目を向けろ。お前の本性が見えるぞ。
+Face the darkness in\n
+your mind, your true\n
+nature!
+<$0E><$78><$17><$00>
+
+
+
+

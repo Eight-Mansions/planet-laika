@@ -1,0 +1,522 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000025D9)
+
+// Pos: 000025D9
+
+#WLB(PTR, $00000BD0)
+
+#WHB(PTR, $00000BD1)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあら？ もうあきらめたの？
+\n
+My, my, have you\n
+given up yet?
+<$00>
+
+
+
+
+// Pos: 000025F1
+
+#WLB(PTR, $00000D04)
+
+#WHB(PTR, $00000D05)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nそうじゃないの？\nええ？ そうなんでしょ、
+\n
+That's it, isn't it?\n
+Eh? Though so.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあなたさっき…そうよね、さっき\nリャンハウスの前でうろうろしてたじゃない、
+\n
+I saw you earlier,\n
+yes? ...Yes, earlier.
+<$0C>
+Loitering in front of\n
+House Liang.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n隠してもダメヨ、\nアタシ、見抜く、ミヌク。
+\n
+You can't hide from\n
+ol' me. I can see
+<$0C>
+right through you.
+<$00>
+
+
+
+
+// Pos: 00002661
+
+#WLB(PTR, $00000D34)
+
+#WHB(PTR, $00000D35)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nねらってる？
+\n
+You have your eye on\n
+someone.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nでしょ、やっぱりね、\n顔見りゃ分かるって…
+\n
+I'm right about that\n
+too, huh. I can tell
+<$0C>
+just by looking at\n
+your face.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあら嫌だ、顔だなんて、\n顔ねらってるの顔で分かる、
+\n
+Well, not just your\n
+face, but the face of
+<$0C>
+the face you're\n
+facing.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n変なしゃれできちゃった。\nあははははは、バカねアタシ、朝から陽気ね
+\n
+I'm only joking, tee\n
+hee! Don't mind me.
+<$0C>
+I'm just playful in\n
+the mornings.
+<$00>
+
+
+
+
+// Pos: 000026E7
+
+#WLB(PTR, $00000E8C)
+
+#WHB(PTR, $00000E8D)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n陽気が悪いか、てめぇ！
+\n
+Is being goofy so\n
+wrong? Well?!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nおう、人の顔見てニヤついてんじゃねぇ！\nくそ野郎！
+\n
+Then why don't you\n
+smile when you see
+<$0C>
+people, rude little\n
+bitch!
+<$00>
+
+
+
+
+// Pos: 00002724
+
+#WLB(PTR, $00000F58)
+
+#WHB(PTR, $00000F59)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nなんてね…\nいいじゃない、陽気なのはアタシの取り柄よ。
+\n
+There's nothing wrong\n
+with me! My
+<$0C>
+playfulness will be\n
+my redeeming feature!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00002750
+
+#WLB(PTR, $00001000)
+
+#WHB(PTR, $00001001)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nねえ、リャンハウスで\nなにやらかそうっていうの？
+\n
+So, what business did\n
+you have at House
+<$0C>
+Liang?
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあなたよね、さっきいたの…\nしらばくれてるの？
+\n
+I saw you there\n
+before, so no need to
+<$0C>
+play dumb.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nアタシのこと、ちゃんとしっかり開いてる？
+\n
+Hey, are you\n
+listening to me?
+<$1B>
+//,ちゃんと開いてる\nしっかり開いてる
+,Yes, closely\n
+Yes, deeply
+<$00><$17><$00>
+
+
+
+
+// Pos: 000027CA
+
+#WLB(PTR, $00001010)
+
+#WHB(PTR, $00001011)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nそうよねぇ、そうこなくちゃ。
+\n
+You'd better be.
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 000027E6
+
+#WLB(PTR, $0000114C)
+
+#WHB(PTR, $0000114D)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nサイテーよ、レッドのやつ！
+\n
+Damn Red to Hell!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nアタシのことぶったのよ。\nひどい、ぶつなんて！
+\n
+He hit me! He just\n
+fucking hit me!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあんたのせいよ、\nあんたが余計なことするから…
+\n
+This is YOUR fault!\n
+YOU'RE the one who
+<$0C>
+stuck your nose out!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nなのにアタシまで手を貸したみたいに\n言われたの。
+\n
+I thought I could\n
+lend a hand and ease
+<$0C>
+the situation, but\n
+nooo!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n見て、お顔。
+\n
+Now look at my face!
+<$00>
+
+
+
+
+// Pos: 00002877
+
+#WLB(PTR, $00001344)
+
+#WHB(PTR, $00001345)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあああ、もう、こんなの！ お顔が何よ！\nどうでもよくなってきちゃった。
+\n
+What are you going to\n
+do NOW huh? Keep
+<$0C>
+acting like you give\n
+a damn about us...
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 000028A9
+
+#WLB(PTR, $0000140C)
+
+#WHB(PTR, $0000140D)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nレッドのやつ、ちくしょう！\nアタシのことぶったのよ！
+\n
+Damn Red to Hell! He\n
+hit me right in the
+<$0C>
+face!
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 000028D1
+
+#WLB(PTR, $00001698)
+
+#WHB(PTR, $00001699)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあのコ… どっかで見たことあるのよね。
+\n
+That lassie...I'd\n
+seen her around, I
+<$0C>
+think.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n地球じゃああいうお顔がはやってるの、\nみんなあんなお顔してるの？
+\n
+Do people down on\n
+Earth like that face
+<$0C>
+of hers?
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00002920
+
+#WLB(PTR, $000016A8)
+
+#WHB(PTR, $000016A9)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあのコ、アガタに気に入られたの？\nねぇ、そうなの？ なら気を付けなきゃね。
+\n
+Your lassie friend\n
+fancies Agatha, no?
+<$0C>
+She'd better be\n
+careful.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nそれにしてもよ、やっぱり変よ、\nあのお顔。いただけない、
+\n
+At any rate, she's a\n
+little odd, no? Her
+<$0C>
+face is off.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nそうよ、いただけないわ。
+\n
+Yes, very off!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00002993
+
+#WLB(PTR, $000016D0)
+
+#WHB(PTR, $000016D1)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあのコ、自分のこと、かわいいって\n思ってるのかしらね。きっとそうよね。
+\n
+That lass is very\n
+charming in your
+<$0C>
+eyes, isn't she? Yes,\n
+I was sure you'd\n
+think so.
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 000029C6
+
+#WLB(PTR, $00001428)
+
+#WHB(PTR, $00001429)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nレッドのやつ、あのサイテー野郎、\nあわてて出ていったよ。
+\n
+I saw that bastard,\n
+Red, walk out here
+<$0C>
+acting like he got\n
+really fucked up.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n誰かにどやされでもしたの？\nいい気味よね、アタシをぶつからよ。
+\n
+Did someone get to\n
+him before I did?
+<$0C>
+Good. That's what he\n
+gets for hitting me!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00002A1E
+
+#WLB(PTR, $00001504)
+
+#WHB(PTR, $00001505)
+
+#WLB(PTR, $00001630)
+
+#WHB(PTR, $00001631)
+
+<$10><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nふん、アタシのことぶつからよ。\nあのヘンタイ野郎が！
+\n
+I hope that dirty\n
+bastard gets
+<$0C>
+everything that's\n
+coming to him for\n
+hitting me.
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 00002A48
+
+#WLB(PTR, $00000A44)
+
+#WHB(PTR, $00000A45)
+
+<$10><$11>
+子リトル：
+<$0D>
+\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
+<$0E><$1E><$17><$00>
+
+
+

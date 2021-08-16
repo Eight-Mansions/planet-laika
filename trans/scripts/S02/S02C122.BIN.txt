@@ -1,0 +1,80 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001038)
+
+// Pos: 00001038
+
+#WLB(PTR, $00000564)
+
+#WHB(PTR, $00000565)
+
+<$10>
+//建う！本当にいたんだ、あそこに、ママが！
+Your wrong!\n
+I saw her! Mummy was\n
+really there!
+<$0C>
+//ふっ、犯罪者のか…\n獄死したはずだろう、お前の母親は。
+Noon, your mother was\n
+a criminal! She died\n
+in prison!
+<$0C>
+//いたんだ…僕を追いかけてきた…
+But she's back!\n
+She was...chasing me\n
+again!
+<$0C>
+//死んだ人間がよみがえる…ふふふふ、面白い。\nここはユカイな星だ！
+\n
+Can the dead come\n
+back to life here?
+<$0C>
+Hah! Interesting. I'm\n
+enjoying Mars\n
+already.
+<$0C>
+//早く、帰りたい。
+I'll enjoy it more\n
+once we leave!
+<$00>
+
+
+
+
+// Pos: 000010B7
+
+#WLB(PTR, $00000580)
+
+#WHB(PTR, $00000581)
+
+<$10>
+//誰だ？誰かいるのか？
+Wait!\n
+Is someone there?
+<$00>
+
+
+
+
+// Pos: 000010C5
+
+#WLB(PTR, $00000654)
+
+#WHB(PTR, $00000655)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n気のせいか…
+\n
+It's probably just\n
+nerves.
+<$00>
+
+
+
+

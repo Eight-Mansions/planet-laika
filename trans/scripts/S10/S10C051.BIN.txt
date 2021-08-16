@@ -1,0 +1,197 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000CCC)
+
+// Pos: 00000CCC
+
+#WLB(PTR, $000001E8)
+
+#WHB(PTR, $000001E9)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何これ… ガラクタのロケット…\nいったいどうしたって言うの？
+\n
+What is this trashed\n
+rocket? What does
+<$0C>
+this toy have to do\n
+with me?
+<$00>
+
+
+
+
+// Pos: 00000CF6
+
+#WLB(PTR, $000001FC)
+
+#WHB(PTR, $000001FD)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n子供の頃、遊んだんじゃないの？\nあんたが。
+\n
+Didn't you play with\n
+this very rocket
+<$0C>
+during your\n
+childhood?
+<$00>
+
+
+
+
+// Pos: 00000D1A
+
+#WLB(PTR, $00000210)
+
+#WHB(PTR, $00000211)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n…子供の頃って…
+\n
+...Did I play with...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n誰がこんなふうにしたの？\nどれもこれも壊れてるじゃない。
+\n
+I mean, maybe, but\n
+who the Hell trashed
+<$0C>
+it? I never broke a\n
+thing in my life!
+<$00>
+
+
+
+
+// Pos: 00000D58
+
+#WLB(PTR, $00000224)
+
+#WHB(PTR, $00000225)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n
+\n
+<$0F>
+//が壊したんだよ、\nヤケになって、手当たり次第に。
+broke it apart. In a\n
+fit of despair, they\n
+took whatever they
+<$0C>
+could get their hands\n
+on, and...
+<$00>
+
+
+
+
+// Pos: 00000D81
+
+#WLB(PTR, $00000238)
+
+#WHB(PTR, $00000239)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nうそよ、
+\n
+That's a lie.
+<$0F>
+//は\n何もできないのよ。
+could never do\n
+something like that.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n彼は刃向かえないのよ。
+\n
+They couldn't raise\n
+their hand for
+<$0C>
+anything.
+<$00>
+
+
+
+
+// Pos: 00000DB4
+
+#WLB(PTR, $000003B8)
+
+#WHB(PTR, $000003B9)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nこんなふうに思い出まで壊しちゃったのって\n本当は
+\n
+Are you sure?
+<$0F>
+//なんじゃないの？
+did a smashing job\n
+breaking apart their\n
+own memories, after
+<$0C>
+all.
+<$00>
+
+
+
+
+// Pos: 00000DE5
+
+#WLB(PTR, $000003F0)
+
+#WHB(PTR, $000003F1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nうそ、うそよ、そんなはずないじゃない！
+\n
+No, you're lying! I\n
+told you that's not
+<$0C>
+how it fucking\n
+happened!
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n
+\n
+<$0F>
+//は善でも悪でもないわ、\n無なのよ。 なにもないの、心もないのよ。
+never did anything!\n
+Never had anything!\n
+They never had a mind
+<$0C>
+of their own!
+<$00>
+
+
+
+

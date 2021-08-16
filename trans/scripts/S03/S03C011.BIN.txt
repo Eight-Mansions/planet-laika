@@ -1,0 +1,713 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002F9A)
+
+// Pos: 00002F9A
+
+#WLB(PTR, $00000994)
+
+#WHB(PTR, $00000995)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n…おかしい…私の中に…\n言葉が開こえる…
+\n
+Ick! I feel\n
+words...unfolding in
+<$0C>
+my head!
+<$00>
+
+
+
+
+// Pos: 00002FBE
+
+#WLB(PTR, $000009B0)
+
+#WHB(PTR, $000009B1)
+
+#WLB(PTR, $000026A2)
+
+#WHB(PTR, $000026A3)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
+\n
+"To see a world in a\n
+Grain of Sand; And a
+<$0C>
+Heaven in a Wild\n
+Flower."
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nたなごころの中に無限をつかみ\nひとときのうちに永遠を捉える…
+\n
+"Hold Infinity in the\n
+palm of your hand;
+<$0C>
+And Eternity in an\n
+hour."
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n古い詩の一節だ…預言者的な洞察を惑じる…\nそれにしても、この詩は…
+\n
+...Lines from an old\n
+poem. I dare say, I'm
+<$0C>
+sensing some\n
+prophetic insight\n
+here!
+<$00>
+
+
+
+
+// Pos: 00003052
+
+#WLB(PTR, $00000BDC)
+
+#WHB(PTR, $00000BDD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n…小さいな…まるでささやくようだ…
+\n
+It sounds so feeble,\n
+like a whisper,
+<$0C>
+but...
+<$0C>
+//一粒の…花？\n無限を…\n分からない、何のことだ？
+"Grain", "flower" and\n
+"eternity"...what\n
+does it mean?
+<$00>
+
+
+
+
+// Pos: 0000308F
+
+#WLB(PTR, $00000CB0)
+
+#WHB(PTR, $00000CB1)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nどうしたというのだ…\nか細い声しか開こえない…
+\n
+Oh, that's weird. I\n
+don't hear that
+<$0C>
+feeble voice anymore.
+<$00>
+
+
+
+
+// Pos: 000030B6
+
+#WLB(PTR, $000005C8)
+
+#WHB(PTR, $000005C9)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n何だこりゃ…鍵がかかってるぜ。
+\n
+What the Hell? It's\n
+locked!
+<$00>
+
+
+
+
+// Pos: 000030D3
+
+#WLB(PTR, $000005D0)
+
+#WHB(PTR, $000005D1)
+
+<$10><$13><$1D><$0B>
+ヨランダ：
+<$0D>
+\nなんか大事な物でも\nしまってあるのかしらねぇ…
+<$00>
+
+
+
+// Pos: 000030F9
+
+#WLB(PTR, $00001B14)
+
+#WHB(PTR, $00001B15)
+
+<$10>
+//まだだめなのね。
+Tsk, tsk. No luck\n
+yet.
+<$0C>
+//アタシには見えない。\nサイコちゃんには簡単なことなのに。
+This'd be simple for\n
+the little Psycho,\n
+but I can't see a
+<$0C>
+thing.
+<$0C>
+//ふん、ラミーのやつ…\nまだ何かアタシに隠してるのね。
+Rummy, Rummy,\n
+Rummy... You're still\n
+hiding things from
+<$0C>
+me.
+<$00>
+
+
+
+
+// Pos: 0000313E
+
+#WLB(PTR, $00001C08)
+
+#WHB(PTR, $00001C09)
+
+<$10><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nあら、あなたは… ふふふ、新顔ね。
+\n
+Ohoho, what's this?\n
+You're a new face.
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nあなたは…どのタイプなの？\nねぇ、サイコちゃんなの？
+\n
+So, what's your type?\n
+Another little
+<$0C>
+Psycho, perchance?
+<$00>
+
+
+
+
+// Pos: 0000317C
+
+#WLB(PTR, $00001C5C)
+
+#WHB(PTR, $00001C5D)
+
+<$10><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nだったらそこの目玉、扉の前にある\nでっかい目玉が見えるはずよ…どう？見える？
+\n
+A Psycho type would\n
+be able to see a
+<$0C>
+large eyeball on that\n
+door. Do you see it?
+<$00>
+
+
+
+
+// Pos: 000031B0
+
+#WLB(PTR, $00001CE4)
+
+#WHB(PTR, $00001CE5)
+
+<$10><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n見えないのね、そうよね。\nだったらアニマルちゃんかしら…
+\n
+Ah, I take it you\n
+don't. Are you an
+<$0C>
+Animal type, then?
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nそれにしちゃ弱そうね。
+\n
+But you look so\n
+frail!
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nまさかビジュアルちゃんじゃないわよね、\n犬顔だものね。
+\n
+Don't tell me you're\n
+a Visual type! I
+<$0C>
+mean, you're a\n
+dogface!
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n地球から、でしょ。
+\n
+You must be from\n
+Earth.
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n何しに来たの、ここはサイテーよ、\nどいつもこいつも、うそつきばっかで。
+\n
+What brings you to\n
+this garbage heap? I
+<$0C>
+mean it-even the\n
+people are garbage!
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nあなたも気を付けてね、\n変なことに巻き込まれないように。
+\n
+You'd best watch your\n
+back. You don't want
+<$0C>
+to get caught up in\n
+anyone's trash.
+<$1E>
+//夜
+夜
+<$00>
+
+
+
+
+// Pos: 00003278
+
+#WLB(PTR, $00001DFC)
+
+#WHB(PTR, $00001DFD)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ、\nあいつは見かけにこだわるビジュアル系…
+\n
+Hyohyo! That's one\n
+visual type who cares
+<$0C>
+too much about\n
+appearances.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\n火星の住人はみな悪を秘めてるぞ。
+\n
+All of Mars's\n
+inhabitants carry a
+<$0C>
+hidden evil.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\n話をすると、お前の心に悪がたまる、\nどんどんたまる。
+\n
+As you speak with\n
+them, their evil will
+<$0C>
+gradually accumulate\n
+in your mind.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nその悪がお前を変えるぞ、\nひょひょひょ。
+\n
+That evil will\n
+eventually change
+<$0C>
+you, hyohyohyo!
+<$00>
+
+
+
+
+// Pos: 0000330A
+
+#WLB(PTR, $000013D0)
+
+#WHB(PTR, $000013D1)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ、アーネストや、\n何をそんなに急いでいるのだ。
+\n
+Hyohyo, where are you\n
+going in such
+<$0C>
+earnest, Ernest?
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nこの先に何かあるとでも…
+\n
+Even if there is\n
+something up ahead
+<$0C>
+for you...
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょ、まだお前はいろいろを\n知らなさすぎるぞ。
+...there's still much\n
+you don't know,\n
+hyohyo.
+<$00>
+
+
+
+
+// Pos: 00003372
+
+#WLB(PTR, $000013F4)
+
+#WHB(PTR, $000013F5)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nちょろちょろしやがって、\nうるせぇやつだ。 先に行かせろ！
+\n
+You're the last\n
+person I need
+<$0C>
+scolding me about\n
+scampering.
+<$00>
+
+
+
+
+// Pos: 0000339E
+
+#WLB(PTR, $00001418)
+
+#WHB(PTR, $00001419)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょ、今はならんぞ、アーネスト。
+\n
+I can't help it,\n
+Ernest, hyohyo!
+<$00>
+
+
+
+
+// Pos: 000033BE
+
+#WLB(PTR, $0000143C)
+
+#WHB(PTR, $0000143D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nなんでだ？ 後ならいいのか？
+\n
+Why? Is something\n
+gonna happen?
+<$00>
+
+
+
+
+// Pos: 000033DA
+
+#WLB(PTR, $00001460)
+
+#WHB(PTR, $00001461)
+
+<$11><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nこの先はまだ早い、もう少し学んでからだ。\nさあ、アーネスト、お勉強の時間だ、\nひょひょひょ。
+\n
+It's too soon, so\n
+you'll have to
+<$0C>
+research on your own.\n
+Take this time to\n
+study, hyo!
+<$00>
+
+
+
+
+// Pos: 0000341F
+
+#WLB(PTR, $00001528)
+
+#WHB(PTR, $00001529)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ、アーネストや、\nお前にできることは何だ？
+\n
+Hyohyo, Ernest! What\n
+ever can you do?
+<$00>
+
+
+
+
+// Pos: 00003447
+
+#WLB(PTR, $0000154C)
+
+#WHB(PTR, $0000154D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n俺にできること…\nへん！ 力には自信があるぜ。
+\n
+What can I do...?\n
+Heh! I'm proud of my
+<$0C>
+physical strength,\n
+that's for sure.
+<$00>
+
+
+
+
+// Pos: 0000346E
+
+#WLB(PTR, $0000184C)
+
+#WHB(PTR, $0000184D)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへ、そうだよ兄ちゃん、そこの扉だ。\nどうだ、目ん玉なんて見えねぇだろ。
+\n
+Hehe, this is one of\n
+those doors, Buddy.
+<$0C>
+You can't see the\n
+eyeball though, can\n
+you?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n見えねぇ、見えねぇ、そんなもんだ世間は。\nちょいとな、がっかりだ。
+\n
+I can't see them,\n
+Buddy. I can't. Talk
+<$0C>
+about disappointing!
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 000034CD
+
+#WLB(PTR, $00001870)
+
+#WHB(PTR, $00001871)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nに…兄ちゃんだろ、そうだよな。
+\n
+Hey. Check this out,\n
+Buddy.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n目ん玉、さがしにきたんだろ…\nそこの扉だ、どうだ、なんにも見えねぇだろ。
+\n
+If you're looking for\n
+one of those
+<$0C>
+eyeballs, this door\n
+has one. Can't you\n
+see it?
+<$00>
+
+
+
+
+// Pos: 00003515
+
+#WLB(PTR, $00001894)
+
+#WHB(PTR, $00001895)
+
+<$10><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n目ん玉だと？ おい、ウスノロ！\nいいかげんなこと言うんじゃねぇぞ。
+\n
+Eyeball? Sorry,\n
+boozehound. Don't
+<$0C>
+know what the Hell\n
+you're talking about.
+<$00>
+
+
+
+
+// Pos: 00003543
+
+#WLB(PTR, $000018B8)
+
+#WHB(PTR, $000018B9)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nあー、はあはあ、吐きそうだ、\n悪く言わないでくれ。\nそんなふうに言われるのはイヤだ。
+\n
+Very funny, asshole.\n
+Damn, I feel sick,
+<$0C>
+but you didn't need\n
+to call me out!
+<$00>
+
+
+
+
+// Pos: 00003577
+
+#WLB(PTR, $000018D8)
+
+#WHB(PTR, $000018D9)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nに…兄ちゃんか？そうだよな。
+\n
+Hey. Check this out,\n
+Buddy.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n目ん玉、見にきたんだろ…そこの扉だ。\nどうだ、そんなもんないだろう。
+\n
+If you're looking for\n
+one of those
+<$0C>
+eyeballs, this door\n
+has one. Can't you\n
+see it?
+<$00>
+
+
+
+
+// Pos: 000035BC
+
+#WLB(PTR, $000018FC)
+
+#WHB(PTR, $000018FD)
+
+<$11><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n目ん玉？ 見にきた？\nちょっと、ワケわかんないわね。\nあんた、人のこと、からかってない？
+\n
+You came out here to\n
+look at an eyeball? I
+<$0C>
+don't have time for\n
+this.
+<$00>
+
+
+
+
+// Pos: 000035F4
+
+#WLB(PTR, $0000191C)
+
+#WHB(PTR, $0000191D)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nあー、マゴコロ持たずに歩くと\n風に吹かれたときにヤバイんだ。\nどうだ、俺はまじめだ、兄ちゃんよう…
+\n
+Hey, I'm as serious\n
+as you, but if there
+<$0C>
+ain't time for this,\n
+what is there time\n
+for?
+<$00>
+
+
+
+

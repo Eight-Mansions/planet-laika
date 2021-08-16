@@ -1,0 +1,329 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002379)
+
+// Pos: 00002379
+
+#WLB(PTR, $000009EC)
+
+#WHB(PTR, $000009ED)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nへへへ、可愛い子犬ちゃん。\nさあ、教えるんだ、コスマスをどこへやった？
+\n
+Hehehe, tell me, my\n
+darling puppy. Where
+<$0C>
+did Kosmas go?
+<$00>
+
+
+
+
+// Pos: 000023AA
+
+#WLB(PTR, $00000A8C)
+
+#WHB(PTR, $00000A8D)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nどうした、びくついてるのか、ええ？
+\n
+What's the matter.\n
+You scared of me?
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\n俺が怖いのか？\nふん、小汚ねぇツラさらしやがって！
+\n
+Am I scary to you?\n
+Hmph, a little rough
+<$0C>
+around the edges,\n
+maybe.
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nあああ、どいつもこいつも、\nいまいましい野郎ばかりだ！
+\n
+But that's not MY\n
+problem! It's yours,
+<$0C>
+you damned mongrels!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nコスマスをあの顔にするのに\nどれだけ時間かかったか分かるか！
+\n
+Do you have ANY idea\n
+how long it took me
+<$0C>
+to get Kosmas that\n
+face?
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nあいつの顔はカンペキだ、\nあれは俺の作品なんだ、そうだ作品だ！
+\n
+His face was PERFECT!\n
+THAT was my beauty
+<$0C>
+work! It was!
+<$00>
+
+
+
+
+// Pos: 00002462
+
+#WLB(PTR, $00000B9C)
+
+#WHB(PTR, $00000B9D)
+
+#WLB(PTR, $000012E6)
+
+#WHB(PTR, $000012E7)
+
+#WLB(PTR, $0000131E)
+
+#WHB(PTR, $0000131F)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nあいつはカンペキだ、\nお前らが寄ってたかってもかなわねぇ。
+\n
+He was perfect, until\n
+your filthy lot
+<$0C>
+showed up.
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nへへへ、コスマスはなぁ、\n俺なしじゃ生きていけねぇんだ。
+\n
+Hehe. Cosmas...he\n
+can't live without
+<$0C>
+me.
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nあいつは俺の体の一部なんだ、\nそれが分からねぇのか、作品で、一部なんだ。
+\n
+He's a part of my\n
+body. He doesn't know
+<$0C>
+it, but he makes up\n
+only a fraction of my\n
+work.
+<$00>
+
+
+
+
+// Pos: 000024E1
+
+#WLB(PTR, $00000D80)
+
+#WHB(PTR, $00000D81)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nうはははは、どうだ！\n見ろ、そのくそみたいなツラを！
+\n
+Hahaha, how's that!\n
+Take a look! Am I
+<$0C>
+rough around the\n
+edges now?
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nどうだ、みじめな思いがするか？\nええ？ なさけないか、涙が出そうか。
+\n
+Tell me, who looks\n
+sad now? Miserable?
+<$0C>
+Who's about to cry\n
+now?
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nそうだろ、そうだろ、そうだろ、\nフユカイでたまらないだろ。
+\n
+Yeah, yeah, that's\n
+what I thought.
+<$0C>
+You're the one with\n
+your tail between\n
+your legs.
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nお前は犬だ、ただの犬だ、ははははは、\n犬だ犬だ、クソ犬め。
+\n
+And why's that?\n
+Because you're a dog!
+<$0C>
+Just a dog, hahaha! A\n
+dog! A stupid fucking\n
+dog!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nおじさんの泡で死んでしまえ！
+\n
+Just wait until Uncle\n
+gets to his bubbly
+<$0C>
+and kills ya!
+<$00>
+
+
+
+
+// Pos: 00002598
+
+#WLB(PTR, $00000DC8)
+
+#WHB(PTR, $00000DC9)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\n泡だと？ お前、何て言った？\n泡が来るのか？
+\n
+What? Bubbly? Did you\n
+say Bubbly? Is Uncle
+<$0C>
+Bubbles coming?
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nおおお、泡のおじさんのことか、\nお前知ってるんだな、泡のおじさんだ。
+\n
+Oh, You know Uncle\n
+Bubbles right? Good
+<$0C>
+old Uncle Bubbles is\n
+on his way!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nひー、俺じゃない、このクソガキだよ、\nお仕置きならこいつにだよ、ひー！
+\n
+Hee hee, but not for\n
+me. It's for the
+<$0C>
+shitbag kid here. He\n
+needs to be punished!
+<$00>
+
+
+
+
+// Pos: 00002614
+
+#WLB(PTR, $00000F18)
+
+#WHB(PTR, $00000F19)
+
+<$12><$0B>
+//レッド：
+Red:
+<$0D>
+//\nまだ間に合うぞ、絶対だ。
+\n
+I've still got time.\n
+Definitely.
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nコスマスをひっ捕らえて\nあの布をかぶせてやる、
+\n
+I'll nab Kosmas and\n
+cover him with the
+<$0C>
+cloth!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nはははー、知ってるぜ、あいつは隠れ家だ、\n地下水道にあるんだ、馬鹿野郎！
+\n
+Hahaha, and I know\n
+his hideout! That
+<$0C>
+stupid mongrel's in\n
+the underground\n
+canal!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\n俺の眼はごまかせねぇ、\nあそこには電波も届かねぇしな！ はは！
+\n
+There's no getting\n
+past me! Those radio
+<$0C>
+waves won't get in\n
+down there either,\n
+haha!
+<$00>
+
+
+
+
+// Pos: 000026B0
+
+#WLB(PTR, $00000F70)
+
+#WHB(PTR, $00000F71)
+
+<$12><$0B>
+//レッド：
+Red:
+<$0D>
+//\n俺は守られてる、攻撃は効かないんだ、\n出し抜こうなんて考えは捨てた方がいいぜ！
+\n
+I'm protected!\n
+Attacking won't wory,
+<$0C>
+so just forget the\n
+idea that you'll\n
+escape!
+<$1E>
+//中
+中
+<$00>
+
+
+
+

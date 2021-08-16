@@ -1,0 +1,16 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000013E7)
+
+// Pos: 000013E7
+#WLB(PTR, $00000144)
+#WHB(PTR, $00000145)
+<$10><$0B>
+//コスマス：
+<$0D>
+//\nそっちは嫌だよ、ダークマン。\nだって変な人形いるもん。
+<$00>
+

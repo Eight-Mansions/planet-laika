@@ -1,0 +1,15 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149548032, 32)
+#JMP($00000E26)
+
+// Pos: 00000E26
+#WBB(PTR, $00000CAE)
+#WUB(PTR, $00000CAF)
+#WLB(PTR, $00000CAE)
+#WHB(PTR, $00000CAF)
+//ÇÎÇ† Ç¿ÇPÇRÇÍÇPÇPÇPÇ¥Å[Ç¥ÇÌÇ¿ÅcÇ« ÇPÅ[ÇP ÇXÇXÅFÇOÇRÅFÇPÇQ ÇOÇSÇ†ÇPÇXÇ†ÇPÇS Ç‘ÇËÇ∂ÇËÇÒÇ¨Ç™ÇËÇæÇË ÇµÇ—Ç∫ ÅH
+<$00>
+

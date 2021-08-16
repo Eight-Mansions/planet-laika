@@ -1,0 +1,18 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001134)
+
+// Pos: 00001134
+#WLB(PTR, $0000046C)
+#WHB(PTR, $0000046D)
+<$10>
+//死の動機って、何のことなの…
+<$0C>
+//おかしいわ、何も考えないのに\n言葉がひとりでにわいてくるの…
+<$0C>
+//死の動機…誰？ タニアなの、\nねぇ、アタシを誘ってるの？
+<$00>
+

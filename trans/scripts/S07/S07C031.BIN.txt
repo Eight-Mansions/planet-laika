@@ -1,0 +1,190 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000013F6)
+
+// Pos: 000013F6
+
+#WLB(PTR, $00000AA8)
+
+#WHB(PTR, $00000AA9)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあっ…ヨランダ…
+\n
+Oh! It's you,\n
+Yolanda.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここで私を呼んでいるの…誰かが…最初は\n無線テレビ…だんだん声が大きくなって…
+\n
+Someone was calling\n
+me here. I thought it
+<$0C>
+was the monitor at\n
+first, but...
+<$00>
+
+
+
+
+// Pos: 00001442
+
+#WLB(PTR, $00000AE4)
+
+#WHB(PTR, $00000AE5)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nほら…また開こえる…
+\n
+There! I heard it\n
+again!
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私のこと、なつかしいって…
+\n
+They told me they\n
+missed me!
+<$00>
+
+
+
+
+// Pos: 0000146F
+
+#WLB(PTR, $00000B28)
+
+#WHB(PTR, $00000B29)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねえ、ライカ…ライカなんでしょ…
+\n
+Wait...Laika? You're\n
+Laika again?
+<$00>
+
+
+
+
+// Pos: 0000148A
+
+#WLB(PTR, $00000B4C)
+
+#WHB(PTR, $00000B4D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nああ、よかった…
+\n
+I'm glad you're okay.
+<$00>
+
+
+
+
+// Pos: 0000149D
+
+#WLB(PTR, $00000B68)
+
+#WHB(PTR, $00000B69)
+
+//離 坑道閉鎖まで、あとちょっとです。\n繰り返します、あとちょっと。\nこれは訓練ではありません。
+THE MINESHAFT IS\n
+CLOSING SOON.\n
+I REPEAT, CLOSING
+<$0C>
+SOON.\n
+THIS IS NOT A DRILL.
+<$00>
+
+
+
+
+// Pos: 000014D6
+
+#WLB(PTR, $00000BAC)
+
+#WHB(PTR, $00000BAD)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここを出なきゃ！
+\n
+We have to get out of\n
+here!
+<$00>
+
+
+
+
+// Pos: 000014EA
+
+#WLB(PTR, $00000C70)
+
+#WHB(PTR, $00000C71)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n人が凍ってるの？ イヤな惑じよ…
+\n
+I don't like the idea\n
+of us freezing where
+<$0C>
+we stand.
+<$00>
+
+
+
+
+// Pos: 00001507
+
+#WLB(PTR, $00000CDC)
+
+#WHB(PTR, $00000CDD)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n出口はこっちよ、ライカ！
+\n
+The exit's this way,\n
+Laika!
+<$00><$12><$13><$13><$0B>
+//アーネスト：
+<$0D>
+//\n何だ、ここは…
+<$00><$12><$13><$13><$0B>
+//アーネスト：
+<$0D>
+//\n何だ、こいつは…こおってるぜ…
+<$00><$12><$13><$13><$0B>
+//アーネスト：
+<$0D>
+//\nあああ、何だ、嫌な気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
+<$00>
+
+
+
+

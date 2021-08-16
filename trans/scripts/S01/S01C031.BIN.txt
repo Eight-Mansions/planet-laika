@@ -1,0 +1,571 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000039A1)
+
+// Pos: 000039A1
+
+#WLB(PTR, $000002E4)
+
+#WHB(PTR, $000002E5)
+
+<$10>
+//自動着陸装置、確認。
+Auto landing system,\n
+check.
+<$00>
+
+
+
+
+// Pos: 000039B5
+
+#WLB(PTR, $00000300)
+
+#WHB(PTR, $00000301)
+
+<$10>
+//装置、オン！\n目標、シドニアエリア。顔のそば！
+Now approaching the\n
+Sidonian Cortex.
+<$00>
+
+
+
+
+// Pos: 000039D3
+
+#WLB(PTR, $0000031C)
+
+#WHB(PTR, $0000031D)
+
+<$10>
+//ザ・フェイス… 何がフェイスだ…\nちくしょう！ 火星人め！
+Next to the Face,\n
+huh...Damned Martians\n
+stole that too.
+<$00>
+
+
+
+
+// Pos: 000039F4
+
+#WLB(PTR, $00000338)
+
+#WHB(PTR, $00000339)
+
+<$10>
+//ヌーン、よしてよ。\n火星人なんてもう滅んだのよ…
+Noon, you know\n
+full-well the\n
+Martians are extinct
+<$0C>
+now.
+<$00>
+
+
+
+
+// Pos: 00003A11
+
+#WLB(PTR, $00000418)
+
+#WHB(PTR, $00000419)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n人間の顔を手に入れて、それで火星人は滅んだ…\nなんか妙な惑じね。
+\n
+It's chilling to\n
+think they took our
+<$0C>
+faces and died off so\n
+soon after.
+<$00>
+
+
+
+
+// Pos: 00003A45
+
+#WLB(PTR, $00000438)
+
+#WHB(PTR, $00000439)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n人間の顔が、彼らに災いをもたらした。\n今ではそう考えられている。
+\n
+Theory says our human\n
+faces were what
+<$0C>
+triggered Mars's\n
+extinction.
+<$00>
+
+
+
+
+// Pos: 00003A79
+
+#WLB(PTR, $00000458)
+
+#WHB(PTR, $00000459)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n火星人のやつら、ハダに合わなかったんだよ、\n人間の顔が。
+\n
+Oh, so it's OUR fault\n
+those filthy Martians
+<$0C>
+took our faces?
+<$00>
+
+
+
+
+// Pos: 00003AA3
+
+#WLB(PTR, $00000478)
+
+#WHB(PTR, $00000479)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
+\n
+No, but what if our\n
+faces carried
+<$0C>
+"filthy" bacteria?
+<$00>
+
+
+
+
+// Pos: 00003AD3
+
+#WLB(PTR, $00000498)
+
+#WHB(PTR, $00000499)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nけっ、大きなお世話って惑じだな。
+\n
+Whatever, blame our\n
+Earth germs all you
+<$0C>
+want.
+<$00>
+
+
+
+
+// Pos: 00003AF0
+
+#WLB(PTR, $000004C0)
+
+#WHB(PTR, $000004C1)
+
+<$00><$14><$02><$11>
+//問 
+<$0B>
+//  
+<$0D>
+//これより火星の軌道に向かいます。\n
+We are now in Mars's\n
+orbit.\n
+<$0E><$1E><$0B>
+//  
+<$0D>
+//これより火星の軌道に向かいます。
+We are now in Mars's\n
+orbit.
+<$00>
+
+
+
+
+// Pos: 00003B2D
+
+#WLB(PTR, $000005AC)
+
+#WHB(PTR, $000005AD)
+
+<$10><$14><$03><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\n見ろ、あの狂おしい輝きを！
+\n
+See that crazy glow?\n
+That's Mars!
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00003B51
+
+#WLB(PTR, $000005C8)
+
+#WHB(PTR, $000005C9)
+
+<$10><$14><$03><$11>
+//子タトラー船長：
+子Cap. Tatler:
+<$0D>
+//\nあれが火星だ！\n災いの星、闘いの象徴…まやかしの惑星だ。
+\n
+Star of disaster,\n
+symbol of conflict
+<$0C>
+and planet of\n
+deception.
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00003B8B
+
+#WLB(PTR, $000005E8)
+
+#WHB(PTR, $000005E9)
+
+<$10><$14><$03><$11>
+//子ヌーン：
+子Noon:
+<$0D>
+//\nふん、イヤな惑じだぜ、\nとりわけ今度の任務はな。
+\n
+Hmph. Screw this\n
+planet and this lousy
+<$0C>
+mission.
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00003BB8
+
+#WLB(PTR, $000005F8)
+
+#WHB(PTR, $000005F9)
+
+<$10><$14><$03><$11>
+子ヌーン：
+<$0D>
+\nあそこにはおかしなウワサがいっぱいだ。\nおかしなやつらもな。
+<$0E><$78><$17><$00><$10><$14>
+葉誰び
+<$17><$00>
+
+
+
+// Pos: 00003BEF
+
+#WLB(PTR, $00000724)
+
+#WHB(PTR, $00000725)
+
+<$00><$13><$42>
+ライカ君、ライカ君だね…\nそこにいるのは…
+<$00>
+
+
+
+// Pos: 00003C08
+
+#WLB(PTR, $00000740)
+
+#WHB(PTR, $00000741)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n無線テレビよ！ 地球からね。
+\n
+We've got a stream on\n
+the monitor! It's
+<$0C>
+from Earth!
+<$00>
+
+
+
+
+// Pos: 00003C25
+
+#WLB(PTR, $00000B50)
+
+#WHB(PTR, $00000B51)
+
+<$11><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n先遣隊が火星に送られたのは\n１０年前のことだ。
+\n
+Ten years ago, we\n
+sent a vanguard unit
+<$0C>
+to Mars,\n
+and...something\n
+happened.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n地球化計画の再開で、\n火星に調査のためにやってきた。\nガリル大佐はそのときのリーダーだった。
+\n
+Now that colonization\n
+plans have resumed,
+<$0C>
+we're also here to\n
+find out what went\n
+wrong.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n神は死んだ、光の私…
+\n
+Last time, Col.\n
+Garyl, the leader of
+<$0C>
+that vanguard unit,\n
+left a bizarre\n
+message.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nナゾのメッセージを最後に連絡は途絶えた。
+\n
+"God is dead. I am\n
+the light."\n
+Then, his unit cut\n
+all contact. Forever.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n火星に妙なウワサがはびこるようになったのは\nそれからのことだ。
+\n
+Shortly after all\n
+that, we caught word
+<$0C>
+of a new infestation\n
+on Mars.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n我々はウワサの出所をさぐって、\n火星はなんでもない、
+\n
+We'd searched in vain\n
+for a source to the
+<$0C>
+rumor ever since,
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n平和で友好的だと報告しなければならない。\nそれが任務だ。
+\n
+so the job now is\n
+just to make sure
+<$0C>
+everything's as quiet\n
+as it sounded and\n
+report back.
+<$00>
+
+
+
+
+// Pos: 00003D68
+
+#WLB(PTR, $00000B9C)
+
+#WHB(PTR, $00000B9D)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nいつまでそこにいる？
+\n
+How long have you\n
+been dawdling there?
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n私をいらいらさせないでくれ。\n着陸準備にかかるんだ。
+\n
+Don't bust my chops\n
+now.\n
+Go prepare for\n
+landing.
+<$00>
+
+
+
+
+// Pos: 00003DAB
+
+#WLB(PTR, $00000D5C)
+
+#WHB(PTR, $00000D5D)
+
+//離か
+離か
+<$0E><$0F><$14><$01>
+//メッセージはありません。
+There are no\n
+messages.
+<$00>
+
+
+
+
+// Pos: 00003DBF
+
+#WLB(PTR, $00000A18)
+
+#WHB(PTR, $00000A19)
+
+//問け
+問け
+<$0B>
+//オクトーバー司令官：
+Comd. October:
+<$0D>
+//\nライカ君だね… 私はオクトーバー、\n今回の任務の司令官を務める。
+\n
+Ah, Laika. This is\n
+October, your mission
+<$0C>
+commander.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October:
+<$0D>
+//\n君を調査隊にすすめたのは実は私なんだ。\n君の働きには期待しているからね。
+\n
+I personally\n
+recommended you for
+<$0C>
+this survey unit.\n
+Thank you for coming\n
+aboard.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October:
+<$0D>
+//\nさて、君たちが向かう火星だが、\nどうも様子がおかしいんだ。
+\n
+Actually, I have a\n
+small errand for you.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October:
+<$0D>
+//\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
+\n
+See, "face-shaped\n
+creatures" on Mars
+<$0C>
+have those on the\n
+planet fearing the\n
+End Times.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October:
+<$0D>
+//\nこれから地球化計画を再開するにあたって、\nそんなブッソウなことではいかん。
+\n
+Obviously, we won't\n
+allow conjecture to
+<$0C>
+interrupt our\n
+terraformation plans,
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October:
+<$0D>
+//\n君たちの任務はうわさの真相を\n突き止めることなんだ。
+\n
+but I formally ask\n
+that you help find
+<$0C>
+the source of the\n
+rumor.
+<$00>
+
+
+
+
+// Pos: 00003F22
+
+#WLB(PTR, $00000A3C)
+
+#WHB(PTR, $00000A3D)
+
+<$00><$13><$42><$0B>
+オクトーバー司令官：
+<$0D>
+\nライカ君、この男を知っているかね。
+<$00>
+
+
+
+// Pos: 00003F49
+
+#WLB(PTR, $00000AC0)
+
+#WHB(PTR, $00000AC1)
+
+<$10>
+//ガリル大佐、先遣隊のリーダーだ。
+It's Col. Garyl,\n
+former leader of the\n
+vanguard unit from
+<$0C>
+the last mission.
+<$00>
+
+
+
+
+// Pos: 00003F60
+
+#WLB(PTR, $00000D20)
+
+#WHB(PTR, $00000D21)
+
+<$00><$13><$16><$0E><$0F>
+ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
+<$00>
+
+
+

@@ -1,0 +1,919 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00003ADF)
+
+// Pos: 00003ADF
+
+#WLB(PTR, $00000BD0)
+
+#WHB(PTR, $00000BD1)
+
+//広い、そこにいるの… あんただろ？\nさっきのあんただろ？
+広Hey, you there!\n
+Weren't you here\n
+before?
+<$00>
+
+
+
+
+// Pos: 00003AFD
+
+#WLB(PTR, $00000D14)
+
+#WHB(PTR, $00000D15)
+
+//話っていうんだろ？
+話, is it?
+<$00>
+
+
+
+
+// Pos: 00003B08
+
+#WLB(PTR, $000010B8)
+
+#WHB(PTR, $000010B9)
+
+<$11><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n不思議だなぁ…\nあんたって…つかみどころないんだよ。\nなかなか読めないからね。
+\n
+You're so...shifty!\n
+I had an especially
+<$0C>
+hard time getting a\n
+good look at you.
+<$00>
+
+
+
+
+// Pos: 00003B3E
+
+#WLB(PTR, $00001180)
+
+#WHB(PTR, $00001181)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nライカ…\nそれがあんたのニックネームなんだろ。
+\n
+Laika...\n
+That's only a
+<$0C>
+nickname, I see.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n僕はダミアヌス…\nへへ、砂の子ダミアヌスさ。
+\n
+I'm Damianos, hehe!\n
+Damianos the Sand
+<$0C>
+Shifter!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあのふたり、どこに行ったか知りたいかい？
+\n
+Hehe, would you like\n
+to know where your
+<$0C>
+two friends went?
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n僕が誘導したんだ、\nでも途中で勝手に抜け出したんだよ、ふふふ。
+\n
+I offered to show\n
+them around, but,
+<$0C>
+hehehe, they ran off\n
+on their own\n
+part-way.
+<$00>
+
+
+
+
+// Pos: 00003BD5
+
+#WLB(PTR, $000013D8)
+
+#WHB(PTR, $000013D9)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあのふたりはね、\nこの星に呼ばれたってこと。
+\n
+The planet called out\n
+to those two, and
+<$0C>
+they answered.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nふたりとも弱いんだね。
+\n
+Your friends sure are\n
+weak, huh!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nふふふ、女の子だけ帰納の丘に誘導したよ…
+\n
+Hehehe, the girl was\n
+led to the Inductive
+<$0C>
+Knoll.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nそれにしても不思議だなぁ、あんただけは\n誘導できなかったよ。
+\n
+And yet, it's strange\n
+that you of all
+<$0C>
+people were not led\n
+there.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nなんでかな…最大のナゾだね。
+\n
+And why is that?\n
+That's the real
+<$0C>
+mystery.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n女の子はこの先、帰納の丘にいるよ。\nちょっと疲れたみたいだったよ。
+\n
+Anyways, the girl\n
+seemed a little
+<$0C>
+tired, but she's up\n
+the hill just ahead.
+<$00>
+
+
+
+
+// Pos: 00003CAC
+
+#WLB(PTR, $0000145C)
+
+#WHB(PTR, $0000145D)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nそうそう、あんたにあげるよ、砂のシンパシー。\nいい名前だろ。
+\n
+Here, you can have\n
+this. It's called the
+<$0C>
+"Sand Sympathy". It's\n
+a good name, no?
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n僕に用があるときには\nそれで呼んでくれるといいよ。
+\n
+If you feel you need\n
+me for anything, use
+<$0C>
+this to call me.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nもっとも、この場所じゃなきゃ、\nだめだけどね。
+\n
+You need to do so out\n
+here, of course. If
+<$0C>
+not, how am I\n
+supposed to hear it?
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 00003D23
+
+#WLB(PTR, $000014E8)
+
+#WHB(PTR, $000014E9)
+
+<$10>
+//\n
+\n
+<$0B>
+//    
+
+<$0D>
+//砂のシンパシーを手に入れた。
+"SAND SYMPATHY"\n
+acquired.
+<$00>
+
+
+
+
+// Pos: 00003D3D
+
+#WLB(PTR, $00001ED4)
+
+#WHB(PTR, $00001ED5)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nえへへ、さっそくだね。\nあんた、気がみじかいの？
+\n
+Ehehe, that was fast.\n
+Are you feeling out
+<$0C>
+of your element?
+<$00>
+
+
+
+
+// Pos: 00003D60
+
+#WLB(PTR, $00001EE4)
+
+#WHB(PTR, $00001EE5)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n僕が誰かってことだよね。 僕は砂の子、\nえへへへへへ、でもオバケじゃないよ。
+\n
+I'm in my element,\n
+see? I'm the Sand
+<$0C>
+Shifter, in the\n
+flesh, hehe! I'm no\n
+ghost!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nそんな僕にも分からないことがあるんだ。\nどうしてだろう、あんたを誘導できなかった。
+\n
+The one thing I'll\n
+never understand is
+<$0C>
+how you couldn't be\n
+led anywhere.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n誘導っていうのは、その人を導くことなんだ。
+\n
+To lead someone is to\n
+show that person
+<$0C>
+their way.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nちょっとした遊びだけど、\nあんたにはムリみたいだ。
+\n
+I'm only having fun\n
+here, but I'd say
+<$0C>
+you're impossible!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nさて、帰らなきゃ、またね。
+\n
+Anyways, I guess I'd\n
+better head back.
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 00003E2D
+
+#WLB(PTR, $00001E88)
+
+#WHB(PTR, $00001E89)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nえへへへ、あんた、さびしがり屋さんなの。
+\n
+Ehehe, you are one\n
+lonely customer!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n僕に会いたいってことは、\nなにか開きたいことができたんだね。
+\n
+Looking for me like\n
+this means there's
+<$0C>
+something you wish\n
+you could open up\n
+about.
+<$00>
+
+
+
+
+// Pos: 00003E78
+
+#WLB(PTR, $00001D7C)
+
+#WHB(PTR, $00001D7D)
+
+#WLB(PTR, $00001E98)
+
+#WHB(PTR, $00001E99)
+
+<$11><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nイーブルマインドのことだろ、\n顔に書いてあるさ。
+\n
+Your Evil Mind is\n
+written all over your
+<$0C>
+face.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあんた、地球にマグマってあるの知ってるよね。\n火星のイーブルマインドは\nそれと同じようなものだよ。
+\n
+Evil Mind runs\n
+through Planet Mars
+<$0C>
+the way magma courses\n
+through Planet Earth.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nときどき地上に吹き出してくるんだ。\nイーブルマインドって、簡単にいうと悪い気さ。\n心が弱いとね、すぐに影響される…
+\n
+And like magma,\n
+sometimes it erupts.
+<$0C>
+Its wickedness\n
+absorbs and devours\n
+the weak-hearted.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nえへへ、おかしなことになっちゃうんだ。\nイーブルマインドは紫色だよ。
+\n
+Ehehe, you can even\n
+see how eerie it is.
+<$0C>
+Remember, Evil Mind\n
+is purple in color.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nじゃあ、もう帰るよ。\nあんたも気をつけてね。
+\n
+Anyways, I have to go\n
+now. Until next time!
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 00003F7D
+
+#WLB(PTR, $00001E58)
+
+#WHB(PTR, $00001E59)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nまたまた僕だよ、で、今度はなんだい？
+\n
+It's me again! So,\n
+what will we talk
+<$0C>
+about this time?
+<$00>
+
+
+
+
+// Pos: 00003F9D
+
+#WLB(PTR, $00001E68)
+
+#WHB(PTR, $00001E69)
+
+<$11><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあはー、そんな目で僕のこと見て…
+\n
+A-hah! Look at you,\n
+looking at me with
+<$0C>
+those eyes...
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n分かったよ、\nあんたの体から出てるビヨビヨのことだね。
+\n
+It's as if you're\n
+looking at me from
+<$0C>
+outside of your own\n
+body. That is "aura".
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nそれはオーラだよ。\nそうさ、あんたは火星の人間と話すだけで\n悪の影響を受けてるのさ。
+\n
+See, if you so much\n
+as talk to humans on
+<$0C>
+Mars, you'll be\n
+touched by their\n
+evil.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n火星の住人はみんな、いや、ほとんどが\nイーブルマインドによって悪人になって\nしまってるのさ。
+\n
+Everyone-well, most\n
+everyone on Mars is
+<$0C>
+under the influence\n
+of Evil Mind.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n悪人だよ、すごいね。\n僕だって例外じゃないってこと。
+\n
+That makes most\n
+everyone evil.
+<$0C>
+Amazing, right? And\n
+I'm no exception!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nさ、じゃあ、もう帰るね。
+\n
+And with that, I'm\n
+off!
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 00004098
+
+#WLB(PTR, $00001E28)
+
+#WHB(PTR, $00001E29)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあんた、僕のこと気に入ったの？\nそんなワケないよね。
+\n
+Do you like me? You\n
+don't see why you
+<$0C>
+would.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nで、あんたが知りたいことは…
+\n
+Now, what would you\n
+like to know...
+<$00>
+
+
+
+
+// Pos: 000040D8
+
+#WLB(PTR, $00001E38)
+
+#WHB(PTR, $00001E39)
+
+<$11><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nわりと当たり前のことだね… 悪の種類でしょ。\n３つあるって、そんなこともういいじゃない。
+\n
+Clearly, you want to\n
+know about the many
+<$0C>
+traits of evil.\n
+There's 3 types,\n
+but...
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nそれよりさ、欲悪がビジュアル系っていうのは、\nなんだか建わない？
+\n
+...traits aren't so\n
+simple! You see,
+<$0C>
+greed-or "desire", is\n
+a Visual type evil\n
+trait.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n力悪がアニマル系っていうのはよく分かるし、\n知悪がサイコ系っていうのも\nその通りだけどさ。
+\n
+"Power" is Animal\n
+type, and "wisdom" is
+<$0C>
+Psycho type. Do you\n
+see now?
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nねぇ、欲悪ってコロニーには\nリンダとマラケシュしかいないけど、\n他にもいるって知ってる？
+\n
+Linda and Marrakesh\n
+won't be the only
+<$0C>
+greedy people you\n
+meet in the colony.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nえへへ、ほんとだよ。\nじゃあね、帰るから。
+\n
+Ehehe, I'm not\n
+kidding. I'd better
+<$0C>
+go now!
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 000041D7
+
+#WLB(PTR, $00001DF8)
+
+#WHB(PTR, $00001DF9)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nさあて、なにを話そうかな…\nコロニーの不思議っていうのはどう？
+\n
+What shall we talk\n
+about this time? How
+<$0C>
+about...a mystery of\n
+the colony!
+<$00>
+
+
+
+
+// Pos: 00004205
+
+#WLB(PTR, $00001E08)
+
+#WHB(PTR, $00001E09)
+
+<$11><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n消灯時間って知ってる？\nコロニーの不思議さ。
+\n
+"What mystery", you\n
+ask? Well, do you
+<$0C>
+know what the\n
+lights-out time is\n
+about?
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n消灯って夜のことだろ…\nだから夜なら分かるんだけど、\nそれだけじゃないんだ、消灯時間は。
+\n
+Sure, we all turn the\n
+lights out at night,
+<$0C>
+but the colony all\n
+does so at one set\n
+time.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nね、不思議だろ…\n昔あそこはとびっきりの悪人を\n閉じ込めておく部屋だったんだ。
+\n
+In the old days, they\n
+used to have a room
+<$0C>
+where they imprisoned\n
+the worst of the\n
+worst.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nあそこって、知ってるよね、\nあんたの個室だよ。
+\n
+Do you know where\n
+that room is?
+<$0C>
+Actually, it was your\n
+private quarters!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nさ、もう行かなきゃ、またね。
+\n
+And with that, I'm\n
+heading out.
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 000042E5
+
+#WLB(PTR, $00001DC8)
+
+#WHB(PTR, $00001DC9)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nいきなりだけど、夢の話なんてどう？
+\n
+I know it's sudden,\n
+but do you want to
+<$0C>
+talk about dreams?
+<$00>
+
+
+
+
+// Pos: 00004303
+
+#WLB(PTR, $00001DD8)
+
+#WHB(PTR, $00001DD9)
+
+<$11><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n夢にもいろいろあるけれど、そうだなぁ、\n遠い夢ってどう？
+\n
+Sure, there are many\n
+dreams, but what
+<$0C>
+dreams of things we\n
+see in the distance?
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nずっと遠くに見えてるんだ… よくあるんだよ、\n僕は遠くに人形が見えてる。
+\n
+Dreams of things that\n
+are always beyond our
+<$0C>
+reach. For me, I see\n
+a distand doll.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n一抱えもある大きな人形、\nそれが真っ黒なんだよ。\n目もなにもなし、とにかく真っ黒さ。
+\n
+A doll with open\n
+arms, but it's
+<$0C>
+entirely black with\n
+no eyes. They're just\n
+black holes.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nまるで夜がそのまま人形になったみたいなんだ。\nでも、その人形となにするわけでもなくて、\nただ僕は遠くから見てるだけなんだけどね…
+\n
+It's as if the night\n
+sky became a doll,
+<$0C>
+but nothing happens\n
+with it. I can only\n
+watch it from afar.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n夢ってそんなもんだよね、おかしいね。\nさて、そろそろ、帰るね。
+\n
+Dreams are weird like\n
+that, aren't they.
+<$0C>
+And with that, I'd\n
+better go home.
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 00004419
+
+#WLB(PTR, $00001DA8)
+
+#WHB(PTR, $00001DA9)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nねぇ、あんたはなにをされるのがイヤなの？
+\n
+Hey, have you ever\n
+had to do something
+<$0C>
+you didn't want to\n
+do?
+<$00>
+
+
+
+
+// Pos: 00004438
+
+#WLB(PTR, $00001DB8)
+
+#WHB(PTR, $00001DB9)
+
+<$11><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nオトナになっていやなことって、\n本当はコドモのころにすごくいやな目に\nあってるんだよ…
+\n
+Know what I hate\n
+about being an adult?
+<$0C>
+Having really bad\n
+experiences with them\n
+as a kid.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n忘れてるだけで。\nふふふ、おかしいのはそのいやなことを\nまたやってる自分がいるんだ。
+\n
+Only, I forget them\n
+all. Hehe, the sad
+<$0C>
+part is, I bet I'm\n
+one of those bad\n
+experiences now.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n誰かをギセイにしてね。\n人間ってどうしていつもくり返すんだろ。
+\n
+We all have to blame,\n
+someone, don't we?
+<$0C>
+Why are humans so\n
+doomed to repetition?
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 000044D6
+
+#WLB(PTR, $00001F2C)
+
+#WHB(PTR, $00001F2D)
+
+<$10><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nなんだよ、あんたもせっかちだな。
+\n
+You're awfully hasty,\n
+you know!
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nヤツギバヤは止してくれ。分かる？\nヤツギバヤだよ、それ、きらいなんだ。
+\n
+Stop calling on my\n
+back-to-back
+<$0C>
+repeatedly! I hate\n
+it!
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+

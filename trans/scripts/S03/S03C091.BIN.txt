@@ -1,0 +1,154 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001A10)
+
+// Pos: 00001A10
+
+#WLB(PTR, $00000534)
+
+#WHB(PTR, $00000535)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあれは… バスルーム… タニアが、
+\n
+That was...a\n
+bathroom. Like the
+<$0C>
+one Tanya...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそうよ、タニアはバスルームで自殺したのよ！
+\n
+That's right. Tanya\n
+committed suicide in
+<$0C>
+that bathroom!
+<$00>
+
+
+
+
+// Pos: 00001A4D
+
+#WLB(PTR, $00000544)
+
+#WHB(PTR, $00000545)
+
+<$00><$0B><$20>
+       
+<$0D>
+大丈夫かい？\n
+<$0B>
+     
+<$0D>
+何かを見たんだろうけど、\n
+<$0B>
+  
+<$0D>
+それがあんたの本質にかかわることだよ。
+<$00>
+
+
+
+// Pos: 00001A90
+
+#WLB(PTR, $000005F0)
+
+#WHB(PTR, $000005F1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nどこにいるの？ あなたは？\nなんでアタシをつらくさせるの？
+\n
+Where are you? WHO\n
+are you? Why are you
+<$0C>
+in my head?!
+<$00>
+
+
+
+
+// Pos: 00001AB9
+
+#WLB(PTR, $000005FC)
+
+#WHB(PTR, $000005FD)
+
+//子    
+子
+<$0D>
+//リバーだよ、一緒に来ただろ。\nあんたはヨランダだね。分かるかい、ヨランダ。\n
+Calm down, it's me,\n
+River.\n
+I came with, Yolanda.\n
+It IS Yolanda, right?
+<$0B>
+//   
+<$0D>
+//この部屋に苦しみの権化がいるんだ、\n
+The personification\n
+of\n
+suffering is in this
+<$0C>
+room.\n
+<$0B>
+//     
+<$0D>
+//そいつを取り除くんだ。
+You have to remove\n
+it.
+<$00>
+
+
+
+
+// Pos: 00001B1A
+
+#WLB(PTR, $00000620)
+
+#WHB(PTR, $00000621)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nうそよ、何も見あたらないわ。
+\n
+I don't see anything!
+<$00>
+
+
+
+
+// Pos: 00001B34
+
+#WLB(PTR, $00000630)
+
+#WHB(PTR, $00000631)
+
+<$00><$0B><$20>
+   
+<$0D>
+いるんだよ、この部屋に。\n
+<$0B>
+     
+<$0D>
+どっかそのへんだよ、\n
+<$0B>
+     
+<$0D>
+あんたの近くだよ。
+<$00>
+
+

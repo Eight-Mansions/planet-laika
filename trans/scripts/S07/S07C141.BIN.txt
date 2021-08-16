@@ -1,0 +1,64 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000009A8)
+
+// Pos: 000009A8
+
+#WLB(PTR, $00000044)
+
+#WHB(PTR, $00000045)
+
+<$13><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\n上でゲート、開けてくる。\nリフトはひとり乗り、シー。
+\n
+I'll open the gate\n
+above. The lift rides
+<$0C>
+one, whoosh.
+<$0C><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\n開けたらリフト降ろしてやる。\nお前、アラート止めた、礼を言うつもりだ、\n閉じ込められるところだった、
+\n
+I'll take the lift\n
+first. If you didn't
+<$0C>
+stop the alarm, I'd\n
+be trapped, ankh.
+<$0C><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\nシー…礼だ…これでいいのか…\nリフトはひとり乗りだ、\nゲート開けてくる、
+\n
+Whoosh, ankh. I'm\n
+fine to open the
+<$0C>
+gate. But the lift\n
+rides one.
+<$0C><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\nシー…\n早くしないと氷がとけてあいつが動き出す、\nシー！
+\n
+Whoosh... If we don't\n
+hurry, the ice will
+<$0C>
+melt and flood the\n
+area, whoosh!
+<$1E>
+//行
+行
+<$00>
+
+
+
+

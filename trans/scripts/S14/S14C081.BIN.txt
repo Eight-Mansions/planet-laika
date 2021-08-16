@@ -1,0 +1,59 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000DD8)
+
+// Pos: 00000DD8
+
+#WLB(PTR, $00000198)
+
+#WHB(PTR, $00000199)
+
+<$10><$0B>
+//ゴールドマン：
+Goldman:
+<$0D>
+//\nなんかすげぇ音してたな？\n俺には関係ないけどな。
+<$1E>
+//声
+<$00>
+
+
+
+
+// Pos: 00000E02
+
+#WLB(PTR, $00000180)
+
+#WHB(PTR, $00000181)
+
+#WLB(PTR, $0000098E)
+
+#WHB(PTR, $0000098F)
+
+#WLB(PTR, $00000A0A)
+
+#WHB(PTR, $00000A0B)
+
+#WLB(PTR, $00000A3A)
+
+#WHB(PTR, $00000A3B)
+
+#WLB(PTR, $00000A6A)
+
+#WHB(PTR, $00000A6B)
+
+<$10><$0B>
+//ゴールドマン：
+Goldman:
+<$0D>
+//\n人のことは気にしねぇ、それが俺だ。
+<$1E>
+//家
+<$00>
+
+
+
+

@@ -1,0 +1,778 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000033B5)
+
+// Pos: 000033B5
+
+#WLB(PTR, $000001C0)
+
+#WHB(PTR, $000001C1)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nふほ！\nとうとうひとり歩きを始めたのじゃな。
+\n
+Go-ho! Started\n
+walking on your own,
+<$0C>
+have you?
+<$00>
+
+
+
+
+// Pos: 000033DB
+
+#WLB(PTR, $000001D4)
+
+#WHB(PTR, $000001D5)
+
+<$12><$13><$13><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nこの体はクロエにもらったんだ。\n別に欲しいってたのんだわけじゃないさ。
+\n
+I gained this body\n
+from Chloe.\n
+It wasn't exactly my\n
+choice.
+<$00>
+
+
+
+
+// Pos: 0000340F
+
+#WLB(PTR, $000001E8)
+
+#WHB(PTR, $000001E9)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nシークレットパワーはどうじゃ、\n試してはみたのか？
+\n
+And what of your\n
+secret power?\n
+Have you tried it?
+<$00>
+
+
+
+
+// Pos: 00003437
+
+#WLB(PTR, $000001FC)
+
+#WHB(PTR, $000001FD)
+
+<$12><$13><$13><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\n試すも何も、\n僕が話しかけるだけでみんなおかしくなる…
+\n
+It's not worth\n
+trying. Everyone I
+<$0C>
+speak to loses their\n
+mind!
+<$0C><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nこれで悪が浄化されるの？
+\n
+Is THAT how I'm to\n
+purify the evil?
+<$00>
+
+
+
+
+// Pos: 0000347C
+
+#WLB(PTR, $00000210)
+
+#WHB(PTR, $00000211)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nふほ… そうなのじゃ…
+\n
+Go-ho! Who can say?
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nはかり知れないのう、\nお前の心はどこまでも深いのう。
+\n
+It's immeasurable,\n
+see,\n
+how endlessly deep\n
+your mind is.
+<$00>
+
+
+
+
+// Pos: 000034BF
+
+#WLB(PTR, $00000230)
+
+#WHB(PTR, $00000231)
+
+<$12><$13><$13><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nねぇ、僕をさがしてるって？\nロッジであったこと？
+\n
+You were looking for\n
+me. Is this about
+<$0C>
+what happened at the\n
+lodge?
+<$00>
+
+
+
+
+// Pos: 000034E6
+
+#WLB(PTR, $000002E8)
+
+#WHB(PTR, $000002E9)
+
+<$11><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nふほ、そうじゃ、預言じゃ。
+\n
+Go-ho, yes! And the\n
+prophecy.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nユニバーサルマンは\nおのれの分身をまねき寄せて、\n失われた預言を取り戻そうとしておる。
+\n
+Universalman claws at\n
+the window to his
+<$0C>
+alter ego. He seeks\n
+the lost prophecy.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n分身は彼にとっては\n死の世界への入口なのじゃ。
+\n
+He sees his alter ego\n
+as his entrance to
+<$0C>
+the world of the\n
+dead.
+<$00>
+
+
+
+
+// Pos: 0000356B
+
+#WLB(PTR, $000002FC)
+
+#WHB(PTR, $000002FD)
+
+<$12><$13><$13><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\n開いたよ、死に向き合って預言を得るんだって。\nそれってエレミヤと一体になるってことなの？
+\n
+Some prophecies are\n
+only realized in
+<$0C>
+death. Does he want\n
+to become one with\n
+Jeremiah?
+<$00>
+
+
+
+
+// Pos: 000035AD
+
+#WLB(PTR, $00000310)
+
+#WHB(PTR, $00000311)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nそもそもこの星は死の動機を秘めておる。
+Well, for one, this\n
+planet has its own\n
+reason for dying.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n火星人たちは自らの死をもって、\nその善意と悪意を分けたのじゃ。
+\n
+The Martians used\n
+death as a means to
+<$0C>
+separate good will\n
+from ill will.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n善意は光る石となり、\n悪意はイーブルマインドとなった。
+\n
+Their good will\n
+became glowing
+<$0C>
+stones. Their ill\n
+will became Evil\n
+Mind.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n流刑者エレミヤはこの星の精神に触れ、\n死は終わりではなく始まり、
+Jeremiah the Exile\n
+was touched by the\n
+soul of the planet.
+<$0C>
+His death was not the\n
+end, but the\n
+beginning.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n死に対して心を開くとき\n救われると説いたのじゃ。
+\n
+When one opens their\n
+heart to death, they
+<$0C>
+will be saved.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nそして５つの預言を得よった。
+\n
+With that, the five\n
+prophecies are
+<$0C>
+realized.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nそのエレミヤに近づくには、\n死に向き合うしかないのじゃ。
+\n
+The only way to face\n
+Jeremiah now is to
+<$0C>
+face death.
+<$00>
+
+
+
+
+// Pos: 000036DF
+
+#WLB(PTR, $00000324)
+
+#WHB(PTR, $00000325)
+
+<$13><$13><$13><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nそうか…
+<$0C><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nユニバーサルマンはガリルとの闘いに敗れて\n死に向き合ったんだね。\n分身はその時に誕生したんだ。
+<$0C><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nあるいはいちど死んでよみがえったのかな？
+<$00>
+
+
+
+
+// Pos: 00003754
+
+#WLB(PTR, $000003D4)
+
+#WHB(PTR, $000003D5)
+
+<$11><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n分身と合体してユニバーサルマンは新しくなる。\nおそらく残りの預言は\nそこで得られるじゃろう。
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n全ての預言がそろうと\nガリルの妄想は消えてなくなり、\n預言が現実のものとなるのじゃ。
+<$00>
+
+
+
+
+// Pos: 000037D6
+
+#WLB(PTR, $000003E8)
+
+#WHB(PTR, $000003E9)
+
+<$12><$13><$13><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\n今はそうじゃないの？\n預言が実現しかけてるんじゃないの？
+<$00>
+
+
+
+
+// Pos: 00003804
+
+#WLB(PTR, $000003FC)
+
+#WHB(PTR, $000003FD)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n今、実現しようとしておるのは\nガリルの妄想じゃ。預言ではないのじゃ。
+<$00>
+
+
+
+
+// Pos: 0000383A
+
+#WLB(PTR, $000008A0)
+
+#WHB(PTR, $000008A1)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nライカ！\nよかった、無事だったのね。
+\n
+Laika! Thank goodness\n
+you're safe!
+<$00>
+
+
+
+
+// Pos: 00003859
+
+#WLB(PTR, $0000092C)
+
+#WHB(PTR, $0000092D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私、ヌーンの思い出に\n引きずり込まれたみたいになって…
+\n
+It felt like I'd been\n
+sucked into Noon's
+<$0C>
+memories.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n気が付くとママの気配やら、子供の頃の家やら、\nまがまがしい幻覚の中にいたの。
+\n
+I was in these\n
+irksome
+<$0C>
+hallucinations about\n
+house this, traces of\n
+mother that.
+<$00>
+
+
+
+
+// Pos: 000038BC
+
+#WLB(PTR, $00000940)
+
+#WHB(PTR, $00000941)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n見えていたのよ、ライカのこと。\nでも金しばりにあったみたいになって、\n体が動かなかったの。
+\n
+But I could see you,\n
+Laika. It was like
+<$0C>
+you were cast in\n
+metal, and couldn't\n
+move.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n夢の中…\n夢の中がどこか別な場所につながってるのよ。
+\n
+Like the inside of\n
+that dream...was
+<$0C>
+connected to another\n
+place I don't know.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそれなのに思うようにならない…\nそれに夢だって、\n本当に自分が見ている夢かどうか怪しいよね。
+\n
+For all that, it\n
+wasn't as I'd
+<$0C>
+thought, that dream.\n
+It makes me doubt I'D\n
+dreamt it.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n夢にそっくりなんだけど、\nきっとまどわされたのよ。
+\n
+I know this is what\n
+dreams are supposed
+<$0C>
+to do, but I feel\n
+totally lost after\n
+that.
+<$00>
+
+
+
+
+// Pos: 00003985
+
+#WLB(PTR, $00000954)
+
+#WHB(PTR, $00000955)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねえ、これからどうする？\n私はもうだいじょうぶよ。
+\n
+Well, now that we're\n
+okay, where do we go
+<$0C>
+from here?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nコロニーのほかの人たちは平気なのかなぁ。
+\n
+I hope the people in\n
+the colony are doing
+<$0C>
+all right.
+<$00>
+
+
+
+
+// Pos: 000039C8
+
+#WLB(PTR, $00000638)
+
+#WHB(PTR, $00000639)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ、アーネストや、どこへ行く。
+<$00>
+
+
+
+
+// Pos: 000039EA
+
+#WLB(PTR, $0000064C)
+
+#WHB(PTR, $0000064D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n何だ、また現れやがった。俺に用か？
+<$00>
+
+
+
+
+// Pos: 00003A0A
+
+#WLB(PTR, $00000660)
+
+#WHB(PTR, $00000661)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…火事、リバー…ひょひょ。
+<$00>
+
+
+
+
+// Pos: 00003A3F
+
+#WLB(PTR, $00000674)
+
+#WHB(PTR, $00000675)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n火事…燃えた町…いやな惑じだぜ。
+<$00>
+
+
+
+
+// Pos: 00003A61
+
+#WLB(PTR, $000006D4)
+
+#WHB(PTR, $000006D5)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ、スペーサーや、どこへ行く。
+\n
+Hyohyo, Spacer! Going\n
+somewhere?
+<$00>
+
+
+
+
+// Pos: 00003A83
+
+#WLB(PTR, $000006E8)
+
+#WHB(PTR, $000006E9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n鏡から出てきたのか。\nイレギュラーなことだ。
+<$00>
+
+
+
+
+// Pos: 00003AA8
+
+#WLB(PTR, $000006FC)
+
+#WHB(PTR, $000006FD)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…ロケット、リバー…ひょひょ。
+<$00>
+
+
+
+
+// Pos: 00003ADD
+
+#WLB(PTR, $0000070C)
+
+#WHB(PTR, $0000070D)
+
+<$11><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nロケット…\n私たちが乗って来たロケットのところか。
+<$00>
+
+
+
+
+// Pos: 00003B05
+
+#WLB(PTR, $00000684)
+
+#WHB(PTR, $00000685)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ、ヨランダや、どこへ行く。
+<$00>
+
+
+
+
+// Pos: 00003B26
+
+#WLB(PTR, $00000698)
+
+#WHB(PTR, $00000699)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nどうしたっていうのよ。もう疲れたわ。
+<$00>
+
+
+
+
+// Pos: 00003B45
+
+#WLB(PTR, $000006AC)
+
+#WHB(PTR, $000006AD)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…避難小屋、リバー…ひょひょ。
+<$00>
+
+
+
+
+// Pos: 00003B7E
+
+#WLB(PTR, $000006C0)
+
+#WHB(PTR, $000006C1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n避難小屋…\nたしかにあったわね、そんなところが。
+<$00>
+
+
+
+
+// Pos: 00003BA6
+
+#WLB(PTR, $00000A68)
+
+#WHB(PTR, $00000A69)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nどうやらここらあたりに入り口がありそうじゃ。\nだが何かが足りんぞ。
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n結界のようなものがあってな、\nそれを抜けねばならんのじゃが…
+<$00>
+
+
+
+
+// Pos: 00003C06
+
+#WLB(PTR, $00000A7C)
+
+#WHB(PTR, $00000A7D)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nおう、そうじゃ、石じゃ。\n光る石じゃ。 光る石はすべて集めたか？
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nいや最後のひとつは悪夢の中じゃ。\nすると残るは４つ…
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nどうじゃ、足りないじゃろう。\nさがすのじゃ、あまり時間はないぞ。
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nせっかく開きかけた入り口が閉じてしまうぞ。
+<$00>
+
+
+
+
+// Pos: 00003CBC
+
+#WLB(PTR, $00000AE8)
+
+#WHB(PTR, $00000AE9)
+
+<$10><$0B>
+ホワイトイーグル：
+<$0D>
+\n光る石は火星人の善意と言われておる。\nどこかにあるはずじゃ。
+<$00>
+
+
+

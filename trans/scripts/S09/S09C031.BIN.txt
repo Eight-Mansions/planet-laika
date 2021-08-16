@@ -1,0 +1,578 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002119)
+
+// Pos: 00002119
+
+#WLB(PTR, $00000148)
+
+#WHB(PTR, $00000149)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nほら、トールボーイだよ。
+\n
+Behold! This is\n
+Tallboy!
+<$00>
+
+
+
+
+// Pos: 00002130
+
+#WLB(PTR, $0000015C)
+
+#WHB(PTR, $0000015D)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nこれが神様。\nこれから目を入れるんだ。見ててよ！
+\n
+This is God! Look\n
+into the eyes of God!
+<$0C>
+Look at them!
+<$00>
+
+
+
+
+// Pos: 00002157
+
+#WLB(PTR, $00000190)
+
+#WHB(PTR, $00000191)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nや、やめるんだ！\nリバー、私は強い建和惑を惑じる！
+\n
+R-River, stop! I've\n
+got a real bad
+<$0C>
+feeling about this!
+<$00>
+
+
+
+
+// Pos: 00002182
+
+#WLB(PTR, $000001C4)
+
+#WHB(PTR, $000001C5)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n神様、神様、今すぐです、\nこれは左目、左目。
+\n
+God! God is almost\n
+here! Check the left
+<$0C>
+eye! The left eye!
+<$00>
+
+
+
+
+// Pos: 000021AC
+
+#WLB(PTR, $00000244)
+
+#WHB(PTR, $00000245)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nよせ、そいつは神様なんかじゃない！\n邪悪な力がみなぎっている！
+\n
+Uh-uh, this is NOT\n
+God! This thing is
+<$0C>
+amped up on wicked\n
+energy!
+<$00>
+
+
+
+
+// Pos: 000021DC
+
+#WLB(PTR, $0000027C)
+
+#WHB(PTR, $0000027D)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n神様、神様、次は右目、右目です。
+God! God wants the\n
+right eye now! The\n
+right eye!
+<$00>
+
+
+
+
+// Pos: 00002200
+
+#WLB(PTR, $000002F0)
+
+#WHB(PTR, $000002F1)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nさあ、あんたの出番だよ。あんたが持ってる\nその赤い石を右目にはめるんだ
+\n
+Now, it's your turn.\n
+Put that red stone
+<$0C>
+you have into the\n
+right eye!
+<$00>
+
+
+
+
+// Pos: 00002235
+
+#WLB(PTR, $00000304)
+
+#WHB(PTR, $00000305)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nこいつは悪の化身だ、\nイーブルマインドのかたまりだ！
+\n
+This thing IS evil\n
+incarnate! It IS a
+<$0C>
+miserable pile of\n
+Evil Mind!
+<$00>
+
+
+
+
+// Pos: 0000225E
+
+#WLB(PTR, $00000318)
+
+#WHB(PTR, $00000319)
+
+#WLB(PTR, $00000A1C)
+
+#WHB(PTR, $00000A1D)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nあんたが持ってる赤い石だよ、\nそれを右目にはめるんだ。
+\n
+You have the red\n
+stone! Put it into
+<$0C>
+the right eye NOW!
+<$00>
+
+
+
+
+// Pos: 00002289
+
+#WLB(PTR, $000003C4)
+
+#WHB(PTR, $000003C5)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nうわぁぁぁ、神様！\n神様神様神様、ですよね？
+\n
+YES! God! God! God!\n
+GOD, IT'S YOU, ISN'T
+<$0C>
+IT!
+<$00>
+
+
+
+
+// Pos: 000022B2
+
+#WLB(PTR, $000003E4)
+
+#WHB(PTR, $000003E5)
+
+<$12><$12>
+//こようやく目覚めの時がきたようだ。\nリバーよ、よく開くがいい。
+At last, it seems I\n
+am ready to awaken.\n
+River, listen to Me
+<$0C>
+carefully.
+<$0C>
+//お前は影の存在だ。
+You are a shadowed\n
+existence.
+<$0C>
+//お前を生み出したのは、リトルの小さな良心だ。\n塩のかけらほどのみすぼらしい良心だ。
+It was the Liter tiny\n
+conscience that\n
+created you. A
+<$0C>
+conscience no larger\n
+than a grain of salt.
+<$0C>
+//今からお前は私のしもべとなり、\nこの星を再生するのだ。
+Henceforth, you will\n
+be My servant in\n
+bringing this planet
+<$0C>
+its due rebirth.
+<$00>
+
+
+
+
+// Pos: 00002337
+
+#WLB(PTR, $000003F8)
+
+#WHB(PTR, $000003F9)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n神様…そんな…\n僕はずっと僕なんです…
+\n
+B-but God, that can't\n
+be! I...I've always
+<$0C>
+been me, right? I've\n
+been good to you!
+<$00>
+
+
+
+
+// Pos: 00002359
+
+#WLB(PTR, $00000418)
+
+#WHB(PTR, $00000419)
+
+<$12><$12>
+//こ多くの双子に手をかけたのは、お前だ。\nお前が生き埋めにしたのだ。
+YOU stole countless\n
+twins away! YOU\n
+buried them alive!
+<$0C>
+//お前はその罪にさいなまれ、消えることのない\n染みのような悪を心に宿している。
+YOU are guilty of a\n
+sin beyond\n
+recompense! A
+<$0C>
+staining evil seeps\n
+from YOUR heart and\n
+soul!
+<$0C>
+//その悪を育て、私にそそぐのだ。\nそれでお前は永遠の存在となる。
+Now, pour that evil\n
+unto Me, that you may\n
+become an eternal
+<$0C>
+existence.
+<$00>
+
+
+
+
+// Pos: 000023D4
+
+#WLB(PTR, $0000042C)
+
+#WHB(PTR, $0000042D)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n建う！建う！ イヤだ！
+\n
+No! No, I've worked\n
+so hard, God!
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n…僕は…罪をつぐなうために…\n心をきれいにするために…
+\n
+To...to make up for\n
+my sins... To cleanse
+<$0C>
+my mind...
+<$00>
+
+
+
+
+// Pos: 00002412
+
+#WLB(PTR, $0000044C)
+
+#WHB(PTR, $0000044D)
+
+<$12><$12>
+//こむだなことはやめろ。お前は生来の罪人だ。\nさあ、私とひとつになるのだ。
+Do not waste your\n
+breath. You are a\n
+sinner by nature.
+<$0C>
+Come now, and become\n
+one with me.
+<$0C>
+//悪に染まったお前のタマシイを、\n私によこすのだ。
+Offer your tainted\n
+spirit to me.
+<$00>
+
+
+
+
+// Pos: 00002456
+
+#WLB(PTR, $00000460)
+
+#WHB(PTR, $00000461)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nうううう、やめてくれ！\n僕はただつぐないたいだけなのに！
+\n
+No! Stop this, God!\n
+All I wanted was to
+<$0C>
+right my wrongs!
+<$00>
+
+
+
+
+// Pos: 0000247E
+
+#WLB(PTR, $000004C0)
+
+#WHB(PTR, $000004C1)
+
+<$12><$12>
+//こお前の罪などたかが知れてる。\n私はぶよぶよふくらんだお前のみにくい心に\n興味があるのだ。
+I know your every\n
+wrong, and your\n
+bloated, swollen,
+<$0C>
+evil little mind\n
+piques my interest.
+<$0C>
+//見るがいい、私の身体を。\nお前が殺した双子の顔だ。\n苦しみに歪んだ顔だ。
+Look well at my body.\n
+These faces, twisted\n
+by suffering, are
+<$0C>
+those of the twins\n
+you killed.
+<$0C>
+//さあ、見ろ、お前が殺したのだ、\n生き埋めにしたのだ！
+Yes, look at the ones\n
+you killed-at the\n
+ones you buried
+<$0C>
+alive!
+<$00>
+
+
+
+
+// Pos: 000024FF
+
+#WLB(PTR, $000004D4)
+
+#WHB(PTR, $000004D5)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nやめてくれ！\nこれ以上僕に近づくな、眼を抜いてやる！
+\n
+STOP THIS! Don't come\n
+near me! I'll gauge
+<$0C>
+your eyes back out!
+<$00>
+
+
+
+
+// Pos: 0000252A
+
+#WLB(PTR, $000004F4)
+
+#WHB(PTR, $000004F5)
+
+<$12><$12>
+//こ私をてこずらせるな。\nしたがわないのなら、お前の薄汚い心を\n苦しみの炎で焼きつくしてやる！
+Do not challenge me.\n
+Obey me, or I shall\n
+burn that fleck you
+<$0C>
+call a mind in the\n
+flames of suffering!
+<$00>
+
+
+
+
+// Pos: 00002561
+
+#WLB(PTR, $000006D8)
+
+#WHB(PTR, $000006D9)
+
+<$12><$12>
+//こもうひとりいたのか、おびえた子犬が。
+Ah, yes, the other\n
+frightened little\n
+puppy in my midst.
+<$00>
+
+
+
+
+// Pos: 00002579
+
+#WLB(PTR, $000006EC)
+
+#WHB(PTR, $000006ED)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nお前はイーブルマインドのカスだ、\nカスが積もってできた代物だ。
+\n
+Let me guess, you're\n
+a huge chunk of Evil
+<$0C>
+Mind sediment that's\n
+accumulated here.
+<$00>
+
+
+
+
+// Pos: 000025A8
+
+#WLB(PTR, $000006FC)
+
+#WHB(PTR, $000006FD)
+
+<$12><$12>
+//こいいことを教えてやろう。\nどんな犬にも出番があるものだ。\nさあ、その出番とやらを見せてもらおうか。
+I'll tell you one\n
+thing. Every dog has\n
+his moment. Here, let
+<$0C>
+me...give you a whiff\n
+of one such moment.
+<$00>
+
+
+
+
+// Pos: 000025E3
+
+#WLB(PTR, $00000720)
+
+#WHB(PTR, $00000721)
+
+<$12><$12>
+//こどうした子犬。
+What's the matter,\n
+puppy?
+<$0C>
+//白ブタのママは腐った臭いをまき散らしながら、\nお前を産んだのだ。
+Don't you miss the\n
+filthy, rotten stench\n
+of that pig you
+<$0C>
+called a mother when\n
+she gave birth to\n
+you?
+<$00>
+
+
+
+
+// Pos: 00002616
+
+#WLB(PTR, $00000734)
+
+#WHB(PTR, $00000735)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nその手には乗らない！\nお前の挑発にはな！
+\n
+I'm not falling for\n
+that, not for your
+<$0C>
+enjoyment.
+<$00>
+
+
+
+
+// Pos: 0000263B
+
+#WLB(PTR, $00000740)
+
+#WHB(PTR, $00000741)
+
+<$12><$12>
+//こはははは、もう十分だ、\nお前の憎しみはどうやら底なしのようだ。
+Hahaha, then I\n
+digress. I see how\n
+deeply and endlessly
+<$0C>
+your hatred runs.
+<$00>
+
+
+
+

@@ -1,0 +1,576 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000186E)
+
+// Pos: 0000186E
+
+#WLB(PTR, $0000047C)
+
+#WHB(PTR, $0000047D)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nあー、眠い眠い…
+\n
+Gosh, am I sleepy...
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nあんただね。\nよく来られたね、ここが僕の隠れ家だよ。
+\n
+You've come here\n
+quite a bit, haven't
+<$0C>
+you? To my hideout\n
+here.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nレッドおじさんは\n地下水道にあると思い込んでるけどね。
+\n
+Uncle Red still\n
+thinks my hiding
+<$0C>
+place is in the\n
+underground canal,\n
+doesn't he?
+<$00>
+
+
+
+
+// Pos: 000018D3
+
+#WLB(PTR, $000004B8)
+
+#WHB(PTR, $000004B9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n思念の眼、君にもあれが見えるんだな？
+So tell me, you can\n
+see the Mind's eyes\n
+too, can' you not?
+<$00>
+
+
+
+
+// Pos: 000018F5
+
+#WLB(PTR, $000004DC)
+
+#WHB(PTR, $000004DD)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nねぇ、なんか僕に\n開きたいことあるんじゃないの？
+\n
+Was there anything\n
+else you wanted to
+<$0C>
+ask me?
+<$00>
+
+
+
+
+// Pos: 00001919
+
+#WLB(PTR, $000004F8)
+
+#WHB(PTR, $000004F9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあ、ああ… あるにはあるが…
+\n
+Oh, w that you\n
+mention it...
+<$0C>
+//１．君とダミアヌスは双子なのか\n２．ダークマンというのはあの人形のことなのか\n３．泡のおじさんって誰のことだ？
+1. Are you and\n
+Damianos twins?\n
+Is Darkman a doll?
+<$0C>
+Who is Uncle Bubbles?
+<$1B>
+//２１ \n２ \n３ 
+２１\n
+２\n
+３
+<$00><$17><$00>
+
+
+
+
+// Pos: 0000197D
+
+#WLB(PTR, $0000052C)
+
+#WHB(PTR, $0000052D)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n僕に兄弟なんていないさ、本当だよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nレッドおじさんは勝手に話を作り出す\n天才なんだよ。
+<$00>
+
+
+
+
+// Pos: 000019C6
+
+#WLB(PTR, $00000544)
+
+#WHB(PTR, $00000545)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nときどきね。ときどき人形の体を借りに来る…\nでもいつもは別のところにいるんだ。
+\n
+On and off. He's\n
+always somewhere
+<$0C>
+else, but does borrow\n
+the body of a doll\n
+sometimes.
+<$00>
+
+
+
+
+// Pos: 000019FC
+
+#WLB(PTR, $00000554)
+
+#WHB(PTR, $00000555)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nレッドおじさんが子供の頃に\n一緒に暮らしてたひとだよ。
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nいつも泡まみれになってるんだって。
+<$00>
+
+
+
+
+// Pos: 00001A42
+
+#WLB(PTR, $000005A0)
+
+#WHB(PTR, $000005A1)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nじゃあ、今度は僕が質問するよ。
+\n
+All right, now it's\n
+my turn to ask you
+<$0C>
+something.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nもしあんたが僕だったら、\nレッドおじさんを許してあげる？
+\n
+If you were me, would\n
+you forgive Uncle
+<$0C>
+Red?
+<$00>
+
+
+
+
+// Pos: 00001A87
+
+#WLB(PTR, $000005BC)
+
+#WHB(PTR, $000005BD)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n君はひどい目にあったんだな… 無理に\nヴァニティフェイスにさせられて、しかも…
+\n
+What you went through\n
+was horrible! He
+<$0C>
+forced you to get\n
+vanity face, and...
+<$00>
+
+
+
+
+// Pos: 00001ABE
+
+#WLB(PTR, $000006FC)
+
+#WHB(PTR, $000006FD)
+
+<$11><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n本当のところ、僕がどれだけひどい目にあったか\nあまり覚えていないんだ…
+\n
+The truth is, I don't\n
+actually remember how
+<$0C>
+terrible it all was.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nなんでか分からないけど、おじさんが\n僕のクビ筋に息を吹きかけたりしはじめると、\nいつも眠っちゃうんだよ。
+\n
+I don't know why, but\n
+whenever my uncle
+<$0C>
+breathed on the back\n
+of my neck, I always\n
+fell asleep.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nそして夢の中で砂嵐の中を歩いてる。\nぴゅうぴゅう風が吹いて寒いんだ…
+\n
+And when I walked\n
+through the
+<$0C>
+sandstorms in my\n
+dreams, a chilling\n
+howl would blow it\n
+away.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nそうなるのはダークマンが\n僕を鋭んでくれるからだよ。
+\n
+I suppose I only\n
+notice it because
+<$0C>
+Darkman is honing my\n
+mind.
+<$00>
+
+
+
+
+// Pos: 00001B8A
+
+#WLB(PTR, $0000072C)
+
+#WHB(PTR, $0000072D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n砂嵐？ それはいつものことなのか？
+\n
+Do you always see\n
+sandstorms?
+<$00>
+
+
+
+
+// Pos: 00001BAA
+
+#WLB(PTR, $00000750)
+
+#WHB(PTR, $00000751)
+
+<$11><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nそうだよ。
+\n
+Yes.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nねぇ、答えてよ、レッドおじさんを許す？\nそれとも許さないの？\n早くしないと眠くなっちゃう。
+\n
+So, what's your\n
+answer. If you don't
+<$0C>
+answer quickly, I'll\n
+fall asleep.
+<$00>
+
+
+
+
+// Pos: 00001BF4
+
+#WLB(PTR, $0000076C)
+
+#WHB(PTR, $0000076D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nひどい目にあわせたこと自体は許しがたい…
+\n
+If what I went\n
+through was
+<$0C>
+undoubtedly\n
+horrible...
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nしかし、それによって君が\n心に悪をためないすべを身に付けたのだから…
+\n
+...but I felt it\n
+helped me rid the
+<$0C>
+evil in my heart,\n
+would I forgive him?
+<$1B>
+//※許してもかまわない\n許すことはできない
+※Yes\n
+No
+<$00><$17><$00>
+
+
+
+
+// Pos: 00001C61
+
+#WLB(PTR, $000007B8)
+
+#WHB(PTR, $000007B9)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nふーん、そうなの。
+\n
+Hmm, I see.
+<$00>
+
+
+
+
+// Pos: 00001C74
+
+#WLB(PTR, $000007DC)
+
+#WHB(PTR, $000007DD)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n君はどうなんだ？
+\n
+What about you?
+<$00>
+
+
+
+
+// Pos: 00001C89
+
+#WLB(PTR, $000007F8)
+
+#WHB(PTR, $000007F9)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nどうって？ 答はあんたが出したじゃない。\nそれで決まりだよ。
+\n
+What about me? I was\n
+asking you the
+<$0C>
+question, not the\n
+other way around.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n僕、もう寝るね。
+\n
+Anyways, I'm going to\n
+sleep now.
+<$0C><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nあんたも寝るといいよ、\n夢の中で会えるって本当だよ。
+\n
+You should go to\n
+sleep too. We can
+<$0C>
+always meet inside of\n
+another dream.
+<$00>
+
+
+
+
+// Pos: 00001CF0
+
+#WLB(PTR, $00000828)
+
+#WHB(PTR, $00000829)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n夢の中？
+\n
+Inside of another\n
+dream?
+<$00>
+
+
+
+
+// Pos: 00001D03
+
+#WLB(PTR, $0000085C)
+
+#WHB(PTR, $0000085D)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n今なら眠れるよ、\n僕が眠ってるときが消灯時間さ。
+\n
+I'm going to sleep\n
+for now, but when I'm
+<$0C>
+sleeping-sleeping,\n
+it's lights-off time.
+<$00>
+
+
+
+
+// Pos: 00001D2D
+
+#WLB(PTR, $00000868)
+
+#WHB(PTR, $00000869)
+
+<$11><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nよくは覚えてないんだね、さっきも会ったのに。\nもう石はないよ、\nでも光る石のことなら教えてあげられるよ。
+\n
+You might not\n
+remember well, but we
+<$0C>
+met before. I can\n
+tell you about the\n
+glowing stones.
+<$00>
+
+
+
+
+// Pos: 00001D71
+
+#WLB(PTR, $00000898)
+
+#WHB(PTR, $00000899)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n消灯時間？
+\n
+Lights-off time?
+<$00>
+
+
+
+
+// Pos: 00001D87
+
+#WLB(PTR, $000008B4)
+
+#WHB(PTR, $000008B5)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nそうさ、お休みだよ、あんた。
+\n
+Yeah. Now, good\n
+night!
+<$00>
+
+
+
+
+// Pos: 00001DA0
+
+#WLB(PTR, $000008E4)
+
+#WHB(PTR, $000008E5)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n眠ったのか。
+\n
+Does he...sleep that\n
+way?
+<$00>
+
+
+
+

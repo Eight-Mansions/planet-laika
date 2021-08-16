@@ -1,0 +1,435 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002F95)
+
+// Pos: 00002F95
+
+#WLB(PTR, $000003B0)
+
+#WHB(PTR, $000003B1)
+
+<$10><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n
+<$0F>
+//君、君は宿命の子なのかね、\nそれでここにいる？
+, you are a child of\n
+Destiny, aren't you?\n
+Is that why you're
+<$0C>
+here?
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nそれともこれは君にとっては\n自分さがしの旅なのかね？
+\n
+On top of that,\n
+you're on a journey
+<$0C>
+to find yourself.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n私としても最善を尽くしているのでね、\n分かって欲しいんだ。
+\n
+We're all in this\n
+together. I want you
+<$0C>
+to know that.
+<$00>
+
+
+
+
+// Pos: 00003021
+
+#WLB(PTR, $000004A0)
+
+#WHB(PTR, $000004A1)
+
+#WLB(PTR, $000015CC)
+
+#WHB(PTR, $000015CD)
+
+#WLB(PTR, $00001790)
+
+#WHB(PTR, $00001791)
+
+#WLB(PTR, $000022E4)
+
+#WHB(PTR, $000022E5)
+
+<$10><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n
+\n
+<$0F>
+//君、君は幼い頃に\nお父さんを亡くしている。
+, you lost your\n
+father at a very\n
+young age.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n君のお母さんはウラジミールという\nエ員上がりの男と再婚した。
+\n
+Your mother remarried\n
+a former factory
+<$0C>
+worker, Vladimir.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nウラジミールも奥さんに先立たれ、\n一人息子のセルゲイを養っていた。
+\n
+Vladimir was a\n
+widower who provided
+<$0C>
+for his only son,\n
+Sergei.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nこれで役者はそろったわけだ。
+\n
+And with that, our\n
+stage is set..
+<$00>
+
+
+
+
+// Pos: 000030DD
+
+#WLB(PTR, $0000057C)
+
+#WHB(PTR, $0000057D)
+
+<$10><$0B>
+//ウラジミール：
+Vladimir:
+<$0D>
+//\nセルゲイ兄さんを見習え！ ええ？\n見習うんだ、できそこないめが！
+\n
+Where you dropped on\n
+the fucking head?!
+<$0C>
+Why can't you be more\n
+like Sergei?!
+<$00>
+
+
+
+
+// Pos: 0000310C
+
+#WLB(PTR, $000005E8)
+
+#WHB(PTR, $000005E9)
+
+<$10><$0B>
+//セルゲイ：
+Sergei:
+<$0D>
+//\nへへへへ、いいこと教えてやろうか？\n父さんはお前がキライなんだよ。
+\n
+Hehehe! Hey, guess\n
+what? MY batya HATES
+<$0C>
+your guts!
+<$00>
+
+
+
+
+// Pos: 00003139
+
+#WLB(PTR, $00000600)
+
+#WHB(PTR, $00000601)
+
+<$10><$0B>
+//セルゲイ：
+Sergei:
+<$0D>
+//\nお前達がこの家に来たときからな、\nキライなんだ、ひゃひゃひゃ
+\n
+Yup! Ever since you\n
+and that BITCH moved
+<$0C>
+in! Hahaha!
+<$00>
+
+
+
+
+// Pos: 00003164
+
+#WLB(PTR, $00000670)
+
+#WHB(PTR, $00000671)
+
+<$10><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n新しいくらし、それは苦しみの連続だ。\nだが希望は失われてはいなかった。
+\n
+Despite the\n
+sufferings of your
+<$0C>
+new life, your family\n
+had a light of hope.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nそうだよ、君には妹ができることになった。
+\n
+That's right. You had\n
+a baby sister on the
+<$0C>
+way.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nこれでうまくいく、みんなうまくいく、\n君のお母さんはそう思ったんだ。
+\n
+"We'll be fine soon.\n
+Things will work out
+<$0C>
+soon," thought your\n
+mother.
+<$00>
+
+
+
+
+// Pos: 000031FB
+
+#WLB(PTR, $000006D0)
+
+#WHB(PTR, $000006D1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nウラジミールは先生にこっそり話を付けて\nタニアのお腹の子供を殺しちゃったの。
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nどんな風にしたかって？\n開かないでよアタシに。
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nとにかく死産ということになって、\nうまく処理されたのよ。
+<$00>
+
+
+
+
+// Pos: 00003280
+
+#WLB(PTR, $000007D0)
+
+#WHB(PTR, $000007D1)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n死んじゃいねぇ、ミーシャはいるんだ、\n俺が守ってやるぜ！
+<$00>
+
+
+
+
+// Pos: 000032AB
+
+#WLB(PTR, $000008D0)
+
+#WHB(PTR, $000008D1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nだめだ！ ミーシャは君が作り出した人格だ。\n勝手にかかわったりしちゃだめだ。
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nアーネスト、ミーシャはいないんだ、\nあきらめろ。
+<$00>
+
+
+
+
+// Pos: 00003305
+
+#WLB(PTR, $000009F4)
+
+#WHB(PTR, $000009F5)
+
+<$10><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n
+<$0F>
+//君、
+...
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nこの天地にはかの哲学の考えも\nおよばないことがあるのだ。
+\n
+As no one philosophy\n
+can fulfill every
+<$0C>
+aspect of life,
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n３人にはもうひと働きしてもらうといい。
+\n
+you three must work\n
+as one to carry said
+<$0C>
+one through.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nだが、忘れちゃいかん、
+\n
+Do not forget that\n
+all you see, and all
+<$0C>
+you hear...
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n君が見るもの、開いたこと、それこそが\n真実の芽になるのだよ、
+\n
+...are the seeds from\n
+which you will reap
+<$0C>
+absolute truth,
+<$0F>
+//君。
+.
+<$00>
+
+
+
+
+// Pos: 000033C4
+
+#WLB(PTR, $00000A94)
+
+#WHB(PTR, $00000A95)
+
+<$10><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n君はずっといい子を演じてきた、建うかな？\n亡きお父さんの期待に応えようと頑張った。
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nしかし残念なことに、\n君は本当の自分を見失ってしまったのだよ。
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n痛みや悲しみすら惑じなくなったのだ。
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nぽっかり空いた君の心を、\n子羊たちがさまよいはじめた。
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nなんとも罪作りな子羊たちだ。
+<$00>
+
+
+
+
+// Pos: 000034B8
+
+#WLB(PTR, $00000B1C)
+
+#WHB(PTR, $00000B1D)
+
+<$10><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\n君は生まれ変わりを信じるかね。\nそれとも分身はどうかな…
+\n
+Do you believe in\n
+rebirth? What about
+<$0C>
+alter egoes?
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nいやはや、やっかいな問顆だらけだ。
+\n
+Then you know our\n
+world is a garden of
+<$0C>
+truly bizarre\n
+concepts.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nだがな、本当に世界が求めているのは\nそんなまやかしではないぞ。
+\n
+But the world does\n
+not ask these
+<$0C>
+questions to deceive\n
+you.
+<$0C><$0B>
+//オクトーバー司令官：
+Comd. October：
+<$0D>
+//\nただひとつ、マコトの双子なのだよ。
+\n
+No, the world itself\n
+only yearns for an
+<$0C>
+answer from the twins\n
+of truth.
+<$00>
+
+
+
+

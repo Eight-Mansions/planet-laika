@@ -1,0 +1,115 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001774)
+
+// Pos: 00001774
+
+#WLB(PTR, $00000124)
+
+#WHB(PTR, $00000125)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\nせっかく静かに暮らしていたのに、シー。
+\n
+We were living so\n
+peacefully and
+<$0C>
+quietly, whoosh...
+<$00>
+
+
+
+
+// Pos: 0000179A
+
+#WLB(PTR, $00000148)
+
+#WHB(PTR, $00000149)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーンがママを呼び出したの？
+\n
+Why did Noon call for\n
+his mother?
+<$00>
+
+
+
+
+// Pos: 000017B5
+
+#WLB(PTR, $0000016C)
+
+#WHB(PTR, $0000016D)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\nシーシーシーシー！
+\n
+\n
+Whoosh-whoosh-whoosh-whoosh!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 000017D2
+
+#WLB(PTR, $000000D8)
+
+#WHB(PTR, $000000D9)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\nおしまい、シー、\nもうおしまい、シーシー…
+\n
+We're done for,\n
+whoosh! We're all
+<$0C>
+done for,\n
+whoosh-whoosh!
+<$00>
+
+
+
+
+// Pos: 000017F8
+
+#WLB(PTR, $000000FC)
+
+#WHB(PTR, $000000FD)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーンは機関士なのよ、\nここの町長じゃないの。
+\n
+Noon is an engineer\n
+from Earth! He was
+<$0C>
+never your elder!
+<$1E>
+//行
+行
+<$00>
+
+
+
+

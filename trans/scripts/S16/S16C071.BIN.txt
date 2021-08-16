@@ -1,0 +1,54 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149548032, 32)
+#JMP($00000D23)
+
+// Pos: 00000D23
+
+#WBB(PTR, $00000226)
+
+#WUB(PTR, $00000227)
+
+#WLB(PTR, $00000226)
+
+#WHB(PTR, $00000227)
+
+に近
+<$3B>
+
+
+
+// Pos: 00000D27
+
+#WBB(PTR, $0000022A)
+
+#WUB(PTR, $0000022B)
+
+#WLB(PTR, $0000022A)
+
+#WHB(PTR, $0000022B)
+
+<$52>
+
+
+
+// Pos: 00000D28
+
+#WBB(PTR, $0000022E)
+
+#WUB(PTR, $0000022F)
+
+#WLB(PTR, $0000022E)
+
+#WHB(PTR, $0000022F)
+
+はここだ。\nそんなこと考えてたら寒くなってきやがった。
+<$00><$10><$0B>
+ゴールドマン：
+<$0D>
+\n何で俺が酒場なんだ？下戸なのにな。\n飲めねぇ、一滴もだ。うー、寒い寒い？
+<$00>
+
+

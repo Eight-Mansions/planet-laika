@@ -1,0 +1,473 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000024ED)
+
+// Pos: 000024ED
+
+#WLB(PTR, $0000065C)
+
+#WHB(PTR, $0000065D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそっちは忘却の海よ。\n黒いカベってそっちじゃないよ。
+\n
+That's Oceanum\n
+Oblivionis. The black
+<$0C>
+wall won't be there!
+<$00>
+
+
+
+
+// Pos: 00002516
+
+#WLB(PTR, $00000564)
+
+#WHB(PTR, $00000565)
+
+#WLB(PTR, $000005E0)
+
+#WHB(PTR, $000005E1)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n今はだめよ、連中にみつかると\nまた閉じ込められてしまうじゃない。
+\n
+Now's not the time!\n
+If we're caught
+<$0C>
+again, we'll be\n
+imprisoned!
+<$00>
+
+
+
+
+// Pos: 00002546
+
+#WLB(PTR, $00000890)
+
+#WHB(PTR, $00000891)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここね。 合い言葉、何だっけ？
+\n
+Here we are! What was\n
+the password again?
+<$00>
+
+
+
+
+// Pos: 00002562
+
+#WLB(PTR, $000008A0)
+
+#WHB(PTR, $000008A1)
+
+<$10><$14><$00>
+１ おお？ばらよ、お前は病んでいる？\n２ おお、ばらよ？お前は病んでいる！\n３ おお、ばらよ！お前は病んでいる！
+<$1B>
+３１\n２\n３
+<$00><$17><$00>
+
+
+
+// Pos: 000025AA
+
+#WLB(PTR, $000008F4)
+
+#WHB(PTR, $000008F5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nおお？ばらよ、お前は病んでいる？
+\n
+O, Rose! Thou art\n
+sick?
+<$00>
+
+
+
+
+// Pos: 000025C6
+
+#WLB(PTR, $00000900)
+
+#WHB(PTR, $00000901)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nおお、ばらよ？お前は病んでいる！
+\n
+O, Rose? Thou art\n
+sick!
+<$00>
+
+
+
+
+// Pos: 000025E2
+
+#WLB(PTR, $00000920)
+
+#WHB(PTR, $00000921)
+
+<$10><$0B>
+エイプリル：
+<$0D>
+\nおかしいな…これじゃないんじゃない？
+<$00>
+
+
+
+// Pos: 000025FF
+
+#WLB(PTR, $00000938)
+
+#WHB(PTR, $00000939)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nおお、ばらよ！お前は病んでいる！
+\n
+O, Rose! Thou art\n
+sick!
+<$00>
+
+
+
+
+// Pos: 0000261B
+
+#WLB(PTR, $000009A8)
+
+#WHB(PTR, $000009A9)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n開いた！
+\n
+We're in!
+<$00>
+
+
+
+
+// Pos: 0000262B
+
+#WLB(PTR, $000009C4)
+
+#WHB(PTR, $000009C5)
+
+<$10>
+//なんだなんだ、おどかすな！
+W-what in the\n
+Goddamn?!
+<$00>
+
+
+
+
+// Pos: 0000263A
+
+#WLB(PTR, $00000AF8)
+
+#WHB(PTR, $00000AF9)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nいきなり何だよ。
+\n
+You scared me, doing\n
+that! How did you
+<$0C>
+open the door?!
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nそんな古くさい合言葉なんてもういらないんだ、\n普通に開いただろ、開かなかったか？
+\n
+Clearly, I need to do\n
+something about that
+<$0C>
+old password.
+<$00>
+
+
+
+
+// Pos: 00002682
+
+#WLB(PTR, $00000B28)
+
+#WHB(PTR, $00000B29)
+
+#WLB(PTR, $00001CEE)
+
+#WHB(PTR, $00001CEF)
+
+#WLB(PTR, $00001D5A)
+
+#WHB(PTR, $00001D5B)
+
+#WLB(PTR, $00001D9A)
+
+#WHB(PTR, $00001D9B)
+
+#WLB(PTR, $00001DFA)
+
+#WHB(PTR, $00001DFB)
+
+#WLB(PTR, $00001E66)
+
+#WHB(PTR, $00001E67)
+
+#WLB(PTR, $00001EA2)
+
+#WHB(PTR, $00001EA3)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n閉まってたわ。\nホワイトイーグルに教えてもらったのよ。
+\n
+We're sorry for\n
+scaring you. White
+<$0C>
+Eagle told us the\n
+password.
+<$00>
+
+
+
+
+// Pos: 000026AA
+
+#WLB(PTR, $00000B38)
+
+#WHB(PTR, $00000B39)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nおかしいな、まあいいや、\nお前たちこんな時間にどこ行くんだ、
+\n
+Delightful. Anyways,\n
+what brings you here
+<$0C>
+at this hour?
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nまさか記憶の谷に降りていくつもりじゃ\nないだろうな、
+\n
+Don't tell me you're\n
+on your way to Memory
+<$0C>
+Valley.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nおっかないよ、\nあそこはおっかないことになってる、
+\n
+How ghastly! What a\n
+ghastly place that is
+<$0C>
+right now.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n本当だ、\nちゃんと見てきたんだ、俺が見たんだ。
+\n
+It's true. I saw it,\n
+saw it with my own
+<$0C>
+eyes.
+<$00>
+
+
+
+
+// Pos: 0000273C
+
+#WLB(PTR, $00000B74)
+
+#WHB(PTR, $00000B75)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n何がおっかないの？
+\n
+What did you see?
+<$00>
+
+
+
+
+// Pos: 00002750
+
+#WLB(PTR, $00000BA4)
+
+#WHB(PTR, $00000BA5)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nおっかないったら、おっかないんだ、
+\n
+Ghastly things, the\n
+ghastliest things!
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nもうみんなコロニーには戻らない、\n行ってしまったんだよ！
+\n
+No one comes back to\n
+the colony, not if
+<$0C>
+they go\n
+you-know-where!
+<$00>
+
+
+
+
+// Pos: 00002790
+
+#WLB(PTR, $00000BE0)
+
+#WHB(PTR, $00000BE1)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n行ったって、どこへ？
+\n
+"You-know-where"?\n
+Where's that?
+<$00>
+
+
+
+
+// Pos: 000027A6
+
+#WLB(PTR, $00000BF0)
+
+#WHB(PTR, $00000BF1)
+
+#WLB(PTR, $000011A6)
+
+#WHB(PTR, $000011A7)
+
+#WLB(PTR, $0000180A)
+
+#WHB(PTR, $0000180B)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nあっちの世界だ、あああ、\nみんなロボットみたいに変な話し方をする。
+\n
+The other world!\n
+Augh, everyone there
+<$0C>
+talks so strangely.\n
+They're robots!
+<$00>
+
+
+
+
+// Pos: 000027D5
+
+#WLB(PTR, $00000C2C)
+
+#WHB(PTR, $00000C2D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nロボット？ ねぇ、ロボットって…\nお手伝いロボットか何かいるの？
+\n
+Robots? Like, really\n
+robots? Are there
+<$0C>
+helper robots there,\n
+or...
+<$00>
+
+
+
+
+// Pos: 00002802
+
+#WLB(PTR, $00000C5C)
+
+#WHB(PTR, $00000C5D)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nうははは、\nマウンテンが言ってた奇跡が起きたんだ！
+\n
+But! The miracle\n
+Mountain spoke has
+<$0C>
+come true!
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nうははは… 奇跡だ、ロックバースの奇跡、\nははは、ざま見ろ！
+\n
+Wahoo, the miracle!\n
+The miracle of
+<$0C>
+rockbirth! Come, see\n
+it for yourself!
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+

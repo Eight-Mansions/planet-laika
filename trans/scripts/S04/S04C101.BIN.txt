@@ -1,0 +1,1943 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000329E)
+
+// Pos: 0000329E
+
+#WLB(PTR, $00000448)
+
+#WHB(PTR, $00000449)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n記憶の谷から戻ったの？ 他の人たちは…\nエイプリルは？ エイプリルはどうしたの？
+\n
+Did you and the\n
+others make it back
+<$0C>
+from Memory Valley\n
+all in one piece?\n
+How's April?
+<$00>
+
+
+
+
+// Pos: 000032D8
+
+#WLB(PTR, $000005DC)
+
+#WHB(PTR, $000005DD)
+
+<$11><$11>
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n記憶の谷はなくした記憶が\nよみがえる場所と言われているわ。\nでもそれは本当の記憶じゃないのよ。
+\n
+Memory Valley is\n
+revered as a place
+<$0C>
+that revives lost\n
+memories, even if not\n
+always true.
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00003324
+
+#WLB(PTR, $000005EC)
+
+#WHB(PTR, $000005ED)
+
+<$10><$11>
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nこの星の力で歪んでしまった、ウソの思い出…
+\n
+This planet's powers\n
+can distort lies into
+<$0C>
+vivid memories.
+<$0E><$32><$17><$00>
+
+
+
+
+// Pos: 00003350
+
+#WLB(PTR, $000005FC)
+
+#WHB(PTR, $000005FD)
+
+<$10><$11>
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nそれに憑かれてしまうと、\n元の状態に戻すのが大変なの…
+\n
+If you are taken by\n
+the lies, it's no
+<$0C>
+easy feat to return\n
+to normal condition.
+<$0E><$5A><$17><$00>
+
+
+
+
+// Pos: 00003384
+
+#WLB(PTR, $00000608)
+
+#WHB(PTR, $00000609)
+
+<$10><$11>
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nエイプリルが変な記憶に\nとらわれてなければいいんだけど…
+\n
+I only hope April\n
+wasn't siezed by
+<$0C>
+strange recollections\n
+in turn.
+<$00>
+
+
+
+
+// Pos: 000033B2
+
+#WLB(PTR, $000006E0)
+
+#WHB(PTR, $000006E1)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nこんなことあなたに言っていいのかどうか…\nエイプリルには気になるところがあるのよ。
+\n
+I suppose there's no\n
+harm telling you
+<$0C>
+this, but...April is\n
+a curious one, to me.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nなんだか… 初めて会ったとは思えないの。\nもちろん私の中でということだけど。
+\n
+For some reason, I\n
+get the feeling I'd
+<$0C>
+met her before. It's\n
+silly, of course.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n彼女のこと、前から知ってるような気がして…
+\n
+But it's as if I'd\n
+already known her for
+<$0C>
+a long time.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n本当はそんなことないのに、変ね。
+\n
+That simply cannot\n
+be, though. Isn't
+<$0C>
+that strange?
+<$00>
+
+
+
+
+// Pos: 00003461
+
+#WLB(PTR, $000006F4)
+
+#WHB(PTR, $000006F5)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nねぇ、ちょっと試してみたいことがあるの。\n一緒に来ない？
+\n
+Say, there's\n
+something I'd like
+<$0C>
+for us to try. Would\n
+you come with me?
+<$1B>
+//？行く\n行かない
+？Yes\n
+No
+<$00><$17><$00>
+
+
+
+
+// Pos: 0000349B
+
+#WLB(PTR, $00000708)
+
+#WHB(PTR, $00000709)
+
+<$10><$0B>
+マダム・アガタ：
+<$0D>
+\nあなた、フェイに会ったことある？
+<$1B>
+,もう会った\nまだ会っていない
+<$00><$17><$00><$10><$0B>
+マダム・アガタ：
+<$0D>
+\n
+<$18><$00><$04><$2D><$00><$00><$00>
+なら話は早いわ。もう一人のフェイに\n話を開いてみるの。あなたも来て。
+<$1A>
+み
+<$00><$00><$00>
+私にウソはつかないで。お願い、信じて。\nエイプリルのことが心配なのよ。
+<$0C><$0B>
+マダム・アガタ：
+<$0D>
+\nもう一人のフェイを呼び出して\n話を開いてみたいの…あなたも来て。
+<$00>
+
+
+
+// Pos: 00003567
+
+#WLB(PTR, $00000728)
+
+#WHB(PTR, $00000729)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nなら話は早いわ。 もう一人のフェイに\n話を開いてみるの。 あなたも来て。
+\n
+I wanted to speak\n
+with the other Hui.
+<$0C>
+You can come too.
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 000035A1
+
+#WLB(PTR, $00000734)
+
+#WHB(PTR, $00000735)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n私にウソはつかないで。 お願い、信じて。
+\n
+First, believe me\n
+first when I say that
+<$0C>
+woman is a liar.\n
+Please.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nもう一人のフェイを呼び出して\n話を開いてみたいの… あなたも来て。
+\n
+Moreover, I wanted to\n
+speak with the other
+<$0C>
+Hui. You can come\n
+too.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 000035FA
+
+#WLB(PTR, $00000884)
+
+#WHB(PTR, $00000885)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n何かを持ってきたのね。\nそれを読んであげるわ。
+\n
+I see you have\n
+something.\n
+Shall I read it?
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n夢の中で手に入れたものは、\nそれを読み終わったら消えてなくなるのよ。
+\n
+Anything you find in\n
+a dream\n
+disappears once it is\n
+read.
+<$00>
+
+
+
+
+// Pos: 00003655
+
+#WLB(PTR, $00000F2C)
+
+#WHB(PTR, $00000F2D)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nわかったわね、夢の中で手に入れたのものは\nはかないのよ。 消えてしまうわ。
+\n
+Anything you find in\n
+a dream is only
+<$0C>
+fleeting until it is\n
+long gone.
+<$00>
+
+
+
+
+// Pos: 0000368C
+
+#WLB(PTR, $00000F44)
+
+#WHB(PTR, $00000F45)
+
+<$11><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあら、これも同じね。\n夢の中で手に入れたものとおなじ…\nはかないわ、消えてしまうわ。
+\n
+Anything you find in\n
+a dream, even this,
+<$0C>
+is only fleeting\n
+until it is long\n
+gone.
+<$00>
+
+
+
+
+// Pos: 000036C9
+
+#WLB(PTR, $00000F68)
+
+#WHB(PTR, $00000F69)
+
+<$11><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n物の記憶… はたして本当に物なのか？
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nそれとも
+<$0F>
+//が落とした\n記憶のかけらなのか？
+<$00>
+
+
+
+
+// Pos: 00003710
+
+#WLB(PTR, $000008BC)
+
+#WHB(PTR, $000008BD)
+
+<$11><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nこれは… ありふれたものなのかしら…\nあなたの役には立ちそうね。
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n夢の中で何かを手に入れることもあるのよ。\nそういったものは、多くのことを\n教えてくれるのよ。
+<$00>
+
+
+
+
+// Pos: 0000377F
+
+#WLB(PTR, $00000A24)
+
+#WHB(PTR, $00000A25)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n見えてきたわ… 白い部屋よ…
+\n
+I see it now... A\n
+white room...
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n少女が見えるわ… かわいい少女…
+\n
+I see a young girl, a\n
+darling little
+<$0C>
+girl...
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあの子、そうよ、あの子は\nエイプリルじゃないの、すごく似ている、\nそっくりよ。とても美しいわ。
+\n
+Is this\n
+child...April? ...No,
+<$0C>
+but she's remarkably\n
+similar, remarkably\n
+beautiful.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n歪んで見える… ここはどこかしら…\n何かが光ってるわ…
+\n
+The image is\n
+contorting... Did
+<$0C>
+something happen? A\n
+strange light shines\n
+in the room.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n氷ね、まわりに氷がいっぱいのところに\n埋まってたのね。
+\n
+And now, there is\n
+ice. We are buried in
+<$0C>
+a room full of ice.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n人が動く様子も見えるけど…\nよく分からないわ。 氷の中よ。
+\n
+I can see people\n
+moving, but I'm not
+<$0C>
+sure. Everyone is in\n
+the ice.
+<$00>
+
+
+
+
+// Pos: 0000387D
+
+#WLB(PTR, $00000C8C)
+
+#WHB(PTR, $00000C8D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nディセンバー、春のような１２月よ。\n１台のバスが見えるわ。
+<$00>
+
+
+
+
+// Pos: 000038A9
+
+#WLB(PTR, $00000CAC)
+
+#WHB(PTR, $00000CAD)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n小さな男の子の手を引いた…\n男の子はあなたね、あなたとお母さんよ、\nふたりがバスから降りてくる。
+\n
+A little boy's hand\n
+is pulled.\n
+The boy is you, with\n
+your mother.\n
+You two are getting\n
+off a bus.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nポーチでむかえているのは… お父さん…\nウラジミールよ、あなたの新しいお父さん。\n赤ら顔なのね。
+\n
+Waiting on the porch\n
+is...your father?\n
+Vladimir, your new\n
+father.\n
+His face is red when\n
+you meet him.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n離れた窓にもうひとり… これがセルゲイね。\nじっとあなたたちをうかがってるわ。\n彼はとても暗い目をしているわ。
+\n
+Looking out from the\n
+window is Sergei.\n
+He watches you all\n
+from afar.\n
+His eyes are so, so\n
+dark.
+<$00>
+
+
+
+
+// Pos: 00003978
+
+#WLB(PTR, $00000A7C)
+
+#WHB(PTR, $00000A7D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nフェブラリー、凍える２月ね。
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n地下室よ、あなたはどうしてかしら、\nびしょぬれになってふるえているわ。
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n階段の上に誰かが立っている…\n声よ… 声がするわ…
+<$00>
+
+
+
+
+// Pos: 000039F3
+
+#WLB(PTR, $00000A9C)
+
+#WHB(PTR, $00000A9D)
+
+//X（いだろ、
+It's cold, isn't it,
+<$0F>
+//、\n俺があたためてやるぜ…
+?\n
+Here, I'll warm you\n
+up...
+<$00>
+
+
+
+
+// Pos: 00003A09
+
+#WLB(PTR, $00000AAC)
+
+#WHB(PTR, $00000AAD)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nこの声の主はセルゲイね。
+\n
+The voice is\n
+Sergei's.
+<$00>
+
+
+
+
+// Pos: 00003A24
+
+#WLB(PTR, $00000ABC)
+
+#WHB(PTR, $00000ABD)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n煙、白い煙が見える…\n火？ 建うわ、あれは火じゃない、\n真っ赤になった火かき棒よ。
+\n
+Smoke. I see a white\n
+smoke.\n
+A fire? No, it isn't\n
+fire,\n
+but a bright fire\n
+hook.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nああ、おそろしいこと、セルゲイはあなたに\nその火かき棒を押し当てているの。
+\n
+Oh, how horrid!\n
+Sergei is poking\n
+the end of the fire\n
+hook\n
+into your flesh!
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあなたは気を失ってる…\nなんてことなの…
+\n
+You faint...\n
+It is all too much.
+<$00>
+
+
+
+
+// Pos: 00003ABA
+
+#WLB(PTR, $00000BCC)
+
+#WHB(PTR, $00000BCD)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nオーガスト、寝付けない８月の夜よ。\n見えているのはキッチンね…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nフライパンやなべがぶつかりあう音がするわ…\nいやな惑じよ。
+<$00>
+
+
+
+
+// Pos: 00003B15
+
+#WLB(PTR, $00000BEC)
+
+#WHB(PTR, $00000BED)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nウラジミールよ、わめきながら暴れてる…\nいろんな物を壊している、
+\n
+Vladimir is there,\n
+screaming and raging.\n
+He's breaking\n
+everything in sight.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nああ、あれはお母さん、タニアって名前ね…\nテーブルのわきにしゃがみ込んでる。
+\n
+And there's your\n
+mother, Tania.\n
+She's crouching\n
+behind the table.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nなぐられたのね、顔に青いあざができてるわ。
+\n
+She must have been\n
+struck.\n
+There's a dark bruise\n
+on her face.
+<$00>
+
+
+
+
+// Pos: 00003B9D
+
+#WLB(PTR, $00000B5C)
+
+#WHB(PTR, $00000B5D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nジュン、悲しみの６月よ。\nまたキッチンね… 今度は夜じゃないわね、
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nタニア母さんがひとり…\nなんだか考えごとの最中みたいね…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n独り言よ、何か言ってるわ…\n口が動いてる…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nああ、これ以上は伝わってこないわ。
+<$00>
+
+
+
+
+// Pos: 00003C40
+
+#WLB(PTR, $00000C0C)
+
+#WHB(PTR, $00000C0D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nセプテンバーは９月、実りのときね。\n今までとは建う惑じね… うまく見えないわ。\nちょっと待ってね…
+<$00>
+
+
+
+
+// Pos: 00003C84
+
+#WLB(PTR, $00000C2C)
+
+#WHB(PTR, $00000C2D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n夜のキッチンね。 でも今度は静かね…\nあなたとタニア母さんが見えるわ、\n何かひそひそ話し合ってる…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n何か恐ろしいことが起きそうよ。
+<$00>
+
+
+
+
+// Pos: 00003CE6
+
+#WLB(PTR, $00000ADC)
+
+#WHB(PTR, $00000ADD)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nマーチは３月、芽吹く春ね。\nでもやっぱり様子が変よ、\nこんな風になったことはなかった…
+<$00>
+
+
+
+
+// Pos: 00003D25
+
+#WLB(PTR, $00000AFC)
+
+#WHB(PTR, $00000AFD)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nあああ、真っ赤な炎よ、夜を染める炎…\n火事みたいね。 誰かが叫んでる…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあれは、ウラジミールね、\nよほどあわててるみたい…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nでもごめんなさい、\nここまでしか分からないわ。
+<$00>
+
+
+
+
+// Pos: 00003DA7
+
+#WLB(PTR, $00000C4C)
+
+#WHB(PTR, $00000C4D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n冷たい霧の朝、１１月…\n制服を着た男がふたり、ポーチにいるわ。\nはげしくドアをノックしてる…
+<$00>
+
+
+
+
+// Pos: 00003DEA
+
+#WLB(PTR, $00000C6C)
+
+#WHB(PTR, $00000C6D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n出てきたのはセルゲイよ。\n左右の手が後ろに…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nさっきの制服の男は警官だったのね、\nセルゲイが連行されて行くわ。\nそして霧のカーテンが降りる…
+<$00>
+
+
+
+
+// Pos: 00003E57
+
+#WLB(PTR, $00000A30)
+
+#WHB(PTR, $00000A31)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nジャニュアリー、始まりの１月よ。\n見えるのは…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあああ、なまなましい暴力のあと…\nイスやスタンドがひっくり返されているわ、\n知らない家よ。
+<$00>
+
+
+
+
+// Pos: 00003EBB
+
+#WLB(PTR, $00000A5C)
+
+#WHB(PTR, $00000A5D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n誰か… 人がうつぶせになっている…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n変ね、頭から血を流しているわ…\n老人のようね、死んでいるの…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n部屋はひどいありさまだわ、\n強盗が入ったあとみたいね、恐ろしいわ。
+<$00>
+
+
+
+
+// Pos: 00003F3D
+
+#WLB(PTR, $00000B1C)
+
+#WHB(PTR, $00000B1D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nメイは５月、光の月ね。\n見えているのは…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nさっきと同じ、なんだか様子が変ね。\nあそこにいるのは…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nたぶんあなたとタニア母さんね。\nとっても遠い惑じよ。
+<$00>
+
+
+
+
+// Pos: 00003FB5
+
+#WLB(PTR, $00000B3C)
+
+#WHB(PTR, $00000B3D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n部屋の中みたいね…\nクロゼットの前であなたとお母さん、誰の…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nああ、セルゲイよ、セルゲイの部屋、\nクロゼットを開いて… 分かるのはここまでよ。\n
+<$00>
+
+
+
+
+// Pos: 0000401D
+
+#WLB(PTR, $00000B8C)
+
+#WHB(PTR, $00000B8D)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n風が心地よい朝、７月… なのに、光はないわ。\nうっすらと人の影、あれはウラジミールね。
+\n
+I feel the soft\n
+breeze of a crisp
+<$0C>
+summer's morning, but\n
+there is no light.
+<$00>
+
+
+
+
+// Pos: 0000405C
+
+#WLB(PTR, $00000BAC)
+
+#WHB(PTR, $00000BAD)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nウラジミールがキッチンにいるわ、\nしゃがみ込んでる。
+\n
+I see only the faint\n
+shadow of Vladimir,
+<$0C>
+slouched down on the\n
+kitchen floor.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n顔色がさえないわね、土気色よ。\nそれになんだか苦しそうよ、\n今にも死にそうよ。
+\n
+His complexion rides\n
+a deathly pale. He's
+<$0C>
+in pain, as if about\n
+to die.
+<$00>
+
+
+
+
+// Pos: 000040BE
+
+#WLB(PTR, $00000CE0)
+
+#WHB(PTR, $00000CE1)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nあら、これは… マラケシュのアレね…
+<$00>
+
+
+
+
+// Pos: 000040DD
+
+#WLB(PTR, $00000D00)
+
+#WHB(PTR, $00000D01)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nちょっと待って…\n見えるわ、マラケシュよ、誰かのあとを…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n見つからないようにしながら…\nなにしてるのかしらね。
+<$00>
+
+
+
+
+// Pos: 0000412E
+
+#WLB(PTR, $00000D10)
+
+#WHB(PTR, $00000D11)
+
+#WLB(PTR, $00000D44)
+
+#WHB(PTR, $00000D45)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nリンダよ、\nマラケシュはリンダをさぐってるのよ…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n待って…\nリンダが鏡の部屋から出てきて、\nカベの前でなにかやってるわ。
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n口が動いてる、カベに話しかけてる、\n何かとなえてるのかしら。
+<$00>
+
+
+
+
+// Pos: 000041B4
+
+#WLB(PTR, $00000D64)
+
+#WHB(PTR, $00000D65)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nあら、ブーマーのアレよね…
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n少し見えてきたわ…\n変ね、しゃっくりでもしてるみたいに、\n体が小きざみに動いてる。
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nどうしたのかしらね。
+<$00>
+
+
+
+
+// Pos: 0000421E
+
+#WLB(PTR, $00000D84)
+
+#WHB(PTR, $00000D85)
+
+#WLB(PTR, $00000DB8)
+
+#WHB(PTR, $00000DB9)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nブリックロードよ…\n赤い家の中にブーマーがいるわ。
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nなにやらしきりに頭を動かしてる…\n体は相変わらず小きざみに上下してるわ。\nいつものブーマーじゃないみたいね。
+<$00>
+
+
+
+
+// Pos: 00004291
+
+#WLB(PTR, $00000DD8)
+
+#WHB(PTR, $00000DD9)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nこれは…\nクロウのアレだわ、ずいぶんと古そうね。
+\n
+Is that...Crow? It's\n
+Crow, as a child.
+<$0C>
+This must be very\n
+old.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nさて何が見えるかしら…\n穴の中に何かあるわ、白っぽいもの…
+\n
+There's a hole in the\n
+ground. Crow is
+<$0C>
+looking down the hole\n
+at something\n
+whitish...
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nいやだ、あれは子猫よ、死んでるみたいね。\n生き埋めにしたのね、それを掘り返してる。\nあれはクロウよ、子供のころのクロウよ…
+\n
+Oh no, it's a kitten,\n
+and it's dead! It was
+<$0C>
+buried alive, but\n
+Crow is digging the\n
+corpse back up...
+<$00>
+
+
+
+
+// Pos: 00004335
+
+#WLB(PTR, $00000DF8)
+
+#WHB(PTR, $00000DF9)
+
+#WLB(PTR, $00000E28)
+
+#WHB(PTR, $00000E29)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\n地下室みたいなところよ、\n古びたコンロが見えるわ、\n上にナベが乗ってる、
+\n
+He's in some sort of\n
+cellar. I see an old
+<$0C>
+gas burner with a\n
+saucepan on top.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nああ、猫よ、さっきの死体がナベの中に…\nああ、コンロに火がついて…
+\n
+No, it's the cat! The\n
+corpse from before is
+<$0C>
+in the saucepan! The\n
+fire on the stove is\n
+on!
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあああ、いやよ、怖ろしいこと…\nなんてこと…
+\n
+No, no, no, what is\n
+happening?! I can't
+<$0C>
+look anymore!
+<$00><$00>
+
+
+
+
+// Pos: 000043C2
+
+#WLB(PTR, $0000308C)
+
+#WHB(PTR, $0000308D)
+
+<$00><$00>
+
+
+
+// Pos: 000043C4
+
+#WLB(PTR, $00003090)
+
+#WHB(PTR, $00003091)
+
+<$00><$00>
+
+
+
+// Pos: 000043C6
+
+#WLB(PTR, $00003094)
+
+#WHB(PTR, $00003095)
+
+マラケシュフラワー
+<$00>
+
+
+
+// Pos: 000043D0
+
+#WLB(PTR, $00003098)
+
+#WHB(PTR, $00003099)
+
+花の命ははかない？
+<$00>
+
+
+
+// Pos: 000043DC
+
+#WLB(PTR, $0000309C)
+
+#WHB(PTR, $0000309D)
+
+ブーマーズナイト
+<$00><$00>
+
+
+
+// Pos: 000043E6
+
+#WLB(PTR, $000030A0)
+
+#WHB(PTR, $000030A1)
+
+怖い夜って？
+<$00><$00>
+
+
+
+// Pos: 000043F0
+
+#WLB(PTR, $000030A4)
+
+#WHB(PTR, $000030A5)
+
+クロウドリーム
+<$00>
+
+
+
+// Pos: 000043F8
+
+#WLB(PTR, $000030A8)
+
+#WHB(PTR, $000030A9)
+
+夢の散歩者？
+<$00><$00>
+
+
+
+// Pos: 00004404
+
+#WLB(PTR, $000030AC)
+
+#WHB(PTR, $000030AD)
+
+ジャニュアリー
+<$00>
+
+
+
+// Pos: 0000440C
+
+#WLB(PTR, $000030B0)
+
+#WHB(PTR, $000030B1)
+
+始まりの１月
+<$00><$00>
+
+
+
+// Pos: 00004416
+
+#WLB(PTR, $000030B4)
+
+#WHB(PTR, $000030B5)
+
+フェブラリー
+<$00><$00>
+
+
+
+// Pos: 0000441E
+
+#WLB(PTR, $000030B8)
+
+#WHB(PTR, $000030B9)
+
+凍える２月
+<$00>
+
+
+
+// Pos: 00004426
+
+#WLB(PTR, $000030BC)
+
+#WHB(PTR, $000030BD)
+
+マーチ
+<$00>
+
+
+
+// Pos: 0000442A
+
+#WLB(PTR, $000030C0)
+
+#WHB(PTR, $000030C1)
+
+３月、芽吹く春
+<$00><$00>
+
+
+
+// Pos: 00004436
+
+#WLB(PTR, $000030C4)
+
+#WHB(PTR, $000030C5)
+
+メイ
+<$00><$00>
+
+
+
+// Pos: 0000443A
+
+#WLB(PTR, $000030C8)
+
+#WHB(PTR, $000030C9)
+
+５月、光のシーズン
+<$00>
+
+
+
+// Pos: 00004446
+
+#WLB(PTR, $000030CC)
+
+#WHB(PTR, $000030CD)
+
+ジュン
+<$00>
+
+
+
+// Pos: 0000444A
+
+#WLB(PTR, $000030D0)
+
+#WHB(PTR, $000030D1)
+
+悲しみの６月
+<$00><$00>
+
+
+
+// Pos: 00004454
+
+#WLB(PTR, $000030D4)
+
+#WHB(PTR, $000030D5)
+
+ジュライ
+<$00><$00>
+
+
+
+// Pos: 0000445A
+
+#WLB(PTR, $000030D8)
+
+#WHB(PTR, $000030D9)
+
+風の７月
+<$00><$00>
+
+
+
+// Pos: 00004462
+
+#WLB(PTR, $000030DC)
+
+#WHB(PTR, $000030DD)
+
+オーガスト
+<$00>
+
+
+
+// Pos: 00004468
+
+#WLB(PTR, $000030E0)
+
+#WHB(PTR, $000030E1)
+
+寝付けない８月の夜
+<$00>
+
+
+
+// Pos: 00004476
+
+#WLB(PTR, $000030E4)
+
+#WHB(PTR, $000030E5)
+
+セプテンバー
+<$00><$00>
+
+
+
+// Pos: 0000447E
+
+#WLB(PTR, $000030E8)
+
+#WHB(PTR, $000030E9)
+
+９月、実り
+<$00>
+
+
+
+// Pos: 00004486
+
+#WLB(PTR, $000030EC)
+
+#WHB(PTR, $000030ED)
+
+ノベンバー
+<$00>
+
+
+
+// Pos: 0000448C
+
+#WLB(PTR, $000030F0)
+
+#WHB(PTR, $000030F1)
+
+冷たい朝、１１月
+<$00>
+
+
+
+// Pos: 00004498
+
+#WLB(PTR, $000030F4)
+
+#WHB(PTR, $000030F5)
+
+ディセンバー
+<$00><$00>
+
+
+
+// Pos: 000044A0
+
+#WLB(PTR, $000030F8)
+
+#WHB(PTR, $000030F9)
+
+春のような１２月
+<$00>
+
+
+
+// Pos: 000044AA
+
+#WLB(PTR, $000030FC)
+
+#WHB(PTR, $000030FD)
+
+<$08>
+砂のシンパシー
+<$05><$00><$00>
+
+
+
+// Pos: 000044B6
+
+#WLB(PTR, $00003100)
+
+#WHB(PTR, $00003101)
+
+ダミアヌスを呼び出す
+<$00><$00>
+
+
+
+// Pos: 000044C4
+
+#WLB(PTR, $00003104)
+
+#WHB(PTR, $00003105)
+
+<$08>
+銀のカプセル
+<$05><$00>
+
+
+
+// Pos: 000044CE
+
+#WLB(PTR, $00003108)
+
+#WHB(PTR, $00003109)
+
+５つの預言をしまう
+<$00><$00>
+
+
+
+// Pos: 000044DA
+
+#WLB(PTR, $0000310C)
+
+#WHB(PTR, $0000310D)
+
+<$08>
+赤い石
+<$05><$00>
+
+
+
+// Pos: 000044E2
+
+#WLB(PTR, $00003110)
+
+#WHB(PTR, $00003111)
+
+赤い石
+<$00>
+
+
+
+// Pos: 000044E8
+
+#WLB(PTR, $00003114)
+
+#WHB(PTR, $00003115)
+
+<$08>
+青い石
+<$05><$00>
+
+
+
+// Pos: 000044F0
+
+#WLB(PTR, $00003118)
+
+#WHB(PTR, $00003119)
+
+青い石
+<$00>
+
+
+
+// Pos: 000044F6
+
+#WLB(PTR, $0000311C)
+
+#WHB(PTR, $0000311D)
+
+<$08>
+白い石
+<$05><$00>
+
+
+
+// Pos: 000044FE
+
+#WLB(PTR, $00003120)
+
+#WHB(PTR, $00003121)
+
+白い石
+<$00>
+
+
+
+// Pos: 00004504
+
+#WLB(PTR, $00003124)
+
+#WHB(PTR, $00003125)
+
+<$08>
+黄色い石
+<$05><$00>
+
+
+
+// Pos: 0000450E
+
+#WLB(PTR, $00003128)
+
+#WHB(PTR, $00003129)
+
+黄色い石
+<$00>
+
+
+
+// Pos: 00004516
+
+#WLB(PTR, $0000312C)
+
+#WHB(PTR, $0000312D)
+
+<$08>
+綠の石
+<$05><$00>
+
+
+
+// Pos: 0000451E
+
+#WLB(PTR, $00003130)
+
+#WHB(PTR, $00003131)
+
+綠の石
+<$00>
+
+
+
+// Pos: 00004524
+
+#WLB(PTR, $00003134)
+
+#WHB(PTR, $00003135)
+
+Pカプセル
+<$00>
+
+
+
+// Pos: 0000452A
+
+#WLB(PTR, $00003138)
+
+#WHB(PTR, $00003139)
+
+知悪を増やすクスリ
+<$00>
+
+
+
+// Pos: 00004536
+
+#WLB(PTR, $0000313C)
+
+#WHB(PTR, $0000313D)
+
+Aカプセル
+<$00>
+
+
+
+// Pos: 0000453C
+
+#WLB(PTR, $00003140)
+
+#WHB(PTR, $00003141)
+
+力悪を増やすクスリ
+<$00>
+
+
+
+// Pos: 00004548
+
+#WLB(PTR, $00003144)
+
+#WHB(PTR, $00003145)
+
+Vカプセル
+<$00>
+
+
+
+// Pos: 0000454E
+
+#WLB(PTR, $00003148)
+
+#WHB(PTR, $00003149)
+
+欲悪を増やすクスリ
+<$00>
+
+
+
+// Pos: 0000455A
+
+#WLB(PTR, $0000314C)
+
+#WHB(PTR, $0000314D)
+
+ペキン
+<$00>
+
+
+
+// Pos: 0000455E
+
+#WLB(PTR, $00003150)
+
+#WHB(PTR, $00003151)
+
+知悪をかなり増やせる
+<$00><$00>
+
+
+
+// Pos: 0000456C
+
+#WLB(PTR, $00003154)
+
+#WHB(PTR, $00003155)
+
+マルセイユ
+<$00>
+
+
+
+// Pos: 00004572
+
+#WLB(PTR, $00003158)
+
+#WHB(PTR, $00003159)
+
+力悪をかなり増やせる
+<$00><$00>
+
+
+
+// Pos: 00004580
+
+#WLB(PTR, $0000315C)
+
+#WHB(PTR, $0000315D)
+
+サイゴン
+<$00><$00>
+
+
+
+// Pos: 00004586
+
+#WLB(PTR, $00003160)
+
+#WHB(PTR, $00003161)
+
+欲悪をかなり増やせる
+<$00><$00>
+
+
+
+// Pos: 00004594
+
+#WLB(PTR, $00003164)
+
+#WHB(PTR, $00003165)
+
+フラッシュ
+<$00>
+
+
+
+// Pos: 0000459A
+
+#WLB(PTR, $00003168)
+
+#WHB(PTR, $00003169)
+
+マインドスコープを中和
+<$00>
+
+
+
+// Pos: 000045A8
+
+#WLB(PTR, $0000316C)
+
+#WHB(PTR, $0000316D)
+
+４９
+<$00><$00>
+
+
+
+// Pos: 000045AC
+
+#WLB(PTR, $00003170)
+
+#WHB(PTR, $00003171)
+
+惑応中の悪を増やす
+<$00>
+
+
+
+// Pos: 000045BA
+
+#WLB(PTR, $00003174)
+
+#WHB(PTR, $00003175)
+
+マジックライト
+<$00>
+
+
+
+// Pos: 000045C2
+
+#WLB(PTR, $00003178)
+
+#WHB(PTR, $00003179)
+
+３悪いずれかを増やす
+<$00>
+
+
+
+// Pos: 000045CE
+
+#WLB(PTR, $0000317C)
+
+#WHB(PTR, $0000317D)
+
+ブルースモーク
+<$00>
+
+
+
+// Pos: 000045D6
+
+#WLB(PTR, $00003180)
+
+#WHB(PTR, $00003181)
+
+スペーサーのEM回復
+<$00><$00>
+
+
+
+// Pos: 000045E4
+
+#WLB(PTR, $00003184)
+
+#WHB(PTR, $00003185)
+
+レッドスモーク
+<$00>
+
+
+
+// Pos: 000045EC
+
+#WLB(PTR, $00003188)
+
+#WHB(PTR, $00003189)
+
+アーネストのEM回復
+<$00><$00>
+
+
+
+// Pos: 000045FA
+
+#WLB(PTR, $0000318C)
+
+#WHB(PTR, $0000318D)
+
+イエロースモーク
+<$00><$00>
+
+
+
+// Pos: 00004604
+
+#WLB(PTR, $00003190)
+
+#WHB(PTR, $00003191)
+
+ヨランダのEM回復
+<$00>
+
+
+
+// Pos: 00004610
+
+#WLB(PTR, $00003194)
+
+#WHB(PTR, $00003195)
+
+タオゴールド
+<$00><$00>
+
+
+
+// Pos: 00004618
+
+#WLB(PTR, $00003198)
+
+#WHB(PTR, $00003199)
+
+全てのEMを回復する
+<$00><$00><$00>
+
+
+

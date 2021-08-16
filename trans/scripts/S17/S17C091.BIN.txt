@@ -1,0 +1,52 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00004DA8)
+
+// Pos: 00004DA8
+
+#WLB(PTR, $0000010C)
+
+#WHB(PTR, $0000010D)
+
+<$00><$14><$02><$11>
+//笑うしたの、エイプリル。あなたは私よ。
+What's the matter,\n
+April? You are me.
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004DC4
+
+#WLB(PTR, $00000128)
+
+#WHB(PTR, $00000129)
+
+<$00><$14><$02><$11>
+//~フみたいにほほえんでね、エイプリル。
+Won't you smile like\n
+you used to, April?
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004DE0
+
+#WLB(PTR, $00000130)
+
+#WHB(PTR, $00000131)
+
+<$00><$14><$02><$11>
+//神イプリル、あなたをずっと待っていたのよ。
+April, I shall wait\n
+for you always.
+<$0E><$78><$17><$00>
+
+
+
+

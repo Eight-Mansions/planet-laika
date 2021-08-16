@@ -1,0 +1,614 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000018AA)
+
+// Pos: 000018AA
+
+#WLB(PTR, $00000BF4)
+
+#WHB(PTR, $00000BF5)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nカギ、開けたから。\nこの中を通って行くんだ。
+\n
+I used a key. You can\n
+go inside now.
+<$00>
+
+
+
+
+// Pos: 000018CF
+
+#WLB(PTR, $00000C4C)
+
+#WHB(PTR, $00000C4D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n何だこりゃ？ 下水じゃねぇか！
+\n
+What's all this. Not\n
+sewage, is it?!
+<$00>
+
+
+
+
+// Pos: 000018ED
+
+#WLB(PTR, $00000C60)
+
+#WHB(PTR, $00000C61)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nイセキ？\nまさか…そんなはずが…
+\n
+What is this place?\n
+It almost looks like
+<$0C>
+an archeological\n
+site.
+<$00>
+
+
+
+
+// Pos: 0000190A
+
+#WLB(PTR, $00000C6C)
+
+#WHB(PTR, $00000C6D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何だか汚らしいところね。\nこんなところに神様がいるなんて…
+\n
+I'm dying to know\n
+what God's doing down
+<$0C>
+here in the\n
+shit-abyss.
+<$00>
+
+
+
+
+// Pos: 00001936
+
+#WLB(PTR, $00000C88)
+
+#WHB(PTR, $00000C89)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
+\n
+Again, this is the\n
+undrground canal. It
+<$0C>
+works as a dam to\n
+stop up Evil Mind.
+<$00>
+
+
+
+
+// Pos: 00001963
+
+#WLB(PTR, $00000CF0)
+
+#WHB(PTR, $00000CF1)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nイーブルマインドのダムだと？
+\n
+A dam for Evil Mind?
+<$00>
+
+
+
+
+// Pos: 0000197E
+
+#WLB(PTR, $00000D04)
+
+#WHB(PTR, $00000D05)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nダム！ ダムがあるのか、\nイーブルマインドのダムが。
+\n
+Ah, a dam! So,\n
+there's a dam. A dam
+<$0C>
+for Evil Mind.
+<$00>
+
+
+
+
+// Pos: 000019A5
+
+#WLB(PTR, $00000D14)
+
+#WHB(PTR, $00000D15)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nますます嫌な惑じね。
+<$00>
+
+
+
+
+// Pos: 000019BD
+
+#WLB(PTR, $00000D30)
+
+#WHB(PTR, $00000D31)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n先に行くよ。\n砂嵐が来る前に通り抜けなきゃ。
+\n
+We're going. Better\n
+get through before
+<$0C>
+another sandstorm\n
+seeps in.
+<$00>
+
+
+
+
+// Pos: 000019E5
+
+#WLB(PTR, $000008DC)
+
+#WHB(PTR, $000008DD)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここは… 何かの通路みたいね。\nリトルはこの奥かなぁ。
+\n
+This looks like some\n
+kind of passage. I
+<$0C>
+wonder if Liter's\n
+down here.
+<$00>
+
+
+
+
+// Pos: 00001A0D
+
+#WLB(PTR, $00000978)
+
+#WHB(PTR, $00000979)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺がどうしたと？
+\n
+Wh-what did you do to\n
+me?!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nおい、お前も悪夢に出入りしてるのか、\nええ、アガタと組んだのか？
+\n
+Are you going in and\n
+out of the nightmares
+<$0C>
+too? Are you working\n
+with Agatha?
+<$00>
+
+
+
+
+// Pos: 00001A4A
+
+#WLB(PTR, $0000098C)
+
+#WHB(PTR, $0000098D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nアガタは悪夢の中で\nヘロデに催眠術をかけているのね。
+\n
+Agatha enters Herod's\n
+nightmares and treats
+<$0C>
+him with\n
+hypnotherapy.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヘロデが悪夢から戻ってこられるように。
+\n
+That's how Herod is\n
+able to come out of
+<$0C>
+his nightmares.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねぇ、この星では\n夢と現実が入れ替わったりするの？
+\n
+But I've gotta ask,\n
+are dreams and
+<$0C>
+actuality swapped on\n
+this star?
+<$00>
+
+
+
+
+// Pos: 00001ABC
+
+#WLB(PTR, $000009A0)
+
+#WHB(PTR, $000009A1)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nアガタは知ってたはずだ。\n俺の中にもうひとりいることをな。
+\n
+Agatha would've known\n
+that there was
+<$0C>
+someone else inside\n
+me.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nそれなのに、しらばっくれてやがる。\nまるではじめてみたいに
+\n
+And yet, she played\n
+dumb, and acted like
+<$0C>
+it was her first\n
+time.
+<$00>
+
+
+
+
+// Pos: 00001B09
+
+#WLB(PTR, $000009AC)
+
+#WHB(PTR, $000009AD)
+
+//笑うしたのリトル？\nあなた、まさか
+What's wrong, Liter?\n
+Should we be\n
+concerned?
+<$00>
+
+
+
+
+// Pos: 00001B1C
+
+#WLB(PTR, $000009D0)
+
+#WHB(PTR, $000009D1)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nおかしいじゃないか。 何か隠してる惑じだ。
+\n
+Shouldn't you? Isn't\n
+it strange to think
+<$0C>
+she hides things\n
+without reason?
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nへっ、催眠術で何かまずいことでも\nあったんじゃないのか。
+\n
+What'll she do when\n
+someone DOES go wrong
+<$0C>
+during hypnotherapy,\n
+huh?
+<$00>
+
+
+
+
+// Pos: 00001B63
+
+#WLB(PTR, $000009E4)
+
+#WHB(PTR, $000009E5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nリトル、あなたアガタに\n催眠術かけてもらったことはないの？
+\n
+Have you ever had\n
+Agatha perform
+<$0C>
+hypnotherapy on you,\n
+Liter?
+<$00>
+
+
+
+
+// Pos: 00001B8E
+
+#WLB(PTR, $000009F8)
+
+#WHB(PTR, $000009F9)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nない、ない、絶対にないぞ！\nあああ、側で見ていたことはあるが
+\n
+No, no, DEFINITELY\n
+not! I've seen her
+<$0C>
+administer it up\n
+close, but ohh!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺にはかからなかったはずだ…\n本当だ、俺にはかからない…
+\n
+With God as my\n
+witness, I'd never
+<$0C>
+let it happen to\n
+me...
+<$00>
+
+
+
+
+// Pos: 00001BDE
+
+#WLB(PTR, $00000A18)
+
+#WHB(PTR, $00000A19)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nちくしょう！ さっきのはひどかった…\nお前が俺に話しかけてたぞ。
+\n
+God...Goddammit! That\n
+was awful. I remember
+<$0C>
+you talking to me\n
+before.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺は、イヤな場所で宙に浮かんでた…\nあああ、思い出してきたぞ。
+\n
+Yes, I was floating\n
+in the air somwhere
+<$0C>
+awful. Ohh, I\n
+remember!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n頭の中で声がするんだ、双子の苦しみ、\n生き埋めの双子の苦しみってな。
+\n
+I hear a voice in my\n
+head, speaking of
+<$0C>
+"twin suffering".\n
+"Buried alive..."
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺の中で何が起きてるんだ？
+\n
+What's going on\n
+inside my head?!
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00001C84
+
+#WLB(PTR, $00000A70)
+
+#WHB(PTR, $00000A71)
+
+<$11><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n今のリトルの話、知ってる？\n生き埋めの双子って…
+\n
+Do you ever hear that\n
+story Liter just
+<$0C>
+mentioned? About the\n
+buried twins?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nずいぶん昔の話で、そう、\n火星がまだ流刑地だったころのことよ。
+\n
+The incident happened\n
+a long time ago, back
+<$0C>
+when Mars was still a\n
+penal colony.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n自分こそ選ばれた人間だって思い込んだ\nひとりの流刑者が、双子だった男の子を\n生き埋めにしたの。
+\n
+An exile who thought\n
+he was "the chosen
+<$0C>
+one" was caught\n
+burying twin boys\n
+alive.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n自分に向いた鋭命が双子に\n取られないように…
+\n
+He thought it was\n
+wrong for twins to
+<$0C>
+share a fate\n
+belonging to one\n
+self.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそんな話が今頃になって\nよみがえるなんて… 幽霊みたいに…
+\n
+But it's weird to\n
+hear that story
+<$0C>
+spring back to life\n
+like some ghost.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねぇ、リトルのこと、追ってみない？
+\n
+...Maybe we should\n
+follow Liter.
+<$00>
+
+
+
+
+// Pos: 00001D94
+
+#WLB(PTR, $00000B10)
+
+#WHB(PTR, $00000B11)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nリトルよ、この奥。 行ってみようよ。
+\n
+Liter's back here!\n
+Let's go!
+<$00><$10><$0B>
+//エイプリル：
+<$0D>
+//\nどうしたの？ リトルはきっとこの中よ。
+<$00>
+
+
+
+
+// Pos: 00001DD2
+
+#WLB(PTR, $00000B1C)
+
+#WHB(PTR, $00000B1D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうしたの、急におびえはじめて。\nこの先に何があるの？
+\n
+What's happening up\n
+ahead? I'm getting
+<$0C>
+scared now.
+<$00><$12><$13><$19><$0B>
+//リバー：
+<$0D>
+//\n鍵、開けたから。この中を通って行くんだ。
+<$00><$12><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\nイセキ？まさか…そんなはずが…
+<$00><$12><$13><$19><$0B>
+//リバー：
+<$0D>
+//\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
+<$00><$12><$13><$18><$0B>
+//スペーサー：
+<$0D>
+//\nダム！ダムがあるのか！
+<$00><$12><$13><$19><$0B>
+//リバー：
+<$0D>
+//\n先に行くよ。砂嵐が来る前に通り抜けなきゃ。
+<$00>
+
+
+
+

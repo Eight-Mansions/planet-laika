@@ -1,0 +1,205 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000027FD)
+
+// Pos: 000027FD
+
+#WLB(PTR, $00000E30)
+
+#WHB(PTR, $00000E31)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nおっ！ 見えてきたぞ。\nザ・フェイスだ！
+\n
+I can see it!\n
+That's The Face!
+<$00>
+
+
+
+
+// Pos: 0000281F
+
+#WLB(PTR, $00000E40)
+
+#WHB(PTR, $00000E41)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあれが…顔…
+\n
+It...really does\n
+looks like a face.
+<$00>
+
+
+
+
+// Pos: 00002831
+
+#WLB(PTR, $00000E50)
+
+#WHB(PTR, $00000E51)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nどれどれ…\n人類あこがれのお顔様ってワケか…
+\n
+A face only a human\n
+mother could love!
+<$00>
+
+
+
+
+// Pos: 00002853
+
+#WLB(PTR, $00000E60)
+
+#WHB(PTR, $00000E61)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n火星人が残したのよ、\n顔を忘れないように。
+\n
+What if the Martians\n
+left this for us? So
+<$0C>
+we wouldn't forget\n
+their faces...
+<$00>
+
+
+
+
+// Pos: 00002878
+
+#WLB(PTR, $00000E70)
+
+#WHB(PTR, $00000E71)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nへん、おかげで俺たちはこのざまだ。
+\n
+OUR faces. It's their\n
+fault we're in this
+<$0C>
+mess!
+<$00>
+
+
+
+
+// Pos: 00002892
+
+#WLB(PTR, $00000E80)
+
+#WHB(PTR, $00000E81)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nさあ、みんな、着陸態勢に入るぞ！
+\n
+All right, everyone.\n
+Get ready to land!
+<$00>
+
+
+
+
+// Pos: 000028B5
+
+#WLB(PTR, $000010BC)
+
+#WHB(PTR, $000010BD)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n何だ！この紫色のは何だ！ 煙か？
+\n
+What's all this\n
+purple stuff?\n
+Is it...smoke?!
+<$00>
+
+
+
+
+// Pos: 000028D1
+
+#WLB(PTR, $000010CC)
+
+#WHB(PTR, $000010CD)
+
+<$12><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nヌーン、もういちど着陸目標を確認してくれ！\nたのむ！
+\n
+Noon, you mind\n
+checking that landing
+<$0C>
+point one more time?
+<$00>
+
+
+
+
+// Pos: 000028FF
+
+#WLB(PTR, $000013C0)
+
+#WHB(PTR, $000013C1)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nヌーン！ どうした、
+\n
+Noon! What happened?!
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n着陸目標からずれたんじゃないのか。\nヌーン、答えろ、進入角が深すぎるぞ、
+\n
+Answer me, Noon!\n
+This landing angle's
+<$0C>
+too steep!
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nこのままでは火星にぶつかるぞ。\n手動でなんとかするんだ！
+\n
+We'll crash into the\n
+surface at this rate!
+<$0C>
+Switch it off auto!
+<$00>
+
+
+
+

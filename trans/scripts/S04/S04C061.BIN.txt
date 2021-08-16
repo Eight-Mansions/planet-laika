@@ -1,0 +1,476 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001F15)
+
+// Pos: 00001F15
+
+#WLB(PTR, $00000650)
+
+#WHB(PTR, $00000651)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあらいやだ、あなたも顔作りに来たの？
+\n
+Dear, dear! You here\n
+to get your face done
+<$0C>
+too?
+<$00>
+
+
+
+
+// Pos: 00001F35
+
+#WLB(PTR, $00000664)
+
+#WHB(PTR, $00000665)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nフェイはお出かけよ…フェイ…
+\n
+Hui's out,\n
+unfortunately.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n知ってるんでしょ、リャンハウスのフェイよ、\n整形屋さん。
+\n
+You know Hui, right?\n
+The cosmetic surgeon
+<$0C>
+of House Liang.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nアタシは洗顔に来たのよ、\n寝る前のお洗顔よ。
+\n
+I came for a\n
+face-wash. I like to
+<$0C>
+get my face washed up\n
+before bed.
+<$00>
+
+
+
+
+// Pos: 00001F9F
+
+#WLB(PTR, $00000684)
+
+#WHB(PTR, $00000685)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n地球じゃご法度よね、お顔なんて。
+\n
+Human faces are still\n
+considered contraband
+<$0C>
+on Earth, right?
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n犬の顔で人類が平和になった、\nそう教えられてきたものね。
+\n
+I remember being\n
+taught that the trade
+<$0C>
+for our dog faces\n
+ensured peace for\n
+mankind.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nでもガマンすることないのよ。\n火星人は人間の顔の記憶を残して滅んだの。
+\n
+Peace from what, huh?\n
+The Martians died off
+<$0C>
+and took our faces\n
+with them!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nそれがあの人面岩、ザ・フェイスよ。
+\n
+At least they left us\n
+that mountain, The
+<$0C>
+Face, like a sick\n
+momento.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nフェイはあそこで\n強いインスピレーションを得たの。
+\n
+Hui uses the\n
+sculpture as a base
+<$0C>
+model for her work.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nそれでこのお仕事、整形屋を始めたのよ。
+\n
+The Face was the\n
+inspiration she
+<$0C>
+needed to open shop\n
+as a cosmetic\n
+surgeon.
+<$00>
+
+
+
+
+// Pos: 00002085
+
+#WLB(PTR, $00000638)
+
+#WHB(PTR, $00000639)
+
+#WLB(PTR, $00000694)
+
+#WHB(PTR, $00000695)
+
+#WLB(PTR, $00001CAE)
+
+#WHB(PTR, $00001CAF)
+
+<$12><$0B>
+マラケシュ：
+<$0D>
+\nアタシ、だんだん人間の顔に近づくにつれ、\n優しい気分になれるの。幸せよ。
+<$1E>
+〇
+<$00><$12><$0B>
+マラケシュ：
+<$0D>
+\n変ねぇ…どっかで会った気がするのよ…\n気のせい？
+<$00>
+
+
+
+// Pos: 000020E1
+
+#WLB(PTR, $000002CC)
+
+#WHB(PTR, $000002CD)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nあんたも仲間なの？\nあいつらと一緒なの？
+\n
+Where those two your\n
+friends? You came
+<$0C>
+here with them, no?
+<$00>
+
+
+
+
+// Pos: 00002106
+
+#WLB(PTR, $000002E0)
+
+#WHB(PTR, $000002E1)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n簡単よ、あいつら動かすの。\nあんたもあいつらみたいに簡単なの？
+\n
+What a couple of\n
+knucklebones. You're
+<$0C>
+not a pushover like\n
+they are, are you?
+<$00>
+
+
+
+
+// Pos: 00002137
+
+#WLB(PTR, $000002F4)
+
+#WHB(PTR, $000002F5)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nねぇ、簡単ってどういうことか知ってる？
+\n
+You knew what I meant\n
+by "knucklebones",
+<$0C>
+right?
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nサイコロに命令するようなものよ。\n何回かに一回、必ず命令通りになるの。
+\n
+It's an old dice\n
+game. You take turns
+<$0C>
+until someone rolls a\n
+Venus and wins the\n
+pot.
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nだから私、命令をためてる。\nいざっていう時に使うのよ。
+\n
+Figuratively\n
+speaking, I'd rather
+<$0C>
+save my lucky rolls\n
+for the perfect\n
+moment.
+<$00>
+
+
+
+
+// Pos: 000021B9
+
+#WLB(PTR, $00000308)
+
+#WHB(PTR, $00000309)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n今は…そうでもないよ。\n今がいざっていう時じゃないってこと。
+\n
+Getting those two out\n
+of your hair was...an
+<$0C>
+exception, so you're\n
+the lucky one here.
+<$00>
+
+
+
+
+// Pos: 000021E7
+
+#WLB(PTR, $0000031C)
+
+#WHB(PTR, $0000031D)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nアタシ、ヴェロニカ。あんたは？
+\n
+I'm Veronica. And you\n
+are?
+<$1B>
+//．ライカ\n
+. Laika\n
+<$0F><$00><$17><$00>
+
+
+
+
+// Pos: 0000220C
+
+#WLB(PTR, $00000330)
+
+#WHB(PTR, $00000331)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nねぇ、あんたの他にも新しい人見たよ。\nナイトプラネットのところで。女の人。
+\n
+Actually, another new\n
+face at over at
+<$0C>
+NIGHTPLANET. A young\n
+woman.
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nナイトプラネットにはゴールドがいるの。\nあとスモーキーもよくやってくる。
+\n
+Gold is always at\n
+NIGHTPLANET, but I
+<$0C>
+know Smokey's a\n
+regular of the place\n
+too.
+<$00>
+
+
+
+
+// Pos: 0000226F
+
+#WLB(PTR, $00000344)
+
+#WHB(PTR, $00000345)
+
+<$13><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nあいつ、大キライ。スモーキー…\n死んでしまえばいいのよ。\nあんたもきっとそう思うから。
+\n
+I hate that guy,\n
+Smokey. I'd rather he
+<$0C>
+died. If you ever met\n
+him, you'd agree.
+<$1E>
+//鋭
+<$00><$13><$13><$19><$0B>
+//ヴェロニカ：
+<$0D>
+//\nエッジの鏡ができたら、\nあんなやつら、みんな消えるんだ。\n空の騎士に吸い込まれてしまうのよ。
+<$0C><$0B>
+//ヴェロニカ：
+<$0D>
+//\n鏡ができたら、エッジは戻ってくる。\nみんないなくなってから、戻ってくるのよ。
+<$1E>
+//鋭
+<$00>
+
+
+
+
+// Pos: 00002325
+
+#WLB(PTR, $0000051C)
+
+#WHB(PTR, $0000051D)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあらー、マラケシュに用なのー。
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあんたがー、\n鏡のとこに行ったんじゃないかってー、
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nブリックロードに様子見に行ったよ。
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあんたー、カタブツ？\nヴァニティフェイスに興味ないのー？
+<$1E>
+//〇
+<$00>
+
+
+
+
+// Pos: 000023A6
+
+#WLB(PTR, $000004F0)
+
+#WHB(PTR, $000004F1)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nマラケシュなら、ブリックロードだよー。
+\n
+If you want\n
+Marrakesh, check
+<$0C>
+Brick Road.
+<$1E>
+//〇
+〇
+<$00>
+
+
+
+
+// Pos: 000023C5
+
+#WLB(PTR, $00000558)
+
+#WHB(PTR, $00000559)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nねぇ、アタシとさー、マラケシュさー、
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nどっちがイケてるかって、\n開きたいけどやめるー。
+<$1E>
+//〇
+<$00>
+
+
+
+
+// Pos: 00002404
+
+#WLB(PTR, $00000564)
+
+#WHB(PTR, $00000565)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nねえ、ちょっと、あんたずるいよー。\nあんな可愛いコと一緒だなんてー。
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあんたのこと、さがしてたよー。
+<$1E>
+//〇
+<$00>
+
+
+
+

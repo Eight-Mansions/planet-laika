@@ -1,0 +1,1401 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000019A6)
+
+// Pos: 000019A6
+
+#WLB(PTR, $00000838)
+
+#WHB(PTR, $00000839)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nこの星は予想を超えて\nひどいことになっている。
+\n
+This planet's more\n
+messed up than we
+<$0C>
+thought.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私は頭が混乱してきた…
+\n
+I'm all confused.
+<$00>
+
+
+
+
+// Pos: 000019E6
+
+#WLB(PTR, $0000084C)
+
+#WHB(PTR, $0000084D)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n用済みねぇ…リバーは用済み、\nリトルは健在、そういうことなのね。
+\n
+"Obsolete"... I once\n
+River's "served his
+<$0C>
+purpose", Liter was\n
+ready to come back.
+<$00>
+
+
+
+
+// Pos: 00001A18
+
+#WLB(PTR, $00000860)
+
+#WHB(PTR, $00000861)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nリバーは罪の意識に押しつぶされて\nしまったのだ。
+\n
+River's conscience\n
+capsized under the
+<$0C>
+weight of his sin.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nリトルも決して健在という状態ではない。
+\n
+In all likelihood,\n
+River existed because
+<$0C>
+it's a weight Liter\n
+wasn't ready to bear.
+<$00>
+
+
+
+
+// Pos: 00001A63
+
+#WLB(PTR, $00000874)
+
+#WHB(PTR, $00000875)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇそこの人、アーネスト、\nあんたは何を見てきたの？
+\n
+Most of us aren't...\n
+So, Ernest. What are
+<$0C>
+you looking at over\n
+there?
+<$00>
+
+
+
+
+// Pos: 00001A89
+
+#WLB(PTR, $00000888)
+
+#WHB(PTR, $00000889)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n火事だ、燃えてる。\nあああ、俺じゃないぜ、
+\n
+Hmph. A fire's\n
+burning... Wasn't me,
+<$0C>
+though.
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n火を付けたのは俺じゃない、\n勝手に燃えてたんだ。
+\n
+UNDERSTAND, Yolanda?\n
+I didn't start any
+<$0C>
+damn fires! It was\n
+burning on its OWN!
+<$00>
+
+
+
+
+// Pos: 00001AD5
+
+#WLB(PTR, $0000089C)
+
+#WHB(PTR, $0000089D)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあきれた…あんた、\n放火したことあるみたいな口振りね。
+\n
+Oh, dear... You know,\n
+that almost went
+<$0C>
+without saying if you\n
+didn't get so\n
+defensive.
+<$00>
+
+
+
+
+// Pos: 00001B00
+
+#WLB(PTR, $000008B0)
+
+#WHB(PTR, $000008B1)
+
+<$13><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n今じゃヌーン機関士もタトラー船長も、\nあっち側の住人よ。
+\n
+Over here, it looks\n
+like Noon and Captain
+<$0C>
+Tatler made it to the\n
+residents.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n我らがクルーもついにってとこよ。\nなのになんで
+\n
+Guess the crew's back\n
+on track for now. Why
+<$0C>
+did
+<$0F>
+//は平気なの？
+get by without a\n
+meltdown?
+<$00>
+
+
+
+
+// Pos: 00001B59
+
+#WLB(PTR, $000008C4)
+
+#WHB(PTR, $000008C5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私たちがいるからだ。
+\n
+Because we're here.
+<$00>
+
+
+
+
+// Pos: 00001B70
+
+#WLB(PTR, $000008D8)
+
+#WHB(PTR, $000008D9)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nおう！ 火事！ 火の海だ！
+\n
+Oh, a fire! It's a\n
+sea of fire!
+<$00>
+
+
+
+
+// Pos: 00001B8E
+
+#WLB(PTR, $000008EC)
+
+#WHB(PTR, $000008ED)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nちょっと落ちついてよ。
+\n
+Hey, fucking chill\n
+out over there.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nヌーンはガリルにあの町長屋敷をもらった、\nそう言ってたわね。
+\n
+Anyways, Noon said he\n
+received his
+<$0C>
+elderhood and estate\n
+from Garyl.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nということは、ガリルはこの近くに\nいるってことでいいのかしら。
+\n
+Meaning, Garyl is\n
+nearby. Are we really
+<$0C>
+safe here?
+<$00>
+
+
+
+
+// Pos: 00001BFA
+
+#WLB(PTR, $00000900)
+
+#WHB(PTR, $00000901)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nこの星ではあまり距離は関係ないみたいだ。\nふいに建う世界に入り込んでしまう…
+\n
+Tangible distance\n
+doesn't really matter
+<$0C>
+on Mars. We're in a\n
+whole other world.
+<$00>
+
+
+
+
+// Pos: 00001C37
+
+#WLB(PTR, $00000914)
+
+#WHB(PTR, $00000915)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nますます索敵！
+\n
+Yes, lovely.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nで、これからどうするの、\nア、タ、シ、タ、チ。
+\n
+So, where does our\n
+happy quintet go from
+<$0C>
+here?
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアーネストはお疲れのようだし。
+\n
+Or trio, if Ernest\n
+chooses to stay
+<$0C>
+asleep at the wheel.
+<$00>
+
+
+
+
+// Pos: 00001C85
+
+#WLB(PTR, $00000928)
+
+#WHB(PTR, $00000929)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nこの星のよこしまな力で、\nガリルの妄想が実現しようとしている。
+\n
+Garyl's on his way to\n
+actualizing his sick
+<$0C>
+fantasy using the\n
+vile powers of the\n
+planet.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nこのまま放ってはおけないだろう。
+\n
+We can't exactly\n
+leave, knowing that
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私の見たところ、やつは住人の心を利用して\n悪を育てている…
+\n
+From my guess, he\n
+manipulates the minds
+<$0C>
+of the residents to\n
+brew evil.
+<$00>
+
+
+
+
+// Pos: 00001CFE
+
+#WLB(PTR, $0000093C)
+
+#WHB(PTR, $0000093D)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそして自分は善人になる…
+\n
+And make thy self a\n
+good person, or
+<$0C>
+something...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、この話、\nどっか別なところで開かなかった？
+\n
+Say, am I wrong, or\n
+did we hear something
+<$0C>
+of that nature\n
+elsewhere?
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nインディアンみたいな人と一緒に…
+\n
+I think when we were\n
+with that Indian-like
+<$0C>
+person...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそうよ、完全な悪と完全な善が出会うとき、\nどうのこうのって…
+\n
+"When pure evil,\n
+meets pure good,"
+<$0C>
+something,\n
+something...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n誰だったの、あのとき表に出ていたのは？\nスペーサー、あなたじゃなかったの？
+\n
+Which one of us was\n
+out at the time? It
+<$0C>
+wasn't me. Spacer,\n
+was it you?
+<$00>
+
+
+
+
+// Pos: 00001DB6
+
+#WLB(PTR, $00000950)
+
+#WHB(PTR, $00000951)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nいや…私ではない。
+\n
+No, it wasn't me\n
+either.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nしかし、ああ、ぼんやりと覚えてるぞ…\nアーモンドの香りがしていた…
+\n
+But, I can vaguely\n
+remember...the smell
+<$0C>
+of almonds, but my\n
+senses were strained.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nそれに、いつもより開きづらい惑じだった…\n黒い騎士が悪を集めている、そんな話だった。
+\n
+Beyond that, their\n
+conversation was
+<$0C>
+about the Black Rider\n
+gathering evil.
+<$00>
+
+
+
+
+// Pos: 00001E34
+
+#WLB(PTR, $00000964)
+
+#WHB(PTR, $00000965)
+
+<$13><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n見たぜ！ 黒い騎士、空に舞ってたぜ！
+\n
+I saw him! The Black\n
+Rider, whirling in
+<$0C>
+the skies!
+<$00>
+
+
+
+
+// Pos: 00001E58
+
+#WLB(PTR, $00000978)
+
+#WHB(PTR, $00000979)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n神への階段を昇ろうとしている、\nそんな話もあったわ。
+\n
+I think part of the\n
+deal was him trying
+<$0C>
+to ascened the\n
+stairway to God.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそれから…そうよ！\n預言、預言を集めるの！
+\n
+And that we...oh,\n
+shit, the prophecies!
+<$0C>
+We have to collect\n
+the prophecies!
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n死んだ流刑者が残した預言よ。
+\n
+The prophecies left\n
+behind by the late
+<$0C>
+exile!
+<$00>
+
+
+
+
+// Pos: 00001EC1
+
+#WLB(PTR, $0000098C)
+
+#WHB(PTR, $0000098D)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n死の情熱、肉体を超えた存在…
+\n
+A reason for\n
+dying...an existence
+<$0C>
+beyond the flesh...
+<$00>
+
+
+
+
+// Pos: 00001EE4
+
+#WLB(PTR, $000009A0)
+
+#WHB(PTR, $000009A1)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nアーネスト、君だったのか？\nあのとき表に出ていたのは…
+\n
+Ernest, was it you?\n
+Were you were the one
+<$0C>
+who was out during\n
+the conversation?
+<$00>
+
+
+
+
+// Pos: 00001F0E
+
+#WLB(PTR, $000009B4)
+
+#WHB(PTR, $000009B5)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nいや、俺じゃないぜ。\n俺は疲れてうとうとしてた。
+\n
+No, it wasn't me. I\n
+was too exhausted to
+<$0C>
+play ball.
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nおう、そうだ、\n耳なれない言葉が開こえてきたんだ。
+\n
+Only, I can't get\n
+some of the phrases I
+<$0C>
+did hear out of my\n
+head.
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nシークレットパワーとかなんとか…
+\n
+Stuff like "the\n
+secret power"...
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nそれからロックバース…\n開いたことねぇ言葉だ。
+\n
+"Rock birth" being\n
+another. Doesn't make
+<$0C>
+sense.
+<$00>
+
+
+
+
+// Pos: 00001F97
+
+#WLB(PTR, $000009C8)
+
+#WHB(PTR, $000009C9)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nガリルが善、黒い騎士が悪、\nそれで善悪がそろうワケね。
+\n
+Garyl is "good", and\n
+the Black Rider is
+<$0C>
+"evil". So in a way,\n
+they're a pair,\n
+right?
+<$00>
+
+
+
+
+// Pos: 00001FC3
+
+#WLB(PTR, $000009DC)
+
+#WHB(PTR, $000009DD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nそうだ…善と悪…まるで黙示録だ。
+\n
+Yeah... It's a\n
+face-off between good
+<$0C>
+and evil, just like\n
+in Revelations.
+<$00>
+
+
+
+
+// Pos: 00001FE4
+
+#WLB(PTR, $000009F0)
+
+#WHB(PTR, $000009F1)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあら、黙示録！ 妄想好きのオハコね。
+\n
+Ah-ha, Revelations! I\n
+was waiting for you
+<$0C>
+to say that, you\n
+fantasy buff.
+<$00>
+
+
+
+
+// Pos: 00002008
+
+#WLB(PTR, $00000A04)
+
+#WHB(PTR, $00000A05)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nイーブルマインドがなければ\n笑っていられるのだが…
+\n
+It'd be funny if Evil\n
+Mind weren't a thing,
+<$0C>
+but since it does...
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nまるでガリルの妄想が邪悪な意志を得て\n一人歩きしているようだ。
+\n
+...it's like Garyl's\n
+delusions and ill
+<$0C>
+will have taken a\n
+tangible form.
+<$00>
+
+
+
+
+// Pos: 00002060
+
+#WLB(PTR, $00000A18)
+
+#WHB(PTR, $00000A19)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそれならガリルに追いつくのが先決よ。\n元を断つのよ！
+\n
+That's why we've got\n
+to nip this shit in
+<$0C>
+the bud and catch up\n
+to Garyl.
+<$00>
+
+
+
+
+// Pos: 0000208B
+
+#WLB(PTR, $00000A2C)
+
+#WHB(PTR, $00000A2D)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n誰か来る！\nふたりとも、そこを動くな！
+\n
+Hold that\n
+thought-someone's
+<$0C>
+coming. You two, stay\n
+put.
+<$00>
+
+
+
+
+// Pos: 000020AE
+
+#WLB(PTR, $00000A7C)
+
+#WHB(PTR, $00000A7D)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nダミアヌスは答えない。
+\n
+Damianos wouldn't\n
+answer my question.
+<$00>
+
+
+
+
+// Pos: 000020C7
+
+#WLB(PTR, $00000A90)
+
+#WHB(PTR, $00000A91)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n彼も同じなのよ、アタシたちと。\n建う？
+\n
+About him and Cosmas?\n
+Maybe they're the
+<$0C>
+same as us.
+<$00>
+
+
+
+
+// Pos: 000020E9
+
+#WLB(PTR, $00000AA4)
+
+#WHB(PTR, $00000AA5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n分からない…\nあのふたり、顔は似ていないようだが…
+Who knows... You\n
+couldn't tell just by\n
+looking at them.
+<$00>
+
+
+
+
+// Pos: 00002111
+
+#WLB(PTR, $00000AB8)
+
+#WHB(PTR, $00000AB9)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n顔！そうよ、コスマスの顔…ぼんやり覚えてる…\n美少年ね、彼は。
+\n
+Oh, right! I vaguely\n
+remember Cosmas'
+<$0C>
+face. Beautiful, that\n
+one.
+<$00>
+
+
+
+
+// Pos: 00002143
+
+#WLB(PTR, $00000ACC)
+
+#WHB(PTR, $00000ACD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nコスマスを助けるとは…\n地球に連れて帰るとでも？
+\n
+How are we supposed\n
+to help him? By
+<$0C>
+taking him back to\n
+Earth?
+<$00>
+
+
+
+
+// Pos: 0000216D
+
+#WLB(PTR, $00000AE0)
+
+#WHB(PTR, $00000AE1)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nまさか！戻すのよ、顔を、元の顔に！
+\n
+God, no! If anything,\n
+he might want his
+<$0C>
+face returned to\n
+normal.
+<$00>
+
+
+
+
+// Pos: 0000218E
+
+#WLB(PTR, $00000AF4)
+
+#WHB(PTR, $00000AF5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n戻す？そんなことができるのか？
+\n
+As in, undo the\n
+surgery? Can you do
+<$0C>
+that?!
+<$00>
+
+
+
+
+// Pos: 000021AB
+
+#WLB(PTR, $00000B08)
+
+#WHB(PTR, $00000B09)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n考えてよ。アタシ、疲れたよ。ちょっとそこで\n休まない？ 休めそうな部屋、あったよ。
+\n
+You figure it out.\n
+I'm getting tired.
+<$0C>
+Wasn't there a safe\n
+room nearby?
+<$00>
+
+
+
+
+// Pos: 000021E6
+
+#WLB(PTR, $00000B1C)
+
+#WHB(PTR, $00000B1D)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nアーネスト、君はどうだ？
+\n
+Need a nap, huh.\n
+Ernest, how about
+<$0C>
+you?
+<$00>
+
+
+
+
+// Pos: 000021FF
+
+#WLB(PTR, $00000B30)
+
+#WHB(PTR, $00000B31)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n俺はまだ平気だぜ。
+\n
+I'm still kicking.
+<$00>
+
+
+
+
+// Pos: 00002216
+
+#WLB(PTR, $00000B44)
+
+#WHB(PTR, $00000B45)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nどのみち砂嵐で戻れそうもないのよ。
+\n
+I'd love to see you\n
+kick through the
+<$0C>
+sandstorm.
+<$00>
+
+
+
+
+// Pos: 00002236
+
+#WLB(PTR, $00000B58)
+
+#WHB(PTR, $00000B59)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n人格によって体力も建うのか…\nよしひと休みしよう。
+\n
+Gotta wonder if\n
+personality affects
+<$0C>
+strength. Anyways,\n
+let's rest.
+<$00>
+
+
+
+
+// Pos: 00002261
+
+#WLB(PTR, $000004DC)
+
+#WHB(PTR, $000004DD)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nリャンハウス… 入れなかった…\n誰かが先に… ふん、ついてないね。
+\n
+I couldn't get into\n
+House Liang. Someone
+<$0C>
+got there first,\n
+and...tch, that\n
+blows.
+<$00>
+
+
+
+
+// Pos: 00002291
+
+#WLB(PTR, $000004F4)
+
+#WHB(PTR, $000004F5)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあら、そこのあんた…\n疲れた顔してどうしたの？
+\n
+Oh! There you are.\n
+What's with the long
+<$0C>
+face?
+<$00>
+
+
+
+
+// Pos: 000022B6
+
+#WLB(PTR, $0000050C)
+
+#WHB(PTR, $0000050D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n臆病じゃねぇぜ、俺は臆病じゃねぇ。
+\n
+I'm not a coward...\n
+I'm not a coward!
+<$00>
+
+
+
+
+// Pos: 000022D8
+
+#WLB(PTR, $00000524)
+
+#WHB(PTR, $00000525)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそう、よかったわね。\nあのお利口さんはどこなの？
+\n
+Err, that's nice. On\n
+that note, where is
+<$0C>
+our little bookworm?
+<$00>
+
+
+
+
+// Pos: 000022FE
+
+#WLB(PTR, $00000538)
+
+#WHB(PTR, $00000539)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nリャンハウス… 入れなかった…\n誰かが先に… ふん、ついてないね。
+\n
+I couldn't get into\n
+House Liang. Someone
+<$0C>
+got there first,\n
+and...tch, that\n
+blows.
+<$00>
+
+
+
+
+// Pos: 0000232E
+
+#WLB(PTR, $00000644)
+
+#WHB(PTR, $00000645)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあら、おどろいた。\nあなたもお出かけだったの？
+\n
+Oh! You spooked me.\n
+Were you itching to
+<$0C>
+head out too?
+<$00>
+
+
+
+
+// Pos: 00002352
+
+#WLB(PTR, $0000065C)
+
+#WHB(PTR, $0000065D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n誰かが俺の中に入ってきやがった。\n頭ん中に…
+\n
+Someone's been inside\n
+of me. Inside of my
+<$0C>
+head...
+<$00>
+
+
+
+
+// Pos: 0000237A
+
+#WLB(PTR, $00000674)
+
+#WHB(PTR, $00000675)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nその誰かと一緒だったの？
+\n
+Were you with anyone?
+<$00>
+
+
+
+
+// Pos: 00002395
+
+#WLB(PTR, $0000068C)
+
+#WHB(PTR, $0000068D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n建う！ 俺はあの野郎を…\nナイトプラネットの前まで行ったんだ。
+\n
+No, I tried to go to\n
+NIGHT PLANET, but
+<$0C>
+that mongrel was in\n
+the way.
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n中に入れなくて… そん時だ、誰かが…
+\n
+He wouldn't let me\n
+in, and then someone
+<$0C>
+came and...
+<$00>
+
+
+
+
+// Pos: 000023E5
+
+#WLB(PTR, $000006A4)
+
+#WHB(PTR, $000006A5)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n出くわさなくてよかった…
+\n
+Hmm. Glad it wasn't\n
+me, I guess.
+<$00>
+
+
+
+
+// Pos: 000023FE
+
+#WLB(PTR, $000006BC)
+
+#WHB(PTR, $000006BD)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、あのお利口さんはどこなの？
+\n
+On that note, where\n
+is our little
+<$0C>
+bookworm?
+<$00>
+
+
+
+
+// Pos: 0000241C
+
+#WLB(PTR, $000006D8)
+
+#WHB(PTR, $000006D9)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n出かけてるんだ、そうに建いねぇ。
+\n
+He must be out. Only\n
+explanation.
+<$00>
+
+
+
+
+// Pos: 0000243B
+
+#WLB(PTR, $000006F0)
+
+#WHB(PTR, $000006F1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあの赤い家のとこ？\n目の玉のあるって言うとこ？
+\n
+To that red building?\n
+The one with the
+<$0C>
+eyeballs, apparently?
+<$00>
+
+
+
+
+// Pos: 00002462
+
+#WLB(PTR, $00000708)
+
+#WHB(PTR, $00000709)
+
+#WLB(PTR, $00000E62)
+
+#WHB(PTR, $00000E63)
+
+#WLB(PTR, $00000EB2)
+
+#WHB(PTR, $00000EB3)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n知らねぇ、おう、俺は知らねぇ。
+\n
+I don't know. God, I\n
+don't know anything
+<$0C>
+right now.
+<$00>
+
+
+
+
+// Pos: 00002480
+
+#WLB(PTR, $00000720)
+
+#WHB(PTR, $00000721)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nどうもアタシに関係してるのよ、\nあの扉の中にあるものが。
+\n
+Well, whatever's\n
+behind that yonder
+<$0C>
+door has something to\n
+do with me.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nカンよ、カンが教えてくれるの。
+\n
+It's just a hunch,\n
+but it's not very
+<$0C>
+lady-like for a woman\n
+to brush off her\n
+intuition.
+<$00>
+
+
+
+
+// Pos: 000024C5
+
+#WLB(PTR, $00000738)
+
+#WHB(PTR, $00000739)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nまたアタシを呼んでる…\n誰なの… 声がするのよ… か細い声…
+\n
+Someone's...calling\n
+me again. I hear
+<$0C>
+their voice.\n
+That...feeble\n
+voice...
+<$00>
+
+
+
+

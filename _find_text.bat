@@ -1,0 +1,1 @@
+tools\FindByTbl.exe orig laika.tbl

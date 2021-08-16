@@ -1,0 +1,74 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000014D0)
+
+// Pos: 000014D0
+
+#WLB(PTR, $000006FC)
+
+#WHB(PTR, $000006FD)
+
+<$00><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ…人格の死だ、
+\n
+Hyohyo...another\n
+death of a
+<$0C>
+personality.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\n人格を失えば
+\n
+When one's\n
+personality wanes,
+<$0F>
+//は\n自分を保てなくなる。
+, the self cannot go\n
+on.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nひょひょ、残念なことだ、つらいことだ。
+\n
+It's a truly\n
+unfortunate affair,
+<$0C>
+hyohyo.
+<$00>
+
+
+
+
+// Pos: 00001530
+
+#WLB(PTR, $00000704)
+
+#WHB(PTR, $00000705)
+
+<$00><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\nひょひょ…これはこれは、\nお前はあの３人とは建うぞ。
+<$0C><$0B>
+スピリットマン：
+<$0D>
+\n
+<$0F>
+とはお前のことだったのか、\nいやそうではなかったのか。
+<$0C><$0B>
+スピリットマン：
+<$0D>
+\nいずれにせよ、終わりだ、つらいことだ。
+<$00>
+
+
+

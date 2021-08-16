@@ -1,0 +1,114 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000020AD)
+
+// Pos: 000020AD
+
+#WLB(PTR, $000001D8)
+
+#WHB(PTR, $000001D9)
+
+<$12><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nふふふ、あんたもやるじゃない。\nレッドのやつ、とうとうおかしくなったよ。
+\n
+Huhuhu, so you've\n
+seen it too now. Red
+<$0C>
+has finally lost his\n
+mind.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nおかえしだね、これまでさんざん…\nふふふ、もっと他にも楽しみたいでしょ。
+\n
+And now, he's on the\n
+revenge path. It'll
+<$0C>
+get even more fun\n
+from here on out.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\n頭のいいあんたならサイコハウスで\nいいことあるよ、ほんとさ。
+\n
+If you're really\n
+smart, you'll go over
+<$0C>
+to Psycho House.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nまだチャンスはあるね、ふふふ、\nみんなおかしくなればいい、
+\n
+We still have a\n
+chance, don't we?
+<$0C>
+Huhu, it'll be fun\n
+driving everyone up a\n
+wall.
+<$0C><$0B>
+//ダミアヌス：
+Damianos:
+<$0D>
+//\nみんなみんなだよ。
+\n
+Up a wall, up a wall!
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 00002172
+
+#WLB(PTR, $000002B0)
+
+#WHB(PTR, $000002B1)
+
+<$12><$0B>
+//レッド：
+Red:
+<$0D>
+//\nへへへへ、俺は気が変わったんだ、\nさあ、入れ！
+\n
+Hehehe, change of\n
+plans. Get inside!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nお前を痛めつける代わりに、\nたっぷり可愛がってやる。
+\n
+Instead of hurting\n
+you, I'm going to
+<$0C>
+love on you big time.
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nぐずぐずするな、入るんだ！
+\n
+Don't just stand\n
+there, get in the
+<$0C>
+damn house!
+<$1E>
+//中
+中
+<$00>
+
+
+
+

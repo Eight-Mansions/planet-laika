@@ -1,0 +1,52 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00004D0C)
+
+// Pos: 00004D0C
+
+#WLB(PTR, $0000010C)
+
+#WHB(PTR, $0000010D)
+
+<$00><$14><$02><$11>
+//急前には誰も救えないのだ、ヨランダ。
+No one will save you,\n
+Yolanda.
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004D29
+
+#WLB(PTR, $00000128)
+
+#WHB(PTR, $00000129)
+
+<$00><$14><$02><$11>
+//馬ニアはお前が殺したようなものだ。見殺しだ。\n 
+You'll die alone,\n
+just like Tanya did!\n
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004D4C
+
+#WLB(PTR, $00000130)
+
+#WHB(PTR, $00000131)
+
+<$00><$14><$02><$11>
+//急前はひとりだヨランダ。この先もひとりだ。
+You're all alone, and\n
+always will be!
+<$0E><$78><$17><$00>
+
+
+
+

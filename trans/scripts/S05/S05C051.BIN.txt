@@ -1,0 +1,744 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002F1D)
+
+// Pos: 00002F1D
+
+#WLB(PTR, $0000162C)
+
+#WHB(PTR, $0000162D)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nねぇ、教えてよ、\n神のさばきがくだる、それが蕃判なんだろ？
+\n
+All right, tell me.\n
+This "Judgment"
+<$0C>
+business. That's\n
+God's will, isn't it?
+<$0C><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nここには神がいるの？
+\n
+Does that mean God is\n
+here?
+<$00>
+
+
+
+
+// Pos: 00002F60
+
+#WLB(PTR, $00001640)
+
+#WHB(PTR, $00001641)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n神はいつもおいでじゃ。\nだがやつは、ガリルは神ではない！
+\n
+God was always here,\n
+but that man, Garyl,
+<$0C>
+is no god!
+<$00>
+
+
+
+
+// Pos: 00002F90
+
+#WLB(PTR, $00001680)
+
+#WHB(PTR, $00001681)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nガリルが神？\nすごいことになってるんだね。
+\n
+Garyl, a god? He\n
+really went off the
+<$0C>
+deep end if he\n
+thought he could\n
+achieve godhood.
+<$00>
+
+
+
+
+// Pos: 00002FB3
+
+#WLB(PTR, $00000B26)
+
+#WHB(PTR, $00000B27)
+
+#WLB(PTR, $00000CAA)
+
+#WHB(PTR, $00000CAB)
+
+#WLB(PTR, $00000EEE)
+
+#WHB(PTR, $00000EEF)
+
+#WLB(PTR, $000012BA)
+
+#WHB(PTR, $000012BB)
+
+#WLB(PTR, $00001694)
+
+#WHB(PTR, $00001695)
+
+#WLB(PTR, $00001F3E)
+
+#WHB(PTR, $00001F3F)
+
+#WLB(PTR, $00001FE6)
+
+#WHB(PTR, $00001FE7)
+
+#WLB(PTR, $000020F2)
+
+#WHB(PTR, $000020F3)
+
+#WLB(PTR, $0000226E)
+
+#WHB(PTR, $0000226F)
+
+#WLB(PTR, $000023EA)
+
+#WHB(PTR, $000023EB)
+
+#WLB(PTR, $000024A6)
+
+#WHB(PTR, $000024A7)
+
+#WLB(PTR, $00002556)
+
+#WHB(PTR, $00002557)
+
+#WLB(PTR, $00002602)
+
+#WHB(PTR, $00002603)
+
+#WLB(PTR, $000027AE)
+
+#WHB(PTR, $000027AF)
+
+#WLB(PTR, $0000293E)
+
+#WHB(PTR, $0000293F)
+
+#WLB(PTR, $00002B1A)
+
+#WHB(PTR, $00002B1B)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+<$0D>
+//\nなんともはやだ。\nガリルは神への階段を昇ろうとしておる。
+\n
+Not entirely, for\n
+Garyl scales the
+<$0C>
+stairway to God as we\n
+speak.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n得体の知れない死の情熱で、\n肉体を超えた存在になろうとしておるのじゃ。
+\n
+He means to exercise\n
+man's reason for
+<$0C>
+dying and become that\n
+which exceeds the\n
+flesh.
+<$00>
+
+
+
+
+// Pos: 00003022
+
+#WLB(PTR, $000016A8)
+
+#WHB(PTR, $000016A9)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\n死の情熱？\nまるで自殺願望だね、それじゃ。
+\n
+Man's reason for\n
+dying? In this
+<$0C>
+context, that sounds\n
+like suicidal\n
+ideation.
+<$00>
+
+
+
+
+// Pos: 0000304B
+
+#WLB(PTR, $000016BC)
+
+#WHB(PTR, $000016BD)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nやつにとって死はたわむれじゃ。
+\n
+To him, death is a\n
+flirtation.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n心の悪のそのすべてを浄化したとき、\n永遠の存在になるというのじゃ。
+\n
+It is said that when\n
+one purifies their
+<$0C>
+mind of all evil,\n
+they become an\n
+eternal existence.
+<$00>
+
+
+
+
+// Pos: 000030A4
+
+#WLB(PTR, $00001700)
+
+#WHB(PTR, $00001701)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\n悪を浄化するって、どうやって？\nお祈りでもするの？
+\n
+And how does one\n
+purify that evil?
+<$0C>
+Isn't that whay\n
+prayer is for?
+<$00>
+
+
+
+
+// Pos: 000030CD
+
+#WLB(PTR, $00001714)
+
+#WHB(PTR, $00001715)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nシークレットパワーじゃよ。
+\n
+No, it requires the\n
+secret power.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n我らがメディスンマン一族に伝わる禁断の力。
+\n
+It is a forbidden\n
+power passed between
+<$0C>
+us medicine men.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nガリルはユニバーサルマンから\nうばったのじゃ。
+\n
+Garyl stole this\n
+power from
+<$0C>
+Universalman.
+<$00>
+
+
+
+
+// Pos: 0000313D
+
+#WLB(PTR, $00001728)
+
+#WHB(PTR, $00001729)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nおとろえておるが、\nまだ少しは役に立つじゃろう。
+\n
+We have grown weaker,\n
+but I wish to lend
+<$0C>
+whatever aid I can.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nこの力をお前にさずけよう。
+\n
+I give this ounce of\n
+power to you.
+<$00>
+
+
+
+
+// Pos: 00003187
+
+#WLB(PTR, $000018B8)
+
+#WHB(PTR, $000018B9)
+
+<$10><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nあたたかいよ… これがシークレットパワー…
+\n
+Is this...the secret\n
+power? It feels warm.
+<$00>
+
+
+
+
+// Pos: 000031A9
+
+#WLB(PTR, $000018CC)
+
+#WHB(PTR, $000018CD)
+
+<$10><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nシークレットパワーは、\n心の悪を浄化する力じゃ。
+\n
+The secret power\n
+purifies the evil of
+<$0C>
+the mind.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nお前の心に積もった悪をな。
+\n
+The evil that has\n
+accumulated in your
+<$0C>
+mind, that is.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
+\n
+But you cannot use it\n
+on your own. You need
+<$0C>
+someone into whom you\n
+can transfer that\n
+evil.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n心が弱い相手じゃと、ふほ…\nおかしくなってしまうかも知れないのう。
+\n
+Someone with a strong\n
+mind already, go-ho.
+<$0C>
+You don't want to\n
+make anyone sick, do\n
+you?
+<$00>
+
+
+
+
+// Pos: 0000325D
+
+#WLB(PTR, $000019F0)
+
+#WHB(PTR, $000019F1)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\n人をギセイにするんだ…\nその人はおかしくなるの？
+\n
+So, I'd be pushing my\n
+evil onto someone
+<$0C>
+else? And making them\n
+sick?
+<$0C><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\n気が変になるとかなの？
+\n
+And what happens if\n
+they lose their mind?
+<$00>
+
+
+
+
+// Pos: 00003298
+
+#WLB(PTR, $00001A04)
+
+#WHB(PTR, $00001A05)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nふほ、そうせかんでもええのう。
+\n
+Go-ho, then they lose\n
+their mind.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nその力はやがて役に立つじゃろうて。\nふほふほ。
+\n
+Be that as it may,\n
+this power will prove
+<$0C>
+useful to you soon\n
+enough, go-ho.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nお前には資質があるということじゃなぁ。\nまことにそういうことじゃ。
+\n
+This conversation\n
+proves you have the
+<$0C>
+qualities we need.\n
+This is a matter of\n
+truth.
+<$00>
+
+
+
+
+// Pos: 00003314
+
+#WLB(PTR, $00001A18)
+
+#WHB(PTR, $00001A19)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\n資質って？僕は特別なの？
+\n
+The qualities you\n
+need? What makes me
+<$0C>
+so special?
+<$00>
+
+
+
+
+// Pos: 00003332
+
+#WLB(PTR, $00001A2C)
+
+#WHB(PTR, $00001A2D)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nふほ、お前とそれからもうひとりの…\nふほ、もしや預言にあるマコトの双子…
+\n
+Go-ho, that you are\n
+part of another, like
+<$0C>
+the twins of truth\n
+mentioned in the\n
+prophecies.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nいやわからんのう。\nわしにはそれ以上は見えんのじゃ。
+\n
+Beyond that, who can\n
+say? I cannot see
+<$0C>
+anything beyond that.
+<$00>
+
+
+
+
+// Pos: 00003396
+
+#WLB(PTR, $00001A40)
+
+#WHB(PTR, $00001A41)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\n僕はどうしてここにいるの？\nこの星に？
+\n
+Why am I here? What\n
+brought me to Mars?
+<$00>
+
+
+
+
+// Pos: 000033B8
+
+#WLB(PTR, $00001BCC)
+
+#WHB(PTR, $00001BCD)
+
+<$11><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n呼ばれたのじゃな。この星では古くからの\n言い伝えがある…
+\n
+I cannot say, but on\n
+this planet, we speak
+<$0C>
+of an old legend.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n完全なる善と、完全なる悪、このふたつが\n出会うときに世界は再生されると\n言われておるのじゃ。
+\n
+"When pure good and\n
+pure evil intertwine,
+<$0C>
+the world will be\n
+reborn."
+<$00>
+
+
+
+
+// Pos: 00003432
+
+#WLB(PTR, $00001BE0)
+
+#WHB(PTR, $00001BE1)
+
+<$10><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nじゃあガリルは…\nもしかして完全なる善になろうってことなの。
+\n
+If that's the\n
+case...I suppose
+<$0C>
+Garyl perceives\n
+himself the "pure\n
+good" one.
+<$0C><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nすごいや、それで光の私なんだ。\n輝いてるんだ。
+\n
+That explains his, "I\n
+am the light,"
+<$0C>
+statement and all the\n
+shining business.
+<$00>
+
+
+
+
+// Pos: 00003483
+
+#WLB(PTR, $00001BF4)
+
+#WHB(PTR, $00001BF5)
+
+<$10><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n全ては妄想のなせるワザじゃ。
+\n
+Fantasies can fool\n
+most anyone in any
+<$0C>
+which way.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nガリルはイーブルマインドをさぐるうちに\n世界の再生に触れた預言と出会った。
+\n
+In Garyl's search for\n
+Evil Mind, he
+<$0C>
+uncovered the\n
+prophecies detailing\n
+world rebirth.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nとうの昔に死んだ流刑者が残したもので、\nエレミヤの預言と呼ばれておる。
+\n
+These prophecies were\n
+left behind by an
+<$0C>
+exile who died long\n
+ago-Jeremiah the\n
+Exile.
+<$00>
+
+
+
+
+// Pos: 0000351C
+
+#WLB(PTR, $00001C08)
+
+#WHB(PTR, $00001C09)
+
+<$10><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nそうだったのか…さっき見た黒い騎士も\nその預言から現れたんだな。
+\n
+I see... So, the\n
+rising Black Rider we
+<$0C>
+saw must have been an\n
+element to this\n
+prophecy.
+<$00>
+
+
+
+
+// Pos: 0000354E
+
+#WLB(PTR, $00001D4C)
+
+#WHB(PTR, $00001D4D)
+
+<$12><$13><$16><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nガリルの妄想をふせぐには、\nエレミヤの預言を得ることじゃ。
+\n
+To stop Garyl's\n
+fantasy, you must
+<$0C>
+find Jeremiah's five\n
+prophecies first.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\n５つの預言全てを銀のカプセルに\n閉じ込めるのじゃ。
+\n
+You can lock all five\n
+prophecies inside of
+<$0C>
+a silver capsule.
+<$0C><$0B>
+//ホワイトイーグル…？：
+White Eagle(?):
+<$0D>
+//\nやつはまだ全てを手に入れたわけではない。\n今のうちじゃ。
+\n
+Garyl has not found\n
+all five of them yet.
+<$00>
+
+
+
+
+// Pos: 000035DD
+
+#WLB(PTR, $00001D60)
+
+#WHB(PTR, $00001D61)
+
+<$12><$13><$13><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\n銀のカプセル… 確か記憶の谷で…
+\n
+A silver capsule, got\n
+it. I got one in
+<$0C>
+Memory Valley.
+<$0C><$0B>
+//ライカ…？：
+Laika(?):
+<$0D>
+//\nねぇ、預言はどこなの？\nユニバーサルマンに会えばいいの？
+\n
+...Speaking of which,\n
+where are the
+<$0C>
+prophecies? Is there\n
+a way to speak with\n
+Universalman?
+<$00>
+
+
+
+

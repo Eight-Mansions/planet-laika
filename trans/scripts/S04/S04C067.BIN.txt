@@ -1,0 +1,717 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000034B5)
+
+// Pos: 000034B5
+
+#WLB(PTR, $000002A4)
+
+#WHB(PTR, $000002A5)
+
+<$13><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあら、コスマスをどうするつもりなの？
+\n
+Hey, what do you\n
+think you're doing
+<$0C>
+with Cosmas?
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nまさかあなたも…建うでしょうね、そうよね、\nレッドのやつはフケツよ、\nすこぶるつきのフケツ野郎。
+\n
+...Sorry. I guess\n
+you're different. Red
+<$0C>
+is the fuck up, not\n
+you. Fucking mongrel.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあいつはサイテーね。
+\n
+I want to beat the\n
+shit out of him.
+<$00>
+
+
+
+
+// Pos: 00003523
+
+#WLB(PTR, $000002B8)
+
+#WHB(PTR, $000002B9)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nねぇ、コスマス君、\nあなた…すごくうまくいってると思うわ、
+\n
+Oh, Cosmas.\n
+You're...coming along
+<$0C>
+so moothly. Really,\n
+I'm jealous.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nうらやましいわ、本当よ。\nでもあんまり欲張らない方がいいわよ。
+\n
+Of course, I won't\n
+let jealousy come
+<$0C>
+between friends.
+<$00>
+
+
+
+
+// Pos: 0000357A
+
+#WLB(PTR, $000002CC)
+
+#WHB(PTR, $000002CD)
+
+<$12><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nイヤだ、ここはイヤだ、痛いもん。
+\n
+No, I...I don't like\n
+it here. It hurts a
+<$0C>
+lot.
+<$00>
+
+
+
+
+// Pos: 00003595
+
+#WLB(PTR, $000002E0)
+
+#WHB(PTR, $000002E1)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあら、そんなことないのよ。\n痛くなんてないじゃない。
+\n
+No pet, don't think\n
+that way. This
+<$0C>
+doesn't hurt, really.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nただ布をかぶせるだけ。\nそれで望みの顔になれるのよ。
+\n
+It's just a cloth\n
+they put on your face
+<$0C>
+that gives you the\n
+face you want.
+<$00>
+
+
+
+
+// Pos: 000035E2
+
+#WLB(PTR, $000002F4)
+
+#WHB(PTR, $000002F5)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nでもね、どんなのが望みなのか\nちゃんとしてないと、ちゃんとならないのよ。
+\n
+What do you want,\n
+exactly? If you don't
+<$0C>
+think properly, it\n
+won't work properly.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nアタシ、だんだん何が望みなのか\n分からなくなって…
+\n
+I think for me, the\n
+problem is that I'm
+<$0C>
+gradually growing\n
+unsure of what I\n
+want.
+<$00>
+
+
+
+
+// Pos: 00003636
+
+#WLB(PTR, $0000041C)
+
+#WHB(PTR, $0000041D)
+
+<$12><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n帰ろうよ、ダークマン。\nここは良くないよ。
+\n
+Let's go, Darkman. I\n
+don't like it here.
+<$00>
+
+
+
+
+// Pos: 00003657
+
+#WLB(PTR, $00000430)
+
+#WHB(PTR, $00000431)
+
+//裂に
+裂に
+<$0B><$0D>
+//約束だコスマス。\nお前を苦悩から解き放ってやる、\n今がその時だ。
+I promise you,\n
+Cosmas. Now is the\n
+time we free you from
+<$0C>
+your suffering.
+<$00>
+
+
+
+
+// Pos: 00003685
+
+#WLB(PTR, $00000444)
+
+#WHB(PTR, $00000445)
+
+<$12><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nどうやって？\nまたあの布をかぶせるの？
+\n
+But how is covering\n
+me with that cloth
+<$0C>
+again going to do\n
+that?
+<$00>
+
+
+
+
+// Pos: 000036A3
+
+#WLB(PTR, $00000458)
+
+#WHB(PTR, $00000459)
+
+//裂に痛みには耐えるのだ。\n耐えねばならん。 それで苦悩は去る。
+\n
+Endure the pain. If\n
+you can endure it
+<$0C>
+now, your suffering\n
+will go away.
+<$00>
+
+
+
+
+// Pos: 000036CA
+
+#WLB(PTR, $0000046C)
+
+#WHB(PTR, $0000046D)
+
+<$12><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n中に入ろうよ。
+\n
+Let's go inside.
+<$00>
+
+
+
+
+// Pos: 000036DD
+
+#WLB(PTR, $00000558)
+
+#WHB(PTR, $00000559)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nフェイが戻るまで中で待つといいわ…
+\n
+Wait inside until Hui\n
+returns.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nコスマスはどんどんきれいになって、\nアタシは置いてけぼり。 いっつもそう。
+\n
+Cosmas is always\n
+getting prettier and
+<$0C>
+prettier while I'm\n
+out in the dirt.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nアタシって、なんでも後回しにされるの。\n小さいころからよ…
+\n
+It's what I get for\n
+putting things off
+<$0C>
+since my own youth.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nふふふ、人生だって、\nみんなの後を追いかけてるようなもの。
+\n
+But, c'est la vie. We\n
+chase after everyone
+<$0C>
+we feel is miles\n
+ahead of us.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n人の失敗に学ぶのよ。
+\n
+Best we can do is\n
+learn from their
+<$0C>
+mistakes.
+<$00>
+
+
+
+
+// Pos: 00003797
+
+#WLB(PTR, $000007C8)
+
+#WHB(PTR, $000007C9)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nアタシはねぇ、どんなお顔がいいのか、\nまだ自分でも分かっちゃないのよ。
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nそういうことにしておく。
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n元が良くないなんて、言わせないから…\nねぇそうよね？
+<$00>
+
+
+
+
+// Pos: 00003803
+
+#WLB(PTR, $000007E8)
+
+#WHB(PTR, $000007E9)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\n答えなくてもいいのよ…
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nなんだかちょっと落ち込んだわ。\nでもだいじょうぶ…
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nフェイを待つんでしょ、\n中に入って待てばいいわ。
+<$00>
+
+
+
+
+// Pos: 00003865
+
+#WLB(PTR, $00000860)
+
+#WHB(PTR, $00000861)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nねぇ、ちょっと、あなた何やったの…\nコスマスが犬顔に戻っちゃったよ。
+\n
+Wait a moment. What\n
+did you do?\n
+Kosmas is a dogface\n
+again!
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nどうしたの、あれじゃ逆整形よ。\nアタシ、知らないよ、レッドのやつが見たら…
+\n
+That's reverse\n
+cosmetic surgery. I
+<$0C>
+don't know how Red\n
+will take to that.
+<$0C><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nあああ、また憎しみが深くなるのね…\nもうおしまいよ。
+\n
+If he sees Kosmas\n
+now, his hatred will
+<$0C>
+take over. There'd be\n
+no turning back.
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 000038F1
+
+#WLB(PTR, $00000888)
+
+#WHB(PTR, $00000889)
+
+<$12><$0B>
+//マラケシュ：
+Marrakesh:
+<$0D>
+//\nコスマスの犬顔、レッドが見たら怒り狂うわよ。\nあなた、見つからないようにしなきゃ。
+\n
+If Red sees Kosmas'\n
+face, he'll riot.\n
+Keep Red away from\n
+Kosmas!
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 0000392C
+
+#WLB(PTR, $00000688)
+
+#WHB(PTR, $00000689)
+
+<$13><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあらー、あなたも行ったり来たりねー。
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nアタシ、また夢見ちゃったのー。\nこのアタシがねー、カベに向かって立ってねー、\nブツブツやってるのー
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nすごい集中してるんだけどー、\nなんかアタシじゃないみたいなのー。\n他人みたいなのー。
+<$1E>
+//行
+<$00>
+
+
+
+
+// Pos: 000039BD
+
+#WLB(PTR, $000006B0)
+
+#WHB(PTR, $000006B1)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nカベにブツブツよー。 えーっとね、\nブリックロードと避難小屋と記憶の谷よー、
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nアタシの場所じゃないのにねー、\nゼンゼンないのにー。
+<$1E>
+//中
+<$00><$12><$0B>
+//リンダ：
+<$0D>
+//\nねー、変ねー、夜じゃないのに\n消灯時間だなんてねー。
+<$0C><$0B>
+//リンダ：
+<$0D>
+//\nなんだかねー、あんたが来てから\nおかしなことばっかよー。
+<$0C><$0B>
+//リンダ：
+<$0D>
+//\nあんた…あんただよね、\nさっきのあんたよねー。
+<$00>
+
+
+
+
+// Pos: 00003A87
+
+#WLB(PTR, $000006D4)
+
+#WHB(PTR, $000006D5)
+
+<$13><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあんたさー、マラケシュに開いたんだけど、\n抜け駆けしてヴァニティフェイス\n手に入れようっていうんでしょ。
+\n
+I had a one-on-one\n
+with Marrakesh, and
+<$0C>
+she said you were\n
+sneaking a Vanity\n
+Face procedure.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nずるいったらずるいねー。\nどうやって顔作るか知ってるの？
+\n
+Sneaky little devil,\n
+you! So, do you know
+<$0C>
+how these faces are\n
+made?
+<$1B>
+//※もちろん、知ってる\nそんなの、知らない
+※I DO know\n
+I don't know
+<$00><$17><$00>
+
+
+
+
+// Pos: 00003B09
+
+#WLB(PTR, $000006F4)
+
+#WHB(PTR, $000006F5)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nへぇ… そうなの、そうなの。
+\n
+Ahhh, of course, of\n
+course.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\n地球じゃできなかったことよ。\nヴェロニカの布は火星にしかないんだから。
+\n
+Earth doesn't have\n
+this sort of thing.
+<$0C>
+Veronica's cloth is\n
+only available on\n
+Mars.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nで、蕃判の話、地球にも伝わってるの？\nそうよね、そうに建いない…
+\n
+Tell me, has the\n
+story of Judgment
+<$0C>
+spread to Earth? Yes,\n
+that's it...
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nそれであんたがやってきて…
+I knew that's why you\n
+came here.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
+\n
+Yeah, you probably\n
+accepted whatever
+<$0C>
+piss job they gave\n
+you to do this on the\n
+side, hehe!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00003BC7
+
+#WLB(PTR, $00000700)
+
+#WHB(PTR, $00000701)
+
+<$13><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nじゃあ、教えてあげる。\n汚い布、かぶせるのよ、お顔に。
+\n
+All right, I'll tell\n
+you. First of all,
+<$0C>
+Hui puts some dirty\n
+cloth she got on your\n
+face.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nフェイが手に入れたの、その布。\nかぶせると、布の表面に顔が現れて、\nしばらくするとその顔になれるの。
+\n
+Once your face is\n
+covered, a face rises
+<$0C>
+up to the surface of\n
+the cloth, and it\n
+sticks.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあの布は火星にしかないんだから。
+\n
+Give it more time,\n
+and it becomes your
+<$0C>
+face. The cloth that\n
+does this exists only\n
+on Mars.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nで、蕃判の話、地球にも伝わってるの？\nそうよね、そうに建いない…\nそれであんたがやってきて…
+\n
+Tell me, has the\n
+story of Judgment
+<$0C>
+spread to Earth? I\n
+knew that's why you\n
+came here.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
+\n
+Yeah, you probably\n
+accepted whatever
+<$0C>
+piss job they gave\n
+you to do this on the\n
+side, hehe!
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00003CBD
+
+#WLB(PTR, $0000072C)
+
+#WHB(PTR, $0000072D)
+
+<$12><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nでー、お顔、どうなったのー。\nまだ犬じゃんかよー。
+\n
+My, my, what happened\n
+to his face? You're
+<$0C>
+still a dog, aren't\n
+you...
+<$1E>
+//中
+<$00><$12><$0B>
+//コスマス：
+<$0D>
+//\n僕、ときどき夢見るんだ、\n裏側からこの部屋、見てるんだ。
+<$0C><$0B>
+//コスマス：
+<$0D>
+//\nでもつながってないんだよ。
+<$00>
+
+
+
+

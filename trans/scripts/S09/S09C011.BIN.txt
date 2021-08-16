@@ -1,0 +1,269 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000C08)
+
+// Pos: 00000C08
+
+#WLB(PTR, $000000F8)
+
+#WHB(PTR, $000000F9)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nふふ、どうしたのさ。\nけげんな顔して。
+\n
+Hehe, what's the\n
+matter? Why the long
+<$0C>
+face?
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n他に誰もいないよね、あんただけだよね。
+\n
+There's no one else\n
+here besides you.
+<$00>
+
+
+
+
+// Pos: 00000C44
+
+#WLB(PTR, $0000010C)
+
+#WHB(PTR, $0000010D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私だけだ。 心配はいらない。
+\n
+No one besides me...\n
+Nothing to worry
+<$0C>
+about...
+<$00>
+
+
+
+
+// Pos: 00000C61
+
+#WLB(PTR, $00000120)
+
+#WHB(PTR, $00000121)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nあんたに神様の名前、教えてなかったね。
+\n
+I never told you\n
+God's name, did I?
+<$00>
+
+
+
+
+// Pos: 00000C83
+
+#WLB(PTR, $00000134)
+
+#WHB(PTR, $00000135)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n神に名前があるのか。
+\n
+Does God have a name?
+<$00>
+
+
+
+
+// Pos: 00000C9C
+
+#WLB(PTR, $00000148)
+
+#WHB(PTR, $00000149)
+
+<$11><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n神様はトールボーイって言うんだ。
+/\n
+God's name is\n
+Tallboy.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n名付けたのは僕じゃない。\n夢の中で開こえたんだ、\nトールボーイって呼ぶ声が。
+\n
+I didn't name him. I\n
+heard it in a dream.
+<$0C>
+A voice, calling for\n
+"Tallboy".
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n最初に見つけたときは、つららを逆さにした\nみたいな柱だったんだ。
+\n
+When I first found\n
+this place, icicle
+<$0C>
+came down like a\n
+great pillar before\n
+me.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n次に来たら顔ができてた。 下の方にだよ。
+\n
+The next time I came,\n
+a face appeared from
+<$0C>
+underneath.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nその次は、どうなってたと思う？\n３つも顔ができてたんだよ。\n見に来るたんびに顔が増えていくんだ。
+\n
+And what happened the\n
+next time? Three
+<$0C>
+faces appeared! Their\n
+numbers multiply each\n
+time.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n今じゃ柱中に顔がある。 すごいよ。
+\n
+And now, their faces\n
+linger inside the
+<$0C>
+pillar. It's a\n
+marvel!
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
+\n
+There are sockets by\n
+the eyes of the first
+<$0C>
+face that appears\n
+that must fit\n
+something.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nそれで家にあった光る石を\n思いついたってわけだよ。
+\n
+I've come to the\n
+conclusion that the
+<$0C>
+glowing stones must\n
+serve some use here.
+<$00>
+
+
+
+
+// Pos: 00000DFD
+
+#WLB(PTR, $0000015C)
+
+#WHB(PTR, $0000015D)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nここはイーブルマインドのダムではないのか。
+\n
+This place isn't a\n
+dam for Evil Mind at
+<$0C>
+all...
+<$00>
+
+
+
+
+// Pos: 00000E1F
+
+#WLB(PTR, $00000170)
+
+#WHB(PTR, $00000171)
+
+<$11><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nトールボーイがイーブルマインドを\n吐き出すところに現れたってこと、\n意味あると思わない？
+\n
+But Tallboy appears\n
+in outpours of Evil
+<$0C>
+Mind. Don't you think\n
+that's relevant?
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nトールボーイは悪を食べるんだよ。\n食べてきれいにしてくれるんだ。\nでも、眼を入れないと本物にはならない。
+\n
+Tallboy devours evil,\n
+and keeps Mars clean.
+<$0C>
+Although, you have to\n
+see it to believe it.
+<$00>
+
+
+
+
+// Pos: 00000E9E
+
+#WLB(PTR, $000001CC)
+
+#WHB(PTR, $000001CD)
+
+<$11><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nいよいよなんだよ、ドキドキさ、そりゃ。\nあんたもでしょ。\nでも恐くないよ、神様だもん。
+\n
+That's why you're\n
+here! Aren't you
+<$0C>
+excited? I know I am!\n
+It's time to face\n
+God!
+<$00>
+
+
+
+

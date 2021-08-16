@@ -1,0 +1,504 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001C1D)
+
+// Pos: 00001C1D
+
+#WLB(PTR, $000002F4)
+
+#WHB(PTR, $000002F5)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nへへへ、記憶の谷、そうだろ、\nあそこはおっかない。
+\n
+Hehehe, Memory\n
+Valley. That place is
+<$0C>
+ghastly!
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nみんな憑かれてるんだ、蕃判の始まりだ。\n足音を忍ばせて近付いてくる。 どこにだ？
+\n
+Everyone there is\n
+possessed, but
+<$0C>
+Judgment has begun.\n
+It tiptoes ever\n
+closer.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nへっ、心の中にだ。
+\n
+Creep where, you ask?\n
+Into the mind.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nここはそういう星だ、
+\n
+Mars is a dog-eat-dog\n
+world, understand.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n弱いやつらはみんなやられちまう。\n俺たちは建う。見ろ！
+\n
+The frail pass when\n
+they are called to.
+<$0C>
+But we? We are\n
+different, you see.
+<$00>
+
+
+
+
+// Pos: 00001CC6
+
+#WLB(PTR, $00000418)
+
+#WHB(PTR, $00000419)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nあれで集めてるんだ、
+\n
+We collect these.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n金星人のパルスだ。\nもうじき角度が合う、金星を向くんだ。
+\n
+That's a Venusian\n
+Puls. We're almost at
+<$0C>
+the right angle to\n
+face Venus itself.
+<$00>
+
+
+
+
+// Pos: 00001D06
+
+#WLB(PTR, $000004D0)
+
+#WHB(PTR, $000004D1)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n心の弱いやつは蕃判を乗り切れないんだ。
+\n
+The frail of mind\n
+will fall to Judgment
+<$0C>
+soon enough.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nでもな、金星人のパルスがあれば\n大丈夫ってわけよ。
+\n
+But as long we have\n
+the Venusian Pulses,
+<$0C>
+we'll be fine.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nへへ、俺たちが始めたんだ、\nもうじき実験だ。
+\n
+Hehe, we're about to\n
+begin our experiment.
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 00001D72
+
+#WLB(PTR, $000002D0)
+
+#WHB(PTR, $000002D1)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n金星人に最初に目を付けたのは\n誰だか分かるか、マウンテンだ。
+\n
+Do you know who first\n
+saw the Venusians? It
+<$0C>
+was Mountain.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n金星から気づきの波動が放たれているそうだ。
+\n
+Apparently, he was\n
+the first to notice
+<$0C>
+that Venus was\n
+releasing waves.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n気づきだ、気がつくことだ、\nピンとくることだ、もうじき実験だ。
+\n
+He, then we, honed in\n
+real good, and now,
+<$0C>
+we're about to start\n
+our experiment!
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 00001DEE
+
+#WLB(PTR, $00000F14)
+
+#WHB(PTR, $00000F15)
+
+<$11><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nあんたは…そうか！\nあんたか、新しい使者というのは！\n喜びが増えるぞ。
+\n
+And, you are...oh!\n
+Yes, a new messanger
+<$0C>
+bringing good news of\n
+great joy!
+<$0C><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nで、どっちなんだ、\nあんた自身は、分類として、\n金星なのか？ もう、すでに、そうなのか？
+\n
+Where would you say\n
+you're from: Venus or
+<$0C>
+Earth?
+<$1B>
+//、金星から来た\n地球から来た
+、From Venus\n
+From Earth
+<$00><$17><$00>
+
+
+
+
+// Pos: 00001E73
+
+#WLB(PTR, $00000F40)
+
+#WHB(PTR, $00000F41)
+
+<$10><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nあははははは、ユカイだ、いいぞ、そうだ！\nつまるところ、あんたはむかえに行ったんだ。
+<$0C><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nいや、実際にあるぞ、プラズマになれば\n星間飛行などたやすいことだ。
+<$00>
+
+
+
+
+// Pos: 00001EDA
+
+#WLB(PTR, $00000F34)
+
+#WHB(PTR, $00000F35)
+
+<$10><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n誰でもそう思っているだけだ、\nでも本当は建う、もっと別の現象だ！
+\n
+Everyone may think\n
+otherwise, but life's
+<$0C>
+phenomena are never\n
+so simple!
+<$0C><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nカオスがのしかかっているからな、\n星の名前があっちこっち動いたりするんだ。
+\n
+As chaos brews, the\n
+planets and their
+<$0C>
+names are always in a\n
+stir.
+<$00>
+
+
+
+
+// Pos: 00001F3F
+
+#WLB(PTR, $00000F58)
+
+#WHB(PTR, $00000F59)
+
+<$00><$11><$01><$0E><$1E><$17><$00>
+
+
+
+// Pos: 00001F46
+
+#WLB(PTR, $00000F6C)
+
+#WHB(PTR, $00000F6D)
+
+<$11><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nあんたを見て分かった、やっぱりな。\nさぐりに行くんだろ、\nやつらだ、メディスンマンのやつらだ。
+\n
+From that look on\n
+your face...yes!
+<$0C>
+You're sniffing\n
+around for medicine\n
+men.
+<$0C><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nあいつらはたぶらかしの天才、そうなのだ！\n金星人を無視しようとする、いけないことだ。
+\n
+They've got flashy\n
+gifts, all right!
+<$0C>
+Don't underestimate\n
+the Venusians.
+<$0C><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nよし、やぶさかではないぞ、\n見つからないようにこっそりとな。\n教えてやる、オートロックの暗証番号は…
+\n
+If you want to sneak\n
+a peek at the lodge,
+<$0C>
+I'll give you the PIN\n
+to for the autolock.
+<$00>
+
+
+
+
+// Pos: 00001FFC
+
+#WLB(PTR, $00000F7C)
+
+#WHB(PTR, $00000F7D)
+
+<$00><$11><$01><$0E><$1E><$17><$00>
+
+
+
+// Pos: 00002003
+
+#WLB(PTR, $00000F90)
+
+#WHB(PTR, $00000F91)
+
+<$10><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n暗証番号は、６だ、そうだ！\n６だ！ オートロックだ、はっ！
+\n
+The PIN is...6! Yep,\n
+6! That'll disengage
+<$0C>
+the autolock for you!
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 00002032
+
+#WLB(PTR, $00000FE0)
+
+#WHB(PTR, $00000FE1)
+
+<$11><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n私は何も言わないぞ、\nただ心をきれいにして信じているだけだ。\n実験が始まったら声をかけるぞ。
+\n
+No more talk. Until\n
+we start the
+<$0C>
+experiment, let's\n
+clear our minds and\n
+believe.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 00002074
+
+#WLB(PTR, $00000EA0)
+
+#WHB(PTR, $00000EA1)
+
+<$11><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n円周率だ、円周率で増えたり減ったりするんだ。\n定理を見つけたんだ。
+\n
+I'VE FOUND IT! YES! A\n
+constant
+<$0C>
+circumference to\n
+diameter ratio...pi!
+<$0C><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n小数点以下３０ケタまで覚えているぞ。\n開きたいか？
+\n
+I've memorized the\n
+first 30 digits to
+<$0C>
+test the theory.\n
+Wanna hear it?
+<$1B>
+//？開きたい\n開かない
+<$00><$17><$00>
+
+
+
+
+// Pos: 000020E3
+
+#WLB(PTR, $00000ECC)
+
+#WHB(PTR, $00000ECD)
+
+<$11><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n３．１４１５９２６５３５８９７９３\n２３８４６２６４３３８３２７９。
+\n
+3.141592653589793\n
+238462643383279!
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 00002113
+
+#WLB(PTR, $00000EC0)
+
+#WHB(PTR, $00000EC1)
+
+<$11><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\nこれは私の問顆なのだ。\nあんたではなく、私のだ。
+\n
+So be it! Pi was\n
+always MY puzzle to
+<$0C>
+solve-not yours!
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 0000213B
+
+#WLB(PTR, $00000FFC)
+
+#WHB(PTR, $00000FFD)
+
+<$11><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n円周率はいろんな場面で応用が利くからな。\n役に立つんだ。実験でも使うかも知れん。
+\n
+This "pi" will prove\n
+useful in many
+<$0C>
+situations, even in\n
+our experiment!
+<$0C><$0B>
+//マウンテン：
+Mountain:
+<$0D>
+//\n実験が始まったら声をかける、参加するんだ。
+\n
+I'll call for you\n
+when we start the
+<$0C>
+experiment!
+<$1E>
+//理
+<$00>
+
+
+
+

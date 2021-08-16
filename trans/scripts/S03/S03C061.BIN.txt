@@ -1,0 +1,194 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001660)
+
+// Pos: 00001660
+
+#WLB(PTR, $0000078C)
+
+#WHB(PTR, $0000078D)
+
+#WLB(PTR, $00000988)
+
+#WHB(PTR, $00000989)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nねぇ、ここから先は行けないよ。\n信仰がないとダメなんだ。
+\n
+You can't proceed\n
+past this point
+<$0C>
+without faith.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nあんたには理解できそうもないよ、\n見るからにね。
+\n
+You looking for it\n
+means you don't
+<$0C>
+understand what's\n
+going on.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 000016B0
+
+#WLB(PTR, $000007A0)
+
+#WHB(PTR, $000007A1)
+
+#WLB(PTR, $0000080C)
+
+#WHB(PTR, $0000080D)
+
+#WLB(PTR, $00000998)
+
+#WHB(PTR, $00000999)
+
+#WLB(PTR, $000009B8)
+
+#WHB(PTR, $000009B9)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nやっぱりダメだよ、ここから先は\n信仰のないあんたじゃ無理さ。
+\n
+Listen, it's as I\n
+said before. You
+<$0C>
+can't proceed without\n
+faith.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n理解できないとね。
+\n
+You understand what I\n
+mean, don't you?
+<$00>
+
+
+
+
+// Pos: 000016F1
+
+#WLB(PTR, $000007B4)
+
+#WHB(PTR, $000007B5)
+
+#WLB(PTR, $000009AC)
+
+#WHB(PTR, $000009AD)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n俺じゃダメだと？ くそっ、なにが神様だ。
+\n
+Am I not good enough\n
+to enter your god's
+<$0C>
+sewer? Your god\n
+sounds like a dick.
+<$00>
+
+
+
+
+// Pos: 00001714
+
+#WLB(PTR, $0000081C)
+
+#WHB(PTR, $0000081D)
+
+#WLB(PTR, $000009C8)
+
+#WHB(PTR, $000009C9)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシじゃいけないの…\n神様だなんて、ほんとにいるの？
+\n
+Am I really no good?\n
+Is God really in
+<$0C>
+there?
+<$00>
+
+
+
+
+// Pos: 0000173D
+
+#WLB(PTR, $000007C8)
+
+#WHB(PTR, $000007C9)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nここだよ、ここを降りるんだ。
+\n
+Here we are. It's\n
+time you descended
+<$0C>
+into the underground\n
+canal.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n流刑者が作った地下水道さ。\nそれを通っていくんだ。 神様が待ってるよ！
+\n
+This canal made by\n
+the exile. Go on, go
+<$0C>
+through! God is\n
+waiting for you!
+<$00>
+
+
+
+
+// Pos: 0000178E
+
+#WLB(PTR, $000007DC)
+
+#WHB(PTR, $000007DD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n地下水道か。 水があるというのか…
+\n
+An underground canal,\n
+huh. So there's bound
+<$0C>
+to be water down\n
+there.
+<$00>
+
+
+
+

@@ -1,0 +1,234 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001489)
+
+// Pos: 00001489
+
+#WLB(PTR, $00000100)
+
+#WHB(PTR, $00000101)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nはあ、はあ…俺としたことが…くそっ！\nいやな思い出がよみがえってきて…
+\n
+Hah, hah...Was I\n
+just...God.\n
+Sorry, I remembered\n
+something heavy.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nなあ、お前、\nこれ避難小屋に見えるよな？
+\n
+Say, does this look\n
+like a safe room to
+<$0C>
+you?
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n俺にもそう見える…
+\n
+Sure looks like one\n
+to me.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nちょっと開けてみてくれ。\n扉だよ、そこの扉を開けるんだ。
+\n
+The front door looks\n
+safe enough. Open it
+<$0C>
+and check.
+<$00>
+
+
+
+
+// Pos: 00001510
+
+#WLB(PTR, $000001DC)
+
+#WHB(PTR, $000001DD)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n大丈夫だ…入ってみよう。
+\n
+Everything looks\n
+clear. Let's go.
+<$00>
+
+
+
+
+// Pos: 00001529
+
+#WLB(PTR, $000005B8)
+
+#WHB(PTR, $000005B9)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねえ、ライカは平気だったの、砂嵐や紫の霧…\n心に良くない影響を与えるって…
+<$00>
+
+
+
+
+// Pos: 00001563
+
+#WLB(PTR, $000005F8)
+
+#WHB(PTR, $000005F9)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n船長、きっと紫の霧に影響されたのよ…\n変だもん。
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nライカたちより先に小屋に着いてたよね、
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそのときしきりに女の人の名前をつぶやいて…\nクロエ、クロエって。
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nなんだか気味悪くて…
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私、ヌーンから開いたことあるのよ、\n船長とそのクロエって子のこと。
+<$00>
+
+
+
+
+// Pos: 0000161E
+
+#WLB(PTR, $0000062C)
+
+#WHB(PTR, $0000062D)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n船長が士官学校時代に知り合った少女…\n自分の妹のように可愛がっていたのに、\n事故で死んじゃったんだって。
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーンが教えてくれたんだけど、\n船長はその子の写真を今でも大切に\n持ち歩いてるそうよ。
+<$00>
+
+
+
+
+// Pos: 000016B0
+
+#WLB(PTR, $000006B4)
+
+#WHB(PTR, $000006B5)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nさあ、この先よ。\nちょっと見て大丈夫そうだったら戻らない？
+<$00>
+
+
+
+
+// Pos: 000016DD
+
+#WLB(PTR, $0000080C)
+
+#WHB(PTR, $0000080D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねえ…何か変よ…\n扉が開けっ放しになってる。
+\n
+Uhm, this doesn't\n
+look right. The
+<$0C>
+door's wide open.
+<$00>
+
+
+
+
+// Pos: 00001702
+
+#WLB(PTR, $000008C0)
+
+#WHB(PTR, $000008C1)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n船長たち、出かけたのかなあ…\n戻ってくるとき、\n誰ともすれ建わなかったよね…
+\n
+I wonder if the\n
+captain took Noon
+<$0C>
+out. Why didn't we\n
+see them on the way\n
+back?
+<$00>
+
+
+
+
+// Pos: 00001739
+
+#WLB(PTR, $00000900)
+
+#WHB(PTR, $00000901)
+
+#WLB(PTR, $00000980)
+
+#WHB(PTR, $00000981)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n表には誰もいないよ。\n避難小屋の中はどう？\n何か手がかり、なかった？
+\n
+Nothing around the\n
+perimeter.\n
+Should we look inside\n
+the safe room? There\n
+could be clues.
+<$00>
+
+
+
+

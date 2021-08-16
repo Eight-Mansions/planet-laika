@@ -1,0 +1,1360 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000357A)
+
+// Pos: 0000357A
+
+#WLB(PTR, $00000194)
+
+#WHB(PTR, $00000195)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n私に何かできるかしら。\n今は何もしたくないわ。 眠いだけよ。
+\n
+I wonder what I could\n
+do. For now, I don't
+<$0C>
+want to do anything.\n
+I'm just so tired!
+<$00>
+
+
+
+
+// Pos: 000035A3
+
+#WLB(PTR, $000001EC)
+
+#WHB(PTR, $000001ED)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあなたは何だってできるのよ。\n何だってよ。
+\n
+Whatever do you mean?\n
+Did something happen
+<$0C>
+to you?
+<$00>
+
+
+
+
+// Pos: 000035C5
+
+#WLB(PTR, $00000200)
+
+#WHB(PTR, $00000201)
+
+<$13><$14><$04><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nそう… 私に？ どんなこと？\n私なんかに構ってないで、\nヘロデのところに戻りなさいよ。
+\n
+To me? What does it\n
+matter? Don't worry
+<$0C>
+about me. You can go\n
+back to Herod.
+<$00>
+
+
+
+
+// Pos: 000035FD
+
+#WLB(PTR, $00000214)
+
+#WHB(PTR, $00000215)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n時間はとらせないわ。 本当よ…\nあなたの時間はなくならないの。
+\n
+This will take no\n
+time at all-for
+<$0C>
+either of us.
+<$00>
+
+
+
+
+// Pos: 0000362F
+
+#WLB(PTR, $00000280)
+
+#WHB(PTR, $00000281)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nフェイ、私の声が開こえる？
+\n
+Hui, do you hear my\n
+voice?
+<$00>
+
+
+
+
+// Pos: 0000364B
+
+#WLB(PTR, $000002A4)
+
+#WHB(PTR, $000002A5)
+
+<$12><$14><$04><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n開こえてるわ、もちろんよ。
+\n
+Of course I can!
+<$00>
+
+
+
+
+// Pos: 00003664
+
+#WLB(PTR, $00000458)
+
+#WHB(PTR, $00000459)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n私の目を見て。\n呼吸を合わせましょう。
+\n
+Look into my eyes.\n
+Breathe in time with
+<$0C>
+me.
+<$00>
+
+
+
+
+// Pos: 00003688
+
+#WLB(PTR, $00000464)
+
+#WHB(PTR, $00000465)
+
+<$10><$14><$05><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n目を見てるわ…
+\n
+I am looking into\n
+your eyes...
+<$00>
+
+
+
+
+// Pos: 0000369B
+
+#WLB(PTR, $00000570)
+
+#WHB(PTR, $00000571)
+
+<$11><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあなたは浮かんでいるのよ、フェイ。\n宇宙の無重力の中で、\n誰にも邪魔されずに浮かんでいる…
+\n
+You are floating,\n
+Hui, weightlessly
+<$0C>
+through space, where\n
+no one can disturb\n
+you.
+<$00>
+
+
+
+
+// Pos: 000036E0
+
+#WLB(PTR, $00000580)
+
+#WHB(PTR, $00000581)
+
+<$10><$14><$05><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n浮かんでいる…\n無重力…
+\n
+I am floating...\n
+I am weightless...
+<$00>
+
+
+
+
+// Pos: 000036FB
+
+#WLB(PTR, $00000590)
+
+#WHB(PTR, $00000591)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n鏡よ、鏡が見えるわ。 鏡は入口よ。\nあなたは鏡に近づいていくの。
+\n
+A mirror. You see a\n
+mirror. Is it an
+<$0C>
+entrance? You\n
+approach the mirror.
+<$00>
+
+
+
+
+// Pos: 0000372F
+
+#WLB(PTR, $000005A0)
+
+#WHB(PTR, $000005A1)
+
+<$10><$14><$06><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n入口…
+\n
+I approach the\n
+entrance...
+<$00>
+
+
+
+
+// Pos: 0000373F
+
+#WLB(PTR, $000005B0)
+
+#WHB(PTR, $000005B1)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそうよ、入口よ。 鏡はもう目の前。\nあなたはその中に入っていく。
+\n
+Yes, you're at the\n
+entrance. The mirror
+<$0C>
+before you welcomes\n
+you inside.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n何もためらったりはしないの。\n予定通りなのよ。
+\n
+You move with no\n
+hesitation.
+<$0C>
+Everything you do is\n
+going exactly as you\n
+planned.
+<$00>
+
+
+
+
+// Pos: 00003798
+
+#WLB(PTR, $000005C0)
+
+#WHB(PTR, $000005C1)
+
+<$10><$14><$06><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n入口に入るわ… 真っ白な入口…\nああ、全てが真っ白よ… きれい…
+\n
+It's a snow white\n
+entrance. I'm
+<$0C>
+inside... Ah, all is\n
+snow white here. It's\n
+lovely...
+<$00>
+
+
+
+
+// Pos: 000037CD
+
+#WLB(PTR, $000009EC)
+
+#WHB(PTR, $000009ED)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nあなたは？ ヴェロニカね。\n今晩は、ヴェロニカ。
+\n
+Is that you,\n
+Veronica?\n
+Good evening.
+<$00>
+
+
+
+
+// Pos: 000037F4
+
+#WLB(PTR, $00000A00)
+
+#WHB(PTR, $00000A01)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nおなかすいたよ。\n今日、何も食べてないんだ。
+\n
+I'm feeling peckish.\n
+I hadn't eaten
+<$0C>
+anything today.
+<$00>
+
+
+
+
+// Pos: 0000381A
+
+#WLB(PTR, $00000A14)
+
+#WHB(PTR, $00000A15)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nヴェロニカ、\nあなたに開きたいことがあるの。
+\n
+Veronica, there's\n
+something I wanted to
+<$0C>
+ask you.
+<$00>
+
+
+
+
+// Pos: 0000383E
+
+#WLB(PTR, $00000A28)
+
+#WHB(PTR, $00000A29)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nもうかなりたまったよ。
+\n
+That's fine. I've\n
+already saved a
+<$0C>
+lot...
+<$00>
+
+
+
+
+// Pos: 00003856
+
+#WLB(PTR, $00000A3C)
+
+#WHB(PTR, $00000A3D)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n何がたまったの？
+\n
+What have you saved\n
+up?
+<$00>
+
+
+
+
+// Pos: 0000386B
+
+#WLB(PTR, $00000A50)
+
+#WHB(PTR, $00000A51)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n命令よ。 言ったでしょ。
+\n
+Rolls. "Commands"\n
+works too.
+<$00>
+
+
+
+
+// Pos: 00003886
+
+#WLB(PTR, $00000A64)
+
+#WHB(PTR, $00000A65)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nええ、知ってるわ。 命令がたまったのね。\nせっかくためたのに、使わないの？
+\n
+Yes, I see. If you've\n
+saved up so many thus
+<$0C>
+far, why haven't you\n
+used any?
+<$00>
+
+
+
+
+// Pos: 000038BC
+
+#WLB(PTR, $00000A78)
+
+#WHB(PTR, $00000A79)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nさっき使ったよ。\n
+\n
+I did earlier,\n
+for
+<$0F>
+//を出してあげたの。
+.
+<$00>
+
+
+
+
+// Pos: 000038DE
+
+#WLB(PTR, $00000A8C)
+
+#WHB(PTR, $00000A8D)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそうなの？\n
+\n
+Is that so?\n
+Do you like
+<$0F>
+//は… 気に入りそう？
+?
+<$00>
+
+
+
+
+// Pos: 000038FD
+
+#WLB(PTR, $00000AA0)
+
+#WHB(PTR, $00000AA1)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n分からないよ。\nアタシはお酒はきらいだよ。
+\n
+I'm not sure. What I\n
+don't like is liquor,
+<$0C>
+you know.
+<$00>
+
+
+
+
+// Pos: 00003920
+
+#WLB(PTR, $00000AB4)
+
+#WHB(PTR, $00000AB5)
+
+<$11><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nねぇヴェロニカ、\nフェイのこと話してくれない？\n彼女は何かをたくらんでいるの？
+\n
+Can I...ask you about\n
+Hui, Veronica? Is she
+<$0C>
+plotting something?
+<$00>
+
+
+
+
+// Pos: 00003957
+
+#WLB(PTR, $00000AC8)
+
+#WHB(PTR, $00000AC9)
+
+<$11><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nあの女は欲のカタマリなのよ。\nなんでもかんでも、\n手に入れなきゃ気が済まないのよ。
+\n
+That woman is a knot\n
+of desire. She'd do
+<$0C>
+anything to get what\n
+she wants.
+<$00>
+
+
+
+
+// Pos: 00003992
+
+#WLB(PTR, $00000ADC)
+
+#WHB(PTR, $00000ADD)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n何を手に入れるの？\nあなたも手伝っているの？
+\n
+What does she want?\n
+Is it something you
+<$0C>
+want too?
+<$00>
+
+
+
+
+// Pos: 000039B9
+
+#WLB(PTR, $00000BF0)
+
+#WHB(PTR, $00000BF1)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nなんでアタシがフェイを手伝うのよ。
+\n
+Why would I help Hui?
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nあの女はアタシのことをいなくていいと\n思ってるのよ。
+\n
+That woman doesn't\n
+give a damn about me!
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nそんなこと思われて、\n平気でいられる？
+\n
+What made you ask\n
+that so frankly?
+<$00>
+
+
+
+
+// Pos: 00003A1E
+
+#WLB(PTR, $00000C04)
+
+#WHB(PTR, $00000C05)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nフェイは美の権化になりたい、\nそう願っているんじゃないの？
+\n
+Hui wants to become\n
+the personification
+<$0C>
+of beauty. That's all\n
+she desires.
+<$00>
+
+
+
+
+// Pos: 00003A4C
+
+#WLB(PTR, $00000C18)
+
+#WHB(PTR, $00000C19)
+
+<$13><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nそうだよ、鏡の精に自分の体を差し出すの。\nそれでずっときれいでいられる、\nあの女はそう考えてるのよ。
+\n
+Right. She thinks\n
+offering her body to
+<$0C>
+the mirror spirit\n
+will keep her\n
+beautiful.
+<$00>
+
+
+
+
+// Pos: 00003A93
+
+#WLB(PTR, $00000C2C)
+
+#WHB(PTR, $00000C2D)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n鏡の精ね… 前に開いたことあるわ。\nたしか名前は…
+\n
+This mirror spirit? I\n
+think I've heard of
+<$0C>
+her before. People\n
+call her...
+<$00>
+
+
+
+
+// Pos: 00003ABD
+
+#WLB(PTR, $00000C40)
+
+#WHB(PTR, $00000C41)
+
+<$13><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nアマンダよ。整形してすごい美人になったんだ。\nそれで、ずっと鏡ばかり見続けていて、\nそのうち鏡の中に吸い込まれたのよ。
+\n
+Amanda. Cosmetic\n
+surgery made her into
+<$0C>
+an amazing beauty.\n
+She looked into\n
+mirrors constantly.
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nフェイは会ったことないみたいだけど、\nヴァニティフェイスの仕事を始めてから、\nアマンダの声が開こえるようになったんだよ。
+\n
+Hui never met Amanda,\n
+but after starting
+<$0C>
+her vanity face\n
+practice, she can\n
+hear Amanda's voice.
+<$00>
+
+
+
+
+// Pos: 00003B5A
+
+#WLB(PTR, $00000C54)
+
+#WHB(PTR, $00000C55)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nアマンダはフェイになんて言うのかしら。\n鏡の中へ来いって誘ってるの？
+\n
+What does Amanda say\n
+to Hui? Did she
+<$0C>
+invite Hui to enter\n
+the mirror?
+<$00>
+
+
+
+
+// Pos: 00003B8D
+
+#WLB(PTR, $00000C68)
+
+#WHB(PTR, $00000C69)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n新しい鏡を作れ、\nアマンダはフェイにそう言ってるの。
+\n
+Amanda tells Hui to\n
+"create a new
+<$0C>
+mirror!"
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n世界のすべてを照らし出す鏡だよ。\nそしたら、あっちこっちで悪が生まれるんだ。
+\n
+A mirror that\n
+illuminates all the
+<$0C>
+world, and births\n
+evil in its corners.
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nみんな悪に飲み込まれるんだよ。消えるんだよ。\n蕃判の鏡だって、エッジが教えてくれたんだ。
+\n
+All who are swallowed\n
+by that evil will
+<$0C>
+vanish. Edge says\n
+it's the Mirror of\n
+Judgment.
+<$00>
+
+
+
+
+// Pos: 00003C2A
+
+#WLB(PTR, $00000C7C)
+
+#WHB(PTR, $00000C7D)
+
+<$13><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n蕃判の鏡…\nエッジってあなたの大の親友よね。\n他にはどんなこと教えてくれたの？
+\n
+The Mirror of\n
+Judgment? Well, Edge
+<$0C>
+if your best friend,\n
+right? What else did\n
+they say?
+<$00>
+
+
+
+
+// Pos: 00003C66
+
+#WLB(PTR, $00000C90)
+
+#WHB(PTR, $00000C91)
+
+<$12><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n蕃判の鏡が、心の悪をみんなみんな照らすんだ。\nそれで黒い騎士が完全になって奇跡が起きる。
+\n
+The Mirror of\n
+Judgment feeds the
+<$0C>
+evil in the mind, and\n
+when the Black Rider\n
+is whole...
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nよくわからないけど、\nそんなことよ。
+\n
+I'm not entirely\n
+sure, but I've got an
+<$0C>
+idea that a new world\n
+will be born.
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n新しい世界が生まれるんだって、\n誰も残れないんだって。消えてなくなるのよ。
+\n
+No one can remain in\n
+this world at that
+<$0C>
+point. Everyone all\n
+disappear.
+<$00>
+
+
+
+
+// Pos: 00003CFE
+
+#WLB(PTR, $00000CA4)
+
+#WHB(PTR, $00000CA5)
+
+<$12><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nフェイは美の権化になって残るのね。\nあなたはどうなるの？
+\n
+Hui will go down as\n
+the personification
+<$0C>
+of beauty, but what\n
+will happen to you?
+<$00>
+
+
+
+
+// Pos: 00003D2B
+
+#WLB(PTR, $00000CB8)
+
+#WHB(PTR, $00000CB9)
+
+<$13><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nわからないよ！\nそんなことになる前に合わさるんだ。\nアタシひとりになるんだよ！
+\n
+I don't know! I'd\n
+have to merge before
+<$0C>
+that happens, or I'll\n
+be all alone!
+<$00>
+
+
+
+
+// Pos: 00003D60
+
+#WLB(PTR, $00000E40)
+
+#WHB(PTR, $00000E41)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nヴェロニカ… もう帰るの？
+\n
+Veronica...did you\n
+want to go back down
+<$0C>
+soon?
+<$00>
+
+
+
+
+// Pos: 00003D7B
+
+#WLB(PTR, $00000E50)
+
+#WHB(PTR, $00000E51)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n帰りたくない…\n真っ暗なんだよ…
+\n
+I don't want to go\n
+back... Everything's
+<$0C>
+so dark...
+<$00>
+
+
+
+
+// Pos: 00003D9B
+
+#WLB(PTR, $00000E6C)
+
+#WHB(PTR, $00000E6D)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nヴェロニカ、\nちょっとわからないわ。
+\n
+Veronica, are you\n
+sure you mean that?
+<$00>
+
+
+
+
+// Pos: 00003DBA
+
+#WLB(PTR, $00000E84)
+
+#WHB(PTR, $00000E85)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\n帰るのイヤだ。
+\n
+I don't want to go\n
+back!
+<$00>
+
+
+
+
+// Pos: 00003DCF
+
+#WLB(PTR, $00000E9C)
+
+#WHB(PTR, $00000E9D)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nさっきの話、合わさるって、\nどうやって合わさるの？
+\n
+All right. So, you\n
+mentioned the word
+<$0C>
+"merge". What does\n
+"merge" mean?
+<$00>
+
+
+
+
+// Pos: 00003DF8
+
+#WLB(PTR, $00000EB4)
+
+#WHB(PTR, $00000EB5)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nいいこと思いついたんだ。\nでも教えないよ。
+\n
+It sounded like a\n
+nice idea, but I
+<$0C>
+can't tell you more\n
+than that.
+<$00>
+
+
+
+
+// Pos: 00003E1C
+
+#WLB(PTR, $00000ECC)
+
+#WHB(PTR, $00000ECD)
+
+<$11><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそのこと、フェイは知ってるのかしら。\nあなたが合わさるって思ってること。
+\n
+I wonder if Hui has\n
+found out about your
+<$0C>
+thoughts to merge\n
+with her.
+<$00>
+
+
+
+
+// Pos: 00003E50
+
+#WLB(PTR, $00000EE4)
+
+#WHB(PTR, $00000EE5)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nまだ気付いてないよ。\nあの女が変なことになる前に合わさるんだよ。
+\n
+If she has found out,\n
+I didn't notice. I
+<$0C>
+should merge before\n
+she crosses the line.
+<$00>
+
+
+
+
+// Pos: 00003E81
+
+#WLB(PTR, $00000EFC)
+
+#WHB(PTR, $00000EFD)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nねぇ、\nそんなことが本当にできるのかしら。
+\n
+Hmm, I wonder if such\n
+an option can truly
+<$0C>
+be taken.
+<$00>
+
+
+
+
+// Pos: 00003EA5
+
+#WLB(PTR, $00000F14)
+
+#WHB(PTR, $00000F15)
+
+<$10><$13><$19><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+//\nできるよ、できるんだ、\n絶対できるんだ！
+\n
+If anyone can do it,\n
+it's me. She'll see
+<$0C>
+eye-to-eye!
+<$00>
+
+
+
+
+// Pos: 00003EC8
+
+#WLB(PTR, $000010A0)
+
+#WHB(PTR, $000010A1)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n蕃判の議準なんてないのよ。\n自分が納得できればそれでいいの、分かった？
+\n
+Judgment has no\n
+standards! If your
+<$0C>
+self is satisfactory,\n
+you're fine,\n
+understand?
+<$00>
+
+
+
+
+// Pos: 00003EFB
+
+#WLB(PTR, $000010B4)
+
+#WHB(PTR, $000010B5)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそうね。\nあなたは自分の顔に納得してるの？
+\n
+Oh, I do. And is your\n
+face satisfactory?
+<$00>
+
+
+
+
+// Pos: 00003F21
+
+#WLB(PTR, $000010C8)
+
+#WHB(PTR, $000010C9)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nもちろんよ。アマンダほどじゃないけど。\nとにかく私は大丈夫よ。
+\n
+Of course! Not as\n
+much as Amanda's is,
+<$0C>
+but it's fine.
+<$00>
+
+
+
+
+// Pos: 00003F4C
+
+#WLB(PTR, $000010DC)
+
+#WHB(PTR, $000010DD)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n他の人たちはどうなの？ 人間の顔に似せて、\nそれで蕃判を乗り切れると思う？
+\n
+And what about other\n
+people with similarly
+<$0C>
+human faces? Will\n
+they survive\n
+Judgment?
+<$00>
+
+
+
+
+// Pos: 00003F87
+
+#WLB(PTR, $000010F0)
+
+#WHB(PTR, $000010F1)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nさあね… ヴァニティフェイスを信じることよ。\nそれは自分を信じること… そうでしょ？
+\n
+Come now, faith in\n
+one's vanity face is
+<$0C>
+faith in one's self!
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n顔がきれいになって、心がおだやかになれば\nそれでいいのよ、そうでしょ？
+\n
+An un-cluttered face\n
+is an un-cluttered
+<$0C>
+mind. That makes\n
+sense, doesn't it?
+<$00>
+
+
+
+
+// Pos: 00003FEA
+
+#WLB(PTR, $00001104)
+
+#WHB(PTR, $00001105)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nありがとうフェイ。\n今夜はもう帰るわ。
+\n
+...Thank you, Hui.\n
+I'll turn in for the
+<$0C>
+night.
+<$00>
+
+
+
+
+// Pos: 0000400D
+
+#WLB(PTR, $00001118)
+
+#WHB(PTR, $00001119)
+
+<$11><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nアガタ。ヘロデをこれ以上苦しめないで。\n彼が悪夢の世界から離れられないのは\nあなたのせいじゃないの？
+\n
+Agatha. Do not\n
+torment Herod any
+<$0C>
+longer. It's your\n
+fault he can't leave\n
+the world of\n
+nightmares.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあなたが催眠術で\nよけいなことしてるからじゃないの？
+\n
+Must you really go so\n
+far as to play God
+<$0C>
+with your\n
+hypnotherapy?
+<$00>
+
+
+
+
+// Pos: 00004075
+
+#WLB(PTR, $0000112C)
+
+#WHB(PTR, $0000112D)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n彼には眠りが必要なのよ。\nすべては彼のためを思ってのことよ。
+\n
+The man needs his\n
+sleep. Every ounce of
+<$0C>
+my work is done for\n
+his sake.
+<$00>
+
+
+
+
+// Pos: 000040A6
+
+#WLB(PTR, $00001140)
+
+#WHB(PTR, $00001141)
+
+<$11><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nだといいけどね。\nおやすみなさい、マダム・アガタ。\nそれから地球の人もよ。
+\n
+It better be.\n
+Goodnight, Madam
+<$0C>
+Agatha. And you too,\n
+Earthling.
+<$00>
+
+
+
+
+// Pos: 000040D6
+
+#WLB(PTR, $00001154)
+
+#WHB(PTR, $00001155)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nライカよ。
+\n
+It's Laika.
+<$00>
+
+
+
+
+// Pos: 000040E8
+
+#WLB(PTR, $00001168)
+
+#WHB(PTR, $00001169)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nおやすみ、ライカ。
+\n
+Goodnight, Laika.
+<$00>
+
+
+
+

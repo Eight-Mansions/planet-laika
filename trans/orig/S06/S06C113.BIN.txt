@@ -1,0 +1,18 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000E05)
+
+// Pos: 00000E05
+#WLB(PTR, $000001E4)
+#WHB(PTR, $000001E5)
+<$12><$0B>
+//酸索坑夫２号：
+<$0D>
+//\nさっきと同じやつ… 建うやつ…
+<$1E>
+//理
+<$00>
+

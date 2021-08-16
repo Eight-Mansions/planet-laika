@@ -1,0 +1,1371 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002425)
+
+// Pos: 00002425
+
+#WLB(PTR, $000011E4)
+
+#WHB(PTR, $000011E5)
+
+<$13><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあああ、思い出したぞ。
+\n
+Ohh, I remember!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n夢の中で、あっちこっちから\n双子が歩いて来るんだ。\n俺に向かって歩いて来るんだ。
+\n
+In my dreams, twins\n
+were walking towards
+<$0C>
+me from all\n
+directions.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nそして俺の目の前で、土の中にうずもれていく…\nまるで俺が埋めてるみたいな惑じだ。\n俺は…利用されたんだ。
+\n
+They crawled out from\n
+the dirt, like I'd
+<$0C>
+buried them. I...was\n
+used.
+<$00>
+
+
+
+
+// Pos: 000024B7
+
+#WLB(PTR, $0000123C)
+
+#WHB(PTR, $0000123D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺の言ってること、分かるか？
+\n
+Do you know what I'm\n
+saying?
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n何か開きたいことでもあるんじゃないのか？
+\n
+Anyways, did you want\n
+to ask me anything?
+<$1B>
+//いなぜ双子を誘ったんだ？\nヘロデも罪を？\nエイプリルはどこに？
+Why take twins？\n
+Did Herod sin？\n
+Where is April？
+<$00><$17><$00>
+
+
+
+
+// Pos: 00002511
+
+#WLB(PTR, $00001280)
+
+#WHB(PTR, $00001281)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n双子を生き埋めにするためだ。\n預言に出てくるんだ、
+\n
+We buried twins alive\n
+to fulfill the
+<$0C>
+prophecy.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nマコトの双子が新しい人間になるってな。\nだから双子は…
+\n
+The Twins of Truth\n
+will become the new
+<$0C>
+humans, but to do\n
+that, twins must...
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあああ、マコトの双子だの何だの、\n俺にはどうでもいいんだ。
+\n
+...I don't exactly\n
+care about the Twins
+<$0C>
+of Truth. They don't\n
+matter to me.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nただ自分を失いたくなかった、それだけだ。
+\n
+I just didn't want to\n
+lose myself, is all.
+<$00>
+
+
+
+
+// Pos: 000025A7
+
+#WLB(PTR, $00001290)
+
+#WHB(PTR, $00001291)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n昔はリャンハウスのフェイと組んで、\nニセ酸索石をばらまいたりしてたらしい。
+\n
+Herod used to work\n
+with Hui in Liang
+<$0C>
+House, distributing\n
+fake oxygenite.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nせいぜいがそんなところだ。
+\n
+That's as far as his\n
+track record goes.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nヘロデは生まれたときから悪夢をさまよってる…\nそうだ、そうだ、恐怖を育ててるんだ。
+\n
+Herod has been cursed\n
+with nightmares since
+<$0C>
+birth. His fear is\n
+only growing.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n恐怖が風船みたいにふくらんで、\nパーンとはじけるんだ。
+\n
+Hehe, it's just going\n
+to expand expand,
+<$0C>
+until it pops him\n
+like a balloon.
+<$00>
+
+
+
+
+// Pos: 0000264C
+
+#WLB(PTR, $00001298)
+
+#WHB(PTR, $00001299)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあの女も心にやましいところがあるのか？\nそれならあきらめろ。
+\n
+Does that girly too\n
+have a guilty
+<$0C>
+conscience? Then give\n
+it up.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nとっくにこの星の悪意に憑かれて、\n今頃は苦しみにおぼれてる…
+\n
+She'd been taken by\n
+the will of this
+<$0C>
+planet long ago. She\n
+must be suffering\n
+now.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nそうだ、苦しむんだ、\n自分の心にさいなまれるんだ。
+\n
+Yes, she, her self,\n
+is suffering.
+<$0C>
+Suffering in her own\n
+mind.
+<$00>
+
+
+
+
+// Pos: 000026C5
+
+#WLB(PTR, $000012B4)
+
+#WHB(PTR, $000012B5)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあああ、早く忘れてしまいたい！\nさあ、連れてってくれ。
+\n
+Man, I can't wait to\n
+put this behind me!
+<$0C>
+Come on, show the\n
+way.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n行き先はお前が知ってるんだ。\nそうだろ、お前が来てからだ、
+\n
+You know where you're\n
+going, right? That's
+<$0C>
+why you came this\n
+way.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nひどくなったんだ。\n俺の中で、あああ、くそっ！
+\n
+The voices in my head\n
+are getting worse!
+<$0C>
+Dammit, stop!
+<$00>
+
+
+
+
+// Pos: 00002735
+
+#WLB(PTR, $00000678)
+
+#WHB(PTR, $00000679)
+
+<$12><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシはココロがミダれたのでしょうか。\nサンソヤのマエをトオりかかったとき、
+\n
+I SUSPECT MY HEART IS\n
+ON THE FRITZ. WHEN I
+<$0C>
+PASSED BY THE\n
+DISPENSARY...
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nキュウにヘンなコトバがやってきました。\nワタシのココロがウけとめました。
+\n
+...I CAME UPON A\n
+STRANGE DIALOGUE, AND
+<$0C>
+MY MIND STOPPED.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nそのコトバをあなたもキいてみますか？
+\n
+WOULD YOU LIKE TO\n
+HEAR WHAT THAT
+<$0C>
+DIALOGUE WAS?
+<$1B>
+//。開いてみる\n開かない
+。YES\n
+NO
+<$00><$17><$00>
+
+
+
+
+// Pos: 000027CB
+
+#WLB(PTR, $000006B0)
+
+#WHB(PTR, $000006B1)
+
+<$13><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nエイプリル、だめよ、\nそれはカジロボットよ、\nテがヨゴれるからサワっちゃだめ。
+\n
+"SIT, APRIL. THAT\n
+ROBOT IS MADE FOR
+<$0C>
+HOUSEWORK. DON'T GET\n
+YOUR HANDS DIRTY."
+<$00>
+
+
+
+
+// Pos: 00002802
+
+#WLB(PTR, $000006D4)
+
+#WHB(PTR, $000006D5)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nカジとはスイジとかセンタクとかでしょうか。\nなんにしても、くたびれていますね。
+\n
+HOUSEWORK... DOES\n
+THAT MEAN COOKING, OR
+<$0C>
+LAUNDRY? EITHER OR,\n
+IT IS TIRING.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nコエにトゲがありますよ。\nジンセイとはこんなものですか、
+\n
+THEIR VOICE CUT ME TO\n
+MY CORE. IS THAT ALL
+<$0C>
+I AM GOOD FOR?
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nままならないものですか。\nそれにしてもこのコエのヒトは、ダレですか。
+\n
+IS THAT MY PURPOSE IN\n
+LIFE? WHO WAS IT THAT
+<$0C>
+SAID SUCH A THING\n
+ABOUT ME?
+<$00>
+
+
+
+
+// Pos: 00002891
+
+#WLB(PTR, $00000708)
+
+#WHB(PTR, $00000709)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nトツゼンです、サンソヤのマエで…\nこんなこと、はじめてです、
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nフシギなことです。\nサンソヤにはナニかあるのでしょうか。
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシはずっとカセイにおります。\nいろんなゴシュジンサマにツカえましたが、
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nあんなコエはシりません。\nそれともワスれたのでしょうか。
+<$00>
+
+
+
+
+// Pos: 00002943
+
+#WLB(PTR, $00000790)
+
+#WHB(PTR, $00000791)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nナニか、あなたにしてあげられることが\nあるのです。
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nもうスコし、おマチください。\nもうスコしです。
+<$00>
+
+
+
+
+// Pos: 00002990
+
+#WLB(PTR, $00000A98)
+
+#WHB(PTR, $00000A99)
+
+<$12><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nあーら、なんて、こんなコトバ、\nツカってみたいわ。
+\n
+I WANT TO TRY TALKING\n
+LIKE YOU-SEE? "FUCK!"
+<$0C><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n使えばいいじゃない、\nあーらあなたとかなんとかね。
+\n
+Whoa now, I'm not\n
+sure if that's the
+<$0C>
+way to go. How about,\n
+"Oh-lala~!"
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nたまにはね、おケショウ、してみたいわよ。
+\n
+OH-LALA, LET'S TRY ON\n
+SOME FUCKING MAKE-UP!
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nしゅうまつはガイショクよ、なんてセイカツ、\nいいわよね！
+\n
+WE CAN EAT OUT ON\n
+WEEKENDS TOO! HELL
+<$0C>
+YEAH, LADIES, WE'RE\n
+LIVIN' THE GOOD LIFE!
+<$0C><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、欲求不満なの。\nだからって、アタシにぶつけないでよ。
+\n
+Listen fucker, if\n
+you're on one or
+<$0C>
+something, don't take\n
+it out on me. Tsk.
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nふん！ イエのことばかりでトシトルのよ、\nこのままオンナをワスれて、トシトルのよ、
+\n
+BUT I'M NOT! IT'S USE\n
+IT OR LOSE IT! WE
+<$0C>
+HAVE TO USE\n
+FEMININITY OR WE'LL\n
+LOSE IT!
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nいまいましいわ！
+\n
+TSK!
+<$0C><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nイヤだ、そんなの…
+\n
+Woah, hang on a\n
+second...
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシはね、死ぬまで女でいるのよ、\n忘れないのよ。
+\n
+I'm a woman, from now\n
+until the day I die.
+<$0C>
+I won't forget me,\n
+you won't forget you.
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nよかったわ。\nあなたはツヨい、ワタシよりね。
+\n
+I'M GLAD! YOU'RE\n
+STRONG, YOU KNOW?
+<$0C>
+MUCH STRONGER THAN\n
+ME.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nもっとツヨくなってね、\nこれでツヨくなってね。
+\n
+AFTER THIS\n
+CONVERSATION, I'LL
+<$0C>
+GET STRONGER TOO.
+<$00>
+
+
+
+
+// Pos: 00002B25
+
+#WLB(PTR, $00000AA0)
+
+#WHB(PTR, $00000AA1)
+
+<$12><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nあなたはオンナをワスれない、\nワタシはスコしアンシンしたわ。
+\n
+YOU WILL NOT FORGET\n
+THAT YOU ARE A WOMAN.
+<$0C>
+I'M A LITTLE\n
+RELIEVED.
+<$0C><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、もうないの？\nもっともらえないの？
+\n
+Good! So, do you have\n
+any more goodies for
+<$0C>
+me yet?
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシ、アンシン、\nあなた、オンナ、オンナ、オンナ。
+\n
+I'M. RELIEVED.\n
+YOU'RE. WOMAN. WOMAN.
+<$0C>
+WOMAN.
+<$00>
+
+
+
+
+// Pos: 00002B9B
+
+#WLB(PTR, $00000A20)
+
+#WHB(PTR, $00000A21)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシはジブンをワタシとヨびますが、\nオレと言うのはヘンですか？
+<$0C><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n何ごちゃごちゃ言ってるんだ、\nどっちでもいいじゃねぇか。
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nタイクツだぜ、こんなところでよ、\nおい、おマエ、なんでオレをミるんだ？
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nじろじろミるな！
+<$0C><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nな、なんだと、おい！
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n変なかっこうしやがって、\nロボットか、ガラクタか？
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nちくしょう！\nわけもなくハラがタつぜ、いらつくぜ！
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nなんだ、テメエは！
+<$0C><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nおおおお、\n俺にケンカふっかけようってのか、ああ？
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nケンカはウっても、カっても、ソンするぜ。\nおマエはどうだ、ソンするタイプか、
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nこれでスコしはトクしてみろ。
+<$00>
+
+
+
+
+// Pos: 00002D27
+
+#WLB(PTR, $00000A2C)
+
+#WHB(PTR, $00000A2D)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nオマえはソンしない、ケンカでソンしない、\nそういうことだ。
+<$0C><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nおい、他にないのか、もっとくれねぇのか。
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nソン、トク、ソン、トク、ケンカ。
+<$00>
+
+
+
+
+// Pos: 00002D94
+
+#WLB(PTR, $00000A5C)
+
+#WHB(PTR, $00000A5D)
+
+<$12><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nカンガえてもみたまえ、\nキミたちニンゲンは、いやよしましょう。
+\n
+I WAS THINKING ABOUT\n
+YOU HUMANS, AND I HAD
+<$0C>
+TO STOP MYSELF BEFORE\n
+I WENT CRAZY.
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nどうした、なぜやめた？\n話してくれ。人間は何だ？
+\n
+Before you went\n
+crazy? How come? Tell
+<$0C>
+me, what's wrong with\n
+humans?
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nロボットにカンジョウがないというのは、\nムチにすぎる。
+\n
+ROBOTS DO NOT HAVE\n
+SENTIMENTS. THINKING
+<$0C>
+ABOUT HUMANS WAS A\n
+WASTE OF TIME.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nモノにはスベてイシキがあるのだから。
+\n
+ALL BEINGS HAVE A\n
+SENSE OF AWARENESS,
+<$0C>
+SO THAT'S WHY.
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n物に心が宿るというのか。\nそしてロボットにも…
+\n
+Makes sense.\n
+Everyone's got
+<$0C>
+something on their\n
+minds-even robots...
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nいやそれはむつかしい問顆をはらんでいる。
+\n
+...no, I imagine it's\n
+a tougher nut to
+<$0C>
+crack than that.
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nキンセイどころではない、\nメイオウセイからもコエがキこえる、
+\n
+THIS IS NO TIME FOR\n
+NUTS. RECENTLY, I
+<$0C>
+HAVE BEEN HEARING\n
+VOICES FROM PLUTO.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nキュウサイのトキがきたのだ！
+\n
+THE HOUR OF SALVATION\n
+HAS COME!
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n金星…君もサイコ系なのか、そうなのか？\nおかしくなったのか？
+\n
+Oh, like the\n
+Venusians? You must
+<$0C>
+be a Psycho type too\n
+then. Crazy how that\n
+works.
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nおかしいのはキミではないか、これでモトに\nモドれるか、ショウキになれるか。
+\n
+ARE YOU NOT CRAZY?\n
+HERE, MAYBE THIS WILL
+<$0C>
+HELP YOU RETURN TO\n
+YOUR SENSES.
+<$00>
+
+
+
+
+// Pos: 00002F21
+
+#WLB(PTR, $00000A68)
+
+#WHB(PTR, $00000A69)
+
+<$12><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nキンセイジンをシンじているのか、それなら\nキミのタイプはサイコにチガいない。
+\n
+IF YOU BELIEVE IN THE\n
+VENUSIANS, YOU ARE,
+<$0C>
+WITHOUT A DOUBT, A\n
+PSYCHO TYPE.
+<$0C><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nこれで終わりか、\nまだ何か持っているだろう。
+\n
+Is that all? You\n
+don't have anything
+<$0C>
+else for me?
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nキンセイ、サイコ、\nおかしなこと、キンセイ、サイコ。
+\n
+VENUS. PSYCHO. CRAZY.\n
+VENUS. PSYCHO.
+<$00>
+
+
+
+
+// Pos: 00002FA4
+
+#WLB(PTR, $00000A84)
+
+#WHB(PTR, $00000A85)
+
+#WLB(PTR, $00001AB2)
+
+#WHB(PTR, $00001AB3)
+
+#WLB(PTR, $00001DFA)
+
+#WHB(PTR, $00001DFB)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、なんかちょうだいよ。\nくれるんでしょ？
+\n
+Hey, do you have\n
+anything for me? A
+<$0C>
+little souvenir?\n
+Anything?
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nそうね、あなたには、\nこんなのはどうかしら。
+\n
+FOR YOU? I'M NOT SO\n
+SURE I DO.
+<$00>
+
+
+
+
+// Pos: 00002FEB
+
+#WLB(PTR, $00000A90)
+
+#WHB(PTR, $00000A91)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nもうないの、まだあるでしょ。ねぇ！
+\n
+Really? Nothing at\n
+all? Aww, damn...
+<$0C><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nまたね、アトでね。
+\n
+YES, VERY DAMN. TRY\n
+AGAIN LATER.
+<$00>
+
+
+
+
+// Pos: 00003020
+
+#WLB(PTR, $00000A0C)
+
+#WHB(PTR, $00000A0D)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nおいオンボロ！ なんかよこせ。
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nキサマにくれてやっても、ブタにシンジュだろ\nウマのミミになんとかだろ！
+<$00>
+
+
+
+
+// Pos: 0000306E
+
+#WLB(PTR, $00000A18)
+
+#WHB(PTR, $00000A19)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nこれだけか。まだあるだろ、もっとよこせ！
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nこれでオワりだ、アトでコい。
+<$00>
+
+
+
+
+// Pos: 000030AC
+
+#WLB(PTR, $00000A48)
+
+#WHB(PTR, $00000A49)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n何か、持っているだろう。\n私の役に立つ物を。
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nあらゆるケンチからカンガえて、\nキミにはこれがいいだろう。
+<$00>
+
+
+
+
+// Pos: 000030FF
+
+#WLB(PTR, $00000A54)
+
+#WHB(PTR, $00000A55)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n他にはないのか…別の組み合わせは。
+<$0C><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nイマはこれだけ、ノチほどのタイミングを\nノがさないことだね。
+<$00>
+
+
+
+
+// Pos: 0000314E
+
+#WLB(PTR, $0000092C)
+
+#WHB(PTR, $0000092D)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシにヨウですか。ワタシはあなたには\nトクにヨウはありませんよ。
+\n
+IS THIS WHAT I THINK\n
+IT IS? SORRY, I DON'T
+<$0C>
+HAVE ANYTHING FOR\n
+YOU.
+<$00>
+
+
+
+
+// Pos: 0000317F
+
+#WLB(PTR, $0000082C)
+
+#WHB(PTR, $0000082D)
+
+<$12><$13>
+//（
+（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシはときどきココロがミダれますが、\nナオるのもハヤいです。
+\n
+SOMETIMES, MY MIND\n
+STOPS, BUT REPAIRS
+<$0C>
+ITSELF IN TIME.
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nそれにくらべてニンゲンのヒトはタイヘンです\nみなさん、コワれていきますね。
+\n
+IN COMPARISON, HUMANS\n
+MAKE A MUCH HARDER
+<$0C>
+TIME OF THIS. HUMANS\n
+BREAK EASILY.
+<$00>
+
+
+
+
+// Pos: 000031E0
+
+#WLB(PTR, $00000898)
+
+#WHB(PTR, $00000899)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nこのホシにはアクイがミちているとイわれて\nいます。でもアクイだけなのでしょうか。
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nどこかにゼンイがカタマリになっていると\nキきますが。
+<$00>
+
+
+
+
+// Pos: 0000323F
+
+#WLB(PTR, $00000880)
+
+#WHB(PTR, $00000881)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nあなたたちはチキュウから\nやってきたのですね。
+\n
+YOU'RE THE MOSQUITOS\n
+WHO CAME FROM EARTH,
+<$0C>
+AREN'T YOU?
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nそんなカんじです、ここのヒトとはフンイキが\nチがいますから。
+\n
+WE KNOW WHY YOU'RE\n
+HERE, TO SUCK THE
+<$0C>
+LIFE OUT OF\n
+EVERYTHING!
+<$00>
+
+
+
+
+// Pos: 00003291
+
+#WLB(PTR, $00000864)
+
+#WHB(PTR, $00000865)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nあなたはあなたですか。ニオイがチがいますね\nあなたはアーモンドのニおいがしています。
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nワタシはハナもキくのです。
+<$00>
+
+
+
+
+// Pos: 000032E5
+
+#WLB(PTR, $00000848)
+
+#WHB(PTR, $00000849)
+
+<$12><$13>
+//（
+<$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nアタラしいテンカイになってきましたね。\nワタシはここでケンブツです。
+<$0C><$0B>
+//オリンピア２号：
+Olympia #2:
+<$0D>
+//\nこれがノゾみです。
+<$00>
+
+
+
+
+// Pos: 0000332D
+
+#WLB(PTR, $000023B0)
+
+#WHB(PTR, $000023B1)
+
+<$10>
+\n   ユニバーサルキットを手に入れた。
+<$0E><$1E><$17><$00>
+
+
+
+// Pos: 00003348
+
+#WLB(PTR, $000023B4)
+
+#WHB(PTR, $000023B5)
+
+<$10>
+\n     マーズキットを手に入れた。
+<$0E><$1E><$17><$00>
+
+
+
+// Pos: 00003362
+
+#WLB(PTR, $000023B8)
+
+#WHB(PTR, $000023B9)
+
+<$10>
+\n    アストロキットを手に入れた。
+<$0E><$1E><$17><$00>
+
+
+
+// Pos: 0000337C
+
+#WLB(PTR, $000023BC)
+
+#WHB(PTR, $000023BD)
+
+<$10>
+\n    プラネットキットを手に入れた。
+<$0E><$1E><$17><$00>
+
+
+
+// Pos: 00003397
+
+#WLB(PTR, $0000059C)
+
+#WHB(PTR, $0000059D)
+
+<$10>
+//\nアイテムがいっぱいです。
+\n
+The item bag is full!
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 000033A9
+
+#WLB(PTR, $00001710)
+
+#WHB(PTR, $00001711)
+
+//場Pしくないのか、アーネスト。
+Humiliating, isn't\n
+it, Ernest?
+<$00>
+
+
+
+
+// Pos: 000033BA
+
+#WLB(PTR, $00001750)
+
+#WHB(PTR, $00001751)
+
+//広前は負けたんだ、野良犬のようにいたぶられ、\nそしてはいつくばった。 そうだろ。
+You lost. You were\n
+kicked like a stray,\n
+forced to retreat
+<$0C>
+with your tail\n
+between your legs.
+<$00>
+
+
+
+
+// Pos: 000033E8
+
+#WLB(PTR, $00001760)
+
+#WHB(PTR, $00001761)
+
+//案ょい出せ、\nお前はどこでうちのめされたんだ？
+Do you remember where\n
+you were beaten to a\n
+pulp?
+<$00>
+
+
+
+
+// Pos: 00003402
+
+#WLB(PTR, $00001770)
+
+#WHB(PTR, $00001771)
+
+//興れともやつの居場所を突き止めたいのか？
+Or, would you rather\n
+find out where the\n
+winner is now?
+<$00>
+
+
+
+
+// Pos: 0000341D
+
+#WLB(PTR, $00001780)
+
+#WHB(PTR, $00001781)
+
+//血あ、行くんだ、アーネスト。\n３倍返しだ、お前の力を見せてやるんだ。\n本当のお前を、お前の怖ろしさを！
+Get going, Ernest. Go\n
+pay him back 3 times\n
+over. Show me your
+<$0C>
+power! Show me your\n
+horror!
+<$00>
+
+
+
+

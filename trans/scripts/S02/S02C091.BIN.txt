@@ -1,0 +1,507 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00003DC5)
+
+// Pos: 00003DC5
+
+#WLB(PTR, $0000051C)
+
+#WHB(PTR, $0000051D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあっライカ…\nまたふたりになっちゃったね。
+\n
+There you are,\n
+Laika... I still
+<$0C>
+haven't seen the\n
+others.
+<$00>
+
+
+
+
+// Pos: 00003DE5
+
+#WLB(PTR, $00000664)
+
+#WHB(PTR, $00000665)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nさっきの子、催眠術でも使ったの？
+\n
+That child just now,\n
+did he use hypnosis
+<$0C>
+on you too?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n知らない間にここまで歩いてきた…\n変な気分ね。
+\n
+I found myself\n
+walking here before I
+<$0C>
+knew what was\n
+happening. It felt so\n
+weird.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n気をつけなきゃ。\nこの星に心をうばわれたりしないように。
+\n
+We have to be\n
+careful. We can't let
+<$0C>
+this planet get\n
+inside our heads.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n…ねぇライカ、\nライカはこの任務に志願したの？
+\n
+This might seem off\n
+topic, but...did you
+<$0C>
+volunteer for this\n
+mission, Laika?
+<$00>
+
+
+
+
+// Pos: 00003E77
+
+#WLB(PTR, $0000074C)
+
+#WHB(PTR, $0000074D)
+
+<$11><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私、この任務のこと\nほとんど知らされてなかったの。
+\n
+I didn't know that\n
+much about this
+<$0C>
+mission when I\n
+joined.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nただ火星の土のサンプルを持ち帰る…\nなんでもいいってわけじゃないけど、\n急にそういう話になって…
+\n
+All I had to do was\n
+collect samples of
+<$0C>
+Martian topsoil, but\n
+now, that feels\n
+irrelevant.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nオクトーバー司令官は、\n火星の土に含まれてる成分が人に\n幻覚をもたらす、そう考えてるみたいなの。
+\n
+Does Comd. October\n
+believes Martian
+<$0C>
+topsoil contains\n
+hallucinogenic\n
+agents?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nほんとに急だったのよ。
+\n
+And it's effective\n
+against humans?
+<$0C>
+That's news to me.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nはじめは乗り気がしなかったけど、\nライカと一緒って開いて引き受けたんだ。
+\n
+I wasn't even\n
+interested in
+<$0C>
+joining, at first.\n
+But then, I heard you\n
+were coming.
+<$00>
+
+
+
+
+// Pos: 00003F6E
+
+#WLB(PTR, $00000784)
+
+#WHB(PTR, $00000785)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nああ、夕陽ね、火星の夕陽…
+\n
+Wow, a sunset! A\n
+sunset on Mars.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n今日はクリスマスイブね。\n火星でクリスマスだなんて…
+\n
+And today's\n
+Christmas, so it's a
+<$0C>
+Christmas on Mars.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nまだ気分がすぐれないから、\nちょっとここで休んでいくね。
+\n
+I wish I was feeling\n
+better. Do you mind
+<$0C>
+if I take a break\n
+here?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nライカ、先にコロニーに行って。\nヘロデっていう人をたずねるの。
+\n
+The colony's just up\n
+ahead. We're supposed
+<$0C>
+to ask for a man\n
+named Herod.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n酸索屋のヘロデ。\nその人がコロニーを仕切ってるの。
+\n
+He runs the oxygen\n
+dispensary, but he
+<$0C>
+directs the entire\n
+colony.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n船長たち、もう到着してるかも知れない。
+\n
+If you go see him,\n
+you might catch Noon
+<$0C>
+and the captain.
+<$00>
+
+
+
+
+// Pos: 00004050
+
+#WLB(PTR, $0000082C)
+
+#WHB(PTR, $0000082D)
+
+#WLB(PTR, $000018A8)
+
+#WHB(PTR, $000018A9)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここでちょっと休んだらすぐに追いつく。\nだから先にコロニーに行ってて。
+\n
+I'll be right behind\n
+you, soon as I catch
+<$0C>
+my breath. Head up to\n
+the colony.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n酸索屋のヘロデをたずねるのよ。\n彼が協力してくれるはずよ。
+\n
+Ask for Herod at the\n
+oxygen dispensary.
+<$0C>
+He's supposed to help\n
+us.
+<$00>
+
+
+
+
+// Pos: 000040AF
+
+#WLB(PTR, $00001900)
+
+#WHB(PTR, $00001901)
+
+<$11><$0B>
+エイプリル：
+<$0D>
+\nどうしたの？コロニーはすぐそこよ。
+<$0C><$0B>
+エイプリル：
+<$0D>
+\nちゃんとライカ…じゃなかった\n
+<$0F>
+って名前で\n登録されてるはずよ。
+<$0C><$0B>
+エイプリル：
+<$0D>
+\nもう少ししたら私も行くから。
+<$00>
+
+
+
+// Pos: 00004112
+
+#WLB(PTR, $00000D0C)
+
+#WHB(PTR, $00000D0D)
+
+<$10><$13><$13><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nエイプリル…君はいったい誰なんだ。\n答えてくれ、エイプリル！
+\n
+April, who in God's\n
+name are you? Answer
+<$0C>
+me, April!
+<$00>
+
+
+
+
+// Pos: 00004140
+
+#WLB(PTR, $00000FF0)
+
+#WHB(PTR, $00000FF1)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねぇ… ライカは誰かに愛されてるって\n惑じたことある？
+\n
+Hey, does the thought\n
+of someone loving you
+<$0C>
+ever, I don't\n
+know...weird you out?
+<$00>
+
+
+
+
+// Pos: 00004169
+
+#WLB(PTR, $00001188)
+
+#WHB(PTR, $00001189)
+
+<$11><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n愛されるって、ホントはすごく幸せなこと…
+\n
+Being loved is a\n
+truly happy thing to
+<$0C>
+have happen...
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nなのに私にとってはつらいことなの。\n愛されるのが怖いの…
+\n
+...but it hurts me.\n
+I'm scared of being
+<$0C>
+loved.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nママのせいよ。\nママは私をかわいがってくれたけど、\nそれはママがそうしたかったからなの。
+\n
+It's my mother's\n
+fault. She took good
+<$0C>
+care of me, but only\n
+becase it served her.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私のためじゃなく、ママのため、\n自分のために私を愛したの。\n私にはそれがきゅうくつだった。
+\n
+It wasn't for me, but\n
+for her. Mother loved
+<$0C>
+me only to suit her\n
+self. It\n
+was...choking.
+<$00>
+
+
+
+
+// Pos: 00004221
+
+#WLB(PTR, $00001214)
+
+#WHB(PTR, $00001215)
+
+<$11><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nライカのママはきっと\nすてきな人なんでしょうね…
+\n
+Something tells me\n
+your mother was very
+<$0C>
+good to you.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nライカを見てると分かるような気がする。\nライカのことをすごくほこりに思ってた、\nそうじゃない？
+\n
+When I look at you, I\n
+can almost hear her
+<$0C>
+saying, "I'm so proud\n
+of my baby."
+<$00>
+
+
+
+
+// Pos: 0000427E
+
+#WLB(PTR, $00001270)
+
+#WHB(PTR, $00001271)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nこの星は忘れたい昔を思い起こさせるのね…\nすごく意地悪なおじいさんみたいに。
+\n
+I feel like an old\n
+man saying this, but
+<$0C>
+being here reminds me\n
+days I'd rather\n
+forget.
+<$00>
+
+
+
+
+// Pos: 000042B6
+
+#WLB(PTR, $00001AD4)
+
+#WHB(PTR, $00001AD5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nごめんね、急に。なんだかママが\nすごく近くにいるようで怖いの。
+\n
+Sorry, I need to\n
+catch my breath. I
+<$0C>
+had the sudden\n
+sensation my mother\n
+was nearby.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nママはとっくに…
+\n
+But she's already...
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねえ、コロニーに戻ってみない？
+\n
+...so! Any luck\n
+finding the colony?
+<$00>
+
+
+
+
+// Pos: 0000430F
+
+#WLB(PTR, $00001AB8)
+
+#WHB(PTR, $00001AB9)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n早くなんとかしないと\n取り返しのつかないことになりそうよ…
+\n
+If we don't wrap this\n
+up soon, I worry the
+<$0C>
+open wounds won't\n
+want to close again.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nとにかくコロニーでようすをさぐってみない？
+\n
+Don't mind me though.\n
+Why don't you go look
+<$0C>
+for the colony?
+<$00>
+
+
+
+

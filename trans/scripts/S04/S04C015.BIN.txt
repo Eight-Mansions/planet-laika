@@ -1,0 +1,909 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001E16)
+
+// Pos: 00001E16
+
+#WLB(PTR, $00000DAC)
+
+#WHB(PTR, $00000DAD)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n悪いな…顔貸してくれ。
+\n
+Forgive me... We need\n
+only a moment of your
+<$0C>
+time.
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n広場でスモーキーが待ってるんだ、来てくれ。\n広場だ。
+\n
+Come. Smokey is\n
+waiting for you in
+<$0C>
+the plaza.
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00001E59
+
+#WLB(PTR, $00001048)
+
+#WHB(PTR, $00001049)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら…何してるの、こんなところで？\nもう地球に帰るの？
+\n
+My, what are you\n
+doing out here?
+<$0C>
+Returning to Earth\n
+already?
+<$00>
+
+
+
+
+// Pos: 00001E80
+
+#WLB(PTR, $000010AC)
+
+#WHB(PTR, $000010AD)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nねぇ、アガタには気を付けてね。\nあの人、きっと邪悪な心の持ち主よ。
+\n
+Listen. Be wary\n
+around Agatha. She
+<$0C>
+clearly possesses a\n
+wicked mind.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n私、思うの。
+\n
+Care to know what I\n
+think?
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nときどき自分がどこにいるのか\n分からなくなることがあって、それはきまって\nアガタに会った後なのよ。
+\n
+Sometimes, I wonder\n
+where my "self" is,
+<$0C>
+but that only started\n
+once I met Agatha.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nおかしいと思うでしょ？ねぇそう思う？
+\n
+I'm sure that sounds\n
+silly. Do you find
+<$0C>
+that silly?
+<$1B>
+//、おかしい\nおかしくない
+、Yes\n
+No
+<$00><$17><$00>
+
+
+
+
+// Pos: 00001F25
+
+#WLB(PTR, $000010C8)
+
+#WHB(PTR, $000010C9)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nそうよね。きっと私の心をアガタが…\nああ彼女が私の心を乗っ取ろうとしているのよ。\n気分がすぐれないわ…眠れそうもないわ。
+<$1E>
+//〇
+<$00>
+
+
+
+
+// Pos: 00001F74
+
+#WLB(PTR, $000010D0)
+
+#WHB(PTR, $000010D1)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n本当にそう思うの？…私はね、アガタが私の心を\n乗っ取るんじゃないかって、それが心配なの。
+\n
+You really think so?\n
+Then maybe Agatha
+<$0C>
+does have it in her\n
+to hijack my mind.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nヘロデを支配している催眠術なら、\nなんでもできるのよ。\nああ、いやな気分よ…まだ眠れそうもないわ。
+\n
+If she can control\n
+Herod through
+<$0C>
+hypnotherapy, she can\n
+do anything! How\n
+scary!
+<$1E>
+//〇
+〇
+<$00>
+
+
+
+
+// Pos: 00001FF3
+
+#WLB(PTR, $000011F0)
+
+#WHB(PTR, $000011F1)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
+\n
+Agatha is so deep\n
+into hypnotherapy, I
+<$0C>
+wouldn't dream of\n
+stopping her!
+<$1E>
+//〇
+〇
+<$00>
+
+
+
+
+// Pos: 00002023
+
+#WLB(PTR, $00001264)
+
+#WHB(PTR, $00001265)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't\n
+sleep either?
+<$00>
+
+
+
+
+// Pos: 0000203A
+
+#WLB(PTR, $00001288)
+
+#WHB(PTR, $00001289)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
+\n
+Can I ask you about\n
+mirrors? I've got a
+<$0C>
+question about\n
+mirrors.
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nなんてったっけ、みんなが消える鏡…\n何のことだ？
+\n
+That talk about\n
+people vanishing into
+<$0C>
+mirrors... What's\n
+that about?
+<$00>
+
+
+
+
+// Pos: 00002088
+
+#WLB(PTR, $000012AC)
+
+#WHB(PTR, $000012AD)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
+\n
+Hoho, you've heard\n
+about the Mirror of
+<$0C>
+Judgment. From where,\n
+pray tell?
+<$00>
+
+
+
+
+// Pos: 000020B9
+
+#WLB(PTR, $000012D0)
+
+#WHB(PTR, $000012D1)
+
+<$13><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
+\n
+Eh, not sure that\n
+matters. The people
+<$0C>
+here just seem easily\n
+spooked by mirrors.
+<$00>
+
+
+
+
+// Pos: 000020EC
+
+#WLB(PTR, $000012F4)
+
+#WHB(PTR, $000012F5)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nそうよ。見たくないのよ。\n鏡に自分の顔を映すと憎しみがわいてくるのよ。\n分かったでしょ、鏡は悪をはぐくむの。
+\n
+Indeed. When you show\n
+your self to the
+<$0C>
+mirror, your evil\n
+shows too. So, so one\n
+wants to look.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nみんなが自分の悪につぶされるの、\nそれが蕃判よ。
+\n
+The evil in our\n
+selves is what
+<$0C>
+destroys us. That is\n
+Judgment.
+<$00>
+
+
+
+
+// Pos: 00002154
+
+#WLB(PTR, $00001318)
+
+#WHB(PTR, $00001319)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
+\n
+Heh, so mirrors\n
+cultivate evil. Is
+<$0C>
+that why you made it?
+<$00>
+
+
+
+
+// Pos: 0000217E
+
+#WLB(PTR, $0000133C)
+
+#WHB(PTR, $0000133D)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Come now, I made it\n
+only because Amanda
+<$0C>
+asked me to.
+<$00>
+
+
+
+
+// Pos: 0000219F
+
+#WLB(PTR, $00001380)
+
+#WHB(PTR, $00001381)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nアマンダ…誰なんだそいつは？
+\n
+Amanda, huh. And who\n
+is she?
+<$00>
+
+
+
+
+// Pos: 000021BB
+
+#WLB(PTR, $000013A4)
+
+#WHB(PTR, $000013A5)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
+\n
+A mirror spirit!\n
+Hoho, the
+<$0C>
+personification of\n
+beauty. She and I\n
+are...close.
+<$00>
+
+
+
+
+// Pos: 000021EC
+
+#WLB(PTR, $000015D8)
+
+#WHB(PTR, $000015D9)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't\n
+sleep either?
+<$00>
+
+
+
+
+// Pos: 00002203
+
+#WLB(PTR, $000015FC)
+
+#WHB(PTR, $000015FD)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n鏡のこと、話してくれ。
+<$00>
+
+
+
+
+// Pos: 0000221D
+
+#WLB(PTR, $00001620)
+
+#WHB(PTR, $00001621)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nふふふふふ、蕃判の鏡ね。\n何が知りたいの？
+<$00>
+
+
+
+
+// Pos: 0000223F
+
+#WLB(PTR, $00001644)
+
+#WHB(PTR, $00001645)
+
+<$13><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
+<$00>
+
+
+
+
+// Pos: 00002288
+
+#WLB(PTR, $00001668)
+
+#WHB(PTR, $00001669)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
+<$00>
+
+
+
+
+// Pos: 000022C6
+
+#WLB(PTR, $0000168C)
+
+#WHB(PTR, $0000168D)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nフェイ、なぜあなたがそんな鏡を作る？\nなぜだ。
+<$00>
+
+
+
+
+// Pos: 000022EC
+
+#WLB(PTR, $000016B0)
+
+#WHB(PTR, $000016B1)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Come now, I made it\n
+only because Amanda
+<$0C>
+asked me to.
+<$00>
+
+
+
+
+// Pos: 0000230D
+
+#WLB(PTR, $000016F4)
+
+#WHB(PTR, $000016F5)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nアマンダ…またしてもこの名前…誰なんだ？
+<$00>
+
+
+
+
+// Pos: 00002330
+
+#WLB(PTR, $00001718)
+
+#WHB(PTR, $00001719)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n鏡の精よ、ふふふふふふ。\n美の権化…
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nいずれ私のものとなるの、ふふふ。
+<$00>
+
+
+
+
+// Pos: 00002368
+
+#WLB(PTR, $0000141C)
+
+#WHB(PTR, $0000141D)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't\n
+sleep either?
+<$00>
+
+
+
+
+// Pos: 0000237F
+
+#WLB(PTR, $00001440)
+
+#WHB(PTR, $00001441)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
+\n
+Maybe. Say, I heard\n
+you were the one who
+<$0C>
+made the mirror.
+<$00>
+
+
+
+
+// Pos: 000023A8
+
+#WLB(PTR, $00001464)
+
+#WHB(PTR, $00001465)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
+\n
+Oh, the Mirror of\n
+Judgment? I did, but
+<$0C>
+please don't be\n
+frightened by t.
+<$00>
+
+
+
+
+// Pos: 000023D7
+
+#WLB(PTR, $00001488)
+
+#WHB(PTR, $00001489)
+
+<$13><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
+\n
+It's a fake mirror\n
+anyhow. It looks more
+<$0C>
+beautiful than it\n
+really is, but...
+<$00>
+
+
+
+
+// Pos: 00002417
+
+#WLB(PTR, $000014AC)
+
+#WHB(PTR, $000014AD)
+
+<$13><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nきれいになんて見えないわ、そのままよ、\nそれが憎しみをはぐくむの、悪を育てるの。
+\n
+...it's not for\n
+seeing beauty. It's
+<$0C>
+for nurturing one's\n
+hatred-one's evil.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nでもどうしようもないのよ。\nみんなみんな、自分の悪につぶされる、\nそれが蕃判よ。
+\n
+Think of it like\n
+Dorian Gray. The evil
+<$0C>
+in our selves is what\n
+destroys us. That is\n
+Judgment.
+<$00>
+
+
+
+
+// Pos: 0000247D
+
+#WLB(PTR, $000014D0)
+
+#WHB(PTR, $000014D1)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nなんで？ なんでそんなもの、\n作らなきゃならないの？
+\n
+What? Hang on, why\n
+would you make such a
+<$0C>
+thing?
+<$00>
+
+
+
+
+// Pos: 000024A4
+
+#WLB(PTR, $000014F4)
+
+#WHB(PTR, $000014F5)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Come now, I made it\n
+only because Amanda
+<$0C>
+asked me to.
+<$00>
+
+
+
+
+// Pos: 000024C5
+
+#WLB(PTR, $00001538)
+
+#WHB(PTR, $00001539)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアマンダ！ 知ってるわよ、その名前。\n確か…
+\n
+Amanda? I've heard\n
+the name, but who is
+<$0C>
+she?
+<$00>
+
+
+
+
+// Pos: 000024EA
+
+#WLB(PTR, $0000155C)
+
+#WHB(PTR, $0000155D)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
+\n
+A mirror spirit,\n
+hoho! And the
+<$0C>
+personification of\n
+beauty. Someday,\n
+she'll be mine.
+<$00>
+
+
+
+
+// Pos: 0000251A
+
+#WLB(PTR, $000006F4)
+
+#WHB(PTR, $000006F5)
+
+<$12><$13>
+// ヨウコソ プリズン４ヘ。\nミスター
+WELCOME TO PRISON 4,\n
+COMRADE "
+<$0F>
+//！
+"!
+<$00>
+
+
+
+
+// Pos: 00002531
+
+#WLB(PTR, $00000748)
+
+#WHB(PTR, $00000749)
+
+#WLB(PTR, $000007C4)
+
+#WHB(PTR, $000007C5)
+
+#WLB(PTR, $0000083C)
+
+#WHB(PTR, $0000083D)
+
+#WLB(PTR, $00001B48)
+
+#WHB(PTR, $00001B49)
+
+<$12><$13>
+// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+NOT REGISTERED FOR\n
+ENTRY. FOR DETAILS,\n
+SPEAK TO AN
+<$0C>
+ADMINISTRATOR.
+<$00>
+
+
+
+
+// Pos: 0000255D
+
+#WLB(PTR, $00000730)
+
+#WHB(PTR, $00000731)
+
+#WLB(PTR, $000007AC)
+
+#WHB(PTR, $000007AD)
+
+#WLB(PTR, $00000828)
+
+#WHB(PTR, $00000829)
+
+#WLB(PTR, $00001B28)
+
+#WHB(PTR, $00001B29)
+
+<$12><$13>
+// ヤハリ アナタハ\nトウロクサレテイマセン。
+USER NOT REGISTERED\n
+FOR ENTRY.
+<$00>
+
+
+
+
+// Pos: 00002576
+
+#WLB(PTR, $00000788)
+
+#WHB(PTR, $00000789)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nちくしょう！\nなにが登録だ、くそったれ！
+The Hell? What am I\n
+supposed to register\n
+for?!
+<$00>
+
+
+
+
+// Pos: 00002599
+
+#WLB(PTR, $00000804)
+
+#WHB(PTR, $00000805)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何よこれ？\n失礼しちゃうわね！
+\n
+What do you mean?\n
+Hello?\n
+Can I talk to your\n
+manager?
+<$00>
+
+
+
+
+// Pos: 000025B6
+
+#WLB(PTR, $00000878)
+
+#WHB(PTR, $00000879)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nやはりな…\n私ではだめなのだ。
+\n
+Hmm, this thing\n
+doesn't want to let
+<$0C>
+me in. Fun, fun, fun.
+<$00>
+
+
+
+

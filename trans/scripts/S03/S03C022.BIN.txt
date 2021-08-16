@@ -1,0 +1,151 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001059)
+
+// Pos: 00001059
+
+#WLB(PTR, $000004B0)
+
+#WHB(PTR, $000004B1)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n何？\n今なんか言った？
+\n
+Hey, did you hear\n
+someone talk just
+<$0C>
+now?
+<$00>
+
+
+
+
+// Pos: 00001070
+
+#WLB(PTR, $0000054C)
+
+#WHB(PTR, $0000054D)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n誰？\n誰か呼んだ？
+\n
+Hello? Is anyone\n
+there? Are you
+<$0C>
+calling to us?
+<$00>
+
+
+
+
+// Pos: 00001087
+
+#WLB(PTR, $00000590)
+
+#WHB(PTR, $00000591)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n…
+\n
+...
+<$00>
+
+
+
+
+// Pos: 00001093
+
+#WLB(PTR, $000005AC)
+
+#WHB(PTR, $000005AD)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nおかしいな… 確かに私の名前を\n呼ぶ声が開こえたんだけど…
+\n
+...Weird. I could've\n
+sworn I heard someone
+<$0C>
+call out my name.
+<$00>
+
+
+
+
+// Pos: 000010C0
+
+#WLB(PTR, $00000640)
+
+#WHB(PTR, $00000641)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nいいわ、何でもない… 行きましょ、\nこの先にある黒いカベのところがそうね。
+\n
+I guess it's nothing.\n
+Let's go. We have to
+<$0C>
+reach the black wall.
+<$00>
+
+
+
+
+// Pos: 000010F3
+
+#WLB(PTR, $00000728)
+
+#WHB(PTR, $00000729)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n今はだめよ、連中にみつかると\nまた閉じ込められてしまうじゃない。
+\n
+Now's not the time!\n
+If we're caught
+<$0C>
+again, we'll be\n
+imprisoned!
+<$00>
+
+
+
+
+// Pos: 00001123
+
+#WLB(PTR, $00000820)
+
+#WHB(PTR, $00000821)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそっちじゃないよ、ライカ。\n黒いカベはこの先よ。
+<$00><$10><$0B>
+//エイプリル：
+<$0D>
+//\nそっちは忘却の海よ。\n黒いカベってそっちじゃないよ。
+<$00>
+
+
+
+

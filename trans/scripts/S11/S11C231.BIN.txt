@@ -1,0 +1,504 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002165)
+
+// Pos: 00002165
+
+#WLB(PTR, $00000224)
+
+#WHB(PTR, $00000225)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nここがお店。\n整形って呼ばれてもかまわないわ。
+\n
+hat people call\n
+"cosmetic surgery" in
+<$0C>
+my office here, I\n
+call "vanity face".
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nでも私はヴァニティフェイスっていう\n名前の方が好き。夢があるでしょ。
+\n
+It carries a\n
+dream-like quality
+<$0C>
+that befits the ends\n
+to the means:
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n誰だって自分以上の自分になりたい、\nそう願ってるのよ。
+\n
+"I want everyone to\n
+be more than their
+<$0C>
+self!" That's my\n
+desire.
+<$00>
+
+
+
+
+// Pos: 000021E0
+
+#WLB(PTR, $000002E0)
+
+#WHB(PTR, $000002E1)
+
+<$11><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nヴァニティフェイスはね、\n一度じゃ済まないのよ。\n本人が気に入るまで何度でも試すの。
+\n
+You don't have to do\n
+it only once. You can
+<$0C>
+try it as many times\n
+as you'd like.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nけれど、中には最初の一回でカンペキな顔に\nなれる人もいるわ…アマンダみたいにね
+\n
+But you know, some\n
+people start with the
+<$0C>
+perfect face-like\n
+Amanda.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n今となっては彼女は伝説よ。\n美しい自分の顔を愛し、鏡を愛したの。
+\n
+She was a legendary\n
+beauty who loved to
+<$0C>
+look at her self in\n
+the mirror.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n彼女がいなくなってもう何年にもなる…\n私は決めたのよ、彼女に仕える、\nアマンダに仕えようって。そしたら
+\n
+Amanda passed many\n
+years ago, but I
+<$0C>
+strive to work in her\n
+honor.
+<$00>
+
+
+
+
+// Pos: 000022C5
+
+#WLB(PTR, $0000034C)
+
+#WHB(PTR, $0000034D)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nフェイ、薬だ、薬をくれ。
+\n
+Hui, I need medicine.\n
+Give me the the
+<$0C>
+medicine!
+<$00>
+
+
+
+
+// Pos: 000022DC
+
+#WLB(PTR, $00000360)
+
+#WHB(PTR, $00000361)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、もう切らしちゃったの？
+\n
+What?! Have you run\n
+out already?!
+<$00>
+
+
+
+
+// Pos: 000022F4
+
+#WLB(PTR, $00000374)
+
+#WHB(PTR, $00000375)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\n早くしてくれ。あいつが寝てる間に塗るんだ。
+\n
+Just hurry. I want to\n
+apply it while he's
+<$0C>
+sleeping.
+<$00>
+
+
+
+
+// Pos: 00002316
+
+#WLB(PTR, $00000388)
+
+#WHB(PTR, $00000389)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n分かったわ。ちょっと待って。
+\n
+I understand. Please\n
+wait a moment.
+<$00>
+
+
+
+
+// Pos: 0000232E
+
+#WLB(PTR, $00000404)
+
+#WHB(PTR, $00000405)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nお前か、地球からやってきたっていうのは？
+\n
+So, you came here\n
+from Earth?
+<$00>
+
+
+
+
+// Pos: 0000234D
+
+#WLB(PTR, $00000418)
+
+#WHB(PTR, $00000419)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nで、こそこそかぎ回って何が分かった？\nここは万事うまくいってる、そうだろ？
+\n
+What've you found out\n
+from all that
+<$0C>
+sneaking around like\n
+you've been?
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nみんな妙なウワサにふりまわされてるが、\n俺はそんなことはない。
+\n
+Everyone's all up in\n
+arms about the
+<$0C>
+rumors, but I'm not\n
+minding it.
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\n自分を信じてるからな\n自分をつらぬいてるからな。
+\n
+All I've gotta worry\n
+about is my self.
+<$0C>
+Just believe in my\n
+self.
+<$00>
+
+
+
+
+// Pos: 000023C9
+
+#WLB(PTR, $00000484)
+
+#WHB(PTR, $00000485)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n薬よ。
+\n
+Here's the medicine.
+<$00>
+
+
+
+
+// Pos: 000023D6
+
+#WLB(PTR, $000004A8)
+
+#WHB(PTR, $000004A9)
+
+<$11><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nねぇ、いつまで続けるの？\nいい惑じになったじゃない、コスマスは。\n私はもう満足よ。
+\n
+Red, how long must we\n
+do this? I've a sense
+<$0C>
+Kosmas is satisfied\n
+already.
+<$00>
+
+
+
+
+// Pos: 0000240C
+
+#WLB(PTR, $000004BC)
+
+#WHB(PTR, $000004BD)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nまだだ。もっとよくなるはずだ、そうだろ？
+/\n
+Then he's wrong. His\n
+face deserves to be
+<$0C>
+better, doesn't it?
+<$00>
+
+
+
+
+// Pos: 00002429
+
+#WLB(PTR, $000004D0)
+
+#WHB(PTR, $000004D1)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n蕃判には十分よ。
+\n
+In the eyes of\n
+Judgment, he is
+<$0C>
+adequate.
+<$00>
+
+
+
+
+// Pos: 0000243D
+
+#WLB(PTR, $000004E4)
+
+#WHB(PTR, $000004E5)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nおい、余計なこと言うんじゃない！\nまたあいつを連れてくるからな。
+\n
+All that yippin'\n
+won't do your face
+<$0C>
+any good, Hui. I'm\n
+bringing him back!
+<$00>
+
+
+
+
+// Pos: 00002469
+
+#WLB(PTR, $0000058C)
+
+#WHB(PTR, $0000058D)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nねぇ、酸索屋にはもう行ったの？\nマダム・アガタには会った？
+\n
+By the way, since\n
+you've met Herod,
+<$0C>
+have you met Madam\n
+Agatha?
+<$00>
+
+
+
+
+// Pos: 00002494
+
+#WLB(PTR, $000005A0)
+
+#WHB(PTR, $000005A1)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n彼女には気をつけてね。催眠術よ…\nまやかしの天才…まるで魔女よ。
+\n
+Be careful around\n
+that...angel of
+<$0C>
+deception. She uses\n
+what they call\n
+hypnotherapy.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nアガタは催眠術でヘロデのことを支配してるの。\n心の中まで全部ね。
+\n
+Agatha uses\n
+hypnotherapy to take
+<$0C>
+over Herod's mind.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nヘロデは見かけほど悪い人じゃない、本当よ。\n子どもみたいに純真なの。それをあの女が…
+\n
+Herod isn't as\n
+negative as he looks.
+<$0C>
+His nightmares are\n
+those of a dear\n
+child.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nかわいそうなヘロデ…\n彼は悪夢の中に生まれたの。
+\n
+Poor Herod was born\n
+into nightmares. Half
+<$0C>
+of his life is\n
+nightmares.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n今でも半分は悪夢の世界に生きているのよ。\nあの女はそこに付け入って…やりたい放顆よ。
+\n
+That witch takes\n
+advantage of this and
+<$0C>
+uses Herod to do her\n
+bidding!
+<$00>
+
+
+
+
+// Pos: 00002590
+
+#WLB(PTR, $0000065C)
+
+#WHB(PTR, $0000065D)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n私には声が開こえるの、アマンダの声よ。\nアマンダは鏡の中に住んでいるの。
+\n
+Amanda's voice...I\n
+can hear it.\n
+Amanda lives within\n
+the mirror.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n誰も彼女の美しさを超えられなかった、\n伝説の美女。そして今じゃ鏡の精よ。
+\n
+She was a legendary\n
+beautif without peer.
+<$0C>
+And now, she is a\n
+mirror spirit.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nうふふ、夢のようでしょ、\n美しさには限りがないのよ。
+\n
+Ohoho, it's so\n
+dreamlike.\n
+There is no limit to\n
+her beauty.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nでも私ならだいじょうぶよ、\nきっとね、うふふふふ。
+\n
+But I'll be fine,\n
+right?\n
+Yes, of course.\n
+Ohohoho!
+<$1E>
+//中
+<$00><$11><$0B>
+//エイプリル：
+<$0D>
+//\nそこが整形屋さんね、\n人間に似せて顔を作るところって。
+<$0C><$0B>
+//エイプリル：
+<$0D>
+//\nなんだか変な臭いがする…生臭いよ。\nねぇ、気味悪いから行こうよ。
+<$00>
+
+
+
+

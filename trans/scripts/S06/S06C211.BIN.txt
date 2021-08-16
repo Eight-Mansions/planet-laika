@@ -1,0 +1,643 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000016BA)
+
+// Pos: 000016BA
+
+#WLB(PTR, $0000013C)
+
+#WHB(PTR, $0000013D)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nライカ君、よくやった。\nクロエちゃんは無事だ。
+\n
+Great work, Laika. My\n
+Chloe's safe as can
+<$0C>
+be.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n少しやけどをしたみたいだが、おおむね無事だ。\n礼を言うぞ。
+\n
+We all got a few\n
+small burns, but
+<$0C>
+we're safe, so as\n
+they say here,\n
+"Ankh".
+<$00>
+
+
+
+
+// Pos: 0000170F
+
+#WLB(PTR, $00000160)
+
+#WHB(PTR, $00000161)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n俺は…アーネストだ…
+\n
+I'm...Ernest.
+<$00>
+
+
+
+
+// Pos: 00001726
+
+#WLB(PTR, $00000184)
+
+#WHB(PTR, $00000185)
+
+#WLB(PTR, $00000258)
+
+#WHB(PTR, $00000259)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nさあ、ライカ君、任務に戻りたまえ。\nめざすはコロニーだ！
+\n
+Now, Laika, we've got\n
+a mission to do!
+<$0C>
+Hurry back to the\n
+colony!
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n私はクロエちゃんの手当をしてから、\nすぐに合流するぞ。
+\n
+Once I'm done\n
+checking in on Chloe,
+<$0C>
+I'll rush over.
+<$00>
+
+
+
+
+// Pos: 0000177F
+
+#WLB(PTR, $00000390)
+
+#WHB(PTR, $00000391)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nあいつらは？ もう追ってこない？
+\n
+Are those buffoons\n
+still following you?
+<$00>
+
+
+
+
+// Pos: 0000179B
+
+#WLB(PTR, $000003A4)
+
+#WHB(PTR, $000003A5)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nあいつらって、誰のことだ？
+\n
+Who do you mean,\n
+"buffoons"?
+<$00>
+
+
+
+
+// Pos: 000017B6
+
+#WLB(PTR, $000003B8)
+
+#WHB(PTR, $000003B9)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n用心棒さ。 イーストとウェストだよ。\nここまでは追ってこないよね。
+\n
+The bouncers, East\n
+and West. They didn't
+<$0C>
+follow you this far,\n
+did they?
+<$00>
+
+
+
+
+// Pos: 000017E6
+
+#WLB(PTR, $000003CC)
+
+#WHB(PTR, $000003CD)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n何で逃げてるんだ？ それにお前は…\n俺の知ってるやつか？
+\n
+Why are you running\n
+away? And do I know
+<$0C>
+you from somewhere?
+<$00>
+
+
+
+
+// Pos: 00001811
+
+#WLB(PTR, $000003E0)
+
+#WHB(PTR, $000003E1)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nリバーだよ。\n僕はあんたのこと、知らないよ。
+\n
+I'm River, but I\n
+don't know who you
+<$0C>
+are.
+<$00>
+
+
+
+
+// Pos: 00001834
+
+#WLB(PTR, $000003F4)
+
+#WHB(PTR, $000003F5)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nいや、見た顔だ…\n知ってるぞ、俺は知ってる…お前は…
+\n
+I've seen your face\n
+before. Yeah, you've
+<$0C>
+seen me too.
+<$00>
+
+
+
+
+// Pos: 0000185E
+
+#WLB(PTR, $00000408)
+
+#WHB(PTR, $00000409)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nねぇ、あんた、信仰は？
+\n
+Tell me, what is your\n
+faith?
+<$00>
+
+
+
+
+// Pos: 00001876
+
+#WLB(PTR, $0000041C)
+
+#WHB(PTR, $0000041D)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n信仰？
+\n
+My faith?
+<$00>
+
+
+
+
+// Pos: 00001888
+
+#WLB(PTR, $00000430)
+
+#WHB(PTR, $00000431)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nそうだよ。 信仰がないと生き残れないよ。\n蕃判に生き残るには神様が必要なんだ。
+\n
+That's right. You\n
+can't survive without
+<$0C>
+faith. You need a god\n
+to live.
+<$00>
+
+
+
+
+// Pos: 000018C6
+
+#WLB(PTR, $00000444)
+
+#WHB(PTR, $00000445)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n神様に話をつけようって言うのか？
+\n
+You tellin' me to\n
+pray or something?
+<$00>
+
+
+
+
+// Pos: 000018E6
+
+#WLB(PTR, $00000458)
+
+#WHB(PTR, $00000459)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n僕の神様なんだ。 今晩、目を入れるんだ。
+\n
+Try it with my god.\n
+Tonight, try talking
+<$0C>
+to the eyeball.
+<$00>
+
+
+
+
+// Pos: 0000190C
+
+#WLB(PTR, $0000046C)
+
+#WHB(PTR, $0000046D)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nそいつはどこにいるんだ。
+\n
+One eyeball in\n
+particular? Where is
+<$0C>
+it.
+<$00>
+
+
+
+
+// Pos: 00001925
+
+#WLB(PTR, $00000480)
+
+#WHB(PTR, $00000481)
+
+<$12><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n来れば。
+\n
+If you DO come, I'll\n
+meet you at the
+<$0C>
+entrance to the\n
+underground canal.
+<$00>
+
+
+
+
+// Pos: 00001935
+
+#WLB(PTR, $000004E4)
+
+#WHB(PTR, $000004E5)
+
+<$13><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。\n分かるよね。
+<$00>
+
+
+
+
+// Pos: 00001972
+
+#WLB(PTR, $00000B9C)
+
+#WHB(PTR, $00000B9D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何かしら…\nここに誰かいたのね、その跡ね。
+\n
+Ahem? What is this\n
+weird engraving...a
+<$0C>
+message left by\n
+someone?
+<$00>
+
+
+
+
+// Pos: 00001995
+
+#WLB(PTR, $00000C78)
+
+#WHB(PTR, $00000C79)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
+\n
+There are tales of a\n
+woman who appears in
+<$0C>
+mirrors at night.\n
+I've never seen her.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
+<$00>
+
+
+
+
+// Pos: 00001A48
+
+#WLB(PTR, $00000D64)
+
+#WHB(PTR, $00000D65)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうしたの、カベに向かって…\nブツブツやってたけど…
+\n
+What's up? Mumbling\n
+at the wall like
+<$0C>
+that's a bad look,\n
+you know.
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nん？
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nああ、いや、なんでもないのよ。平気よ。
+<$00>
+
+
+
+
+// Pos: 00001A9C
+
+#WLB(PTR, $00000DEC)
+
+#WHB(PTR, $00000DED)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
+\n
+As you can see, I'd\n
+come up with my own
+<$0C>
+little hypothesis\n
+about Amanda.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダは\n鏡の精で満足するような女ではないからだ。
+\n
+Amanda is not a woman\n
+who is satisfied
+<$0C>
+living as a mirror\n
+spirit.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
+\n
+She wants the perfect\n
+mirror-one made to
+<$0C>
+reflect even her\n
+ugliness...
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
+\n
+With such a mirror,\n
+the seas and lands of
+<$0C>
+Mars would be reborn\n
+in her wicked image.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりに、黙示録的な例えだ！
+\n
+(As you can see, I'd\n
+come up with my own
+<$0C>
+little Revelations\n
+metaphor too.)
+<$00>
+
+
+
+
+// Pos: 00001B6A
+
+#WLB(PTR, $00000DC0)
+
+#WHB(PTR, $00000DC1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
+\n
+No wonder everyone\n
+here's scared of
+<$0C>
+mirrors. They don't\n
+want to see the\n
+truth.
+<$00>
+
+
+
+
+// Pos: 00001B9E
+
+#WLB(PTR, $00000DF8)
+
+#WHB(PTR, $00000DF9)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+<$00>
+
+
+
+
+// Pos: 00001C50
+
+#WLB(PTR, $00000DD0)
+
+#WHB(PTR, $00000DD1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n分身… 誰がよ。\nアタシたちとは建うってことね。
+<$00>
+
+
+
+
+// Pos: 00001C77
+
+#WLB(PTR, $00000E04)
+
+#WHB(PTR, $00000E05)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n問顆は心も欲しがるかということだ。\n
+<$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nそこでだ、アマンダは心を欲しがるのか、\nそこまでやるのか。あるいは誰か別な女の心を\nねらっているのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあああ、それなのに、\n私なりに、どんどん気が遠くなる。\nトーマスよ、どこへ行く！
+<$00>
+
+
+
+
+// Pos: 00001D41
+
+#WLB(PTR, $00000DE0)
+
+#WHB(PTR, $00000DE1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n体は…\nあれ？ なんて言ったっけ、用済み…
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
+<$00>
+
+
+
+

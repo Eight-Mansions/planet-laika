@@ -1,0 +1,126 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001481)
+
+// Pos: 00001481
+
+#WLB(PTR, $00000AE0)
+
+#WHB(PTR, $00000AE1)
+
+<$12><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nねえ、どうしたの？ せっかく火星に\n来たんだから、見ていくといいわ。
+<$1E>
+//行
+<$00>
+
+
+
+
+// Pos: 000014B2
+
+#WLB(PTR, $00000BF0)
+
+#WHB(PTR, $00000BF1)
+
+<$13><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nへへ、みんな焦りはじめてやがる。さっきもな、\nリトルの野郎があわてて酸索屋から飛び出して\nきたけど、何かあったのか？
+<$1E>
+//理
+<$00>
+
+
+
+
+// Pos: 00001500
+
+#WLB(PTR, $00000C3C)
+
+#WHB(PTR, $00000C3D)
+
+<$13><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nへへ、それ、光る石だろ。\nリトルのやつが大事にしてた…
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nお前、そんなもん勝手にガメてよう、\nおっかないことになるんじゃねぇのか。\n金星人の方がましだぜ、すき通ってるぜ。
+<$1E>
+//理
+<$00>
+
+
+
+
+// Pos: 00001571
+
+#WLB(PTR, $00000BB8)
+
+#WHB(PTR, $00000BB9)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n悪いな、逆らえねぇんだ、\nスモーキーのやつにはな。
+\n
+I wish it went\n
+different, but
+<$0C>
+there's no reasoning\n
+with Smokey.
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nあんた、表に行くなら気をつけな。\n夜は化け物が出やすいんだ。
+\n
+Be careful where you\n
+go poking your nose.
+<$0C>
+Predators hunt best\n
+at night.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 000015C5
+
+#WLB(PTR, $00000C4C)
+
+#WHB(PTR, $00000C4D)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n夢にもな、\n夢にも逆らえねぇ…
+\n
+Like Smokey, there's\n
+no reasoning with our
+<$0C>
+dreams either...
+<$1E>
+//声
+声
+<$00>
+
+
+
+

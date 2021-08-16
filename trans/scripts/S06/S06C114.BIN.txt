@@ -1,0 +1,137 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000015CB)
+
+// Pos: 000015CB
+
+#WLB(PTR, $00000320)
+
+#WHB(PTR, $00000321)
+
+<$12><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\n町長、町こしらえた、町長、町こしらえた、\nママは似合わない、シー。
+\n
+Elder Noon made the\n
+town, but it's not up
+<$0C>
+to Mummy's standards,\n
+whoosh.
+<$00>
+
+
+
+
+// Pos: 00001605
+
+#WLB(PTR, $00000364)
+
+#WHB(PTR, $00000365)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーンのママがいるの？
+\n
+Is Noon's mother\n
+here?
+<$00>
+
+
+
+
+// Pos: 0000161B
+
+#WLB(PTR, $00000388)
+
+#WHB(PTR, $00000389)
+
+<$12><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nママは似合わない、シー
+\n
+Nothing's up to\n
+Mummy's standards,
+<$0C>
+whoosh!
+<$00>
+
+
+
+
+// Pos: 00001639
+
+#WLB(PTR, $000003AC)
+
+#WHB(PTR, $000003AD)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーンのママはとっくに死んだのよ！
+\n
+Noon's mother died a\n
+long time ago!
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 00001659
+
+#WLB(PTR, $000002C0)
+
+#WHB(PTR, $000002C1)
+
+<$12><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\n町長、町、ママ、建う、シーシー。
+\n
+Elder! Town! Mummy!\n
+All wrong,
+<$0C>
+whoosh-woosh!
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 00001681
+
+#WLB(PTR, $000002E4)
+
+#WHB(PTR, $000002E5)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n町長屋敷に行ってみない？ イヤな予惑…
+\n
+Can we hurry to the\n
+Elder's residence?
+<$0C>
+I've got a bad\n
+feeling about this.
+<$00>
+
+
+
+

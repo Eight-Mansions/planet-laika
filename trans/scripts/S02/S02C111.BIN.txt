@@ -1,0 +1,182 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000216D)
+
+// Pos: 0000216D
+
+#WLB(PTR, $00000638)
+
+#WHB(PTR, $00000639)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nおお、あれだ！\n避難小屋が見えたぞ！おほほー！
+\n
+Hohoho, there it is!\n
+I see the safe room!
+<$00><$00><$11>
+//子     
+<$0D>
+//はあ、はあ、だめだ！
+<$0E><$5A><$17><$00>
+
+
+
+
+// Pos: 000021A9
+
+#WLB(PTR, $000010F8)
+
+#WHB(PTR, $000010F9)
+
+<$00><$11><$01>
+ 変だぜ、あああ、俺…\n
+<$0E><$1E>
+ いやな気分でいっぱいになってきた…\n
+<$0E><$5A><$17><$00>
+
+
+
+// Pos: 000021D2
+
+#WLB(PTR, $00000428)
+
+#WHB(PTR, $00000429)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nきっと砂嵐のせいだ、\n砂が頭の中にまで入ってきたみたいだ…
+\n
+Must be the\n
+sandstorm's fault.\n
+The sand's getting in\n
+my head.
+<$00>
+
+
+
+
+// Pos: 000021FE
+
+#WLB(PTR, $000004C4)
+
+#WHB(PTR, $000004C5)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nおい、小屋はそっちじゃない。\nここにひとりにしないでくれ。
+\n
+Hey, the safe room's\n
+not that way! Don't
+<$0C>
+run off by yourself!
+<$00>
+
+
+
+
+// Pos: 00002226
+
+#WLB(PTR, $00000550)
+
+#WHB(PTR, $00000551)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nよう、さっきは悪かったな、\nちゃかしたりしてよ。
+\n
+That "evil" smoke was\n
+getting the better of
+<$0C>
+us earlier.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nあんまりいい惑じしねぇんだ、今度の任務はよ。\nそれに船長のやつも。
+\n
+I don't sense any\n
+good coming from the
+<$0C>
+mission. Maybe the\n
+captain doesn't\n
+either.
+<$00>
+
+
+
+
+// Pos: 00002277
+
+#WLB(PTR, $00001150)
+
+#WHB(PTR, $00001151)
+
+<$00><$11><$01><$0B>
+      
+<$0D>
+ああああ、何だ？
+<$0E><$5A><$17><$00>
+
+
+
+// Pos: 0000228E
+
+#WLB(PTR, $00001180)
+
+#WHB(PTR, $00001181)
+
+<$00><$11><$01><$0B>
+   
+<$0D>
+ああああ、いやだ、来るな！\n
+<$0E><$1E><$0B>
+   
+<$0D>
+こっちに来るな！
+<$0E><$5A><$17><$00>
+
+
+
+// Pos: 000022B9
+
+#WLB(PTR, $000011EC)
+
+#WHB(PTR, $000011ED)
+
+<$00><$11><$01><$0B>
+      
+<$0D>
+ママ…ママなの？
+<$0E><$5A><$17><$00>
+
+
+
+// Pos: 000022D0
+
+#WLB(PTR, $00001208)
+
+#WHB(PTR, $00001209)
+
+<$00><$11><$01><$0B>
+   
+<$0D>
+どうして…僕のせいなの…
+<$0E><$5A><$17><$00><$12><$0B>
+エイプリル：
+<$0D>
+\nライカ！ こっち、こっちだよ！
+<$00>
+
+

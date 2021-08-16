@@ -1,0 +1,59 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000FE9)
+
+// Pos: 00000FE9
+
+#WLB(PTR, $0000021C)
+
+#WHB(PTR, $0000021D)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nわれらがヒーロー、アーネストのご登場か！\nこの星で自分を実惑したか、どうなんだ？
+\n
+And Ernest the Hero\n
+takes the stage! Did
+<$0C>
+you like grasping for\n
+a sense of self here?
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nだがもうおしまいだ、アーネスト！\nお前をミーシャのもとに送り込んでやろう。
+\n
+Alas, your escapades\n
+on this planet end
+<$0C>
+here! I'm sending you\n
+home to Misha!
+<$00>
+
+
+
+
+// Pos: 0000104F
+
+#WLB(PTR, $00000230)
+
+#WHB(PTR, $00000231)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nうるせぇ！ 俺はどこにも行きやしない！
+\n
+Shut up, you! I'm not\n
+going anywhere!
+<$00>
+
+
+
+

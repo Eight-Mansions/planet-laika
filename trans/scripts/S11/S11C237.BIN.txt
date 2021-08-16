@@ -1,0 +1,844 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002321)
+
+// Pos: 00002321
+
+#WLB(PTR, $000002E4)
+
+#WHB(PTR, $000002E5)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nやっぱり嫌だ、帰ろうよ、ダークマン！
+\n
+I hate this, Darkman!\n
+I want to go home!
+<$00>
+
+
+
+
+// Pos: 0000233F
+
+#WLB(PTR, $000003C0)
+
+#WHB(PTR, $000003C1)
+
+<$10><$12>
+//に苦しいのか？
+Does it hurt?
+<$00>
+
+
+
+
+// Pos: 0000234A
+
+#WLB(PTR, $000003D4)
+
+#WHB(PTR, $000003D5)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n誰？ 今しゃべったの、誰？\n隊長？ ガリル隊長なの？
+\n
+Who are you? Who\n
+spoke just now?
+<$0C>
+Captain? Captain\n
+Garyl, is that you?
+<$00>
+
+
+
+
+// Pos: 00002375
+
+#WLB(PTR, $000003E8)
+
+#WHB(PTR, $000003E9)
+
+<$10><$12>
+//にお前を苦悩から救えるのは、\n我々しかいない。
+We are the only ones\n
+who can save you from\n
+your suffering.
+<$00>
+
+
+
+
+// Pos: 00002394
+
+#WLB(PTR, $0000041C)
+
+#WHB(PTR, $0000041D)
+
+<$10><$12>
+//に覚えているだろう、私だ。
+Surely you remember\n
+me.
+<$00>
+
+
+
+
+// Pos: 000023A5
+
+#WLB(PTR, $00000454)
+
+#WHB(PTR, $00000455)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nああ… ヴェロニカの布…\n僕の顔を作った布…
+\n
+Oh... It's Veronica's\n
+cloth. The cloth that
+<$0C>
+made my face.
+<$00>
+
+
+
+
+// Pos: 000023CA
+
+#WLB(PTR, $00000468)
+
+#WHB(PTR, $00000469)
+
+<$10><$12>
+//にそうだ。私は顔だ。
+That's right. I am a\n
+face.
+<$00>
+
+
+
+
+// Pos: 000023D8
+
+#WLB(PTR, $0000047C)
+
+#WHB(PTR, $0000047D)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n神様…なの？\nみんなが騒いでる、蕃判の神様なの？
+\n
+Are you...God? Are\n
+you the God of
+<$0C>
+Judgment everyone is\n
+talking about?
+<$00>
+
+
+
+
+// Pos: 00002401
+
+#WLB(PTR, $00000490)
+
+#WHB(PTR, $00000491)
+
+<$10><$12>
+//に我々は神ではない。存在なのだ。\n存在に形を与えて、顔となった。\n存在は、善でも悪でもない。
+\n
+We are no God. We are\n
+an existence-one
+<$0C>
+given facely shape,\n
+neither good nor\n
+evil.
+<$00>
+
+
+
+
+// Pos: 0000243F
+
+#WLB(PTR, $000004A4)
+
+#WHB(PTR, $000004A5)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n存在？ よく分からないなあ…\nそれって、見えるの？
+\n
+An existence? I'm not\n
+sure what you mean.
+<$0C>
+Can you show me?
+<$00>
+
+
+
+
+// Pos: 00002464
+
+#WLB(PTR, $000004B8)
+
+#WHB(PTR, $000004B9)
+
+<$10><$12>
+//に見えるか見えないかは、問顆ではない。
+To show or not to\n
+show, that is now the\n
+question.
+<$0C>
+//存在としての我々は、\n顔を得たことで実体化した。\nしかし、顔によって崩壊したのだ。
+We are an existence.\n
+We create ourselves\n
+with Our faces, and
+<$0C>
+destroy ourselves\n
+with Our faces.
+<$00>
+
+
+
+
+// Pos: 000024B2
+
+#WLB(PTR, $000004CC)
+
+#WHB(PTR, $000004CD)
+
+<$10><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\n顔！ 僕は…僕のこの顔が、嫌いだ。\nこの顔のおかげで、僕は…
+\n
+I...I hate my face!\n
+Thanks to this face,
+<$0C>
+all I do is...
+<$00>
+
+
+
+
+// Pos: 000024E1
+
+#WLB(PTR, $000004E0)
+
+#WHB(PTR, $000004E1)
+
+<$10><$12>
+//にその顔が災いをもたらしたのだな。\n戻すのはたやすい。\nさあ、来るのだ。
+That face brings you\n
+disaster, but it is\n
+easy to return. Here,
+<$0C>
+come with Us.
+<$00>
+
+
+
+
+// Pos: 0000250C
+
+#WLB(PTR, $00000698)
+
+#WHB(PTR, $00000699)
+
+<$10><$12>
+//に我々に何か用か？
+What do you want from\n
+Us?
+<$00>
+
+
+
+
+// Pos: 0000251B
+
+#WLB(PTR, $000006D0)
+
+#WHB(PTR, $000006D1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n誰だ、今しゃべったのは。
+\n
+Who said that?
+<$00>
+
+
+
+
+// Pos: 00002536
+
+#WLB(PTR, $000006E4)
+
+#WHB(PTR, $000006E5)
+
+<$10><$12>
+//にどこを見ている、ここだ、お前の前だ。
+Where are you\n
+looking?\n
+We are here, before
+<$0C>
+you.
+<$00>
+
+
+
+
+// Pos: 0000254C
+
+#WLB(PTR, $000006F8)
+
+#WHB(PTR, $000006F9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n何者だ？
+\n
+"We" who?
+<$00>
+
+
+
+
+// Pos: 0000255E
+
+#WLB(PTR, $0000070C)
+
+#WHB(PTR, $0000070D)
+
+<$10><$12>
+//に私は真の存在だ。\n真の顔とでも理解してくれ。\nトゥルーフェイスだ。
+We are a true\n
+presence, or one of\n
+true face.\n
+We are True Faiths.
+<$00>
+
+
+
+
+// Pos: 0000258A
+
+#WLB(PTR, $00000720)
+
+#WHB(PTR, $00000721)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあなたが人間の顔を作っている…\nそういうことなんだな。
+\n
+That sounds to\n
+me...like you're the
+<$0C>
+ones who make human\n
+faces.
+<$00>
+
+
+
+
+// Pos: 000025B5
+
+#WLB(PTR, $00000734)
+
+#WHB(PTR, $00000735)
+
+<$11><$12>
+//に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n人間の顔！ ばかばかしい！\n顔に意味を与えているのは、お前たち人間だ。
+\n
+Human faces?!\n
+Foolish! You humans
+<$0C>
+alone give your faces\n
+such significance.
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\nその人間のおろかさに、\n我々は滅んでしまったのだ。\n顔など、いらない。
+\n
+It was that human\n
+folly who sent Us
+<$0C>
+into extinction. We\n
+have no need for\n
+faces.
+<$00>
+
+
+
+
+// Pos: 00002624
+
+#WLB(PTR, $00000748)
+
+#WHB(PTR, $00000749)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n滅んだ…すると、あなたは火星人なのか…
+\n
+Extinction...\n
+Ah, so you're
+<$0C>
+Martians.
+<$00>
+
+
+
+
+// Pos: 00002647
+
+#WLB(PTR, $0000075C)
+
+#WHB(PTR, $0000075D)
+
+<$10><$12>
+//に
+に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n人間はそう呼ぶ。
+\n
+Humans may call Us by\n
+that name.
+<$0C><$12>
+//に
+に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\nしかし、我々は火星人でも宇宙人でもない。\n我々なのだ。 お前は、自分をなんだと\n思っているのか？
+\n
+However, We are\n
+neither Martian nor
+<$0C>
+Alien. What do you\n
+suppose you are?
+<$00>
+
+
+
+
+// Pos: 000026AA
+
+#WLB(PTR, $00000770)
+
+#WHB(PTR, $00000771)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私は地球人…地球から来た…
+\n
+I'm an\n
+Earthling...from
+<$0C>
+Earth.
+<$00>
+
+
+
+
+// Pos: 000026C9
+
+#WLB(PTR, $0000079C)
+
+#WHB(PTR, $0000079D)
+
+<$11><$12>
+//に
+に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\nおろかな！ 地球に住むから地球人か！\nロケットに乗るから宇宙飛行士か！
+\n
+Because you come from\n
+Earth, you're an
+<$0C>
+Earthling? Because\n
+you ride a rocket,\n
+you're a cosmonaut?!
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n子をもうければ父親か、盗みを働けば犯罪者か、\n闘いの場では兵士か、お前達はいつも\n都合のいい自分を用意している。
+\n
+If you have a child,\n
+you're a father? If
+<$0C>
+you steal, you're a\n
+thief? If you fight,\n
+you're a soldier?
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n真の自分を隠し、目をそらせ、\n何色にでも染まろうとする。
+\n
+You fools! Hiding\n
+your true selves
+<$0C>
+under countless\n
+titles of\n
+convenience!
+<$00>
+
+
+
+
+// Pos: 0000278D
+
+#WLB(PTR, $000007B0)
+
+#WHB(PTR, $000007B1)
+
+<$11><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
+<$00>
+
+
+
+
+// Pos: 000027EB
+
+#WLB(PTR, $000007C4)
+
+#WHB(PTR, $000007C5)
+
+<$11><$12>
+//に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n憎しみ合う？\nウソをつき、自分のために他人を傷つける？\nなぜ、そのようなことができるのだ？
+<$00>
+
+
+
+
+// Pos: 00002860
+
+#WLB(PTR, $000007F0)
+
+#WHB(PTR, $000007F1)
+
+<$11><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n憎しみや殺人だけではない。\n人を愛し、いつくしみの心で\n救いの手をさしのべることもある。
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nひとりひとりが、個性を持ち、\n生きているからだ。
+<$00>
+
+
+
+
+// Pos: 000028C5
+
+#WLB(PTR, $00000804)
+
+#WHB(PTR, $00000805)
+
+<$11><$12>
+//に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\nひとつひとつの器官には、決まった役割が与えら\nれている。それは個性などではない。\n心臓は脳にはなれない、口は耳にはなれない。
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\nそれが役割というものだ。\nお前の言い分は、正確ではない。
+<$00>
+
+
+
+
+// Pos: 0000298B
+
+#WLB(PTR, $00000818)
+
+#WHB(PTR, $00000819)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n火星人…いや、あなたたちは、全体でひとつの個\n性を持つ。そう開いたが。
+\n
+I heard the\n
+Martians-I mean, you
+<$0C>
+part of a hive mind\n
+without\n
+individuality.
+<$00>
+
+
+
+
+// Pos: 000029C3
+
+#WLB(PTR, $0000082C)
+
+#WHB(PTR, $0000082D)
+
+<$11><$12>
+//に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない\nそこにお前たちの顔が災いをもたらせたのだ。
+\n
+Indeed, we do not see\n
+"individuals". Your
+<$0C>
+faces ignited our\n
+destruction.
+<$00>
+
+
+
+
+// Pos: 00002A13
+
+#WLB(PTR, $00000840)
+
+#WHB(PTR, $00000841)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n人間の顔を求めたのは、あなたたちだ。
+\n
+But you were the ones\n
+who asked to have the
+<$0C>
+human faces.
+<$00>
+
+
+
+
+// Pos: 00002A35
+
+#WLB(PTR, $0000086C)
+
+#WHB(PTR, $0000086D)
+
+<$10><$12>
+//に
+に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n１２億６０００万年にして、一度の過ちだ。\n我々は過去に三度、地球に向かった。
+\n
+Our one mistake in\n
+1.26 billion years.
+<$0C>
+We visited Earth\n
+thrice in the past...
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n三度目にお前たちが現れたのだ。\nお前たち人間は弱く、\n絶滅を予定された種のはずだった。
+\n
+...and thrice, humans\n
+appeared. Your weak
+<$0C>
+species should have\n
+gone extinct.
+<$00>
+
+
+
+
+// Pos: 00002ABD
+
+#WLB(PTR, $00000880)
+
+#WHB(PTR, $00000881)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nだが実際は建った。\n人間は英知を得てさかえたのだ。
+\n
+I don't see why,\n
+though. Humans
+<$0C>
+acquired wisdom and\n
+flourished.
+<$00>
+
+
+
+
+// Pos: 00002AEA
+
+#WLB(PTR, $00000894)
+
+#WHB(PTR, $00000895)
+
+<$10><$12>
+//に
+<$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n英知…
+\n
+Wisdom...
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る\nこれのどこが英知なのだ。
+To "see the world in\n
+a grain of said? See\n
+heaven in a single
+<$0C>
+wildflower"? What\n
+"wisdom" is this?!
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n砂は砂だ。野花とはおそらく植物だろう。\n植物がなぜ天国なのだ。
+\n
+Sand is sand!\n
+Wildflowers are
+<$0C>
+plants. Why would\n
+Heaven exist in a\n
+plant?!
+<$0C><$0B>
+//トゥルーフェイス：
+True Faiths:
+<$0D>
+//\n神の言葉なのか、それとも妄想なのか。\nお前たちは間建っている！
+\n
+Can you not\n
+differentiate the
+<$0C>
+Word of God and\n
+delusion, you\n
+ghouls?!
+<$00>
+
+
+
+
+// Pos: 00002BA6
+
+#WLB(PTR, $000008C0)
+
+#WHB(PTR, $000008C1)
+
+#WLB(PTR, $00000970)
+
+#WHB(PTR, $00000971)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n陽精とはあなたたちのことなのか？
+\n
+What do you mean,\n
+"ghouls"?
+<$00>
+
+
+
+
+// Pos: 00002BC5
+
+#WLB(PTR, $000008D4)
+
+#WHB(PTR, $000008D5)
+
+#WLB(PTR, $00000990)
+
+#WHB(PTR, $00000991)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあああ、バカみたいだ。\n汚い布に話しかけるなんて！
+\n
+Ugh, if I'm anything,\n
+I'm an idiot, talking
+<$0C>
+to a rag like this.
+<$00>
+
+
+
+

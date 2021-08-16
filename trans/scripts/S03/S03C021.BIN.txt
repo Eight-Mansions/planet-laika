@@ -1,0 +1,568 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002045)
+
+// Pos: 00002045
+
+#WLB(PTR, $00000798)
+
+#WHB(PTR, $00000799)
+
+<$12><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nお勉強だ、アーネスト。
+\n
+It's time to study,\n
+Ernest.
+<$00>
+
+
+
+
+// Pos: 00002061
+
+#WLB(PTR, $000007F4)
+
+#WHB(PTR, $000007F5)
+
+<$12><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nこの星には力だけではままならないことが\nあるのだ、それを知るがいい。
+\n
+There are things on\n
+this planet that
+<$0C>
+cannot be overcome by\n
+brute force alone.
+<$00>
+
+
+
+
+// Pos: 00002095
+
+#WLB(PTR, $00000940)
+
+#WHB(PTR, $00000941)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nへん、現れやがったな、顔のバケモンめが！
+\n
+Wow, that appeared\n
+out of nowhere! What
+<$0C>
+the Hell is that\n
+things?!
+<$00>
+
+
+
+
+// Pos: 000020B8
+
+#WLB(PTR, $0000095C)
+
+#WHB(PTR, $0000095D)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nこいつらはフェイスだ、\n顔への妄念が実体化したものだ。
+\n
+That is a "Faze", a\n
+tangible
+<$0C>
+manifestation of\n
+Mars's delusion.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nフェイスはお前たちの可能性が好物だぞ。
+\n
+What the Faze crave\n
+to feed on the most
+<$0C>
+is human potential.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nフェイスの攻撃でEM値がゼロになったら、\nお前は消えてしまうぞ、ひょ。
+\n
+If a Faze attacks\n
+reduces your Evil
+<$0C>
+Mind(EM) zero, you\n
+will disappear,\n
+hyohyo!
+<$00>
+
+
+
+
+// Pos: 0000213F
+
+#WLB(PTR, $0000098C)
+
+#WHB(PTR, $0000098D)
+
+<$10><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nEM値だと？ 消えるだと…\n俺はそんなことにはならないぜ！
+\n
+If the Faze are so\n
+bad, I'll just sock
+<$0C>
+them all into\n
+oblivion before they\n
+get close!
+<$00>
+
+
+
+
+// Pos: 0000216B
+
+#WLB(PTR, $000009A8)
+
+#WHB(PTR, $000009A9)
+
+<$11><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\n力では勝てんぞ、アーネスト。\nお前の心が作り出すマインドコアで、\nフェイスの念波をはね返すのだ。
+\n
+Sorry, but to face\n
+the Faze, you'll need
+<$0C>
+to use the Mind Core\n
+created by your\n
+heart.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nタイミングをうまく合わせてな、\nココロの〇ボタンを押すのだ、ひょひょ。
+\n
+When a Faze fires a\n
+Puls, press the 〇
+<$0C>
+button to push your\n
+Mind Core foreward\n
+and repel it.
+<$0C><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nマインドコアを戻すときは、\nココロのXボタンだ、\nそれがテクニックだ、ひょひょひょ。
+\n
+To retract the Mind\n
+Core, press the X
+<$0C>
+button. That's all\n
+there is to it!
+<$00><$10><$13><$16><$0B>
+//スピリットマン：
+<$0D>
+//\nひょひょ。何をさがしてる？\n失った時間か？
+<$00>
+
+
+
+
+// Pos: 00002243
+
+#WLB(PTR, $00001032)
+
+#WHB(PTR, $00001033)
+
+<$10><$13><$18><$0B>
+スペーサー：
+<$0D>
+\nあなたは…一体…
+<$00><$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\n難しいことは無しだぞ、\n来い来い。
+<$00><$10><$13><$18><$0B>
+スペーサー：
+<$0D>
+\nあの詩はなんだ？\nずいぶん古い詩のようだが。
+<$00><$11><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\n詩はお前の思念だ、\nお前の頭の中にある言葉だ、ひょ。\n
+<$00><$10><$13><$18><$0B>
+スペーサー：
+<$0D>
+\nいや、私は何も考えなかった、\n私の思念なはずがない！
+<$00><$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\nひょひょひょ、お前の血となり肉となった、\nお前たちの歴史だ。
+<$00><$10><$13><$18><$0B>
+スペーサー：
+<$0D>
+\n私たちの歴史…あなたはいったい…
+<$00><$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\n陽精だ。姿は仮の物、\nこの星には陰精もいる。
+<$00><$10><$13><$18><$0B>
+スペーサー：
+<$0D>
+\n陽と陰、ふたつの精がいるといのか…
+<$00><$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\nそのうち分かる。\nしゃべりすぎに注意しろ、スペーサー。
+<$0C><$0B>
+スピリットマン：
+<$0D>
+\nそろそろお前の時間を終わらせてやろう、\nひょひょ。
+<$00><$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\nひょひょ、\nお前の時間を終わらせてやろう。
+<$00><$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\nひょ…お宝は手にいれたのか、アーネスト。
+<$00><$10><$13><$13><$0B>
+アーネスト：
+<$0D>
+\nまたお前か…俺はお前にゃ用がない…\n失せろ！
+<$00><$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\nひょひょひょ…マコトに主体的な人間？\n時の中でつながる双子？
+<$0C><$0B>
+スピリットマン：
+<$0D>
+\nこの怒りんぼうがそうなのか、\nひょひょひょ。
+<$00>
+
+
+
+// Pos: 000024B9
+
+#WLB(PTR, $00000C70)
+
+#WHB(PTR, $00000C71)
+
+<$10><$13><$16><$0B>
+//スピリットマン：
+Spiritman:
+<$0D>
+//\nこっちへ来い来い、鏡の部屋だ。
+\n
+Come with me to the\n
+mirror room!
+<$00>
+
+
+
+
+// Pos: 000024DC
+
+#WLB(PTR, $00000C58)
+
+#WHB(PTR, $00000C59)
+
+<$10><$13><$16><$0B>
+スピリットマン：
+<$0D>
+\nひょひょ、
+<$0F>
+や、どこへ行く？\nこっちだ、来い来い、鏡の部屋だ。
+<$00><$10><$B8>
+レキのすきまの奥で\n何かが光っているようだ。
+<$00><$10><$94>
+イコカプセルを手にいれた！
+<$00>
+
+
+
+// Pos: 0000253C
+
+#WLB(PTR, $000011D8)
+
+#WHB(PTR, $000011D9)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何かしら…\nここに誰かいたのね、その跡ね。
+\n
+Ahem? What is this\n
+weird engraving...a
+<$0C>
+message left by\n
+someone?
+<$00>
+
+
+
+
+// Pos: 0000255F
+
+#WLB(PTR, $000012B4)
+
+#WHB(PTR, $000012B5)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
+\n
+There are tales of a\n
+woman who appears in
+<$0C>
+mirrors at night.\n
+I've never seen her.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
+<$00>
+
+
+
+
+// Pos: 00002612
+
+#WLB(PTR, $000013A0)
+
+#WHB(PTR, $000013A1)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうしたの、カベに向かって…\nブツブツやってたけど…
+\n
+What's up? Mumbling\n
+at the wall like
+<$0C>
+that's a bad look,\n
+you know.
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nん？
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nああ、いや、なんでもないのよ。平気よ。
+<$00>
+
+
+
+
+// Pos: 00002666
+
+#WLB(PTR, $00001428)
+
+#WHB(PTR, $00001429)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
+\n
+As you can see, I'd\n
+come up with my own
+<$0C>
+little hypothesis\n
+about Amanda.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダは\n鏡の精で満足するような女ではないからだ。
+\n
+Amanda is not a woman\n
+who is satisfied
+<$0C>
+living as a mirror\n
+spirit.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
+\n
+She wants the perfect\n
+mirror-one made to
+<$0C>
+reflect even her\n
+ugliness...
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
+\n
+With such a mirror,\n
+the seas and lands of
+<$0C>
+Mars would be reborn\n
+in her wicked image.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりに、黙示録的な例えだ！
+\n
+(As you can see, I'd\n
+come up with my own
+<$0C>
+little Revelations\n
+metaphor too.)
+<$00>
+
+
+
+
+// Pos: 00002734
+
+#WLB(PTR, $000013FC)
+
+#WHB(PTR, $000013FD)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
+\n
+No wonder everyone\n
+here's scared of
+<$0C>
+mirrors. They don't\n
+want to see the\n
+truth.
+<$00>
+
+
+
+
+// Pos: 00002768
+
+#WLB(PTR, $00001434)
+
+#WHB(PTR, $00001435)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+<$00>
+
+
+
+
+// Pos: 0000281A
+
+#WLB(PTR, $0000140C)
+
+#WHB(PTR, $0000140D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n分身… 誰がよ。\nアタシたちとは建うってことね。
+<$00>
+
+
+
+
+// Pos: 00002841
+
+#WLB(PTR, $00001440)
+
+#WHB(PTR, $00001441)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n問顆は心も欲しがるかということだ。\n
+<$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nそこでだ、アマンダは心を欲しがるのか、\nそこまでやるのか。あるいは誰か別な女の心を\nねらっているのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあああ、それなのに、\n私なりに、どんどん気が遠くなる。\nトーマスよ、どこへ行く！
+<$00>
+
+
+
+
+// Pos: 0000290B
+
+#WLB(PTR, $0000141C)
+
+#WHB(PTR, $0000141D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n体は…\nあれ？ なんて言ったっけ、用済み…
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
+<$00>
+
+
+
+

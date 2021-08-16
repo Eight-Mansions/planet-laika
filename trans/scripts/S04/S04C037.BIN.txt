@@ -1,0 +1,695 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000039AD)
+
+// Pos: 000039AD
+
+#WLB(PTR, $00000278)
+
+#WHB(PTR, $00000279)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nひゃひゃひゃ、お兄ちゃんよう、\n知ってるか、あいつら。
+\n
+Hyahyahya, hey bro!\n
+Hear what happened to
+<$0C>
+the guys at Psycho\n
+House?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nサイコハウスのやつら、\n電気でビリビリになりやがった。
+\n
+They shot themselves\n
+up with a boatload of
+<$0C>
+electricity and fried\n
+their minds.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへん、人のことバカにしやがって！\n地球にいりゃ白いマント着て\nたき火でダンス野郎だ、そうだろ、
+\n
+Shitbags must think\n
+they're at that level
+<$0C>
+to wear big cloaks\n
+and dance around\n
+fire.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nあいつらなんか黒こげになっちまえ！\nひゃひゃひゃ、チャーリーのごちそうだ！
+\n
+They danced so close,\n
+they got burnt.
+<$0C>
+Hyahya, Charlie saw\n
+to that!
+<$00>
+
+
+
+
+// Pos: 00003A63
+
+#WLB(PTR, $000002A4)
+
+#WHB(PTR, $000002A5)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nチャーリーってのは電気イスのことだ、\nニックネームがあったんだ。
+\n
+"Charlie" is the\n
+nickname we have for
+<$0C>
+the electric chair.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n一番えらいのは所長じゃねぇ、\n電気イスのチャーリー様だ。
+\n
+Not the name of the\n
+guy who uses it. The
+<$0C>
+big honcho is the\n
+electric chair.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nやつはなぁ、たまげた欲張りで、何カ月も\n処刑がないといらつきはじめるんだ。
+\n
+Charlie's a hungry\n
+boy, but hasn't had a
+<$0C>
+meal in some months,\n
+so he's\n
+been...jittery.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n早く新鮮な肉を食いてぇ、\n真っ黒焦げにして食いてぇってな。
+\n
+He needed his fresh\n
+meat, and fast. Just
+<$0C>
+char the suckers up\n
+and bon appetit!
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nチャーリーがいらいらすると、\n刑務所中の電気がぱちぱちするんだ、\n点いたり消えたりするんだ。
+\n
+When Charlie is\n
+hungry, the
+<$0C>
+electricity in the\n
+prison flickers on\n
+and off.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへ、今でもぱちぱちしてるか？\nひゃひゃ、チャーリーのごちそうだ。
+\n
+Hehe, is the power\n
+still jumpy even now?
+<$0C>
+Hah, then that's\n
+Charlie.
+<$00>
+
+
+
+
+// Pos: 00003B7E
+
+#WLB(PTR, $000002FC)
+
+#WHB(PTR, $000002FD)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nああ、また吐きそうだぜ。
+\n
+God, I'm about to\n
+hurl again.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへ、朝っぱらからバーベキュー、\nお肉の焦げる臭いだぜ、ひゃひゃひゃ？
+\n
+It smells like an\n
+early-morning
+<$0C>
+barbeque out here,\n
+hehe. Hyahya!
+<$1E>
+//声
+<$00><$10><$11>
+//子リトル：
+<$0D>
+//\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00003BEC
+
+#WLB(PTR, $000003B8)
+
+#WHB(PTR, $000003B9)
+
+<$10>
+//おい、兄ちゃんよう、兄ちゃん…
+Hey, Bro. Bro...
+<$00>
+
+
+
+
+// Pos: 00003BFF
+
+#WLB(PTR, $00000408)
+
+#WHB(PTR, $00000409)
+
+<$10>
+//兄ちゃん、\nおい、こっちだこっち、左だ。
+Bro, over here! Hey!\n
+To your left!
+<$00>
+
+
+
+
+// Pos: 00003C17
+
+#WLB(PTR, $00000678)
+
+#WHB(PTR, $00000679)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nどのツラさげてほっつき歩いてるんだ？
+\n
+What're you prancing\n
+around for?
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nひひひ、可愛い子犬ちゃんよう、\nおじさんが遊んであげよう…
+\n
+Hehehe, oh my little,\n
+darling puppy. Come
+<$0C>
+here and play with\n
+your uncle...
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nちくしょう！\nコスマスをどこにやりやがった！ 来い！
+\n
+Damn you! Where did\n
+Kosmas go, huh?! Come
+<$0C>
+with me!
+<$00>
+
+
+
+
+// Pos: 00003C80
+
+#WLB(PTR, $00000DC0)
+
+#WHB(PTR, $00000DC1)
+
+<$10><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nあら、あなた… でも変ね、\nさっきリャンハウスのところにいなかった？
+\n
+Oh. It's you, but\n
+different, huh. You
+<$0C>
+didn't go to House\n
+Liang recently, did\n
+you?
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nそれともあなたも…
+\n
+Or, is it that you\n
+too are...
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nいや、建うわよ、人建いよね、\nさっきのはなんだかアタシみたい、
+\n
+No, forget it. I'm\n
+mistaking you for
+<$0C>
+someone else I saw.
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nそうよ、女っぽかったのよ。\nこれでもアタシ…
+\n
+Yeah, another woman\n
+like me...
+<$1E>
+//中
+<$00><$11><$0B>
+//ブーマー：
+<$0D>
+//\nやつらは夜を動かすんだ、\nいつでもどこでも、やつらなら夜にできる…\nあああ、もう終わりだ、終わりだ…
+<$00>
+
+
+
+
+// Pos: 00003D49
+
+#WLB(PTR, $00001100)
+
+#WHB(PTR, $00001101)
+
+<$10><$0B>
+サミー：
+<$0D>
+\nあらイヤだ、\nあなたもあのおかしなことに加わるの…
+<$0C><$0B>
+サミー：
+<$0D>
+\nサイコちゃんたちの実験よ、\n何だかハウスの様子が変なのよ。
+<$0C><$0B>
+サミー：
+<$0D>
+\nばりばり、ばりばりって\n音が開こえてくるのよ。
+<$1E>
+中
+<$00>
+
+
+
+// Pos: 00003DBA
+
+#WLB(PTR, $0000110C)
+
+#WHB(PTR, $0000110D)
+
+<$10><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n何？ 何がどうしたの？\nリトルがあわてて？
+\n
+Hey, so what\n
+happened? Why's Liter
+<$0C>
+in such a hurry?
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nあれ、リトルじゃないの？
+\n
+...Wait, was that not\n
+Liter?
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nアタシの他にもいろいろ？\nあはは、楽しいわね、ユカイだわ！
+\n
+So you're saying\n
+there are others like
+<$0C>
+me? Ohohoho, what\n
+fun! I love this!
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 00003E16
+
+#WLB(PTR, $00001444)
+
+#WHB(PTR, $00001445)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nくそっ、気分が悪いぜ、おうおう…
+\n
+Ugh, I don't feel so\n
+hot right now.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nあー、チャーリー様だ、お肉の臭い、\nひへへへへなあ兄ちゃんよう、知ってるか？
+\n
+Charlie's got a bad\n
+meat smell right now.
+<$0C>
+Y-you know what that\n
+means, right?
+<$1B>
+//？知ってる\n知らない
+？I do\n
+I don't
+<$00><$17><$00>
+
+
+
+
+// Pos: 00003E71
+
+#WLB(PTR, $00001468)
+
+#WHB(PTR, $00001469)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへ、そうかい。\nいよいよ始まるんだ、蕃判やら奇跡やらだ。
+\n
+Heh, thought so. Both\n
+Judgment and miracles
+<$0C>
+are starting to show\n
+up in strange ways.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nとにかく、今のままじゃねぇぞ。\nいろいろ変わるんだ。
+\n
+But it's not all in\n
+one specific way.
+<$0C>
+It's different\n
+everywhere you look.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nハウスじゃサイコ野郎がパチパチ実験、\nリャンハウスじゃ布がピカピカ光ってる…
+\n
+Psycho House has the\n
+crackly experiment,
+<$0C>
+House Liang has the\n
+sparkly cloth.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n俺はどうなるんだ、\n兄ちゃんはどうなるんだ？
+\n
+What'll happen to me,\n
+hmm? And what'll
+<$0C>
+happen to you?
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00003F16
+
+#WLB(PTR, $0000173C)
+
+#WHB(PTR, $0000173D)
+
+<$13><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nはは、コスマスだな。 僕もコスマスみたいに、\n心の友だちとお話できるようになってきたな。
+<$0C><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\n僕にもいるんだな、\nいつもお酒を飲んでるけれどね。
+<$00>
+
+
+
+
+// Pos: 00003F73
+
+#WLB(PTR, $0000174C)
+
+#WHB(PTR, $0000174D)
+
+<$12><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nダークマンは何人もいないよ、ひとりだよ。\nそれにお酒は飲まないよ。
+<$00>
+
+
+
+
+// Pos: 00003FA0
+
+#WLB(PTR, $0000175C)
+
+#WHB(PTR, $0000175D)
+
+<$12><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nそうだね、僕のは建うね、\nダークマンじゃないね。
+<$00>
+
+
+
+
+// Pos: 00003FC3
+
+#WLB(PTR, $0000176C)
+
+#WHB(PTR, $0000176D)
+
+<$12><$0B>
+//コスマス：
+Kosmas:
+<$0D>
+//\nダークマンと話ができるのは僕だけさ。\nそうだよね、ダークマン。
+<$00><$13><$0B>
+//コスマス：
+<$0D>
+//\nねぇ、ダークマン、\nそっちにいくとレッドおじさんがいるよ。\nきっといるよ。
+<$00>
+
+
+
+
+// Pos: 0000401D
+
+#WLB(PTR, $00001AEC)
+
+#WHB(PTR, $00001AED)
+
+<$12><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\n同じ臭いだな、同じだな。\nあんたと僕と。
+\n
+You and I smell the\n
+same! We have the
+<$0C>
+same smell!
+<$00>
+
+
+
+
+// Pos: 0000403E
+
+#WLB(PTR, $00001B00)
+
+#WHB(PTR, $00001B01)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n君は確か… サミー…
+\n
+You are you...Sammy?!
+<$00>
+
+
+
+
+// Pos: 00004056
+
+#WLB(PTR, $00001B14)
+
+#WHB(PTR, $00001B15)
+
+<$12><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nブー、だな。 はずれだな。\n僕はラミーだな。
+\n
+Bzzt! I thought you\n
+know, but I'm Rummy!
+<$00>
+
+
+
+
+// Pos: 00004076
+
+#WLB(PTR, $00001B28)
+
+#WHB(PTR, $00001B29)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nそうか、分かった\nなら開くが、君は金星人をどう思う？
+\n
+Ah, I see. So, what\n
+do you think about
+<$0C>
+the Venusians?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n本当に電波を送ってきているのか、\nそれともマウンテンたちの思い建いなのか？
+\n
+Are they really\n
+sending us radio
+<$0C>
+waves, or is that\n
+Mountain being full\n
+of it?
+<$00>
+
+
+
+
+// Pos: 000040D7
+
+#WLB(PTR, $00001B3C)
+
+#WHB(PTR, $00001B3D)
+
+<$12><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nへへ、金星人か…\n確かに金星人がいるのは本当だな、
+\n
+Hehe, well... The\n
+Venusians do exist,
+<$0C>
+that must is true.
+<$0C><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nしかしな、電波は届いていないな。\n弱いんだな、電波がな、だから届かない。
+\n
+But, we're not\n
+getting their waves.
+<$0C>
+They're too weak, so\n
+they don't reach us.
+<$00>
+
+
+
+
+// Pos: 00004133
+
+#WLB(PTR, $00001B80)
+
+#WHB(PTR, $00001B81)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n金星人はいる、\nけれど電波は届いてはいないんだな。
+\n
+So, there are\n
+Venusians, but we're
+<$0C>
+not receiving their\n
+radio waves?
+<$00>
+
+
+
+
+// Pos: 0000415E
+
+#WLB(PTR, $00001B94)
+
+#WHB(PTR, $00001B95)
+
+<$12><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nそうだな、届いてないな。
+\n
+Nope, not a one.
+<$00>
+
+
+
+

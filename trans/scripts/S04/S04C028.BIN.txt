@@ -1,0 +1,739 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002E67)
+
+// Pos: 00002E67
+
+#WLB(PTR, $00001810)
+
+#WHB(PTR, $00001811)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nもう夜は来ねぇんじゃねえか、\n白い光が見えたぜ。
+\n
+Night won't come\n
+anymore, right? I saw
+<$0C>
+a white light...
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002E90
+
+#WLB(PTR, $0000181C)
+
+#WHB(PTR, $0000181D)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nやつらがやってくる。\nあああ、もうダメだ、やつらが来る、
+\n
+They're coming. Ohhh,\n
+no! No more! They're
+<$0C>
+coming!
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n黒い空から舞い降りて、\n鋭いかぎ爪ではらわたを切り裂くんだ、
+\n
+Raining down from the\n
+black sky, tearing
+<$0C>
+through with their\n
+sword-like claws!
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nあああ、俺が見た夢の通りだ、おんなじだ、\nあああ…
+\n
+This is just like the\n
+dreams I saw. Just
+<$0C>
+like them! Ohhh...!
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002F0D
+
+#WLB(PTR, $00000FE4)
+
+#WHB(PTR, $00000FE5)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nいろいろあったな。\nそうだ、俺には分かってる、何もかもな。
+\n
+There's so much going\n
+on, yeah. I know just
+<$0C>
+about everything and\n
+anything.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあ、これからお前は\n自分に向き合う旅を始める、
+\n
+Come. It's time for\n
+you to start your
+<$0C>
+journey to face the\n
+self.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺は約束の場所に行く、そういうことだ。
+\n
+When I am going to\n
+the Promised Land,
+<$0C>
+that is what I mean.
+<$00>
+
+
+
+
+// Pos: 00002F78
+
+#WLB(PTR, $0000108C)
+
+#WHB(PTR, $0000108D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺の頭の中で呼ぶ声が開こえるんだ…
+\n
+I can hear the voices\n
+calling in my head.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n早く来い、約束の場所が待っているぞ、\n早く来いリトルってな。
+\n
+They say, "Hurry. We\n
+await you in the
+<$0C>
+Promised Land."\n
+"Hurry, Liter."
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
+\n
+Dammit, the voices\n
+only got worse and
+<$0C>
+worse after you came\n
+here.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nうるさくってしょうがない…\nうるさ… あああ、くそっ！
+\n
+I can't get them to\n
+stop. They won't shut
+<$0C>
+up...! Grrr, dammit\n
+all!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺の頭の中にあるもの… くそったれ！\nぴょんぴょんしやがる。
+\n
+What's going on in my\n
+head...? Dammit! It's
+<$0C>
+all jumping back and\n
+forth.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nそいつを振り落としにいくんだ。
+\n
+I can't shake them\n
+off.
+<$00>
+
+
+
+
+// Pos: 00003054
+
+#WLB(PTR, $000010DC)
+
+#WHB(PTR, $000010DD)
+
+<$12><$0B><$0D>
+//あああ、用済み、\nそうさ、用済みの場所に行くんだ！
+Yes, serve your\n
+purpose! Go to the\n
+place that will
+<$0C>
+render you obsolete!
+<$00>
+
+
+
+
+// Pos: 00003078
+
+#WLB(PTR, $00001100)
+
+#WHB(PTR, $00001101)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nくそったれ！ まただ、また前に出やがる。
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n急いでくれ、\nお前が連れていってくれるんだろ。
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺の頭の中じゃそうなってる。\n分かってるんだ。
+<$00>
+
+
+
+
+// Pos: 000030D8
+
+#WLB(PTR, $00001198)
+
+#WHB(PTR, $00001199)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n追い立てられるウサギの叫び声が人の脳から\n一本ずつ筋をひきちぎる…
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺には開こえてるんだ、入って来るんだ。\nウソっぱちのまじないだ。
+<$00>
+
+
+
+
+// Pos: 00003134
+
+#WLB(PTR, $000011AC)
+
+#WHB(PTR, $000011AD)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nへっ、他にもお前に話したいやつがいるのか。\n無線テレビだ、そうだそうだ。
+<$00>
+
+
+
+
+// Pos: 00003165
+
+#WLB(PTR, $000011C0)
+
+#WHB(PTR, $000011C1)
+
+#WLB(PTR, $00001930)
+
+#WHB(PTR, $00001931)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n先に用事を済ませるんだ、そうだそうだ。\n俺はここにいる。
+\n
+Get all your business\n
+in check, get it? You
+<$0C>
+get it? I'll be here.
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00003191
+
+#WLB(PTR, $000012BC)
+
+#WHB(PTR, $000012BD)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nお前か… 本当にお前だな…\n来い、話がある。
+\n
+It's you... It really\n
+is you. Come. I've
+<$0C>
+something to tell\n
+you.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n待ってたんだ。 俺のことには\nお前が関係してる、そうだそうだ。
+\n
+I was waiting, since\n
+we have common
+<$0C>
+interests now, get\n
+it? You get it?
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 000031E1
+
+#WLB(PTR, $000013E4)
+
+#WHB(PTR, $000013E5)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nおい、お前か… 本当のお前か？
+\n
+Hey, is it...really\n
+you?
+<$00>
+
+
+
+
+// Pos: 000031FB
+
+#WLB(PTR, $0000143C)
+
+#WHB(PTR, $0000143D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあ、これからお前は\n自分に向き合う旅を始める、
+\n
+Come. It's time for\n
+you to start your
+<$0C>
+journey to face the\n
+self.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺は約束の場所に行く、そういうことだ。
+\n
+When I am going to\n
+the Promised Land,
+<$0C>
+that is what I mean.
+<$00>
+
+
+
+
+// Pos: 00003241
+
+#WLB(PTR, $0000151C)
+
+#WHB(PTR, $0000151D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺の頭の中で呼ぶ声が開こえるんだ…
+\n
+I can hear the voices\n
+calling in my head.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n早く来い、約束の場所が待っているぞ、\n早く来いリトルってな。
+\n
+They say, "Hurry. We\n
+await you in the
+<$0C>
+Promised Land."\n
+"Hurry, Liter."
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
+\n
+Dammit, the voices\n
+only got worse and
+<$0C>
+worse after you came\n
+here.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nうるさくってしょうがない…\nうるさ… あああ、くそっ！
+\n
+I can't get them to\n
+stop. They won't shut
+<$0C>
+up...! Grrr, dammit\n
+all!
+<$00>
+
+
+
+
+// Pos: 000032DC
+
+#WLB(PTR, $0000156C)
+
+#WHB(PTR, $0000156D)
+
+<$12><$0B><$0D>
+//あああ、用済み、そうさ、\n用済みの場所に行くんだ！
+Yes, serve your\n
+purpose! Go to the\n
+place that will
+<$0C>
+render you obsolete!
+<$00>
+
+
+
+
+// Pos: 00003300
+
+#WLB(PTR, $00001590)
+
+#WHB(PTR, $00001591)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nちくしょう！ また前に出やがる！
+\n
+Dammit, it's coming\n
+out again!
+<$00>
+
+
+
+
+// Pos: 0000331A
+
+#WLB(PTR, $00001628)
+
+#WHB(PTR, $00001629)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る…
+\n
+"To see a world in a\n
+Grain of Sand; And a
+<$0C>
+Heaven in a Wild\n
+Flower."
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺にも開こえてるんだ、ちゃんとな。\n終末の暗示を含んだ詩だ。
+\n
+I can hear it so\n
+well-a poem that
+<$0C>
+contains hints of the\n
+end of times.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nこれで救われるのか？ ええ？ 建うだろ、\n必死になって逃げ場を用意してるだけだ。
+\n
+Will we be saved?\n
+Yes, or no? We've no
+<$0C>
+choice to prepare as\n
+best as we can.
+<$00>
+
+
+
+
+// Pos: 000033AC
+
+#WLB(PTR, $0000163C)
+
+#WHB(PTR, $0000163D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n逃げられやしないんだ。\nだったら向かってやる、そうだそうだ。
+\n
+There's no escaping\n
+it, so we might as
+<$0C>
+well get ready to\n
+face it, get it? You\n
+get it?
+<$00>
+
+
+
+
+// Pos: 000033D5
+
+#WLB(PTR, $00000E18)
+
+#WHB(PTR, $00000E19)
+
+#WLB(PTR, $0000166C)
+
+#WHB(PTR, $0000166D)
+
+#WLB(PTR, $000018B8)
+
+#WHB(PTR, $000018B9)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n用事は済んだな。さあ、行こう。\nもうこりごりだ、ガマンならないんだ。
+\n
+Done with your\n
+errands? Then 'els
+<$0C>
+go. I've had it up to\n
+here enough as it is.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n約束の場所に行くときれいさっぱり忘れられる、\nそうなんだろ。
+\n
+But if I go to the\n
+Promised Land, I can
+<$0C>
+start on a clean\n
+slate, get it? You\n
+get it?
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n悪夢だかなんだか知らないが、みんな\n昔のことだ、過去なんだ、そうだそうだ！
+\n
+I don't know if this\n
+is a nightmare, but
+<$0C>
+our past selves are\n
+gone, get it? You get\n
+it?
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nいつまでも過去をのさばらせてると不幸になる、\nそうだろ。お前、用意はいいか？
+\n
+Keeping them around\n
+too long won't make
+<$0C>
+you any happier. So,\n
+are you ready?
+<$1B>
+//。行こう\n待ってくれ
+。Let's go\n
+Wait
+<$00><$17><$00>
+
+
+
+
+// Pos: 000034A5
+
+#WLB(PTR, $00000E3C)
+
+#WHB(PTR, $00000E3D)
+
+#WLB(PTR, $0000168C)
+
+#WHB(PTR, $0000168D)
+
+#WLB(PTR, $000018D8)
+
+#WHB(PTR, $000018D9)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nお前が先に歩いてくれ。
+\n
+You should walk\n
+ahead.
+<$00>
+
+
+
+
+// Pos: 000034BB
+
+#WLB(PTR, $00000AC8)
+
+#WHB(PTR, $00000AC9)
+
+#WLB(PTR, $00000BB0)
+
+#WHB(PTR, $00000BB1)
+
+#WLB(PTR, $00000C98)
+
+#WHB(PTR, $00000C99)
+
+<$12><$0B>
+リトル：
+<$0D>
+\n俺が行くのはコロニーの中じゃない、\n分かるだろ、表だ。
+<$00>
+
+
+
+// Pos: 000034E2
+
+#WLB(PTR, $00000ADC)
+
+#WHB(PTR, $00000ADD)
+
+#WLB(PTR, $00000BC4)
+
+#WHB(PTR, $00000BC5)
+
+#WLB(PTR, $00000CAC)
+
+#WHB(PTR, $00000CAD)
+
+#WLB(PTR, $00000E74)
+
+#WHB(PTR, $00000E75)
+
+#WLB(PTR, $000016C4)
+
+#WHB(PTR, $000016C5)
+
+#WLB(PTR, $00001924)
+
+#WHB(PTR, $00001925)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n俺はお前ほど時間はないんだ。\n早くしてくれ、ここで待ってるからな。
+\n
+I don't have all the\n
+time in the world
+<$0C>
+like you do! I'll\n
+wait here, but hurry\n
+up!
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00003513
+
+#WLB(PTR, $000019EC)
+
+#WHB(PTR, $000019ED)
+
+<$12><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nやつらは夜を動かすんだ、いつでもどこでも、\nやつらなら夜にできる…
+\n
+They bump in the\n
+night, anytime,
+<$0C>
+anywhere! They can do\n
+it all night...
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nあああ、もう終わりだ、終わりだ…
+\n
+Oh, it'll be over\n
+soon! It's all over!
+<$1E>
+//声
+声
+<$00>
+
+
+
+

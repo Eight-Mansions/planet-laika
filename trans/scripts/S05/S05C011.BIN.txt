@@ -1,0 +1,397 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000017A1)
+
+// Pos: 000017A1
+
+#WLB(PTR, $000000A0)
+
+#WHB(PTR, $000000A1)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n記憶の谷へ行くんだな。
+\n
+You're leaving for\n
+Memory Valley, I see.
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n気を付けることだ、あそこはなくした記憶が\nよみがえる場所だ。
+\n
+Beware the lost\n
+memories that beg to
+<$0C>
+resurface from that\n
+place.
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nそれはウソのものかも知れん。
+\n
+Some memories can and\n
+will stem from a lie.
+<$00>
+
+
+
+
+// Pos: 00001807
+
+#WLB(PTR, $000000D0)
+
+#WHB(PTR, $000000D1)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nありがとう…\nねえ、ひとつ開いていい？
+\n
+Thank you for warning\n
+us! ...Say, may I ask
+<$0C>
+you one thing?
+<$00>
+
+
+
+
+// Pos: 00001826
+
+#WLB(PTR, $000000E0)
+
+#WHB(PTR, $000000E1)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n何をだ。
+\n
+You may.
+<$00>
+
+
+
+
+// Pos: 00001837
+
+#WLB(PTR, $00000110)
+
+#WHB(PTR, $00000111)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあなたたちは整形を受けないの？\nコロニーでは、ヴァニティフェイスが\n流行ってるのよ。
+\n
+If vanity face is\n
+popular on Mars, but
+<$0C>
+none of you got\n
+cosmetic surgery-
+<$00>
+
+
+
+
+// Pos: 00001871
+
+#WLB(PTR, $00000120)
+
+#WHB(PTR, $00000121)
+
+<$13><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n邪道だ。我々は人間の顔を手に入れるために\nここに来たのではない。\nお前たちもそうだろう。
+\n
+Like you, we did not\n
+come to Mars to claim
+<$0C>
+human faces. It is an\n
+evil path.
+<$00>
+
+
+
+
+// Pos: 000018B3
+
+#WLB(PTR, $00000150)
+
+#WHB(PTR, $00000151)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nでも、すごい美少年がいたのよ。\nあんなにきれいになれるなんて…\n大した技術ね。
+\n
+Oh, but we saw a\n
+young boy with a
+<$0C>
+beautiful face.\n
+Technology has come\n
+so far!
+<$00>
+
+
+
+
+// Pos: 000018EB
+
+#WLB(PTR, $00000160)
+
+#WHB(PTR, $00000161)
+
+<$13><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nよこしまな気を宿してはならん。\nイーブルマインドに憑かれてしまう。\n用心することだ。
+\n
+Beware. Beautiful\n
+roses stem from vile
+<$0C>
+roots, and are\n
+watered by Evil Mind.
+<$00>
+
+
+
+
+// Pos: 00001926
+
+#WLB(PTR, $00000190)
+
+#WHB(PTR, $00000191)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nきれいになりたいっていうのも、悪なの？
+\n
+Are you saying it's\n
+evil to want to be
+<$0C>
+beautiful?
+<$00>
+
+
+
+
+// Pos: 00001944
+
+#WLB(PTR, $000001A0)
+
+#WHB(PTR, $000001A1)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nそうだ。見かけにこだわる欲悪だ。\nビジュアル系と呼ばれている。
+\n
+The evil is the\n
+clinging "desire".
+<$0C>
+That is what we call\n
+Visual type evil.
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nマウンテンどもは知悪だ…\nふん！こざかしい連中だ！
+\n
+Mountain's evil is\n
+"knowledge", and
+<$0C>
+THOSE types! Oh, what\n
+a lousy lot!
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nおかしなことに\nうつつを抜かしている連中だ。
+\n
+They're the ones who\n
+preoccupy themselves
+<$0C>
+with their wily\n
+imaginations.
+<$00>
+
+
+
+
+// Pos: 000019C0
+
+#WLB(PTR, $000001D0)
+
+#WHB(PTR, $000001D1)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n欲悪と知悪。\n知悪はサイコ系ね。他には？
+\n
+Desire and knowledge.\n
+If Psycho type is
+<$0C>
+knowledge, what is\n
+animal type?
+<$00>
+
+
+
+
+// Pos: 000019E4
+
+#WLB(PTR, $000001E0)
+
+#WHB(PTR, $000001E1)
+
+<$13><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n何故、そんなに知りたいのだ？
+\n
+Heavens be, how do\n
+you know so much?!
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n酒場にたむろする連中は力悪だ。\nアニマル系だ。\nなんでも暴力で解決しようとする。
+\n
+The answer is\n
+"power". Like those,
+<$0C>
+for example, who puff\n
+their chests in bars.
+<$00>
+
+
+
+
+// Pos: 00001A3F
+
+#WLB(PTR, $00000210)
+
+#WHB(PTR, $00000211)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそれで３悪ね…\nありがとう。
+\n
+And that's all three,\n
+huh. Thank you so
+<$0C>
+much!
+<$00>
+
+
+
+
+// Pos: 00001A58
+
+#WLB(PTR, $00000220)
+
+#WHB(PTR, $00000221)
+
+<$13><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n記憶の谷では気を付けるんだ。\nあらぬものが見えても心を\n動かされるんじゃない。分かったな。
+\n
+No matter how strange\n
+your visions are in
+<$0C>
+Memory Valley, do not\n
+succumb to them.
+<$00>
+
+
+
+
+// Pos: 00001A98
+
+#WLB(PTR, $0000053C)
+
+#WHB(PTR, $0000053D)
+
+<$12><$0B>
+ノーブルロック：
+<$0D>
+\n記憶の谷はまやかしだらけだ。\n気を付けろ。
+<$00>
+
+
+
+// Pos: 00001ABE
+
+#WLB(PTR, $000005A0)
+
+#WHB(PTR, $000005A1)
+
+<$12><$0B>
+ノーブルロック：
+<$0D>
+\n大丈夫だったか…\nお前のタマシイは抜けていないな。
+<$0C><$0B>
+ノーブルロック：
+<$0D>
+\nホワイトイーグルはドールダンスで\nタマシイを戻さなければならない。
+<$0C><$0B>
+ノーブルロック：
+<$0D>
+\n今度は正しいドールダンスだ、\nそれで抜け出したタマシイを戻すのだ。
+<$0C><$0B>
+ノーブルロック：
+<$0D>
+\n今は入れない。\nドールダンスの最中は立入禁止だ。
+<$00>
+
+
+
+// Pos: 00001B75
+
+#WLB(PTR, $000005E8)
+
+#WHB(PTR, $000005E9)
+
+<$12><$0B>
+//ノーブルロック：
+<$0D>
+//\nタンキー人形はタマシイを操る。\n人から出したり入れたりできるんだ。
+<$0C><$0B>
+//ノーブルロック：
+<$0D>
+//\nさっきはひっくり返った…\n事故だ。
+<$0C><$0B>
+//ノーブルロック：
+<$0D>
+//\nさあ、コロニーに戻れ。\n今はタマシイを入れてる最中だ。
+
+<$00>
+
+
+
+

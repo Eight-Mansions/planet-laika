@@ -1,0 +1,394 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000199B)
+
+// Pos: 0000199B
+
+#WLB(PTR, $00000118)
+
+#WHB(PTR, $00000119)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私がもう一度やってみる。
+\n
+I'll try again.
+<$00>
+
+
+
+
+// Pos: 000019B4
+
+#WLB(PTR, $0000015C)
+
+#WHB(PTR, $0000015D)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあーあーよ。新しい事実がどうのこうの…\nまたあの名前で呼んでたわ…アタシのこと…
+\n
+Ayyye! Did you hear?\n
+I'm a "new reality"
+<$0C>
+now! Does NO ONE\n
+consider that I have\n
+a name?
+<$00>
+
+
+
+
+// Pos: 000019ED
+
+#WLB(PTR, $00000180)
+
+#WHB(PTR, $00000181)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n…ちょっとやってみるね。
+\n
+..Let's try this.
+<$00>
+
+
+
+
+// Pos: 00001A04
+
+#WLB(PTR, $00000220)
+
+#WHB(PTR, $00000221)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nどう？うまくいきそう？\n町長さんのこと、報告してみれば。
+\n
+How's it going over\n
+here? We'd better
+<$0C>
+report this to the\n
+elder.
+<$00>
+
+
+
+
+// Pos: 00001A30
+
+#WLB(PTR, $00000244)
+
+#WHB(PTR, $00000245)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーンはあんな屋敷に住んだことはないの。
+\n
+Noon has never lived\n
+in a weird mansion
+<$0C>
+like that!
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここは変よ、\nウソの世界を見せられてるみたい…
+\n
+This place is insane.\n
+It's like a circus
+<$0C>
+show made up of\n
+lies...
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nああ、ダメ、もう少しでつながるのに。
+\n
+...Aww, dang. Right\n
+when I thought we had
+<$0C>
+a connection.
+<$00>
+
+
+
+
+// Pos: 00001A93
+
+#WLB(PTR, $0000035C)
+
+#WHB(PTR, $0000035D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n気が付いていないみたいね。\n無線テレビはどう？
+\n
+If no one's using the\n
+monitor, why not give
+<$0C>
+it a look?
+<$00>
+
+
+
+
+// Pos: 00001AB8
+
+#WLB(PTR, $000003B8)
+
+#WHB(PTR, $000003B9)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、ちょっと、エイプリルはどこ行ったの？\nあんた、見なかった？
+\n
+Wait a minute...\n
+Where did April go?
+<$0C>
+You, did you see?
+<$00>
+
+
+
+
+// Pos: 00001AE5
+
+#WLB(PTR, $000003DC)
+
+#WHB(PTR, $000003DD)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\n静かにだ、シー。\n放っておいてくれ、シーシー。
+\n
+Be quiet, whoosh!\n
+LEAVE ME ALONE,
+<$0C>
+WHOOSH!
+<$00>
+
+
+
+
+// Pos: 00001B0F
+
+#WLB(PTR, $00000554)
+
+#WHB(PTR, $00000555)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねぇ、ちょっと、エイプリルはどこ行ったの？
+<$00>
+
+
+
+
+// Pos: 00001B31
+
+#WLB(PTR, $00000584)
+
+#WHB(PTR, $00000585)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nやれやれだわ。
+<$00>
+
+
+
+
+// Pos: 00001B44
+
+#WLB(PTR, $000003FC)
+
+#WHB(PTR, $000003FD)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\nなんだ、お前たちは！\n勝手に入るな、シーシーシー。
+\n
+Hey, stop that! You\n
+can't walk over here
+<$0C>
+without permission,\n
+whoosh!
+<$00>
+
+
+
+
+// Pos: 00001B71
+
+#WLB(PTR, $00000420)
+
+#WHB(PTR, $00000421)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何かメッセージ、来てない？
+\n
+Oh, sorry. Didn't a\n
+message just come in?
+<$00>
+
+
+
+
+// Pos: 00001B8B
+
+#WLB(PTR, $00000444)
+
+#WHB(PTR, $00000445)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\n来てるが、勝手に入らないでくれ。
+\n
+One did, but that\n
+doesn't mean you can
+<$0C>
+walk over here!
+<$00>
+
+
+
+
+// Pos: 00001BB0
+
+#WLB(PTR, $00000468)
+
+#WHB(PTR, $00000469)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nだから、こうやって来たんじゃない。
+\n
+But what if the\n
+message is for us?
+<$00>
+
+
+
+
+// Pos: 00001BCE
+
+#WLB(PTR, $0000048C)
+
+#WHB(PTR, $0000048D)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\nシーシーシー！ ダメだ、出て行け！
+\n
+Whoosh-whoosh-whoosh!\n
+TOO BAD! GET OUT!
+<$00>
+
+
+
+
+// Pos: 00001BF2
+
+#WLB(PTR, $000004B0)
+
+#WHB(PTR, $000004B1)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nシー！シー！
+\n
+WHOOSH! WHOOSH!
+<$00>
+
+
+
+
+// Pos: 00001C04
+
+#WLB(PTR, $000005E0)
+
+#WHB(PTR, $000005E1)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\n出て行け、シー。
+<$00>
+
+
+
+
+// Pos: 00001C1F
+
+#WLB(PTR, $00000600)
+
+#WHB(PTR, $00000601)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nはいはい、そうしますよ。
+\n
+Fine, I got the\n
+message!
+<$00><$12><$0B>
+//酸索坑夫３号：
+<$0D>
+//\nまただ、また来る、シー。\n静かに放っておいてくれ、
+<$0C><$0B>
+//酸索坑夫３号：
+<$0D>
+//\nシーシー、シー！
+<$00><$12><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nやれやれ、話にならないわね。
+<$00><$12><$0B>
+//エイプリル：
+<$0D>
+//\n気付かれちゃ、ダメなのよ。
+<$00>
+
+
+
+

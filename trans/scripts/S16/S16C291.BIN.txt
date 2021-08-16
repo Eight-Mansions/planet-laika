@@ -1,0 +1,120 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001B1C)
+
+// Pos: 00001B1C
+
+#WLB(PTR, $000001EC)
+
+#WHB(PTR, $000001ED)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあら、あなたね、酸索屋に出入りしてるのは。
+\n
+Ah, it's you-the one\n
+poking your nose
+<$0C>
+around the oxygen\n
+dispensary.
+<$00>
+
+
+
+
+// Pos: 00001B3F
+
+#WLB(PTR, $000002C8)
+
+#WHB(PTR, $000002C9)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nうふふふふふふ、ヴェロニカは死んだの、\nバカな女。
+\n
+Pffthahaha, well good\n
+news! Veronica is
+<$0C>
+dead, the stupid\n
+woman!
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nふふふ、蕃判の鏡で私は真っ先に\n自分を照らし出したの…
+\n
+The Mirror of\n
+Judgment has revealed
+<$0C>
+the self I was always\n
+meant to be!.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nうふふふふふふ、鏡は私の顔を映すの、\nヴェロニカじゃないのよ！
+\n
+Pffthahaha, the face\n
+the mirror reflected
+<$0C>
+was not Veronica's,\n
+but MINE!
+<$00>
+
+
+
+
+// Pos: 00001BB8
+
+#WLB(PTR, $00000348)
+
+#WHB(PTR, $00000349)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nオレンジ色の光はどう？ どんな心地？\nついに完成したのよ、蕃判の鏡。
+\n
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n真実の光があばくの、\n隠していたすべてを。
+\n
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nまやかしの世界は消えて、\n私は美のクリエイターになるの！
+\n
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nあああ、アマンダ！\n今、あなたはこの肉体に宿るのよ、
+\n
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+\n
+//\n私の体をあなたにささげるわ！
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nああ、アマンダ、あなたは私の中へ、\nはははは、ついに手に入れたわ！
+\n
+<$00>
+
+
+
+

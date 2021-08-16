@@ -1,0 +1,54 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00004D49)
+
+// Pos: 00004D49
+
+#WLB(PTR, $0000010C)
+
+#WHB(PTR, $0000010D)
+
+<$00><$14><$02><$11>
+//登ーンは弱虫だ。お前もなのか、アーネスト。
+Noon's a pussy,\n
+Ernest, and so are\n
+you!
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004D69
+
+#WLB(PTR, $00000128)
+
+#WHB(PTR, $00000129)
+
+<$00><$14><$02><$11>
+//急前は暗い思い出から抜けられないのだ。
+You can't let go of\n
+your dark memories.
+<$0E><$78><$17><$00>
+
+
+
+
+// Pos: 00004D89
+
+#WLB(PTR, $00000130)
+
+#WHB(PTR, $00000131)
+
+<$00><$14><$02><$11>
+//純ーシャは死んだ。お前が意気地なしだからだ。\n 
+Misha's only dead\n
+because YOU'RE A\n
+PUSSY!\n
+<$0E><$78><$17><$00>
+
+
+
+

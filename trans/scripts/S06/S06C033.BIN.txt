@@ -1,0 +1,212 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000E34)
+
+// Pos: 00000E34
+
+#WLB(PTR, $000007E0)
+
+#WHB(PTR, $000007E1)
+
+<$12><$0B>
+//酸索坑夫５号：
+Oxygen Miner 5:
+<$0D>
+//\nところでお前は…さっきのやつか？\n私は５号だがな、れっきとした５号だがな。
+\n
+Are you...the person\n
+we let in earlier?
+<$0C>
+All I know for sure\n
+is that I'm No. 5.
+<$1E>
+//理
+<$00><$10><$0B>
+//酸索坑夫２号：
+<$0D>
+//\nだめだめ、今は立入禁止だ。\n氷がくずれかけている、あぶない、シーシー。
+<$1E>
+//炎
+<$00><$13><$0B>
+//酸索坑夫１号：
+<$0D>
+//\nお前の連れがアイスレイクに入っていった。\n今連れ戻すところだ、シー。\nうろうろするな、シーシー。
+<$1E>
+//〇
+<$00>
+
+
+
+
+// Pos: 00000EF5
+
+#WLB(PTR, $000006E4)
+
+#WHB(PTR, $000006E5)
+
+<$12><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\nおい！\n大変が起きた！シー！
+\n
+Mayday, mayday!\n
+Something terrible
+<$0C>
+has happened!
+<$00>
+
+
+
+
+// Pos: 00000F17
+
+#WLB(PTR, $00000708)
+
+#WHB(PTR, $00000709)
+
+<$13><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nお前の仲間がアイスレイクに入った、\nアイスなレイクだ、古い酸索坑道がある、\nシーシー！
+\n
+Your friend went to\n
+Ice Lake, where the
+<$0C>
+old oxygenite\n
+mineshaft is, whoosh!
+<$00>
+
+
+
+
+// Pos: 00000F5B
+
+#WLB(PTR, $0000072C)
+
+#WHB(PTR, $0000072D)
+
+<$12><$0B>
+//酸索坑夫３号：
+Oxygen Miner 3：
+<$0D>
+//\n連れ戻そうとしたら、アラートだ、\n警報だ、シー！
+\n
+We tried to get them\n
+back, but we heard
+<$0C>
+the alert! The\n
+warning, whoosh!
+<$00>
+
+
+
+
+// Pos: 00000F88
+
+#WLB(PTR, $00000750)
+
+#WHB(PTR, $00000751)
+
+<$12><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nお前が行け、シーシー、仲間だろ…\nお前、さっきのやつ？
+\n
+You must go to your\n
+friend, whoosh,
+<$0C>
+whoosh! Go to the\n
+girl!
+<$00>
+
+
+
+
+// Pos: 00000FB7
+
+#WLB(PTR, $00000774)
+
+#WHB(PTR, $00000775)
+
+<$12><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\n行け。
+\n
+Go!
+<$1E>
+//〇
+〇
+<$00>
+
+
+
+
+// Pos: 00000FCF
+
+#WLB(PTR, $0000084C)
+
+#WHB(PTR, $0000084D)
+
+<$12><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\n大変が起きたんだ、シー。
+\n
+Something has\n
+happened, whoosh!
+<$1E>
+//〇
+〇
+<$00>
+
+
+
+
+// Pos: 00000FF2
+
+#WLB(PTR, $000008B8)
+
+#WHB(PTR, $000008B9)
+
+<$12><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nお前の仲間だ、シー。
+\n
+It was your friend,\n
+whoosh, whoosh!
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+
+// Pos: 00001012
+
+#WLB(PTR, $00000924)
+
+#WHB(PTR, $00000925)
+
+<$12><$0B>
+酸索坑夫３号：
+<$0D>
+\nアイスレイクだ、行け、シー。
+<$1E>
+〇
+<$00><$10><$01>
+い道閉鎖まで、あとわずかです。\n繰り返します、あとわずか。\nこれは訓練ではありません。
+<$00>
+
+

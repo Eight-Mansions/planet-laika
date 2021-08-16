@@ -1,0 +1,592 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002129)
+
+// Pos: 00002129
+
+#WLB(PTR, $00000394)
+
+#WHB(PTR, $00000395)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nようよう、兄ちゃん…兄ちゃんよう…
+\n
+Hey-uh...Buddy. Hey,\n
+Buddy...
+<$00>
+
+
+
+
+// Pos: 00002145
+
+#WLB(PTR, $000003A4)
+
+#WHB(PTR, $000003A5)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃん… ああん？\n会ったことあるか、俺と？
+\n
+Buddy-uh...have we\n
+met? Have we met
+<$0C>
+before?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n
+\n
+<$12>
+//つくそっ、気分が悪い、吐きそうだぜ…\nおぇっ、うぐぐぐ、おえっ…
+Damn, I feel sick.\n
+Totally about to\n
+puke. Ugh, this
+<$0C>
+sucks...!
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nなあ、酸索屋になんか用か？
+\n
+You're...looking for\n
+the oxygen
+<$0C>
+dispensary? F-For\n
+what?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nリトルのやつ、さっきナイトプラネットの側に\nいやがったぜ…
+\n
+All I know is, I saw\n
+Liter outside of
+<$0C>
+NIGHTPLANET just now.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n何やってんだ、あんなところで。
+\n
+(What the Hell was he\n
+doing, anyways?)
+<$00>
+
+
+
+
+// Pos: 000021E7
+
+#WLB(PTR, $000003D4)
+
+#WHB(PTR, $000003D5)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nナイトプラネットは\nここまっすぐ行ったところだ、
+\n
+If you wanna try\n
+NIGHTPLANET, it's
+<$0C>
+just up the road.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nぐげげ、ケチな酒場だぜ。
+\n
+Grrrp!\n
+I'm-uh...warning you,
+<$0C>
+the place is highway\n
+robbery.
+<$00>
+
+
+
+
+// Pos: 0000221F
+
+#WLB(PTR, $00000404)
+
+#WHB(PTR, $00000405)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんよう、地球から来たんだな、\nそうだろ、
+\n
+You're from Earth,\n
+arent'cha, Buddy?
+<$0C>
+Yeah, yeah.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nそれでヘロデんとこにあいさつに来た…\nぐげげげ、吐きそうだぜ、気分が悪いぜ…
+\n
+That's why you want\n
+Herod. Grrrp! Don't
+<$0C>
+mind me. I'm just-uh,\n
+dying.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 00002276
+
+#WLB(PTR, $000004E0)
+
+#WHB(PTR, $000004E1)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nこんな早い時間から飲み過ぎたぜ、\nくそっ、気分が悪い…
+\n
+Damn, I feel sick. I\n
+drank too much this
+<$0C>
+time around.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 000022A2
+
+#WLB(PTR, $00000580)
+
+#WHB(PTR, $00000581)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nようよう、兄ちゃんよう、\nあいつらに何たのまれたんだ？ え？
+\n
+Hey-uh...Hey,\n
+Buddy... Did those
+<$0C>
+nuts want something\n
+from you?
+<$00>
+
+
+
+
+// Pos: 000022CA
+
+#WLB(PTR, $000005A4)
+
+#WHB(PTR, $000005A5)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nおお？ 兄ちゃんの顔、やっぱり\n見たことあるぜ…
+\n
+Wait, I'm right,\n
+right? I can see it
+<$0C>
+on your face, Buddy.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nさっき会ったか、へー、\n何たのまれたんだよ、言いなよ。
+\n
+So-uh, what'd they\n
+want? All right now,
+<$0C>
+don't tell me...
+<$00>
+
+
+
+
+// Pos: 00002311
+
+#WLB(PTR, $000005C8)
+
+#WHB(PTR, $000005C9)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n何だよ、水くせぇじゃねぇか、\nよう、赤い石だろ、図星！
+\n
+Some slippery little\n
+feller...I know! The
+<$0C>
+red stone! I know it!
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nひーひひひ、あいつら欲しがってる…\nへへへー、
+\n
+Hee hee hee! That's\n
+what they want you to
+<$0C>
+get? Hehehe!
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nでもな、赤い石なんて誰も見たことねえんだ！\nなんでか分かるか？ ああん？
+\n
+Too bad, no one has\n
+actually laid eyes on
+<$0C>
+the red stone. You\n
+know why?
+<$00>
+
+
+
+
+// Pos: 00002389
+
+#WLB(PTR, $000005EC)
+
+#WHB(PTR, $000005ED)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n石のとこに行けねぇんだ！ 扉が開かねぇ…\nブーマーのやつが力任せにやっても開かねぇ…
+\n
+The door that leads\n
+to the stone won't
+<$0C>
+open! Even Boomer\n
+couldn't bust in.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nハウスにいるヤングやクロウに言わせりゃ\n火星人の扉だと。
+That's a Martian\n
+door. You'll have to\n
+ask Yang or Crow over
+<$0C>
+at Psycho House about\n
+it.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへん！ あるか、そんなもん！
+\n
+Oh, but about that!
+<$00>
+
+
+
+
+// Pos: 00002400
+
+#WLB(PTR, $00000610)
+
+#WHB(PTR, $00000611)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nやつらにゃ目ん玉が見えるんだとよ、\n人の頭ほどのでっけえ目ん玉がよ！
+\n
+You know those big\n
+booby-sized eyeballs
+<$0C>
+some people can see\n
+on doors?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nその目ん玉とお話ししないと、扉は開かねぇ…\nひゃー！ でっけぇ目ん玉だとよ！
+\n
+You'll have to talk\n
+to one of those giant
+<$0C>
+honkers to get\n
+inside.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n恐々行ってみたぜ、俺もよ、見えねぇ…\n俺には目ん玉なんて、見えねえ…\nくそったれ…
+\n
+I'd help, but I...I\n
+can't see 'em either.
+<$0C>
+I can't see the\n
+honkers, dammit!
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nううう、また気分が悪くなってきた…\n吐きそうだ…おぇっおぇっおぇっ…\nいつ会ったんだ…おえっ！
+Damn, I feel sick.\n
+Totally about to puke\n
+again. I gott
+<$0C>
+arun...! Brrp!
+<$00>
+
+
+
+
+// Pos: 000024D4
+
+#WLB(PTR, $0000074C)
+
+#WHB(PTR, $0000074D)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nよよ、兄ちゃんよう、\n赤い石、手に入れたのか？
+\n
+Hey-uh, Buddy! You\n
+find that red stone
+<$0C>
+all right?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nすげぇな、そりゃすげぇ。\n目ん玉はどうした？ ほんとにあるのか？
+\n
+Hell yeah, nice! What\n
+about the talking
+<$0C>
+eyeball? Was it real?
+<$1B>
+//」ある\nない
+」Yes\n
+No
+<$00><$17><$00>
+
+
+
+
+// Pos: 0000252C
+
+#WLB(PTR, $0000078C)
+
+#WHB(PTR, $0000078D)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nほんとかよ、へへ、\nどうせ俺たちには見えねぇんだ。
+\n
+So, they're real!\n
+Hehe, too bad we
+<$0C>
+can't see 'em-oh, you\n
+know what?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんもハウスの野郎と一緒だ、\n電波の実験してるやつと一緒だ。
+\n
+Go check out Psycho\n
+House. The guys there
+<$0C>
+experiment with radio\n
+waves.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 00002584
+
+#WLB(PTR, $00000798)
+
+#WHB(PTR, $00000799)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nねぇよな、そりゃそうだ、\nハウスのやつらはおかしいぜ。
+\n
+Yeah, figures.\n
+Those-uh, Psycho
+<$0C>
+House guys love that\n
+hocus pocus stuff.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n電波の実験なんてよ、ありゃいかれてる。
+\n
+Must be why they like\n
+experimenting with
+<$0C>
+radio waves.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 000025CA
+
+#WLB(PTR, $000007B4)
+
+#WHB(PTR, $000007B5)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n知ってるか、兄ちゃん。
+\n
+You ever-uh, check\n
+the monitor in Psycho
+<$0C>
+House, Buddy?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nハウスの無線テレビな、\nとっくに放送なんかやってねぇのによ、\nときどき妙なもんが映ったりするんだ、
+\n
+It's a wireless\n
+monitor that
+<$0C>
+broadcasts some\n
+creepy stuff.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n気味悪いぜ、なあ兄ちゃんよう。
+\n
+Give it a good look\n
+sometime.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 0000263B
+
+#WLB(PTR, $00000FC4)
+
+#WHB(PTR, $00000FC5)
+
+<$10>
+あなたね…\nエイプリルと一緒だったのは。
+<$0C>
+行ってあげて、\n彼女、あなたのこと待ってるわ。
+<$00><$10><$0B>
+イースト：
+<$0D>
+\nさあ、リトルさんは中だ。
+<$00><$10><$0B>
+ウェスト：
+<$0D>
+\n俺たちはここで見張ってる。
+<$00><$10><$0B>
+イースト：
+<$0D>
+\nお前たち、明日帰る。
+<$00><$10><$0B>
+ウェスト：
+<$0D>
+\nいいこと。今夜、寝る。
+<$00><$10><$0B>
+イースト：
+<$0D>
+\n俺たち、寝ずの番。
+<$00><$10><$0B>
+ウェスト：
+<$0D>
+\n見張る。
+<$00>
+
+
+
+// Pos: 000026F1
+
+#WLB(PTR, $00000878)
+
+#WHB(PTR, $00000879)
+
+<$10><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n気を確かに持つのよ、\n記憶の谷で何が起きても動じないでね。
+\n
+Keep your mind sharp.\n
+Don't succumb to the
+<$0C>
+wiles of Memory\n
+Valley.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nこの星のよこしまな力に\nとらわれたりしないでね。
+\n
+Mars bears a vile\n
+power. Don't let that
+<$0C>
+power swallow you\n
+whole.
+<$1E>
+//理
+理
+<$00>
+
+
+
+

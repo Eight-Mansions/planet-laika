@@ -1,0 +1,814 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002E0E)
+
+// Pos: 00002E0E
+
+#WLB(PTR, $000019A0)
+
+#WHB(PTR, $000019A1)
+
+#WLB(PTR, $00001A80)
+
+#WHB(PTR, $00001A81)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n何だ、まだコロニーに用があるのか？
+\n
+Do you have any last\n
+business in the
+<$0C>
+colony?
+<$1B>
+//※ちょっと戻ってみる\n今はよしておく
+※Let's go back\n
+No, I'm good
+<$00><$17><$00>
+
+
+
+
+// Pos: 00002E40
+
+#WLB(PTR, $000001E6)
+
+#WHB(PTR, $000001E7)
+
+#WLB(PTR, $000019CC)
+
+#WHB(PTR, $000019CD)
+
+#WLB(PTR, $00001AA0)
+
+#WHB(PTR, $00001AA1)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nなら早くしてくれ。\n俺はここで待ってる。
+\n
+Then make it quick!\n
+I'll wait here for
+<$0C>
+you.
+<$00>
+
+
+
+
+// Pos: 00002E5F
+
+#WLB(PTR, $000019F4)
+
+#WHB(PTR, $000019F5)
+
+#WLB(PTR, $00001AAC)
+
+#WHB(PTR, $00001AAD)
+
+<$13><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nもういいだろ。\nふん、コロニーのやつら、蕃判のウワサを\n信じ始めたみたいだ…弱いやつらだ。
+\n
+Good. Everyone in the\n
+colony is crumbling
+<$0C>
+under the Judgment\n
+rumors, and it shows.
+<$00>
+
+
+
+
+// Pos: 00002E9A
+
+#WLB(PTR, $000018D0)
+
+#WHB(PTR, $000018D1)
+
+#WLB(PTR, $00001950)
+
+#WHB(PTR, $00001951)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあ、行こう。\n俺の気が変わらないうちにな。
+\n
+All right, let's go\n
+before I change my
+<$0C>
+mind.
+<$00>
+
+
+
+
+// Pos: 00002EBB
+
+#WLB(PTR, $0000155C)
+
+#WHB(PTR, $0000155D)
+
+<$13><$0B>
+ノーブルロック：
+<$0D>
+\nちょっとやっかいなことが起きた、\nここは通せない。
+<$0C><$0B>
+ノーブルロック：
+<$0D>
+\n今、ホワイトイーグルがいろいろやってる\n最中だ。\nお前に話してもムダかも知れないぞ。
+<$00>
+
+
+
+// Pos: 00002F1E
+
+#WLB(PTR, $000016A0)
+
+#WHB(PTR, $000016A1)
+
+<$12><$0B>
+ノーブルロック：
+<$0D>
+\nやっかいなことだ。\nちょっと難しい話だ。
+<$00>
+
+
+
+// Pos: 00002F41
+
+#WLB(PTR, $00001570)
+
+#WHB(PTR, $00001571)
+
+#WLB(PTR, $000015E4)
+
+#WHB(PTR, $000015E5)
+
+#WLB(PTR, $00001700)
+
+#WHB(PTR, $00001701)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n悪いが今は通せない。
+\n
+I'm sorry, but this\n
+area is now off
+<$0C>
+limits.
+<$00>
+
+
+
+
+// Pos: 00002F5A
+
+#WLB(PTR, $00001728)
+
+#WHB(PTR, $00001729)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n善人は危ない、不安定だ。
+\n
+Good people are\n
+dangerous. They're
+<$0C>
+unstable.
+<$00>
+
+
+
+
+// Pos: 00002F78
+
+#WLB(PTR, $0000174C)
+
+#WHB(PTR, $0000174D)
+
+<$13><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n憑かれやすいという話ではない。\n少しでも悪に触れると完全な悪に\nなってしまうのだ。
+\n
+It's not about\n
+"likelihood". Even it
+<$0C>
+you are touched by a\n
+little evil, you ARE\n
+evil.
+<$00>
+
+
+
+
+// Pos: 00002FB4
+
+#WLB(PTR, $000007DE)
+
+#WHB(PTR, $000007DF)
+
+#WLB(PTR, $00001598)
+
+#WHB(PTR, $00001599)
+
+#WLB(PTR, $0000160C)
+
+#WHB(PTR, $0000160D)
+
+#WLB(PTR, $00001FFE)
+
+#WHB(PTR, $00001FFF)
+
+#WLB(PTR, $000020B6)
+
+#WHB(PTR, $000020B7)
+
+#WLB(PTR, $000024FA)
+
+#WHB(PTR, $000024FB)
+
+#WLB(PTR, $0000267A)
+
+#WHB(PTR, $0000267B)
+
+#WLB(PTR, $000027D2)
+
+#WHB(PTR, $000027D3)
+
+<$12><$0B>
+ノーブルロック：
+<$0D>
+\n善人を保護したんだ、\n善人は危ない。
+<$00>
+
+
+
+// Pos: 00002FD8
+
+#WLB(PTR, $000015C0)
+
+#WHB(PTR, $000015C1)
+
+#WLB(PTR, $00001634)
+
+#WHB(PTR, $00001635)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n善人は危ない、あっと言う間に悪に染まる。\nしばらくは養生が必要だ。
+<$00>
+
+
+
+
+// Pos: 0000300E
+
+#WLB(PTR, $000016B4)
+
+#WHB(PTR, $000016B5)
+
+#WLB(PTR, $000016D8)
+
+#WHB(PTR, $000016D9)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nコロニーは外出禁止、\nロッジも立入禁止だ。
+<$00>
+
+
+
+
+// Pos: 00003038
+
+#WLB(PTR, $00001714)
+
+#WHB(PTR, $00001715)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n分かってる。\nちょっと寄っただけだ。
+\n
+I know. All I wanted\n
+was to pass by.
+<$00>
+
+
+
+
+// Pos: 00003058
+
+#WLB(PTR, $0000173C)
+
+#WHB(PTR, $0000173D)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n悪に憑かれやすい、\nそういうことだな。
+\n
+Because they're more\n
+likely to get
+<$0C>
+possessed by evil,\n
+right?
+<$00>
+
+
+
+
+// Pos: 00003079
+
+#WLB(PTR, $00001584)
+
+#WHB(PTR, $00001585)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nなんでだ、\n俺が登録されてないからか。
+<$00>
+
+
+
+
+// Pos: 0000309B
+
+#WLB(PTR, $000015AC)
+
+#WHB(PTR, $000015AD)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n善人だと…\nお前らは善人が苦手なんだ、そうなんだな。
+<$00>
+
+
+
+
+// Pos: 000030C6
+
+#WLB(PTR, $000015D4)
+
+#WHB(PTR, $000015D5)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nそうかい、\nどうせ俺はここには入れねぇんだ。
+<$00>
+
+
+
+
+// Pos: 000030EA
+
+#WLB(PTR, $000016C8)
+
+#WHB(PTR, $000016C9)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nせいぜい養生させな。
+<$00>
+
+
+
+
+// Pos: 00003103
+
+#WLB(PTR, $000015F8)
+
+#WHB(PTR, $000015F9)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何よ、アタシが登録されてないから、\nそんなこと言うのね。
+<$00>
+
+
+
+
+// Pos: 0000312D
+
+#WLB(PTR, $00001620)
+
+#WHB(PTR, $00001621)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあら索敵。\n危ない善人だなんて…ほんとにアブナイの？
+<$00>
+
+
+
+
+// Pos: 00003157
+
+#WLB(PTR, $00001648)
+
+#WHB(PTR, $00001649)
+
+<$13><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nふん、養生ねぇ…\n休んでるうちに悪人に\nなったりするんじゃないの。
+<$00>
+
+
+
+
+// Pos: 00003187
+
+#WLB(PTR, $000016EC)
+
+#WHB(PTR, $000016ED)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nいいわよ、危ない善人なんて、興味ないから。
+<$00>
+
+
+
+
+// Pos: 000031AC
+
+#WLB(PTR, $00001BF4)
+
+#WHB(PTR, $00001BF5)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nごめん、さがした？\nアガタに読んでもらったんだ。
+\n
+I'm sorry, were you\n
+looking for me? I got
+<$0C>
+a reading from\n
+Agatha.
+<$00>
+
+
+
+
+// Pos: 000031D0
+
+#WLB(PTR, $00001C08)
+
+#WHB(PTR, $00001C09)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n夢の中に… あれが夢だとしたらね、\nそこで見つけたの。 鏡の破片よ。
+\n
+In my dream, if you\n
+could call it that...
+<$0C>
+I found a mirror\n
+fragment.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n表面にオレンジ色の光が、\nふうっと現れて消える…
+\n
+An orange light\n
+reflected on its
+<$0C>
+surface, appearing\n
+and disappearing just\n
+as quickly.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n不思議でしょ。\n気になってアガタに見てもらったの…
+\n
+It was strange, so I\n
+got curious and asked
+<$0C>
+Agatha to look at it.
+<$00>
+
+
+
+
+// Pos: 00003251
+
+#WLB(PTR, $00001E64)
+
+#WHB(PTR, $00001E65)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n鏡は私の物じゃなかったみたい。\n変ね、夢の中で見つけたのに…
+\n
+The mirror fragment\n
+wasn't mine. I'd only
+<$0C>
+found it in a dream.
+<$00>
+
+
+
+
+// Pos: 0000327F
+
+#WLB(PTR, $00001E84)
+
+#WHB(PTR, $00001E85)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nアガタが言ってたの、\nリトルを見つけなきゃって。
+\n
+But Agatha told me to\n
+find Liter, the guy
+<$0C>
+from the oxygen\n
+dispensary.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nリトルって酸索屋のリトルでしょ。\n彼、どこへ行ったの？ 心当たりないの？
+\n
+If he's not there, do\n
+you have any idea
+<$0C>
+where he went?
+<$00>
+
+
+
+
+// Pos: 000032D7
+
+#WLB(PTR, $00001D50)
+
+#WHB(PTR, $00001D51)
+
+//子マダム・アガタ：
+子Madam Agatha:
+<$0D>
+//\nエイプリル！ 無事だったのね、\n変な記憶にさいなまれたりしなかったのね、\nよかった、よかったわエイプリル。
+\n
+April! Are you well?\n
+You're not getting
+<$0C>
+caught up in strange\n
+recollections, are\n
+you?
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nそれは何？ 鏡の破片ね… めずらしいわ。
+\n
+I would hope not. So,\n
+what have we here...a
+<$0C>
+mirror fragment? How\n
+rare.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n待って… ぼんやりと見えるわ、\n大きな鏡が見えるわ、その前に女の人がいる…
+\n
+It's hazy, but I see\n
+a mirror. A woman
+<$0C>
+stands there, looking\n
+into it.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n鏡に見入ってる、\nああ、鏡がオレンジ色に輝いて、\n女の人が鏡の中に吸い込まれていく…
+\n
+Then, the mirror\n
+glows orange. The
+<$0C>
+woman is sucked into\n
+the mirror.
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\n髮の毛が抜け落ちて… 女の人が消えたわ。\nどうしたのかしら、\n鏡に小さな女の子が映ってる、
+\n
+Her hair all falls\n
+out, and she
+<$0C>
+vanishes. But now, in\n
+the reflection...
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nこっちに歩いてくる、ああ、鏡から出てきたわ。\nかわいい女の子よ まさか！
+\n
+I see a charming\n
+young girl? Yes, and
+<$0C>
+she's steps forward,\n
+out of the mirror!
+<$0C><$0B>
+//マダム・アガタ：
+Madam Agatha:
+<$0D>
+//\nああ、にじんで何も見えなくなったわ。
+\n
+...Drats. I wish I\n
+could see more, but
+<$0C>
+the vision is fading.
+<$00>
+
+
+
+
+// Pos: 0000344B
+
+#WLB(PTR, $00000AB8)
+
+#WHB(PTR, $00000AB9)
+
+<$12><$13>
+// ヨウコソ プリズン４ヘ。\nミスター
+WELCOME TO PRISON 4,\n
+COMRADE "
+<$0F>
+//！
+"!
+<$00>
+
+
+
+
+// Pos: 00003462
+
+#WLB(PTR, $00000B0C)
+
+#WHB(PTR, $00000B0D)
+
+#WLB(PTR, $00000B88)
+
+#WHB(PTR, $00000B89)
+
+#WLB(PTR, $00000C00)
+
+#WHB(PTR, $00000C01)
+
+#WLB(PTR, $000022CC)
+
+#WHB(PTR, $000022CD)
+
+<$12><$13>
+// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+NOT REGISTERED FOR\n
+ENTRY. FOR DETAILS,\n
+SPEAK TO AN
+<$0C>
+ADMINISTRATOR.
+<$00>
+
+
+
+
+// Pos: 0000348E
+
+#WLB(PTR, $00000AF4)
+
+#WHB(PTR, $00000AF5)
+
+#WLB(PTR, $00000B70)
+
+#WHB(PTR, $00000B71)
+
+#WLB(PTR, $00000BEC)
+
+#WHB(PTR, $00000BED)
+
+#WLB(PTR, $000022AC)
+
+#WHB(PTR, $000022AD)
+
+<$12><$13>
+// ヤハリ アナタハ\nトウロクサレテイマセン。
+USER NOT REGISTERED\n
+FOR ENTRY.
+<$00>
+
+
+
+
+// Pos: 000034A7
+
+#WLB(PTR, $00000B4C)
+
+#WHB(PTR, $00000B4D)
+
+<$12><$13><$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nちくしょう！\nなにが登録だ、くそったれ！
+The Hell? What am I\n
+supposed to register\n
+for?!
+<$00>
+
+
+
+
+// Pos: 000034CA
+
+#WLB(PTR, $00000BC8)
+
+#WHB(PTR, $00000BC9)
+
+<$12><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何よこれ？\n失礼しちゃうわね！
+\n
+What do you mean?\n
+Hello?\n
+Can I talk to your\n
+manager?
+<$00>
+
+
+
+
+// Pos: 000034E7
+
+#WLB(PTR, $00000C3C)
+
+#WHB(PTR, $00000C3D)
+
+<$12><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nやはりな…\n私ではだめなのだ。
+\n
+Hmm, this thing\n
+doesn't want to let
+<$0C>
+me in. Fun, fun, fun.
+<$00>
+
+
+
+

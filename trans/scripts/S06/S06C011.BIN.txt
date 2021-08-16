@@ -1,0 +1,59 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000007C5)
+
+// Pos: 000007C5
+
+#WLB(PTR, $00000454)
+
+#WHB(PTR, $00000455)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nここが記憶の谷ね。\n酸索石はここで掘り出していたのよ…
+\n
+This is Memory\n
+Valley, where the
+<$0C>
+oxygenite is dug out.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nなんだか吸い込まれてしまいそうな雰囲気ね。
+\n
+The atmosphere's a\n
+little hard to
+<$0C>
+breathe in.
+<$00>
+
+
+
+
+// Pos: 00000816
+
+#WLB(PTR, $00000488)
+
+#WHB(PTR, $00000489)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n人の気配がしないけど…\n奥に行ってみない？
+\n
+There's no sign of\n
+anyone here, but why
+<$0C>
+not look around?
+<$00>
+
+
+
+

@@ -1,0 +1,698 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000023CE)
+
+// Pos: 000023CE
+
+#WLB(PTR, $000003FC)
+
+#WHB(PTR, $000003FD)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nお前たち、この町に住む？
+\n
+Are you two going to\n
+live here?
+<$00>
+
+
+
+
+// Pos: 000023ED
+
+#WLB(PTR, $00000420)
+
+#WHB(PTR, $00000421)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nあーあ、ジョーダン言わないでよ。
+\n
+Please, I've had\n
+enough jokes about
+<$0C>
+this for one day.
+<$00>
+
+
+
+
+// Pos: 00002409
+
+#WLB(PTR, $00000444)
+
+#WHB(PTR, $00000445)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nシーシー、\n本当は住むつもりなんだろ、シー。
+\n
+Whoosh, whoosh. Then\n
+you really are going
+<$0C>
+to live here, whoosh.
+<$00>
+
+
+
+
+// Pos: 00002433
+
+#WLB(PTR, $00000488)
+
+#WHB(PTR, $00000489)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私たちはヌーンに会いに来たの。
+\n
+We only came here to\n
+find Noon.
+<$00>
+
+
+
+
+// Pos: 0000244F
+
+#WLB(PTR, $000004AC)
+
+#WHB(PTR, $000004AD)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\n町長か！ この町は町長がこしらえた。\nお前たちの家はない、シーシー。
+\n
+Elder Noon? He made\n
+the town, but he made
+<$0C>
+no houses for you!\n
+Whoosh, whoosh.
+<$00>
+
+
+
+
+// Pos: 00002488
+
+#WLB(PTR, $0000071C)
+
+#WHB(PTR, $0000071D)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\n町長は立派な方だ、町長だからだ、シー。
+\n
+Elder Noon is a good\n
+person because he is
+<$0C>
+the Elder, whoosh.
+<$00>
+
+
+
+
+// Pos: 000024B3
+
+#WLB(PTR, $00000740)
+
+#WHB(PTR, $00000741)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそう、立派ね。よかったわ。
+\n
+Yeah. Praise the\n
+Lord.
+<$00>
+
+
+
+
+// Pos: 000024CE
+
+#WLB(PTR, $00000604)
+
+#WHB(PTR, $00000605)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nお前たち、この町に住む？
+\n
+Are you two going to\n
+live here?
+<$00>
+
+
+
+
+// Pos: 000024ED
+
+#WLB(PTR, $00000628)
+
+#WHB(PTR, $00000629)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nいやだ、気味悪い。
+\n
+No, it's fucking\n
+creepy.
+<$00>
+
+
+
+
+// Pos: 00002503
+
+#WLB(PTR, $0000064C)
+
+#WHB(PTR, $0000064D)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nシーシー、\n本当は住むつもりなんだろ、シー。
+\n
+Whoosh, whoosh. Then\n
+you really are going
+<$0C>
+to live here, whoosh.
+<$00>
+
+
+
+
+// Pos: 0000252D
+
+#WLB(PTR, $00000690)
+
+#WHB(PTR, $00000691)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあ、あの…\n私たちはヌーンに会いに来たんです。
+\n
+Uhm, well...we only\n
+came here to find
+<$0C>
+Noon.
+<$00>
+
+
+
+
+// Pos: 00002551
+
+#WLB(PTR, $000006B4)
+
+#WHB(PTR, $000006B5)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\n町長か！ この町は町長がこしらえた。\nお前たちの家はない、シーシー。
+\n
+Elder Noon? He made\n
+the town, but he made
+<$0C>
+no houses for you!\n
+Whoosh, whoosh.
+<$00>
+
+
+
+
+// Pos: 0000258A
+
+#WLB(PTR, $000006D4)
+
+#WHB(PTR, $000006D5)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n早く行こ、ほら！
+<$00>
+
+
+
+
+// Pos: 000025A0
+
+#WLB(PTR, $000004FC)
+
+#WHB(PTR, $000004FD)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nねえ、町長屋敷はどこなの？
+\n
+Do you know where the\n
+Elder's residence is?
+<$00>
+
+
+
+
+// Pos: 000025BD
+
+#WLB(PTR, $00000540)
+
+#WHB(PTR, $00000541)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあのー…ヌーン…町長に会いたいの…
+\n
+Uhm...we only came\n
+here to find Noo-!
+<$0C>
+Elder Noon.
+<$00>
+
+
+
+
+// Pos: 000025DC
+
+#WLB(PTR, $00000564)
+
+#WHB(PTR, $00000565)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何よ、失礼ね。
+<$00>
+
+
+
+
+// Pos: 000025F1
+
+#WLB(PTR, $00000588)
+
+#WHB(PTR, $00000589)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねえ、扉から入ってみるのは、どう？
+<$00>
+
+
+
+
+// Pos: 0000260F
+
+#WLB(PTR, $0000076C)
+
+#WHB(PTR, $0000076D)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\nお前たち、ほんとに住まない？
+\n
+Are you two really\n
+going to live here?
+<$00>
+
+
+
+
+// Pos: 0000262F
+
+#WLB(PTR, $00000790)
+
+#WHB(PTR, $00000791)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nしつこいわね、住むわけないじゃない、\nこんなところに！
+\n
+I've said it enough\n
+times already, but
+<$0C>
+I'd never live in\n
+this dump.
+<$00>
+
+
+
+
+// Pos: 00002657
+
+#WLB(PTR, $000007B4)
+
+#WHB(PTR, $000007B5)
+
+<$10><$0B>
+//酸索坑夫２号：
+Oxygen Miner 2：
+<$0D>
+//\n町長は立派なお方、この町作った、シー。
+\n
+Elder Noon's a good\n
+person. He made this
+<$0C>
+town, whoosh.
+<$00>
+
+
+
+
+// Pos: 00002682
+
+#WLB(PTR, $00000EB4)
+
+#WHB(PTR, $00000EB5)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何かしら…\nここに誰かいたのね、その跡ね。
+\n
+Ahem? What is this\n
+weird engraving...a
+<$0C>
+message left by\n
+someone?
+<$00>
+
+
+
+
+// Pos: 000026A5
+
+#WLB(PTR, $00000F90)
+
+#WHB(PTR, $00000F91)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
+\n
+There are tales of a\n
+woman who appears in
+<$0C>
+mirrors at night.\n
+I've never seen her.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
+<$00>
+
+
+
+
+// Pos: 00002758
+
+#WLB(PTR, $000010A4)
+
+#WHB(PTR, $000010A5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうしたの、カベに向かって…\nブツブツやってたけど…
+\n
+What's up? Mumbling\n
+at the wall like
+<$0C>
+that's a bad look,\n
+you know.
+<$00>
+
+
+
+
+// Pos: 0000277E
+
+#WLB(PTR, $000010D4)
+
+#WHB(PTR, $000010D5)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nん？
+\n
+Hmm?
+<$00>
+
+
+
+
+// Pos: 0000278C
+
+#WLB(PTR, $00001104)
+
+#WHB(PTR, $00001105)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nああ、いや、なんでもないのよ。平気よ。
+\n
+Oh! Err, sorry. It's\n
+nothing.
+<$00>
+
+
+
+
+// Pos: 000027AC
+
+#WLB(PTR, $000011B0)
+
+#WHB(PTR, $000011B1)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
+\n
+As you can see, I'd\n
+come up with my own
+<$0C>
+little hypothesis\n
+about Amanda.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダは\n鏡の精で満足するような女ではないからだ。
+\n
+Amanda is not a woman\n
+who is satisfied
+<$0C>
+living as a mirror\n
+spirit.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
+\n
+She wants the perfect\n
+mirror-one made to
+<$0C>
+reflect even her\n
+ugliness...
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
+\n
+With such a mirror,\n
+the seas and lands of
+<$0C>
+Mars would be reborn\n
+in her wicked image.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりに、黙示録的な例えだ！
+\n
+(As you can see, I'd\n
+come up with my own
+<$0C>
+little Revelations\n
+metaphor too.)
+<$00>
+
+
+
+
+// Pos: 0000287A
+
+#WLB(PTR, $0000116C)
+
+#WHB(PTR, $0000116D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
+\n
+No wonder everyone\n
+here's scared of
+<$0C>
+mirrors. They don't\n
+want to see the\n
+truth.
+<$00>
+
+
+
+
+// Pos: 000028AE
+
+#WLB(PTR, $000011BC)
+
+#WHB(PTR, $000011BD)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+<$00>
+
+
+
+
+// Pos: 00002960
+
+#WLB(PTR, $00001184)
+
+#WHB(PTR, $00001185)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n分身… 誰がよ。\nアタシたちとは建うってことね。
+<$00>
+
+
+
+
+// Pos: 00002987
+
+#WLB(PTR, $000011C8)
+
+#WHB(PTR, $000011C9)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n問顆は心も欲しがるかということだ。\n
+<$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nそこでだ、アマンダは心を欲しがるのか、\nそこまでやるのか。あるいは誰か別な女の心を\nねらっているのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあああ、それなのに、\n私なりに、どんどん気が遠くなる。\nトーマスよ、どこへ行く！
+<$00>
+
+
+
+
+// Pos: 00002A51
+
+#WLB(PTR, $0000119C)
+
+#WHB(PTR, $0000119D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n体は…\nあれ？ なんて言ったっけ、用済み…
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
+<$00>
+
+
+
+

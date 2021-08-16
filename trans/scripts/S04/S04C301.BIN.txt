@@ -1,0 +1,332 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00003567)
+
+// Pos: 00003567
+
+#WLB(PTR, $000003B8)
+
+#WHB(PTR, $000003B9)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nううう、そうだそうだ、俺が…うううう…
+\n
+Ohhh, got it? We got\n
+it? I mean...err...
+<$00>
+
+
+
+
+// Pos: 00003583
+
+#WLB(PTR, $0000067C)
+
+#WHB(PTR, $0000067D)
+
+<$12><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nちくしょう！ またか、また俺は…
+\n
+Dammit! I did it\n
+again, huh.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n今度は何をやらかしたんだ…\nあああ、くそっ、思い出せない…
+\n
+But what'd I do this\n
+time? Oh Lord, I
+<$0C>
+don't even remember.
+<$00>
+
+
+
+
+// Pos: 000035C5
+
+#WLB(PTR, $00000778)
+
+#WHB(PTR, $00000779)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nお前は誰だ、地球から来たのか？
+\n
+Who are you, somebody\n
+from Earth?
+<$0E><$32><$17><$00>
+
+
+
+
+// Pos: 000035E4
+
+#WLB(PTR, $00000794)
+
+#WHB(PTR, $00000795)
+
+<$10>
+//俺は…俺は…\nリ、ト、ル…リトルだ、\nそうだそうだ、俺は酸索屋のリトルだ。
+\n
+I'm Liter.\n
+L-I-T...ER, got it?
+<$0C>
+We got it? I work at\n
+the oxygen\n
+dispensary.
+<$0E><$32><$17><$00>
+
+
+
+
+// Pos: 00003611
+
+#WLB(PTR, $000007AC)
+
+#WHB(PTR, $000007AD)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nそれがなんで…\nちくしょう、またやつだ、やつが俺の時間を！
+\n
+Why do you want to\n
+know, huh? Dammit,
+<$0C>
+you're wasting my\n
+time!
+<$0E><$32><$17><$00>
+
+
+
+
+// Pos: 0000363C
+
+#WLB(PTR, $00000920)
+
+#WHB(PTR, $00000921)
+
+<$10><$13><$19>
+//あんた、頭いい人でしょ。\nきっと僕よりも頭がいいんだ。
+I bet you're a smart\n
+person. Hell, you've\n
+gotta be smarter than
+<$0C>
+me!
+<$0C>
+//あんたは本の中から生まれてきたみたいな、\nそんな人なんだよ。
+You grow up with your\n
+nose in the books or\n
+something? All you
+<$0C>
+smart people do.
+<$0C>
+//問顆が起きないようにするのが\nあんたの役目なんだよね。
+It's your job to get\n
+out there and solve\n
+the big puzzles for
+<$0C>
+us.
+<$1E>
+//早
+早
+<$00>
+
+
+
+
+// Pos: 000036A4
+
+#WLB(PTR, $0000090C)
+
+#WHB(PTR, $0000090D)
+
+<$10><$13><$19>
+//あんたは…何だろう、\nきっとケンカが好きなんだね。
+\n
+Why, I bet you're the\n
+kinda punk who gets
+<$0C>
+off on picking\n
+fights!
+<$0C>
+//分かるんだ、僕には分かる、\nちょっと怖いよ。
+...Aww, I get it, I\n
+get it. Sure, you're\n
+a little scary.
+<$0C>
+//でも本当はやさしい人なんだよね、\n誰かを守るために生まれてきたんだね。
+But you're really a\n
+nice person, with\n
+your own someone you
+<$0C>
+were born to protect.
+<$1E>
+//早
+早
+<$00>
+
+
+
+
+// Pos: 00003707
+
+#WLB(PTR, $00000930)
+
+#WHB(PTR, $00000931)
+
+<$10><$13><$19>
+//あんたは顔のこと、気にしたりしてるんでしょ。\n分かるんだ、僕にはお見通しだよ。
+You put a lot of\n
+focus on your face,\n
+huh. I understand. I
+<$0C>
+see right through\n
+you!
+<$0C>
+//顔とか見かけにこだわるんだよね、\nでも本当はすごく寂しがり屋さん。
+You worry about your\n
+face and appearance\n
+for others, but
+<$0C>
+you're really a\n
+lonely person.
+<$0C>
+//あんたは誰かの相談相手だったんでしょ。
+That tells me you\n
+vied to be a shoulder\n
+for someone to lean
+<$0C>
+on.
+<$1E>
+//早
+早
+<$00>
+
+
+
+
+// Pos: 00003778
+
+#WLB(PTR, $000013A4)
+
+#WHB(PTR, $000013A5)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nあらー、アタシに用？
+\n
+My, my! Are you\n
+looking for me?
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nそうじゃないのねー、顔？\nねぇ、あなたもその顔、なんとかするのー。
+\n
+Why the long face,\n
+then? You know, you
+<$0C>
+should do something\n
+about that.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nだったらあっち、リャンハウス、\n整形屋ねー。
+\n
+If you want to fix\n
+it, you can get
+<$0C>
+cosmetic surgery at\n
+House Liang.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nそっち、ナイトプラネット、\nケチな酒場ねー。あっちとそっちよー。
+\n
+If you'd rather\n
+forget it, let's blow
+<$0C>
+your money at\n
+NIGHTPLANET!
+<$1E>
+//〇
+〇
+<$00>
+
+
+
+
+// Pos: 00003805
+
+#WLB(PTR, $00001454)
+
+#WHB(PTR, $00001455)
+
+<$10><$0B>
+//リンダ：
+Linda:
+<$0D>
+//\nここはねー、ちょっとねー、\nいやな部屋よー、焦げ臭いのー。
+\n
+This apartment's such\n
+a drag. It smells
+<$0C>
+burnt for God's sake!
+<$1E>
+//〇
+〇
+<$00>
+
+
+
+
+// Pos: 00003832
+
+#WLB(PTR, $00001850)
+
+#WHB(PTR, $00001851)
+
+<$00><$18><$00>
+ぁセ。
+<$00><$00><$00>
+チャーリー、ごちそう、ごちそう。\nもうすぐ、ごちそう、ごちそう。
+<$1A>
+ヒ
+<$00><$00><$00><$18><$00><$81><$77><$1B><$00><$00><$00>
+チャーリー、見つけた、ごちそう、\n見つけた。
+<$1A>
+ぁ
+<$00><$00><$00><$18><$00><$81><$57><$1D><$00><$00><$00>
+チャーリー、食べたい、ごちそう、\n食べたい。
+<$1A>
+も
+<$00><$00><$00><$18><$00><$80><$E7><$1A><$00><$00><$00>
+チャーリー、考える、ごちそう、考える。
+<$1A>
+あ
+<$00><$00><$00><$18><$00><$80><$A7><$1C><$00><$00><$00>
+チャーリー、思い出す。昔、思い出す。
+<$1A><$16><$00><$00><$00>
+チャーリー、目が覚めた、目が覚めた。
+<$00>
+
+

@@ -1,0 +1,255 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000124A)
+
+// Pos: 0000124A
+
+#WLB(PTR, $00000338)
+
+#WHB(PTR, $00000339)
+
+<$10><$0B>
+ブーマー：
+<$0D>
+\n見ねぇ顔だな…
+<$0C><$0B>
+ブーマー：
+<$0D>
+\nもうヘロデんとこには行ったのか。\nコロニーの親玉、酸索屋だ。
+<$0C><$0B>
+ブーマー：
+<$0D>
+\nそれともサイコハウスに用か？\nハウスのやつら、頭に電波だ、
+<$0C><$0B>
+ブーマー：
+<$0D>
+\n電波が飛んでくるってな。
+<$1E>
+双
+<$00>
+
+
+
+// Pos: 000012CE
+
+#WLB(PTR, $00000238)
+
+#WHB(PTR, $00000239)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nヘロデなら酸索屋だ。\nハウスならそこの扉だ。
+\n
+Herod's at the oxygen\n
+dispensary. This door
+<$0C>
+leads to Psycho\n
+House.
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n俺は…夜が怖い。
+\n
+(I'm...scared of the\n
+night.)
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 00001308
+
+#WLB(PTR, $00000324)
+
+#WHB(PTR, $00000325)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n目ん玉のところに行くのか？
+\n
+You're looking for an\n
+eyeball?
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n見えねぇんだ、どうやってもな。\n目ん玉なんざ、うそなんじゃねぇのか？
+\n
+I can't see the\n
+eyeballs, no matter
+<$0C>
+what I do. Are they\n
+not a hoax?
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 00001352
+
+#WLB(PTR, $000002F4)
+
+#WHB(PTR, $000002F5)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nイヤな夜だぜ…誰も戻らねぇ。
+\n
+I hate the night. No\n
+one comes home
+<$0C>
+anymore.
+<$0C><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\nみんな夜につかまっちまうんだ、\n夢に食われちまうんだ、みんな食われる…
+\n
+Everyone is taken.\n
+Taken and eaten by
+<$0C>
+dreams. Everyone,\n
+eaten.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 000013A0
+
+#WLB(PTR, $000002C8)
+
+#WHB(PTR, $000002C9)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n夢に襲われるんだ、\n夜から抜け出して来るんだ…
+\n
+My dreams creep out\n
+in the dark of night
+<$0C>
+to attack me.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 000013CA
+
+#WLB(PTR, $0000029C)
+
+#WHB(PTR, $0000029D)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n夜が怖い、夢が怖い…
+\n
+I'm scared of the\n
+night. I'm scared of
+<$0C>
+my dreams...
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 000013E5
+
+#WLB(PTR, $00000260)
+
+#WHB(PTR, $00000261)
+
+<$10><$0B>
+//ブーマー：
+Boomer:
+<$0D>
+//\n夢見た…\n陽は赤く燃え、その焼け跡に町を残した…
+\n
+I had a dream that\n
+the sun burned so
+<$0C>
+red, it razed the\n
+town to ash.
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 00001412
+
+#WLB(PTR, $00000220)
+
+#WHB(PTR, $00000221)
+
+<$10><$0B>
+ブーマー：
+<$0D>
+\n夢が怖い、思い出も怖い…
+<$1E>
+双
+<$00><$10><$0B>
+ブーマー：
+<$0D>
+\n誰も戻らねぇ…誰もな。
+<$00><$10><$0B>
+エイプリル：
+<$0D>
+\nちゃんと開けた、暗証番号？\n行こう、換気塔の手前を右よ
+<$00>
+
+
+
+// Pos: 00001478
+
+#WLB(PTR, $000010D8)
+
+#WHB(PTR, $000010D9)
+
+サイコハウス
+<$00><$00>
+
+
+
+// Pos: 00001480
+
+#WLB(PTR, $000010E0)
+
+#WHB(PTR, $000010E1)
+
+酸索石置場
+<$00><$00>
+
+
+

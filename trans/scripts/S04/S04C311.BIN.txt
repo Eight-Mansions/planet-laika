@@ -1,0 +1,218 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000C6D)
+
+// Pos: 00000C6D
+
+#WLB(PTR, $00000164)
+
+#WHB(PTR, $00000165)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nようよう、レッドのやつのこと、開きてぇか？
+\n
+Hey, do you want to\n
+hear about Red?
+<$1B>
+//、開きたい\n開きたくない
+、I do\n
+I don't
+<$00><$17><$00>
+
+
+
+
+// Pos: 00000C9D
+
+#WLB(PTR, $00000184)
+
+#WHB(PTR, $00000185)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへへ、そうかい。
+\n
+Heh, yeah I get ya.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nレッドのやつはなぁ、\nガキの頃に一緒に住んでたおじさんに\n可愛がられ過ぎたんだ。
+\n
+Back when Red was a\n
+kid, he used to like
+<$0C>
+with an old guy who\n
+like, love-love-loved\n
+him.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n本当だ、やつはガキの頃は別人みたいに\n美少年だったんだ、へっ、信じられねぇだろ？
+\n
+And believe it or\n
+not, but he was a
+<$0C>
+really\n
+beautiful-looking\n
+kid. Like, a whole\n
+other person.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nその美少年顔が災いの元だったんだ。
+\n
+But his pretty face\n
+is the root cause of
+<$0C>
+that Kosmas kid's\n
+little crisis.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nやつはなんとか顔を変えようとしたんだ。\nそこんとこが、まだ知惠あるよな、\nコスマスのやつと建ってな。
+\n
+Red wanted to change\n
+Kosmas's face, but
+<$0C>
+there was still a\n
+problem. That face\n
+isn't the kid's.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nで、レッドはこっそり整形屋に\n忍び込んで顔を切り刻んだんだ。\nそしたらどうなったと思う？
+\n
+But Red, he took\n
+Kosmas there in
+<$0C>
+secret to get worked\n
+on anyways, and what\n
+happened?
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへ、やつの顔は張りぼてだったんだよ。\nぼろぼろ崩れて、元の犬顔に戻っちまった。\n美少年なんてウソっぱちだったってわけさ。
+\n
+Well, because the\n
+face was so
+<$0C>
+superficial, the lie\n
+fell apart, and the\n
+dog face re-emerged.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nそれ以来、やつは頭の中に\nなにか電波みたいなもんを惑じるように\nなりやがったんだ。
+\n
+And after that, he\n
+started getting weird
+<$0C>
+radio waves in his\n
+head.
+<$00>
+
+
+
+
+// Pos: 00000E40
+
+#WLB(PTR, $0000017C)
+
+#WHB(PTR, $0000017D)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nそうかい、\nとにかくレッドのやつには気を付けな。
+\n
+Gotcha. Either way,\n
+make sure you stay
+<$0C>
+out of his sight.
+<$00>
+
+
+
+
+// Pos: 00000E62
+
+#WLB(PTR, $00000214)
+
+#WHB(PTR, $00000215)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nひぇー、ウワサをすればレッドだ。
+\n
+Heh, speak of the\n
+devil.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nはっ、兄ちゃんよう、\nこのへんもヤバイ惑じだな、
+\n
+My Tommy senses are\n
+tingling, Brother,
+<$0C>
+and that's not a good\n
+thing.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nヤバイヤバイってな。
+\n
+This is pretty bad.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00000EB2
+
+#WLB(PTR, $000002A4)
+
+#WHB(PTR, $000002A5)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへっ、レッドは向こうへ行ったぜ。\n向こうっていうのは向こうだ。
+\n
+Hmm, Red went the\n
+other way. So what
+<$0C>
+you'll want to do is\n
+go the OTHER other\n
+way.
+<$1E>
+//家
+家
+<$00>
+
+
+
+

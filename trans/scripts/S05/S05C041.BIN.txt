@@ -1,0 +1,913 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00003C1E)
+
+// Pos: 00003C1E
+
+#WLB(PTR, $00000218)
+
+#WHB(PTR, $00000219)
+
+//所     
+所
+<$0D>
+//地球から来たのか？
+You came from Earth?
+<$00>
+
+
+
+
+// Pos: 00003C33
+
+#WLB(PTR, $0000022C)
+
+#WHB(PTR, $0000022D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそうです。\nでも仲間とはぐれてしまったんです…
+\n
+That's right. But our\n
+travel companions are
+<$0C>
+missing...
+<$00>
+
+
+
+
+// Pos: 00003C57
+
+#WLB(PTR, $000002B8)
+
+#WHB(PTR, $000002B9)
+
+<$10><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nお仲間も\nこの星の悪意に憑かれたのじゃな。
+\n
+Then, mayhaps, they\n
+are bewitched by the
+<$0C>
+ill will of the\n
+planet.
+<$00>
+
+
+
+
+// Pos: 00003C7F
+
+#WLB(PTR, $00000364)
+
+#WHB(PTR, $00000365)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n星の悪意？
+\n
+The ill will of the\n
+planet?
+<$00>
+
+
+
+
+// Pos: 00003C91
+
+#WLB(PTR, $00000378)
+
+#WHB(PTR, $00000379)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nふほほ、この星は悪意を持っておるのう。\nわしらはイーブルマインドと呼んでおる。
+\n
+Go-hoho, this planet\n
+is rife with ill
+<$0C>
+will! We call it\n
+"Evil Mind".
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n星の邪気と言ってもいいじゃろう。
+\n
+It's a fitting name\n
+for Mars's malice,
+<$0C>
+no?
+<$00>
+
+
+
+
+// Pos: 00003CE9
+
+#WLB(PTR, $0000038C)
+
+#WHB(PTR, $0000038D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nイーブルマインド…\n土が原因だったわけじゃないのね。
+\n
+Evil Mind... It's not\n
+so simple as "toxic
+<$0C>
+topsoil", I see.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nガリル大佐もそのイーブルマインドに…
+\n
+Maybe this Evil Mind\n
+is what got to Col.
+<$0C>
+Garyl as well.
+<$00>
+
+
+
+
+// Pos: 00003D2F
+
+#WLB(PTR, $000003A0)
+
+#WHB(PTR, $000003A1)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nガリル！ ふほ！\nやつを追うのはあきらめろ、不可能じゃ。
+\n
+Garyl?! Go-ho! You\n
+can give up on ever
+<$0C>
+finding him.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nやつは最後のピースじゃった、\nそういうことじゃ。
+\n
+That man was the\n
+final piece. Do
+<$0C>
+understand.
+<$00>
+
+
+
+
+// Pos: 00003D84
+
+#WLB(PTR, $000003B4)
+
+#WHB(PTR, $000003B5)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどういう意味？\n最後のピースって？
+\n
+Understand what?!\n
+What's the
+<$0C>
+significance of this\n
+"final piece"?!
+<$00>
+
+
+
+
+// Pos: 00003DA4
+
+#WLB(PTR, $000003C8)
+
+#WHB(PTR, $000003C9)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n黒い騎士の話は知っておるか？
+\n
+Do you know the story\n
+of the Black Rider?
+<$00>
+
+
+
+
+// Pos: 00003DC5
+
+#WLB(PTR, $000003DC)
+
+#WHB(PTR, $000003DD)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n黒い騎士…
+\n
+The Black\n
+Rider...from
+<$0C>
+folklore?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n世界に死をもたらし、破滅に導く黒い騎士…\nそれがどうかしたの？
+\n
+He was a black-clad\n
+horseman who beckoned
+<$0C>
+death and ruin to the\n
+world.
+<$00>
+
+
+
+
+// Pos: 00003E0A
+
+#WLB(PTR, $0000046C)
+
+#WHB(PTR, $0000046D)
+
+//葉誰ろ
+葉誰ろ
+<$0B>
+//   
+<$0D>
+//現れたのじゃ、ここ火星にな。\n
+And he has since\n
+crossed Mars,\n
+<$0B>
+// 
+<$0D>
+//黒い騎士がほうぼうで悪を吸い集めておる。\n
+calling ghastly evils\n
+in his wake.\n
+<$0E><$5A><$17><$00>
+
+
+
+
+// Pos: 00003E47
+
+#WLB(PTR, $0000047C)
+
+#WHB(PTR, $0000047D)
+
+//葉子   
+葉子
+<$0D>
+//黒い騎士が完全な悪になったその時、\n
+When he becomes\n
+wholly evil,\n
+<$0B>
+//      
+<$0D>
+//世界は終わるのじゃ。
+the world will meet\n
+its end.
+<$0E><$5A><$17><$00>
+
+
+
+
+// Pos: 00003E80
+
+#WLB(PTR, $0000048C)
+
+#WHB(PTR, $0000048D)
+
+//葉子      
+葉子
+<$0D>
+//蕃判の時じゃのう、\n
+The hour of Judgment\n
+is near.\n
+<$0B>
+//   
+<$0D>
+//ふほ、この星の宿命なのじゃのう。
+This is the planet's\n
+destiny, go-ho!\n
+<$0E><$5A><$17><$00>
+
+
+
+
+// Pos: 00003EB4
+
+#WLB(PTR, $00000498)
+
+#WHB(PTR, $00000499)
+
+//歪子エイプリル：
+歪子April：
+<$0D>
+//\n宿命… 蕃判… なんだか預言みたいね。
+\n
+Destiny? Judgement?\n
+How...prophetic.
+<$0E><$5A><$17><$00>
+
+
+
+
+// Pos: 00003EDC
+
+#WLB(PTR, $00000544)
+
+#WHB(PTR, $00000545)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nほう！ 預言！ お前さん、\n預言については、何か開いておるのか？
+\n
+Hoh! Why, yes,\n
+because it is! Do you
+<$0C>
+know about the\n
+prophecies?!
+<$00>
+
+
+
+
+// Pos: 00003F0D
+
+#WLB(PTR, $00000558)
+
+#WHB(PTR, $00000559)
+
+<$13><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nいいえ、何にも。私たちの任務は、\n火星に妙なウワサがあると\n地球化計画が進まない…
+\n
+No, not a thing!\n
+Earth received
+<$0C>
+strange rumors\n
+halting the\n
+terraformation\n
+project.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nだからウワサの出所を突きとめることなの。\nガリル大佐が何か関係してる、\nそこまではつかんでいるのよ。
+\n
+Our unit's mission is\n
+to investigate, and
+<$0C>
+maybe find out what\n
+happened to Col.\n
+Garyl.
+<$00>
+
+
+
+
+// Pos: 00003F8F
+
+#WLB(PTR, $0000056C)
+
+#WHB(PTR, $0000056D)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nふほふほふほ！ 地球化計画とな…\nまたぞろぞろ人がやってくるのか…
+\n
+Go-ho, go-ho!\n
+Terraformation,
+<$0C>
+yes... Is this to\n
+bring people back to\n
+Mars?
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nいかん！ それはいかん！\nますますいかん！
+\n
+No! I won't have it!\n
+We cannot, will not
+<$0C>
+absolutely should not\n
+have it!
+<$00>
+
+
+
+
+// Pos: 00003FE5
+
+#WLB(PTR, $00000580)
+
+#WHB(PTR, $00000581)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうして？人がやってくるのが良くないの？\n洽安が乱れるから？
+\n
+But why? Won't it be\n
+a good thing? Or are
+<$0C>
+you scared for the\n
+public order?
+<$00>
+
+
+
+
+// Pos: 00004012
+
+#WLB(PTR, $00000594)
+
+#WHB(PTR, $00000595)
+
+<$13><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n人というのは必ず心のスミに\n悪をはびこらせておるのじゃ。\nその悪がいかん。
+\n
+All people carry evil\n
+in their hearts. It
+<$0C>
+is that evil we\n
+cannot afford.
+<$00>
+
+
+
+
+// Pos: 00004047
+
+#WLB(PTR, $000005A8)
+
+#WHB(PTR, $000005A9)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nでも中には善人もいるのよ。
+\n
+But there are good\n
+people too, sir!
+<$00>
+
+
+
+
+// Pos: 00004061
+
+#WLB(PTR, $000005BC)
+
+#WHB(PTR, $000005BD)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n善人！\n久しぶりに開いたのう！
+\n
+"Good people"? How\n
+long has it been
+<$0C>
+since I heard that\n
+phrase?
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nいいか、忘れるでない、完全な善などあり得ん。\n善と悪、それでバランスが保たれておる。
+\n
+Listen, child. No one\n
+is wholly good. Good
+<$0C>
+and evil come with a\n
+balance.
+<$00>
+
+
+
+
+// Pos: 000040BF
+
+#WLB(PTR, $000005D0)
+
+#WHB(PTR, $000005D1)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそう…善人なんてあてにならない…\nそういうことね。
+\n
+I see... What you're\n
+saying is, you don't
+<$0C>
+trust anyone to be\n
+good.
+<$00>
+
+
+
+
+// Pos: 000040E4
+
+#WLB(PTR, $000005E4)
+
+#WHB(PTR, $000005E5)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n少なくともこの星ではな。お仲間はどうじゃ？\n善人なのか？それとも…
+\n
+No, not on this\n
+planet. Like your
+<$0C>
+companions-are they\n
+"good"? Or...
+<$00>
+
+
+
+
+// Pos: 00004118
+
+#WLB(PTR, $0000062C)
+
+#WHB(PTR, $0000062D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n悪い人じゃない、それしか言えないわ。\nまだ見込みはありますか？
+\n
+They're not evil, I\n
+can say that much. Is
+<$0C>
+that enough for you?!
+<$00>
+
+
+
+
+// Pos: 00004143
+
+#WLB(PTR, $00000640)
+
+#WHB(PTR, $00000641)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n悪い人じゃない…そういうことなら、ふほ、\nあそこに行くがよい。
+\n
+Not evil, eh? If\n
+you're so sure, go
+<$0C>
+now, and bear witness\n
+for yourself.
+<$00>
+
+
+
+
+// Pos: 00004171
+
+#WLB(PTR, $00000654)
+
+#WHB(PTR, $00000655)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあそこって？
+\n
+Go now? But where?
+<$00>
+
+
+
+
+// Pos: 00004182
+
+#WLB(PTR, $00000668)
+
+#WHB(PTR, $00000669)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\n記憶の谷じゃ。
+\n
+To Memory Valley.
+<$00>
+
+
+
+
+// Pos: 0000419A
+
+#WLB(PTR, $0000067C)
+
+#WHB(PTR, $0000067D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nそれはどこなの？
+\n
+Where is that?
+<$00>
+
+
+
+
+// Pos: 000041AD
+
+#WLB(PTR, $000006B4)
+
+#WHB(PTR, $000006B5)
+
+<$13><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nブリックロードの途中に、\n黒いカベがあったのう。\nそこに扉があるのう。記憶の谷へ入る扉じゃ。
+\n
+In the middle of\n
+Brick Road is a black
+<$0C>
+wall that opens to\n
+the valley.
+<$00>
+
+
+
+
+// Pos: 000041F2
+
+#WLB(PTR, $000006C8)
+
+#WHB(PTR, $000006C9)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nブリックロードの黒いカベね。\nありがとう。
+\n
+A black wall in Brick\n
+Road? I see. Thank
+<$0C>
+you very much.
+<$00>
+
+
+
+
+// Pos: 00004213
+
+#WLB(PTR, $00000724)
+
+#WHB(PTR, $00000725)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nおお、ばらよ！お前は病んでいる！
+\n
+O, Rose! Thou art\n
+sick!
+<$00>
+
+
+
+
+// Pos: 00004232
+
+#WLB(PTR, $00000770)
+
+#WHB(PTR, $00000771)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n…
+\n
+...?
+<$00>
+
+
+
+
+// Pos: 0000423E
+
+#WLB(PTR, $00000784)
+
+#WHB(PTR, $00000785)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nこれが合い言葉じゃ。それで扉は開く。
+\n
+That is the password.\n
+It will open the door
+<$0C>
+through the black\n
+wall.
+<$00>
+
+
+
+
+// Pos: 00004262
+
+#WLB(PTR, $00000798)
+
+#WHB(PTR, $00000799)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nおお、ばらよ！お前は病んでいる！\n…これでいいのね。
+\n
+"O, Rose! Thou art\n
+sick!"\n
+...I'll try to\n
+remember.
+<$00>
+
+
+
+
+// Pos: 00004288
+
+#WLB(PTR, $000008DC)
+
+#WHB(PTR, $000008DD)
+
+<$12><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>
+//\nふーほー…
+\n
+Hyoh-hoh...
+<$00>
+
+
+
+
+// Pos: 0000429B
+
+#WLB(PTR, $0000090C)
+
+#WHB(PTR, $0000090D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n行きましょ、\nブリックロードの黒いカベのところよ。
+\n
+All right, Laika.\n
+Let's go to the black
+<$0C>
+wall on Brick Road.
+<$00>
+
+
+
+
+// Pos: 000042C1
+
+#WLB(PTR, $00000854)
+
+#WHB(PTR, $00000855)
+
+#WLB(PTR, $0000091C)
+
+#WHB(PTR, $0000091D)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n行きましょ、\nブリックロードの黒いカベのところよ。
+\n
+All right, Laika.\n
+Let's go to the black
+<$0C>
+wall on Brick Road.
+<$00>
+
+
+
+
+// Pos: 000042E7
+
+#WLB(PTR, $00003BB4)
+
+#WHB(PTR, $00003BB5)
+
+<$12><$0B>
+スピリットマン：
+<$0D>
+\nひょひょ、スペーサーや、\n統合されるのが怖いのかひょひょ。
+<$00>
+
+
+
+// Pos: 00004314
+
+#WLB(PTR, $00003BB8)
+
+#WHB(PTR, $00003BB9)
+
+<$12><$13><$18><$0B>
+スペーサー：
+<$0D>
+\nおお！ ちょうどよかった、教えてくれ、\n人格が統合されるとどうなるんだ。
+<$00>
+
+
+
+// Pos: 00004349
+
+#WLB(PTR, $00003BBC)
+
+#WHB(PTR, $00003BBD)
+
+<$12><$13><$18><$0B>
+スペーサー：
+<$0D>
+\n私は… なくなるのか？
+<$00>
+
+
+
+// Pos: 00004361
+
+#WLB(PTR, $00003BC0)
+
+#WHB(PTR, $00003BC1)
+
+<$12><$0B>
+スピリットマン：
+<$0D>
+\nひょひょひょ、そもそもお前たちは\n存在しているのか、どうなのか、ひょひょ。
+<$00>
+
+
+

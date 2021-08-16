@@ -1,0 +1,25 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000799)
+
+// Pos: 00000799
+
+#WLB(PTR, $000000B0)
+
+#WHB(PTR, $000000B1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n朝だ。
+\n
+It's morning.
+<$00>
+
+
+
+

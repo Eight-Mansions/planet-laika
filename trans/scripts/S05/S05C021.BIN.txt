@@ -1,0 +1,351 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002A19)
+
+// Pos: 00002A19
+
+#WLB(PTR, $000000BC)
+
+#WHB(PTR, $000000BD)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nバーにいた連中、イヤな惑じね。
+\n
+Those two back at the\n
+bar gave me the worst
+<$0C>
+vibes, you know?
+<$00>
+
+
+
+
+// Pos: 00002A36
+
+#WLB(PTR, $00000114)
+
+#WHB(PTR, $00000115)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n火星には３種類の悪人がいるんだって…\nアガタっていう人が教えてくれたの。
+\n
+A person named Agatha\n
+told me, "There are 3
+<$0C>
+types of evil on\n
+Mars," but...
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nバーのふたりと、金星人を信じてるマウンテンは\nきっと建う種類の悪人よね。
+\n
+...they and that\n
+Venusian guy,
+<$0C>
+Mountain, seem evil\n
+in different ways.
+<$00>
+
+
+
+
+// Pos: 00002A9E
+
+#WLB(PTR, $00000130)
+
+#WHB(PTR, $00000131)
+
+<$12><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nサイコ系だ。金星人野郎はサイコ系、\n我々はそう呼んでいる。
+\n
+He's Psycho type.\n
+That
+<$0C>
+Venusian-obsessed\n
+mongrel is a Psycho\n
+type.
+<$00>
+
+
+
+
+// Pos: 00002AD1
+
+#WLB(PTR, $00000290)
+
+#WHB(PTR, $00000291)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nマウンテンにそそのかされでもしたのか？
+\n
+Was it Mountain who\n
+sent you here?
+<$00>
+
+
+
+
+// Pos: 00002AF1
+
+#WLB(PTR, $000002B4)
+
+#WHB(PTR, $000002B5)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nメディスンマンって、あなたなの？
+\n
+Are you a medicine\n
+man?
+<$00>
+
+
+
+
+// Pos: 00002B0C
+
+#WLB(PTR, $000002D8)
+
+#WHB(PTR, $000002D9)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nそうだ… 長老がお会いになるそうだ。\nさあ、こっちへ。
+\n
+That's right. If\n
+you're to meet our
+<$0C>
+elder, the lodge is\n
+this way.
+<$00>
+
+
+
+
+// Pos: 00002B37
+
+#WLB(PTR, $000006C4)
+
+#WHB(PTR, $000006C5)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nこの先は危ない。
+\n
+We are not safe here!
+<$00>
+
+
+
+
+// Pos: 00002B4E
+
+#WLB(PTR, $0000071C)
+
+#WHB(PTR, $0000071D)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nああ！\n何故だ、何故こんなことに！
+\n
+But how?! How did\n
+this happen?!
+<$00>
+
+
+
+
+// Pos: 00002B6E
+
+#WLB(PTR, $000007EC)
+
+#WHB(PTR, $000007ED)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nいかん！ ここはいかん！
+\n
+You must go! Get out\n
+of here!
+<$00>
+
+
+
+
+// Pos: 00002B87
+
+#WLB(PTR, $00000840)
+
+#WHB(PTR, $00000841)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nタンキー人形がひっくり返ったのだ！\n逆ドールダンスだ！
+\n
+The turn-key doll\n
+turned itself! It
+<$0C>
+began the reverse\n
+doll dance instead!
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nタマシイが体から抜け出している、\n巻き込まれるぞ！
+\n
+That dance EXPELS a\n
+spirit from its body!
+<$0C>
+You musn't get\n
+interfere!
+<$00>
+
+
+
+
+// Pos: 00002BDC
+
+#WLB(PTR, $00000A2C)
+
+#WHB(PTR, $00000A2D)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nへへ！ お前、ここで何してる？
+\n
+Hehe! Hey, what'cha\n
+doing here?
+<$00>
+
+
+
+
+// Pos: 00002BF4
+
+#WLB(PTR, $00000A50)
+
+#WHB(PTR, $00000A51)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nハウスの実験は失敗だ、ありゃダメだ、\n俺は手を引くんだ、マウンテンたちからな。
+\n
+The Psycho House\n
+experiment was a
+<$0C>
+blunder. I'm leaving\n
+Mountain and the\n
+group.
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nあいつらにはもう付き合ってられねぇ。
+\n
+I don't resonate with\n
+them anymore.
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nへっへ、別に賢くなる方法があるんだ、\n金星人なんかあてになるか。
+\n
+There must be other\n
+ways to get smarter
+<$0C>
+without relying on\n
+the Venusians.
+<$00>
+
+
+
+
+// Pos: 00002C74
+
+#WLB(PTR, $00000A74)
+
+#WHB(PTR, $00000A75)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\nメディスンマンのやつらは出かけたぜ。
+\n
+Those medicine\n
+men-people went out.
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\n善人が見つかったそうだ。\n善人だとよ、そりゃお宝だぁ、ひゃ！
+\n
+It seems they finally\n
+found a good person.
+<$0C>
+A good person! Hyah!\n
+Their new treasure!
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 00002CBC
+
+#WLB(PTR, $00000AF8)
+
+#WHB(PTR, $00000AF9)
+
+<$10><$0B>
+//クロウ：
+Crow:
+<$0D>
+//\n善人って誰のことだ、ひゃ！
+\n
+Who do you think this\n
+"good person" is,
+<$0C>
+hyahya!
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+

@@ -1,0 +1,1172 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002EDA)
+
+// Pos: 00002EDA
+
+#WLB(PTR, $00001058)
+
+#WHB(PTR, $00001059)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあどこだ…俺の行く場所は。\nああ？ 何だありゃ？
+\n
+All right, where are\n
+we going? Got any
+<$0C>
+ideas?
+<$00>
+
+
+
+
+// Pos: 00002EFF
+
+#WLB(PTR, $000010C0)
+
+#WHB(PTR, $000010C1)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nうわわわわ、ここにもいやがった。\n何を企んでるんだ、お前らは！
+\n
+Ohhh, this place is\n
+just as bad! What are
+<$0C>
+you guys planning?!
+<$00>
+
+
+
+
+// Pos: 00002F27
+
+#WLB(PTR, $00001120)
+
+#WHB(PTR, $00001121)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nレッドのやつ、\nあんなところで何やってるんだ？
+\n
+What in blazes is Red\n
+doing out here?!
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあいつ、メディスンマンの後を追いかけて\n忘却の海に出かけたんだ。
+\n
+Maybe he's going to\n
+see the medicine men
+<$0C>
+and is trying to get\n
+to oceanum\n
+oblivionis.
+<$00>
+
+
+
+
+// Pos: 00002F75
+
+#WLB(PTR, $00001134)
+
+#WHB(PTR, $00001135)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n行ってみよう。
+\n
+Let's go see.
+<$00>
+
+
+
+
+// Pos: 00002F86
+
+#WLB(PTR, $000012FC)
+
+#WHB(PTR, $000012FD)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nどうしたレッド？\n善人ってのは見つかったのか？
+\n
+What's up, Red? Have\n
+you found yourself a
+<$0C>
+new good person?
+<$00>
+
+
+
+
+// Pos: 00002FA7
+
+#WLB(PTR, $000011DC)
+
+#WHB(PTR, $000011DD)
+
+#WLB(PTR, $0000206E)
+
+#WHB(PTR, $0000206F)
+
+#WLB(PTR, $00002086)
+
+#WHB(PTR, $00002087)
+
+#WLB(PTR, $000028DA)
+
+#WHB(PTR, $000028DB)
+
+<$10><$0B>
+リトル：
+<$0D>
+\nどうした、レッドだ、こっちだ。
+<$00>
+
+
+
+// Pos: 00002FBF
+
+#WLB(PTR, $0000007E)
+
+#WHB(PTR, $0000007F)
+
+#WLB(PTR, $000000DE)
+
+#WHB(PTR, $000000DF)
+
+#WLB(PTR, $000001CE)
+
+#WHB(PTR, $000001CF)
+
+#WLB(PTR, $0000025A)
+
+#WHB(PTR, $0000025B)
+
+#WLB(PTR, $000002F2)
+
+#WHB(PTR, $000002F3)
+
+#WLB(PTR, $0000036E)
+
+#WHB(PTR, $0000036F)
+
+#WLB(PTR, $000003EA)
+
+#WHB(PTR, $000003EB)
+
+#WLB(PTR, $0000042E)
+
+#WHB(PTR, $0000042F)
+
+#WLB(PTR, $00000496)
+
+#WHB(PTR, $00000497)
+
+#WLB(PTR, $000004CE)
+
+#WHB(PTR, $000004CF)
+
+#WLB(PTR, $0000056E)
+
+#WHB(PTR, $0000056F)
+
+#WLB(PTR, $0000060E)
+
+#WHB(PTR, $0000060F)
+
+#WLB(PTR, $000006AE)
+
+#WHB(PTR, $000006AF)
+
+#WLB(PTR, $000006D6)
+
+#WHB(PTR, $000006D7)
+
+#WLB(PTR, $00000702)
+
+#WHB(PTR, $00000703)
+
+#WLB(PTR, $00000806)
+
+#WHB(PTR, $00000807)
+
+#WLB(PTR, $0000092A)
+
+#WHB(PTR, $0000092B)
+
+#WLB(PTR, $000009D2)
+
+#WHB(PTR, $000009D3)
+
+#WLB(PTR, $00000A62)
+
+#WHB(PTR, $00000A63)
+
+#WLB(PTR, $00000B36)
+
+#WHB(PTR, $00000B37)
+
+#WLB(PTR, $00000CEE)
+
+#WHB(PTR, $00000CEF)
+
+#WLB(PTR, $00000D4E)
+
+#WHB(PTR, $00000D4F)
+
+#WLB(PTR, $00000FFA)
+
+#WHB(PTR, $00000FFB)
+
+#WLB(PTR, $00001238)
+
+#WHB(PTR, $00001239)
+
+#WLB(PTR, $000013CA)
+
+#WHB(PTR, $000013CB)
+
+#WLB(PTR, $000014F6)
+
+#WHB(PTR, $000014F7)
+
+#WLB(PTR, $000019EE)
+
+#WHB(PTR, $000019EF)
+
+#WLB(PTR, $00001B72)
+
+#WHB(PTR, $00001B73)
+
+#WLB(PTR, $00001CAA)
+
+#WHB(PTR, $00001CAB)
+
+#WLB(PTR, $00002056)
+
+#WHB(PTR, $00002057)
+
+#WLB(PTR, $00002152)
+
+#WHB(PTR, $00002153)
+
+#WLB(PTR, $00002206)
+
+#WHB(PTR, $00002207)
+
+#WLB(PTR, $00002292)
+
+#WHB(PTR, $00002293)
+
+#WLB(PTR, $00002316)
+
+#WHB(PTR, $00002317)
+
+#WLB(PTR, $00002666)
+
+#WHB(PTR, $00002667)
+
+#WLB(PTR, $000028E2)
+
+#WHB(PTR, $000028E3)
+
+#WLB(PTR, $00002C26)
+
+#WHB(PTR, $00002C27)
+
+#WLB(PTR, $00002CE2)
+
+#WHB(PTR, $00002CE3)
+
+<$10><$0B>
+リトル：
+<$0D>
+\nどうした、レッドだ、こっちだ。
+<$00>
+
+
+
+// Pos: 00002FD7
+
+#WLB(PTR, $00001320)
+
+#WHB(PTR, $00001321)
+
+<$11><$0B>
+//レッド：
+Red:
+<$0D>
+//\nくそったれ！\nあの女は誰なんだ、あうあうあうあう…
+\n
+Hmph, who was that\n
+woman?! Awwooo!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nいきなり目の前から消えやがった！\n地球から来た女だろ、変な扉だ、\nその中に消えやがった！
+\n
+As soon as our eyes\n
+met, she left through
+<$0C>
+a strange door and\n
+disappeared!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nあああ、おじさんだ。\nそうだ、おじさんに建いない！
+\n
+It was my uncle\n
+again! That's right,
+<$0C>
+it was Uncle!
+<$00>
+
+
+
+
+// Pos: 0000305B
+
+#WLB(PTR, $00001334)
+
+#WHB(PTR, $00001335)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n変な扉… 消えた…\nおじさんって誰だ、俺は知らないぞ。
+\n
+A strange door that\n
+disappears...? And
+<$0C>
+who's this "Uncle"?\n
+Beats me...
+<$00>
+
+
+
+
+// Pos: 00003084
+
+#WLB(PTR, $00001360)
+
+#WHB(PTR, $00001361)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\nあうあうあうあう、おじさんが来る、\nやって来る、怖いよ、おじさんが来るんだ、
+\n
+Awoooo! Uncle is\n
+coming! He's finally
+<$0C>
+coming! I'm scared,\n
+but Uncle's coming!
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nやっぱりだ、\n泡のおじさん、音が開こえるじゃないか！
+\n
+I knew it was youl\n
+Uncle Bubbles! I
+<$0C>
+could hear your\n
+voice!
+<$00>
+
+
+
+
+// Pos: 000030DC
+
+#WLB(PTR, $00001488)
+
+#WHB(PTR, $00001489)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n自分の悪に耐えきれなかったんだ。
+\n
+He couldn't stand up\n
+to the evil within
+<$0C>
+himself.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nさあ、急いでくれ。\n俺もああはなりたくないんだ。
+\n
+Come on, let's hurry.\n
+I don't want to end
+<$0C>
+up like that either.
+<$00>
+
+
+
+
+// Pos: 00003118
+
+#WLB(PTR, $00001494)
+
+#WHB(PTR, $00001495)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nどうしたんだ… レッドのやつ…\nどこ行きやがった？
+<$00>
+
+
+
+
+// Pos: 0000313B
+
+#WLB(PTR, $0000196C)
+
+#WHB(PTR, $0000196D)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n鏡は嫌いだ、そうだ、見たくないぞ。
+\n
+I hate mirrors. No, I\n
+can't bear to look at
+<$0C>
+them.
+<$00>
+
+
+
+
+// Pos: 00003157
+
+#WLB(PTR, $0000175C)
+
+#WHB(PTR, $0000175D)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nあれは夢なんかじゃなかった、\nそういうことだな。
+\n
+It wasn't a dream at\n
+all. I get it now.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nもうひとりの俺がやったんだ。\nそうだそうだ…
+\n
+It was another me who\n
+did it, get it? You
+<$0C>
+get it.
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nお前もだろ、お前の中にも誰かがいるんだ、\nそうだそうだ！
+\n
+You're just like me!\n
+There's another you
+<$0C>
+in there too, get it?\n
+You get it?!
+<$1E>
+//裂
+裂
+<$00>
+
+
+
+
+// Pos: 000031C0
+
+#WLB(PTR, $00000E24)
+
+#WHB(PTR, $00000E25)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nハプニング、ハプニングだ！\nあれはお前たちの仲間に相建ない。
+\n
+SURPRISE! SURPRISE!\n
+Your lots companion
+<$0C>
+is has done it!
+<$00>
+
+
+
+
+// Pos: 000031EF
+
+#WLB(PTR, $00000E38)
+
+#WHB(PTR, $00000E39)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n仲間！ 私の仲間がどうした？\nハプニングに巻き込まれたのか。
+\n
+Our companion? What\n
+did they do that's
+<$0C>
+worth calling a\n
+"surprise"?
+<$00>
+
+
+
+
+// Pos: 00003220
+
+#WLB(PTR, $00000E4C)
+
+#WHB(PTR, $00000E4D)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n大変なことだ、完全な善人になったやつがいる。\nホワイトイーグルが保護した。
+\n
+The greatest of\n
+happenings! One has
+<$0C>
+become a wholly "good\n
+person" under the\n
+watchful eye of White\n
+Eagle!
+<$00>
+
+
+
+
+// Pos: 00003259
+
+#WLB(PTR, $00000E60)
+
+#WHB(PTR, $00000E61)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n善人… どこで見つかったんだ？
+\n
+A good person... And\n
+where did you see
+<$0C>
+them?
+<$00>
+
+
+
+
+// Pos: 00003276
+
+#WLB(PTR, $00000E74)
+
+#WHB(PTR, $00000E75)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n記憶の谷だ。
+\n
+In Memory Valley.
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n完全な善人は恐ろしく不安定だ、\nすぐ悪に憑かれる。
+\n
+But a wholly good\n
+person is dreadfully
+<$0C>
+unstable. None are\n
+more vulnerable to\n
+evil's take.
+<$00>
+
+
+
+
+// Pos: 000032B9
+
+#WLB(PTR, $00000E88)
+
+#WHB(PTR, $00000E89)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n悪に憑かれる…\n善人だからこそというわけだな。
+\n
+Are you saying that\n
+good people are more
+<$0C>
+likely to be\n
+possessed by evil?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n善人は染まりやすいと、\n悪におちいりやすいと。
+\n
+That which is pure is\n
+easily stained... Or,
+<$0C>
+the bigger they are,\n
+the harder they\n
+fall...
+<$00>
+
+
+
+
+// Pos: 00003302
+
+#WLB(PTR, $00000E9C)
+
+#WHB(PTR, $00000E9D)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nそうだ。\nそうなればまたハプニングだ。
+\n
+That's right. And we\n
+cannot afford another
+<$0C>
+fall.
+<$0C><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\n安定させるまでコロニーは立入禁止、\nロッジも立入禁止だ。
+\n
+Until things are\n
+stable, the colony is
+<$0C>
+off limits, as is the\n
+lodge.
+<$00>
+
+
+
+
+// Pos: 00003354
+
+#WLB(PTR, $00000EB0)
+
+#WHB(PTR, $00000EB1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n安定… 君たちの呪術を使うんだな。
+\n
+So, you're all using\n
+your magic to protect
+<$0C>
+the parameter.
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n呪術でどうする？\nバリアを張るのか。
+\n
+How, exactly? I don't\n
+see any barriers.
+<$00>
+
+
+
+
+// Pos: 00003396
+
+#WLB(PTR, $00000EC4)
+
+#WHB(PTR, $00000EC5)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nびんに入れるのだ。
+\n
+We are bottling it\n
+up.
+<$00>
+
+
+
+
+// Pos: 000033AD
+
+#WLB(PTR, $00000ED8)
+
+#WHB(PTR, $00000ED9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nびん…
+\n
+Bottling it up...?
+<$00>
+
+
+
+
+// Pos: 000033BD
+
+#WLB(PTR, $00000EEC)
+
+#WHB(PTR, $00000EED)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nそうだ、びんだ。
+\n
+Yes, with bottles.
+<$00>
+
+
+
+
+// Pos: 000033D2
+
+#WLB(PTR, $00000F58)
+
+#WHB(PTR, $00000F59)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nびんでイーブルマインドを\nシャットアウトするということか。
+\Oh. Shit, umm...do\n
+you mean you're\n
+putting Evil Mind
+<$0C>
+inside of a bottle?\n
+Or something?
+<$00>
+
+
+
+
+// Pos: 000033FC
+
+#WLB(PTR, $00000F74)
+
+#WHB(PTR, $00000F75)
+
+<$10><$0B>
+//ノーブルロック：
+Noble Rock:
+<$0D>
+//\nそうだ、びんに入れてな。
+\n
+Yes, we are trapping\n
+it within a bottle.
+<$00>
+
+
+
+
+// Pos: 00003416
+
+#WLB(PTR, $000015B8)
+
+#WHB(PTR, $000015B9)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n何、これ… 泡みたい…\nおフロの泡？
+\n
+What is this...? It\n
+looks like
+<$0C>
+bubbles...from a\n
+bubble bath?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nまさか、こんなところにあるわけないよね。
+\n
+But what is a bubble\n
+bath doing way out
+<$0C>
+here?
+<$00>
+
+
+
+
+// Pos: 00003453
+
+#WLB(PTR, $00001620)
+
+#WHB(PTR, $00001621)
+
+<$12><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nねえ、ライカ、アガタってどう思う？
+\n
+Hey, Laika. What do\n
+you think of Agatha?
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n彼女は何かすごく重いものを\n背負ってるようだけど…
+\n
+From the way she\n
+carries herself,
+<$0C>
+you'd think she'd be\n
+full of it, and\n
+yet...
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nもう少し話してみたいの。\n見てもらいたい物もあるし。
+\n
+I want to talk with\n
+her some. In fact,
+<$0C>
+there's something I'd\n
+like to check.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nちょっと行ってくるね。
+\n
+I'm going on a little\n
+detour, okay?
+<$00>
+
+
+
+
+// Pos: 000034D5
+
+#WLB(PTR, $00001D9C)
+
+#WHB(PTR, $00001D9D)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n何かしら…\nここに誰かいたのね、その跡ね。
+\n
+Ahem? What is this\n
+weird engraving...a
+<$0C>
+message left by\n
+someone?
+<$00>
+
+
+
+
+// Pos: 000034F8
+
+#WLB(PTR, $00001E78)
+
+#WHB(PTR, $00001E79)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
+\n
+There are tales of a\n
+woman who appears in
+<$0C>
+mirrors at night.\n
+I've never seen her.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
+<$00>
+
+
+
+
+// Pos: 000035AB
+
+#WLB(PTR, $00001F64)
+
+#WHB(PTR, $00001F65)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nどうしたの、カベに向かって…\nブツブツやってたけど…
+\n
+What's up? Mumbling\n
+at the wall like
+<$0C>
+that's a bad look,\n
+you know.
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nん？
+<$00><$10><$13><$1D><$0B>
+//ヨランダ：
+<$0D>
+//\nああ、いや、なんでもないのよ。平気よ。
+<$00>
+
+
+
+
+// Pos: 000035FF
+
+#WLB(PTR, $00001FEC)
+
+#WHB(PTR, $00001FED)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
+\n
+As you can see, I'd\n
+come up with my own
+<$0C>
+little hypothesis\n
+about Amanda.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダは\n鏡の精で満足するような女ではないからだ。
+\n
+Amanda is not a woman\n
+who is satisfied
+<$0C>
+living as a mirror\n
+spirit.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
+\n
+She wants the perfect\n
+mirror-one made to
+<$0C>
+reflect even her\n
+ugliness...
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
+\n
+With such a mirror,\n
+the seas and lands of
+<$0C>
+Mars would be reborn\n
+in her wicked image.
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりに、黙示録的な例えだ！
+\n
+(As you can see, I'd\n
+come up with my own
+<$0C>
+little Revelations\n
+metaphor too.)
+<$00>
+
+
+
+
+// Pos: 000036CD
+
+#WLB(PTR, $00001FC0)
+
+#WHB(PTR, $00001FC1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
+\n
+No wonder everyone\n
+here's scared of
+<$0C>
+mirrors. They don't\n
+want to see the\n
+truth.
+<$00>
+
+
+
+
+// Pos: 00003701
+
+#WLB(PTR, $00001FF8)
+
+#WHB(PTR, $00001FF9)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+<$00>
+
+
+
+
+// Pos: 000037B3
+
+#WLB(PTR, $00001FD0)
+
+#WHB(PTR, $00001FD1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n分身… 誰がよ。\nアタシたちとは建うってことね。
+<$00>
+
+
+
+
+// Pos: 000037DA
+
+#WLB(PTR, $00002004)
+
+#WHB(PTR, $00002005)
+
+//子トーマス：
+子Thomas:
+<$0D>
+//\n問顆は心も欲しがるかということだ。\n
+<$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nそこでだ、アマンダは心を欲しがるのか、\nそこまでやるのか。あるいは誰か別な女の心を\nねらっているのか。
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>
+//\nあああ、それなのに、\n私なりに、どんどん気が遠くなる。\nトーマスよ、どこへ行く！
+<$00>
+
+
+
+
+// Pos: 000038A4
+
+#WLB(PTR, $00001FE0)
+
+#WHB(PTR, $00001FE1)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n体は…\nあれ？ なんて言ったっけ、用済み…
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
+<$00>
+
+
+
+

@@ -1,0 +1,46 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001443)
+
+// Pos: 00001443
+#WLB(PTR, $0000017C)
+#WHB(PTR, $0000017D)
+#WLB(PTR, $000009DE)
+#WHB(PTR, $000009DF)
+#WLB(PTR, $00000A32)
+#WHB(PTR, $00000A33)
+#WLB(PTR, $00000B4A)
+#WHB(PTR, $00000B4B)
+<$12><$0B>
+//酸索坑夫４号：
+<$0D>
+//\n俺の家が…シー…家…
+<$1E>
+//家
+<$00>
+
+// Pos: 00001463
+#WLB(PTR, $000000F0)
+#WHB(PTR, $000000F1)
+<$12><$0B>
+//酸索坑夫３号：
+<$0D>
+//\nシーシー…燃える…
+<$1E>
+//中
+<$00>
+
+// Pos: 00001481
+#WLB(PTR, $000000E8)
+#WHB(PTR, $000000E9)
+<$12><$0B>
+//酸索坑夫３号：
+<$0D>
+//\n燃えているのは炎なのか、家なのか、\nどっちなんだ、シー？
+<$1E>
+//中
+<$00>
+

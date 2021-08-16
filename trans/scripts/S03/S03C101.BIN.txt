@@ -1,0 +1,176 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000138D)
+
+// Pos: 0000138D
+
+#WLB(PTR, $000004A8)
+
+#WHB(PTR, $000004A9)
+
+//野あ、レッドボーイ、\nサンタのおじさんだよ。
+Yes, Red Boy, it's\n
+Uncle Santa!
+<$00>
+
+
+
+
+// Pos: 000013A6
+
+#WLB(PTR, $000004BC)
+
+#WHB(PTR, $000004BD)
+
+<$12><$0B>
+//レッド：
+Red:
+<$0D>
+//\n来るな。 消えろ！ 失せろ！
+\n
+Don't come near me!\n
+Disappear! Get lost!
+<$00>
+
+
+
+
+// Pos: 000013C0
+
+#WLB(PTR, $000004CC)
+
+#WHB(PTR, $000004CD)
+
+//広じさんに向かってひどいじゃないか。\n可愛いおしりをひんむいちゃうぞ。
+Isn't that a rude\n
+thing to say to your\n
+uncle? Strip off and
+<$0C>
+show me that cute ass\n
+of yours.
+<$00>
+
+
+
+
+// Pos: 000013E8
+
+#WLB(PTR, $000004E0)
+
+#WHB(PTR, $000004E1)
+
+<$12><$0B>
+//レッド：
+Red:
+<$0D>
+//\nくそったれ！ くたばれ！
+\n
+Screw you! Drop dead!
+<$00>
+
+
+
+
+// Pos: 000013FD
+
+#WLB(PTR, $000004F0)
+
+#WHB(PTR, $000004F1)
+
+//仮い言葉はいけないよ。\nさあ、一緒に遊ぼう、青少年の家で遊ぼう。
+Watch your mouth!\n
+Come on, let's play\n
+together. Let's play,
+<$0C>
+back in the dog\n
+house.
+<$00>
+
+
+
+
+// Pos: 00001428
+
+#WLB(PTR, $00000504)
+
+#WHB(PTR, $00000505)
+
+<$12><$0B>
+//レッド：
+Red:
+<$0D>
+//\nイヤだ、行かないぞ、俺はイヤだ！
+\n
+No, I won't go! I\n
+won't!
+<$00>
+
+
+
+
+// Pos: 00001442
+
+#WLB(PTR, $00000514)
+
+#WHB(PTR, $00000515)
+
+//勢ンスの時間だ、ボーイ。
+It's time to dance,\n
+Boy!
+<$00>
+
+
+
+
+// Pos: 00001452
+
+#WLB(PTR, $000005CC)
+
+#WHB(PTR, $000005CD)
+
+<$13><$0B>
+//レッド：
+Red:
+<$0D>
+//\nへへへ… へへ…ついに来やがった、おじさんだ\n泡のおじさんに捕まった… へへへ…\nへへへへへへへへへへへへへへへ…
+\n
+Hehehe... You're\n
+finally here, Uncle.
+<$0C>
+You caught me, Uncle\n
+Bubbles. Hehehe,\n
+hehehehehe....!
+<$00>
+
+
+
+
+// Pos: 00001497
+
+#WLB(PTR, $000005E8)
+
+#WHB(PTR, $000005E9)
+
+<$12><$0B>
+//レッド：
+Red:
+<$0D>
+//\nへへへ、ついに来やがった、おじさんだ。
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nへへ… 俺はどうなるんだ…\nこれが用済みってことなのか？
+<$0C><$0B>
+//レッド：
+Red:
+<$0D>
+//\nああ、用済み、あああああああああああ…
+<$00>
+
+
+
+

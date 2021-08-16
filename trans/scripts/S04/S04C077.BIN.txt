@@ -1,0 +1,539 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002B13)
+
+// Pos: 00002B13
+
+#WLB(PTR, $00000178)
+
+#WHB(PTR, $00000179)
+
+#WLB(PTR, $00000224)
+
+#WHB(PTR, $00000225)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nレッドのやつ、\n朝っぱらからどこか行きやがったぜ。
+\n
+Red ran off somewhere\n
+this morning.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nへへん、いいこと教えてやろうか。\nレッドのやつだ、やつが何におびえてるか…
+\n
+Hehe, might as well\n
+tell you. That guy's
+<$0C>
+scared of something.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nへへん、知ってるか？ ああん？
+\n
+Think you know what\n
+that is?
+<$1B>
+//？知らない\n知ってる
+？I don't know\n
+I know
+<$00><$17><$00>
+
+
+
+
+// Pos: 00002B8F
+
+#WLB(PTR, $000001B8)
+
+#WHB(PTR, $000001B9)
+
+#WLB(PTR, $00000264)
+
+#WHB(PTR, $00000265)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n泡のおじさんだ…どう思う？\n泡のおじさんだとよ、へへん、笑わせるぜ！
+\n
+And old man, Uncle\n
+Bubbles... Like,
+<$0C>
+really? Uncle\n
+Bubbles?! Pfft, it\n
+sounds so fucking\n
+stupid.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nガキの頃に一緒に住んでたおじさんで、\nそいつに妙な可愛がられ方したんだそうだ
+\n
+Uncle Bubbles lived\n
+with Red when he was
+<$0C>
+a kid. Guess they had\n
+some weird\n
+attachment.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n今でも夢の中に出て来るらしいぜ。\nクロウのやつがのぞき見したんだ。
+\n
+Apparently, he still\n
+appears in Red's
+<$0C>
+dreams. Crow peeked\n
+in and saw the guy.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nクロウのやつは人の夢の中がのぞけるんだ。
+\n
+Crow has the ability\n
+to see into peoples'
+<$0C>
+dreams.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002C47
+
+#WLB(PTR, $000001C8)
+
+#WHB(PTR, $000001C9)
+
+#WLB(PTR, $00000274)
+
+#WHB(PTR, $00000275)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nそうかい、お前もやけに早耳だな。
+\n
+Really, now? You're\n
+pretty keen.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002C66
+
+#WLB(PTR, $000001D8)
+
+#WHB(PTR, $000001D9)
+
+#WLB(PTR, $00000284)
+
+#WHB(PTR, $00000285)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nしかし何かあったのか？\nレッドのやつがいそいそ出かけるなんてな。
+\n
+I wonder why Red went\n
+out. He ain't exactly
+<$0C>
+one to "frolick in\n
+the fields".
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00002C94
+
+#WLB(PTR, $000001EC)
+
+#WHB(PTR, $000001ED)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n何だ、お前、コスマスのことお気に入りか？\nやばいぜ、レッドのやつに見つかると。
+\n
+Why are you so\n
+invested in Cosmas?
+<$0C>
+If Red catches onto\n
+you, you're done for.
+<$00><$12><$0B>
+//ゴールド：
+<$0D>
+//\n扉、壊れちまった、開かねぇんだ！
+<$00>
+
+
+
+
+// Pos: 00002CE3
+
+#WLB(PTR, $000002A8)
+
+#WHB(PTR, $000002A9)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nなんだ？ 朝から飲みてぇのか？\nふん！ やめときな。
+<$1E>
+//声
+<$00>
+
+
+
+
+// Pos: 00002D0C
+
+#WLB(PTR, $000002D0)
+
+#WHB(PTR, $000002D1)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nレッドのやつがさがしてるってよ。\n気に入られたのか？
+<$1E>
+//家
+<$00><$12><$0B>
+//ゴールド：
+<$0D>
+//\nおい、俺はなぁ、\n別にお前のこと心配ってわけじゃねぇ、
+<$0C><$0B>
+//ゴールド：
+<$0D>
+//\nただこれ以上、\n騒ぎを起こしてほしくねぇんだ、分かるか。
+<$0C><$0B>
+//ゴールド：
+<$0D>
+//\nレッドのやつが戻った…
+<$0C><$0B>
+//ゴールド：
+<$0D>
+//\nやつは？血眼になってお前をさがしてる、
+<$0C><$0B>
+//ゴールド：
+<$0D>
+//\nどっかそのへんに身を隠すところ、ないか？\nあるだろ、ちょっと隠れればいいんだ。
+<$0C><$0B>
+//ゴールド：
+<$0D>
+//\n部屋の中とかじゃねぇぞ、\nちょっと隠れるんだ。
+<$00>
+
+
+
+
+// Pos: 00002E0F
+
+#WLB(PTR, $000002F8)
+
+#WHB(PTR, $000002F9)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nどこかに身を隠した方がいいんじゃねぇのか？
+<$1E>
+//声
+<$00>
+
+
+
+
+// Pos: 00002E34
+
+#WLB(PTR, $00000200)
+
+#WHB(PTR, $00000201)
+
+#WLB(PTR, $000002E4)
+
+#WHB(PTR, $000002E5)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nおう… コスマスはどうした…\nレッドのやつが戻るとうるせぇぞ。
+\n
+Hey, what happened to\n
+Cosmas? ...It's gonna
+<$0C>
+be a shitstorm once\n
+Red comes back.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002E61
+
+#WLB(PTR, $000003A0)
+
+#WHB(PTR, $000003A1)
+
+<$13><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nメディスンマンのやつは戻ったのか？
+\n
+Did that medicine man\n
+return?
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n記憶の谷で善人が見つかったとかでよ、\n善人はすぐ悪に憑かれちまうから\n危ないんだそうだ。
+\n
+A good person was\n
+seen in Memory
+<$0C>
+Valley, but will soon\n
+be posessed by evil.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nあんたのお仲間なのか？\nそいつは善人だったのか？
+\n
+It's not safe. Could\n
+it be your companion?
+<$0C>
+Are any of your\n
+companions good\n
+people?
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002EE0
+
+#WLB(PTR, $00000378)
+
+#WHB(PTR, $00000379)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nま、白い紙はいろんな色になるってことよ。
+\n
+A white sheet of\n
+paper can be turned
+<$0C>
+many a color.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002F03
+
+#WLB(PTR, $0000031C)
+
+#WHB(PTR, $0000031D)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nおう、お前、レッドに何したんだ？\n変なこと口走りながら出て行きやがったぜ。
+\n
+What did you do to\n
+Red? He just walked
+<$0C>
+out humming something\n
+weird.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nありゃ戻らねぇな、もう無理だ。\n壊れちまってる。
+\n
+There's no saving him\n
+now. That guy's
+<$0C>
+gonnnnne.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002F5F
+
+#WLB(PTR, $00000344)
+
+#WHB(PTR, $00000345)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nレッドのやつ、泡のおじさんが怖いんだ、\nへへ、ああ見えてもな。
+\n
+Red's scared of Uncle\n
+Bubbles, even if none
+<$0C>
+of us can see him.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nほんとだぜ、泡のおじさんだ。
+\n
+Yup, Uncle Bubbles is\n
+thin air to me.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00002FA5
+
+#WLB(PTR, $000003C4)
+
+#WHB(PTR, $000003C5)
+
+#WLB(PTR, $000014E2)
+
+#WHB(PTR, $000014E3)
+
+#WLB(PTR, $00002316)
+
+#WHB(PTR, $00002317)
+
+<$12><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nあのレッドの野郎がなぁ…\nどうなっちまったんだ。
+\n
+Red, Red, Red... I\n
+wonder what happened
+<$0C>
+to that mongrel.
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00002FCC
+
+#WLB(PTR, $00000BC0)
+
+#WHB(PTR, $00000BC1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n今度はひときわ強いぞ…\nああ、気が変になりそうだ。
+\n
+It's especially\n
+strong this time.
+<$0C>
+Ugh, I feel like I'm\n
+going crazy.
+<$00>
+
+
+
+
+// Pos: 00002FF6
+
+#WLB(PTR, $00000C38)
+
+#WHB(PTR, $00000C39)
+
+<$00><$20><$20>
+   第２２日 テベスの月
+<$0C>
+この歳になって、ヨセミテ、悪夢にうなされた。\nなんと、悪夢は\n全ての人に通じていることを発見。
+<$0C>
+いろんな人間のおこないが\n手に取るように見えた。
+<$0C>
+なかでもダークマンの名を呼ぶ少年には\nおどろかされる。 惑動すら覚える。\nあの少年、コスマスは作り主だ。
+<$0C>
+すばらしい！\nダークマンは、心の友である。 私にも\nあのようなことが、できるのであろうか。
+<$0C>
+念じて念じて、\nやがて友が現れてくれるのであろうか。
+<$0C>
+苦しみから逃れるだけではいけない。\n私はまた学んだ。
+<$00>
+
+
+
+// Pos: 00003109
+
+#WLB(PTR, $00000CD0)
+
+#WHB(PTR, $00000CD1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nダークマンは実体を持たないのか？\nそれとも…
+\n
+Does Darkman not have\n
+a true form?? Or does
+<$0C>
+he...
+<$00>
+
+
+
+

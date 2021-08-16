@@ -1,0 +1,369 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001E55)
+
+// Pos: 00001E55
+
+#WLB(PTR, $00001104)
+
+#WHB(PTR, $00001105)
+
+<$10><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n火星ではみんなヴァニティフェイスよ。
+\n
+Most everyone on Mars\n
+has a "vanity face".
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n悪口言う人もあるけど、そんな人は\n無理してるだけなのよ。
+\n
+Some people speak ill\n
+of them, yes, but
+<$0C>
+such folks can't be\n
+reasoned with.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\n人間の顔になりたいのは誰でもそうよ。
+\n
+We happily welcome\n
+anyone looking to get
+<$0C>
+a human face.
+<$0C><$0B>
+//フェイ：
+Hui:
+<$0D>
+//\nさ、来て。私のお店を案内するわ。
+\n
+Now that we're here,\n
+I'll show you around.
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 00001ED5
+
+#WLB(PTR, $00000F94)
+
+#WHB(PTR, $00000F95)
+
+<$13><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nあら、またアタシよ。\nトミーはね、お酒が入って寝ちゃったの。
+\n
+Ohoho, were you\n
+expecting me? Tommy
+<$0C>
+had too much to\n
+drink, and passed\n
+out.
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nゴールドに開いたわよ。\nあなた、騒ぎ起こしたんですって。\nそれも相手はスモーキー…
+\n
+More importantly,\n
+Gold told me you got
+<$0C>
+in a tussle with\n
+Smokey.
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nイヤね、まったく。\nどうかしてるのよ… 特に今夜は変よ。
+\n
+People these days...\n
+Well, maybe it's this
+<$0C>
+night that's making\n
+people go a wol.
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n今しがたもね、見たのよ、リトル。\n血相変えて酸索屋から飛び出して行ったのよ。
+\n
+I saw Liter leave the\n
+oxygen dispensary
+<$0C>
+just now, and he was\n
+simply red in the\n
+face!
+<$00>
+
+
+
+
+// Pos: 00001F95
+
+#WLB(PTR, $00000FB0)
+
+#WHB(PTR, $00000FB1)
+
+<$13><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nアタシ、思うんだけど、\nリトルにもリトルじゃない誰かが\nいるんじゃないかって。
+\n
+Know what I think? I\n
+think there's someone
+<$0C>
+inside of Liter who's\n
+not Liter him self.
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n前からね、気にはなっていたのよ。\nさっき走って行ったのは、どうみても建った。\n何が建うかって…
+\n
+The way he was\n
+walking early was
+<$0C>
+totally off!\n
+Something's different\n
+about him.
+<$00>
+
+
+
+
+// Pos: 00002002
+
+#WLB(PTR, $00000FCC)
+
+#WHB(PTR, $00000FCD)
+
+<$13><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nそうね…目かな。 目、目が建うの。\n遠くからだけど分かる、ほんとよ。
+\n
+Liter's eyes, too.\n
+You can tell
+<$0C>
+instantly when\n
+someone's eyes are\n
+different.
+<$1E>
+//行
+行
+<$00>
+
+
+
+
+// Pos: 00002035
+
+#WLB(PTR, $00000FD4)
+
+#WHB(PTR, $00000FD5)
+
+<$13><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nリトルにも誰か別な人がいる、そう思うのよ。\n目が建うの、ときどき入れ替わってるんじゃ\nないかしら。
+\n
+I think there's\n
+someone else inside
+<$0C>
+of Liter. His eyes\n
+change from time to\n
+time.
+<$1E>
+//中
+中
+<$00>
+
+
+
+
+// Pos: 00002079
+
+#WLB(PTR, $00000D78)
+
+#WHB(PTR, $00000D79)
+
+<$12><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんよう、\nまた酒が入ってくらくらきたぜ…
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんよう、\nアガタのやつと何かやらかそうっていうのか…
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nあの女は催眠術を使う、危ねぇんだ、\nようよう、頭ん中、ぐらぐらにされるぞ。
+<$1E>
+//声
+<$00>
+
+
+
+
+// Pos: 000020FA
+
+#WLB(PTR, $00000B4C)
+
+#WHB(PTR, $00000B4D)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nお前、おっかないの、好きなのか？\nあの女は魔女だ、催眠術使いだ。
+\n
+You like shady\n
+things, don't you?
+<$0C>
+Like that\n
+hypnotherapist?
+<$00>
+
+
+
+
+// Pos: 0000212B
+
+#WLB(PTR, $00000B68)
+
+#WHB(PTR, $00000B69)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nあの女にかかると、誰でもいいなりだ、\nなされるがままだ、ひゃ！おっかないぞ。
+\n
+It's like the second\n
+she walks in,
+<$0C>
+everyone's doing what\n
+she tells them to!
+<$00>
+
+
+
+
+// Pos: 0000215C
+
+#WLB(PTR, $00000B98)
+
+#WHB(PTR, $00000B99)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nさっきから無線テレビが点いたり消えたり、\nそれもアガタの魔術だろ。
+\n
+Our monitor's\n
+blinking on and off
+<$0C>
+again. I bet that's\n
+from her magic too.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n点いたり消えたり、放送なんかしてないのに、\nおっかないぞ。
+\n
+What's weirder about\n
+that is...it isn't
+<$0C>
+even broadcasting\n
+anything!
+<$1E>
+//理
+理
+<$00>
+
+
+
+
+// Pos: 000021B8
+
+#WLB(PTR, $00000BA4)
+
+#WHB(PTR, $00000BA5)
+
+<$10><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n俺たちはな、宇宙の力だ、\n波動の中にいるからな、それが本気なんだ。
+\n
+We don't need magic\n
+whuddy-da when we
+<$0C>
+have the powers of\n
+outer space.
+<$0C><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\n魔術なんかにはたよらない。宇宙の波動だ。
+\n
+As long as I'm in\n
+these waves, that's
+<$0C>
+all I'll ever need.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 0000220E
+
+#WLB(PTR, $00000BC0)
+
+#WHB(PTR, $00000BC1)
+
+<$11><$0B>
+//ヤング：
+Yang:
+<$0D>
+//\nあいつらも波動を惑じはじめたのか？\nなぁ、どう思う…イーストとウェストだ、\nうろちょろしてたぞ。
+\n
+Are East and West\n
+trying to meddle with
+<$0C>
+the waves? Those two\n
+pop up everywhere!
+<$1E>
+//理
+理
+<$00>
+
+
+
+

@@ -1,0 +1,171 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000012D4)
+
+// Pos: 000012D4
+
+#WLB(PTR, $00000564)
+
+#WHB(PTR, $00000565)
+
+<$10><$0B>
+//イースト：
+East:
+<$0D>
+//\nおい、どこ行く？
+\n
+Hey, where are you\n
+going?
+<$00>
+
+
+
+
+// Pos: 000012E7
+
+#WLB(PTR, $00000594)
+
+#WHB(PTR, $00000595)
+
+<$10><$0B>
+//ウェスト：
+West:
+<$0D>
+//\n知ってるだろ。
+\n
+You should know!
+<$00>
+
+
+
+
+// Pos: 000012F9
+
+#WLB(PTR, $000005C4)
+
+#WHB(PTR, $000005C5)
+
+<$10><$0B>
+//イースト：
+East:
+<$0D>
+//\nリトルさん。
+\n
+To Liter?
+<$00>
+
+
+
+
+// Pos: 00001309
+
+#WLB(PTR, $000005F4)
+
+#WHB(PTR, $000005F5)
+
+<$10><$0B>
+//ウェスト：
+West:
+<$0D>
+//\n居場所だ。
+\n
+Where they were!
+<$00>
+
+
+
+
+// Pos: 0000131B
+
+#WLB(PTR, $00000624)
+
+#WHB(PTR, $00000625)
+
+<$10><$0B>
+//イースト：
+East:
+<$0D>
+//\n物音がした。
+\n
+Where the sounds\n
+were?
+<$00>
+
+
+
+
+// Pos: 0000132D
+
+#WLB(PTR, $00000654)
+
+#WHB(PTR, $00000655)
+
+<$10><$0B>
+//ウェスト：
+West:
+<$0D>
+//\nロッジだ。
+\n
+To the lodge!
+<$00>
+
+
+
+
+// Pos: 0000133C
+
+#WLB(PTR, $00000684)
+
+#WHB(PTR, $00000685)
+
+<$10><$0B>
+//イースト：
+East:
+<$0D>
+//\nあいつらの。
+\n
+To everyone?
+<$00>
+
+
+
+
+// Pos: 0000134C
+
+#WLB(PTR, $000006B4)
+
+#WHB(PTR, $000006B5)
+
+<$10><$0B>
+//ウェスト：
+West:
+<$0D>
+//\n連れてけ。
+\n
+Come along!
+<$00>
+
+
+
+
+// Pos: 0000135C
+
+#WLB(PTR, $000006E4)
+
+#WHB(PTR, $000006E5)
+
+<$10><$0B>
+//ウェスト：
+West:
+<$0D>
+//\n今すぐだ。
+\n
+There's no time!
+<$00>
+
+
+
+

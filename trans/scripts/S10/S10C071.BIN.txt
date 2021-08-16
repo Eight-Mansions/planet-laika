@@ -1,0 +1,598 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002641)
+
+// Pos: 00002641
+
+#WLB(PTR, $0000015C)
+
+#WHB(PTR, $0000015D)
+
+<$00><$0F><$24><$00>
+
+
+
+// Pos: 00002645
+
+#WLB(PTR, $000001AC)
+
+#WHB(PTR, $000001AD)
+
+<$00><$0F><$26>
+ママよ、あなたのママよ。
+<$0C>
+ねぇ、覚えてる、あなたが５歳の時の\nクリスマスプレゼント。
+<$00>
+
+
+
+// Pos: 00002676
+
+#WLB(PTR, $000001D8)
+
+#WHB(PTR, $000001D9)
+
+<$00><$CC><$CC>
+はあなたのために一番大きなロケットを\nさがしてきたのよ。\n町中のおもちゃ屋さんを回ったのよ。
+<$0C><$0F>
+、夢を捨てないで。\nあなたなら大丈夫、きっと立派な兵士に…\n宇宙飛行士になれるわ。
+<$00>
+
+
+
+// Pos: 000026E8
+
+#WLB(PTR, $000001EC)
+
+#WHB(PTR, $000001ED)
+
+<$00><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nタニア… 建う、この声はタニアじゃない、\n亡霊よ！ 亡霊のしわざよ！
+\n
+Tanya...? No, that's\n
+not Tanya's voice.
+<$0C>
+It's a ghost! A sick\n
+fucking ghost!
+<$00>
+
+
+
+
+// Pos: 0000271C
+
+#WLB(PTR, $00000494)
+
+#WHB(PTR, $00000495)
+
+<$00><$0B><$B8>
+リル：
+<$0D>
+\n君たちは思い出を呼び起こすのが\n得意なようだね。
+<$0C><$0B>
+ガリル：
+<$0D>
+\n私にしてみれば、\nそれは怪しいエ作にほかならない。
+<$00>
+
+
+
+// Pos: 00002767
+
+#WLB(PTR, $000004A8)
+
+#WHB(PTR, $000004A9)
+
+<$00><$0B><$B8>
+リル：
+<$0D>
+\n君たちはやっかいな問顆を抱え込んでいる。
+<$0C><$0B>
+ガリル：
+<$0D>
+\nどうかね、この私と一緒に\nその問顆を解決に導くというのは。
+<$0C><$0B>
+ガリル：
+<$0D>
+\n君たちの心に降り積もった悪意を\n取り除いてやろう。
+<$0C><$0B>
+ガリル：
+<$0D>
+\nさあ、心を開くのだ。
+<$0C><$0B>
+ガリル：
+<$0D>
+\n私にはすでに見えているようだ、読めるぞ、\n隠された時間が動きはじめたようだ。
+<$00>
+
+
+
+// Pos: 00002822
+
+#WLB(PTR, $00000730)
+
+#WHB(PTR, $00000731)
+
+//所ガリル：
+所Garyl：
+<$0D>
+//\nアーネスト、馬屋に火を放ったのは君だ、\nそうじゃないのかね。
+\n
+Ernest, you're the\n
+one who set the barn
+<$0C>
+on fire.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nウラジミールが大切にしていた馬が\n焼け死んだ。
+\n
+You burned Vladimir's\n
+beloved horse to
+<$0C>
+death!
+<$00>
+
+
+
+
+// Pos: 00002871
+
+#WLB(PTR, $00000744)
+
+#WHB(PTR, $00000745)
+
+//離
+<$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n何だと？ 俺じゃねぇぞ。\nあれはセルゲイのやったことだ、俺じゃねぇ！
+\n
+Me? No! That was\n
+Sergei's doing, not
+<$0C>
+mine!
+<$00>
+
+
+
+
+// Pos: 000028A0
+
+#WLB(PTR, $00000758)
+
+#WHB(PTR, $00000759)
+
+//所ガリル：
+所Garyl：
+<$0D>
+//\nいや建う、君だ。
+\n
+No, it was you.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nたしかにセルゲイは父親が可愛がる馬が\nきらいだった。
+\n
+Sergei did not care\n
+much for his father's
+<$0C>
+beloved horse,\n
+certainly.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nしかし馬屋に火を放ったりはしない。
+\n
+But he did not set\n
+the barn on fire.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nあれは君がセルゲイのせいにしようと\nやったことだ。
+\n
+You only WISH it was\n
+Sergei's fault
+<$0C>
+because YOU did it!
+<$00>
+
+
+
+
+// Pos: 00002917
+
+#WLB(PTR, $0000076C)
+
+#WHB(PTR, $0000076D)
+
+//離
+<$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nあああ、やめてくれ！\n俺じゃねぇ、俺じゃねぇ！
+\n
+Auuuugh, stop!\n
+It wasn't me! IT
+<$0C>
+WASN'T ME!
+<$00>
+
+
+
+
+// Pos: 0000293B
+
+#WLB(PTR, $00000780)
+
+#WHB(PTR, $00000781)
+
+//所ガリル：
+所Garyl：
+<$0D>
+//\n君はセルゲイに濡れ衣を着せたんだ、\nそうだろ、アーネスト。
+\n
+You framed Sergei,\n
+Ernest! You know you
+<$0C>
+did!
+<$00>
+
+
+
+
+// Pos: 00002964
+
+#WLB(PTR, $000007A4)
+
+#WHB(PTR, $000007A5)
+
+//離
+<$13><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\nちくしょう！\nセルゲイは馬をきらってたんだ、
+\n
+Screw you! Sergei\n
+never liked that
+<$0C>
+horse!
+<$0C><$0B>
+//アーネスト：
+Ernest:
+<$0D>
+//\n俺がやらなけりゃやつがやってたに\n建いねぇんだ！
+\n
+I could never stoop\n
+down to his level!
+<$00>
+
+
+
+
+// Pos: 000029AB
+
+#WLB(PTR, $00000934)
+
+#WHB(PTR, $00000935)
+
+//子ガリル：
+子Garyl:
+<$0D>
+//\nスペーサー、君だね、\nセルゲイを強盗殺人の犯人に\n仕立て上げたのは。
+\n
+But Spacer could,\n
+couldn't he? Spacer
+<$0C>
+could pin Sergei as\n
+lowly criminal.
+<$00>
+
+
+
+
+// Pos: 000029DD
+
+#WLB(PTR, $00000948)
+
+#WHB(PTR, $00000949)
+
+<$00><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n仕立て上げたんじゃない、\nやつには殺意があったんだ。私には分かる。
+\n
+I didn't have to\n
+fabricate that. He
+<$0C>
+had a murderous\n
+impulse well before I\n
+showed up!
+<$00>
+
+
+
+
+// Pos: 00002A10
+
+#WLB(PTR, $0000095C)
+
+#WHB(PTR, $0000095D)
+
+<$00><$0B><$B8>
+リル：
+<$0D>
+\nさあ、それはどうかな。
+<$0C><$0B>
+ガリル：
+<$0D>
+\n彼はたんに悪ふざけのつもりだった…
+<$0C><$0B>
+ガリル：
+<$0D>
+\n老人の家に忍び込んで手を下したのは\n彼の仲間だ、そうじゃないのかね。
+<$0C><$0B>
+ガリル：
+<$0D>
+\nセルゲイはあのとき表にいたんだ。\n彼が殺したんじゃない。
+<$00>
+
+
+
+// Pos: 00002A98
+
+#WLB(PTR, $00000970)
+
+#WHB(PTR, $00000971)
+
+<$00><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nいや建う！ やつは殺意をもって…
+\n
+Y-you're wrong!\n
+Everyone knew the kid
+<$0C>
+had murderous intent,\n
+so...
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあああ、そうに建いない！\n私には確信があるんだ！
+\n
+Augggh! I'm right! I\n
+know I am! I HAVE TO
+<$0C>
+BE RIGHT!
+<$00>
+
+
+
+
+// Pos: 00002ADD
+
+#WLB(PTR, $00000984)
+
+#WHB(PTR, $00000985)
+
+<$00><$0B><$B8>
+リル：
+<$0D>
+\n犯行の後、君は現場に忍び込んだ、\nそして血まみれの火かき棒を持ち去った。
+<$0C><$0B>
+ガリル：
+<$0D>
+\nなぜか火かき棒はセルゲイのシャツと\n一緒に捨てられていた。
+<$0C><$0B>
+ガリル：
+<$0D>
+\n君がセルゲイをはめたんだ。
+<$00>
+
+
+
+// Pos: 00002B55
+
+#WLB(PTR, $000009A8)
+
+#WHB(PTR, $000009A9)
+
+<$00><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nあああ、やめろ！ セルゲイは悪人だ、\nいずれ殺人を犯すに建いない！
+\n
+Stop! Stop! STOP!\n
+Sergei was a villain!
+<$0C>
+He was BOUND to\n
+commit murder\n
+someday!
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n早いかおそいかの問顆だ。
+\n
+It was only a matter\n
+of "when"!
+<$00>
+
+
+
+
+// Pos: 00002B9F
+
+#WLB(PTR, $00000B28)
+
+#WHB(PTR, $00000B29)
+
+<$00><$0B><$B8>
+リル：
+<$0D>
+\nヨランダ、\nウラジミールはどうして病気になったのかな？
+<$0C><$0B>
+ガリル：
+<$0D>
+\n何か体に良くないものを\n口にしていたんではないかな？
+<$00>
+
+
+
+// Pos: 00002BE9
+
+#WLB(PTR, $00000B3C)
+
+#WHB(PTR, $00000B3D)
+
+<$00><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシが何かしたっていうの？ 知らないわよ、\nそんなはずないじゃない。
+\n
+Why are you asking\n
+me? Fuck if I know, I
+<$0C>
+had nothing to do\n
+with him.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nお酒よ、お酒が彼を蝕んだのよ。
+\n
+I only knew about the\n
+alchohol. The
+<$0C>
+alchohol rotted his\n
+brain.
+<$00>
+
+
+
+
+// Pos: 00002C35
+
+#WLB(PTR, $00000B50)
+
+#WHB(PTR, $00000B51)
+
+//子ガリル：
+子Garyl:
+<$0D>
+//\nウラジミールは酒好きだ。\nそれをいいことに、\nやつに質の悪い酒を飲ませたのは君だ。
+\n
+Vladimir loved his\n
+liquor. In fact,
+<$0C>
+you're the one who\n
+served him bad\n
+liquor.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nエ場から盗み出した\nひどいシロモノを飲ませたんだ。\nウラジミールは見る間に調子を崩していった。
+\n
+You took bad liquor\n
+from the factory and
+<$0C>
+served him that to\n
+wane his temper.
+<$00>
+
+
+
+
+// Pos: 00002CAC
+
+#WLB(PTR, $00000B64)
+
+#WHB(PTR, $00000B65)
+
+<$00><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n人開きの悪いこと言わないでよ、
+\n
+That guy didn't have\n
+a decent shred to his
+<$0C>
+name.
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシはそんな… ああ、そんな、\nあたしはただ…
+\n
+I was doing everyone\n
+a...augh! A fa...vor!
+<$00>
+
+
+
+
+// Pos: 00002CE9
+
+#WLB(PTR, $00000B78)
+
+#WHB(PTR, $00000B79)
+
+<$00><$0B><$B8>
+リル：
+<$0D>
+\nタニアがあわれだった、\n建うかね。
+<$0C><$0B>
+ガリル：
+<$0D>
+\n君はタニアのそばにいながら、彼女が\n生きているときには一度も現れなかった。
+<$0C><$0B>
+ガリル：
+<$0D>
+\nどうしてかな？
+<$00>
+
+
+
+// Pos: 00002D46
+
+#WLB(PTR, $00000B9C)
+
+#WHB(PTR, $00000B9D)
+
+<$00><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\n本当はウラジミールが先に死ぬはずだった。\nそうよ、なのに… あああ、アタシの計画が…
+\n
+The plan was\n
+for...Vladimir to die
+<$0C>
+first! B-but then,\n
+Tanya went\n
+and...augh!
+<$00>
+
+
+
+

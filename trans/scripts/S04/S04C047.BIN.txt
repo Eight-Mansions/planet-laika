@@ -1,0 +1,464 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001992)
+
+// Pos: 00001992
+
+#WLB(PTR, $00000430)
+
+#WHB(PTR, $00000431)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんよう、\nレッドのやつに追われてるんだって？
+\n
+Bro, I think Red's\n
+after you.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nひゃー、そりゃ大変だ。
+\n
+Yeesh, talk about\n
+bad.
+<$00>
+
+
+
+
+// Pos: 000019CB
+
+#WLB(PTR, $00000444)
+
+#WHB(PTR, $00000445)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nやつはスモーキーとは建う、\nいきなり殴ったりはしねぇよ。
+\n
+He's not like Smokey,\n
+you understand. That
+<$0C>
+guy isn't so quick.
+<$00>
+
+
+
+
+// Pos: 000019F1
+
+#WLB(PTR, $00000458)
+
+#WHB(PTR, $00000459)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n女はどうだか分からねぇけどな、\n男は殴らねぇ。
+\n
+I'm not sure about\n
+women, but guys try
+<$0C>
+not to mess with him.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nそれよりやっかいなのは、兄ちゃんよう、\nやつに気に入られることだ。
+\n
+Beyond that, Brother,\n
+it seems like he's
+<$0C>
+taken a particular\n
+liking to you.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんみたいなの、\n好みのタイプだったりしてな、ひゃひゃひゃ。
+\n
+Strapping young'ns\n
+like you are his
+<$0C>
+favorite type,\n
+hehehehe.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんよう、このへんはヤバイぜ、\nさっきレッドのやつを見かけたぜ。
+\n
+I'm serious, Buddy.\n
+This is dangerous. I
+<$0C>
+saw Red earlier and\n
+he's on the prowl for\n
+you.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00001A96
+
+#WLB(PTR, $00000480)
+
+#WHB(PTR, $00000481)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n兄ちゃんよう、このへんでレッドのやつ見たぜ。\n見つかんないようにしねぇとな、\n気に入られちまうぜ。
+This is dangerous. I\n
+saw Red earlier and\n
+he's on the prowl for
+<$0C>
+you. Steer clear of\n
+him.
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00001AD5
+
+#WLB(PTR, $000002DC)
+
+#WHB(PTR, $000002DD)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nよう、ブーマーのやつ見たかい？\nへへ！ またコーカイが始まったぜ。
+\n
+Hey, have you seen\n
+Boomer? Hehe, he
+<$0C>
+started another one\n
+of his little\n
+soliloqueys.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nあいつはコーカイして生きてんだ、\nどんなコーカイか、開きてぇか？
+\n
+That guy lives for\n
+putting himself on
+<$0C>
+display like this.\n
+Wanna know what of?
+<$1B>
+//、開きたい\n開きたくない
+、Yes\n
+No
+<$00><$17><$00>
+
+
+
+
+// Pos: 00001B3B
+
+#WLB(PTR, $0000030C)
+
+#WHB(PTR, $0000030D)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nあいつにはじいさんがいた。
+\n
+The guy had a\n
+grandfather.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nそのじいさんってのが、ビックリだ、\n６９年間もしゃっくりが止まらねぇじいさんだ。\n６９年だぜ。
+\n
+The old man got\n
+spooked by something,
+<$0C>
+and he hiccuped\n
+non-stop for 69\n
+years.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nある日、ブーマーのやつはひらめいたんだ。\nそれでカンオケこしらえた。
+\n
+One day, Boomer got\n
+an idea, and he made
+<$0C>
+a coffin.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nじいさんがしゃっくりにアンディって\n名前まで付けてたもんだから、
+\n
+The old man decided\n
+to call the hiccups
+<$0C>
+"Andy", and pretended\n
+he was dead.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nアンディが死んだことにすりゃ\nしゃっくりは収まる、\nそう考えたんだな。
+\n
+And they thought, if\n
+Andy died, the
+<$0C>
+hiccups would stop.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nじいさんが寝てる間にカンオケに入れて、まるで\n本当に死んだみたいに花まで用意したんだ。
+\n
+Boomer put his\n
+grandfather into the
+<$0C>
+casket, and even\n
+arranged flowers for\n
+him.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n朝になって、じいさんはたまげた。\n確かにしゃっくりは収まったそうだ。
+\n
+That morning, his\n
+grandfather was
+<$0C>
+amazed. He said, "The\n
+hiccups have\n
+stopped!"
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nけどよ、じいさんはみるみる弱ってしまい、\n２日後にぽっくりだ。
+\n
+But then, the old man\n
+grew weaker, and
+<$0C>
+weaker. He died two\n
+days later.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nブーマーは、じいさんは自分のせいで\n死んだと思ってる… まぁ建いねぇな。
+\n
+Boomer thinks the old\n
+man died because of
+<$0C>
+him. Hell, he could\n
+be right.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00001CD5
+
+#WLB(PTR, $000002FC)
+
+#WHB(PTR, $000002FD)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nそうかい…
+\n
+Really? Okay...
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへ、コーカイは先にはなんとかだ、\n兄ちゃんも気を付けな。
+\n
+Guess you gotta be\n
+careful around people
+<$0C>
+who put themselves\n
+out like that.
+<$1E>
+//家
+家
+<$00>
+
+
+
+
+// Pos: 00001D0E
+
+#WLB(PTR, $00000330)
+
+#WHB(PTR, $00000331)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nブーマーはコーカイの男だ。
+\n
+Boomer's an attention\n
+whore.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nしゃっくりじいさんのこと、\nずっとコーカイしてるんだ。
+\n
+He's always talking\n
+about his hiccupping
+<$0C>
+old man.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00001D4B
+
+#WLB(PTR, $00000198)
+
+#WHB(PTR, $00000199)
+
+<$10><$0B>
+//レッド：
+Red:
+<$0D>
+//\n臭うぜ、可愛い子犬ちゃんの臭いだ。
+\n
+You smell so good.\n
+That's the scent of
+<$0C>
+my darling puppy.
+<$0E><$1E><$17><$00>
+
+
+
+
+// Pos: 00001D6E
+
+#WLB(PTR, $000002B8)
+
+#WHB(PTR, $000002B9)
+
+<$11><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへへ、ブーマーのやつ、\nとうとういかれちまった。\n頭ん中で、バケモノが鋭動会してるんだ。
+\n
+Hehe, that Boomer guy\n
+finally lost it. The
+<$0C>
+monsters in his mind\n
+are having a party.
+<$1E>
+//声
+声
+<$00>
+
+
+
+
+// Pos: 00001DAC
+
+#WLB(PTR, $00000C44)
+
+#WHB(PTR, $00000C45)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nまただ… 強い思念だ。\n頭の中にひびいてくる。
+\n
+That strong feeling I\n
+had... It's back.
+<$0C>
+Makes my head want to\n
+split...
+<$00>
+
+
+
+
+// Pos: 00001DD5
+
+#WLB(PTR, $00000CBC)
+
+#WHB(PTR, $00000CBD)
+
+<$00><$20><$20>
+    第１７日 タムズの月
+<$0C>
+さて、このヨセミテ、死線をさまようこと３日。\n英気の岩から抜け出せなくなるアクシデント！
+<$0C>
+岩にうずもれ、せまり来る死に向き合ったのだ。\n死の扉を開いた時に、ウワサのエレミヤが\n私に憑いた。
+<$0C>
+私はエレミヤそのものとなり、\nいくつかの言葉を得た。
+<$0C>
+しかしその直後に、私は岩から解放された。\n生気を取り戻した私は、\nエレミヤの言葉を忘れた。
+<$0C>
+エレミヤとは実在しない、\nいわば死のシンボルなのだ。
+<$0C>
+それを私は身をもって知った。\n深く記憶にきざもう。
+<$00>
+
+
+
+// Pos: 00001EEC
+
+#WLB(PTR, $00000D54)
+
+#WHB(PTR, $00000D55)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nこのこよみは… ヘブライのこよみなのか。
+\n
+Tammuz, Tammuz... Is\n
+this from a Hewbrew
+<$0C>
+calander?
+<$00>
+
+
+
+

@@ -1,0 +1,605 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001D51)
+
+// Pos: 00001D51
+
+#WLB(PTR, $000001E8)
+
+#WHB(PTR, $000001E9)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n今度は女か。
+\n
+Ah, a lady this time?
+<$00>
+
+
+
+
+// Pos: 00001D64
+
+#WLB(PTR, $000001FC)
+
+#WHB(PTR, $000001FD)
+
+<$10><$0B>
+//スモーキー：
+Smokey:
+<$0D>
+//\nひゅーひゅー！
+\n
+Well, helllllo!
+<$00>
+
+
+
+
+// Pos: 00001D76
+
+#WLB(PTR, $00000388)
+
+#WHB(PTR, $00000389)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nあなたたちとケンカするために\n火星に来たんじゃないの。
+\n
+We didn't come to\n
+Mars to start a
+<$0C>
+fight.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
+\n
+We heard troubling\n
+reports coming from
+<$0C>
+the planet, and came\n
+only to inspect.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n先遣隊のガリル大佐について何か知らない？
+\n
+Did you ever hear\n
+about Col. Garyl. He
+<$0C>
+was on the vanguard\n
+unit from Earth.
+<$00>
+
+
+
+
+// Pos: 00001DF0
+
+#WLB(PTR, $00000394)
+
+#WHB(PTR, $00000395)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
+\n
+Garyl?! At this\n
+point, he's a legend.
+<$0C>
+People shined onto\n
+him like a good guy.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
+\n
+He sounds like a\n
+weirdo to me. Is he
+<$0C>
+really what you came\n
+here for?
+<$00>
+
+
+
+
+// Pos: 00001E4C
+
+#WLB(PTR, $000003B8)
+
+#WHB(PTR, $000003B9)
+
+<$11><$0B>
+//スモーキー：
+Smokey:
+<$0D>
+//\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
+\n
+Nah, she's here to\n
+drink! Here at
+<$0C>
+SNOBPLANET, we keep\n
+it going all night\n
+long!
+<$00>
+
+
+
+
+// Pos: 00001E89
+
+#WLB(PTR, $000003C8)
+
+#WHB(PTR, $000003C9)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n人をさがしてるの、仲間よ。
+\n
+We're also looking\n
+for two of our unit
+<$0C>
+members.
+<$00>
+
+
+
+
+// Pos: 00001EA3
+
+#WLB(PTR, $000003D8)
+
+#WHB(PTR, $000003D9)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n人？ お前らの他にもまだいるのか。\nここには誰も来ちゃいねぇ。
+\n
+Members? So there's\n
+more of you? Did you
+<$0C>
+all get here by clown\n
+car?
+<$00>
+
+
+
+
+// Pos: 00001ECF
+
+#WLB(PTR, $000003EC)
+
+#WHB(PTR, $000003ED)
+
+<$10><$0B>
+//スモーキー：
+Smokey:
+<$0D>
+//\nお姉ちゃんよう、\nそのうすのろぶちのめしたあと、
+\n
+Forget the job,\n
+cutie. Let's hurl
+<$0C>
+your half-wit friend\n
+here into the sun,
+<$0C><$0B>
+//スモーキー：
+Smokey:
+<$0D>
+//\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
+\n
+so you can stick\n
+around and blow the
+<$0C>
+roof off with Old\n
+Smokey!
+<$00>
+
+
+
+
+// Pos: 00001F15
+
+#WLB(PTR, $00000434)
+
+#WHB(PTR, $00000435)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nいいかげんにしてよ！
+\n
+Knock it off,\n
+dicksplash.
+<$00>
+
+
+
+
+// Pos: 00001F2A
+
+#WLB(PTR, $00000448)
+
+#WHB(PTR, $00000449)
+
+<$10><$0B>
+//スモーキー：
+Smokey:
+<$0D>
+//\nてめぇ！ おとなしくしてりゃ、\nでかい口たたくじゃねぇか、お姉ちゃんよう！
+\n
+What'd you call me!\n
+That's not how a good
+<$0C>
+girl's supposed to\n
+bark, missy!
+<$00>
+
+
+
+
+// Pos: 00001F5C
+
+#WLB(PTR, $0000045C)
+
+#WHB(PTR, $0000045D)
+
+<$11><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nおい、スモーキー、\n今夜のところはもう帰るんだ。\n騒ぎはごめんだ。
+\n
+Whelp, it's about\n
+time we all called it
+<$0C>
+a night. Smokey,\n
+apologize to the\n
+lady.
+<$00>
+
+
+
+
+// Pos: 00001F8B
+
+#WLB(PTR, $00000470)
+
+#WHB(PTR, $00000471)
+
+<$10><$0B>
+//スモーキー：
+Smokey:
+<$0D>
+//\nくそ！ 手前ぇら、いい気になりやがって！
+\n
+Grrr! ...I'll pass.\n
+That smug look on her
+<$0C>
+face says she's fine.
+<$00>
+
+
+
+
+// Pos: 00001FAB
+
+#WLB(PTR, $000004B8)
+
+#WHB(PTR, $000004B9)
+
+<$10><$0B>
+//スモーキー：
+Smokey:
+<$0D>
+//\n気取り屋どもが！\nせいぜい気を付けることだな！
+\n
+You're all a bunch of\n
+snobs! Damned well
+<$0C>
+better watch your\n
+backs out there.
+<$0E><$3C><$17><$00>
+
+
+
+
+// Pos: 00001FD3
+
+#WLB(PTR, $0000076C)
+
+#WHB(PTR, $0000076D)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nお前らも帰れ。目障りだ。
+\n
+That includes you two\n
+eyesores.
+<$00>
+
+
+
+
+// Pos: 00001FEC
+
+#WLB(PTR, $00000780)
+
+#WHB(PTR, $00000781)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n仲間のふたりが行方不明なのよ。
+\n
+Sorry. It's just, two\n
+of our teammates are
+<$0C>
+missing.
+<$00>
+
+
+
+
+// Pos: 0000200C
+
+#WLB(PTR, $00000794)
+
+#WHB(PTR, $00000795)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nここにはいねぇ。見りゃ分かるだろ。
+\n
+They're not here.\n
+Anyone with eyes can
+<$0C>
+see that.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nここのやつらは、お前らみたいに制服着てる\nやつにこっぴどくやられたからな、
+\n
+Then again, anyone\n
+with a brain wouldn't
+<$0C>
+waltz in wearing\n
+those uniforms.
+<$0C><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nいい気がしねぇんだ。くそったれ！
+\n
+Bad shit happens to\n
+hunky-dory idiots
+<$0C>
+like you around here.\n
+Hence, "snob".
+<$00>
+
+
+
+
+// Pos: 00002071
+
+#WLB(PTR, $000007A8)
+
+#WHB(PTR, $000007A9)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n私たちはあなたたちの言う\nおまわりじゃないのよ。
+\n
+But you're all wrong!\n
+We're not snobs!
+<$00>
+
+
+
+
+// Pos: 00002094
+
+#WLB(PTR, $000007BC)
+
+#WHB(PTR, $000007BD)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n似たようなもんだ。人さがしなら\nメディスンマンのやつらにでも開いてみな。
+\n
+Sure... Anyways, if\n
+you're looking for
+<$0C>
+people, ask the\n
+medicine men.
+<$00>
+
+
+
+
+// Pos: 000020C4
+
+#WLB(PTR, $000007D0)
+
+#WHB(PTR, $000007D1)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nメディスンマン？
+\n
+Medicine men?
+<$00>
+
+
+
+
+// Pos: 000020D7
+
+#WLB(PTR, $000007E4)
+
+#WHB(PTR, $000007E5)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\n知らねぇのか。\nお前らと同じ、地球から来たやつらだ。
+\n
+Never heard of them?\n
+They're from Earth,
+<$0C>
+just like you lot.
+<$00>
+
+
+
+
+// Pos: 00002100
+
+#WLB(PTR, $000007F8)
+
+#WHB(PTR, $000007F9)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n先遣隊ね！ 生きてたんだ！
+\n
+That...must be the\n
+members of the
+<$0C>
+vanguard unit! They\n
+ARE alive!
+<$00>
+
+
+
+
+// Pos: 0000211C
+
+#WLB(PTR, $0000080C)
+
+#WHB(PTR, $0000080D)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nへん！ 生きてたんだ！？生きてても\n死んでるようなもんだぜ、あいつらは。
+\n
+Hah! alive? I mean,\n
+maybe, but they're as
+<$0C>
+lifeless a bunch\n
+could be.
+<$00>
+
+
+
+
+// Pos: 0000214D
+
+#WLB(PTR, $00000820)
+
+#WHB(PTR, $00000821)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n彼らはどこ？
+\n
+Where can we meet\n
+them?
+<$00>
+
+
+
+
+// Pos: 0000215F
+
+#WLB(PTR, $00000834)
+
+#WHB(PTR, $00000835)
+
+<$10><$0B>
+//ゴールド：
+Gold:
+<$0D>
+//\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
+\n
+At the lodge, in\n
+front of the
+<$0C>
+ventilation tower in\n
+the piazza.
+<$00>
+
+
+
+
+// Pos: 0000218B
+
+#WLB(PTR, $00000848)
+
+#WHB(PTR, $00000849)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n換気塔の手前ね。ありがとう。
+\n
+In front of the\n
+ventilation tower?
+<$0C>
+Got it. Thank you so\n
+much!
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nライカ、行きましょ。\nメディスンマンに話を開くのよ。
+\n
+Okay, Laika. Let's go\n
+talk to the medicine
+<$0C>
+men!
+<$00>
+
+
+
+

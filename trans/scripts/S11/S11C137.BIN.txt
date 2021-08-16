@@ -1,0 +1,25 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00002480)
+
+// Pos: 00002480
+
+#WLB(PTR, $00000220)
+
+#WHB(PTR, $00000221)
+
+#WLB(PTR, $00001542)
+
+#WHB(PTR, $00001543)
+
+<$10><$0B>
+スピリットマン：
+<$0D>
+\nひょひょ、スペーサーや、\nお前は陽精に会ったのだ、ひょひょ。
+<$0E><$50><$17><$00>
+
+
+

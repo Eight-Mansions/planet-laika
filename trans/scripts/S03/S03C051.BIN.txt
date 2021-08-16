@@ -1,0 +1,70 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001211)
+
+// Pos: 00001211
+
+#WLB(PTR, $00000208)
+
+#WHB(PTR, $00000209)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nやっぱり変よ。なにか起きてる。
+\n
+Yeah, whatever he's\n
+talking about, this
+<$0C>
+doesn't sit right\n
+with me.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nマウンテンの奇跡って何？\nそれが蕃判のことなのかな…
+\n
+What is Mountain's\n
+miracle? I hope it
+<$0C>
+doesn't tie into our\n
+"Judgment" talks.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nとにかく記憶の谷へ行ってみましょう。
+\n
+...There's no use\n
+worrying about it,
+<$0C>
+right? We're\n
+searching Memory\n
+Valley either way.
+<$00>
+
+
+
+
+// Pos: 00001275
+
+#WLB(PTR, $00000338)
+
+#WHB(PTR, $00000339)
+
+<$10><$0B>
+//フェニックス：
+Phoenix:
+<$0D>
+//\nちぇっ、閉まってる。
+\n
+Ah. Closed.
+<$00>
+
+
+
+

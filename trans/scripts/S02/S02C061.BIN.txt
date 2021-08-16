@@ -1,0 +1,83 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00000EE6)
+
+// Pos: 00000EE6
+
+#WLB(PTR, $00000118)
+
+#WHB(PTR, $00000119)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nおお、ライカ、平気だったか？
+\n
+There you are, Laika!\n
+Hanging in there?
+<$00>
+
+
+
+
+// Pos: 00000EFE
+
+#WLB(PTR, $0000018C)
+
+#WHB(PTR, $0000018D)
+
+<$10><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nあああ、砂だ、砂嵐で…\nああ、砂嵐で、頭の中がぐるんぐるんなんだ。
+\n
+Argh, I'll tell you\n
+what. This sandstorm
+<$0C>
+is making my head\n
+spin.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n避難小屋はすぐそこだ。\n船長たちが待ってるに建いない。 急ごう。
+\n
+The safe room's over\n
+here. Let's not keep
+<$0C>
+the other two\n
+waiting.
+<$00>
+
+
+
+
+// Pos: 00000F60
+
+#WLB(PTR, $00000808)
+
+#WHB(PTR, $00000809)
+
+//災やな思い出がよみがえったり…
+Bitter memories will\n
+resurface...
+<$0C>
+//思い出だけじゃなくてね、ウソもホントも\n何もかも。 惑わされるかもね。
+Not only memories,\n
+but lies and truths\n
+and well. They're
+<$0C>
+there to confuse you.
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+

@@ -1,0 +1,63 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001481)
+
+// Pos: 00001481
+
+#WLB(PTR, $00000598)
+
+#WHB(PTR, $00000599)
+
+<$10><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nこれはこれは、ヨランダではないか！\nもう十分に旅を楽しんだことだろう。
+\n
+My, oh my! Yolanda,\n
+is that you? I hope
+<$0C>
+this outing of yours\n
+felt...adequate.
+<$0C><$0B>
+//ガリル：
+Garyl:
+<$0D>
+//\nお前にはもう何も残ってはいない。\nそろそろタニアとともに眠りにつくときだ。
+\n
+There's nothing for\n
+you here now. It's
+<$0C>
+high time I put you\n
+to rest, with your\n
+Tanya.
+<$00>
+
+
+
+
+// Pos: 000014DF
+
+#WLB(PTR, $000005AC)
+
+#WHB(PTR, $000005AD)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nアタシはどこにもいかない、そうよ\nここにいるのよ、残るのよ！
+\n
+There's no place for\n
+me to go, yes. But
+<$0C>
+I'm here, aren't I?\n
+So here I stay!
+<$00>
+
+
+
+

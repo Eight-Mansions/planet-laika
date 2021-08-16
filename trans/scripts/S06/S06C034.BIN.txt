@@ -1,0 +1,154 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00001287)
+
+// Pos: 00001287
+
+#WLB(PTR, $000005D4)
+
+#WHB(PTR, $000005D5)
+
+<$12><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\n大変だシー！ 町長が！ シーシー！
+\n
+Something happened to\n
+our elder, whoosh,
+<$0C>
+whoosh!
+<$00>
+
+
+
+
+// Pos: 000012AD
+
+#WLB(PTR, $00000618)
+
+#WHB(PTR, $00000619)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nヌーンがどうしたの？
+\n
+What happened to\n
+Noon?!
+<$00>
+
+
+
+
+// Pos: 000012C2
+
+#WLB(PTR, $0000063C)
+
+#WHB(PTR, $0000063D)
+
+<$12><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\nママを呼び出した！\nお前らのせいだ！ シーシー
+\n
+He called for his\n
+mother! This is YOUR
+<$0C>
+fault, whoosh,\n
+whoosh!
+<$00>
+
+
+
+
+// Pos: 000012EC
+
+#WLB(PTR, $00000680)
+
+#WHB(PTR, $00000681)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nママを？\n私たちはただ目を覚ますように言っただけよ。
+\n
+His mother?! All we\n
+did was tell him to
+<$0C>
+open his eyes!
+<$00>
+
+
+
+
+// Pos: 00001313
+
+#WLB(PTR, $000006A4)
+
+#WHB(PTR, $000006A5)
+
+<$12><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\nやめさせるんだ！\n俺たちの町が！ シー！！
+\n
+ENOUGH! This is OUR\n
+town, whoosh!
+<$00>
+
+
+
+
+// Pos: 0000133A
+
+#WLB(PTR, $000006E8)
+
+#WHB(PTR, $000006E9)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nなんだか分からないけど、行ってみない？
+\n
+I don't know what\n
+happened, but we'd
+<$0C>
+better look around.
+<$00>
+
+
+
+
+// Pos: 00001359
+
+#WLB(PTR, $00000790)
+
+#WHB(PTR, $00000791)
+
+<$12><$0B>
+//酸索坑夫１号：
+Oxygen Miner 1：
+<$0D>
+//\n町長がおかしくなったのは、\nきっとお前らのせいだ！せいだ！シーシーシー
+\n
+Elder Noon's erratic\n
+behavior MUST be YOUR
+<$0C>
+fault, whoosh-whoosh!
+<$1E>
+//中
+中
+<$00>
+
+
+
+

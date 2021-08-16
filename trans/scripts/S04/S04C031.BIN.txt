@@ -1,0 +1,164 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($000023D5)
+
+// Pos: 000023D5
+
+#WLB(PTR, $00000450)
+
+#WHB(PTR, $00000451)
+
+<$10><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nあら、またまたサミーよ。
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n今夜はトミー、おかしいみたい。\nすぐアタシになっちゃうの。
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nねえ、ところでさ、\nあんた一人じゃないのね。
+<$0C><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\n可愛いコのこと、隠してたの？
+<$1E>
+//〇
+<$00>
+
+
+
+
+// Pos: 0000244C
+
+#WLB(PTR, $0000043C)
+
+#WHB(PTR, $0000043D)
+
+<$10><$0B>
+//サミー：
+Sammy:
+<$0D>
+//\nそのへんにいるはずよ、さがしてみれば。
+<$1E>
+//〇
+<$00>
+
+
+
+
+// Pos: 0000246B
+
+#WLB(PTR, $00000A98)
+
+#WHB(PTR, $00000A99)
+
+<$10><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\nへへ、換気なんてしてねぇのによう、\n換気塔なんてよう、いらねぇ、いらねぇ。
+\n
+Heheh, we-er, don't\n
+need the ventilation
+<$0C>
+tower for\n
+ventilation. Nope.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n酸索屋のヘロデがこしらえたけどよう、\nあいつは役立たずだ。
+\n
+Herod's little oxygen\n
+dispensary can-er,
+<$0C>
+kiss my fat ass.
+<$0C><$0B>
+//トミー：
+Tommy:
+<$0D>
+//\n毎日、朝も夜も、眠い眠いさ。\nいっつも眠いんだ。
+\n
+Whew... Every day,\n
+morning to night,
+<$0C>
+I'm...always so-er\n
+sleepy...
+<$1E>
+//双
+双
+<$00>
+
+
+
+
+// Pos: 000024F0
+
+#WLB(PTR, $000007E4)
+
+#WHB(PTR, $000007E5)
+
+<$10><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nなんだな、僕だな、ラミーだな。\n今度はふたりだな、あと何人だな…
+\n
+What's up? I'm-uhm,\n
+Rummy! That makes two
+<$0C>
+of us, so who's-uhm,\n
+No. 3?
+<$0C><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\n仲間、はぐれたんだな。\n記憶の谷だな、あそこだな。
+\n
+Your friends are\n
+lost? I bet
+<$0C>
+they're-uhm, in\n
+Memory Valley.
+<$1E>
+//鋭
+鋭
+<$00>
+
+
+
+
+// Pos: 00002545
+
+#WLB(PTR, $000007A0)
+
+#WHB(PTR, $000007A1)
+
+<$10><$0B>
+//ラミー：
+Rummy:
+<$0D>
+//\nはぐれたやつはきまって記憶の谷へ行くな。
+\n
+Anyone who gets-uhm,\n
+lost, winds up in
+<$0C>
+Memory Valley!
+<$1E>
+//炎
+炎
+<$00>
+
+
+
+

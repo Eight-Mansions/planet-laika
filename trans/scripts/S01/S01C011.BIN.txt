@@ -1,0 +1,1426 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($00003324)
+
+// Pos: 00003324
+
+#WLB(PTR, $00000444)
+
+#WHB(PTR, $00000445)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nでもなんで、ガリルって野郎は姿を\nくらませたんだ？
+\n
+What would drive\n
+Garyl to vanish like
+<$0C>
+he did?
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n１０年になるんだろ、もうとっくに\nくたばってるんじゃねぇのか。
+\n
+It's been a decade.\n
+That mad dog could be
+<$0C>
+dead for all we know.
+<$00>
+
+
+
+
+// Pos: 00003371
+
+#WLB(PTR, $00000468)
+
+#WHB(PTR, $00000469)
+
+<$12><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nガリル大佐は火星が秘めている\nよこしまな力に憑かれたのだ。
+\n
+Officials suspect\n
+Col. Garyl was
+<$0C>
+overtaken by a wicked\n
+power hidden on Mars.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nよほど強い意志の持ち主でない限り、\nあらぬ妄想にとらわれてしまうというぞ。
+\n
+When on Mars, we\n
+humans risk exposing
+<$0C>
+ourselves to strange\n
+delusions.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n自分を見失ってしまうというぞ。
+Without considerable\n
+willpower, you can\n
+easily lose yourself
+<$0C>
+to the fantasy.
+<$00>
+
+
+
+
+// Pos: 000033FB
+
+#WLB(PTR, $0000048C)
+
+#WHB(PTR, $0000048D)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nへっ、どんな妄想なんだ？
+\n
+Pfft! Fantasy, huh?
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nまさか滅んだ火星人をよみがえらそうって、\nそんな計画とかじゃないだろうな。
+\n
+We NEEDED fantasy to\n
+think those Martians
+<$0C>
+were trustworthy.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nクリスマスだっていうのに、\n妄想野郎のお相手か。
+\n
+Hell, I need some now\n
+to think this job and
+<$0C>
+the Garyl business\n
+isn't a waste of\n
+time.
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nこんなところで！\nちくしょう！
+\n
+What a damned sorry\n
+way to spend
+<$0C>
+Christmas!
+<$00>
+
+
+
+
+// Pos: 00003481
+
+#WLB(PTR, $00000510)
+
+#WHB(PTR, $00000511)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nオクトーバー司令官によると、\n火星の土がいけないんだって。
+\n
+According to Comd.\n
+October, Mars's
+<$0C>
+topsoil is toxic to\n
+humans.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n土が人の心に悪い影響を与える…\nだから私が呼ばれたの。
+\n
+Exposure can have\n
+negative effects on
+<$0C>
+the human mind.\n
+That's why I'm here.
+<$0C><$0B>
+//エイプリル：
+April:
+<$0D>
+//\nサンプルを持ち帰って調べるのよ。\n地質学的な問顆だそうよ。
+I was called to study\n
+samples and solve\n
+this geological
+<$0C>
+puzzle.
+<$00>
+
+
+
+
+// Pos: 0000350A
+
+#WLB(PTR, $00000580)
+
+#WHB(PTR, $00000581)
+
+<$12><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nふふ、地質学的問顆？ モノは言いようだな。\n土だと…ふふふ…
+\n
+A "geological\n
+puzzle"...\n
+Hehehe, interesting!
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n星全体が悪意を秘めているんだ。\nガリル大佐はその悪意に触れたに建いない。
+\n
+If Mars is topped\n
+with bad soil, maybe
+<$0C>
+Col. Garyl picked up\n
+its ill will.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n神は死んだ、光の私。
+\n
+"God is dead. I am\n
+the light."
+<$00>
+
+
+
+
+// Pos: 00003592
+
+#WLB(PTR, $0000059C)
+
+#WHB(PTR, $0000059D)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n何だ？ 光の私？ やつの言葉か。\n光の私ってどういうことだ？
+\n
+"I am the light."\n
+What does that even
+<$0C>
+mean, huh?
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\n輝いてるのか？\n火星で、輝いてるってのか。
+\n
+Is there glitter now?\n
+Is Mars made of
+<$0C>
+freaking glitter?
+<$00>
+
+
+
+
+// Pos: 000035DD
+
+#WLB(PTR, $00000648)
+
+#WHB(PTR, $00000649)
+
+//離 ただいま火星の軌道に入りました。\n
+離 We are now in\n
+Mars's orbit.\n
+<$0E><$0F>
+//ただいま火星の軌道に入りました。
+We are now in Mars's\n
+orbit.
+<$00>
+
+
+
+
+// Pos: 0000360E
+
+#WLB(PTR, $0000066C)
+
+#WHB(PTR, $0000066D)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nいよいよだ、火星だ。\nそこのふたり、用意はいいのか？
+\n
+We're finally on\n
+Mars.\n
+Are you two sure\n
+you're up to snuff?
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nルーキーの無線技師に学者のタマゴの\nおネエさん…たのもしいかぎりだぜ。
+\n
+Can we count on a\n
+rookie radio engineer
+<$0C>
+and a prodigious rock\n
+nerd?
+<$00>
+
+
+
+
+// Pos: 00003666
+
+#WLB(PTR, $0000068C)
+
+#WHB(PTR, $0000068D)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nヌーン、よせ。誰にでも初心者の時期はある。
+\n
+Everyone has a first\n
+time, Noon.
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nライカ、君は宇宙飛行は確か…
+\n
+Laika, is this your\n
+first spaceflight?
+<$00>
+
+
+
+
+// Pos: 000036AF
+
+#WLB(PTR, $000006BC)
+
+#WHB(PTR, $000006BD)
+
+<$10><$0B>
+//エイプリル：
+April:
+<$0D>
+//\n２度目よ。 前は人エ衛星の修理。\n私とはその時以来。
+\n
+No, Laika's done one\n
+artificial satellite
+<$0C>
+repair prior. I was\n
+there.
+<$00>
+
+
+
+
+// Pos: 000036DE
+
+#WLB(PTR, $000006DC)
+
+#WHB(PTR, $000006DD)
+
+<$10><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nふっ、人エ衛星の修理とはな。
+\n
+Artificial satellite,\n
+got it.\n
+Speaking of\n
+"artificial"...
+<$0C><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\nライカか… ニックネームだな。\n本当はなんて言うんだ？
+\n
+Laika's a nickname,\n
+right?\n
+What's your real\n
+name?
+<$00>
+
+
+
+
+// Pos: 00003729
+
+#WLB(PTR, $00000A30)
+
+#WHB(PTR, $00000A31)
+
+<$12><$0B>
+//タトラー船長：
+Cap. Tatler:
+<$0D>
+//\n
+\n
+<$0F>
+//か。\n由緒ある名前だ。
+? Sounds fancy.\n
+Your folks have some\n
+pedigree.
+<$00>
+
+
+
+
+// Pos: 00003746
+
+#WLB(PTR, $00000A54)
+
+#WHB(PTR, $00000A55)
+
+<$12><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nでもよう、\nずっとずっとライカって呼んできたからな、
+\n
+Maybe, but I've\n
+already used to
+<$0C>
+calling you "Laika".
+<$0C><$0B>
+//ヌーン：
+Noon:
+<$0D>
+//\nこれからもライカでいかせてもらうぜ。
+\n
+So, I'm sticking with\n
+Laika!
+<$00>
+
+
+
+
+// Pos: 00003784
+
+#WLB(PTR, $00002F6C)
+
+#WHB(PTR, $00002F6D)
+
+よろしいですか？
+<$00><$00>
+
+
+
+// Pos: 0000378E
+
+#WLB(PTR, $00002F70)
+
+#WHB(PTR, $00002F71)
+
+この名前は使えません
+<$00><$00>
+
+
+
+// Pos: 0000379C
+
+#WLB(PTR, $00002F74)
+
+#WHB(PTR, $00002F75)
+
+はい
+<$00><$00>
+
+
+
+// Pos: 000037A0
+
+#WLB(PTR, $00002F78)
+
+#WHB(PTR, $00002F79)
+
+いいえ
+<$00>
+
+
+
+// Pos: 000037A4
+
+#WLB(PTR, $00002F7C)
+
+#WHB(PTR, $00002F7D)
+
+ア
+<$00>
+
+
+
+// Pos: 000037A6
+
+#WLB(PTR, $00002F80)
+
+#WHB(PTR, $00002F81)
+
+イ
+<$00>
+
+
+
+// Pos: 000037A8
+
+#WLB(PTR, $00002F84)
+
+#WHB(PTR, $00002F85)
+
+ウ
+<$00>
+
+
+
+// Pos: 000037AA
+
+#WLB(PTR, $00002F88)
+
+#WHB(PTR, $00002F89)
+
+エ
+<$00>
+
+
+
+// Pos: 000037AC
+
+#WLB(PTR, $00002F8C)
+
+#WHB(PTR, $00002F8D)
+
+オ
+<$00>
+
+
+
+// Pos: 000037AE
+
+#WLB(PTR, $00002F90)
+
+#WHB(PTR, $00002F91)
+
+ワ
+<$00>
+
+
+
+// Pos: 000037B0
+
+#WLB(PTR, $00002F94)
+
+#WHB(PTR, $00002F95)
+
+※
+<$00>
+
+
+
+// Pos: 000037B2
+
+#WLB(PTR, $00002F98)
+
+#WHB(PTR, $00002F99)
+
+ヲ
+<$00>
+
+
+
+// Pos: 000037B4
+
+#WLB(PTR, $00002F9C)
+
+#WHB(PTR, $00002F9D)
+
+※
+<$00>
+
+
+
+// Pos: 000037B6
+
+#WLB(PTR, $00002FA0)
+
+#WHB(PTR, $00002FA1)
+
+ン
+<$00>
+
+
+
+// Pos: 000037B8
+
+#WLB(PTR, $00002FA4)
+
+#WHB(PTR, $00002FA5)
+
+カ
+<$00>
+
+
+
+// Pos: 000037BA
+
+#WLB(PTR, $00002FA8)
+
+#WHB(PTR, $00002FA9)
+
+キ
+<$00>
+
+
+
+// Pos: 000037BC
+
+#WLB(PTR, $00002FAC)
+
+#WHB(PTR, $00002FAD)
+
+ク
+<$00>
+
+
+
+// Pos: 000037BE
+
+#WLB(PTR, $00002FB0)
+
+#WHB(PTR, $00002FB1)
+
+ケ
+<$00>
+
+
+
+// Pos: 000037C0
+
+#WLB(PTR, $00002FB4)
+
+#WHB(PTR, $00002FB5)
+
+コ
+<$00>
+
+
+
+// Pos: 000037C2
+
+#WLB(PTR, $00002FB8)
+
+#WHB(PTR, $00002FB9)
+
+ガ
+<$00>
+
+
+
+// Pos: 000037C4
+
+#WLB(PTR, $00002FBC)
+
+#WHB(PTR, $00002FBD)
+
+ギ
+<$00>
+
+
+
+// Pos: 000037C6
+
+#WLB(PTR, $00002FC0)
+
+#WHB(PTR, $00002FC1)
+
+グ
+<$00>
+
+
+
+// Pos: 000037C8
+
+#WLB(PTR, $00002FC4)
+
+#WHB(PTR, $00002FC5)
+
+ゲ
+<$00>
+
+
+
+// Pos: 000037CA
+
+#WLB(PTR, $00002FC8)
+
+#WHB(PTR, $00002FC9)
+
+ゴ
+<$00>
+
+
+
+// Pos: 000037CC
+
+#WLB(PTR, $00002FCC)
+
+#WHB(PTR, $00002FCD)
+
+サ
+<$00>
+
+
+
+// Pos: 000037CE
+
+#WLB(PTR, $00002FD0)
+
+#WHB(PTR, $00002FD1)
+
+シ
+<$00>
+
+
+
+// Pos: 000037D0
+
+#WLB(PTR, $00002FD4)
+
+#WHB(PTR, $00002FD5)
+
+ス
+<$00>
+
+
+
+// Pos: 000037D2
+
+#WLB(PTR, $00002FD8)
+
+#WHB(PTR, $00002FD9)
+
+セ
+<$00>
+
+
+
+// Pos: 000037D4
+
+#WLB(PTR, $00002FDC)
+
+#WHB(PTR, $00002FDD)
+
+ソ
+<$00>
+
+
+
+// Pos: 000037D6
+
+#WLB(PTR, $00002FE0)
+
+#WHB(PTR, $00002FE1)
+
+ザ
+<$00>
+
+
+
+// Pos: 000037D8
+
+#WLB(PTR, $00002FE4)
+
+#WHB(PTR, $00002FE5)
+
+ジ
+<$00>
+
+
+
+// Pos: 000037DA
+
+#WLB(PTR, $00002FE8)
+
+#WHB(PTR, $00002FE9)
+
+ズ
+<$00>
+
+
+
+// Pos: 000037DC
+
+#WLB(PTR, $00002FEC)
+
+#WHB(PTR, $00002FED)
+
+ゼ
+<$00>
+
+
+
+// Pos: 000037DE
+
+#WLB(PTR, $00002FF0)
+
+#WHB(PTR, $00002FF1)
+
+ゾ
+<$00>
+
+
+
+// Pos: 000037E0
+
+#WLB(PTR, $00002FF4)
+
+#WHB(PTR, $00002FF5)
+
+タ
+<$00>
+
+
+
+// Pos: 000037E2
+
+#WLB(PTR, $00002FF8)
+
+#WHB(PTR, $00002FF9)
+
+チ
+<$00>
+
+
+
+// Pos: 000037E4
+
+#WLB(PTR, $00002FFC)
+
+#WHB(PTR, $00002FFD)
+
+ツ
+<$00>
+
+
+
+// Pos: 000037E6
+
+#WLB(PTR, $00003000)
+
+#WHB(PTR, $00003001)
+
+テ
+<$00>
+
+
+
+// Pos: 000037E8
+
+#WLB(PTR, $00003004)
+
+#WHB(PTR, $00003005)
+
+ト
+<$00>
+
+
+
+// Pos: 000037EA
+
+#WLB(PTR, $00003008)
+
+#WHB(PTR, $00003009)
+
+ダ
+<$00>
+
+
+
+// Pos: 000037EC
+
+#WLB(PTR, $0000300C)
+
+#WHB(PTR, $0000300D)
+
+ヂ
+<$00>
+
+
+
+// Pos: 000037EE
+
+#WLB(PTR, $00003010)
+
+#WHB(PTR, $00003011)
+
+ヅ
+<$00>
+
+
+
+// Pos: 000037F0
+
+#WLB(PTR, $00003014)
+
+#WHB(PTR, $00003015)
+
+デ
+<$00>
+
+
+
+// Pos: 000037F2
+
+#WLB(PTR, $00003018)
+
+#WHB(PTR, $00003019)
+
+ド
+<$00>
+
+
+
+// Pos: 000037F4
+
+#WLB(PTR, $0000301C)
+
+#WHB(PTR, $0000301D)
+
+ナ
+<$00>
+
+
+
+// Pos: 000037F6
+
+#WLB(PTR, $00003020)
+
+#WHB(PTR, $00003021)
+
+ニ
+<$00>
+
+
+
+// Pos: 000037F8
+
+#WLB(PTR, $00003024)
+
+#WHB(PTR, $00003025)
+
+ヌ
+<$00>
+
+
+
+// Pos: 000037FA
+
+#WLB(PTR, $00003028)
+
+#WHB(PTR, $00003029)
+
+ネ
+<$00>
+
+
+
+// Pos: 000037FC
+
+#WLB(PTR, $0000302C)
+
+#WHB(PTR, $0000302D)
+
+ノ
+<$00>
+
+
+
+// Pos: 000037FE
+
+#WLB(PTR, $00003030)
+
+#WHB(PTR, $00003031)
+
+バ
+<$00>
+
+
+
+// Pos: 00003800
+
+#WLB(PTR, $00003034)
+
+#WHB(PTR, $00003035)
+
+ビ
+<$00>
+
+
+
+// Pos: 00003802
+
+#WLB(PTR, $00003038)
+
+#WHB(PTR, $00003039)
+
+ブ
+<$00>
+
+
+
+// Pos: 00003804
+
+#WLB(PTR, $0000303C)
+
+#WHB(PTR, $0000303D)
+
+ベ
+<$00>
+
+
+
+// Pos: 00003806
+
+#WLB(PTR, $00003040)
+
+#WHB(PTR, $00003041)
+
+ボ
+<$00>
+
+
+
+// Pos: 00003808
+
+#WLB(PTR, $00003044)
+
+#WHB(PTR, $00003045)
+
+ハ
+<$00>
+
+
+
+// Pos: 0000380A
+
+#WLB(PTR, $00003048)
+
+#WHB(PTR, $00003049)
+
+ヒ
+<$00>
+
+
+
+// Pos: 0000380C
+
+#WLB(PTR, $0000304C)
+
+#WHB(PTR, $0000304D)
+
+フ
+<$00>
+
+
+
+// Pos: 0000380E
+
+#WLB(PTR, $00003050)
+
+#WHB(PTR, $00003051)
+
+ヘ
+<$00>
+
+
+
+// Pos: 00003810
+
+#WLB(PTR, $00003054)
+
+#WHB(PTR, $00003055)
+
+ホ
+<$00>
+
+
+
+// Pos: 00003812
+
+#WLB(PTR, $00003058)
+
+#WHB(PTR, $00003059)
+
+パ
+<$00>
+
+
+
+// Pos: 00003814
+
+#WLB(PTR, $0000305C)
+
+#WHB(PTR, $0000305D)
+
+ピ
+<$00>
+
+
+
+// Pos: 00003816
+
+#WLB(PTR, $00003060)
+
+#WHB(PTR, $00003061)
+
+プ
+<$00>
+
+
+
+// Pos: 00003818
+
+#WLB(PTR, $00003064)
+
+#WHB(PTR, $00003065)
+
+ペ
+<$00>
+
+
+
+// Pos: 0000381A
+
+#WLB(PTR, $00003068)
+
+#WHB(PTR, $00003069)
+
+ポ
+<$00>
+
+
+
+// Pos: 0000381C
+
+#WLB(PTR, $0000306C)
+
+#WHB(PTR, $0000306D)
+
+マ
+<$00>
+
+
+
+// Pos: 0000381E
+
+#WLB(PTR, $00003070)
+
+#WHB(PTR, $00003071)
+
+ミ
+<$00>
+
+
+
+// Pos: 00003820
+
+#WLB(PTR, $00003074)
+
+#WHB(PTR, $00003075)
+
+ム
+<$00>
+
+
+
+// Pos: 00003822
+
+#WLB(PTR, $00003078)
+
+#WHB(PTR, $00003079)
+
+メ
+<$00>
+
+
+
+// Pos: 00003824
+
+#WLB(PTR, $0000307C)
+
+#WHB(PTR, $0000307D)
+
+モ
+<$00>
+
+
+
+// Pos: 00003826
+
+#WLB(PTR, $00003080)
+
+#WHB(PTR, $00003081)
+
+ァ
+<$00>
+
+
+
+// Pos: 00003828
+
+#WLB(PTR, $00003084)
+
+#WHB(PTR, $00003085)
+
+ィ
+<$00>
+
+
+
+// Pos: 0000382A
+
+#WLB(PTR, $00003088)
+
+#WHB(PTR, $00003089)
+
+ゥ
+<$00>
+
+
+
+// Pos: 0000382C
+
+#WLB(PTR, $0000308C)
+
+#WHB(PTR, $0000308D)
+
+ェ
+<$00>
+
+
+
+// Pos: 0000382E
+
+#WLB(PTR, $00003090)
+
+#WHB(PTR, $00003091)
+
+ォ
+<$00>
+
+
+
+// Pos: 00003830
+
+#WLB(PTR, $00003094)
+
+#WHB(PTR, $00003095)
+
+ヤ
+<$00>
+
+
+
+// Pos: 00003832
+
+#WLB(PTR, $00003098)
+
+#WHB(PTR, $00003099)
+
+※
+<$00>
+
+
+
+// Pos: 00003834
+
+#WLB(PTR, $0000309C)
+
+#WHB(PTR, $0000309D)
+
+ユ
+<$00>
+
+
+
+// Pos: 00003836
+
+#WLB(PTR, $000030A0)
+
+#WHB(PTR, $000030A1)
+
+※
+<$00>
+
+
+
+// Pos: 00003838
+
+#WLB(PTR, $000030A4)
+
+#WHB(PTR, $000030A5)
+
+ヨ
+<$00>
+
+
+
+// Pos: 0000383A
+
+#WLB(PTR, $000030A8)
+
+#WHB(PTR, $000030A9)
+
+ッ
+<$00>
+
+
+
+// Pos: 0000383C
+
+#WLB(PTR, $000030AC)
+
+#WHB(PTR, $000030AD)
+
+ャ
+<$00>
+
+
+
+// Pos: 0000383E
+
+#WLB(PTR, $000030B0)
+
+#WHB(PTR, $000030B1)
+
+ュ
+<$00>
+
+
+
+// Pos: 00003840
+
+#WLB(PTR, $000030B4)
+
+#WHB(PTR, $000030B5)
+
+ョ
+<$00>
+
+
+
+// Pos: 00003842
+
+#WLB(PTR, $000030B8)
+
+#WHB(PTR, $000030B9)
+
+ー
+<$00>
+
+
+
+// Pos: 00003844
+
+#WLB(PTR, $000030BC)
+
+#WHB(PTR, $000030BD)
+
+ラ
+<$00>
+
+
+
+// Pos: 00003846
+
+#WLB(PTR, $000030C0)
+
+#WHB(PTR, $000030C1)
+
+リ
+<$00>
+
+
+
+// Pos: 00003848
+
+#WLB(PTR, $000030C4)
+
+#WHB(PTR, $000030C5)
+
+ル
+<$00>
+
+
+
+// Pos: 0000384A
+
+#WLB(PTR, $000030C8)
+
+#WHB(PTR, $000030C9)
+
+レ
+<$00>
+
+
+
+// Pos: 0000384C
+
+#WLB(PTR, $000030CC)
+
+#WHB(PTR, $000030CD)
+
+ロ
+<$00><$00><$00>
+
+
+
+// Pos: 00003850
+
+#WLB(PTR, $000030D0)
+
+#WHB(PTR, $000030D1)
+
+ノフ
+<$00><$00>
+
+
+
+// Pos: 00003854
+
+#WLB(PTR, $000030D4)
+
+#WHB(PTR, $000030D5)
+
+ライカ
+<$00>
+
+
+

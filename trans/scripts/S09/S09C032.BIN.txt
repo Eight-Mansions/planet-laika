@@ -1,0 +1,475 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+#JMP($0000160D)
+
+// Pos: 0000160D
+
+#WLB(PTR, $00000174)
+
+#WHB(PTR, $00000175)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nイーブルマインドが…吹き出したのか。
+\n
+Evil Mind...shout\n
+out?
+<$00>
+
+
+
+
+// Pos: 0000162E
+
+#WLB(PTR, $000001A8)
+
+#WHB(PTR, $000001A9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n君は… リバー…
+\n
+River... It's you...
+<$00>
+
+
+
+
+// Pos: 00001643
+
+#WLB(PTR, $000001C4)
+
+#WHB(PTR, $000001C5)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nなんだかあんたをだましたみたいで…\n僕はやっぱり中途ハンパな存在なんだね…
+\n
+Ah, seems I lead you\n
+on a red herring. I'm
+<$0C>
+just a made up\n
+existence, after all.
+<$00>
+
+
+
+
+// Pos: 00001678
+
+#WLB(PTR, $000001D8)
+
+#WHB(PTR, $000001D9)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nリバー、君の罪とは、本当なのか？
+\n
+River, were your\n
+"sins" made up too?
+<$00>
+
+
+
+
+// Pos: 00001698
+
+#WLB(PTR, $000001F4)
+
+#WHB(PTR, $000001F5)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nたぶん… いや、僕のもう一人… リトルが\n双子の子どもたちに靴下を配ったんだ…
+\n
+Maybe...no, it was\n
+the other me. Liter
+<$0C>
+would give out\n
+stockings to twin\n
+children.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nクリスマスプレゼントを入れる、\n赤い靴下だよ。
+\n
+Little red stockings\n
+with Christmas
+<$0C>
+presents inside.
+<$00>
+
+
+
+
+// Pos: 000016F5
+
+#WLB(PTR, $00000208)
+
+#WHB(PTR, $00000209)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n靴下…\nプレゼントは何だ？
+\n
+Stockings, huh... And\n
+what were these
+<$0C>
+"presents"?
+<$00>
+
+
+
+
+// Pos: 00001711
+
+#WLB(PTR, $00000224)
+
+#WHB(PTR, $00000225)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nプレゼントは、悪夢だよ。\n双子たちは眠ってる間に… 姿を消した。
+\n
+The presents?\n
+Nightmares. When the
+<$0C>
+twins fell asleep,\n
+they would both\n
+disappear.
+<$00>
+
+
+
+
+// Pos: 00001743
+
+#WLB(PTR, $00000238)
+
+#WHB(PTR, $00000239)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nしかし、なぜ双子なんだ？\n双子に何かいわれでもあるのか？
+\n
+But why twins?\n
+There's gotta be a
+<$0C>
+reason to target\n
+twins, right?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nここに子供がいるなんて…\nそんな話は開いていないぞ。
+\n
+I know I've seen\n
+children around here,
+<$0C>
+but I've never heard\n
+about a twin-napper.
+<$00>
+
+
+
+
+// Pos: 00001798
+
+#WLB(PTR, $00000254)
+
+#WHB(PTR, $00000255)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n預言だよ！ 預言にあるんだ、\nマコトの双子が完全な人間になれるって。
+\n
+It was the prophecy!\n
+In the prophecy, the
+<$0C>
+twins of truth can\n
+become wholly human!
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\nヘロデさんは夢の中で\n神様から教えてもらったらしいよ。
+\n
+Apparently, God came\n
+to Herod and told him
+<$0C>
+thus in a dream.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n僕とおんなじだね…神って…\n本当は建うのかも知れないよ。
+\n
+That's what happened\n
+to me also, but then
+<$0C>
+again...I fear I've\n
+been mistaken.
+<$00>
+
+
+
+
+// Pos: 0000181E
+
+#WLB(PTR, $00000268)
+
+#WHB(PTR, $00000269)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nヘロデについて教えてくれ。\nヘロデは誰かにおどかされていたのか？
+\n
+Tell me about Herod.\n
+Is he scared of
+<$0C>
+someone in\n
+particular?
+<$00>
+
+
+
+
+// Pos: 0000184D
+
+#WLB(PTR, $00000284)
+
+#WHB(PTR, $00000285)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\n分からないよ。\nあの人は悪夢の中で生まれてきたんだ。
+\n
+That, I don't know.\n
+Herod was born into
+<$0C>
+nightmares.
+<$0C><$0B>
+//リバー：
+River:
+<$0D>
+//\n呪われた人なんだ。\nいつも悪夢におびえてるんだよ。
+\n
+He's a cursed man,\n
+doomed to always be
+<$0C>
+frightened by\n
+nightmares.
+<$00>
+
+
+
+
+// Pos: 00001898
+
+#WLB(PTR, $00000298)
+
+#WHB(PTR, $00000299)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nおびえる心もイーブルマインドにねらわれる、\nそういうことなんだな。
+\n
+A frightened mind is\n
+an evil mind, I
+<$0C>
+suppose.
+<$00>
+
+
+
+
+// Pos: 000018C7
+
+#WLB(PTR, $0000043C)
+
+#WHB(PTR, $0000043D)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nだめだ、もう、持ちこたえられない…\n僕の役目は終わったんだ…
+\n
+D-Dammit! I can't\n
+hold on any longer.
+<$0C>
+My role is\n
+finished...
+<$00>
+
+
+
+
+// Pos: 000018F5
+
+#WLB(PTR, $00000458)
+
+#WHB(PTR, $00000459)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nリトルが目を覚ましたのか…
+\n
+Is Liter waking up,\n
+you mean?
+<$00>
+
+
+
+
+// Pos: 00001911
+
+#WLB(PTR, $00000494)
+
+#WHB(PTR, $00000495)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nうううう、何だ？…お前は…
+\n
+Owwww, what happened?\n
+What're you...
+<$0C><$0B>
+//リトル：
+Liter:
+<$0D>
+//\n夢だ！ これは夢だ！
+\n
+Ah, a dream! This is\n
+a dream!
+<$00>
+
+
+
+
+// Pos: 0000193B
+
+#WLB(PTR, $000004B0)
+
+#WHB(PTR, $000004B1)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nリトル…リトルなのか？\nもう少し、リバーと話させてくれ！
+\n
+Liter? Why are you\n
+here? Quick, let me
+<$0C>
+talk to River just a\n
+little longer!
+<$00>
+
+
+
+
+// Pos: 00001966
+
+#WLB(PTR, $000004CC)
+
+#WHB(PTR, $000004CD)
+
+<$10><$0B>
+//リトル：
+Liter:
+<$0D>
+//\nううう、うるさい！\n何をしてるんだ、お前は、また俺を…くそっ！
+\n
+Grrr, don't yell at\n
+me! What do you want
+<$0C>
+from me THIS TIME,\n
+huh? Grah!
+<$00>
+
+
+
+
+// Pos: 0000198E
+
+#WLB(PTR, $000004E8)
+
+#WHB(PTR, $000004E9)
+
+<$10><$13><$19><$0B>
+//リバー：
+River:
+<$0D>
+//\nはあはあ、僕は、もう用済みだ…\nふふふ、用済み…
+\n
+Haha, I...am\n
+obselete, haha...
+<$0C>
+I've served my\n
+purpose.
+<$00>
+
+
+
+
+// Pos: 000019B6
+
+#WLB(PTR, $00000504)
+
+#WHB(PTR, $00000505)
+
+<$10><$13><$18><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\n用済み？
+\n
+Served your purpose?
+<$0C><$0B>
+//スペーサー：
+Spacer:
+<$0D>
+//\nリバー、用済みとはどういう意味だ？\nリバー！
+\n
+River, what do you\n
+mean by "obsolete"?
+<$0C>
+River!
+<$00>
+
+
+
+
