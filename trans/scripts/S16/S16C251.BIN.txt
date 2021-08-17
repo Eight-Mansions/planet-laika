@@ -16,23 +16,45 @@
 Marrakesh:
 <$0D>
 //\n決まってるわよ、お顔のためでしょ。
+\n
+Have you made a\n
+decision about your
+<$0C>
+face?
 <$0C><$0B>
 //マラケシュ：
 Marrakesh:
 <$0D>
 //\n見かけよ、やっぱり人は見かけ、\nあなたもそう思うでしょ。
+\n
+Look, it's all about\n
+outward appearances.
+<$0C>
+Don't you agree?
 <$0C><$0B>
 //マラケシュ：
 Marrakesh:
 <$0D>
 //\n同じこと考えてるのよね、\nそうよね、ヨランダ。
+\n
+Great minds think\n
+alike, so surely you
+<$0C>
+agree. Right Yolanda?
 <$0C><$0B>
 //マラケシュ：
 Marrakesh:
 <$0D>
 //\nあら、そういうんじゃないの、\nあなたは…ヨランダ。
+\n
+Oh? I'm not wrong, am\n
+I? Certainly not,
+<$0C>
+because\n
+you're...Yolanda
 <$1E>
 //行
+行
 <$00>
 
 
@@ -49,8 +71,16 @@ Marrakesh:
 Marrakesh:
 <$0D>
 //\nお顔がなにより、見かけの人よ。\nアタシもあなたも、そうでしょ、ヨランダ。
+\n
+It doesn't matter\n
+who, Yolanda; faces
+<$0C>
+are the centerpiece\n
+of our outward\n
+appearance.
 <$1E>
 //中
+中
 <$00>
 
 

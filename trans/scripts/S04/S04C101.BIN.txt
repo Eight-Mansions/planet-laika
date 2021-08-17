@@ -487,6 +487,12 @@ the ice.
 子Madam Agatha:
 <$0D>
 //\nディセンバー、春のような１２月よ。\n１台のバスが見えるわ。
+\n
+December is the last\n
+month before spring.
+<$0C>
+A lone bus can be\n
+seen.
 <$00>
 
 
@@ -740,6 +746,12 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\nセプテンバーは９月、実りのときね。\n今までとは建う惑じね… うまく見えないわ。\nちょっと待ってね…
+\n
+September is a month\n
+of harvest. In that,
+<$0C>
+it is ripe with\n
+uncertainty. Wait...
 <$00>
 
 
@@ -755,11 +767,23 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\n夜のキッチンね。 でも今度は静かね…\nあなたとタニア母さんが見えるわ、\n何かひそひそ話し合ってる…
+\n
+There, it is a\n
+kitchen on a quiet
+<$0C>
+night. I see you and\n
+Tanya there.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何か恐ろしいことが起きそうよ。
+\n
+You meet to in secret\n
+to discuss. Something
+<$0C>
+scary is about to\n
+happen.
 <$00>
 
 
@@ -815,6 +839,13 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\n冷たい霧の朝、１１月…\n制服を着た男がふたり、ポーチにいるわ。\nはげしくドアをノックしてる…
+\n
+A cold, foggy\n
+November morning. Two
+<$0C>
+policemen stand on\n
+the porch, banging\n
+the door.
 <$00>
 
 
@@ -830,11 +861,23 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\n出てきたのはセルゲイよ。\n左右の手が後ろに…
+\n
+The one to answer is\n
+Sergei. His hands are
+<$0C>
+placed behind his\n
+back.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nさっきの制服の男は警官だったのね、\nセルゲイが連行されて行くわ。\nそして霧のカーテンが降りる…
+\n
+The men here to take\n
+Sergei away. The
+<$0C>
+foggy curtain is\n
+lifted.
 <$00>
 
 

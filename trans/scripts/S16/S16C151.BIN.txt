@@ -16,18 +16,36 @@
 Yang:
 <$0D>
 //\nひゃひゃー、乗ったぞ、\nひゅーっと電波に乗ったぞ。
+\n
+Wheeeeee, I'm riding!\n
+I'm riding on radio
+<$0C>
+waves! Weee!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nあんたもだろ、俺と一緒に電波に乗れるんだろ。\n見たところそんな惑じだ、俺と一緒だ、
+\n
+You are too! We're\n
+riding together on
+<$0C>
+radio waves! I see\n
+you sense it too,\n
+like me!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nあんたはスペーサーっていうんだ。\n知ってるよ、頭にびんびんくるタイプだ。
+\n
+You, who goes by\n
+Spacer. Our type is
+<$0C>
+hard-headed, I know.
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -44,8 +62,16 @@ Yang:
 Yang:
 <$0D>
 //\nついに届いたんだな、電波だ！\nあんたも電波だ、俺と一緒だスペーサー。
+\n
+They've finally\n
+arrived! You and the
+<$0C>
+radio waves! We're\n
+all together now,\n
+Spacer!
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -156,8 +182,15 @@ Yang:
 Yang:
 <$0D>
 //\n何か光らなかったか？ありゃ電波じゃない、\nもっと別ものだ。
+\n
+What was glowing out\n
+there? It wasn't
+<$0C>
+radio waves, but\n
+something else.
 <$1E>
 //理
+理
 <$00>
 
 

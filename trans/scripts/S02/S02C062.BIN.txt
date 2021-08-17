@@ -306,16 +306,30 @@ face death.
 Phoenix:
 <$0D>
 //\nそうか…
+\n
+So, let's review...
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nユニバーサルマンはガリルとの闘いに敗れて\n死に向き合ったんだね。\n分身はその時に誕生したんだ。
+\n
+Universalman lost his\n
+confrontation with
+<$0C>
+Garyl, and faced\n
+death.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nあるいはいちど死んでよみがえったのかな？
+\n
+In that time, his\n
+alter ego was born.
+<$0C>
+Or, did he die and be\n
+reborn?
 <$00>
 
 
@@ -332,11 +346,25 @@ Phoenix:
 White Eagle:
 <$0D>
 //\n分身と合体してユニバーサルマンは新しくなる。\nおそらく残りの預言は\nそこで得られるじゃろう。
+\n
+Universalman will\n
+after he merges with
+<$0C>
+his alter ego. The\n
+other prophecies may\n
+follow.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n全ての預言がそろうと\nガリルの妄想は消えてなくなり、\n預言が現実のものとなるのじゃ。
+\n
+When all prophecies\n
+are in place, Garyl's
+<$0C>
+fantasies too will\n
+die, and be reborn as\n
+actuality.
 <$00>
 
 
@@ -353,6 +381,12 @@ White Eagle:
 Phoenix:
 <$0D>
 //\n今はそうじゃないの？\n預言が実現しかけてるんじゃないの？
+\n
+Isn't that already\n
+the case? Aren't the
+<$0C>
+prohpecies coming\n
+true right now?
 <$00>
 
 
@@ -369,6 +403,12 @@ Phoenix:
 White Eagle:
 <$0D>
 //\n今、実現しようとしておるのは\nガリルの妄想じゃ。預言ではないのじゃ。
+\n
+What you see now are\n
+Garyl's fantasies
+<$0C>
+coming true, not the\n
+prophecies.
 <$00>
 
 
@@ -609,6 +649,11 @@ somewhere?
 Spacer:
 <$0D>
 //\n鏡から出てきたのか。\nイレギュラーなことだ。
+\n
+Coming out of\n
+mirrors? Now that's
+<$0C>
+irregular.
 <$00>
 
 

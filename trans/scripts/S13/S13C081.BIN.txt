@@ -16,8 +16,14 @@
 子Phoenix：
 <$0D>
 //\n僕が？ これは僕の見たものじゃない！\n
+\n
+Is this my...no! I\n
+didn't see this!
 <$0F>
 //だ、あいつだ！\nここが憎しみの原点なのか！
+did! Was this the\n
+origin of their\n
+hatred?
 <$0E><$5A><$17><$00>
 
 
@@ -34,6 +40,11 @@
 Phoenix:
 <$0D>
 //\nデスロック…\n死を誘うのか。
+\n
+The deathrock... It\n
+beckons those around
+<$0C>
+it toward death.
 <$00>
 
 
@@ -51,6 +62,13 @@ Phoenix:
 子Phoenix：
 <$0D>
 //\n体… これが僕の体…\nはじめてだ、こんなのはじめてだ。\nあああ、混乱する！
+\n
+This body! Th-this is\n
+the first time my
+<$0C>
+body's felt anything\n
+like this! It's\n
+Madness!
 <$0E><$78><$17><$00>
 
 

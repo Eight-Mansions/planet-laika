@@ -16,6 +16,9 @@
 Tommy:
 <$0D>
 //\nおう？\n兄ちゃんよう、俺の夢になんか用か？
+\n
+Oh？ Hey, Brother. Got\n
+business in my dream？
 <$00>
 
 
@@ -32,23 +35,45 @@ Tommy:
 Tommy:
 <$0D>
 //\nああ、クロウのやつみたいに\n人の夢に出入りしてるのか。
+\n
+I take it you can go\n
+in and out of
+<$0C>
+peoples' dreams like\n
+that Crow guy does.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nなぁ、兄ちゃんよう、俺とおんなじだろ、\nなあ、おんなじだろ。
+\n
+Nah, you're just like\n
+me huh? Aren't you,
+<$0C>
+Brother?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n力がわいてくる惑じだろ、へへ、知ってるぜ。
+\n
+I just know we're\n
+getting stronger,
+<$0C>
+hehe.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nここは俺の夢だ、\n兄ちゃんはアーネストっていうんだ。
+\n
+Well, this here is my\n
+dream. Brother, who
+<$0C>
+goes by "Ernest".
 <$1E>
 //家
+家
 <$00>
 
 
@@ -65,13 +90,24 @@ Tommy:
 Tommy:
 <$0D>
 //\n兄ちゃんはアーネストっていうんだ、\n俺とおんなじタイプだ。
+\n
+Brother, who goes by\n
+"Ernest", we're the
+<$0C>
+same type.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n力がわいてくるんだろ。\n俺の夢のなかじゃウソはつけないぜ。
+\n
+We're getting\n
+stronger. Lies don't
+<$0C>
+exist in MY dream.
 <$1E>
 //家
+家
 <$00>
 
 
@@ -208,8 +244,15 @@ Tommy:
 Tommy:
 <$0D>
 //\nやっぱりだ、アーモンドの臭い？\nさっきより強くなってきやがったぜ。
+\n
+It sure smells like\n
+almonds, don't it.
+<$0C>
+It's even stronger\n
+than before.
 <$1E>
 //家
+家
 <$00>
 
 
@@ -226,8 +269,11 @@ Tommy:
 Tommy:
 <$0D>
 //\n俺はアーモンドなんてきらいだぜ。
+\n
+I hate almonds.
 <$1E>
 //家
+家
 <$00>
 
 

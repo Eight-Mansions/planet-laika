@@ -16,6 +16,9 @@
 Crow:
 <$0D>
 //\nひゃ！ ヘロデのお友達が消えちまった。
+\n
+Aww, Herod's friends\n
+have disappeared!
 <$00>
 
 
@@ -32,6 +35,12 @@ Crow:
 Crow:
 <$0D>
 //\nまだいるぜ、もうひとり、\n夢にうなされてるやつが。
+\n
+Well, there's still\n
+one more person. The
+<$0C>
+one dreaming all\n
+wrestlessly.
 <$00>
 
 
@@ -48,6 +57,13 @@ Crow:
 Crow:
 <$0D>
 //\n女だ、汚ねぇ女だ。ホレてるのか。ひゃ！\n女は汚れてるぜ、純粋じゃない！
+\n
+Look at this filthy\n
+woman. Shameful,
+<$0C>
+isn't she? Hyah!\n
+She's dirty, not\n
+pure!
 <$00>
 
 
@@ -64,6 +80,11 @@ Crow:
 Crow:
 <$0D>
 //\nへへ、この女の右手は汚れてるぜ！
+\n
+Hehe, this woman's\n
+right hand is so
+<$0C>
+FILTHY!
 <$00>
 
 
@@ -80,11 +101,22 @@ Crow:
 Crow:
 <$0D>
 //\nへへへ、死者の光だ。索敵なショーだ。
+\n
+Hehehe, the light of\n
+the deceased. It's
+<$0C>
+lovely to see.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n今度は左手、左手だ。\n汚れた左手は見たくねぇ！
+\n
+And now, for the left\n
+hand. Left. Uggh, I
+<$0C>
+don't want to see\n
+this so filthy!
 <$00>
 
 
@@ -101,16 +133,30 @@ Crow:
 Crow:
 <$0D>
 //\nどうだ、死者の気分は、いい気分だろう。\n俺は夢見る天才だ。
+\n
+How does it feel to\n
+be deceased? Does it
+<$0C>
+feel good, my\n
+dreaming prodigy?
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nさあ、お次は特別サービス、\nこの女はアシが汚れてるときたもんだ。
+\n
+Then, next is our\n
+special service. This
+<$0C>
+sick rose needs a\n
+closer sniff.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n右も左もだ！
+\n
+Right and left!
 <$00>
 
 
@@ -127,16 +173,32 @@ Crow:
 Crow:
 <$0D>
 //\nへへへへへへ、これでいいんだ。\nおっと、まだ臭うぜ、くんくんくん、
+\n
+Hehehe, this is fine.\n
+Might as well smell
+<$0C>
+it still. Sniff,\n
+sniff...
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nへっ、こりゃ子宮の臭いだ。\n腐った子宮の臭いがするぜ。
+\n
+Blech, what a smelly\n
+womb. Her womb smells
+<$0C>
+like it's rotted!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nむしゃむしゃむしゃ、\n腐った子宮はどんな味がするんだ？
+\n
+Grumble, grumble. I\n
+wonder what a rotted
+<$0C>
+uterus tastes like...
 <$00>
 
 
@@ -153,16 +215,33 @@ Crow:
 Crow:
 <$0D>
 //\n変な光だ、あーあー、やめろ！ ちくしょう！\nあーあー、目が覚める…
+\n
+What's this strange\n
+light, huh? Ahh!
+<$0C>
+STOP! NO! I'm waking\n
+up...!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nイヤだ、戻りたくない！\n俺はここがいいんだ、とめろ、この光を！
+\n
+STOP! I DON'T WANT TO\n
+GO BACK! I LIKE THIS
+<$0C>
+PLACE! STOP! NOT THE\n
+LIGHT!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nあああああ、イヤだ、\n光なんかいらないんだ！
+\n
+AHHHH, NOOOO! I DON'T\n
+NEED TO SEE THE
+<$0C>
+LIGHT!
 <$00>
 
 

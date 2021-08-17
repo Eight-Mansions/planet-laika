@@ -16,16 +16,31 @@
 White Eagle:
 <$0D>
 //\n悪夢じゃ、ここが悪夢…
+\n
+A nightmare! Ohh,\n
+this is a nightmare!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nほうほう、３人の悪夢がつながっておるのう。\nトミー、マラケシュ、ヤング…
+\n
+Actually, three\n
+tethered into one:
+<$0C>
+Tommy's, Marrakesh's,\n
+and Yang's.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nトミーには会ったのう。\nあとニ人はどこじゃ？
+\n
+You must've seen\n
+Tommy by now, but
+<$0C>
+where are the other\n
+two?
 <$00>
 
 
@@ -42,6 +57,13 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nトミーには会ったのう。 あとニ人じゃ。\nマラケシュにヤングじゃ。
+\n
+You must've seen\n
+Tommy by now, but
+<$0C>
+where are the other\n
+two: Marrakesh and\n
+Yang?
 <$00>
 
 
@@ -84,11 +106,22 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nお前は誰かに心を読まれておるようじゃな。
+\n
+You seem to be\n
+reading someone's
+<$0C>
+mind.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n用心せねばならんぞ、\nここではうかつなことは許されんからのう。
+\n
+You must be careful!\n
+We can't allow that
+<$0C>
+to be done here so\n
+carelessly.
 <$00>
 
 
@@ -105,11 +138,22 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nお前は誰かに心を読まれておるようじゃな。
+\n
+You seem to be\n
+reading someone's
+<$0C>
+mind.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n用心せねばならんぞ、\nここではうかつなことは許されんからのう。
+\n
+You must be careful!\n
+We can't allow that
+<$0C>
+to be done here so\n
+carelessly.
 <$00>
 
 

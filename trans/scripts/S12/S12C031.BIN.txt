@@ -269,6 +269,11 @@ should be one.
 Phoenix:
 <$0D>
 //\nエイプリルはどこにいるんだ？\nまだ見えないのか？
+\n
+Where is April? Have\n
+you still not seen
+<$0C>
+her?
 <$00>
 
 
@@ -285,6 +290,11 @@ Phoenix:
 Chloe:
 <$0D>
 //\n見えないの…彼女だけは…\nすごく遠いのよ。
+\n
+She's the only one I\n
+can't... She's too
+<$0C>
+far...
 <$00>
 
 
@@ -385,16 +395,31 @@ Chloe:
 Chloe:
 <$0D>
 //\n私の目を見て…目を見るのよ…
+\n
+Look into my eyes...\n
+Look into my eyes...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nそう、ほら惑じるでしょ、フェニックス、\nこれが本当の瞬間よ。
+\n
+Yes, Phoenix, it is\n
+just as you sensed.
+<$0C>
+This is the moment of\n
+truth.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\n体がないと、こんな気分にはなれないのよ。\n開いてる、フェニックス？
+\n
+Of course, you can't\n
+feel it without a
+<$0C>
+body now, can you,\n
+Phoenix.
 <$00>
 
 
@@ -411,11 +436,22 @@ Chloe:
 Chloe:
 <$0D>
 //\nどうしたの… フェニックス…\nアーモンドの香りがしない…
+\n
+Are you listening,\n
+Phoenix...? Wait, why
+<$0C>
+don't you smell like\n
+almonds?
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nあなたは別な人なのね、きっとそうよ。
+\n
+Ah, you're someone\n
+else. I'm sure of it
+<$0C>
+now.
 <$00>
 
 
@@ -432,11 +468,22 @@ Chloe:
 Chloe:
 <$0D>
 //\nあなたはフェニックスじゃないのね。\nそっくりだけど…
+\n
+You're not Phoenix at\n
+all, are you? You're
+<$0C>
+more like a...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\n双子なのね、そうね、双子なのよ。\nきっとそうよ、あなたたちはそっくりだもん。
+\n
+...a twin, that's it.\n
+His twin. That must
+<$0C>
+be what you are to\n
+him.
 <$00>
 
 

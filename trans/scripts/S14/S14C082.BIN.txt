@@ -16,11 +16,21 @@
 Gold:
 <$0D>
 //\nなんかバチバチ音がするんだ。\nロッジの方からだ。
+\n
+There's a crackling\n
+noise coming from the
+<$0C>
+lodge.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nまた変なまじないでもやってるのか…\nあ、あ、これがそうか？
+\n
+Are they doing that\n
+strange ritual again?
+<$0C>
+Ah, that must be it.
 <$00>
 
 
@@ -37,11 +47,23 @@ Gold:
 Gold:
 <$0D>
 //\nお前らが来てからロクなことがねぇ。\nまたバチバチしてきたぜ、
+\n
+Nothing good's come\n
+out of you Earthlings
+<$0C>
+showin' up. Blowin'\n
+sparks wherever you\n
+go.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nおい、レッドのやつもいかれちまった、\nお前らのせいだ。
+\n
+Hmph, I bet it's your\n
+fault Red went crazy
+<$0C>
+too.
 <$00>
 
 
@@ -58,6 +80,12 @@ Gold:
 Gold:
 <$0D>
 //\nなんでだ？ おい、変だ、\n俺がもうひとりいるみたいだ…
+\n
+Gulp... I don't feel\n
+so good. I-it's like
+<$0C>
+there's a...nother\n
+me...
 <$00>
 
 
@@ -86,11 +114,22 @@ Gold:
 Goldman:
 <$0D>
 //\nははは、バカめ。\n俺はゴールドマン、誰よりも強い。
+\n
+Heyyyy, tweaker! I'm\n
+Goldman, and I'm
+<$0C>
+tougher than every\n
+last one of you!
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
 //\n俺に刃向かうなど、もってのほかだ、\n分かったか。
+\n
+There's no way in\n
+Hell you can take me
+<$0C>
+on, got that?
 <$00>
 
 
@@ -107,6 +146,11 @@ Goldman:
 Goldman:
 <$0D>
 //\n弱いやつほどおしゃべりだ。\n俺は建うぜ。
+\n
+The frailer they are,\n
+the harder they talk,
+<$0C>
+but I'm different.
 <$00>
 
 

@@ -16,6 +16,13 @@
 Boomer:
 <$0D>
 //\nああ、死の世界から使いがやって来るんだ。\n鋭いカギ爪でひと裂きだ。もう逃げられない…
+\n
+The messenger comes\n
+from the world of the
+<$0C>
+dead. He tears with\n
+sharp talons. There's\n
+no escape now.
 <$00>
 
 
@@ -32,6 +39,11 @@ Boomer:
 Boomer:
 <$0D>
 //\nあああ、もう逃げられない、\nあああ、早く走れない…
+\n
+Oh, There's no escape\n
+now... Ohhhh, There's
+<$0C>
+no time...
 <$00>
 
 
@@ -48,11 +60,21 @@ Boomer:
 William:
 <$0D>
 //\nようこそ僕へ、ウィリアムへ。
+\n
+Welcome to "me", to\n
+"William".
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\n誰もが不親切、そう思っていることでしょう。\nあなたはこのウィリアムとお話になるといい。
+\n
+Indeed, you may\n
+think, "Everyone is
+<$0C>
+unkind", but you can\n
+talk to me, to\n
+William.
 <$00>
 
 
@@ -69,26 +91,50 @@ William:
 William:
 <$0D>
 //\n僕について言っておくと、僕には預言が分かる、\n理解しているということです。
+\n
+As for me, William\n
+understands
+<$0C>
+prophecies. That\n
+means William can\n
+comprehend them,
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\n預言が一連の出来事のカギになっていることも\n知っています。
+\n
+William knows they\n
+are the key behind
+<$0C>
+these chains of\n
+events.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nそして今、預言に近づいています。
+\n
+Yes, the prophecy\n
+draws ever near here!
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nきっとこの付近に預言をさずかる場所が\nあるはずで、僕はそれをさがしているのです。
+\n
+There must be one\n
+place the prophecy
+<$0C>
+has yet to overtake.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\n目玉の家とかかも知れませんね。
+\n
+Perhaps the eyeball\n
+house.
 <$00>
 
 
@@ -109,11 +155,19 @@ William:
 William:
 <$0D>
 //\nこの近くにあるはずです。\nそこが預言をさずかる場所です。
+\n
+There must be one\n
+place the prophecy
+<$0C>
+has yet to overtake.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\n目玉の家かも知れないのです。
+\n
+Perhaps the eyeball\n
+house.
 <$00>
 
 
@@ -130,16 +184,32 @@ William:
 White Eagle:
 <$0D>
 //\nようし、そこまでじゃ。\nロッジへの道はもう閉ざしたのう。
+\n
+Well, that's that.\n
+The path to the lodge
+<$0C>
+is now closed.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n合体の現場じゃ、\n危ないのじゃ。
+\n
+This is the site of\n
+the merge. It's
+<$0C>
+dangerous.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nさあ、飛ぶぞ、わしにもまだ残っておるぞ、\nスペシャルな力じゃ。行くぞ！
+\n
+Let us fly! I still\n
+have some special
+<$0C>
+powers left in me. We\n
+MUST go!
 <$00>
 
 
@@ -156,6 +226,11 @@ White Eagle:
 Phoenix:
 <$0D>
 //\nどうしたの？\n何をそんなにあわててるの？
+\n
+Wait, what's the\n
+matter? Is something
+<$0C>
+going to happen?
 <$00>
 
 
@@ -168,10 +243,20 @@ Phoenix:
 #WHB(PTR, $0000036D)
 
 <$10>
-うーん… おかしいわね…\n気分じゃないのね。
+//うーん… おかしいわね…\n気分じゃないのね。
+Hmmm, how weird.\n
+I don't feel\n
+anything.
 <$0C>
-この鏡じゃダメなのかしら。\nでもここにはほかに鏡はないわね、\nやっぱりこの鏡よね。
+//この鏡じゃダメなのかしら。\nでもここにはほかに鏡はないわね、\nやっぱりこの鏡よね。
+Maybe this mirror is\n
+no good,\n
+but there's no other
+<$0C>
+mirror, right?\n
+So this must be it...
 <$00>
+
 
 
 

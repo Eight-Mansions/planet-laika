@@ -16,13 +16,27 @@
 Goldman:
 <$0D>
 //\n俺はこっちのほうが落ちつくな、\n酒場なんかよりな。
+\n
+Not sure why, but I'm\n
+even more relaxed
+<$0C>
+here than I am at the\n
+pub.
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
 //\nちょっと生臭いけどな、\n寒くなってきたから平気だろうよ。
+\n
+It's a bit\n
+questionable here,
+<$0C>
+but it's getting\n
+colder, so that's\n
+fine.
 <$1E>
 //声
+声
 <$00>
 
 
@@ -39,8 +53,11 @@ Goldman:
 Goldman:
 <$0D>
 //\n酒は嫌いだ…
+\n
+I hate liquor.
 <$1E>
 //声
+声
 <$00>
 
 
@@ -57,8 +74,15 @@ Goldman:
 Gold:
 <$0D>
 //\nまだうろついてたのか、お前？ああ？\nなんで俺はこんなところにいるんだ、\n気味悪いぜ。
+\n
+Why're you still\n
+here, creeping around
+<$0C>
+wherever I am? That's\n
+creepy.
 <$1E>
 //声
+声
 <$00>
 
 
@@ -75,8 +99,14 @@ Gold:
 Gold:
 <$0D>
 //\nああ、酒が切れてきやがった。
+\n
+Ah, guess who's\n
+running out of
+<$0C>
+liquor.
 <$1E>
 //家
+家
 <$00>
 
 

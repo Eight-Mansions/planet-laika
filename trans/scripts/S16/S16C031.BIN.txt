@@ -16,11 +16,22 @@
 Crow:
 <$0D>
 //\nやったよ、兄さん、\nあいつらの夢をうばってやったよ。
+\n
+I did it, Brother! I\n
+took all their
+<$0C>
+dreams!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n死んだ猫みたいに眠ってね。\n俺は寝付きがいいんだ。
+\n
+They're all sleeping\n
+like dead cats, huh.
+<$0C>
+Why, I could use a\n
+rest for myself now!
 <$00>
 
 
@@ -37,23 +48,45 @@ Crow:
 Crow:
 <$0D>
 //\nあはは、ここじゃ俺が一番。\nそうだろ、俺だろ！
+\n
+Ahaha, I'm the top\n
+dog here! That's
+<$0C>
+right! Me!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nははっ、俺をさんざんバカにしやがって！
+\n
+Hahaha, and they were\n
+calling ME the
+<$0C>
+whack-job!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nもうえらそうなことは言わさない、\nヘロデのやつもおびえきってたぞ。
+\n
+Bet they won't talk\n
+like that anymore.
+<$0C>
+Even old Herod was\n
+shaking in his boots!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n楽しいな、おびえてたぞ、楽しいな！
+\n
+Isn't it great?\n
+They're all so
+<$0C>
+scared! Ha!
 <$1E>
 //理
+理
 <$00>
 
 
@@ -70,16 +103,30 @@ Crow:
 Neo Universalman:
 <$0D>
 //\n誰かがいる…この世界に。
+\n
+Someone is here in\n
+this world.
 <$0C><$0B>
 //ネオ・ユニバーサルマン：
 Neo Universalman:
 <$0D>
 //\nおびえた心が悪夢をさまよい、\n私をくもらせている…
+\n
+A frightened mind\n
+wanders the
+<$0C>
+nightmare, clouding\n
+me.
 <$0C><$0B>
 //ネオ・ユニバーサルマン：
 Neo Universalman:
 <$0D>
 //\nああ、言葉が届かない…\n死への道が開かない…
+\n
+Ah, my words won't\n
+reach. The road to
+<$0C>
+death won't open.
 <$00>
 
 
@@ -126,6 +173,9 @@ Neo Universalman:
 Neo Universalman:
 <$0D>
 //\nおびえの元を取り除け。
+\n
+Remove the source of\n
+the fear.
 <$00>
 
 

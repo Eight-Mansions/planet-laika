@@ -16,16 +16,27 @@
 White Eagle:
 <$0D>
 //\nユニバーサルマンや、おまえの右ウデは\nついぞ戻らなかったのじゃな。
+\n
+Universalman's right\n
+arm never recovered.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nあのウデがただひとつの\n生者のあかしじゃった…
+\n
+That arm was his only\n
+proof of being alive.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nいよいよお前の中で死が熟したのじゃな…
+\n
+In the end, Death\n
+finally sewed its
+<$0C>
+seed within him.
 <$00>
 
 
@@ -42,11 +53,22 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nとうとうユニバーサルマンは\n死の世界で再生したのじゃ。
+\n
+Ultimately,\n
+Universalman found
+<$0C>
+rebirth in the world\n
+of death.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n再生して\nネオ・ユニバーサルマンとなったのじゃ。
+\n
+From there, he was\n
+reborn as Neo
+<$0C>
+Universalman.
 <$00>
 
 
@@ -63,6 +85,12 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nネオや、預言はどうなったのじゃ…\nここにおる者が受けるのか…
+\n
+What will Neo do with\n
+the prophecy? Is
+<$0C>
+there not someone\n
+here who can take it?
 <$00>
 
 
@@ -79,11 +107,18 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nおおおおおおおお、これは！
+\n
+Ohohohoho, I see!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nお前は、お前ではないな、\nさっきのお前ではない…
+\n
+I-It's you, isn't it?\n
+You're not the you
+<$0C>
+from before, are you?
 <$00>
 
 
@@ -100,21 +135,43 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nやはりそうじゃったか。 マコトの双子とは\nお前たちのことじゃったのか。
+\n
+I knew it! That means\n
+you two are the twins
+<$0C>
+of truth!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nひとりはココロとして、\nあとひとりはカラダとして存在しておる…
+\n
+One of you exists as\n
+the spirit, and the
+<$0C>
+other you as the\n
+flesh.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nココロとカラダが、それぞれに\nはじめの一歩を記すのじゃな。
+\n
+The spirit and the\n
+flesh both mark the
+<$0C>
+first step of this\n
+communion.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nふほ、深いナゾが解けたのう。
+\n
+Hu-ho! The deep\n
+mystery has been
+<$0C>
+solved!
 <$00>
 
 
@@ -131,11 +188,23 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nところで、お前は預言を理解するのか、\nそれができるのか？
+\n
+By the way, do you\n
+understand what the
+<$0C>
+words of prophecy are\n
+capable of?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n資質がないと預言がお前を焼き尽くすぞ…\n預言は呪いの言葉となるぞ。
+\n
+If you are not\n
+chosen, their worlds
+<$0C>
+will reduce you to\n
+ash like a curse.
 <$00>
 
 
@@ -149,11 +218,18 @@ White Eagle:
 
 <$10><$12>
 //に
+に
 <$0B>
 //ネオ・ユニバーサルマン：
 Neo Universalman:
 <$0D>
 //\n言葉を伝える人間をさがせ。\n私はそこに現れる。
+\n
+Find a human who can\n
+convey the words, and
+<$0C>
+I shall appear to\n
+them.
 <$0C><$12>
 //に
 <$0B>
@@ -161,6 +237,13 @@ Neo Universalman:
 Neo Universalman:
 <$0D>
 //\n預言を理解する人間の前に、\nあああ、私は現れる。
+\n
+Ahh...before the\n
+human who can
+<$0C>
+understand the\n
+prophecies, I shall\n
+appear.
 <$00>
 
 
@@ -179,6 +262,9 @@ Neo Universalman:
 Neo Universalman:
 <$0D>
 //\nあああ… 闇の私… 急げ。
+\n
+Aaaaah...the darkness\n
+in me is...fast...
 <$00>
 
 

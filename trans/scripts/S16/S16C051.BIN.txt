@@ -16,6 +16,9 @@
 Crow:
 <$0D>
 //\nひゃひゃひゃ、俺の王国へようこそだ。
+\n
+Hyahyahya, welcome to\n
+my kingdom!
 <$00>
 
 
@@ -32,6 +35,12 @@ Crow:
 Crow:
 <$0D>
 //\n何だと… 開こえないな、開こえない、\nお前の声などこの俺には開こえないな。
+\n
+Well? C'mon, I don't\n
+hear you... I can't
+<$0C>
+hear your voice one\n
+bit!
 <$00>
 
 
@@ -48,11 +57,23 @@ Crow:
 Crow:
 <$0D>
 //\nやっぱりだ！ 俺のこと、\nいやな目で見やがって、よそ者のくせに！
+\n
+Oh, I get it. You're\n
+looking down on me,
+<$0C>
+even though YOU'RE\n
+the outsider!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nお前だ、何でそんな目で見る、ちくしょう！\n悪夢に閉じ込めてやる！
+\n
+Don't look at me with\n
+those eyes, dammit!
+<$0C>
+I'll...I'll lock you\n
+up in a nightmare!
 <$00>
 
 
@@ -69,6 +90,12 @@ Crow:
 Crow:
 <$0D>
 //\n兄さん、こいつがうるさいよ。\nあはは、兄さん、こいつをおどらせてやる！
+\n
+Brother, he's getting\n
+on my nerves. It's
+<$0C>
+okay, brother. I'll\n
+make 'em dance.
 <$00>
 
 
@@ -85,6 +112,11 @@ Crow:
 Crow:
 <$0D>
 //\nあは、おどれ、おどれ、ヘロデのペットだ、\n生クビとダンスだ！
+\n
+Dance, Herod's pet!\n
+Dance! Let me see
+<$0C>
+some heads roll!
 <$00>
 
 

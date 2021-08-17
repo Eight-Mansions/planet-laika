@@ -129,8 +129,11 @@ it too hard, we will
 damage the brain.
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…
-We must give up on\n
-the operation.
+While it's only a\n
+small tumor now,\n
+but we must give up
+<$0C>
+on the operation.
 <$00>
 
 
@@ -147,8 +150,11 @@ the operation.
 Ernest:
 <$0D>
 //\n
+\n
 <$0F>
 //じゃねぇ、\nこいつは誰なんだ？
+?\n
+No, who's this guy?
 <$00>
 
 
@@ -165,6 +171,12 @@ Ernest:
 Spacer:
 <$0D>
 //\nシュヨウだ、脳にできたシュヨウ…
+\n
+He's a teratoma. A\n
+rare type of tumor
+<$0C>
+currently lodged in\n
+the brain.
 <$00>
 
 
@@ -202,11 +214,23 @@ can do?
 Spacer:
 <$0D>
 //\nシュヨウは、双子として生まれてくるはずの\n一部が取り込まれたものだ。
+\n
+Phoenix was supposed\n
+to be born as a twin,
+<$0C>
+but he developed into\n
+a mass.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nシュヨウの中には兄弟になるはずだった\n人間の髮の毛がつまっていたりする…
+\n
+That mass was\n
+absorbed back into
+<$0C>
+his twin, chunks of\n
+hair and all.
 <$00>
 
 
@@ -223,6 +247,11 @@ Spacer:
 Ernest:
 <$0D>
 //\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…
+\n
+Could've fooled me.\n
+I've never seen hair
+<$0C>
+like that before.
 <$00>
 
 

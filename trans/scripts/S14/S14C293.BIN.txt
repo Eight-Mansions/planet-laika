@@ -16,8 +16,12 @@
 Bull:
 <$0D>
 //\nはじまったんだ、くそっ！
+\n
+Shit, it's already\n
+started...
 <$1E>
 //声
+声
 <$00>
 
 
@@ -34,8 +38,14 @@ Bull:
 Bull:
 <$0D>
 //\n俺を差しおいて、アガタのやつ…\n俺も忘れたいことがあるんだ！
+\n
+I need to see Agatha.\n
+I've got stuff I'd
+<$0C>
+rather forget too!
 <$1E>
 //家
+家
 <$00>
 
 
@@ -52,13 +62,22 @@ Bull:
 Bull:
 <$0D>
 //\nくそ、お顔がひりひりだ…
+\n
+Shit, my face is\n
+tingling so bad.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\nお顔だと？\nおい、お前、俺に変なこと言ったか？
+\n
+What, is it my face?\n
+What the hell do you
+<$0C>
+mean by that?
 <$1E>
 //声
+声
 <$00>
 
 
@@ -75,8 +94,12 @@ Bull:
 Bull:
 <$0D>
 //\nこの俺が！ お顔だと！ へん！
+\n
+This is ME? This is\n
+MY face? Shiiit!
 <$1E>
 //家
+家
 <$00>
 
 

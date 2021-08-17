@@ -194,20 +194,41 @@ so there's no going.
 #WHB(PTR, $00000D31)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nやっと乾いた、涙が乾いた。
+//\nやっと乾いた、涙が乾いた。
+\n
+They've finally\n
+dried. My tears have
+<$0C>
+finally dried.
 <$0C><$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n私がどうしてここにいるか、\nお前はまだ知らない、知らない。
+//\n私がどうしてここにいるか、\nお前はまだ知らない、知らない。
+\n
+Why am I here? You\n
+don't know yet. You
+<$0C>
+still don't know.
 <$0C><$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n考えて、考えて、お前は利口になる。\n利口なら少し分かる、私の理由、少し分かる。
+//\n考えて、考えて、お前は利口になる。\n利口なら少し分かる、私の理由、少し分かる。
+\n
+Think, and you'll\n
+grow wiser. Think,
+<$0C>
+you might understand\n
+me a little.
 <$00>
+
 
 
 

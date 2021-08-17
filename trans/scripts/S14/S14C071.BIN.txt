@@ -16,18 +16,34 @@
 Goldman:
 <$0D>
 //\nあそこじゃない、ここだ、酒場だ…\n俺に近いのはここだ。
+\n
+The pub's not over\n
+there. It's here,
+<$0C>
+close to me.
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
 //\nでもな、俺は飲めねぇんだ、ぜんぜんだ。\nそれなのに、ここが落ちつく。
+\n
+Not that I drink or\n
+anything. It just
+<$0C>
+warms me to be here.
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
 //\nそんなこと考えてたら寒くなってきやがった。
+\n
+But thinking about\n
+that makes me feel
+<$0C>
+much colder now.
 <$1E>
 //声
+声
 <$00>
 
 
@@ -44,8 +60,15 @@ Goldman:
 Goldman:
 <$0D>
 //\n何で俺が酒場なんだ… 下戸なのにな。\n飲めねぇ、一滴もだ。うー、寒い寒い…
+\n
+Why am I at the pub?\n
+I don't even drink!
+<$0C>
+Not one drop! Brr, so\n
+cold!
 <$1E>
 //家
+家
 <$00>
 
 

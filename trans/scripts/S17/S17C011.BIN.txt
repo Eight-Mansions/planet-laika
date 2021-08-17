@@ -245,16 +245,26 @@ AHAHAHAHAHAHAHAHA!
 Phoenix:
 <$0D>
 //\n今のうちだ、エイプリル！
+\n
+Now, April!
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\n鏡の力が弱まっているあいだに、\nそこから出るんだ。
+\n
+Get out of there now,\n
+while the mirror's
+<$0C>
+power is weakened!
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\n早く！ 早く、そこから出るんだ、\nこっちだ！
+\n
+Hurry! Get our of\n
+there now! This way!
 <$00>
 
 
@@ -271,6 +281,9 @@ Phoenix:
 Phoenix:
 <$0D>
 //\nエイプリル… やはり君は…
+\n
+April... It's really\n
+you...
 <$00>
 
 
@@ -287,11 +300,19 @@ Phoenix:
 April:
 <$0D>
 //\nママが死んだとき、私は解放された…
+\n
+When my mother died,\n
+I was released.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n身勝手な愛から自由になったの。私は…
+\n
+I thought I'd find\n
+freedom from her
+<$0C>
+selfish love, so I...
 <$00>
 
 
@@ -308,6 +329,9 @@ April:
 Phoenix:
 <$0D>
 //\n鏡から生まれたというのは君なんだな。
+\n
+You let yourself be\n
+born from the mirror.
 <$00>
 
 
@@ -324,11 +348,20 @@ Phoenix:
 April:
 <$0D>
 //\n私は心のどこかでママがいなくなればいいと\n思っていたのよ、
+\n
+But the thing is, I\n
+was hoping my mother
+<$0C>
+would leave me, with\n
+all my heart.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそうよ、ママの死を望んでいたのよ！
+\n
+I mean it. I wanted\n
+my mother to die!
 <$00>
 
 
@@ -345,11 +378,19 @@ April:
 Phoenix:
 <$0D>
 //\nアマンダは鏡の精となり、\n君は鏡から生まれた…
+\n
+Amanda was a mirror\n
+spirit, but you were
+<$0C>
+the one born from the\n
+mirror...
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nということは…
+\n
+Which means...
 <$00>
 
 
@@ -366,6 +407,12 @@ Phoenix:
 April:
 <$0D>
 //\nママが死んで、私は深い罪悪惑に\nさいなまれ続けたの。でも…
+\n
+Mother died, and I\n
+was overcome with a
+<$0C>
+deep sense of guilt,\n
+but...
 <$00>
 
 
@@ -382,6 +429,9 @@ April:
 Phoenix:
 <$0D>
 //\n君はアマンダの…
+\n
+You still heard\n
+Amanda's...
 <$00>
 
 
@@ -398,6 +448,12 @@ Phoenix:
 April:
 <$0D>
 //\nでもあの声は建う、ママじゃない、\n誰か別の人よ！
+\n
+No, that's a\n
+different voice, not
+<$0C>
+mother's. It's\n
+someone else!
 <$00>
 
 
@@ -414,6 +470,9 @@ April:
 Phoenix:
 <$0D>
 //\n分身なのか…
+\n
+Is it an alter\n
+ego...?
 <$00>
 
 
@@ -430,6 +489,9 @@ Phoenix:
 April:
 <$0D>
 //\nあれはママじゃない！ 建うのよ！
+\n
+You're wrong. That's\n
+NOT my mother!
 <$00>
 
 
@@ -441,8 +503,14 @@ April:
 
 #WHB(PTR, $00000BED)
 
-老ーモンドの香り…\nうふふふふ、あなたは兵士、立派な兵士よ…
+//老ーモンドの香り…\nうふふふふ、あなたは兵士、立派な兵士よ…
+Ah. the scent of\n
+almonds...\n
+Ohoho, what a good
+<$0C>
+soldier you are.
 <$00>
+
 
 
 
@@ -457,6 +525,11 @@ April:
 Phoenix:
 <$0D>
 //\nあああ、この声は…ママだね！\n僕だよ！ 僕はここにいるよ！
+\n
+Th-that\n
+voice...Mama?! Mama,
+<$0C>
+it's me! I'm here!
 <$00>
 
 
@@ -473,11 +546,22 @@ Phoenix:
 April:
 <$0D>
 //\nまどわされないで！\nその声は誰のママでもないのよ！
+\n
+Don't fall for the\n
+planet's tricks! That
+<$0C>
+voice isn't anyone's\n
+"mama"!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nこの星が私たちをだまそうとしているのよ！\n真実の光なんて、ウソよ、そんなはずない！
+\n
+Its light of absolute\n
+truth is nothing but
+<$0C>
+a lie!
 <$00>
 
 
@@ -494,6 +578,12 @@ April:
 April:
 <$0D>
 //\nアマンダ… まだいるのね、そこに。\nずっと私に語りかけていたのはあなたね。
+\n
+Amanda, you're still\n
+there. So, you were
+<$0C>
+the one talking to me\n
+all this time.
 <$00>
 
 
@@ -510,11 +600,20 @@ April:
 April:
 <$0D>
 //\nアマンダ… あなたの思い通りにはさせない。\n私は自分を乗り越えるの、そうよ！
+\n
+Amanda, I won't let\n
+you do what you want.
+<$0C>
+I'll overcome my\n
+self, right now!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私にできること…
+\n
+I know what I can\n
+do...
 <$00>
 
 
@@ -531,6 +630,9 @@ April:
 April:
 <$0D>
 //\nこの光を、私に！
+\n
+O light, shine over\n
+me!
 <$00>
 
 
@@ -547,11 +649,22 @@ April:
 Phoenix:
 <$0D>
 //\nああああ、この光が教えてくれるよ！
+\n
+Aaaaah! The light's\n
+teaching me
+<$0C>
+everything!
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nそうだよ、ママ、僕にはなにもないんだ！\nやっぱりだ、僕はただの影なんだ！
+\n
+Th-that's right!\n
+I'm...I'm nothing to
+<$0C>
+Mama! I never was.\n
+I'm only a shadow!
 <$00>
 
 

@@ -16,16 +16,22 @@
 EastWest：
 <$0D>
 //\n俺たち、\nたち、
+\n
+We? We!
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n綠の光、\n光、
+\n
+Green light? (Light!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n一緒になった、\nなった。
+\n
+And we became one.
 <$00>
 
 
@@ -42,16 +48,25 @@ EastWest：
 EastWest：
 <$0D>
 //\n互いが互いに互いだ、\n分かるんだ、
+\n
+We understand? (One\n
+another!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\nそうなりゃ、\nなりゃ、
+\n
+Go along with? (One\n
+another!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n便利で不便だ、\n不便だ。
+\n
+It is convenient and\n
+inconvenient.
 <$00>
 
 
@@ -68,21 +83,33 @@ EastWest：
 EastWest：
 <$0D>
 //\nいろんなこと、\nこと、
+\n
+All sorts of things?\n
+(All sorts!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\nよく開こえる、\nえる、
+\n
+We can hear? (We\n
+can!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\nヘロデさんが預言、\n預言、
+\n
+Like murmurs?\n
+(Herod's murmurs!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\nつぶやき始めた。
+\n
+He began to murmur\n
+the prophecy.
 <$00>
 
 
@@ -99,23 +126,35 @@ EastWest：
 EastWest：
 <$0D>
 //\nヘロデさんお前を、\nお前を、
+\n
+Who calls for you?\n
+(Herod calls)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n呼んでる、\nでる。
+\n
+Herod calls for who?\n
+(You!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n奥だ、\nアガタだ、
+\n
+To the back? (To\n
+Agatha!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n寝室だ。
+\n
+To the bedroom.
 <$1E>
 //声
+声
 <$00>
 
 
@@ -132,13 +171,20 @@ EastWest：
 EastWest：
 <$0D>
 //\nヘロデさん、\nお前を呼ぶ、\n呼ぶ。
+\n
+Who calls for you?\n
+(Herod calls)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n中だ入れ、\n入れ。
+\n
+He asks that you come\n
+in.
 <$1E>
 //家
+家
 <$00>
 
 

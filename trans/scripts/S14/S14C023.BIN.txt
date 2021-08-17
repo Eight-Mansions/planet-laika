@@ -16,18 +16,35 @@
 Rummy:
 <$0D>
 //\n怖い目で見るんだな。\nあれはアイスマンだな。
+\n
+The one who looks\n
+with scary eyes is
+<$0C>
+Iceman.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nアイス、溶けてるな。\n僕のこと、怖い目で見るんだな。
+\n
+The ice melts, and he\n
+looks at me with
+<$0C>
+scary eyes.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nコロニー中、動きまわってたな、\n誰かをさがしてるみたいだったな。
+\n
+He's lurking around\n
+the colony now,
+<$0C>
+supposedly searching\n
+for someone.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -93,6 +110,9 @@ Rummy:
 Neo Universalman:
 <$0D>
 //\nおおお、私を呼ぶ者がある…
+\n
+Ohhh, someone calls\n
+me...
 <$0C><$12>
 //に
 <$0B>
@@ -100,6 +120,12 @@ Neo Universalman:
 Neo Universalman:
 <$0D>
 //\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
+\n
+Calls me to Jeremiah.\n
+Call me to sweet
+<$0C>
+death, deep death. To\n
+the deepest depths.
 <$00>
 
 
@@ -116,11 +142,23 @@ Neo Universalman:
 White Eagle:
 <$0D>
 //\n最後の預言はエレミヤのミイラとともに\n眠っておる。
+\n
+The final prophecy\n
+lays in rest,
+<$0C>
+together with\n
+Jeremiah's corpse.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
+\n
+It lays beyond the\n
+nightmare, in a world
+<$0C>
+of death, beyond all\n
+falsehood.
 <$00>
 
 
@@ -137,11 +175,23 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nいよいよじゃな、最後の試練じゃ。\nそれを乗り越えて、お前たちは…
+\n
+At last, you all must\n
+come together to
+<$0C>
+overcome the final\n
+test.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nマコトの双子ならきっと奇跡を\n起こせるはずじゃ。
+\n
+But surely you will\n
+awaken this miracle,
+<$0C>
+for you are the twins\n
+of truth.
 <$00>
 
 
@@ -158,6 +208,12 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nわしは悪夢への入り口をさがしにいってくるぞ。\nちょっと思うところあってな。
+\n
+I shall look for the\n
+entrance to the
+<$0C>
+nightmares. I may\n
+have an idea.
 <$00>
 
 
@@ -190,8 +246,14 @@ White Eagle:
 Rummy:
 <$0D>
 //\nあれあれだな、僕を見る目が建うな…\n怖いな。
+\n
+Hey, hey, hey, what\n
+was that look for?
+<$0C>
+It's scary.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -208,8 +270,15 @@ Rummy:
 Rummy:
 <$0D>
 //\nなんでかな、声がかすめたな。\nあんたを呼ぶ声がかすめたな。
+\n
+I don't know who or\n
+what it is, but I
+<$0C>
+hear a faint voice\n
+calling for you.
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -226,8 +295,14 @@ Rummy:
 Sammy:
 <$0D>
 //\nだな、だな、だな…建うわ。
+\n
+Do it, don't, do\n
+it...don't... This
+<$0C>
+doesn't feel right.
 <$1E>
 //行
+行
 <$00>
 
 
@@ -244,23 +319,46 @@ Sammy:
 Sammy:
 <$0D>
 //\nアタシったら言葉忘れちゃって…\nしょうがないわね。
+\n
+There's not much we\n
+can do about words we
+<$0C>
+forget, now is there.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nだからもう、あれこれかぎ回るの、\nよそうと思うの。
+\n
+As things are now, I\n
+feel it best we go
+<$0C>
+and make whatever\n
+rounds we have left.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\n忘却の海に変な扉があったけど…
+\n
+But you know, I saw a\n
+strange door over at
+<$0C>
+Oceanum oblivionis.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nいや、もう怖いから、入らないわ。\nアタシを見失いそうになるのよ。
+\n
+That stuff is too\n
+scary for me now. I'm
+<$0C>
+losing enough sight\n
+of myself as it is.
 <$1E>
 //中
+中
 <$00>
 
 
@@ -277,8 +375,15 @@ Sammy:
 Sammy:
 <$0D>
 //\n関係ないことは関係ない、\nそう思わなきゃダメなのね。
+\n
+If you think\n
+something doesn't
+<$0C>
+matter, act like it\n
+doesn't matter.
 <$1E>
 //中
+中
 <$00>
 
 

@@ -16,6 +16,11 @@
 Noble Rock:
 <$0D>
 //\nホワイトイーグルに会わなかったか、\nお前をさがしてた。
+\n
+Did you meet with\n
+White Eagle? He was
+<$0C>
+looking for you.
 <$00>
 
 
@@ -32,11 +37,20 @@ Noble Rock:
 Noble Rock:
 <$0D>
 //\nお前だろ？ お前のお前だろ？
+\n
+It is you, right?\n
+You, right here?
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\n教えてやろう、またドールダンスが起きたんだ。\nあれはハプニングか？
+\n
+So, tell me, have\n
+they started the doll
+<$0C>
+dance again? Is this\n
+the surprise?
 <$00>
 
 
@@ -53,21 +67,40 @@ Noble Rock:
 Noble Rock:
 <$0D>
 //\nユニバーサルマンが起こしたのなら命がけだ。
+\n
+Universalman's wake\n
+means life or death.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\nドールダンスによって、\n死の分身であるアイスマンが戻ってきた。
+\n
+Due to the doll\n
+dance, death's alter
+<$0C>
+ego, Iceman, has\n
+returned.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\nこれでユニバーサルマンは\n死の動機に憑かれることになる。
+\n
+Now, Universalman is\n
+driven by his
+<$0C>
+"reason" for dying.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\n生きながらにして本物の死者となるのだ。
+\n
+His reason- to become\n
+truly deceased while
+<$0C>
+alive.
 <$00>
 
 
@@ -84,11 +117,21 @@ Noble Rock:
 Noble Rock:
 <$0D>
 //\nああ、さっき見つかったお前のお仲間だがな、\nロッジは危ないので、避難させた。
+\n
+Ah! About "your"\n
+companion from
+<$0C>
+earlier. The lodge\n
+was dangerous, so we\n
+evacuated them.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\nロケットの中だ、あそこなら安心だ。
+\n
+They're safe, out in\n
+the rocket.
 <$00>
 
 
@@ -105,11 +148,20 @@ Noble Rock:
 William:
 <$0D>
 //\n確かにこの近くにあるんです、僕には分かる。
+\n
+We're certainly\n
+close. I know it.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\n預言を集めると実行者になれる、\nそうなんですね。
+\n
+He who collects the\n
+prophecies becomes
+<$0C>
+the leading man.\n
+That's right.
 <$00>
 
 
@@ -147,16 +199,29 @@ Boomer:
 Noble Rock:
 <$0D>
 //\n何だ、このはねるような音は。
+\n
+What is that thumping\n
+noise?
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\nまあいい、それよりだ、ついに現れたぞ、\n生ける死者の誕生だ！
+\n
+Well, more\n
+importantly, it's
+<$0C>
+finally here! The\n
+birth of the living\n
+deceased!
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\nコロニーに来てくれ、早く！
+\n
+Come with me to the\n
+colony, hurry!
 <$00>
 
 

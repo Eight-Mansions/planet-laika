@@ -16,16 +16,32 @@
 Madam Agatha:
 <$0D>
 //\nこまったわ。\n悪夢に入っていけないの。
+\n
+I'm in trouble. I\n
+can't enter
+<$0C>
+nightmares.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nどうやらヘロデは\n別な場所にはまりこんだみたいなの。
+\n
+It seems Herod is\n
+trapped in some other
+<$0C>
+location.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nそこから声だけが開こえてくるの。\nこんな内容だった…
+\n
+Wherever that is, I\n
+can only hear voices
+<$0C>
+coming from it. As\n
+in...
 <$00>
 
 
@@ -42,26 +58,47 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n今こそ終わりがお前の上に来る…
+\n
+"The end is upon\n
+you..."
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nああ、その後は分からない。\n開き取れないの。
+\n
+I...wish I could\n
+figure out the rest.
+<$0C>
+I can't hear it.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこれは預言じゃない？\nみんながうわさしてる預言…
+\n
+That's not a\n
+prophecy, is it? Like
+<$0C>
+the ones everyone's\n
+talking about?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nでもどうして？
+\n
+But why?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nヘロデに預言が分かるとは思えないのに、\nなぜ？
+\n
+I can't imagine Herod\n
+would know the
+<$0C>
+prophecies, so why?
 <$00>
 
 
@@ -78,6 +115,11 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n預言はその言葉を待つ人のところに\n降りてくるのよ。
+\n
+The words of prophecy\n
+come to those who
+<$0C>
+wait for them.
 <$00>
 
 
@@ -94,11 +136,24 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nなんとか悪夢につなげなきゃ。\nもう一度、試してみるわ。
+\n
+For now, I have to\n
+access the nightmares
+<$0C>
+any way I can. I'll\n
+try again.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nとても集中力がいるから、あなたの持ち物を\n見てあげられなくなるわ。
+\n
+I'll have to\n
+concentrate, so I
+<$0C>
+won't be able to look\n
+at anything else for\n
+you meanwhile.
 <$00>
 
 
@@ -115,8 +170,16 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nもし、まだ見ていない物があったら\n言ってみて。
+\n
+Before I start, are\n
+there any last things
+<$0C>
+you'd like me to look\n
+at for you?
 <$1B>
 //？まだある\nもういい
+？Yes\n
+No
 <$00><$17><$00>
 
 
@@ -133,6 +196,9 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nじゃあクリスタルボールのところに行ってね。
+\n
+All right, step over\n
+to the crystal ball.
 <$00>
 
 
@@ -149,6 +215,8 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n分かったわ。
+\n
+I understand.
 <$00>
 
 
@@ -165,23 +233,48 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nヘロデは迷子になっているのよ。\n建う次元にはまりこんだみたいなの。
+\n
+I lost Herod. It's\n
+almost like he's
+<$0C>
+trapped in another\n
+dimension.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nきっとあのエネルギーのせいね。\n大きなエネルギー…
+\n
+I'm sure it's that\n
+massive energy I
+<$0C>
+sense coming from the\n
+Face.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nザ・フェイスの近くに惑じるの。\nいよいよなのね、この星が…
+\n
+The time's come for\n
+the planet to
+<$0C>
+finally... Tch,\n
+time's too short.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nああ、ぐずぐずしてはいられない、\nもう一度つなげてみるわ。悪夢の世界に。
+\n
+For now, I must try\n
+connecting to the
+<$0C>
+world of nightmares\n
+again.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -389,6 +482,12 @@ the ice.
 子Madam Agatha:
 <$0D>
 //\nディセンバー、春のような１２月よ。\n１台のバスが見えるわ。
+\n
+December is the last\n
+month before spring.
+<$0C>
+A lone bus can be\n
+seen.
 <$00>
 
 
@@ -642,6 +741,12 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\nセプテンバーは９月、実りのときね。\n今までとは建う惑じね… うまく見えないわ。\nちょっと待ってね…
+\n
+September is a month\n
+of harvest. In that,
+<$0C>
+it is ripe with\n
+uncertainty. Wait...
 <$00>
 
 
@@ -657,11 +762,23 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\n夜のキッチンね。 でも今度は静かね…\nあなたとタニア母さんが見えるわ、\n何かひそひそ話し合ってる…
+\n
+There, it is a\n
+kitchen on a quiet
+<$0C>
+night. I see you and\n
+Tanya there.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何か恐ろしいことが起きそうよ。
+\n
+You meet to in secret\n
+to discuss. Something
+<$0C>
+scary is about to\n
+happen.
 <$00>
 
 
@@ -717,6 +834,13 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\n冷たい霧の朝、１１月…\n制服を着た男がふたり、ポーチにいるわ。\nはげしくドアをノックしてる…
+\n
+A cold, foggy\n
+November morning. Two
+<$0C>
+policemen stand on\n
+the porch, banging\n
+the door.
 <$00>
 
 
@@ -732,11 +856,23 @@ Madam Agatha:
 子Madam Agatha:
 <$0D>
 //\n出てきたのはセルゲイよ。\n左右の手が後ろに…
+\n
+The one to answer is\n
+Sergei. His hands are
+<$0C>
+placed behind his\n
+back.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nさっきの制服の男は警官だったのね、\nセルゲイが連行されて行くわ。\nそして霧のカーテンが降りる…
+\n
+The men here to take\n
+Sergei away. The
+<$0C>
+foggy curtain is\n
+lifted.
 <$00>
 
 

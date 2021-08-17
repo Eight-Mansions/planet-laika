@@ -16,13 +16,22 @@
 Bull:
 <$0D>
 //\nさっきより寒くなってきたぜ。
+\n
+It's even colder than\n
+before.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\n広場からな、ぴゅーっと冷たいのが来るんだ。\nぴゅーっとな。
+\n
+The cold is coming\n
+from the plaza.
+<$0C>
+Brrrrrrr!
 <$1E>
 //声
+声
 <$00>
 
 
@@ -39,6 +48,11 @@ Bull:
 Bull:
 <$0D>
 //\nああ、また顔がひりひりしてきたぜ。\n何か変なもの、付いてないか、俺の顔に。
+\n
+Is there something on\n
+my face? It has this
+<$0C>
+strange tingle.
 <$1E>
 //声
 <$00><$10><$0B>

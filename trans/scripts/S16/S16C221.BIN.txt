@@ -53,6 +53,11 @@ Spacer:
 Ernest:
 <$0D>
 //\nあああ、何でゆらゆらしてるんだ。\n夢でも見てるのか？
+\n
+Argh, my head keeps\n
+swaying. Was it from
+<$0C>
+that dream I saw?
 <$00>
 
 
@@ -69,11 +74,25 @@ Ernest:
 Ernest:
 <$0D>
 //\nふん、あの女ならやりかねないぜ…
+\n
+Hmph. That woman...if\n
+that was her doing, I
+<$0C>
+can't exactly wag my\n
+finger.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nウラジミールにインチキな酒飲ませることなど、\nヨランダにしちゃ朝メシ前だ、建いねぇ。
+\n
+I just don't see her\n
+giving Vladimir shit
+<$0C>
+liquor to drink\n
+before breakfast, but\n
+would Yolanda?\n
+Absolutely.
 <$00>
 
 
@@ -90,6 +109,11 @@ Ernest:
 Yolanda:
 <$0D>
 //\n夢よね、\nそうよ、アタシは悪い夢の中にいるのよ。
+\n
+That was a dream,\n
+wasn't it... Yeah, I
+<$0C>
+was in a nightmare.
 <$00>
 
 

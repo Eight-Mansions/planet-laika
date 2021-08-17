@@ -16,23 +16,44 @@
 Madam Agatha:
 <$0D>
 //\n大変なの
+\n
+Bad news,
 <$0F>
 //！\nエイプリルよ、彼女も悪夢につかまってるの。
+! It's April. She's\n
+trapped in the\n
+nightmares too!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nヘロデの姿も見えるけど、\nどうしても近づけないわ。
+\n
+I can see Herod now,\n
+but I can't reach him
+<$0C>
+to help... He's so\n
+scared.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n彼はひどくおびえてる…ここからじゃ無理ね。\n入り口を見つけて。お願い。
+\n
+Please, you must find\n
+the entrance to the
+<$0C>
+world of nightmares.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nあまり時間はないわ。\n悪夢の世界で何かが起きてるのよ。
+\n
+Something's going on\n
+there. We don't have
+<$0C>
+much time!
 <$00>
 
 
@@ -49,28 +70,58 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n悪夢の先に道が開ける…\nその道は奇跡に続く道…\n星が教えてくれたのよ。
+\n
+"Beyond the world of\n
+nightmares is path
+<$0C>
+that opens into\n
+miracles."
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこの星は強い意志を持ち、\n新しい歴史を書き記そうとしているの。\n星には逆らえないのよ…
+\n
+The planet told me.\n
+It has the willpower-
+<$0C>
+a wish, to write a\n
+new history.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n野心や欲では星の望みを\nかなえることはできないわ。\nなのに…
+\n
+We cannot fight the\n
+planet, nor can we
+<$0C>
+expect it to side\n
+with our greedy\n
+ambitions.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nわかって、
+\n
+Despite that,
 <$0F>
 //。\nこの星の声に耳をかたむけるのよ。
+, you must open\n
+yourself to the\n
+planet, and listen.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこの星はあなたを待っているわ。\n使者となったあなたを。
+\n
+The planet is waiting\n
+for you to serve your
+<$0C>
+purpose as its\n
+messenger.
 <$00>
 
 
@@ -87,16 +138,33 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n悪夢の世界は、にごっていて、\nまるでこれからふくらむ悪意を\n待ちかまえてるかのようよ。
+\n
+The world of\n
+nightmares is a
+<$0C>
+clouded swell of\n
+ever-looming ill\n
+will.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nエイプリルがいるのなら\nどこか他に入口があるはず。
+\n
+If April is in there,\n
+she must have found
+<$0C>
+an entrance.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nここからは入れないわ、\n何も見えなくなったの。
+\n
+I can't get to her\n
+from here. I can't
+<$0C>
+see anything.
 <$00>
 
 
@@ -113,18 +181,33 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n悪夢の世界にはつながったけど、\nここからは無理ね。
+\n
+It's impossible to\n
+reach the world of
+<$0C>
+nightmares from here.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何も見えなくなったの。\nエイプリルもいるのよ、悪夢の中に。
+\n
+I can't see anything,\n
+but April is there
+<$0C>
+too, in the\n
+nightmare.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n他に入口はないかしら。
+\n
+She must have found\n
+another entrance.
 <$1E>
 //理
+理
 <$00>
 
 

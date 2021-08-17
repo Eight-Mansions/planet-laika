@@ -365,6 +365,9 @@ world of death now?
 William:
 <$0D>
 //\n今こそ終わりがお前の上に来る。
+\n
+The end is now upon\n
+you!
 <$00>
 
 
@@ -381,16 +384,32 @@ William:
 William:
 <$0D>
 //\nふふふ、これがうわさの預言か…\nこれで全部か…建うだろ！
+\n
+Hehehe, THIS is the\n
+prophecy everyone's
+<$0C>
+talking about? No\n
+way!
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nふふふ、僕の欲しかったのは\nこんなのじゃない！
+\n
+Ohohoh, but this\n
+isn't what I wanted
+<$0C>
+at all! Not this!
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\n僕には無理なんだ、\nやっぱり、何か足りないんだ！
+\n
+This isn't right for\n
+me! No, something's
+<$0C>
+missing!
 <$00>
 
 
@@ -407,11 +426,22 @@ William:
 William:
 <$0D>
 //\n僕は、僕は、\nあいつらが滅びるところを見たかったんだ。
+\n
+I...I only wanted to\n
+watch those fuckers
+<$0C>
+get their just\n
+desserts.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nコロニーのやつらさ、\nみんな死んでしまえ！
+\n
+I wanted every last\n
+fucker in this colony
+<$0C>
+to die!
 <$00>
 
 
@@ -428,6 +458,8 @@ William:
 William:
 <$0D>
 //\nちくしょう！ ちくしょう！
+\n
+Dammit! Dammit!
 <$00>
 
 
@@ -444,11 +476,20 @@ William:
 William:
 <$0D>
 //\n… あ… う…\n夜が追いかけて来るんだ…
+\n
+Oh...ohhh... The\n
+night is after me...
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nあ、見ねぇ顔だな…\n脳ミソがパチパチだ… あうううう…
+\n
+Oh, why don't I\n
+recognize this
+<$0C>
+face... My brain is\n
+crackling... Augh!
 <$00>
 
 
@@ -465,21 +506,42 @@ William:
 Herod:
 <$0D>
 //\n暗闇の中を歩いて光にぶつかった…
+\n
+"We walk through\n
+total darkness,
+<$0C>
+before colliding with\n
+light..."
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nそいつが変な言葉になって、\n俺の中に入ってきやがった。
+\n
+I don't know who gets\n
+off jamming weird
+<$0C>
+words like that into\n
+my head...
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\n俺にはそんな言葉なんざいらない、\nこの中途半端な場所から出たいんだ。
+\n
+I don't have time for\n
+such crazy talk. I
+<$0C>
+need out of this\n
+crazy place!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nちくしょう、\nここはどこなんだ？
+\n
+But I don't even know\n
+where I am, dammit!
 <$00>
 
 
@@ -496,16 +558,34 @@ Herod:
 Herod:
 <$0D>
 //\nあああ、また光だ！\n光が見えるぞ、あれか！ 出口か！
+\n
+Ohhh, it's another\n
+light! I see the
+<$0C>
+light! I'm on my way\n
+out!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nああ、建う…白い部屋だ。\n真っ白な部屋、あの部屋は何だ？
+\n
+Ohh, no... It's a\n
+white room. A pure
+<$0C>
+white room. What room\n
+is that?
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\n誰かの思い出なのか？\n俺でも平気なのか…真っ白な部屋だ。
+\n
+Is it someone's\n
+memory? I don't know
+<$0C>
+if this pure white\n
+room is safe.
 <$00>
 
 
@@ -522,26 +602,53 @@ Herod:
 Herod:
 <$0D>
 //\nやっと白い部屋を抜けたぞ、\nはは、いつもの悪夢だ。
+\n
+I finally made it out\n
+of the white room in
+<$0C>
+this everlasting\n
+nightmare.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nさあ、アガタ、早くむかえに来るんだ…\nあのいまいましい生クビ野郎め！
+\n
+Come on, Agatha, come\n
+for me soon. The
+<$0C>
+severed-head is\n
+chasing me again!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nあああ、俺を追いかけてきやがる、\nいつもと建うじゃねぇか！
+\n
+Augh, but it's\n
+different from usual!
+<$0C>
+Get it away!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nどうなってんだ、生クビ野郎！\nくそぉ、来るんじゃない！
+\n
+What do you want from\n
+me, no-neck?! No! Get
+<$0C>
+away!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nああああ、イヤだ、俺を見るな！\n助けてくれー。
+\n
+Don't look at me!\n
+GOD, DON'T LOOK AT
+<$0C>
+ME! SAVE MEEE!
 <$00>
 
 

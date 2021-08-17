@@ -16,11 +16,22 @@
 Garyl:
 <$0D>
 //\n君は死の動機につき動かされてここに来た、
+\n
+You are here because\n
+you had a reason for
+<$0C>
+dying.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nフェニックス。君こそが最後のピースなのだ、\n待ち望まれていた最後のな。
+\n
+Phoenix. You are the\n
+last piece of the
+<$0C>
+puzzle I'd long\n
+waited to solve.
 <$00>
 
 
@@ -37,11 +48,22 @@ Garyl:
 Garyl:
 <$0D>
 //\n今や私は完全なる善の存在となったのだ。\n預言など意味をなさない。
+\n
+Now, I am pure good!\n
+The prophecies bear
+<$0C>
+no significance to\n
+me!
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n見よ、この輝く光を！\n善のオーラを！
+\n
+Behold this glorious\n
+light! This aura of
+<$0C>
+good!
 <$00>
 
 
@@ -58,16 +80,32 @@ Garyl:
 Garyl:
 <$0D>
 //\nいよいよ、タマシイを救うときがきた。\nみにくい肉体などもう不要だ。
+\n
+It is time to save\n
+our spirits, and
+<$0C>
+discard are wretched\n
+bodies!
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n君なら分かってくれるだろう、\n死は終わりではないということを。
+\n
+You understand, I\n
+hope. Dead is not the
+<$0C>
+end.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n死こそがタマシイの救済にほかならない\nということを。
+\n
+Death is nothing more\n
+than the salvation of
+<$0C>
+the spirit.
 <$00>
 
 
@@ -84,11 +122,22 @@ Garyl:
 Garyl:
 <$0D>
 //\nさあ、見せてくれ、お前の暗い憎しみを。
+\n
+Now, show me your\n
+dark hatred, that
+<$0C>
+anger swirling in\n
+your dark heart!
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nお前の中にうずまく怒りを。お前の心の闇が、\n再生の奇跡をもたらす。
+\n
+And may that darkness\n
+bring about the
+<$0C>
+miracle of rebirth.
 <$00>
 
 
@@ -105,11 +154,24 @@ Garyl:
 Garyl:
 <$0D>
 //\n私には見えるぞ、フェニックス。
+\n
+I can see you,\n
+Phoenix. I see that
+<$0C>
+black, seething ill\n
+will in you your\n
+mind.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n君の奥深くに、黒々とうず巻く悪意が！\n天に舞う騎士は、君によって満たされる。
+\n
+It is that blackness\n
+that powers the rider
+<$0C>
+who dances in the\n
+skies above!
 <$00>
 
 
@@ -126,6 +188,11 @@ Garyl:
 Phoenix:
 <$0D>
 //\nふふふ… あははははは、\n僕がどうしたというんだ！
+\n
+Pffft! Ahahaha! What\n
+does that have to do
+<$0C>
+with me?!
 <$00>
 
 
@@ -142,6 +209,11 @@ Phoenix:
 Phoenix:
 <$0D>
 //\n僕は影だ、影に善も悪もない！
+\n
+I'm only a shadow.\n
+There is no good nor
+<$0C>
+evil in shadows!
 <$00>
 
 
@@ -158,18 +230,35 @@ Phoenix:
 Garyl:
 <$0D>
 //\nそれはどうかな、フェニックス。\n君は
+\n
+Only, Phoenix,\n
+because you pushed it
+<$0C>
+all onto
 <$0F>
 //にすべてを押しつけた。
+.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n君は手を汚さずにいた、君はただ\n笑っているだけでよかった。
+\n
+You laugh because you\n
+never got your hands
+<$0C>
+dirty.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nフェニックス、君は本当は双子として\n生まれてくるはずだったのだ。
+\n
+You know better than\n
+anyone, that you were
+<$0C>
+supposed to be born a\n
+twin.
 <$00>
 
 
@@ -198,6 +287,12 @@ Garyl:
 Phoenix:
 <$0D>
 //\nあああ… ママは僕に多くを与え、\n多くをうばった… 僕は…
+\n
+Mama...gifted me with\n
+so much. And I stole
+<$0C>
+so much on top of\n
+that.
 <$00>
 
 
@@ -214,13 +309,25 @@ Phoenix:
 Garyl:
 <$0D>
 //\n都合のいいときだけ入れ替わった。
+\n
+You changed places\n
+with your twin as
+<$0C>
+soon as it was\n
+convenient for you.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n脳に寄生する肉のかたまりが、\n
+\n
+You became a tumor, a\n
+cranial parasite that
+<$0C>
+ate at
 <$0F>
 //の心と体をうばったのだ。
+'s mind and body.
 <$00>
 
 
@@ -237,6 +344,12 @@ Garyl:
 Phoenix:
 <$0D>
 //\nそうだよ！\n僕は愛だけが欲しかったのさ！
+\n
+That's right! Because\n
+I wanted the love
+<$0C>
+they were receiving\n
+as well!
 <$00>
 
 
@@ -253,22 +366,34 @@ Phoenix:
 Garyl:
 <$0D>
 //\n君は
+\n
+You used
 <$0F>
 //をスケープゴートにした。
+as a scapegoat.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n本当の憎しみは
+\n
+The real source of\n
+the hatred is in
 <$0F>
 //が宿しているのだ\n君ではない。
+, not you.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nそして私はマコトの憎しみを抱く\n
+\n
+In my eyes, you and
 <$0F>
 //にこそ用があるのだ。
+are better suited to\n
+be called the twins\n
+of hatred.
 <$00>
 
 
@@ -285,18 +410,35 @@ Garyl:
 Garyl:
 <$0D>
 //\nさあ、黒い騎士がお待ちかねだ、\n憎しみを解き放つんだ！
+\n
+But now, the Black\n
+Rider wait for that
+<$0C>
+hatred to be\n
+unleashed!
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nフェニックス、君はもう用済みだ、\n眠りにつくがいい。
+\n
+You're time is over,\n
+tumor. You'd better
+<$0C>
+go back to sleep.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n
+\n
+Return to the world\n
+of nothingness in the
+<$0C>
+back of
 <$0F>
 //の脳にとどまる\n小さな肉のかたまりとして、\n無の世界に戻るのだ。
+'s brain.
 <$00>
 
 
@@ -313,26 +455,57 @@ Garyl:
 Garyl:
 <$0D>
 //\nおおお、アマンダ。\nついに望みをかなえたのだな、アマンダ。
+\n
+Ah, Amanda. I see\n
+you've finally gotten
+<$0C>
+your wish.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n求めてやまない、\nおのれの分身と合わさったのだな。
+\n
+You were able to\n
+combine with your
+<$0C>
+alter ego, that small\n
+light you had shown.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nアマンダ、お前は鏡の中から小さな光を放った、\nそれが一人の女として生を得たのだ。
+\n
+That small light came\n
+to life as a woman,
+<$0C>
+and now you have\n
+merged with her.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nそして今、その女と合わさり、実体化した。\n美の権化としてよみがえったのだ。
+\n
+And now, at long\n
+last, you have been
+<$0C>
+reborn as the\n
+personification of\n
+beauty.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n体と心を得て、美の権化として\nよみがえろうというのだな。
+\n
+All to revive\n
+yourself as the
+<$0C>
+rightful holder of\n
+beauty in body and\n
+mind.
 <$00>
 
 
@@ -349,11 +522,20 @@ Garyl:
 Garyl:
 <$0D>
 //\nどうした、まだ求めているのか。
+\n
+And so, I ask, what\n
+brings you here?
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nアマンダ、お前はすべて手に入れたのだ、\n望むところをすべてだ。
+\n
+Amanda, am I wrong in\n
+saying you've found
+<$0C>
+everything you\n
+wanted?
 <$00>
 
 
@@ -370,21 +552,44 @@ Garyl:
 Garyl:
 <$0D>
 //\nそういうことだったのか、アマンダ。\nお前たちが主役だと？ 宿命の子だと？
+\n
+Then why, Amanda? Do\n
+you fancy yourself
+<$0C>
+the leading lady of\n
+this show? The child\n
+of fate?
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nだがもう手おくれだ。\n今や私は預言を越えた存在となった。
+\n
+Then I can't help\n
+you. I have long
+<$0C>
+rendered the\n
+prophecies\n
+insignificant in my\n
+wake.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nお前たちがなにを語ろうと、\n世界は私を選んだのだ。
+\n
+Say what you will,\n
+but the world has
+<$0C>
+already chosen me!
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n私は死を越えて、永遠となるのだ。
+\n
+I am already beyond\n
+death! I AM ETERNAL!
 <$00>
 
 
@@ -401,11 +606,21 @@ Garyl:
 April:
 <$0D>
 //\nどうして…どうしてライカがあのお守りを\n持ってるの…
+\n
+Tell me, Laika... Why\n
+do you have that
+<$0C>
+amulet?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n子供のころになくしたのに…
+\n
+I thought I had lost\n
+it when I was a
+<$0C>
+child.
 <$00>
 
 
@@ -422,11 +637,20 @@ April:
 Garyl:
 <$0D>
 //\nお前のその欲が、私の道をひらいた。
+\n
+Your greed misleads\n
+you, Amanda.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nアマンダ、\n私に従うのなら永遠の時を与えよう。
+\n
+If you set your eyes\n
+on me and follow, I
+<$0C>
+shall grant you\n
+eternity.
 <$00>
 
 
@@ -443,11 +667,19 @@ Garyl:
 April:
 <$0D>
 //\n銀のカプセル、\nそれは願いをかなえるお守りなの…
+\n
+That silver capsule\n
+is a charm that
+<$0C>
+grants wishes.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nライカはどんなことをお願いしたの？
+\n
+Do you have something\n
+you wish for, Laika?
 <$00>
 
 
@@ -464,11 +696,22 @@ April:
 April:
 <$0D>
 //\nこれがそうなの？
+\n
+What is this...?\n
+These words...are a
+<$0C>
+prophecy!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n言葉よ… 預言ね、預言者に会ったのね…\n心のうちから響いてくるみたいよ…
+\n
+You must have met a\n
+prophet, but...it's
+<$0C>
+like they're bleeding\n
+out from within you!
 <$00>
 
 
@@ -481,10 +724,15 @@ April:
 #WHB(PTR, $00001765)
 
 <$10>
-\n   
+//\n   
+\n
 <$08>
-闇の諸力から解放された存在として
+//闇の諸力から解放された存在として
+As beings freed from\n
+the powers of\n
+darkness,
 <$05><$00>
+
 
 
 
@@ -495,10 +743,15 @@ April:
 #WHB(PTR, $00001779)
 
 <$10>
-\n   
+//\n   
+\n
 <$08>
-タマシイは再生の時を得るであろう
+//タマシイは再生の時を得るであろう
+Your spirit will be\n
+given time to be\n
+reborn
 <$05><$00>
+
 
 
 
@@ -509,10 +762,15 @@ April:
 #WHB(PTR, $0000178D)
 
 <$10>
-\n   
+//\n   
+\n
 <$08>
-マコトの双子がはじめの一歩を記し
+//マコトの双子がはじめの一歩を記し
+The twins of truth\n
+will take the first\n
+steps
 <$05><$00>
+
 
 
 
@@ -523,10 +781,14 @@ April:
 #WHB(PTR, $000017A1)
 
 <$10>
-\n  
+//\n  
+\n
 <$08>
-いまわしい全てのことをお前に報いる
+//いまわしい全てのことをお前に報いる
+All that was sewn is\n
+ready to reap
 <$05><$00>
+
 
 
 
@@ -537,10 +799,14 @@ April:
 #WHB(PTR, $000017B5)
 
 <$10>
-\n  
+//\n  
+\n
 <$08>
-ここに新しき天と、新しき地とを見たり
+//ここに新しき天と、新しき地とを見たり
+As we behold here a\n
+new heaven and earth
 <$05><$00>
+
 
 
 
@@ -555,6 +821,12 @@ April:
 April:
 <$0D>
 //\nすべての預言がそろったのね…\n奇跡は起きるの？
+\n
+That's all of the\n
+prophecies. Does that
+<$0C>
+mean a miracle will\n
+happen?
 <$00>
 
 
@@ -571,16 +843,32 @@ April:
 Garyl:
 <$0D>
 //\nどうしたアマンダ、\nさあ、お前のその光で真実を照らすのだ。
+\n
+What's wrong, Amanda?\n
+Come, illuminate the
+<$0C>
+truth with your\n
+light!
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n深く眠る憎しみを呼び覚ますのだ。
+\n
+Awaken the hatred\n
+that sleeps so deeply
+<$0C>
+still.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nそれで悪は完成する。\n完全なる善と悪が出会うときだ。
+\n
+When that evil rises,\n
+I, pure good, shall
+<$0C>
+face it!
 <$00>
 
 
@@ -597,6 +885,11 @@ Garyl:
 April:
 <$0D>
 //\nライカ… あなたの真実は少ない、本当よ。
+\n
+Laika... It's true\n
+that your truths are
+<$0C>
+few.
 <$00>
 
 
@@ -846,30 +1139,59 @@ light?!
 Garyl:
 <$0D>
 //\nどうだったかな？ 
+\n
+How does hearing all\n
+that make you feel,
 <$0F>
 //。
+?
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nやはり君はヌケガラだった、\n君のその肉体は憎しみの器となり、\n君のその心は闇に閉ざされた。
+\n
+My little husk, your\n
+flesh is no more than
+<$0C>
+a dark casket of\n
+hatred.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\n君のことは誰も気が付かないでいた、\nあのあわれなタニアでさえ君でなく、\nもうひとりを愛していたのだ。
+\n
+Your mind was\n
+shrouded in darkness,
+<$0C>
+bu no one noticed.\n
+Not even pitiful\n
+Tanya.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nそうだよ、
+\n
+You were always\n
+alone,
 <$0F>
 //、\n君こそが影だ。
+. You were the lone\n
+shadow I came to\n
+free.
 <$0C><$0B>
 //ガリル：
 Garyl:
 <$0D>
 //\nだがもう悩むことはない、\n私とともに新しい世界へ、\n約束の地へ一歩を記そうではないか！
+\n
+Yes, come with me to\n
+the new world! Walk
+<$0C>
+with me into the\n
+Promised Land!
 <$00>
 
 

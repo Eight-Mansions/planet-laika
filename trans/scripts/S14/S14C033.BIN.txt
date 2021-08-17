@@ -16,8 +16,15 @@
 Sparky:
 <$0D>
 //\nなんか寒いの、すごく寒いの。\n広場の方から冷気が来るの、どうして？
+\n
+It got so much colder\n
+somehow. I think the
+<$0C>
+chill is coming from\n
+the plaza.
 <$1E>
 //行
+行
 <$00>
 
 
@@ -34,8 +41,15 @@ Sparky:
 Sparky:
 <$0D>
 //\nときどきビリってくるのよ、電気よ。\n寝てるときにね、ビリビリ…\nベッドに電気なんか来てないのに。
+\n
+Sometimes, I get hit\n
+with this jolt when
+<$0C>
+I'm asleep. But...my\n
+bed's not static!
 <$1E>
 //行
+行
 <$00>
 
 
@@ -52,8 +66,15 @@ Sparky:
 Sparky:
 <$0D>
 //\n電気だわ？それから？\nああ、ハエの憎しみだ、そうだ！\n波動がゆらぎはじめたんだ！
+\n
+What happens next,\n
+huh? A spark of
+<$0C>
+hatred, probably. The\n
+waves are fizzing!
 <$1E>
 //行
+行
 <$00>
 
 
@@ -70,8 +91,12 @@ Sparky:
 Sparky:
 <$0D>
 //\n波動の中で私は変わる？
+\n
+Will being in the\n
+waves change me?
 <$1E>
 //中
+中
 <$00>
 
 
@@ -88,13 +113,27 @@ Sparky:
 Sparky:
 <$0D>
 //\nぼわんぼわんって、何？ 催眠術の音？
+\n
+What's that\n
+wub-wub-wub sound? Is
+<$0C>
+that what\n
+hypnotherapy sounds\n
+like?
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>
 //\n建うのね、\nアガタが何か始めたんじゃないのね。
+\n
+That doesn't make\n
+sense, though. Agatha
+<$0C>
+isn't in a session\n
+right now.
 <$1E>
 //行
+行
 <$00>
 
 

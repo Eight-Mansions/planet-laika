@@ -115,11 +115,22 @@ it my time to...
 Oxygen Miner 6：
 <$0D>
 //\nてなワケだ… ああ？\n何だ、お前は？
+\n
+...time to...huh?\n
+Hey, what did you do,
+<$0C>
+huh? Great...
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
 <$0D>
 //\n俺が調子こいて話してたのに。ここは…\nおお！ 記憶の谷か！
+\n
+Before I get back to\n
+my topic, where are
+<$0C>
+we...oh! Right,\n
+Memory Valley!
 <$00>
 
 
@@ -136,16 +147,33 @@ Oxygen Miner 6：
 Oxygen Miner 6：
 <$0D>
 //\nおいおい、何じろじろ見てんだ。\nこのカッコウか、ああん？
+\n
+Hey, what are you\n
+staring at, huh? My
+<$0C>
+devilish good looks?
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
 <$0D>
 //\nこりゃ俺の制服だ、\nホマレ高き酸索坑夫様だ！
+\n
+Or is it my uniform?\n
+It's proof I'm a
+<$0C>
+top-of-the-line\n
+oxygen miner!
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
 <$0D>
 //\n俺は… １、２、３、４、\nえーっと、６号だ、覚えとけ！
+\n
+I'm Oxygen Minder\n
+1...2...no...3?
+<$0C>
+No...6! I'm 6, and\n
+don't you forget it!
 <$00>
 
 
@@ -162,6 +190,11 @@ Oxygen Miner 6：
 Oxygen Miner 6：
 <$0D>
 //\nああん？ 無線テレビだ…\n何でだ、つかないはずなのに…
+\n
+What's that noise,\n
+the monitor? Who the
+<$0C>
+Hell set it off?
 <$00>
 
 
@@ -178,6 +211,11 @@ Oxygen Miner 6：
 Oxygen Miner 6：
 <$0D>
 //\n建うぜ、俺じゃないぜ、\n人建いだ。
+\n
+Don't look at me like\n
+THAT now. It wasn't
+<$0C>
+me!
 <$00>
 
 
@@ -198,6 +236,12 @@ Oxygen Miner 6：
 Oxygen Miner 6：
 <$0D>
 //\nおい、お前にじゃないのか。無線テレビだ。\nどっからか、送ってきてるんだ。
+\n
+It wasn't you who set\n
+off the monitor,
+<$0C>
+right? Maybe the job\n
+was remote.
 <$00>
 
 
@@ -214,6 +258,11 @@ Oxygen Miner 6：
 Oxygen Miner 6：
 <$0D>
 //\n無線テレビはなぁ、\nゲートの開け閉めに使ってるんだ。
+\n
+A wireless monitor is\n
+being used to open
+<$0C>
+and close the gate.
 <$00>
 
 
@@ -260,16 +309,27 @@ without permission!
 Oxygen Miner 6：
 <$0D>
 //\n何だあいつは…トミーじゃないか。
+\n
+What's with that\n
+guy... Isn't that
+<$0C>
+Tommy?
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
 <$0D>
 //\nお前、トミーと仲いいのか。
+\n
+You and Tommy get\n
+along, right?
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
 <$0D>
 //\nトミーのやつ、ときどき俺を\n無視しやがるんだ。
+\n
+He acts pretty hot\n
+and cold around me.
 <$00>
 
 
@@ -286,11 +346,21 @@ Oxygen Miner 6：
 Rummy:
 <$0D>
 //\nやはりだな、緊急事態レベル３だな。
+\n
+Yup, this is\n
+Emergency level 3 all
+<$0C>
+right.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nこれを解除するには…\n思い出すことがたくさんあるな…
+\n
+To shut this off,\n
+there's a lot we'll
+<$0C>
+have to remember.
 <$00>
 
 
@@ -307,11 +377,23 @@ Rummy:
 Rummy:
 <$0D>
 //\n緊急事態レベル３のロックは解除したな。\nこれで酸索坑道のゲートが開くな、\n古い坑道に入れるな。
+\n
+The lock is shut off.\n
+We can get into the
+<$0C>
+oxygen mineshaft\n
+through the gate.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nあそこにはデスロックがあるな、\n死だ、死にたくなる岩だな。
+\n
+The deathrock is over\n
+there. It's a rock
+<$0C>
+that makes people\n
+want to die.
 <$00>
 
 
@@ -328,6 +410,12 @@ Rummy:
 Rummy:
 <$0D>
 //\nデスロックの前に立つと、\n死にたくなるんだな。僕はイヤだな。
+\n
+The deathrock makes\n
+people who stand in
+<$0C>
+front of it want to\n
+die. I don't like it.
 <$00>
 
 
@@ -344,11 +432,22 @@ Rummy:
 Oxygen Miner 6：
 <$0D>
 //\nあいつ、トミーじゃないのか？\nトミーじゃないとすると誰なんだ？
+\n
+That IS Tommy, isn't\n
+it? If that's not
+<$0C>
+Tommy, who is it?
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
 <$0D>
 //\nあんまりじろじろ見ないほうがいいよな、\n気があるみたいだもんな。
+\n
+Maybe it's not in my\n
+best interest to keep
+<$0C>
+staring him down like\n
+I've been doing.
 <$00>
 
 
@@ -381,6 +480,11 @@ Oxygen Miner 6：
 Rummy:
 <$0D>
 //\nデスロック、僕はイヤだな。\n僕は生きていたいんだな。
+\n
+I don't like the\n
+deathrock. I want to
+<$0C>
+live!
 <$00>
 
 

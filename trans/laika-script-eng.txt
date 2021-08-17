@@ -3708,43 +3708,6 @@ Damianos:
 <$00>
 
 //F:orig\S02\S02C081.BIN
-//P:00003E78
-<$11><$0B>
-//ダミアヌス：
-Damianos:
-<$0D>
-//\nイーブルマインドのことだろ、\n顔に書いてあるさ。
-\nYour Evil Mind is written all over your face.
-<$0C><$0B>
-//ダミアヌス：
-Damianos:
-<$0D>
-//\nあんた、地球にマグマってあるの知ってるよね。\n火星のイーブルマインドは\nそれと同じようなものだよ。
-\nEvil Mind runs through Planet Mars the way magma courses through Planet Earth.
-<$0C><$0B>
-//ダミアヌス：
-Damianos:
-<$0D>
-//\nときどき地上に吹き出してくるんだ。\nイーブルマインドって、簡単にいうと悪い気さ。\n心が弱いとね、すぐに影響される…
-\nAnd like magma, sometimes it erupts. Its wickedness absorbs and devours the weak-hearted.
-<$0C><$0B>
-//ダミアヌス：
-Damianos:
-<$0D>
-//\nえへへ、おかしなことになっちゃうんだ。\nイーブルマインドは紫色だよ。
-\nEhehe, you can even see how eerie it is. Remember, Evil Mind is purple in color.
-<$0C><$0B>
-//ダミアヌス：
-Damianos:
-<$0D>
-//\nじゃあ、もう帰るよ。\nあんたも気をつけてね。
-\nAnyways, I have to go now. Until next time!
-<$1E>
-//炎
-炎
-<$00>
-
-//F:orig\S02\S02C081.BIN
 //P:00003D3D
 <$10><$0B>
 //ダミアヌス：
@@ -6860,16 +6823,6 @@ Liter:
 
 //F:orig\S03\S03C027.BIN
 //P:00002FA7
-<$10><$0B>
-//リトル：
-Liter:
-<$0D>
-//\nどうした、レッドだ、こっちだ。
-\nWhat brings you here, Red?
-<$00>
-
-//F:orig\S03\S03C027.BIN
-//P:00002FBF
 <$10><$0B>
 //リトル：
 Liter:

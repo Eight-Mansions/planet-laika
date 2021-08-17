@@ -16,13 +16,23 @@
 Madam Agatha:
 <$0D>
 //\nどうなの、
+\n
+Are you faring in the\n
+world of nightmares,
 <$0F>
 //、悪夢の世界は。\n何か邪悪な気を惑じない？
+?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nいつもとは建うのよ、壊れそうなのよ。
+\n
+Sense anything\n
+wicked? I suspect
+<$0C>
+things are still\n
+tearing at the seams.
 <$00>
 
 
@@ -39,13 +49,24 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nあっ、待って。 これは… あなたのこと。\nあなたね、
+\n
+Oh, wait. I see...\n
+Yes, this pertains to
+<$0C>
+you,
 <$0F>
 //…
+...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nあなたのことが… 読めそうよ…\nあなたの過去が。
+\n
+Let me take a closer\n
+look, and peer into
+<$0C>
+your past.
 <$00>
 
 
@@ -62,11 +83,23 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nふたり… あなたと…\nあっ、あれはお母さんね、
+\n
+I see two people, you\n
+and...ah. It's you
+<$0C>
+and your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n一緒にいるのはあなたのお母さん…\n何か恐ろしいことが起こりそう…
+\n
+A mother and child\n
+who were always
+<$0C>
+together until\n
+something dreadful\n
+happened.
 <$00>
 
 
@@ -83,16 +116,32 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nあなたの過去、\nもう少しで読めるわ。
+\n
+Let's take a short\n
+peer into your past,
+<$0C>
+shall we?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n遠い昔…\nそこからとても強い力がおよんでいるのよ。
+\n
+Back to when you\n
+first received your
+<$0C>
+powerful abilities.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nあなたのことがわからないと、\n問顆を解くことはできないわ。
+\n
+Unless we can\n
+understand you, we
+<$0C>
+can never fully solve\n
+the puzzle.
 <$00>
 
 
@@ -109,16 +158,33 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nあやふやだけど、\nなんとか読めたわ。
+\n
+It's a little hazey,\n
+but I managed to see
+<$0C>
+something when I was\n
+peering.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n薄暗い部屋の中…\nあなたとお母さんがいるわ。
+\n
+You're inside of a\n
+dim room...you and
+<$0C>
+your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nお母さんはあなたの手を取って…\n何か渡そうとしている…
+/\n
+Your mother takes\n
+your hand. She's
+<$0C>
+trying to give you\n
+something.
 <$00>
 
 
@@ -135,6 +201,12 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n何かのびんよ…\nお酒でも入っているのかしら。
+\n
+It's some sort of\n
+bottle. I wonder,
+<$0C>
+does it contain\n
+liquor?
 <$00>
 
 
@@ -151,6 +223,13 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\n今度は夜… またふたりでいるわ…\n馬小屋ね、月明かりに照らされて…\nふたりで馬小屋を見ているところね。
+\n
+Evening comes. You\n
+two are together
+<$0C>
+again, looking at the\n
+stables in the\n
+moonlight.
 <$00>
 
 
@@ -167,21 +246,42 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nここは… 誰の部屋かしら…\nセルゲイよ、ね、あなたのお義兄さんの部屋…
+\n
+What room are you\n
+in...? Sergei's. Yes,
+<$0C>
+you are in your\n
+step-brother's room.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nあなたとお母さんが…\nクロゼットの扉を開けている…
+\n
+It's you and your\n
+mother. You're both
+<$0C>
+by Sergei's closet.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nセルゲイのシャツを\n手にしたお母さん…
+\n
+Your mother digs\n
+through it, until she
+<$0C>
+takes a shirt.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何かを企んでいるふうよ。\nあなたは何も覚えてはいないのね
+\n
+She is planning\n
+something, but you
+<$0C>
+don't remember what.
 <$00>
 
 
