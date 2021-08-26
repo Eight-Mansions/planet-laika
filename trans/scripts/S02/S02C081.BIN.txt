@@ -41,12 +41,12 @@ before?
 
 <$11><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n不思議だなぁ…\nあんたって…つかみどころないんだよ。\nなかなか読めないからね。
 \n
-You're so...shifty!\n
-I had an especially
+You're so...shifty! I\n
+had an especially
 <$0C>
 hard time getting a\n
 good look at you.
@@ -63,46 +63,45 @@ good look at you.
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nライカ…\nそれがあんたのニックネームなんだろ。
 \n
-Laika...\n
-That's only a
-<$0C>
-nickname, I see.
+Laika... That's only\n
+a nickname, I see.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n僕はダミアヌス…\nへへ、砂の子ダミアヌスさ。
 \n
-I'm Damianos, hehe!\n
-Damianos the Sand
+I'm Damian, heehee!\n
+Damian, the kid who
 <$0C>
-Shifter!
+shifts like the sand!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあのふたり、どこに行ったか知りたいかい？
 \n
-Hehe, would you like\n
-to know where your
+So, Laika, would you\n
+like to know where
 <$0C>
-two friends went?
+your two friends\n
+went?
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n僕が誘導したんだ、\nでも途中で勝手に抜け出したんだよ、ふふふ。
 \n
 I offered to show\n
 them around, but,
 <$0C>
-hehehe, they ran off\n
-on their own\n
-part-way.
+heehee, they wandered\n
+off on their own\n
+along the way.
 <$00>
 
 
@@ -116,7 +115,7 @@ part-way.
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあのふたりはね、\nこの星に呼ばれたってこと。
 \n
@@ -126,7 +125,7 @@ to those two, and
 they answered.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nふたりとも弱いんだね。
 \n
@@ -134,46 +133,47 @@ Your friends sure are\n
 weak, huh!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nふふふ、女の子だけ帰納の丘に誘導したよ…
 \n
-Hehehe, the girl was\n
+Hehee, the girl was\n
 led to the Inductive
 <$0C>
-Knoll.
+Hills.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nそれにしても不思議だなぁ、あんただけは\n誘導できなかったよ。
 \n
-And yet, it's strange\n
+Still, it's strange\n
 that you of all
 <$0C>
-people were not led\n
-there.
+people were not\n
+called there.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nなんでかな…最大のナゾだね。
 \n
 And why is that?\n
 That's the real
 <$0C>
-mystery.
+puzzle.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n女の子はこの先、帰納の丘にいるよ。\nちょっと疲れたみたいだったよ。
 \n
 Anyways, the girl\n
 seemed a little
 <$0C>
-tired, but she's up\n
-the hill just ahead.
+tired. She's through\n
+the Inductive Hills\n
+just ahead.
 <$00>
 
 
@@ -187,36 +187,37 @@ the hill just ahead.
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nそうそう、あんたにあげるよ、砂のシンパシー。\nいい名前だろ。
 \n
 Here, you can have\n
-this. It's called the
+this. It's called
 <$0C>
-"Sand Sympathy". It's\n
-a good name, no?
+"Sand's Sympathy".\n
+It's a good name, no?
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n僕に用があるときには\nそれで呼んでくれるといいよ。
 \n
 If you feel you need\n
 me for anything, use
 <$0C>
-this to call me.
+this. I will answer.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nもっとも、この場所じゃなきゃ、\nだめだけどね。
 \n
 You need to do so out\n
-here, of course. If
+here in the sands, of
 <$0C>
-not, how am I\n
-supposed to hear it?
+course. If not, how\n
+am I supposed to\n
+hear?
 <$1E>
 //炎
 炎
@@ -239,7 +240,7 @@ supposed to hear it?
 
 <$0D>
 //砂のシンパシーを手に入れた。
-"SAND SYMPATHY"\n
+Sand Sympathy\n
 acquired.
 <$00>
 
@@ -254,11 +255,11 @@ acquired.
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nえへへ、さっそくだね。\nあんた、気がみじかいの？
 \n
-Ehehe, that was fast.\n
+Hmm, that was fast!\n
 Are you feeling out
 <$0C>
 of your element?
@@ -275,30 +276,31 @@ of your element?
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n僕が誰かってことだよね。 僕は砂の子、\nえへへへへへ、でもオバケじゃないよ。
 \n
 I'm in my element,\n
-see? I'm the Sand
+see? I'm the kid who
 <$0C>
-Shifter, in the\n
-flesh, hehe! I'm no\n
-ghost!
+shifts like the sand,\n
+remember? But I'm not\n
+a ghost!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nそんな僕にも分からないことがあるんだ。\nどうしてだろう、あんたを誘導できなかった。
 \n
 The one thing I'll\n
 never understand is
 <$0C>
-how you couldn't be\n
-led anywhere.
+how Planet Mars\n
+couldn't lead you\n
+anywhere.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n誘導っていうのは、その人を導くことなんだ。
 \n
@@ -308,7 +310,7 @@ show that person
 their way.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nちょっとした遊びだけど、\nあんたにはムリみたいだ。
 \n
@@ -318,7 +320,7 @@ here, but I'd say
 you're impossible!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nさて、帰らなきゃ、またね。
 \n
@@ -340,15 +342,15 @@ better head back.
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nえへへへ、あんた、さびしがり屋さんなの。
 \n
-Ehehe, you are one\n
+Heehee, you are one\n
 lonely customer!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n僕に会いたいってことは、\nなにか開きたいことができたんだね。
 \n
@@ -375,17 +377,15 @@ about.
 
 <$11><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nイーブルマインドのことだろ、\n顔に書いてあるさ。
 \n
-Your Evil Mind is\n
-written all over your
-<$0C>
-face.
+Evil Mind is sprawled\n
+all over your face.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあんた、地球にマグマってあるの知ってるよね。\n火星のイーブルマインドは\nそれと同じようなものだよ。
 \n
@@ -396,11 +396,11 @@ the way magma courses\n
 through Planet Earth.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nときどき地上に吹き出してくるんだ。\nイーブルマインドって、簡単にいうと悪い気さ。\n心が弱いとね、すぐに影響される…
 \n
-And like magma,\n
+And, like magma,\n
 sometimes it erupts.
 <$0C>
 Its wickedness\n
@@ -408,18 +408,19 @@ absorbs and devours\n
 the weak-hearted.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nえへへ、おかしなことになっちゃうんだ。\nイーブルマインドは紫色だよ。
 \n
-Ehehe, you can even\n
-see how eerie it is.
+Heehee, you can even\n
+see Evil Mind's
 <$0C>
-Remember, Evil Mind\n
-is purple in color.
+eeriness. Remember,\n
+Evil Mind is purple\n
+in color.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nじゃあ、もう帰るよ。\nあんたも気をつけてね。
 \n
@@ -441,7 +442,7 @@ now. Until next time!
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nまたまた僕だよ、で、今度はなんだい？
 \n
@@ -462,17 +463,17 @@ about this time?
 
 <$11><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあはー、そんな目で僕のこと見て…
 \n
-A-hah! Look at you,\n
-looking at me with
+Well, well! Look at\n
+you, looking at me
 <$0C>
-those eyes...
+with those eyes...
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n分かったよ、\nあんたの体から出てるビヨビヨのことだね。
 \n
@@ -480,10 +481,11 @@ It's as if you're\n
 looking at me from
 <$0C>
 outside of your own\n
-body. That is "aura".
+body. You're looking\n
+with your "aura".
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nそれはオーラだよ。\nそうさ、あんたは火星の人間と話すだけで\n悪の影響を受けてるのさ。
 \n
@@ -491,33 +493,33 @@ See, if you so much\n
 as talk to humans on
 <$0C>
 Mars, you'll be\n
-touched by their\n
-evil.
+touched by their evil\n
+aura.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n火星の住人はみんな、いや、ほとんどが\nイーブルマインドによって悪人になって\nしまってるのさ。
 \n
-Everyone-well, most\n
-everyone on Mars is
+Most every dweller of\n
+Planet Mars is under
 <$0C>
-under the influence\n
-of Evil Mind.
+the influence of Evil\n
+Mind.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n悪人だよ、すごいね。\n僕だって例外じゃないってこと。
 \n
-That makes most\n
+That means most\n
 everyone evil.
 <$0C>
 Amazing, right? And\n
 I'm no exception!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nさ、じゃあ、もう帰るね。
 \n
@@ -539,7 +541,7 @@ off!
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあんた、僕のこと気に入ったの？\nそんなワケないよね。
 \n
@@ -549,7 +551,7 @@ don't see why you
 would.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nで、あんたが知りたいことは…
 \n
@@ -568,58 +570,56 @@ like to know...
 
 <$11><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nわりと当たり前のことだね… 悪の種類でしょ。\n３つあるって、そんなこともういいじゃない。
 \n
-Clearly, you want to\n
+I bet you want to\n
 know about the many
 <$0C>
-traits of evil.\n
-There's 3 types,\n
+traits of evil. There\n
+are three types,\n
 but...
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nそれよりさ、欲悪がビジュアル系っていうのは、\nなんだか建わない？
 \n
-...traits aren't so\n
-simple! You see,
+...their traits\n
+aren't so simple! You
 <$0C>
-greed-or "desire", is\n
-a Visual type evil\n
-trait.
+see, greed is a\n
+Visual type trait.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n力悪がアニマル系っていうのはよく分かるし、\n知悪がサイコ系っていうのも\nその通りだけどさ。
 \n
-"Power" is Animal\n
-type, and "wisdom" is
+Power is Animal type,\n
+and wisdom is Psycho
 <$0C>
-Psycho type. Do you\n
-see now?
+type. Do you see now?
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nねぇ、欲悪ってコロニーには\nリンダとマラケシュしかいないけど、\n他にもいるって知ってる？
 \n
-Linda and Marrakesh\n
+Linda and Marrakech\n
 won't be the only
 <$0C>
 greedy people you\n
 meet in the colony.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nえへへ、ほんとだよ。\nじゃあね、帰るから。
 \n
-Ehehe, I'm not\n
-kidding. I'd better
+Heehee, I'm serious!\n
+Anyways, I'd better
 <$0C>
 go now!
 <$1E>
@@ -638,7 +638,7 @@ go now!
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nさあて、なにを話そうかな…\nコロニーの不思議っていうのはどう？
 \n
@@ -660,19 +660,18 @@ the colony!
 
 <$11><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n消灯時間って知ってる？\nコロニーの不思議さ。
 \n
 "What mystery", you\n
 ask? Well, do you
 <$0C>
-know what the\n
-lights-out time is\n
-about?
+know what\n
+"lights-out" time is?
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n消灯って夜のことだろ…\nだから夜なら分かるんだけど、\nそれだけじゃないんだ、消灯時間は。
 \n
@@ -680,34 +679,35 @@ Sure, we all turn the\n
 lights out at night,
 <$0C>
 but the colony all\n
-does so at one set\n
+does so at a set\n
 time.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nね、不思議だろ…\n昔あそこはとびっきりの悪人を\n閉じ込めておく部屋だったんだ。
 \n
 In the old days, they\n
 used to have a room
 <$0C>
-where they imprisoned\n
-the worst of the\n
-worst.
+with a bed, where\n
+they imprisoned the\n
+worst of the worst.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあそこって、知ってるよね、\nあんたの個室だよ。
 \n
 Do you know where\n
 that room is?
 <$0C>
-Actually, it was your\n
-private quarters!
+Actually, it's the\n
+room you're staying\n
+in!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nさ、もう行かなきゃ、またね。
 \n
@@ -729,11 +729,11 @@ heading out.
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nいきなりだけど、夢の話なんてどう？
 \n
-I know it's sudden,\n
+I know it's random,\n
 but do you want to
 <$0C>
 talk about dreams?
@@ -750,61 +750,64 @@ talk about dreams?
 
 <$11><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n夢にもいろいろあるけれど、そうだなぁ、\n遠い夢ってどう？
 \n
 Sure, there are many\n
-dreams, but what
+dreams, but
 <$0C>
-dreams of things we\n
-see in the distance?
+sometimes, we dreams\n
+of things we can only\n
+see in the distance.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nずっと遠くに見えてるんだ… よくあるんだよ、\n僕は遠くに人形が見えてる。
 \n
-Dreams of things that\n
-are always beyond our
+We dream of things\n
+well beyond our
 <$0C>
-reach. For me, I see\n
-a distand doll.
+reach. For me, I\n
+sometimes see a doll\n
+in the far distance.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n一抱えもある大きな人形、\nそれが真っ黒なんだよ。\n目もなにもなし、とにかく真っ黒さ。
 \n
-A doll with open\n
-arms, but it's
+It's a large-armed\n
+doll that's all
 <$0C>
-entirely black with\n
-no eyes. They're just\n
-black holes.
+black. It doesn't\n
+have eyes either.\n
+It's pitch black all\n
+over.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nまるで夜がそのまま人形になったみたいなんだ。\nでも、その人形となにするわけでもなくて、\nただ僕は遠くから見てるだけなんだけどね…
 \n
 It's as if the night\n
-sky became a doll,
+sky became a doll
 <$0C>
-but nothing happens\n
-with it. I can only\n
-watch it from afar.
+that does nothing. I\n
+can only watch it\n
+from afar.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n夢ってそんなもんだよね、おかしいね。\nさて、そろそろ、帰るね。
 \n
-Dreams are weird like\n
-that, aren't they.
+Dreams are strange\n
+like that, aren't
 <$0C>
-And with that, I'd\n
-better go home.
+they. And with that,\n
+I'd better go home.
 <$1E>
 //炎
 炎
@@ -821,7 +824,7 @@ better go home.
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nねぇ、あんたはなにをされるのがイヤなの？
 \n
@@ -843,39 +846,41 @@ do?
 
 <$11><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nオトナになっていやなことって、\n本当はコドモのころにすごくいやな目に\nあってるんだよ…
 \n
 Know what I hate\n
-about being an adult?
+about becoming an
 <$0C>
-Having really bad\n
-experiences with them\n
-as a kid.
+adult? Having really\n
+bad experiences with\n
+adults as a kid.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n忘れてるだけで。\nふふふ、おかしいのはそのいやなことを\nまたやってる自分がいるんだ。
 \n
-Only, I forget them\n
-all. Hehe, the sad
+Only, I don't recall\n
+what the experiences
 <$0C>
-part is, I bet I'm\n
-one of those bad\n
-experiences now.
+were. Sadly, I bet\n
+I'm being one of\n
+those bad experiences\n
+now.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n誰かをギセイにしてね。\n人間ってどうしていつもくり返すんだろ。
 \n
-We all have to blame,\n
-someone, don't we?
+We all have someone\n
+to blame, don't we?
 <$0C>
-Why are humans so\n
-doomed to repetition?
+Why do humans doom\n
+themselves to\n
+repetition so?
 <$1E>
 //炎
 炎
@@ -892,7 +897,7 @@ doomed to repetition?
 
 <$10><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nなんだよ、あんたもせっかちだな。
 \n
@@ -900,15 +905,14 @@ You're awfully hasty,\n
 you know!
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nヤツギバヤは止してくれ。分かる？\nヤツギバヤだよ、それ、きらいなんだ。
 \n
-Stop calling on my\n
-back-to-back
+Stop calling on me\n
+back-to-back, over
 <$0C>
-repeatedly! I hate\n
-it!
+and over! I hate it!
 <$1E>
 //炎
 炎

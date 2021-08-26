@@ -13,12 +13,12 @@
 
 <$12><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nううう、そうだそうだ、俺が…うううう…
 \n
-Ohhh, got it? We got\n
-it? I mean...err...
+Oh, I get it.\n
+I...err...
 <$00>
 
 
@@ -32,22 +32,22 @@ it? I mean...err...
 
 <$12><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nちくしょう！ またか、また俺は…
 \n
-Dammit! I did it\n
+Goddammit. I did it\n
 again, huh.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n今度は何をやらかしたんだ…\nあああ、くそっ、思い出せない…
 \n
 But what'd I do this\n
-time? Oh Lord, I
+time? Ugh, I don't
 <$0C>
-don't even remember.
+even remember.
 <$00>
 
 
@@ -61,7 +61,7 @@ don't even remember.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nお前は誰だ、地球から来たのか？
 \n
@@ -81,11 +81,10 @@ from Earth?
 <$10>
 //俺は…俺は…\nリ、ト、ル…リトルだ、\nそうだそうだ、俺は酸索屋のリトルだ。
 \n
-I'm Liter.\n
-L-I-T...ER, got it?
+I'm Little.\n
+L-I-T-T-L-E, got it?
 <$0C>
-We got it? I work at\n
-the oxygen\n
+I work at the oxygen\n
 dispensary.
 <$0E><$32><$17><$00>
 
@@ -100,15 +99,14 @@ dispensary.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nそれがなんで…\nちくしょう、またやつだ、やつが俺の時間を！
 \n
 Why do you want to\n
-know, huh? Dammit,
+know, huh? Don't
 <$0C>
-you're wasting my\n
-time!
+waste my time!
 <$0E><$32><$17><$00>
 
 
@@ -131,7 +129,7 @@ me!
 //あんたは本の中から生まれてきたみたいな、\nそんな人なんだよ。
 You grow up with your\n
 nose in the books or\n
-something? All you
+somethin'? All you
 <$0C>
 smart people do.
 <$0C>
@@ -158,23 +156,25 @@ us.
 <$10><$13><$19>
 //あんたは…何だろう、\nきっとケンカが好きなんだね。
 \n
-Why, I bet you're the\n
+Oi, I bet you're the\n
 kinda punk who gets
 <$0C>
-off on picking\n
+off on pickin'\n
 fights!
 <$0C>
 //分かるんだ、僕には分かる、\nちょっと怖いよ。
-...Aww, I get it, I\n
-get it. Sure, you're\n
-a little scary.
+...Sure, sure.\n
+Whatever you want.\n
+But I know how you
+<$0C>
+scare-bear types are.
 <$0C>
 //でも本当はやさしい人なんだよね、\n誰かを守るために生まれてきたんだね。
-But you're really a\n
-nice person, with\n
-your own someone you
+Deep down, you're a\n
+softie too, with your\n
+own someone you were
 <$0C>
-were born to protect.
+born to protect.
 <$1E>
 //早
 早
@@ -201,10 +201,10 @@ you!
 //顔とか見かけにこだわるんだよね、\nでも本当はすごく寂しがり屋さん。
 You worry about your\n
 face and appearance\n
-for others, but
+for others, but while
 <$0C>
-you're really a\n
-lonely person.
+you put others first,\n
+you're lonely.
 <$0C>
 //あんたは誰かの相談相手だったんでしょ。
 That tells me you\n
@@ -232,8 +232,8 @@ Linda:
 <$0D>
 //\nあらー、アタシに用？
 \n
-My, my! Are you\n
-looking for me?
+My, are you looking\n
+for me?
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -252,7 +252,7 @@ Linda:
 //\nだったらあっち、リャンハウス、\n整形屋ねー。
 \n
 If you want to fix\n
-it, you can get
+you, you can get
 <$0C>
 cosmetic surgery at\n
 House Liang.
@@ -263,10 +263,10 @@ Linda:
 //\nそっち、ナイトプラネット、\nケチな酒場ねー。あっちとそっちよー。
 \n
 If you'd rather\n
-forget it, let's blow
+forget you, you can
 <$0C>
-your money at\n
-NIGHTPLANET!
+blow your money at\n
+NIGHT PLANET!
 <$1E>
 //〇
 〇
@@ -287,8 +287,8 @@ Linda:
 <$0D>
 //\nここはねー、ちょっとねー、\nいやな部屋よー、焦げ臭いのー。
 \n
-This apartment's such\n
-a drag. It smells
+This flat here's\n
+disgusting. It smells
 <$0C>
 burnt for God's sake!
 <$1E>

@@ -18,10 +18,10 @@ Thomas:
 //\nあああ、あいつ、怖い目で私を見たんだ、\n言わせてもらうとそういうことだ。
 \n
 Oh, what scary eyes\n
-he looked at me with!
+he looked at me with
 <$0C>
-I've no better way to\n
-word it.
+too! I've no words to\n
+describe them!
 <$1E>
 //理
 理
@@ -42,10 +42,10 @@ Thomas:
 <$0D>
 //\nいわゆるあれだ、私なりの… おお？
 \n
-In my own way, I want\n
-to explore the
+I sare say, I want to\n
+explore this
 <$0C>
-so-called...hmm...
+so-called...hmm?
 <$0C><$12><$0B><$0B>
 //トーマス：
 Thomas:
@@ -53,10 +53,10 @@ Thomas:
 //\n何だ、本格的だな、\nおおお、来る来る、来るぞ！
 \n
 Whatever it is, it's\n
-the real-deal, and
+the real...oh! It's
 <$0C>
-ohh, it's coming!\n
-Something's coming!
+coming! Something's\n
+coming!
 <$00>
 
 
@@ -94,18 +94,29 @@ Something's coming!
 
 <$10><$12>
 //に
+に
 <$0B>
 //ネオ・ユニバーサルマン：
-Neo Universalman:
+Neo-Universal Man:
 <$0D>
 //\nおおお、私を呼ぶ者がある…
+\n
+Oh, someone calls for\n
+me...
 <$0C><$12>
 //に
 <$0B>
 //ネオ・ユニバーサルマン：
-Neo Universalman:
+Neo-Universal Man:
 <$0D>
 //\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
+\n
+...leading me to\n
+Jeremiah. Leading me
+<$0C>
+to sweet Death. To\n
+the deepest depths of\n
+Death.
 <$00>
 
 
@@ -122,11 +133,23 @@ Neo Universalman:
 White Eagle:
 <$0D>
 //\n最後の預言はエレミヤのミイラとともに\n眠っておる。
+\n
+The final prophecy\n
+lays in rest,
+<$0C>
+together with\n
+Jeremiah's mummy.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
+\n
+It lays beyond the\n
+nightmares, beyond
+<$0C>
+all falsehood in the\n
+Land of the Dead.
 <$00>
 
 
@@ -143,11 +166,23 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nいよいよじゃな、最後の試練じゃ。\nそれを乗り越えて、お前たちは…
+\n
+At last, you all must\n
+come together to
+<$0C>
+overcome the final\n
+test.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nマコトの双子ならきっと奇跡を\n起こせるはずじゃ。
+\n
+But surely you will\n
+awaken this miracle,
+<$0C>
+for you are the Twins\n
+of Truth.
 <$00>
 
 
@@ -164,6 +199,12 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nわしは悪夢への入り口をさがしにいってくるぞ。\nちょっと思うところあってな。
+\n
+I shall look for the\n
+entrance to the
+<$0C>
+nightmares. I may\n
+have an idea.
 <$00>
 
 
@@ -180,8 +221,15 @@ White Eagle:
 Thomas:
 <$0D>
 //\nあんたまで…私を怖い目で見るのか…\nそれにはなれてない。
+\n
+As for you, you look\n
+at me with such scary
+<$0C>
+eyes. I've no words\n
+to describe them.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -198,8 +246,15 @@ Thomas:
 Thomas:
 <$0D>
 //\nあああ、ここは悪夢なのか？\n私なりに、悪夢なのか。
+\n
+Ohh, is this a\n
+nightmare?! I dare
+<$0C>
+say, I'm living a\n
+nightmare!
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -216,8 +271,16 @@ Thomas:
 Thomas:
 <$0D>
 //\n私なりに、私に近いことしか考えられなくなって\nきたんだ…近いこと、近く…よねー、\n近いことー、それだけでいいのよねー。
+\n
+I dare say, the more\n
+I think about things
+<$0C>
+closer to me...all\n
+that matters is that\n
+they're close.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -234,8 +297,16 @@ Thomas:
 Thomas:
 <$0D>
 //\n人だってそうだ…側にいたって遠いのよー、\nぜんぜん遠い、ウソだらけー。
+\n
+I've come to the\n
+conclusion that even
+<$0C>
+those distant from us\n
+are close. Distance\n
+is a lie!
 <$1E>
 //鋭
+鋭
 <$00>
 
 

@@ -30,7 +30,7 @@ Gold:
 //\nへへん、いいこと教えてやろうか。\nレッドのやつだ、やつが何におびえてるか…
 \n
 Hehe, might as well\n
-tell you. That guy's
+tell you. The guy's
 <$0C>
 scared of something.
 <$0C><$0B>
@@ -43,8 +43,8 @@ Think you know what\n
 that is?
 <$1B>
 //？知らない\n知ってる
-？I don't know\n
-I know
+？No\n
+Yes
 <$00><$17><$00>
 
 
@@ -66,25 +66,23 @@ Gold:
 <$0D>
 //\n泡のおじさんだ…どう思う？\n泡のおじさんだとよ、へへん、笑わせるぜ！
 \n
-And old man, Uncle\n
-Bubbles... Like,
+"Uncle Bubbles".\n
+Like, really? "Uncle
 <$0C>
-really? Uncle\n
-Bubbles?! Pfft, it\n
-sounds so fucking\n
-stupid.
+Bubbles"?! Tell me\n
+he's not stupid.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nガキの頃に一緒に住んでたおじさんで、\nそいつに妙な可愛がられ方したんだそうだ
 \n
-Uncle Bubbles lived\n
-with Red when he was
+The guy's real,\n
+though. Lived with
 <$0C>
-a kid. Guess they had\n
-some weird\n
-attachment.
+Red when he was a\n
+kid. They had some\n
+"thing" going on.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -102,9 +100,10 @@ Gold:
 <$0D>
 //\nクロウのやつは人の夢の中がのぞけるんだ。
 \n
-Crow has the ability\n
-to see into peoples'
+I should mention:\n
+Crow has the ability
 <$0C>
+to peer into peoples'\n
 dreams.
 <$1E>
 //声
@@ -130,8 +129,8 @@ Gold:
 <$0D>
 //\nそうかい、お前もやけに早耳だな。
 \n
-Really, now? You're\n
-pretty keen.
+Really, now? Guess\n
+you're pretty keen.
 <$1E>
 //声
 声
@@ -188,8 +187,14 @@ If Red catches onto\n
 you, you're done for.
 <$00><$12><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\n扉、壊れちまった、開かねぇんだ！
+\n
+The door's busted.\n
+There's no getting
+<$0C>
+out.
 <$00>
 
 
@@ -206,8 +211,16 @@ you, you're done for.
 Gold:
 <$0D>
 //\nなんだ？ 朝から飲みてぇのか？\nふん！ やめときな。
+\n
+You haven't been\n
+drinking since this
+<$0C>
+morning, have you?\n
+Might be time to tap\n
+out.
 <$1E>
 //声
+声
 <$00>
 
 
@@ -224,32 +237,78 @@ Gold:
 Gold:
 <$0D>
 //\nレッドのやつがさがしてるってよ。\n気に入られたのか？
+\n
+You're the one Red's\n
+looking for, right?
+<$0C>
+Must've caught his\n
+fancy.
 <$1E>
 //家
+家
 <$00><$12><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\nおい、俺はなぁ、\n別にお前のこと心配ってわけじゃねぇ、
+\n
+I mean, you live your\n
+life, kid. I ain't
+<$0C>
+exactly worried for\n
+your sake.
 <$0C><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\nただこれ以上、\n騒ぎを起こしてほしくねぇんだ、分かるか。
+\n
+I don't want the\n
+noise seeping into my
+<$0C>
+bar, got it? That's\n
+why they say, "Get a\n
+room".
 <$0C><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\nレッドのやつが戻った…
+\n
+Red must be back...
 <$0C><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\nやつは？血眼になってお前をさがしてる、
+\n
+He's lookin' like a\n
+mad dog after you.
+<$0C>
+Eyes all bloodshot,\n
+like that.
 <$0C><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\nどっかそのへんに身を隠すところ、ないか？\nあるだろ、ちょっと隠れればいいんだ。
+\n
+You don't need to lay\n
+low, do you? There
+<$0C>
+are places to hide,\n
+if you need 'em.
 <$0C><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\n部屋の中とかじゃねぇぞ、\nちょっと隠れるんだ。
+\n
+Even if they aren't\n
+permanent, you can
+<$0C>
+tuck away in some of\n
+the different flats.
 <$00>
 
 
@@ -266,8 +325,12 @@ Gold:
 Gold:
 <$0D>
 //\nどこかに身を隠した方がいいんじゃねぇのか？
+\n
+Shouldn't you be\n
+hiding somewhere?
 <$1E>
 //声
+声
 <$00>
 
 
@@ -289,11 +352,12 @@ Gold:
 <$0D>
 //\nおう… コスマスはどうした…\nレッドのやつが戻るとうるせぇぞ。
 \n
-Hey, what happened to\n
-Cosmas? ...It's gonna
+The heck happened to\n
+Cosmas? There'll be a
 <$0C>
-be a shitstorm once\n
-Red comes back.
+shitstorm once Red\n
+comes back and sees\n
+him.
 <$1E>
 //声
 声
@@ -323,10 +387,11 @@ Gold:
 //\n記憶の谷で善人が見つかったとかでよ、\n善人はすぐ悪に憑かれちまうから\n危ないんだそうだ。
 \n
 A good person was\n
-seen in Memory
+seen in Valles
 <$0C>
-Valley, but will soon\n
-be posessed by evil.
+Memoriae, meaning\n
+they'll soon be\n
+posessed by evil.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -334,7 +399,7 @@ Gold:
 //\nあんたのお仲間なのか？\nそいつは善人だったのか？
 \n
 It's not safe. Could\n
-it be your companion?
+it be your friend?
 <$0C>
 Are any of your\n
 companions good\n
@@ -362,7 +427,7 @@ Gold:
 A white sheet of\n
 paper can be turned
 <$0C>
-many a color.
+any color you pick.
 <$1E>
 //声
 声
@@ -386,8 +451,8 @@ Gold:
 What did you do to\n
 Red? He just walked
 <$0C>
-out humming something\n
-weird.
+out mumbling\n
+something weird.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -397,7 +462,7 @@ Gold:
 There's no saving him\n
 now. That guy's
 <$0C>
-gonnnnne.
+capital F-A-R-gone.
 <$1E>
 //声
 声
@@ -419,9 +484,10 @@ Gold:
 //\nレッドのやつ、泡のおじさんが怖いんだ、\nへへ、ああ見えてもな。
 \n
 Red's scared of Uncle\n
-Bubbles, even if none
+Bubbles, hehe. Even
 <$0C>
-of us can see him.
+if none of us can see\n
+him.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -461,7 +527,7 @@ Gold:
 Red, Red, Red... I\n
 wonder what happened
 <$0C>
-to that mongrel.
+to that sick pup.
 <$1E>
 //家
 家
@@ -528,10 +594,11 @@ Spacer:
 <$0D>
 //\nダークマンは実体を持たないのか？\nそれとも…
 \n
-Does Darkman not have\n
-a true form?? Or does
+Does Dark Man not\n
+have a true form??
 <$0C>
-he...
+Then, that only\n
+means...
 <$00>
 
 

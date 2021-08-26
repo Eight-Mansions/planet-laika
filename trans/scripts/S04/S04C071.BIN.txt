@@ -219,12 +219,12 @@ Are you tourists?
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nお客さん？
 \n
 You're tourists,\n
-right? I'm Kosmas.
+right? I'm Cosmas.
 <$00>
 
 
@@ -245,7 +245,7 @@ April:
 Oh! Uhm, can we ask\n
 you something,
 <$0C>
-Kosmas?
+Cosmas?
 <$00>
 
 
@@ -259,7 +259,7 @@ Kosmas?
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n僕、コスマスだよ。 うとうとしてたんだ。\nもう寝ようと思って。消灯時間さ。
 \n
@@ -304,7 +304,7 @@ men?
 
 <$13><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nお祈りしたり、おどったりする人だよ。\nメディスンマンって、\n病気を洽す人って意味らしいよ。
 \n
@@ -349,7 +349,7 @@ colony?
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n彼らは特別なんだよ。超能力があるんだ。\nでも、マウンテンはインチキだって言ってる。
 \n
@@ -389,26 +389,27 @@ And who is Mountain?
 
 <$13><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nハウスでいろいろ研究してる。\nメディスンマンのロッジに入る暗証番号を\n教えてくれるよ。
 \n
-He does research over\n
-at Psycho House, but
+He's a researcher at\n
+Psycho Lab, but he
 <$0C>
 knows the PIN to\n
-enter the Lodge.
+enter the medicine\n
+men's lodge.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nマウンテンはこっそり\nロッジの様子をさぐったりしてるんだ。
 \n
-Mountain's been\n
-running a probe on
+Mountain likes to\n
+stalk the medicine
 <$0C>
-the medicine men in\n
-secret.
+men and watch their\n
+activities in secret.
 <$00>
 
 
@@ -441,7 +442,7 @@ secret?
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nマウンテンたちと\nメディスンマンは仲が悪いんだ。
 \n
@@ -451,15 +452,15 @@ medicine men are not
 on good terms.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nメディスンマンは金星人を\n信じちゃいないからね。
 \n
 Because the medicine\n
 men don't believe in
 <$0C>
-the Venusians like\n
-Mountain does.
+the Venusians the way\n
+he does.
 <$00>
 
 
@@ -494,15 +495,16 @@ here?
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nここにはいないさ。\n力がやって来るんだ、宇宙からね。
 \n
 Not people from\n
-Venus, no. It's the
+Venus, no. Venusians
 <$0C>
-power they're sending\n
-out through space.
+are the energy being\n
+sent out through\n
+space from Venus.
 <$00>
 
 
@@ -521,9 +523,9 @@ April:
 //\nところで、あなたのその顔、どうしたの？
 \n
 I see. Now, before I\n
-go...did something
+go...what happened to
 <$0C>
-happen to your face?
+your face?
 <$00>
 
 
@@ -537,8 +539,8 @@ happen to your face?
 
 <$12>
 //コスマス！ コスマス！ どこにいるんだ？
-Kosmas? Kosmas, where\n
-are you?!
+Cosmas? Cosmas, where\n
+are you?
 <$00>
 
 
@@ -552,14 +554,15 @@ are you?!
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nレッドおじさんだ…もう行くね、じゃあね。
 \n
 That was Uncle Red...\n
 I have to go now, but
 <$0C>
-good luck!
+good luck on your\n
+trip!
 <$1E>
 //鋭
 鋭

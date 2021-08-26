@@ -17,8 +17,7 @@ Tommy:
 <$0D>
 //\nようよう、兄ちゃん…兄ちゃんよう…
 \n
-Hey-uh...Buddy. Hey,\n
-Buddy...
+Hey. Hey, comrade...
 <$00>
 
 
@@ -36,10 +35,8 @@ Tommy:
 <$0D>
 //\n兄ちゃん… ああん？\n会ったことあるか、俺と？
 \n
-Buddy-uh...have we\n
-met? Have we met
-<$0C>
-before?
+Have we met before?\n
+You and me?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -48,39 +45,38 @@ Tommy:
 \n
 <$12>
 //つくそっ、気分が悪い、吐きそうだぜ…\nおぇっ、うぐぐぐ、おえっ…
-Damn, I feel sick.\n
+Ick, I feel sick.\n
 Totally about to\n
-puke. Ugh, this
-<$0C>
-sucks...!
+puke... This sucks!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nなあ、酸索屋になんか用か？
 \n
-You're...looking for\n
-the oxygen
+So, you're looking\n
+for the oxygen
 <$0C>
-dispensary? F-For\n
-what?
+dispensary? For what?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nリトルのやつ、さっきナイトプラネットの側に\nいやがったぜ…
 \n
-All I know is, I saw\n
-Liter outside of
+If you need to speak\n
+to an employee, I saw
 <$0C>
-NIGHTPLANET just now.
+Little outside of\n
+NIGHT PLANET just\n
+now.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n何やってんだ、あんなところで。
 \n
-(What the Hell was he\n
+(What the heck was he\n
 doing, anyways?)
 <$00>
 
@@ -99,21 +95,21 @@ Tommy:
 <$0D>
 //\nナイトプラネットは\nここまっすぐ行ったところだ、
 \n
-If you wanna try\n
-NIGHTPLANET, it's
+If you wanna check\n
+out NIGHT PLANET,
 <$0C>
-just up the road.
+it's just up the\n
+road, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nぐげげ、ケチな酒場だぜ。
 \n
-Grrrp!\n
-I'm-uh...warning you,
+Brrrp...! I'm warning\n
+you, the place is
 <$0C>
-the place is highway\n
-robbery.
+highway robbery.
 <$00>
 
 
@@ -132,9 +128,9 @@ Tommy:
 //\n兄ちゃんよう、地球から来たんだな、\nそうだろ、
 \n
 You're from Earth,\n
-arent'cha, Buddy?
+arent'cha, comrade? I
 <$0C>
-Yeah, yeah.
+thought so.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -142,10 +138,10 @@ Tommy:
 //\nそれでヘロデんとこにあいさつに来た…\nぐげげげ、吐きそうだぜ、気分が悪いぜ…
 \n
 That's why you want\n
-Herod. Grrrp! Don't
+Herod, a-yup...
 <$0C>
-mind me. I'm just-uh,\n
-dying.
+Brrrp! Ick, don't\n
+mind me. I'm just...
 <$1E>
 //双
 双
@@ -166,7 +162,7 @@ Tommy:
 <$0D>
 //\nこんな早い時間から飲み過ぎたぜ、\nくそっ、気分が悪い…
 \n
-Damn, I feel sick. I\n
+Ick, I feel sick. I\n
 drank too much this
 <$0C>
 time around.
@@ -190,11 +186,10 @@ Tommy:
 <$0D>
 //\nようよう、兄ちゃんよう、\nあいつらに何たのまれたんだ？ え？
 \n
-Hey-uh...Hey,\n
-Buddy... Did those
+Hey, comrade. Did\n
+those nuts want
 <$0C>
-nuts want something\n
-from you?
+something from you?
 <$00>
 
 
@@ -213,19 +208,19 @@ Tommy:
 //\nおお？ 兄ちゃんの顔、やっぱり\n見たことあるぜ…
 \n
 Wait, I'm right,\n
-right? I can see it
+ain't I? I can see it
 <$0C>
-on your face, Buddy.
+on your face.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nさっき会ったか、へー、\n何たのまれたんだよ、言いなよ。
 \n
-So-uh, what'd they\n
-want? All right now,
+So, what'd they want?\n
+All right, don't tell
 <$0C>
-don't tell me...
+me...
 <$00>
 
 
@@ -243,20 +238,20 @@ Tommy:
 <$0D>
 //\n何だよ、水くせぇじゃねぇか、\nよう、赤い石だろ、図星！
 \n
-Some slippery little\n
-feller...I know! The
+Something slippery, I\n
+bet... YEAH! They
 <$0C>
-red stone! I know it!
+want the red stone!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nひーひひひ、あいつら欲しがってる…\nへへへー、
 \n
-Hee hee hee! That's\n
-what they want you to
+Hehe, that's what\n
+they want you to get?
 <$0C>
-get? Hehehe!
+I knew it!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -266,7 +261,7 @@ Tommy:
 Too bad, no one has\n
 actually laid eyes on
 <$0C>
-the red stone. You\n
+the red stone. Wanna\n
 know why?
 <$00>
 
@@ -289,17 +284,18 @@ The door that leads\n
 to the stone won't
 <$0C>
 open! Even Boomer\n
-couldn't bust in.
+can't break it down.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nハウスにいるヤングやクロウに言わせりゃ\n火星人の扉だと。
+\n
 That's a Martian\n
-door. You'll have to\n
-ask Yang or Crow over
+door. You'll have to
 <$0C>
-at Psycho House about\n
+ask Yang or Crow over\n
+at Psycho Lab about\n
 it.
 <$0C><$0B>
 //トミー：
@@ -340,28 +336,29 @@ You'll have to talk\n
 to one of those giant
 <$0C>
 honkers to get\n
-inside.
+inside, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n恐々行ってみたぜ、俺もよ、見えねぇ…\n俺には目ん玉なんて、見えねえ…\nくそったれ…
 \n
-I'd help, but I...I\n
-can't see 'em either.
+I'd love to help, but\n
+I...I can't see 'em.
 <$0C>
 I can't see the\n
-honkers, dammit!
+honkers, dangit!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nううう、また気分が悪くなってきた…\n吐きそうだ…おぇっおぇっおぇっ…\nいつ会ったんだ…おえっ！
-Damn, I feel sick.\n
-Totally about to puke\n
-again. I gott
+\n
+Ick, I feel sick.\n
+Totally about to puke
 <$0C>
-arun...! Brrp!
+again. Brrrp! I've\n
+gotta run!
 <$00>
 
 
@@ -379,20 +376,21 @@ Tommy:
 <$0D>
 //\nよよ、兄ちゃんよう、\n赤い石、手に入れたのか？
 \n
-Hey-uh, Buddy! You\n
+Hey, comrade! You\n
 find that red stone
 <$0C>
-all right?
+in one piece?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nすげぇな、そりゃすげぇ。\n目ん玉はどうした？ ほんとにあるのか？
 \n
-Hell yeah, nice! What\n
+Hehe, nice! So, what\n
 about the talking
 <$0C>
-eyeball? Was it real?
+eyeballs? Are they\n
+real?
 <$1B>
 //」ある\nない
 」Yes\n
@@ -417,17 +415,18 @@ Tommy:
 So, they're real!\n
 Hehe, too bad we
 <$0C>
-can't see 'em-oh, you\n
-know what?
+can't see 'em, you\n
+know?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n兄ちゃんもハウスの野郎と一緒だ、\n電波の実験してるやつと一緒だ。
 \n
-Go check out Psycho\n
-House. The guys there
+That reminds me. Go\n
+check out Psycho Lab.
 <$0C>
+The guys there\n
 experiment with radio\n
 waves.
 <$1E>
@@ -450,11 +449,11 @@ Tommy:
 <$0D>
 //\nねぇよな、そりゃそうだ、\nハウスのやつらはおかしいぜ。
 \n
-Yeah, figures.\n
-Those-uh, Psycho
+Yeah, figures. Those\n
+Psycho Lab guys love
 <$0C>
-House guys love that\n
-hocus pocus stuff.
+that hocusy-pocusy\n
+stuff too, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -485,10 +484,10 @@ Tommy:
 <$0D>
 //\n知ってるか、兄ちゃん。
 \n
-You ever-uh, check\n
-the monitor in Psycho
+Have you ever checked\n
+out the monitor in
 <$0C>
-House, Buddy?
+Psycho Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -507,7 +506,7 @@ Tommy:
 //\n気味悪いぜ、なあ兄ちゃんよう。
 \n
 Give it a good look\n
-sometime.
+sometime, comrade.
 <$1E>
 //双
 双
@@ -523,34 +522,64 @@ sometime.
 #WHB(PTR, $00000FC5)
 
 <$10>
-あなたね…\nエイプリルと一緒だったのは。
+//あなたね…\nエイプリルと一緒だったのは。
+\n
+It's you...\n
+You were the one with
 <$0C>
-行ってあげて、\n彼女、あなたのこと待ってるわ。
+April.
+<$0C>
+//行ってあげて、\n彼女、あなたのこと待ってるわ。
+You should go.\n
+She's waiting for\n
+you.
 <$00><$10><$0B>
-イースト：
+//イースト：
+East:
 <$0D>
-\nさあ、リトルさんは中だ。
+//\nさあ、リトルさんは中だ。
+\n
+See Little inside?
 <$00><$10><$0B>
-ウェスト：
+//ウェスト：
+West:
 <$0D>
-\n俺たちはここで見張ってる。
+//\n俺たちはここで見張ってる。
+\n
+We will wait outside!
 <$00><$10><$0B>
-イースト：
+//イースト：
+East:
 <$0D>
-\nお前たち、明日帰る。
+//\nお前たち、明日帰る。
+\n
+You're leaving\n
+tomorrow?
 <$00><$10><$0B>
-ウェスト：
+//ウェスト：
+West:
 <$0D>
-\nいいこと。今夜、寝る。
+//\nいいこと。今夜、寝る。
+\n
+You're sleeping\n
+tonight!
 <$00><$10><$0B>
-イースト：
+//イースト：
+East:
 <$0D>
-\n俺たち、寝ずの番。
+//\n俺たち、寝ずの番。
+\n
+Shall we watch\n
+through the night?
 <$00><$10><$0B>
-ウェスト：
+//ウェスト：
+West:
 <$0D>
-\n見張る。
+//\n見張る。
+\n
+We're the nightwatch!
 <$00>
+
 
 
 
@@ -569,15 +598,15 @@ Madam Agatha:
 Keep your mind sharp.\n
 Don't succumb to the
 <$0C>
-wiles of Memory\n
-Valley.
+wiles of Valles\n
+Memoriae.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこの星のよこしまな力に\nとらわれたりしないでね。
 \n
-Mars bears a vile\n
+Mars possesses a vile\n
 power. Don't let that
 <$0C>
 power swallow you\n

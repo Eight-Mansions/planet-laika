@@ -13,12 +13,12 @@
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nおっ！ 見えてきたぞ。\nザ・フェイスだ！
 \n
 I can see it!\n
-That's The Face!
+That's the Face!
 <$00>
 
 
@@ -55,8 +55,10 @@ Noon:
 <$0D>
 //\nどれどれ…\n人類あこがれのお顔様ってワケか…
 \n
-A face only a human\n
-mother could love!
+Aye, a face only a\n
+human mother could
+<$0C>
+love!
 <$00>
 
 
@@ -75,10 +77,10 @@ April:
 //\n火星人が残したのよ、\n顔を忘れないように。
 \n
 What if the Martians\n
-left this for us? So
+left this for us, so
 <$0C>
 we wouldn't forget\n
-their faces...
+the faces we had?
 <$00>
 
 
@@ -96,10 +98,10 @@ Noon:
 <$0D>
 //\nへん、おかげで俺たちはこのざまだ。
 \n
-OUR faces. It's their\n
-fault we're in this
+OUR faces, remember.\n
+It's their fault
 <$0C>
-mess!
+we're in this mess!
 <$00>
 
 
@@ -113,7 +115,7 @@ mess!
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nさあ、みんな、着陸態勢に入るぞ！
 \n
@@ -137,7 +139,7 @@ Noon:
 //\n何だ！この紫色のは何だ！ 煙か？
 \n
 What's all this\n
-purple stuff?\n
+purple fluff?\n
 Is it...smoke?!
 <$00>
 
@@ -152,7 +154,7 @@ Is it...smoke?!
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、もういちど着陸目標を確認してくれ！\nたのむ！
 \n
@@ -173,14 +175,14 @@ point one more time?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン！ どうした、
 \n
 Noon! What happened?!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n着陸目標からずれたんじゃないのか。\nヌーン、答えろ、進入角が深すぎるぞ、
 \n
@@ -190,7 +192,7 @@ This landing angle's
 too steep!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nこのままでは火星にぶつかるぞ。\n手動でなんとかするんだ！
 \n

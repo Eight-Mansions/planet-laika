@@ -17,10 +17,10 @@ White Eagle:
 <$0D>
 //\nふほ！\nとうとうひとり歩きを始めたのじゃな。
 \n
-Go-ho! Started\n
-walking on your own,
+Haww! Started walking\n
+on your own, have
 <$0C>
-have you?
+you?
 <$00>
 
 
@@ -39,8 +39,9 @@ Phoenix:
 //\nこの体はクロエにもらったんだ。\n別に欲しいってたのんだわけじゃないさ。
 \n
 I gained this body\n
-from Chloe.\n
-It wasn't exactly my\n
+through Chloe. It
+<$0C>
+wasn't exactly my\n
 choice.
 <$00>
 
@@ -60,8 +61,10 @@ White Eagle:
 //\nシークレットパワーはどうじゃ、\n試してはみたのか？
 \n
 And what of your\n
-secret power?\n
-Have you tried it?
+secret power? Have
+<$0C>
+you tried using it\n
+yet?
 <$00>
 
 
@@ -83,7 +86,7 @@ It's not worth\n
 trying. Everyone I
 <$0C>
 speak to loses their\n
-mind!
+mind.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -109,7 +112,7 @@ White Eagle:
 <$0D>
 //\nふほ… そうなのじゃ…
 \n
-Go-ho! Who can say?
+Haww... Who can say?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -117,9 +120,10 @@ White Eagle:
 //\nはかり知れないのう、\nお前の心はどこまでも深いのう。
 \n
 It's immeasurable,\n
-see,\n
-how endlessly deep\n
-your mind is.
+see, how deep the
+<$0C>
+depths of your mind\n
+go.
 <$00>
 
 
@@ -159,19 +163,20 @@ White Eagle:
 <$0D>
 //\nふほ、そうじゃ、預言じゃ。
 \n
-Go-ho, yes! And the\n
-prophecy.
+Haww, yes! And the\n
+prophecy!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nユニバーサルマンは\nおのれの分身をまねき寄せて、\n失われた預言を取り戻そうとしておる。
 \n
-Universalman claws at\n
-the window to his
+Universal Man beckons\n
+his alter ego to
 <$0C>
-alter ego. He seeks\n
-the lost prophecy.
+come, so that they\n
+may seek out the lost\n
+prophecy.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -181,8 +186,7 @@ White Eagle:
 He sees his alter ego\n
 as his entrance to
 <$0C>
-the world of the\n
-dead.
+the Land of the Dead.
 <$00>
 
 
@@ -201,10 +205,10 @@ Phoenix:
 //\n開いたよ、死に向き合って預言を得るんだって。\nそれってエレミヤと一体になるってことなの？
 \n
 Some prophecies are\n
-only realized in
+only heard in death.
 <$0C>
-death. Does he want\n
-to become one with\n
+Does he want to\n
+become one with\n
 Jeremiah?
 <$00>
 
@@ -234,8 +238,9 @@ White Eagle:
 The Martians used\n
 death as a means to
 <$0C>
-separate good will\n
-from ill will.
+separate their good\n
+will from their ill\n
+will.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -257,8 +262,8 @@ Jeremiah the Exile\n
 was touched by the\n
 soul of the planet.
 <$0C>
-His death was not the\n
-end, but the\n
+His death was not his\n
+end, but his\n
 beginning.
 <$0C><$0B>
 //ホワイトイーグル：
@@ -276,10 +281,10 @@ White Eagle:
 <$0D>
 //\nそして５つの預言を得よった。
 \n
-With that, the five\n
-prophecies are
+In that time, the\n
+five prophecies will
 <$0C>
-realized.
+be realized.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -289,7 +294,7 @@ White Eagle:
 The only way to face\n
 Jeremiah now is to
 <$0C>
-face death.
+face death first.
 <$00>
 
 
@@ -314,11 +319,11 @@ Phoenix:
 <$0D>
 //\nユニバーサルマンはガリルとの闘いに敗れて\n死に向き合ったんだね。\n分身はその時に誕生したんだ。
 \n
-Universalman lost his\n
-confrontation with
+Universal Man lost\n
+his confrontation
 <$0C>
-Garyl, and faced\n
-death.
+with Galil, and met\n
+his death.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -328,8 +333,8 @@ Phoenix:
 In that time, his\n
 alter ego was born.
 <$0C>
-Or, did he die and be\n
-reborn?
+Did Universal Man die\n
+and be reborn?
 <$00>
 
 
@@ -347,11 +352,12 @@ White Eagle:
 <$0D>
 //\n分身と合体してユニバーサルマンは新しくなる。\nおそらく残りの預言は\nそこで得られるじゃろう。
 \n
-Universalman will\n
-after he merges with
+Universal Man will be\n
+reborn once he merges
 <$0C>
-his alter ego. The\n
-other prophecies may\n
+with his alter ego.\n
+The remaining\n
+prophecies may\n
 follow.
 <$0C><$0B>
 //ホワイトイーグル：
@@ -360,11 +366,11 @@ White Eagle:
 //\n全ての預言がそろうと\nガリルの妄想は消えてなくなり、\n預言が現実のものとなるのじゃ。
 \n
 When all prophecies\n
-are in place, Garyl's
+are seen, Galil's
 <$0C>
 fantasies too will\n
 die, and be reborn as\n
-actuality.
+realities.
 <$00>
 
 
@@ -405,9 +411,10 @@ White Eagle:
 //\n今、実現しようとしておるのは\nガリルの妄想じゃ。預言ではないのじゃ。
 \n
 What you see now are\n
-Garyl's fantasies
+Galil's fantasies
 <$0C>
-coming true, not the\n
+being realized, but\n
+they are not\n
 prophecies.
 <$00>
 
@@ -459,8 +466,8 @@ I was in these\n
 irksome
 <$0C>
 hallucinations about\n
-house this, traces of\n
-mother that.
+"cottage" this, and\n
+"Mummy" that.
 <$00>
 
 
@@ -505,7 +512,7 @@ For all that, it\n
 wasn't as I'd
 <$0C>
 thought, that dream.\n
-It makes me doubt I'D\n
+It made me doubt I'd\n
 dreamt it.
 <$0C><$0B>
 //エイプリル：
@@ -513,12 +520,12 @@ April:
 <$0D>
 //\n夢にそっくりなんだけど、\nきっとまどわされたのよ。
 \n
-I know this is what\n
+I know that is what\n
 dreams are supposed
 <$0C>
-to do, but I feel\n
-totally lost after\n
-that.
+to do, but I felt\n
+totally lost\n
+afterwards.
 <$00>
 
 
@@ -537,9 +544,9 @@ April:
 //\nねえ、これからどうする？\n私はもうだいじょうぶよ。
 \n
 Well, now that we're\n
-okay, where do we go
+situated, where do we
 <$0C>
-from here?
+go from here?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -563,9 +570,12 @@ all right.
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、アーネストや、どこへ行く。
+\n
+Hyohyo, is that you,\n
+Ernest? Where to?
 <$00>
 
 
@@ -582,6 +592,9 @@ Spiritman:
 Ernest:
 <$0D>
 //\n何だ、また現れやがった。俺に用か？
+\n
+You're back again?\n
+What for?
 <$00>
 
 
@@ -595,9 +608,16 @@ Ernest:
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…火事、リバー…ひょひょ。
+\n
+You're a forgetful\n
+one, hyohyo!
+<$0C>
+Remember, if you want\n
+to see Liever, seek\n
+"fire".
 <$00>
 
 
@@ -614,6 +634,13 @@ Spiritman:
 Ernest:
 <$0D>
 //\n火事…燃えた町…いやな惑じだぜ。
+\n
+A fire, huh. That\n
+could mean that town
+<$0C>
+that burned down.\n
+It's a tasteless clue\n
+if it does.
 <$00>
 
 
@@ -627,12 +654,12 @@ Ernest:
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、スペーサーや、どこへ行く。
 \n
-Hyohyo, Spacer! Going\n
-somewhere?
+Hyohyo, is that you,\n
+Spacer? Where to?
 <$00>
 
 
@@ -650,10 +677,11 @@ Spacer:
 <$0D>
 //\n鏡から出てきたのか。\nイレギュラーなことだ。
 \n
-Coming out of\n
-mirrors? Now that's
+Coming out of mirrors\n
+now? That's not
 <$0C>
-irregular.
+something you see\n
+everyday.
 <$00>
 
 
@@ -667,9 +695,16 @@ irregular.
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…ロケット、リバー…ひょひょ。
+\n
+You're a forgetful\n
+one, hyohyo!
+<$0C>
+Remember, if you want\n
+to see Liever, seek\n
+the "rocket".
 <$00>
 
 
@@ -686,6 +721,13 @@ Spiritman:
 Spacer:
 <$0D>
 //\nロケット…\n私たちが乗って来たロケットのところか。
+\n
+"Rocket"... Of course\n
+I'd get the easiest
+<$0C>
+clue. That'd mean the\n
+rocket we came to\n
+Mars in.
 <$00>
 
 
@@ -699,9 +741,12 @@ Spacer:
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、ヨランダや、どこへ行く。
+\n
+Hyohyo, is that you,\n
+Yolanda? Where to?
 <$00>
 
 
@@ -718,6 +763,12 @@ Spiritman:
 Yolanda:
 <$0D>
 //\nどうしたっていうのよ。もう疲れたわ。
+\n
+Is this a joke or\n
+something? I'm tired
+<$0C>
+of running around for\n
+shit.
 <$00>
 
 
@@ -731,9 +782,16 @@ Yolanda:
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…避難小屋、リバー…ひょひょ。
+\n
+You're a forgetful\n
+one, hyohyo!
+<$0C>
+Remember, if you want\n
+to see Liever, seek\n
+"shelter".
 <$00>
 
 
@@ -750,6 +808,13 @@ Spiritman:
 Yolanda:
 <$0D>
 //\n避難小屋…\nたしかにあったわね、そんなところが。
+\n
+"Shelter"... Well,\n
+actually, we did have
+<$0C>
+to run for cover\n
+somewhere shortly\n
+after we landed...
 <$00>
 
 
@@ -766,11 +831,22 @@ Yolanda:
 White Eagle:
 <$0D>
 //\nどうやらここらあたりに入り口がありそうじゃ。\nだが何かが足りんぞ。
+\n
+It seems there's an\n
+entrance somewhere
+<$0C>
+around here, but\n
+something is missing.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n結界のようなものがあってな、\nそれを抜けねばならんのじゃが…
+\n
+It seems there is a\n
+boundary in place
+<$0C>
+that we must breach.
 <$00>
 
 
@@ -787,21 +863,45 @@ White Eagle:
 White Eagle:
 <$0D>
 //\nおう、そうじゃ、石じゃ。\n光る石じゃ。 光る石はすべて集めたか？
+\n
+Ah, yes. The stones!\n
+Tell me, have you
+<$0C>
+collected all of the\n
+glowing stones?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nいや最後のひとつは悪夢の中じゃ。\nすると残るは４つ…
+\n
+The last one is\n
+inside of the
+<$0C>
+nightmares. That just\n
+leaves the other\n
+four...
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nどうじゃ、足りないじゃろう。\nさがすのじゃ、あまり時間はないぞ。
+\n
+This won't do. I fear\n
+we don't have much
+<$0C>
+time to look for\n
+them.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nせっかく開きかけた入り口が閉じてしまうぞ。
+\n
+If the path is opened\n
+so narrowly, it may
+<$0C>
+stay closed.
 <$00>
 
 
@@ -814,10 +914,19 @@ White Eagle:
 #WHB(PTR, $00000AE9)
 
 <$10><$0B>
-ホワイトイーグル：
+//ホワイトイーグル：
+White Eagle:
 <$0D>
-\n光る石は火星人の善意と言われておる。\nどこかにあるはずじゃ。
+//\n光る石は火星人の善意と言われておる。\nどこかにあるはずじゃ。
+\n
+The glowing stones\n
+are said to be
+<$0C>
+Martian good will.\n
+They must be around\n
+here somewhere.
 <$00>
+
 
 
 

@@ -13,14 +13,22 @@
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nあー、眠い眠い…
+\n
+Gosh, am I sleepy...
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nあんただね。\nよく来られたね、ここが僕の隠れ家だよ。
+\n
+You've come here\n
+quite a bit, haven't
+<$0C>
+you? To my hideout\n
+here.
 <$00>
 
 
@@ -37,6 +45,7 @@ Kosmas:
 Spacer:
 <$0D>
 //\n隠れ家…
+Your hideout...
 <$00>
 
 
@@ -50,14 +59,12 @@ Spacer:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、なんか僕に\n開きたいことあるんじゃないの？
 \n
 Was there anything\n
-else you wanted to
-<$0C>
-ask me?
+you wanted to ask me?
 <$00>
 
 
@@ -74,10 +81,20 @@ ask me?
 Spacer:
 <$0D>
 //\nあ、ああ… あるにはあるが…
+\n
+Well, as a matter of\n
+fact...
 <$0C>
 //１．君とダミアヌスは双子なのか？\n２．全ての預言を得るとどうなる？\n３．フェイとヴェロニカはどうなる？
+1. Are you and Damian\n
+twins?\n
+Is Dark Man a doll?\n
+Who is Uncle Bubbles?
 <$1B>
 //２１ \n２ \n３ 
+２1\n
+2\n
+3
 <$00><$17><$00>
 
 
@@ -91,14 +108,22 @@ Spacer:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n僕に兄弟なんていないさ、本当だよ。
+\n
+The truth is, I don't\n
+have any siblings.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nレッドおじさんは勝手に話を作り出す\n天才なんだよ。
+\n
+Uncle Red has a gift\n
+for spinning tall
+<$0C>
+tales on the fly.
 <$00>
 
 
@@ -112,9 +137,16 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nよくは知らないけど、５つの預言から新しい\nひとつの預言ができあがるってことらしいよ。
+\n
+I'm not sure, but it\n
+seems that, from the
+<$0C>
+five prophecies, a\n
+new prophecy will be\n
+created.
 <$00>
 
 
@@ -128,14 +160,26 @@ Kosmas:
 
 <$11><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nヴェロニカは自分ひとりになろうって\n思ってるんだ。
+\n
+I think Veronica\n
+wants to live as her
+<$0C>
+own individual\n
+person.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nでも彼女が思いついたやり方じゃ、\nうまくいかないよ。
+\n
+However, I don't\n
+think the plan she
+<$0C>
+came up with is going\n
+to work.
 <$00>
 
 
@@ -149,16 +193,26 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nじゃあ、今度は僕が質問するよ。
+\n
+All right, now it's\n
+my turn to ask you
+<$0C>
+something.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nもしあんたや
+\n
+If you existed\n
+separately from
 <$0F>
 //が\n仮の姿だとしたら、どうする？
+, what shape would\n
+you take?
 <$00>
 
 
@@ -175,6 +229,13 @@ Kosmas:
 Spacer:
 <$0D>
 //\n仮の姿…どういう意味だ、\n私はこうして実際にいるではないか。
+\n
+What shape would I\n
+take? Well, what you
+<$0C>
+see is what you get.\n
+I mean, I exist\n
+already, don't I?
 <$00>
 
 
@@ -188,29 +249,58 @@ Spacer:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nどうだか… 存在するかどうかなんて、\nあんまり意味がないんだ。
+\n
+Whether I existed or\n
+not, I suppose it
+<$0C>
+wouldn't mean much to\n
+me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n僕は顔のことでいやな目にあったけど、\nこうやって元に戻せばもう平気だよ。
+\n
+I suffered a lot\n
+because of my face,
+<$0C>
+but I'm glad it have\n
+it back like this.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n結局、見た目なんだ…
+\n
+At the end of the\n
+day, this is what I
+<$0C>
+look like.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n存在するってそういうことだろ、\n見て分かること…
+\n
+When I look at it,\n
+it's the proof I have
+<$0C>
+that this me exists.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n深くないなぁ、そんなこと気にするなんて\nレッドおじさん並だよ。
+\n
+That sounds awfully\n
+surface-level, but I
+<$0C>
+don't look it things\n
+as deeply as Red\n
+does.
 <$00>
 
 
@@ -227,6 +317,12 @@ Kosmas:
 Spacer:
 <$0D>
 //\nしかし、存在するかしないかは、\n生と死と同じことではないのか。
+\n
+But, existing and not\n
+existing are the same
+<$0C>
+as living and dying,\n
+aren't they?
 <$00>
 
 
@@ -240,14 +336,22 @@ Spacer:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nそんな、大げさな。
+\n
+That sounds dramatic.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n死はなくなっちゃうことじゃないって、\nガリルが説いてたよ。死は始まりなんだって。
+\n
+As Galil explained it\n
+in the past, death
+<$0C>
+isn't the end. It's\n
+the beginning.
 <$00>
 
 
@@ -264,6 +368,12 @@ Kosmas:
 Spacer:
 <$0D>
 //\nやつは歪んだ死生観の持ち主だ。\n死から始まるものなどない。
+\n
+Galil's views of life\n
+and death are
+<$0C>
+distorted. Nothing\n
+begins with death.
 <$00>
 
 
@@ -277,7 +387,7 @@ Spacer:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nふーん、そうなの。
 \n
@@ -298,6 +408,8 @@ Hmm, I see.
 Spacer:
 <$0D>
 //\n君はどう思うんだ？
+\n
+What about you?
 <$00>
 
 
@@ -311,7 +423,7 @@ Spacer:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nどうって？ 答はあんたが出したじゃない。\nそれで決まりだよ。
 \n
@@ -322,7 +434,7 @@ question, not the\n
 other way around.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n僕、もう寝るね。
 \n
@@ -330,7 +442,7 @@ Anyways, I'm going to\n
 sleep now.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nあんたも寝るといいよ、\n夢の中で会えるって本当だよ。
 \n
@@ -371,7 +483,7 @@ dream?
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n今なら眠れるよ、\n僕が眠ってるときが消灯時間さ。
 \n
@@ -379,7 +491,8 @@ I'm going to sleep\n
 for now, but when I'm
 <$0C>
 sleeping-sleeping,\n
-it's lights-off time.
+it's lights-off time,\n
+okay?
 <$00>
 
 
@@ -393,9 +506,12 @@ it's lights-off time.
 
 <$11><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nよくは覚えてないんだね、さっきも会ったのに。\nもう石はないよ、\n光る石のことなら教えてあげられるよ。
+I can tell you about\n
+the glowing stones,\n
+at least.
 <$00>
 
 
@@ -427,7 +543,7 @@ Lights-off time?
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nそうさ、お休みだよ、あんた。
 \n
@@ -450,8 +566,7 @@ Spacer:
 <$0D>
 //\n眠ったのか。
 \n
-Does he...sleep that\n
-way?
+Did he go to sleep?
 <$00>
 
 

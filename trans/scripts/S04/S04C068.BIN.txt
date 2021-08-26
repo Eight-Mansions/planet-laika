@@ -38,11 +38,11 @@ Linda:
 <$0D>
 //\nちょっと身を隠すだけー、\nそのほうがおもしろいのよー。
 \n
-But only by a little\n
-bit-that's when
+But only a little.\n
+The chance of getting
 <$0C>
-hiding is most\n
-exciting!
+caught is what makes\n
+hiding so exciting!
 <$1E>
 //行
 行
@@ -81,64 +81,156 @@ houses are all lined\n
 up.
 <$1E>
 //行
+行
 <$00><$12><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nあら、あんたなのー、こんな朝早くから…
+\n
+Oh, it's you again,\n
+from this morning.
 <$0C>
 //それにしちゃ変わってないじゃん、\nまだ犬じゃん。
+\n
+But you haven't\n
+changed a bit! You're
+<$0C>
+still a dog.
 <$00><$10><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nあんた、建うのー、布使ったの。\nじゃあ誰の顔なのー…布に顔が浮き出てたわ。
+\n
+Is something\n
+different? Did you
+<$0C>
+use the cloth? Well,\n
+who'se face was on\n
+the cloth then?
 <$0C>
 //あの布はね、完全な顔にかぶせると、その顔を\nはぎ取ることができるのよー、\n怖いわ、嫌だわ、汚いわ。
+I heard that putting\n
+that cloth on a\n
+perfect face causes
+<$0C>
+it to tear off.\n
+Yikes! That's\n
+terrifying!
 <$0C>
 //欲張りすぎると顔が元に戻っちゃうのよー、\nほどほどで満足しないとね。
+It's a good warning\n
+to not get too\n
+greedy. Be happy with
+<$0C>
+your progress or go\n
+back to square one.
 <$00><$10><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nアタシもたまに考えるのよ、\nあの布でアマンダとかの顔をはぎ取ったら、
+\n
+At times, I wonder if\n
+Amanda's face was
+<$0C>
+peeled off by that\n
+cloth.
 <$0C><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nどんな気分だろうかって。\n
+\n
+Do you think that's\n
+possible?\n
 <$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nこれって？？なのー？そうよねー、\n？？よねー。
+\n
+But it could, right?\n
+Don't you think? I
+<$0C>
+think so.\n
+...Right?
 <$1E>
 //行
+行
 <$00><$10><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\n抜けちゃったのよ、ポンと、\nあははは、音がしてポンと。
+\n
+How does it come off?\n
+Like, "Plop"?
+<$0C>
+Ahahaha, plop!
 <$0C><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\n？まってたのが抜けちゃったのよ。\nもー、何もかも嫌になったわ、
+\n
+Gosh, I don't know\n
+how to feel. I'm
+<$0C>
+disgusted by just\n
+about everything.
 <$0C><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nあー、あー、疲れたのー。
+\n
+Seriously, I'm tired.
 <$00><$10><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nあー、もー、嫌よ、嫌。\nサイコちゃんに付き合ってたらひどいのよ、
+\n
+Ugh! Enough! I'm\n
+disgusted! I can't
+<$0C>
+stand being around\n
+that little Psycho.
 <$0C><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\n頭の中に変な言葉が？れてきてさ。
+\n
+And what are these\n
+voices in my head? So
+<$0C>
+obnoxious.
 <$0C><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nあー、分からない、アタシ、\n何を考えて生きていけばいいのか…
+\n
+Gosh, I don't know\n
+what's wrong. I'm
+<$0C>
+disgusted by just\n
+about everything.
 <$00><$10><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\nもー、何もかも嫌になったわ、\nあー、あー、疲れたのー。
+\n
+I'm disgusted by just\n
+about everything.\n
+Seriously, I'm tired.
 <$1E>
 //行
+行
 <$00>
 
 
@@ -239,19 +331,18 @@ question, yes. Very
 <$0C>
 loaded, but you seem\n
 smarter than you\n
-look.
+look, so...
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあいつらといい勝負？サイコハウスのやつらさ、\nいばってるよー、\n自分たちは特別だと思ってるしさー。
 \n
-Who do you sound\n
-like... I'd say
+Oh, who do you sound\n
+like? I'd say you'd
 <$0C>
-you're a good fit for\n
-Psycho House,\n
-interesting lot.
+fit in with those\n
+guys at Psycho Lab.
 <$00>
 
 
@@ -293,15 +384,30 @@ Linda:
 I'm not sure, but\n
 perhaps. I don't see
 <$0C>
-why they'd give up.
+why they'd give up\n
+now.
 <$00><$10><$13><$18><$0B>
 //スペーサー：
+Spacer:
 <$0D>
 //\nここの、リャンハウスのあるじはどうした？\n姿が見えないようだが。
+\n
+What happened to the\n
+director of House
+<$0C>
+Liang? I can't seem\n
+to find her.
 <$00><$10><$0B>
 //リンダ：
+Linda:
 <$0D>
 //\n出かけてるのよー…\n昨日の夜からいないのよ、変ねぇ。
+\n
+I've no idea. I\n
+hadn't been there
+<$0C>
+since last night.\n
+Very weird.
 <$00>
 
 
@@ -318,18 +424,38 @@ why they'd give up.
 Linda:
 <$0D>
 //\nねー、あんたー、隠れんぼはおしまい？
+\n
+Done playing\n
+hide-and-seek, are
+<$0C>
+you?
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあんたでしょー、リャンハウスで何やったのー、\nあの布で。 自分の整形？
+\n
+So, what were you\n
+doing with that cloth
+<$0C>
+at House Liang? Were\n
+you performing\n
+surgery on yourself?!
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n建うよねー、犬顔だものねー。\n汚い布が変なのー、光ってるのー。
+\n
+No, you still have a\n
+dogface. That dirty
+<$0C>
+cloth had changed,\n
+though. It was\n
+shining.
 <$1E>
 //行
+行
 <$00>
 
 
@@ -346,8 +472,14 @@ Linda:
 Linda:
 <$0D>
 //\nあの布、光ってるのー。\n変よー、ぴかぴか光ってるのー。
+\n
+That dirty cloth had\n
+changed. It was
+<$0C>
+shining.
 <$1E>
 //中
+中
 <$00>
 
 
@@ -365,10 +497,10 @@ Linda:
 <$0D>
 //\nあの布、まだ変よー、光ってるよー。\nでもあんたには関係ないのね、
 \n
-That cloth is still\n
-strange. Still
+That dirty cloth\n
+changed again. It's
 <$0C>
-glowing. Of course,\n
+shining. Of course,\n
 you wouldn't\n
 understand.
 <$0C><$0B>
@@ -377,10 +509,10 @@ Linda:
 <$0D>
 //\nそうなのねー。アタシさー、思い出したよ、\nアマンダよ。
 \n
-But I remember all\n
-that-as I remember
+But I remember. It's\n
+like when Amanda was
 <$0C>
-Amanda.
+alive.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -449,9 +581,9 @@ Linda:
 //\nなんかさー、あんたもー、同じ惑じよねー、\nサイコちゃんたちと。
 \n
 Then again, I suppose\n
-that's how most
+that's why you'd fit
 <$0C>
-Psycho types are.
+in with Psycho types.
 <$00>
 
 
@@ -473,7 +605,7 @@ D-don't get the wrong\n
 idea about me. I'm
 <$0C>
 not going to join\n
-them.
+them!
 <$00>
 
 
@@ -491,8 +623,10 @@ Linda:
 <$0D>
 //\nそおー、アタシには同じに見えるけどねー。
 \n
-Really? But you look\n
-just like them...
+Really? But you see\n
+things the same way
+<$0C>
+they do...
 <$00>
 
 
@@ -510,7 +644,7 @@ Linda:
 <$0D>
 //\nあんたさー、サイコちゃんでしょー。
 \n
-...my little Psycho.
+...you little Psycho.
 <$00>
 
 
@@ -561,8 +695,8 @@ That's what\n
 beddy-byes do for us.
 <$0C>
 Even in the daytime,\n
-it's always\n
-lights-out time.
+it's still,\n
+"LIGHTS-OUT!"
 <$1E>
 //行
 行
@@ -582,12 +716,11 @@ lights-out time.
 Linda:
 <$0D>
 //\nねー、変ねー、夜じゃないのに\n消灯時間だなんてねー、なんだかねー。
-How weird. Even when\n
-it's not night-time,\n
-it's always
+\n
+How weird. It's\n
+always lights-out
 <$0C>
-lights-out time,\n
-feels like.
+time, feels like.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -597,8 +730,7 @@ Linda:
 Ever since you came,\n
 things have gotten so
 <$0C>
-weird. You... It was\n
-you, right?
+weird. Yeah, you...
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -627,20 +759,20 @@ Linda:
 <$0D>
 //\nもう光ってないみたいよー。
 \n
-It doesn't seem to\n
-glow anymore.
+It doesn't look like\n
+it's shining anymore.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n何の話かってー、布よー、布。\nヴェロニカの布、もう光ってないわー。
 \n
-You're asking me\n
-what?! The cloth! The
+Come on, you know\n
+what I'm talking
 <$0C>
-cloth! Veronica's\n
-cloth stopped\n
-shining!
+about! The cloth!\n
+Veronica's cloth\n
+stopped shining!
 <$1E>
 //行
 行

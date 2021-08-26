@@ -16,11 +16,24 @@
 Noon:
 <$0D>
 //\nやけに静かだなあ。顔の怪物とやらは\nでっち上げなんじゃねぇのか？
+\n
+Awfully quiet 'ere.\n
+You'd think the
+<$0C>
+monster rumors were\n
+made up, looking at\n
+all this.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\n火星のやつら、地球から人が来ないように\nウソ言ってやがる… そうじゃねぇのか？
+\n
+You don't think the\n
+residents on Mars
+<$0C>
+were lying to keep us\n
+out, do you?
 <$00>
 
 
@@ -34,7 +47,7 @@ Noon:
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n着陸予定地を少しずれたが、\nなんとかなるだろう。
 \n
@@ -45,7 +58,7 @@ landing site by a\n
 hair.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nとりあえずコロニーをめざす。
 \n
@@ -53,7 +66,7 @@ Let's make for the\n
 colony.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n実は先遣隊が隠れ住んでいるというウワサも\nあるんだ。
 \n
@@ -105,12 +118,12 @@ Plateau?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、どうなんだ、\nコロニーまでは遠いのか？
 \n
 Yeah, Noon!\n
-Where the Hell are
+Where the hell are
 <$0C>
 we?
 <$00>
@@ -162,8 +175,8 @@ Noon:
 From there, we pass\n
 through the Inductive
 <$0C>
-Knoll, whatever that\n
-is.
+Hills... "Inductive,"\n
+what a crock.
 <$00>
 
 
@@ -193,7 +206,7 @@ It pertains to making\n
 generalized facts
 <$0C>
 based on overlaps of\n
-observation.
+varied observations.
 <$00>
 
 
@@ -207,15 +220,14 @@ observation.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nうんちくはいらないぞ、\nセンセイ… あ、いや、エイプリル。
 \n
-Sorry, we don't have\n
-time for another one
+Sorry, April. We\n
+might have to save
 <$0C>
-of these, Teach-I\n
-mean, April.
+the lesson for later.
 <$00>
 
 
@@ -229,14 +241,14 @@ mean, April.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nとにかくその帰納の丘を通れば\nコロニーに着くんだな？
 \n
 But once we get\n
 through the Inductive
 <$0C>
-Knoll, we'll find the\n
+Hills, we'll find the\n
 colony?
 <$00>
 
@@ -256,9 +268,9 @@ Noon:
 //\nああそうだ、\n地球からのご一行様ご到着ってな。
 \n
 Yeah, that's right.\n
-And we'll explain
+And then, we tell
 <$0C>
-we're here from\n
+them we're from\n
 Earth.
 <$00>
 
@@ -273,7 +285,7 @@ Earth.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nよし、コロニーをめざす。\nさぁ出発だ、準備はいいな。
 \n
@@ -294,7 +306,7 @@ go?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、ライカの装備を見てやってくれ。
 \n
@@ -317,20 +329,21 @@ Noon:
 <$0D>
 //\nへん、ちゃんとタンクも背負ってるし、\nヘルメットも着けてるぜ。
 \n
-There's a tank on\n
-their back,\n
-and a helmet on their\n
-head.
+All right. There's a\n
+tank on their back,
+<$0C>
+and an 'elmet on\n
+their dome.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\n小さなハートもピクピクしてるぜ。
 \n
-Heh! And a heart\n
-beating out of the ol
+Heh! And a 'eart\n
+beating out of the
 <$0C>
-chest, I imagine.
+old chest, no doubt.
 <$00>
 
 
@@ -344,7 +357,7 @@ chest, I imagine.
 
 <$10><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nいかん、砂嵐が来る！
 \n
@@ -352,7 +365,7 @@ Look, a sandstorm's\n
 coming!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nぐずぐずしてはおれん、急ぐぞ！\n暗くなるまでには着きたい。
 \n
@@ -373,7 +386,7 @@ colony before dark.
 
 <$10><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nはぐれるんじゃないぞ。
 \n
@@ -392,7 +405,7 @@ group.
 
 <$10><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nイーブルマインドには気を付けるんだ。
 \n
@@ -429,7 +442,7 @@ What's "Evil Mind"?
 
 <$10><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\n火星の邪気だ。\n紫色をしているぞ。近づくな。
 \n
@@ -451,7 +464,7 @@ malice of Mars.
 
 <$10><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nイーブルマインドは妄想をかき立てるぞ、\nあらぬことを考えてしまうぞ。
 \n
@@ -478,11 +491,11 @@ unthinkable.
 <$0D>
 //\nちくしょう！ろくでもないぜ！
 \n
-Well isn't that\n
-lovely-- What the
+Well, isn't that\n
+lovely... What the
 <$0C>
-HELL did I get myself\n
-into?!
+BLOODY HELL did I get\n
+myself into?!
 <$0E><$0F><$17><$00>
 
 
@@ -509,9 +522,9 @@ April:
 //\nどうなの、あんた、案内役でしょ。\nはっきりしてよ。
 \n
 You're supposed to be\n
-our guide.\n
-You should have a\n
-clearer idea!
+our guide. You should
+<$0C>
+have a clearer idea!
 <$00>
 
 
@@ -525,17 +538,17 @@ clearer idea!
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、どうなんだ、\nコロニーまでは遠いのか？
 \n
 Yeah, Noon!\n
-Where the Hell are
+Where the hell are
 <$0C>
 we?
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nお前がミスしなければこんなハメにはならずに\n済んだんだ。なんとかしろ！
 \n
@@ -570,20 +583,20 @@ Noon:
 //\nこの先には…ママの待つ立派な屋敷がある。
 \n
 Beyond this is\n
-Mummy's lovely house.
+Mummy's lovely
 <$0C>
-She's expecting us!
+cottage. She's\n
+expecting us!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nそこに行けばママに会えるし、おいしい\nパンケーキにもありつけるんだ。
 \n
-Once you get to meet\n
-her, you'll get to
+Once you meet Mummy,\n
+you'll get to try 'er
 <$0C>
-try her delicious\n
-pancakes!
+delicious pancakes!
 <$00>
 
 
@@ -644,18 +657,18 @@ to see us.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nでもクロエちゃんは生きてるぞ。\n名前を呼んだら、ハーイって答えるんだぞ。
 \n
 Oh, but my Chloe's\n
 still alive! When I
 <$0C>
-call her name, she\n
+call her up, she\n
 goes, "Hiii!"
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n私の後ろを着いてきて、３回振り返ったら\n笑ってるんだぞ。
 \n
@@ -664,7 +677,7 @@ behind me, and if I
 <$0C>
 look back three times\n
 and don't catch her,\n
-she laughs.
+she giggles.
 <$00>
 
 
@@ -689,11 +702,12 @@ Noon:
 <$0D>
 //\n地球からのご一行様ご到着、\nみんな俺たちを待ってるんだ。
 \n
-We'll explain we're\n
-here from Earth,
+And then, we tell\n
+them we're from
 <$0C>
-they'll welcome us\n
-with open arms.
+Earth, and they'll\n
+welcome us with open\n
+arms.
 <$00>
 
 
@@ -707,7 +721,7 @@ with open arms.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nよし、クロエちゃんに会いに行く。\nさぁ出発だ、準備はいいな。
 \n
@@ -717,7 +731,7 @@ Is everyone ready to\n
 go?
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、ライカの装備を見てやってくれ。
 \n
@@ -740,10 +754,11 @@ Noon:
 <$0D>
 //\nへん、ちゃんとタンクも背負ってるし、\nヘルメットも着けてるぜ。 でもよ、
 \n
-There's a tank on\n
-their back,\n
-and a helmet on their\n
-head.
+All right. There's a\n
+tank on their back,
+<$0C>
+and an 'elmet on\n
+their dome.
 <$00>
 
 

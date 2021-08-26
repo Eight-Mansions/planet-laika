@@ -17,7 +17,7 @@ Crow:
 <$0D>
 //\nおい、お前、何見てんだ？
 \n
-Oi, what are you\n
+You! What're you\n
 looking for?
 <$00>
 
@@ -36,7 +36,7 @@ Crow:
 <$0D>
 //\nおい、開いてんだよ！
 \n
-Oi, it's open!
+Look, it's open!
 <$00>
 
 
@@ -73,22 +73,23 @@ Crow:
 <$0D>
 //\nへへ！ 金星からやってくる力だ、\n頭ん中に入って来るんだ！
 \n
-Hehe, that energy is\n
-power that comes out
+Kekeke, that energy\n
+is power that comes
 <$0C>
-from Venus to our\n
-heads!
+out from Venus, and\n
+we're gonna fire it\n
+into our brains!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nへへ！ それともなにか、使えもしねえ\n無線テレビで遊ぼうってのか…へへ！
 \n
-But, hehe! Unless\n
-you're a wireless TV,
+We can't use it any\n
+other way. What do we
 <$0C>
-there's no using it\n
-that way!
+look like, wireless\n
+TVs? Kek!
 <$1E>
 //炎
 炎
@@ -110,10 +111,11 @@ Crow:
 //\nヤングのやつが戻ったら実験開始だ、\n金星の力だ、へへ！
 \n
 Once Yang gets back,\n
-we're starting an
+we're starting our
 <$0C>
-experiment to utilize\n
-this power!
+big experiment to\n
+utilize the Venusian\n
+power, kek!
 <$1E>
 //炎
 炎

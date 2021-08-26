@@ -16,6 +16,12 @@
 Spacer:
 <$0D>
 //\nここは… サイコハウスではないか！\n何かが私を待っているのか？
+\n
+This place... This\n
+isn't Psycho Lab, is
+<$0C>
+it? Is something\n
+waiting for me here?
 <$00>
 
 
@@ -50,13 +56,25 @@ The mind's eye...
 Spacer:
 <$0D>
 //\n深い… あああ、言葉が… 出てこない…\nあ、あ、あ… 詩… 読む… 詩を読むか？
+\n
+It's coursing...augh!\n
+I can't...! I...I
+<$0C>
+hear a question?\n
+Poetry? Do I read\n
+poetry?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n私に尋ねているのか？
+\n
+Is it asking if I'll\n
+read its poetry?
 <$1B>
 //？読む\n読まない
+？Read\n
+Exit
 <$00><$17><$00>
 
 
@@ -74,7 +92,7 @@ Spacer:
 <$0D>
 //\nあ、あ、あ、あ…
 \n
-Aah! Aah, aah...!
+Owwe, owwe, owwe...!
 <$00>
 
 
@@ -96,7 +114,7 @@ Spacer:
 master's gate
 <$0C>
 predicts the ruin of\n
-the state"... Aah!
+the state"... Augh!
 <$00>
 
 
@@ -115,7 +133,7 @@ Yang:
 //\nやめろ、おい！ やめるるる…
 \n
 Hey, stop! You have\n
-to stoooooop...
+to s-s-stop...!
 <$00>
 
 
@@ -155,10 +173,11 @@ Spacer:
 //\nスペースアンプが暴走している。\nこのまま続けると…
 \n
 The Space A.M.P. is\n
-out of control! If
+out of control! If it
 <$0C>
-you guys keep it\n
-running like this...
+keeps running like\n
+this, these guys\n
+are...
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -192,7 +211,7 @@ I'll check again. If
 <$0C>
 this keeps running,\n
 these two are going\n
-to...
+to...!
 <$1B>
 //？読む\n読まない
 ？Read\n
@@ -215,9 +234,9 @@ Spacer:
 //\n主人の家の門で腹を空かせる犬は\n国家の滅亡を言い当てる。
 \n
 "A dog starved at his\n
-master's gate
+master's gate.
 <$0C>
-predicts the ruin of\n
+Predicts the ruin of\n
 the state..."
 <$0C><$0B>
 //スペーサー：
@@ -225,7 +244,7 @@ Spacer:
 <$0D>
 //\n路上でこき使われる馬はつぐないの人の血を\n神に呼ぴ求める…
 \n
-"A Horse misusd upon\n
+"A Horse misused upon\n
 the Road. Calls to
 <$0C>
 Heaven for Human\n
@@ -254,6 +273,8 @@ poem keep repeating?
 Yang:
 <$0D>
 //\nふはーふはー、ふはー
+\n
+Hgyah! Gyah! Haaaah!
 <$00>
 
 
@@ -270,6 +291,9 @@ Yang:
 Mountain:
 <$0D>
 //\nほへほ、ほほへへ…
+\n
+Why, why, why,\n
+why...!
 <$00>
 
 
@@ -287,7 +311,7 @@ Spacer:
 <$0D>
 //\nあ、あ、あ、私を試しているのか？
 \n
-Aaaah, aah! Are you\n
+Haah, haah... Are you\n
 t-trying to test me?
 <$1B>
 //？読む\n読まない
@@ -310,11 +334,11 @@ Spacer:
 <$0D>
 //\n路上でこき使われる馬はつぐないの人の血を\n神に呼ぴ求める…あ、あ、あ
 \n
-"A Horse misusd upon\n
+"A Horse misused upon\n
 the Road. Calls to
 <$0C>
 Heaven for Human\n
-blood"... Aah!
+blood..." Haah!
 <$00>
 
 
@@ -331,6 +355,9 @@ blood"... Aah!
 Yang:
 <$0D>
 //\nひ？ ろ？ ひろ、ひろ、ひろ？
+\n
+Hey? Ahh? Heya? Heya?\n
+Heya?
 <$00>
 
 
@@ -347,6 +374,9 @@ Yang:
 Mountain:
 <$0D>
 //\nミルクは後、ハチミツが先。
+\n
+Milk later! Honey\n
+first!
 <$00>
 
 
@@ -364,10 +394,10 @@ Spacer:
 <$0D>
 //\nあ、あ、あ…ダメだ。\nこれ以上は、私には… あ、あ、あ…
 \n
-Aah, aah! D-dammit! I\n
-can't...take it any
+Haah! Augh! D-dammit!\n
+I can't...take it any
 <$0C>
-more...
+more...!
 <$1B>
 //？読む\n読まない
 ？Read\n

@@ -12,19 +12,19 @@
 #WHB(PTR, $0000034D)
 
 //興うか、この１月のできごとが先にあったんだ。\nそれからさっきの３月になって、\n１１月でケリがついたんだ。
-All begins in\n
-January, of course.\n
-Then comes March.
+興All begins in the\n
+this first month.\n
+Then passed the third
 <$0C>
-Then, comes the end\n
-in November.
+month, and finally,\n
+the eleventh month.
 <$0C>
 //なんでこの１月が後回しになったのかなぁ？\nねぇ、あんたが思い出したくなかったの？
 Which begs the\n
 question, why did\n
 January come later?
 <$0C>
-Are we forgetting\n
+Are you forgetting\n
 something?
 <$00>
 
@@ -45,7 +45,7 @@ something?
 
 <$0D>
 //フェブラリーを手に入れた。
-"FEBRUARY" acquired.
+February acquired.
 <$00>
 
 
@@ -65,7 +65,7 @@ something?
 
 <$0D>
 //マーチを手に入れた。
-"MARCH" acquired.
+March acquired.
 <$00>
 
 
@@ -85,7 +85,7 @@ something?
 
 <$0D>
 //メイを手に入れた。
-"MAY" acquired.
+May acquired.
 <$00>
 
 
@@ -105,7 +105,7 @@ something?
 
 <$0D>
 //ジュンを手に入れた。
-"JUNE" acquired.
+June acquired.
 <$00>
 
 
@@ -125,7 +125,7 @@ something?
 
 <$0D>
 //ジュライを手に入れた。
-"JULY" acquired.
+July acquired.
 <$00>
 
 
@@ -145,7 +145,7 @@ something?
 
 <$0D>
 //オーガストを手に入れた。
-"AUGUST" acquired.
+August acquired.
 <$00>
 
 
@@ -165,7 +165,7 @@ something?
 
 <$0D>
 //セプテンバーを手に入れた。
-"SEPTEMBER" acquired.
+September acquired.
 <$00>
 
 
@@ -185,7 +185,7 @@ something?
 
 <$0D>
 //ノベンバーを手に入れた。
-"NOVEMBER" acquired.
+November acquired.
 <$00>
 
 
@@ -217,10 +217,9 @@ something?
 
 //広客さんだね、そこにいるの。\nわかるんだ、\nここは僕の夢とつながってるからね。
 I know you're there,\n
-my dear guest.\n
-For this place is
+young one. This is\n
+where our dreams
 <$0C>
-where our dreams\n
 connect.
 <$0C>
 //それで何を見つけたの？
@@ -271,10 +270,10 @@ playtime.
 #WHB(PTR, $000001CD)
 
 //立う８月かぁ… 寝付けない夜だね。\nなんだか騒ぎが起きてるみたいだけど、\nだいじょうぶなの？
-August's long nights\n
-welcome sleep, but\n
-a commotion keeps you
-<$0C>
+立うAugust's long\n
+nights welcome sleep,\n
+but\n
+a commotion keeps you\n
 up one night.\n
 Is everything all\n
 right?
@@ -290,7 +289,7 @@ right?
 #WHB(PTR, $0000021D)
 
 //捨れから１年近くたったね。\nやけに静かな夜… ６月だよ。
-Almost a year has\n
+捨Almost a year has\n
 passed.\n
 It's a very quiet
 <$0C>
@@ -314,7 +313,7 @@ before the storm.
 #WHB(PTR, $0000026D)
 
 //場９いよ… なんだかとても。\n９月、何かが計画されているみたいだよ。\nあんた、平気なの？
-The ninth month.\n
+場The ninth month.\n
 Nine. Something was\n
 to be delivered after
 <$0C>
@@ -332,7 +331,7 @@ peace?
 #WHB(PTR, $000002BD)
 
 //状月！ あああ、イヤな惑じだよ。\nフキツな惑じだよ。
-What an ominous mess\n
+状What an ominous mess\n
 of a month this is!
 <$00>
 
@@ -361,9 +360,9 @@ of a month this is!
 #WHB(PTR, $0000039D)
 
 //詳月か… たくらみのにおいがするよ、\nほんとだよ。
-This is a busy month.\n
-A good month for\n
-planning ahead.
+詳This is a busy\n
+month. A good month\n
+for planning ahead.
 <$00>
 
 
@@ -376,7 +375,7 @@ planning ahead.
 #WHB(PTR, $000003F1)
 
 //諸月！ 静かだよ、とっても。\nそれでいてやっぱりイヤな惑じだ。\nねぇ、これが最後だよ、もうないよ。
-This is a quiet\n
+諸This is a quiet\n
 month. Still\n
 unpleasant, but...
 <$0C>

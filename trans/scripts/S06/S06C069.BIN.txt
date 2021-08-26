@@ -47,7 +47,7 @@ Noon:
 <$0D>
 //\nエイプリルじゃないか！
 \n
-Is that you, April?!
+April, is that you?!
 <$00>
 
 
@@ -87,7 +87,7 @@ Noon:
 I could ask you and\n
 Laika the same. Guess
 <$0C>
-you two stuck\n
+you two're stuck\n
 together.
 <$00>
 
@@ -115,9 +115,8 @@ Yolanda:
 //\nそれに、アタシのこと人建いしないで。\nアタシはヨランダよ。
 \n
 Don't mistake me for\n
-Laika when I'm
+Laika so easily! I'm
 <$0C>
-clearly not them! I'm\n
 Yolanda!
 <$00>
 
@@ -148,7 +147,7 @@ So, tell me,\n
 Yo-lan-da! What are
 <$0C>
 you two doing in MY\n
-house at this hour?
+cottage at this 'our?
 <$00>
 
 
@@ -180,7 +179,7 @@ April:
 You need to come back\n
 with us. We have a
 <$0C>
-mission to do.
+mission to complete.
 <$00>
 
 
@@ -199,7 +198,7 @@ Noon:
 //\n任務！\nほほー、これはおどろきだ。
 \n
 The mission?! Hah!\n
-Have fun with that.
+'Ave fun with that.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -229,8 +228,8 @@ Yolanda:
 <$0D>
 //\n何言ってんの、この人？
 \n
-What are you talking\n
-about?!
+What the hell are you\n
+on?!
 <$00>
 
 
@@ -262,8 +261,9 @@ April:
 You'll have more time\n
 to reminisce in
 <$0C>
-memories of your\n
-mother back on Earth.
+memories of your mom\n
+once we're back on\n
+Earth.
 <$00>
 
 
@@ -284,8 +284,8 @@ Noon:
 Aww, Mummy! But\n
 Mummy's right here!
 <$0C>
-Mummy doesn't blame\n
-me anymore!
+Mummy isn't mad at me\n
+anymore!
 <$00>
 
 
@@ -325,7 +325,7 @@ Noon:
 //\nうるさい！ お前はママじゃない！
 \n
 Shut up! You're NOT\n
-Mummy!
+my Mummy!
 <$00>
 
 
@@ -362,20 +362,18 @@ Noon:
 <$0D>
 //\nううう、もらったんだ、\nガリルさんにもらったんだ、
 \n
-Ouwww, but it IS\n
-mine! Garyl gave it
-<$0C>
-to me!
+Oh, but it IS mine!\n
+Galil gave it to me!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nここでママと一緒になれる…
 \n
-He gave it to me so I\n
-could live together
+Galil gave it to me\n
+so I could live
 <$0C>
-with Mummy...
+together with Mummy.
 <$00>
 
 
@@ -393,10 +391,10 @@ Yolanda:
 <$0D>
 //\nガリル！\nアタシたちがさがしている人ね！
 \n
-Garyl?! That's the\n
-former colonel we
+Galil?! That's that\n
+colonel guy we were
 <$0C>
-were looking for!
+looking for!
 <$00>
 
 
@@ -414,7 +412,7 @@ April:
 <$0D>
 //\nガリルに会ったの？\nヌーン、目を覚まして！
 \n
-You met Garyl?! Noon,\n
+You met Galil?! Noon,\n
 listen to what you're
 <$0C>
 saying!
@@ -445,43 +443,103 @@ Noon:
 I'm coming, Mummy!\n
 D-don't worry! I'm
 <$0C>
-not being bad!
+being a good boy!
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nすっかりいかれちゃった、そんな惑じね。
+\n
+He's lost his damn\n
+mind, April.
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nガリルがいるのよ、すぐ近くに。
+\n
+Galil must be\n
+extremely close.
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nよく思い出せないんだけど…\nロケットの中で話してたわね、ガリルのこと。
+\n
+I vaguely remember\n
+the Galil
+<$0C>
+conversation on the\n
+rocket, but enlighten\n
+me on the details.
 <$0C><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\n話の雰囲気からして、神様になろうとしている…\nそんな惑じじゃなかった？
+\n
+From the sound of\n
+things, he was trying
+<$0C>
+to become god or some\n
+shit.
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n火星で多くの人が幻覚に悩まされたりするように\nなったのは、ガリルが姿を消してからなの。
+\n
+It wasn't until Galil\n
+disappeared that
+<$0C>
+people on Mars\n
+started reporting\n
+hallucinations.
 <$0C><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
+\n
+Before that, it was\n
+just another deserted
+<$0C>
+planet where exiles\n
+and the like lived.
 <$0C><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nこの星とガリルがつながっている…\n光の私…船長はそんな言葉を口にしていたね。
+\n
+If Galil is "the\n
+light" like the
+<$0C>
+captain said, Galil\n
+must think he's bound\n
+to the planet.
 <$00><$11><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\n船長たちねぇ…そう言えばクロエちゃんの\nいい人ってタトラー船長のことでしょ。\nどこにいるの？ さがしてみない？
+\n
+The captain... Chloe\n
+did say she got along
+<$0C>
+well with him.\n
+Shouldn't we track\n
+him down?
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n船長をさがすんでしょ。\n町の方に戻ってみない？
+\n
+We should look for\n
+the captain. Let's
+<$0C>
+head back to town.
 <$00>
 
 

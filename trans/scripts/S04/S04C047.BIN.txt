@@ -17,15 +17,14 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう、\nレッドのやつに追われてるんだって？
 \n
-Bro, I think Red's\n
-after you.
+I think Red's after\n
+you, comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nひゃー、そりゃ大変だ。
-\n
-Yeesh, talk about\n
+nYeesh, talk about\n
 bad.
 <$00>
 
@@ -44,10 +43,11 @@ Tommy:
 <$0D>
 //\nやつはスモーキーとは建う、\nいきなり殴ったりはしねぇよ。
 \n
-He's not like Smokey,\n
-you understand. That
+Red's not like\n
+Smokey, you
 <$0C>
-guy isn't so quick.
+understand. That guy\n
+isn't so quick.
 <$00>
 
 
@@ -65,21 +65,23 @@ Tommy:
 <$0D>
 //\n女はどうだか分からねぇけどな、\n男は殴らねぇ。
 \n
-I'm not sure about\n
-women, but guys try
+I'm not sure how he\n
+is around women
 <$0C>
-not to mess with him.
+normally, but guys\n
+try not to mess with\n
+him.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nそれよりやっかいなのは、兄ちゃんよう、\nやつに気に入られることだ。
 \n
-Beyond that, Brother,\n
-it seems like he's
+Still, it looks like\n
+he's taken a
 <$0C>
-taken a particular\n
-liking to you.
+particular liking to\n
+you, comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -89,20 +91,18 @@ Tommy:
 Strapping young'ns\n
 like you are his
 <$0C>
-favorite type,\n
-hehehehe.
+favorite type, hehe.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n兄ちゃんよう、このへんはヤバイぜ、\nさっきレッドのやつを見かけたぜ。
 \n
-I'm serious, Buddy.\n
-This is dangerous. I
+I'm serious! This is\n
+dangerous. I saw Red
 <$0C>
-saw Red earlier and\n
-he's on the prowl for\n
-you.
+earlier and he's on\n
+the prowl for YOU!
 <$1E>
 //声
 声
@@ -122,12 +122,13 @@ you.
 Tommy:
 <$0D>
 //\n兄ちゃんよう、このへんでレッドのやつ見たぜ。\n見つかんないようにしねぇとな、\n気に入られちまうぜ。
+\n
 This is dangerous. I\n
-saw Red earlier and\n
-he's on the prowl for
+saw Red earlier and
 <$0C>
-you. Steer clear of\n
-him.
+he's on the prowl for\n
+YOU! You'd better\n
+steer clear!
 <$1E>
 //家
 家
@@ -148,12 +149,11 @@ Tommy:
 <$0D>
 //\nよう、ブーマーのやつ見たかい？\nへへ！ またコーカイが始まったぜ。
 \n
-Hey, have you seen\n
-Boomer? Hehe, he
+Have you seen Boomer?\n
+Hehe, he started
 <$0C>
-started another one\n
-of his little\n
-soliloqueys.
+another one of his\n
+little soliloqueys.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -161,10 +161,11 @@ Tommy:
 //\nあいつはコーカイして生きてんだ、\nどんなコーカイか、開きてぇか？
 \n
 That guy lives for\n
-putting himself on
+making a production
 <$0C>
-display like this.\n
-Wanna know what of?
+out of everything.\n
+Wanna hear an\n
+example?
 <$1B>
 //、開きたい\n開きたくない
 、Yes\n
@@ -187,14 +188,14 @@ Tommy:
 //\nあいつにはじいさんがいた。
 \n
 The guy had a\n
-grandfather.
+grandpa.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nそのじいさんってのが、ビックリだ、\n６９年間もしゃっくりが止まらねぇじいさんだ。\n６９年だぜ。
 \n
-The old man got\n
+The grandpa got\n
 spooked by something,
 <$0C>
 and he hiccuped\n
@@ -216,21 +217,23 @@ Tommy:
 <$0D>
 //\nじいさんがしゃっくりにアンディって\n名前まで付けてたもんだから、
 \n
-The old man decided\n
-to call the hiccups
+The grandpa then\n
+decided to call the
 <$0C>
-"Andy", and pretended\n
-he was dead.
+hiccups "Andy", and\n
+they pretended that\n
+Andy died.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nアンディが死んだことにすりゃ\nしゃっくりは収まる、\nそう考えたんだな。
 \n
-And they thought, if\n
-Andy died, the
+The logic was, "If\n
+Andy dies, the
 <$0C>
-hiccups would stop.
+hiccups die with\n
+him!"
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -238,22 +241,23 @@ Tommy:
 //\nじいさんが寝てる間にカンオケに入れて、まるで\n本当に死んだみたいに花まで用意したんだ。
 \n
 Boomer put his\n
-grandfather into the
+grandpa into the
 <$0C>
 casket, and even\n
 arranged flowers for\n
-him.
+him. The whole\n
+shpeal.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n朝になって、じいさんはたまげた。\n確かにしゃっくりは収まったそうだ。
 \n
-That morning, his\n
-grandfather was
+That next morning,\n
+his grandpa was
 <$0C>
-amazed. He said, "The\n
-hiccups have\n
+elated, shouting,\n
+"The hiccups have\n
 stopped!"
 <$0C><$0B>
 //トミー：
@@ -262,10 +266,10 @@ Tommy:
 //\nけどよ、じいさんはみるみる弱ってしまい、\n２日後にぽっくりだ。
 \n
 But then, the old man\n
-grew weaker, and
+suddenly grew weaker,
 <$0C>
-weaker. He died two\n
-days later.
+and weaker. He died\n
+two days later.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -275,8 +279,8 @@ Tommy:
 Boomer thinks the old\n
 man died because of
 <$0C>
-him. Hell, he could\n
-be right.
+him, a-yup. And he\n
+might just be right.
 <$1E>
 //声
 声
@@ -304,7 +308,7 @@ Tommy:
 <$0D>
 //\nへへ、コーカイは先にはなんとかだ、\n兄ちゃんも気を付けな。
 \n
-Guess you gotta be\n
+Hehe, gotta be\n
 careful around people
 <$0C>
 who put themselves\n
@@ -340,7 +344,7 @@ Tommy:
 He's always talking\n
 about his hiccupping
 <$0C>
-old man.
+grandpa.
 <$1E>
 //声
 声
@@ -362,9 +366,9 @@ Red:
 //\n臭うぜ、可愛い子犬ちゃんの臭いだ。
 \n
 You smell so good.\n
-That's the scent of
+That's a good scent
 <$0C>
-my darling puppy.
+for my darling puppy.
 <$0E><$1E><$17><$00>
 
 
@@ -386,7 +390,7 @@ Hehe, that Boomer guy\n
 finally lost it. The
 <$0C>
 monsters in his mind\n
-are having a party.
+are having a ball.
 <$1E>
 //声
 声
@@ -411,7 +415,7 @@ That strong feeling I\n
 had... It's back.
 <$0C>
 Makes my head want to\n
-split...
+split...!
 <$00>
 
 

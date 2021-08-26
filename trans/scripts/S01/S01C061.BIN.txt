@@ -13,7 +13,7 @@
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n気を抜くんじゃないぞ。
 \n
@@ -32,7 +32,7 @@ yourselves.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n降りたら勝手に動くな、全員で行動する、\n分かったな。
 \n
@@ -55,10 +55,11 @@ Noon:
 <$0D>
 //\nうまく着陸できた、機関も異常なしだ。
 \n
-Hey, I landed this\n
+Listen, I landed this\n
 ship too damn well to
 <$0C>
-be talked down to.
+be talked down to\n
+like I'm some kid.
 <$00>
 
 
@@ -72,7 +73,7 @@ be talked down to.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、もういいぞ。\n私たちは着陸すべくして着陸した。
 \n
@@ -80,7 +81,7 @@ And? When I say,\n
 "land", you land.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nそういうことだ。
 \n
@@ -121,7 +122,7 @@ accident.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nこの船にアクシデントなどなかったのだ。\nわからんのか…
 \n
@@ -132,7 +133,7 @@ something, we fix it\n
 later.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n報告書はそうまとめる。 さ、準備だ！
 \n
@@ -159,7 +160,7 @@ Heh, maybe we can\n
 drag that mad dog
 <$0C>
 Galil back to Earth.\n
-I just hope we're\n
+I only hope we're\n
 quick.
 <$0C><$0B>
 //ヌーン：
@@ -168,10 +169,10 @@ Noon:
 //\nこの星には頭がおかしくなった\n密航者ばかりだ。
 \n
 I hate this planet.\n
-Anyone who skips town
+Anyone who chooses to
 <$0C>
-to stow out here is a\n
-whackjob.
+live 'ere clearly\n
+lost their mind.
 <$00>
 
 
@@ -185,14 +186,15 @@ whackjob.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n密航者だけではない。\n流刑者のなれのはても生きながらえている。
 \n
 Not necessarily. Some\n
-are exiled to live
+inhabitants were
 <$0C>
-out here too.
+exiled, and forced to\n
+live out here.
 <$00>
 
 
@@ -247,7 +249,7 @@ cooperate...
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nさ、用意はいいか。
 \n
@@ -255,7 +257,7 @@ Enough. Is everyone\n
 ready?
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nライカ、なにをぐずぐずしてる？\n君が最初に降り立つんだ。
 \n
@@ -311,11 +313,11 @@ Noon:
 <$0D>
 //\nロケットから離れるんじゃないぞ、\n迷子になっても\nママはむかえに来てくれないぜ。
 \n
-If you run off the\n
-rocket and get
+If you run off and\n
+get lost on the job,
 <$0C>
-yourself lost, don't\n
-come cryin' to Mummy.
+don't come crying to\n
+Mummy.
 <$00>
 
 
@@ -329,7 +331,7 @@ come cryin' to Mummy.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nライカ、君がはじめの一歩を記すんだ。
 \n

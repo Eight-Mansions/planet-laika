@@ -39,9 +39,9 @@ Spacer:
 //\nどうなんだ？ アーネスト… ヨランダ…\n私の声が開こえているか？
 \n
 Come on, come on...\n
-Earnest! Yolanda! Can
+Ernie! Jo! Can you
 <$0C>
-you hear my voice?
+hear my voice?
 <$00>
 
 
@@ -55,11 +55,11 @@ you hear my voice?
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nガリルがどうかしたって？\n教えてやろうか、やつのこと。
 \n
-Did you say "Garyl"?\n
+Did you say "Galil"?\n
 Shall I tell you
 <$0C>
 about him?
@@ -94,7 +94,7 @@ Uhm...
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあんた誰？
 \n
@@ -132,12 +132,12 @@ Spacer:
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nそう、よかったね。ふふふ、よかった。
 \n
-Yes, good! Huhuhu, I\n
-thought as much!
+Yes, good! I thought\n
+as much, heehee!
 <$00>
 
 
@@ -156,7 +156,7 @@ Spacer:
 //\nガリルのこと、教えてくれ。
 \n
 All right, tell me\n
-about Garyl.
+about Galil.
 <$00>
 
 
@@ -170,18 +170,18 @@ about Garyl.
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nやつだよ、ヴェロニカに汚い布をわたして\nヴァニティフェイスをはびこらせたの。
 \n
-Well, Garyl gave\n
+Well, Galil gave\n
 Veronica a filthy
 <$0C>
-cloth before vanity\n
-face went rampant.
+cloth before Vanity\n
+Face picked up.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nレッドにコスマスを引き合わせたのも\nあいつさ。
 \n
@@ -221,22 +221,23 @@ hatred, was he?
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nはじめのうちはね。
 \n
-In the beginning, I\n
-do.
+In the beginning,\n
+yes.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nそのうち誰も彼もが\n悪に憑かれるようになったのさ。
 \n
 From then on,\n
 everyone became
 <$0C>
-obsessed with "evil".
+obsessed with "evil"\n
+on their own.
 <$00>
 
 
@@ -254,7 +255,7 @@ Spacer:
 <$0D>
 //\n君は…今…
 \n
-What...are you...?
+What...are you?
 <$00>
 
 
@@ -268,21 +269,21 @@ What...are you...?
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nねぇ、コスマスを助けてやってよ。
 \n
 Please, save Cosmas.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあんたがここまで来れたのもあいつのおかげ…\nそうじゃないの？
 \n
 You only got this far\n
 because of him, you
 <$0C>
-know. So please?
+know, so...please?
 <$00>
 
 
@@ -300,7 +301,7 @@ Spacer:
 <$0D>
 //\n彼と約束をかわした。\nしかし、どうやって？
 \n
-I'd promise, but save\n
+I promise, but...save\n
 him "how"? Red keeps
 <$0C>
 constant tabs on him.
@@ -328,12 +329,14 @@ Cosmas?
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nレッドは出かけてるよ。\n今の間にコスマスを連れ出すのさ。
 \n
 Red is out. Now's the\n
-time to lure him out.
+time for you to lead
+<$0C>
+Cosmas.
 <$00>
 
 
@@ -368,26 +371,25 @@ siblings?
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n人形だよ。\n黒い人形であいつを誘い出せる。
 \n
 There's a doll. A\n
-black doll that can
+black doll that will
 <$0C>
-get him out of the\n
-house
+get Cosmas out of the\n
+house.
 <$0C><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\nあいつ、夢遊病みたいに付いてくるよ。
 \n
 If you use it, he'll\n
-come to you- almost
+come to you as if he
 <$0C>
-like he's\n
-sleepwalking.
+were sleepwalking.
 <$00>
 
 
@@ -405,8 +407,8 @@ Spacer:
 <$0D>
 //\nダミアヌス、私は質問しているのだ。
 \n
-Damianos, I'm asking\n
-you a question.
+Damian, I asked you a\n
+question.
 <$00>
 
 
@@ -420,12 +422,12 @@ you a question.
 
 <$12><$0B>
 //ダミアヌス：
-Damianos:
+Damian:
 <$0D>
 //\n人形の名前はダークマンだ。
 \n
 The doll's name is\n
-Darkman.
+Dark Man.
 <$00>
 
 

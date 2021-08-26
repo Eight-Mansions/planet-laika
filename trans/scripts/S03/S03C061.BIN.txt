@@ -17,7 +17,7 @@
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nねぇ、ここから先は行けないよ。\n信仰がないとダメなんだ。
 \n
@@ -27,7 +27,7 @@ past this point
 without faith.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあんたには理解できそうもないよ、\n見るからにね。
 \n
@@ -64,7 +64,7 @@ going on.
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nやっぱりダメだよ、ここから先は\n信仰のないあんたじゃ無理さ。
 \n
@@ -75,7 +75,7 @@ can't proceed without\n
 faith.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n理解できないとね。
 \n
@@ -128,10 +128,12 @@ Yolanda:
 <$0D>
 //\nアタシじゃいけないの…\n神様だなんて、ほんとにいるの？
 \n
-Am I really no good?\n
-Is God really in
+God giving me the\n
+proverbial boot's no
 <$0C>
-there?
+surprise, but he's\n
+not really here, is\n
+he?
 <$00>
 
 
@@ -145,7 +147,7 @@ there?
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nここだよ、ここを降りるんだ。
 \n
@@ -156,12 +158,12 @@ into the underground\n
 canal.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n流刑者が作った地下水道さ。\nそれを通っていくんだ。 神様が待ってるよ！
 \n
-This canal made by\n
-the exile. Go on, go
+This canal was made\n
+by exiles. Go on, go
 <$0C>
 through! God is\n
 waiting for you!

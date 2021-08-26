@@ -360,7 +360,9 @@ East:
 //\n赤い石、ヘロデさん。\n分かったか？
 \n
 Will it lead to the\n
-red stone and Herod?
+red stone and to
+<$0C>
+Herod?
 <$1E>
 //〇
 〇
@@ -479,6 +481,12 @@ Will you give it?
 West:
 <$0D>
 //\nそれはない。\nお前は赤い石を持ってる、\n渡すことでお前は救われる。
+\n
+That's not right, you\n
+have the red stone!
+<$0C>
+Giving us the red\n
+stone will help you!
 <$00>
 
 
@@ -495,6 +503,9 @@ West:
 East:
 <$0D>
 //\nさあ、渡せ。\n俺たちもたのまれてるんだ、さあ、渡せ。
+\n
+When will you give us\n
+the stone?
 <$00>
 
 
@@ -550,8 +561,10 @@ West:
 <$0D>
 //\nそうだ、犬だ、お前は！\n俺たちは犬キライ。
 \n
-That's right, you\n
-dog! We HATE dogs!
+That's right! And\n
+yes, you're a dog! We
+<$0C>
+HATE dogs!
 <$00>
 
 
@@ -833,7 +846,7 @@ I worked my ass off\n
 to rebuild this
 <$0C>
 planet from the dust\n
-up after YOU\n
+up after YOU leeches\n
 abandoned it!
 <$0C><$0B>
 //ヘロデ：
@@ -867,7 +880,8 @@ Herod:
 our discontent. Made
 <$0C>
 glorious summer by\n
-this son of York!"
+this son of"...me!\n
+Herod!
 <$00>
 
 
@@ -926,7 +940,7 @@ but no debates. I
 <$0C>
 won't roll out the\n
 red carpet for\n
-Earthlings.
+colonizers.
 <$00>
 
 
@@ -1074,102 +1088,266 @@ prison is now a
 hotel!
 <$1E>
 //〇
+〇
 <$00><$10><$0B>
 //リトル：
+Little:
 <$0D>
 //\nお前だったのか…\nふん、こそこそ何をかぎ回ってるんだ！
+\n
+Ah, there you are!\n
+What are you doing,
+<$0C>
+snoopin' around?!
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n知ってるの？ ライカのこと。\nもう会ったの？
+\n
+Do you know Laika?\n
+Have you met before?
 <$00><$10><$0B>
 //リトル：
+Little:
 <$0D>
 //\nいや、俺は何も知らない、\nそうだそうだ、何もな。
+\n
+No. I don't know any\n
+such person, got it?
 <$00><$11><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nねぇ、どうしてここの人たちは、\nみんなぴりぴりしてるの？\n何かよくないことでもあるの？
+\n
+Why is everyone here\n
+so on edge then? You
+<$0C>
+can't ALL be hiding\n
+something!
 <$00><$11><$0B>
 //リトル：
+Little:
 <$0D>
 //\nここはカンペキだ。何も悪いところはない。\n迷信に振り回されて大騒ぎしてるのは\nお前たちの方だ、ええ？
+\n
+Of course not!\n
+There's no evil
+<$0C>
+afoot. The rumors and\n
+uproars are all\n
+superstition!
 <$00><$11><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n迷信？ メディスンマンから開いたのよ、\nイーブルマインドや黒い騎士の話。\nどこかで悪が大きく育っているのよ。
+\n
+Superstition? But\n
+even the medicine men
+<$0C>
+told us about Evil\n
+Mind and the Black\n
+Rider!
 <$00><$11><$0B>
 //リトル：
+Little:
 <$0D>
 //\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
+\n
+How lovely. Then, you\n
+totally don't care
+<$0C>
+about what the\n
+warehouse next door\n
+stores, right? Our\n
+oxygenite?
 <$0C><$0B>
 //リトル：
+Little:
 <$0D>
 //\nお前たちが見捨てたこの星は、\nあの酸索石でよみがえる。
+\n
+It is WE who used OUR\n
+oxygenite resources
+<$0C>
+to restore the planet\n
+YOU abandoned!
 <$0C><$0B>
 //リトル：
+Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
+\n
+PROVING, see, that\n
+you are NOT so
+<$0C>
+indispensible, got\n
+it?
 <$0C><$0B>
 //リトル：
+Little:
 <$0D>
 //\nこの星にはこの星なりのやり方がある、\nそういうことだ。
+\n
+Mars has its own way\n
+of doing things, and
+<$0C>
+we'll keep doing it\n
+ON OUR OWN.
 <$00><$11><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n分からない…\n迷信なら迷信でいいの。
+\n
+I don't understand. I\n
+mean, if all it was
+<$0C>
+were superstition,\n
+that'd be fine.
 <$0C><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nでも実際にザ・フェイスの上空で\nおかしな光に包まれたのよ。
+\n
+But even we saw it!\n
+The sky about the
+<$0C>
+Face was engulfed in\n
+a strange light!
 <$00><$11><$0B>
 //リトル：
+Little:
 <$0D>
 //\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
+\n
+Nothing happened to\n
+the Face. That
+<$0C>
+thing's only a dumb\n
+souvenir left by the\n
+Martians.
 <$0C><$0B>
 //リトル：
+Little:
 <$0D>
 //\nご希望とあらば、ザ・フェイスを\n火星きっての観光名所にしたって\n構わないんだ、ええ、そうだそうだ。
+\n
+We laid out an\n
+oxygenite pipeline up
+<$0C>
+to the Face. It's now\n
+a tourist spot for\n
+you Earthlings.
 <$0C><$0B>
 //リトル：
+Little:
 <$0D>
 //\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
+\n
+You all obsess over\n
+human faces so bad,
+<$0C>
+you come out here,\n
+see it and then pay\n
+us for cosmetic\n
+surgery!
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n私たちが着陸しようとしたとき…それに…
+\n
+So, the disruption we\n
+had when we tried to
+<$0C>
+land was only...
 <$00><$10><$0B>
 //リトル：
+Little:
 <$0D>
 //\n操縦を誤っただけだ、よくあることだ、\nそうだそうだ。
+\n
+A fluke on your\n
+engineer's part. It
+<$0C>
+happens all the time,\n
+got it?
 <$00><$11><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nそうね…分かったわ、\nはぐれたクルーを見つけて、
+\n
+I see. Then, I\n
+suppose we should
+<$0C>
+look for the rest of\n
+our crew,
 <$0C><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nザ・フェイスに何も異変が見あたらなかったら\nさっさと引き揚げる、これでどう？
+\n
+and if nothing else\n
+happens to the Face,
+<$0C>
+we'll leave first\n
+thing. Fair?
 <$00><$10><$0B>
 //リトル：
+Little:
 <$0D>
 //\n賢明だ。さっさとな、\nそれが賢明だ、そうだそうだ。
+\n
+Yes, fantastic even.\n
+And you said, "first
+<$0C>
+thing", got it?
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n船長と機関士がいないと\nロケットを飛ばせないのよ。
+\n
+But we won't fly the\n
+rocket without both
+<$0C>
+our captain and our\n
+engineer, understand?
 <$00><$11><$0B>
 //リトル：
+Little:
 <$0D>
 //\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
+\n
+Oi, if it speeds\n
+things up, I'll
+<$0C>
+dispatch a search\n
+party the mornin'.
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nもう行っていい？
+\n
+But Laika and I need\n
+to look now!
 <$00><$10><$0B>
 //リトル：
+Little:
 <$0D>
 //\nあのふたりに送らせよう。
+\n
+...Hmph. Excuse me\n
+while I speak to the
+<$0C>
+pair outside.
 <$00>
 
 
@@ -1183,11 +1361,13 @@ hotel!
 
 <$10>
 //\n
+\n
 <$0B>
 //      
+
 <$0D>
 //赤い石を手に入れた。
-"RED STONE" acquired.
+Red Stone acquired.
 <$00>
 
 

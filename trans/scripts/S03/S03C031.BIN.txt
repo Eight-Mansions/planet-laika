@@ -13,26 +13,25 @@
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあらイヤだ、あなたも鏡、気になるの？
 \n
-Dear, dear! You've\n
-seen the mirror,
+Dear, you've seen the\n
+mirror, haven' you?
 <$0C>
-haven' you? It's\n
-ginormous!
+It's ginormous!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n大きな鏡があるのよ… 鏡なんてと思いながら、\nでもやっぱり見てみたいの… 自分のお顔。
 \n
 Who knows what it's\n
-really for, but I too
+really for, but are
 <$0C>
-want to face my self\n
-in it,or...
+you sure you want to\n
+see yourself in it?
 <$00>
 
 
@@ -46,11 +45,13 @@ in it,or...
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nいじらしいと思わない、ねぇ、思わない？\n
 \n
-...Do spirits live in\n
+By the way, do you\n
+think spirits live in
+<$0C>
 mirrors?\n
 <$1B>
 //。思う\n思わない
@@ -69,18 +70,17 @@ No
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそうよね、\n見たくないけど見てみたい、そんな惑じよ。
 \n
 Thought so! See it or\n
-not, you know you
+not, you just sense
 <$0C>
-just sense these\n
-these.
+these these.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nでも出るのよ、夜になるとオバケが出るの。
 \n
@@ -91,7 +91,7 @@ popping out to grab\n
 me!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n鏡がオレンジ色になって、\nいやな女の笑い声が開こえるの…
 \n
@@ -99,15 +99,15 @@ You know that one?\n
 Where the mirror
 <$0C>
 turns orange and some\n
-lady's all howling?
+woman's all laughing?
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nビジュアル系の人は要注意よ。
 \n
-Visual types don't\n
-have time for that!
+If you're a Visual\n
+type, be careful!
 <$1E>
 //〇
 〇
@@ -124,21 +124,39 @@ have time for that!
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n冷たいのね、そんな制服着てさ。\nせいぜいオバケには気を付けることよ。
+\n
+Ah, you uniformed\n
+folk are usually
+<$0C>
+pretty cold to that\n
+stuff. Still, watch\n
+out for ghosts.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n夜の鏡はやばいのよ。\nいやな女の笑い声が開こえたりするんだから。
+\n
+I'm serious! For one,\n
+if you hang around
+<$0C>
+mirrors at night, you\n
+might hear a woman\n
+laughing.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nビジュアル系の人は特にね。
+\n
+If you're a Visual\n
+type, be careful!
 <$1E>
 //〇
+〇
 <$00>
 
 
@@ -152,11 +170,18 @@ Marrakesh:
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nアタシはごめんだけど、鏡の部屋ならこの先よ。\n黒いカベの手前にあるわよ。
+\n
+Dear, the mirror room\n
+is up ahead. It's
+<$0C>
+before the black\n
+wall.
 <$1E>
 //〇
+〇
 <$00>
 
 
@@ -170,28 +195,49 @@ Marrakesh:
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nワタシはココロがミダれたのでしょうか。
+\n
+I SUSPECT MY HEART IS\n
+ON THE FRITZ.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nあなたをオいかけてサンソヤのマエを\nトオりかかったとき、
+\n
+WHEN I PASSED BY THE\n
+OXYGEN DISPENSARY
+<$0C>
+AFTER YOU...
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nキュウにヘンなコトバがやってきました。\nワタシのココロがウけとめました。
+\n
+...I HEARD A STRANGE\n
+DIALOGUE, AND MY
+<$0C>
+HEART STOPPED.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nそのコトバをあなたもキいてみますか？
+\n
+WOULD YOU LIKE TO\n
+HEAR WHAT THAT
+<$0C>
+DIALOGUE WAS?
 <$1B>
 //。開いてみる\n開かない
+。Yes\n
+No
 <$00><$17><$00>
 
 
@@ -208,6 +254,13 @@ Olympia #2:
 Olympia #2:
 <$0D>
 //\nエイプリル、だめよ、\nそれはカジロボットよ、\nテがヨゴれるからサワっちゃだめ。
+\n
+"APRIL, DON'T TALK TO\n
+THAT! THE ROBOT'S
+<$0C>
+MADE FOR HOUSEWORK!\n
+DON'T GET YOURSELF\n
+DIRTY."
 <$00>
 
 
@@ -221,26 +274,45 @@ Olympia #2:
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nカジとはスイジとかセンタクとかでしょうか。\nなんにしても、くたびれていますね。
+\n
+HOUSEWORK... DOES\n
+THAT MEAN COOKING, OR
+<$0C>
+LAUNDRY? EITHER OR,\n
+IT IS EXHAUSTING.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nコエにトゲがありますよ。
+\n
+THEIR VOICE CUT ME TO\n
+MY CORE.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nジンセイとはこんなものですか、\nままならないものですか。
+\n
+IS THAT ALL I AM GOOD\n
+FOR? IS THAT THE
+<$0C>
+PURPOSE I WAS CREATED\n
+TO SERVE?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nそれにしてもこのコエのヒトは、ダレですか。
+\n
+WHO COULD SAY SUCH A\n
+THING?
 <$00>
 
 
@@ -254,26 +326,50 @@ Olympia #2:
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nトツゼンです、サンソヤのマエで…\nこんなこと、はじめてです、
+\n
+THE FIRST TIME I EVER\n
+FELT THIS WAY WAS IN
+<$0C>
+FRONT OF THE\n
+DISPENSARY.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nフシギなことです。\nサンソヤにはナニかあるのでしょうか。
+\n
+IT IS A MYSTERIOUS\n
+THING. WHAT GOES ON
+<$0C>
+INSIDE OF THE\n
+DISPENSARY?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nワタシはずっとカセイにおります。\nいろんなゴシュジンサマにツカえましたが、
+\n
+I HAVE ALWAYS BEEN ON\n
+MARS. I HAVE SERVED
+<$0C>
+MANY MASTERS.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nあんなコエはシりません。\nそれともワスれたのでしょうか。
+\n
+EITHER I NEVER KNEW\n
+THAT VOICE, OR I DID,
+<$0C>
+AND HAD FORGOTTEN IT\n
+LONG AGO.
 <$00>
 
 
@@ -287,16 +383,25 @@ Olympia #2:
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nナニか、あなたにしてあげられることが\nあるのです。
+\n
+STILL, THERE IS\n
+SOMETHING I CAN DO
+<$0C>
+FOR YOU.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nもうスコし、おマチください。\nもうスコしです。
+\n
+PLEASE WAIT, JUST A\n
+LITTLE LONGER.
 <$00>
 
 
@@ -318,18 +423,20 @@ Olympia #2:
 //\nあーら、なんて、こんなコトバ、\nツカってみたいわ。
 \n
 I WANT TO TRY TALKING\n
-LIKE YOU-SEE? "FUCK!"
+LIKE YOU. SEE?
+<$0C>
+"####!"
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n使えばいいじゃない、\nあーらあなたとかなんとかね。
 \n
-Whoa now, I'm not\n
-sure if that's the
+Hey, I don't sound\n
+like that! Try
 <$0C>
-way to go. How about,\n
-"Oh-lala~!"
+something cute, like,\n
+"Oh-lala!"
 <$0C><$13>
 //（
 （
@@ -339,19 +446,22 @@ Olympia #2:
 <$0D>
 //\nたまにはね、おケショウ、してみたいわよ。
 \n
-OH-LALA, LET'S TRY ON\n
-SOME FUCKING MAKE-UP!
+OH-LALA, LET US TRY\n
+ON SOME ####ING
+<$0C>
+MAKE-UP!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nしゅうまつはガイショクよ、なんてセイカツ、\nいいわよね！
 \n
-WE CAN EAT OUT ON\n
-WEEKENDS TOO! HELL
+WE CAN EAT OUT ON THE\n
+MOTHER####ING
 <$0C>
-YEAH, LADIES, WE'RE\n
-LIVIN' THE GOOD LIFE!
+WEEKEND! #### YEAH,\n
+LADIES, WE ARE LIVING\n
+THE GOOD LIFE!
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -362,7 +472,8 @@ Listen fucker, if\n
 you're on one or
 <$0C>
 something, don't take\n
-it out on me. Tsk.
+it out on me. Tsk,\n
+tsk.
 <$0C><$13>
 //（
 （
@@ -372,11 +483,11 @@ Olympia #2:
 <$0D>
 //\nふん！ イエのことばかりでトシトルのよ、\nこのままオンナをワスれて、トシトルのよ、
 \n
-BUT I'M NOT! IT'S USE\n
-IT OR LOSE IT! WE
+BUT I AM NOT! IT IS\n
+USE IT OR LOSE IT! WE
 <$0C>
 HAVE TO USE\n
-FEMININITY OR WE'LL\n
+FEMININITY OR WE WILL\n
 LOSE IT!
 <$0C><$0B>
 //オリンピア２号：
@@ -384,7 +495,8 @@ Olympia #2:
 <$0D>
 //\nいまいましいわ！
 \n
-TSK!
+FOR ####'S SAKE,\n
+YOLANDA.
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -392,7 +504,7 @@ Yolanda:
 //\nイヤだ、そんなの…
 \n
 Woah, hang on a\n
-second...
+second!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -400,10 +512,10 @@ Yolanda:
 //\nアタシはね、死ぬまで女でいるのよ、\n忘れないのよ。
 \n
 I'm a woman, from now\n
-until the day I die.
+until the day I die!
 <$0C>
-I won't forget me,\n
-you won't forget you.
+And I'll make sure NO\n
+ONE forgets it!
 <$0C><$13>
 //（
 （
@@ -413,10 +525,11 @@ Olympia #2:
 <$0D>
 //\nよかったわ。\nあなたはツヨい、ワタシよりね。
 \n
-I'M GLAD! YOU'RE\n
-STRONG, YOU KNOW?
+I AM GLAD! YOU ARE\n
+HEAD-STRONG, YOU
 <$0C>
-MUCH STRONGER THAN\n
+KNOW? FAR\n
+HEAD-STRONGER THAN\n
 ME.
 <$0C><$0B>
 //オリンピア２号：
@@ -425,9 +538,10 @@ Olympia #2:
 //\nもっとツヨくなってね、\nこれでツヨくなってね。
 \n
 AFTER THIS\n
-CONVERSATION, I'LL
+CONVERSATION, I WILL
 <$0C>
-GET STRONGER TOO.
+GET HEAD-STRONGER\n
+TOO.
 <$00>
 
 
@@ -451,18 +565,16 @@ Olympia #2:
 YOU WILL NOT FORGET\n
 THAT YOU ARE A WOMAN.
 <$0C>
-I'M A LITTLE\n
-RELIEVED.
+I AM RELIEVED TO HEAR\n
+THAT.
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nねぇ、もうないの？\nもっともらえないの？
 \n
-Good! So, do you have\n
-any more goodies for
-<$0C>
-me yet?
+Good! So, do I win a\n
+prize or something?
 <$0C><$13>
 //（
 （
@@ -472,10 +584,10 @@ Olympia #2:
 <$0D>
 //\nワタシ、アンシン、\nあなた、オンナ、オンナ、オンナ。
 \n
-I'M. RELIEVED.\n
-YOU'RE. WOMAN. WOMAN.
+I, RELIEVED... YOU,\n
+WOMAN... WOMAN,
 <$0C>
-WOMAN.
+WOMAN, WOMAN...
 <$00>
 
 
@@ -489,67 +601,121 @@ WOMAN.
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nワタシはジブンをワタシとヨびますが、\nオレと言うのはヘンですか？
+\n
+I AM REFERRED TO AS\n
+"IT". WOULD IT BE
+<$0C>
+WEIRD IF I CHOSE TO\n
+SPEAK WITH A\n
+MASCULINE TONE?
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n何ごちゃごちゃ言ってるんだ、\nどっちでもいいじゃねぇか。
+\n
+What are you talking\n
+about? Talk however
+<$0C>
+you want to talk.
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nタイクツだぜ、こんなところでよ、\nおい、おマエ、なんでオレをミるんだ？
+\n
+IT SURE IS BORING\n
+DOWN HERE. WHY ARE
+<$0C>
+YOU STARING ME DOWN\n
+LIKE THAT, HUH?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nじろじろミるな！
+\n
+ARE YOU TRYING TO\n
+SIZE A GUY UP, PUNK?
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nな、なんだと、おい！
+\n
+Woah. Slow down,\n
+buddy.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n変なかっこうしやがって、\nロボットか、ガラクタか？
+\n
+Who's sizing up who\n
+here? You on the
+<$0C>
+fritz or something,\n
+little guy?
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nちくしょう！\nわけもなくハラがタつぜ、いらつくぜ！
+\n
+FRITZ?! I WILL SHOW\n
+YOU FRITZ!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nなんだ、テメエは！
+\n
+YOU BETTER STOP\n
+DOGGING ME!
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nおおおお、\n俺にケンカふっかけようってのか、ああ？
+\n
+Ahh, I get it. You\n
+ARE sizing me up!
+<$0C>
+Wanna fight, buddy?
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nケンカはウっても、カっても、ソンするぜ。\nおマエはどうだ、ソンするタイプか、
+\n
+FIGHTS CAN EITHER\n
+SAVE TIME OR WASTE
+<$0C>
+TIME. WHAT DOES\n
+FIGHTING DO FOR YOU?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nこれでスコしはトクしてみろ。
+\n
+HERE. SIZE THIS UP\n
+INSTEAD.
 <$00>
 
 
@@ -563,23 +729,41 @@ Olympia #2:
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nオマえはソンしない、ケンカでソンしない、\nそういうことだ。
+\n
+IF YOU DO NOT WASTE\n
+TIME, YOUR FIGHTS
+<$0C>
+WILL NOT WASTE TIME.\n
+THAT IS HOW I SEE IT.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nおい、他にないのか、もっとくれねぇのか。
+\n
+I'll say. Got\n
+anything else for me,
+<$0C>
+champ?
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nソン、トク、ソン、トク、ケンカ。
+\n
+TO SAVE, OR TO\n
+WASTE... TO SAVE, OR
+<$0C>
+TO WASTE...
 <$00>
 
 
@@ -637,9 +821,10 @@ Olympia #2:
 //\nモノにはスベてイシキがあるのだから。
 \n
 ALL BEINGS HAVE A\n
-SENSE OF AWARENESS,
+SENSE OF
 <$0C>
-SO THAT'S WHY.
+SELF-AWARENESS. THAT\n
+IS WHY.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -650,14 +835,15 @@ Makes sense.\n
 Everyone's got
 <$0C>
 something on their\n
-minds-even robots...
+minds, even you\n
+robots.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nいやそれはむつかしい問顆をはらんでいる。
 \n
-...no, I imagine it's\n
+...No, I imagine it's\n
 a tougher nut to
 <$0C>
 crack than that.
@@ -681,8 +867,8 @@ Olympia #2:
 <$0D>
 //\nキュウサイのトキがきたのだ！
 \n
-THE HOUR OF SALVATION\n
-HAS COME!
+THEY SAY THE HOUR OF\n
+SALVATION HAS COME!
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -740,10 +926,10 @@ Spacer:
 <$0D>
 //\nこれで終わりか、\nまだ何か持っているだろう。
 \n
-Is that all? You\n
-don't have anything
+Is that it? You don't\n
+have anything else
 <$0C>
-else for me?
+for me?
 <$0C><$13>
 //（
 （
@@ -753,8 +939,10 @@ Olympia #2:
 <$0D>
 //\nキンセイ、サイコ、\nおかしなこと、キンセイ、サイコ。
 \n
-VENUS. PSYCHO. CRAZY.\n
-VENUS. PSYCHO.
+VENUS, PSYCHO,\n
+CRAZY... VENUS,
+<$0C>
+PSYCHO, CRAZY...
 <$00>
 
 
@@ -775,8 +963,8 @@ Yolanda:
 Hey, do you have\n
 anything for me? A
 <$0C>
-little souvenir?\n
-Anything?
+little souvenir,\n
+perhaps?
 <$0C><$13>
 //（
 （
@@ -786,7 +974,7 @@ Olympia #2:
 <$0D>
 //\nそうね、あなたには、\nこんなのはどうかしら。
 \n
-FOR YOU? I'M NOT SO\n
+FOR YOU? I AM NOT SO\n
 SURE I DO.
 <$00>
 
@@ -806,7 +994,7 @@ Yolanda:
 //\nもうないの、まだあるでしょ。ねぇ！
 \n
 Really? Nothing at\n
-all? Aww, damn...
+all? Damn!
 <$0C><$13>
 //（
 （
@@ -834,13 +1022,24 @@ AGAIN LATER.
 Ernest:
 <$0D>
 //\nおいオンボロ！ なんかよこせ。
+\n
+Hey, robot. Give me\n
+something.
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nキサマにくれてやっても、ブタにシンジュだろ\nウマのミミになんとかだろ！
+\n
+ANYTHING I GIVE YOU\n
+IS A PEARL HORSE
+<$0C>
+BEFORE A SWINE THAT\n
+WILL STILL LOOK IT IN\n
+THE MOUTH!
 <$00>
 
 
@@ -857,13 +1056,20 @@ Olympia #2:
 Ernest:
 <$0D>
 //\nこれだけか。まだあるだろ、もっとよこせ！
+\n
+That's it? Come on,\n
+give me more.
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nこれでオワりだ、アトでコい。
+\n
+THAT IS IT, I AM\n
+DONE!
 <$00>
 
 
@@ -880,13 +1086,25 @@ Olympia #2:
 Spacer:
 <$0D>
 //\n何か、持っているだろう。\n私の役に立つ物を。
+\n
+Hey, do you have\n
+anything useful for
+<$0C>
+me?
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nあらゆるケンチからカンガえて、\nキミにはこれがいいだろう。
+\n
+NO, BUT YOU CAN TAKE\n
+THIS OPPORTUNITY TO
+<$0C>
+SEE THE WORLD THROUGH\n
+ANOTHER SET OF EYES.
 <$00>
 
 
@@ -903,13 +1121,26 @@ Olympia #2:
 Spacer:
 <$0D>
 //\n他にはないのか…別の組み合わせは。
+\n
+You really don't have\n
+anything else?
+<$0C>
+Nothing worth my\n
+while?
 <$0C><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nイマはこれだけ、ノチほどのタイミングを\nノがさないことだね。
+\n
+MY WHILE IS ALL I\n
+HAVE! I CANNOT AFFORD
+<$0C>
+TO SHARE IT ALL THE\n
+DAMN TIME.
 <$00>
 
 
@@ -923,6 +1154,7 @@ Olympia #2:
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
@@ -930,9 +1162,9 @@ Olympia #2:
 //\nワタシにヨウですか。ワタシはあなたには\nトクにヨウはありませんよ。
 \n
 IS THIS WHAT I THINK\n
-IT IS? SORRY, I DON'T
+IT IS? SORRY, I DO
 <$0C>
-HAVE ANYTHING FOR\n
+NOT HAVE ANYTHING FOR\n
 YOU.
 <$00>
 
@@ -954,10 +1186,11 @@ Olympia #2:
 <$0D>
 //\nワタシはときどきココロがミダれますが、\nナオるのもハヤいです。
 \n
-SOMETIMES, MY MIND\n
-STOPS, BUT REPAIRS
+SOMETIMES, MY HEART\n
+STOPS, AND NEEDS A
 <$0C>
-ITSELF IN TIME.
+LITTLE TIME TO\n
+REPAIR.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -982,16 +1215,29 @@ BREAK EASILY.
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nこのホシにはアクイがミちているとイわれて\nいます。でもアクイだけなのでしょうか。
+\n
+THEY SAY THIS PLANET\n
+IS FULL OF ILL WILL,
+<$0C>
+BUT IS ILL WILL ALL\n
+IT IS?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nどこかにゼンイがカタマリになっていると\nキきますが。
+\n
+I DON'T KNOW WHAT\n
+ELSE THERE WOULD BE,
+<$0C>
+BUT I DOUBT IT IS ILL\n
+WILL ALONE.
 <$00>
 
 
@@ -1005,24 +1251,25 @@ Olympia #2:
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nあなたたちはチキュウから\nやってきたのですね。
 \n
-YOU'RE THE MOSQUITOS\n
+YOU ARE THE MOSQUITOS\n
 WHO CAME FROM EARTH,
 <$0C>
-AREN'T YOU?
+ARE YOU NOT?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nそんなカんじです、ここのヒトとはフンイキが\nチがいますから。
 \n
-WE KNOW WHY YOU'RE\n
-HERE, TO SUCK THE
+WE KNOW WHY YOU ARE\n
+HERE: TO SUCK THE
 <$0C>
 LIFE OUT OF\n
 EVERYTHING!
@@ -1039,6 +1286,7 @@ EVERYTHING!
 
 <$12><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
@@ -1056,7 +1304,8 @@ Olympia #2:
 <$0D>
 //\nワタシはハナもキくのです。
 \n
-I ALSO SMELL FLOWERS.
+I AM ALSO GETTING\n
+HINTS OF TEETH.
 <$00>
 
 
@@ -1078,7 +1327,7 @@ Olympia #2:
 //\nアタラしいテンカイになってきましたね。\nワタシはここでケンブツです。
 \n
 THIS IS A PLOT TWIST,\n
-IF I'VE EVER HEARD
+IF I HAVE EVER HEARD
 <$0C>
 ONE.
 <$0C><$0B>
@@ -1087,11 +1336,10 @@ Olympia #2:
 <$0D>
 //\nこれがノゾみです。
 \n
-I THINK THIS IS FOR\n
-THE BEST IF I
+I THINK IT IS FOR THE\n
+BEST THAT I SPECTATE
 <$0C>
-SPECTATE FROM OUT\n
-HERE.
+FROM OUT HERE.
 <$00>
 
 
@@ -1104,8 +1352,12 @@ HERE.
 #WHB(PTR, $00001E65)
 
 <$10>
-\n   ユニバーサルキットを手に入れた。
+//\n   ユニバーサルキットを手に入れた。
+\n
+Universal Kit\n
+acquired.
 <$0E><$1E><$17><$00>
+
 
 
 
@@ -1116,8 +1368,11 @@ HERE.
 #WHB(PTR, $00001E69)
 
 <$10>
-\n     マーズキットを手に入れた。
+//\n     マーズキットを手に入れた。
+\n
+Mars Kit acquired.
 <$0E><$1E><$17><$00>
+
 
 
 
@@ -1128,8 +1383,11 @@ HERE.
 #WHB(PTR, $00001E6D)
 
 <$10>
-\n    アストロキットを手に入れた。
+//\n    アストロキットを手に入れた。
+\n
+Astro Kit acquired.
 <$0E><$1E><$17><$00>
+
 
 
 
@@ -1140,8 +1398,11 @@ HERE.
 #WHB(PTR, $00001E71)
 
 <$10>
-\n    プラネットキットを手に入れた。
+//\n    プラネットキットを手に入れた。
+\n
+Planet Kit acquired.
 <$0E><$1E><$17><$00>
+
 
 
 
@@ -1167,7 +1428,7 @@ The item bag is full!
 #WHB(PTR, $000013CD)
 
 //場Pしくないのか、アーネスト。
-Humiliating, isn't\n
+場PHumiliating, isn't\n
 it, Ernest?
 <$00>
 
@@ -1181,12 +1442,12 @@ it, Ernest?
 #WHB(PTR, $0000140D)
 
 //広前は負けたんだ、野良犬のようにいたぶられ、\nそしてはいつくばった。 そうだろ。
-You lost. You were\n
-kicked like a stray,\n
-forced to retreat
+広You lost. You got\n
+licked, and were\n
+forced to run with
 <$0C>
-with your tail\n
-between your legs.
+your tail between\n
+your legs.
 <$00>
 
 
@@ -1199,9 +1460,9 @@ between your legs.
 #WHB(PTR, $0000141D)
 
 //案ょい出せ、\nお前はどこでうちのめされたんだ？
-Do you remember where\n
-you were beaten to a\n
-pulp?
+案ょDo you remember\n
+where you were beaten\n
+to a pulp?
 <$00>
 
 
@@ -1214,7 +1475,7 @@ pulp?
 #WHB(PTR, $0000142D)
 
 //興れともやつの居場所を突き止めたいのか？
-Or, would you rather\n
+興Or, would you rather\n
 find out where the\n
 winner is now?
 <$00>
@@ -1229,12 +1490,12 @@ winner is now?
 #WHB(PTR, $0000143D)
 
 //血あ、行くんだ、アーネスト。\n３倍返しだ、お前の力を見せてやるんだ。\n本当のお前を、お前の怖ろしさを！
-Get going, Ernest. Go\n
-pay him back 3 times\n
-over. Show me your
+血Get going, Ernest.\n
+Pay him back three\n
+times over. Show me
 <$0C>
-power! Show me your\n
-horror!
+your power! Show me\n
+your horror!
 <$00>
 
 

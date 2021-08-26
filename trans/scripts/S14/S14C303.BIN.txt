@@ -55,14 +55,25 @@ my face? It has this
 strange tingle.
 <$1E>
 //声
+声
 <$00><$10><$0B>
 //ブル：
+Bull:
 <$0D>
 //\nくそ、お顔がひりひりだ？お顔だと？\nおい、お前、俺に変なこと言ったか？
+\n
+What, is it my face?\n
+What the heck do you
+<$0C>
+mean by that?
 <$00><$10><$0B>
 //ブル：
+Bull:
 <$0D>
 //\nこの俺が！ お顔だと！ へん！
+\n
+What's going on with\n
+my face?!
 <$00>
 
 

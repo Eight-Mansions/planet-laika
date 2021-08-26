@@ -13,7 +13,7 @@
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n私に何かできるかしら。\n今は何もしたくないわ。 眠いだけよ。
 \n
@@ -21,7 +21,7 @@ I wonder what I could\n
 do. For now, I don't
 <$0C>
 want to do anything.\n
-I'm just so tired!
+I'm simply too tired!
 <$00>
 
 
@@ -56,15 +56,15 @@ to you?
 
 <$13><$14><$04><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nそう… 私に？ どんなこと？\n私なんかに構ってないで、\nヘロデのところに戻りなさいよ。
 \n
 To me? What does it\n
 matter? Don't worry
 <$0C>
-about me. You can go\n
-back to Herod.
+about me. Go back to\n
+your Herod.
 <$00>
 
 
@@ -83,7 +83,7 @@ Madam Agatha:
 //\n時間はとらせないわ。 本当よ…\nあなたの時間はなくならないの。
 \n
 This will take no\n
-time at all-for
+time at all. For
 <$0C>
 either of us.
 <$00>
@@ -103,7 +103,7 @@ Madam Agatha:
 <$0D>
 //\nフェイ、私の声が開こえる？
 \n
-Hui, do you hear my\n
+Feng, do you hear my\n
 voice?
 <$00>
 
@@ -118,7 +118,7 @@ voice?
 
 <$12><$14><$04><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n開こえてるわ、もちろんよ。
 \n
@@ -157,7 +157,7 @@ me.
 
 <$10><$14><$05><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n目を見てるわ…
 \n
@@ -181,7 +181,7 @@ Madam Agatha:
 //\nあなたは浮かんでいるのよ、フェイ。\n宇宙の無重力の中で、\n誰にも邪魔されずに浮かんでいる…
 \n
 You are floating,\n
-Hui, weightlessly
+Feng, weightlessly
 <$0C>
 through space, where\n
 no one can disturb\n
@@ -199,7 +199,7 @@ you.
 
 <$10><$14><$05><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n浮かんでいる…\n無重力…
 \n
@@ -240,7 +240,7 @@ approach the mirror.
 
 <$10><$14><$06><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n入口…
 \n
@@ -293,7 +293,7 @@ planned.
 
 <$10><$14><$06><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n入口に入るわ… 真っ白な入口…\nああ、全てが真っ白よ… きれい…
 \n
@@ -341,7 +341,7 @@ Veronica:
 //\nおなかすいたよ。\n今日、何も食べてないんだ。
 \n
 I'm feeling peckish.\n
-I hadn't eaten
+I haven't eaten
 <$0C>
 anything today.
 <$00>
@@ -403,8 +403,8 @@ Madam Agatha:
 <$0D>
 //\n何がたまったの？
 \n
-What have you saved\n
-up?
+Hmm? Saved a lot of\n
+what?
 <$00>
 
 
@@ -422,8 +422,8 @@ Veronica:
 <$0D>
 //\n命令よ。 言ったでしょ。
 \n
-Rolls. "Commands"\n
-works too.
+Lucky rolls.\n
+"Chances" works too.
 <$00>
 
 
@@ -463,7 +463,7 @@ Veronica:
 <$0D>
 //\nさっき使ったよ。\n
 \n
-I did earlier,\n
+I did so earlier,\n
 for
 <$0F>
 //を出してあげたの。
@@ -528,10 +528,11 @@ Madam Agatha:
 <$0D>
 //\nねぇヴェロニカ、\nフェイのこと話してくれない？\n彼女は何かをたくらんでいるの？
 \n
-Can I...ask you about\n
-Hui, Veronica? Is she
+So, Veronica, can I\n
+ask you about Feng?
 <$0C>
-plotting something?
+Is she plotting\n
+something?
 <$00>
 
 
@@ -549,11 +550,11 @@ Veronica:
 <$0D>
 //\nあの女は欲のカタマリなのよ。\nなんでもかんでも、\n手に入れなきゃ気が済まないのよ。
 \n
-That woman is a knot\n
-of desire. She'd do
+That woman is a real\n
+tangle of greed.
 <$0C>
-anything to get what\n
-she wants.
+She'd do anything to\n
+get what she wants.
 <$00>
 
 
@@ -592,7 +593,10 @@ Veronica:
 <$0D>
 //\nなんでアタシがフェイを手伝うのよ。
 \n
-Why would I help Hui?
+Are you asking if I'm\n
+helping her? Why
+<$0C>
+would I help Feng?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -607,8 +611,10 @@ Veronica:
 <$0D>
 //\nそんなこと思われて、\n平気でいられる？
 \n
-What made you ask\n
-that so frankly?
+I'm shocked. What\n
+made you ask that so
+<$0C>
+frankly?
 <$00>
 
 
@@ -626,11 +632,12 @@ Madam Agatha:
 <$0D>
 //\nフェイは美の権化になりたい、\nそう願っているんじゃないの？
 \n
-Hui wants to become\n
+Feng wants to become\n
 the personification
 <$0C>
-of beauty. That's all\n
-she desires.
+of beauty. We both\n
+know that's all she\n
+desires.
 <$00>
 
 
@@ -705,12 +712,13 @@ Veronica:
 <$0D>
 //\nフェイは会ったことないみたいだけど、\nヴァニティフェイスの仕事を始めてから、\nアマンダの声が開こえるようになったんだよ。
 \n
-Hui never met Amanda,\n
-but after starting
+Feng never met\n
+Amanda, but ever
 <$0C>
-her vanity face\n
-practice, she can\n
-hear Amanda's voice.
+since she started\n
+with Vanity Face, she\n
+could hear Amanda's\n
+voice.
 <$00>
 
 
@@ -729,9 +737,9 @@ Madam Agatha:
 //\nアマンダはフェイになんて言うのかしら。\n鏡の中へ来いって誘ってるの？
 \n
 What does Amanda say\n
-to Hui? Did she
+to Feng? Did she
 <$0C>
-invite Hui to enter\n
+invite Feng to enter\n
 the mirror?
 <$00>
 
@@ -750,20 +758,18 @@ Veronica:
 <$0D>
 //\n新しい鏡を作れ、\nアマンダはフェイにそう言ってるの。
 \n
-Amanda tells Hui to\n
-"create a new
-<$0C>
-mirror!"
+Amanda told Feng to\n
+create a new mirror.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\n世界のすべてを照らし出す鏡だよ。\nそしたら、あっちこっちで悪が生まれるんだ。
 \n
-A mirror that\n
-illuminates all the
+She wants a mirror\n
+that illuminates all
 <$0C>
-world, and births\n
+the world, and births\n
 evil in its corners.
 <$0C><$0B>
 //ヴェロニカ：
@@ -774,9 +780,9 @@ Veronica:
 All who are swallowed\n
 by that evil will
 <$0C>
-vanish. Edge says\n
-it's the Mirror of\n
-Judgment.
+vanish. Edge called\n
+it the Mirror of\n
+Judgement.
 <$00>
 
 
@@ -795,11 +801,11 @@ Madam Agatha:
 //\n蕃判の鏡…\nエッジってあなたの大の親友よね。\n他にはどんなこと教えてくれたの？
 \n
 The Mirror of\n
-Judgment? Well, Edge
+Judgement? Well, Edge
 <$0C>
-if your best friend,\n
-right? What else did\n
-they say?
+is your closest\n
+friend, right? What\n
+else did they say?
 <$00>
 
 
@@ -818,11 +824,11 @@ Veronica:
 //\n蕃判の鏡が、心の悪をみんなみんな照らすんだ。\nそれで黒い騎士が完全になって奇跡が起きる。
 \n
 The Mirror of\n
-Judgment feeds the
+Judgement feeds on
 <$0C>
-evil in the mind, and\n
-when the Black Rider\n
-is whole...
+the evil in the mind,\n
+and when the Black\n
+Rider is whole...
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -862,11 +868,11 @@ Madam Agatha:
 <$0D>
 //\nフェイは美の権化になって残るのね。\nあなたはどうなるの？
 \n
-Hui will go down as\n
-the personification
+Feng will go down as\n
+beauty incarnate, but
 <$0C>
-of beauty, but what\n
-will happen to you?
+what will happen to\n
+you?
 <$00>
 
 
@@ -884,11 +890,11 @@ Veronica:
 <$0D>
 //\nわからないよ！\nそんなことになる前に合わさるんだ。\nアタシひとりになるんだよ！
 \n
-I don't know! I'd\n
-have to merge before
+I don't know! I'll\n
+have to integrate
 <$0C>
-that happens, or I'll\n
-be all alone!
+before that happens,\n
+or I'll be all alone!
 <$00>
 
 
@@ -989,8 +995,8 @@ Madam Agatha:
 All right. So, you\n
 mentioned the word
 <$0C>
-"merge". What does\n
-"merge" mean?
+"integrate". What did\n
+you mean?
 <$00>
 
 
@@ -1008,8 +1014,8 @@ Veronica:
 <$0D>
 //\nいいこと思いついたんだ。\nでも教えないよ。
 \n
-It sounded like a\n
-nice idea, but I
+Oh, it was only a fun\n
+little musing, but I
 <$0C>
 can't tell you more\n
 than that.
@@ -1030,10 +1036,10 @@ Madam Agatha:
 <$0D>
 //\nそのこと、フェイは知ってるのかしら。\nあなたが合わさるって思ってること。
 \n
-I wonder if Hui has\n
+I wonder if Feng has\n
 found out about your
 <$0C>
-thoughts to merge\n
+thoughts to integrate\n
 with her.
 <$00>
 
@@ -1052,11 +1058,12 @@ Veronica:
 <$0D>
 //\nまだ気付いてないよ。\nあの女が変なことになる前に合わさるんだよ。
 \n
-If she has found out,\n
-I didn't notice. I
+If she did find out,\n
+I failed to notice. I
 <$0C>
-should merge before\n
-she crosses the line.
+should integrate\n
+before she crosses\n
+the line.
 <$00>
 
 
@@ -1096,9 +1103,9 @@ Veronica:
 //\nできるよ、できるんだ、\n絶対できるんだ！
 \n
 If anyone can do it,\n
-it's me. She'll see
+it's me. I'll make
 <$0C>
-eye-to-eye!
+her see eye-to-eye!
 <$00>
 
 
@@ -1112,16 +1119,16 @@ eye-to-eye!
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n蕃判の議準なんてないのよ。\n自分が納得できればそれでいいの、分かった？
 \n
-Judgment has no\n
+Judgement has no\n
 standards! If your
 <$0C>
 self is satisfactory,\n
-you're fine,\n
-understand?
+you're fine.\n
+Understand?
 <$00>
 
 
@@ -1139,8 +1146,10 @@ Madam Agatha:
 <$0D>
 //\nそうね。\nあなたは自分の顔に納得してるの？
 \n
-Oh, I do. And is your\n
-face satisfactory?
+Oh, I understand. And\n
+is your face
+<$0C>
+satisfactory?
 <$00>
 
 
@@ -1154,7 +1163,7 @@ face satisfactory?
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nもちろんよ。アマンダほどじゃないけど。\nとにかく私は大丈夫よ。
 \n
@@ -1184,7 +1193,7 @@ people with similarly
 <$0C>
 human faces? Will\n
 they survive\n
-Judgment?
+Judgement?
 <$00>
 
 
@@ -1198,17 +1207,17 @@ Judgment?
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nさあね… ヴァニティフェイスを信じることよ。\nそれは自分を信じること… そうでしょ？
 \n
 Come now, faith in\n
-one's vanity face is
+one's Vanity Face is
 <$0C>
 faith in one's self!
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n顔がきれいになって、心がおだやかになれば\nそれでいいのよ、そうでしょ？
 \n
@@ -1234,10 +1243,10 @@ Madam Agatha:
 <$0D>
 //\nありがとうフェイ。\n今夜はもう帰るわ。
 \n
-...Thank you, Hui.\n
-I'll turn in for the
+...Thank you, Feng.\n
+Let's each turn in
 <$0C>
-night.
+for the night.
 <$00>
 
 
@@ -1251,7 +1260,7 @@ night.
 
 <$11><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nアガタ。ヘロデをこれ以上苦しめないで。\n彼が悪夢の世界から離れられないのは\nあなたのせいじゃないの？
 \n
@@ -1260,11 +1269,11 @@ torment Herod any
 <$0C>
 longer. It's your\n
 fault he can't leave\n
-the world of\n
-nightmares.
+the Land of\n
+Nightmares.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあなたが催眠術で\nよけいなことしてるからじゃないの？
 \n
@@ -1308,7 +1317,7 @@ his sake.
 
 <$11><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nだといいけどね。\nおやすみなさい、マダム・アガタ。\nそれから地球の人もよ。
 \n
@@ -1348,7 +1357,7 @@ It's Laika.
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nおやすみ、ライカ。
 \n

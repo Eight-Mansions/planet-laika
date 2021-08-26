@@ -31,14 +31,14 @@ of a new human!
 #WHB(PTR, $00000509)
 
 //歪命船ホワイトイーグル：
-歪命船White Eagle：
+歪命船White Eagle:
 <$0D>
 //\n分身は合わさり、人格は統合され…
 \n
-Alter egoes, merged!\n
-Personalities,
-<$0C>
-integrated!
+All alter egoes have\n
+merged!\n
+All personalities\n
+have integrated!
 <$0E><$3C><$17><$00>
 
 
@@ -51,13 +51,13 @@ integrated!
 #WHB(PTR, $00000519)
 
 //歪命船ホワイトイーグル：
-歪命船White Eagle：
+歪命船White Eagle:
 <$0D>
 //\n宿命の子は神の手に触れたのじゃな、\nふほふほ。
 \n
-You are a child of\n
-destiny,\n
-touched by the hand\n
+You are a Destined\n
+Child, haww, yes!\n
+Touched by the hand\n
 of God!
 <$0E><$3C><$17><$00>
 
@@ -71,7 +71,7 @@ of God!
 #WHB(PTR, $00000555)
 
 //歪命船ホワイトイーグル：
-歪命船White Eagle：
+歪命船White Eagle:
 <$0D>
 //\nおおお、いよいよか、まさにその時か！
 \n
@@ -89,7 +89,7 @@ long last!
 #WHB(PTR, $00000571)
 
 //葉命船ホワイトイーグル：
-//葉命船White Eagle：
+歪命船White Eagle:
 <$0D>
 //\n新しき人間は高みに昇り、\nやがて落ちていくのかのう…\nふたたび世界が生まれるのかのう…
 \n
@@ -111,7 +111,7 @@ reborn?
 #WHB(PTR, $0000058D)
 
 //歪命愛いじょうぶ？ 
-Are you all right,
+歪命船Are you all right,
 <$0F>
 //…\nうなされてたみたいだけど。
 ?\n
@@ -132,7 +132,7 @@ a bad dream.
 歪命王
 <$0F>
 //は… どうしてここにいるのかなぁ…
-...Why are we here?
+... Why are we here?
 <$0E><$3C><$17><$00>
 
 
@@ -168,24 +168,44 @@ I hope I'm up to the\n
 task.
 <$0E><$5A><$17><$00><$10><$0B>
 //ライカ：
+Laika:
 <$0D>
 //\nエイプリル…
+\n
+April...
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nライカね、
+\n
+Laika, it's you! It's\n
+you,
 <$0F>
 //ね！
+!
 <$00><$10><$0B><$0F>
 //：
+：
 <$0D>
 //\n僕は… どうしたんだろう…\n君のこと、守ってあげられなかった。
+\n
+I don't know what\n
+happened. I'm...sorry
+<$0C>
+I couldn't protect\n
+you.
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nいいのよ、
+\n
+It's okay,
 <$0F>
 //。\nよかった、戻ってきてくれて。
+.\n
+I'm glad you're back.
 <$00>
 
 

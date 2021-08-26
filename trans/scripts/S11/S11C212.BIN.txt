@@ -17,7 +17,7 @@ Gold:
 <$0D>
 //\n今度は女か。
 \n
-Ah, a lady this time?
+Oh, a lady this time?
 <$00>
 
 
@@ -35,7 +35,7 @@ Smokey:
 <$0D>
 //\nひゅーひゅー！
 \n
-Well, helllllo!
+Well, hello!
 <$00>
 
 
@@ -64,9 +64,9 @@ April:
 //\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
 \n
 We heard troubling\n
-reports coming from
+reports about the
 <$0C>
-the planet, and came\n
+environment, and came\n
 only to inspect.
 <$0C><$0B>
 //エイプリル：
@@ -75,9 +75,10 @@ April:
 //\n先遣隊のガリル大佐について何か知らない？
 \n
 Did you ever hear\n
-about Col. Garyl. He
+about Colonel Galil.
 <$0C>
-was on the vanguard\n
+He was on the\n
+original vanguard\n
 unit from Earth.
 <$00>
 
@@ -96,22 +97,23 @@ Gold:
 <$0D>
 //\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
 \n
-Garyl?! At this\n
-point, he's a legend.
+Galil? The guy's a\n
+legend after all that
 <$0C>
-People shined onto\n
-him like a good guy.
+"I am the light" good\n
+boy bullshit years\n
+back.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
 \n
-He sounds like a\n
-weirdo to me. Is he
+He sounds like any\n
+other weirdo to me.
 <$0C>
-really what you came\n
-here for?
+Is he really what you\n
+came here for?
 <$00>
 
 
@@ -130,11 +132,10 @@ Smokey:
 //\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
 \n
 Nah, she's here to\n
-drink! Here at
+drink! Here at SNOB
 <$0C>
-SNOBPLANET, we keep\n
-it going all night\n
-long!
+PLANET, we keep it\n
+going all night long!
 <$00>
 
 
@@ -173,11 +174,11 @@ Gold:
 <$0D>
 //\n人？ お前らの他にもまだいるのか。\nここには誰も来ちゃいねぇ。
 \n
-Members? So there's\n
-more of you? Did you
+"Members"? So there's\n
+more of you? How'd
 <$0C>
-all get here by clown\n
-car?
+you all get here:\n
+clown car?
 <$00>
 
 
@@ -199,18 +200,15 @@ Forget the job,\n
 cutie. Let's hurl
 <$0C>
 your half-wit friend\n
-here into the sun,
+here into the sun.
 <$0C><$0B>
 //スモーキー：
 Smokey:
 <$0D>
 //\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
-\n
-so you can stick\n
-around and blow the
-<$0C>
-roof off with Old\n
-Smokey!
+\You can stick around\n
+and blow the roof off\n
+with Old Smokey!
 <$00>
 
 
@@ -228,8 +226,7 @@ April:
 <$0D>
 //\nいいかげんにしてよ！
 \n
-Knock it off,\n
-dicksplash.
+Knock it off, creep!
 <$00>
 
 
@@ -247,11 +244,11 @@ Smokey:
 <$0D>
 //\nてめぇ！ おとなしくしてりゃ、\nでかい口たたくじゃねぇか、お姉ちゃんよう！
 \n
-What'd you call me!\n
+What'd you call me?!\n
 That's not how a good
 <$0C>
-girl's supposed to\n
-bark, missy!
+piggy's supposed to\n
+squeal, missy!
 <$00>
 
 
@@ -269,10 +266,10 @@ Gold:
 <$0D>
 //\nおい、スモーキー、\n今夜のところはもう帰るんだ。\n騒ぎはごめんだ。
 \n
-Whelp, it's about\n
-time we all called it
+Whelp, about time we\n
+all called it a
 <$0C>
-a night. Smokey,\n
+night. Smokey,\n
 apologize to the\n
 lady.
 <$00>
@@ -292,7 +289,7 @@ Smokey:
 <$0D>
 //\nくそ！ 手前ぇら、いい気になりやがって！
 \n
-Grrr! ...I'll pass.\n
+Grr...! I'll pass.\n
 That smug look on her
 <$0C>
 face says she's fine.
@@ -389,7 +386,7 @@ Then again, anyone\n
 with a brain wouldn't
 <$0C>
 waltz in wearing\n
-those uniforms.
+those uniforms...
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -399,8 +396,8 @@ Gold:
 Bad shit happens to\n
 hunky-dory idiots
 <$0C>
-like you around here.\n
-Hence, "snob".
+like you. Hence the\n
+word, "snob".
 <$00>
 
 
@@ -440,7 +437,7 @@ Gold:
 Sure... Anyways, if\n
 you're looking for
 <$0C>
-people, ask the\n
+people, go ask the\n
 medicine men.
 <$00>
 
@@ -480,7 +477,7 @@ Gold:
 Never heard of them?\n
 They're from Earth,
 <$0C>
-just like you lot.
+just like you.
 <$00>
 
 
@@ -520,11 +517,10 @@ Gold:
 <$0D>
 //\nへん！ 生きてたんだ！？生きてても\n死んでるようなもんだぜ、あいつらは。
 \n
-Hah! alive? I mean,\n
-maybe, but they're as
+Hmph, "alive" is not\n
+the word I'd use for
 <$0C>
-lifeless a bunch\n
-could be.
+that braindead bunch.
 <$00>
 
 

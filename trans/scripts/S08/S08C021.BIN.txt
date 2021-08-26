@@ -13,15 +13,15 @@
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあああ、見たぞ、この先…\nそうだ、鏡だ… ダムだ！
 \n
 Wait! I know I saw\n
 it... Up ahead,
 <$0C>
-right? Yeah...a wall!\n
-A dam!
+right? Yeah, it was a\n
+wall, or...a dam.
 <$00>
 
 
@@ -35,41 +35,44 @@ A dam!
 
 <$12><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n思い出したぞ！トーテムポールみたいなやつだ、\nそいつが俺を
 \n
-I remember! The guy\n
-who looked like a big
+I remember! There was\n
+this totem-like guy,
 <$0C>
-totem pole! He...!
+and he...
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nああああ、いやな息を吹きかけられて…
 \n
-Augh, his foul air\n
-blew me away!
+Ugh, yeah! His foul\n
+breath... It blew me
+<$0C>
+away!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあああ、あれは夢じゃなかったのか、
 \n
-That was no dream\n
-after all! Grr...
+Oi, it's almost like\n
+it was...no dream at
+<$0C>
+all...
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあああ、いやだ、建う、思い出したくない、\nあれはただの夢だったんだ。そうだそうだ！
 \n
-But no! I don't want\n
-to remember! Th-that
+NO! I don't want to\n
+remember! That was a
 <$0C>
-was a dream! It had\n
-to be!
+dream! It HAD to be!
 <$00>
 
 

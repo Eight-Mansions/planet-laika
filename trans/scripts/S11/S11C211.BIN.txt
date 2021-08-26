@@ -17,13 +17,15 @@ Gold:
 <$0D>
 //\n酸索屋さがしてるんなら、見当建いだ。\nこっちじゃねぇ。
 \n
-You want the oxygen\n
-dispensary? Okay,
+Smokey's wandering\n
+about, only wish I
 <$0C>
-I'll tell you where\n
-it is: Not here.
+knew where. At any\n
+rate, sorry about\n
+earlier.
 <$1E>
 //双
+双
 <$00>
 
 
@@ -42,7 +44,7 @@ Gold:
 //\n何の用だ？まだ客は入れねぇ…\nお前が客だとしてもな。
 \n
 Sorry. I'm not taking\n
-customers right now,
+orders right now,
 <$0C>
 even if you came a\n
 long way.
@@ -65,17 +67,30 @@ long way.
 Gold:
 <$0D>
 //\n気を付けな。
+\n
+You'd better be\n
+careful.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nお前みたいな制服野郎をうらんでるやつが\nたくさんいるぜ。
+\n
+There's more than a\n
+handful of guys here
+<$0C>
+who envy you\n
+uniformed types.
 <$1E>
 //双
 <$00><$10><$0B>
 //ゴールド：
+Gold:
 <$0D>
 //\nお前に話すことは何もねぇぜ。
+\n
+I've got nothing else\n
+to say to you.
 <$00>
 
 
@@ -92,13 +107,27 @@ Gold:
 Gold:
 <$0D>
 //\nうろちょろするのが好きなのか？\nこのコロニーのこと、\n何にも知らねぇみたいだな…
+\n
+You like this place\n
+or something? You
+<$0C>
+don't know much about\n
+this colony, do you?
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nお前みたいに制服着てるやつが\n観光できる場所じゃねぇ。\n分かるだろ、分かったらとっとと消えな。
+\n
+It's no the kinda\n
+place you uniformed
+<$0C>
+types can play\n
+tourist in. You\n
+might...disappear.
 <$1E>
 //双
+双
 <$00>
 
 
@@ -199,7 +228,7 @@ Gold:
 Unless you want to\n
 buy a drink, of
 <$0C>
-course
+course.
 <$00>
 
 
@@ -221,17 +250,17 @@ What?! Screw that! I\n
 don't wanna be
 <$0C>
 anywhere near this\n
-loser!
+snob!
 <$0C><$0B>
 //スモーキー：
 Smokey:
 <$0D>
 //\n俺に用があるんだろ、俺をどうしたい？
 \n
-WEll, loser? You\n
-trying to start
+Well? You trying to\n
+start something, you
 <$0C>
-something?
+SNOB?
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -239,7 +268,7 @@ Smokey:
 //\nこのスモーキー様を\nどうしたいって開いてんだよ！
 \n
 If you had business\n
-with old Smokey here,
+with Old Smokey here,
 <$0C>
 you should've said so\n
 sooner!
@@ -322,11 +351,11 @@ Smokey:
 <$0D>
 //\n…どうした、おい！ ちくしょう！
 \n
-The Hell do you want,\n
-huh? For Christ's
+God, what do you\n
+want, huh? For
 <$0C>
-sake, who raised\n
-you?!
+Christ's sake, who\n
+raised you?!
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -336,8 +365,8 @@ Smokey:
 I know! I'll force so\n
 many drinks down your
 <$0C>
-throat, you puke\n
-manners from now on!
+throat, you puke out\n
+some manners!
 <$00>
 
 
@@ -376,10 +405,10 @@ Smokey:
 <$0D>
 //\nうるせぇ！ 気に入らねぇんだ！\nこの野郎が！
 \n
-You don't tell me how\n
-much is enough,
+No one tells old\n
+Smokey how much is
 <$0C>
-Smokey!
+enough!
 <$00>
 
 
@@ -423,7 +452,7 @@ Hehehe, what's wrong?\n
 You scared? You wanna
 <$0C>
 cry for mommy? Then\n
-cry, you bastard!
+cry, bitch!
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -483,138 +512,332 @@ EVERYONE SHUT UP!
 #WHB(PTR, $000005B5)
 
 <$10>
-やめて！
+//やめて！
+Stop!
 <$0E><$1E><$17><$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\n今度は女か。
+//\n今度は女か。
+\n
+Oh, a lady this time?
 <$00><$10><$0B>
-スモーキー：
+//スモーキー：
+Smokey:
 <$0D>
-\nひゅーひゅー！
+//\nひゅーひゅー！
+\n
+Well, hello!
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nあなたたちとケンカするために\n火星に来たんじゃないの。
+//\nあなたたちとケンカするために\n火星に来たんじゃないの。
+\n
+We didn't come to\n
+Mars to start a
+<$0C>
+fight.
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
+//\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
+\n
+We heard troubling\n
+reports about the
+<$0C>
+environment, and came\n
+only to inspect.
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n先遣隊のガリル大佐について、何か知らない？
+//\n先遣隊のガリル大佐について、何か知らない？
+\n
+Did you ever hear\n
+about Colonel Galil.
+<$0C>
+He was on the\n
+original vanguard\n
+unit from Earth.
 <$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
+//\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
+\n
+Galil? The guy's a\n
+legend after all that
+<$0C>
+"I am the light" good\n
+boy bullshit years\n
+back.
 <$0C><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
+//\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
+\n
+He sounds like any\n
+other weirdo to me.
+<$0C>
+Is he really what you\n
+came here for?
 <$00><$11><$0B>
-スモーキー：
+//スモーキー：
+Smokey:
 <$0D>
-\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
+//\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
+\n
+Nah, she's here to\n
+drink! Here at SNOB
+<$0C>
+PLANET, we keep it\n
+going all night long!
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n人をさがしてるの、仲間よ。
+//\n人をさがしてるの、仲間よ。
+\n
+We're also looking\n
+for two of our unit
+<$0C>
+members.
 <$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\n人？ お前らの他にもまだいるのか。\nここには誰も来ちゃいねぇ。
+//\n人？ お前らの他にもまだいるのか。\nここには誰も来ちゃいねぇ。
+\n
+"Members"? So there's\n
+more of you? How'd
+<$0C>
+you all get here:\n
+clown car?
 <$00><$10><$0B>
-スモーキー：
+//スモーキー：
+Smokey:
 <$0D>
-\nお姉ちゃんよう、\nそのうすのろぶちのめしたあと、
+//\nお姉ちゃんよう、\nそのうすのろぶちのめしたあと、
+\n
+Forget the job,\n
+cutie. Let's hurl
+<$0C>
+your half-wit friend\n
+here into the sun.
 <$0C><$0B>
-スモーキー：
+//スモーキー：
+Smokey:
 <$0D>
-\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
+//\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
+\You can stick around\n
+and blow the roof off\n
+with Old Smokey!
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nいいかげんにしてよ！
+//\nいいかげんにしてよ！
+\n
+Knock it off, creep!
 <$00><$10><$0B>
-スモーキー：
+//スモーキー：
+Smokey:
 <$0D>
-\nてめぇ！ おとなしくしてりゃ、\nでかい口たたくじゃねぇか、お姉ちゃんよう！
+//\nてめぇ！ おとなしくしてりゃ、\nでかい口たたくじゃねぇか、お姉ちゃんよう！
+\n
+What'd you call me?!\n
+That's not how a good
+<$0C>
+piggy's supposed to\n
+squeal, missy!
 <$00><$11><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nおい、スモーキー、\n今夜のところはもう帰るんだ。\n騒ぎはごめんだ。
+//\nおい、スモーキー、\n今夜のところはもう帰るんだ。\n騒ぎはごめんだ。
+\n
+Whelp, about time we\n
+all called it a
+<$0C>
+night. Smokey,\n
+apologize to the\n
+lady.
 <$00><$10><$0B>
-スモーキー：
+//スモーキー：
+Smokey:
 <$0D>
-\nくそ！ 手前ぇら、いい気になりやがって！
+//\nくそ！ 手前ぇら、いい気になりやがって！
+\n
+Grr...! I'll pass.\n
+That smug look on her
+<$0C>
+face says she's fine.
 <$00><$10><$0B>
-スモーキー：
+//スモーキー：
+Smokey:
 <$0D>
-\n気取り屋どもが！\nせいぜい気を付けることだな！
+//\n気取り屋どもが！\nせいぜい気を付けることだな！
+\n
+You're all a bunch of\n
+snobs! Damned well
+<$0C>
+better watch your\n
+backs out there.
 <$1E>
+//双
 双
 <$0E><$3C><$17><$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nお前らも帰れ。目障りだ。
+//\nお前らも帰れ。目障りだ。
+\n
+That includes you two\n
+eyesores.
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n仲間のふたりが行方不明なのよ。
+//\n仲間のふたりが行方不明なのよ。
+\n
+Sorry. It's just, two\n
+of our teammates are
+<$0C>
+missing.
 <$00><$11><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nここにはいねぇ。見りゃ分かるだろ。
+//\nここにはいねぇ。見りゃ分かるだろ。
+\n
+They're not here.\n
+Anyone with eyes can
+<$0C>
+see that.
 <$0C><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nここのやつらは、\nお前らみたいに制服着てるやつに\nこっぴどくやられたからな、
+//\nここのやつらは、\nお前らみたいに制服着てるやつに\nこっぴどくやられたからな、
+\n
+Then again, anyone\n
+with a brain wouldn't
+<$0C>
+waltz in wearing\n
+those uniforms...
 <$0C><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nいい気がしねぇんだ。くそったれ！
+//\nいい気がしねぇんだ。くそったれ！
+\n
+Bad shit happens to\n
+hunky-dory idiots
+<$0C>
+like you. Hence the\n
+word, "snob".
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n私たちはあなたたちの言う\nおまわりじゃないのよ。
+//\n私たちはあなたたちの言う\nおまわりじゃないのよ。
+\n
+But you're all wrong!\n
+We're not snobs!
 <$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\n似たようなもんだ。人さがしなら\nメディスンマンのやつらにでも開いてみな。
+//\n似たようなもんだ。人さがしなら\nメディスンマンのやつらにでも開いてみな。
+\n
+Sure... Anyways, if\n
+you're looking for
+<$0C>
+people, go ask the\n
+medicine men.
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nメディスンマン？
+//\nメディスンマン？
+\n
+Medicine men?
 <$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\n知らねぇのか。\nお前らと同じ、地球から来たやつらだ。
+//\n知らねぇのか。\nお前らと同じ、地球から来たやつらだ。
+\n
+Never heard of them?\n
+They're from Earth,
+<$0C>
+just like you.
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n先遣隊ね！ 生きてたんだ！
+//\n先遣隊ね！ 生きてたんだ！
+\n
+That...must be the\n
+members of the
+<$0C>
+vanguard unit! They\n
+ARE alive!
 <$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nへん！ 生きてたんだ！？生きてても\n死んでるようなもんだぜ、あいつらは。
+//\nへん！ 生きてたんだ！？生きてても\n死んでるようなもんだぜ、あいつらは。
+\n
+Hmph, "alive" is not\n
+the word I'd use for
+<$0C>
+that braindead bunch.
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n彼らはどこ？
+//\n彼らはどこ？
+\n
+Where can we meet\n
+them?
 <$00><$10><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
+//\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
+\n
+At the lodge, in\n
+front of the
+<$0C>
+ventilation tower in\n
+the piazza.
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n換気塔の手前ね。ありがとう。
+//\n換気塔の手前ね。ありがとう。
+\n
+In front of the\n
+ventilation tower?
+<$0C>
+Got it. Thank you so\n
+much!
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nライカ、行きましょ。\nメディスンマンに話を開くのよ。
+//\nライカ、行きましょ。\nメディスンマンに話を開くのよ。
+\n
+Okay, Laika. Let's go\n
+talk to the medicine
+<$0C>
+men!
 <$00>
+
 
 
 
@@ -701,12 +924,12 @@ Gold:
 <$0D>
 //\nおい、あんまりうろちょろしてると、\nスモーキーのやつに見つかるぜ。\n騒ぎはごめんだ、ケンカもな。
 \n
-Smokey's wandering\n
-about, but I'd feel
+Don't stick your neck\n
+out too much, or
 <$0C>
-better knowing where.\n
-Anyhow, sorry about\n
-earlier.
+Smokey'll waste no\n
+time giving it a good\n
+chop.
 <$1E>
 //声
 声
@@ -726,8 +949,15 @@ earlier.
 Gold:
 <$0D>
 //\nまずいぜ、スモーキーのやつ、\nあれでおとなしく引き下がるはずがねぇや。
+\n
+Just so you know,\n
+there's no way Smokey
+<$0C>
+backed off for good\n
+after all that.
 <$1E>
 //家
+家
 <$00>
 
 

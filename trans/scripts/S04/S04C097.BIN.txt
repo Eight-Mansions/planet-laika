@@ -13,7 +13,7 @@
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nそうだそうだ！ ただの夢だ！
 \n
@@ -23,14 +23,14 @@ This is still a
 dream!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nお前もいたぞ、ええ？\n何でお前が俺の夢に現れるんだ、ええ？
 \n
 But you're here too,\n
 huh. What are you
 <$0C>
-appearing in my\n
+appearin' in my\n
 dreams for, huh?
 <$00>
 
@@ -45,24 +45,22 @@ dreams for, huh?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nああああ、トーテムポールみたいな怪物が…
 \n
-Brrrrr, that great,\n
-totem-pole like
-<$0C>
-monster...
+Brr, that great,\n
+totem-like monster...
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nああああ、ばらばらになりそうだ！ ひゃー！
 \n
 ...I thought it was\n
 going to tear me
 <$0C>
-apart! Brrr!
+apart! Brr!
 <$00>
 
 
@@ -81,7 +79,7 @@ Madam Agatha:
 //\nどうしたのリトル。 大声を出さないで。
 \n
 What's the matter,\n
-Liter? Please don't
+Little? Please don't
 <$0C>
 shout.
 <$00>
@@ -97,25 +95,25 @@ shout.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあれは夢だ。 そうだ！
 \n
 It's okay! It was\n
-only a dream!
+only a dream, get it?
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n俺はどこにもでかけちゃいない！\n何も見ちゃいない！
 \n
 I didn't GO anywhere,\n
 I didn't SEE
 <$0C>
-anything!
+anythin'!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nちくしょう、あんたの催眠術から\nおかしなことになったんだ。
 \n
@@ -125,12 +123,12 @@ YOUR hypnotherapy
 that messed me up!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n俺をどうするつもりなんだ、ええ？
 \n
 What are you trying\n
-to do to me, lady?
+to do to me, girly?
 <$00>
 
 
@@ -151,18 +149,18 @@ Madam Agatha:
 You're not pulling\n
 the weight to face
 <$0C>
-yourself, Liter.
+yourself, Little.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nうまくいかないとすぐに人のせいにする、\nそれはよくないわ。 索直にならなくちゃ。
 \n
-It's not good form to\n
-fuck up your work and
+It's also impolite to\n
+blame your results on
 <$0C>
-blame the client,\n
-just saying.
+me, just because you\n
+dislike them.
 <$00>
 
 
@@ -176,20 +174,22 @@ just saying.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nちくしょう、俺だ、俺だ、\nここにいるのが俺だ…
 \n
-Dammit! Why me, why\n
-me?! Why am I here?!
+Goddammit! Why me,\n
+why me?! Why am I
+<$0C>
+here?!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nつきまとうな、あああ、失せろ！ 失せろ！
 \n
-And YOU! Get off my\n
-ass, lady! Shoo,
+And YOU, girly! Get\n
+off my ass! Shoo,
 <$0C>
 shoo!
 <$00>
@@ -209,9 +209,10 @@ Madam Agatha:
 <$0D>
 //\nどうしたの？\nリトル…あなた…まさか…
 \n
-What's wrong, Liter?!\n
-You're...you're
+What's wrong,\n
+Little?!
 <$0C>
+You're...you're\n
 turning...
 <$00>
 
@@ -226,16 +227,15 @@ turning...
 
 <$10><$13><$19>
 //あーあー… 邪魔をしないで…
-Listen, don't you\n
-disturb us...
+No... I can't stop\n
+now...!
 <$0C>
 //ねぇ…早く、急いで…\nでなきゃ手おくれになっちゃうよ…\n用済みにすらなれないよう…
-Come on...hurry\n
-up...! If I don't\n
-hurry, I'll be left
+If I don't hurry...\n
+I'll be wiped\n
+out...before ever
 <$0C>
-behind before even\n
-serving my purpose...
+serving my purpose!
 <$00>
 
 
@@ -271,11 +271,11 @@ tell me?
 
 <$10><$13><$19>
 //行かなきゃならないんだ、約束の場所に。\n苦しみの底にあるんだ。
-We have to go, to the\n
-Promised Land. It's\n
-down at the deepest
+I have to go, to the\n
+Promised Land, down\n
+at the deepest depths
 <$0C>
-point of suffering.
+of suffering.
 <$00>
 
 
@@ -296,7 +296,7 @@ Madam Agatha:
 The Promised Land?\n
 Who told you to go
 <$0C>
-there? Was it Garyl?
+there? Was it Galil?
 <$00>
 
 
@@ -310,20 +310,25 @@ there? Was it Garyl?
 
 <$10><$13><$19>
 //この星とだよ、たぶん。 僕の心は\nこの星の深いところにつながってるんだ。
-The planet, maybe. My\n
-mind is connected to\n
-the innermost part of
+Perhaps it was Mars\n
+itself. My mind is\n
+connected to the
 <$0C>
+innermost part of\n
 this planet.
 <$0C>
 //そしてリトルがころびそうなとき、\nつっかえ棒をしてる。
-When Liter starts to\n
+When Little starts to\n
 tumble, I am his\n
-Rock.
+rock.
 <$0C>
 //僕はリバーだよ、\nリトルにとって人生の相棒なんだよ。
-I am River. Liter's\n
-lifetime companion.
+I am Liever, the\n
+other pair of\n
+footprints in the
+<$0C>
+sands of Little's\n
+lifelong journey.
 <$00>
 
 
@@ -339,14 +344,14 @@ lifetime companion.
 //この人も知ってるよ、約束の場所のこと。\nそこに行けば僕は用済みになれるんだ。
 This person knows\n
 about the Promised\n
-Land. If I go, I'll
+Land too. If we go, I
 <$0C>
-be able to serve my\n
-purpose.
+will be able to serve\n
+my purpose.
 <$0C>
 //やっとね、ちゃんとね。
 Finally, finally,\n
-finally.
+finally...
 <$00>
 
 
@@ -368,8 +373,9 @@ I see. You have\n
 crossed paths with
 <$0C>
 the planet, and in\n
-turn, the planet gave\n
-you a recollection.
+return, the planet\n
+granted you\n
+recollection.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -387,11 +393,12 @@ Madam Agatha:
 <$0D>
 //\nリトルは罪の意識に\nつぶされそうになっているのね。
 \n
-Liter realizes he is\n
-about to be crushed
+Little realizes he\n
+that, despite this,
 <$0C>
-by the weight of that\n
-sin.
+he is about to be\n
+crushed by the weight\n
+of that sin.
 <$00>
 
 
@@ -405,29 +412,44 @@ sin.
 
 <$10><$13><$19>
 //僕は見たよ、ぼんやりとだけど。 リトルが\n双子たちに靴下を配るのを。 ぼんやりと。
-I saw it, but\n
-vaguely. Liter handed\n
-out stockings to
+I saw it only\n
+vaguely. It was a\n
+hazy image, but
 <$0C>
-various twins. It's a\n
-faint image.
+Little handed out\n
+stockings to various\n
+twins.
 <$0C>
 //あああ、もう行くんだ、でなきゃリトルが\nなくなってしまう。そうなるとこの僕も…
-...I have to go now.\n
-If I don't, Liter\n
-will die, and I'll
+I have to go to the\n
+Promised Land. If I\n
+don't, Little will be
 <$0C>
-follow suit.
+wiped out, and I\n
+shall follow.
 <$00><$10><$0B>
 //マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nリバーね…\nライカが呼ばれてるって、どういうことなの？
+\n
+Liever, you seem to\n
+suggest that someone
+<$0C>
+is calling out to\n
+Laika.
 <$0C><$0B>
 //マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n誰に呼ばれてるの？
+\n
+Who is calling them?
 <$00><$10><$13><$19>
 //この星だよ、あああ、行くんだ！\n行くんだ行くんだ、ああ、あーあー…
+It's the planet.\n
+It's...oh! I'm going\n
+again, I'm...owwe...!
 <$00>
 
 
@@ -441,12 +463,12 @@ follow suit.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n取れた…取れたぞ、何かが取れた。
 \n
 I...spaced out.\n
-Something made me
+Somethin' made me
 <$0C>
 space out.
 <$00>
@@ -462,24 +484,35 @@ space out.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n押したか？ あんた俺の頭の中を押しただろ。\nそれで取れたんだ、そうだそうだ…
 \n
-What happened, did\n
-you hit me on the
+Oi, what'd you do,\n
+hit me on the head?
 <$0C>
-head? I get it, I get\n
-it. That's why I\n
-spaced out.
+Yeah, yeah. THAT'S\n
+why I spaced out.
 <$00><$10><$0B>
 //マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nこの星は思ったよりひどいことに\nなっているようね。
+\n
+This planet is\n
+crueler than I
+<$0C>
+thought.
 <$0C><$0B>
 //マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nリトルは罪のいしきに\n今にも押しつぶされそうよ…
+\n
+Little is about to be\n
+crushed by the weight
+<$0C>
+of his sins.
 <$00>
 
 
@@ -498,7 +531,7 @@ Madam Agatha:
 //\nリトルだけじゃない…
 \n
 This problem isn't\n
-just Liter.
+just Little.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -516,7 +549,7 @@ Madam Agatha:
 <$0D>
 //\nそれがガリルのねらいなのよ。
 \n
-That was Garyl's goal\n
+That was Galil's goal\n
 all along.
 <$00>
 
@@ -539,7 +572,7 @@ Don't leave the\n
 darkness to settle in
 <$0C>
 your mind. You have\n
-to know more about\n
+to uncover more about\n
 yourself.
 <$0C><$0B>
 //マダム・アガタ：
@@ -548,19 +581,21 @@ Madam Agatha:
 //\n心のありのままを見つける旅をするの。\nそして気づきを得るの。
 \n
 Go on a journey to\n
-discover the truth of
+shed light on the
 <$0C>
-your own mind, and\n
-you will realize.
+truth of your own\n
+mind, and you will\n
+realize.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nそれでこの星の使者になれるのよ。
 \n
-That realization is\n
-key to becoming a
+That realization you\n
+have then will be key
 <$0C>
+to you becoming a\n
 messenger of this\n
 planet.
 <$00>
@@ -611,7 +646,7 @@ Madam Agatha:
 <$0D>
 //\n恐がることはないわ、心に向き合うの。
 \n
-Do not be agraid to\n
+Do not be afraid to\n
 face your own mind.
 <$0C><$0B>
 //マダム・アガタ：
@@ -620,7 +655,7 @@ Madam Agatha:
 //\n心の奥にしまい込んだ\n小さな声に耳をかたむけるのよ。
 \n
 Listen to the little\n
-voice hidden deep in
+voices laced deep in
 <$0C>
 your mind.
 <$0C><$0B>
@@ -632,7 +667,7 @@ Madam Agatha:
 Oh, dear... Now I'm\n
 starting to sound
 <$0C>
-like Hui, aren't I.
+like Feng, aren't I.
 <$1E>
 //鋭
 鋭

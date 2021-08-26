@@ -17,21 +17,22 @@ Tommy:
 <$0D>
 //\nようよう、兄ちゃんよう、ブリックロードに\n出る扉、あれ開けられねぇのか。
 \n
-Yo, Buddy. You can\n
+Hey, Buddy. You can\n
 open the door to
 <$0C>
 Brick Road, can't\n
-you? Thing's shut.
+you? Thing's shut,\n
+a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n閉まりやがったんだ。クロウのやつもいたぞ。\n一緒に来たのか？
 \n
-Crow was around here\n
-too. You come here
+I saw Crow around\n
+here too. Did you
 <$0C>
-with him?
+come here with him?
 <$00>
 
 
@@ -48,11 +49,10 @@ with him?
 Tommy:
 <$0D>
 //\nよう、俺はなぁ、あの赤い家のとこだ、そこで、\nああ、くそったれ！ 気が遠くなりやがった。
-\n
 I was at that red\n
-house before,
+house before,\n
+when...BAM! I
 <$0C>
-when...bam! I\n
 fainted!
 <$0C><$0B>
 //トミー：
@@ -63,7 +63,9 @@ Tommy:
 Next thing I know,\n
 I'm over by that
 <$0C>
-signpost. So bizarre.
+signpost. The whole\n
+thing was bizarre,\n
+a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -89,11 +91,11 @@ Tommy:
 <$0D>
 //\nなあ、アイスレイクから古い坑道がのびてる、\nコロニーにつながってるんだ。
 \n
-Check this. It's the\n
-old mineshaft that
+Check this out. It's\n
+the old mineshaft
 <$0C>
-runs from Ice Lake\n
-and into the colony.
+that runs from Ice\n
+Lake to the colony.
 <$00>
 
 
@@ -114,7 +116,7 @@ Tommy:
 But the gate's\n
 closed. Just our
 <$0C>
-luck, huh.
+luck, a-yup.
 <$1E>
 //家
 家
@@ -138,8 +140,8 @@ Tommy:
 If only we could\n
 squeeze through this
 <$0C>
-thing. I just want to\n
-get to Ice Lake.
+thing and get to Ice\n
+Lake.
 <$1E>
 //家
 家
@@ -160,10 +162,10 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう…\nお前、さっきの兄ちゃん…だよな。
 \n
-Hey, bud! Err...other\n
-bud from before...I
+Hey, comrade! Wait.\n
+We spoke
 <$0C>
-mean.
+earlier...right?
 <$00>
 
 
@@ -182,9 +184,9 @@ Tommy:
 //\nおう？ 何だ、この惑じは… おうおう？
 \n
 Hm? Hey, I'm sensing\n
-something, uh...what
+something, but...what
 <$0C>
-is that?
+is it?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -194,7 +196,7 @@ Tommy:
 I feel like I'm gonna\n
 pass out again. What
 <$0C>
-the Hell, bud...
+the heck...?
 <$00>
 
 
@@ -212,11 +214,11 @@ Rummy:
 <$0D>
 //\nあーああーあ…僕だな、ラミーだな。\n君は電波の友だちだな。ここは、どこだな…
 \n
-Woohoohoo... I'm-uhm,\n
-Rummy! Are you friend
+Aaaaah! I'm...Rummy!\n
+YOU! Are you friend
 <$0C>
-to all the-uhm, radio\n
-waves?
+to all the radio\n
+waves...?
 <$00>
 
 
@@ -239,10 +241,10 @@ Rummy:
 //\nリモート操作だな、ゲートは\n緊急事態レベル３のロックがかかってるな。
 \n
 This is remote\n
-operated. The gates
+operated. The gate's
 <$0C>
-under an emergency\n
-level 3 lock.
+under a Level 3\n
+emergency lock, a-ha.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -291,10 +293,10 @@ Chloe:
 <$0D>
 //\n見えないの…彼女だけは…\nすごく遠いのよ。
 \n
-She's the only one I\n
-can't... She's too
+That woman is the\n
+only one I can't...
 <$0C>
-far...
+She's too far...
 <$00>
 
 
@@ -311,6 +313,12 @@ far...
 Phoenix:
 <$0D>
 //\nエイプリルのことが気になるんだ。\n何か関係ある、この星と関係あるんだ。
+\n
+April makes me\n
+curious. She must be
+<$0C>
+tethered to the\n
+planet somehow.
 <$00>
 
 
@@ -327,6 +335,9 @@ Phoenix:
 Chloe:
 <$0D>
 //\n見えないの。\n彼女のことは見えてこないのよ。
+\n
+I can't see her. I\n
+can't see that woman.
 <$00>
 
 
@@ -343,16 +354,34 @@ Chloe:
 Phoenix:
 <$0D>
 //\n不思議なんだ、この火星には\nエイプリルの思い出が残されている…
+\n
+It's strange to me\n
+that Mars has
+<$0C>
+memories of April.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\n銀のカプセルはエイプリルを記憶していた。\n土に埋まっていたのに。どういうことなんだ？
+\n
+The silver capsule\n
+shared a memory of
+<$0C>
+April, even though it\n
+was buried in the\n
+ground. Why?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nアガタがウソを付いているのか…\n物の記憶だなんて。
+\n
+Was Agatha lying when\n
+she said items
+<$0C>
+carried memories of\n
+people?
 <$00>
 
 
@@ -369,16 +398,32 @@ Phoenix:
 Chloe:
 <$0D>
 //\n分からないわ。\nとにかくエイプリルは不思議なの、\n私にはそれしか言えないわ。
+\n
+I don't know. April\n
+is a mystery on all
+<$0C>
+counts. That's all I\n
+can say.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nアガタについては…\nそうね、彼女はこの星の意志に\n触れてから人が変わったのよ。
+\n
+As for Agatha...\n
+Well, she has changed
+<$0C>
+much since being\n
+touched by the will\n
+of the planet.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\n憑かれたのね、きっと。
+\n
+She is certainly\n
+possessed.
 <$00>
 
 
@@ -397,7 +442,9 @@ Chloe:
 //\n私の目を見て…目を見るのよ…
 \n
 Look into my eyes...\n
-Look into my eyes...
+I am looking into
+<$0C>
+your eyes...
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -419,7 +466,7 @@ Of course, you can't\n
 feel it without a
 <$0C>
 body now, can you,\n
-Phoenix.
+Phoenix?
 <$00>
 
 
@@ -437,21 +484,20 @@ Chloe:
 <$0D>
 //\nどうしたの… フェニックス…\nアーモンドの香りがしない…
 \n
-Are you listening,\n
-Phoenix...? Wait, why
+Ahhh... Phoenix...\n
+You smell like
 <$0C>
-don't you smell like\n
-almonds?
+almonds...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nあなたは別な人なのね、きっとそうよ。
 \n
-Ah, you're someone\n
-else. I'm sure of it
+I see, then. You're\n
+someone else. I'm
 <$0C>
-now.
+sure of it now.
 <$00>
 
 
@@ -500,6 +546,11 @@ him.
 Spacer:
 <$0D>
 //\n君が…タトラー船長の…\nそんなバカな！
+\n
+Wait, you're Captain\n
+Tatler's... No, that
+<$0C>
+idiot!
 <$00>
 
 
@@ -516,6 +567,12 @@ Spacer:
 Chloe:
 <$0D>
 //\nフェニックスじゃないのね…ニセモノなのね。\nあなたとは気が合わないわ。
+\n
+You are not Phoenix.\n
+You are an imposter.
+<$0C>
+We are not on the\n
+same level.
 <$00>
 
 
@@ -532,6 +589,9 @@ Chloe:
 Chloe:
 <$0D>
 //\n余計なことを…\n私は現実だ、私がオリジナルだ。
+\n
+Listen... I am real.\n
+I am the original.
 <$00>
 
 
@@ -548,6 +608,9 @@ Chloe:
 Spacer:
 <$0D>
 //\nこれは幻だ、そうに建いない。
+\n
+This is an illusion.\n
+It has to be.
 <$00>
 
 
@@ -564,6 +627,9 @@ Spacer:
 Chloe:
 <$0D>
 //\n余計なことを…\n私は現実だ、私がオリジナルだ。
+\n
+Listen... I am real.\n
+I am the original.
 <$00>
 
 
@@ -581,10 +647,10 @@ Ernest:
 <$0D>
 //\nおお…可愛いじゃねぇか…\nミーシャみたいだぜ。
 \n
-Oh, aren't you cute.\n
+Hmm, this one's cute.\n
 Almost reminds me of
 <$0C>
-Misha.
+Masha.
 <$00>
 
 
@@ -603,7 +669,7 @@ Chloe:
 //\nこんにちは。\nミーシャじゃないよ、クロエよ。
 \n
 Hello. My name is not\n
-Misha, but Chloe.
+Masha. It's Chloe.
 <$00>
 
 
@@ -628,6 +694,11 @@ name.
 Ernest:
 <$0D>
 //\nなぁ、クロエちゃんよ、\nそこにある顔は、そりゃ何だ？
+\n
+So, tell me, Chloe.\n
+What are those faces
+<$0C>
+you have there?
 <$00>
 
 
@@ -666,6 +737,8 @@ Ernest:
 Ernest:
 <$0D>
 //\n用済みって、何だ？
+\n
+And what's that?
 <$00>
 
 
@@ -682,6 +755,11 @@ Ernest:
 Chloe:
 <$0D>
 //\n用済みは用済みよ。\nあなたもなりたいの？
+\n
+Their reason for\n
+living. Would you
+<$0C>
+like one too?
 <$00>
 
 
@@ -698,6 +776,9 @@ Chloe:
 Ernest:
 <$0D>
 //\nあ…いや、\nよしとくぜ。
+\n
+Err...no, I'm\n
+covered.
 <$00>
 
 
@@ -714,6 +795,12 @@ Ernest:
 Ernest:
 <$0D>
 //\nなあ、ここは火事だったんじゃねぇのか…\n化かされてるみたいだぜ。
+\n
+If one you burned in\n
+the fire before, this
+<$0C>
+you has to be an\n
+illusion.
 <$00>
 
 
@@ -730,6 +817,9 @@ Ernest:
 Chloe:
 <$0D>
 //\n化かされてなんかいないわ、\nあなたの見たものが現実なのよ。
+\n
+This is no illusion.\n
+What you see is real.
 <$00>
 
 
@@ -746,6 +836,9 @@ Chloe:
 Yolanda:
 <$0D>
 //\nあらクロエちゃん…\nその顔はどうしたの？
+\n
+Oh! Chloe... What's\n
+with the faces?
 <$00>
 
 
@@ -784,6 +877,12 @@ Yolanda:
 Yolanda:
 <$0D>
 //\nそうなの…用済み…\n今はあなたのものなのね。
+\n
+I see... So they're\n
+obsolete as soon as
+<$0C>
+you're done with\n
+them.
 <$00>
 
 
@@ -800,6 +899,9 @@ Yolanda:
 Chloe:
 <$0D>
 //\nそうよ。\nもらったの。
+\n
+That's right. They\n
+are mine.
 <$00>
 
 
@@ -816,6 +918,12 @@ Chloe:
 Yolanda:
 <$0D>
 //\nここは何でこんなにメルヘンチックなの…\n誰かの幻覚なのね。
+\n
+It looks like a fairy\n
+tale here. Someone
+<$0C>
+must be\n
+hallucinating.
 <$00>
 
 
@@ -832,6 +940,12 @@ Yolanda:
 Chloe:
 <$0D>
 //\n幻覚なんかじゃないわ、これが本当なの。\nあなたの見たものが真実なのよ。
+\n
+This is no\n
+hallucination. This
+<$0C>
+is the truth. What\n
+you see is real.
 <$00>
 
 
@@ -848,8 +962,13 @@ Chloe:
 Spacer:
 <$0D>
 //\n開いてくれ、さっきのことだ、\nここで君と話して、
+\n
+Tell me, what was up\n
+with that
 <$0F>
 //は\nどうなったんだ？
+person you were\n
+talking to earlier?
 <$00>
 
 
@@ -866,6 +985,13 @@ Spacer:
 Chloe:
 <$0D>
 //\nせめてるの、私のせいなの？\nあなたはニセモノなのよ。
+\n
+Who wants to know?\n
+You're not trying to
+<$0C>
+frame me for\n
+anything, are you,\n
+you imposter?
 <$00>
 
 
@@ -882,6 +1008,12 @@ Chloe:
 Spacer:
 <$0D>
 //\n私は実体だ、仮でもなんでもない！\nあああ、さっきは誰と話してたんだ？
+\n
+I'm no imposter. I'm\n
+real! Well, come on!
+<$0C>
+Who were you talking\n
+to earlier?
 <$00>
 
 
@@ -898,6 +1030,9 @@ Spacer:
 Spacer:
 <$0D>
 //\n教えてくれ、\nさっき君と話してたのは誰なんだ？
+\n
+Tell me, who were you\n
+talking to earlier?
 <$00>
 
 
@@ -914,6 +1049,12 @@ Spacer:
 Chloe:
 <$0D>
 //\n私は実体だ、仮でもなんでもない。\nあああ、さっきは誰と話してたんだ？
+\n
+I am real. This is no\n
+illusion. So, who
+<$0C>
+were you speaking to\n
+earlier?
 <$00>
 
 

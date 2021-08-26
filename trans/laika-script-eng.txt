@@ -4298,8 +4298,8 @@ Noon:
 //\nおお、あれだ！\n避難小屋が見えたぞ！おほほー！
 \nWhelp, there it is! I see the safe 'ouse!
 <$00><$00><$11>
-//子  
-子   
+//子     
+子     
 <$0D>
 //はあ、はあ、だめだ！
 Haah, haah! Damn!
@@ -4318,8 +4318,8 @@ I'm feeling all twisted up...!\n
 //F:orig\S02\S02C111.BIN
 //P:00002277
 <$00><$11>
-//子  
-子    
+//子      
+子      
 <$0D>
 //ああああ、何だ？
 Augh! W-what's that?!
@@ -4328,8 +4328,8 @@ Augh! W-what's that?!
 //F:orig\S02\S02C111.BIN
 //P:0000228E
 <$00><$11>
-//子 
-子  
+//子   
+子   
 <$0D>
 //ああああ、いやだ、来るな！\n
 No! NO, GET AWAY!\n
@@ -4344,8 +4344,8 @@ Don't come any closer!
 //F:orig\S02\S02C111.BIN
 //P:000022B9
 <$00><$11>
-//子     
-子 
+//子      
+子      
 <$0D>
 //ママ…ママなの？
 Mummy? Mummy, is that you?
@@ -4354,8 +4354,8 @@ Mummy? Mummy, is that you?
 //F:orig\S02\S02C111.BIN
 //P:000022D0
 <$00><$11>
-//子  
-子 
+//子   
+子   
 <$0D>
 //どうして…僕のせいなの…
 Why, Mummy? Was I bad again?
@@ -5941,7 +5941,6 @@ Yang:
 <$0D>
 //\nいきなり何だよ。
 \nYou scared me, doing that! How did you open the door?!
-
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -24054,8 +24053,8 @@ Noble Rock:
 
 //F:orig\S05\S05C041.BIN
 //P:00003C1E
-//所 
-所    
+//所     
+所     
 <$0D>
 //地球から来たのか？
 You came from Earth?
@@ -28034,7 +28033,7 @@ Give me-! Give me that, Godammit!
 //アタシのヌーンや、パパは病気だったのよ…\nもう洽らないの。 分かった…
 My little Noon. Papa was sick. He was never going to get better. You understand, don't you?
 <$0C>
-//仕方ないことなの…\nふふふふ、仕方ないのよ、ヌーン、\nでなきゃアタシ                                                                                       が殺されてた…
+//仕方ないことなの…\nふふふふ、仕方ないのよ、ヌーン、\nでなきゃアタシが殺されてた…
 There was no other way... Tsk, tsk. No other way, Noon. Otherwise, I would have died instead.
 <$0C>
 //はははは、そうよ！\nアタシが死んだ方がよかったの？\nヌーン！

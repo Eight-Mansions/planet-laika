@@ -15,9 +15,9 @@
 //。\n君の思い出はこの部屋から先にはない、\nそういうことなんだな。
 .\n
 Your own memories do\n
-not go beyond this
+not expand beyond
 <$0C>
-room. That much is\n
+this room. It is\n
 true.
 <$00>
 
@@ -32,14 +32,15 @@ true.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n失った時間を取り戻そうなんて考えるな。\n間建ったよこしまな考えだ。
 \n
 There's no regaining\n
-lost time. It's
+lost time. It's a
 <$0C>
-really a vile idea.
+vile thing to\n
+romanticize.
 <$00>
 
 
@@ -72,8 +73,8 @@ Noon:
 <$0D>
 //\n戻ってもだめだ、何も残ってないぜ。\nみんな消えて無くなっちまうんだ。
 \n
-You can't come back\n
-here. There's nothing
+There's no going\n
+back. There's nothing
 <$0C>
 left. When we're\n
 gone, we're gone.

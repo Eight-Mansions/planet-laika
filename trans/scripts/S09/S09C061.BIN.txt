@@ -17,10 +17,8 @@ Spacer:
 <$0D>
 //\nユニバーサルマン…\nあなたがユニバーサルマン…
 \n
-Universalman...\n
-You're
-<$0C>
-Universalman...
+Universal Man...\n
+You're Universal Man.
 <$00>
 
 
@@ -34,21 +32,22 @@ Universalman...
 
 <$10><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nあああ私だ… 私は破れたのだ。
 \n
-IIIIII...am brokennn.
+I...am brokennn...
 <$0C><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nガリルに破れ、力をうばわれた…\nシークレットパワーを…
 \n
-Gaaaryl bested me,\n
-and stoooole...the
+Galiiil defeeeated\n
+me, and
 <$0C>
-Secret Powerrr...
+stoooole...the secret\n
+powerrr...
 <$00>
 
 
@@ -66,15 +65,17 @@ Spacer:
 <$0D>
 //\nガリルは全ての預言を得たのか？
 \n
-Did Garyl collect all\n
-of the prophecies?!
+Has Galil collected\n
+all of the
+<$0C>
+prophecies?!
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nもう間に合わないのか？\nどうなんだ、教えてくれ！
 \n
-No, we're not too\n
+Dangit, we're not too\n
 late, are we? Come
 <$0C>
 on, answer me!
@@ -91,13 +92,14 @@ on, answer me!
 
 <$10><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nあああ… ガリルのやつ…\n完全なる善となるべく… あああ…
 \n
-Gaaa...Garyl...seeks\n
-to become pure
+\n
+Gaaa...Galiiiil...seeks
 <$0C>
+to become pure\n
 gooooood...
 <$00>
 
@@ -119,8 +121,9 @@ Spacer:
 Where can we go to\n
 find all the
 <$0C>
-prophecies? Is it\n
-even possible?
+prophecies? Is\n
+finding them all even\n
+possible?
 <$00>
 
 
@@ -134,17 +137,17 @@ even possible?
 
 <$10><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nひとつはここに、私のうちに。\n残るは死者に…
 \n
 Onnne is here, in\n
-me... The rest are
+me... The rest are in
 <$0C>
-deaaaad...
+the deaaaad...
 <$0C><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nあああ、やはり私は死と\n向き合わなければならないのか！
 \n
@@ -154,12 +157,12 @@ this, even I cannot
 escape deaaaath...
 <$0C><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\n生ではなく、死に！
 \n
 I'm not even\n
-alive...I'mmmm...dying!
+alive...I'mmmm...dyiiiiing!
 <$00>
 
 
@@ -192,14 +195,14 @@ prophecy!
 
 <$11><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nあああ…\n呪いの火に焼きつくされてもいいのか…\nあああ…
 \n
 Ahhh...yes, I can\n
 burn in the flames
 <$0C>
-of...maledictiooooon....
+of...maledictionnnn....
 <$00>
 
 
@@ -212,10 +215,19 @@ of...maledictiooooon....
 #WHB(PTR, $00002445)
 
 <$10><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nなんと、心の中から開こえてくるようだ…\nこれがエレミヤの預言か。
+//\nなんと、心の中から開こえてくるようだ…\nこれがエレミヤの預言か。
+\n
+It...feels like my\n
+mind's being pulled
+<$0C>
+open in some way. Is\n
+this Jeremiah's\n
+prophecy?
 <$00>
+
 
 
 
@@ -226,12 +238,26 @@ of...maledictiooooon....
 #WHB(PTR, $00002449)
 
 <$10><$13><$18><$08>
-カオスの中にマコトに\n主体的な者が現れるであろう。
+//カオスの中にマコトに\n主体的な者が現れるであろう。
+May there be one who\n
+boldly siezes the\n
+truth within the
 <$0C>
-自らのタマシイを浄化して、\nいかり、おごり、さげすみなど、\n闇の諸力から解放された存在として、
+chaos.
 <$0C>
-光の中に輝くであろう。
+//自らのタマシイを浄化して、\nいかり、おごり、さげすみなど、\n闇の諸力から解放された存在として、
+May he purify his own\n
+spirit, and free\n
+himself from the dark
+<$0C>
+hooks of anger, pride\n
+and envy.
+<$0C>
+//光の中に輝くであろう。
+That he may shine in\n
+that light.
 <$05><$00>
+
 
 
 
@@ -242,12 +268,17 @@ of...maledictiooooon....
 #WHB(PTR, $0000244D)
 
 <$10>
+//\n
 \n
 <$0B>
-      
+//      
+
 <$0D>
-第一の預言を得た。
+//第一の預言を得た。
+So sayeth the first\n
+prophecy.
 <$00>
+
 
 
 
@@ -259,26 +290,26 @@ of...maledictiooooon....
 
 <$10><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\n死の動機がうずく… 岩よ、私の岩よ…
 \n
 Myyyy reason for\n
-dying is...this
+dying...lead me to
 <$0C>
-aaaaching rock. My\n
-rock...
+this...aaaaching\n
+rock. Myyyy rock...
 <$0C><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\n死と向き合うために英気を養わねばならぬとは…\n皮肉なことよ。
 \n
 How ironiiic...I\n
 thought a hearrrt of
 <$0C>
-stone...defieeed\n
-death...
+stone...wouuuuld keep\n
+me from deaaath...
 <$00>
 
 
@@ -296,12 +327,11 @@ Spacer:
 <$0D>
 //\n死の動機… 死の動機… イヤな言葉だ。
 \n
-A reason for\n
-dying...as in, "a
+A reason for dying...\n
+He didn't have a lust
 <$0C>
-lust for death",\n
-maybe? That's\n
-unsettling.
+for death, did he?\n
+That's unsettling.
 <$00>
 
 

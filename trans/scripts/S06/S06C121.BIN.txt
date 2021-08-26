@@ -31,7 +31,7 @@ She's engulfed!
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nライカ君、頼む、クロエちゃんを！
 \n
@@ -54,7 +54,7 @@ Ernest:
 <$0D>
 //\n俺は…
 \n
-I SAID-!
+I SAID...
 <$00>
 
 
@@ -68,7 +68,7 @@ I SAID-!
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nクロエちゃーん、今そこに行くからねー
 \n
@@ -106,7 +106,7 @@ blue stuff?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nバリアだ。\nオリンピア２号が守ってくれてる。
 \n
@@ -127,7 +127,7 @@ protecting her.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nああ、燃える燃える、クロエちゃんが、\n燃えてしまうぅぅぅぅ…
 \n
@@ -155,8 +155,11 @@ Olympia #2:
 <$0D>
 //\nホノオがオソってきます。\nオンドはアツいです。
 \n
-FLAMES, RISING.\n
-TEMPERATURES, RISING.
+THE FLAMES ARE\n
+RISING. THE
+<$0C>
+TEMPERATURES ARE\n
+RISING.
 <$00>
 
 
@@ -170,7 +173,7 @@ TEMPERATURES, RISING.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n早く！ ライカ君、急いでくれたまえ！\n私は表で待ってるからね！
 \n
@@ -209,7 +212,7 @@ Hey, wait!
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n燃える、燃える、何とかしてくれ。
 \n
@@ -235,9 +238,7 @@ Ernest:
 //\nくそったれ！ 役に立たねぇ野郎だぜ！
 \n
 Some help you are,\n
-good for nothing
-<$0C>
-mongrel.
+good for nothing.
 <$00>
 
 
@@ -317,6 +318,7 @@ the flame?!
 
 <$10><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
@@ -324,10 +326,10 @@ Olympia #2:
 //\nホノオがハきダすネンパをはねカエすのです。\nココロのチカラでタタカうのです。
 \n
 THE FLAMES WILL FIRE\n
-"PULS" AT YOU. REPEL
+PULSES AT YOU. REPEL
 <$0C>
-THE PULS WITH THE\n
-POWER OF YOUR SPIRIT.
+THEM WITH THE POWER\n
+OF YOUR HEART.
 <$00>
 
 
@@ -345,10 +347,8 @@ Ernest:
 <$0D>
 //\nはね返すんだな、念波だな。
 \n
-Okay, so I'm to\n
-volley the mind
-<$0C>
-bullets?
+Okay, so I volley the\n
+mind bullets?
 <$00>
 
 
@@ -362,6 +362,7 @@ bullets?
 
 <$11><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
@@ -372,12 +373,19 @@ CORRECT, BUT TIMING\n
 IS CRUCUAL.
 <$00><$10><$13><$13><$0B>
 //アーネスト：
+Ernest:
 <$0D>
 //\nなんとか、やっつけたぜ。
+\n
+I think I got it.
 <$00><$10><$0B>
 //クロエ：
+Chloe:
 <$0D>
 //\n助けてくれて、ありがとう。
+\n
+Thank you for saving\n
+me.
 <$00>
 
 
@@ -395,10 +403,10 @@ Chloe:
 <$0D>
 //\n助けてくれてありがとう…\nはじめてよ…人に助けられたの…
 \n
-Thank you for helping\n
+Thank you for saving\n
 me. It's the first
 <$0C>
-time anyone's ever\n
+time anyone has ever\n
 helped me.
 <$00>
 
@@ -431,8 +439,8 @@ Chloe:
 And I know about\n
 Phoenix. You are all
 <$0C>
-like me, you all have\n
-no bodies.
+like me... You all\n
+have no bodies.
 <$00>
 
 
@@ -450,7 +458,7 @@ Ernest:
 <$0D>
 //\nおう、何だ、びっくりするじゃねぇか！
 \n
-Whoa, hang on. That\n
+Woah, hang on. That\n
 doesn't scare you?
 <$00>
 
@@ -465,16 +473,15 @@ doesn't scare you?
 
 <$10><$13>
 //（
+（
 <$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nワタシはツカれたので、\nココロがスコしミダれています。
 \n
-I AM FATIGUED. MY\n
-SPIRIT IS IN SOME
-<$0C>
-DISARRAY.
+I AM TIRED. MY HEART\n
+IS IN DISARRAY.
 <$00>
 
 
@@ -488,7 +495,7 @@ DISARRAY.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nやあやあやあ、ライカ君！ よくやった！\n君のことは前から頼りにしてたんだ！
 \n
@@ -527,14 +534,14 @@ I'm...Ernest.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nあああ、クロエちゃん！
 \n
-Ohh, Chloe!
+Ohhh, Chloe!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nあはは！ 平気だ、平気。\nクロエちゃんが平気だ！
 \n

@@ -17,10 +17,8 @@ Red:
 <$0D>
 //\nお前か！\nおい、コスマスにちょっかい出したのは？
 \n
-Hey, you! What the\n
-Hell did you do with
-<$0C>
-Kosmas?
+Hey, you! What did\n
+you do with Cosmas?
 <$00>
 
 
@@ -38,20 +36,21 @@ Red:
 <$0D>
 //\nコスマスをどこに連れて行った？\nさっきまで部屋にいたんだ。
 \n
-Where is he, huh? I\n
-went to check in his
+Where is he, huh? He\n
+was in his room just
 <$0C>
-room earlier.
+a moment ago!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nマラケシュに開いたら\nお前がうろちょろしてたってよ。
 \n
-When I didn't see\n
-him, Marrakesh told
+When I checked and\n
+didn't see him,
 <$0C>
-me of your creeping\n
+Marrakech told me\n
+you've been creeping\n
 around.
 <$0C><$0B>
 //レッド：
@@ -59,10 +58,11 @@ Red:
 <$0D>
 //\n余計なことしやがったら、\n俺が許さねぇ。
 \n
-If you had anything\n
-to do with this, I'll
+Grr, if you had\n
+anything to do with
 <$0C>
-end you right here.
+this, I'll end you\n
+right here!
 <$00>
 
 
@@ -80,10 +80,11 @@ Red:
 <$0D>
 //\nコスマスはあと一歩で完成するんだ、\n分かったか、くそ！
 \n
-Grr... I'm hot on his\n
-tail, understand?
+Whatever. I'm hot on\n
+his tail, understand?
 <$0C>
-You'd better.
+You'd BETTER\n
+understand.
 <$1E>
 //中
 中

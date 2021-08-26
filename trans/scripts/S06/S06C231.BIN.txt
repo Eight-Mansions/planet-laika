@@ -12,10 +12,17 @@
 #WHB(PTR, $0000042D)
 
 <$12><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\n俺は…アーネスト…ミーシャを守る…\nミーシャ…俺の妹…
+//\n俺は…アーネスト…ミーシャを守る…\nミーシャ…俺の妹…
+\n
+I, Ernest...will\n
+protect...\n
+...my sister,\n
+Masha...
 <$00>
+
 
 
 
@@ -25,8 +32,14 @@
 
 #WHB(PTR, $00000431)
 
-老ーネスト…正直者のアーネスト。\nウソのつけないアーネスト。
+//老ーネスト…正直者のアーネスト。\nウソのつけないアーネスト。
+老Ernest... Honest\n
+Ernest.\n
+You'd never let
+<$0C>
+anyone down.
 <$00>
+
 
 
 
@@ -37,16 +50,30 @@
 #WHB(PTR, $00000435)
 
 <$12><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\n誰だ？俺を呼んだのは、誰だ？
+//\n誰だ？俺を呼んだのは、誰だ？
+\n
+Who's there? Who\n
+called to me?
 <$0C><$13>
-君誰でもない…\nお前が忘れていったお前自身の声だ。
+//君誰でもない…\nお前が忘れていったお前自身の声だ。
+Maybe it's no one.\n
+You just forgot the\n
+sound of my own
+<$0C>
+voice.
 <$0C><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\n俺が？忘れた？何を言ってやがる！
+//\n俺が？忘れた？何を言ってやがる！
+\n
+Wait, I forgot? What\n
+am I saying?
 <$00>
+
 
 
 
@@ -57,14 +84,25 @@
 #WHB(PTR, $00000445)
 
 <$12><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nアタシは…ヨランダ、そうよ、ヨランダよ。
+//\nアタシは…ヨランダ、そうよ、ヨランダよ。
+\n
+I'm...Yolanda. That's\n
+right. Yolanda.
 <$0C><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nかわいそうなタニアの話し相手、\n壊れそうな心の後見人…
+//\nかわいそうなタニアの話し相手、\n壊れそうな心の後見人…
+\n
+A protecter of the\n
+broken-hearted,\n
+and a shoulder for\n
+Tanya to cry on.
 <$00>
+
 
 
 
@@ -74,8 +112,14 @@
 
 #WHB(PTR, $00000449)
 
-談ランダ…うぬぼれ屋のヨランダ。\nいつもひとりのヨランダ。
+//談ランダ…うぬぼれ屋のヨランダ。\nいつもひとりのヨランダ。
+談Yolanda... Yolanda,\n
+the narcissist.\n
+You will always be
+<$0C>
+alone.
 <$00>
+
 
 
 
@@ -86,12 +130,20 @@
 #WHB(PTR, $0000044D)
 
 <$12><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\n誰なの？\nアタシのこと…そんなふうに言うなんて。
+//\n誰なの？\nアタシのこと…そんなふうに言うなんて。
+\n
+Who's there? Don't\n
+act like you know me!
 <$0C><$13>
-君さあ、誰だろう。\nこれはお前自身の声ではないのかな。
+//君さあ、誰だろう。\nこれはお前自身の声ではないのかな。
+I'm you, that's who!\n
+Don't you know your\n
+own inner voice?
 <$00>
+
 
 
 
@@ -102,16 +154,26 @@
 #WHB(PTR, $00000439)
 
 <$12><$13><$1D><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\n私はスペーサー…\n建いない、確かにスペーサーだ。
+//\n私はスペーサー…\n建いない、確かにスペーサーだ。
+\n
+I'm Spacer... Make no\n
+mistake, I'm Spacer.
 <$0C><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nあのふたりと、そして
+//\nあのふたりと、そして
+\n
+I'm the control tower\n
+over
 <$0F>
-にとって\n私が司令塔なのだ。
+//にとって\n私が司令塔なのだ。
+and the other two.
 <$00>
+
 
 
 
@@ -121,10 +183,15 @@
 
 #WHB(PTR, $0000043D)
 
-面ペーサーか、出すぎたマネが得意の\nようだな。
+//面ペーサーか、出すぎたマネが得意の\nようだな。
+面Spacer, ever a slave\n
+to hyperbole.
 <$0C>
-自分をかいかぶってはいないかな、\nスペーサー。
+//自分をかいかぶってはいないかな、\nスペーサー。
+Don't pretend to be\n
+larger than life!
 <$00>
+
 
 
 
@@ -135,12 +202,24 @@
 #WHB(PTR, $00000441)
 
 <$12><$13><$1D><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\n誰だ！\n私をおとしいれようというつもりか！
+//\n誰だ！\n私をおとしいれようというつもりか！
+\n
+Who are you?\n
+Are you trying to
+<$0C>
+trick me?
 <$0C><$13>
-君この声はお前の声だ、スペーサー。\n心の声だ。
+//君この声はお前の声だ、スペーサー。\n心の声だ。
+I am your voice,\n
+Spacer.\n
+The voice in your
+<$0C>
+mind.
 <$00>
+
 
 
 

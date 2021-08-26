@@ -13,30 +13,30 @@
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nあーあー、ライカ君かね？\nあー、君はライカ君？ そこにいるかね？
 \n
-Ayyye, Laika! Is that\n
-you, Laika? Are you
+Ayyye, greetings,\n
+Laika! Is that you,
 <$0C>
-there?
+Laika? Are you there?
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nアタシたちに用なの？\nねえ、これ地球からなんでしょ？
 \n
-Can we help you? Hey,\n
-is this message from
+Can we help you?\n
+Excuse me, is this
 <$0C>
-Earth?
+message from Earth?
 <$0C><$13>
 //か
 か
 <$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nあーあー、君は誰？\nあー、新しい事実だ、あーあー…
 \n
@@ -57,16 +57,17 @@ nothing but new\n
 realities here.
 <$0C><$13>
 //か
+か
 <$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nあーあー、ライカ君に代わってくれ、\n彼に話があるんだ、あーあーあー。
 \n
 Ayyye, I see. Very\n
 well. I have a story
 <$0C>
-I'd like to tell you\n
+I'd like you to hear\n
 in Laika's place,\n
 ayyye...
 <$00>
@@ -86,11 +87,11 @@ Yolanda:
 <$0D>
 //\n何よ！ シーシーの次は、あーあーなの！
 \n
-What's going on?\n
+People, am I right?\n
 First it's, "Whoosh,
 <$0C>
-whoosh," and now it's\n
-"Ahhh!"
+whoosh," and then\n
+it's "Ayyye, ayyye!"
 <$00>
 
 
@@ -104,24 +105,24 @@ whoosh," and now it's\n
 
 <$11><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nあー、ライカ君だね、騒ぎは収まりそうもない。\nそこで少し見方を変えて、火星人について、\n掘り下げようと思う。
 \n
-Ah, Laika! I'd like\n
-to take your
+Greetings, Laika! Is\n
+that you? I'd like to
 <$0C>
-attention away from\n
-the blatant "uproar"\n
-for a moment.
+take your attention\n
+from your task for a\n
+moment.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n長年、火星人と昆虫との類似点を研究している\n学者がいる。彼の意見を開いてみて欲しい。
 \n
-Listen to this\n
-scholar. He has
+This is our\n
+entomologist. He has
 <$0C>
 studied both Martian\n
 and insect life for\n
@@ -164,30 +165,31 @@ Entomologist:
 Termites are strange\n
 little creatures for
 <$0C>
-sure, bzz!
+sure, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\n彼らは何万四という全体でひとつの個性を\n作っています。
 \n
-They're hiveminded:\n
-their tens of
+They're hiveminded.\n
+Their tens of
 <$0C>
 thousands of little\n
-minds all act as one,\n
-bzz!
+minds all act under\n
+one collective\n
+conscience!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nつまりです、一四ずつではなく、\n全体でひとつなのです、フンフン。
 \n
-Bzz, as the saying\n
-goes, "It's all for
+As the saying goes,\n
+bzzbzz, "It's all for
 <$0C>
-one, and one for all!\n
-Or...you die!"
+one, and one for\n
+all...or else!"
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -197,8 +199,9 @@ Entomologist:
 Assuming Martians\n
 were hiveminded too,
 <$0C>
-their extinction make\n
-sense, bzz!
+their extinction\n
+starts to make sense,\n
+bzzbzz!
 <$00>
 
 
@@ -216,19 +219,21 @@ Entomologist:
 <$0D>
 //\nかねがね火星人というもの、白アリのような生態\nではなかったかと考えます、フン。
 \n
-It's fun to compare\n
-Martian ecology to
+You didn't see\n
+yourself comparing
 <$0C>
-that of termites,\n
-isn't it, bzz?
+Martian politics to\n
+insect politics\n
+today, now did you,\n
+bzz?
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\n火星人がその昔に地球にやってきて\n人間の顔を求めた…
 \n
-Long ago, the\n
-Martians came to
+Anyways, long ago,\n
+the Martians came to
 <$0C>
 earth and asked us\n
 humans for our faces.
@@ -238,11 +243,12 @@ Entomologist:
 <$0D>
 //\nそう伝えられていますが、彼らに人間の顔は\n合わなかったのです、フンフン。
 \n
-As we came to find\n
-out, the faces didn't
+As we've since come\n
+to find out, the
 <$0C>
-merge onto the\n
-Martians so well.
+faces didn't stick\n
+onto the Martians so\n
+well, bzzbzz.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:

@@ -13,22 +13,23 @@
 
 <$12><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nなんで俺が… くそっ！\nアガタが仕組んだのか？
 \n
-Grrr, what happened\n
-to me?! Is this
+Oi, what...what\n
+happened to me?! Is
 <$0C>
-Agatha's dirty work?
+this Agatha's dirty\n
+work?
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nまっぴらだ、もうごめんだ。\nちくしょう！
 \n
 I won't let her off\n
-this time, dammit!
+this time, goddammit!
 <$00>
 
 
@@ -42,12 +43,14 @@ this time, dammit!
 
 <$12><$11>
 //子レッド：
-子Red:
+Red:
 <$0D>
 //\nちくしょう、あの野郎！\nどこに隠れてやがる！
 \n
-Damned, mongrel!\n
-Where are you hiding!
+Damned mongrel...!\n
+Where are you
+<$0C>
+hiding?!
 <$0E><$1E><$17><$00>
 
 
@@ -61,7 +64,7 @@ Where are you hiding!
 
 <$10><$11>
 //X６ちゃんよう、こっちだ、右だ。
-Brother, over here,\n
+X６Comrade, over here,\n
 to the right!
 <$0E><$1E><$17><$00>
 
@@ -76,7 +79,7 @@ to the right!
 
 <$10><$11>
 //的こんところを右に来な。\n兄ちゃんから見ると左手の方だ、分かるよな。
-We're over to the\n
+的Check over to the\n
 right! From your\n
 point of view, it's
 <$0C>
@@ -95,9 +98,9 @@ left-hand side.
 
 <$10><$11>
 //的こだそこだ、そこんとこ、右だ。\n兄ちゃんから見ても右、おれは右にいるぜ。
-Yeah! There, there!\n
+的Yeah! There, there!\n
 To the right! If you\n
-look right, we're on
+look right, I'm on
 <$0C>
 the right.
 <$0E><$1E><$17><$00>
@@ -113,7 +116,7 @@ the right.
 
 <$10><$11>
 //的こだそこだ、そうだ真っ直ぐこっちだ。\nまっすぐ、まっつぐ、まっしゅぐだ…来い。
-Straight! Yeah,\n
+的Straight! Yeah,\n
 straight this way!\n
 Just come along
 <$0C>
@@ -135,6 +138,12 @@ Straight...straight...
 Red:
 <$0D>
 //\nどのツラさげてほっつき歩いてるんだ？
+\n
+The heck are you\n
+doing, walking around
+<$0C>
+with that look on\n
+your face?
 <$00>
 
 
@@ -151,6 +160,13 @@ Red:
 Red:
 <$0D>
 //\nコスマスに余計な入れ知惠しやがったのは、\nお前だな、可愛い子犬ちゃんよう！
+\n
+Oh, I get it. You're\n
+the one filling
+<$0C>
+Cosmas' head with\n
+ideas, you darling\n
+puppy, you!
 <$00>
 
 
@@ -167,6 +183,9 @@ Red:
 Spacer:
 <$0D>
 //\n私に何を求めているのだ、レッド！
+\n
+What do you want from\n
+me, Red?!
 <$00>
 
 
@@ -183,11 +202,22 @@ Spacer:
 Red:
 <$0D>
 //\nう… 求めているだと？
+\n
+It's like you're\n
+trying to rouse my
+<$0C>
+attention.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nへへへ、お前に求めている？ この俺が？\nへへ、笑わせるな！
+\n
+Hehehe, are you\n
+asking for it? From
+<$0C>
+me? Hehe, don't make\n
+me laugh!
 <$00>
 
 
@@ -204,16 +234,35 @@ Red:
 Spacer:
 <$0D>
 //\nあんたは恐れてるんだ。\n自分が怖いんだ。建うか？
+\n
+You're afraid. You're\n
+afraid of yourself,
+<$0C>
+aren't you.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n子供のころにひどい目にあって、\nそのキズをいやさないままにコスマスを\n同じ目にあわせている。
+\n
+You were abused as a\n
+child, and now you
+<$0C>
+deflect that pain by\n
+taking it out on\n
+Cosmas.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n自分の中に広がる闇から目をそむけているんだ。\n広がった隠しようのない闇を恐れているんだ。
+\n
+You're afraid of the\n
+darkness in you
+<$0C>
+spreading, with no\n
+hopes of healing nor\n
+hiding it.
 <$00>
 
 
@@ -230,11 +279,17 @@ Spacer:
 Red:
 <$0D>
 //\nうるせぇ！ お前に何が分かる、
+\n
+Grr, shut up! You\n
+don't know anything!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nここにはここのやり方があるんだ！\nちくしょうめ！
+\n
+This is how we do\n
+things around here!
 <$00>
 
 
@@ -251,21 +306,44 @@ Red:
 Spacer:
 <$0D>
 //\nああ、そうだろう、
+\n
+Oh, right.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n心の闇から目をそむけていつわりの\n幸福に浸っている、
+\n
+I forgot it was\n
+better to run from
+<$0C>
+the darkness by\n
+getting off on the\n
+fact that we've\n
+suffered.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nそういうやり方なんだろう。\nあんたの知らない間に心の闇は広がり、
+\n
+How silly of me. But\n
+you're even sillier
+<$0C>
+for knowingly feeding\n
+that darkness.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nやがては全てを飲み尽くしてしまう。\n結果を先送りしてるだけだ！
+\n
+Give it enough time,\n
+and you'll be the one
+<$0C>
+responsible for that\n
+darkness swallowing\n
+everything.
 <$00>
 
 
@@ -282,11 +360,22 @@ Spacer:
 Red:
 <$0D>
 //\n飲み尽くす… 泡のことか？
+\n
+Swallowing...\n
+Swallowing what,
+<$0C>
+Bubbles?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nそうなんだな、泡のことを言ってるんだな。\nおい、お前、何で知ってる？
+\n
+It sounds like you're\n
+talking about
+<$0C>
+Bubbles, but how do\n
+you know about him?
 <$00>
 
 
@@ -303,6 +392,8 @@ Red:
 Spacer:
 <$0D>
 //\n泡がどうした？
+\n
+Bubbles? "Him"?
 <$00>
 
 
@@ -319,11 +410,23 @@ Spacer:
 Red:
 <$0D>
 //\nぼやぼやしてると飲まれるんだ、\n泡のおじさんが待ってて…
+\n
+You'll choke if\n
+you're not careful.
+<$0C>
+Uncle Bubbles is\n
+waiting...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\n真っ白な泡だ、知ってるだろ…\n俺はいつも急いでた、ガキの頃からずっとな。
+\n
+So pure, white and\n
+foamy... I'd kept
+<$0C>
+running to him, ever\n
+since I was a kid.
 <$00>
 
 
@@ -340,11 +443,20 @@ Red:
 Red:
 <$0D>
 //\nおおおお、俺のウデがない！
+\n
+Am I...unclean?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nどこへやった、おい！お前に開いてるんだ！\n泡でできたウデだ、真っ白なんだ！
+\n
+Where did you go? I'm\n
+all clean for you,
+<$0C>
+Uncle Bubbles! I'm\n
+covered in white,\n
+frothing bubbles!
 <$00>
 
 
@@ -361,6 +473,12 @@ Red:
 Spacer:
 <$0D>
 //\nウデがないのか。\nそれなら泡のおじさんが食べたんだ。
+\n
+Did Uncle Bubbles\n
+come after you
+<$0C>
+because you were\n
+unclean?
 <$00>
 
 
@@ -377,6 +495,12 @@ Spacer:
 Red:
 <$0D>
 //\nウソ付け！ さっきまであったぞ、\n泡を残しちゃいけねぇんだ。
+\n
+No! H-he was always\n
+there for me! There's
+<$0C>
+no way his bubbles\n
+would disappear!
 <$00>
 
 
@@ -393,6 +517,8 @@ Red:
 Spacer:
 <$0D>
 //\n泡を残すのがなぜいけないんだ？
+\n
+And why's that?
 <$00>
 
 
@@ -409,21 +535,46 @@ Spacer:
 Red:
 <$0D>
 //\n泡はおじさんのものだからだ！\n馬鹿野郎！ あああ、泡、俺のウデがない…
+\n
+Because, idiot! Those\n
+bubbles belong to my
+<$0C>
+uncle! Oh, no, not\n
+the bubbles! I'll be\n
+unclean!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nお前が隠したんだろ、分かってるんだ、\n地下水道だ。
+\n
+You...you hid them! I\n
+know you did! Down in
+<$0C>
+the underground\n
+canal!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nへへへへ、\nあそこにはコスマスの隠れ家があるんだ、
+\n
+Hehehe, the same\n
+place Cosmas has been
+<$0C>
+hiding...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nお前らグルになって… 覚えてろよ！
+\n
+Grr, you've been\n
+scheming together
+<$0C>
+this whole time.\n
+Don't think I haven't\n
+noticed!
 <$00>
 
 
@@ -441,21 +592,21 @@ Gold:
 <$0D>
 //\nおい、レッドがさがしてたぞ。\n血眼になってたぞ。
 \n
-Uh-oh, Red's looking\n
+Hey, Red's looking\n
 for you. His eyes
 <$0C>
-look bloodshot.
+looked bloodshot.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nコスマスにちょっかい出すからだ、\nコスマスはレッドの宝物なんだ。
 \n
-He's pissed you\n
-meddled with Kosmas
+He's pissed you that\n
+meddled with his
 <$0C>
-that little bit.\n
-Kosmas is Red's\n
+precious Cosmas. That\n
+kid is Red's\n
 treasure.
 <$0C><$0B>
 //ゴールド：
@@ -473,16 +624,23 @@ Gold:
 <$0D>
 //\nお前、やつに気に入られたらどうする？
 \n
-What rae you going to\n
-do, now that he's
+What are you going to\n
+do, now that he's set
 <$0C>
-onto you?
+his sights on you?
 <$1E>
 //家
+家
 <$00><$10><$0B>
 //レッド：
+Red:
 <$0D>
 //\nちくしょう、あの野郎！\nどこに隠れてやがる！
+\n
+Damned mongrel...!\n
+Where are you
+<$0C>
+hiding?!
 <$00>
 
 
@@ -499,12 +657,21 @@ onto you?
 #WHB(PTR, $000005B5)
 
 <$11><$0B>
-ゴールド：
+//ゴールド：
+Gold:
 <$0D>
-\nお前、コスマスになにしたんだ？\nレッドがあんなになって\nお前をさがしまわるなんてよ。
+//\nお前、コスマスになにしたんだ？\nレッドがあんなになって\nお前をさがしまわるなんてよ。
+\n
+What did you do to\n
+Cosmas? Whatever you
+<$0C>
+did, Red wants your\n
+head.
 <$1E>
+//声
 声
 <$00>
+
 
 
 
@@ -553,7 +720,7 @@ Red:
 //\n泡のおじさんが待ってて… 知ってるだろ…\n俺はいつも急いでた、ガキの頃からずっとな。
 \n
 Uncle Bubbles is\n
-waiting. And I kept
+waiting... I'd kept
 <$0C>
 running to him, ever\n
 since I was a kid.
@@ -574,8 +741,8 @@ Red:
 <$0D>
 //\nおおおお、俺のウデがない！\nどこへやった、おい！
 \n
-Am I...unclean? Here\n
-did he go? Hey!
+Am I...unclean? Where\n
+did you go?
 <$0C><$0B>
 //レッド：
 Red:
@@ -603,6 +770,12 @@ frothing bubbles!
 Spacer:
 <$0D>
 //\nウデがないのか。\nそれなら泡のおじさんが食べたんだ。
+\n
+Did Uncle Bubbles\n
+come after you
+<$0C>
+because you were\n
+unclean?
 <$00>
 
 
@@ -619,6 +792,12 @@ Spacer:
 Red:
 <$0D>
 //\nウソ付け！ さっきまであったぞ、\n泡を残しちゃいけねぇんだ。
+\n
+No! H-he was always\n
+there for me! There's
+<$0C>
+no way his bubbles\n
+would disappear!
 <$00>
 
 
@@ -635,6 +814,8 @@ Red:
 Spacer:
 <$0D>
 //\n泡を残すのがなぜいけないんだ？
+\n
+And why's that?
 <$00>
 
 
@@ -662,38 +843,43 @@ Red:
 <$0D>
 //\nあああ、泡、俺のウデがない…
 \n
-Oh, no, the bubbles!\n
-I'll be unclean...
+Oh, no, not the\n
+bubbles! I'll be
+<$0C>
+unclean!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nお前が隠したんだろ、分かってるんだ、\n地下水道だ。
 \n
-I know! I'll hide\n
-down in the
+You...you hid them! I\n
+know you did! Down in
 <$0C>
-underground canal!
+the underground\n
+canal!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nへへへへ、\nあそこにはコスマスの隠れ家があるんだ、
 \n
-Hehehe, that's where\n
-Cosmas's little
+Hehehe, the same\n
+place Cosmas has been
 <$0C>
-hideout is...
+hiding...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nお前らグルになって… 覚えてろよ！
 \n
-...I remember! You\n
-were conspiring with
+Grr, you've been\n
+scheming together
 <$0C>
-Cosmas!
+this whole time.\n
+Don't think I haven't\n
+noticed!
 <$00>
 
 

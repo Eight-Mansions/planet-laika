@@ -40,7 +40,7 @@ Ohh! What about my\n
 hatred? Is it for
 <$0C>
 insects? I do hate\n
-insects...
+insects...!
 <$0C><$0B>
 //ƒ}ƒEƒ“ƒeƒ“F
 Mountain:
@@ -54,11 +54,11 @@ Mountain:
 <$0D>
 //\n‚»‚ê‚È‚ç’m‚Á‚Ä‚é‚¼AŒ©‚½‚±‚Æ‚ ‚é‚¼A\n‚¨c Â’‚É‚È‚é‚Ì‚©H
 \n
-OH, yes, I'm aware.\n
+Oh, yes, I'm aware.\n
 I'd seen it.
 <$0C>
-Does...does THAT\n
-become a cabbageworm?
+Does...does it become\n
+a cabbageworm?
 <$0C><$0B>
 //ƒ}ƒEƒ“ƒeƒ“F
 Mountain:
@@ -69,7 +69,7 @@ No, that's wrong! The\n
 gold-bug does NOT
 <$0C>
 become a cabbageworm!\n
-Eeeeeeeyah!
+Eeeyah!
 <$0C><$0B>
 //ƒ}ƒEƒ“ƒeƒ“F
 Mountain:
@@ -81,7 +81,7 @@ disappointed. Well,
 <$0C>
 so am I, by the by.\n
 As sad as they get,\n
-too. Ohh, ohh...
+too. Ohh, ohh...!
 <$00>
 
 
@@ -100,11 +100,11 @@ Yang:
 //\nƒKƒL‚¾I\ncŒš‚¤Aˆ«ƒKƒL‚¾A‚»‚¢‚Â‚ªE‚µ‚½‚ñ‚¾A\n–é‚ÍŒ™‚È‚à‚Ì‚¾‚ËA”ŒNB
 \n
 It was the kid! No,\n
-that devil! He kill
+that devil! He killed
 <$0C>
-them! I hate the\n
-night! A-and the\n
-cycle...
+them! I HATE the\n
+night! I HATE the\n
+cycle!
 <$0C><$0B>
 //ƒ„ƒ“ƒOF
 Yang:
@@ -115,7 +115,7 @@ Yang:
 tear off those green
 <$0C>
 butterfly wings and\n
-turn it back into a\n
+turn back into a\n
 worm!
 <$00>
 
@@ -145,7 +145,7 @@ Mountain:
 Know what a night owl\n
 told me? Fear the
 <$0C>
-non-believers...The\n
+non-believers... The\n
 Troglodytes\n
 troglodytes.
 <$0C><$0B>
@@ -175,11 +175,12 @@ Yang:
 <$0D>
 //\n”ò‚ñ‚Å‚é‚Ì‚Í’±‚¾A‚¢‚âƒK‚¾A\nE‚µ‚½‚Ì‚©‚Ä‚ß‚¥I ‚È‚ñ‚Å‚©•ª‚©‚é‚©H
 \n
-Ah, the butterfly\n
-fies? Moths! What
+Why is there a\n
+butterfly but not a
 <$0C>
-killed them! Do you\n
-know how?
+"moth-fly"?! Did\n
+someone kill him! Do\n
+you know?
 <$0C><$0B>
 //ƒ„ƒ“ƒOF
 Yang:
@@ -197,9 +198,9 @@ Yang:
 //\n‚ ‚ ‚ ‚ ‚ ‚ ‚ A‹ß‚­‚É‚ÈI\n‚³c‚³‚¢c
 \n
 Ahhhhhh! It's almost\n
-herrrrrre! The
+here! The last...
 <$0C>
-last...the last....!
+This is the last....!
 <$00>
 
 
@@ -217,7 +218,7 @@ Mountain:
 <$0D>
 //\nÅŒã‚Ì”×”»‚¾I
 \n
-THE LAST JUDGMENT!
+THE LAST JUDGEMENT!
 <$00>
 
 
@@ -306,8 +307,8 @@ Mountain:
 <$0D>
 //\n‚Pl ‚Ql ‚Rl ‚Sl ‚Tl ‚Ul
 \n
-...1, 2, 3, 4, 5,\n
-6...
+One, two, three,\n
+four, five, six...
 <$1E>
 //‰s
 ‰s
@@ -328,7 +329,8 @@ Mountain:
 <$0D>
 //\n‚P‚Ol ‚P‚Pl ‚P‚Ql ‚P‚Rl
 \n
-...10, 11, 12, 13...
+...ten, eleven,\n
+twelve, thirteen...
 <$1E>
 //‰s
 ‰s
@@ -349,15 +351,28 @@ Mountain:
 <$0D>
 //\n‚R‚Sl ‚R‚Tl ‚R‚Ul ‚R‚Vl
 \n
-...34, 35, 36, 37...
+...thirty-four,\n
+thirty-five,
+<$0C>
+thirty-six,\n
+thirty-seven...
 <$1E>
 //‰s
+‰s
 <$00><$10><$0B>
 //ƒ}ƒEƒ“ƒeƒ“F
+Mountain:
 <$0D>
 //\n‚W‚Vl ‚W‚Wl ‚W‚Xl ‚X‚Ol
+\n
+...eighty-seven,\n
+eighty-eight,
+<$0C>
+eighty-nine,\n
+ninety...
 <$1E>
 //‰s
+‰s
 <$00>
 
 
@@ -375,8 +390,12 @@ Mountain:
 <$0D>
 //\n‚P‚O‚Pl ‚P‚O‚Ql ‚P‚O‚Rl ‚P‚O‚Sl
 \n
-...101, 102, 103,\n
-104...
+...one hundred and\n
+one, one hundred and
+<$0C>
+two, one hundred and\n
+three, one hundred\n
+and four...
 <$1E>
 //‰s
 ‰s
@@ -397,8 +416,14 @@ Mountain:
 <$0D>
 //\n‚R‚V‚Ql ‚R‚V‚Rl ‚R‚V‚Tl ‚R‚V‚Vl
 \n
-...372, 373, 375,\n
-377...
+...three hundred\n
+seventy-two, three
+<$0C>
+hundred\n
+seventy-three, three\n
+hundred seventy-five,\n
+three hundred\n
+seventy-seven...
 <$1E>
 //‰s
 ‰s
@@ -419,11 +444,11 @@ Mountain:
 <$0D>
 //\n”‚ª‘«‚è‚È‚¢A”‚ª‘«‚è‚È‚¢A\nƒnƒG‚Í‘‚¦‚é‚Ì‚ÉA”‚ª‘«‚è‚È‚¢B
 \n
-Not enough. Not\n
+Not enough. IT's not\n
 enough! There are
 <$0C>
-MORE flies! IT'S NOT\n
-ENOUGH!
+MORE flies! BUT IT'S\n
+NOT ENOUGH!
 <$1E>
 //‰s
 ‰s

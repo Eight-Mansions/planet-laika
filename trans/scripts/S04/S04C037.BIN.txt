@@ -17,45 +17,47 @@ Tommy:
 <$0D>
 //\nひゃひゃひゃ、お兄ちゃんよう、\n知ってるか、あいつら。
 \n
-Hyahyahya, hey bro!\n
-Hear what happened to
+Hehe, hey, comrade!\n
+Did you hear what
 <$0C>
-the guys at Psycho\n
-House?
+happened at Psycho\n
+Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nサイコハウスのやつら、\n電気でビリビリになりやがった。
 \n
-They shot themselves\n
-up with a boatload of
+They zapped\n
+themselves up with a
 <$0C>
+boatload of\n
 electricity and fried\n
-their minds.
+their brains.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nへん、人のことバカにしやがって！\n地球にいりゃ白いマント着て\nたき火でダンス野郎だ、そうだろ、
 \n
-Shitbags must think\n
-they're at that level
+Shitbags must've\n
+thought they were at
 <$0C>
-to wear big cloaks\n
-and dance around\n
-fire.
+that level to wear\n
+big cloaks and dance\n
+around fire.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nあいつらなんか黒こげになっちまえ！\nひゃひゃひゃ、チャーリーのごちそうだ！
 \n
-They danced so close,\n
-they got burnt.
+And like a real bag\n
+of shit, they got
 <$0C>
-Hyahya, Charlie saw\n
-to that!
+burned and stomped\n
+out, a-yup! Charlie\n
+saw to that!
 <$00>
 
 
@@ -76,18 +78,20 @@ Tommy:
 "Charlie" is the\n
 nickname we have for
 <$0C>
-the electric chair.
+the Prison 4 electric\n
+chair.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n一番えらいのは所長じゃねぇ、\n電気イスのチャーリー様だ。
 \n
-Not the name of the\n
-guy who uses it. The
+No, it's not the name\n
+of anyone using it.
 <$0C>
-big honcho is the\n
-electric chair.
+The big honcho is the\n
+electric chair\n
+itself.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -106,11 +110,12 @@ Tommy:
 <$0D>
 //\n早く新鮮な肉を食いてぇ、\n真っ黒焦げにして食いてぇってな。
 \n
-He needed his fresh\n
+He needs his fresh\n
 meat, and fast. Just
 <$0C>
 char the suckers up\n
-and bon appetit!
+and bon appetit,\n
+a-yup!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -121,18 +126,18 @@ When Charlie is\n
 hungry, the
 <$0C>
 electricity in the\n
-prison flickers on\n
-and off.
+entire prison\n
+flickers on and off.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nへへ、今でもぱちぱちしてるか？\nひゃひゃ、チャーリーのごちそうだ。
 \n
-Hehe, is the power\n
-still jumpy even now?
+Hehe, if you ever see\n
+the power jump around
 <$0C>
-Hah, then that's\n
+here, then that's\n
 Charlie.
 <$00>
 
@@ -151,7 +156,7 @@ Tommy:
 <$0D>
 //\nああ、また吐きそうだぜ。
 \n
-God, I'm about to\n
+Ick, I'm about to\n
 hurl again.
 <$0C><$0B>
 //トミー：
@@ -159,17 +164,23 @@ Tommy:
 <$0D>
 //\nへへ、朝っぱらからバーベキュー、\nお肉の焦げる臭いだぜ、ひゃひゃひゃ？
 \n
-It smells like an\n
-early-morning
+Hehe, it smells like\n
+an early-morning
 <$0C>
-barbeque out here,\n
-hehe. Hyahya!
+barbeque out here!
 <$1E>
 //声
+声
 <$00><$10><$11>
 //子リトル：
+子Little:
 <$0D>
 //\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
+\n
+Oi, why do I feel\n
+so...no! Goddammit,
+<$0C>
+not here!
 <$0E><$1E><$17><$00>
 
 
@@ -183,7 +194,7 @@ hehe. Hyahya!
 
 <$10>
 //おい、兄ちゃんよう、兄ちゃん…
-Hey, Bro. Bro...
+Hey, comrade...
 <$00>
 
 
@@ -197,8 +208,9 @@ Hey, Bro. Bro...
 
 <$10>
 //兄ちゃん、\nおい、こっちだこっち、左だ。
-Bro, over here! Hey!\n
-To your left!
+Comrade!\n
+Hey, look to your\n
+left!
 <$00>
 
 
@@ -224,21 +236,21 @@ Red:
 <$0D>
 //\nひひひ、可愛い子犬ちゃんよう、\nおじさんが遊んであげよう…
 \n
-Hehehe, oh my little,\n
+Hehehe, oh, my\n
 darling puppy. Come
 <$0C>
 here and play with\n
-your uncle...
+Uncle Red...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nちくしょう！\nコスマスをどこにやりやがった！ 来い！
 \n
-Damn you! Where did\n
-Kosmas go, huh?! Come
+Grr, where did Cosmas\n
+go, huh?! Fine. YOU
 <$0C>
-with me!
+come with me!
 <$00>
 
 
@@ -256,20 +268,19 @@ Sammy:
 <$0D>
 //\nあら、あなた… でも変ね、\nさっきリャンハウスのところにいなかった？
 \n
-Oh. It's you, but\n
-different, huh. You
+Hey, you look\n
+different! You didn't
 <$0C>
-didn't go to House\n
-Liang recently, did\n
-you?
+go to House Liang,\n
+did you?
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nそれともあなたも…
 \n
-Or, is it that you\n
-too are...
+Don't tell me, you\n
+also...
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -290,10 +301,20 @@ Yeah, another woman\n
 like me...
 <$1E>
 //中
+中
 <$00><$11><$0B>
 //ブーマー：
+Boomer:
 <$0D>
 //\nやつらは夜を動かすんだ、\nいつでもどこでも、やつらなら夜にできる…\nあああ、もう終わりだ、終わりだ…
+\n
+They bump in the\n
+night, anytime,
+<$0C>
+anywhere! They can do\n
+it all night... Oh,\n
+it's over! It's all\n
+over!
 <$00>
 
 
@@ -306,20 +327,42 @@ like me...
 #WHB(PTR, $00001101)
 
 <$10><$0B>
-サミー：
+//サミー：
+Sammy:
 <$0D>
-\nあらイヤだ、\nあなたもあのおかしなことに加わるの…
+//\nあらイヤだ、\nあなたもあのおかしなことに加わるの…
+\n
+Oh dear, you're not\n
+teaming up with those
+<$0C>
+oddballs, are you?
 <$0C><$0B>
-サミー：
+//サミー：
+Sammy:
 <$0D>
-\nサイコちゃんたちの実験よ、\n何だかハウスの様子が変なのよ。
+//\nサイコちゃんたちの実験よ、\n何だかハウスの様子が変なのよ。
+\n
+The little Psycho's,\n
+I mean. They're
+<$0C>
+always up to strange\n
+experiments over at\n
+Psycho Lab.
 <$0C><$0B>
-サミー：
+//サミー：
+Sammy:
 <$0D>
-\nばりばり、ばりばりって\n音が開こえてくるのよ。
+//\nばりばり、ばりばりって\n音が開こえてくるのよ。
+\n
+They're always making\n
+weird scritching
+<$0C>
+noises.
 <$1E>
+//中
 中
 <$00>
+
 
 
 
@@ -335,10 +378,10 @@ Sammy:
 <$0D>
 //\n何？ 何がどうしたの？\nリトルがあわてて？
 \n
-Hey, so what\n
-happened? Why's Liter
+Hey, what happened?\n
+Why is Little in such
 <$0C>
-in such a hurry?
+a non-little hurry?
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -346,18 +389,18 @@ Sammy:
 //\nあれ、リトルじゃないの？
 \n
 ...Wait, was that not\n
-Liter?
+Little?
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nアタシの他にもいろいろ？\nあはは、楽しいわね、ユカイだわ！
 \n
-So you're saying\n
-there are others like
+Then that means there\n
+are others like me!
 <$0C>
-me? Ohohoho, what\n
-fun! I love this!
+Heehee, what fun! Oh,\n
+I love this!
 <$1E>
 //中
 中
@@ -378,7 +421,7 @@ Tommy:
 <$0D>
 //\nくそっ、気分が悪いぜ、おうおう…
 \n
-Ugh, I don't feel so\n
+Ick, I don't feel so\n
 hot right now.
 <$0C><$0B>
 //トミー：
@@ -386,15 +429,15 @@ Tommy:
 <$0D>
 //\nあー、チャーリー様だ、お肉の臭い、\nひへへへへなあ兄ちゃんよう、知ってるか？
 \n
-Charlie's got a bad\n
-meat smell right now.
+Charlie's got that\n
+bad meat smell right
 <$0C>
-Y-you know what that\n
-means, right?
+now. You know what\n
+that means, right?
 <$1B>
 //？知ってる\n知らない
-？I do\n
-I don't
+？Yes\n
+No
 <$00><$17><$00>
 
 
@@ -413,9 +456,9 @@ Tommy:
 //\nへへ、そうかい。\nいよいよ始まるんだ、蕃判やら奇跡やらだ。
 \n
 Heh, thought so. Both\n
-Judgment and miracles
+Judgement and
 <$0C>
-are starting to show\n
+miracles are stirring\n
 up in strange ways.
 <$0C><$0B>
 //トミー：
@@ -423,10 +466,10 @@ Tommy:
 <$0D>
 //\nとにかく、今のままじゃねぇぞ。\nいろいろ変わるんだ。
 \n
-But it's not all in\n
-one specific way.
+But it doesn't hit\n
+everyonet he same
 <$0C>
-It's different\n
+way. It's different\n
 everywhere you look.
 <$0C><$0B>
 //トミー：
@@ -434,7 +477,7 @@ Tommy:
 <$0D>
 //\nハウスじゃサイコ野郎がパチパチ実験、\nリャンハウスじゃ布がピカピカ光ってる…
 \n
-Psycho House has the\n
+Psycho Lab has the\n
 crackly experiment,
 <$0C>
 House Liang has the\n
@@ -446,7 +489,7 @@ Tommy:
 //\n俺はどうなるんだ、\n兄ちゃんはどうなるんだ？
 \n
 What'll happen to me,\n
-hmm? And what'll
+comrade? And what'll
 <$0C>
 happen to you?
 <$1E>
@@ -468,11 +511,22 @@ happen to you?
 Rummy:
 <$0D>
 //\nはは、コスマスだな。 僕もコスマスみたいに、\n心の友だちとお話できるようになってきたな。
+\n
+Oh, Cosmas. Hoho, I'm\n
+starting to talk to
+<$0C>
+friends in my head\n
+the way he does.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n僕にもいるんだな、\nいつもお酒を飲んでるけれどね。
+\n
+I have friends too,\n
+even if one of them
+<$0C>
+does drink a lot.
 <$00>
 
 
@@ -486,9 +540,16 @@ Rummy:
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nダークマンは何人もいないよ、ひとりだよ。\nそれにお酒は飲まないよ。
+\n
+There aren't other\n
+people like Dark Man.
+<$0C>
+There's only one, and\n
+he doesn't drink\n
+alcohol.
 <$00>
 
 
@@ -505,6 +566,12 @@ Kosmas:
 Rummy:
 <$0D>
 //\nそうだね、僕のは建うね、\nダークマンじゃないね。
+\n
+Really? Then I guess\n
+Dark Man and I are
+<$0C>
+different in more\n
+ways than one, huh.
 <$00>
 
 
@@ -518,13 +585,25 @@ Rummy:
 
 <$12><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nダークマンと話ができるのは僕だけさ。\nそうだよね、ダークマン。
+\n
+I'm the only person\n
+who can talk to Dark
+<$0C>
+Man. At least...
 <$00><$13><$0B>
 //コスマス：
+Cosmas:
 <$0D>
 //\nねぇ、ダークマン、\nそっちにいくとレッドおじさんがいるよ。\nきっといるよ。
+\n
+All right, Dark Man.\n
+If you go that way,
+<$0C>
+you'll find Uncle\n
+Red. I'm sure of it.
 <$00>
 
 
@@ -545,7 +624,7 @@ Rummy:
 You and I smell the\n
 same! We have the
 <$0C>
-same smell!
+same smell, a-ha!
 <$00>
 
 
@@ -582,7 +661,9 @@ Rummy:
 //\nブー、だな。 はずれだな。\n僕はラミーだな。
 \n
 Bzzt! I thought you\n
-know, but I'm Rummy!
+knew better. I'm
+<$0C>
+Rummy!
 <$00>
 
 
@@ -613,9 +694,8 @@ Spacer:
 Are they really\n
 sending us radio
 <$0C>
-waves, or is that\n
-Mountain being full\n
-of it?
+waves, or is Mountain\n
+just full of it?
 <$00>
 
 
@@ -633,21 +713,21 @@ Rummy:
 <$0D>
 //\nへへ、金星人か…\n確かに金星人がいるのは本当だな、
 \n
-Hehe, well... The\n
+Hoho, it's true! The\n
 Venusians do exist,
 <$0C>
-that must is true.
+a-ha!
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nしかしな、電波は届いていないな。\n弱いんだな、電波がな、だから届かない。
 \n
-But, we're not\n
+But alas, we're not\n
 getting their waves.
 <$0C>
-They're too weak, so\n
-they don't reach us.
+The waves are too\n
+weak to reach us.
 <$00>
 
 

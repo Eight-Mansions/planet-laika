@@ -17,8 +17,10 @@ Madam Agatha:
 <$0D>
 //\nどうなの、
 \n
-Are you faring in the\n
-world of nightmares,
+How are you faring in\n
+the Land of
+<$0C>
+Nightmares,
 <$0F>
 //、悪夢の世界は。\n何か邪悪な気を惑じない？
 ?
@@ -56,7 +58,6 @@ Yes, this pertains to
 you,
 <$0F>
 //…
-...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -98,7 +99,7 @@ A mother and child\n
 who were always
 <$0C>
 together until\n
-something dreadful\n
+something tragic\n
 happened.
 <$00>
 
@@ -248,9 +249,9 @@ Madam Agatha:
 //\nここは… 誰の部屋かしら…\nセルゲイよ、ね、あなたのお義兄さんの部屋…
 \n
 What room are you\n
-in...? Sergei's. Yes,
+in...? Sergei's...
 <$0C>
-you are in your\n
+Yes, you are in your\n
 step-brother's room.
 <$0C><$0B>
 //マダム・アガタ：
@@ -259,9 +260,10 @@ Madam Agatha:
 //\nあなたとお母さんが…\nクロゼットの扉を開けている…
 \n
 It's you and your\n
-mother. You're both
+mother. You both
 <$0C>
-by Sergei's closet.
+stand near Sergei's\n
+closet.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -269,9 +271,10 @@ Madam Agatha:
 //\nセルゲイのシャツを\n手にしたお母さん…
 \n
 Your mother digs\n
-through it, until she
+through the closet,
 <$0C>
-takes a shirt.
+until she takes a\n
+shirt.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

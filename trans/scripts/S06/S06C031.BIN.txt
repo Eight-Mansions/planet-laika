@@ -36,7 +36,7 @@ Oxygen Miner 1：
 <$0D>
 //\nだめだ。\n町には入れない、シーシー。
 \n
-Turn away. You can't\n
+Turn away. Can't\n
 enter town, whoosh,
 <$0C>
 whoosh.
@@ -46,11 +46,10 @@ Oxygen Miner 1：
 <$0D>
 //\n坑道はふさがってる、\n酸索はもう十分だ、シーシー。
 \n
-The mineshaft is\n
-closed. Only so much
+Mineshaft closed.\n
+Little oxygen left,
 <$0C>
-oxygen left, whoosh,\n
-whoosh.
+whoosh, whoosh.
 <$00>
 
 
@@ -72,7 +71,7 @@ We're not after\n
 oxygenite. We're
 <$0C>
 looking for our\n
-friends, so-
+friends.
 <$00>
 
 
@@ -130,9 +129,9 @@ April:
 //\nタトラー、ヌーン、\nこの名前を開いたことはない？
 \n
 Tatler and Noon. Do\n
-either of those ring
+either of those names
 <$0C>
-a bell?
+ring a bell?
 <$00>
 
 
@@ -150,10 +149,8 @@ Oxygen Miner 1：
 <$0D>
 //\nヌーン！\n…町長のことか！ 知り合いか？
 \n
-Noon? Ah, I see! So\n
-you know our the
-<$0C>
-Elder?
+Noon...? Elder! You\n
+know Elder!
 <$00>
 
 
@@ -171,7 +168,7 @@ April:
 <$0D>
 //\n町長？
 \n
-The...elder?
+El...der?
 <$00>
 
 
@@ -192,7 +189,7 @@ Yolanda:
 Yes, that's our guy!\n
 Can you tell us where
 <$0C>
-your "elder" is?
+your elder is?
 <$00>
 
 
@@ -210,10 +207,8 @@ Oxygen Miner 1：
 <$0D>
 //\n町長は町長屋敷だ。
 \n
-Elder Noon lives in\n
-the elder's
-<$0C>
-residence.
+Elder lives in\n
+elder's cottage.
 <$00>
 
 
@@ -232,7 +227,7 @@ Yolanda:
 //\nその町長屋敷はどこなの？
 \n
 Oh. Right. And where\n
-is the Elder's
+is the elder's
 <$0C>
 residence, exactly?
 <$00>
@@ -252,10 +247,8 @@ Oxygen Miner 1：
 <$0D>
 //\n町長屋敷は一番奥だ。
 \n
-The Elder's residence\n
-is in the innermost
-<$0C>
-part of town.
+Center of town,\n
+Elder's cottage.
 <$00>
 
 
@@ -317,10 +310,8 @@ Oxygen Miner 1：
 <$0D>
 //\n約束は開いていない、シーシー。
 \n
-I never heard of this\n
-promise, whoosh,
-<$0C>
-whoosh.
+Never heard promise,\n
+whoosh, whoosh.
 <$00>
 
 
@@ -358,9 +349,9 @@ April:
 //\nヌーンは町長なんかじゃないの！\n私たちの仲間なのよ。
 \n
 For real! Noon is NOT\n
-your "elder"! He's
+your elder! He's our
 <$0C>
-our friend!
+friend!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -399,11 +390,10 @@ Oxygen Miner 1：
 <$0D>
 //\n住むわけではないのか、シーシーシーシー。
 \n
-You're not trying to\n
-move in? Whoosh,
+Not moving in?\n
+Whoosh, whoosh,
 <$0C>
-whoosh, whoosh,\n
-whoosh?
+whoosh.
 <$00>
 
 
@@ -430,7 +420,7 @@ Yolanda:
 //\nこんなとこに住みたいなんて、\n思うはずないじゃない！
 \n
 No one in their right\n
-mind would want to
+mind wants to goddamn
 <$0C>
 live here!
 <$00>
@@ -450,8 +440,7 @@ Oxygen Miner 1：
 <$0D>
 //\n通れ。
 \n
-...All right, come\n
-in.
+...Come.
 <$00>
 
 
@@ -469,8 +458,8 @@ Oxygen Miner 1：
 <$0D>
 //\nシー、シー、やっぱりあやしい、シー。
 \n
-Whoosh, whoosh. So\n
-suspicious, whoosh!
+Whoosh, whoosh.\n
+Suspicious, whoosh!
 <$00>
 
 
@@ -488,7 +477,7 @@ Yolanda:
 <$0D>
 //\n何がよ、何があやしいの？
 \n
-Hey, who are you\n
+Hey, the fuck you\n
 calling suspicious?
 <$00>
 
@@ -507,10 +496,8 @@ Oxygen Miner 1：
 <$0D>
 //\nシー、お前たち。\nここに住むつもりなんだろ、シー。
 \n
-Whoosh, you two!\n
-Trying so hard to
-<$0C>
-move in here, whoosh.
+Whoosh, you! You try\n
+to move in, whoosh!
 <$00>
 
 
@@ -529,7 +516,7 @@ Yolanda:
 //\nそんなワケないじゃない、こんな…
 \n
 M-move in here?\n
-Absolutely not!
+Absolutely not...
 <$00>
 
 
@@ -547,8 +534,8 @@ Oxygen Miner 1：
 <$0D>
 //\nこんな、何だ？ シー。
 \n
-Then what do you want\n
-from us, whoosh?
+What do you want,\n
+whoosh?
 <$00>
 
 
@@ -570,7 +557,7 @@ Listen, I'm sure you\n
 guys are happy here.
 <$0C>
 No one's trying to\n
-disturb that.
+dick with that.
 <$00>
 
 

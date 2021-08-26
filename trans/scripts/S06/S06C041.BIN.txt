@@ -16,6 +16,12 @@
 Oxygen Miner 3：
 <$0D>
 //\n何だ、シーシー、人の家に勝手に…\nそっとしておいてくれないか。
+\n
+WhAt ArE yOU dOIng,\n
+ActIng lIkE yOU Own
+<$0C>
+thE plAce. Why wOn't\n
+yOU lEAvE Us AlOne?
 <$00>
 
 
@@ -32,6 +38,9 @@ Oxygen Miner 3：
 Yolanda:
 <$0D>
 //\n町長さんのお屋敷はどこなの？
+\n
+Where is the elder's\n
+cottage?
 <$00>
 
 
@@ -48,6 +57,11 @@ Yolanda:
 Oxygen Miner 3：
 <$0D>
 //\n町長に何の用、\nほっとく、シーシーシー！
+\n
+WhAt dO yOU wAnt wIth\n
+EldEr NOOn, whOOsh,
+<$0C>
+whOOsh?
 <$00>
 
 
@@ -64,6 +78,12 @@ Oxygen Miner 3：
 Yolanda:
 <$0D>
 //\nどうでもいいけど、\nそのシーシーってどういう意味？
+\n
+That's not important.\n
+So tell me, why do
+<$0C>
+you say, "Whoosh,\n
+whoosh," so much?
 <$00>
 
 
@@ -80,6 +100,11 @@ Yolanda:
 Oxygen Miner 3：
 <$0D>
 //\nそんなこと、言ってない、シー。
+\n
+"WhOOsh, whOOsh?" I\n
+nEvEr sAId thAt,
+<$0C>
+whOOsh.
 <$00>
 
 
@@ -96,6 +121,12 @@ Oxygen Miner 3：
 Yolanda:
 <$0D>
 //\n言ったじゃない、今。\nあんた人をバカにしてんの？
+\n
+Are you serious right\n
+now?! Come on, you
+<$0C>
+can't be that\n
+oblivious.
 <$00>
 
 
@@ -113,10 +144,8 @@ Oxygen Miner 3：
 <$0D>
 //\nシー、シーシーシー、シー…
 \n
-Whoosh,\n
-whoosh-whoosh-whoosh,
-<$0C>
-whoosh...
+WhOOsh, whOOsh,\n
+whOOsh, whOOsh...
 <$00>
 
 
@@ -133,6 +162,9 @@ whoosh...
 April:
 <$0D>
 //\n行きましょ。 きっとこの先よ。
+\n
+Let's go. Noon should\n
+be up this way.
 <$00>
 
 
@@ -150,8 +182,8 @@ Oxygen Miner 3：
 <$0D>
 //\nシー、シー、シーシーシー。
 \n
-Whoosh, whoosh,\n
-whoosh-whoosh.
+WhOOsh, whOOsh,\n
+whOOsh, whOOsh!
 <$00>
 
 
@@ -188,10 +220,8 @@ Yolanda:
 <$0D>
 //\n町長さんのお屋敷はこの先なの？
 \n
-Excuse me. Is the\n
-Elder's residence up
-<$0C>
-this way?
+Is the elder's\n
+cottage up this way?
 <$00>
 
 
@@ -292,7 +322,7 @@ Yolanda:
 <$0D>
 //\nそうね… それがいいかも。
 \n
-Oh. Right. I should\n
+Oh, right. I should\n
 try that.
 <$00>
 
@@ -312,7 +342,7 @@ Yolanda:
 //\nなめられたもんね、あたしも。
 \n
 I'm getting a little\n
-ahead of myself here.
+carried away here.
 <$00>
 
 
@@ -330,11 +360,11 @@ Oxygen Miner 3：
 <$0D>
 //\n何だ、シーシー、人の家に勝手に…\nそっとしておいてくれ。
 \n
-What the Hell, lady,\n
-whoosh, whoosh?! You
+WhOOsh. WhAt thE\n
+hEck, lAdy? YOU cAn't
 <$0C>
-can't just waltz into\n
-people's houses!
+jUst wAltz IntO\n
+pEOplE's hOUsEs!
 <$00>
 
 
@@ -355,7 +385,8 @@ Yolanda:
 Huzzah, April! Words!\n
 Glad to see we can
 <$0C>
-start this fresh.
+start over on a fresh\n
+slate.
 <$00>
 
 
@@ -373,8 +404,8 @@ Oxygen Miner 3：
 <$0D>
 //\n俺に何の用だ、シーシー。
 \n
-What do you want from\n
-me, whoosh, whoosh?
+WhAt dO yOU wAnt frOm\n
+mE, whOOsh?
 <$00>
 
 
@@ -393,7 +424,7 @@ Yolanda:
 //\n町長さんのお屋敷。
 \n
 The location of the\n
-Elder's residence.
+elder's cottage.
 <$00>
 
 
@@ -411,10 +442,10 @@ Oxygen Miner 3：
 <$0D>
 //\n町長に何の用、ほっとく、シーシーシー！
 \n
-What do you want with\n
-Elder Noon, whoosh,
+WhAt dO yOU wAnt wIth\n
+EldEr NOOn, whOOsh,
 <$0C>
-whoosh?!
+whOOsh?
 <$00>
 
 
@@ -431,6 +462,12 @@ whoosh?!
 Yolanda:
 <$0D>
 //\nどうでもいいけど、\nそのシーシーってどういう意味？
+\n
+That's not important.\n
+So tell me, why do
+<$0C>
+you say, "Whoosh,\n
+whoosh," so much?
 <$00>
 
 
@@ -447,6 +484,11 @@ Yolanda:
 Oxygen Miner 3：
 <$0D>
 //\nそんなこと、言ってない、シー。
+\n
+"WhOOsh, whOOsh?" I\n
+nEvEr sAId thAt,
+<$0C>
+whOOsh.
 <$00>
 
 
@@ -463,6 +505,12 @@ Oxygen Miner 3：
 Yolanda:
 <$0D>
 //\n言ったじゃない、今。\nあんた人をバカにしてんの？
+\n
+Are you serious right\n
+now?! Come on, you
+<$0C>
+can't be that\n
+oblivious.
 <$00>
 
 
@@ -480,10 +528,8 @@ Oxygen Miner 3：
 <$0D>
 //\nシー、シーシーシー、シー…
 \n
-Whoosh,\n
-whoosh-whoosh-whoosh,
-<$0C>
-whoosh...
+WhOOsh, whOOsh,\n
+whOOsh, whOOsh...
 <$00>
 
 
@@ -501,10 +547,8 @@ Yolanda:
 <$0D>
 //\n行きましょ。 きっとこの先よ。
 \n
-Let's go, April.\n
-Noon's gotta be up
-<$0C>
-this way.
+Let's go. Noon should\n
+be up this way.
 <$00>
 
 
@@ -521,6 +565,14 @@ this way.
 Oxygen Miner 3：
 <$0D>
 //\nまたか、人の家に！ 静かにいたいんだ、\nほっといてくれ、シーシーシー…
+\n
+AgAIn?! LEAvE OthEr\n
+pEOplE And thEIr
+<$0C>
+prOpErty bE!\n
+SErIOsly, lEAvE Us\n
+AlOnE, whOOsh,\n
+whOOsh...
 <$00>
 
 
@@ -537,6 +589,11 @@ Oxygen Miner 3：
 Yolanda:
 <$0D>
 //\nはいはい、ごめんなさいね、\nもう来ませんってば。
+\n
+Oh, sorry! You don't\n
+mind me coming
+<$0C>
+through, do you?
 <$00>
 
 
@@ -634,7 +691,7 @@ April:
 //\nここの人たち、疑っているのよ…\n私たちのことを…
 \n
 The people in this\n
-town...I don't think
+town... I don't think
 <$0C>
 they trust us.
 <$00>
@@ -654,7 +711,7 @@ Yolanda:
 <$0D>
 //\nだって、取って食うわけじゃないのに…
 \n
-You said it. The "we\n
+You said it. The, "We\n
 come in peace," bit
 <$0C>
 isn't working so hot.
@@ -700,8 +757,8 @@ Yolanda:
 That's a good plan,\n
 but let's not mosey.
 <$0C>
-It's the Elder's\n
-residence we want.
+It's the elder's\n
+cottage we want.
 <$00>
 
 
@@ -720,9 +777,10 @@ April:
 //\n分かった。 そこの扉、ノックしてみたら。
 \n
 Right. As for the\n
-man, try knocking on
+oxygen miner, try
 <$0C>
-his front door first.
+knocking on his front\n
+door first.
 <$00>
 
 
@@ -741,10 +799,10 @@ Yolanda:
 //\nそうね。ノックしてみる。\nレディな雰囲気でね。
 \n
 Oh, that's a good\n
-idea! That is the
+idea! That would be
 <$0C>
-most lady-like way to\n
-go about this!
+the most lady-like\n
+way to go about this!
 <$00>
 
 
@@ -761,6 +819,12 @@ go about this!
 Yolanda:
 <$0D>
 //\nねぇ、ホントに分からないの？\nアタシのこと…分からないのね、そうなのね。
+\n
+You don't get what's\n
+going on, do you? You
+<$0C>
+don't know what I'm\n
+about.
 <$00>
 
 
@@ -819,10 +883,10 @@ Oxygen Miner 4：
 <$0D>
 //\nシーシー…すぐに出ていくのか？
 \n
-Whoosh, whoosh... Do\n
-you promise to leave
+WHooSH, WHooSH... Do\n
+You PRoMiSe To LeaVe
 <$0C>
-right after?
+RiGHT aFTeR?
 <$00>
 
 
@@ -840,11 +904,11 @@ Yolanda:
 <$0D>
 //\n出ていくわよ。\n町長屋敷にはどうやって行くの？
 \n
-Would I be a lady if\n
-I said "no"? Which
+Would it be lady-like\n
+if I said "no"? Which
 <$0C>
 way is it to the\n
-Elder's residence?
+elder's cottage?
 <$00>
 
 
@@ -862,11 +926,11 @@ Oxygen Miner 4：
 <$0D>
 //\nこの扉を抜けてまっすぐだ…\nこの扉を抜けないと着けないんだ。
 \n
-It's through this\n
-door. The house won't
+WaLK THRouGH THiS\n
+DooR. THe HouSe WoN'T
 <$0C>
-appear if you don't\n
-walk through it.
+aPPeaR iF You DoN'T\n
+CRoSS THe THReSHoLD.
 <$00>
 
 
@@ -884,8 +948,10 @@ Yolanda:
 <$0D>
 //\nじゃあ、通してよ。早く！
 \n
-Weird, but okay! Now,\n
-let me through.
+That's weird,\n
+but...okay! Now, let
+<$0C>
+me through.
 <$00>
 
 
@@ -903,7 +969,7 @@ Oxygen Miner 4：
 <$0D>
 //\nシー！
 \n
-Whoosh!
+WHooSH!
 <$00>
 
 
@@ -922,7 +988,7 @@ Yolanda:
 //\nシー！シー！シー！…これでどう？
 \n
 Whoosh! Whoosh!\n
-Whoosh!\n
+Whoosh?\n
 ...With a cherry on\n
 top?
 <$00>
@@ -942,8 +1008,8 @@ Oxygen Miner 4：
 <$0D>
 //\n分かった…通す。
 \n
-Anything for a lady.\n
-You may pass.
+ANYTHiNG FoR a LaDY.\n
+You MaY PaSS.
 <$00>
 
 
@@ -961,7 +1027,7 @@ Yolanda:
 <$0D>
 //\nこのまま、まっすぐね？
 \n
-So it's up this way?
+It's up this way?
 <$00>
 
 
@@ -979,7 +1045,7 @@ Oxygen Miner 4：
 <$0D>
 //\nまっすぐだ、シー。
 \n
-Up this way, whoosh.
+THiS WaY, WHooSH.
 <$00>
 
 
@@ -997,7 +1063,8 @@ Yolanda:
 <$0D>
 //\nこの先ね。
 \n
-So, down this road.
+M'kay, down this\n
+road.
 <$00>
 
 
@@ -1015,7 +1082,7 @@ Oxygen Miner 4：
 <$0D>
 //\nシー。
 \n
-Whoosh.
+WHooSH.
 <$00>
 
 
@@ -1033,15 +1100,14 @@ Oxygen Miner 3：
 <$0D>
 //\n何だ？
 \n
-A message?
+A mEssAgE?
 <$0C><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
 //\n建う、俺はそんな名前じゃない、シーシー。
-\n
-Oh, it's not for me,\n
-whoosh, whoosh.
+nOh, gUEss It's nOt\n
+fOr mE, whOOsh.
 <$00>
 
 
@@ -1101,11 +1167,11 @@ Oxygen Miner 3：
 <$0D>
 //\nなんだ、お前たちは！\n勝手に入るな、シーシーシー。
 \n
-Hey, stop that! You\n
-can't walk over here
+Hey, stOp thAt! YOU\n
+twO cAn't tOUch
 <$0C>
-without permission,\n
-whoosh!
+wIthOUt pErmIssIOn,\n
+whOOsh!
 <$00>
 
 
@@ -1123,8 +1189,10 @@ Yolanda:
 <$0D>
 //\n何かメッセージ、来てない？
 \n
-Oh, sorry. Didn't a\n
-message just come in?
+Oh, oopsie-me. Didn't\n
+a message just come
+<$0C>
+in?
 <$00>
 
 
@@ -1142,10 +1210,10 @@ Oxygen Miner 3：
 <$0D>
 //\n来てるが、勝手に入らないでくれ。
 \n
-One did, but that\n
-doesn't mean you can
+OnE dId, bUt thAt\n
+dOEsn't mEAn yOU cAn
 <$0C>
-walk over here!
+wAltz OvEr hErE!
 <$00>
 
 
@@ -1163,8 +1231,8 @@ Yolanda:
 <$0D>
 //\nだから、こうやって来たんじゃない。
 \n
-But what if the\n
-message is for us?
+What if the message\n
+is for us?
 <$00>
 
 
@@ -1182,8 +1250,10 @@ Oxygen Miner 3：
 <$0D>
 //\nシーシーシー！ ダメだ、出て行け！
 \n
-Whoosh-whoosh-whoosh!\n
-TOO BAD! GET OUT!
+WhOOsh, whOOsh,\n
+whOOsh! TOO BAD, GET
+<$0C>
+OUT!
 <$00>
 
 
@@ -1201,7 +1271,7 @@ Yolanda:
 <$0D>
 //\nシー！シー！
 \n
-WHOOSH! WHOOSH!
+Whoosh, whoosh!
 <$00>
 
 
@@ -1218,6 +1288,8 @@ WHOOSH! WHOOSH!
 Oxygen Miner 3：
 <$0D>
 //\n出て行け、シー。
+\n
+OUt, whOOsh.
 <$00>
 
 
@@ -1234,6 +1306,9 @@ Oxygen Miner 3：
 Yolanda:
 <$0D>
 //\nはいはい、そうしますよ。
+\n
+Fine, I got the\n
+message!
 <$00>
 
 
@@ -1257,20 +1332,36 @@ monitor, why not give
 it a look?
 <$00><$12><$0B>
 //酸索坑夫３号：
+Oxygen Miner 3：
 <$0D>
 //\nまただ、また来る、シー。\n静かに放っておいてくれ、
+\n
+HErE AgAIn, whOOsh.\n
+LEAvE Us bE qUIEtly.
 <$0C><$0B>
 //酸索坑夫３号：
+Oxygen Miner 3：
 <$0D>
 //\nシーシー、シー！
+\n
+WhOOsh, whOOsh,\n
+whOOsh!
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nやれやれ、話にならないわね。
+\n
+Sorry, that's out of\n
+the question.
 <$00><$12><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n気付かれちゃ、ダメなのよ。
+\n
+We can't let them\n
+notice.
 <$00>
 
 
@@ -1306,12 +1397,12 @@ Yolanda:
 <$0D>
 //\nあーあーよ。新しい事実がどうのこうの…\nまたあの名前で呼んでたわ…アタシのこと…
 \n
-Ayyye! Did you hear?\n
-I'm a "new reality"
+Ayyye, guess I'm a\n
+"new reality" now!
 <$0C>
-now! Does NO ONE\n
-consider that I have\n
-a name?
+Because NO ONE cares\n
+that I might have a\n
+name already!
 <$00>
 
 
@@ -1329,7 +1420,7 @@ April:
 <$0D>
 //\n…ちょっとやってみるね。
 \n
-..Let's try this.
+...Let's try this.
 <$00>
 
 
@@ -1369,10 +1460,10 @@ April:
 <$0D>
 //\nヌーンはあんな屋敷に住んだことはないの。
 \n
-Noon has never lived\n
-in a weird mansion
+Noon never lived in a\n
+weird mansion like
 <$0C>
-like that!
+this!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -1390,10 +1481,8 @@ April:
 <$0D>
 //\nああ、ダメ、もう少しでつながるのに。
 \n
-...Aww, dang. Right\n
-when I thought we had
-<$0C>
-a connection.
+Drats. Right when I\n
+thought we had an in.
 <$00>
 
 

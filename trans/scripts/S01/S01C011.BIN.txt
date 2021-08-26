@@ -18,9 +18,9 @@ Noon:
 //\nでもなんで、ガリルって野郎は姿を\nくらませたんだ？
 \n
 What would drive\n
-Garyl to vanish like
+Galil to vanish like
 <$0C>
-he did?
+'e did?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -44,18 +44,18 @@ dead for all we know.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nガリル大佐は火星が秘めている\nよこしまな力に憑かれたのだ。
 \n
 Officials suspect\n
-Col. Garyl was
+Colonel Galil
 <$0C>
-overtaken by a wicked\n
+succumbed to a wicked\n
 power hidden on Mars.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nよほど強い意志の持ち主でない限り、\nあらぬ妄想にとらわれてしまうというぞ。
 \n
@@ -63,17 +63,19 @@ When on Mars, we\n
 humans risk exposing
 <$0C>
 ourselves to strange\n
-delusions.
+hallucinations.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n自分を見失ってしまうというぞ。
+\n
 Without considerable\n
-willpower, you can\n
-easily lose yourself
+mental fortitude, on
 <$0C>
-to the fantasy.
+can easily lose\n
+themself to the\n
+delusion.
 <$00>
 
 
@@ -91,7 +93,7 @@ Noon:
 <$0D>
 //\nへっ、どんな妄想なんだ？
 \n
-Pfft! Fantasy, huh?
+Pfft! Fantasy, aye?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -108,11 +110,12 @@ Noon:
 <$0D>
 //\nクリスマスだっていうのに、\n妄想野郎のお相手か。
 \n
-Hell, I need some now\n
-to think this job and
+Hell, I need fantasy\n
+now, if I'm to think
 <$0C>
-the Garyl business\n
-isn't a waste of\n
+this job and the\n
+Galil business isn't\n
+a waste o' me damn\n
 time.
 <$0C><$0B>
 //ヌーン：
@@ -120,10 +123,8 @@ Noon:
 <$0D>
 //\nこんなところで！\nちくしょう！
 \n
-What a damned sorry\n
-way to spend
-<$0C>
-Christmas!
+This is a sorry way\n
+to spend Christmas!
 <$00>
 
 
@@ -141,32 +142,33 @@ April:
 <$0D>
 //\nオクトーバー司令官によると、\n火星の土がいけないんだって。
 \n
-According to Comd.\n
-October, Mars's
+According to\n
+Commander October,
 <$0C>
-topsoil is toxic to\n
-humans.
+Mars's topsoil is\n
+toxic to humans.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n土が人の心に悪い影響を与える…\nだから私が呼ばれたの。
 \n
-Exposure can have\n
-negative effects on
+Surface exposure can\n
+have negative effects
 <$0C>
-the human mind.\n
+on the human mind.\n
 That's why I'm here.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nサンプルを持ち帰って調べるのよ。\n地質学的な問顆だそうよ。
-I was called to study\n
-samples and solve\n
-this geological
+\n
+I was called to\n
+extract and review
 <$0C>
-puzzle.
+samples to solve this\n
+geological puzzle.
 <$00>
 
 
@@ -180,27 +182,28 @@ puzzle.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nふふ、地質学的問顆？ モノは言いようだな。\n土だと…ふふふ…
 \n
-A "geological\n
-puzzle"...\n
+A geological\n
+puzzle...?\n
 Hehehe, interesting!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n星全体が悪意を秘めているんだ。\nガリル大佐はその悪意に触れたに建いない。
 \n
 If Mars is topped\n
-with bad soil, maybe
+with contaminated
 <$0C>
-Col. Garyl picked up\n
-its ill will.
+soil, maybe that's\n
+what made Colonel\n
+Galil sick...
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n神は死んだ、光の私。
 \n
@@ -224,19 +227,21 @@ Noon:
 //\n何だ？ 光の私？ やつの言葉か。\n光の私ってどういうことだ？
 \n
 "I am the light."\n
-What does that even
+What's that even
 <$0C>
-mean, huh?
+mean, eh?
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\n輝いてるのか？\n火星で、輝いてるってのか。
 \n
-Is there glitter now?\n
-Is Mars made of
+What's he mean,\n
+Christmas lights? Is
 <$0C>
-freaking glitter?
+Mars covered in\n
+bloomin' Christmas\n
+lights now?
 <$00>
 
 
@@ -249,12 +254,12 @@ freaking glitter?
 #WHB(PTR, $00000649)
 
 //離 ただいま火星の軌道に入りました。\n
-離 We are now in\n
-Mars's orbit.\n
+離 THE PHOENIX IS NOW\n
+IN MARS'S ORBIT.\n
 <$0E><$0F>
 //ただいま火星の軌道に入りました。
-We are now in Mars's\n
-orbit.
+THE PHOENIX IS NOW IN\n
+MARS' ORBIT.
 <$00>
 
 
@@ -275,7 +280,8 @@ Noon:
 We're finally on\n
 Mars.\n
 Are you two sure\n
-you're up to snuff?
+you're up to the\n
+task?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -285,8 +291,8 @@ Noon:
 Can we count on a\n
 rookie radio engineer
 <$0C>
-and a prodigious rock\n
-nerd?
+and a geology boffin\n
+out here in space?
 <$00>
 
 
@@ -300,7 +306,7 @@ nerd?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、よせ。誰にでも初心者の時期はある。
 \n
@@ -308,12 +314,15 @@ Everyone has a first\n
 time, Noon.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nライカ、君は宇宙飛行は確か…
 \n
-Laika, is this your\n
-first spaceflight?
+Laika, you haven't\n
+experienced
+<$0C>
+spaceflight before,\n
+have you?
 <$00>
 
 
@@ -349,7 +358,7 @@ there.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nふっ、人エ衛星の修理とはな。
 \n
@@ -359,14 +368,14 @@ Speaking of\n
 "artificial"...
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nライカか… ニックネームだな。\n本当はなんて言うんだ？
 \n
 Laika's a nickname,\n
 right?\n
-What's your real\n
-name?
+What's on your\n
+paperwork?
 <$00>
 
 
@@ -380,14 +389,14 @@ name?
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n
 \n
 <$0F>
 //か。\n由緒ある名前だ。
 ? Sounds fancy.\n
-Your folks have some\n
+Your folks had some\n
 pedigree.
 <$00>
 
@@ -406,10 +415,10 @@ Noon:
 <$0D>
 //\nでもよう、\nずっとずっとライカって呼んできたからな、
 \n
-Maybe, but I've\n
-already used to
+Maybe, but I'm too\n
+used to calling you
 <$0C>
-calling you "Laika".
+"Laika".
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -429,8 +438,10 @@ Laika!
 
 #WHB(PTR, $00002F6D)
 
-よろしいですか？
+//よろしいですか？
+Confirm name?
 <$00><$00>
+
 
 
 
@@ -440,8 +451,10 @@ Laika!
 
 #WHB(PTR, $00002F71)
 
-この名前は使えません
+//この名前は使えません
+This name won't work!
 <$00><$00>
+
 
 
 
@@ -451,8 +464,10 @@ Laika!
 
 #WHB(PTR, $00002F75)
 
-はい
+//はい
+Yes
 <$00><$00>
+
 
 
 
@@ -462,8 +477,10 @@ Laika!
 
 #WHB(PTR, $00002F79)
 
-いいえ
+//いいえ
+No
 <$00>
+
 
 
 
@@ -473,8 +490,10 @@ Laika!
 
 #WHB(PTR, $00002F7D)
 
-ア
+//ア
+A
 <$00>
+
 
 
 
@@ -484,8 +503,10 @@ Laika!
 
 #WHB(PTR, $00002F81)
 
-イ
+//イ
+B
 <$00>
+
 
 
 
@@ -495,8 +516,10 @@ Laika!
 
 #WHB(PTR, $00002F85)
 
-ウ
+//ウ
+C
 <$00>
+
 
 
 
@@ -506,8 +529,10 @@ Laika!
 
 #WHB(PTR, $00002F89)
 
-エ
+//エ
+D
 <$00>
+
 
 
 
@@ -517,8 +542,10 @@ Laika!
 
 #WHB(PTR, $00002F8D)
 
-オ
+//オ
+E
 <$00>
+
 
 
 
@@ -528,8 +555,10 @@ Laika!
 
 #WHB(PTR, $00002F91)
 
-ワ
+//ワ
+a
 <$00>
+
 
 
 
@@ -539,8 +568,10 @@ Laika!
 
 #WHB(PTR, $00002F95)
 
-※
+//※
+b
 <$00>
+
 
 
 
@@ -550,8 +581,10 @@ Laika!
 
 #WHB(PTR, $00002F99)
 
-ヲ
+//ヲ
+c
 <$00>
+
 
 
 
@@ -561,8 +594,10 @@ Laika!
 
 #WHB(PTR, $00002F9D)
 
-※
+//※
+b
 <$00>
+
 
 
 
@@ -572,8 +607,10 @@ Laika!
 
 #WHB(PTR, $00002FA1)
 
-ン
+//ン
+e
 <$00>
+
 
 
 
@@ -583,8 +620,10 @@ Laika!
 
 #WHB(PTR, $00002FA5)
 
-カ
+//カ
+F
 <$00>
+
 
 
 
@@ -594,8 +633,10 @@ Laika!
 
 #WHB(PTR, $00002FA9)
 
-キ
+//キ
+G
 <$00>
+
 
 
 
@@ -605,8 +646,10 @@ Laika!
 
 #WHB(PTR, $00002FAD)
 
-ク
+//ク
+H
 <$00>
+
 
 
 
@@ -616,8 +659,10 @@ Laika!
 
 #WHB(PTR, $00002FB1)
 
-ケ
+//ケ
+I
 <$00>
+
 
 
 
@@ -627,8 +672,10 @@ Laika!
 
 #WHB(PTR, $00002FB5)
 
-コ
+//コ
+J
 <$00>
+
 
 
 
@@ -638,8 +685,10 @@ Laika!
 
 #WHB(PTR, $00002FB9)
 
-ガ
+//ガ
+f
 <$00>
+
 
 
 
@@ -649,8 +698,10 @@ Laika!
 
 #WHB(PTR, $00002FBD)
 
-ギ
+//ギ
+g
 <$00>
+
 
 
 
@@ -660,8 +711,10 @@ Laika!
 
 #WHB(PTR, $00002FC1)
 
-グ
+//グ
+h
 <$00>
+
 
 
 
@@ -671,8 +724,10 @@ Laika!
 
 #WHB(PTR, $00002FC5)
 
-ゲ
+//ゲ
+i
 <$00>
+
 
 
 
@@ -682,8 +737,10 @@ Laika!
 
 #WHB(PTR, $00002FC9)
 
-ゴ
+//ゴ
+j
 <$00>
+
 
 
 
@@ -693,8 +750,10 @@ Laika!
 
 #WHB(PTR, $00002FCD)
 
-サ
+//サ
+K
 <$00>
+
 
 
 
@@ -704,8 +763,10 @@ Laika!
 
 #WHB(PTR, $00002FD1)
 
-シ
+//シ
+L
 <$00>
+
 
 
 
@@ -715,8 +776,10 @@ Laika!
 
 #WHB(PTR, $00002FD5)
 
-ス
+//ス
+M
 <$00>
+
 
 
 
@@ -726,8 +789,10 @@ Laika!
 
 #WHB(PTR, $00002FD9)
 
-セ
+//セ
+N
 <$00>
+
 
 
 
@@ -737,8 +802,10 @@ Laika!
 
 #WHB(PTR, $00002FDD)
 
-ソ
+//ソ
+O
 <$00>
+
 
 
 
@@ -748,8 +815,10 @@ Laika!
 
 #WHB(PTR, $00002FE1)
 
-ザ
+//ザ
+k
 <$00>
+
 
 
 
@@ -759,8 +828,10 @@ Laika!
 
 #WHB(PTR, $00002FE5)
 
-ジ
+//ジ
+l
 <$00>
+
 
 
 
@@ -770,8 +841,10 @@ Laika!
 
 #WHB(PTR, $00002FE9)
 
-ズ
+//ズ
+m
 <$00>
+
 
 
 
@@ -781,8 +854,10 @@ Laika!
 
 #WHB(PTR, $00002FED)
 
-ゼ
+//ゼ
+n
 <$00>
+
 
 
 
@@ -792,8 +867,10 @@ Laika!
 
 #WHB(PTR, $00002FF1)
 
-ゾ
+//ゾ
+o
 <$00>
+
 
 
 
@@ -803,8 +880,10 @@ Laika!
 
 #WHB(PTR, $00002FF5)
 
-タ
+//タ
+P
 <$00>
+
 
 
 
@@ -814,8 +893,10 @@ Laika!
 
 #WHB(PTR, $00002FF9)
 
-チ
+//チ
+Q
 <$00>
+
 
 
 
@@ -825,8 +906,10 @@ Laika!
 
 #WHB(PTR, $00002FFD)
 
-ツ
+//ツ
+R
 <$00>
+
 
 
 
@@ -836,8 +919,10 @@ Laika!
 
 #WHB(PTR, $00003001)
 
-テ
+//テ
+S
 <$00>
+
 
 
 
@@ -847,8 +932,10 @@ Laika!
 
 #WHB(PTR, $00003005)
 
-ト
+//ト
+T
 <$00>
+
 
 
 
@@ -858,8 +945,10 @@ Laika!
 
 #WHB(PTR, $00003009)
 
-ダ
+//ダ
+p
 <$00>
+
 
 
 
@@ -869,8 +958,10 @@ Laika!
 
 #WHB(PTR, $0000300D)
 
-ヂ
+//ヂ
+q
 <$00>
+
 
 
 
@@ -880,8 +971,10 @@ Laika!
 
 #WHB(PTR, $00003011)
 
-ヅ
+//ヅ
+e
 <$00>
+
 
 
 
@@ -891,8 +984,10 @@ Laika!
 
 #WHB(PTR, $00003015)
 
-デ
+//デ
+s
 <$00>
+
 
 
 
@@ -902,8 +997,10 @@ Laika!
 
 #WHB(PTR, $00003019)
 
-ド
+//ド
+t
 <$00>
+
 
 
 
@@ -913,8 +1010,10 @@ Laika!
 
 #WHB(PTR, $0000301D)
 
-ナ
+//ナ
+U
 <$00>
+
 
 
 
@@ -924,8 +1023,10 @@ Laika!
 
 #WHB(PTR, $00003021)
 
-ニ
+//ニ
+V
 <$00>
+
 
 
 
@@ -935,8 +1036,10 @@ Laika!
 
 #WHB(PTR, $00003025)
 
-ヌ
+//ヌ
+W
 <$00>
+
 
 
 
@@ -946,8 +1049,10 @@ Laika!
 
 #WHB(PTR, $00003029)
 
-ネ
+//ネ
+X
 <$00>
+
 
 
 
@@ -957,8 +1062,10 @@ Laika!
 
 #WHB(PTR, $0000302D)
 
-ノ
+//ノ
+Y
 <$00>
+
 
 
 
@@ -968,8 +1075,10 @@ Laika!
 
 #WHB(PTR, $00003031)
 
-バ
+//バ
+u
 <$00>
+
 
 
 
@@ -979,8 +1088,10 @@ Laika!
 
 #WHB(PTR, $00003035)
 
-ビ
+//ビ
+v
 <$00>
+
 
 
 
@@ -990,8 +1101,10 @@ Laika!
 
 #WHB(PTR, $00003039)
 
-ブ
+//ブ
+w
 <$00>
+
 
 
 
@@ -1001,8 +1114,10 @@ Laika!
 
 #WHB(PTR, $0000303D)
 
-ベ
+//ベ
+x
 <$00>
+
 
 
 
@@ -1012,8 +1127,10 @@ Laika!
 
 #WHB(PTR, $00003041)
 
-ボ
+//ボ
+y
 <$00>
+
 
 
 
@@ -1023,8 +1140,10 @@ Laika!
 
 #WHB(PTR, $00003045)
 
-ハ
+//ハ
+Z
 <$00>
+
 
 
 
@@ -1034,8 +1153,10 @@ Laika!
 
 #WHB(PTR, $00003049)
 
-ヒ
+//ヒ
+※
 <$00>
+
 
 
 
@@ -1045,8 +1166,10 @@ Laika!
 
 #WHB(PTR, $0000304D)
 
-フ
+//フ
+※
 <$00>
+
 
 
 
@@ -1056,8 +1179,10 @@ Laika!
 
 #WHB(PTR, $00003051)
 
-ヘ
+//ヘ
+※
 <$00>
+
 
 
 
@@ -1067,8 +1192,10 @@ Laika!
 
 #WHB(PTR, $00003055)
 
-ホ
+//ホ
+※
 <$00>
+
 
 
 
@@ -1078,8 +1205,10 @@ Laika!
 
 #WHB(PTR, $00003059)
 
-パ
+//パ
+z
 <$00>
+
 
 
 
@@ -1089,8 +1218,10 @@ Laika!
 
 #WHB(PTR, $0000305D)
 
-ピ
+//ピ
+※
 <$00>
+
 
 
 
@@ -1100,8 +1231,10 @@ Laika!
 
 #WHB(PTR, $00003061)
 
-プ
+//プ
+※
 <$00>
+
 
 
 
@@ -1111,8 +1244,10 @@ Laika!
 
 #WHB(PTR, $00003065)
 
-ペ
+//ペ
+※
 <$00>
+
 
 
 
@@ -1122,8 +1257,10 @@ Laika!
 
 #WHB(PTR, $00003069)
 
-ポ
+//ポ
+※
 <$00>
+
 
 
 
@@ -1133,8 +1270,10 @@ Laika!
 
 #WHB(PTR, $0000306D)
 
-マ
+//マ
+1
 <$00>
+
 
 
 
@@ -1144,8 +1283,10 @@ Laika!
 
 #WHB(PTR, $00003071)
 
-ミ
+//ミ
+2
 <$00>
+
 
 
 
@@ -1155,8 +1296,10 @@ Laika!
 
 #WHB(PTR, $00003075)
 
-ム
+//ム
+3
 <$00>
+
 
 
 
@@ -1166,8 +1309,10 @@ Laika!
 
 #WHB(PTR, $00003079)
 
-メ
+//メ
+4
 <$00>
+
 
 
 
@@ -1177,8 +1322,10 @@ Laika!
 
 #WHB(PTR, $0000307D)
 
-モ
+//モ
+5
 <$00>
+
 
 
 
@@ -1188,8 +1335,10 @@ Laika!
 
 #WHB(PTR, $00003081)
 
-ァ
+//ァ
+6
 <$00>
+
 
 
 
@@ -1199,8 +1348,10 @@ Laika!
 
 #WHB(PTR, $00003085)
 
-ィ
+//ィ
+7
 <$00>
+
 
 
 
@@ -1210,8 +1361,10 @@ Laika!
 
 #WHB(PTR, $00003089)
 
-ゥ
+//ゥ
+8
 <$00>
+
 
 
 
@@ -1221,8 +1374,10 @@ Laika!
 
 #WHB(PTR, $0000308D)
 
-ェ
+//ェ
+9
 <$00>
+
 
 
 
@@ -1232,8 +1387,10 @@ Laika!
 
 #WHB(PTR, $00003091)
 
-ォ
+//ォ
+0
 <$00>
+
 
 
 
@@ -1243,8 +1400,10 @@ Laika!
 
 #WHB(PTR, $00003095)
 
-ヤ
+//ヤ
+.
 <$00>
+
 
 
 
@@ -1254,8 +1413,10 @@ Laika!
 
 #WHB(PTR, $00003099)
 
-※
+//※
+b
 <$00>
+
 
 
 
@@ -1265,8 +1426,10 @@ Laika!
 
 #WHB(PTR, $0000309D)
 
-ユ
+//ユ
+-
 <$00>
+
 
 
 
@@ -1276,8 +1439,10 @@ Laika!
 
 #WHB(PTR, $000030A1)
 
-※
+//※
+b
 <$00>
+
 
 
 
@@ -1287,8 +1452,10 @@ Laika!
 
 #WHB(PTR, $000030A5)
 
-ヨ
+//ヨ
+?
 <$00>
+
 
 
 
@@ -1298,8 +1465,10 @@ Laika!
 
 #WHB(PTR, $000030A9)
 
-ッ
+//ッ
+'
 <$00>
+
 
 
 
@@ -1309,8 +1478,10 @@ Laika!
 
 #WHB(PTR, $000030AD)
 
-ャ
+//ャ
+※
 <$00>
+
 
 
 
@@ -1320,8 +1491,10 @@ Laika!
 
 #WHB(PTR, $000030B1)
 
-ュ
+//ュ
+@
 <$00>
+
 
 
 
@@ -1331,8 +1504,10 @@ Laika!
 
 #WHB(PTR, $000030B5)
 
-ョ
+//ョ
+※
 <$00>
+
 
 
 
@@ -1342,8 +1517,10 @@ Laika!
 
 #WHB(PTR, $000030B9)
 
-ー
+//ー
+#
 <$00>
+
 
 
 
@@ -1353,8 +1530,10 @@ Laika!
 
 #WHB(PTR, $000030BD)
 
-ラ
+//ラ
+※
 <$00>
+
 
 
 
@@ -1364,8 +1543,10 @@ Laika!
 
 #WHB(PTR, $000030C1)
 
-リ
+//リ
+※
 <$00>
+
 
 
 
@@ -1375,8 +1556,10 @@ Laika!
 
 #WHB(PTR, $000030C5)
 
-ル
+//ル
+※
 <$00>
+
 
 
 
@@ -1386,8 +1569,10 @@ Laika!
 
 #WHB(PTR, $000030C9)
 
-レ
+//レ
+※
 <$00>
+
 
 
 
@@ -1397,8 +1582,10 @@ Laika!
 
 #WHB(PTR, $000030CD)
 
-ロ
+//ロ
+※
 <$00><$00><$00>
+
 
 
 
@@ -1408,8 +1595,10 @@ Laika!
 
 #WHB(PTR, $000030D1)
 
-ノフ
+//ノフ
+nov
 <$00><$00>
+
 
 
 
@@ -1419,8 +1608,10 @@ Laika!
 
 #WHB(PTR, $000030D5)
 
-ライカ
+//ライカ
+Laika
 <$00>
+
 
 
 

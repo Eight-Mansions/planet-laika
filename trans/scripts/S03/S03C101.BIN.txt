@@ -12,8 +12,8 @@
 #WHB(PTR, $000004A9)
 
 //野あ、レッドボーイ、\nサンタのおじさんだよ。
-Yes, Red Boy, it's\n
-Uncle Santa!
+野Yes, Red Boy!\n
+It's me, Uncle Santa!
 <$00>
 
 
@@ -32,7 +32,7 @@ Red:
 //\n来るな。 消えろ！ 失せろ！
 \n
 Don't come near me!\n
-Disappear! Get lost!
+Get lost! Disappear!
 <$00>
 
 
@@ -47,10 +47,10 @@ Disappear! Get lost!
 //広じさんに向かってひどいじゃないか。\n可愛いおしりをひんむいちゃうぞ。
 Isn't that a rude\n
 thing to say to your\n
-uncle? Strip off and
-<$0C>
-show me that cute ass\n
-of yours.
+uncle?\n
+Strip off and show me\n
+that cute ass of\n
+yours.
 <$00>
 
 
@@ -68,7 +68,8 @@ Red:
 <$0D>
 //\nくそったれ！ くたばれ！
 \n
-Screw you! Drop dead!
+S-screw you! Drop\n
+dead!
 <$00>
 
 
@@ -83,8 +84,9 @@ Screw you! Drop dead!
 //仮い言葉はいけないよ。\nさあ、一緒に遊ぼう、青少年の家で遊ぼう。
 Watch your mouth!\n
 Come on, let's play\n
-together. Let's play,
+together. That's
 <$0C>
+right, we're going\n
 back in the dog\n
 house.
 <$00>
@@ -105,7 +107,7 @@ Red:
 //\nイヤだ、行かないぞ、俺はイヤだ！
 \n
 No, I won't go! I\n
-won't!
+WON'T!
 <$00>
 
 
@@ -118,7 +120,7 @@ won't!
 #WHB(PTR, $00000515)
 
 //勢ンスの時間だ、ボーイ。
-It's time to dance,\n
+勢It's time to dance,\n
 Boy!
 <$00>
 
@@ -141,8 +143,8 @@ Hehehe... You're\n
 finally here, Uncle.
 <$0C>
 You caught me, Uncle\n
-Bubbles. Hehehe,\n
-hehehehehe....!
+Bubbles. Hehe,\n
+hehehe!
 <$00>
 
 
@@ -159,16 +161,28 @@ hehehehehe....!
 Red:
 <$0D>
 //\nへへへ、ついに来やがった、おじさんだ。
+\n
+Hehehe, you're\n
+finally here, Uncle.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nへへ… 俺はどうなるんだ…\nこれが用済みってことなのか？
+\n
+Hehe, what will\n
+happen to me now?
+<$0C>
+Will I have...served\n
+my purpose?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nああ、用済み、あああああああああああ…
+\n
+Ah, guess I'll be\n
+obsolete ag... Ahh...
 <$00>
 
 

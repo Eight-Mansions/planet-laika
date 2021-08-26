@@ -32,7 +32,7 @@ thing.
 
 <$12><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nこのままではまずいな。
 \n
@@ -53,7 +53,7 @@ through this.
 
 <$12><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nヌーン、どこかに待避場所はないのか？
 \n
@@ -79,9 +79,10 @@ the area?
 //\nああ、砂だ…ちくしょう、ざらざらしてきた、\n頭ん中までざらざら、ざらざらだ。
 \n
 Am I the only one who\n
-hates sand?\n
-It's up to my goddamn\n
-ears here!
+despises sand?
+<$0C>
+Blimey, it's up to my\n
+ears!
 <$0E><$1E><$17><$00>
 
 
@@ -100,7 +101,7 @@ ears here!
 //\n近くに避難小屋があるはずよ。ねぇ、ヌーン。
 \n
 There should be a\n
-safe room nearby,
+safe house nearby,
 <$0C>
 right Noon?
 <$0E><$14><$17><$00>
@@ -120,8 +121,8 @@ right Noon?
 <$0D>
 //\nあああ、避難小屋だ。\n
 \n
-Ohhhh, right! A safe\n
-room!\n
+Ohhh, right! A safe\n
+'ouse!\n
 <$0E><$14><$17><$00>
 
 
@@ -140,7 +141,7 @@ room!\n
 //\nご一行は避難小屋に着きました、\nそこでおネンネしました、
 \n
 "The crew found a\n
-safe room,\n
+safe 'ouse,\n
 and went blissfully\n
 to sleep..."
 <$0E><$1E><$17><$00>
@@ -160,10 +161,11 @@ to sleep..."
 <$0D>
 //\n目が覚めたらおウチでした。
 \n
-"And when they woke\n
-up, they were already
+"...and when they\n
+woke up, they were
 <$0C>
-home."
+already 'ome on\n
+Earth!"
 <$0E><$14><$17><$00>
 
 
@@ -184,7 +186,7 @@ home."
 "Mars was declared\n
 peaceful, and they
 <$0C>
-all lived happily\n
+all lived 'appily\n
 ever after. THE END!"
 <$0E><$1E><$17><$00>
 
@@ -199,13 +201,14 @@ ever after. THE END!"
 
 <$12><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nヌーン、おくれてるぞ。\nライカ、どうした、ペースを上げるんだ！
 \n
 Stop dragging your\n
-ass, Noon.\n
-And where's Laika?
+ass, Noon. And
+<$0C>
+where's Laika?
 <$0E><$1E><$17><$00>
 
 
@@ -219,14 +222,14 @@ And where's Laika?
 
 <$12><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nライカ！ なにをぐずぐずしてる、\nはぐれてしまうぞ！
 \n
 Laika, don't fall\n
-behind!\n
-You'll get yourself\n
-lost!
+behind! You'll get
+<$0C>
+yourself lost!
 <$0E><$3C><$17><$00>
 
 

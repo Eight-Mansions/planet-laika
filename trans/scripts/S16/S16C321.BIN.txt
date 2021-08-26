@@ -13,7 +13,7 @@
 
 <$00><$14><$02><$11>
 //青ロデはおびえきっている。お前はどうだ？
-Herod is frightened.\n
+青Herod is frightened.\n
 Are you?
 <$0E><$78><$17><$00>
 
@@ -28,8 +28,9 @@ Are you?
 
 <$00><$14><$02><$11>
 //〇はれ、眠れ、お前の夢で飛びはねてやる。
-Rest up, lay down, up\n
-and down the dream!
+〇Rest up, lay down,\n
+up and down the\n
+dream!
 <$0E><$78><$17><$00>
 
 
@@ -43,7 +44,7 @@ and down the dream!
 
 <$00><$14><$02><$11>
 //急前はこの悪夢からニ度と覚めることはない。
-You will never wake\n
+急You will never wake\n
 from this nightmare!
 <$0E><$78><$17><$00>
 

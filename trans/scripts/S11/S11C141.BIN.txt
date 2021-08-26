@@ -17,11 +17,10 @@ Mountain:
 <$0D>
 //\nあんたも見えるんだな、あの目が。そうだろう、\nタイプなんだよ、私たちと同じタイプだ。
 \n
-You were able to see\n
-that eye, so you must
+If you saw the eye,\n
+you must be the same
 <$0C>
-be the same type as\n
-us.
+type as us!
 <$00>
 
 
@@ -39,11 +38,11 @@ Mountain:
 <$0D>
 //\nいろんなことが関連づいてる。\nおい、ロックバースの奇跡を知ってるか？
 \n
-We are connected to\n
-all things. Have you
+Everything is\n
+connected! Why,
 <$0C>
-heard of the rock\n
-birth miracle?
+you've heard of rock\n
+birth, haven't you?
 <$1B>
 //。知っている\n知らない
 。Yes\n
@@ -69,8 +68,8 @@ Yang:
 the world was born
 <$0C>
 from rocks, unlike\n
-what those\n
-"prophecies" say.
+what those prophecies\n
+say.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -80,8 +79,9 @@ Yang:
 Spouting that bull is\n
 what got Jeremiah
 <$0C>
-exiled. And now, he's\n
-rotting away.
+exiled. And now, his\n
+mummy is rotting\n
+away.
 <$00>
 
 
@@ -102,19 +102,20 @@ Mountain:
 Rock birth is Mars'\n
 very destiny. That
 <$0C>
-Garyl idiot had the\n
-wrong idea too.
+Galil idiot never had\n
+the right idea.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nガリルとか言うバカも関係ない、これは宇宙の\n波動がもたらすイベントなんだ。
 \n
-The real miracle will\n
-be a seismic event
+You see, the real\n
+miracle will be a
 <$0C>
-brought on by waves\n
-from outer space.
+seismic event brought\n
+on by waves from\n
+outer space.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -122,10 +123,9 @@ Mountain:
 //\nそしていよいよその時が来たのだ。
 \n
 And now, the hour for\n
-that seismic event to
+that seismic event is
 <$0C>
-take place has\n
-finally come!
+finally upon us!
 <$00>
 
 
@@ -169,18 +169,19 @@ By nature, the\n
 disturbance will be
 <$0C>
 serious, and various\n
-senses could be lost.
+senses could be cut\n
+off.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\n例えば３だ。３と１は緊張した関係にある。\n同じ奇数というだけではない。
 \n
-Take "three", for\n
-example. Three and
+Anyways, think about\n
+the number three.
 <$0C>
-one are closed\n
-connected odd\n
+Three and one are\n
+closely connected odd\n
 numbers.
 <$0C><$0B>
 //マウンテン：
@@ -189,9 +190,10 @@ Mountain:
 //\n３と１だ、お前はどっちの味方なんだ？
 \n
 And yet, they are not\n
-the same! "3" or "1",
+the same! Three or
 <$0C>
-which do you choose?
+one: which do you\n
+choose?
 <$1B>
 //「３\n１
 「３\n
@@ -214,9 +216,9 @@ Yang:
 //\nマウンテンはな、どんなことでも\n関係に目が行くんだ。
 \n
 As Mountain said,\n
-we've all got
+we're all connected
 <$0C>
-connections to stuff.
+in crazy ways.
 <$00>
 
 
@@ -234,11 +236,12 @@ Mountain:
 <$0D>
 //\nつながった１と３はプラスの世界ではもちろん、\nマイナスの世界でも緊張関係にある。
 \n
-Positive "1" and "3"\n
-are tightly
+Positive "one" and\n
+"three" are tightly
 <$0C>
 connected, as are\n
-negative "1" and "3".
+negative "one" and\n
+"three".
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -249,8 +252,8 @@ I noticed that\n
 yin/yang
 <$0C>
 relationship, and\n
-made this machine-\n
-Space A.M.P.!
+made this machine:\n
+the Space A.M.P.!
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -390,8 +393,8 @@ overlooked it too,
 didn't you?
 <$1B>
 //,見落としてきた\n見落とさなかった
-,Right!\n
-Wrong!
+,Yes\n
+No
 <$00><$17><$00>
 
 
@@ -429,7 +432,7 @@ know.
 <$0D>
 //\nそうだ、金星人だ。
 \n
-Right! About the\n
+Yes! About the\n
 Venusians!
 <$0C><$0B>
 //マウンテン：
@@ -511,7 +514,7 @@ Mountain:
 <$0D>
 //\nイーブルマインドが増えて、\n世界がにごり始めてる。
 \n
-For example, the Evil\n
+One, being the Evil\n
 Mind further clouding
 <$0C>
 our atmosphere.
@@ -544,7 +547,7 @@ Yang:
 //\n実験を急ぐんだ、\n世界がにごる前になんとかするんだ。
 \n
 We must hasten our\n
-experiments, and do
+experiment, and do
 <$0C>
 something before the\n
 world gets too\n
@@ -601,10 +604,17 @@ you...
 #WHB(PTR, $000014A5)
 
 <$10><$0B>
-ヤング：
+//ヤング：
+Yang:
 <$0D>
-\nおいおい、どこ行くつもりだ。\n見てくれ、眼だ、あの眼だよ！
+//\nおいおい、どこ行くつもりだ。\n見てくれ、眼だ、あの眼だよ！
+\n
+Hey, where are you\n
+going? Go look at
+<$0C>
+that eye. That eye!
 <$00>
+
 
 
 
@@ -635,8 +645,8 @@ Mountain:
 There's no way you\n
 couldn't see it!
 <$0C>
-C'mon, what did you\n
-see?
+C'mon, tell us what\n
+you saw?
 <$00>
 
 
@@ -768,7 +778,7 @@ Ugh, fine. Well, did\n
 you ever see
 <$0C>
 Yosemites journal\n
-here in Psycho House?
+here in Psycho Lab?
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -803,12 +813,12 @@ Mountain:
 <$0D>
 //\nああ、ヨセミテには多くを学んだ…\n彼の日記が見えれば、お前は仲間だ。
 \n
-Ah, we learned so\n
+Oh, we learned so\n
 much from Yosemite!
 <$0C>
-If you can see his\n
-journal, you're one\n
-of us!
+If you're one of us,\n
+you can find his\n
+journal!
 <$00>
 
 
@@ -857,7 +867,8 @@ able to see it!
 Mountain:
 <$0D>
 //\nああ、そうだな。
-nWell, that may be\n
+\n
+Well, that may be\n
 true.
 <$0C><$0B>
 //マウンテン：
@@ -942,8 +953,16 @@ None of it's real.
 Yang:
 <$0D>
 //\n無線テレビなんかより実験だ、\n今夜の実験にはお前も参加するんだ、いいな。
+\n
+Our experiment will\n
+be much cooler than
+<$0C>
+that monitor. You\n
+should join us\n
+tonight!
 <$1E>
 //理
+理
 <$00>
 
 
@@ -965,10 +984,8 @@ Mountain:
 <$0D>
 //\nどうした、\n波動を惑じるようになったのか？
 \n
-Well, kid, can you?\n
-Can you sense the
-<$0C>
-waves?
+Well, kid, can you\n
+sense the waves?
 <$00>
 
 
@@ -1105,30 +1122,30 @@ you say!
 #WHB(PTR, $00000E11)
 
 //子オクトーバー司令官：
-子Comd. October：
+子Commander October:
 <$0D>
 //\nああ、ライカ君、私にも見えたよ。\n火星の顔の付近は、確かに妙な輝きに\n包まれている。
 \n
-Ther eyou are, Laika.\n
-I saw it too now, the
+Greetings, Laika. I\n
+saw it too now, the
 <$0C>
 glow enveloping that\n
 human face on Mars.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n火星人がよみがえり、今度は人間の体を求めて\n襲来するんじゃないかと地球では大騒ぎが\n始まった。
 \n
 There's uproar on\n
-Earth. "The Martians
+Earth now: "The
 <$0C>
-are back! They want\n
-to take our bodies\n
-now too"!
+Martians are back!\n
+They want to take our\n
+bodies now too"!
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nライカ君、イーブルマインドの状態は\nどうだろうか？
 \n
@@ -1138,7 +1155,7 @@ state of Evil Mind
 over there?
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n一説ではイーブルマインドは\n滅んだ火星人の邪気が実体化したものと\nされている。
 \n
@@ -1150,16 +1167,16 @@ the extinct\n
 Martians's malice.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nそれが本当なら、\nイーブルマインドが今回の騒ぎに\n何か関係しているはずだ。
 \n
-If that is true, the\n
-Evil Mind's
+If that is true, Evil\n
+Mind's disturbance
 <$0C>
-disturbance must bear\n
-some relationship in\n
-all this.
+must bear some\n
+relationship in all\n
+this.
 <$00>
 
 
@@ -1172,17 +1189,18 @@ all this.
 #WHB(PTR, $00000E21)
 
 //子オクトーバー司令官：
-子Comd. October：
+子Commander October:
 <$0D>
 //\nところでクルーのメンバーは\nみんな無事かな。
 \n
 By the way, how is\n
 the rest of the crew?
 <$0C>
-Is everyone safe?
+Is everyone safe and\n
+sound?
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n忘れていたんだが、今日はヌーンのお母さんが\n亡くなった日だそうだ。
 \n
@@ -1192,7 +1210,7 @@ but today is the day
 Noon's mother died.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nあああ、また連絡するよ。
 \n
@@ -1213,8 +1231,8 @@ again soon.
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-There are no\n
-messages.
+THERE ARE NO\n
+MESSAGES.
 <$00>
 
 

@@ -13,11 +13,12 @@
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター、
-WELCOME TO PRISON 4,\n
-COMRADE "
+WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
+"
 <$0F>
 //！
-"!
+"
 <$00>
 
 
@@ -44,10 +45,10 @@ COMRADE "
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
 NOT REGISTERED FOR\n
-ENTRY. FOR DETAILS,\n
-SPEAK TO AN
+ENTRY. FOR DETAILS\n
+AND ASSISTANCE, SPEAK
 <$0C>
-ADMINISTRATOR.
+TO AN ADMINISTRATOR.
 <$00>
 
 
@@ -64,9 +65,11 @@ ADMINISTRATOR.
 Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
-The Hell? What am I\n
-supposed to register\n
-for?!
+\n
+Piece of junk. How am\n
+I supposed to
+<$0C>
+register?
 <$00>
 
 
@@ -84,10 +87,10 @@ Yolanda:
 <$0D>
 //\n何よこれ？\n失礼しちゃうわね！
 \n
-What do you mean?\n
-Hello?\n
-Can I talk to your\n
-manager?
+The fuck does that\n
+mean?\n
+Hello? A little help\n
+here?!
 <$00>
 
 
@@ -105,10 +108,8 @@ Spacer:
 <$0D>
 //\nやはりな…\n私ではだめなのだ。
 \n
-Hmm, this thing\n
-doesn't want to let
-<$0C>
-me in. Fun, fun, fun.
+Hmm... Looks like I'm\n
+not getting in.
 <$00>
 
 

@@ -31,7 +31,7 @@ now.
 
 <$10>
 //眠いよ…
-But I'm tired...
+But I'm sleepy...
 <$00>
 
 
@@ -45,7 +45,7 @@ But I'm tired...
 
 <$10>
 //コスマス、忘れちゃいかんなぁ…\n誰がお前をこの可愛い顔に仕上げんだ？\nふうん？
-Shhh, Kosmas. Don't\n
+Shhh, Cosmas. Don't\n
 forget, who made this\n
 darling face for you?
 <$0C>
@@ -54,7 +54,7 @@ Hmm?
 //俺はなぁ…今夜は気分が乗ってるんだ、\nさあ、こっちへおいで。\nおじさんが塗ってあげよう。
 That's right, me.\n
 Now, come over here\n
-and let Uncle paint
+and let Uncle doll up
 <$0C>
 your face. It'll make\n
 you feel good.
@@ -123,7 +123,7 @@ surgery on him?!
 
 <$10>
 //ダンスの時間だ。
-It's time to dance.
+It's time to dance!
 <$00>
 
 
@@ -136,10 +136,16 @@ It's time to dance.
 #WHB(PTR, $00001699)
 
 <$10>
-もう寝るよ、\nおじさん、僕、眠いんだ。
+//もう寝るよ、\nおじさん、僕、眠いんだ。
+I'm going to bed now,\n
+Uncle. I'm sleepy.
 <$0C>
-気分が乗ってるんだ、コスマス、\nおじさんは気分だぞ。
+//気分が乗ってるんだ、コスマス、\nおじさんは気分だぞ。
+Uncle's in the mood,\n
+Cosmas. Uncle's in\n
+the mood.
 <$00>
+
 
 
 
@@ -154,10 +160,16 @@ It's time to dance.
 #WHB(PTR, $0000151D)
 
 <$10>
-ひひひ、コスマス、お前は可愛い、\nほんとに可愛いぞ。
+//ひひひ、コスマス、お前は可愛い、\nほんとに可愛いぞ。
+Hehehe. Cosmas,\n
+you're so cute.\n
+You're so damn cute.
 <$0C>
-おじさん、眠いよ、眠い…
+//おじさん、眠いよ、眠い…
+Uncle. I'm sleepy.\n
+Let me sleep...
 <$00>
+
 
 
 
@@ -176,11 +188,24 @@ It's time to dance.
 April:
 <$0D>
 //\nあの子、なにかひどい目にあわされてるのよ。
+\n
+That poor boy. He's\n
+being treated so
+<$0C>
+horribly. It's\n
+sickening.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nなのにみんな見て見ぬふりしてる…\nイヤなところね。
+\n
+Everyone seems to\n
+know what's going on
+<$0C>
+too, but they all\n
+turn a blind eye to\n
+it.
 <$00>
 
 
@@ -219,6 +244,12 @@ feel so bad...
 April:
 <$0D>
 //\n先にマウンテンに暗証番号を\n教えてもらうのよ。ハウスよ。
+\n
+We have to get the\n
+PIN from Mountain.
+<$0C>
+He's over at Psycho\n
+Lab.
 <$00>
 
 
@@ -243,7 +274,8 @@ April:
 That's the autolock\n
 to the lodge. Do you
 <$0C>
-remember what PIN to\n
+remember what PIN we\n
+were supposed to\n
 enter?
 <$00>
 
@@ -262,7 +294,7 @@ April:
 <$0D>
 //\nえ？ ひとケタなの、暗証番号って。
 \n
-What in the--?! THEY\n
+What in the...?! THEY\n
 USE A SINGLE DIGIT
 <$0C>
 NUMBER FOR THEIR\n
@@ -296,11 +328,11 @@ April:
 <$0D>
 //\n地球から来た…その…\n世界連盟の宇宙航空隊です…
 \n
-Err...! We've come\n
-from Earth. The
+Eep! This is the\n
+International Space
 <$0C>
-International Space\n
-Force...ISF.
+Force. We came here\n
+from Earth!
 <$00>
 
 
@@ -413,7 +445,8 @@ He said if we met\n
 you, you'd possibly
 <$0C>
 have an idea where\n
-they went.
+our companions\n
+disappeared to.
 <$00>
 
 
@@ -478,7 +511,7 @@ Let's go in through\n
 this door. I wonder
 <$0C>
 what kind of person\n
-White Eagle is...
+White Eagle is.
 <$00>
 
 

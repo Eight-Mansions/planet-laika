@@ -17,7 +17,7 @@ Spacer:
 <$0D>
 //\nイーブルマインドが…吹き出したのか。
 \n
-Evil Mind...shout\n
+The Evil Mind...shot\n
 out?
 <$00>
 
@@ -36,7 +36,7 @@ Spacer:
 <$0D>
 //\n君は… リバー…
 \n
-River... It's you...
+Liever, it's you.
 <$00>
 
 
@@ -50,7 +50,7 @@ River... It's you...
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nなんだかあんたをだましたみたいで…\n僕はやっぱり中途ハンパな存在なんだね…
 \n
@@ -76,7 +76,7 @@ Spacer:
 <$0D>
 //\nリバー、君の罪とは、本当なのか？
 \n
-River, were your\n
+Liever, were your\n
 "sins" made up too?
 <$00>
 
@@ -91,19 +91,19 @@ River, were your\n
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nたぶん… いや、僕のもう一人… リトルが\n双子の子どもたちに靴下を配ったんだ…
 \n
-Maybe...no, it was\n
-the other me. Liter
+Maybe...? No, it was\n
+the other me. Little
 <$0C>
 would give out\n
 stockings to twin\n
 children.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nクリスマスプレゼントを入れる、\n赤い靴下だよ。
 \n
@@ -128,10 +128,10 @@ Spacer:
 <$0D>
 //\n靴下…\nプレゼントは何だ？
 \n
-Stockings, huh... And\n
+Stockings, huh. And\n
 what were these
 <$0C>
-"presents"?
+"presents", exactly?
 <$00>
 
 
@@ -145,7 +145,7 @@ what were these
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nプレゼントは、悪夢だよ。\n双子たちは眠ってる間に… 姿を消した。
 \n
@@ -172,11 +172,10 @@ Spacer:
 <$0D>
 //\nしかし、なぜ双子なんだ？\n双子に何かいわれでもあるのか？
 \n
-But why twins?\n
-There's gotta be a
+But why twins? Surely\n
+you had a reason to
 <$0C>
-reason to target\n
-twins, right?
+target twins.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -184,9 +183,9 @@ Spacer:
 //\nここに子供がいるなんて…\nそんな話は開いていないぞ。
 \n
 I know I've seen\n
-children around here,
+children around, but
 <$0C>
-but I've never heard\n
+I've never heard\n
 about a twin-napper.
 <$00>
 
@@ -201,36 +200,38 @@ about a twin-napper.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n預言だよ！ 預言にあるんだ、\nマコトの双子が完全な人間になれるって。
 \n
 It was the prophecy!\n
 In the prophecy, the
 <$0C>
-twins of truth can\n
-become wholly human!
+Twins of Truth become\n
+wholly human.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nヘロデさんは夢の中で\n神様から教えてもらったらしいよ。
 \n
 Apparently, God came\n
 to Herod and told him
 <$0C>
-thus in a dream.
+everything in a\n
+dream.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n僕とおんなじだね…神って…\n本当は建うのかも知れないよ。
 \n
 That's what happened\n
-to me also, but then
+to me also, but
 <$0C>
-again...I fear I've\n
-been mistaken.
+looking\n
+back...clearly I had\n
+it all wrong.
 <$00>
 
 
@@ -266,7 +267,7 @@ particular?
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n分からないよ。\nあの人は悪夢の中で生まれてきたんだ。
 \n
@@ -276,14 +277,14 @@ Herod was born into
 nightmares.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n呪われた人なんだ。\nいつも悪夢におびえてるんだよ。
 \n
 He's a cursed man,\n
 doomed to always be
 <$0C>
-frightened by\n
+haunted by\n
 nightmares.
 <$00>
 
@@ -319,14 +320,14 @@ suppose.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nだめだ、もう、持ちこたえられない…\n僕の役目は終わったんだ…
 \n
-D-Dammit! I can't\n
-hold on any longer.
+Oh, no! Oh, no! I\n
+can't hold on any
 <$0C>
-My role is\n
+longer... My role is\n
 finished...
 <$00>
 
@@ -345,8 +346,7 @@ Spacer:
 <$0D>
 //\nリトルが目を覚ましたのか…
 \n
-Is Liter waking up,\n
-you mean?
+Is Little waking up?
 <$00>
 
 
@@ -360,19 +360,19 @@ you mean?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nうううう、何だ？…お前は…
 \n
-Owwww, what happened?\n
+Oww, what happened?\n
 What're you...
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n夢だ！ これは夢だ！
 \n
-Ah, a dream! This is\n
+Oh, a dream! This is\n
 a dream!
 <$00>
 
@@ -391,10 +391,10 @@ Spacer:
 <$0D>
 //\nリトル…リトルなのか？\nもう少し、リバーと話させてくれ！
 \n
-Liter? Why are you\n
-here? Quick, let me
+Little? Why are you\n
+here?! Quick, let me
 <$0C>
-talk to River just a\n
+talk to Liever just a\n
 little longer!
 <$00>
 
@@ -409,15 +409,15 @@ little longer!
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nううう、うるさい！\n何をしてるんだ、お前は、また俺を…くそっ！
 \n
-Grrr, don't yell at\n
-me! What do you want
+Oi, don't yell at me!\n
+Why're you always
 <$0C>
-from me THIS TIME,\n
-huh? Grah!
+buttin' in, huh? You\n
+bum!
 <$00>
 
 
@@ -431,14 +431,14 @@ huh? Grah!
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nはあはあ、僕は、もう用済みだ…\nふふふ、用済み…
 \n
-Haha, I...am\n
-obselete, haha...
+Haah, I...am\n
+obselete. I've,
 <$0C>
-I've served my\n
+haah...served my\n
 purpose.
 <$00>
 
@@ -464,10 +464,10 @@ Spacer:
 <$0D>
 //\nリバー、用済みとはどういう意味だ？\nリバー！
 \n
-River, what do you\n
+Liever, what do you\n
 mean by "obsolete"?
 <$0C>
-River!
+Liever!
 <$00>
 
 

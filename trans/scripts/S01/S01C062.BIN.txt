@@ -13,7 +13,7 @@
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nこれで来たの？ このロケットで？
 \n
@@ -36,7 +36,7 @@ Spacer:
 <$0D>
 //\n君は…
 \n
-Who are you?
+You must be...
 <$00>
 
 
@@ -50,19 +50,32 @@ Who are you?
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nリバーだよ。
+\n
+I'm Liever.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあんたたちが何のためにやってきたか、\n当ててみようか…
+\n
+Let me guess: you and\n
+your comrades are
+<$0C>
+here...
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n蕃判のウワサを調べに来た…\nどう？当たりでしょ。
+\n
+...to investigate the\n
+rumors about Mars and
+<$0C>
+Judgement. Well?\n
+How'd I do?
 <$00>
 
 
@@ -79,8 +92,17 @@ River:
 Spacer:
 <$0D>
 //\nそうだ。
+\n
+Not bad, not bad.
 <$0C>
 //そして分かった、\n蕃判だの奇跡だのは妄想の産物なんだ。
+\n
+Thankfully, any\n
+Judgement and miracle
+<$0C>
+worries are invalid\n
+figments of\n
+imagination.
 <$00>
 
 
@@ -94,9 +116,15 @@ Spacer:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nでも実現するんだよ。\n黒い騎士もほんとにいるんだよ。
+\n
+But the rumors are\n
+valid! Even the
+<$0C>
+existence of the\n
+Black Rider is valid!
 <$00>
 
 
@@ -113,6 +141,13 @@ River:
 Spacer:
 <$0D>
 //\nふ…君は平気なのか、コロニーの連中みたいに\n蕃判から逃れようとはしないのか。
+\n
+Hmph, then why are\n
+you so calm? Why not
+<$0C>
+run from Judgement\n
+like the others in\n
+the colony are?
 <$00>
 
 
@@ -126,9 +161,12 @@ Spacer:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n僕には信仰があるからね、神様がいるからね。
+\n
+Because, I have faith\n
+in God.
 <$00>
 
 
@@ -145,6 +183,8 @@ River:
 Spacer:
 <$0D>
 //\n神様…
+\n
+God...
 <$00>
 
 
@@ -158,9 +198,14 @@ Spacer:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n神様に眼を入れるんだ。\nそれで神様が僕を守ってくれる。
+\n
+If I raise myself up\n
+to God, God will
+<$0C>
+protect me.
 <$00>
 
 
@@ -177,6 +222,11 @@ River:
 Spacer:
 <$0D>
 //\n開眼か…神様というのは？
+\n
+And this "God" is the\n
+source of your
+<$0C>
+enlightenment?
 <$00>
 
 
@@ -190,9 +240,15 @@ Spacer:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n興味あるの？来なよ、一緒に。\n奇跡が起きるんだよ。
+\n
+Are you curious? Then\n
+come with me, and
+<$0C>
+wake up to His\n
+miracle!
 <$00>
 
 
@@ -209,6 +265,9 @@ River:
 Spacer:
 <$0D>
 //\n奇跡？君にも奇跡が起こせるのか。
+\n
+His miracle? Where\n
+would we see that?
 <$00>
 
 
@@ -222,11 +281,18 @@ Spacer:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。
+\n
+Down at the Brick\n
+Road entrance to the
+<$0C>
+underground canal.
 <$0C>
 //分かるよね。
+Just before entering\n
+the colony.
 <$00>
 
 

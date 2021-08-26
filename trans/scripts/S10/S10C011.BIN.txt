@@ -13,7 +13,7 @@
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nすべてはウラジミールのせいなの？
 \n
@@ -21,13 +21,12 @@ It was all Vladimir's\n
 fault, no?
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n
-\n
 <$0F>
 //の新しいパパでしょ。\nあんたにとっても。
-'s "new batya". He\n
+'s step-father. He\n
 did this to you.
 <$00>
 
@@ -47,9 +46,9 @@ Yolanda:
 //\nふん！ ウラジミールなんてろくでなしよ。\nすこぶる付きのろくでなし。
 \n
 Hmph. Vladimir was a\n
-dirt-fucking bastard.
+dirt-fucking bastard,
 <$0C>
-To put it nicely.
+to put it nicely.
 <$00>
 
 
@@ -63,17 +62,16 @@ To put it nicely.
 
 <$11><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n
 \n
+It's true.
 <$0F>
 //のママは\nウラジミールにはひどい目にあわされた、\nそうなんだね。
-'s mama lived a\n
+'s mother lived a\n
 hellish life under\n
-his hand. There's no
-<$0C>
-mistaking that.
+Vladimir's hand.
 <$00>
 
 
@@ -124,7 +122,7 @@ started digging...
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n自殺したんだね、バスルームで。\n見たんでしょ。
 \n
@@ -134,7 +132,7 @@ in the bathroom. You
 found her.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあんたが表に出たのは\nその時がはじめてなんだね。
 \n
@@ -176,16 +174,16 @@ her sooner.
 
 <$11><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nタニアは
 \n
-Tanya is...
+Tanya is
 <$0F>
 //のママだよね、\nあんたのママってこと？\nどう思ってたの？
-'s mother. Doesn't\n
-that maker her your\n
-mother too? Or am I
+'s mother. Does that\n
+make her your mother\n
+as well? Or am I
 <$0C>
 wrong?
 <$00>
@@ -215,7 +213,7 @@ Yolanda:
 <$0F>
 //には何もできないの…\nせいぜいが宇宙飛行士になることくらい。
 couldn't help her! He\n
-was too busy wanting\n
+was too busy striving\n
 to be a fucking
 <$0C>
 cosmonaut!
@@ -243,7 +241,7 @@ there for her!
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nアーネストは？\n彼はなぜ存在するの？
 \n
@@ -304,7 +302,7 @@ physical abuse.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nでも妹は生まれてこなかった。
 \n
@@ -327,8 +325,8 @@ Yolanda:
 <$0D>
 //\nううん、生まれたの。
 \n
-Well, in real life, I\n
-mean...
+In reality, yes she\n
+did...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -352,7 +350,7 @@ there, somewhere.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n作り出したの？
 \n
@@ -375,9 +373,10 @@ Yolanda:
 <$0D>
 //\nどうやらそのようね。\n詳しいことは分からない、本人じゃなきゃね。
 \n
-Apparently, he did. I\n
-don't know the
+Apparently, he did it\n
+to fill that gap. I
 <$0C>
+don't know the\n
 details, so you'd\n
 have to ask him.
 <$00>
@@ -393,16 +392,16 @@ have to ask him.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n本当は生まれたときには死んでたんだよね、\nミーシャって名前まで用意してたのに。
 \n
 So, she was born\n
-dead. Was "Misha" the
+dead. Was "Masha" the
 <$0C>
 name that Tanya and\n
-Vladimir were\n
-planning to give her?
+Vladimir planned to\n
+give her?
 <$00>
 
 
@@ -420,7 +419,7 @@ Yolanda:
 <$0D>
 //\nミーシャは殺されたのよ…
 \n
-Misha was killed.
+Misha was murdered.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -428,9 +427,11 @@ Yolanda:
 //\nウラジミールがはかったの。\nもう子供は欲しくなかったのよ。
 \n
 Vladimir made sure of\n
-that. He didn't want
+that with Tanya's
 <$0C>
-any more children.
+doctor. Vladimir\n
+didn't want more\n
+children.
 <$00>
 
 
@@ -444,7 +445,7 @@ any more children.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nスペーサーはどうなの？
 \n
@@ -466,11 +467,12 @@ Yolanda:
 <$0D>
 //\n彼は司令塔よ。\nアタシたちの監視役。
 \n
-Well, he's our little\n
-command tower. He
+Spacer is our\n
+personal command
 <$0C>
-keeps an eye over the\n
-lot of us.
+tower. He keeps an\n
+eye over the lot of\n
+us.
 <$00>
 
 
@@ -484,15 +486,15 @@ lot of us.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nそしてアーネストからミーシャを取り上げた。
 \n
-So, in a way, he took\n
-Misha's place out
+So, could you say he\n
+filled the gap Ernest
 <$0C>
-from under Ernest's\n
-nose.
+had intended for\n
+Masha?
 <$00>
 
 
@@ -510,11 +512,11 @@ Yolanda:
 <$0D>
 //\nそうよ。ミーシャっていう人格が\nひとり歩きしないようにね。
 \n
-Right. By that point,\n
-the idea of "Misha"
+Definitely. By that\n
+point, the idea of
 <$0C>
-had taken a life of\n
-its own.
+"Masha" had taken a\n
+life of its own.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -539,7 +541,7 @@ sister, slip away.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nスペーサーは大の勉強家だよね。
 \n
@@ -592,8 +594,10 @@ Yolanda:
 <$0D>
 //\nアタシはそう思ってる。
 \n
-At least, I think\n
-that's what happened.
+At least, that's my\n
+understanding of the
+<$0C>
+situation.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -603,8 +607,11 @@ Yolanda:
 In the end,
 <$0F>
 //が宇宙飛行士になれたのも\nスペーサーがいたからよ。
-became a cosmonaut\n
-because of Spacer.
+only became a\n
+cosmonaut because\n
+Spacer took the
+<$0C>
+wheel.
 <$00>
 
 
@@ -618,15 +625,15 @@ because of Spacer.
 
 <$10><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\n実に満ち足りたひとときだったよ、ライカ君。\n君はすばらしい、可能性に輝いている。
 \n
-This was fun, Laika.\n
-You're wonderful!
+What fun you are,\n
+Laika. You are
 <$0C>
-Brimming with\n
-potential!
+stunning! Brimming\n
+with potential!
 <$00>
 
 
@@ -640,52 +647,50 @@ potential!
 
 <$10><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\n私は君よりもっとあやふやな存在だった。\nせまり来る不安の中で自信を失っていた。
 \n
-Once upon a time, I\n
-was even more
+Once, I was more\n
+uncertain an
 <$0C>
-uncertain an\n
 existance than you. I\n
-lost all ease, all\n
+knew no ease, no\n
 confidence.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nしかしどうだ、\n今や明るい理性の庭にいる。
 \n
-But you know what?\n
-Now, I am the shining
+And now, the shining\n
+beacon of all reason
 <$0C>
-beacon of reason!
+stands before you!
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\n全てはこの星の意志に\n触れたからに他ならない。
 \n
-It only happened\n
-because I was touched
+All because I was\n
+touched by the will
 <$0C>
-by the will of the\n
-planet.
+of the planet.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nもう恐れは去ったのだ、冷たい触手に\nからめ取られることもない。
 \n
-My fears are now\n
-gone. Those cold
+My fears are gone.\n
+Their cold tentacles
 <$0C>
-tentacles can no\n
-longer clutch me.
+can tear me through\n
+no longer.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nどうだね、\n私と共に世界の再生に立ち会わないか。
 \n
@@ -696,12 +701,12 @@ to witness world\n
 rebirth at my side?
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\n君は求められているのではないかね。
 \n
-That's what you want,\n
-isn't it?
+That is what you\n
+want, isn't it?
 <$00>
 
 
@@ -730,14 +735,14 @@ trick you!
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nそいつはあんたの苦しみを\n利用しようとしてるんだ。
 \n
-All Garyl wants is to\n
+All Galil wants is to\n
 capitalize on your
 <$0C>
-suffering.
+suffering!
 <$00>
 
 
@@ -751,15 +756,16 @@ suffering.
 
 <$10><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\n立役者のご登場というわけか。\nお前の神様はどうした？
 \n
-Ah, the so-called\n
-"leading man" makes
+Ah, the "leading\n
+star" makes his
 <$0C>
-his appearance. What\n
-happened to your god?
+appearance. Where is\n
+your god to rear you\n
+in?
 <$00>
 
 
@@ -773,14 +779,14 @@ happened to your god?
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあれは神様なんかじゃない！\nイーブルマインドのカスだ！
 \n
-That wasn't God!\n
-Th-that was just a
+That wasn't God! That\n
+was just a mass of
 <$0C>
-mass of Evil Mind!
+Evil Mind!
 <$00>
 
 
@@ -794,14 +800,15 @@ mass of Evil Mind!
 
 <$10><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nそのカスに祈り続けて、\nお前の罪はつぐなえたのか？
 \n
 Do you pray to that\n
 mass, then? Or do you
 <$0C>
-continue to sin?
+continue to revel in\n
+your sin?
 <$00>
 
 
@@ -815,11 +822,11 @@ continue to sin?
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n僕は何もしちゃいない！
 \n
-I didn't do anything\n
+I never do anything\n
 wrong!
 <$00>
 
@@ -834,14 +841,14 @@ wrong!
 
 <$10><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\n双子たちに悪夢のプレゼントを配ったのは\nお前だ、リトル！お前が生き埋めにしたんだ！
 \n
 YOU gave twins the\n
 present of
 <$0C>
-nightmares, Liter!\n
+nightmares, Little!\n
 YOU buried them\n
 alive!
 <$00>
@@ -857,15 +864,15 @@ alive!
 
 <$10><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nそうだ、リトル。お前だリトル。\nリトル、リトル、この名を呼び続けてやろう！
 \n
-That's right, LITER!\n
-It was you, LITER!
+That's right, LITTLE!\n
+It was you, LITTLE!
 <$0C>
-LITER! LITER! AND I\n
-WILL SHALL YOU LITER!
+AND I SHALL CALL YOU\n
+"LITTLE" FOR IT!
 <$00>
 
 
@@ -879,11 +886,11 @@ WILL SHALL YOU LITER!
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nうわっ！
 \n
-No!
+NOOO!
 <$00>
 
 
@@ -902,7 +909,7 @@ Yolanda:
 //\nあの日…アタシ、妙に胸騒ぎを覚えて\n学校を抜け出したのよ。
 \n
 I...remember ditching\n
-class because of a
+class, because of a
 <$0C>
 bad feeling I got\n
 that day.
@@ -932,10 +939,11 @@ Yolanda:
 <$0D>
 //\n家に帰って人の気配がしないからさがしたの、
 \n
-When we got home, I\n
-heard no sign of her,
+When we got home,\n
+there was no sign of
 <$0C>
-so I went looking.
+her, so I went\n
+looking.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -943,16 +951,16 @@ Yolanda:
 //\nタニア、タニアって、\n呼ぶ声が口をついて出てきた。
 \n
 "Tanya! Tanya," I\n
-cried. That's all
+cried. That's all I
 <$0C>
-that came out.
+could muster.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nバスルームから水の音が開こえて…\nもう見るまでもなかった。
 \n
-I head the sound of\n
+I heard the sound of\n
 running water from
 <$0C>
 the bath room. I\n

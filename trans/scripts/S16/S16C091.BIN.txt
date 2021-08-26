@@ -17,8 +17,10 @@ Tommy:
 <$0D>
 //\nおう？\n兄ちゃんよう、俺の夢になんか用か？
 \n
-Oh？ Hey, Brother. Got\n
-business in my dream？
+Oh？ Hey, comrade.\n
+You've got business
+<$0C>
+in my dream？
 <$00>
 
 
@@ -50,7 +52,7 @@ Tommy:
 Nah, you're just like\n
 me huh? Aren't you,
 <$0C>
-Brother?
+a-yup!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -68,9 +70,9 @@ Tommy:
 //\nここは俺の夢だ、\n兄ちゃんはアーネストっていうんだ。
 \n
 Well, this here is my\n
-dream. Brother, who
+dream, Ernest, my
 <$0C>
-goes by "Ernest".
+comrade.
 <$1E>
 //家
 家
@@ -91,10 +93,8 @@ Tommy:
 <$0D>
 //\n兄ちゃんはアーネストっていうんだ、\n俺とおんなじタイプだ。
 \n
-Brother, who goes by\n
-"Ernest", we're the
-<$0C>
-same type.
+Ernest, my comrade.\n
+We're the same type.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -102,9 +102,10 @@ Tommy:
 //\n力がわいてくるんだろ。\n俺の夢のなかじゃウソはつけないぜ。
 \n
 We're getting\n
-stronger. Lies don't
+stronger. Lies aren't
 <$0C>
-exist in MY dream.
+powerful enough to\n
+take on MY dreams!
 <$1E>
 //家
 家
@@ -124,8 +125,15 @@ exist in MY dream.
 Tommy:
 <$0D>
 //\nおえっ…眠くなってきやがった、\n昨日から飲んでねぇのにな、おえっおえっ…
+\n
+Whew, I'm getting so\n
+sleepy. I don't get
+<$0C>
+it, I didn't drink\n
+anything yet. Whew...
 <$1E>
 //家
+家
 <$00>
 
 
@@ -142,8 +150,14 @@ Tommy:
 Tommy:
 <$0D>
 //\nおえっ、こりゃ悪酔いみたいだぜ？
+\n
+Whew, am I just\n
+hungover or
+<$0C>
+something?
 <$1E>
 //家
+家
 <$00>
 
 
@@ -160,8 +174,15 @@ Tommy:
 Tommy:
 <$0D>
 //\nおえっ、誰かいるよな、この奥に。\n気分悪いぜ、俺はアーモンドがキライだ、\n臭ってきそうだ…
+\n
+Someone's back here,\n
+huh. It reeks like
+<$0C>
+almonds in here. Ick,\n
+I hate it!
 <$1E>
 //声
+声
 <$00>
 
 
@@ -178,6 +199,11 @@ Tommy:
 Spacer:
 <$0D>
 //\nアーモンド？アーモンドの臭いがするのか、\nおい、どうなんだ？
+\n
+Almonds? Hey, what do\n
+you mean, you smell
+<$0C>
+almonds?
 <$00>
 
 
@@ -194,6 +220,12 @@ Spacer:
 Yolanda:
 <$0D>
 //\n何よ、アーモンドって。誰かが言ってたわね？\nあのお利口さんが？
+\n
+Almonds, almonds... I\n
+swear I heard someone
+<$0C>
+say that. Must've\n
+been the smartass
 <$00>
 
 
@@ -210,6 +242,12 @@ Yolanda:
 Ernest:
 <$0D>
 //\nアーモンドなら、俺もきらいだぜ。\nそれより、誰がいるんだ、奥に？
+\n
+I don't care for\n
+almonds either. More
+<$0C>
+importantly, who's\n
+back there?
 <$00>
 
 
@@ -226,8 +264,12 @@ Ernest:
 Tommy:
 <$0D>
 //\nおえっ、臭ってきそうだ、アーモンド…
+\n
+Ick, it smells like\n
+fresh almonds.
 <$1E>
 //家
+家
 <$00>
 
 
@@ -270,7 +312,7 @@ Tommy:
 <$0D>
 //\n俺はアーモンドなんてきらいだぜ。
 \n
-I hate almonds.
+I hate almonds!
 <$1E>
 //家
 家

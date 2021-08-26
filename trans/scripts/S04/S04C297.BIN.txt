@@ -13,12 +13,12 @@
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあら？ もうあきらめたの？
 \n
-My, my, have you\n
-given up yet?
+Dear, have you given\n
+up yet?
 <$00>
 
 
@@ -32,31 +32,31 @@ given up yet?
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそうじゃないの？\nええ？ そうなんでしょ、
 \n
 That's it, isn't it?\n
-Eh? Though so.
+I though so.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあなたさっき…そうよね、さっき\nリャンハウスの前でうろうろしてたじゃない、
 \n
 I saw you earlier,\n
-yes? ...Yes, earlier.
+didn't I? Standing
 <$0C>
-Loitering in front of\n
+around in front of\n
 House Liang.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n隠してもダメヨ、\nアタシ、見抜く、ミヌク。
 \n
 You can't hide from\n
-ol' me. I can see
+me, now. I can see
 <$0C>
 right through you.
 <$00>
@@ -72,7 +72,7 @@ right through you.
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nねらってる？
 \n
@@ -80,7 +80,7 @@ You have your eye on\n
 someone.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nでしょ、やっぱりね、\n顔見りゃ分かるって…
 \n
@@ -91,23 +91,23 @@ just by looking at\n
 your face.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあら嫌だ、顔だなんて、\n顔ねらってるの顔で分かる、
 \n
 Well, not just your\n
 face, but the face of
 <$0C>
-the face you're\n
+the face that you're\n
 facing.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n変なしゃれできちゃった。\nあははははは、バカねアタシ、朝から陽気ね
 \n
-I'm only joking, tee\n
-hee! Don't mind me.
+I'm only joking,\n
+ahaha! Don't mind me.
 <$0C>
 I'm just playful in\n
 the mornings.
@@ -124,7 +124,7 @@ the mornings.
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n陽気が悪いか、てめぇ！
 \n
@@ -132,15 +132,15 @@ Is being goofy so\n
 wrong? Well?!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nおう、人の顔見てニヤついてんじゃねぇ！\nくそ野郎！
 \n
 Then why don't you\n
 smile when you see
 <$0C>
-people, rude little\n
-bitch!
+people, you rude\n
+little...!
 <$00>
 
 
@@ -154,15 +154,16 @@ bitch!
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nなんてね…\nいいじゃない、陽気なのはアタシの取り柄よ。
 \n
 There's nothing wrong\n
 with me! My
 <$0C>
-playfulness will be\n
-my redeeming feature!
+playfulness is my\n
+most redeeming\n
+feature!
 <$1E>
 //行
 行
@@ -179,7 +180,7 @@ my redeeming feature!
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nねえ、リャンハウスで\nなにやらかそうっていうの？
 \n
@@ -189,17 +190,17 @@ you have at House
 Liang?
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあなたよね、さっきいたの…\nしらばくれてるの？
 \n
 I saw you there\n
 before, so no need to
 <$0C>
-play dumb.
+play coy.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nアタシのこと、ちゃんとしっかり開いてる？
 \n
@@ -222,7 +223,7 @@ Yes, deeply
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそうよねぇ、そうこなくちゃ。
 \n
@@ -243,14 +244,14 @@ You'd better be.
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nサイテーよ、レッドのやつ！
 \n
-Damn Red to Hell!
+Oh, damn Red to Hell!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nアタシのことぶったのよ。\nひどい、ぶつなんて！
 \n
@@ -258,7 +259,7 @@ He hit me! He just\n
 fucking hit me!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあんたのせいよ、\nあんたが余計なことするから…
 \n
@@ -268,18 +269,17 @@ YOU'RE the one who
 stuck your nose out!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nなのにアタシまで手を貸したみたいに\n言われたの。
 \n
 I thought I could\n
-lend a hand and ease
+diffuse the
 <$0C>
-the situation, but\n
-nooo!
+situation, but nooo!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n見て、お顔。
 \n
@@ -297,7 +297,7 @@ Now look at my face!
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあああ、もう、こんなの！ お顔が何よ！\nどうでもよくなってきちゃった。
 \n
@@ -305,7 +305,7 @@ What are you going to\n
 do NOW huh? Keep
 <$0C>
 acting like you give\n
-a damn about us...
+a damn about us?!
 <$1E>
 //行
 行
@@ -322,7 +322,7 @@ a damn about us...
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nレッドのやつ、ちくしょう！\nアタシのことぶったのよ！
 \n
@@ -346,7 +346,7 @@ face!
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあのコ… どっかで見たことあるのよね。
 \n
@@ -356,7 +356,7 @@ seen her around, I
 think.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n地球じゃああいうお顔がはやってるの、\nみんなあんなお顔してるの？
 \n
@@ -380,7 +380,7 @@ of hers?
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあのコ、アガタに気に入られたの？\nねぇ、そうなの？ なら気を付けなきゃね。
 \n
@@ -391,7 +391,7 @@ She'd better be\n
 careful.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそれにしてもよ、やっぱり変よ、\nあのお顔。いただけない、
 \n
@@ -401,7 +401,7 @@ little odd, no? Her
 face is off.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそうよ、いただけないわ。
 \n
@@ -422,7 +422,7 @@ Yes, very off!
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあのコ、自分のこと、かわいいって\n思ってるのかしらね。きっとそうよね。
 \n
@@ -431,7 +431,7 @@ charming in your
 <$0C>
 eyes, isn't she? Yes,\n
 I was sure you'd\n
-think so.
+agree.
 <$1E>
 //行
 行
@@ -448,7 +448,7 @@ think so.
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nレッドのやつ、あのサイテー野郎、\nあわてて出ていったよ。
 \n
@@ -459,7 +459,7 @@ acting like he got\n
 really fucked up.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n誰かにどやされでもしたの？\nいい気味よね、アタシをぶつからよ。
 \n
@@ -488,7 +488,7 @@ gets for hitting me!
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nふん、アタシのことぶつからよ。\nあのヘンタイ野郎が！
 \n
@@ -513,10 +513,17 @@ hitting me.
 #WHB(PTR, $00000A45)
 
 <$10><$11>
-子リトル：
+//子リトル：
+Little:
 <$0D>
-\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
+//\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
+\n
+Oi, why do I feel\n
+so...no! Goddammit,
+<$0C>
+not here!
 <$0E><$1E><$17><$00>
+
 
 
 

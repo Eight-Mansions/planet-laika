@@ -95,10 +95,10 @@ White Eagle:
 <$0D>
 //\nふほほ、この星は悪意を持っておるのう。\nわしらはイーブルマインドと呼んでおる。
 \n
-Go-hoho, this planet\n
-is rife with ill
+Haww, this planet is\n
+rife with ill will!
 <$0C>
-will! We call it\n
+We call its miasma\n
 "Evil Mind".
 <$0C><$0B>
 //ホワイトイーグル：
@@ -140,7 +140,7 @@ April:
 Maybe this Evil Mind\n
 is what got to Col.
 <$0C>
-Garyl as well.
+Galil as well.
 <$00>
 
 
@@ -158,8 +158,8 @@ White Eagle:
 <$0D>
 //\nガリル！ ふほ！\nやつを追うのはあきらめろ、不可能じゃ。
 \n
-Garyl?! Go-ho! You\n
-can give up on ever
+Galil?! Haww, you can\n
+give up on ever
 <$0C>
 finding him.
 <$0C><$0B>
@@ -169,7 +169,7 @@ White Eagle:
 //\nやつは最後のピースじゃった、\nそういうことじゃ。
 \n
 That man was the\n
-final piece. Do
+final piece, you
 <$0C>
 understand.
 <$00>
@@ -189,11 +189,11 @@ April:
 <$0D>
 //\nどういう意味？\n最後のピースって？
 \n
-Understand what?!\n
+Understand what?\n
 What's the
 <$0C>
 significance of this\n
-"final piece"?!
+"final piece"?
 <$00>
 
 
@@ -211,7 +211,7 @@ White Eagle:
 <$0D>
 //\n黒い騎士の話は知っておるか？
 \n
-Do you know the story\n
+Do you know the tale\n
 of the Black Rider?
 <$00>
 
@@ -233,7 +233,7 @@ April:
 The Black\n
 Rider...from
 <$0C>
-folklore?
+Revelations?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -260,16 +260,18 @@ world.
 葉誰ろ
 <$0B>
 //   
+
 <$0D>
 //現れたのじゃ、ここ火星にな。\n
 And he has since\n
 crossed Mars,\n
 <$0B>
 // 
+
 <$0D>
 //黒い騎士がほうぼうで悪を吸い集めておる。\n
-calling ghastly evils\n
-in his wake.\n
+calling on ghastly\n
+evils to join him.\n
 <$0E><$5A><$17><$00>
 
 
@@ -289,6 +291,7 @@ When he becomes\n
 wholly evil,\n
 <$0B>
 //      
+
 <$0D>
 //世界は終わるのじゃ。
 the world will meet\n
@@ -308,14 +311,14 @@ its end.
 葉子
 <$0D>
 //蕃判の時じゃのう、\n
-The hour of Judgment\n
+The hour of Judgement\n
 is near.\n
 <$0B>
 //   
 <$0D>
 //ふほ、この星の宿命なのじゃのう。
 This is the planet's\n
-destiny, go-ho!\n
+destiny!
 <$0E><$5A><$17><$00>
 
 
@@ -328,7 +331,7 @@ destiny, go-ho!\n
 #WHB(PTR, $00000499)
 
 //歪子エイプリル：
-歪子April：
+歪子April:
 <$0D>
 //\n宿命… 蕃判… なんだか預言みたいね。
 \n
@@ -351,11 +354,10 @@ White Eagle:
 <$0D>
 //\nほう！ 預言！ お前さん、\n預言については、何か開いておるのか？
 \n
-Hoh! Why, yes,\n
-because it is! Do you
+Why, yes, because it\n
+is! Do you know about
 <$0C>
-know about the\n
-prophecies?!
+the prophecies?!
 <$00>
 
 
@@ -390,8 +392,8 @@ Our unit's mission is\n
 to investigate, and
 <$0C>
 maybe find out what\n
-happened to Col.\n
-Garyl.
+happened to Colonel\n
+Galil.
 <$00>
 
 
@@ -409,12 +411,12 @@ White Eagle:
 <$0D>
 //\nふほふほふほ！ 地球化計画とな…\nまたぞろぞろ人がやってくるのか…
 \n
-Go-ho, go-ho!\n
-Terraformation,
+Haww, haww, haww!\n
+Terraformation...
 <$0C>
-yes... Is this to\n
-bring people back to\n
-Mars?
+Yes, I see. Is this\n
+to bring MORE people\n
+back to Mars?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -469,7 +471,8 @@ All people carry evil\n
 in their hearts. It
 <$0C>
 is that evil we\n
-cannot afford.
+cannot afford to come\n
+here.
 <$00>
 
 
@@ -520,8 +523,8 @@ White Eagle:
 Listen, child. No one\n
 is wholly good. Good
 <$0C>
-and evil come with a\n
-balance.
+and evil exist in a\n
+strict balance.
 <$00>
 
 
@@ -539,7 +542,7 @@ April:
 <$0D>
 //\nそう…善人なんてあてにならない…\nそういうことね。
 \n
-I see... What you're\n
+I see. What you're\n
 saying is, you don't
 <$0C>
 trust anyone to be\n
@@ -562,10 +565,11 @@ White Eagle:
 //\n少なくともこの星ではな。お仲間はどうじゃ？\n善人なのか？それとも…
 \n
 No, not on this\n
-planet. Like your
+planet. Look at your
 <$0C>
-companions-are they\n
-"good"? Or...
+companions. Are they\n
+good, or are they\n
+evil?
 <$00>
 
 
@@ -608,7 +612,7 @@ Not evil, eh? If\n
 you're so sure, go
 <$0C>
 now, and bear witness\n
-for yourself.
+with your own eyes.
 <$00>
 
 
@@ -644,7 +648,7 @@ White Eagle:
 <$0D>
 //\n記憶の谷じゃ。
 \n
-To Memory Valley.
+To Valles Memoriae.
 <$00>
 
 
@@ -703,9 +707,9 @@ April:
 //\nブリックロードの黒いカベね。\nありがとう。
 \n
 A black wall in Brick\n
-Road? I see. Thank
+Road? All right.
 <$0C>
-you very much.
+Thank you very much.
 <$00>
 
 
@@ -784,8 +788,7 @@ April:
 \n
 "O, Rose! Thou art\n
 sick!"\n
-...I'll try to\n
-remember.
+I'll try to remember.
 <$00>
 
 
@@ -803,7 +806,7 @@ White Eagle:
 <$0D>
 //\nふーほー…
 \n
-Hyoh-hoh...
+Haww...
 <$00>
 
 
@@ -862,10 +865,18 @@ wall on Brick Road.
 #WHB(PTR, $00003BB5)
 
 <$12><$0B>
-スピリットマン：
+//スピリットマン：
+Spirit Man:
 <$0D>
-\nひょひょ、スペーサーや、\n統合されるのが怖いのかひょひょ。
+//\nひょひょ、スペーサーや、\n統合されるのが怖いのかひょひょ。
+\n
+Hyohyo, Spacer.\n
+Personality
+<$0C>
+integration can be a\n
+scary thing.
 <$00>
+
 
 
 
@@ -876,10 +887,18 @@ wall on Brick Road.
 #WHB(PTR, $00003BB9)
 
 <$12><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nおお！ ちょうどよかった、教えてくれ、\n人格が統合されるとどうなるんだ。
+//\nおお！ ちょうどよかった、教えてくれ、\n人格が統合されるとどうなるんだ。
+\n
+How reassuring. So\n
+tell me, what happens
+<$0C>
+to personalities\n
+after they integrate.
 <$00>
+
 
 
 
@@ -890,10 +909,14 @@ wall on Brick Road.
 #WHB(PTR, $00003BBD)
 
 <$12><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\n私は… なくなるのか？
+//\n私は… なくなるのか？
+\n
+Would I...disappear?
 <$00>
+
 
 
 
@@ -904,10 +927,18 @@ wall on Brick Road.
 #WHB(PTR, $00003BC1)
 
 <$12><$0B>
-スピリットマン：
+//スピリットマン：
+Spirit Man:
 <$0D>
-\nひょひょひょ、そもそもお前たちは\n存在しているのか、どうなのか、ひょひょ。
+//\nひょひょひょ、そもそもお前たちは\n存在しているのか、どうなのか、ひょひょ。
+\n
+That depends on\n
+whether you exist in
+<$0C>
+the first place,\n
+hyohyohyo!
 <$00>
+
 
 
 

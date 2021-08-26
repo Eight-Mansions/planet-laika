@@ -17,8 +17,8 @@ April:
 <$0D>
 //\nアガタ！\nあのふたりを帰したの？
 \n
-Agatha! Did you make\n
-those two go away?
+Agatha! Did those two\n
+leave?
 <$00>
 
 
@@ -59,7 +59,7 @@ Can I ask you\n
 something? How are
 <$0C>
 the Black Rider and\n
-Judgment affecting\n
+Judgement affecting\n
 Mars?
 <$00>
 
@@ -79,7 +79,7 @@ Madam Agatha:
 //\nエイプリル、今は時間がないのよ。\nあなたの仲間が捕らえられてしまうわ。
 \n
 April, we must save\n
-that for later or
+that for later, or
 <$0C>
 your companions will\n
 be taken.
@@ -163,10 +163,10 @@ Madam Agatha:
 //\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところよ。
 \n
 Take Brick Road down\n
-to Memory Valley, and
+to Valles Memoriae,
 <$0C>
-look for the black\n
-wall.
+and look for the\n
+black wall.
 <$00>
 
 
@@ -184,10 +184,10 @@ April:
 <$0D>
 //\nなんで…\nなんで私たちが記憶の谷に行くって…
 \n
-Memory Valley... What\n
-a strange place for
+Valles Memoriae...\n
+What a strange place
 <$0C>
-us to have to go...
+for us to have to go.
 <$00>
 
 
@@ -205,7 +205,7 @@ Madam Agatha:
 <$0D>
 //\nこの星に来て、迷いこむとしたら\nあそこしかないの。
 \n
-When one is lost on\n
+When one is lost in\n
 the world, that is
 <$0C>
 the only place for\n

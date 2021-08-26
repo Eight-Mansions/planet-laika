@@ -17,17 +17,17 @@ Boomer:
 <$0D>
 //\n悪いな…顔貸してくれ。
 \n
-Forgive me... We need\n
-only a moment of your
+Ohhh, forgive me...\n
+We need only a moment
 <$0C>
-time.
+of your time.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
 //\n広場でスモーキーが待ってるんだ、来てくれ。\n広場だ。
 \n
-Come. Smokey is\n
+Ahhh, come. Smokey is\n
 waiting for you in
 <$0C>
 the plaza.
@@ -47,11 +47,11 @@ the plaza.
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあら…何してるの、こんなところで？\nもう地球に帰るの？
 \n
-My, what are you\n
+And what are you\n
 doing out here?
 <$0C>
 Returning to Earth\n
@@ -69,7 +69,7 @@ already?
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nねぇ、アガタには気を付けてね。\nあの人、きっと邪悪な心の持ち主よ。
 \n
@@ -80,15 +80,14 @@ clearly possesses a\n
 wicked mind.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n私、思うの。
 \n
-Care to know what I\n
-think?
+At least, I'd say so.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nときどき自分がどこにいるのか\n分からなくなることがあって、それはきまって\nアガタに会った後なのよ。
 \n
@@ -99,7 +98,7 @@ but that only started\n
 once I met Agatha.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nおかしいと思うでしょ？ねぇそう思う？
 \n
@@ -124,11 +123,20 @@ No
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nそうよね。きっと私の心をアガタが…\nああ彼女が私の心を乗っ取ろうとしているのよ。\n気分がすぐれないわ…眠れそうもないわ。
+\n
+Of course. I can't\n
+shake the feeling
+<$0C>
+Agatha's out to\n
+hijack my mind. I'm\n
+so worried, I can\n
+hardly sleep.
 <$1E>
 //〇
+〇
 <$00>
 
 
@@ -142,7 +150,7 @@ Hui:
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n本当にそう思うの？…私はね、アガタが私の心を\n乗っ取るんじゃないかって、それが心配なの。
 \n
@@ -153,7 +161,7 @@ does have it in her\n
 to hijack my mind.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nヘロデを支配している催眠術なら、\nなんでもできるのよ。\nああ、いやな気分よ…まだ眠れそうもないわ。
 \n
@@ -179,7 +187,7 @@ scary!
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
 \n
@@ -204,7 +212,7 @@ stopping her!
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあら、あなたも眠れないの？
 \n
@@ -227,10 +235,10 @@ Ernest:
 <$0D>
 //\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
 \n
-Can I ask you about\n
-mirrors? I've got a
+Does that matter? The\n
+people here just seem
 <$0C>
-question about\n
+easily spooked by\n
 mirrors.
 <$0C><$0B>
 //アーネスト：
@@ -256,15 +264,15 @@ that about?
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
 \n
 Hoho, you've heard\n
 about the Mirror of
 <$0C>
-Judgment. From where,\n
-pray tell?
+Judgement. From\n
+where, pray tell?
 <$00>
 
 
@@ -281,12 +289,6 @@ pray tell?
 Ernest:
 <$0D>
 //\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
-\n
-Eh, not sure that\n
-matters. The people
-<$0C>
-here just seem easily\n
-spooked by mirrors.
 <$00>
 
 
@@ -300,27 +302,26 @@ spooked by mirrors.
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nそうよ。見たくないのよ。\n鏡に自分の顔を映すと憎しみがわいてくるのよ。\n分かったでしょ、鏡は悪をはぐくむの。
 \n
-Indeed. When you show\n
-your self to the
+Indeed. When we show\n
+ourselves to the
 <$0C>
-mirror, your evil\n
-shows too. So, so one\n
-wants to look.
+mirror, our evils\n
+reflect what no one\n
+wants to see.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nみんなが自分の悪につぶされるの、\nそれが蕃判よ。
 \n
-The evil in our\n
-selves is what
+Our inner evils are\n
+what destroy us. That
 <$0C>
-destroys us. That is\n
-Judgment.
+is Judgement.
 <$00>
 
 
@@ -339,9 +340,10 @@ Ernest:
 //\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
 \n
 Heh, so mirrors\n
-cultivate evil. Is
+cultivate evil? Is
 <$0C>
-that why you made it?
+that why you made\n
+yours?
 <$00>
 
 
@@ -355,14 +357,14 @@ that why you made it?
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
 \n
-Come now, I made it\n
-only because Amanda
+Hohoho! Come now, I\n
+made it only because
 <$0C>
-asked me to.
+Amanda asked me to.
 <$00>
 
 
@@ -395,16 +397,16 @@ is she?
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit!\n
-Hoho, the
+A mirror spirit, and\n
+beauty incarnate. You
 <$0C>
-personification of\n
-beauty. She and I\n
-are...close.
+can say she and I\n
+are...kindred\n
+spirits, hoho.
 <$00>
 
 
@@ -418,7 +420,7 @@ are...close.
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあら、あなたも眠れないの？
 \n
@@ -440,6 +442,9 @@ sleep either?
 Spacer:
 <$0D>
 //\n鏡のこと、話してくれ。
+\n
+Tell me, what's up\n
+with your mirror?
 <$00>
 
 
@@ -453,9 +458,14 @@ Spacer:
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nふふふふふ、蕃判の鏡ね。\n何が知りたいの？
+\n
+Hohoho, the Mirror of\n
+Judgement? What would
+<$0C>
+you like to know?
 <$00>
 
 
@@ -472,6 +482,13 @@ Hui:
 Spacer:
 <$0D>
 //\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
+\n
+Looking into the\n
+mirror only seems to
+<$0C>
+stir hate. Was that\n
+mirror made to\n
+nurture evil?
 <$00>
 
 
@@ -485,9 +502,16 @@ Spacer:
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
+\n
+My, my! So, you do\n
+know. Indeed, when we
+<$0C>
+let our inner evils\n
+destroy the outer, we\n
+find Judgement.
 <$00>
 
 
@@ -504,6 +528,12 @@ Hui:
 Spacer:
 <$0D>
 //\nフェイ、なぜあなたがそんな鏡を作る？\nなぜだ。
+\n
+But Feng, why would\n
+you make a mirror
+<$0C>
+capable of doing\n
+that?
 <$00>
 
 
@@ -517,14 +547,14 @@ Spacer:
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
 \n
-Come now, I made it\n
-only because Amanda
+Hohoho! Come now, I\n
+made it only because
 <$0C>
-asked me to.
+Amanda asked me to.
 <$00>
 
 
@@ -541,6 +571,11 @@ asked me to.
 Spacer:
 <$0D>
 //\nアマンダ…またしてもこの名前…誰なんだ？
+\n
+Amanda? That name\n
+does ring a bell. Who
+<$0C>
+is she?
 <$00>
 
 
@@ -554,14 +589,22 @@ Spacer:
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。\n美の権化…
+\n
+A mirror spirit, and\n
+beauty incarnate.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nいずれ私のものとなるの、ふふふ。
+\n
+You can say she and I\n
+are...kindred
+<$0C>
+spirits, hoho.
 <$00>
 
 
@@ -575,7 +618,7 @@ Hui:
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあら、あなたも眠れないの？
 \n
@@ -599,9 +642,9 @@ Yolanda:
 //\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
 \n
 Maybe. Say, I heard\n
-you were the one who
+you were making a
 <$0C>
-made the mirror.
+mirror or something.
 <$00>
 
 
@@ -615,15 +658,16 @@ made the mirror.
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
 \n
 Oh, the Mirror of\n
-Judgment? I did, but
+Judgement? So, you
 <$0C>
-please don't be\n
-frightened by t.
+heard. But please,\n
+don't let that scare\n
+you.
 <$00>
 
 
@@ -641,11 +685,12 @@ Yolanda:
 <$0D>
 //\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
 \n
-It's a fake mirror\n
-anyhow. It looks more
+Aww, you worry to\n
+much. It's just a
 <$0C>
-beautiful than it\n
-really is, but...
+trick mirror anyways,\n
+right? One that makes\n
+people prettier?
 <$00>
 
 
@@ -659,27 +704,28 @@ really is, but...
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nきれいになんて見えないわ、そのままよ、\nそれが憎しみをはぐくむの、悪を育てるの。
 \n
-...it's not for\n
+...It's not for\n
 seeing beauty. It's
 <$0C>
 for nurturing one's\n
-hatred-one's evil.
+hatred. Or rather,\n
+one's inner evil.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nでもどうしようもないのよ。\nみんなみんな、自分の悪につぶされる、\nそれが蕃判よ。
 \n
 Think of it like\n
-Dorian Gray. The evil
+Dorian Gray, where
 <$0C>
-in our selves is what\n
-destroys us. That is\n
-Judgment.
+our inner evils are\n
+what destroy us. That\n
+is Judgement.
 <$00>
 
 
@@ -714,14 +760,14 @@ thing?
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
 \n
-Come now, I made it\n
-only because Amanda
+Hohoho! Come now, I\n
+made it only because
 <$0C>
-asked me to.
+Amanda asked me to.
 <$00>
 
 
@@ -739,10 +785,10 @@ Yolanda:
 <$0D>
 //\nアマンダ！ 知ってるわよ、その名前。\n確か…
 \n
-Amanda? I've heard\n
-the name, but who is
+Amanda? I know I've\n
+heard the name, but
 <$0C>
-she?
+who is she?
 <$00>
 
 
@@ -756,16 +802,16 @@ she?
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit,\n
-hoho! And the
+A mirror spirit, and\n
+beauty incarnate. You
 <$0C>
-personification of\n
-beauty. Someday,\n
-she'll be mine.
+can say she and I\n
+are...kindred\n
+spirits, hoho.
 <$00>
 
 
@@ -779,11 +825,12 @@ she'll be mine.
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON 4,\n
-COMRADE "
+WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
+"
 <$0F>
 //！
-"!
+"
 <$00>
 
 
@@ -810,10 +857,10 @@ COMRADE "
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
 NOT REGISTERED FOR\n
-ENTRY. FOR DETAILS,\n
-SPEAK TO AN
+ENTRY. FOR DETAILS\n
+AND ASSISTANCE, SPEAK
 <$0C>
-ADMINISTRATOR.
+TO AN ADMINISTRATOR.
 <$00>
 
 
@@ -857,9 +904,11 @@ FOR ENTRY.
 Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
-The Hell? What am I\n
-supposed to register\n
-for?!
+\n
+Piece of junk. How am\n
+I supposed to
+<$0C>
+register?
 <$00>
 
 
@@ -877,10 +926,10 @@ Yolanda:
 <$0D>
 //\n何よこれ？\n失礼しちゃうわね！
 \n
-What do you mean?\n
-Hello?\n
-Can I talk to your\n
-manager?
+The fuck does that\n
+mean?\n
+Hello? A little help\n
+here?!
 <$00>
 
 
@@ -898,10 +947,8 @@ Spacer:
 <$0D>
 //\nやはりな…\n私ではだめなのだ。
 \n
-Hmm, this thing\n
-doesn't want to let
-<$0C>
-me in. Fun, fun, fun.
+Hmm... Looks like I'm\n
+not getting in.
 <$00>
 
 

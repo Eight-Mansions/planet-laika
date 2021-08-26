@@ -13,29 +13,47 @@
 
 <$12><$0B>
 //酸索坑夫５号：
-Oxygen Miner 5:
+Oxygen Miner 5：
 <$0D>
 //\nところでお前は…さっきのやつか？\n私は５号だがな、れっきとした５号だがな。
 \n
-Are you...the person\n
-we let in earlier?
+Is it you, whoosh?\n
+You, from before? I'm
 <$0C>
-All I know for sure\n
-is that I'm No. 5.
+number five, whoosh.\n
+I'm actually five!
 <$1E>
 //理
+理
 <$00><$10><$0B>
 //酸索坑夫２号：
+Oxygen Miner 2：
 <$0D>
 //\nだめだめ、今は立入禁止だ。\n氷がくずれかけている、あぶない、シーシー。
+\n
+It's dangerous! The\n
+ice there is breaking
+<$0C>
+and on the verge of\n
+collapse, whoosh!
 <$1E>
 //炎
+炎
 <$00><$13><$0B>
 //酸索坑夫１号：
+Oxygen Miner 1：
 <$0D>
 //\nお前の連れがアイスレイクに入っていった。\n今連れ戻すところだ、シー。\nうろうろするな、シーシー。
+\n
+Saw your friend,\n
+whoosh! Went to ice
+<$0C>
+lake, whoosh.\n
+Dangerous, whoosh,\n
+whoosh!
 <$1E>
 //〇
+〇
 <$00>
 
 
@@ -53,10 +71,8 @@ Oxygen Miner 1：
 <$0D>
 //\nおい！\n大変が起きた！シー！
 \n
-Mayday, mayday!\n
-Something terrible
-<$0C>
-has happened!
+No! Terrible things,\n
+whoosh!
 <$00>
 
 
@@ -96,11 +112,11 @@ Oxygen Miner 3：
 <$0D>
 //\n連れ戻そうとしたら、アラートだ、\n警報だ、シー！
 \n
-We tried to get them\n
-back, but we heard
+WE trIEd tO gEt thEm\n
+bAck, bUt wE hEArd
 <$0C>
-the alert! The\n
-warning, whoosh!
+thE wArnIng AlErt,\n
+whOOsh!
 <$00>
 
 
@@ -161,8 +177,8 @@ Oxygen Miner 1：
 <$0D>
 //\n大変が起きたんだ、シー。
 \n
-Something has\n
-happened, whoosh!
+Terrible thing,\n
+whoosh!
 <$1E>
 //〇
 〇

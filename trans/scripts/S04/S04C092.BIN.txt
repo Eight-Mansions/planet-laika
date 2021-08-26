@@ -13,14 +13,14 @@
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nお前だったのか…\nふん、こそこそ何をかぎ回ってるんだ！
 \n
-Ah, there you are...\n
+Ah, there you are!\n
 What are you doing,
 <$0C>
-snooping around?!
+snoopin' around?!
 <$00>
 
 
@@ -37,8 +37,7 @@ snooping around?!
 April:
 <$0D>
 //\n知ってるの？ ライカのこと。
-\n
-Do you know Laika?
+nDo you know Laika?
 <$00>
 
 
@@ -52,14 +51,12 @@ Do you know Laika?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nいや、俺は何も知らない、\nそうだそうだ、何もな。
 \n
-No, I don't know\n
-anybody, got it? We
-<$0C>
-got it?
+No. I don't know any\n
+such person, got it?
 <$00>
 
 
@@ -81,7 +78,7 @@ Why is everyone here\n
 so on edge then? You
 <$0C>
 can't ALL be hiding\n
-something...
+something!
 <$00>
 
 
@@ -95,7 +92,7 @@ something...
 
 <$11><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nここはカンペキだ。何も悪いところはない。\n迷信に振り回されて大騒ぎしてるのは\nお前たちの方だ、ええ？
 \n
@@ -141,41 +138,41 @@ Rider!
 
 <$13><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
 \n
-How lovely. Then, do\n
-you care what the
+How lovely. Then, you\n
+totally don't care
 <$0C>
+about what the\n
 warehouse next door\n
-stores? Our\n
-oxygenite.
+stores, right? Our\n
+oxygenite?
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nお前たちが見捨てたこの星は、\nあの酸索石でよみがえる。
 \n
 It is WE who used OUR\n
-oxygenite to restore
+oxygenite resources
 <$0C>
-a planet YOU\n
-abandoned!
+to restore the planet\n
+YOU abandoned!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-\n
-PROVING, see, that\n
-you are NOT so
+nPROVING, see, that\n
+you are NOT so\n
+indispensible, got
 <$0C>
-indispensible, got\n
-it? We got it?
+it?
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nこの星にはこの星なりのやり方がある、\nそういうことだ。
 \n
@@ -183,7 +180,7 @@ Mars has its own way\n
 of doing things, and
 <$0C>
 we'll keep doing it\n
-on our own.
+ON OUR OWN.
 <$00>
 
 
@@ -215,18 +212,19 @@ on our own.
 
 <$11><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
 \n
 Nothing happened to\n
-the Face. That thing
+the Face. That
 <$0C>
-is like a souvenir\n
-left by the Martians.
+thing's only a dumb\n
+souvenir left by the\n
+Martians.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nご希望とあらば、ザ・フェイスまで\n酸索パイプラインを敷いて観光名所にしたって\n構わないんだ、ええ、そうだそうだ。
 \n
@@ -235,18 +233,19 @@ oxygenite pipeline up
 <$0C>
 to the Face. It's now\n
 a tourist spot for\n
-Earthlings.
+you Earthlings.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
 \n
-They obsess over\n
+You all obsess over\n
 human faces so bad,
 <$0C>
-they come out to see\n
-it and get cosmetic\n
+you come out here,\n
+see it and then pay\n
+us for cosmetic\n
 surgery!
 <$00>
 
@@ -275,7 +274,7 @@ surgery!
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n操縦を誤っただけだ、よくあることだ、\nそうだそうだ。
 \n
@@ -283,7 +282,7 @@ A fluke on your\n
 engineer's part. It
 <$0C>
 happens all the time,\n
-got it? We got it?
+got it?
 <$00>
 
 
@@ -330,15 +329,14 @@ thing. Fair?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n賢明だ。さっさとな、\nそれが賢明だ、そうだそうだ。
 \n
-Yes, prudent even.\n
+Yes, fantastic even.\n
 And you said, "first
 <$0C>
-thing", got it? We\n
-got it?
+thing", got it?
 <$00>
 
 
@@ -374,15 +372,15 @@ engineer, understand?
 
 <$11><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
 \n
-If it helps you, I'll\n
-send searchers the
+Oi, if it speeds\n
+things up, I'll
 <$0C>
-morning, got it? We\n
-got it?
+dispatch a search\n
+party the mornin'.
 <$00>
 
 
@@ -415,7 +413,7 @@ to look now!
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあのふたりに送らせよう。
 \n
@@ -438,14 +436,29 @@ pair outside.
 #WHB(PTR, $00000635)
 
 <$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nあのふたりって…\nあの人たちのことね。
+//\nあのふたりって…\nあの人たちのことね。
+\n
+Those two\n
+bouncers...sure are
+<$0C>
+two peas in a pod.
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nヒガシとニシからやってきて、\nコロニーに居着いたんだって。
+//\nヒガシとニシからやってきて、\nコロニーに居着いたんだって。
+\n
+It's like they came\n
+from pure opposite
+<$0C>
+sides of the world\n
+and came together in\n
+the colony.
 <$00>
+
 
 
 

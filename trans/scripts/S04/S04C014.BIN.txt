@@ -18,7 +18,7 @@ East:
 //\nおい、犬顔！ 見なかったか、リトルさんだ。
 \n
 Is it your fault we\n
-can't find Liter,
+can't find Little,
 <$0C>
 dogface?
 <$00>
@@ -78,7 +78,7 @@ West:
 <$0D>
 //\n声がおかしくなる。
 \n
-And his voice is\n
+Because his voice is\n
 laughable!
 <$00>
 
@@ -170,7 +170,7 @@ West:
 //\n神様神様神様だ、独り言だ。
 \n
 Shouting, "God! God!\n
-God!"!
+God!"
 <$00>
 
 
@@ -246,8 +246,7 @@ East:
 <$0D>
 //\nおい、どこ行く？
 \n
-Hey, where are you\n
-going?
+Where are you going?
 <$00>
 
 
@@ -283,7 +282,7 @@ East:
 <$0D>
 //\nリトルさん。
 \n
-To Liter?
+To Little?
 <$00>
 
 
@@ -301,7 +300,7 @@ West:
 <$0D>
 //\n居場所だ。
 \n
-Where they were!
+To where they were!
 <$00>
 
 
@@ -406,11 +405,12 @@ There's no time!
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON 4,\n
-COMRADE "
+WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
+"
 <$0F>
 //！
-"!
+"
 <$00>
 
 
@@ -437,10 +437,10 @@ COMRADE "
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
 NOT REGISTERED FOR\n
-ENTRY. FOR DETAILS,\n
-SPEAK TO AN
+ENTRY. FOR DETAILS\n
+AND ASSISTANCE, SPEAK
 <$0C>
-ADMINISTRATOR.
+TO AN ADMINISTRATOR.
 <$00>
 
 
@@ -484,9 +484,11 @@ FOR ENTRY.
 Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
-The Hell? What am I\n
-supposed to register\n
-for?!
+\n
+Piece of junk. How am\n
+I supposed to
+<$0C>
+register?
 <$00>
 
 
@@ -504,10 +506,10 @@ Yolanda:
 <$0D>
 //\n何よこれ？\n失礼しちゃうわね！
 \n
-What do you mean?\n
-Hello?\n
-Can I talk to your\n
-manager?
+The fuck does that\n
+mean?\n
+Hello? A little help\n
+here?!
 <$00>
 
 
@@ -525,10 +527,8 @@ Spacer:
 <$0D>
 //\nやはりな…\n私ではだめなのだ。
 \n
-Hmm, this thing\n
-doesn't want to let
-<$0C>
-me in. Fun, fun, fun.
+Hmm... Looks like I'm\n
+not getting in.
 <$00>
 
 
@@ -541,142 +541,355 @@ me in. Fun, fun, fun.
 #WHB(PTR, $000015D9)
 
 <$10><$0B>
-ブーマー：
+//ブーマー：
+Boomer:
 <$0D>
-\n悪いな… だめなんだ。\n言われてるんだ、通せないんだ。
+//\n悪いな… だめなんだ。\n言われてるんだ、通せないんだ。
+\n
+Ohhh, I'm so sorry,\n
+but...ahhh, I can't
+<$0C>
+let you through.
 <$1E>
+//家
 家
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nあら、あなたも眠れないの？
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't\n
+sleep either?
 <$00><$12><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
+//\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
+\n
+Can I ask you about\n
+mirrors? I've got a
+<$0C>
+question about\n
+mirrors.
 <$0C><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\nなんてったっけ、みんなが消える鏡…\n何のことだ？
+//\nなんてったっけ、みんなが消える鏡…\n何のことだ？
+\n
+That talk about\n
+people vanishing into
+<$0C>
+mirrors... What's\n
+that about?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
+//\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
+nHoho, you've heard\n
+about the Mirror of\n
+Judgement? From
+<$0C>
+where, pray tell?
 <$00><$13><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
+//\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
+\n
+Does that matter? The\n
+people here just seem
+<$0C>
+easily spooked by\n
+mirrors.
 <$00><$13><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nそうよ。見たくないのよ。\n鏡に自分の顔を映すと憎しみがわいてくるのよ。\n分かったでしょ、鏡は悪をはぐくむの。
+//\nそうよ。見たくないのよ。\n鏡に自分の顔を映すと憎しみがわいてくるのよ。\n分かったでしょ、鏡は悪をはぐくむの。
+\n
+Indeed. When we show\n
+ourselves to the
+<$0C>
+mirror, our evils\n
+reflect what no one\n
+wants to see.
 <$0C><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nみんなが自分の悪につぶされるの、\nそれが蕃判よ。
+//\nみんなが自分の悪につぶされるの、\nそれが蕃判よ。
+\n
+Our inner evils are\n
+what destroy us. That
+<$0C>
+is Judgement.
 <$00><$12><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
+//\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
+\n
+Heh, so mirrors\n
+cultivate evil? Is
+<$0C>
+that why you made\n
+yours?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Hohoho! Come now, I\n
+made it only because
+<$0C>
+Amanda asked me to.
 <$00><$12><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\nアマンダ…誰なんだそいつは？
+//\nアマンダ…誰なんだそいつは？
+\n
+Amanda, huh. And who\n
+is she?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
+//\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
+\n
+A mirror spirit, and\n
+beauty incarnate. You
+<$0C>
+can say she and I\n
+are...kindred\n
+spirits, hoho.
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nあら、あなたも眠れないの？
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't\n
+sleep either?
 <$00><$12><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\n鏡のこと、話してくれ。
+//\n鏡のこと、話してくれ。
+\n
+Tell me, what's up\n
+with your mirror?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nふふふふふ、蕃判の鏡ね。\n何が知りたいの？
+//\nふふふふふ、蕃判の鏡ね。\n何が知りたいの？
+\n
+Hohoho, the Mirror of\n
+Judgement? What would
+<$0C>
+you like to know?
 <$00><$13><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
+//\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
+\n
+Looking into the\n
+mirror only seems to
+<$0C>
+stir hate. Was that\n
+mirror made to\n
+nurture evil?
 <$00><$13><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
+//\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
+\n
+My, my! So, you do\n
+know. Indeed, when we
+<$0C>
+let our inner evils\n
+destroy the outer, we\n
+find Judgement.
 <$00><$12><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nフェイ、なぜあなたがそんな鏡を作る？\nなぜだ。
+//\nフェイ、なぜあなたがそんな鏡を作る？\nなぜだ。
+\n
+But Feng, why would\n
+you make a mirror
+<$0C>
+capable of doing\n
+that?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Hohoho! Come now, I\n
+made it only because
+<$0C>
+Amanda asked me to.
 <$00><$12><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nアマンダ…またしてもこの名前…誰なんだ？
+//\nアマンダ…またしてもこの名前…誰なんだ？
+\n
+Amanda? That name\n
+does ring a bell. Who
+<$0C>
+is she?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\n鏡の精よ、ふふふふふふ。\n美の権化…
+//\n鏡の精よ、ふふふふふふ。\n美の権化…
+\n
+A mirror spirit, and\n
+beauty incarnate.
 <$0C><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nいずれ私のものとなるの、ふふふ。
+//\nいずれ私のものとなるの、ふふふ。
+\n
+You can say she and I\n
+are...kindred
+<$0C>
+spirits, hoho.
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nあら、あなたも眠れないの？
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't\n
+sleep either?
 <$00><$12><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
+//\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
+\n
+Maybe. Say, I heard\n
+you were making a
+<$0C>
+mirror or something.
 <$00><$13><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
+//\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
+\n
+Oh, the Mirror of\n
+Judgement? So, you
+<$0C>
+heard. But please,\n
+don't let that scare\n
+you.
 <$00><$13><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
+//\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
+\n
+Aww, you worry to\n
+much. It's just a
+<$0C>
+trick mirror anyways,\n
+right? One that makes\n
+people prettier?
 <$00><$13><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nきれいになんて見えないわ、そのままよ、\nそれが憎しみをはぐくむの、悪を育てるの。
+//\nきれいになんて見えないわ、そのままよ、\nそれが憎しみをはぐくむの、悪を育てるの。
+\n
+...It's not for\n
+seeing beauty. It's
+<$0C>
+for nurturing one's\n
+hatred. Or rather,\n
+one's inner evil.
 <$0C><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nでもどうしようもないのよ。\nみんなみんな、自分の悪につぶされる、\nそれが蕃判よ。
+//\nでもどうしようもないのよ。\nみんなみんな、自分の悪につぶされる、\nそれが蕃判よ。
+\n
+Think of it like\n
+Dorian Gray, where
+<$0C>
+our inner evils are\n
+what destroy us. That\n
+is Judgement.
 <$00><$12><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nなんで？ なんでそんなもの、\n作らなきゃならないの？
+//\nなんで？ なんでそんなもの、\n作らなきゃならないの？
+\n
+What? Hang on, why\n
+would you make such a
+<$0C>
+thing?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Hohoho! Come now, I\n
+made it only because
+<$0C>
+Amanda asked me to.
 <$00><$12><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nアマンダ！ 知ってるわよ、その名前。\n確か…
+//\nアマンダ！ 知ってるわよ、その名前。\n確か…
+\n
+Amanda? I know I've\n
+heard the name, but
+<$0C>
+who is she?
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
+//\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
+\n
+A mirror spirit, and\n
+beauty incarnate. You
+<$0C>
+can say she and I\n
+are...kindred\n
+spirits, hoho.
 <$00><$12><$0B>
-フェイ：
+//フェイ：
+Feng:
 <$0D>
-\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
+//\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
+\n
+Agatha is so deep\n
+into hypnotherapy, I
+<$0C>
+wouldn't dream of\n
+stopping her!
 <$1E>
+//〇
 〇
 <$00>
+
 
 
 

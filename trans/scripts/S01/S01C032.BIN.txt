@@ -15,8 +15,8 @@
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-There are no\n
-messages.
+THERE ARE NO\n
+MESSAGES.
 <$00>
 
 
@@ -56,16 +56,17 @@ messages.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n悪夢を抜けた先… 生の終わり、死の始まり、\n君は今、そのすき間にいる。
 \n
-Through the\n
-nightmare- from the
+You're in it all.\n
+From the end of life,
 <$0C>
-end of life to the\n
-beginning of death-\n
-you're in it all.
+through the\n
+nightmares, and into\n
+the beginning of\n
+death.
 <$00>
 
 
@@ -108,7 +109,7 @@ think he is?
 
 <$13><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nエレミヤは私の目の前にいる。\nそうだよ、ライカ、君がエレミヤだ。
 \n
@@ -118,7 +119,7 @@ That's right, Laika.\n
 You're Jeremiah.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n君は強い死の動機に付き動かされている。\n君は死の世界の\nすぐとなりで生きてきたんだよ。
 \n
@@ -126,7 +127,7 @@ Driven powerfully\n
 towards death, living
 <$0C>
 on the doorstep to\n
-the world of death.
+the Land of the Dead.
 <$00>
 
 
@@ -143,10 +144,11 @@ the world of death.
 Noon:
 <$0D>
 //\nエレミヤっていうのは、死の象徴なんだ、\n別に誰ってわけじゃねぇんだ。
+\n
 Jeremiah isn't\n
-exactly a person;\n
-he's a symbol of
+exactly a person.
 <$0C>
+He's a symbol of\n
 death.
 <$0C><$0B>
 //ヌーン：
@@ -154,10 +156,10 @@ Noon:
 <$0D>
 //\nびっくりだろ、自分がそんなんでよ。
 \n
-Are you surprised?\n
-I'm not fazed by it,
+Are you surprised? I\n
+suppose that makes
 <$0C>
-personally.
+sense.
 <$00>
 
 
@@ -171,16 +173,16 @@ personally.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n君の半分はすでに死んでいる、\n死は君自身の問顆なんだ。
 \n
 Your other half is\n
 already dead. Only
 <$0C>
-you can say what\n
-death means to the\n
-rest of you.
+you can determine\n
+what death means to\n
+the rest of you.
 <$00>
 
 
@@ -194,7 +196,7 @@ rest of you.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n無線テレビだ、ライカ、頼む。
 \n
@@ -218,7 +220,7 @@ Noon:
 //\nへへ、死神からお誘いか？
 \n
 Heheh, is that a call\n
-from the Reaper?
+from the Grim Reaper?
 <$00>
 
 
@@ -306,12 +308,11 @@ Phoenix:
 <$0D>
 //\nこれは…クルーの仲間だね。善人になったの…\nそれで救われたってことなの？
 \n
-This is the...crew\n
-member. Did he become
+He's from the survey\n
+unit. If he's become
 <$0C>
-a good person, good\n
-people, but will that\n
-save them?
+a good person, will\n
+this really save him?
 <$00>
 
 
@@ -329,11 +330,12 @@ Phoenix:
 <$0D>
 //\n善人になって、幸せそうだよ。\nいいね、そういうのって…
 \n
-Being a good\n
-person...should feel
+Becoming a good\n
+person should be a
 <$0C>
-good. Really, it\n
-should.
+happy occasion. At\n
+least, that's what\n
+I'd want.
 <$00>
 
 

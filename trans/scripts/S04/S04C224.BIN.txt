@@ -12,12 +12,12 @@
 #WHB(PTR, $0000023D)
 
 //—£ ‚Ü‚à‚È‚­Á“”‚ÌŽžŠÔ‚Å‚·\n
-—£ It's almost time\n
-for lights out.\n
+—£ IT IS ALMOST\n
+LIGHTS-OUT TIME.\n
 <$0E><$1E>
 //Æ–¾‚ð—Ž‚Æ‚µ‚Ü‚·AÆ–¾‚ð—Ž‚Æ‚µ‚Ü‚·B
-We're turning the\n
-lights out.
+THE LIGHTS ARE\n
+TURNING OFF.
 <$0E><$3C><$17><$00>
 
 

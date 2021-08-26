@@ -17,8 +17,7 @@ East:
 <$0D>
 //\nおい、どこ行く？
 \n
-Hey, where are you\n
-going?
+Where are you going?
 <$00>
 
 
@@ -54,7 +53,7 @@ East:
 <$0D>
 //\nリトルさん。
 \n
-To Liter?
+To Little?
 <$00>
 
 
@@ -72,7 +71,7 @@ West:
 <$0D>
 //\n居場所だ。
 \n
-Where they were!
+To where they were!
 <$00>
 
 

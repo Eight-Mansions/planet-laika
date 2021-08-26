@@ -16,11 +16,10 @@
 Oxygen Miner 1：
 <$0D>
 //\nお空は青い、海も青い、\nだから僕のにじは映えるのさ…
-\n
 "Skies are blue, seas\n
-are bluer, that's why
+are bluer, that's why\n
+my rainbow shines
 <$0C>
-my rainbow shines\n
 every co...lor..."
 <$0C><$0B>
 //酸索坑夫１号：
@@ -28,31 +27,24 @@ Oxygen Miner 1：
 <$0D>
 //\nダメだ、いくらやっても！\nやりくりしても！
 \n
-Dammit! Why can't I\n
-do this?! I've gotta
-<$0C>
-make these ends meet\n
-SOMEHOW!
+Drats! Can't do it!\n
+Must work SOMEHOW!
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
 //\nふん、ダメさ。\n僕は、さっきまでの僕じゃないんだ。
 \n
-Grrr, just forget it.\n
-I'm not up to snuff
-<$0C>
-like I used to be.
+Hmph. No good. Not as\n
+good as before.
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
 //\n力がみなぎって、\n代わりに歌を忘れた。
 \n
-I was so pumped with\n
-power, I forgot what
-<$0C>
-it was like to sing.
+So much power, forgot\n
+how to sing.
 <$1E>
 //行
 行
@@ -73,14 +65,12 @@ Oxygen Miner 1：
 <$0D>
 //\nあああ、力を惑じるな。\nこれで歌えればいいのにな。
 \n
-Don't let the power\n
-I'm putting into this
+Argh, power\n
+worthless. Can't sing
 <$0C>
-fool you. I wish I\n
-could actually sing.
+with it.
 <$1E>
 //中
-中
 <$00>
 
 
@@ -98,19 +88,18 @@ Oxygen Miner 1：
 <$0D>
 //\nにじ色から好きな色を抜き出せばいいんだ、\nそうだろ。
 \n
-I say, if live gives\n
-you rainbows, just
+If life gives\n
+rainbows, take
 <$0C>
-pull out the color\n
-you like best.
+favorite colors.
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
 //\n僕もそう思うな。\n７色もいらないんだもん。
 \n
-I sure as day don't\n
-need all 7 colors.
+Don't need seven\n
+colors, I think.
 <$00>
 
 
@@ -132,8 +121,8 @@ Oxygen Miner 1：
 meats are red, that's
 <$0C>
 why I am an unhappy\n
-kid..." Damn, didn't\n
-rhyme!
+kid..." Damn! Rhymes\n
+bad!
 <$00>
 
 
@@ -151,11 +140,8 @@ Oxygen Miner 1：
 <$0D>
 //\n僕はあたりまえなんだ、\nきっとこれ以上は変われないんだ。
 \n
-I'm as\n
-run-of-the-mill as
-<$0C>
-they get, and there's\n
-no changing that.
+I'm ordinary, whoosh.\n
+No changing that.
 <$00>
 
 
@@ -173,8 +159,10 @@ Rummy:
 <$0D>
 //\n緊急事態レベル３だな、これだな。
 \n
-This is Emergency\n
-level 3.
+I take it this is a\n
+Level 3 emergency
+<$0C>
+lock.
 <$00>
 
 
@@ -200,10 +188,11 @@ Oxygen Miner 1：
 <$0D>
 //\nへへへ、どんなもんだい。\nうまくはめたんだ、力任せにな！
 \n
-Hehehe, aww, what the\n
-Hell! (Eh, it's
+Something, something,\n
+something, Hell!
 <$0C>
-better than nothing!)
+(...Better than\n
+nothing?)
 <$00>
 
 
@@ -241,7 +230,7 @@ Oxygen Miner 1：
 <$0D>
 //\nそれはなぜなら死んだから。
 \n
-Get it? It's because\n
+Get it? Because\n
 they're dead!
 <$00>
 
@@ -260,10 +249,10 @@ Oxygen Miner 1：
 <$0D>
 //\n力が強いって、いいことだ、\nそう思うだろ、ははっ！
 \n
-It's better to be\n
-strong, I think!
+Having power is\n
+better, I think.
 <$0C>
-HA-HA-HA!
+Haha!
 <$00>
 
 

@@ -35,7 +35,7 @@ with me?
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n子供の頃、遊んだんじゃないの？\nあんたが。
 \n
@@ -61,7 +61,8 @@ Yolanda:
 <$0D>
 //\n…子供の頃って…
 \n
-...Did I play with...
+Did I play with this\n
+toy...?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -69,7 +70,7 @@ Yolanda:
 //\n誰がこんなふうにしたの？\nどれもこれも壊れてるじゃない。
 \n
 I mean, maybe, but\n
-who the Hell trashed
+who the hell trashed
 <$0C>
 it? I never broke a\n
 thing in my life!
@@ -86,7 +87,7 @@ thing in my life!
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n
 \n
@@ -115,21 +116,21 @@ Yolanda:
 <$0D>
 //\nうそよ、
 \n
-That's a lie.
+Bullshit.
 <$0F>
 //は\n何もできないのよ。
-could never do\n
-something like that.
+couldn't accomplish\n
+that on their own..
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n彼は刃向かえないのよ。
 \n
-They couldn't raise\n
-their hand for
+They couldn't\n
+accomplish anything
 <$0C>
-anything.
+on their own.
 <$00>
 
 
@@ -143,7 +144,7 @@ anything.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nこんなふうに思い出まで壊しちゃったのって\n本当は
 \n
@@ -185,11 +186,12 @@ Yolanda:
 \n
 <$0F>
 //は善でも悪でもないわ、\n無なのよ。 なにもないの、心もないのよ。
-never did anything!\n
-Never had anything!\n
-They never had a mind
+never accomplished\n
+anything! Never had\n
+anything! They never
 <$0C>
-of their own!
+had a mind of their\n
+own!
 <$00>
 
 

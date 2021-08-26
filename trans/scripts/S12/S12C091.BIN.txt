@@ -15,8 +15,8 @@
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-There are no\n
-messages.
+THERE ARE NO\n
+MESSAGES.
 <$00>
 
 
@@ -30,25 +30,25 @@ messages.
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nライカ君…ライカ君だね。
 \n
-Laika, Laika, do you\n
-copy?
+Greetings, Laika. Is\n
+that you?
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n火星のことで新しいことが分かったんだ。
 \n
-I've found out\n
+We've learned out\n
 something new about
 <$0C>
 Mars.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nそれを君に知らせようと思ってね。\n今、昆虫学者に代わるよ。
 \n
@@ -74,12 +74,12 @@ Entomologist:
 <$0D>
 //\nあー、えー、フンフン、\n君は石を見たことがあるかね？\n普通の石じゃない、光る石だ、フン。
 \n
-Ahh, yes. Tell me,\n
-have you seen a stone
+Tell me, bzzbzz. Have\n
+you seen a stone
 <$0C>
 before? Not a regular\n
 stone, but a glowing\n
-stone.
+stone, bzz?
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -89,8 +89,9 @@ Entomologist:
 If you found one,\n
 you'd know right
 <$0C>
-away, Laika, but for\n
-good reason.
+away, Laika. And for\n
+good reason,\n
+bzzbzzbzz.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -109,7 +110,7 @@ Entomologist:
 <$0D>
 //\n善意のカタマリが\n石となって残っているのだよ。
 \n
-That stone is a\n
+The stones are a\n
 physical
 <$0C>
 manifestation of\n
@@ -120,11 +121,12 @@ Entomologist:
 <$0D>
 //\nフンフン、前にも話したとおり、\n火星人の底知れぬ悪意は\nイーブルマインドとなって火星を蝕んでいる。
 \n
-As I'd told you\n
-before, the Martian's
+As we've known, the\n
+Martian's
 <$0C>
 unfathomable ill will\n
-became malice- Evil\n
+became the miasmic\n
+malice we call Evil\n
 Mind.
 <$0C><$0B>
 //昆虫学者：
@@ -132,12 +134,13 @@ Entomologist:
 <$0D>
 //\nだが悪意だけではなかったのだ、フン。\n火星人たちは滅びを前に、\nその善意を光る石に固めたのだよ、フンフン。
 \n
-But they took the\n
-good will they
+But the Martians took\n
+all the good will
 <$0C>
-posessed, and\n
+they had, and\n
 crystalized it into\n
-glowing stones.
+glowing stones,\n
+bzzbzz.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -147,21 +150,19 @@ Entomologist:
 The Martians made the\n
 stones on the brink
 <$0C>
-of their extinction,\n
-so the stones are out\n
-there.
+of their extinction.\n
+I suggest you look\n
+for them.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nフンフン、光る石は全部で５つあるようだ。\n全ての石が集まれば…
-\n
-Why not look for\n
-them? There are five
+Bzzbzz! There are\n
+five of them in\n
+total, but when all
 <$0C>
-of them in total, but\n
-when all five are\n
-gathered...
+five are gathered...
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -171,7 +172,7 @@ Entomologist:
 Maybe the Martians\n
 will spring back to
 <$0C>
-life!
+life, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -182,8 +183,8 @@ You could bear\n
 witness history of
 <$0C>
 HISTORY in the\n
-making! Yes! It's\n
-brilliant!
+making! Yes, bzz!\n
+It'll be brilliant!
 <$00>
 
 
@@ -201,10 +202,11 @@ Rummy:
 <$0D>
 //\nあああ、思い出してきたな…\nあああ、開こえるんだな、先生の声だな
 \n
-Hey, I remember this!\n
-Wow, it's the voice
+Hey, I remember that\n
+voice! That was my
 <$0C>
-of the professor.
+favorite doctor from\n
+once upon a time!
 <$00>
 
 
@@ -222,10 +224,10 @@ Rummy:
 <$0D>
 //\nラミー君だね、\n小さな女の子が好きなんだね？
 \n
-It's me, Rummy, but\n
-you like little
+It's me, Rummy! The\n
+one you kept saying
 <$0C>
-girls, right?
+liked little girls.
 <$00>
 
 
@@ -244,7 +246,9 @@ Rummy:
 //\nあああ、先生はほほえんでいるな
 \n
 Ahh, see, you're\n
-smiling, professor.
+smirking even now,
+<$0C>
+aren't you?
 <$00>
 
 
@@ -262,11 +266,12 @@ Rummy:
 <$0D>
 //\nラミー君、\nその女の子と手をつないで歩いたんだね
 \n
-You were walking\n
-hand-in-hand with
+But I'm Rummy! You\n
+think I was the one
 <$0C>
-that girl, weren't\n
-you.
+walking hand in hand\n
+with that little\n
+girl?!
 <$00>
 
 
@@ -284,10 +289,11 @@ Rummy:
 <$0D>
 //\nあああ、先生、僕は眠いんです…\nたまらなく眠いんです。
 \n
-Ah, Professor! I'm so\n
-tired. I'm so tired,
+Ohhh, doctor... I'm\n
+so tired... I'm so
 <$0C>
-I could die.
+tired of this, I\n
+could die!
 <$00>
 
 
@@ -305,10 +311,12 @@ Rummy:
 <$0D>
 //\nラミー君、\nおなかのアザをその子に見せたんだね？
 \n
-Did you show that\n
-girl the birthmark on
+I'M RUMMY! And you\n
+think IT WAS ME who
 <$0C>
-your stomach?
+showed that little\n
+girl the birthmark on\n
+my stomach?!
 <$00>
 
 
@@ -326,18 +334,18 @@ Rummy:
 <$0D>
 //\nあああ、先生、僕じゃないんです、
 \n
-Oh, professor! It\n
-wasn't me!
+I swear, Doctor! IT\n
+WASN'T ME!
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n僕は眠っていました、\n少しもウソではありません！
 \n
-I was asleep! I'm not\n
-lying even one teensy
+I was asleep at the\n
+time! I WOULDN'T LIE
 <$0C>
-bit!
+ABOUT THIS!
 <$00>
 
 

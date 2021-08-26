@@ -17,7 +17,7 @@ Spacer:
 <$0D>
 //\n君は… リバー！
 \n
-You're...River!
+You must be Liever!
 <$00>
 
 
@@ -31,14 +31,14 @@ You're...River!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあいつもおびえはじめてるんだ！\n僕のウラガワにいるやつ、リトルのことだよ。
 \n
 My opposite's\n
 starting to freak out
 <$0C>
-too. Liter is, I\n
+too. Little is, I\n
 mean.
 <$00>
 
@@ -57,8 +57,10 @@ Spacer:
 <$0D>
 //\nリバー、君には見えるんだな、思念の眼が。
 \n
-Can you see anything?\n
-With your mind's eye?
+Can you see anything\n
+through the mind's
+<$0C>
+eye?
 <$00>
 
 
@@ -72,12 +74,12 @@ With your mind's eye?
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nもちろんさ、あんたと一緒だよ。
 \n
-Well, duh. I see us\n
-here.
+Well, of course. I\n
+see us here.
 <$00>
 
 
@@ -110,11 +112,11 @@ in for up ahead?
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n恐いところだよ。\n自分を見失うかも知れない、そんな場所さ。
 \n
-A scary place where\n
+A scary place, where\n
 one might lose their
 <$0C>
 true self.
@@ -149,22 +151,22 @@ Lose one's true self?
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n自分に向き合うんだ、\nそして本当の自分を見つけるんだ…
 \n
 Face your self, and\n
-you'll find your true
+you will find your
 <$0C>
-self.
+true self.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nふふふ、本当の自分がいればの話だけどね。
 Heh, if your "true\n
-self" even exists,\n
-that is.
+self" exists in the\n
+first place, that is.
 <$00>
 
 

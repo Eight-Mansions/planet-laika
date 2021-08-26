@@ -26,13 +26,12 @@ waves! Weee!
 Yang:
 <$0D>
 //\nあんたもだろ、俺と一緒に電波に乗れるんだろ。\n見たところそんな惑じだ、俺と一緒だ、
-\n
-You are too! We're\n
-riding together on
+nYou are too! We're\n
+riding together on\n
+radio waves! I see
 <$0C>
-radio waves! I see\n
 you sense it too,\n
-like me!
+just like I do!
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -63,8 +62,8 @@ Yang:
 <$0D>
 //\nついに届いたんだな、電波だ！\nあんたも電波だ、俺と一緒だスペーサー。
 \n
-They've finally\n
-arrived! You and the
+We're all finally\n
+here: you, me and the
 <$0C>
 radio waves! We're\n
 all together now,\n
@@ -88,18 +87,31 @@ Spacer!
 Yang:
 <$0D>
 //\n何かがはねてる、ぴょんぴょん…\n開こえないか？
+\n
+It sounds like\n
+something's bouncing.
+<$0C>
+Can't you hear it?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nブリックロードの赤い家の中で\n開いたことがある…
+\n
+The red house on\n
+Brick Road... It's
+<$0C>
+open!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\n俺は、ひゃ！ 中に入れたんだ！
+\n
+Wahoo! I'm going in!
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -116,6 +128,12 @@ Yang:
 Spacer:
 <$0D>
 //\nはねる音？ここでは開こえない、\nどこか別の場所だろう。
+\n
+A bouncing sound? I\n
+don't hear anything
+<$0C>
+here. It must be\n
+somewhere else.
 <$00>
 
 
@@ -132,6 +150,11 @@ Spacer:
 Yolanda:
 <$0D>
 //\nいやね、何がはねてるのよ。\nそんな音、開こえないわよ。
+\n
+Jesus. Something's\n
+reverberating, but I
+<$0C>
+can't hear the sound.
 <$00>
 
 
@@ -148,6 +171,12 @@ Yolanda:
 Ernest:
 <$0D>
 //\n何も開こえねぇな。\nおい、お前の空耳なんじゃねぇのか。
+\n
+I don't hear\n
+anything. Maybe
+<$0C>
+you're just\n
+mishearing things.
 <$00>
 
 
@@ -164,8 +193,12 @@ Ernest:
 Yang:
 <$0D>
 //\nはは、はねてるはねてる、いやな音だ。
+\n
+Haha, that bouncing\n
+sound is so bad!
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -207,8 +240,14 @@ something else.
 Yang:
 <$0D>
 //\nここには電波も届かない、\nそうだ、そうに建いない。
+\n
+The radio waves can't\n
+reach here either.
+<$0C>
+Sad, but true...
 <$1E>
 //鋭
+鋭
 <$00>
 
 

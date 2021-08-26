@@ -13,12 +13,14 @@
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nやっぱり嫌だ、帰ろうよ、ダークマン！
 \n
-I hate this, Darkman!\n
-I want to go home!
+I hate this, Dark\n
+Man! I want to go
+<$0C>
+home!
 <$00>
 
 
@@ -32,7 +34,7 @@ I want to go home!
 
 <$10><$12>
 //に苦しいのか？
-Does it hurt?
+にDoes it hurt?
 <$00>
 
 
@@ -46,7 +48,7 @@ Does it hurt?
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n誰？ 今しゃべったの、誰？\n隊長？ ガリル隊長なの？
 \n
@@ -54,7 +56,7 @@ Who are you? Who\n
 spoke just now?
 <$0C>
 Captain? Captain\n
-Garyl, is that you?
+Galil, is that you?
 <$00>
 
 
@@ -68,7 +70,7 @@ Garyl, is that you?
 
 <$10><$12>
 //にお前を苦悩から救えるのは、\n我々しかいない。
-We are the only ones\n
+にWe are the only one\n
 who can save you from\n
 your suffering.
 <$00>
@@ -84,8 +86,8 @@ your suffering.
 
 <$10><$12>
 //に覚えているだろう、私だ。
-Surely you remember\n
-me.
+にSurely you remember\n
+Us.
 <$00>
 
 
@@ -99,7 +101,7 @@ me.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nああ… ヴェロニカの布…\n僕の顔を作った布…
 \n
@@ -120,8 +122,8 @@ made my face.
 
 <$10><$12>
 //にそうだ。私は顔だ。
-That's right. I am a\n
-face.
+にThat's right. We are\n
+the face.
 <$00>
 
 
@@ -135,15 +137,15 @@ face.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n神様…なの？\nみんなが騒いでる、蕃判の神様なの？
 \n
 Are you...God? Are\n
-you the God of
+you the God of that
 <$0C>
-Judgment everyone is\n
-talking about?
+"Judgement" everyone\n
+is talking about?
 <$00>
 
 
@@ -157,13 +159,12 @@ talking about?
 
 <$10><$12>
 //に我々は神ではない。存在なのだ。\n存在に形を与えて、顔となった。\n存在は、善でも悪でもない。
-\n
-We are no God. We are\n
-an existence-one
+にWe are no God. We\n
+are one existence,\n
+given facely shape.
 <$0C>
-given facely shape,\n
-neither good nor\n
-evil.
+We are neither good\n
+nor evil.
 <$00>
 
 
@@ -177,7 +178,7 @@ evil.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n存在？ よく分からないなあ…\nそれって、見えるの？
 \n
@@ -198,17 +199,16 @@ Can you show me?
 
 <$10><$12>
 //に見えるか見えないかは、問顆ではない。
-To show or not to\n
+にTo show or not to\n
 show, that is now the\n
 question.
 <$0C>
 //存在としての我々は、\n顔を得たことで実体化した。\nしかし、顔によって崩壊したのだ。
-We are an existence.\n
-We create ourselves\n
-with Our faces, and
+We are an existence\n
+created from Our face\n
+and destroyed by Our
 <$0C>
-destroy ourselves\n
-with Our faces.
+face.
 <$00>
 
 
@@ -222,7 +222,7 @@ with Our faces.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n顔！ 僕は…僕のこの顔が、嫌いだ。\nこの顔のおかげで、僕は…
 \n
@@ -243,11 +243,10 @@ all I do is...
 
 <$10><$12>
 //にその顔が災いをもたらしたのだな。\n戻すのはたやすい。\nさあ、来るのだ。
-That face brings you\n
-disaster, but it is\n
-easy to return. Here,
-<$0C>
-come with Us.
+にThat faces harkens\n
+disaster, but you can\n
+turn it back.\n
+Yes, it comes.
 <$00>
 
 
@@ -294,7 +293,7 @@ Who said that?
 
 <$10><$12>
 //にどこを見ている、ここだ、お前の前だ。
-Where are you\n
+にWhere are you\n
 looking?\n
 We are here, before
 <$0C>
@@ -330,9 +329,9 @@ Spacer:
 
 <$10><$12>
 //に私は真の存在だ。\n真の顔とでも理解してくれ。\nトゥルーフェイスだ。
-We are a true\n
-presence, or one of\n
-true face.\n
+にWe are the existence\n
+of truth, the face of\n
+truth.\n
 We are True Faiths.
 <$00>
 
@@ -351,11 +350,10 @@ Spacer:
 <$0D>
 //\nあなたが人間の顔を作っている…\nそういうことなんだな。
 \n
-That sounds to\n
-me...like you're the
+That sounds to me\n
+like you who make
 <$0C>
-ones who make human\n
-faces.
+human faces.
 <$00>
 
 
@@ -369,6 +367,7 @@ faces.
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -379,7 +378,7 @@ Human faces?!\n
 Foolish! You humans
 <$0C>
 alone give your faces\n
-such significance.
+any significance.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -409,7 +408,7 @@ Spacer:
 <$0D>
 //\n滅んだ…すると、あなたは火星人なのか…
 \n
-Extinction...\n
+Extinction...?\n
 Ah, so you're
 <$0C>
 Martians.
@@ -447,8 +446,8 @@ True Faiths:
 However, We are\n
 neither Martian nor
 <$0C>
-Alien. What do you\n
-suppose you are?
+Alien. And what would\n
+you say you are?
 <$00>
 
 
@@ -466,10 +465,10 @@ Spacer:
 <$0D>
 //\n私は地球人…地球から来た…
 \n
-I'm an\n
-Earthling...from
+I came here from\n
+Earth, so that would
 <$0C>
-Earth.
+make me an Earthling.
 <$00>
 
 
@@ -505,7 +504,7 @@ True Faiths:
 If you have a child,\n
 you're a father? If
 <$0C>
-you steal, you're a\n
+you take, you're a\n
 thief? If you fight,\n
 you're a soldier?
 <$0C><$0B>
@@ -514,8 +513,8 @@ True Faiths:
 <$0D>
 //\n真の自分を隠し、目をそらせ、\n何色にでも染まろうとする。
 \n
-You fools! Hiding\n
-your true selves
+You are foolish to\n
+hide your true selves
 <$0C>
 under countless\n
 titles of\n
@@ -536,6 +535,13 @@ convenience!
 Spacer:
 <$0D>
 //\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
+\n
+Listen, in our social\n
+structure, humans are
+<$0C>
+given roles: fathers,\n
+teachers, mothers,\n
+children, et cetera.
 <$00>
 
 
@@ -549,16 +555,32 @@ Spacer:
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
+\n
+\n
+"Roles"..."structure"...hah!
+<$0C>
+Then We ask you, why\n
+do you kill each\n
+other?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n憎しみ合う？\nウソをつき、自分のために他人を傷つける？\nなぜ、そのようなことができるのだ？
+\n
+Is it your role to\n
+hate? To lie and hurt
+<$0C>
+others for\n
+self-preservation?\n
+How can you live that\n
+way?!
 <$00>
 
 
@@ -575,11 +597,25 @@ True Faiths:
 Spacer:
 <$0D>
 //\n憎しみや殺人だけではない。\n人を愛し、いつくしみの心で\n救いの手をさしのべることもある。
+\n
+There's more to life\n
+than hatred and
+<$0C>
+murder. It's about\n
+loving others and\n
+helping them with\n
+compassion.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nひとりひとりが、個性を持ち、\n生きているからだ。
+\n
+Because each and\n
+every one of us has a
+<$0C>
+personal story to\n
+tell.
 <$00>
 
 
@@ -593,21 +629,43 @@ Spacer:
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
+\n
+"Personal"...another\n
+convenience word.
+<$0C>
+Now, imagine organs\n
+in the human body\n
+were "personal".
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nひとつひとつの器官には、決まった役割が与えら\nれている。それは個性などではない。\n心臓は脳にはなれない、口は耳にはなれない。
+\n
+Each and every organ\n
+is fixed to serve the
+<$0C>
+whole. A heart cannot\n
+be a brain. Nor a\n
+mouth, an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nそれが役割というものだ。\nお前の言い分は、正確ではない。
+\n
+That is how one's\n
+true "role" is
+<$0C>
+determined. Your\n
+"personal" logic\n
+falls short.
 <$00>
 
 
@@ -626,11 +684,11 @@ Spacer:
 //\n火星人…いや、あなたたちは、全体でひとつの個\n性を持つ。そう開いたが。
 \n
 I heard the\n
-Martians-I mean, you
+Martians...I mean,
 <$0C>
-part of a hive mind\n
-without\n
-individuality.
+you, are a collective\n
+consciousness devoid\n
+of individuality.
 <$00>
 
 
@@ -644,17 +702,19 @@ individuality.
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない\nそこにお前たちの顔が災いをもたらせたのだ。
 \n
-Indeed, we do not see\n
-"individuals". Your
+Indeed, We do not see\n
+"individuality". Your
 <$0C>
-faces ignited our\n
-destruction.
+faces ignited Our\n
+destruction in its\n
+entirety.
 <$00>
 
 
@@ -699,7 +759,7 @@ True Faiths:
 Our one mistake in\n
 1.26 billion years.
 <$0C>
-We visited Earth\n
+Now, We visited Earth\n
 thrice in the past...
 <$0C><$0B>
 //トゥルーフェイス：
@@ -707,11 +767,12 @@ True Faiths:
 <$0D>
 //\n三度目にお前たちが現れたのだ。\nお前たち人間は弱く、\n絶滅を予定された種のはずだった。
 \n
-...and thrice, humans\n
-appeared. Your weak
+...and on the third\n
+day, humans appeared.
 <$0C>
-species should have\n
-gone extinct.
+Your species was a\n
+flicker doomed for\n
+extinction.
 <$00>
 
 
@@ -732,8 +793,8 @@ Spacer:
 I don't see why,\n
 though. Humans
 <$0C>
-acquired wisdom and\n
-flourished.
+acquired wisdom, and\n
+used it to flourish.
 <$00>
 
 
@@ -747,6 +808,7 @@ flourished.
 
 <$10><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -788,7 +850,7 @@ differentiate the
 <$0C>
 Word of God and\n
 delusion, you\n
-ghouls?!
+insects?!
 <$00>
 
 
@@ -811,7 +873,7 @@ Spacer:
 //\n陽精とはあなたたちのことなのか？
 \n
 What do you mean,\n
-"ghouls"?
+"insects"?!
 <$00>
 
 
@@ -833,10 +895,10 @@ Spacer:
 <$0D>
 //\nあああ、バカみたいだ。\n汚い布に話しかけるなんて！
 \n
-Ugh, if I'm anything,\n
-I'm an idiot, talking
+Sheesh. I must be an\n
+idiot, talking to a
 <$0C>
-to a rag like this.
+rag like this.
 <$00>
 
 

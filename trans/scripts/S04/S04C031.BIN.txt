@@ -16,23 +16,44 @@
 Sammy:
 <$0D>
 //\nあら、またまたサミーよ。
+\n
+Guess who it is? It's\n
+me, Sammy!
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\n今夜はトミー、おかしいみたい。\nすぐアタシになっちゃうの。
+\n
+Tommy sure was antsy\n
+tonight. Heehee, he's
+<$0C>
+turning into me more\n
+and more.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nねえ、ところでさ、\nあんた一人じゃないのね。
+\n
+We're not as lonely\n
+as you nor I might
+<$0C>
+think, a-nope.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\n可愛いコのこと、隠してたの？
+\n
+Are you playing\n
+hide-and-seek with
+<$0C>
+that cute woman\n
+running around?
 <$1E>
 //〇
+〇
 <$00>
 
 
@@ -49,8 +70,14 @@ Sammy:
 Sammy:
 <$0D>
 //\nそのへんにいるはずよ、さがしてみれば。
+\n
+If you look in the\n
+area, I'm sure you'll
+<$0C>
+find her.
 <$1E>
 //〇
+〇
 <$00>
 
 
@@ -68,31 +95,31 @@ Tommy:
 <$0D>
 //\nへへ、換気なんてしてねぇのによう、\n換気塔なんてよう、いらねぇ、いらねぇ。
 \n
-Heheh, we-er, don't\n
-need the ventilation
+Hehe, we don't need\n
+the ventilation tower
 <$0C>
-tower for\n
-ventilation. Nope.
+for ventilation,\n
+a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n酸索屋のヘロデがこしらえたけどよう、\nあいつは役立たずだ。
 \n
-Herod's little oxygen\n
-dispensary can-er,
+Herod's cushy little\n
+oxygen dispensary can
 <$0C>
-kiss my fat ass.
+kiss my fat ass...
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n毎日、朝も夜も、眠い眠いさ。\nいっつも眠いんだ。
 \n
-Whew... Every day,\n
+Whew. Every day,\n
 morning to night,
 <$0C>
-I'm...always so-er\n
+I'm...always so\n
 sleepy...
 <$1E>
 //双
@@ -114,22 +141,23 @@ Rummy:
 <$0D>
 //\nなんだな、僕だな、ラミーだな。\n今度はふたりだな、あと何人だな…
 \n
-What's up? I'm-uhm,\n
-Rummy! That makes two
+Hey. It's me, Rummy!\n
+So, we make two, and
 <$0C>
-of us, so who's-uhm,\n
-No. 3?
+I guess...that\n
+person's number\n
+three?
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n仲間、はぐれたんだな。\n記憶の谷だな、あそこだな。
 \n
-Your friends are\n
-lost? I bet
+You're friend's lost,\n
+isn't she. Yeah, she
 <$0C>
-they're-uhm, in\n
-Memory Valley.
+must be in Valles\n
+Memoriae, a-ha!
 <$1E>
 //鋭
 鋭
@@ -150,10 +178,10 @@ Rummy:
 <$0D>
 //\nはぐれたやつはきまって記憶の谷へ行くな。
 \n
-Anyone who gets-uhm,\n
-lost, winds up in
+Those who get lost\n
+wind up in Valles
 <$0C>
-Memory Valley!
+Memoriae, a-ha!
 <$1E>
 //炎
 炎

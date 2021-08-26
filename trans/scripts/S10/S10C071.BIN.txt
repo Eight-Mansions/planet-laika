@@ -58,8 +58,8 @@ Yolanda:
 Tanya...? No, that's\n
 not Tanya's voice.
 <$0C>
-It's a ghost! A sick\n
-fucking ghost!
+That's a ghost! A\n
+SICK, FUCKING GHOST!
 <$00>
 
 
@@ -120,24 +120,24 @@ fucking ghost!
 #WHB(PTR, $00000731)
 
 //所ガリル：
-所Garyl：
+Galil:
 <$0D>
 //\nアーネスト、馬屋に火を放ったのは君だ、\nそうじゃないのかね。
 \n
-Ernest, you're the\n
+Ernest, you were the\n
 one who set the barn
 <$0C>
 on fire.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nウラジミールが大切にしていた馬が\n焼け死んだ。
 \n
 You burned Vladimir's\n
 beloved horse to
 <$0C>
-death!
+death.
 <$00>
 
 
@@ -150,6 +150,7 @@ death!
 #WHB(PTR, $00000745)
 
 //離
+離
 <$13><$0B>
 //アーネスト：
 Ernest:
@@ -172,14 +173,14 @@ mine!
 #WHB(PTR, $00000759)
 
 //所ガリル：
-所Garyl：
+所Galil:
 <$0D>
 //\nいや建う、君だ。
 \n
 No, it was you.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nたしかにセルゲイは父親が可愛がる馬が\nきらいだった。
 \n
@@ -187,18 +188,18 @@ Sergei did not care\n
 much for his father's
 <$0C>
 beloved horse,\n
-certainly.
+certainly...
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nしかし馬屋に火を放ったりはしない。
 \n
-But he did not set\n
+...but he did not set\n
 the barn on fire.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nあれは君がセルゲイのせいにしようと\nやったことだ。
 \n
@@ -218,16 +219,15 @@ because YOU did it!
 #WHB(PTR, $0000076D)
 
 //離
+離
 <$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nあああ、やめてくれ！\n俺じゃねぇ、俺じゃねぇ！
 \n
-Auuuugh, stop!\n
-It wasn't me! IT
-<$0C>
-WASN'T ME!
+No, stop! It wasn't\n
+me! IT WASN'T ME!
 <$00>
 
 
@@ -240,7 +240,7 @@ WASN'T ME!
 #WHB(PTR, $00000781)
 
 //所ガリル：
-所Garyl：
+所Galil:
 <$0D>
 //\n君はセルゲイに濡れ衣を着せたんだ、\nそうだろ、アーネスト。
 \n
@@ -260,6 +260,7 @@ did!
 #WHB(PTR, $000007A5)
 
 //離
+離
 <$13><$0B>
 //アーネスト：
 Ernest:
@@ -290,15 +291,15 @@ down to his level!
 #WHB(PTR, $00000935)
 
 //子ガリル：
-子Garyl:
+子Galil:
 <$0D>
 //\nスペーサー、君だね、\nセルゲイを強盗殺人の犯人に\n仕立て上げたのは。
 \n
-But Spacer could,\n
-couldn't he? Spacer
+Ah, but Spacer could.\n
+Spacer could easily
 <$0C>
-could pin Sergei as\n
-lowly criminal.
+pin Sergei as a lowly\n
+criminal.
 <$00>
 
 
@@ -376,7 +377,7 @@ Spacer:
 <$0D>
 //\nあああ、そうに建いない！\n私には確信があるんだ！
 \n
-Augggh! I'm right! I\n
+Augh! I'm right! I\n
 know I am! I HAVE TO
 <$0C>
 BE RIGHT!
@@ -420,10 +421,10 @@ Spacer:
 //\nあああ、やめろ！ セルゲイは悪人だ、\nいずれ殺人を犯すに建いない！
 \n
 Stop! Stop! STOP!\n
-Sergei was a villain!
+Sergei was an evil
 <$0C>
-He was BOUND to\n
-commit murder\n
+person! He was BOUND\n
+to commit murder\n
 someday!
 <$0C><$0B>
 //スペーサー：
@@ -469,7 +470,7 @@ Yolanda:
 //\nアタシが何かしたっていうの？ 知らないわよ、\nそんなはずないじゃない。
 \n
 Why are you asking\n
-me? Fuck if I know, I
+me? Hell if I know, I
 <$0C>
 had nothing to do\n
 with him.
@@ -480,10 +481,9 @@ Yolanda:
 //\nお酒よ、お酒が彼を蝕んだのよ。
 \n
 I only knew about the\n
-alchohol. The
+shit alcohol that
 <$0C>
-alchohol rotted his\n
-brain.
+rotted his brain.
 <$00>
 
 
@@ -496,27 +496,28 @@ brain.
 #WHB(PTR, $00000B51)
 
 //子ガリル：
-子Garyl:
+子Galil:
 <$0D>
 //\nウラジミールは酒好きだ。\nそれをいいことに、\nやつに質の悪い酒を飲ませたのは君だ。
 \n
-Vladimir loved his\n
-liquor. In fact,
+Yes, Vladimir did\n
+love his liquor.
 <$0C>
-you're the one who\n
-served him bad\n
-liquor.
+Still, you're the one\n
+who served him\n
+tainted liquor.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nエ場から盗み出した\nひどいシロモノを飲ませたんだ。\nウラジミールは見る間に調子を崩していった。
 \n
-You took bad liquor\n
+You took bad alchohol\n
 from the factory and
 <$0C>
-served him that to\n
-wane his temper.
+served it to him at\n
+breakfast to wane his\n
+temper.
 <$00>
 
 
@@ -590,7 +591,7 @@ for...Vladimir to die
 <$0C>
 first! B-but then,\n
 Tanya went\n
-and...augh!
+and...AUGH!
 <$00>
 
 

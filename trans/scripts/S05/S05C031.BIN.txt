@@ -36,10 +36,16 @@ wait here.
 
 #WHB(PTR, $00000585)
 
-甘い、ないぞ！\nくそ人形、どこやりやがった！
+//甘い、ないぞ！\nくそ人形、どこやりやがった！
+This cannot be!\n
+Where is that damned\n
+doll?!
 <$0C>
-フェイの野郎か、やっぱりあの女が…
+//フェイの野郎か、やっぱりあの女が…
+Feng, that witch...!\n
+This was her doing!
 <$00>
+
 
 
 

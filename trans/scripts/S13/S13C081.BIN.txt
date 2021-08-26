@@ -13,12 +13,12 @@
 
 <$11><$13><$13><$11>
 //子フェニックス：
-子Phoenix：
+子Phoenix:
 <$0D>
 //\n僕が？ これは僕の見たものじゃない！\n
 \n
 Is this my...no! I\n
-didn't see this!
+didn't see this!\n
 <$0F>
 //だ、あいつだ！\nここが憎しみの原点なのか！
 did! Was this the\n
@@ -57,18 +57,18 @@ it toward death.
 #WHB(PTR, $00000515)
 
 //問
+問
 <$13><$11>
 //子フェニックス：
-子Phoenix：
+Phoenix:
 <$0D>
 //\n体… これが僕の体…\nはじめてだ、こんなのはじめてだ。\nあああ、混乱する！
 \n
-This body! Th-this is\n
-the first time my
+This body! T-this is\n
+the first time I've
 <$0C>
-body's felt anything\n
-like this! It's\n
-Madness!
+felt anything like\n
+this! It's Madness!
 <$0E><$78><$17><$00>
 
 

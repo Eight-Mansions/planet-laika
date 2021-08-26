@@ -13,14 +13,12 @@
 
 <$10><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nあああ、これが死の惑触…
 \n
-Ahhhh, so this is\n
-death's sweet
-<$0C>
-sensation...
+Ahhhh, the sweeeeet\n
+kiss of deaaaath...
 <$00>
 
 
@@ -34,22 +32,23 @@ sensation...
 
 <$10><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\n闇の中を光が…
 \n
 My candle in the\n
-dark...
+daaaark...
 <$0C><$0B>
 //ユニバーサルマン：
-Universalman:
+Universal Man:
 <$0D>
 //\nああ、言葉だ、言葉が光を放ってやってくる…\n私へ、来い！
 \n
 Ahhh, sweet words.\n
 Sweet, illuminating
 <$0C>
-words! Come to me!
+woooords...!\n
+Commme...to me!
 <$00>
 
 
@@ -66,20 +65,42 @@ words! Come to me!
 #WHB(PTR, $000025D1)
 
 <$10><$13><$13><$0B>
-フェニックス：
+//フェニックス：
+Phoenix:
 <$0D>
-\n僕でも平気なのか…
+//\n僕でも平気なのか…
+\n
+I'm not sure I can\n
+handle it...
 <$0C><$08>
-罪を背負う子羊たちが暗闇に解き放たれ、\n時の中でつながる双子を目覚めさせるだろう。
+//罪を背負う子羊たちが暗闇に解き放たれ、\n時の中でつながる双子を目覚めさせるだろう。
+May the sinful lambs\n
+be set loose in the\n
+dark, and awaken the
 <$0C>
-マコトの双子がはじめの一歩を記し、\n光の夢におどる。\n新たなる人間として歩み始めるであろう。
+Twins of Truth in\n
+time.
+<$0C>
+//マコトの双子がはじめの一歩を記し、\n光の夢におどる。\n新たなる人間として歩み始めるであろう。
+May the Twins of\n
+Truth take the first\n
+step, and dance in
+<$0C>
+the shining dream.\n
+That they swalk away\n
+as new human beings.
 <$05><$0C>
+//\n
 \n
 <$0B>
-      
+//      
+
 <$0D>
-第三の預言を得た。
+//第三の預言を得た。
+So sayeth the third\n
+prophecy.
 <$00>
+
 
 
 
@@ -95,8 +116,8 @@ White Eagle:
 <$0D>
 //\nふほ、第三の預言じゃな…
 \n
-Goho, that was the\n
-third prophecy.
+Haww, that was the\n
+third prophecy!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -114,26 +135,33 @@ White Eagle:
 <$0D>
 //\nマコトの双子とは… お前がそうなのか…\nほっほう、光の夢におどるのか。
 \n
-The twins of truth,\n
-those might be you.
+The Twins of Truth,\n
+those might be you,
 <$0C>
-Ho-ho, do you dream\n
-of the light?
+haww, haww! Now, do\n
+you dream of the\n
+light?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nマコトの双子、マコトの双子、\nどうじゃ、お前がそうなのか！
 \n
-Twins of truth! Twins\n
-of truth! Don't you
+Twins of Truth! Twins\n
+of Truth! Don't you
 <$0C>
 think that might mean\n
 you?
 <$00><$10><$0B>
 //フェニックス：
+Phoenix:
 <$0D>
 //\nなんだか気分が悪いよ。\nやっぱり僕じゃダメなんじゃないの？
+\n
+I don't feel too\n
+good. I doubt I'm up
+<$0C>
+to the task.
 <$00>
 
 
@@ -151,12 +179,13 @@ White Eagle:
 <$0D>
 //\nふほほほほ、\nお前という人間は深刻な存在じゃのう…\n恐ろしく深刻じゃ…
 \n
-Go-hohoho, you humans\n
-live such disorderly
+Haww, haww, haww! You\n
+humans live such
 <$0C>
-existences.\n
-Dreadfully full of\n
-disorder...
+disorderly\n
+existences,\n
+dreadfully brimming\n
+with disorder...
 <$00>
 
 

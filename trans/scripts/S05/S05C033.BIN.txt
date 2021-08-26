@@ -17,11 +17,11 @@ Noble Rock:
 <$0D>
 //\nテレポーテーションだな、ホワイトイーグルは\nどこへ行った？ 一緒に来たのか？
 \n
-And THAT'S\n
+And THAT iS\n
 teleportation! Where
 <$0C>
 did White Eagle go?\n
-Are they coming\n
+Shall we look\n
 together?
 <$00>
 
@@ -61,10 +61,10 @@ Noble Rock:
 <$0D>
 //\nああ、いよいよだ、合体の時だ。\nみだりにここを動くんじゃないぞ。
 \n
-Ah, here it is. The\n
-time of th merge!
+Ah, merging time is\n
+here! Now, do not
 <$0C>
-Don't make any sudden\n
+make any sudden\n
 movements.
 <$00>
 
@@ -83,11 +83,11 @@ Noble Rock:
 <$0D>
 //\nまだ早い、今はだめだ、危ないぞ。\n巻き込まれる、合体してしまうぞ。
 \n
-It's too early. This\n
-won't do... You can't
+It is still too early\n
+for this. You can't
 <$0C>
 afford to get caught\n
-in the merge.
+in the integration!
 <$00>
 
 
@@ -109,7 +109,7 @@ Hey, are you all\n
 right? What did White
 <$0C>
 Eagle say about\n
-this...
+this...?
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -119,9 +119,9 @@ Noble Rock:
 How is this not too\n
 early? Has the
 <$0C>
-situation changed? If\n
-so, what? Is this\n
-truly all right?
+situation changed?\n
+And if so, how? Is\n
+this truly all right?
 <$00>
 
 

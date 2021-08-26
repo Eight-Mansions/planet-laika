@@ -13,11 +13,11 @@
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n行かないで！ダークマン…
 \n
-Don't go, Darkman!
+Don't go, Dark Man!
 <$00>
 
 
@@ -31,7 +31,7 @@ Don't go, Darkman!
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nお客さん…そこにいるの、お客さんだよね。\n分かるんだよ、気配で。
 \n
@@ -53,7 +53,7 @@ is a...
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、ひとつお願いしていい？\n僕を自由にしてくれる？
 \n
@@ -63,8 +63,8 @@ favor? Can you...free
 me?
 <$1B>
 //、もちろん\nどうやって？
-、Of course\n
-Free you how?
+、Yes\n
+How?
 <$00><$17><$00>
 
 
@@ -78,7 +78,7 @@ Free you how?
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nありがとう。きっとだよ。約束だよ。
 \n
@@ -86,12 +86,12 @@ Thank you! Remember,\n
 it's a promise.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nダークマンの言ったこと、\n本当だったんだね。今に救われるって。
 \n
-Then what Darkman\n
-said is true! I
+Wow, it's just like\n
+Dark Man said! I
 <$0C>
 really will be saved!
 <$00>
@@ -107,14 +107,14 @@ really will be saved!
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n簡単なことさ。
 \n
 It's simple.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n僕はこの顔で不幸になったんだ、\n元に戻したいんだよ。
 \n
@@ -135,27 +135,29 @@ my face.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nダークマンを呼び戻すからね、\n助けてくれるのはそれからでいいよ。
 \n
-Next time I call to\n
-Darkman, I'm sure
+Next time I call out\n
+to Dark Man, he'll
 <$0C>
-he'll help.
+surely answer and\n
+help me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nあんたはリバーをさがさなきゃ。\n彼、あんたのこと待ってるよ。
 \n
-I need you to meet\n
-River. He'll be
+In the meantime, I\n
+need you to meet
 <$0C>
-waiting for you.
+Liever. He'll be\n
+expecting you.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nイースト、ウェストに見つからないように…\nコロニーの中じゃないけど。どこかな…
 \n
@@ -163,7 +165,7 @@ He's outside of the\n
 colony, somewhere
 <$0C>
 where East and West\n
-won't find him.
+can't find him.
 <$00>
 
 
@@ -177,24 +179,44 @@ won't find him.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、あんたはケンカする人でしょ、
+\n
+You. You're a\n
+combative person,
+<$0C>
+aren't you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark\n
+Man peered into you
+<$0C>
+and told me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n火事…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+Through fire...Liever\n
+will show you to the
+<$0C>
+place of prophecy.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうん、火事って言葉が浮かんできたよ。
+\n
+Yes, the word "fire"\n
+is floating about in
+<$0C>
+my head.
 <$00>
 
 
@@ -208,24 +230,43 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、あんたはあの目玉が見える人でしょ、
+\n
+You. You can see the\n
+eyeballs, can't you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark\n
+Man peered into you
+<$0C>
+and told me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nロケット…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+From a\n
+rocket...Liever will
+<$0C>
+show you to the place\n
+of prophecy.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうん、ロケットって言葉が浮かんできたよ。
+\n
+Yes, the word\n
+"rocket" is floating
+<$0C>
+about in my head.
 <$00>
 
 
@@ -239,24 +280,45 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、あんたは顔作りに来た人でしょ、
+\n
+You. You like to doll\n
+up your face, don't
+<$0C>
+you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark\n
+Man peered into you
+<$0C>
+and told me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n避難小屋…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+Through a\n
+shelter...Liever will
+<$0C>
+show you to the place\n
+of prophecy.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうん、避難小屋って言葉が\n浮かんできたよ。
+\n
+Yes, the word\n
+"shelter" is floating
+<$0C>
+about in my head.
 <$00>
 
 
@@ -270,7 +332,7 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうーんと、あんたはねぇ…\nよく見えてこないなぁ。
 \n
@@ -278,14 +340,14 @@ Hmmm... How odd. I\n
 can't seem to tell.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nどんなタイプなのかなぁ…
 \n
 Which type are you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n力持ちなら火事、\n頭がいいとロケット、欲ばりだと避難小屋…
 \n
@@ -296,25 +358,25 @@ have knowledge, seek\n
 the rocket.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nそこまではわかるんだけど。
 \n
 If you have desire,\n
-seek the escape hut.
+seek the shelter.
 <$0C>
-That's all I can\n
-tell, and yet...
+That's all I can tell\n
+you, but...
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nタイプをはっきりさせないと、\nリバーは見つからないよ。
 \n
 ...if you don't have\n
 a type, you'll never
 <$0C>
-find River.
+find Liever.
 <$00>
 
 
@@ -328,14 +390,14 @@ find River.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nリバーが待ってるよ。
 \n
-River is waiting.
+Liever is waiting.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n待ってるのはあんたのことじゃないよ、\nあんたの中の誰かさ。
 \n
@@ -346,11 +408,11 @@ someone inside of\n
 you.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nきっといろいろ話したいんだろうね。
 \n
-I suppose River and\n
+I suppose Liever and\n
 that someone have
 <$0C>
 much to discuss.

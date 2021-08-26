@@ -17,10 +17,10 @@ Spacer:
 <$0D>
 //\n…おかしい…私の中に…\n言葉が開こえる…
 \n
-Ick! I feel\n
-words...unfolding in
+This is weird. I can\n
+hear...words in my
 <$0C>
-my head!
+head...!
 <$00>
 
 
@@ -43,7 +43,7 @@ Spacer:
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
 \n
 "To see a world in a\n
-Grain of Sand; And a
+Grain of Sand. And a
 <$0C>
 Heaven in a Wild\n
 Flower."
@@ -54,7 +54,7 @@ Spacer:
 //\nたなごころの中に無限をつかみ\nひとときのうちに永遠を捉える…
 \n
 "Hold Infinity in the\n
-palm of your hand;
+palm of your hand.
 <$0C>
 And Eternity in an\n
 hour."
@@ -65,9 +65,9 @@ Spacer:
 //\n古い詩の一節だ…預言者的な洞察を惑じる…\nそれにしても、この詩は…
 \n
 ...Lines from an old\n
-poem. I dare say, I'm
+poem. Interesting.
 <$0C>
-sensing some\n
+I'm sensing some\n
 prophetic insight\n
 here!
 <$00>
@@ -93,9 +93,9 @@ like a whisper,
 but...
 <$0C>
 //一粒の…花？\n無限を…\n分からない、何のことだ？
-"Grain", "flower" and\n
-"eternity"...what\n
-does it mean?
+"Grain", "flower",\n
+"eternity"... What\n
+does it all mean?
 <$00>
 
 
@@ -134,8 +134,8 @@ Ernest:
 <$0D>
 //\n何だこりゃ…鍵がかかってるぜ。
 \n
-What the Hell? It's\n
-locked!
+What the hell? It's\n
+locked.
 <$00>
 
 
@@ -148,10 +148,17 @@ locked!
 #WHB(PTR, $000005D1)
 
 <$10><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nなんか大事な物でも\nしまってあるのかしらねぇ…
+//\nなんか大事な物でも\nしまってあるのかしらねぇ…
+\n
+I wonder if something\n
+important's hidden in
+<$0C>
+there...
 <$00>
+
 
 
 
@@ -163,22 +170,21 @@ locked!
 
 <$10>
 //まだだめなのね。
-Tsk, tsk. No luck\n
-yet.
+No luck yet, a-nope.
 <$0C>
 //アタシには見えない。\nサイコちゃんには簡単なことなのに。
 This'd be simple for\n
-the little Psycho,\n
-but I can't see a
+the little\n
+Psycho, but I can't
 <$0C>
-thing.
+see a thing.
 <$0C>
 //ふん、ラミーのやつ…\nまだ何かアタシに隠してるのね。
 Rummy, Rummy,\n
-Rummy... You're still\n
-hiding things from
+Rummy...\n
+Always hiding things
 <$0C>
-me.
+from me.
 <$00>
 
 
@@ -205,9 +211,9 @@ Sammy:
 //\nあなたは…どのタイプなの？\nねぇ、サイコちゃんなの？
 \n
 So, what's your type?\n
-Another little
+Might you be another
 <$0C>
-Psycho, perchance?
+little Psycho?
 <$00>
 
 
@@ -225,11 +231,11 @@ Sammy:
 <$0D>
 //\nだったらそこの目玉、扉の前にある\nでっかい目玉が見えるはずよ…どう？見える？
 \n
-A Psycho type would\n
-be able to see a
+A Psycho type will be\n
+able to see a large
 <$0C>
-large eyeball on that\n
-door. Do you see it?
+eyeball on that door.\n
+Do you see it?
 <$00>
 
 
@@ -295,11 +301,12 @@ Sammy:
 <$0D>
 //\nあなたも気を付けてね、\n変なことに巻き込まれないように。
 \n
-You'd best watch your\n
-back. You don't want
+You'd best steer\n
+clear. You don't want
 <$0C>
 to get caught up in\n
-anyone's trash.
+anyone's trash,\n
+a-nope.
 <$1E>
 //夜
 夜
@@ -316,28 +323,26 @@ anyone's trash.
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、\nあいつは見かけにこだわるビジュアル系…
 \n
 Hyohyo! That's one\n
-visual type who cares
+Visual type who cares
 <$0C>
 too much about\n
 appearances.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\n火星の住人はみな悪を秘めてるぞ。
 \n
-All of Mars's\n
-inhabitants carry a
-<$0C>
-hidden evil.
+All dwellers of Mars\n
+carry a hidden evil.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\n話をすると、お前の心に悪がたまる、\nどんどんたまる。
 \n
@@ -348,14 +353,14 @@ gradually accumulate\n
 in your mind.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nその悪がお前を変えるぞ、\nひょひょひょ。
 \n
 That evil will\n
 eventually change
 <$0C>
-you, hyohyohyo!
+you, hyohyo!
 <$00>
 
 
@@ -369,7 +374,7 @@ you, hyohyohyo!
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、アーネストや、\n何をそんなに急いでいるのだ。
 \n
@@ -379,21 +384,23 @@ going in such
 earnest, Ernest?
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nこの先に何かあるとでも…
 \n
-Even if there is\n
+Even if there were\n
 something up ahead
 <$0C>
 for you...
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょ、まだお前はいろいろを\n知らなさすぎるぞ。
+\n
 ...there's still much\n
-you don't know,\n
+you don't know,
+<$0C>
 hyohyo.
 <$00>
 
@@ -416,7 +423,7 @@ You're the last\n
 person I need
 <$0C>
 scolding me about\n
-scampering.
+buzzing around.
 <$00>
 
 
@@ -430,7 +437,7 @@ scampering.
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょ、今はならんぞ、アーネスト。
 \n
@@ -454,7 +461,7 @@ Ernest:
 //\nなんでだ？ 後ならいいのか？
 \n
 Why? Is something\n
-gonna happen?
+going to happen?
 <$00>
 
 
@@ -468,16 +475,16 @@ gonna happen?
 
 <$11><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nこの先はまだ早い、もう少し学んでからだ。\nさあ、アーネスト、お勉強の時間だ、\nひょひょひょ。
 \n
 It's too soon, so\n
-you'll have to
+you'll have to find
 <$0C>
-research on your own.\n
-Take this time to\n
-study, hyo!
+out on your own. Take\n
+this time to study,\n
+hyohyo!
 <$00>
 
 
@@ -491,7 +498,7 @@ study, hyo!
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、アーネストや、\nお前にできることは何だ？
 \n
@@ -514,11 +521,11 @@ Ernest:
 <$0D>
 //\n俺にできること…\nへん！ 力には自信があるぜ。
 \n
-What can I do...?\n
-Heh! I'm proud of my
+What can I do? Well,\n
+I'm proud of my
 <$0C>
 physical strength,\n
-that's for sure.
+that's for sure!
 <$00>
 
 
@@ -537,21 +544,21 @@ Tommy:
 //\nへへ、そうだよ兄ちゃん、そこの扉だ。\nどうだ、目ん玉なんて見えねぇだろ。
 \n
 Hehe, this is one of\n
-those doors, Buddy.
+those doors. You
 <$0C>
-You can't see the\n
-eyeball though, can\n
-you?
+can't see the eyeball\n
+though, can you?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n見えねぇ、見えねぇ、そんなもんだ世間は。\nちょいとな、がっかりだ。
 \n
-I can't see them,\n
-Buddy. I can't. Talk
+Sorry, comrade, but I\n
+can't see them.
 <$0C>
-about disappointing!
+Disappointing, ain't\n
+it?
 <$1E>
 //声
 声
@@ -572,8 +579,8 @@ Tommy:
 <$0D>
 //\nに…兄ちゃんだろ、そうだよな。
 \n
-Hey. Check this out,\n
-Buddy.
+Hey, check this out,\n
+comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -584,8 +591,8 @@ If you're looking for\n
 one of those
 <$0C>
 eyeballs, this door\n
-has one. Can't you\n
-see it?
+has one. Can you see\n
+it?
 <$00>
 
 
@@ -606,7 +613,7 @@ Ernest:
 Eyeball? Sorry,\n
 boozehound. Don't
 <$0C>
-know what the Hell\n
+know what in blazes\n
 you're talking about.
 <$00>
 
@@ -626,10 +633,11 @@ Tommy:
 //\nあー、はあはあ、吐きそうだ、\n悪く言わないでくれ。\nそんなふうに言われるのはイヤだ。
 \n
 Very funny, asshole.\n
-Damn, I feel sick,
+Okay, maybe I am
 <$0C>
-but you didn't need\n
-to call me out!
+sick, but you didn't\n
+need to put me on\n
+blast!
 <$00>
 
 
@@ -647,8 +655,8 @@ Tommy:
 <$0D>
 //\nに…兄ちゃんか？そうだよな。
 \n
-Hey. Check this out,\n
-Buddy.
+Hey, check this out,\n
+comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -659,8 +667,8 @@ If you're looking for\n
 one of those
 <$0C>
 eyeballs, this door\n
-has one. Can't you\n
-see it?
+has one. Can you see\n
+it?
 <$00>
 
 
@@ -678,11 +686,12 @@ Yolanda:
 <$0D>
 //\n目ん玉？ 見にきた？\nちょっと、ワケわかんないわね。\nあんた、人のこと、からかってない？
 \n
-You came out here to\n
-look at an eyeball? I
+Am I looking for an\n
+eyeball? The fuck are
 <$0C>
+you talking about? I\n
 don't have time for\n
-this.
+this!
 <$00>
 
 
@@ -700,12 +709,11 @@ Tommy:
 <$0D>
 //\nあー、マゴコロ持たずに歩くと\n風に吹かれたときにヤバイんだ。\nどうだ、俺はまじめだ、兄ちゃんよう…
 \n
-Hey, I'm as serious\n
+Hey, I'm just as busy\n
 as you, but if there
 <$0C>
 ain't time for this,\n
-what is there time\n
-for?
+what is time for?
 <$00>
 
 

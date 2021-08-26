@@ -17,8 +17,10 @@ Noble Rock:
 <$0D>
 //\n記憶の谷へ行くんだな。
 \n
-You're leaving for\n
-Memory Valley, I see.
+You are leaving for\n
+Valles Memoriae, I
+<$0C>
+see.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -26,18 +28,20 @@ Noble Rock:
 //\n気を付けることだ、あそこはなくした記憶が\nよみがえる場所だ。
 \n
 Beware the lost\n
-memories that beg to
+memories that try to
 <$0C>
-resurface from that\n
-place.
+resurface as you walk\n
+the land.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\nそれはウソのものかも知れん。
 \n
-Some memories can and\n
-will stem from a lie.
+Some of those\n
+memories can and will
+<$0C>
+be false.
 <$00>
 
 
@@ -56,9 +60,9 @@ April:
 //\nありがとう…\nねえ、ひとつ開いていい？
 \n
 Thank you for warning\n
-us! ...Say, may I ask
+us! Actually, may I
 <$0C>
-you one thing?
+ask you one thing?
 <$00>
 
 
@@ -94,11 +98,12 @@ April:
 <$0D>
 //\nあなたたちは整形を受けないの？\nコロニーでは、ヴァニティフェイスが\n流行ってるのよ。
 \n
-If vanity face is\n
-popular on Mars, but
+If Vanity Face is so\n
+popular on Mars, why
 <$0C>
-none of you got\n
-cosmetic surgery-
+have none of you\n
+undergone plastic\n
+surgery?
 <$00>
 
 
@@ -117,10 +122,10 @@ Noble Rock:
 //\n邪道だ。我々は人間の顔を手に入れるために\nここに来たのではない。\nお前たちもそうだろう。
 \n
 Like you, we did not\n
-come to Mars to claim
+come to Mars to find
 <$0C>
-human faces. It is an\n
-evil path.
+our human faces. That\n
+is an evil path.
 <$00>
 
 
@@ -204,11 +209,12 @@ Noble Rock:
 <$0D>
 //\nそうだ。見かけにこだわる欲悪だ。\nビジュアル系と呼ばれている。
 \n
-The evil is the\n
-clinging "desire".
+The evil,\n
+specifically, is
 <$0C>
-That is what we call\n
-Visual type evil.
+greed. That is what\n
+we call a Visual type\n
+evil.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -216,10 +222,10 @@ Noble Rock:
 //\nマウンテンどもは知悪だ…\nふん！こざかしい連中だ！
 \n
 Mountain's evil is\n
-"knowledge", and
+wisdom, and THOSE
 <$0C>
-THOSE types! Oh, what\n
-a lousy lot!
+types? Oh, what a\n
+lousy lot!
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -248,11 +254,11 @@ April:
 <$0D>
 //\n欲悪と知悪。\n知悪はサイコ系ね。他には？
 \n
-Desire and knowledge.\n
-If Psycho type is
+Greed and wisdom. If\n
+Psycho type is
 <$0C>
-knowledge, what is\n
-animal type?
+wisdom, what is\n
+Animal type?
 <$00>
 
 
@@ -282,7 +288,8 @@ The answer is\n
 "power". Like those,
 <$0C>
 for example, who puff\n
-their chests in bars.
+their chests in\n
+taverns.
 <$00>
 
 
@@ -324,8 +331,8 @@ Noble Rock:
 No matter how strange\n
 your visions are in
 <$0C>
-Memory Valley, do not\n
-succumb to them.
+Valles Memoriae, do\n
+not fall to them.
 <$00>
 
 
@@ -338,10 +345,17 @@ succumb to them.
 #WHB(PTR, $0000053D)
 
 <$12><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\n記憶の谷はまやかしだらけだ。\n気を付けろ。
+//\n記憶の谷はまやかしだらけだ。\n気を付けろ。
+\n
+Valles Memoriae is\n
+rife with deceit. You
+<$0C>
+must be careful.
 <$00>
+
 
 
 
@@ -352,22 +366,51 @@ succumb to them.
 #WHB(PTR, $000005A1)
 
 <$12><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\n大丈夫だったか…\nお前のタマシイは抜けていないな。
+//\n大丈夫だったか…\nお前のタマシイは抜けていないな。
+\n
+Are you worried? Your\n
+spirit is not
+<$0C>
+missing.
 <$0C><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\nホワイトイーグルはドールダンスで\nタマシイを戻さなければならない。
+//\nホワイトイーグルはドールダンスで\nタマシイを戻さなければならない。
+\n
+Still, White Eagle\n
+must use the doll
+<$0C>
+dance to return your\n
+spirit.
 <$0C><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\n今度は正しいドールダンスだ、\nそれで抜け出したタマシイを戻すのだ。
+//\n今度は正しいドールダンスだ、\nそれで抜け出したタマシイを戻すのだ。
+\n
+We will do the doll\n
+dance properly this
+<$0C>
+time, so that what is\n
+missing of your\n
+spirit will return.
 <$0C><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\n今は入れない。\nドールダンスの最中は立入禁止だ。
+//\n今は入れない。\nドールダンスの最中は立入禁止だ。
+\n
+You cannot come in\n
+now. We are in the
+<$0C>
+middle of reinserting\n
+the spirit.
 <$00>
+
 
 
 
@@ -379,17 +422,38 @@ succumb to them.
 
 <$12><$0B>
 //ノーブルロック：
+Noble Rock:
 <$0D>
 //\nタンキー人形はタマシイを操る。\n人から出したり入れたりできるんだ。
+\n
+Turn-key dolls\n
+control spirits. They
+<$0C>
+can be used to direct\n
+spirits inward and\n
+out from a person.
 <$0C><$0B>
 //ノーブルロック：
+Noble Rock:
 <$0D>
 //\nさっきはひっくり返った…\n事故だ。
+\n
+Earlier, the turn-key\n
+doll capsized,
+<$0C>
+causing the problem\n
+you saw then.
 <$0C><$0B>
 //ノーブルロック：
+Noble Rock:
 <$0D>
 //\nさあ、コロニーに戻れ。\n今はタマシイを入れてる最中だ。
-
+\n
+Now, return to the\n
+colony. We are in the
+<$0C>
+middle of reinserting\n
+the spirit.
 <$00>
 
 

@@ -122,7 +122,7 @@ Oxygen Miner 2：
 Elder Noon is a good\n
 person because he is
 <$0C>
-the Elder, whoosh.
+the elder, whoosh.
 <$00>
 
 
@@ -178,7 +178,7 @@ Yolanda:
 <$0D>
 //\nいやだ、気味悪い。
 \n
-No, it's fucking\n
+No, this shit's\n
 creepy.
 <$00>
 
@@ -260,6 +260,8 @@ Whoosh, whoosh.
 Yolanda:
 <$0D>
 //\n早く行こ、ほら！
+\n
+Let's hurry. Come on!
 <$00>
 
 
@@ -278,7 +280,7 @@ Yolanda:
 //\nねえ、町長屋敷はどこなの？
 \n
 Do you know where the\n
-Elder's residence is?
+elder's cottage is?
 <$00>
 
 
@@ -297,9 +299,9 @@ April:
 //\nあのー…ヌーン…町長に会いたいの…
 \n
 Uhm...we only came\n
-here to find Noo-!
+here to find Noo...!
 <$0C>
-Elder Noon.
+I mean, Elder Noon.
 <$00>
 
 
@@ -316,6 +318,8 @@ Elder Noon.
 Yolanda:
 <$0D>
 //\n何よ、失礼ね。
+\n
+Wow, rude!
 <$00>
 
 
@@ -332,6 +336,9 @@ Yolanda:
 April:
 <$0D>
 //\nねえ、扉から入ってみるのは、どう？
+\n
+Why don't you try\n
+using the front door?
 <$00>
 
 
@@ -411,11 +418,11 @@ Yolanda:
 <$0D>
 //\n何かしら…\nここに誰かいたのね、その跡ね。
 \n
-Ahem? What is this\n
-weird engraving...a
+Oh-lala! Someone left\n
+a strange engraving
 <$0C>
-message left by\n
-someone?
+on the wall. Let me\n
+see...
 <$00>
 
 
@@ -435,18 +442,34 @@ someone?
 There are tales of a\n
 woman who appears in
 <$0C>
-mirrors at night.\n
-I've never seen her.
+mirrors at night. I\n
+dare say, I've never\n
+seen her.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
+\n
+If this woman lives\n
+in a mirror, I'd call
+<$0C>
+her a mirror spirit,\n
+no different than\n
+Amanda.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
+\n
+I'd stay up to see if\n
+she too had the
+<$0C>
+ability to travel\n
+from mirror to\n
+mirror, but it gets\n
+hazy.
 <$00>
 
 
@@ -464,11 +487,11 @@ April:
 <$0D>
 //\nどうしたの、カベに向かって…\nブツブツやってたけど…
 \n
-What's up? Mumbling\n
-at the wall like
+What are you doing?\n
+Mumbling at the wall
 <$0C>
-that's a bad look,\n
-you know.
+like that isn't very\n
+attractive, you know.
 <$00>
 
 
@@ -486,7 +509,7 @@ Yolanda:
 <$0D>
 //\nん？
 \n
-Hmm?
+Huh?
 <$00>
 
 
@@ -504,8 +527,8 @@ Yolanda:
 <$0D>
 //\nああ、いや、なんでもないのよ。平気よ。
 \n
-Oh! Err, sorry. It's\n
-nothing.
+Oh! Uh, i-it's\n
+nothing! I'm good!
 <$00>
 
 
@@ -522,11 +545,11 @@ nothing.
 <$0D>
 //\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
 \n
-As you can see, I'd\n
-come up with my own
+I dare say, I've come\n
+up with a sound
 <$0C>
-little hypothesis\n
-about Amanda.
+hypothesis about\n
+Amanda.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -534,7 +557,7 @@ Thomas:
 //\nアマンダは\n鏡の精で満足するような女ではないからだ。
 \n
 Amanda is not a woman\n
-who is satisfied
+who is satisfied with
 <$0C>
 living as a mirror\n
 spirit.
@@ -544,11 +567,12 @@ Thomas:
 <$0D>
 //\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
 \n
-She wants the perfect\n
-mirror-one made to
+She wants to create a\n
+perfect mirror. One
 <$0C>
-reflect even her\n
-ugliness...
+so perfect, it could\n
+reflect her face for\n
+everything it is.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -558,7 +582,7 @@ Thomas:
 With such a mirror,\n
 the seas and lands of
 <$0C>
-Mars would be reborn\n
+Mars might be reborn\n
 in her wicked image.
 <$0C><$0B>
 //トーマス：
@@ -566,11 +590,11 @@ Thomas:
 <$0D>
 //\n私なりに、黙示録的な例えだ！
 \n
-(As you can see, I'd\n
-come up with my own
+(I dare say, I've\n
+come up with a sound
 <$0C>
-little Revelations\n
-metaphor too.)
+little metaphor from\n
+Revelations too!)
 <$00>
 
 
@@ -589,7 +613,7 @@ Yolanda:
 //\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
 \n
 No wonder everyone\n
-here's scared of
+here's piss-scared of
 <$0C>
 mirrors. They don't\n
 want to see the\n
@@ -609,21 +633,47 @@ truth.
 子Thomas:
 <$0D>
 //\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+\n
+I thought I saw\n
+someone, although, I
+<$0C>
+don't know how to\n
+describe it with\n
+certainty.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+\n
+There was a woman who\n
+looked precisely like
+<$0C>
+Amanda. She faded in\n
+and out of my dream.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+\n
+It all happened so\n
+fast, I almost didn't
+<$0C>
+notice, but...even\n
+then, it's all so\n
+hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+\n
+Was she an alter ego,\n
+or a hint at Amanda's
+<$0C>
+reincarnation? I dare\n
+say, I am confused.
 <$00>
 
 
@@ -640,6 +690,12 @@ Thomas:
 Yolanda:
 <$0D>
 //\n分身… 誰がよ。\nアタシたちとは建うってことね。
+\n
+Alter ego? That\n
+sounds different from
+<$0C>
+what me and the guys\n
+are.
 <$00>
 
 
@@ -655,21 +711,46 @@ Yolanda:
 子Thomas:
 <$0D>
 //\n問顆は心も欲しがるかということだ。\n
+\n
+What is Amanda\n
+searching for?\n
 <$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
+\n
+I dare say, Feng\n
+would have no qualms
+<$0C>
+offering her body to\n
+Amanda. Feng is her\n
+disciple.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nそこでだ、アマンダは心を欲しがるのか、\nそこまでやるのか。あるいは誰か別な女の心を\nねらっているのか。
+\n
+Amanda must want a\n
+heart, but how does
+<$0C>
+one get a mind of\n
+their own? Would she\n
+take another's?
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nあああ、それなのに、\n私なりに、どんどん気が遠くなる。\nトーマスよ、どこへ行く！
+\n
+The more I ponder it,\n
+the hazier
+<$0C>
+and...hazier my mind\n
+gets...\n
+("Thomas! Where are\n
+you going?!")
 <$00>
 
 
@@ -686,11 +767,23 @@ Thomas:
 Yolanda:
 <$0D>
 //\n体は…\nあれ？ なんて言ったっけ、用済み…
+\n
+A body? I understand\n
+that much, but what's
+<$0C>
+this other bit...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
+\n
+How do you take\n
+someone's mind? I
+<$0C>
+don't care what\n
+someone says, you\n
+can't take a mind.
 <$00>
 
 

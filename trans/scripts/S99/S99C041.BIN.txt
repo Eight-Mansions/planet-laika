@@ -13,7 +13,7 @@
 
 <$12><$11>
 //子セルゲイ：
-子Sergei：
+子Sergei:
 <$0D>
 //\nいつまでロケット遊びしてるんだ？
 \n
@@ -48,7 +48,7 @@ that rocket?
 
 <$12><$11>
 //子ウラジミール：
-子Vladimir：
+子Vladimir:
 <$0D>
 //\nなぜ私を父さんと呼べない、\nええ、呼んでみろ！できそこないめが！
 \n
@@ -81,12 +81,12 @@ Call me "batya"!
 
 <$12><$11>
 //子セルゲイ：
-子Sergei：
+子Sergei:
 <$0D>
 //\nどうした宇宙飛行士殿。\n服が泥まみれだぜ、ひゃひゃひゃひゃ
 \n
-What's wrong, Space\n
-Man? You're covered
+What's wrong, space\n
+brain? You're covered
 <$0C>
 in mud, hahaha!
 <$0E><$99><$17><$00>
@@ -115,13 +115,12 @@ in mud, hahaha!
 #WHB(PTR, $00000121)
 
 //歪~イ術？手術で僕をどうしようっていうんだ？\n僕はどこにも行かないよ。
-No surgery's going to\n
-hurt me,
+歪~イ術？What will this\n
+surgery do to me? I-I\n
+don't want to leave!
 <$0F>
 //！
-.\n
-I'm not going\n
-anywhere!
+！
 <$0E><$96><$17><$00>
 
 

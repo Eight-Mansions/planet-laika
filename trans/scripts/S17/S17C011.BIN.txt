@@ -13,7 +13,7 @@
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあははははは、\nアマンダは体を得たわ、私の体を。
 \n
@@ -23,15 +23,15 @@ claimed this body. MY
 body!
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nそして私はアマンダを手に入れたの、\n美の全てを！ 私は美の権化となるの！
 \n
 Now that I have\n
 attained all of
 <$0C>
-Amanda's beauty, I've\n
-become beauty\n
+Amanda's beauty, I\n
+have become beauty\n
 incarnate!
 <$00>
 
@@ -51,11 +51,10 @@ Phoenix:
 //\nこれが…鏡…蕃判の鏡なのか。\nこの鏡が映すのは真実なのか、\nそれともまやかしか…
 \n
 Is this...the Mirror\n
-of Judgment. But,
+of Judgement? Does it
 <$0C>
-does it reflect\n
-absolute truth? Or\n
-deception?
+reflect absolute\n
+truth...or deception?
 <$00>
 
 
@@ -69,7 +68,7 @@ deception?
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n体の次は何かしら。アマンダは欲が深いのよ。\nそうよね、アマンダ。
 \n
@@ -80,7 +79,7 @@ you crave so deeply?
 course, Amanda.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあはははは、アマンダはこう言ってるわ、\n次は心だって。心が欲しいの！
 \n
@@ -123,7 +122,7 @@ mirror too?!
 
 <$13><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nこの女の心が欲しい、\nアマンダは目を付けていたのよ。
 \n
@@ -134,7 +133,7 @@ has eyes only for\n
 her.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n最初から、目を付けていた…\n体はもういい、欲しいのは心よ。
 \n
@@ -145,26 +144,27 @@ Amanda has a body,\n
 but desires a mind.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nこの女の心を手に入れて、\nアマンダは完成するのよ、\nそして私は永遠の存在になれるのよ。
-nIn taking this\n
-woman's mind, Amanda\n
-will be complete, and
+\n
+In taking this\n
+woman's mind, Amanda
 <$0C>
-I'll become an\n
+will be complete, and\n
+I shall become an\n
 eternal existence.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあなたなんかに邪魔させるものですか、\n絶対に！
 \n
 Do you see now? You\n
 are only a
 <$0C>
-disturbance!\n
-Definitely so!
+disturbance, and\n
+nothing more!
 <$00>
 
 
@@ -177,9 +177,9 @@ Definitely so!
 #WHB(PTR, $000004E5)
 
 //輪イプリル、私のエイプリル、\nずっとそう呼び続けてきたのよ。
-April, my April. I\n
-was calling all this\n
-time.
+輪April, my April.\n
+I called for you all\n
+this time.
 <$00>
 
 
@@ -214,7 +214,7 @@ are you?
 #WHB(PTR, $00000511)
 
 //捨なたは私なのよ、エイプリル。\n私そのものなのよ。
-You are me, April.\n
+捨You are me, April.\n
 Me, my self.
 <$00>
 
@@ -228,7 +228,7 @@ Me, my self.
 #WHB(PTR, $000006A9)
 
 //捨はははははははははははははははははははは
-AHAHAHAHAHAHAHAHA!
+捨AHAHAHAHAHAHAHAHA!
 <$00>
 
 
@@ -246,7 +246,8 @@ Phoenix:
 <$0D>
 //\n今のうちだ、エイプリル！
 \n
-Now, April!
+Now's youre chance,\n
+April!
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -282,7 +283,7 @@ Phoenix:
 <$0D>
 //\nエイプリル… やはり君は…
 \n
-April... It's really\n
+April. It's really\n
 you...
 <$00>
 
@@ -301,8 +302,8 @@ April:
 <$0D>
 //\nママが死んだとき、私は解放された…
 \n
-When my mother died,\n
-I was released.
+When my mom died, I\n
+was set free.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -310,7 +311,7 @@ April:
 //\n身勝手な愛から自由になったの。私は…
 \n
 I thought I'd find\n
-freedom from her
+reprieve from her
 <$0C>
 selfish love, so I...
 <$00>
@@ -330,8 +331,10 @@ Phoenix:
 <$0D>
 //\n鏡から生まれたというのは君なんだな。
 \n
-You let yourself be\n
-born from the mirror.
+You forced yourself\n
+be born from the
+<$0C>
+mirror.
 <$00>
 
 
@@ -350,10 +353,11 @@ April:
 //\n私は心のどこかでママがいなくなればいいと\n思っていたのよ、
 \n
 But the thing is, I\n
-was hoping my mother
+was hoping my mom
 <$0C>
-would leave me, with\n
-all my heart.
+would leave me. I\n
+wished it with all my\n
+heart.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -361,7 +365,7 @@ April:
 //\nそうよ、ママの死を望んでいたのよ！
 \n
 I mean it. I wanted\n
-my mother to die!
+my mom to die!
 <$00>
 
 
@@ -380,17 +384,19 @@ Phoenix:
 //\nアマンダは鏡の精となり、\n君は鏡から生まれた…
 \n
 Amanda was a mirror\n
-spirit, but you were
+spirit, but you
 <$0C>
-the one born from the\n
-mirror...
+pushed yourself out\n
+in her place. That's\n
+how you were born.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nということは…
 \n
-Which means...
+And when you did\n
+that...
 <$00>
 
 
@@ -408,11 +414,11 @@ April:
 <$0D>
 //\nママが死んで、私は深い罪悪惑に\nさいなまれ続けたの。でも…
 \n
-Mother died, and I\n
-was overcome with a
+My mom was dead, and\n
+still I was overcome
 <$0C>
-deep sense of guilt,\n
-but...
+with a deep sense of\n
+guilt.
 <$00>
 
 
@@ -430,8 +436,8 @@ Phoenix:
 <$0D>
 //\n君はアマンダの…
 \n
-You still heard\n
-Amanda's...
+Because you still\n
+heard Amanda's voice.
 <$00>
 
 
@@ -452,8 +458,8 @@ April:
 No, that's a\n
 different voice, not
 <$0C>
-mother's. It's\n
-someone else!
+mom's! It's someone\n
+else!
 <$00>
 
 
@@ -490,8 +496,8 @@ April:
 <$0D>
 //\nあれはママじゃない！ 建うのよ！
 \n
-You're wrong. That's\n
-NOT my mother!
+You're wrong. I said\n
+that's NOT my mom!
 <$00>
 
 
@@ -526,10 +532,10 @@ Phoenix:
 <$0D>
 //\nあああ、この声は…ママだね！\n僕だよ！ 僕はここにいるよ！
 \n
-Th-that\n
-voice...Mama?! Mama,
+T-that voice...!\n
+Mama?! Mama, it's me!
 <$0C>
-it's me! I'm here!
+I'm here!
 <$00>
 
 
@@ -551,7 +557,7 @@ Don't fall for the\n
 planet's tricks! That
 <$0C>
 voice isn't anyone's\n
-"mama"!
+mom!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -561,7 +567,7 @@ April:
 Its light of absolute\n
 truth is nothing but
 <$0C>
-a lie!
+a fabrication!
 <$00>
 
 
@@ -605,14 +611,15 @@ Amanda, I won't let\n
 you do what you want.
 <$0C>
 I'll overcome my\n
-self, right now!
+self, right here,\n
+right now!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私にできること…
 \n
-I know what I can\n
+I know what I have to\n
 do...
 <$00>
 
@@ -650,21 +657,19 @@ Phoenix:
 <$0D>
 //\nああああ、この光が教えてくれるよ！
 \n
-Aaaaah! The light's\n
-teaching me
-<$0C>
-everything!
+Aah! At last, I...see\n
+the light...!
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nそうだよ、ママ、僕にはなにもないんだ！\nやっぱりだ、僕はただの影なんだ！
 \n
-Th-that's right!\n
-I'm...I'm nothing to
+I know now! I'm...I'm\n
+nothing to Mama! I
 <$0C>
-Mama! I never was.\n
-I'm only a shadow!
+never was! I'm only a\n
+shadow!
 <$00>
 
 

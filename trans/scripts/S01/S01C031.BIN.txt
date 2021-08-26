@@ -13,8 +13,8 @@
 
 <$10>
 //自動着陸装置、確認。
-Auto landing system,\n
-check.
+AUTO LANDING SYSTEM,\n
+CHECK.
 <$00>
 
 
@@ -28,8 +28,9 @@ check.
 
 <$10>
 //装置、オン！\n目標、シドニアエリア。顔のそば！
-Now approaching the\n
-Sidonian Cortex.
+NOW APPROACHING\n
+PARAMETER OF THE\n
+FACE, CYDONIA REGION.
 <$00>
 
 
@@ -43,9 +44,11 @@ Sidonian Cortex.
 
 <$10>
 //ザ・フェイス… 何がフェイスだ…\nちくしょう！ 火星人め！
-Next to the Face,\n
-huh...Damned Martians\n
-stole that too.
+We're landing next to\n
+the Face, eh? Damned\n
+Martians, always
+<$0C>
+trying to taunt us.
 <$00>
 
 
@@ -60,10 +63,8 @@ stole that too.
 <$10>
 //ヌーン、よしてよ。\n火星人なんてもう滅んだのよ…
 Noon, you know\n
-full-well the\n
-Martians are extinct
-<$0C>
-now.
+full-well Martians\n
+are extinct.
 <$00>
 
 
@@ -81,11 +82,12 @@ April:
 <$0D>
 //\n人間の顔を手に入れて、それで火星人は滅んだ…\nなんか妙な惑じね。
 \n
-It's chilling to\n
-think they took our
+It's eerie to think\n
+they died off so soon
 <$0C>
-faces and died off so\n
-soon after.
+after acquiring our\n
+faces in the face\n
+pact.
 <$00>
 
 
@@ -99,14 +101,14 @@ soon after.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n人間の顔が、彼らに災いをもたらした。\n今ではそう考えられている。
 \n
 Theory says our human\n
 faces were what
 <$0C>
-triggered Mars's\n
+triggered the Martian\n
 extinction.
 <$00>
 
@@ -142,14 +144,16 @@ took our faces?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
 \n
-No, but what if our\n
-faces carried
+Only if Martian life\n
+suffered mass a
 <$0C>
-"filthy" bacteria?
+rejection to "filthy"\n
+bacteria from said\n
+faces.
 <$00>
 
 
@@ -167,10 +171,10 @@ Noon:
 <$0D>
 //\nけっ、大きなお世話って惑じだな。
 \n
-Whatever, blame our\n
-Earth germs all you
+I don't care, Cap'n.\n
+Blame our bacteria
 <$0C>
-want.
+all you want.
 <$00>
 
 
@@ -184,18 +188,21 @@ want.
 
 <$00><$14><$02><$11>
 //問 
+問
 <$0B>
 //  
+
 <$0D>
 //これより火星の軌道に向かいます。\n
-We are now in Mars's\n
-orbit.\n
+NOW ENTERING MARS'S\n
+ORBIT.\n
 <$0E><$1E><$0B>
 //  
+
 <$0D>
 //これより火星の軌道に向かいます。
-We are now in Mars's\n
-orbit.
+NOW ENTERING MARS'S\n
+ORBIT.
 <$00>
 
 
@@ -209,7 +216,7 @@ orbit.
 
 <$10><$14><$03><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\n見ろ、あの狂おしい輝きを！
 \n
@@ -228,7 +235,7 @@ That's Mars!
 
 <$10><$14><$03><$11>
 //子タトラー船長：
-子Cap. Tatler:
+子Captain Tatler:
 <$0D>
 //\nあれが火星だ！\n災いの星、闘いの象徴…まやかしの惑星だ。
 \n
@@ -254,7 +261,7 @@ deception.
 <$0D>
 //\nふん、イヤな惑じだぜ、\nとりわけ今度の任務はな。
 \n
-Hmph. Screw this\n
+Hmph. Forget this\n
 planet and this lousy
 <$0C>
 mission.
@@ -320,64 +327,66 @@ from Earth!
 
 <$11><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n先遣隊が火星に送られたのは\n１０年前のことだ。
 \n
 Ten years ago, we\n
-sent a vanguard unit
+sent his vanguard
 <$0C>
-to Mars,\n
-and...something\n
-happened.
+unit to Mars, but\n
+then...something went\n
+wrong.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n地球化計画の再開で、\n火星に調査のためにやってきた。\nガリル大佐はそのときのリーダーだった。
 \n
 Now that colonization\n
 plans have resumed,
 <$0C>
-we're also here to\n
-find out what went\n
-wrong.
+we want to find out\n
+what that "something"\n
+was.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n神は死んだ、光の私…
 \n
-Last time, Col.\n
-Garyl, the leader of
+Last time, Colonel\n
+Galil, the leader of
 <$0C>
 that vanguard unit,\n
-left a bizarre\n
+left a bizarre final\n
 message.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nナゾのメッセージを最後に連絡は途絶えた。
 \n
 "God is dead. I am\n
 the light."\n
-Then, his unit cut\n
-all contact. Forever.
+And with that, his\n
+unit cut all contact.\n
+Forever.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n火星に妙なウワサがはびこるようになったのは\nそれからのことだ。
 \n
-Shortly after all\n
-that, we caught word
+And THEN, shortly\n
+after all that, we
 <$0C>
-of a new infestation\n
-on Mars.
+caught word of a new,\n
+terrifying\n
+infestation on Mars.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n我々はウワサの出所をさぐって、\n火星はなんでもない、
 \n
@@ -387,16 +396,16 @@ for a source to the
 rumor ever since,
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n平和で友好的だと報告しなければならない。\nそれが任務だ。
 \n
 so the job now is\n
 just to make sure
 <$0C>
-everything's as quiet\n
-as it sounded and\n
-report back.
+everything's as safe\n
+enough to terraform,\n
+and report back.
 <$00>
 
 
@@ -410,7 +419,7 @@ report back.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nいつまでそこにいる？
 \n
@@ -418,7 +427,7 @@ How long have you\n
 been dawdling there?
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n私をいらいらさせないでくれ。\n着陸準備にかかるんだ。
 \n
@@ -441,8 +450,8 @@ landing.
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-There are no\n
-messages.
+THERE ARE NO\n
+MESSAGES.
 <$00>
 
 
@@ -458,17 +467,18 @@ messages.
 問け
 <$0B>
 //オクトーバー司令官：
-Comd. October:
+Commander October:
 <$0D>
 //\nライカ君だね… 私はオクトーバー、\n今回の任務の司令官を務める。
 \n
-Ah, Laika. This is\n
-October, your mission
+Greetings, Laika. Is\n
+that you? This is
 <$0C>
+October, your mission\n
 commander.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October:
+Commander October:
 <$0D>
 //\n君を調査隊にすすめたのは実は私なんだ。\n君の働きには期待しているからね。
 \n
@@ -480,7 +490,7 @@ Thank you for coming\n
 aboard.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October:
+Commander October:
 <$0D>
 //\nさて、君たちが向かう火星だが、\nどうも様子がおかしいんだ。
 \n
@@ -488,7 +498,7 @@ Actually, I have a\n
 small errand for you.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October:
+Commander October:
 <$0D>
 //\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
 \n
@@ -497,21 +507,22 @@ creatures" on Mars
 <$0C>
 have those on the\n
 planet fearing the\n
-End Times.
+supposed End Times.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October:
+Commander October:
 <$0D>
 //\nこれから地球化計画を再開するにあたって、\nそんなブッソウなことではいかん。
 \n
 Obviously, we won't\n
-allow conjecture to
+allow baseless
 <$0C>
+conjecture to\n
 interrupt our\n
 terraformation plans,
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October:
+Commander October:
 <$0D>
 //\n君たちの任務はうわさの真相を\n突き止めることなんだ。
 \n
@@ -519,7 +530,7 @@ but I formally ask\n
 that you help find
 <$0C>
 the source of the\n
-rumor.
+rumors.
 <$00>
 
 
@@ -547,11 +558,12 @@ rumor.
 
 <$10>
 //ガリル大佐、先遣隊のリーダーだ。
-It's Col. Garyl,\n
+That's Colonel Galil,\n
 former leader of the\n
 vanguard unit from
 <$0C>
-the last mission.
+Earth's previous\n
+mission to Mars.
 <$00>
 
 
@@ -564,8 +576,14 @@ the last mission.
 #WHB(PTR, $00000D21)
 
 <$00><$13><$16><$0E><$0F>
-ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
+//ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
+Hyohyo, I can feel\n
+you! You're so close\n
+already! Its so
+<$0C>
+potent, hyo!
 <$00>
+
 
 
 

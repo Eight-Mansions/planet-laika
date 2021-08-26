@@ -12,24 +12,53 @@
 #WHB(PTR, $00000339)
 
 <$10><$0B>
-ブーマー：
+//ブーマー：
+Boomer:
 <$0D>
-\n見ねぇ顔だな…
+//\n見ねぇ顔だな…
+\n
+I don't think I've\n
+seen your face
+<$0C>
+before...
 <$0C><$0B>
-ブーマー：
+//ブーマー：
+Boomer:
 <$0D>
-\nもうヘロデんとこには行ったのか。\nコロニーの親玉、酸索屋だ。
+//\nもうヘロデんとこには行ったのか。\nコロニーの親玉、酸索屋だ。
+\n
+Have you been to the\n
+oxygen dispensary?
+<$0C>
+The owner, Herod, is\n
+leader of the colony.
 <$0C><$0B>
-ブーマー：
+//ブーマー：
+Boomer:
 <$0D>
-\nそれともサイコハウスに用か？\nハウスのやつら、頭に電波だ、
+//\nそれともサイコハウスに用か？\nハウスのやつら、頭に電波だ、
+\n
+Or do you want to see\n
+Psycho Lab? The guys
+<$0C>
+there shoot radio\n
+waves into their\n
+heads.
 <$0C><$0B>
-ブーマー：
+//ブーマー：
+Boomer:
 <$0D>
-\n電波が飛んでくるってな。
+//\n電波が飛んでくるってな。
+\n
+Ahhh, they're trying\n
+to ride the radio
+<$0C>
+waves.
 <$1E>
+//双
 双
 <$00>
+
 
 
 
@@ -48,16 +77,15 @@ Boomer:
 Herod's at the oxygen\n
 dispensary. This door
 <$0C>
-leads to Psycho\n
-House.
+leads to Psycho Lab.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
 //\n俺は…夜が怖い。
 \n
-(I'm...scared of the\n
-night.)
+Ohhh, I'm scared of\n
+the night...
 <$1E>
 //双
 双
@@ -86,7 +114,7 @@ Boomer:
 <$0D>
 //\n見えねぇんだ、どうやってもな。\n目ん玉なんざ、うそなんじゃねぇのか？
 \n
-I can't see the\n
+Ahhh, I can't see the\n
 eyeballs, no matter
 <$0C>
 what I do. Are they\n
@@ -121,11 +149,11 @@ Boomer:
 <$0D>
 //\nみんな夜につかまっちまうんだ、\n夢に食われちまうんだ、みんな食われる…
 \n
-Everyone is taken.\n
-Taken and eaten by
+Ahhh, everyone is\n
+taken. Taken and
 <$0C>
-dreams. Everyone,\n
-eaten.
+eaten by dreams.\n
+Everyone, eaten.
 <$1E>
 //双
 双
@@ -146,10 +174,10 @@ Boomer:
 <$0D>
 //\n夢に襲われるんだ、\n夜から抜け出して来るんだ…
 \n
-My dreams creep out\n
-in the dark of night
+Ahhh, my dreams creep\n
+out from the dark of
 <$0C>
-to attack me.
+night to attack me.
 <$1E>
 //双
 双
@@ -170,10 +198,10 @@ Boomer:
 <$0D>
 //\n夜が怖い、夢が怖い…
 \n
-I'm scared of the\n
-night. I'm scared of
+Ohhh, I'm scared of\n
+the night, I'm scared
 <$0C>
-my dreams...
+of my dreams...
 <$1E>
 //双
 双
@@ -194,10 +222,10 @@ Boomer:
 <$0D>
 //\n夢見た…\n陽は赤く燃え、その焼け跡に町を残した…
 \n
-I had a dream that\n
-the sun burned so
+Ohh, I had a dream\n
+that the sun burned
 <$0C>
-red, it razed the\n
+so red, it razed the\n
 town to ash.
 <$1E>
 //双
@@ -214,20 +242,39 @@ town to ash.
 #WHB(PTR, $00000221)
 
 <$10><$0B>
-ブーマー：
+//ブーマー：
+Boomer:
 <$0D>
-\n夢が怖い、思い出も怖い…
+//\n夢が怖い、思い出も怖い…
+\n
+Ohhh, I'm scared of\n
+my dreams, I'm scared
+<$0C>
+of my memories...
 <$1E>
+//双
 双
 <$00><$10><$0B>
-ブーマー：
+//ブーマー：
+Boomer:
 <$0D>
-\n誰も戻らねぇ…誰もな。
+//\n誰も戻らねぇ…誰もな。
+\n
+Ahhh, no one's coming\n
+back! No one!
 <$00><$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nちゃんと開けた、暗証番号？\n行こう、換気塔の手前を右よ
+//\nちゃんと開けた、暗証番号？\n行こう、換気塔の手前を右よ
+\n
+The password opened\n
+the way. Let's check
+<$0C>
+the ventilator tower\n
+on the right.
 <$00>
+
 
 
 
@@ -237,8 +284,10 @@ town to ash.
 
 #WHB(PTR, $000010D9)
 
-サイコハウス
+//サイコハウス
+Psycho Lab
 <$00><$00>
+
 
 
 
@@ -248,8 +297,10 @@ town to ash.
 
 #WHB(PTR, $000010E1)
 
-酸索石置場
+//酸索石置場
+Oxygenite Storage
 <$00><$00>
+
 
 
 

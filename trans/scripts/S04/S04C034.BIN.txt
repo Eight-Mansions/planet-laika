@@ -13,26 +13,28 @@
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n火星ではみんなヴァニティフェイスよ。
 \n
 Most everyone on Mars\n
-has a "vanity face".
+knows about Vanity
+<$0C>
+Face.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n悪口言う人もあるけど、そんな人は\n無理してるだけなのよ。
 \n
 Some people speak ill\n
 of them, yes, but
 <$0C>
-such folks can't be\n
-reasoned with.
+such folks don't want\n
+to be reasoned with.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n人間の顔になりたいのは誰でもそうよ。
 \n
@@ -42,7 +44,7 @@ anyone looking to get
 a human face.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nさ、来て。私のお店を案内するわ。
 \n
@@ -68,12 +70,12 @@ Sammy:
 <$0D>
 //\nあら、またアタシよ。\nトミーはね、お酒が入って寝ちゃったの。
 \n
-Ohoho, were you\n
+Heehee, were you\n
 expecting me? Tommy
 <$0C>
-had too much to\n
-drink, and passed\n
-out.
+had a little too much\n
+to drink, and he\n
+passed out.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -81,10 +83,10 @@ Sammy:
 //\nゴールドに開いたわよ。\nあなた、騒ぎ起こしたんですって。\nそれも相手はスモーキー…
 \n
 More importantly,\n
-Gold told me you got
+Gold told me that you
 <$0C>
-in a tussle with\n
-Smokey.
+got into a tussle\n
+with Smokey.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -92,22 +94,21 @@ Sammy:
 //\nイヤね、まったく。\nどうかしてるのよ… 特に今夜は変よ。
 \n
 People these days...\n
-Well, maybe it's this
+All out here, acting
 <$0C>
-night that's making\n
-people go a wol.
+like it's a full moon\n
+so they can go crazy.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\n今しがたもね、見たのよ、リトル。\n血相変えて酸索屋から飛び出して行ったのよ。
 \n
-I saw Liter leave the\n
-oxygen dispensary
+I saw Little leave\n
+the oxygen dispensary
 <$0C>
-just now, and he was\n
-simply red in the\n
-face!
+just now, and he too\n
+was red in the face!
 <$00>
 
 
@@ -128,8 +129,8 @@ Sammy:
 Know what I think? I\n
 think there's someone
 <$0C>
-inside of Liter who's\n
-not Liter him self.
+else inside of Little\n
+besides him.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -140,8 +141,8 @@ The way he was\n
 walking early was
 <$0C>
 totally off!\n
-Something's different\n
-about him.
+Something's not right\n
+with him, a-nope.
 <$00>
 
 
@@ -159,12 +160,12 @@ Sammy:
 <$0D>
 //\nそうね…目かな。 目、目が建うの。\n遠くからだけど分かる、ほんとよ。
 \n
-Liter's eyes, too.\n
-You can tell
+Little's eyes were\n
+off. You can tell
 <$0C>
 instantly when\n
-someone's eyes are\n
-different.
+someone's eyes\n
+change.
 <$1E>
 //行
 行
@@ -188,9 +189,9 @@ Sammy:
 I think there's\n
 someone else inside
 <$0C>
-of Liter. His eyes\n
-change from time to\n
-time.
+of Little, because\n
+his eyes keep\n
+changing.
 <$1E>
 //中
 中
@@ -210,18 +211,35 @@ time.
 Tommy:
 <$0D>
 //\n兄ちゃんよう、\nまた酒が入ってくらくらきたぜ…
+\n
+Hey, comrade. Guess\n
+who had another
+<$0C>
+drink...
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n兄ちゃんよう、\nアガタのやつと何かやらかそうっていうのか…
+\n
+I heard you might\n
+have plans to hit up
+<$0C>
+that Agatha gal?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nあの女は催眠術を使う、危ねぇんだ、\nようよう、頭ん中、ぐらぐらにされるぞ。
+\n
+Her hypnotherapy will\n
+mess with you just as
+<$0C>
+good, a-yup. You'll\n
+wanna be careful.
 <$1E>
 //声
+声
 <$00>
 
 
@@ -239,8 +257,8 @@ Yang:
 <$0D>
 //\nお前、おっかないの、好きなのか？\nあの女は魔女だ、催眠術使いだ。
 \n
-You like shady\n
-things, don't you?
+You like ghastly\n
+people, don't you?
 <$0C>
 Like that\n
 hypnotherapist?
@@ -287,7 +305,8 @@ Our monitor's\n
 blinking on and off
 <$0C>
 again. I bet that's\n
-from her magic too.
+from her witchcraft\n
+too.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -320,10 +339,10 @@ Yang:
 //\n俺たちはな、宇宙の力だ、\n波動の中にいるからな、それが本気なんだ。
 \n
 We don't need magic\n
-whuddy-da when we
+hoo-ha when we have
 <$0C>
-have the powers of\n
-outer space.
+the powers of outer\n
+space.
 <$0C><$0B>
 //ヤング：
 Yang:

@@ -18,10 +18,11 @@ Laika(?):
 //\nねぇ、教えてよ、\n神のさばきがくだる、それが蕃判なんだろ？
 \n
 All right, tell me.\n
-This "Judgment"
+This "Judgement"
 <$0C>
-business. That's\n
-God's will, isn't it?
+business. It comes\n
+across like God's\n
+will, no?
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -47,10 +48,10 @@ White Eagle(?):
 <$0D>
 //\n神はいつもおいでじゃ。\nだがやつは、ガリルは神ではない！
 \n
-God was always here,\n
-but that man, Garyl,
+God was always here.\n
+However, Galil, is no
 <$0C>
-is no god!
+god!
 <$00>
 
 
@@ -68,12 +69,12 @@ Laika(?):
 <$0D>
 //\nガリルが神？\nすごいことになってるんだね。
 \n
-Garyl, a god? He\n
-really went off the
+Indeed. Galil really\n
+did go off the deep
 <$0C>
-deep end if he\n
-thought he could\n
-achieve godhood.
+end, if he thought he\n
+could achieve\n
+godhood.
 <$00>
 
 
@@ -147,26 +148,25 @@ achieve godhood.
 
 <$12><$13><$16><$0B>
 //ホワイトイーグル…？：
+White Eagle(?):
 <$0D>
 //\nなんともはやだ。\nガリルは神への階段を昇ろうとしておる。
 \n
 Not entirely, for\n
-Garyl scales the
+Galil ascends the
 <$0C>
 stairway to God as we\n
 speak.
 <$0C><$0B>
 //ホワイトイーグル…？：
-White Eagle(?):
 <$0D>
 //\n得体の知れない死の情熱で、\n肉体を超えた存在になろうとしておるのじゃ。
 \n
-He means to exercise\n
-man's reason for
+He means to embracing\n
+his reason for dying
 <$0C>
-dying and become that\n
-which exceeds the\n
-flesh.
+to become that which\n
+exceeds the flesh.
 <$00>
 
 
@@ -184,11 +184,11 @@ Laika(?):
 <$0D>
 //\n死の情熱？\nまるで自殺願望だね、それじゃ。
 \n
-Man's reason for\n
-dying? In this
+And to that end, that\n
+was his reason for
 <$0C>
-context, that sounds\n
-like suicidal\n
+dying? It sounds like\n
+he had a suicidal\n
 ideation.
 <$00>
 
@@ -207,7 +207,7 @@ White Eagle(?):
 <$0D>
 //\nやつにとって死はたわむれじゃ。
 \n
-To him, death is a\n
+To him, Death is a\n
 flirtation.
 <$0C><$0B>
 //ホワイトイーグル…？：
@@ -241,7 +241,7 @@ Laika(?):
 And how does one\n
 purify that evil?
 <$0C>
-Isn't that whay\n
+Isn't that what\n
 prayer is for?
 <$00>
 
@@ -278,10 +278,10 @@ White Eagle(?):
 <$0D>
 //\nガリルはユニバーサルマンから\nうばったのじゃ。
 \n
-Garyl stole this\n
-power from
+Galil stole this\n
+power from Universal
 <$0C>
-Universalman.
+Man.
 <$00>
 
 
@@ -348,9 +348,7 @@ White Eagle(?):
 //\nシークレットパワーは、\n心の悪を浄化する力じゃ。
 \n
 The secret power\n
-purifies the evil of
-<$0C>
-the mind.
+purifies evil
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -358,7 +356,7 @@ White Eagle(?):
 //\nお前の心に積もった悪をな。
 \n
 The evil that has\n
-accumulated in your
+accumulated in one's
 <$0C>
 mind, that is.
 <$0C><$0B>
@@ -368,23 +366,23 @@ White Eagle(?):
 //\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
 \n
 But you cannot use it\n
-on your own. You need
+on yourself. There
 <$0C>
-someone into whom you\n
-can transfer that\n
-evil.
+needs to be someone\n
+into whom that evil\n
+is transferred
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\n心が弱い相手じゃと、ふほ…\nおかしくなってしまうかも知れないのう。
 \n
-Someone with a strong\n
-mind already, go-ho.
+It takes someone of\n
+strong mind to
 <$0C>
-You don't want to\n
-make anyone sick, do\n
-you?
+withstand it. You\n
+don't want to make\n
+people sick, do you?
 <$00>
 
 
@@ -413,8 +411,10 @@ Laika(?):
 <$0D>
 //\n気が変になるとかなの？
 \n
-And what happens if\n
-they lose their mind?
+What happens if\n
+someone else loses
+<$0C>
+their mind over this?
 <$00>
 
 
@@ -432,19 +432,19 @@ White Eagle(?):
 <$0D>
 //\nふほ、そうせかんでもええのう。
 \n
-Go-ho, then they lose\n
-their mind.
+Haww, then they lose\n
+their mind!
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nその力はやがて役に立つじゃろうて。\nふほふほ。
 \n
-Be that as it may,\n
-this power will prove
+But, even if that is\n
+a risk, you will need
 <$0C>
-useful to you soon\n
-enough, go-ho.
+to use this power\n
+soon enough.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -455,7 +455,7 @@ This conversation\n
 proves you have the
 <$0C>
 qualities we need.\n
-This is a matter of\n
+This is the moment of\n
 truth.
 <$00>
 
@@ -474,8 +474,8 @@ Laika(?):
 <$0D>
 //\n資質って？僕は特別なの？
 \n
-The qualities you\n
-need? What makes me
+What qualities do I\n
+have? What makes me
 <$0C>
 so special?
 <$00>
@@ -495,11 +495,11 @@ White Eagle(?):
 <$0D>
 //\nふほ、お前とそれからもうひとりの…\nふほ、もしや預言にあるマコトの双子…
 \n
-Go-ho, that you are\n
+Haww, that you are\n
 part of another, like
 <$0C>
-the twins of truth\n
-mentioned in the\n
+the Twins of Truth\n
+spoken of in the\n
 prophecies.
 <$0C><$0B>
 //ホワイトイーグル…？：
@@ -528,8 +528,8 @@ Laika(?):
 <$0D>
 //\n僕はどうしてここにいるの？\nこの星に？
 \n
-Why am I here? What\n
-brought me to Mars?
+Why am I here? Why am\n
+I standing on Mars?
 <$00>
 
 
@@ -557,10 +557,10 @@ White Eagle(?):
 <$0D>
 //\n完全なる善と、完全なる悪、このふたつが\n出会うときに世界は再生されると\n言われておるのじゃ。
 \n
-"When pure good and\n
-pure evil intertwine,
+"May pure good and\n
+pure evil entwine, so
 <$0C>
-the world will be\n
+the world can be\n
 reborn."
 <$00>
 
@@ -582,9 +582,9 @@ Laika(?):
 If that's the\n
 case...I suppose
 <$0C>
-Garyl perceives\n
+Galil perceives\n
 himself the "pure\n
-good" one.
+good" one of the two.
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -594,8 +594,9 @@ Laika(?):
 That explains his, "I\n
 am the light,"
 <$0C>
-statement and all the\n
-shining business.
+statement and the\n
+light show around the\n
+Face.
 <$00>
 
 
@@ -616,14 +617,15 @@ White Eagle(?):
 Fantasies can fool\n
 most anyone in any
 <$0C>
-which way.
+which way the fooled\n
+desires.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nガリルはイーブルマインドをさぐるうちに\n世界の再生に触れた預言と出会った。
 \n
-In Garyl's search for\n
+In Galil's search for\n
 Evil Mind, he
 <$0C>
 uncovered the\n
@@ -639,8 +641,8 @@ These prophecies were\n
 left behind by an
 <$0C>
 exile who died long\n
-ago-Jeremiah the\n
-Exile.
+ago. That was\n
+Jeremiah the Exile.
 <$00>
 
 
@@ -661,8 +663,8 @@ Laika(?):
 I see... So, the\n
 rising Black Rider we
 <$0C>
-saw must have been an\n
-element to this\n
+saw earlier must be a\n
+participant of this\n
 prophecy.
 <$00>
 
@@ -681,7 +683,7 @@ White Eagle(?):
 <$0D>
 //\nガリルの妄想をふせぐには、\nエレミヤの預言を得ることじゃ。
 \n
-To stop Garyl's\n
+To stop Galil's\n
 fantasy, you must
 <$0C>
 find Jeremiah's five\n
@@ -702,7 +704,7 @@ White Eagle(?):
 <$0D>
 //\nやつはまだ全てを手に入れたわけではない。\n今のうちじゃ。
 \n
-Garyl has not found\n
+Galil has not found\n
 all five of them yet.
 <$00>
 
@@ -722,7 +724,7 @@ Laika(?):
 //\n銀のカプセル… 確か記憶の谷で…
 \n
 A silver capsule, got\n
-it. I got one in
+it. I found one in
 <$0C>
 Memory Valley.
 <$0C><$0B>
@@ -734,9 +736,10 @@ Laika(?):
 ...Speaking of which,\n
 where are the
 <$0C>
-prophecies? Is there\n
-a way to speak with\n
-Universalman?
+prophecies? Is it\n
+possible for me to\n
+speak with Universal\n
+Man?
 <$00>
 
 

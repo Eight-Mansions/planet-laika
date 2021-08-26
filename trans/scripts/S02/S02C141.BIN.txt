@@ -34,17 +34,17 @@ Are you okay?
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nやっと全員そろったな。\nひとまずここで待機だ。
 \n
 Now that everyone's\n
-here, I'm calling
+here, I'm calling for
 <$0C>
-time-out.
+a time-out.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nこの星は予想以上にひどいことになっている。
 \n
@@ -54,18 +54,18 @@ not the warm welcome
 I'd hoped for, so...
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n暗くなる前に、\nなんとかコロニーに到着したい。
 \n
 ...all the more\n
-reason to reach the
+reason to haul ass,
 <$0C>
-colony before\n
-nightfall.
+and reach the colony\n
+before nightfall.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、コロニーまではどのくらいだ？
 \n
@@ -96,9 +96,10 @@ Noon:
 //\nふふふ、コロニーには誰がいるんだ？\n誰かが待ってるのか？
 \n
 Pffthaha! What, is\n
-someone expecting us?\n
-Someone going to tuck\n
-you in?
+someone expecting us?
+<$0C>
+Is someone waiting to\n
+tuck us in?
 <$00>
 
 
@@ -112,7 +113,7 @@ you in?
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、どうした？ 気分でも悪いのか。
 \n
@@ -120,7 +121,7 @@ Huh?! What's wrong\n
 with you?!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nここで夜を明かすわけにはいかないんだ。
 \n
@@ -147,9 +148,9 @@ April:
 //\nヌーンは疲れてるのよ。\n船長、ちょっと休みましょう。
 \n
 He must be tired,\n
-Captain.\n
-Maybe we should take\n
-a break.
+Captain. Maybe we
+<$0C>
+should take a break.
 <$00>
 
 
@@ -163,7 +164,7 @@ a break.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nダメだ。\n我々は任務をやりとげなければならない。
 \n
@@ -173,7 +174,7 @@ We've got a job to
 do.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nヌーン、コロニーまではどのくらいなんだ？
 \n
@@ -202,17 +203,17 @@ Noon:
 <$0D>
 //\nうふふふふふふ…
 \n
-Uwwhuhu...
+Weeeheeheehee...
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nコロニー…コロニー…早くおうちに帰りたい。\nママが待ってるんだ！
 \n
-Find...the\n
-colony...quick! Yeah!
+Quick...! Take me\n
+to...the colony...
 <$0C>
-Take me home! Mummy's\n
+Take me 'ome! Mummy's\n
 waiting for me!
 <$00>
 
@@ -227,23 +228,23 @@ waiting for me!
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nいいかげんにしろ、キサマ！
 \n
-Listen to me, you\n
-cur!
+Listen to me,\n
+dumbass!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n私には時間がないんだ。\nくそっ、これは任務だ！ 私の任務なんだ！
 \n
 I don't have time for\n
-this, dammit! This is
+this! This is a
 <$0C>
-a mission! MY\n
-mission!
+mission, you hear?!\n
+MY mission!
 <$00>
 
 
@@ -284,10 +285,10 @@ Noon:
 <$0D>
 //\n命…いのち…
 \n
-Life...Li...fe...
+Lives... Li...fe...
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n…………
 \n
@@ -305,7 +306,7 @@ Cap. Tatler:
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nふ… 仕方ない。\n分かった、ここで小休止だ。
 \n
@@ -313,10 +314,10 @@ Tch... Well, taking a\n
 break beats dealing
 <$0C>
 with this shit on the\n
-road.
+trek.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nエイプリル、ライカ、\n君たちはニ人で偵察に出てくれないか。
 \n
@@ -324,10 +325,10 @@ April, Laika, can you\n
 two go out and survey
 <$0C>
 the area until Noon\n
-chills out?
+comes down?
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n暗くなる前に安全なルートを確保したいんだ。
 \n
@@ -349,7 +350,7 @@ dark.
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nイーブルマインドにさえ\n用心していれば平気だ。
 \n
@@ -359,7 +360,7 @@ safe around that Evil
 Mind.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nどうやら酸索はうまく供給されているようだ、\nもうヘルメットはいらないぞ。
 \n
@@ -371,7 +372,7 @@ don't need helmets\n
 anymore.
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nさあ、偵察に出てくれ、たのんだぞ。
 \n
@@ -407,25 +408,24 @@ Let's go.
 
 <$12><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nどうした、ライカ？\n怖じ気付いたのか…
 \n
 What's wrong, Laika?\n
-This place making
+Is Mars making your
 <$0C>
-your skin crawl?
+skin crawl?
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nもうここは地球のようなものだ、\n恐がることはないぞ。
 \n
-Sure, maybe we're not\n
-in Kansas anymore,
+Sure, maybe we're far\n
+from home, but don't
 <$0C>
-but don't let it get\n
-to you!
+let it get to you!
 <$00>
 
 

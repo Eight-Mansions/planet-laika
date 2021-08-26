@@ -13,12 +13,14 @@
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nカギ、開けたから。\nこの中を通って行くんだ。
 \n
-I used a key. You can\n
-go inside now.
+This way is open, so\n
+this is how we're
+<$0C>
+getting in.
 <$00>
 
 
@@ -36,8 +38,8 @@ Ernest:
 <$0D>
 //\n何だこりゃ？ 下水じゃねぇか！
 \n
-What's all this. Not\n
-sewage, is it?!
+What's all this? It\n
+better not be sewage.
 <$00>
 
 
@@ -95,15 +97,15 @@ shit-abyss.
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
 \n
-Again, this is the\n
-undrground canal. It
+The underground canal\n
+is an aqueduct that
 <$0C>
-works as a dam to\n
-stop up Evil Mind.
+leads to a dam of\n
+Evil Mind.
 <$00>
 
 
@@ -121,7 +123,8 @@ Ernest:
 <$0D>
 //\nイーブルマインドのダムだと？
 \n
-A dam for Evil Mind?
+There's a dam for\n
+Evil Mind?
 <$00>
 
 
@@ -159,6 +162,9 @@ for Evil Mind.
 Yolanda:
 <$0D>
 //\nますます嫌な惑じね。
+\n
+This only gets worse\n
+by the minute.
 <$00>
 
 
@@ -172,15 +178,15 @@ Yolanda:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n先に行くよ。\n砂嵐が来る前に通り抜けなきゃ。
 \n
-We're going. Better\n
-get through before
+If you want to see\n
+it, we'll have to
 <$0C>
-another sandstorm\n
-seeps in.
+move before another\n
+sandstorm hits.
 <$00>
 
 
@@ -201,7 +207,7 @@ April:
 This looks like some\n
 kind of passage. I
 <$0C>
-wonder if Liter's\n
+wonder if Little's\n
 down here.
 <$00>
 
@@ -216,22 +222,22 @@ down here.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n俺がどうしたと？
 \n
-Wh-what did you do to\n
-me?!
+Oi, what did you do\n
+to me?!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nおい、お前も悪夢に出入りしてるのか、\nええ、アガタと組んだのか？
 \n
-Are you going in and\n
+Can you move in and\n
 out of the nightmares
 <$0C>
-too? Are you working\n
+too? Are you workin'\n
 with Agatha?
 <$00>
 
@@ -271,11 +277,12 @@ April:
 <$0D>
 //\nねぇ、この星では\n夢と現実が入れ替わったりするの？
 \n
-But I've gotta ask,\n
-are dreams and
+Still, all this dream\n
+talk makes me wonder:
 <$0C>
-actuality swapped on\n
-this star?
+are dreams and\n
+reality swapped on\n
+this planet?
 <$00>
 
 
@@ -289,7 +296,7 @@ this star?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nアガタは知ってたはずだ。\n俺の中にもうひとりいることをな。
 \n
@@ -300,15 +307,15 @@ someone else inside\n
 me.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nそれなのに、しらばっくれてやがる。\nまるではじめてみたいに
 \n
 And yet, she played\n
 dumb, and acted like
 <$0C>
-it was her first\n
-time.
+it was her first time\n
+seein' anythin'.
 <$00>
 
 
@@ -321,8 +328,10 @@ time.
 #WHB(PTR, $000009AD)
 
 //笑うしたのリトル？\nあなた、まさか
-What's wrong, Liter?\n
-Should we be\n
+笑What's wrong,\n
+Little?\n
+Should we be
+<$0C>
 concerned?
 <$00>
 
@@ -337,26 +346,27 @@ concerned?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nおかしいじゃないか。 何か隠してる惑じだ。
 \n
-Shouldn't you? Isn't\n
-it strange to think
+Shouldn't we be?\n
+Isn't it strange to
 <$0C>
-she hides things\n
-without reason?
+think she hides\n
+things without\n
+reason?
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nへっ、催眠術で何かまずいことでも\nあったんじゃないのか。
 \n
 What'll she do when\n
-someone DOES go wrong
+somethin' DOES go
 <$0C>
-during hypnotherapy,\n
-huh?
+wrong during\n
+hypnotherapy, huh?
 <$00>
 
 
@@ -378,7 +388,7 @@ Have you ever had\n
 Agatha perform
 <$0C>
 hypnotherapy on you,\n
-Liter?
+Little?
 <$00>
 
 
@@ -392,7 +402,7 @@ Liter?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nない、ない、絶対にないぞ！\nあああ、側で見ていたことはあるが
 \n
@@ -400,18 +410,17 @@ No, no, DEFINITELY\n
 not! I've seen her
 <$0C>
 administer it up\n
-close, but ohh!
+close, but...
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n俺にはかからなかったはずだ…\n本当だ、俺にはかからない…
 \n
-With God as my\n
-witness, I'd never
+Oi, I'll tell you\n
+what, I'd never her
 <$0C>
-let it happen to\n
-me...
+do that stuff to me!
 <$00>
 
 
@@ -425,44 +434,45 @@ me...
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nちくしょう！ さっきのはひどかった…\nお前が俺に話しかけてたぞ。
 \n
-God...Goddammit! That\n
-was awful. I remember
+Goddammit, that was\n
+all so awful! Yeah, I
 <$0C>
-you talking to me\n
-before.
+remember you talkin'\n
+to me before.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n俺は、イヤな場所で宙に浮かんでた…\nあああ、思い出してきたぞ。
 \n
-Yes, I was floating\n
-in the air somwhere
+Right, I was floatin'\n
+in the air somewhere
 <$0C>
-awful. Ohh, I\n
-remember!
+awful. I remember\n
+now!
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n頭の中で声がするんだ、双子の苦しみ、\n生き埋めの双子の苦しみってな。
 \n
-I hear a voice in my\n
-head, speaking of
+The voice in my\n
+head's talkin' about
 <$0C>
-"twin suffering".\n
-"Buried alive..."
+"twin suffering" and\n
+things being "buried\n
+alive".
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n俺の中で何が起きてるんだ？
 \n
-What's going on\n
+Oi, what's going on\n
 inside my head?!
 <$1E>
 //家
@@ -484,11 +494,12 @@ April:
 <$0D>
 //\n今のリトルの話、知ってる？\n生き埋めの双子って…
 \n
-Do you ever hear that\n
-story Liter just
+Have you ever heard\n
+the story Little just
 <$0C>
-mentioned? About the\n
-buried twins?
+mentioned? The one\n
+about the buried\n
+twins?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -519,9 +530,9 @@ April:
 //\n自分に向いた鋭命が双子に\n取られないように…
 \n
 He thought it was\n
-wrong for twins to
+wrong for two twins
 <$0C>
-share a fate\n
+to share a fate\n
 belonging to one\n
 self.
 <$0C><$0B>
@@ -530,11 +541,11 @@ April:
 <$0D>
 //\nそんな話が今頃になって\nよみがえるなんて… 幽霊みたいに…
 \n
-But it's weird to\n
-hear that story
+To be honest, it's\n
+weird to hear that
 <$0C>
-spring back to life\n
-like some ghost.
+story spring back to\n
+life like some ghost.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -542,7 +553,7 @@ April:
 //\nねぇ、リトルのこと、追ってみない？
 \n
 ...Maybe we should\n
-follow Liter.
+follow Little.
 <$00>
 
 
@@ -560,12 +571,16 @@ April:
 <$0D>
 //\nリトルよ、この奥。 行ってみようよ。
 \n
-Liter's back here!\n
+Little's down here!\n
 Let's go!
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nどうしたの？ リトルはきっとこの中よ。
+\n
+What is it? Little\n
+should be inside.
 <$00>
 
 
@@ -589,24 +604,55 @@ ahead? I'm getting
 scared now.
 <$00><$12><$13><$19><$0B>
 //リバー：
+Liever:
 <$0D>
 //\n鍵、開けたから。この中を通って行くんだ。
+\n
+This way is open, so\n
+this is how we're
+<$0C>
+getting in.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
+Spacer:
 <$0D>
 //\nイセキ？まさか…そんなはずが…
+\n
+What is this place?\n
+It almost looks like
+<$0C>
+an archeological\n
+site.
 <$00><$12><$13><$19><$0B>
 //リバー：
+Liever:
 <$0D>
 //\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
+\n
+The underground canal\n
+is an aqueduct that
+<$0C>
+leads to a dam of\n
+Evil Mind.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
+Spacer:
 <$0D>
 //\nダム！ダムがあるのか！
+\n
+Ah, a dam! So,\n
+there's a dam.
 <$00><$12><$13><$19><$0B>
 //リバー：
+Liever:
 <$0D>
 //\n先に行くよ。砂嵐が来る前に通り抜けなきゃ。
+\n
+If you want to see\n
+it, we'll have to
+<$0C>
+move before another\n
+sandstorm hits.
 <$00>
 
 

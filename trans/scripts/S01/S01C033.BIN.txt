@@ -12,10 +12,18 @@
 #WHB(PTR, $00002CF5)
 
 <$10><$13><$13><$0B>
-フェニックス：
+//フェニックス：
+Phoenix:
 <$0D>
-\n僕が… 死に憑かれているだと…\nこの僕が… エレミヤだと言うのか。
+//\n僕が… 死に憑かれているだと…\nこの僕が… エレミヤだと言うのか。
+\n
+I'm...being\n
+haunted...by death
+<$0C>
+itself... Jeremiah\n
+is...talking to me...
 <$00>
+
 
 
 
@@ -26,12 +34,29 @@
 #WHB(PTR, $00002CF9)
 
 <$10><$13><$13><$08>
-ここに新しき天と、新しき地とを見たり。
+//ここに新しき天と、新しき地とを見たり。
+For a new Heaven and\n
+a new Earth await\n
+you,
 <$0C>
-これまでの天とこれまでの地とは過ぎ去り、\n海もまた消え失せ、\n今よりのち、悲しみもさけびも苦しみもなく、
+//これまでの天とこれまでの地とは過ぎ去り、\n海もまた消え失せ、\n今よりのち、悲しみもさけびも苦しみもなく、
+may this Heaven and\n
+Earth pass, and may\n
+the seas dry, that
 <$0C>
-歓喜の歌にたたえられた永遠が続くであろう。
+their sadness,\n
+loneliness and\n
+suffering are no\n
+more.
+<$0C>
+//歓喜の歌にたたえられた永遠が続くであろう。
+And May eternity move\n
+past this moment,\n
+chanting in
+<$0C>
+celebration.
 <$05><$00>
+
 
 
 
@@ -42,12 +67,17 @@
 #WHB(PTR, $00002CFD)
 
 <$10>
+//\n
 \n
 <$0B>
-      
+//      
+
 <$0D>
-第五の預言を得た。
+//第五の預言を得た。
+So sayeth the fifth\n
+prophecy.
 <$00>
+
 
 
 
@@ -58,12 +88,14 @@
 #WHB(PTR, $000007C1)
 
 //双
+双
 <$06>
 //生、
-Master, will
+Doctor, can
 <$0F>
 //は助かるのですか？
-be saved?
+be saved through\n
+surgery?
 <$00>
 
 
@@ -76,12 +108,11 @@ be saved?
 #WHB(PTR, $00000839)
 
 //快からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
-I do not know. Get to\n
-the surgery room.\n
-There is something
+We'll find out in the\n
+operation room.\n
+There's a mass near
 <$0C>
-near their brain\n
-stirring\n
+the brain inciting\n
 hallucinations.
 <$00>
 
@@ -103,10 +134,12 @@ hallucinations.
 #WHB(PTR, $00001F8F)
 
 //双
+双
 <$06>
 //生、オクトーバー先生！\nお願いします、
-But...but Master\n
-October! Please! Save
+\n
+Doctor! Doctor\n
+October, please! Save
 <$0F>
 //を…
 !
@@ -122,18 +155,18 @@ October! Please! Save
 #WHB(PTR, $000008F5)
 
 //捨ああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
-...Oh, dear. It is\n
+...Damn. The mass is\n
 too deep. If we force\n
 it too hard, we will
 <$0C>
 damage the brain.
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…
-While it's only a\n
-small tumor now,\n
-but we must give up
+Even though the mass\n
+is small, we must\n
+give up on the
 <$0C>
-on the operation.
+operation for now.
 <$00>
 
 
@@ -153,8 +186,8 @@ Ernest:
 \n
 <$0F>
 //じゃねぇ、\nこいつは誰なんだ？
-?\n
-No, who's this guy?
+? No...\n
+What is this thing?
 <$00>
 
 
@@ -172,11 +205,11 @@ Spacer:
 <$0D>
 //\nシュヨウだ、脳にできたシュヨウ…
 \n
-He's a teratoma. A\n
+It's a teratoma: a\n
 rare type of tumor
 <$0C>
-currently lodged in\n
-the brain.
+that's currently\n
+lodged in our brain.
 <$00>
 
 
@@ -194,10 +227,10 @@ Yolanda:
 <$0D>
 //\nデキモノってことなの…\nひどいわ、そんなの。
 \n
-This is horrible!\n
-Is there nothing we
+That's horrible!\n
+How the hell did it
 <$0C>
-can do?
+get there?
 <$00>
 
 
@@ -218,8 +251,8 @@ Spacer:
 Phoenix was supposed\n
 to be born as a twin,
 <$0C>
-but he developed into\n
-a mass.
+but Phoenix developed\n
+into a mass instead.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -229,8 +262,8 @@ Spacer:
 That mass was\n
 absorbed back into
 <$0C>
-his twin, chunks of\n
-hair and all.
+the other twin. Hair,\n
+teeth and all...
 <$00>
 
 
@@ -324,14 +357,30 @@ like that before.
 #WHB(PTR, $00002587)
 
 <$13><$13><$13><$0B>
-フェニックス：
+//フェニックス：
+Phoenix:
 <$0D>
-\nこれは…クルーの仲間だね。\n善人になったの？\nそれで救われたってことなの？
+//\nこれは…クルーの仲間だね。\n善人になったの？\nそれで救われたってことなの？
+\n
+He's from the survey\n
+unit. If he's become
+<$0C>
+a good person, will\n
+this really save him?
 <$00><$13><$13><$13><$0B>
-フェニックス：
+//フェニックス：
+Phoenix:
 <$0D>
-\n善人になって、幸せそうだよ。\nいいね、そういうのって…
+//\n善人になって、幸せそうだよ。\nいいね、そういうのって…
+\n
+Becoming a good\n
+person should be a
+<$0C>
+happy occasion. At\n
+least, that's what\n
+I'd want.
 <$00>
+
 
 
 

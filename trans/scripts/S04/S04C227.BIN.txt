@@ -41,18 +41,36 @@ The item bag is full!
 #WHB(PTR, $00000949)
 
 //子コスマス：
-子Kosmas:
+子Cosmas:
 <$0D>
 //\n光る石だろ、それはね、火星人の心なんだよ。\n心は心でも、いい方の心さ。
+\n
+The glowing stones\n
+contain the mind of
+<$0C>
+the Martians. Their\n
+good will had\n
+hardened like rocks.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n悪い方はイーブルマインドになったらしいから。\nいい心がかたまりになったんだ、\nそれが光る石の正体さ。
+\n
+In opposition to\n
+that, their ill will
+<$0C>
+had since dispersed\n
+as the gaseous Evil\n
+Mind.
 <$00><$00><$11>
 //子コスマス：
+子Cosmas:
 <$0D>
 //\nガリルという人物について
+\n
+About the one called\n
+Galil...
 <$0E><$3C><$17><$00>
 
 
@@ -65,12 +83,12 @@ Kosmas:
 #WHB(PTR, $00000385)
 
 //離 消灯時間まであとわずかです。\n
-離 It's almost time\n
-for lights out.\n
+離 LIGHTS-OUT TIME\n
+WILL COME SHORTLY.\n
 <$0E><$1E>
 //消灯時間まであとわずかです。
-It's almost time for\n
-lights out.\n
+LIGHTS-OUT TIME WILL\n
+COME SHORTLY.
 <$0E><$3C><$17><$00>
 
 
@@ -111,8 +129,14 @@ lights out.\n
 #WHB(PTR, $00000B8D)
 
 <$00><$14><$03>
-エイプリル、私のものよ、\nあなたの全てが私のもの…\nさあ、もっと近くに来て。
+//エイプリル、私のものよ、\nあなたの全てが私のもの…\nさあ、もっと近くに来て。
+You are mine, April.\n
+You are all mine.\n
+That's right, come
+<$0C>
+closer...
 <$0E><$D2><$17><$00>
+
 
 
 

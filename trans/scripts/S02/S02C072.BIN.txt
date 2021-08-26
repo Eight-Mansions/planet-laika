@@ -18,8 +18,9 @@ April:
 //\nああよかった、はぐれちゃったかと思った。\nコロニーはこの先よ。\nイーブルマインドは現れていないみたいね。
 \n
 Ah, good! I thought\n
-I'd lost you.\n
-The colony is dead\n
+I'd lost you. The
+<$0C>
+colony is straight\n
 ahead, and I don't\n
 see any Evil Mind.
 <$0C><$0B>
@@ -29,9 +30,9 @@ April:
 //\n砂嵐の気配もない…\nねえ、小屋に戻りましょうよ。
 \n
 No sign of sandstorms\n
-either.\n
-Let's head back,\n
-shall we?
+either. Let's head
+<$0C>
+back, shall we?
 <$00>
 
 
@@ -85,14 +86,15 @@ Phoenix:
 The secret power...\n
 Can it be used to
 <$0C>
-eliminate the Faze?
+eliminate the Phase?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nこれが僕の力…
 \n
-Is THAT my power?
+Is THAT my power is\n
+for?
 <$00>
 
 

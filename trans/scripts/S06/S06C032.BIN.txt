@@ -32,7 +32,7 @@ you been here?
 
 <$12><$0B>
 //酸索坑夫５号：
-Oxygen Miner 5:
+Oxygen Miner 5：
 <$0D>
 //\nシー、つながったんだ、シー。
 \n
@@ -70,7 +70,7 @@ What's connected?
 
 <$12><$0B>
 //酸索坑夫５号：
-Oxygen Miner 5:
+Oxygen Miner 5：
 <$0D>
 //\n夢と現実がだ、シーシー。
 \n
@@ -94,11 +94,10 @@ Yolanda:
 //\nじゃあ、この町は夢なの？ それとも現実？
 \n
 Is that what's going\n
-on? The dreams of
+on? Are dreams in
 <$0C>
-this town are\n
-connecting to\n
-reality?
+this town connected\n
+to reality?
 <$00>
 
 
@@ -112,15 +111,14 @@ reality?
 
 <$12><$0B>
 //酸索坑夫５号：
-Oxygen Miner 5:
+Oxygen Miner 5：
 <$0D>
 //\nそれを決めれば、だいなしになる、\nぜんぶだいなし、シーシー。
 \n
-Choose one over the\n
-other, and it is
+Choose only one,\n
+whoosh. To no avail,
 <$0C>
-naught, whoosh,\n
-whoosh.
+whoosh, whoosh.
 <$00>
 
 
@@ -156,15 +154,16 @@ dream?
 
 <$12><$0B>
 //酸索坑夫５号：
-Oxygen Miner 5:
+Oxygen Miner 5：
 <$0D>
 //\nシー、それ以上言わない、シー。\nところで私は５号だ、シー。
 \n
-Whoosh, I shall say\n
-no more, whoosh.
+Whoosh, I'll stop\n
+talking. whoosh.
 <$0C>
-Except...that I am\n
-No. 5, whoosh.
+Except for this,\n
+whoosh: I'm the\n
+fifth.
 <$00>
 
 
@@ -178,11 +177,11 @@ No. 5, whoosh.
 
 <$10><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、こっち、来い来い、ヨランダ。\nこっちだ、ひょ。
 \n
-Hyohyo, come with me,\n
+Hyohyo! Come with me,\n
 Yolanda! This way,
 <$0C>
 this way!
@@ -199,15 +198,15 @@ this way!
 
 <$12><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nお前は何を求めているんだ、ヨランダ。\n欲がお前を滅ぼすぞ、ひょ。
 \n
 What is it you truly\n
 seek, Yolanda? Do not
 <$0C>
-let desire be your\n
-undoing, hyo.
+let greed be your\n
+undoing.
 <$00>
 
 

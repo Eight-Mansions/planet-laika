@@ -17,21 +17,23 @@ EastWest：
 <$0D>
 //\n俺たち、\nたち、
 \n
-We? We!
+Who saw it? (The\n
+green light!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n綠の光、\n光、
 \n
-Green light? (Light!)
+The green light? (We\n
+saw it!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\n一緒になった、\nなった。
 \n
-And we became one.
+And now, we are one.
 <$00>
 
 
@@ -84,16 +86,16 @@ EastWest：
 <$0D>
 //\nいろんなこと、\nこと、
 \n
-All sorts of things?\n
-(All sorts!)
+We can hear? (We\n
+can!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
 //\nよく開こえる、\nえる、
 \n
-We can hear? (We\n
-can!)
+All sorts of things?\n
+(All sorts!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
@@ -108,8 +110,8 @@ EastWest：
 <$0D>
 //\nつぶやき始めた。
 \n
-He began to murmur\n
-the prophecy.
+He began to murmur a\n
+prophecy.
 <$00>
 
 
@@ -128,7 +130,7 @@ EastWest：
 //\nヘロデさんお前を、\nお前を、
 \n
 Who calls for you?\n
-(Herod calls)
+(Herod calls!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：

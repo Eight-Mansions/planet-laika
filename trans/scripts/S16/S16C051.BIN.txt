@@ -17,8 +17,8 @@ Crow:
 <$0D>
 //\nひゃひゃひゃ、俺の王国へようこそだ。
 \n
-Hyahyahya, welcome to\n
-my kingdom!
+Kekeke... Welcome to\n
+my kingdom.
 <$00>
 
 
@@ -36,11 +36,10 @@ Crow:
 <$0D>
 //\n何だと… 開こえないな、開こえない、\nお前の声などこの俺には開こえないな。
 \n
-Well? C'mon, I don't\n
-hear you... I can't
+...What, dead cat got\n
+your tongue? Come on,
 <$0C>
-hear your voice one\n
-bit!
+say something!
 <$00>
 
 
@@ -58,11 +57,11 @@ Crow:
 <$0D>
 //\nやっぱりだ！ 俺のこと、\nいやな目で見やがって、よそ者のくせに！
 \n
-Oh, I get it. You're\n
-looking down on me,
+...Oh, I get it.\n
+You're looking down
 <$0C>
-even though YOU'RE\n
-the outsider!
+on me, even though\n
+YOU'RE the outsider!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -70,10 +69,11 @@ Crow:
 //\nお前だ、何でそんな目で見る、ちくしょう！\n悪夢に閉じ込めてやる！
 \n
 Don't look at me with\n
-those eyes, dammit!
+those eyes, you
 <$0C>
+sonnuva...!\n
 I'll...I'll lock you\n
-up in a nightmare!
+up in this nightmare!
 <$00>
 
 
@@ -91,10 +91,11 @@ Crow:
 <$0D>
 //\n兄さん、こいつがうるさいよ。\nあはは、兄さん、こいつをおどらせてやる！
 \n
-Brother, he's getting\n
-on my nerves. It's
+Listen, Bro. He's\n
+getting on my nerves.
 <$0C>
-okay, brother. I'll\n
+...Kekeke, no\n
+worries, Bro. I'll\n
 make 'em dance.
 <$00>
 
@@ -114,9 +115,10 @@ Crow:
 //\nあは、おどれ、おどれ、ヘロデのペットだ、\n生クビとダンスだ！
 \n
 Dance, Herod's pet!\n
-Dance! Let me see
+Dance! Dance around
 <$0C>
-some heads roll!
+all the floating\n
+heads with me!
 <$00>
 
 

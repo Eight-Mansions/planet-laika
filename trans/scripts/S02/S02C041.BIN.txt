@@ -61,8 +61,8 @@ Spacer:
 <$0D>
 //\n着陸地点に何かあったな。
 \n
-Yeah, back at the\n
-landing site?
+Back at the landing\n
+site?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -70,10 +70,10 @@ Spacer:
 //\nお宝かどうかは分からないが、\n岩にうずもれていた。
 \n
 I doubt it was\n
-treasure, but
+treasure, but I saw
 <$0C>
-something was lodged\n
-in the rock.
+it too: something\n
+lodged in the rock.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -81,7 +81,7 @@ Spacer:
 //\nアーネスト、あれには君のパワーが必要だな。
 \n
 Your power could come\n
-in handy for getting
+in handy for yanking
 <$0C>
 it out, Ernest.
 <$00>
@@ -103,16 +103,19 @@ Yolanda:
 \n
 Where are we,\n
 anyways?\n
-The place is beyond\n
-dreadful!
+This place is a\n
+shithole.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nせっかくのクリスマスよ、\nここはさびしいわ。
 \n
-And far too lonesome\n
-for Christmas!
+I'm not feeling the\n
+Xmas cheer here. Not
+<$0C>
+with things this\n
+desolate.
 <$00>
 
 
@@ -130,7 +133,7 @@ Spacer:
 <$0D>
 //\n火星だ。
 \n
-We're on Mars.
+We're on Mars.\n
 <$0F>
 //は\n任務で火星にやってきている。
 is on a mission to\n
@@ -147,22 +150,22 @@ planet's surface is
 affecting
 <$0F>
 //に作用して、\nあんな声が開こえたんだ。
-'s mind, so we're\n
-hearing voices.
+'s mind. That's why\n
+we heard voices.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nつらかった子供の頃を思い出した…\n
 \n
-But those were from\n
-deep, bitter
+But those voices came\n
+from deep, dark
 <$0C>
 childhood memories. I\n
 thought
 <$0F>
 //は、忘れてなかったんだ。
-forgot all that.
+forgot them.
 <$00>
 
 
@@ -180,32 +183,33 @@ Yolanda:
 <$0D>
 //\nあーら、作用だなんて、\nいやな惑じね。
 \n
-Well, they're not so\n
-much "remembering" as
+Oh, we're getting the\n
+side effects? Aren't
 <$0C>
-they are "sensing".
+we lucky.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nこれからアタシたちの出番、増えるのかしら。\nそれにしてもクリスマス返上なのよ。
 \n
-Meaning us three may\n
-have more shifts
+Whatever it is, the\n
+three of us may have
 <$0C>
-soon. I "sense" we'll\n
-be missing Christmas.
+more shifts soon, and\n
+none of us'll be home\n
+for Xmas.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n宇宙航空隊の無線技師って、\nえらく大変なお仕事なのね。
 \n
-What a strange time\n
-of year for them to
+Honestly, who accepts\n
+a radio engineering
 <$0C>
-take on a radio tech\n
-job for ISF.
+job from the ISF at\n
+this time of year?
 <$00>
 
 
@@ -253,12 +257,12 @@ Yolanda:
 <$0D>
 //\nじゃあ、ロケットから見えたのは、本物なのね。\n火星の顔、あれがそうなのね？
 \n
-Ah, gazing at Mars\n
-from inside a
+Yeah, they always\n
+wanted to see Mars
 <$0C>
-rocket...\n
-Who knew Mars would\n
-have a face?
+from inside a rocket.\n
+I mean, shit, who\n
+knew Mars had a face?
 <$00>
 
 
@@ -276,11 +280,11 @@ Spacer:
 <$0D>
 //\n本物だ。 ザ・フェイスと呼ばれている、\n火星人のイセキだ。
 \n
-Everyone. We're near\n
-a Martian
+Literally everyone,\n
+Jo. We're near a
 <$0C>
-archeological site\n
-called "The Face".
+Martian archeological\n
+site called the Face.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -288,9 +292,10 @@ Spacer:
 //\n今回の任務となにやら関係がありそうだ。
 \n
 I take it the site is\n
-related to the new
+related to the survey
 <$0C>
-mission somehow.
+unit's mission\n
+somehow.
 <$00>
 
 
@@ -308,10 +313,11 @@ Yolanda:
 <$0D>
 //\nねぇ、ここで顔、作るの？\n私たちも人間の顔になるの？
 \n
-That's right! Aren't\n
-faces made here?\n
-Will we get a human\n
-face too?
+Oh, that's right!\n
+Aren't human faces
+<$0C>
+made here? Can we all\n
+get the surgery too?
 <$00>
 
 
@@ -329,10 +335,10 @@ Ernest:
 <$0D>
 //\n私たちだと？ おい、お前と一緒にするな、\n俺はアーネストだ、分かったか！
 \n
-"We"?! Don't lump me\n
-with you two.\n
-"I" am Ernest,\n
-understand?
+"We"? Don't lump me\n
+with you two. "I" am
+<$0C>
+Ernest, understand?
 <$00>
 
 
@@ -374,7 +380,7 @@ Ernest:
 Yeah, why not? Who\n
 knows what'd happen
 <$0C>
-with me on the loose!
+with me on the loose.
 <$00>
 
 
@@ -393,8 +399,9 @@ Spacer:
 //\n誰か来る。\nアーネスト、君の出番はなくなったようだ。
 \n
 We'll have to find\n
-out later.\n
-Someone's coming.
+out later. Someone's
+<$0C>
+coming.
 <$00>
 
 
@@ -408,7 +415,7 @@ Someone's coming.
 
 <$12><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、
 \n
@@ -420,14 +427,14 @@ You were not alone\n
 after all!
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nやはりそうだ、\nお前はフクザツだ、ひょひょ。
 \n
 Yes, you are more\n
 complex than you
 <$0C>
-look. Hyohyo!
+look, hyohyo!
 <$00>
 
 
@@ -441,26 +448,27 @@ look. Hyohyo!
 
 <$12><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nこの星には悪がはびこっている。
 \n
-This planet brews\n
-with evil. Exposure
+This planet is\n
+brimming with evil.
 <$0C>
-to this evil will\n
-steadily affect you.
+Exposure to this evil\n
+will steadily affect\n
+you.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nその影響を受けて、お前はどんどん変わるぞ。\n人格変容するぞ、ひょひょひょ！
 \n
 When that happens,\n
 you'll undergo a
 <$0C>
-personality shift.\n
-Hyohyohyo!
+personality shift,\n
+hyohyoh!
 <$00>
 
 
@@ -474,38 +482,38 @@ Hyohyohyo!
 
 <$12><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nオーラだ、悪に触れたらお前の体から\nオーラが現れるぞ。
 \n
-When an influence\n
-touches your body, a
+When you make contact\n
+with an influence, a
 <$0C>
 colorful aura will\n
-leave them and enter\n
-you.
+leave that influence\n
+and enter you.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nオーラの色で悪の種類が分かる、\nひょひょ。
 \n
 The color of that\n
 aura designates what
 <$0C>
-category of evil the\n
+type of evil the\n
 influence is.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nさあ、心の状態を見えるようにしてやろう。\nマインドスコープだ、
 \n
 Now, let's check the\n
 condition of your
 <$0C>
-mind via the Mind\n
-Scope.
+mind via the mind\n
+scope.
 <$00>
 
 
@@ -519,7 +527,7 @@ Scope.
 
 <$12><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nこれでお前の心が見えるぞ、のぞけるぞ。
 \n
@@ -539,6 +547,7 @@ your mind.
 #WHB(PTR, $00001C81)
 
 //歪僕、\nまたお星さまとお話ししてるのか？
+歪僕、\n
 Are you talking to\n
 the stars again?
 <$0E><$3C><$17><$00>
@@ -553,8 +562,8 @@ the stars again?
 #WHB(PTR, $00001C91)
 
 //歪験ゃひゃひゃ、ケッサクだこりゃ！
-Hyahyahya! Get a\n
-life, Space Man!
+歪験Hyahyahya! Get a\n
+life, space brain!
 <$0E><$3C><$17><$00>
 
 
@@ -567,7 +576,7 @@ life, Space Man!
 #WHB(PTR, $00001CA9)
 
 //歪坑つまでいい子でいたいんだ、お前は？
-You always were a\n
+歪坑You always were a\n
 boring Goody Two\n
 Shoes.
 <$0E><$3C><$17><$00>

@@ -17,8 +17,10 @@ Herod:
 <$0D>
 //\nおお、何だ、生クビ野郎じゃねぇのか…
 \n
-Ohhh, if it isn't the\n
-no-necked dog...
+Ohhh, if it isn't you\n
+floating head
+<$0C>
+bastards again...
 <$0C><$12><$0B><$0B>
 //ヘロデ：
 Herod:
@@ -45,7 +47,9 @@ Herod:
 //\nあああ、やめろ、バケモノめ！\n来るな！
 \n
 Ohhhh, stop! Get away\n
-from me, MONSTER!
+from me, YOU
+<$0C>
+MONSTERS!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -53,9 +57,9 @@ Herod:
 //\nアガタ、どこにいるんだ、ちくしょう、\n寄るな、バケモノ！
 \n
 Agatha, dammit! Where\n
-are you? Get back,
+are you? Get back!
 <$0C>
-monster!
+GET BACK!
 <$00>
 
 

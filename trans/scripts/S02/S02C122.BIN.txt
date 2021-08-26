@@ -13,13 +13,13 @@
 
 <$10>
 //建う！本当にいたんだ、あそこに、ママが！
-Your wrong!\n
-I saw her! Mummy was\n
-really there!
+Your wrong! I saw\n
+'er! Mummy was really\n
+there!
 <$0C>
 //ふっ、犯罪者のか…\n獄死したはずだろう、お前の母親は。
 Noon, your mother was\n
-a criminal! She died\n
+a criminal! Judy died\n
 in prison!
 <$0C>
 //いたんだ…僕を追いかけてきた…
@@ -28,17 +28,17 @@ She was...chasing me\n
 again!
 <$0C>
 //死んだ人間がよみがえる…ふふふふ、面白い。\nここはユカイな星だ！
-\n
 Can the dead come\n
-back to life here?
+back to life 'ere?\n
+Interesting...
 <$0C>
-Hah! Interesting. I'm\n
-enjoying Mars\n
-already.
+Marvelous planet,\n
+this.
 <$0C>
 //早く、帰りたい。
-I'll enjoy it more\n
-once we leave!
+Yeah, well it'll be\n
+more marvelous once\n
+we leave!
 <$00>
 
 
@@ -67,12 +67,11 @@ Is someone there?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\n気のせいか…
 \n
-It's probably just\n
-nerves.
+It's probably nerves.
 <$00>
 
 

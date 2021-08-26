@@ -183,7 +183,8 @@ East:
 <$0D>
 //\n俺たち
 \n
-A lullaby we sing?
+Should we sing a\n
+lullaby?
 <$00>
 
 
@@ -255,44 +256,106 @@ West:
 Go inside!
 <$1E>
 //中
+中
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nアガタ！\nあのふたりを返したの？
+\n
+Agatha! Did you get\n
+those two off our
+<$0C>
+backs?
 <$00><$10><$0B>
 //マダム・アガタ…：
+Madam Agatha...:
 <$0D>
 //\nそうよ。\nさあ、行って。早く！
+\n
+Yes, for a moment.\n
+Now, you must go!
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n教えて欲しいの。この星には何があるの？\n黒い騎士とか預言とか…
+\n
+Can I ask you\n
+something? How are
+<$0C>
+the Black Rider and\n
+the prophecies\n
+affecting Mars?
 <$00><$10><$0B>
 //マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nエイプリル、今は時間がないのよ。\nあなたの仲間が捕らえられてしまうわ。
+\n
+April, we must save\n
+that for later, or
+<$0C>
+your companions will\n
+be taken.
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n誰？\nそんなことする人って？
+\n
+What?! Taken by who?!\n
+Who would do such a
+<$0C>
+thing?
 <$00><$11><$0B>
 //マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n人？いいえ、人なんかじゃない。\nさあ、早く、仲間を助けなきゃ。\n地球に戻れなくなるわ。
+\n
+There is no "who",\n
+April. Save your
+<$0C>
+companions and return\n
+to Earth.
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nわかった。\nありがとう、アガタ。
+\n
+I understand. Thank\n
+you for this, Agatha.
 <$00><$10><$0B>
 //マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところ。
+\n
+Take Brick Road down\n
+to Valles Memoriae,
+<$0C>
+and look for the\n
+black wall.
 <$00><$10><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nこの星に来て、迷い込むとしたら\nあそこしかないの。
+\n
+When someone's lost\n
+in the world, that's
+<$0C>
+the only place for\n
+them to go.
 <$0C>
 //さ、行って。…気を付けてね。
+\n
+There is no time, so\n
+please. Be careful
+<$0C>
+for me.
 <$00>
 
 

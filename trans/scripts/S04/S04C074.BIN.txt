@@ -16,6 +16,8 @@
 East:
 <$0D>
 //\nおい、どこ行く？
+\n
+Where are you going?
 <$00>
 
 
@@ -32,6 +34,8 @@ East:
 West:
 <$0D>
 //\n知ってるだろ。
+\n
+You should know!
 <$00>
 
 
@@ -48,6 +52,8 @@ West:
 East:
 <$0D>
 //\nリトルさん。
+\n
+To Little?
 <$00>
 
 
@@ -64,6 +70,8 @@ East:
 West:
 <$0D>
 //\n居場所だ。
+\n
+To where they were!
 <$00>
 
 
@@ -80,6 +88,9 @@ West:
 East:
 <$0D>
 //\n物音がした。
+\n
+Where the sounds\n
+were?
 <$00>
 
 
@@ -96,6 +107,8 @@ East:
 West:
 <$0D>
 //\nロッジだ。
+\n
+To the lodge!
 <$00>
 
 
@@ -112,6 +125,8 @@ West:
 East:
 <$0D>
 //\nあいつらの。
+\n
+To everyone?
 <$00>
 
 
@@ -128,6 +143,8 @@ East:
 West:
 <$0D>
 //\n連れてけ。
+\n
+Come along!
 <$00>
 
 
@@ -144,6 +161,8 @@ West:
 West:
 <$0D>
 //\n今すぐだ。
+\n
+There's no time!
 <$00>
 
 
@@ -157,11 +176,11 @@ West:
 
 <$13><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nねぇ、また始まったよ、コスマスの独り言。\nあの子、おかしいのよ、変よ、
 \n
-Kosmas is talking to\n
+Cosmas is talking to\n
 himself again through
 <$0C>
 the back alley\n
@@ -169,15 +188,16 @@ window. What an odd\n
 kid.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nダークマンがどうしたこうしたって…\nいじめられすぎたのね。\n窓のところに回ってみれば？開こえるから。
 \n
-"Darkman" this,\n
-"Darkman" that. The
+"Dark Man" this,\n
+"Dark Man" that. The
 <$0C>
 others will make fun\n
-of Kosmas for that.
+of him if he keeps\n
+up.
 <$1E>
 //行
 行
@@ -194,15 +214,16 @@ of Kosmas for that.
 
 <$13><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nコスマスがまたお話ごっこを始めたのよ。\n開こえるから…窓のところよ。\nあなた、開き耳、得意なんでしょ？
 \n
-Kosmas is talking to\n
-himself again. Go
+Cosmas is talking to\n
+himself again. Don't
 <$0C>
-listen through the\n
-back alley window.
+eavesdrop through the\n
+back alley window,\n
+okay?
 <$1E>
 //中
 中
@@ -219,21 +240,36 @@ back alley window.
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nたしかにね、そうよね、
+\n
+There's not a doubt\n
+in my mind.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nコスマスってどこか人の心を見通してるような\nところがあるのよね。
+\n
+There's something\n
+about Cosmas. It's
+<$0C>
+like he can read\n
+people's minds.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nじっと見つめられるとさ、\n心がスケスケになるのよね。
+\n
+What else would he be\n
+doing with that
+<$0C>
+dead-eyed stare?
 <$1E>
 //行
+行
 <$00>
 
 
@@ -247,36 +283,74 @@ Marrakesh:
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n鏡のところには行ったの？\n鏡はね、人をまどわすのよ…
+\n
+Did you find the\n
+mirror? I think
+<$0C>
+mirrors are\n
+untrustworthy.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n昔ね、リャンハウス始まって以来の\n美人がいたの、アマンダって名前の女よ。
+\n
+Long ago, ever since\n
+House Liang first
+<$0C>
+came to be, there was\n
+a gorgeous woman\n
+named Amanda.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n最高にキレイなお顔を手に入れて、\nいつも鏡に見入っていたの。
+\n
+She had the most\n
+beautiful face, and
+<$0C>
+she was always\n
+looking at it through\n
+a mirror.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそしたらどうなったと思う？
+\n
+And then...something\n
+happened, you know?
+<$0C>
+It's a strange story,\n
+really.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n変なお話よ。アマンダは鏡に飲込まれて、\n鏡の精になったのよ。
+\n
+Amanda was swallowed\n
+by her own mirror,
+<$0C>
+and that's how she\n
+became a mirror\n
+spirit.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nこんなのって、信じられる？
+\n
+Can you believe such\n
+a tale?
 <$1B>
 //？信じる\n信じない
+？Yes\n
+No
 <$00><$17><$00>
 
 
@@ -290,21 +364,38 @@ Marrakesh:
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n鏡の精よ、そんなのいるの…\nだったらオバケのことじゃないの？
+\n
+Mirror spirits do\n
+exist, but...if
+<$0C>
+they're not ghosts,\n
+what are they?
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
+That reminds me...\n
+Recently, I saw Linda\n
+mumbling in front of
+<$0C>
+the mirror.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nオバケ、呼出してたりしてね、\nああいやだ。
+\n
+I wonder if she's\n
+taken to talking to
+<$0C>
+ghosts? How spooky!
 <$1E>
 //行
+行
 <$00>
 
 
@@ -318,21 +409,40 @@ Marrakesh:
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそうよね、鏡の精なんてね。\n案外オバケの正体だったりしてね…
+\n
+That's right, she's a\n
+mirror spirit! You
+<$0C>
+learn some strange\n
+things once you pull\n
+off the mask.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
+\n
+That reminds me...\n
+Recently, I saw Linda
+<$0C>
+mumbling in front of\n
+the mirror.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nオバケ、呼出してたりしてね、\nああいやだ。
+\n
+I wonder if she's\n
+taken to talking to
+<$0C>
+ghosts? How spooky!
 <$1E>
 //行
+行
 <$00>
 
 
@@ -346,11 +456,19 @@ Marrakesh:
 
 <$13><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあのときのリンダ、\nリンダじゃないみたいだった…\n鏡って怖いのよ、人をおかしくさせるから。
+\n
+When I saw Linda that\n
+time, she looked so
+<$0C>
+different. Mirrors\n
+scare me because they\n
+make people crazy.
 <$1E>
 //中
+中
 <$00>
 
 

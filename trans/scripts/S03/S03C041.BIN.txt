@@ -28,11 +28,13 @@ The item bag is full!
 
 <$10>
 //\n
+\n
 <$0B>
 //      
+
 <$0D>
 //赤い石を手に入れた。
-"RED STONE" acquired.
+Red Stone acquired.
 <$00>
 
 
@@ -50,11 +52,11 @@ Spacer:
 <$0D>
 //\nこの石は…これが酸索石なのか…\nいや建う…他にもどこかで見たようだが…
 \n
-This\n
-stone...oxygenite?
+This stone. Is it\n
+oxygenite...? No, but
 <$0C>
-No, but I have seen\n
-it somewhere before.
+I have seen it\n
+somewhere before.
 <$00>
 
 
@@ -72,11 +74,11 @@ Spacer:
 <$0D>
 //\nヘロデ、悪夢の中にいるんじゃなかったのか…\n向こうで目覚めて戻ってきたのか？
 \n
-Herod? I thought\n
-you'd be in one of
+Herod? I thought you\n
+were in one of your
 <$0C>
-your nightmares right\n
-now. Did you wake up?
+nightmares right now.\n
+Did you wake up?
 <$00>
 
 
@@ -95,9 +97,10 @@ Herod:
 //\nここは悪夢じゃない…\nもっと別なイヤな場所だ。
 \n
 This may not be a\n
-nightmare, but it's
+nightmare, but a
 <$0C>
-another bad place.
+differently vile\n
+place.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -125,8 +128,8 @@ Herod:
 If this WAS a\n
 nightmare, if that
 <$0C>
-WAS the case, Agatha\n
-would be coming for\n
+WAS the case,\n
+Agatha've come for\n
 me.
 <$0C><$0B>
 //ヘロデ：
@@ -134,10 +137,10 @@ Herod:
 <$0D>
 //\n誰かが邪魔してやがる、\nそんな気がするんだ。
 \n
-I do feel something.\n
-Someone, making a
+Still, I do feel\n
+something. Someone,
 <$0C>
-disturbance.
+making a disturbance.
 <$00>
 
 
@@ -166,8 +169,7 @@ Spacer:
 <$0D>
 //\n誰なんだ？
 \n
-Do you know who this\n
-someone is?
+Is someone else here?
 <$00>
 
 
@@ -185,10 +187,10 @@ Herod:
 <$0D>
 //\nでかいやつだ…\nああ、そうだ、深い苦しみの権化みたいな…。
 \n
-A great being, yes...\n
-The personification
+Yes, a great being...\n
+They are deep
 <$0C>
-of deep suffering.
+suffering incarnate.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -198,8 +200,8 @@ Herod:
 As long their\n
 disturbance exists, I
 <$0C>
-will not enter into\n
-the dream.
+will not make it into\n
+dreaming.
 <$00>
 
 
@@ -217,16 +219,18 @@ Spacer:
 <$0D>
 //\nそいつを取り除けばいいんだな。
 \n
-That "someone" needs\n
-to be given the boot.
+Then they to be given\n
+the boot.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n私にできるか、\nどうなんだヘロデ。
 \n
-Maybe I can. How can\n
-I help, Herod?
+Maybe I can help.\n
+Where do I start,
+<$0C>
+Herod?
 <$00>
 
 
@@ -252,8 +256,8 @@ Herod:
 <$0D>
 //\n俺は お、お、何だ、この気分は
 \n
-I don't- oh! Ohh!\n
-Wh-what's this
+I don't...oh! Oh, no!\n
+W-what's this
 <$0C>
 feeling?!
 <$0C><$0B>
@@ -262,8 +266,10 @@ Herod:
 <$0D>
 //\nまだ俺を苦しめようっていうのか！
 \n
-ARE YOU STILL TRYING\n
-TO HURT ME?!
+WHY?! WHY ARE YOU\n
+STILL TRYING TO HURT
+<$0C>
+ME?!
 <$00>
 
 
@@ -281,10 +287,10 @@ Herod:
 <$0D>
 //\nおおお、何だ…\n完全なる善を見よ… 何のことだ？
 \n
-Augh! What?! Behold\n
-pure good?! What does
+Augh! What?! "Behold\n
+pure good"?! What
 <$0C>
-that mean?!
+does that mean?!
 <$00>
 
 
@@ -302,11 +308,11 @@ Behold pure good!\n
 Behold pure evil!
 <$0C>
 //このふたつが最後の出会いを果たすとき、\nタマシイは再生の時を得るであろう。
-When the two face in\n
-the final encounter,\n
-the time of spiritual
+May the two meet at\n
+the end of the world,\n
+that the spirit will
 <$0C>
-rebirth will come!
+know rebirth.
 <$05><$00>
 
 
@@ -323,6 +329,7 @@ rebirth will come!
 \n
 <$0B>
 //      
+
 <$0D>
 //第ニの預言を得た。
 So sayeth the second\n
@@ -347,8 +354,8 @@ Spacer:
 Herod recited a\n
 prophecy. Does that
 <$0C>
-mean he's in the\n
-world of death now?
+mean he's in the Land\n
+of the Dead now?
 <$00>
 
 
@@ -366,7 +373,7 @@ William:
 <$0D>
 //\n今こそ終わりがお前の上に来る。
 \n
-The end is now upon\n
+Now! The end is upon\n
 you!
 <$00>
 
@@ -397,9 +404,10 @@ William:
 //\nふふふ、僕の欲しかったのは\nこんなのじゃない！
 \n
 Ohohoh, but this\n
-isn't what I wanted
+isn't what William
 <$0C>
-at all! Not this!
+wanted at all! Not\n
+this!
 <$0C><$0B>
 //ウィリアム：
 William:
@@ -407,9 +415,9 @@ William:
 //\n僕には無理なんだ、\nやっぱり、何か足りないんだ！
 \n
 This isn't right for\n
-me! No, something's
+William! No,
 <$0C>
-missing!
+something's missing!
 <$00>
 
 
@@ -427,21 +435,21 @@ William:
 <$0D>
 //\n僕は、僕は、\nあいつらが滅びるところを見たかったんだ。
 \n
-I...I only wanted to\n
-watch those fuckers
+William...William\n
+only wanted to watch
 <$0C>
-get their just\n
-desserts.
+those philistines get\n
+their just desserts.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nコロニーのやつらさ、\nみんな死んでしまえ！
 \n
-I wanted every last\n
-fucker in this colony
+William wanted every\n
+last fucker in this
 <$0C>
-to die!
+colony to die!
 <$00>
 
 
@@ -459,7 +467,8 @@ William:
 <$0D>
 //\nちくしょう！ ちくしょう！
 \n
-Dammit! Dammit!
+Damn you! Damn you\n
+all!
 <$00>
 
 
@@ -478,18 +487,21 @@ William:
 //\n… あ… う…\n夜が追いかけて来るんだ…
 \n
 Oh...ohhh... The\n
-night is after me...
+night is upon
+<$0C>
+William...
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nあ、見ねぇ顔だな…\n脳ミソがパチパチだ… あうううう…
 \n
-Oh, why don't I\n
-recognize this
+Oh, why doesn't\n
+William recognize
 <$0C>
-face... My brain is\n
-crackling... Augh!
+this face...\n
+William's brain is\n
+crackling... Hic!
 <$00>
 
 
@@ -507,22 +519,21 @@ Herod:
 <$0D>
 //\n暗闇の中を歩いて光にぶつかった…
 \n
-"We walk through\n
-total darkness,
+"The people who walk\n
+in darkness will see
 <$0C>
-before colliding with\n
-light..."
+a great light."
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nそいつが変な言葉になって、\n俺の中に入ってきやがった。
 \n
-I don't know who gets\n
-off jamming weird
+I don't know who\n
+enjoys bleeding words
 <$0C>
-words like that into\n
-my head...
+like that into my\n
+head...
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -606,8 +617,8 @@ Herod:
 I finally made it out\n
 of the white room in
 <$0C>
-this everlasting\n
-nightmare.
+these everlasting\n
+nightmares.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -617,7 +628,7 @@ Herod:
 Come on, Agatha, come\n
 for me soon. The
 <$0C>
-severed-head is\n
+floating heads are\n
 chasing me again!
 <$0C><$0B>
 //ヘロデ：
@@ -636,9 +647,9 @@ Herod:
 //\nどうなってんだ、生クビ野郎！\nくそぉ、来るんじゃない！
 \n
 What do you want from\n
-me, no-neck?! No! Get
+me, you filthy
 <$0C>
-away!
+heads?! No! Get away!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -665,6 +676,11 @@ ME! SAVE MEEE!
 Spacer:
 <$0D>
 //\n何だ、この音は？\n何かがはねてるような音だ。
+\n
+What's that noise? It\n
+sounds like something
+<$0C>
+is reverberating.
 <$00>
 
 
@@ -681,6 +697,9 @@ Spacer:
 Yolanda:
 <$0D>
 //\n何？\n何がいるのよ、気味悪いわね。
+\n
+What's out here? Talk\n
+about creepy...
 <$00>
 
 
@@ -697,6 +716,11 @@ Yolanda:
 Ernest:
 <$0D>
 //\n何だ？\nはねていやがる？
+\n
+What's going on? Are\n
+people bouncing
+<$0C>
+around?
 <$00>
 
 

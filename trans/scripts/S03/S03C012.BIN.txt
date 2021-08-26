@@ -78,10 +78,21 @@ the password again?
 #WHB(PTR, $000008A1)
 
 <$10><$14><$00>
-１ おお？ばらよ、お前は病んでいる？\n２ おお、ばらよ？お前は病んでいる！\n３ おお、ばらよ！お前は病んでいる！
+//１ おお？ばらよ、お前は病んでいる？\n２ おお、ばらよ？お前は病んでいる！\n３ おお、ばらよ！お前は病んでいる！
+1. O, Rose! Thou art\n
+sick?\n
+2. O, Rose? Thou art
+<$0C>
+sick!\n
+3. O, Rose! Thou art\n
+sick!
 <$1B>
-３１\n２\n３
+//３１\n２\n３
+３１\n
+２\n
+３
 <$00><$17><$00>
+
 
 
 
@@ -130,10 +141,15 @@ sick!
 #WHB(PTR, $00000921)
 
 <$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nおかしいな…これじゃないんじゃない？
+//\nおかしいな…これじゃないんじゃない？
+\n
+Uh-oh... Maybe that\n
+wasn't it.
 <$00>
+
 
 
 
@@ -182,8 +198,7 @@ We're in!
 
 <$10>
 //なんだなんだ、おどかすな！
-W-what in the\n
-Goddamn?!
+What in the world?!
 <$00>
 
 
@@ -259,7 +274,7 @@ April:
 We're sorry for\n
 scaring you. White
 <$0C>
-Eagle told us the\n
+Eagle told us your\n
 password.
 <$00>
 
@@ -289,9 +304,9 @@ Yang:
 //\nまさか記憶の谷に降りていくつもりじゃ\nないだろうな、
 \n
 Don't tell me you're\n
-on your way to Memory
+on your way to Valles
 <$0C>
-Valley.
+Memoriae.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -308,8 +323,8 @@ Yang:
 <$0D>
 //\n本当だ、\nちゃんと見てきたんだ、俺が見たんだ。
 \n
-It's true. I saw it,\n
-saw it with my own
+It's true, I saw it.\n
+I saw it with my own
 <$0C>
 eyes.
 <$00>
@@ -426,11 +441,11 @@ April:
 <$0D>
 //\nロボット？ ねぇ、ロボットって…\nお手伝いロボットか何かいるの？
 \n
-Robots? Like, really\n
-robots? Are there
+Robots? Like, actual\n
+robots? Does that
 <$0C>
-helper robots there,\n
-or...
+mean there are helper\n
+robots there, or...
 <$00>
 
 
@@ -449,7 +464,7 @@ Yang:
 //\nうははは、\nマウンテンが言ってた奇跡が起きたんだ！
 \n
 But! The miracle\n
-Mountain spoke has
+Mountain spoke of has
 <$0C>
 come true!
 <$0C><$0B>
@@ -459,10 +474,10 @@ Yang:
 //\nうははは… 奇跡だ、ロックバースの奇跡、\nははは、ざま見ろ！
 \n
 Wahoo, the miracle!\n
-The miracle of
+The miracle of rock
 <$0C>
-rockbirth! Come, see\n
-it for yourself!
+birth! Come, see it\n
+for yourself!
 <$1E>
 //鋭
 鋭

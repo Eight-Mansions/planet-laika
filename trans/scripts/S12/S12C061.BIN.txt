@@ -31,9 +31,8 @@ Signpost:
 Have you come to\n
 offer your body to my
 <$0C>
-Chloe? That's why\n
-you're here, isn't\n
-it?
+Chloe? Why else would\n
+you be here?
 <$00>
 
 
@@ -54,7 +53,7 @@ Signpost:
 <$0D>
 //\nやっぱりだ、早くクロエちゃんに\n体をあげてくれ。待ってるぞ。
 \n
-Copy that! Hurry\n
+Did I stutter? Hurry\n
 along and offer your
 <$0C>
 body to my Chloe!\n
@@ -96,20 +95,40 @@ serve your purpose.
 #WHB(PTR, $00000CE9)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nあああ、右目は痛い…\n左目は涙でいっぱい…
+//\nあああ、右目は痛い…\n左目は涙でいっぱい…
+\n
+Oh, my right eye\n
+hurts... My left eye
+<$0C>
+is welling of\n
+tears...
 <$0C><$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nクロエちゃんは元気かな…
+//\nクロエちゃんは元気かな…
+\n
+I hope my Chloe's\n
+doing all right.
 <$0C><$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n元気ならよかった、\nクロエちゃんがよかったならよかった。
+//\n元気ならよかった、\nクロエちゃんがよかったならよかった。
+\n
+Is Chloe doing all\n
+right? Oh, I hope
+<$0C>
+she's happy. I hope\n
+she's so happy.
 <$00>
+
 
 
 
@@ -158,10 +177,11 @@ The pain in my right\n
 eye went and stopped.
 <$0C><$0B>
 //道しるべ：
+Signpost:
 <$0D>
 //\nこれで平気、戻れる戻れる。\n左目の涙はまだ乾かない。まだ行けない。
 \n
-But they'll be back.\n
+But it'll be back.\n
 The tears in my left
 <$0C>
 eye haven't stopped,\n
@@ -178,12 +198,23 @@ so there's no going.
 #WHB(PTR, $00000D21)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n涙、たくさん。左目、涙、まだ乾かない。\n乾いたら戻れる、時間を戻れる。
+//\n涙、たくさん。左目、涙、まだ乾かない。\n乾いたら戻れる、時間を戻れる。
+\n
+There's so many\n
+tears. My left eye is
+<$0C>
+tearful. Only when I\n
+can turn back the\n
+tears, can I turn\n
+back time.
 <$00>
+
 
 
 
@@ -250,6 +281,11 @@ me a little.
 Signpost:
 <$0D>
 //\nやっと涙が乾いた、\nこれで戻れる、スペーサー。
+\n
+My tears have dried\n
+up. It's time to turn
+<$0C>
+back, Spacer.
 <$00>
 
 
@@ -266,6 +302,8 @@ Signpost:
 Spacer:
 <$0D>
 //\n戻れる？ どこへだ？
+\n
+Turn back? To where?
 <$00>
 
 
@@ -278,12 +316,18 @@ Spacer:
 #WHB(PTR, $000007B9)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nようく考えて、考えて、考えて…
+//\nようく考えて、考えて、考えて…
+\n
+Think. Think long and\n
+hard...
 <$00>
+
 
 
 
@@ -294,16 +338,33 @@ Spacer:
 #WHB(PTR, $00000A91)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n考えたら、泣けてきた。\nああん、涙、また涙があふれてきた。
+//\n考えたら、泣けてきた。\nああん、涙、また涙があふれてきた。
+\n
+When I thought long\n
+and hard, I started
+<$0C>
+to cry again. Oh, the\n
+tears are welling up\n
+again...
 <$0C><$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n戻る必要ない、それは悲しい…\n道しるべ、役立たずで悲しい。
+//\n戻る必要ない、それは悲しい…\n道しるべ、役立たずで悲しい。
+\n
+I shouldn't need to\n
+turn back. It's too
+<$0C>
+sad. A signpost is\n
+useless is it's sad.
 <$00>
+
 
 
 
@@ -314,14 +375,22 @@ Spacer:
 #WHB(PTR, $000007DD)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n考えて、決めてみろ。
+//\n考えて、決めてみろ。
+\n
+Are you ready to turn\n
+back?
 <$1B>
-？戻る\n戻らない
+//？戻る\n戻らない
+？Yes\n
+No
 <$00><$17><$00>
+
 
 
 
@@ -336,12 +405,18 @@ Spacer:
 #WHB(PTR, $00000D3D)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n役に立たない道しるべ。
+//\n役に立たない道しるべ。
+\n
+I'm a useless\n
+signpost.
 <$00>
+
 
 
 
@@ -352,12 +427,20 @@ Spacer:
 #WHB(PTR, $000007FD)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n少し昔だ、そこに戻れる。用意はいいぞ。
+//\n少し昔だ、そこに戻れる。用意はいいぞ。
+/\n
+It's been a while.\n
+Let's prepare to turn
+<$0C>
+back.
 <$00>
+
 
 
 
@@ -368,12 +451,21 @@ Spacer:
 #WHB(PTR, $00000D49)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nそれは残念、戻らないのは残念。\nチャンスは少ない。
+//\nそれは残念、戻らないのは残念。\nチャンスは少ない。
+\n
+It's too bad. It's\n
+too bad we can't turn
+<$0C>
+back. Our chances are\n
+too slim.
 <$00>
+
 
 
 
@@ -388,6 +480,11 @@ Spacer:
 Ernest:
 <$0D>
 //\n戻る？ どこへだ？\n俺じゃいけねぇのか！
+/\n
+Turn back? Where\n
+could I possible go
+<$0C>
+back to?
 <$00>
 
 
@@ -404,6 +501,11 @@ Ernest:
 Yolanda:
 <$0D>
 //\n戻るって？ 帰れるの？\nあのお利口さんだけ？
+\n
+Turn back? Like, go\n
+home? Do I need the
+<$0C>
+smartass for this?
 <$00>
 
 
@@ -440,12 +542,21 @@ useful.
 #WHB(PTR, $00000AF9)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nまた泣けてきた、\n涙がいっぱい、悲しくて。
+//\nまた泣けてきた、\n涙がいっぱい、悲しくて。
+\n
+I started to cry\n
+again. The tears
+<$0C>
+won't stop. It's too\n
+sad.
 <$00>
+
 
 
 
@@ -460,6 +571,9 @@ useful.
 Ernest:
 <$0D>
 //\nへん、勝手に泣いてろ！
+/\n
+Then you might as\n
+well cry!
 <$00>
 
 
@@ -476,12 +590,23 @@ Ernest:
 Yolanda:
 <$0D>
 //\nあら残念、\n泣き虫じゃしょうがないわね。
+\n
+Sorry, 'cap. Even I\n
+have my limits on who
+<$0C>
+can cry on my\n
+shoulder.
 <$00><$10><$13>
 //く
+く
 <$0B>
 //道しるべ：
+Signpost:
 <$0D>
 //\n役に立たない道しるべ。
+\n
+I'm a useless\n
+signpost.
 <$00>
 
 
@@ -498,6 +623,9 @@ Yolanda:
 Spacer:
 <$0D>
 //\n私が仮の姿だというのか…
+\n
+What shape would I\n
+take...?
 <$00>
 
 
@@ -510,12 +638,21 @@ Spacer:
 #WHB(PTR, $0000047D)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nもう終わり、戻れない戻れない、\nどこにも戻れない。
+//\nもう終わり、戻れない戻れない、\nどこにも戻れない。
+\n
+It's over. There's no\n
+turning back. There's
+<$0C>
+nowhere to turn back\n
+to.
 <$00>
+
 
 
 
@@ -530,23 +667,42 @@ Spacer:
 Spacer:
 <$0D>
 //\nあの時…\nそうだ、はじめてここに来たときだ…
+\n
+Back when we first\n
+came here...
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nあの子、クロエの前でたしか…\nアーモンドの香りがどうしたとか。
+\n
+...that Chloe girl\n
+said something
+<$0C>
+about...the smell of\n
+almonds.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nあれは
+\n
+But, if
 <$0F>
 //ではなかった、\n別な誰かだ！
+doesn't smell like\n
+almonds, who was she\n
+talking about?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nもうあのときには戻れないのか？
+\n
+If only I could turn\n
+back time to make
+<$0C>
+sure...
 <$00>
 
 
@@ -559,12 +715,22 @@ Spacer:
 #WHB(PTR, $000004A1)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\n戻るの終わり、もう終わり。\n戻るの終わり、戻れない。
+//\n戻るの終わり、もう終わり。\n戻るの終わり、戻れない。
+\n
+We're done with\n
+turning back. It's
+<$0C>
+already over. We're\n
+done with turning\n
+back.
 <$00>
+
 
 
 
@@ -579,6 +745,11 @@ Spacer:
 Spacer:
 <$0D>
 //\nもう一度あのときに戻れないのか？
+\n
+You wouldn't want to\n
+go back one more
+<$0C>
+time?
 <$00>
 
 
@@ -591,12 +762,21 @@ Spacer:
 #WHB(PTR, $0000054D)
 
 <$10><$13>
+//く
 く
 <$0B>
-道しるべ：
+//道しるべ：
+Signpost:
 <$0D>
-\nもう終わり、戻るの終わり、戻れない。
+//\nもう終わり、戻るの終わり、戻れない。
+\n
+It's already over.\n
+We're done with
+<$0C>
+turning back. It's\n
+already over
 <$00>
+
 
 
 

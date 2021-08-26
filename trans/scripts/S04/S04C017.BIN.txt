@@ -17,7 +17,7 @@
 
 <$12><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n何だ、まだコロニーに用があるのか？
 \n
@@ -27,8 +27,8 @@ business in the
 colony?
 <$1B>
 //※ちょっと戻ってみる\n今はよしておく
-※Let's go back\n
-No, I'm good
+※Yes\n
+No
 <$00><$17><$00>
 
 
@@ -50,11 +50,11 @@ No, I'm good
 
 <$12><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nなら早くしてくれ。\n俺はここで待ってる。
 \n
-Then make it quick!\n
+Just make it quick!\n
 I'll wait here for
 <$0C>
 you.
@@ -75,14 +75,14 @@ you.
 
 <$13><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nもういいだろ。\nふん、コロニーのやつら、蕃判のウワサを\n信じ始めたみたいだ…弱いやつらだ。
 \n
 Good. Everyone in the\n
-colony is crumbling
+colony is crumblin'
 <$0C>
-under the Judgment\n
+under the "Judgement"\n
 rumors, and it shows.
 <$00>
 
@@ -101,7 +101,7 @@ rumors, and it shows.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nさあ、行こう。\n俺の気が変わらないうちにな。
 \n
@@ -121,14 +121,28 @@ mind.
 #WHB(PTR, $0000155D)
 
 <$13><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\nちょっとやっかいなことが起きた、\nここは通せない。
+//\nちょっとやっかいなことが起きた、\nここは通せない。
+\n
+Things are a little\n
+unstable here. We
+<$0C>
+cannot let you pass.
 <$0C><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\n今、ホワイトイーグルがいろいろやってる\n最中だ。\nお前に話してもムダかも知れないぞ。
+//\n今、ホワイトイーグルがいろいろやってる\n最中だ。\nお前に話してもムダかも知れないぞ。
+\n
+White Eagle is in the\n
+middle of something
+<$0C>
+now. There is nothing\n
+to discuss.
 <$00>
+
 
 
 
@@ -139,10 +153,18 @@ mind.
 #WHB(PTR, $000016A1)
 
 <$12><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\nやっかいなことだ。\nちょっと難しい話だ。
+//\nやっかいなことだ。\nちょっと難しい話だ。
+\n
+This area is off\n
+limits. Divert your
+<$0C>
+attention to\n
+elsewhere.
 <$00>
+
 
 
 
@@ -166,8 +188,8 @@ Noble Rock:
 <$0D>
 //\n悪いが今は通せない。
 \n
-I'm sorry, but this\n
-area is now off
+I am sorry, but this\n
+area is currently off
 <$0C>
 limits.
 <$00>
@@ -188,9 +210,9 @@ Noble Rock:
 //\n善人は危ない、不安定だ。
 \n
 Good people are\n
-dangerous. They're
+dangerous because
 <$0C>
-unstable.
+they are vulnerable.
 <$00>
 
 
@@ -209,11 +231,11 @@ Noble Rock:
 //\n憑かれやすいという話ではない。\n少しでも悪に触れると完全な悪に\nなってしまうのだ。
 \n
 It's not about\n
-"likelihood". Even it
+"likelihood". Even
 <$0C>
-you are touched by a\n
-little evil, you ARE\n
-evil.
+the smallest touch of\n
+evil will taint a\n
+person.
 <$00>
 
 
@@ -254,10 +276,18 @@ evil.
 #WHB(PTR, $000027D3)
 
 <$12><$0B>
-ノーブルロック：
+//ノーブルロック：
+Noble Rock:
 <$0D>
-\n善人を保護したんだ、\n善人は危ない。
+//\n善人を保護したんだ、\n善人は危ない。
+\n
+We have protected the\n
+good people, for the
+<$0C>
+good people face the\n
+most danger.
 <$00>
+
 
 
 
@@ -276,6 +306,13 @@ evil.
 Noble Rock:
 <$0D>
 //\n善人は危ない、あっと言う間に悪に染まる。\nしばらくは養生が必要だ。
+\n
+Good people are\n
+dangerous, as they
+<$0C>
+can turn evil in an\n
+instant. We must keep\n
+them safe for now.
 <$00>
 
 
@@ -296,6 +333,9 @@ Noble Rock:
 Noble Rock:
 <$0D>
 //\nコロニーは外出禁止、\nロッジも立入禁止だ。
+The colony is off\n
+limits, as is the\n
+lodge.
 <$00>
 
 
@@ -332,11 +372,10 @@ Spacer:
 <$0D>
 //\n悪に憑かれやすい、\nそういうことだな。
 \n
-Because they're more\n
-likely to get
+They're more likely\n
+to get possessed by
 <$0C>
-possessed by evil,\n
-right?
+evil, right?
 <$00>
 
 
@@ -353,6 +392,9 @@ right?
 Ernest:
 <$0D>
 //\nなんでだ、\n俺が登録されてないからか。
+\n
+Why, because I'm not\n
+registered?
 <$00>
 
 
@@ -369,6 +411,11 @@ Ernest:
 Ernest:
 <$0D>
 //\n善人だと…\nお前らは善人が苦手なんだ、そうなんだな。
+\n
+You guys don't seem\n
+to like good people
+<$0C>
+very much.
 <$00>
 
 
@@ -385,6 +432,11 @@ Ernest:
 Ernest:
 <$0D>
 //\nそうかい、\nどうせ俺はここには入れねぇんだ。
+\n
+Got it. Either way,\n
+I'd kill to get in
+<$0C>
+here.
 <$00>
 
 
@@ -401,6 +453,9 @@ Ernest:
 Ernest:
 <$0D>
 //\nせいぜい養生させな。
+\n
+Whatever covers all\n
+the bases.
 <$00>
 
 
@@ -417,6 +472,9 @@ Ernest:
 Yolanda:
 <$0D>
 //\n何よ、アタシが登録されてないから、\nそんなこと言うのね。
+\n
+Huh? This thing says\n
+I'm not registered.
 <$00>
 
 
@@ -433,6 +491,12 @@ Yolanda:
 Yolanda:
 <$0D>
 //\nあら索敵。\n危ない善人だなんて…ほんとにアブナイの？
+\n
+The hunt is on, huh.\n
+Are good people
+<$0C>
+really that\n
+dangerous?
 <$00>
 
 
@@ -449,6 +513,13 @@ Yolanda:
 Yolanda:
 <$0D>
 //\nふん、養生ねぇ…\n休んでるうちに悪人に\nなったりするんじゃないの。
+\n
+Whew. Shit's rough.\n
+If there's no rest
+<$0C>
+for the wicked,\n
+there's even less\n
+rest for the good.
 <$00>
 
 
@@ -465,6 +536,12 @@ Yolanda:
 Yolanda:
 <$0D>
 //\nいいわよ、危ない善人なんて、興味ないから。
+\n
+Fine by me! I\n
+wouldn't want those
+<$0C>
+unstable "nice guys"\n
+around me anyways.
 <$00>
 
 
@@ -483,10 +560,10 @@ April:
 //\nごめん、さがした？\nアガタに読んでもらったんだ。
 \n
 I'm sorry, were you\n
-looking for me? I got
+looking for me? I
 <$0C>
-a reading from\n
-Agatha.
+went to Agatha for a\n
+reading over a dream.
 <$00>
 
 
@@ -505,10 +582,10 @@ April:
 //\n夢の中に… あれが夢だとしたらね、\nそこで見つけたの。 鏡の破片よ。
 \n
 In my dream, if you\n
-could call it that...
+could call it that, I
 <$0C>
-I found a mirror\n
-fragment.
+found a shard from a\n
+broken mirror.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -518,17 +595,17 @@ April:
 An orange light\n
 reflected on its
 <$0C>
-surface, appearing\n
-and disappearing just\n
-as quickly.
+surface. It appeared,\n
+and then disappeared\n
+just as quickly.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n不思議でしょ。\n気になってアガタに見てもらったの…
 \n
-It was strange, so I\n
-got curious and asked
+It was strange. I got\n
+so curious, I asked
 <$0C>
 Agatha to look at it.
 <$00>
@@ -548,10 +625,11 @@ April:
 <$0D>
 //\n鏡は私の物じゃなかったみたい。\n変ね、夢の中で見つけたのに…
 \n
-The mirror fragment\n
-wasn't mine. I'd only
+The mirror shard\n
+wasn't something of
 <$0C>
-found it in a dream.
+mine. I'd only found\n
+it in a dream.
 <$00>
 
 
@@ -569,10 +647,11 @@ April:
 <$0D>
 //\nアガタが言ってたの、\nリトルを見つけなきゃって。
 \n
-But Agatha told me to\n
-find Liter, the guy
+After that, Agatha\n
+told me to find
 <$0C>
-from the oxygen\n
+Little, the guy from\n
+the oxygen\n
 dispensary.
 <$0C><$0B>
 //エイプリル：
@@ -646,10 +725,11 @@ Madam Agatha:
 //\n髮の毛が抜け落ちて… 女の人が消えたわ。\nどうしたのかしら、\n鏡に小さな女の子が映ってる、
 \n
 Her hair all falls\n
-out, and she
+out, onto the floor,
 <$0C>
-vanishes. But now, in\n
-the reflection...
+and she vanishes. But\n
+now, in the mirror's\n
+reflection...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -667,7 +747,7 @@ Madam Agatha:
 <$0D>
 //\nああ、にじんで何も見えなくなったわ。
 \n
-...Drats. I wish I\n
+...Oh, dear. I wish I\n
 could see more, but
 <$0C>
 the vision is fading.
@@ -684,11 +764,12 @@ the vision is fading.
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON 4,\n
-COMRADE "
+WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
+"
 <$0F>
 //！
-"!
+"
 <$00>
 
 
@@ -715,10 +796,10 @@ COMRADE "
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
 NOT REGISTERED FOR\n
-ENTRY. FOR DETAILS,\n
-SPEAK TO AN
+ENTRY. FOR DETAILS\n
+AND ASSISTANCE, SPEAK
 <$0C>
-ADMINISTRATOR.
+TO AN ADMINISTRATOR.
 <$00>
 
 
@@ -762,9 +843,11 @@ FOR ENTRY.
 Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
-The Hell? What am I\n
-supposed to register\n
-for?!
+\n
+Piece of junk. How am\n
+I supposed to
+<$0C>
+register?
 <$00>
 
 
@@ -782,10 +865,10 @@ Yolanda:
 <$0D>
 //\n何よこれ？\n失礼しちゃうわね！
 \n
-What do you mean?\n
-Hello?\n
-Can I talk to your\n
-manager?
+The fuck does that\n
+mean?\n
+Hello? A little help\n
+here?!
 <$00>
 
 
@@ -803,10 +886,8 @@ Spacer:
 <$0D>
 //\nやはりな…\n私ではだめなのだ。
 \n
-Hmm, this thing\n
-doesn't want to let
-<$0C>
-me in. Fun, fun, fun.
+Hmm... Looks like I'm\n
+not getting in.
 <$00>
 
 

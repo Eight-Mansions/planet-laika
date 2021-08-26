@@ -18,7 +18,7 @@ Noon:
 //\nおお、ライカ、平気だったか？
 \n
 There you are, Laika!\n
-Hanging in there?
+'Anging in there?
 <$00>
 
 
@@ -36,7 +36,7 @@ Noon:
 <$0D>
 //\nあああ、砂だ、砂嵐で…\nああ、砂嵐で、頭の中がぐるんぐるんなんだ。
 \n
-Argh, I'll tell you\n
+Aye, I'll tell you\n
 what. This sandstorm
 <$0C>
 is making my head\n
@@ -47,10 +47,10 @@ Noon:
 <$0D>
 //\n避難小屋はすぐそこだ。\n船長たちが待ってるに建いない。 急ごう。
 \n
-The safe room's over\n
-here. Let's not keep
+The safe 'ouse is\n
+this way. Let's not
 <$0C>
-the other two\n
+keep the other two\n
 waiting.
 <$00>
 
@@ -64,7 +64,7 @@ waiting.
 #WHB(PTR, $00000809)
 
 //災やな思い出がよみがえったり…
-Bitter memories will\n
+災Bitter memories will\n
 resurface...
 <$0C>
 //思い出だけじゃなくてね、ウソもホントも\n何もかも。 惑わされるかもね。

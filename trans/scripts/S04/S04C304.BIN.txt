@@ -77,23 +77,46 @@ that weird?!
 Rummy:
 <$0D>
 //\nびっくりしたな、綠の光だな、\n頭に入ってきたな、僕はラミーだな。
+\n
+The green flashing in\n
+my head caught me by
+<$0C>
+surprise... Ah,\n
+right. I'm Rummy!
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nあんた、ここで何してるな。
+\n
+What are you doing\n
+here?
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n僕はこの世界のからくりを考えてるな。\nふたつのことが、どこかでつながってるな。
+\n
+I'm trying to figure\n
+out how the world
+<$0C>
+works, but maybe\n
+those two are\n
+connected...
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nふたつのどちらを知りたいですか？
+\n
+Which of the two\n
+would you like to
+<$0C>
+know about?
 <$1B>
 //．コスマスのこと\nエレミヤのこと
+．Cosmas\n
+Jeremiah
 <$00><$17><$00>
 
 
@@ -110,18 +133,34 @@ Rummy:
 Rummy:
 <$0D>
 //\nそうだな、コスマスだな。
+\n
+Hoho, yes. Dear,\n
+little Cosmas.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nあいつは心のトモダチとお話ししてるな、\n今もだな、お話の最中だな。
+\n
+He's always talking\n
+with the friend in
+<$0C>
+his head. He doesn't\n
+hide it either.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n窓のわきにいると開こえてくるな、\n声だな、お話の声だな。
+\n
+If you ever peek\n
+through the back
+<$0C>
+alley window, no one\n
+hides anything there.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -138,23 +177,48 @@ Rummy:
 Rummy:
 <$0D>
 //\nとうに死んだ流刑者だな、\n預言を残したな。
+\n
+He was an exile who\n
+died a long time ago,
+<$0C>
+a-ha! But, he left\n
+behind the\n
+prophecies.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nマコトの双子が現れて、\n人類が再生するんだな。
+\n
+The prophecies say\n
+that the Twins of
+<$0C>
+Truth will appear,\n
+and that humanity\n
+will be reborn.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n再生って、どうするんだかな、\nわからないな。
+\n
+I don't know what\n
+"reborn" means in
+<$0C>
+this case.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nふたつのこと、つながってるな、\n僕の読みだな。
+\n
+Still, I can't shake\n
+the idea that those
+<$0C>
+two are connected.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -171,8 +235,15 @@ Rummy:
 Rummy:
 <$0D>
 //\n考えすぎだな、\n頭がぼんやりしてきたな。
+\n
+You know, nothing\n
+clouds the head
+<$0C>
+better than\n
+overthinking, a-ha!
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -189,13 +260,27 @@ Rummy:
 Tommy:
 <$0D>
 //\nよう、兄ちゃんよう、\nリトルのやつのこと、知ってるか？\nあいつ、神様こさえてるんだ、ひゃ！神様だ。
+\n
+Hey, do you know that\n
+dispensary employee
+<$0C>
+named Little? He\n
+thinks he can talk to\n
+God!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nこさえた神様にお祈りしてるんだ、\nあるか、そんなもん！
+\n
+Not everyone wants to\n
+go meeting their
+<$0C>
+maker, but Little\n
+sure does!
 <$1E>
 //声
+声
 <$00>
 
 
@@ -212,13 +297,26 @@ Tommy:
 Tommy:
 <$0D>
 //\nリトルのやつな、声がひっくり返って、\n神様神様だ、へん！\nこさえた神様がなんになる？
+\n
+Hehe, that Little guy\n
+trying to accomplish
+<$0C>
+with crying, "God!\n
+God! GOD!"
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nやっぱりあいつにも、別な誰かがいるんだ。\nきっとな。\n心の中に用意してるんだ。建いないぜ。
+\n
+It just doesn't sound\n
+like him. No way.
+<$0C>
+It's like someone\n
+else is in his brain.
 <$1E>
 //家
+家
 <$00>
 
 

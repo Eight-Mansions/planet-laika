@@ -43,18 +43,19 @@ Thomas:
 //\n思うところは、もう伝えた。
 \n
 I've already told you\n
-what I think.
+what I think, haven't
+<$0C>
+I?
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n君にも… いや君じゃないかも知れないが、\n伝わったはずだ。
 \n
-Whether you\n
-understood it or not,
+No, perhaps "you"\n
+wouldn't know for
 <$0C>
-I hope you were\n
-listening.
+sure now, but I have.
 <$1E>
 //理
 理
@@ -89,8 +90,7 @@ Sparky:
 ...he was surrounded\n
 by a strange light.
 <$0C>
-What's going on with\n
-him?
+What happened to him?
 <$1E>
 //行
 行
@@ -132,8 +132,16 @@ to wake up for real.
 Thomas:
 <$0D>
 //\n生まれ変わり？\n不老不死とは建うんだ、新しくなるんだ…
+\n
+Reincarnation? That's\n
+not the same thing as
+<$0C>
+being immortal. It's\n
+about living a new\n
+life.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -150,20 +158,42 @@ Thomas:
 Thomas:
 <$0D>
 //\nまだ信じがたいことがあるとな、そうだな。
+\n
+I dare say, not all\n
+things are seen to be
+<$0C>
+believed.
 <$1E>
 //鋭
+鋭
 <$00><$12><$0B>
 //トーマス：
+Thomas:
 <$0D>
 //\n私の前世は誰だったのだ？\n考え込むね、私なりにね。
+\n
+Who was I in my past\n
+life? Who knows? All
+<$0C>
+I can do is\n
+hypothesize.
 <$1E>
 //理
+理
 <$00><$12><$0B>
 //スパーキー：
+Sparky:
 <$0D>
 //\nああ、アタシも目覚めるのかしら、\nもう少しね。
+\n
+Gee, I wonder if I'll\n
+ever wake up from
+<$0C>
+this either, even for\n
+a moment.
 <$1E>
 //中
+中
 <$00>
 
 

@@ -13,34 +13,35 @@
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n
+\n
 <$0F>
 //君、君は宿命の子なのかね、\nそれでここにいる？
-, you are a child of\n
-Destiny, aren't you?\n
-Is that why you're
+, you are a Destined\n
+Child, aren't you?\n
+Isn't that why you're
 <$0C>
 here?
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nそれともこれは君にとっては\n自分さがしの旅なのかね？
 \n
-On top of that,\n
-you're on a journey
+What's more, you're\n
+on a journey to find
 <$0C>
-to find yourself.
+yourself.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n私としても最善を尽くしているのでね、\n分かって欲しいんだ。
 \n
-We're all in this\n
-together. I want you
+I'm doing my best to\n
+help you. I want you
 <$0C>
 to know that.
 <$00>
@@ -68,7 +69,7 @@ to know that.
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n
 \n
@@ -79,7 +80,7 @@ father at a very\n
 young age.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n君のお母さんはウラジミールという\nエ員上がりの男と再婚した。
 \n
@@ -89,7 +90,7 @@ a former factory
 worker, Vladimir.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nウラジミールも奥さんに先立たれ、\n一人息子のセルゲイを養っていた。
 \n
@@ -100,12 +101,12 @@ for his only son,\n
 Sergei.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nこれで役者はそろったわけだ。
 \n
-And with that, our\n
-stage is set..
+And so, the stage is\n
+set...
 <$00>
 
 
@@ -146,9 +147,9 @@ Sergei:
 //\nへへへへ、いいこと教えてやろうか？\n父さんはお前がキライなんだよ。
 \n
 Hehehe! Hey, guess\n
-what? MY batya HATES
-<$0C>
-your guts!
+what?\n
+Batya hates your\n
+guts!
 <$00>
 
 
@@ -166,10 +167,10 @@ Sergei:
 <$0D>
 //\nお前達がこの家に来たときからな、\nキライなんだ、ひゃひゃひゃ
 \n
-Yup! Ever since you\n
-and that BITCH moved
-<$0C>
-in! Hahaha!
+Yup! From the moment\n
+you and\n
+that ugly bitch moved\n
+in!
 <$00>
 
 
@@ -183,7 +184,7 @@ in! Hahaha!
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n新しいくらし、それは苦しみの連続だ。\nだが希望は失われてはいなかった。
 \n
@@ -194,7 +195,7 @@ new life, your family\n
 had a light of hope.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nそうだよ、君には妹ができることになった。
 \n
@@ -204,7 +205,7 @@ a baby sister on the
 way.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nこれでうまくいく、みんなうまくいく、\n君のお母さんはそう思ったんだ。
 \n
@@ -231,10 +232,10 @@ Yolanda:
 //\nウラジミールは先生にこっそり話を付けて\nタニアのお腹の子供を殺しちゃったの。
 \n
 Vladimir secretly\n
-spoke with the
+spoke with the doctor
 <$0C>
-doctorbefore\n
-murdering Tanya's\n
+before secretly\n
+terminating Tanya's\n
 unborn child.
 <$0C><$0B>
 //ヨランダ：
@@ -294,18 +295,19 @@ Spacer:
 <$0D>
 //\nだめだ！ ミーシャは君が作り出した人格だ。\n勝手にかかわったりしちゃだめだ。
 \n
-Stop it! Misha is a\n
-personality YOU
+Stop it! Masha's\n
+personality only
 <$0C>
-created! Stop kidding\n
-yourself.
+exists because YOU\n
+created it! Stop\n
+kidding yourself!
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nアーネスト、ミーシャはいないんだ、\nあきらめろ。
 \n
-Ernest, Misha isn't\n
+Ernest. Masha isn't\n
 with us. Just give it
 <$0C>
 up.
@@ -322,35 +324,38 @@ up.
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n
+\n
 <$0F>
 //君、
 ...
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nこの天地にはかの哲学の考えも\nおよばないことがあるのだ。
 \n
-As no one philosophy\n
-can fulfill every
+As no single\n
+philosophy can
 <$0C>
-aspect of life,
+fulfill every aspect\n
+of life,
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n３人にはもうひと働きしてもらうといい。
 \n
-you three must work\n
-as one to carry said
+you and the three\n
+must work as one to
 <$0C>
-one through.
+carry said one\n
+through.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nだが、忘れちゃいかん、
 \n
@@ -360,7 +365,7 @@ all you see, and all
 you hear...
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n君が見るもの、開いたこと、それこそが\n真実の芽になるのだよ、
 \n
@@ -384,7 +389,7 @@ absolute truth,
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n君はずっといい子を演じてきた、建うかな？\n亡きお父さんの期待に応えようと頑張った。
 \n
@@ -396,7 +401,7 @@ fill the shoes of\n
 your late father.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nしかし残念なことに、\n君は本当の自分を見失ってしまったのだよ。
 \n
@@ -407,7 +412,7 @@ you lose sight of\n
 your true self.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n痛みや悲しみすら惑じなくなったのだ。
 \n
@@ -417,25 +422,25 @@ no longer things you
 even sensed.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nぽっかり空いた君の心を、\n子羊たちがさまよいはじめた。
 \n
 That void in your\n
 mind became a
 <$0C>
-playground where\n
-children wander.
+playground for other\n
+children to roam.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nなんとも罪作りな子羊たちだ。
 \n
-A field for sinful\n
-little lambs to
+A field for other\n
+sinful little lambs
 <$0C>
-flock.
+to flock.
 <$00>
 
 
@@ -449,7 +454,7 @@ flock.
 
 <$10><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\n君は生まれ変わりを信じるかね。\nそれとも分身はどうかな…
 \n
@@ -459,7 +464,7 @@ rebirth? What about
 alter egoes?
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nいやはや、やっかいな問顆だらけだ。
 \n
@@ -470,7 +475,7 @@ truly bizarre\n
 concepts.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nだがな、本当に世界が求めているのは\nそんなまやかしではないぞ。
 \n
@@ -481,15 +486,15 @@ questions to deceive\n
 you.
 <$0C><$0B>
 //オクトーバー司令官：
-Comd. October：
+Commander October:
 <$0D>
 //\nただひとつ、マコトの双子なのだよ。
 \n
 No, the world itself\n
 only yearns for an
 <$0C>
-answer from the twins\n
-of truth.
+answer from the Twins\n
+of Truth.
 <$00>
 
 

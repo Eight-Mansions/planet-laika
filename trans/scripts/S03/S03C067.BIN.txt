@@ -13,45 +13,114 @@
 
 <$12><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nここだな？そうだ、見たぞ、夢の中で。\nここを俺が入って行くんだ。嫌な気分だ。
+\n
+Oi, is it here? Yeah,\n
+must be. I saw it in
+<$0C>
+my dream. I don't\n
+like it, but I'm\n
+goin'.
 <$00><$12><$13><$19><$0B>
 //リバー：
+Liever:
 <$0D>
 //\nねぇ、ここから先は行けないよ。\n信仰がないとダメなんだ。
+\n
+You can't proceed\n
+past this point
+<$0C>
+without faith.
 <$00><$12><$13><$19><$0B>
 //リバー：
+Liever:
 <$0D>
 //\nやっぱりダメだよ、ここから先は\n信仰のないあんたじゃ無理さ。
+\n
+Listen, it's as I\n
+said before. You
+<$0C>
+can't proceed without\n
+faith.
 <$00><$12><$13><$13><$0B>
 //アーネスト：
+Ernest:
 <$0D>
 //\n俺じゃダメだと？ くそっ、なにが神様だ。
+\n
+Am I not good enough\n
+to enter your god's
+<$0C>
+sewer? Your god\n
+sounds like a dick.
 <$00><$12><$13><$19><$0B>
 //リバー：
+Liever:
 <$0D>
 //\nやっぱりダメだよ、ここから先は\n信仰のないあんたじゃ無理さ。
+\n
+Listen, it's as I\n
+said before. You
+<$0C>
+can't proceed without\n
+faith.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nアタシじゃいけないの？\n神様だなんて、ほんとにいるの？
+\n
+God giving me the\n
+proverbial boot's no
+<$0C>
+surprise, but he's\n
+not really here, is\n
+he?
 <$00><$12><$13><$19><$0B>
 //リバー：
+Liever:
 <$0D>
 //\nここだよ、ここを降りるんだ。\n流刑者が作った地下水道さ。\nそれを通っていくんだ。神様が待ってるよ！
+\n
+This canal was made\n
+by exiles. It's time
+<$0C>
+you descended. God is\n
+waiting for you!
 <$00><$12><$13><$18><$0B>
 //スペーサー：
+Spacer:
 <$0D>
 //\n地下水道か。水があるというのか…
+\n
+An underground canal,\n
+huh. So there's bound
+<$0C>
+to be water down\n
+there.
 <$00><$12><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nねぇ、ここ、階段がある。降りてみない？
+\n
+Hey, there are stairs\n
+here. Why don't we
+<$0C>
+take them?
 <$00><$12><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nライカ、階段よ。\nリトルはこの先にいるんじゃない？
+\n
+Let's take the\n
+stairs, Laika.
+<$0C>
+Little's this way,\n
+isn't he?
 <$00>
 
 

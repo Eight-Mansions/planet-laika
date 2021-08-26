@@ -13,21 +13,21 @@
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nおおおおお！ ライカ君！
 \n
-HEYYY! LAIKAAA!
+OH MY GOD! LAIKA!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nよかった、ちょうどよかった！\n助けてくれ！
 \n
-God, am I glad to see\n
-you! Help me out
+Laika, am I glad to\n
+see you! You've gotta
 <$0C>
-here!
+help me!
 <$00>
 
 
@@ -60,24 +60,22 @@ Laika? I'm Ernest!
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nああ、ライカ君だか、アーネストだか、\n誰でもいい、とにかく急いでくれ。
 \n
-Ernest or Laika,\n
-either works right
+Ernest, Laika, I\n
+don't care! There's
 <$0C>
-now. There's no time!
+no time!
 <$0C><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nクロエちゃんが…\nあああ、クロエちゃんが…
 \n
-It's Chloe!\n
-She's...oh my God,
-<$0C>
-Chloe...
+It's Chloe! She's...\n
+Oh my God, Chloe!
 <$00>
 
 
@@ -109,12 +107,12 @@ She okay?
 
 <$10><$0B>
 //タトラー船長：
-Cap. Tatler:
+Captain Tatler:
 <$0D>
 //\nううううう…\n燃えてしまうぅぅぅぅぅ~
 \n
 Nooooo, she's\n
-burniiiiiing!
+buuurniiing!
 <$00>
 
 
@@ -170,24 +168,26 @@ by yourself!
 
 <$12><$0B>
 //酸索坑夫５号：
-Oxygen Miner 5:
+Oxygen Miner 5：
 <$0D>
 //\n燃える燃える、みんな燃える。
 \n
-Burns! Burns!\n
-Everyone burns!
+We will burn! We will\n
+burn! Everyone will
+<$0C>
+burn!
 <$0C><$0B>
 //酸索坑夫５号：
-Oxygen Miner 5:
+Oxygen Miner 5：
 <$0D>
 //\n夢も希望も妄想も、心から現れたもの、\n全てが燃える、シー。
 \n
-Dreams! Hopes!\n
-Delusions! All rise
+Dreams, hopes,\n
+delusions! All will
 <$0C>
-from the depths of\n
-the heart to burn,\n
-whoosh!
+rish, whoosh! From\n
+the heart, whoosh!\n
+All will burn!
 <$1E>
 //理
 理
@@ -208,8 +208,8 @@ Oxygen Miner 2：
 <$0D>
 //\n家が燃える、町が燃える、氷も燃える、\nシーシーシー！
 \n
-Houses burn...towns\n
-burn...ice...melts,
+Houses burn... Towns\n
+burn... Ice...melts,
 <$0C>
 whoosh-whoosh.
 <$1E>

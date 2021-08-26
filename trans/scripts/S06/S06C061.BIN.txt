@@ -18,10 +18,10 @@ Yolanda:
 //\nここね… 町長屋敷って…\n何だかイヤな惑じね…
 \n
 This is it, the\n
-Elder's residence.
+elder's cottage.
 <$0C>
 Another fishy one for\n
-the books, huh.
+the books.
 <$00>
 
 
@@ -39,7 +39,7 @@ Yolanda:
 <$0D>
 //\nねえ… エイプリル…
 \n
-Hey...April...
+Hey, April...
 <$00>
 
 
@@ -56,6 +56,11 @@ Hey...April...
 Yolanda:
 <$0D>
 //\nイヤだ… エイプリル… あなた、まさか…\nちょっと、どういうこと？
+\n
+Sorry... April, I'm\n
+not so sure about...
+<$0C>
+Sorry, where was I?
 <$00>
 
 
@@ -90,6 +95,9 @@ Hey, Yolanda.
 Yolanda:
 <$0D>
 //\n…ねえ、あなた、なんともないの？
+\n
+...Hey, you get\n
+through all right?
 <$00>
 
 
@@ -106,6 +114,11 @@ Yolanda:
 April:
 <$0D>
 //\n平気よ。 私はまっすぐここに来たの。\n別に… なんともないよ…
+\n
+I was fine. I walked\n
+straight here
+<$0C>
+with...no problems...
 <$00>
 
 
@@ -122,6 +135,11 @@ April:
 Yolanda:
 <$0D>
 //\nそう… ならよかった。\nここが町長さんのお屋敷ね。
+\n
+This it? I take it\n
+this is the elder's
+<$0C>
+cottage.
 <$00>
 
 
@@ -138,6 +156,11 @@ Yolanda:
 April:
 <$0D>
 //\nここには誰もいない… 他に部屋はない…
+\n
+There's no one here,\n
+and there's no other
+<$0C>
+rooms.
 <$00>
 
 
@@ -154,6 +177,13 @@ April:
 Yolanda:
 <$0D>
 //\nねえ、ほんとに大丈夫？\nシーシーなんて言わないでね
+\n
+Hey, are you sure\n
+you're all right?
+<$0C>
+You're not\n
+whoosh-whooshed out,\n
+are you?
 <$00>
 
 
@@ -170,6 +200,8 @@ Yolanda:
 April:
 <$0D>
 //\n大丈夫よ…
+\n
+It's all right.
 <$00>
 
 
@@ -186,6 +218,9 @@ April:
 Yolanda:
 <$0D>
 //\nならいいけど…\nちょっとさがしてみましょう。
+\n
+If you say so. Let's\n
+take a look around.
 <$00>
 
 
@@ -222,7 +257,7 @@ Yolanda:
 //\nここが町長さんのお屋敷ね。
 \n
 I take it this is the\n
-Elder's residence.
+elder's cottage.
 <$00>
 
 
@@ -240,10 +275,10 @@ April:
 <$0D>
 //\nでも、誰もいないよ。\n他に部屋はないみたいだし…
 \n
-Yeah, but no one's\n
-here. I don't see any
+There's no one here,\n
+and there's no other
 <$0C>
-other rooms either.
+rooms.
 <$00>
 
 
@@ -279,6 +314,9 @@ around.
 April:
 <$0D>
 //\n町長屋敷をさがしてみない？
+\n
+Should we search the\n
+mansion?
 <$00>
 
 
@@ -344,9 +382,10 @@ April:
 <$0D>
 //\nふざけてヌーンがどこかに隠れてる。\n早く出てきなさい！
 \n
-You know, something\n
-loud and motherly,
+You know, he might\n
+respond to something
 <$0C>
+loud and motherly,\n
 like...
 <$0C><$0B>
 //エイプリル：
@@ -354,8 +393,8 @@ April:
 <$0D>
 //\nそんなふうに大声で呼んで…
 \n
-"Noon, come out this\n
-instant!"
+Noon, come out here\n
+this instant!
 <$00>
 
 
@@ -373,18 +412,18 @@ Yolanda:
 <$0D>
 //\nあなたがグズだから、せっかくのスープが\nさめちゃうじゃない、何してんのよ！
 \n
-"I spent all day on\n
+I spent all day on\n
 this soup, and you'll
 <$0C>
 either eat it warm or\n
-NOT AT ALL!"
+NOT AT ALL!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n…こんな惑じ？
 \n
-...Like that?
+...Like that.
 <$00>
 
 
@@ -411,7 +450,7 @@ April:
 //\nヌーンはちょっとマザコンで、\nすぐにホームシックにかかっちゃう人なの。
 \n
 Noon's a bit of a\n
-mama's boy, so I'm
+mommy's boy, so I'm
 <$0C>
 betting he's homesick\n
 by now.
@@ -450,10 +489,11 @@ Yolanda:
 <$0D>
 //\nヌーン！ 隠れてないで…\nいるのはわかってるのよ！ ヌーン！
 \n
-Noon! Don't bother\n
-hiding. I know where
+Noon! You can run,\n
+and you can hide, but
 <$0C>
-you are! Noooon!
+I know where you are!\n
+Noooon!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -494,9 +534,10 @@ Yolanda:
 //\nいつまでも隠れてると\nママお腹すかして死んじゃうかも。
 \n
 If you let me starve\n
-for long, Mommy could
+for long, Mommy's
 <$0C>
-die down here!
+gonna die alone down\n
+here!
 <$00>
 
 
@@ -531,7 +572,7 @@ Please... Mummy...!
 <$0D>
 //\nママ！ ママ！ もういやだ！
 \n
-Mummy! Mummy, no\n
+No more, Mummy, no\n
 more!
 <$0E><$3C><$17><$00>
 
@@ -551,7 +592,7 @@ April:
 //\nヌーン！\n私よ、エイプリルよ、分かる？
 \n
 Noon, it's me! April!\n
-Don't you see?!
+Are you listening?
 <$00>
 
 
@@ -570,10 +611,10 @@ April:
 //\nママを呼び出したって…\nヌーンの他に誰もいないじゃない。
 \n
 They said Noon was\n
-calling for his
+calling for his mom,
 <$0C>
-mother, but he's the\n
-only one here.
+but Noon's the only\n
+one here.
 <$00>
 
 
@@ -591,8 +632,8 @@ Noon:
 <$0D>
 //\n僕のせいなんだよね、ママ…
 \n
-It's all my fault,\n
-isn't it, Mummy...
+I was bad again,\n
+wasn't I, Mummy...
 <$00>
 
 
@@ -631,7 +672,7 @@ April:
 <$0D>
 //\n誰なの？\nいやよ、離して、手を離して、お願い！
 \n
-Who are you...? No!\n
+Who are you? ...No!\n
 Get off! Please! Get
 <$0C>
 your hands of me!
@@ -660,10 +701,11 @@ Noon:
 <$0D>
 //\nそうだ、病気だ、パパは病気、ママも病気、\nみんな病気、みんな死ぬんだ！
 \n
-Papa's sick, Mama's\n
+Papa's sick, Mummy's\n
 sick, we're all sick!
 <$0C>
-We're all gonna die!
+We're all going to\n
+die!
 <$0C><$0B>
 //ヌーン：
 Noon:

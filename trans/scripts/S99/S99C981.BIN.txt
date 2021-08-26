@@ -13,17 +13,17 @@
 
 <$00><$13><$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ…人格の死だ、
 \n
-Hyohyo...another\n
-death of a
+Hyohyo... This is\n
+another death of a
 <$0C>
 personality.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\n人格を失えば
 \n
@@ -35,7 +35,7 @@ personality wanes,
 on.
 <$0C><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、残念なことだ、つらいことだ。
 \n
@@ -55,20 +55,37 @@ hyohyo.
 #WHB(PTR, $00000705)
 
 <$00><$13><$16><$0B>
-スピリットマン：
+//スピリットマン：
+Spirit Man:
 <$0D>
-\nひょひょ…これはこれは、\nお前はあの３人とは建うぞ。
-<$0C><$0B>
-スピリットマン：
-<$0D>
+//\nひょひょ…これはこれは、\nお前はあの３人とは建うぞ。
 \n
-<$0F>
-とはお前のことだったのか、\nいやそうではなかったのか。
+Hyohyo... I see\n
+you're different from
+<$0C>
+the other three.
 <$0C><$0B>
-スピリットマン：
+//スピリットマン：
+Spirit Man:
 <$0D>
-\nいずれにせよ、終わりだ、つらいことだ。
+//\n
+\n
+But, you're not the\n
+same as
+<$0F>
+//とはお前のことだったのか、\nいやそうではなかったのか。
+, are you? No, not at\n
+all.
+<$0C><$0B>
+//スピリットマン：
+Spirit Man:
+<$0D>
+//\nいずれにせよ、終わりだ、つらいことだ。
+\n
+At any rate, your\n
+suffering ends now.
 <$00>
+
 
 
 

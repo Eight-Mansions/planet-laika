@@ -12,10 +12,19 @@
 #WHB(PTR, $000002FD)
 
 <$10><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\n人の家で何やってるんだ？\n誰だお前は？ 見たことない野郎だ。
+//\n人の家で何やってるんだ？\n誰だお前は？ 見たことない野郎だ。
+\n
+What are you doing,\n
+creeping around the
+<$0C>
+neighborhood? I\n
+haven't seen your\n
+ugly mug before.
 <$00>
+
 
 
 
@@ -26,14 +35,25 @@
 #WHB(PTR, $00000345)
 
 <$10><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\n落ちてなかったか？\n俺のアレだ、ウデだ。
+//\n落ちてなかったか？\n俺のアレだ、ウデだ。
+\n
+Did I...fail? Am I\n
+unclean?
 <$0C><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\nお前いつまでぼーっと突っ立ってるんだ、\nこの野郎！
+//\nお前いつまでぼーっと突っ立ってるんだ、\nこの野郎！
+\n
+H-how long have you\n
+been standing there,
+<$0C>
+BASTARD?!
 <$00>
+
 
 
 
@@ -44,14 +64,28 @@
 #WHB(PTR, $0000038D)
 
 <$10><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\n俺のウデは泡だ、真っ白な泡だよ、
+//\n俺のウデは泡だ、真っ白な泡だよ、
+\n
+I'm good with\n
+bubbles. Pure, white,
+<$0C>
+foamy bubbles...
 <$0C><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\n見たことあるだろ。忘れて出たんだ、\n泡を残しちゃいけないんだ。 あわてて…
+//\n見たことあるだろ。忘れて出たんだ、\n泡を残しちゃいけないんだ。 あわてて…
+\n
+First they're there,\n
+and poof! They're
+<$0C>
+gone. Don't leave me,\n
+Bubbles. Don't...
 <$00>
+
 
 
 
@@ -62,32 +96,65 @@
 #WHB(PTR, $000003D5)
 
 <$10><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\nどこへやった、お前！
+//\nどこへやった、お前！
+\n
+Where did you run off\n
+to?!
 <$0C><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\nぐずぐずしてると泡のおじさんに\n捕まってしまう。
+//\nぐずぐずしてると泡のおじさんに\n捕まってしまう。
+\n
+If you hang around\n
+too long, you'll be
+<$0C>
+caught by Uncle\n
+Bubbles.
 <$0C><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\nひとりで家にいるときは危ねぇんだ。\nおじさんは俺のことをずっと見てるんだ、
+//\nひとりで家にいるときは危ねぇんだ。\nおじさんは俺のことをずっと見てるんだ、
+\n
+I didn't feel safe\n
+home alone. Uncle was
+<$0C>
+watching me the\n
+entire time.
 <$0C><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\nその時のおじさんのくちびるは 濡れてる…
+//\nその時のおじさんのくちびるは 濡れてる…
+\n
+His lips were so\n
+slick...
 <$0C><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\nあああ、お前もか！\n見るな、俺を見るんじゃない！
+//\nあああ、お前もか！\n見るな、俺を見るんじゃない！
+\n
+Grr, what do you\n
+want?! Don't...don't
+<$0C>
+look at me!
 <$0C><$0B>
-レッド：
+//レッド：
+Red:
 <$0D>
-\n見るな見るな！
+//\n見るな見るな！
+\n
+I SAID DON'T LOOK!
 <$1E>
+//中
 中
 <$00>
+
 
 
 

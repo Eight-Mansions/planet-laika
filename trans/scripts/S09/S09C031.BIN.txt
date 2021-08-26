@@ -13,12 +13,12 @@
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nほら、トールボーイだよ。
 \n
-Behold! This is\n
-Tallboy!
+Behold! This is Tall\n
+Boy!
 <$00>
 
 
@@ -32,14 +32,14 @@ Tallboy!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nこれが神様。\nこれから目を入れるんだ。見ててよ！
 \n
 This is God! Look\n
 into the eyes of God!
 <$0C>
-Look at them!
+Look at them all!
 <$00>
 
 
@@ -57,7 +57,7 @@ Spacer:
 <$0D>
 //\nや、やめるんだ！\nリバー、私は強い建和惑を惑じる！
 \n
-R-River, stop! I've\n
+L-Liever, stop! I've\n
 got a real bad
 <$0C>
 feeling about this!
@@ -74,14 +74,15 @@ feeling about this!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n神様、神様、今すぐです、\nこれは左目、左目。
 \n
-God! God is almost\n
-here! Check the left
+God! God is nearly\n
+upon us! Check the
 <$0C>
-eye! The left eye!
+left eye! The left\n
+eye!
 <$00>
 
 
@@ -99,7 +100,7 @@ Spacer:
 <$0D>
 //\nよせ、そいつは神様なんかじゃない！\n邪悪な力がみなぎっている！
 \n
-Uh-uh, this is NOT\n
+Uh-oh, this is NOT\n
 God! This thing is
 <$0C>
 amped up on wicked\n
@@ -117,12 +118,14 @@ energy!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n神様、神様、次は右目、右目です。
-God! God wants the\n
-right eye now! The\n
-right eye!
+\n
+God wants the right\n
+eye now! The right
+<$0C>
+eye!
 <$00>
 
 
@@ -136,7 +139,7 @@ right eye!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nさあ、あんたの出番だよ。あんたが持ってる\nその赤い石を右目にはめるんだ
 \n
@@ -163,10 +166,10 @@ Spacer:
 //\nこいつは悪の化身だ、\nイーブルマインドのかたまりだ！
 \n
 This thing IS evil\n
-incarnate! It IS a
+incarnate! It's a
 <$0C>
-miserable pile of\n
-Evil Mind!
+giant mass of Evil\n
+Mind!
 <$00>
 
 
@@ -184,14 +187,15 @@ Evil Mind!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあんたが持ってる赤い石だよ、\nそれを右目にはめるんだ。
 \n
 You have the red\n
-stone! Put it into
+stone, don't you? Put
 <$0C>
-the right eye NOW!
+it into the right eye\n
+NOW!
 <$00>
 
 
@@ -205,14 +209,14 @@ the right eye NOW!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nうわぁぁぁ、神様！\n神様神様神様、ですよね？
 \n
 YES! God! God! God!\n
 GOD, IT'S YOU, ISN'T
 <$0C>
-IT!
+IT?!
 <$00>
 
 
@@ -226,18 +230,18 @@ IT!
 
 <$12><$12>
 //こようやく目覚めの時がきたようだ。\nリバーよ、よく開くがいい。
-At last, it seems I\n
-am ready to awaken.\n
-River, listen to Me
+At last, it seems We\n
+are ready to awaken.\n
+Liever, listen to Us
 <$0C>
 carefully.
 <$0C>
 //お前は影の存在だ。
-You are a shadowed\n
-existence.
+You are a lowly\n
+shadowed.
 <$0C>
 //お前を生み出したのは、リトルの小さな良心だ。\n塩のかけらほどのみすぼらしい良心だ。
-It was the Liter tiny\n
+It was Little's tiny\n
 conscience that\n
 created you. A
 <$0C>
@@ -263,15 +267,14 @@ its due rebirth.
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n神様…そんな…\n僕はずっと僕なんです…
 \n
 B-but God, that can't\n
 be! I...I've always
 <$0C>
-been me, right? I've\n
-been good to you!
+been me!
 <$00>
 
 
@@ -286,15 +289,17 @@ been good to you!
 <$12><$12>
 //こ多くの双子に手をかけたのは、お前だ。\nお前が生き埋めにしたのだ。
 YOU stole countless\n
-twins away! YOU\n
-buried them alive!
+twins away!\n
+YOU buried them
+<$0C>
+alive!
 <$0C>
 //お前はその罪にさいなまれ、消えることのない\n染みのような悪を心に宿している。
-YOU are guilty of a\n
-sin beyond\n
+YOU are guilty of\n
+sins beyond\n
 recompense! A
 <$0C>
-staining evil seeps\n
+staining evil bleeds\n
 from YOUR heart and\n
 soul!
 <$0C>
@@ -317,7 +322,7 @@ existence.
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n建う！建う！ イヤだ！
 \n
@@ -325,14 +330,14 @@ No! No, I've worked\n
 so hard, God!
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n…僕は…罪をつぐなうために…\n心をきれいにするために…
 \n
 To...to make up for\n
-my sins... To cleanse
+my sins... To purify
 <$0C>
-my mind...
+my mind...!
 <$00>
 
 
@@ -350,8 +355,8 @@ Do not waste your\n
 breath. You are a\n
 sinner by nature.
 <$0C>
-Come now, and become\n
-one with me.
+Come now, and we will\n
+become one.
 <$0C>
 //悪に染まったお前のタマシイを、\n私によこすのだ。
 Offer your tainted\n
@@ -369,7 +374,7 @@ spirit to me.
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nうううう、やめてくれ！\n僕はただつぐないたいだけなのに！
 \n
@@ -406,11 +411,11 @@ those of the twins\n
 you killed.
 <$0C>
 //さあ、見ろ、お前が殺したのだ、\n生き埋めにしたのだ！
-Yes, look at the ones\n
-you killed-at the\n
-ones you buried
+Yes, look at the\n
+children you killed!\n
+At the children you
 <$0C>
-alive!
+buried alive!
 <$00>
 
 
@@ -424,7 +429,7 @@ alive!
 
 <$12><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nやめてくれ！\nこれ以上僕に近づくな、眼を抜いてやる！
 \n
@@ -446,11 +451,11 @@ your eyes back out!
 <$12><$12>
 //こ私をてこずらせるな。\nしたがわないのなら、お前の薄汚い心を\n苦しみの炎で焼きつくしてやる！
 Do not challenge me.\n
-Obey me, or I shall\n
-burn that fleck you
+Obey, or I shall burn\n
+your fleck of a mind
 <$0C>
-call a mind in the\n
-flames of suffering!
+in the flames of\n
+suffering!
 <$00>
 
 
@@ -485,10 +490,9 @@ Spacer:
 //\nお前はイーブルマインドのカスだ、\nカスが積もってできた代物だ。
 \n
 Let me guess, you're\n
-a huge chunk of Evil
+a huge accumulation
 <$0C>
-Mind sediment that's\n
-accumulated here.
+Evil Mind sediment.
 <$00>
 
 
@@ -502,11 +506,11 @@ accumulated here.
 
 <$12><$12>
 //こいいことを教えてやろう。\nどんな犬にも出番があるものだ。\nさあ、その出番とやらを見せてもらおうか。
-I'll tell you one\n
-thing. Every dog has\n
-his moment. Here, let
+I will tell you once:\n
+every dog has his\n
+hour. Yes, allow me
 <$0C>
-me...give you a whiff\n
+to give you a whiff\n
 of one such moment.
 <$00>
 
@@ -527,11 +531,10 @@ puppy?
 //白ブタのママは腐った臭いをまき散らしながら、\nお前を産んだのだ。
 Don't you miss the\n
 filthy, rotten stench\n
-of that pig you
+of that swine you
 <$0C>
-called a mother when\n
-she gave birth to\n
-you?
+called a mother\n
+giving birth to you?
 <$00>
 
 
@@ -552,7 +555,7 @@ Spacer:
 I'm not falling for\n
 that, not for your
 <$0C>
-enjoyment.
+enjoyment!
 <$00>
 
 

@@ -43,11 +43,11 @@ you can fix!
 
 <$10><$13><$19>
 //ねぇ、ヘロデが呼んでたよ。
-Oh, lovely!\n
-...Actually, I heard\n
-Herod was calling for
+Oh, how exciting!\n
+Actually, I came\n
+because I heard Herod
 <$0C>
-you two.
+calling for you two.
 <$00>
 
 
@@ -89,9 +89,12 @@ We were just there!
 
 <$10><$13><$19>
 //アガタをさがして欲しいんだって。\nもう眠いんだって。
-He must be asleep by\n
-now, but he wanted\n
-you to fetch Agatha.
+Herod must want to\n
+sleep now, but you\n
+two need to fetch
+<$0C>
+Agatha for him before\n
+he can.
 <$00>
 
 
@@ -150,8 +153,8 @@ nightmares?
 
 <$10>
 //悪夢だ、悪夢だ、悪夢はごめんだ。
-We can't! We can't\n
-stop the nightmares!
+We can't, but Agatha\n
+will help!
 <$00>
 
 
@@ -170,10 +173,10 @@ April:
 //\nどうしよう…\nこれじゃ記憶の谷へ行けなくなる。
 \n
 If they won't let us\n
-go to Memory Valley,
+go to Valles
 <$0C>
-what are we supposed\n
-to do?!
+Memoriae, what are we\n
+supposed to do?!
 <$00>
 
 
@@ -191,12 +194,12 @@ April:
 <$0D>
 //\n黒い騎士…蕃判…まるで黙示録ね。\n黙示録では本当は青ざめた馬なの。
 \n
-...Black Rider and\n
-Judgment both come
+The Black Rider...is\n
+from Revelations, and
 <$0C>
-from Revelations, but\n
-there were different\n
-horses.
+Judgement is\n
+mentioned alongside\n
+the Pale Rider.
 <$00>
 
 
@@ -239,19 +242,21 @@ April:
 I remember looking at\n
 Revelations as a kid.
 <$0C>
-It details the end of\n
-the world.
+It was a prophetic\n
+account of the End\n
+Times.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nママに開いたらそんなのウソだって。\n世界は絶対になくなったりしない、
 \n
-When I asked my\n
-mother about it, she
+When I asked my mom\n
+about it, she brushed
 <$0C>
-said the world would\n
-never truly end.
+it off, and said the\n
+world would never\n
+truly end.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -261,15 +266,15 @@ April:
 She said the book was\n
 lying, and all we had
 <$0C>
-to worry about our\n
-selves.
+to do was worry about\n
+ourselves.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nママはいつも心配してたの。
 \n
-And oh, did my mother\n
+And oh, did my mom\n
 worry!
 <$00>
 
@@ -283,12 +288,12 @@ worry!
 #WHB(PTR, $00001375)
 
 //離 まもなく消灯の時間です\n
-離 It's almost time\n
-for lights out.\n
+離 IT IS ALMOST\n
+LIGHTS-OUT TIME.\n
 <$0E><$1E>
 //照明を落とします、照明を落とします。
-We're turning the\n
-lights out.
+THE LIGHTS ARE\n
+TURNING OFF.
 <$0E><$3C><$17><$00>
 
 
@@ -306,11 +311,13 @@ Vladimir:
 <$0D>
 //\nなんだ、もう帰ってたのか、\n
 \n
-You're home awfully\n
-early,
+What are you doing,\n
+home from school so
+<$0C>
+early,\n
 <$0F>
 //。
-.
+?
 <$0C><$0B>
 //ウラジミール：
 Vladimir:
@@ -320,8 +327,7 @@ Vladimir:
 What, am I supposed\n
 to congratulate you
 <$0C>
-for that or\n
-something?
+or something?
 <$0C><$0B>
 //ウラジミール：
 Vladimir:
@@ -329,9 +335,10 @@ Vladimir:
 //\nセルゲイ兄さんに遊んでもらえ。
 \n
 I don't have time for\n
-this. Get Sergei to
+anyone's shit. Get
 <$0C>
-play with you.
+Sergei to play with\n
+you.
 <$00>
 
 

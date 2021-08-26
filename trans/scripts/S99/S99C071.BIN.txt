@@ -13,7 +13,7 @@
 
 <$12><$11>
 //子コスマス：
-子Kosmas:
+Cosmas:
 <$0D>
 //\nどこいくの？
 \n
@@ -31,26 +31,28 @@ Where are you going?
 
 <$12><$11>
 //子コスマス：
-子Kosmas:
+子Cosmas:
 <$0D>
 //\nねぇ、だめだよ、勝手に出歩いちゃ。\nこんなの、はじめてだよ。
 \n
 Hey, don't run off\n
-like that! This
+like that! You've
 <$0C>
-is...new to me.
+never done that\n
+before.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうふふ、くすぐったいよ、ダークマン、\n僕の手はキライになったの？
 \n
 Hey! That tickles,\n
-Darkman! Do you not
+Dark Man! Do you not
 <$0C>
 like my hand?
 <$1E>
 //鋭
+鋭
 <$00>
 
 
@@ -64,22 +66,21 @@ like my hand?
 
 <$12><$11>
 //子コスマス：
-子Kosmas:
+子Cosmas:
 <$0D>
 //\nねぇ、どうしたの、ダークマン。\n僕の手から離れちゃだめじゃないか。
 \n
 Hey, what's wrong,\n
-Darkman? Why won't
+Dark Man? Why won't
 <$0C>
-you let go of my\n
-hand?
+you free my hand?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねえってば…ダークマン、どこかに行くの？\nだったらついてくよ、僕。
 \n
-Hey, Darkman. Where\n
+Hey, Dark Man. Where\n
 are you going? Let me
 <$0C>
 come with you.

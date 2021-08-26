@@ -17,8 +17,10 @@ Crow:
 <$0D>
 //\nひゃ！ ヘロデのお友達が消えちまった。
 \n
-Aww, Herod's friends\n
-have disappeared!
+Aww, Herod's little\n
+friends have all
+<$0C>
+disappeared!
 <$00>
 
 
@@ -61,7 +63,7 @@ Crow:
 Look at this filthy\n
 woman. Shameful,
 <$0C>
-isn't she? Hyah!\n
+isn't she? Kekeke!\n
 She's dirty, not\n
 pure!
 <$00>
@@ -81,7 +83,7 @@ Crow:
 <$0D>
 //\nへへ、この女の右手は汚れてるぜ！
 \n
-Hehe, this woman's\n
+See? This woman's\n
 right hand is so
 <$0C>
 FILTHY!
@@ -102,10 +104,11 @@ Crow:
 <$0D>
 //\nへへへ、死者の光だ。索敵なショーだ。
 \n
-Hehehe, the light of\n
-the deceased. It's
+Check it out, that's\n
+the light of the
 <$0C>
-lovely to see.
+dead. It's lovely to\n
+see, no?
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -113,10 +116,11 @@ Crow:
 //\n今度は左手、左手だ。\n汚れた左手は見たくねぇ！
 \n
 And now, for the left\n
-hand. Left. Uggh, I
+hand, over
 <$0C>
-don't want to see\n
-this so filthy!
+here...uggh! It's so\n
+filthy, I don't even\n
+want to look!
 <$00>
 
 
@@ -156,7 +160,8 @@ Crow:
 <$0D>
 //\n右も左もだ！
 \n
-Right and left!
+Right, left! Right,\n
+left!
 <$00>
 
 
@@ -174,10 +179,10 @@ Crow:
 <$0D>
 //\nへへへへへへ、これでいいんだ。\nおっと、まだ臭うぜ、くんくんくん、
 \n
-Hehehe, this is fine.\n
+Kekeke, this is fine.\n
 Might as well smell
 <$0C>
-it still. Sniff,\n
+it all. Sniff,\n
 sniff...
 <$0C><$0B>
 //クロウ：
@@ -198,7 +203,7 @@ Crow:
 Grumble, grumble. I\n
 wonder what a rotted
 <$0C>
-uterus tastes like...
+uterus tastes like.
 <$00>
 
 
@@ -219,8 +224,8 @@ Crow:
 What's this strange\n
 light, huh? Ahh!
 <$0C>
-STOP! NO! I'm waking\n
-up...!
+STOP! NO! I'll wake\n
+up!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -230,7 +235,8 @@ Crow:
 STOP! I DON'T WANT TO\n
 GO BACK! I LIKE THIS
 <$0C>
-PLACE! STOP! NOT THE\n
+PLACE! STOP! DON'T\n
+MAKE ME SEE THE\n
 LIGHT!
 <$0C><$0B>
 //クロウ：
@@ -239,7 +245,7 @@ Crow:
 //\nあああああ、イヤだ、\n光なんかいらないんだ！
 \n
 AHHHH, NOOOO! I DON'T\n
-NEED TO SEE THE
+WANT TO GO TO THE
 <$0C>
 LIGHT!
 <$00>
@@ -265,7 +271,7 @@ LIGHT!
 
 <$0D>
 //黄色い石を手に入れた。
-"YELLOW STONE"\n
+Yellow Stone\n
 acquired.
 <$00>
 

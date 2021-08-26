@@ -13,15 +13,15 @@
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nあら、あなたね、酸索屋に出入りしてるのは。
 \n
-Ah, it's you-the one\n
-poking your nose
+Ah, it's you, the one\n
+who was poking their
 <$0C>
-around the oxygen\n
-dispensary.
+nose around the\n
+oxygen dispensary.
 <$00>
 
 
@@ -35,14 +35,14 @@ dispensary.
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nねえ、私のお店をご案内するわ。\nあっ、私はフェイ、リャンハウスのフェイよ。
 \n
 Say, why don't I show\n
 you to my store? I'm
 <$0C>
-Hui, owner of House\n
+Feng, owner of House\n
 Liang.
 <$00>
 
@@ -57,7 +57,7 @@ Liang.
 
 <$10><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nリャンハウスは本当は\n整形屋なんかじゃないのよ。
 \n
@@ -67,7 +67,7 @@ more than just
 cosmetic surgery.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n心の奥にしまい込んだ、小さな声に\n耳をかたむけるの。それが仕事なのよ。
 \n
@@ -78,7 +78,7 @@ hidden deep in your\n
 mind.
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\n心のささやき…誰でもみんな同じよ。\nきれいになりたい、女らしく、男らしく、
 \n
@@ -90,14 +90,14 @@ feminine or\n
 masculine...
 <$0C><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nもっときれいになりたい。みんな同じなのよ。\n整形は心をきれいにする手段なのよ。分かる？
 \n
 ...everyone desires\n
-beauty. Why not let
+beauty. So, why not
 <$0C>
-cosmetic surgery\n
+let cosmetic surgery\n
 cleanse your mind?
 <$1E>
 //中
@@ -119,10 +119,10 @@ Madam Agatha:
 <$0D>
 //\nヴェロニカ…\nフェイの別人格の名前なの。
 \n
-Veronica...is the\n
-name of Hui's other
+Veronica... That is\n
+the name of Feng's
 <$0C>
-personality.
+other personality.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -133,7 +133,7 @@ Veronica is\n
 well-versed in the
 <$0C>
 world of suffering,\n
-but what she sais is\n
+but what she says is\n
 inconsistent.
 <$0C><$0B>
 //マダム・アガタ：
@@ -141,19 +141,18 @@ Madam Agatha:
 <$0D>
 //\nフェイよりも深くこの世界に参加しているの。\nこの星で起きていること、彼女が詳しいのよ。
 \n
-She sees her self in\n
-this world more than
+She wanders the land\n
+more than Feng does,
 <$0C>
-Hui does, and knows\n
-what is happening on\n
-Mars.
+and knows what is\n
+happening on Mars.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nそれにフェイと建ってウソはないわ。
 \n
-And, unlike Hui,\n
+And, unlike Feng,\n
 Veronica does not
 <$0C>
 lie.
@@ -173,25 +172,25 @@ lie.
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあーら、どこ行くの？
 \n
 Going somewhere?
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nねぇ、ドールダンスって知ってる？\nメディスンマンのまじないよ。
 \n
-Say, have you heard\n
-of the "doll dance"?
+Do you know about the\n
+"doll dance"? It's a
 <$0C>
-It's a chant the\n
-medicine men do.
+chant the medicine\n
+men do.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n変な人形使って、人のタマシイを\n出したり入れたりするのよ。 怖いのよ。
 \n
@@ -202,7 +201,7 @@ strange dolls. Scary\n
 stuff!
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nまたロッジで始まったみたいよ、\nあの人たち、こりないのよ。
 \n
@@ -227,12 +226,12 @@ relentless!
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nこりないの、ほんとよ、\nインディアンのあの人たちよ。
 \n
-Those [Indian] men\n
-are truly relentless!
+Those shaman guys are\n
+truly relentless!
 <$1E>
 //行
 行

@@ -17,12 +17,14 @@ Noon:
 <$0D>
 //\nおお、あれだ！\n避難小屋が見えたぞ！おほほー！
 \n
-Hohoho, there it is!\n
-I see the safe room!
+Whelp, there it is! I\n
+see the safe 'ouse!
 <$00><$00><$11>
 //子     
+子
 <$0D>
 //はあ、はあ、だめだ！
+Haah, haah! Damn!
 <$0E><$5A><$17><$00>
 
 
@@ -55,9 +57,10 @@ Noon:
 //\nきっと砂嵐のせいだ、\n砂が頭の中にまで入ってきたみたいだ…
 \n
 Must be the\n
-sandstorm's fault.\n
+sandstorm's fault.
+<$0C>
 The sand's getting in\n
-my head.
+my 'ead.
 <$00>
 
 
@@ -75,10 +78,10 @@ Noon:
 <$0D>
 //\nおい、小屋はそっちじゃない。\nここにひとりにしないでくれ。
 \n
-Hey, the safe room's\n
-not that way! Don't
+Hey, don't run off by\n
+yourself! The safe
 <$0C>
-run off by yourself!
+'ouse isn't that way!
 <$00>
 
 
@@ -96,9 +99,10 @@ Noon:
 <$0D>
 //\nよう、さっきは悪かったな、\nちゃかしたりしてよ。
 \n
-That "evil" smoke was\n
-getting the better of
+That purple\n
+pea-souper was
 <$0C>
+getting the better of\n
 us earlier.
 <$0C><$0B>
 //ヌーン：
@@ -109,8 +113,8 @@ Noon:
 I don't sense any\n
 good coming from the
 <$0C>
-mission. Maybe the\n
-captain doesn't\n
+mission. I'm 'oping\n
+the captain doesn't\n
 either.
 <$00>
 

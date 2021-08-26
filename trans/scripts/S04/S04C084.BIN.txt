@@ -35,7 +35,7 @@ West:
 <$0D>
 //\nリトルさんの夢の中に
 \n
-From Liter's dream!
+From Little's dream!
 <$00>
 
 
@@ -72,10 +72,8 @@ West:
 <$0D>
 //\n夢にだ。一緒にお祈りしたそうだ。
 \n
-He said you prayed\n
-together in the
-<$0C>
-dream!
+You prayed together\n
+in the dream!
 <$00>
 
 
@@ -93,8 +91,8 @@ East:
 <$0D>
 //\nお祈りだ、神様だ、リトルさんの神様。
 \n
-You prayed to Liter's\n
-god?
+You prayed to\n
+Little's god?
 <$00>
 
 
@@ -112,8 +110,8 @@ West:
 <$0D>
 //\nメディスンマンのやつらの入れ知惠なのか。
 \n
-Those medicine men\n
-put them up to it!
+The medicine men put\n
+them up to it!
 <$00>
 
 
@@ -197,8 +195,10 @@ West:
 <$0D>
 //\n開けるんだ。リトルさんはきっと中だ。
 \n
-Liter must be inside!\n
-Open the door!
+Little must be\n
+inside! Open the
+<$0C>
+door!
 <$1E>
 //〇
 〇
@@ -218,8 +218,15 @@ Open the door!
 Tommy:
 <$0D>
 //\nひゅーひゅー？何か飛んでる音してねぇか。\n気のせいか。\nいや、開こえる、ひゅーひゅーだ。
+\n
+Hyahya, sounds like\n
+something's flying,
+<$0C>
+doesn't it? You hear\n
+it, right?
 <$1E>
 //声
+声
 <$00>
 
 
@@ -242,22 +249,22 @@ Tommy:
 //\nまた始まったのか、変なまじない、\nまじないダンスだ、へへへー、
 \n
 They started that\n
-weird chant again
+weird chanting again!
 <$0C>
-again! Hyah, here\n
-comes the magic\n
-dance!
+Hehe, here comes the\n
+magic dance!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nひゅんひゅん、飛んで来るんだ、へへー。\n綠の光、あれに触れると、ひひひ、\nバラバラになるぜ。
 \n
-Hyahyah! I'm flying.\n
-Hyah, only touching
+I'm flying, I'm\n
+flying! Hehe, only
 <$0C>
-the green flash will\n
-break the spell!
+touching the green\n
+flash will break the\n
+spell!
 <$1E>
 //声
 声
@@ -278,12 +285,12 @@ Tommy:
 <$0D>
 //\nインディアンのまじない、\nへへー、綠の光、バラバラごっこだ。
 \n
-That's [indian]\n
+That's shamanic\n
 magic! Hyah, only
 <$0C>
 touching the green\n
-flash will break the\n
-spell!
+flash will break\n
+their spell!
 <$1E>
 //家
 家
@@ -308,7 +315,7 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう、変なんだ、\nぱーっと綠色に染まるんだ。
 \n
-Hey, Buddy. You-uh,\n
+Hey, comrade. You,\n
 ever see a green
 <$0C>
 flash before?
@@ -319,9 +326,9 @@ Tommy:
 //\nやつらが始めたんだ、
 \n
 That means those\n
-guys've-uh, started
+guys've gotten to
 <$0C>
-their work.
+work.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -331,19 +338,18 @@ Tommy:
 I'm talking about the\n
 medicine men and
 <$0C>
-their-uh, magic\n
-dance.
+their magic dance.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nそうだ、前にもあった、まじないダンス。
 \n
-They've started\n
-dancing and chanting
+A-yup, they've\n
+started dancing and
 <$0C>
-and stuff again, like\n
-before.
+chanting and stuff\n
+again, like before.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -351,10 +357,9 @@ Tommy:
 //\nそん時、俺の頭ん中に綠の光が来たんだ。\n同じだ。
 \n
 The same green light\n
-flashed in my-uh,
+flashed in my head,
 <$0C>
-head now as when they\n
-did this before.
+just like last time.
 <$1E>
 //声
 声
@@ -378,7 +383,7 @@ Tommy:
 This flashing's gotta\n
 be because of the
 <$0C>
-magic dance.
+magic dance, a-yup.
 <$1E>
 //家
 家
@@ -395,24 +400,44 @@ magic dance.
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、あんたはケンカする人でしょ、
+\n
+You. You're a\n
+combative person,
+<$0C>
+aren't you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark\n
+Man peered into you
+<$0C>
+and told me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n火事…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+Through fire...Liever\n
+will show you to the
+<$0C>
+place of prophecy.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうん、火事って言葉が浮かんできたよ。
+\n
+Yes, the word "fire"\n
+is floating about in
+<$0C>
+my head.
 <$00>
 
 
@@ -426,24 +451,43 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、あんたはあの目玉が見える人でしょ、
+\n
+You. You can see the\n
+eyeballs, can't you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark\n
+Man peered into you
+<$0C>
+and told me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nロケット…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+From a\n
+rocket...Liever will
+<$0C>
+show you to the place\n
+of prophecy.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうん、ロケットって言葉が浮かんできたよ。
+\n
+Yes, the word\n
+"rocket" is floating
+<$0C>
+about in my head.
 <$00>
 
 
@@ -457,24 +501,45 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nねぇ、あんたは顔作りに来た人でしょ、
+\n
+You. You like to doll\n
+up your face, don't
+<$0C>
+you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark\n
+Man peered into you
+<$0C>
+and told me.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n避難小屋…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+Through a\n
+shelter...Liever will
+<$0C>
+show you to the place\n
+of prophecy.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうん、避難小屋って言葉が\n浮かんできたよ。
+\n
+Yes, the word\n
+"shelter" is floating
+<$0C>
+about in my head.
 <$00>
 
 
@@ -488,29 +553,51 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nうーんと、あんたはねぇ…
+\n
+Hmmm... How odd.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nよく見えてこないなぁ。\nどんなタイプなのかなぁ…
+\n
+I can't seem to tell.\n
+Which type are you?
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n力持ちなら火事、頭がいいとロケット、\n欲ばりだと避難小屋…
+\n
+If you have strength,\n
+seek fire. If you
+<$0C>
+have knowledge, seek\n
+the rocket.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nそこまではわかるんだけど。
+\n
+If you have desire,\n
+seek the shelter.
+<$0C>
+That's all I can tell\n
+you, but...
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nタイプをはっきりさせないと、\nリバーは見つからないよ。
+\n
+...if you don't have\n
+a type, you'll never
+<$0C>
+find Liever.
 <$00>
 
 
@@ -524,21 +611,35 @@ Kosmas:
 
 <$10><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nリバーが待ってるよ。
+\n
+Liever is waiting.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\n待ってるのはあんたのことじゃないよ、\nあんたの中の誰かさ。
+\n
+He's not waiting for\n
+"you" per se, but
+<$0C>
+someone inside of\n
+you.
 <$0C><$0B>
 //コスマス：
-Kosmas:
+Cosmas:
 <$0D>
 //\nきっといろいろ話したいんだろうね。
+\n
+I suppose Liever and\n
+that someone have
+<$0C>
+much to discuss.
 <$1E>
 //理
+理
 <$00>
 
 

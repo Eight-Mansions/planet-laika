@@ -17,11 +17,10 @@ Spacer:
 <$0D>
 //\nここは…酸索がたっぷりだ。\n酸索がみちている…
 \n
-This place... It's\n
-loaded with
+This place is loaded\n
+with oxygenite. Like
 <$0C>
-oxygenite, like a\n
-mineshaft, perhaps.
+a mineshaft, perhaps.
 <$00>
 
 
@@ -81,6 +80,11 @@ time?
 Spacer:
 <$0D>
 //\n凍っているのか。\nまるで生きたまま凍ってしまったかのようだ。
+\n
+Are we freezing? It\n
+feels like we're
+<$0C>
+being frozen alive...
 <$00>
 
 
@@ -97,11 +101,23 @@ Spacer:
 Yolanda:
 <$0D>
 //\nどうして？ねぇ、どうしてなの…\nアタシの深いところに響いてくる…
+\n
+What's going on? I\n
+feel
+<$0C>
+something...shivering\n
+deep inside me...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nあれ、どうかしてるわ、アタシったら。\nおばかさん。ただの氷のじゃない、こんなの。
+\n
+The Hell was that?\n
+Relax, Yolanda. It's
+<$0C>
+just ice. Nothing to\n
+freak out over.
 <$00>
 
 
@@ -119,10 +135,10 @@ Ernest:
 <$0D>
 //\n何だ、こいつは…凍ってるぜ…
 \n
-What the Hell? This\n
+What happened? This\n
 big guy's frozen
 <$0C>
-solid!
+solid.
 <$00>
 
 
@@ -140,11 +156,11 @@ Ernest:
 <$0D>
 //\nあああ、何だ、イヤな気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
 \n
-Y'know what? Fuck\n
-him. Just looking at
+Urk, I...don't feel\n
+so good. It's like,
 <$0C>
-him makes me feel\n
-smaller...grr!
+little by little,\n
+I'm... Damn!
 <$00>
 
 

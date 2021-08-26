@@ -106,11 +106,11 @@ I'm glad you're okay.
 #WHB(PTR, $00000B69)
 
 //離 坑道閉鎖まで、あとちょっとです。\n繰り返します、あとちょっと。\nこれは訓練ではありません。
-THE MINESHAFT IS\n
+離 THE MINESHAFT IS\n
 CLOSING SOON.\n
-I REPEAT, CLOSING
+PLEASE EVACUATE
 <$0C>
-SOON.\n
+IMMEDIATELY.\n
 THIS IS NOT A DRILL.
 <$00>
 
@@ -173,16 +173,36 @@ The exit's this way,\n
 Laika!
 <$00><$12><$13><$13><$0B>
 //アーネスト：
+Ernest:
 <$0D>
 //\n何だ、ここは…
+\n
+Hmph. What did the\n
+kid get us into this
+<$0C>
+time?
 <$00><$12><$13><$13><$0B>
 //アーネスト：
+Ernest:
 <$0D>
 //\n何だ、こいつは…こおってるぜ…
+\n
+What happened? This\n
+big guy's frozen
+<$0C>
+solid.
 <$00><$12><$13><$13><$0B>
 //アーネスト：
+Ernest:
 <$0D>
 //\nあああ、何だ、嫌な気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
+\n
+Urk, I...don't feel\n
+so good. It's like my
+<$0C>
+head's getting\n
+smaller and\n
+smaller... Damn!
 <$00>
 
 

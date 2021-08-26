@@ -13,25 +13,26 @@
 
 <$11><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nおおお、宇宙の先生のおでましだ！\nスペーサー、お前は英知のたまものか？\nそれともひ弱な夢想家か？
 \n
-Spacer, king of the\n
-cosmos! Does her
+Oh Spacer, Little\n
+Prince of The Cosmos!
 <$0C>
-bring wisdom, or\n
-petty, fickle dreams?
+Do you come with\n
+wisdom, or petty,\n
+fickle dreams?
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nいずれにせよ、終わりだ、スペーサー\n私は
 \n
-It's over. I need
+I need
 <$0F>
 //に用があるのだ。\nお前は妄念の産物だ、さあ無に帰すがいい。
-, so home to your\n
+now. Go home to your\n
 pesky void, you fruit\n
 of delusion.
 <$00>
@@ -52,11 +53,10 @@ Spacer:
 //\n私は現実だ！ 妄念などではない。\nお前こそエセ善人ではないか！
 \n
 Me? I'm no delusion,\n
-I'm actuality! The
+I'm real! The you
 <$0C>
-you that you call\n
-"good" is the\n
-delusion!
+whom you call "good"\n
+is the delusion!
 <$00>
 
 

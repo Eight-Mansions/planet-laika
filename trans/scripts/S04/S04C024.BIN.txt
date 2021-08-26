@@ -13,11 +13,19 @@
 
 <$12><$0B>
 //フェイ：
-Hui:
+Feng:
 <$0D>
 //\nねえ、どうしたの？ せっかく火星に\n来たんだから、見ていくといいわ。
+\n
+What are you up to?\n
+If you've come all
+<$0C>
+this way to Mars, you\n
+might as well enjoy a\n
+look around.
 <$1E>
 //行
+行
 <$00>
 
 
@@ -34,8 +42,17 @@ Hui:
 Yang:
 <$0D>
 //\nへへ、みんな焦りはじめてやがる。さっきもな、\nリトルの野郎があわてて酸索屋から飛び出して\nきたけど、何かあったのか？
+\n
+Everyone's so\n
+impatient now. I just
+<$0C>
+saw Little rushing\n
+out of the oxygen\n
+dispensary. What\n
+happened?
 <$1E>
 //理
+理
 <$00>
 
 
@@ -52,13 +69,26 @@ Yang:
 Yang:
 <$0D>
 //\nへへ、それ、光る石だろ。\nリトルのやつが大事にしてた…
+\n
+Hehe, Little really\n
+cherished that
+<$0C>
+glowing stone.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nお前、そんなもん勝手にガメてよう、\nおっかないことになるんじゃねぇのか。\n金星人の方がましだぜ、すき通ってるぜ。
+\n
+You don't want to get\n
+bent on something
+<$0C>
+ghastly over it. Just\n
+go with the flow,\n
+like the Venusians.
 <$1E>
 //理
+理
 <$00>
 
 
@@ -76,7 +106,7 @@ Boomer:
 <$0D>
 //\n悪いな、逆らえねぇんだ、\nスモーキーのやつにはな。
 \n
-I wish it went\n
+Ohhh, I wish it went\n
 different, but
 <$0C>
 there's no reasoning\n
@@ -112,10 +142,11 @@ Boomer:
 <$0D>
 //\n夢にもな、\n夢にも逆らえねぇ…
 \n
-Like Smokey, there's\n
-no reasoning with our
+Ahhh, like Smokey,\n
+there's no reasoning
 <$0C>
-dreams either...
+with our dreams\n
+either...
 <$1E>
 //声
 声

@@ -46,7 +46,7 @@ Who said that?
 
 <$10><$12>
 //にどこを見ている、ここだ、お前の前だ。
-Where are you\n
+にWhere are you\n
 looking?\n
 We are here, before
 <$0C>
@@ -82,9 +82,9 @@ Spacer:
 
 <$11><$12>
 //に私はマコトの存在だ。\nマコトの顔とでも理解してくれ。\nトゥルーフェイスだ。
-We are a "true"\n
-presence, or one of\n
-"true" face.\n
+にWe are the existence\n
+of truth, the face of\n
+truth.\n
 We are True Faiths.
 <$00>
 
@@ -103,11 +103,10 @@ Spacer:
 <$0D>
 //\nあなたが人間の顔を作っている…\nそういうことなんだな。
 \n
-That sounds to\n
-me...like you're the
+That sounds to me\n
+like you who make
 <$0C>
-ones who make human\n
-faces.
+human faces.
 <$00>
 
 
@@ -121,16 +120,30 @@ faces.
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n人間の顔！ばかばかしい！\n顔に意味を与えているのは、お前たち人間だ。
+\n
+Human faces?!\n
+Foolish! You humans
+<$0C>
+alone give your faces\n
+any significance.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nその人間のおろかさに、\n我々は滅んでしまったのだ。\n顔など、いらない。
+\n
+It was that human\n
+folly who sent Us
+<$0C>
+into extinction. We\n
+have no need for\n
+faces.
 <$00>
 
 
@@ -148,7 +161,7 @@ Spacer:
 <$0D>
 //\n滅んだ…すると、あなたは火星人なのか…
 \n
-Extinction...\n
+Extinction...?\n
 Ah, so you're
 <$0C>
 Martians.
@@ -165,16 +178,28 @@ Martians.
 
 <$10><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n人間はそう呼ぶ。\nしかし、我々は火星人でも宇宙人でもない。
+\n
+Humans may call Us by\n
+that name. However,
+<$0C>
+We are neither\n
+Martian nor Alien.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n我々なのだ。\nお前は、自分をなんだと思っているのか？
+\n
+We are who We are.\n
+And what would you
+<$0C>
+say you are?
 <$00>
 
 
@@ -192,10 +217,10 @@ Spacer:
 <$0D>
 //\n私は地球人…地球から来た…
 \n
-I'm an\n
-Earthling...from
+I came here from\n
+Earth, so that would
 <$0C>
-Earth.
+make me an Earthling.
 <$00>
 
 
@@ -209,21 +234,43 @@ Earth.
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nおろかな！地球に住むから地球人か！\nロケットに乗るから宇宙飛行士か！
+\n
+Because you come from\n
+Earth, you're an
+<$0C>
+Earthling? Because\n
+you ride a rocket,\n
+you're a cosmonaut?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n子をもうければ父親か、盗みを働けば犯罪者か、\n闘いの場では兵士か、お前達はいつも\n都合のいい自分を用意している。
+\n
+If you have a child,\n
+you're a father? If
+<$0C>
+you take, you're a\n
+thief? If you fight,\n
+you're a soldier?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n真の自分を隠し、目をそらせ、\n何色にでも染まろうとする。
+\n
+You are foolish to\n
+hide your true selves
+<$0C>
+under countless\n
+titles of\n
+convenience!
 <$00>
 
 
@@ -240,6 +287,13 @@ True Faiths:
 Spacer:
 <$0D>
 //\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
+\n
+Listen, in our social\n
+structure, humans are
+<$0C>
+given roles: fathers,\n
+teachers, mothers,\n
+children, et cetera.
 <$00>
 
 
@@ -253,16 +307,32 @@ Spacer:
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
+\n
+\n
+"Roles"..."structure"...hah!
+<$0C>
+Then We ask you, why\n
+do you kill each\n
+other?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n憎しみ合う？\nウソをつき、自分のために他人を傷つける？\nなぜ、そのようなことができるのだ？
+\n
+Is it your role to\n
+hate? To lie and hurt
+<$0C>
+others for\n
+self-preservation?\n
+How can you live that\n
+way?!
 <$00>
 
 
@@ -279,11 +349,25 @@ True Faiths:
 Spacer:
 <$0D>
 //\n憎しみや殺人だけではない。\n人を愛し、いつくしみの心で\n救いの手をさしのべることもある。
+\n
+There's more to life\n
+than hatred and
+<$0C>
+murder. It's about\n
+loving others and\n
+helping them with\n
+compassion.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nひとりひとりが、個性を持ち、\n生きているからだ。
+\n
+Because each and\n
+every one of us has a
+<$0C>
+personal story to\n
+tell.
 <$00>
 
 
@@ -297,26 +381,49 @@ Spacer:
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
+\n
+"Personal"...another\n
+convenience word.
+<$0C>
+Now, imagine organs\n
+in the human body\n
+were "personal".
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nひとつひとつの器官には、\n決まった役割が与えられている。
+\n
+Each and every organ\n
+is fixed to serve the
+<$0C>
+whole.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nそれは個性などではない。\n心臓は脳にはなれない、\n口は耳にはなれない。
+A heart cannot be a\n
+brain. Nor a mouth,\n
+an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nそれが役割というものだ。\nお前の言い分は、正確ではない。
+\n
+That is how one's\n
+true "role" is
+<$0C>
+determined. Your\n
+"personal" logic\n
+falls short.
 <$00>
 
 
@@ -333,6 +440,13 @@ True Faiths:
 Spacer:
 <$0D>
 //\n火星人… いや、あなたたちは、\n全体でひとつの個性を持つ。そう開いたが。
+\n
+I heard the\n
+Martians...I mean,
+<$0C>
+you, are a collective\n
+consciousness devoid\n
+of individuality.
 <$00>
 
 
@@ -346,11 +460,19 @@ Spacer:
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない。\nそこにお前たちの顔が災いをもたらせたのだ。
+\n
+Indeed, We do not see\n
+"individuality". Your
+<$0C>
+faces ignited Our\n
+destruction in its\n
+entirety.
 <$00>
 
 
@@ -385,16 +507,30 @@ human faces.
 
 <$11><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n１２億６０００万年にして、一度の過ちだ。\n我々は過去に三度、地球に向かった。
+\n
+Our one mistake in\n
+1.26 billion years.
+<$0C>
+Now, We visited Earth\n
+thrice in the past...
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n三度目にお前たちが現れたのだ。\nお前たち人間は弱く、\n絶滅を予定された種のはずだった。
+\n
+...and in the third\n
+day, humans appeared.
+<$0C>
+Your species was a\n
+flicker doomed for\n
+extinction.
 <$00>
 
 
@@ -415,8 +551,8 @@ Spacer:
 I don't see why,\n
 though. Humans
 <$0C>
-acquired wisdom and\n
-flourished.
+acquired wisdom, and\n
+used it to flourish.
 <$00>
 
 
@@ -430,31 +566,55 @@ flourished.
 
 <$10><$12>
 //に
+に
 <$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n英知…
+\n
+Wisdom...
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
+To "see the world in\n
+a grain of said? See\n
+heaven in a single
+<$0C>
+wildflower"?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nこれのどこが英知なのだ。
+What "wisdom" is\n
+this?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n砂は砂だ。野花とはおそらく植物だろう。\n植物がなぜ天国なのだ。
+\n
+Sand is sand!\n
+Wildflowers are
+<$0C>
+plants. Why would\n
+Heaven exist in a\n
+plant?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n神の言葉なのか、それとも妄想なのか。\nお前たちは間建っている！
+\n
+Can you not\n
+differentiate the
+<$0C>
+Word of God and\n
+delusion, you\n
+insects?!
 <$00>
 
 
@@ -477,7 +637,7 @@ Spacer:
 //\n陽精とはあなたたちのことなのか？
 \n
 What do you mean,\n
-"ghouls"?
+"insects"?!
 <$00>
 
 
@@ -499,10 +659,10 @@ Spacer:
 <$0D>
 //\nあああ、バカみたいだ。\n汚い布に話しかけるなんて！
 \n
-Ugh, if I'm anything,\n
-I'm an idiot, talking
+Sheesh. I must be an\n
+idiot, talking to a
 <$0C>
-to a rag like this.
+rag like this.
 <$00>
 
 

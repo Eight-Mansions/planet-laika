@@ -13,7 +13,7 @@
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあああ、アタシがここにいるのは\nなんでかってことよね…
 \n
@@ -34,7 +34,7 @@ Hell if I know...
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nああ、アタシもときどき分からなくなるのよ、\n自分っていうのが、なにかこう…
 \n
@@ -60,8 +60,8 @@ Bull:
 <$0D>
 //\nおおお、イヤな惑じだ、ちくしょう！
 \n
-Damn, damn my senses\n
-are all out of order.
+Shit, my senses are\n
+all out of whack.
 <$00>
 
 
@@ -80,27 +80,28 @@ Bull:
 //\n俺はあんたがきらいだ…\nあー、何て言うか、きらいなんだ。
 \n
 I don't like you, or\n
-anything thing you
+anything you have to
 <$0C>
-have to say.
+say.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\nはじめて会うやつなのにな…\n俺はブルだ。
 \n
-Don't even care if\n
-this is the first
+The name's Bull. I\n
+don't exactly care if
 <$0C>
-time we've met. The\n
-name's Bul.
+this is the first\n
+time we've met or\n
+not.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\nあんた、アガタと組んでるのか、分かるんだ。
 \n
-All I know is you're\n
+All I know is, you're\n
 on Agatha's team.
 <$0C><$0B>
 //ブル：
@@ -108,7 +109,7 @@ Bull:
 <$0D>
 //\n俺は落ち込むとすぐにここに来るんだ、\n催眠術で何もかも忘れることができるんだ。
 \n
-I come where the\n
+I come here the\n
 minute I start
 <$0C>
 feeling depressed.\n
@@ -135,8 +136,8 @@ Why'd I have to be\n
 me, huh? Well, I'm
 <$0C>
 here, Agatha! Open\n
-up! Let my forget my\n
-self!
+up! Let my forget\n
+myself!
 <$00>
 
 
@@ -154,10 +155,11 @@ Bull:
 <$0D>
 //\nへん！ 俺は自分もきらいなんだ、\nそういうことだ。
 \n
-Grrr. On top of\n
+Hmph, on top of\n
 everything else I
 <$0C>
-hate, I hate my self.
+hate...I hate my\n
+self.
 <$00>
 
 
@@ -178,14 +180,25 @@ hate, I hate my self.
 #WHB(PTR, $0000083B)
 
 <$10><$0B>
-ブル：
+//ブル：
+Bull:
 <$0D>
-\nはじまったんだ、くそっ！
+//\nはじまったんだ、くそっ！
+\n
+It's already\n
+started...
 <$00><$10><$0B>
-ブル：
+//ブル：
+Bull:
 <$0D>
-\n俺を差しおいて、アガタのやつ…\n俺も忘れたいことがあるんだ！
+//\n俺を差しおいて、アガタのやつ…\n俺も忘れたいことがあるんだ！
+\n
+I need to see Agatha.\n
+I've got stuff I'd
+<$0C>
+rather forget too!
 <$00>
+
 
 
 

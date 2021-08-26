@@ -13,9 +13,15 @@
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n最近、夜でも砂嵐が襲って来るんだ。
+\n
+Lately, you've been\n
+assailed by
+<$0C>
+sandstorms even in\n
+the nighttime.
 <$00>
 
 
@@ -32,6 +38,11 @@ River:
 Yolanda:
 <$0D>
 //\n今は大丈夫よ。\nあら…あなた、アタシの知ってる人？
+\n
+Oh, I'm fine. I...\n
+Sorry, do you know
+<$0C>
+me?
 <$00>
 
 
@@ -45,9 +56,12 @@ Yolanda:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n全然。僕はリバー。
+\n
+Not at all! I'm\n
+Liever.
 <$00>
 
 
@@ -64,6 +78,12 @@ River:
 Yolanda:
 <$0D>
 //\nアタシはヨランダよ。よろしくね。\n砂嵐が来ないうちに、もう行かなきゃ。
+\n
+I'm Yolanda, thanks.\n
+Anyways, I'd better
+<$0C>
+go before the\n
+sandstorms pick up.
 <$00>
 
 
@@ -77,9 +97,14 @@ Yolanda:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nどこ行くのさ。逃げられやしないよ。
+\n
+Where would you\n
+possible go? There's
+<$0C>
+no escape.
 <$00>
 
 
@@ -96,6 +121,12 @@ River:
 Yolanda:
 <$0D>
 //\n蕃判のこと言ってるの？\nあんなのでたらめよ、妄想よ。
+\n
+Oh, no. Please don't\n
+tell me you're one of
+<$0C>
+those delusional\n
+Judgement fucks.
 <$00>
 
 
@@ -109,9 +140,16 @@ Yolanda:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあんたには信仰がないんだ。\nひとりで強がってるんだ。
+\n
+You have no faith.\n
+You think you're
+<$0C>
+strong enough to\n
+handle it all on your\n
+own.
 <$00>
 
 
@@ -128,6 +166,8 @@ River:
 Yolanda:
 <$0D>
 //\n何よ、アタシはただ…
+\n
+H-hey, that's not...!
 <$00>
 
 
@@ -141,9 +181,15 @@ Yolanda:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nどうしたの？恐いんじゃないの？\n僕といれば平気だよ。神様が守ってくれるさ。
+\n
+What's the matter?\n
+Are you scared? If
+<$0C>
+you follow me to God,\n
+God will protect you.
 <$00>
 
 
@@ -160,6 +206,9 @@ River:
 Yolanda:
 <$0D>
 //\n神様？ここには神様がいるの？
+\n
+God will? You say\n
+that like he's here.
 <$00>
 
 
@@ -173,9 +222,15 @@ Yolanda:
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n自分で確かめなきゃ信じない、そうでしょ。\n来れば？
+\n
+I'm sure you're the\n
+type who has to see
+<$0C>
+it to believe it.\n
+Let's meet up later!
 <$00>
 
 
@@ -189,9 +244,16 @@ River:
 
 <$13><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。\n分かるよね。
+\n
+Down at the Brick\n
+Road entrance to the
+<$0C>
+underground canal.\n
+Just before entering\n
+the colony.
 <$00>
 
 

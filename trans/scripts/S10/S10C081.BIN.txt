@@ -13,11 +13,11 @@
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nおい、ここなのか？\n約束の場所はここなのか？
 \n
-Hey, what is this\n
+Oi, what's this\n
 place? Is this...the
 <$0C>
 Promised Land?
@@ -38,13 +38,13 @@ Promised Land?
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあは、あははは、\nクリスマスだ、プレゼントだ。
 \n
-Ah-hah! It's\n
-Christmas!\n
-It's time for\n
+Look! It's Christmas!\n
+It's time for
+<$0C>
 presents!
 <$00>
 
@@ -62,7 +62,7 @@ presents!
 Here are your\n
 presents of
 <$0C>
-nightmares, Liter!
+nightmares, Little!
 <$00>
 
 
@@ -80,12 +80,12 @@ nightmares, Liter!
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n靴下に詰めたんだ。
 \n
-Ohh! Stuffed in\n
-stockings?
+Oh! They're stuffed\n
+in stockin's!
 <$00>
 
 
@@ -100,9 +100,9 @@ stockings?
 //興うだ、\nお前が悪夢をばらまいた。
 That's right. Now,\n
 go.\n
-Pass the nightmare
+Pass the nightmares
 <$0C>
-around.
+all around.
 <$00>
 
 
@@ -116,11 +116,12 @@ around.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあはは、ユカイだな。
 \n
-Ahaha, how amusing!
+Hahaha, this'll be\n
+fun!
 <$00>
 
 
@@ -150,7 +151,7 @@ and buried us alive!
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nさあ、クリスマスだ、穴に落ちろ！
 \n
@@ -170,11 +171,12 @@ the chute!
 #WHB(PTR, $0000032D)
 
 //案ぴの中でもがき、苦しみ、\n湿った土が口をふさいだ。
-We suffered,\n
-strugging in that\n
-hole. Wet mud filled
+案ぴWe suffered,\n
+struggling in the\n
+holes. Wet mud
 <$0C>
-our mouths shut.
+clogged our mouths\n
+shut.
 <$0C>
 //死はゆっくりとおとずれた。\n肉は腐り、イヤな臭いがただよった。
 Death was a slow-met\n
@@ -191,7 +193,7 @@ with nowhere to go.
 <$0C>
 //みんなお前のしたことだ、\nリトル君！
 You did that to all\n
-of us, Liter!
+of us, Little!
 <$0C>
 //この星は待っていたんだよ、\n罪のすべてを背負う人間を！
 The planet's waiting\n
@@ -212,11 +214,11 @@ sins.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nあはは、あはは、\nくるくる回る、世界が回る。
 \n
-Ahaha! Ahaha! Round\n
+Hahaha, hahaha! Round\n
 and round! All around
 <$0C>
 the world!
@@ -232,7 +234,7 @@ the world!
 #WHB(PTR, $0000034D)
 
 //広かしいなリトル君、\nクリスマスの靴下があと一足あまってるぞ。\n誰の分かね？
-Behave, Liter.\n
+広Behave, Little.\n
 We have one more pair\n
 of\n
 Christmas stockings.\n
@@ -307,8 +309,10 @@ they're for?
 
 #WHB(PTR, $00002A59)
 
-マラケシュフラワー
+//マラケシュフラワー
+Marrakech Flower
 <$00>
+
 
 
 
@@ -326,8 +330,10 @@ they're for?
 
 #WHB(PTR, $00002A5D)
 
-花の命ははかない？
+//花の命ははかない？
+A flower, wilted?
 <$00>
+
 
 
 
@@ -337,8 +343,10 @@ they're for?
 
 #WHB(PTR, $00002A61)
 
-ブーマーズナイト
+//ブーマーズナイト
+Boomer Night
 <$00><$00>
+
 
 
 
@@ -348,8 +356,10 @@ they're for?
 
 #WHB(PTR, $00002A65)
 
-怖い夜って？
+//怖い夜って？
+A scary evening?
 <$00><$00>
+
 
 
 
@@ -367,8 +377,10 @@ they're for?
 
 #WHB(PTR, $00002A69)
 
-クロウドリーム
+//クロウドリーム
+Crow Dream
 <$00>
+
 
 
 
@@ -382,8 +394,10 @@ they're for?
 
 #WHB(PTR, $00002A6D)
 
-夢の散歩者？
+//夢の散歩者？
+A strolling dream?
 <$00><$00>
+
 
 
 
@@ -393,8 +407,10 @@ they're for?
 
 #WHB(PTR, $00002A71)
 
-ジャニュアリー
+//ジャニュアリー
+January
 <$00>
+
 
 
 
@@ -404,8 +420,10 @@ they're for?
 
 #WHB(PTR, $00002A75)
 
-始まりの１月
+//始まりの１月
+When solemnity began?
 <$00><$00>
+
 
 
 
@@ -415,8 +433,10 @@ they're for?
 
 #WHB(PTR, $00002A79)
 
-フェブラリー
+//フェブラリー
+February
 <$00><$00>
+
 
 
 
@@ -426,8 +446,11 @@ they're for?
 
 #WHB(PTR, $00002A7D)
 
-凍える２月
+//凍える２月
+When everything\n
+froze?
 <$00>
+
 
 
 
@@ -437,8 +460,10 @@ they're for?
 
 #WHB(PTR, $00002A81)
 
-マーチ
+//マーチ
+March
 <$00>
+
 
 
 
@@ -448,8 +473,10 @@ they're for?
 
 #WHB(PTR, $00002A85)
 
-３月、芽吹く春
+//３月、芽吹く春
+When new life budded?
 <$00><$00>
+
 
 
 
@@ -459,8 +486,10 @@ they're for?
 
 #WHB(PTR, $00002A89)
 
-メイ
+//メイ
+May
 <$00><$00>
+
 
 
 
@@ -470,8 +499,10 @@ they're for?
 
 #WHB(PTR, $00002A8D)
 
-５月、光のシーズン
+//５月、光のシーズン
+When light came down?
 <$00>
+
 
 
 
@@ -481,8 +512,10 @@ they're for?
 
 #WHB(PTR, $00002A91)
 
-ジュン
+//ジュン
+June
 <$00>
+
 
 
 
@@ -492,8 +525,11 @@ they're for?
 
 #WHB(PTR, $00002A95)
 
-悲しみの６月
+//悲しみの６月
+When sadness\n
+deepened?
 <$00><$00>
+
 
 
 
@@ -503,8 +539,10 @@ they're for?
 
 #WHB(PTR, $00002A99)
 
-ジュライ
+//ジュライ
+July
 <$00><$00>
+
 
 
 
@@ -514,8 +552,10 @@ they're for?
 
 #WHB(PTR, $00002A9D)
 
-風の７月
+//風の７月
+When breezes soothed?
 <$00><$00>
+
 
 
 
@@ -525,8 +565,10 @@ they're for?
 
 #WHB(PTR, $00002AA1)
 
-オーガスト
+//オーガスト
+August
 <$00>
+
 
 
 
@@ -536,8 +578,11 @@ they're for?
 
 #WHB(PTR, $00002AA5)
 
-寝付けない８月の夜
+//寝付けない８月の夜
+When nights were\n
+longest?
 <$00>
+
 
 
 
@@ -547,8 +592,10 @@ they're for?
 
 #WHB(PTR, $00002AA9)
 
-セプテンバー
+//セプテンバー
+September
 <$00><$00>
+
 
 
 
@@ -558,8 +605,11 @@ they're for?
 
 #WHB(PTR, $00002AAD)
 
-９月、実り
+//９月、実り
+When miracles were\n
+due?
 <$00>
+
 
 
 
@@ -569,8 +619,10 @@ they're for?
 
 #WHB(PTR, $00002AB1)
 
-ノベンバー
+//ノベンバー
+November
 <$00>
+
 
 
 
@@ -580,8 +632,10 @@ they're for?
 
 #WHB(PTR, $00002AB5)
 
-冷たい朝、１１月
+//冷たい朝、１１月
+When fog closed in?
 <$00>
+
 
 
 
@@ -591,8 +645,10 @@ they're for?
 
 #WHB(PTR, $00002AB9)
 
-ディセンバー
+//ディセンバー
+December
 <$00><$00>
+
 
 
 
@@ -602,8 +658,11 @@ they're for?
 
 #WHB(PTR, $00002ABD)
 
-春のような１２月
+//春のような１２月
+When omens were\n
+realized?
 <$00>
+
 
 
 
@@ -614,8 +673,10 @@ they're for?
 #WHB(PTR, $00002AC1)
 
 <$08>
-砂のシンパシー
+//砂のシンパシー
+Sand Sympathy
 <$05><$00><$00>
+
 
 
 
@@ -625,8 +686,10 @@ they're for?
 
 #WHB(PTR, $00002AC5)
 
-ダミアヌスを呼び出す
+//ダミアヌスを呼び出す
+Calls for Damian
 <$00><$00>
+
 
 
 
@@ -637,8 +700,10 @@ they're for?
 #WHB(PTR, $00002AC9)
 
 <$08>
-銀のカプセル
+//銀のカプセル
+Silver Capsule
 <$05><$00>
+
 
 
 
@@ -648,8 +713,11 @@ they're for?
 
 #WHB(PTR, $00002ACD)
 
-５つの預言をしまう
+//５つの預言をしまう
+Stores the five\n
+propechies
 <$00><$00>
+
 
 
 
@@ -660,8 +728,10 @@ they're for?
 #WHB(PTR, $00002AD1)
 
 <$08>
-赤い石
+//赤い石
+Red Stone
 <$05><$00>
+
 
 
 
@@ -671,8 +741,10 @@ they're for?
 
 #WHB(PTR, $00002AD5)
 
-赤い石
+//赤い石
+Red Stone
 <$00>
+
 
 
 
@@ -683,8 +755,10 @@ they're for?
 #WHB(PTR, $00002AD9)
 
 <$08>
-青い石
+//青い石
+Blue Stone
 <$05><$00>
+
 
 
 
@@ -694,8 +768,10 @@ they're for?
 
 #WHB(PTR, $00002ADD)
 
-青い石
+//青い石
+Blue Stone
 <$00>
+
 
 
 
@@ -706,8 +782,10 @@ they're for?
 #WHB(PTR, $00002AE1)
 
 <$08>
-白い石
+//白い石
+White Stone
 <$05><$00>
+
 
 
 
@@ -717,8 +795,10 @@ they're for?
 
 #WHB(PTR, $00002AE5)
 
-白い石
+//白い石
+White Stone
 <$00>
+
 
 
 
@@ -729,8 +809,10 @@ they're for?
 #WHB(PTR, $00002AE9)
 
 <$08>
-黄色い石
+//黄色い石
+Yellow Stone
 <$05><$00>
+
 
 
 
@@ -740,8 +822,10 @@ they're for?
 
 #WHB(PTR, $00002AED)
 
-黄色い石
+//黄色い石
+Yellow Stone
 <$00>
+
 
 
 
@@ -752,8 +836,10 @@ they're for?
 #WHB(PTR, $00002AF1)
 
 <$08>
-綠の石
+//綠の石
+Green Stone
 <$05><$00>
+
 
 
 
@@ -763,8 +849,10 @@ they're for?
 
 #WHB(PTR, $00002AF5)
 
-綠の石
+//綠の石
+Green Stone
 <$00>
+
 
 
 
@@ -774,8 +862,10 @@ they're for?
 
 #WHB(PTR, $00002AF9)
 
-Pカプセル
+//Pカプセル
+P Capsule
 <$00>
+
 
 
 
@@ -785,8 +875,10 @@ Pカプセル
 
 #WHB(PTR, $00002AFD)
 
-知悪を増やすクスリ
+//知悪を増やすクスリ
+Boosts wisdom
 <$00>
+
 
 
 
@@ -804,8 +896,10 @@ Pカプセル
 
 #WHB(PTR, $00002B01)
 
-Aカプセル
+//Aカプセル
+A Capsule
 <$00>
+
 
 
 
@@ -815,8 +909,10 @@ Aカプセル
 
 #WHB(PTR, $00002B05)
 
-力悪を増やすクスリ
+//力悪を増やすクスリ
+Boosts power
 <$00>
+
 
 
 
@@ -826,8 +922,10 @@ Aカプセル
 
 #WHB(PTR, $00002B09)
 
-Vカプセル
+//Vカプセル
+V Capsule
 <$00>
+
 
 
 
@@ -857,8 +955,10 @@ Vカプセル
 
 #WHB(PTR, $00002B0D)
 
-欲悪を増やすクスリ
+//欲悪を増やすクスリ
+Boosts greed
 <$00>
+
 
 
 
@@ -868,8 +968,10 @@ Vカプセル
 
 #WHB(PTR, $00002B11)
 
-ペキン
+//ペキン
+Peking
 <$00>
+
 
 
 
@@ -879,8 +981,10 @@ Vカプセル
 
 #WHB(PTR, $00002B15)
 
-知悪をかなり増やせる
+//知悪をかなり増やせる
+Greatly boosts wisdom
 <$00><$00>
+
 
 
 
@@ -890,8 +994,10 @@ Vカプセル
 
 #WHB(PTR, $00002B19)
 
-マルセイユ
+//マルセイユ
+Marseille
 <$00>
+
 
 
 
@@ -901,8 +1007,10 @@ Vカプセル
 
 #WHB(PTR, $00002B1D)
 
-力悪をかなり増やせる
+//力悪をかなり増やせる
+Greatly boosts power
 <$00><$00>
+
 
 
 
@@ -912,8 +1020,10 @@ Vカプセル
 
 #WHB(PTR, $00002B21)
 
-サイゴン
+//サイゴン
+Saigon
 <$00><$00>
+
 
 
 
@@ -923,8 +1033,10 @@ Vカプセル
 
 #WHB(PTR, $00002B25)
 
-欲悪をかなり増やせる
+//欲悪をかなり増やせる
+Greatly boosts greed
 <$00><$00>
+
 
 
 
@@ -934,8 +1046,10 @@ Vカプセル
 
 #WHB(PTR, $00002B29)
 
-フラッシュ
+//フラッシュ
+Flash
 <$00>
+
 
 
 
@@ -945,8 +1059,10 @@ Vカプセル
 
 #WHB(PTR, $00002B2D)
 
-マインドスコープを中和
+//マインドスコープを中和
+Wipes the Mind Scope
 <$00>
+
 
 
 
@@ -956,8 +1072,10 @@ Vカプセル
 
 #WHB(PTR, $00002B31)
 
-４９
+//４９
+49
 <$00><$00>
+
 
 
 
@@ -967,8 +1085,10 @@ Vカプセル
 
 #WHB(PTR, $00002B35)
 
-惑応中の悪を増やす
+//惑応中の悪を増やす
+Boosts evil reception
 <$00>
+
 
 
 
@@ -978,8 +1098,10 @@ Vカプセル
 
 #WHB(PTR, $00002B39)
 
-マジックライト
+//マジックライト
+Magic Light
 <$00>
+
 
 
 
@@ -989,8 +1111,10 @@ Vカプセル
 
 #WHB(PTR, $00002B3D)
 
-３悪いずれかを増やす
+//３悪いずれかを増やす
+Boosts one evil
 <$00>
+
 
 
 
@@ -1000,8 +1124,10 @@ Vカプセル
 
 #WHB(PTR, $00002B41)
 
-ブルースモーク
+//ブルースモーク
+Blue Smoke
 <$00>
+
 
 
 
@@ -1011,8 +1137,10 @@ Vカプセル
 
 #WHB(PTR, $00002B45)
 
-スペーサーのEM回復
+//スペーサーのEM回復
+Restores Spacer's EM
 <$00><$00>
+
 
 
 
@@ -1022,8 +1150,10 @@ Vカプセル
 
 #WHB(PTR, $00002B49)
 
-レッドスモーク
+//レッドスモーク
+Red Smoke
 <$00>
+
 
 
 
@@ -1033,8 +1163,10 @@ Vカプセル
 
 #WHB(PTR, $00002B4D)
 
-アーネストのEM回復
+//アーネストのEM回復
+Restores Ernest's EM
 <$00><$00>
+
 
 
 
@@ -1044,8 +1176,10 @@ Vカプセル
 
 #WHB(PTR, $00002B51)
 
-イエロースモーク
+//イエロースモーク
+Yellow Smoke
 <$00><$00>
+
 
 
 
@@ -1055,8 +1189,10 @@ Vカプセル
 
 #WHB(PTR, $00002B55)
 
-ヨランダのEM回復
+//ヨランダのEM回復
+Restores Yolanda's EM
 <$00>
+
 
 
 
@@ -1066,8 +1202,10 @@ Vカプセル
 
 #WHB(PTR, $00002B59)
 
-タオゴールド
+//タオゴールド
+Tao Gold
 <$00><$00>
+
 
 
 
@@ -1077,8 +1215,10 @@ Vカプセル
 
 #WHB(PTR, $00002B5D)
 
-全てのEMを回復する
+//全てのEMを回復する
+Restores all EMs
 <$00><$00><$00>
+
 
 
 
@@ -1090,11 +1230,9 @@ Vカプセル
 
 <$10>
 //アイテムがいっぱいです。\nどれか、捨てるアイテムを選んでください。
-\n
 The item bag is full!\n
-Select an item to
-<$0C>
-trash.
+Select an item to\n
+discard.
 <$0E><$1E><$17><$00>
 
 
@@ -1108,9 +1246,9 @@ trash.
 
 <$10>
 //それは、捨てられません。\nもう一度、アイテムを選んでください。
-Cannot be trashed!\n
-Select a different\n
-item to trash.
+That item cannot be\n
+discarded.\n
+Please try again.
 <$0E><$1E><$17><$00>
 
 

@@ -12,22 +12,48 @@
 #WHB(PTR, $00000041)
 
 <$12><$13><$19><$0B>
-リバー：
+//リバー：
+Liever:
 <$0D>
-\nこれはマジックミラーさ。\n砂嵐が起きると、この鏡は使えなくなる。
+//\nこれはマジックミラーさ。\n砂嵐が起きると、この鏡は使えなくなる。
+\n
+This is a magic\n
+mirror. It doesn't
+<$0C>
+work during\n
+sandstorms.
 <$0C><$0B>
-リバー：
+//リバー：
+Liever:
 <$0D>
-\nほら、鏡をよく見るんだ。
+//\nほら、鏡をよく見るんだ。
+\n
+Here. Take a close\n
+look in the mirror.
 <$0C><$0B>
-リバー：
+//リバー：
+Liever:
 <$0D>
-\n中に実際にはない入口がうつってるだろ。\nそこから向こうへ抜けるんだ。
+//\n中に実際にはない入口がうつってるだろ。\nそこから向こうへ抜けるんだ。
+\n
+When you do, you\n
+might see entrances
+<$0C>
+in its reflection you\n
+wouldn't see\n
+otherwise.
 <$0C><$0B>
-リバー：
+//リバー：
+Liever:
 <$0D>
-\nこうだよ。
+//\nこうだよ。
+\n
+If you go in, you'll\n
+come out the other
+<$0C>
+side.
 <$00>
+
 
 
 
@@ -101,11 +127,15 @@ reflection?!
 #WHB(PTR, $00000111)
 
 //離
+離
 <$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nひょひょ、ライカ、\nお前はそろそろ休んだ方がいい、ひょ。
+\n
+Hyohyo, Laika. You\n
+should rest soon.
 <$0E><$1E><$17><$00>
 
 
@@ -118,11 +148,15 @@ Spiritman:
 #WHB(PTR, $0000012D)
 
 //離
+離
 <$16><$0B>
 //スピリットマン：
-Spiritman:
+Spirit Man:
 <$0D>
 //\nお前の出番ではない、ひょひょ。
+\n
+It's not your turn,\n
+hyohyo.
 <$0E><$1E><$17><$00>
 
 

@@ -13,7 +13,7 @@
 
 <$10><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nこれはこれは、ヨランダではないか！\nもう十分に旅を楽しんだことだろう。
 \n
@@ -21,18 +21,19 @@ My, oh my! Yolanda,\n
 is that you? I hope
 <$0C>
 this outing of yours\n
-felt...adequate.
+was everything you\n
+desired.
 <$0C><$0B>
 //ガリル：
-Garyl:
+Galil:
 <$0D>
 //\nお前にはもう何も残ってはいない。\nそろそろタニアとともに眠りにつくときだ。
 \n
 There's nothing for\n
 you here now. It's
 <$0C>
-high time I put you\n
-to rest, with your\n
+high time I laid you\n
+to rest with your\n
 Tanya.
 <$00>
 
@@ -51,11 +52,12 @@ Yolanda:
 <$0D>
 //\nアタシはどこにもいかない、そうよ\nここにいるのよ、残るのよ！
 \n
-There's no place for\n
-me to go, yes. But
+That's right. There's\n
+no place for me to
 <$0C>
-I'm here, aren't I?\n
-So here I stay!
+go. But I'm here,\n
+aren't I? So here I\n
+stay!
 <$00>
 
 

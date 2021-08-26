@@ -16,6 +16,9 @@
 Ernest:
 <$0D>
 //\nおい、俺が分からねぇのか、うすのろ！
+\n
+Hey, idiot. Don't you\n
+recognize me?
 <$00>
 
 
@@ -32,6 +35,11 @@ Ernest:
 Smokey:
 <$0D>
 //\n何だ？ 開こえねぇな？\n何て言った？
+\n
+Sorry, guess I didn't\n
+catch that? The fuck
+<$0C>
+did you say?
 <$00>
 
 
@@ -48,6 +56,11 @@ Smokey:
 Ernest:
 <$0D>
 //\n用があると言ったんだ、マヌケ！
+\n
+You and I've got\n
+unfinished business,
+<$0C>
+don't we?
 <$00>
 
 
@@ -64,6 +77,11 @@ Ernest:
 Smokey:
 <$0D>
 //\n用があるだと… てめぇ、\nいい度胸してるじゃねぇか、ああん？
+\n
+Unfinished business?\n
+Heh, you've got some
+<$0C>
+nerve.
 <$00>
 
 
@@ -80,11 +98,24 @@ Smokey:
 Smokey:
 <$0D>
 //\nさっきのショータイムじゃ物足りねぇと、\nへん！ 手加減しねぇぜ！ 白ブタ野郎！
+\n
+If the little show\n
+earlier didn't get
+<$0C>
+the message across, I\n
+came with encores.
 <$0C><$0B>
 //スモーキー：
 Smokey:
 <$0D>
 //\nママー、ママー、どうした、叫べ！
+\n
+What's stopping you,\n
+huh? Go ahead and cry
+<$0C>
+to your pigshit\n
+mommy! "Mommy! Mommy!\n
+Mommy!"
 <$00>
 
 
@@ -101,6 +132,9 @@ Smokey:
 Ernest:
 <$0D>
 //\n俺を甘く見るんじゃねぇぜ、\nスモーキーちゃんよ。
+\n
+Don't understimate\n
+me, Puff Puff.
 <$00>
 
 
@@ -117,6 +151,11 @@ Ernest:
 Smokey:
 <$0D>
 //\nうううう、くそっ、白ブタ…\nぶっ殺してやる！
+\n
+Grrr, I've had it!\n
+Get ready to die,
+<$0C>
+piggy!
 <$00>
 
 
@@ -133,6 +172,11 @@ Smokey:
 Ernest:
 <$0D>
 //\nそれはお前だ、スモーキー。\n白ブタから産まれたのはお前だ！
+\n
+Sorry, Smokey. The\n
+piglet that's about
+<$0C>
+to get smoked is you!
 <$00>
 
 
@@ -149,6 +193,9 @@ Ernest:
 Ernest:
 <$0D>
 //\n何だ？ 誰かいるのか？
+\n
+What was that? Is\n
+someone here?
 <$00>
 
 
@@ -177,6 +224,11 @@ Ernest:
 Ernest:
 <$0D>
 //\n誰だ！ 出てこい！\nいい加減なことぬかすな！
+\n
+Who said that? Stop\n
+messing with me, and
+<$0C>
+show yourself!
 <$00>
 
 
@@ -231,6 +283,12 @@ Ernest:
 Ernest:
 <$0D>
 //\n何だと、くそ野郎！ 俺が… 臆病だと？\nもう一度言ってみろ！
+\n
+What do you want from\n
+me, asshole... What
+<$0C>
+sort of coward do you\n
+take me for?!
 <$00>
 
 
@@ -247,6 +305,11 @@ Ernest:
 Ernest:
 <$0D>
 //\n臆病だと？\nこの俺が… 俺は弱くねぇぜ。
+\n
+Am I a coward?\n
+No...I'm not that
+<$0C>
+weak.
 <$00>
 
 

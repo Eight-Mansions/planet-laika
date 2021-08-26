@@ -62,10 +62,9 @@ Yang:
 //\n分かるか、スペースルームだ、\nハウスにある。いいな。
 \n
 That's the space room\n
-in Psycho House.
+in Psycho Lab. First
 <$0C>
-First door on the\n
-right.
+door on the right.
 <$1E>
 //鋭
 鋭
@@ -92,6 +91,7 @@ then? How are you
 happy?
 <$00><$00><$11>
 //誰
+誰
 <$1E><$17><$00>
 
 
@@ -110,7 +110,7 @@ Herod:
 //\n俺の心には恐怖という名の\nタネがまかれている。
 \n
 A seed known as fear\n
-has planted itself so
+planted itself so
 <$0C>
 deeply in my mind.
 <$0C><$0B>
@@ -120,7 +120,7 @@ Herod:
 //\nこの星では何かにつけそいつが発芽する、\nワケの分からない恐怖に\n追い立てられる毎日だ。
 \n
 Something on Mars\n
-germinates the
+germinates this
 <$0C>
 nonsensical seed. I\n
 fend it off every\n
@@ -145,8 +145,9 @@ Herod:
 What do I call this?\n
 Is this just my luck?
 <$0C>
-Would I be better off\n
-if I was never born?
+Would I only know\n
+peace if I was never\n
+born?
 <$00>
 
 

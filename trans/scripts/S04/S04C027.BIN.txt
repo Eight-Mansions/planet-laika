@@ -17,22 +17,20 @@ Boomer:
 <$0D>
 //\nハウスのやつらが…\nああなるのは分かってたんだ。
 \n
-THE MEN AT PSYCHO\n
-HOUSE...HAVE PARTED
-<$0C>
-WAYS, I SEE.
+I see men at Psycho\n
+Lab...have moved on.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
 //\n見えねぇ目玉やら日記やら、\nおかしな話だらけだ。
 \n
-WHAT I CANNOT SEE ARE\n
-THE EYEBALLS AND
+Ohhh, what I cannot\n
+see are the eyeballs
 <$0C>
-ETCHED NOTES AND\n
-OTHER ODDITIES\n
-RIDDLED INSIDE...
+or the visual\n
+oddities etched on\n
+the walls.
 <$1E>
 //声
 声
@@ -52,12 +50,24 @@ RIDDLED INSIDE...
 Boomer:
 <$0D>
 //\n俺には見えねぇ、\n見えねぇもんは見えねぇんだ。
+\n
+Ohhh, I can't see it.\n
+I can't see it, I
+<$0C>
+can't see it...
 <$1E>
 //家
+家
 <$00><$10><$0B>
 //ブーマー：
+Boomer:
 <$0D>
 //\nレッドのやつ、もうじき戻ってくるぜ…\n気を付けな…
+\n
+Red will be back\n
+soon. Ahhh, you
+<$0C>
+should be careful...
 <$00>
 
 
@@ -74,8 +84,14 @@ Boomer:
 Boomer:
 <$0D>
 //\nまだ収まらねぇ… どうなっちまうんだ？
+\n
+It still doesn't\n
+fit... What's going
+<$0C>
+on?
 <$1E>
 //声
+声
 <$00>
 
 
@@ -148,8 +164,8 @@ Boomer:
 Is the brain\n
 crackling still
 <$0C>
-underway? Is it over\n
-yet?
+underway? Will it be\n
+over soon?
 <$1E>
 //家
 家
@@ -169,6 +185,11 @@ yet?
 Boomer:
 <$0D>
 //\nもう夜は来ねぇんじゃねえか、\n白い光が見えたぜ。
+\n
+Ahhh, I don't think\n
+night will return. I
+<$0C>
+saw the white light.
 <$00>
 
 
@@ -205,7 +226,7 @@ Spacer:
 <$0D>
 //\nそこの様子が変だぞ。\nあそこは何て言ったか…
 \n
-That's an off thing\n
+That's a wild thing\n
 to ask. What "break"
 <$0C>
 are you talking\n
@@ -227,8 +248,8 @@ Boomer:
 <$0D>
 //\nハウスだろ、サイコハウスだ。\n連中は夜を壊そうとしやがったんだ。\nそれでおかしくなりやがった。
 \n
-Psycho House. The\n
-guys therebroke the
+Psycho Lab. The guys\n
+there broke the
 <$0C>
 night. That was how\n
 they went mad.
@@ -238,8 +259,8 @@ Boomer:
 <$0D>
 //\nパチパチだ、デンパでパチパチ。\nあんたも仲間か？
 \n
-With a boom and a\n
-crackle, crackle,
+Ohhh, with a boom and\n
+a crackle, crackle,
 <$0C>
 crackle. Didn't you\n
 go see them?
@@ -260,8 +281,8 @@ Spacer:
 <$0D>
 //\nああ、いや、私は見るだけだ。\n金星人のデンパなど、私は信じない。
 \n
-h, uh, just to look.\n
-I don't beleive in
+Oh, uh, just to look.\n
+I don't believe in
 <$0C>
 that Venusian radio\n
 wave stuff.
@@ -304,14 +325,18 @@ Boomer:
 <$0D>
 //\nやつらにケチつけられたんじゃねぇのか？
 \n
-You're not out to\n
-rain on their
+Ahhh, you're not out\n
+to rain on their
 <$0C>
 parades, are you?
 <$00><$12><$13><$18><$0B>
 //スペーサー：
+Spacer:
 <$0D>
 //\nいや、私に限ってそんなことはない。
+\n
+No, it just isn't for\n
+me.
 <$00>
 
 

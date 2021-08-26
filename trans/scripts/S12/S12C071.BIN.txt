@@ -29,8 +29,10 @@ Chloe:
 <$0D>
 //\nあなたがくれるのよ、選ぶだけよ。
 \n
-Offer me one, that I\n
-may choose.
+I shall choose from\n
+the ones you have
+<$0C>
+lead to me.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -87,10 +89,15 @@ Is it this one?
 Not sure
 <$00><$17><$00><$10><$0B>
 //クロエ：
+Chloe:
 <$0D>
 //\nねぇ、これなんかは？
+\n
+Then, is it this one?
 <$1B>
 //、これでいい\nほかのがいい
+、Yes\n
+Not sure
 <$00><$17><$00>
 
 
@@ -117,7 +124,7 @@ Chloe:
 //\nずっと大切にするからね。
 \n
 I shall cherish this\n
-one forever.
+body forever.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -139,7 +146,8 @@ Of course. You don't\n
 want to be trapped in
 <$0C>
 the darkness anymore.\n
-You can come out now.
+This is your chance\n
+to escape.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -175,20 +183,21 @@ Chloe:
 <$0D>
 //\n目よ、そう… 目を見るのよ。\n今、あなたは暗闇にいる。
 \n
-I see your eyes. Yes,\n
-I'm looking at your
+Do you see? I am\n
+looking into your
 <$0C>
 eyes, at the darkness\n
-within you now.
+deep within them now.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\n暗闇のなかで一筋の光を見つめてきた…\n光に導かれて、あなたは現れる…
 \n
-A sole beam of light\n
-that cuts the
+From the deepest\n
+depths, sole beam of
 <$0C>
+light cuts the\n
 darkness. Guided by\n
 the light, you\n
 emerge.
@@ -198,7 +207,7 @@ Chloe:
 <$0D>
 //\n本当の瞬間よ、全てに実際の形と色がある、\n自分の目で確かめて…
 \n
-It's the moment of\n
+This is the moment of\n
 truth! Where all have
 <$0C>
 proper color and\n
@@ -221,10 +230,10 @@ Chloe:
 <$0D>
 //\nほら、本物の体よ、フェニックス。\nそう言うんでしょ、あなたのお名前。
 \n
-Look at your true\n
-body, Phoenix! I
+Behold your true\n
+body, Phoenix! Yes, I
 <$0C>
-heard that was your\n
+knew Phoenix was your\n
 name.
 <$00>
 
@@ -254,8 +263,8 @@ Phoenix:
 This is
 <$0F>
 //さ、僕じゃない、\n僕はこんな人間の形をしていない。
-'s, not mind. I don't\n
-have a human shape.
+'s body. I don't have\n
+a human shape.
 <$00>
 
 
@@ -276,18 +285,18 @@ Chloe:
 Then what shape do\n
 you have? That of a
 <$0C>
-slimy monster? A\n
-poofy ghost?
+mucky monster? A\n
+wisping ghost?
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nねぇ、気に入らないの、\nちゃんとしたあなたの体よ。
 \n
-I think it suits you.\n
-It's not a bad body
+I think the body\n
+you're using right
 <$0C>
-for you at all.
+now suits you nicely.
 <$00>
 
 
@@ -368,7 +377,7 @@ Phoenix:
 //\nそういえば、ママも同じことを…
 \n
 Now that you mention\n
-it, I remember Mother
+it, I remember Mama
 <$0C>
 saying...
 <$0C><$0B>
@@ -380,8 +389,7 @@ Phoenix:
 "A child who smells\n
 of almonds will make
 <$0C>
-a good soldier." She\n
-said that.
+a good soldier."
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -389,11 +397,11 @@ Phoenix:
 //\nママは僕のことを知っていたのか？\nふん、でももう終わりさ。今さら体なんて！
 \n
 But how would she\n
-know that if we...
+know that, if I was
 <$0C>
-Sorry. This stops\n
-here. I don't want\n
-this body.
+never... Sorry, this\n
+stops here. I don't\n
+want this.
 <$00>
 
 
@@ -429,8 +437,8 @@ Chloe:
 <$0D>
 //\nそう思ってるの？
 \n
-Is that what you\n
-think?
+Do you try to think\n
+that way?
 <$00>
 
 
@@ -448,17 +456,18 @@ Phoenix:
 <$0D>
 //\nそうじゃないさ。\nただ生きていて楽しいことなんて少ないよ、
 \n
-No, it's not. I don't\n
-get much joy out of
+No, it's not. I never\n
+thought being born
 <$0C>
-being alive, is all.
+sounded very fun, is\n
+all.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\n心はこのきゅうくつな体に\n閉じこめられてるんだ。こんな体に！
 \n
-But now,my mind is\n
+But now, my mind is\n
 trapped in some
 <$0C>
 stuffy body. THIS\n
@@ -488,10 +497,11 @@ Chloe:
 <$0D>
 //\nシークレットパワー、\nあなたはすごい力の持ち主よ。
 \n
-The secret power. You\n
-are the possessor of
+The secret power?\n
+Yes, you are the
 <$0C>
-a marvelous power,\n
+possessor of a\n
+marvelous power,\n
 after all.
 <$0C><$0B>
 //クロエ：
@@ -499,8 +509,8 @@ Chloe:
 <$0D>
 //\nそれでも楽しくないの？
 \n
-You don't enjoy\n
-having it?
+And yet, you don't\n
+enjoy having it?
 <$00>
 
 
@@ -518,7 +528,7 @@ Phoenix:
 <$0D>
 //\nシークレットパワー…\n確か、あのロッジで…
 \n
-The secret power...\n
+The secret power...?\n
 Ah, from back at the
 <$0C>
 lodge.
@@ -558,7 +568,7 @@ Chloe:
 //\nシークレットパワーは\n心の悪をきれいにする力よ。
 \n
 That secret power\n
-allows you to cleanse
+allows you to purify
 <$0C>
 evil from the minds\n
 of others.
@@ -572,8 +582,7 @@ But when you absorb\n
 that evil from those
 <$0C>
 whom you speak too,\n
-they feel the\n
-effects.
+the gaps remain.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -581,9 +590,10 @@ Chloe:
 //\nあなたと話して\nおかしくなってしまう人もいるわよ。
 \n
 Some people could\n
-lose their minds, or
+lose their minds over
 <$0C>
-go insane simply by\n
+this. People could go\n
+insane simply by\n
 speaking to you.
 <$00>
 
@@ -602,7 +612,7 @@ Chloe:
 <$0D>
 //\nううう…
 \n
-O-owwwwe...
+O-owwe...!
 <$00>
 
 
@@ -620,10 +630,10 @@ Phoenix:
 <$0D>
 //\nどうした？\nどうかしたのか？
 \n
-Is something\n
-happening? What's
+Is something wrong?\n
+What's happening to
 <$0C>
-wrong?
+you?
 <$00>
 
 
@@ -651,8 +661,10 @@ Chloe:
 <$0D>
 //\nエイプリルは大丈夫だ、\nそうだ… うううう
 \n
-April is all right,\n
-get it? You... Owww!
+The girly's doin' all\n
+right, get it? You
+<$0C>
+bum... Owww!
 <$00>
 
 
@@ -680,8 +692,10 @@ Chloe:
 <$0D>
 //\nエイプリルは平気だよ、\n全然平気さ… うううう
 \n
-April is all right,\n
-deal...? Owww!
+April is all right!\n
+Just have faith...
+<$0C>
+Owww!
 <$00>
 
 
@@ -709,10 +723,10 @@ Chloe:
 <$0D>
 //\nエイプリルのやつは大丈夫だ、\nあいつは… ううう
 \n
-That April kid is all\n
-right. She's...!
+That April girl is\n
+alive. Grrr, hurry up
 <$0C>
-Owww!
+and find... Owww!
 <$00>
 
 
@@ -752,11 +766,11 @@ Chloe:
 <$0D>
 //\nううう、まだちゃんとなってないの、\n私の体。まだ意識があるの、邪魔するの。
 \n
-Owww...I'm not whole\n
+Owww... I am not one\n
 with my body just
 <$0C>
-yet. My conscious is\n
-still feeling the\n
+yet. My consciousness\n
+is still feeling the\n
 disturbances.
 <$00>
 
@@ -833,11 +847,11 @@ Chloe:
 <$0D>
 //\n分からないわ。あの女の人のことは…\n見えてこないの、こんなはずないのに。
 \n
-I don't know. I\n
-can't...see that
+I don't know. I don't\n
+understand why,
 <$0C>
-woman. I don't\n
-understand it.
+but...I can't see\n
+that woman.
 <$00>
 
 

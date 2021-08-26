@@ -17,7 +17,7 @@ White Eagle:
 <$0D>
 //\nユニバーサルマンや、おまえの右ウデは\nついぞ戻らなかったのじゃな。
 \n
-Universalman's right\n
+Universal Man's right\n
 arm never recovered.
 <$0C><$0B>
 //ホワイトイーグル：
@@ -54,11 +54,10 @@ White Eagle:
 <$0D>
 //\nとうとうユニバーサルマンは\n死の世界で再生したのじゃ。
 \n
-Ultimately,\n
-Universalman found
+Ultimately, Universal\n
+Man found rebirth in
 <$0C>
-rebirth in the world\n
-of death.
+the Land of the Dead.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -66,9 +65,9 @@ White Eagle:
 //\n再生して\nネオ・ユニバーサルマンとなったのじゃ。
 \n
 From there, he was\n
-reborn as Neo
+reborn as
 <$0C>
-Universalman.
+Neo-Universal Man.
 <$00>
 
 
@@ -90,7 +89,8 @@ What will Neo do with\n
 the prophecy? Is
 <$0C>
 there not someone\n
-here who can take it?
+here who can\n
+withstand its words?
 <$00>
 
 
@@ -108,17 +108,19 @@ White Eagle:
 <$0D>
 //\nおおおおおおおお、これは！
 \n
-Ohohohoho, I see!
+Haww, haww, haww!\n
+Yes, I see!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nお前は、お前ではないな、\nさっきのお前ではない…
 \n
-I-It's you, isn't it?\n
-You're not the you
+It's you, isn't it?\n
+While you're not the
 <$0C>
-from before, are you?
+you from before, it\n
+is you.
 <$00>
 
 
@@ -137,19 +139,19 @@ White Eagle:
 //\nやはりそうじゃったか。 マコトの双子とは\nお前たちのことじゃったのか。
 \n
 I knew it! That means\n
-you two are the twins
+you two ARE the Twins
 <$0C>
-of truth!
+of Truth!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nひとりはココロとして、\nあとひとりはカラダとして存在しておる…
 \n
-One of you exists as\n
+One of you exists in\n
 the spirit, and the
 <$0C>
-other you as the\n
+other exists in the\n
 flesh.
 <$0C><$0B>
 //ホワイトイーグル：
@@ -157,18 +159,18 @@ White Eagle:
 <$0D>
 //\nココロとカラダが、それぞれに\nはじめの一歩を記すのじゃな。
 \n
-The spirit and the\n
-flesh both mark the
+The finding of the\n
+spirit and the flesh
 <$0C>
-first step of this\n
-communion.
+marks the first step\n
+of this communion.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nふほ、深いナゾが解けたのう。
 \n
-Hu-ho! The deep\n
+Haww! The deep\n
 mystery has been
 <$0C>
 solved!
@@ -201,7 +203,7 @@ White Eagle:
 //\n資質がないと預言がお前を焼き尽くすぞ…\n預言は呪いの言葉となるぞ。
 \n
 If you are not\n
-chosen, their worlds
+chosen, their words
 <$0C>
 will reduce you to\n
 ash like a curse.
@@ -221,7 +223,7 @@ ash like a curse.
 に
 <$0B>
 //ネオ・ユニバーサルマン：
-Neo Universalman:
+Neo-Universal Man:
 <$0D>
 //\n言葉を伝える人間をさがせ。\n私はそこに現れる。
 \n
@@ -232,17 +234,17 @@ I shall appear to\n
 them.
 <$0C><$12>
 //に
+に
 <$0B>
 //ネオ・ユニバーサルマン：
-Neo Universalman:
+Neo-Universal Man:
 <$0D>
 //\n預言を理解する人間の前に、\nあああ、私は現れる。
 \n
-Ahh...before the\n
-human who can
+Only before a human\n
+who can withstand the
 <$0C>
-understand the\n
-prophecies, I shall\n
+prophecies shall I\n
 appear.
 <$00>
 
@@ -257,14 +259,15 @@ appear.
 
 <$10><$12>
 //に
+に
 <$0B>
 //ネオ・ユニバーサルマン：
-Neo Universalman:
+Neo-Universal Man:
 <$0D>
 //\nあああ… 闇の私… 急げ。
 \n
-Aaaaah...the darkness\n
-in me is...fast...
+Ah, the darkness in\n
+me quickens.
 <$00>
 
 

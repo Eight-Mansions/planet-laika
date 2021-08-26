@@ -16,6 +16,12 @@
 Spacer:
 <$0D>
 //\nここは…なにもかもが逆の世界。\n悪夢の世界なのか。
+\n
+Everything in this\n
+world is reversed. Is
+<$0C>
+this the Land of\n
+Nightmares?
 <$00>
 
 
@@ -32,11 +38,21 @@ Spacer:
 Spacer:
 <$0D>
 //\nアーネスト…やつならやりかねない。
+\n
+Ernie... Yeah, I can\n
+see him doing it.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nやつは破壊と暴力に憑かれている。\n馬屋に火を放つくらい…
+\n
+With his obssession\n
+with power and
+<$0C>
+conflict, he could\n
+easily set fire to a\n
+stable.
 <$00>
 
 
@@ -75,24 +91,24 @@ Ernest:
 <$0D>
 //\nふん、あの女ならやりかねないぜ…
 \n
-Hmph. That woman...if\n
-that was her doing, I
+Hmph. That woman... I\n
+can't imagine her
 <$0C>
-can't exactly wag my\n
-finger.
+giving Vladimir\n
+tainted liquor to\n
+drink before\n
+breakfast.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nウラジミールにインチキな酒飲ませることなど、\nヨランダにしちゃ朝メシ前だ、建いねぇ。
 \n
-I just don't see her\n
-giving Vladimir shit
+But Yolanda? I\n
+suppose I can't wag
 <$0C>
-liquor to drink\n
-before breakfast, but\n
-would Yolanda?\n
-Absolutely.
+my finger, but she'd\n
+absolutely do that.
 <$00>
 
 
@@ -110,10 +126,11 @@ Yolanda:
 <$0D>
 //\n夢よね、\nそうよ、アタシは悪い夢の中にいるのよ。
 \n
-That was a dream,\n
-wasn't it... Yeah, I
+I'm in a dream,\n
+aren't I. That's
 <$0C>
-was in a nightmare.
+right...this is only\n
+a bad dream.
 <$00>
 
 
@@ -130,11 +147,21 @@ was in a nightmare.
 Yolanda:
 <$0D>
 //\nお利口さんのスペーサーなら考えつくことよ。
+\n
+I can see smartass\n
+Spacer doing it.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nそうよ、おろかなセルゲイに\n濡れ衣を着せるくらい簡単なこと…
+\n
+He'd have zero\n
+difficulty framing
+<$0C>
+that shit-for-brains\n
+Sergei for a serious\n
+crime.
 <$00>
 
 

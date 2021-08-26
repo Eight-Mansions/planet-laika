@@ -13,11 +13,12 @@
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON 4,\n
-COMRADE "
+WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
+"
 <$0F>
 //！
-"!
+"
 <$00>
 
 
@@ -44,10 +45,10 @@ COMRADE "
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
 NOT REGISTERED FOR\n
-ENTRY. FOR DETAILS,\n
-SPEAK TO AN
+ENTRY. FOR DETAILS\n
+AND ASSISTANCE, SPEAK
 <$0C>
-ADMINISTRATOR.
+TO AN ADMINISTRATOR.
 <$00>
 
 
@@ -64,9 +65,11 @@ ADMINISTRATOR.
 Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
-The Hell? What am I\n
-supposed to register\n
-for?!
+\n
+Piece of junk. How am\n
+I supposed to
+<$0C>
+register?
 <$00>
 
 
@@ -84,10 +87,10 @@ Yolanda:
 <$0D>
 //\n何よこれ？\n失礼しちゃうわね！
 \n
-What do you mean?\n
-Hello?\n
-Can I talk to your\n
-manager?
+The fuck does that\n
+mean?\n
+Hello? A little help\n
+here?!
 <$00>
 
 
@@ -105,10 +108,8 @@ Spacer:
 <$0D>
 //\nやはりな…\n私ではだめなのだ。
 \n
-Hmm, this thing\n
-doesn't want to let
-<$0C>
-me in. Fun, fun, fun.
+Hmm... Looks like I'm\n
+not getting in.
 <$00>
 
 
@@ -171,6 +172,9 @@ us?
 West:
 <$0D>
 //\nリトルさんがな。顔貸してもらおう。
+\n
+Little will borrow a\n
+face!
 <$00>
 
 
@@ -209,7 +213,7 @@ April:
 Hey, we're in a\n
 hurry, you two! And
 <$0C>
-who is this "Liter"\n
+who is this "Little"\n
 person?
 <$00>
 
@@ -227,6 +231,13 @@ person?
 April:
 <$0D>
 //\n換気塔ってさっきのところじゃない？\n手前を右にって言ってたよね、戻ってみない？\nそれとも何か気になることでもあるの？
+\n
+Gold said it was in\n
+front of the
+<$0C>
+ventilation tower,\n
+right? Should we\n
+circle back?
 <$00>
 
 
@@ -243,16 +254,32 @@ April:
 April:
 <$0D>
 //\n分かった！\n顔の怪物でしょ、ねぇ、それが気になる…
+\n
+I see! So, that\n
+monster was a Phase,
+<$0C>
+was it? Makes sense.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそうじゃない？\n普通じゃ見えないっていうから、\n幻覚じゃないかと思うんだけど。
+\n
+I don't know how\n
+anyone would see that
+<$0C>
+if they weren't\n
+hallucinating.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nどうしてもっていうなら、私はここで待ってる。\n気を付けてね。
+\n
+I'll wait back here,\n
+if that works. Just
+<$0C>
+be careful, okay?
 <$00>
 
 

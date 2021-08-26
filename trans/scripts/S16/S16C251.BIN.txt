@@ -13,7 +13,7 @@
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n決まってるわよ、お顔のためでしょ。
 \n
@@ -23,7 +23,7 @@ decision about your
 face?
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n見かけよ、やっぱり人は見かけ、\nあなたもそう思うでしょ。
 \n
@@ -33,7 +33,7 @@ outward appearances.
 Don't you agree?
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n同じこと考えてるのよね、\nそうよね、ヨランダ。
 \n
@@ -43,7 +43,7 @@ alike, so surely you
 agree. Right Yolanda?
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nあら、そういうんじゃないの、\nあなたは…ヨランダ。
 \n
@@ -51,7 +51,7 @@ Oh? I'm not wrong, am\n
 I? Certainly not,
 <$0C>
 because\n
-you're...Yolanda
+you're...Yolanda.
 <$1E>
 //行
 行
@@ -68,15 +68,15 @@ you're...Yolanda
 
 <$12><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nお顔がなにより、見かけの人よ。\nアタシもあなたも、そうでしょ、ヨランダ。
 \n
 It doesn't matter\n
-who, Yolanda; faces
+who, Yolanda: faces
 <$0C>
 are the centerpiece\n
-of our outward\n
+of one's outward\n
 appearance.
 <$1E>
 //中
@@ -94,16 +94,26 @@ appearance.
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nこれは夢よね、そうよね。
+\n
+This is a dream,\n
+isn't it. Yes, it is.
 <$0C><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nでもいつもと建う惑じよ、\nどこがとはいえないけど。
+\n
+Dear, I'm always so\n
+confused. I doubt
+<$0C>
+understanding will\n
+help anyways.
 <$1E>
 //中
+中
 <$00>
 
 
@@ -120,6 +130,12 @@ Marrakesh:
 Spacer:
 <$0D>
 //\nこの世界で眠れば戻れるんだな、\nここはただの悪夢だろ。
+\n
+If we sleep in this\n
+world, we can still
+<$0C>
+turn back. This is\n
+still a nightmare.
 <$00>
 
 
@@ -136,6 +152,13 @@ Spacer:
 Yolanda:
 <$0D>
 //\nそうよ、ただの夢よ。\nアタシがいつも見る夢じゃないけどね。
+\n
+Yes... While this\n
+isn't the kind of
+<$0C>
+dream I usually have,\n
+it's still only a\n
+dream.
 <$00>
 
 
@@ -152,6 +175,12 @@ Yolanda:
 Ernest:
 <$0D>
 //\n夢見るオトメかよ、へん、\nもう夢なんかあきあきだぜ。
+\n
+The woman's dreaming.\n
+She's gotta be
+<$0C>
+getting sick of it by\n
+now.
 <$00>
 
 
@@ -165,11 +194,17 @@ Ernest:
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\n何か変よね、変、うまくいえないけど？
+\n
+Something's changed,\n
+but I can't put my
+<$0C>
+finger on what.
 <$1E>
 //中
+中
 <$00>
 
 
@@ -183,11 +218,17 @@ Marrakesh:
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nなかなか眠れないのよ、ぜんぜんダメ！\nこれじゃ戻れないわ！
+\n
+I can't rest like\n
+this! Not at all! I
+<$0C>
+can't ho home yet!
 <$1E>
 //中
+中
 <$00>
 
 
@@ -201,11 +242,17 @@ Marrakesh:
 
 <$10><$0B>
 //マラケシュ：
-Marrakesh:
+Marrakech:
 <$0D>
 //\nねぇ、ここから出して、連れ出してよ。
+\n
+Dear, get out of\n
+here. Come on, let's
+<$0C>
+go.
 <$1E>
 //中
+中
 <$00>
 
 

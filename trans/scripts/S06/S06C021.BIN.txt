@@ -56,7 +56,7 @@ April:
 <$0D>
 //\nねぇ、どうして…
 \n
-But why?
+But how?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -99,9 +99,9 @@ April:
 //あなたがエイプリルね。\nそしてそこにいるのが…
 Ah, you must be\n
 April!\n
-And that over there
+And the woman over
 <$0C>
-is...
+there is...
 <$00>
 
 
@@ -154,9 +154,9 @@ Yolanda:
 //\nクロエちゃんね。\nねぇ、あなたとアタシは似てる、そう思う？
 \n
 So, Chloe! You and I\n
-resemble each other,
+must have a good deal
 <$0C>
-don't you think?
+in common!
 <$00>
 
 
@@ -230,9 +230,9 @@ Yolanda:
 <$0D>
 //\nそう、同じね。\nアタシもそう思うときがあるの。
 \n
-That's a good answer!\n
-I feel the same way
-<$0C>
+That's still\n
+relatable!\n
+I feel the same way\n
 at times.
 <$0C><$0B>
 //ヨランダ：
@@ -240,9 +240,10 @@ Yolanda:
 <$0D>
 //\nひとりの時に思うのよ、\nアタシって何だろうって。
 \n
-When I'm alone, I\n
-wonder,\n
-"What the Hell am I?"
+When I'm alone,\n
+sometimes I'm like,
+<$0C>
+"What the hell am I?"
 <$00>
 
 
@@ -281,10 +282,11 @@ Yolanda:
 <$0D>
 //\nそういうところもそっくりねー。\n今はじゃあ誰と一緒なの？
 \n
-Oh, pssh-shah! Surely\n
-you've had SOMEONE in
+Oh, pssh-shah! A cute\n
+girl like you? Surely
 <$0C>
-your life, no?
+there was SOMEONE in\n
+your life.
 <$00>
 
 
@@ -341,7 +343,7 @@ Yolanda:
 <$0D>
 //\nふふ、いい人なの？\nそのタトラーって、あんたのいい人？
 \n
-Aww, this Tatler\n
+Hmm. This Tatler\n
 sounds special. Was
 <$0C>
 he your special\n
@@ -382,7 +384,7 @@ Yolanda:
 <$0D>
 //\nうーん、じれったいわね、\nあんたの彼氏なんでしょ？
 \n
-Tsk, this will take\n
+Jesus, this will take\n
 all day. Was he your
 <$0C>
 boyfriend or what?!
@@ -424,8 +426,8 @@ Yolanda:
 <$0D>
 //\nそう。じゃあ、\nそのお友達のところに案内してよ。
 \n
-There! We! Go!\n
-Take us to where your
+There! We! Go! Take\n
+us to where your
 <$0C>
 "friend" is!
 <$00>
@@ -485,8 +487,10 @@ Yolanda:
 <$0D>
 //\nもう！ いい加減にしてよ。\n何度も名乗らせないで。アタシはヨランダ。
 \n
-Laika is NOT my name.\n
-It's Yolanda!
+Excu-zeh? Laika is\n
+NOT my name. It's
+<$0C>
+Yolanda!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -494,21 +498,21 @@ Yolanda:
 //\nせっかくのクリスマスだっていうのに、\n誰かのせいでこんなところでうろうろ…さ、
 \n
 Shame we can't have\n
-one Christmas without
+one Xmas without
 <$0C>
-airing out one's\n
-dirty laundry, eh?
+having to patch up\n
+someone's old drama,\n
+but duty calls.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n船長さんを連れ戻して帰るのよ。\nそれくらいアタシにだって！
 \n
-But, duty calls!\n
-Let's rescue the
+Let's rescue the\n
+captain. That's why I
 <$0C>
-captain. That's why\n
-I'm here, after all.
+came out, after all.
 <$00>
 
 
@@ -551,40 +555,85 @@ The pleasure was\n
 already mine, April.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nちょっとエイプリル！\nこっちじゃないって。
+\n
+Wait, April. This\n
+isn't the way.
 <$0C><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nクロエちゃんは階段をのぼったのよ、\nあんた見てなかったの？
+\n
+Didn't you see Chloe\n
+go upstairs?
 <$00><$12><$0B>
 //エイプリル：
+April:
 <$0D>
 //\n私はあなたの後に付いてきただけよ。
+\n
+I was just following\n
+you!
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\n人のせいにしないでちょうだい！ 階段よ。
+\n
+D-don't point fingers\n
+at me! Point at the
+<$0C>
+stairs!
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nあんた、地球に戻りたくないの？\nクロエちゃんは階段よ。
+\n
+Don't you want to get\n
+back to Earth?
+<$0C>
+Chloe's UPSTAIRS.
 <$00><$12><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nこっちに来たのはあなたじゃない…
+\n
+You're the one who\n
+walked over here,
+<$0C>
+ma'am...
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nヨランダよ。さ、階段階段。
+\n
+YO. LAN. DA.\n
+UP. STAIRS. NOW.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
+Yolanda:
 <$0D>
 //\nさ、そこにある階段よ。\n船長さんが待ってるんでしょ。
+\n
+Look, the stairs are\n
+over there. The
+<$0C>
+captain must be\n
+waiting for us.
 <$00><$12><$0B>
 //エイプリル：
+April:
 <$0D>
 //\nそうね。登ってみましょう。
+\n
+All right, let's go\n
+up.
 <$00>
 
 

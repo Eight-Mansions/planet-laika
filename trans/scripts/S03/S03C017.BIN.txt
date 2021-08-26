@@ -13,25 +13,26 @@
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n気になるのか、\nお前と一緒に来た女のことだろ…
 \n
-...Are you thinking\n
-about the woman you
+...You thinking about\n
+the girly you came
 <$0C>
-came here with?
+here with?
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nレッドのやつが見たのは幻覚かもな。\n見に行くのか？
 \n
-The person Red saw\n
-might have been a
+Red might've been\n
+seeing
 <$0C>
-hallucination. Did\n
-you want to check?
+hallucinations,\n
+but...want to go\n
+check?
 <$1B>
 //（ちょっと行ってみる。\n今はよしておく。
 （Yes。\n
@@ -49,17 +50,17 @@ No。
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nなら俺はここで待ってる。早くしてくれよ。
 \n
-If you do, I'll wait\n
-here. Just make it
+If you want, I'll\n
+wait here. Just make
 <$0C>
-quick.
+it quick.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n俺の行くところは忘却の海じゃない…\n夢に出てこなかったからな。
 \n
@@ -81,14 +82,14 @@ to emerge.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n賢明だ、そうだ、砂嵐が来そうだ。戻ろう。
 \n
 Keep it prudent. If\n
 you see any
 <$0C>
-standstorms, come\n
+standstorms, hurry\n
 back.
 <$00>
 
@@ -103,38 +104,41 @@ back.
 
 <$10><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nメディスンマンのやつがここを閉めたんだ。
 \n
-The medicine man\n
-closed this.
+Oi, looks like the\n
+medicine men closed
+<$0C>
+this.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n記憶の谷で善人が見つかったそうだ。善人だ。\nもうじき戻ってくるだろう。
 \n
-Seems a good person\n
-was seen in Memory
+Must mean a "good\n
+person" was seen in
 <$0C>
-Valley. They should\n
-be back soon.
+Valles Memoriae.\n
+Let's hope they make\n
+it back soon.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\n善人は危ないんだ、\nそうだ、すぐ悪にころんでしまうからな。
 \n
 Good people are\n
-dangerous, get it?
+dangerous, got it?
 <$0C>
-You get it? Because\n
-they are quick to\n
-fall to evil.
+The gooder they are,\n
+the harder they fall\n
+before evil.
 <$0C><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nお前の仲間かも知れんぞ。
 \n
@@ -142,8 +146,16 @@ That includes your\n
 companions.
 <$00><$11><$0B>
 //リトル：
+Little:
 <$0D>
 //\nもういいのか。思い出にヒタれるやつは\nシアワせだ。\n俺にはそれができない。さあ、行こう。
+\n
+Had enough? Anyone\n
+who says memories
+<$0C>
+don't affect 'em is a\n
+liar. It ain't for me\n
+either. Come on.
 <$00>
 
 
@@ -157,9 +169,16 @@ companions.
 
 <$11><$0B>
 //リトル：
-Liter:
+Little:
 <$0D>
 //\nおい、俺はのんびり屋じゃないんだ、\n急いでるんだ、そうだそうだ、\n俺には時間がない！
+\n
+Oi, I'm not some bum\n
+like you, got it?
+<$0C>
+I've got things to\n
+do, and no time to do\n
+'em!
 <$00>
 
 
@@ -207,11 +226,12 @@ April:
 <$0D>
 //\n同じような惑じね、ママの声も急に、\nふっと開こえては遠ざかるの。
 \n
-I can hear my\n
-mother's voice so
+I heard my mom's\n
+voice all of a
 <$0C>
-suddenly, and just as\n
-suddenly, it's gone.
+sudden, and just as\n
+suddenly, it faded\n
+away.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -219,7 +239,7 @@ April:
 //\n私のようすをうかがうかのように…
 \n
 It's like she's\n
-giving me directions.
+leading me around.
 <$00>
 
 
@@ -236,23 +256,44 @@ giving me directions.
 Tommy:
 <$0D>
 //\nようよう、やっぱりだ、目ん玉だ。\nリトルには見えるんだ、
+\n
+Hey, you know those\n
+eyeballs?\n
+Little can see them,\n
+a-yup!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nおかしなこともあるもんだ。\nぶつぶつ言いながら扉の中に消えたぞ。
+\n
+It was so weird, but\n
+he just mumbled some
+<$0C>
+weird rhyme and\n
+disappeared through\n
+the door.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nああ、俺には無理だな、そうだな…
+\n
+But ah, I can't help\n
+you beyond that,
+<$0C>
+a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n俺、こんなふうにしゃべったか？
+\n
+Hey, did I saw\n
+something weird?
 <$1E>
 //声
+声
 <$00>
 
 
@@ -269,8 +310,14 @@ Tommy:
 Tommy:
 <$0D>
 //\nやっぱりだな、目ん玉、\nあのウワサは本当だったんだな。
+\n
+I knew it! Those\n
+eyeballs were real
+<$0C>
+after all, a-yup.
 <$1E>
 //家
+家
 <$00>
 
 
@@ -287,11 +334,20 @@ Tommy:
 Tommy:
 <$0D>
 //\nようよう…知ってるか。\n目ん玉のウワサは本当だったんだ、
+\n
+Hey, did you know\n
+those eyeballs
+<$0C>
+everyone talks about\n
+are real?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nリトルには見えてたんだ、ようよう…
+\n
+Little can see them,\n
+a-yup!
 <$00>
 
 
@@ -308,6 +364,9 @@ Tommy:
 Yolanda:
 <$0D>
 //\n目ん玉ね、リトルね。
+\n
+Little can see the\n
+eyeballs?
 <$00>
 
 
@@ -324,11 +383,23 @@ Yolanda:
 Tommy:
 <$0D>
 //\nさっきぶつぶつ言いながら扉の中に消えたぞ。
+\n
+He just mumbled some\n
+weird rhyme and
+<$0C>
+disappeared through\n
+the door.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
+\n
+That's the kind of\n
+stuff you hear about
+<$0C>
+in those eyeball\n
+rumors, a-yup.
 <$00>
 
 
@@ -345,6 +416,8 @@ Tommy:
 Yolanda:
 <$0D>
 //\n何？
+\n
+But what?
 <$00>
 
 
@@ -361,6 +434,11 @@ Yolanda:
 Tommy:
 <$0D>
 //\nさっきと同じか、同じやつなのか？
+\n
+You're not the person\n
+I was talking to
+<$0C>
+before, are you?
 <$00>
 
 
@@ -377,6 +455,11 @@ Tommy:
 Tommy:
 <$0D>
 //\nリトルには見えるんだ、\nようよう、おかしな話だ。
+\n
+Anyways, Little can\n
+see them, a-yup! It
+<$0C>
+was so weird.
 <$00>
 
 
@@ -393,6 +476,11 @@ Tommy:
 Yolanda:
 <$0D>
 //\n目ん玉ね、たしか…頭いいと見える…\n思い出したわ。
+\n
+Note to self: nerds\n
+can see the eyeballs.
+<$0C>
+Got it.
 <$00>
 
 
@@ -409,11 +497,20 @@ Yolanda:
 Tommy:
 <$0D>
 //\nようよう…知ってるか。\n目ん玉のウワサは本当だったんだ、
+\n
+Hey, did you know\n
+those eyeballs
+<$0C>
+everyone talks about\n
+are real?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nリトルには見えてたんだ、ようよう…
+\n
+Little can see them,\n
+a-yup!
 <$00>
 
 
@@ -430,6 +527,9 @@ Tommy:
 Ernest:
 <$0D>
 //\n目ん玉だな、リトルだな。
+\n
+Little can see the\n
+eyeballs.
 <$00>
 
 
@@ -446,11 +546,23 @@ Ernest:
 Tommy:
 <$0D>
 //\nさっきぶつぶつ言いながら扉の中に消えたぞ。
+\n
+He just mumbled some\n
+weird rhyme and
+<$0C>
+disappeared through\n
+the door.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
+\n
+That's the kind of\n
+stuff you hear about
+<$0C>
+in those eyeball\n
+rumors, a-yup.
 <$00>
 
 
@@ -467,6 +579,8 @@ Tommy:
 Ernest:
 <$0D>
 //\n何だ？ 言ってみろ。
+\n
+What did you say?
 <$00>
 
 
@@ -483,6 +597,11 @@ Ernest:
 Tommy:
 <$0D>
 //\n怖いな、にらむんじゃないな…\n俺、こんなふうにしゃべったか？
+\n
+What a scary look...\n
+Hey, did I say
+<$0C>
+something weird?
 <$00>
 
 
@@ -499,6 +618,9 @@ Tommy:
 Tommy:
 <$0D>
 //\nリトルはお話ししたんだ、\nようよう、そうだ、お話だ。
+\n
+Little was talking,\n
+a-yup. I saw it.
 <$00>
 
 
@@ -515,10 +637,21 @@ Tommy:
 Ernest:
 <$0D>
 //\n目ん玉だな…頭いいと見える…\n思い出したぜ。
+\n
+Apparently...only\n
+really smart people
+<$0C>
+can see the eyeballs.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
+Spacer:
 <$0D>
 //\nここは…あの眼のある場所？
+\n
+Is this where I'm\n
+supposed to see that
+<$0C>
+eyeball?
 <$00>
 
 
@@ -535,6 +668,13 @@ Ernest:
 April:
 <$0D>
 //\nリトルは一度も表には出たことないんだって。\nアガタが教えてくれたよ。\n火星のことを憎んでるからなんだって。
+\n
+According to Agatha,\n
+Little hasn't come
+<$0C>
+out even once. She\n
+says it's because he\n
+hates Mars.
 <$00>
 
 

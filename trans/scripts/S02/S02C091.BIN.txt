@@ -17,8 +17,8 @@ April:
 <$0D>
 //\nあっライカ…\nまたふたりになっちゃったね。
 \n
-There you are,\n
-Laika... I still
+There you are, Laika.\n
+Listen, I still
 <$0C>
 haven't seen the\n
 others.
@@ -39,10 +39,10 @@ April:
 <$0D>
 //\nさっきの子、催眠術でも使ったの？
 \n
-That child just now,\n
-did he use hypnosis
+That little boy just\n
+now, did he use
 <$0C>
-on you too?
+hypnosis on you too?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -94,7 +94,7 @@ April:
 <$0D>
 //\n私、この任務のこと\nほとんど知らされてなかったの。
 \n
-I didn't know that\n
+I didn't know too\n
 much about this
 <$0C>
 mission when I\n
@@ -117,12 +117,13 @@ April:
 <$0D>
 //\nオクトーバー司令官は、\n火星の土に含まれてる成分が人に\n幻覚をもたらす、そう考えてるみたいなの。
 \n
-Does Comd. October\n
-believes Martian
+Commander October was\n
+already aware that
 <$0C>
-topsoil contains\n
+Martian topsoil\n
+contains\n
 hallucinogenic\n
-agents?
+agents.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -130,20 +131,20 @@ April:
 //\nほんとに急だったのよ。
 \n
 And it's effective\n
-against humans?
+against humans? That
 <$0C>
-That's news to me.
+might've been news to\n
+me, but...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nはじめは乗り気がしなかったけど、\nライカと一緒って開いて引き受けたんだ。
 \n
-I wasn't even\n
-interested in
+...I wasn't so\n
+interested in joining
 <$0C>
-joining, at first.\n
-But then, I heard you\n
+until I heard you\n
 were coming.
 <$00>
 
@@ -163,7 +164,7 @@ April:
 //\nああ、夕陽ね、火星の夕陽…
 \n
 Wow, a sunset! A\n
-sunset on Mars.
+sunset on Mars!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -173,7 +174,8 @@ April:
 And today's\n
 Christmas, so it's a
 <$0C>
-Christmas on Mars.
+Christmas on Mars\n
+too!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -181,10 +183,10 @@ April:
 //\nまだ気分がすぐれないから、\nちょっとここで休んでいくね。
 \n
 I wish I was feeling\n
-better. Do you mind
+better for this. Do
 <$0C>
-if I take a break\n
-here?
+you mind if I take a\n
+break here?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -203,8 +205,9 @@ April:
 //\n酸索屋のヘロデ。\nその人がコロニーを仕切ってるの。
 \n
 He runs the oxygen\n
-dispensary, but he
+dispensary, but more
 <$0C>
+importantly, he\n
 directs the entire\n
 colony.
 <$0C><$0B>
@@ -241,8 +244,8 @@ April:
 I'll be right behind\n
 you, soon as I catch
 <$0C>
-my breath. Head up to\n
-the colony.
+my breath. You should\n
+make for the colony.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -266,20 +269,41 @@ us.
 #WHB(PTR, $00001901)
 
 <$11><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nどうしたの？コロニーはすぐそこよ。
+//\nどうしたの？コロニーはすぐそこよ。
+\n
+What's the matter?\n
+The colony is
+<$0C>
+straight ahead.
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nちゃんとライカ…じゃなかった\n
+//\nちゃんとライカ…じゃなかった\n
+\n
+I don't think "Laika"\n
+is in their registry,
+<$0C>
+though, since "
 <$0F>
-って名前で\n登録されてるはずよ。
+//って名前で\n登録されてるはずよ。
+"'s on your\n
+paperwork.
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nもう少ししたら私も行くから。
+//\nもう少ししたら私も行くから。
+\n
+Go on without me, and\n
+I'll join you once I
+<$0C>
+catch my breath.
 <$00>
+
 
 
 
@@ -295,8 +319,8 @@ Phoenix:
 <$0D>
 //\nエイプリル…君はいったい誰なんだ。\n答えてくれ、エイプリル！
 \n
-April, who in God's\n
-name are you? Answer
+April, who in the\n
+world are you? Answer
 <$0C>
 me, April!
 <$00>
@@ -358,11 +382,11 @@ April:
 <$0D>
 //\nママのせいよ。\nママは私をかわいがってくれたけど、\nそれはママがそうしたかったからなの。
 \n
-It's my mother's\n
-fault. She took good
+It's my mom's fault.\n
+She took good care of
 <$0C>
-care of me, but only\n
-becase it served her.
+me, but only because\n
+it served her.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -370,9 +394,9 @@ April:
 //\n私のためじゃなく、ママのため、\n自分のために私を愛したの。\n私にはそれがきゅうくつだった。
 \n
 It wasn't for me, but\n
-for her. Mother loved
+for her. Mom loved me
 <$0C>
-me only to suit her\n
+only to suit her\n
 self. It\n
 was...choking.
 <$00>
@@ -393,7 +417,7 @@ April:
 //\nライカのママはきっと\nすてきな人なんでしょうね…
 \n
 Something tells me\n
-your mother was very
+your mom was very
 <$0C>
 good to you.
 <$0C><$0B>
@@ -448,25 +472,26 @@ April:
 //\nごめんね、急に。なんだかママが\nすごく近くにいるようで怖いの。
 \n
 Sorry, I need to\n
-catch my breath. I
+recoup. I had the
 <$0C>
-had the sudden\n
-sensation my mother\n
-was nearby.
+sudden sensation my\n
+mom was breathing\n
+down my neck.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nママはとっくに…
 \n
-But she's already...
+Even though she's\n
+already...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nねえ、コロニーに戻ってみない？
 \n
-...so! Any luck\n
+...So! Any luck\n
 finding the colony?
 <$00>
 
@@ -488,8 +513,8 @@ April:
 If we don't wrap this\n
 up soon, I worry the
 <$0C>
-open wounds won't\n
-want to close again.
+wounds we open here\n
+won't close again.
 <$0C><$0B>
 //エイプリル：
 April:

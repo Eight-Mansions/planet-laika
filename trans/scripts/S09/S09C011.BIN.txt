@@ -13,17 +13,17 @@
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nふふ、どうしたのさ。\nけげんな顔して。
 \n
-Hehe, what's the\n
+Hmm, what's the\n
 matter? Why the long
 <$0C>
 face?
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n他に誰もいないよね、あんただけだよね。
 \n
@@ -46,7 +46,7 @@ Spacer:
 <$0D>
 //\n私だけだ。 心配はいらない。
 \n
-No one besides me...\n
+No one besides me.\n
 Nothing to worry
 <$0C>
 about...
@@ -63,11 +63,11 @@ about...
 
 <$10><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nあんたに神様の名前、教えてなかったね。
 \n
-I never told you\n
+I never did tell you\n
 God's name, did I?
 <$00>
 
@@ -100,91 +100,92 @@ Does God have a name?
 
 <$11><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n神様はトールボーイって言うんだ。
-/\n
-God's name is\n
-Tallboy.
+\n
+God is named "Tall\n
+Boy".
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n名付けたのは僕じゃない。\n夢の中で開こえたんだ、\nトールボーイって呼ぶ声が。
 \n
-I didn't name him. I\n
-heard it in a dream.
+I didn't name him. A\n
+voice, calling for
 <$0C>
-A voice, calling for\n
-"Tallboy".
+"Tall Boy", came to\n
+me in a dream.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n最初に見つけたときは、つららを逆さにした\nみたいな柱だったんだ。
 \n
 When I first found\n
-this place, icicle
+this place, an icicle
 <$0C>
 came down like a\n
 great pillar before\n
 me.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n次に来たら顔ができてた。 下の方にだよ。
 \n
 The next time I came,\n
-a face appeared from
+a face had formed at
 <$0C>
-underneath.
+its base.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nその次は、どうなってたと思う？\n３つも顔ができてたんだよ。\n見に来るたんびに顔が増えていくんだ。
 \n
 And what happened the\n
 next time? Three
 <$0C>
-faces appeared! Their\n
-numbers multiply each\n
-time.
+faces appeared! The\n
+number of faces goes\n
+up each time.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\n今じゃ柱中に顔がある。 すごいよ。
 \n
 And now, their faces\n
-linger inside the
+live all over that
 <$0C>
-pillar. It's a\n
+giant pillar. It's a\n
 marvel!
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
 \n
-There are sockets by\n
+There are sockets in\n
 the eyes of the first
 <$0C>
-face that appears\n
-that must fit\n
+face that appeared.\n
+Surely they can fit\n
 something.
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nそれで家にあった光る石を\n思いついたってわけだよ。
 \n
 I've come to the\n
-conclusion that the
+conclusion that two
 <$0C>
-glowing stones must\n
-serve some use here.
+of those glowing\n
+stones would do the\n
+trick.
 <$00>
 
 
@@ -205,7 +206,7 @@ Spacer:
 This place isn't a\n
 dam for Evil Mind at
 <$0C>
-all...
+all!
 <$00>
 
 
@@ -219,25 +220,27 @@ all...
 
 <$11><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nトールボーイがイーブルマインドを\n吐き出すところに現れたってこと、\n意味あると思わない？
 \n
-But Tallboy appears\n
-in outpours of Evil
+But, doesn't it tell\n
+you something that
 <$0C>
-Mind. Don't you think\n
-that's relevant?
+Tall Boy appeared in\n
+an Evil Mind deposit\n
+like so?
 <$0C><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nトールボーイは悪を食べるんだよ。\n食べてきれいにしてくれるんだ。\nでも、眼を入れないと本物にはならない。
 \n
-Tallboy devours evil,\n
-and keeps Mars clean.
+Tall Boy devours\n
+evil, and keeps Mars
 <$0C>
-Although, you have to\n
+clean. Of course, I\n
+know you'll want to\n
 see it to believe it.
 <$00>
 
@@ -252,7 +255,7 @@ see it to believe it.
 
 <$11><$13><$19><$0B>
 //リバー：
-River:
+Liever:
 <$0D>
 //\nいよいよなんだよ、ドキドキさ、そりゃ。\nあんたもでしょ。\nでも恐くないよ、神様だもん。
 \n
