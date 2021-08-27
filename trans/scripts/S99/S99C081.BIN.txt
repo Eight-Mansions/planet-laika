@@ -198,14 +198,20 @@ November acquired.
 #WHB(PTR, $0000011D)
 
 <$12>
+//\n
 \n
 <$0B>
-   
+//   
+
 <$0D>
-ディセンバーを手に入れた。
-<$00><$02><$FC>
-からないな、\nあんたがどんな夢を見てるのか。
+//ディセンバーを手に入れた。
+December acquired.
 <$00>
+//快からないな、\nあんたがどんな夢を見てるのか。
+What a curious dream\n
+you must be having.
+<$00>
+
 
 
 
@@ -344,12 +350,30 @@ of a month this is!
 
 #WHB(PTR, $0000030D)
 
-捨れ？ １１月だ…\nそうか、これが最後なんだ。\nいろんなことが終りかけているよ。
+//捨れ？ １１月だ…\nそうか、これが最後なんだ。\nいろんなことが終りかけているよ。
+捨Oh? the eleventh\n
+month... I see, this\n
+is the last. Many
 <$0C>
-でも、あんたがここで見つけなきゃ\nいけないもの、まだ残ってるんだけどなぁ…
-<$00><$02><$31>
-月！ じゅんばんが逆になってたんだね…\nうん！ すごくイヤな惑じだよ。
+gears stop turning\n
+here.
+<$0C>
+//でも、あんたがここで見つけなきゃ\nいけないもの、まだ残ってるんだけどなぁ…
+But you must still\n
+search through them.\n
+There are still
+<$0C>
+things you must find.
 <$00>
+//親月！ じゅんばんが逆になってたんだね…\nうん！ すごくイヤな惑じだよ。
+Interestingly, I\n
+think this month was\n
+switched the other
+<$0C>
+way around. It's\n
+worth a look.
+<$00>
+
 
 
 

@@ -106,13 +106,27 @@ will soon disappear.
 #WHB(PTR, $00000455)
 
 <$12><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n光をあびるほどに、あなたの闇は深くなるの。\nその闇を照らすことはできない…
-<$00><$02><$97>
-ーブしますか？
+//\n光をあびるほどに、あなたの闇は深くなるの。\nその闇を照らすことはできない…
+\n
+The more light you\n
+receive, the deeper
+<$0C>
+your darkness\n
+becomes.\n
+I can't outshine that\n
+darkness.
+<$00>
+//密ーブしますか？
+Save game?
 <$1B>
-、セーブする\nセーブしない
+//、セーブする\nセーブしない
+、Yes\n
+No
 <$00><$17><$00>
+
+
 
 

@@ -11,7 +11,11 @@
 
 #WHB(PTR, $0000015D)
 
-<$00><$0F><$24><$00>
+<$00><$0F>
+//？
+?
+<$00>
+
 
 
 
@@ -21,11 +25,18 @@
 
 #WHB(PTR, $000001AD)
 
-<$00><$0F><$26>
-ママよ、あなたのママよ。
+<$00><$0F>
+//、ママよ、あなたのママよ。
+It's me. Mama's here.
 <$0C>
-ねぇ、覚えてる、あなたが５歳の時の\nクリスマスプレゼント。
+//ねぇ、覚えてる、あなたが５歳の時の\nクリスマスプレゼント。
+Say, do you remember\n
+the Christmas present\n
+I gave you when you
+<$0C>
+were 5 years old?
 <$00>
+
 
 
 
@@ -35,11 +46,26 @@
 
 #WHB(PTR, $000001D9)
 
-<$00><$CC><$CC>
-はあなたのために一番大きなロケットを\nさがしてきたのよ。\n町中のおもちゃ屋さんを回ったのよ。
-<$0C><$0F>
-、夢を捨てないで。\nあなたなら大丈夫、きっと立派な兵士に…\n宇宙飛行士になれるわ。
 <$00>
+//パパはあなたのために一番大きなロケットを\nさがしてきたのよ。\n町中のおもちゃ屋さんを回ったのよ。
+Your batya went to\n
+every toy store,\n
+looking for the
+<$0C>
+biggest\n
+rocket in town to\n
+give to you.
+<$0C><$0F>
+//、夢を捨てないで。\nあなたなら大丈夫、きっと立派な兵士に…\n宇宙飛行士になれるわ。
+, don't throw away\n
+your dream.\n
+I know you can become
+<$0C>
+a great\n
+cosmonaut all on your\n
+own.
+<$00>
+
 
 
 
@@ -71,15 +97,31 @@ SICK, FUCKING GHOST!
 
 #WHB(PTR, $00000495)
 
-<$00><$0B><$B8>
-リル：
+<$00><$0B>
+//ガリル：
+Galil:
 <$0D>
-\n君たちは思い出を呼び起こすのが\n得意なようだね。
+//\n君たちは思い出を呼び起こすのが\n得意なようだね。
+\n
+You three are none\n
+too shabby at
+<$0C>
+resuscitating\n
+memories better off\n
+dead.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n私にしてみれば、\nそれは怪しいエ作にほかならない。
+//\n私にしてみれば、\nそれは怪しいエ作にほかならない。
+\n
+I, for one, don't\n
+care to waste time on
+<$0C>
+such fruitless\n
+endeavors.
 <$00>
+
 
 
 
@@ -89,27 +131,59 @@ SICK, FUCKING GHOST!
 
 #WHB(PTR, $000004A9)
 
-<$00><$0B><$B8>
-リル：
+<$00><$0B>
+//ガリル：
+Galil:
 <$0D>
-\n君たちはやっかいな問顆を抱え込んでいる。
+//\n君たちはやっかいな問顆を抱え込んでいる。
+\n
+You each hold a piece\n
+to a particularly
+<$0C>
+nasty puzzle.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\nどうかね、この私と一緒に\nその問顆を解決に導くというのは。
+//\nどうかね、この私と一緒に\nその問顆を解決に導くというのは。
+\n
+If you'd ever like to\n
+solve it, gather
+<$0C>
+those pieces and give\n
+them to me.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n君たちの心に降り積もった悪意を\n取り除いてやろう。
+//\n君たちの心に降り積もった悪意を\n取り除いてやろう。
+\n
+Lay down every last\n
+piece of ill will
+<$0C>
+you've amassed in\n
+your minds.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\nさあ、心を開くのだ。
+//\nさあ、心を開くのだ。
+\n
+Yes, open your minds\n
+to me!
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n私にはすでに見えているようだ、読めるぞ、\n隠された時間が動きはじめたようだ。
+//\n私にはすでに見えているようだ、読めるぞ、\n隠された時間が動きはじめたようだ。
+\n
+Let me peer at what I\n
+already see. Let me
+<$0C>
+turn the clock that\n
+you forsook!
 <$00>
+
 
 
 
@@ -334,23 +408,52 @@ showed up!
 
 #WHB(PTR, $0000095D)
 
-<$00><$0B><$B8>
-リル：
+<$00><$0B>
+//ガリル：
+Galil:
 <$0D>
-\nさあ、それはどうかな。
+//\nさあ、それはどうかな。
+\n
+Let's take a closer\n
+look at that, shall
+<$0C>
+we?
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n彼はたんに悪ふざけのつもりだった…
+//\n彼はたんに悪ふざけのつもりだった…
+\n
+You see, at the time\n
+of the fire, Sergei
+<$0C>
+already had a\n
+different scheme\n
+underway.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n老人の家に忍び込んで手を下したのは\n彼の仲間だ、そうじゃないのかね。
+//\n老人の家に忍び込んで手を下したのは\n彼の仲間だ、そうじゃないのかね。
+\n
+He was in the middle\n
+of breaking into an
+<$0C>
+old man's house. His\n
+friend kept watch\n
+outide.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\nセルゲイはあのとき表にいたんだ。\n彼が殺したんじゃない。
+//\nセルゲイはあのとき表にいたんだ。\n彼が殺したんじゃない。
+\n
+Sergei was nowhere\n
+near the fire. He did
+<$0C>
+not kill that horse!
 <$00>
+
 
 
 
@@ -392,19 +495,39 @@ BE RIGHT!
 
 #WHB(PTR, $00000985)
 
-<$00><$0B><$B8>
-リル：
+<$00><$0B>
+//ガリル：
+Galil:
 <$0D>
-\n犯行の後、君は現場に忍び込んだ、\nそして血まみれの火かき棒を持ち去った。
+//\n犯行の後、君は現場に忍び込んだ、\nそして血まみれの火かき棒を持ち去った。
+\n
+After the arson, you\n
+snuck back to
+<$0C>
+retrieve a\n
+blood-stained fire\n
+hook from the scene.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\nなぜか火かき棒はセルゲイのシャツと\n一緒に捨てられていた。
+//\nなぜか火かき棒はセルゲイのシャツと\n一緒に捨てられていた。
+\n
+You took that fire\n
+iron, wrapped it in
+<$0C>
+one of Sergei's\n
+shirts, and planted\n
+it elsewhere.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n君がセルゲイをはめたんだ。
+//\n君がセルゲイをはめたんだ。
+\n
+You FRAMED Sergei!
 <$00>
+
 
 
 
@@ -445,15 +568,27 @@ of "when"!
 
 #WHB(PTR, $00000B29)
 
-<$00><$0B><$B8>
-リル：
+<$00><$0B>
+//ガリル：
+Galil:
 <$0D>
-\nヨランダ、\nウラジミールはどうして病気になったのかな？
+//\nヨランダ、\nウラジミールはどうして病気になったのかな？
+\n
+Yolanda, how did\n
+Vladimir fall ill?
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n何か体に良くないものを\n口にしていたんではないかな？
+//\n何か体に良くないものを\n口にしていたんではないかな？
+\n
+Tsk, tsk. He must\n
+have ingested
+<$0C>
+something that wasn't\n
+very good for him.
 <$00>
+
 
 
 
@@ -558,19 +693,35 @@ a...augh! A fa...vor!
 
 #WHB(PTR, $00000B79)
 
-<$00><$0B><$B8>
-リル：
+<$00><$0B>
+//ガリル：
+Galil:
 <$0D>
-\nタニアがあわれだった、\n建うかね。
+//\nタニアがあわれだった、\n建うかね。
+\n
+No favors to Tanya,\n
+though.
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\n君はタニアのそばにいながら、彼女が\n生きているときには一度も現れなかった。
+//\n君はタニアのそばにいながら、彼女が\n生きているときには一度も現れなかった。
+\n
+If you really wanted\n
+to help Tanya, why
+<$0C>
+was it you never\n
+showed your face when\n
+she was alive?
 <$0C><$0B>
-ガリル：
+//ガリル：
+Galil:
 <$0D>
-\nどうしてかな？
+//\nどうしてかな？
+\n
+Was there a reason?
 <$00>
+
 
 
 

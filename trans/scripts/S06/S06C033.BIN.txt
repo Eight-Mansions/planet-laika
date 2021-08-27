@@ -216,13 +216,26 @@ whoosh, whoosh!
 #WHB(PTR, $00000925)
 
 <$12><$0B>
-酸索坑夫３号：
+//酸索坑夫３号：
+Oxygen Miner 3：
 <$0D>
-\nアイスレイクだ、行け、シー。
+//\nアイスレイクだ、行け、シー。
+\n
+YOU mUst gO tO IcE\n
+LAkE, whOOsh!
 <$1E>
+//〇
 〇
-<$00><$10><$01>
-い道閉鎖まで、あとわずかです。\n繰り返します、あとわずか。\nこれは訓練ではありません。
+<$00><$10>
+//坑道閉鎖まで、あとわずかです。\n繰り返します、あとわずか。\nこれは訓練ではありません。
+THE MINESHAFT IS\n
+CLOSING SOON.\n
+PLEASE EVACUATE
+<$0C>
+IMMEDIATELY.\n
+THIS IS NOT A DRILL.
 <$00>
+
+
 
 

@@ -211,19 +211,44 @@ the Pale Rider.
 
 #WHB(PTR, $00000A75)
 
-<$00><$0B><$8D>
-イプリル：
+<$00><$0B>
+//エイプリル：
+April:
 <$0D>
-\n青ざめた馬を見よ。\nこれに乗る騎士の名を死と呼ぶ。
+//\n青ざめた馬を見よ。\nこれに乗る騎士の名を死と呼ぶ。
+\n
+"And I looked, and\n
+behold a pale horse:
+<$0C>
+and his name that sat\n
+on him was Death."
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n死の騎士が駆け抜けた後、\n世界のほとんどは死によって支配される。
+//\n死の騎士が駆け抜けた後、\n世界のほとんどは死によって支配される。
+\n
+"And power was given\n
+unto them the fourth
+<$0C>
+part of the earth, to\n
+kill with sword, and\n
+with hunger,"
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n飢えとおそろしい獣たちによって、\n全ての人間は神のさばきを受けるだろう。
+//\n飢えとおそろしい獣たちによって、\n全ての人間は神のさばきを受けるだろう。
+\n
+"And with death, and\n
+with the beasts of
+<$0C>
+the earth."\n
+Ultimately, all\n
+humans were judged by\n
+God.
 <$00>
+
 
 
 

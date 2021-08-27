@@ -192,15 +192,30 @@ ON OUR OWN.
 
 #WHB(PTR, $000003D1)
 
-<$00><$0B><$8D>
-イプリル：
+<$00><$0B>
+//エイプリル：
+April:
 <$0D>
-\n分からない…\n迷信なら迷信でいいの。
+//\n分からない…\n迷信なら迷信でいいの。
+\n
+I don't understand. I\n
+mean, if all it was
+<$0C>
+were superstition,\n
+that'd be fine.
 <$0C><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\nでも実際にザ・フェイスの上空で\nおかしな光に包まれたのよ。
+//\nでも実際にザ・フェイスの上空で\nおかしな光に包まれたのよ。
+\n
+But even we saw it!\n
+The sky about the
+<$0C>
+Face was engulfed in\n
+a strange light!
 <$00>
+
 
 
 
@@ -258,11 +273,18 @@ surgery!
 
 #WHB(PTR, $000004A5)
 
-<$00><$0B><$8D>
-イプリル：
+<$00><$0B>
+//エイプリル：
+April:
 <$0D>
-\n私たちが着陸しようとしたとき…それに…
+//\n私たちが着陸しようとしたとき…それに…
+\n
+So, the disruption we\n
+had when we tried to
+<$0C>
+land was only...
 <$00>
+
 
 
 

@@ -272,9 +272,15 @@ for your twin.
 
 #WHB(PTR, $00000F81)
 
-<$00><$02><$7E>
-さな肉のかたまりだ。\nともに成長するしかないだろう…
 <$00>
+//小さな肉のかたまりだ。\nともに成長するしかないだろう…
+And what are you now,\n
+a chunk of meat?\n
+Now, you two are
+<$0C>
+stuck together.
+<$00>
+
 
 
 

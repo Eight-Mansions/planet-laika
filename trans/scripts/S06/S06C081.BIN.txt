@@ -48,13 +48,26 @@ little man...
 
 #WHB(PTR, $0000017D)
 
-<$00><$0B><$CC>
-ンチ：
+<$00><$0B>
+//パンチ：
+Punch:
 <$0D>
-\nよせ！ ジュディ！ それをわたせ！\nさあ、おとなしくわたすんだ。
+//\nよせ！ ジュディ！ それをわたせ！\nさあ、おとなしくわたすんだ。
+\n
+Bloody hell, Judy!\n
+Breathe! 'Ere, calm
+<$0C>
+down and gimme the\n
+knife.
 <$0C><$0E><$1E>
-うんざりよ… もううんざり…\n全部おしまいにしてやる！
+//うんざりよ… もううんざり…\n全部おしまいにしてやる！
+I'm tired...so\n
+tired...\n
+YEs...I need to end
+<$0C>
+this!
 <$00>
+
 
 
 
@@ -64,13 +77,23 @@ little man...
 
 #WHB(PTR, $0000018D)
 
-<$00><$0B><$CC>
-ンチ：
+<$00><$0B>
+//パンチ：
+Punch:
 <$0D>
-\nわ、分からず屋は、お仕置きだぞ…\nひ、火かき棒でお仕置き…
+//\nわ、分からず屋は、お仕置きだぞ…\nひ、火かき棒でお仕置き…
+\n
+Y-you bloody bitch,\n
+you'll pay! Yeah,
+<$0C>
+you'll pay with this\n
+fire iron...!
 <$0C><$0E><$1E>
-返せ！ アタシを返せ… ちくしょう！
+//返せ！ アタシを返せ… ちくしょう！
+Give me-! Give me\n
+that, Godammit!
 <$00>
+
 
 
 
@@ -80,12 +103,32 @@ little man...
 
 #WHB(PTR, $000001C5)
 
-<$00><$8A><$99>
-シのヌーンや、パパは病気だったのよ…\nもう洽らないの。 分かった…
-<$0C>
-仕方ないことなの…\nふふふふ、仕方ないのよ、ヌーン、\nでなきゃアタシが殺されてた…
-<$0C>
-はははは、そうよ！\nアタシが死んだ方がよかったの？\nヌーン！
 <$00>
+//アタシのヌーンや、パパは病気だったのよ…\nもう洽らないの。 分かった…
+My little Noon. Papa\n
+was sick. He was\n
+never going to get
+<$0C>
+better. You\n
+understand, don't\n
+you?
+<$0C>
+//仕方ないことなの…\nふふふふ、仕方ないのよ、ヌーン、\nでなきゃアタシが殺されてた…
+There was no other\n
+way... Tsk, tsk. No\n
+other way, Noon.
+<$0C>
+Otherwise, I would\n
+have died instead.
+<$0C>
+//はははは、そうよ！\nアタシが死んだ方がよかったの？\nヌーン！
+Hahaha, that's right!\n
+And you wouldn't like\n
+it if Mummy died,
+<$0C>
+would you, Noon?
+<$00>
+
+
 
 

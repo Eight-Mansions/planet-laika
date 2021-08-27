@@ -26,11 +26,19 @@ The item bag is full!
 
 #WHB(PTR, $000005A9)
 
-<$00><$11><$01><$0B>
-コスマス：
+<$00><$11>
+//子コスマス：
+子Cosmas:
 <$0D>
-\n分からないな、あんたがどんな夢を見てるのか。\n石ならそこだよ。
+//\n分からないな、あんたがどんな夢を見てるのか。\n石ならそこだよ。
+\n
+I don't suppose I\n
+know what kind of
+<$0C>
+dream you're having,\n
+but here's a stone.
 <$0E><$3C><$17><$00>
+
 
 
 

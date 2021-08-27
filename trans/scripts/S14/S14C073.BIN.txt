@@ -69,20 +69,45 @@ coming!
 #WHB(PTR, $00000105)
 
 <$10><$08>
-今こそ終わりがお前の上に来る。\n私は怒りを送り、お前の行いにしたがって栽き、\nいまわしい全てのことをお前に報いる。
+//今こそ終わりがお前の上に来る。\n私は怒りを送り、お前の行いにしたがって栽き、\nいまわしい全てのことをお前に報いる。
+The end is upon you\n
+now. I shall send my\n
+wrath to reap all you
 <$0C>
-終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
+have sewn, that all\n
+deeds may know\n
+reward.
+<$0C>
+//終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
+The end is upon you!\n
+The end is upon you!\n
+The end of the world
+<$0C>
+burns for you. Now,\n
+behold! This hour is\n
+upon you!
 <$05><$0C>
+//\n
 \n
 <$0B>
-      
+//      
+
 <$0D>
-第四の預言を得た。
-<$00><$10><$0A><$0B>
-      
+//第四の預言を得た。
+So sayeth the fourth\n
+prophecy.
+<$00><$10>
+//\n
+\n
+<$0B>
+//      
+
 <$0D>
-第四の預言を得た。
+//第四の預言を得た。
+So sayeth the fourth\n
+prophecy.
 <$00>
+
 
 
 

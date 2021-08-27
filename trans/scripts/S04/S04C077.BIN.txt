@@ -564,21 +564,56 @@ going crazy.
 
 #WHB(PTR, $00000C39)
 
-<$00><$20><$20>
-   第２２日 テベスの月
-<$0C>
-この歳になって、ヨセミテ、悪夢にうなされた。\nなんと、悪夢は\n全ての人に通じていることを発見。
-<$0C>
-いろんな人間のおこないが\n手に取るように見えた。
-<$0C>
-なかでもダークマンの名を呼ぶ少年には\nおどろかされる。 惑動すら覚える。\nあの少年、コスマスは作り主だ。
-<$0C>
-すばらしい！\nダークマンは、心の友である。 私にも\nあのようなことが、できるのであろうか。
-<$0C>
-念じて念じて、\nやがて友が現れてくれるのであろうか。
-<$0C>
-苦しみから逃れるだけではいけない。\n私はまた学んだ。
 <$00>
+//     第２２日 テベスの月
+The Twenty-second of\n
+Tevet
+<$0C>
+//この歳になって、ヨセミテ、悪夢にうなされた。\nなんと、悪夢は\n全ての人に通じていることを発見。
+At this age I,\n
+Yosemite, had a\n
+nightmare. I learned
+<$0C>
+that nightmares are\n
+common for everyone.
+<$0C>
+//いろんな人間のおこないが\n手に取るように見えた。
+It seems I'm picking\n
+up all sorts of human\n
+behaviors.
+<$0C>
+//なかでもダークマンの名を呼ぶ少年には\nおどろかされる。 惑動すら覚える。\nあの少年、コスマスは作り主だ。
+The boy who calls out\n
+the name "Dark Man",\n
+Cosmas, is especially
+<$0C>
+surprising. He is\n
+Dark Man's creator.
+<$0C>
+//すばらしい！\nダークマンは、心の友である。 私にも\nあのようなことが、できるのであろうか。
+How splendid it is,\n
+that Dark Man is his\n
+tulpa. I wonder if I
+<$0C>
+will acquire this\n
+ability too.
+<$0C>
+//念じて念じて、\nやがて友が現れてくれるのであろうか。
+Wish I may, and wish\n
+I might, will a\n
+friend appear before
+<$0C>
+my sight?
+<$0C>
+//苦しみから逃れるだけではいけない。\n私はまた学んだ。
+Try as I might, it is\n
+not so easy to escape\n
+one's suffering.
+<$0C>
+That, I have learned\n
+too.
+<$00>
+
 
 
 

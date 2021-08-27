@@ -463,9 +463,12 @@ NOT ENOUGH!
 
 #WHB(PTR, $0000109D)
 
-<$00><$AB><$D9>
-セージはありません。
 <$00>
+//メッセージはありません。
+THERE ARE NO\n
+MESSAGES.
+<$00>
+
 
 
 
@@ -475,33 +478,75 @@ NOT ENOUGH!
 
 #WHB(PTR, $0000159D)
 
-<$00><$02><$67>
-線テレビに着信しています。
-<$00><$00><$0B>
-オクトーバー司令官：
-<$0D>
-\nあー、ライカ君、ライカ君だね？
-<$0C><$0B>
-オクトーバー司令官：
-<$0D>
-\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
-<$0C><$0B>
-オクトーバー司令官：
-<$0D>
-\n火星の顔が急に光を放ち、\nいろんな電波や光線が攻撃してくるらしい。
-<$0C><$0B>
-オクトーバー司令官：
-<$0D>
-\nたんなる光のいたずらだと思いたいが、\n早くもいくつもの奇跡が報告され始めている。
-<$0C><$0B>
-オクトーバー司令官：
-<$0D>
-\nあー、ペットが生き返った…\nあー、円周率を思い出した…
-<$0C><$0B>
-オクトーバー司令官：
-<$0D>
-\nだめだ、これは奇跡ではない。\nとにかく、何かあったらまた連絡する。
 <$00>
+//無線テレビに着信しています。
+RECEIVING INCOMING\n
+CALL...
+<$00><$00><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nあー、ライカ君、ライカ君だね？
+\n
+Greetings, Laika. Is\n
+that you?
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
+\n
+I think Earth finally\n
+got a taste of Mars'
+<$0C>
+uproar. The Face went\n
+aglow!
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\n火星の顔が急に光を放ち、\nいろんな電波や光線が攻撃してくるらしい。
+\n
+It happened suddenly,\n
+assaulting us with a
+<$0C>
+show of radio waves\n
+and light beams.
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nたんなる光のいたずらだと思いたいが、\n早くもいくつもの奇跡が報告され始めている。
+\n
+I took it for a\n
+prank, but now we're
+<$0C>
+hearing news reports\n
+of miracles on Earth!
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nあー、ペットが生き返った…\nあー、円周率を思い出した…
+\n
+"Look! My pet came\n
+back to life!"\n
+"Listen! I can recite\n
+all of Pi!"
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nだめだ、これは奇跡ではない。\nとにかく、何かあったらまた連絡する。
+\n
+Alas, I fear this is\n
+no miracle. I'll
+<$0C>
+contact you again\n
+when there's an\n
+update.
+<$00>
+
 
 
 
@@ -511,20 +556,43 @@ NOT ENOUGH!
 
 #WHB(PTR, $00001051)
 
-<$00><$01><$70>
-子はどうかね、ヌケガラ君。
-<$0C>
-君は、いや君たちは実に哀れだ。
-<$0C>
-ひとつ忠告しておこう。
-<$0C>
-星の意志に逆らおうとしても\nムダというものだ。
-<$0C>
-世界の再生、\nそれはこの星が決めたことなのだ。
-<$0C>
-私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
-<$0C>
-もうすぐ君に会えるだろう。\n楽しみに待っているよ。
 <$00>
+//調子はどうかね、ヌケガラ君。
+How goes it, my\n
+little husk?
+<$0C>
+//君は、いや君たちは実に哀れだ。
+You...all of you, are\n
+so pathetic.
+<$0C>
+//ひとつ忠告しておこう。
+Here's a piece of\n
+advice.
+<$0C>
+//星の意志に逆らおうとしても\nムダというものだ。
+It's useless to try\n
+to defy the will of\n
+this planet.
+<$0C>
+//世界の再生、\nそれはこの星が決めたことなのだ。
+This planet has\n
+chosen world rebirth.
+<$0C>
+//私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
+I touched the\n
+planet's will and\n
+found life. Rebirth
+<$0C>
+is not my purpose. It\n
+is the planet's\n
+purpose.
+<$0C>
+//もうすぐ君に会えるだろう。\n楽しみに待っているよ。
+I will see you soon.\n
+I'm looking forward\n
+to it.
+<$00>
+
+
 
 

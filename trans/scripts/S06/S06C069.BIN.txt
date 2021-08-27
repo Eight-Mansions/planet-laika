@@ -11,9 +11,13 @@
 
 #WHB(PTR, $000009D1)
 
-<$00><$20><$20>
- ママはそんなことじゃ死なないよ。
 <$00>
+//   ママはそんなことじゃ死なないよ。
+No, Mummy! I won't\n
+let that 'appen. Not\n
+on Christmas!
+<$00>
+
 
 
 

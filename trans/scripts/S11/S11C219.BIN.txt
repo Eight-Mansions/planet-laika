@@ -207,9 +207,15 @@ someone here?
 
 #WHB(PTR, $000006C9)
 
-<$00><$4D><$76>
-めを刺せ、アーネスト。\nママのナイフを用意してやろう。
 <$00>
+//とどめを刺せ、アーネスト。\nママのナイフを用意してやろう。
+Finish him off,\n
+Ernest.\n
+Mama will prepare the
+<$0C>
+knife.
+<$00>
+
 
 
 
@@ -240,9 +246,13 @@ show yourself!
 
 #WHB(PTR, $000006ED)
 
-<$00><$03><$39>
-いのか、アーネスト。\n人を刺すにはうってつけの日じゃないか。
 <$00>
+//怖いのか、アーネスト。\n人を刺すにはうってつけの日じゃないか。
+What's wrong, dear?\n
+Isn't it a lovely day\n
+to stab someone?
+<$00>
+
 
 
 
@@ -252,11 +262,20 @@ show yourself!
 
 #WHB(PTR, $000007C5)
 
-<$00><$48><$52>
-ナイフをやつのみぞおちに\n突き立てるのだ。
-<$0C>
-腹を切り裂け！\n内臓を引きずり出してやつの口に\n突っ込んでやれ！
 <$00>
+//そのナイフをやつのみぞおちに\n突き立てるのだ。
+Thrust the knife\n
+straight into the\n
+belly.
+<$0C>
+//腹を切り裂け！\n内臓を引きずり出してやつの口に\n突っ込んでやれ！
+And then, slit! Pull\n
+out the innards, and\n
+stuff it all down his
+<$0C>
+throat!
+<$00>
+
 
 
 
@@ -266,9 +285,15 @@ show yourself!
 
 #WHB(PTR, $000007DD)
 
-<$00><$F8><$66>
-ためらってる、アーネスト。\n臆病風にでも吹かれたのか？
 <$00>
+//何をためらってる、アーネスト。\n臆病風にでも吹かれたのか？
+Why are you\n
+hesitating, Ernest?\n
+Are your nerves
+<$0C>
+getting to you?
+<$00>
+
 
 
 

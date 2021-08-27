@@ -462,11 +462,16 @@ Will you give it?
 
 #WHB(PTR, $00000C09)
 
-<$00><$03><$7D>
-い石を渡しますか？\n
+<$00>
+//赤い石を渡しますか？\n
+Hand over the Red\n
+Stone?\n
 <$1B>
-。渡す\n渡さない
+//。渡す\n渡さない
+。Yes\n
+No
 <$00><$17><$00>
+
 
 
 
@@ -1379,8 +1384,11 @@ Red Stone acquired.
 
 #WHB(PTR, $000015B5)
 
-<$00><$8A><$8B>
-テムがいっぱいです。
 <$00>
+//アイテムがいっぱいです。
+The item bag is full!
+<$00>
+
+
 
 

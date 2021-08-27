@@ -294,13 +294,27 @@ map, bzzbzzbzz!
 
 #WHB(PTR, $00000C5D)
 
-<$00><$13><$20>
-坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
+<$00><$13>
+// 坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
+THE MINESHAFT IS\n
+CLOSING SOON.\n
+REPEAT: THE MINESHAFT
 <$0C>
-繰り返します。坑道を閉鎖します。\n閉鎖まで、あと少し。\n直ちに坑道から退出してください。
+IS CLOSING SOON.\n
+PLEASE EVACUATE\n
+IMMEDIATELY.
 <$0C>
-これは訓練ではありません。
+//繰り返します。坑道を閉鎖します。\n閉鎖まで、あと少し。\n直ちに坑道から退出してください。
+REPEAT: THE MINESHAFT\n
+IS CLOSING SOON.\n
+PLEASE EVACUATE
+<$0C>
+IMMEDIATELY.
+<$0C>
+//これは訓練ではありません。
+THIS IS NOT A DRILL.
 <$00>
+
 
 
 
@@ -310,9 +324,15 @@ map, bzzbzzbzz!
 
 #WHB(PTR, $00000D11)
 
-<$00><$13><$20>
-アラートを解除します。\n繰り返します。 アラートを解除します。
+<$00><$13>
+// アラートを解除します。\n繰り返します。 アラートを解除します。
+THE ALARM WILL SHUT\n
+DOWN.\n
+REPAT: THE ALARM WILL
+<$0C>
+SHUT DOWN.
 <$00>
+
 
 
 
@@ -322,8 +342,12 @@ map, bzzbzzbzz!
 
 #WHB(PTR, $00000D91)
 
-<$00><$AB><$D9>
-セージはありません…
 <$00>
+//メッセージはありません…
+THERE ARE NO\n
+MESSAGES.
+<$00>
+
+
 
 

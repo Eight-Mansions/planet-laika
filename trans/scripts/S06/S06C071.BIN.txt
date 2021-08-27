@@ -11,11 +11,18 @@
 
 #WHB(PTR, $0000095D)
 
-<$00><$0B><$BE>
-ュディ母さん：
+<$00><$0B>
+//ジュディ母さん：
+Judy:
 <$0D>
-\nパパは病気なんだよ、ヌーン、\nパパは可哀想な人なんだよ。
+//\nパパは病気なんだよ、ヌーン、\nパパは可哀想な人なんだよ。
+\n
+Papa was sick, Noon.\n
+Papa was a pathetic
+<$0C>
+little man.
 <$00>
+
 
 
 
@@ -25,15 +32,26 @@
 
 #WHB(PTR, $000009E5)
 
-<$00><$0B><$A0>
-ーン：
+<$00><$0B>
+//ヌーン：
+Noon:
 <$0D>
-\nいやだ、ママ…\nこっちに来ないで…ママ。
+//\nいやだ、ママ…\nこっちに来ないで…ママ。
+\n
+No, Mummy... Mummy,\n
+don't come near me!
 <$0C><$0B>
-ヌーン：
+//ヌーン：
+Noon:
 <$0D>
-\nそんな目で僕を見ないで、\n怖いよう、ママ！
+//\nそんな目で僕を見ないで、\n怖いよう、ママ！
+\n
+Don't look at me with\n
+those eyes! You're
+<$0C>
+scaring me, Mummy!
 <$00>
+
 
 
 

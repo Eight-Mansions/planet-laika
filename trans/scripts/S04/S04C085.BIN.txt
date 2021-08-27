@@ -33,9 +33,13 @@ earlier?
 
 #WHB(PTR, $00000CC1)
 
-<$00><$12><$4F>
-お前の声はかき消されてしまったのだ、\nコスマス。
+<$00><$12>
+//にお前の声はかき消されてしまったのだ、\nコスマス。
+にYour voice was\n
+drowned out by\n
+others, Cosmas.
 <$00>
+
 
 
 
@@ -66,9 +70,15 @@ hear only me.
 
 #WHB(PTR, $00000E29)
 
-<$00><$12><$4F>
-苦しみが育っているのだ、コスマス。\nお前の声では小さすぎるのだ。
+<$00><$12>
+//に苦しみが育っているのだ、コスマス。\nお前の声では小さすぎるのだ。
+\n
+Your suffering grows,\n
+Cosmas.\n
+Your voice is too\n
+quiet.
 <$00>
+
 
 
 
@@ -97,8 +107,15 @@ must I endure?
 
 #WHB(PTR, $00000F91)
 
-<$00><$12><$4F>
-いずれ私は限界をむかえるだろう。\nこの星は苦しみの王国となるだろう。
+<$00><$12>
+//にいずれ私は限界をむかえるだろう。\nこの星は苦しみの王国となるだろう。
+にIn time, We will\n
+reach Our limit, and\n
+Mars will become a
+<$0C>
+planet of suffering.
 <$00>
+
+
 
 

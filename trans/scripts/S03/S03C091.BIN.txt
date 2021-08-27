@@ -42,19 +42,28 @@ that bathroom!
 
 #WHB(PTR, $00000545)
 
-<$00><$0B><$20>
-       
+<$00><$0B>
+//        
+
 <$0D>
-大丈夫かい？\n
+//大丈夫かい？\n
+Are you okay there?\n
 <$0B>
-     
+//     
+
 <$0D>
-何かを見たんだろうけど、\n
+//何かを見たんだろうけど、\n
+You must have seen\n
+something\n
 <$0B>
-  
+//  
+
 <$0D>
-それがあんたの本質にかかわることだよ。
+//それがあんたの本質にかかわることだよ。
+that hit too close to\n
+home.
 <$00>
+
 
 
 
@@ -137,18 +146,29 @@ I don't see anything!
 
 #WHB(PTR, $00000631)
 
-<$00><$0B><$20>
-   
+<$00><$0B>
+//    
+
 <$0D>
-いるんだよ、この部屋に。\n
+//いるんだよ、この部屋に。\n
+There is a\n
+disturbance.\n
 <$0B>
-     
+//     
+
 <$0D>
-どっかそのへんだよ、\n
+//どっかそのへんだよ、\n
+It is here in this\n
+room,\n
 <$0B>
-     
+//     
+
 <$0D>
-あんたの近くだよ。
+//あんたの近くだよ。
+and it's coming\n
+closer.
 <$00>
+
+
 
 

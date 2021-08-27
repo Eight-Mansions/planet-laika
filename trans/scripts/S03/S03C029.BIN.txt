@@ -372,31 +372,71 @@ nothing! I'm good!
 
 #WHB(PTR, $0000150D)
 
-<$00><$0B><$9D>
-ーマス：
+<$00><$0B>
+//トーマス：
+Thomas:
 <$0D>
-\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
+//\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
+\n
+I dare say, I've come\n
+up with a sound
+<$0C>
+hypothesis about\n
+Amanda.
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\nアマンダは\n鏡の精で満足するような女ではないからだ。
+//\nアマンダは\n鏡の精で満足するような女ではないからだ。
+\n
+Amanda is not a woman\n
+who is satisfied with
+<$0C>
+living as a mirror\n
+spirit.
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\n彼女は完全な鏡、\nみにくい顔をそのまま映す鏡を求めている。
+//\n彼女は完全な鏡、\nみにくい顔をそのまま映す鏡を求めている。
+\n
+She wants to create a\n
+perfect mirror. One
+<$0C>
+so perfect, it could\n
+reflect ugliness in\n
+even her.
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\nその鏡ができれば…
+//\nその鏡ができれば…
+\n
+With such a mirror...
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
+//\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
+\n
+...the seas and lands\n
+of Mars might be
+<$0C>
+reborn in her wicked\n
+image.
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\n私なりに、\n黙示録的な例えだ！
+//\n私なりに、\n黙示録的な例えだ！
+\n
+(I dare say, I've\n
+come up with a sound
+<$0C>
+little metaphor from\n
+Revelations too!)
 <$00>
+
 
 
 
@@ -429,23 +469,54 @@ truth.
 
 #WHB(PTR, $00001519)
 
-<$00><$0B><$9D>
-ーマス：
+<$00><$0B>
+//トーマス：
+Thomas:
 <$0D>
-\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+//\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+\n
+I thought I saw\n
+someone, although, I
+<$0C>
+don't know how to\n
+describe it with\n
+certainty.
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+//\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+\n
+There was a woman who\n
+looked precisely like
+<$0C>
+Amanda. She faded in\n
+and out of my dream.
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+//\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+\n
+It all happened so\n
+fast, I almost didn't
+<$0C>
+notice, but...even\n
+then, it's all so\n
+hazy...
 <$0C><$0B>
-トーマス：
+//トーマス：
+Thomas:
 <$0D>
-\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+//\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+\n
+Was she an alter ego,\n
+or a hint at Amanda's
+<$0C>
+reincarnation? I dare\n
+say, I am confused.
 <$00>
+
 
 
 

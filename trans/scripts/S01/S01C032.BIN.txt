@@ -28,23 +28,54 @@ MESSAGES.
 
 #WHB(PTR, $00000CED)
 
-<$00><$13><$42><$0B>
-オクトーバー司令官：
+<$00><$13>
+//け
+け
+<$0B>
+//オクトーバー司令官：
+Commander October:
 <$0D>
-\nライカ君…ライカ君だね…\n火星はどんな様子かな？
+//\nライカ君…ライカ君だね…\n火星はどんな様子かな？
+\n
+Greetings, Laika. Is\n
+that you? How are
+<$0C>
+Mars's state of\n
+affairs?
 <$0C><$0B>
-オクトーバー司令官：
+//オクトーバー司令官：
+Commander October:
 <$0D>
-\n実は火星人について、\n新しいことが分かりそうなんだ。
+//\n実は火星人について、\n新しいことが分かりそうなんだ。
+\n
+Actually, while you\n
+were away, we've
+<$0C>
+learned something new\n
+about the Martians.
 <$0C><$0B>
-オクトーバー司令官：
+//オクトーバー司令官：
+Commander October:
 <$0D>
-\nある昆虫学者が研究を進めていてね、\nその成果と言うわけだよ。
+//\nある昆虫学者が研究を進めていてね、\nその成果と言うわけだよ。
+\n
+It involves the\n
+findings of our
+<$0C>
+entomologist's latest\n
+research.
 <$0C><$0B>
-オクトーバー司令官：
+//オクトーバー司令官：
+Commander October:
 <$0D>
-\nもう少ししたら\nその昆虫学者から連絡させるよ。
+//\nもう少ししたら\nその昆虫学者から連絡させるよ。
+\n
+I'll get you in touch\n
+with our entomologist
+<$0C>
+shortly.
 <$00>
+
 
 
 
@@ -233,66 +264,167 @@ from the Grim Reaper?
 #WHB(PTR, $00000D25)
 
 <$10><$13><$19><$0B>
-ネオ・ユニバーサルマン：
+//ネオ・ユニバーサルマン：
+Neo-Universal Man:
 <$0D>
-\nエレミヤよ、おおエレミヤ…\n私はついに悪夢を乗り越えた。
+//\nエレミヤよ、おおエレミヤ…\n私はついに悪夢を乗り越えた。
+\n
+Jeremiah, O Jeremiah.\n
+At last I can
+<$0C>
+overcome these\n
+nightmares.
 <$0C><$0B>
-ネオ・ユニバーサルマン：
+//ネオ・ユニバーサルマン：
+Neo-Universal Man:
 <$0D>
-\n死の谷を駆け抜け、今ここに…\nさあ、最後の預言だ、言葉を放ってくれ。
+//\n死の谷を駆け抜け、今ここに…\nさあ、最後の預言だ、言葉を放ってくれ。
+\n
+I now walk through\n
+the valley of the
+<$0C>
+shadow of death,\n
+seeking your final\n
+prophecy.
 <$00><$12><$13><$13><$0B>
-フェニックス：
+//フェニックス：
+Phoenix:
 <$0D>
-\n僕が？死に憑かれているだと？この僕が？
+//\n僕が？死に憑かれているだと？この僕が？
+\n
+What's going on? Have\n
+I...been possessed by
+<$0C>
+death? But, why me?!
 <$00><$12><$13><$13><$08>
-新しき天と、新しき地とを見たり。\nこれまでの天とこれまでの地とは過ぎ去り、
+//新しき天と、新しき地とを見たり。\nこれまでの天とこれまでの地とは過ぎ去り、
+For a new Heaven and\n
+a new Earth await\n
+you, may this Heaven
 <$0C>
-海もまた消え失せ、今よりのち、悲しみも喜びも\n苦しみもなく、歓喜の歌にたたえられた\n永遠が続くであろう。
-<$05><$00><$12><$0A><$0B>
-      
+and Earth pass,
+<$0C>
+//海もまた消え失せ、今よりのち、悲しみも喜びも\n苦しみもなく、歓喜の歌にたたえられた\n永遠が続くであろう。
+and may the seas dry,\n
+that their sadness,\n
+loneliness and
+<$0C>
+suffering are no\n
+more. And May\n
+eternity move past\n
+this moment, chanting\n
+in celebration.
+<$05><$00><$12>
+//\n
+\n
+<$0B>
+//      
+
 <$0D>
-第五の預言を得た。
-<$00><$12><$02><$06>
-生、
+//第五の預言を得た。
+So sayeth the fifth\n
+prophecy.
+<$00><$12>
+//先生、
+Doctor, can
 <$0F>
-は助かるのですか？
-<$00><$12><$FC>
-からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
-<$00><$12><$02><$06>
-生、オクトーバー先生！\nお願いします、
-<$0F>
-を？
-<$00><$12><$3A>
-ああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
+//は助かるのですか？
+be saved?
+<$00><$12>
+//分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
+We'll find out in the\n
+operation room.\n
+There's a mass near
 <$0C>
-今は小さな肉のかたまり…\nだが、共に成長したとき…
+the brain inciting\n
+hallucinations.
+<$00><$12>
+//先生、オクトーバー先生！\nお願いします、
+Doctor! Doctor\n
+October, please! Save
+<$0F>
+//を？
+!
+<$00><$12>
+//あああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
+Damn! It's too deep!\n
+If we force it out,\n
+we will damage the
+<$0C>
+brain!
+<$0C>
+//今は小さな肉のかたまり…\nだが、共に成長したとき…
+It's small enough to\n
+be extracted,\n
+but...we must give up
+<$0C>
+the operation for\n
+today.
 <$00><$12><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
+//\n
 \n
 <$0F>
-じゃねぇ、\nこいつは誰なんだ？
+//じゃねぇ、\nこいつは誰なんだ？
+? No...\n
+What is this thing?
 <$00><$12><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nシュヨウだ、脳にできたシュヨウ…
+//\nシュヨウだ、脳にできたシュヨウ…
+\n
+It's a teratoma: a\n
+rare type of tumor
+<$0C>
+that's currently\n
+lodged in our brain.
 <$00><$12><$13><$1D><$0B>
-ヨランダ：
+//ヨランダ：
+Yolanda:
 <$0D>
-\nデキモノってことなの…\nひどいわ、そんなの。
+//\nデキモノってことなの…\nひどいわ、そんなの。
+\n
+That's horrible!\n
+How the hell did it
+<$0C>
+get there?
 <$00><$12><$13><$18><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nシュヨウは、双子として生まれてくるはずの\n一部が取り込まれてたものだ。
+//\nシュヨウは、双子として生まれてくるはずの\n一部が取り込まれてたものだ。
+\n
+Phoenix was supposed\n
+to be born as a twin,
+<$0C>
+but Phoenix developed\n
+into a mass instead.
 <$0C><$0B>
-スペーサー：
+//スペーサー：
+Spacer:
 <$0D>
-\nシュヨウの中には兄弟になるはずだった\n人間の髮の毛がつまっていたりする…
+//\nシュヨウの中には兄弟になるはずだった\n人間の髮の毛がつまっていたりする…
+\n
+That mass was\n
+absorbed back into
+<$0C>
+the other twin. Hair,\n
+teeth and all...
 <$00><$12><$13><$13><$0B>
-アーネスト：
+//アーネスト：
+Ernest:
 <$0D>
-\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…\n
+//\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…\n
+\n
+Could've fooled me.\n
+I've never seen hair
+<$0C>
+like that before.\n
 <$00>
+
 
 
 
