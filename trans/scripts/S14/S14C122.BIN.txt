@@ -11,6 +11,7 @@
 
 #WHB(PTR, $00000189)
 
+
 <$00><$13><$13><$0B>
 //フェニックス：
 Phoenix:
@@ -28,9 +29,7 @@ Phoenix:
 //\n何があったのか、僕は見なかった。
 \n
 I didn't see anything\n
-that transpired
-<$0C>
-there.
+that transpired there.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -43,7 +42,4 @@ without my knowledge.
 I never saw what was\n
 going on.
 <$00>
-
-
-
 

@@ -21,9 +21,6 @@ I can't see a damned\n
 thing.
 <$0E><$14><$17><$00>
 
-
-
-
 // Pos: 00000F0D
 
 #WLB(PTR, $000004EC)
@@ -42,9 +39,6 @@ farther we can wade
 through this.
 <$0E><$14><$17><$00>
 
-
-
-
 // Pos: 00000F2B
 
 #WLB(PTR, $00000508)
@@ -62,9 +56,6 @@ shelters marked in
 <$0C>
 the area?
 <$0E><$14><$17><$00>
-
-
-
 
 // Pos: 00000F54
 
@@ -85,9 +76,6 @@ Blimey, it's up to my\n
 ears!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00000F8B
 
 #WLB(PTR, $00000540)
@@ -106,9 +94,6 @@ safe house nearby,
 right Noon?
 <$0E><$14><$17><$00>
 
-
-
-
 // Pos: 00000FB5
 
 #WLB(PTR, $0000055C)
@@ -122,11 +107,9 @@ right Noon?
 //\nあああ、避難小屋だ。\n
 \n
 Ohhh, right! A safe\n
-'ouse!\n
+'ouse!
+<$0C>
 <$0E><$14><$17><$00>
-
-
-
 
 // Pos: 00000FD2
 
@@ -141,13 +124,11 @@ Ohhh, right! A safe\n
 //\nご一行は避難小屋に着きました、\nそこでおネンネしました、
 \n
 "The crew found a\n
-safe 'ouse,\n
+safe 'ouse,
+<$0C>
 and went blissfully\n
 to sleep..."
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00001003
 
@@ -168,9 +149,6 @@ already 'ome on\n
 Earth!"
 <$0E><$14><$17><$00>
 
-
-
-
 // Pos: 00001020
 
 #WLB(PTR, $000005B0)
@@ -190,9 +168,6 @@ all lived 'appily\n
 ever after. THE END!"
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00001056
 
 #WLB(PTR, $000005CC)
@@ -211,9 +186,6 @@ ass, Noon. And
 where's Laika?
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00001089
 
 #WLB(PTR, $000005E8)
@@ -231,7 +203,4 @@ behind! You'll get
 <$0C>
 yourself lost!
 <$0E><$3C><$17><$00>
-
-
-
 

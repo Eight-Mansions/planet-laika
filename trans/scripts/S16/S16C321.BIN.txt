@@ -11,14 +11,12 @@
 
 #WHB(PTR, $0000010D)
 
+
 <$00><$14><$02><$11>
 //青ロデはおびえきっている。お前はどうだ？
 青Herod is frightened.\n
 Are you?
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 00004D95
 
@@ -26,15 +24,12 @@ Are you?
 
 #WHB(PTR, $00000129)
 
+
 <$00><$14><$02><$11>
 //〇はれ、眠れ、お前の夢で飛びはねてやる。
 〇Rest up, lay down,\n
-up and down the\n
-dream!
+up and down the dream!
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 00004DB5
 
@@ -42,12 +37,10 @@ dream!
 
 #WHB(PTR, $00000131)
 
+
 <$00><$14><$02><$11>
 //急前はこの悪夢からニ度と覚めることはない。
 急You will never wake\n
 from this nightmare!
 <$0E><$78><$17><$00>
-
-
-
 

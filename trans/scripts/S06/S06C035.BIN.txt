@@ -16,9 +16,6 @@
 NOOOO, WHOOSH!
 <$00>
 
-
-
-
 // Pos: 000012B6
 
 #WLB(PTR, $000004D8)
@@ -28,12 +25,8 @@ NOOOO, WHOOSH!
 <$12>
 //家が燃えて、落ちた、\n穴だ、シー！
 Houses! Houses! We\n
-all burn down,\n
-whoosh!
+all burn down, whoosh!
 <$00>
-
-
-
 
 // Pos: 000012CD
 
@@ -50,7 +43,4 @@ whoosh! Stop the
 alert, whoosh! The\n
 monitor whoosh!
 <$00>
-
-
-
 

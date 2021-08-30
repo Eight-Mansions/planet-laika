@@ -17,12 +17,8 @@
 Your own memories do\n
 not expand beyond
 <$0C>
-this room. It is\n
-true.
+this room. It is true.
 <$00>
-
-
-
 
 // Pos: 000010C6
 
@@ -43,9 +39,6 @@ vile thing to\n
 romanticize.
 <$00>
 
-
-
-
 // Pos: 000010FE
 
 #WLB(PTR, $00000334)
@@ -57,9 +50,6 @@ romanticize.
 Why do you always\n
 come back here?
 <$00>
-
-
-
 
 // Pos: 00001110
 
@@ -80,9 +70,6 @@ left. When we're\n
 gone, we're gone.
 <$00>
 
-
-
-
 // Pos: 0000113F
 
 #WLB(PTR, $000003D0)
@@ -95,9 +82,6 @@ gone, we're gone.
 place, but it too\n
 will soon disappear.
 <$00>
-
-
-
 
 // Pos: 0000115C
 
@@ -114,8 +98,7 @@ April:
 The more light you\n
 receive, the deeper
 <$0C>
-your darkness\n
-becomes.\n
+your darkness becomes.\n
 I can't outshine that\n
 darkness.
 <$00>
@@ -126,7 +109,4 @@ Save game?
 ÅAYes\n
 No
 <$00><$17><$00>
-
-
-
 

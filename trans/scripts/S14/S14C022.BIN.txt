@@ -25,9 +25,7 @@ Veronica:
 //\nアタシはただあのまじない人形を…
 \n
 I just took the\n
-enchanted doll
-<$0C>
-when...
+enchanted doll when...
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -85,9 +83,6 @@ have that! I CAN'T\n
 have that!
 <$00>
 
-
-
-
 // Pos: 00003C75
 
 #WLB(PTR, $00000374)
@@ -115,9 +110,6 @@ are you? You're not\n
 the Earthling I met\n
 earlier.
 <$00>
-
-
-
 
 // Pos: 00003CBC
 
@@ -158,9 +150,6 @@ is MY time! Don't\n
 take it away from me!
 <$00>
 
-
-
-
 // Pos: 00003D2C
 
 #WLB(PTR, $0000039C)
@@ -171,10 +160,10 @@ take it away from me!
 //もうすぐよ、蕃判の鏡、完成は近いわ。\n真実の光でまやかしは消え去るの。
 The Mirror of\n
 Judgement is almost\n
-complete.\n
+complete.
+<$0C>
 Deception will burn\n
-before absolute\n
-truth!
+before absolute truth!
 <$0C>
 //ふふふふ、私の勝利よ、
 Hohoho, I have won.
@@ -186,9 +175,6 @@ that I may become
 <$0C>
 beauty incarnate!
 <$00>
-
-
-
 
 // Pos: 00003D8B
 
@@ -207,9 +193,6 @@ I'M the one who's
 <$0C>
 staying, not you! ME!
 <$00>
-
-
-
 
 // Pos: 00003DBD
 
@@ -252,9 +235,6 @@ why don't you try it\n
 out?
 <$00>
 
-
-
-
 // Pos: 00003E37
 
 #WLB(PTR, $00000550)
@@ -268,9 +248,7 @@ Veronica:
 //\nここの連中、すごくビンカンになってるの。
 \n
 The lot here are\n
-especially
-<$0C>
-vulnerable.
+especially vulnerable.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -283,9 +261,6 @@ what I invisioned. I
 didn't have to pull\n
 any strings.
 <$00>
-
-
-
 
 // Pos: 00003E86
 
@@ -325,9 +300,6 @@ that shouldn't be.\n
 That can't be.
 <$00>
 
-
-
-
 // Pos: 00003EFF
 
 #WLB(PTR, $00000788)
@@ -363,9 +335,6 @@ transcendant. I can
 see, I can see...
 <$00>
 
-
-
-
 // Pos: 00003F5C
 
 #WLB(PTR, $000007C4)
@@ -385,9 +354,6 @@ reflecting! This is\n
 what I wanted!!
 <$00>
 
-
-
-
 // Pos: 00003F94
 
 #WLB(PTR, $00000908)
@@ -399,15 +365,12 @@ what I wanted!!
 Sparky:
 <$0D>
 //\n何か寒いわね…あら、初めての方？\n私はスパーキー、ちょっと派手ないいやつよ。
-nIt's kind of cold\n
-here. Oh, oops. Have\n
-we met? I'm Sparky. I
+nIt's kind of\n
+cold here. Oh, oops.\n
+Have we met? I'm
 <$0C>
-don't bite.
+Sparky. I don't bite.
 <$00>
-
-
-
 
 // Pos: 00003FCA
 
@@ -439,9 +402,6 @@ likes to stand around\n
 this spot.
 <$00>
 
-
-
-
 // Pos: 0000402B
 
 #WLB(PTR, $0000070C)
@@ -461,7 +421,4 @@ would he have gone? I\n
 thought he liked this\n
 spot.
 <$00>
-
-
-
 

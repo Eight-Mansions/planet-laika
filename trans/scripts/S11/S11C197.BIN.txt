@@ -23,9 +23,6 @@ darling puppy. Where
 did Cosmas go?
 <$00>
 
-
-
-
 // Pos: 000023AA
 
 #WLB(PTR, $00000A8C)
@@ -85,9 +82,6 @@ THAT was my beauty
 work! It was!
 <$00>
 
-
-
-
 // Pos: 00002462
 
 #WLB(PTR, $00000B9C)
@@ -136,9 +130,6 @@ it, but he makes up\n
 only a fraction of my\n
 work.
 <$00>
-
-
-
 
 // Pos: 000024E1
 
@@ -204,9 +195,6 @@ kills you with his
 bubbles!
 <$00>
 
-
-
-
 // Pos: 00002598
 
 #WLB(PTR, $00000DC8)
@@ -246,9 +234,6 @@ me. It's for the
 shitbag kid here. He\n
 needs to be punished!
 <$00>
-
-
-
 
 // Pos: 00002614
 
@@ -298,9 +283,6 @@ can't touch me down\n
 there either, haha!
 <$00>
 
-
-
-
 // Pos: 000026B0
 
 #WLB(PTR, $00000F70)
@@ -323,7 +305,4 @@ escape!
 //’†
 ’†
 <$00>
-
-
-
 

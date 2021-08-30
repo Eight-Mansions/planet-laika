@@ -23,9 +23,6 @@ Oblivionis. The black
 wall won't be there!
 <$00>
 
-
-
-
 // Pos: 00002516
 
 #WLB(PTR, $00000564)
@@ -49,9 +46,6 @@ again, we'll be\n
 imprisoned!
 <$00>
 
-
-
-
 // Pos: 00002546
 
 #WLB(PTR, $00000890)
@@ -68,14 +62,12 @@ Here we are! What was\n
 the password again?
 <$00>
 
-
-
-
 // Pos: 00002562
 
 #WLB(PTR, $000008A0)
 
 #WHB(PTR, $000008A1)
+
 
 <$10><$14><$00>
 //ÇP Ç®Ç®ÅHÇŒÇÁÇÊÅAÇ®ëOÇÕïaÇÒÇ≈Ç¢ÇÈÅH\nÇQ Ç®Ç®ÅAÇŒÇÁÇÊÅHÇ®ëOÇÕïaÇÒÇ≈Ç¢ÇÈÅI\nÇR Ç®Ç®ÅAÇŒÇÁÇÊÅIÇ®ëOÇÕïaÇÒÇ≈Ç¢ÇÈÅI
@@ -88,13 +80,11 @@ sick!\n
 sick!
 <$1B>
 //ÇRÇP\nÇQ\nÇR
-ÇRÇP\n
+ÇRÇP
+<$0C>
 ÇQ\n
 ÇR
 <$00><$17><$00>
-
-
-
 
 // Pos: 000025AA
 
@@ -112,9 +102,6 @@ O, Rose! Thou art\n
 sick?
 <$00>
 
-
-
-
 // Pos: 000025C6
 
 #WLB(PTR, $00000900)
@@ -130,9 +117,6 @@ April:
 O, Rose? Thou art\n
 sick!
 <$00>
-
-
-
 
 // Pos: 000025E2
 
@@ -150,9 +134,6 @@ Uh-oh... Maybe that\n
 wasn't it.
 <$00>
 
-
-
-
 // Pos: 000025FF
 
 #WLB(PTR, $00000938)
@@ -169,9 +150,6 @@ O, Rose! Thou art\n
 sick!
 <$00>
 
-
-
-
 // Pos: 0000261B
 
 #WLB(PTR, $000009A8)
@@ -187,9 +165,6 @@ April:
 We're in!
 <$00>
 
-
-
-
 // Pos: 0000262B
 
 #WLB(PTR, $000009C4)
@@ -200,9 +175,6 @@ We're in!
 //Ç»ÇÒÇæÇ»ÇÒÇæÅAÇ®Ç«Ç©Ç∑Ç»ÅI
 What in the world?!
 <$00>
-
-
-
 
 // Pos: 0000263A
 
@@ -231,9 +203,6 @@ something about that
 <$0C>
 old password.
 <$00>
-
-
-
 
 // Pos: 00002682
 
@@ -277,9 +246,6 @@ scaring you. White
 Eagle told us your\n
 password.
 <$00>
-
-
-
 
 // Pos: 000026AA
 
@@ -329,9 +295,6 @@ I saw it with my own
 eyes.
 <$00>
 
-
-
-
 // Pos: 0000273C
 
 #WLB(PTR, $00000B74)
@@ -346,9 +309,6 @@ April:
 \n
 What did you see?
 <$00>
-
-
-
 
 // Pos: 00002750
 
@@ -377,9 +337,6 @@ they go\n
 you-know-where!
 <$00>
 
-
-
-
 // Pos: 00002790
 
 #WLB(PTR, $00000BE0)
@@ -395,9 +352,6 @@ April:
 "You-know-where"?\n
 Where's that?
 <$00>
-
-
-
 
 // Pos: 000027A6
 
@@ -426,9 +380,6 @@ talks so strangely.\n
 They're robots!
 <$00>
 
-
-
-
 // Pos: 000027D5
 
 #WLB(PTR, $00000C2C)
@@ -447,9 +398,6 @@ robots? Does that
 mean there are helper\n
 robots there, or...
 <$00>
-
-
-
 
 // Pos: 00002802
 
@@ -482,7 +430,4 @@ for yourself!
 //âs
 âs
 <$00>
-
-
-
 

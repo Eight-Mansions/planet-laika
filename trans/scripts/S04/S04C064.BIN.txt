@@ -36,9 +36,6 @@ keep you from feeling\n
 not like your self.
 <$00>
 
-
-
-
 // Pos: 00002172
 
 #WLB(PTR, $00000320)
@@ -55,9 +52,6 @@ I'll go in first. You\n
 should follow.
 <$00>
 
-
-
-
 // Pos: 00002192
 
 #WLB(PTR, $0000032C)
@@ -73,9 +67,6 @@ Madam Agatha:
 I'll go in first. You\n
 should follow.
 <$00>
-
-
-
 
 // Pos: 000021B2
 
@@ -121,9 +112,6 @@ ask Feng about it\n
 later.
 <$00>
 
-
-
-
 // Pos: 00002249
 
 #WLB(PTR, $00000474)
@@ -138,9 +126,6 @@ Madam Agatha:
 \n
 Ah!
 <$00>
-
-
-
 
 // Pos: 00002259
 
@@ -169,12 +154,8 @@ But, he cannot stay\n
 here. He is a dweller
 <$0C>
 of the Land of\n
-Nightmares. I must\n
-go.
+Nightmares. I must go.
 <$00>
-
-
-
 
 // Pos: 000022C2
 
@@ -193,9 +174,6 @@ April have any
 <$0C>
 personal belongings?
 <$00>
-
-
-
 
 // Pos: 000022E2
 
@@ -254,9 +232,6 @@ television.
 理
 <$00>
 
-
-
-
 // Pos: 000023A9
 
 #WLB(PTR, $000006A0)
@@ -274,9 +249,6 @@ to keep their eyes on
 <$0C>
 the road ahead.
 <$00>
-
-
-
 
 // Pos: 000023CF
 
@@ -328,9 +300,6 @@ ilk like the plague.
 行
 <$00>
 
-
-
-
 // Pos: 00002457
 
 #WLB(PTR, $000007E8)
@@ -354,9 +323,6 @@ we do...?
 中
 <$00>
 
-
-
-
 // Pos: 00002484
 
 #WLB(PTR, $0000090C)
@@ -374,9 +340,6 @@ booking already? Why
 <$0C>
 didn't you say so?
 <$00>
-
-
-
 
 // Pos: 000024A9
 
@@ -411,9 +374,6 @@ the morning!
 行
 <$00>
 
-
-
-
 // Pos: 000024F5
 
 #WLB(PTR, $000009F0)
@@ -436,9 +396,6 @@ busted.
 //中
 中
 <$00>
-
-
-
 
 // Pos: 00002529
 
@@ -466,12 +423,10 @@ Do you know how a\n
 Vanity Face is made?
 <$1B>
 //？知ってる\n知らない
-？Yes\n
+？Yes
+<$0C>
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 0000257E
 
@@ -507,9 +462,6 @@ of killing my mood.
 中
 <$00>
 
-
-
-
 // Pos: 000025DD
 
 #WLB(PTR, $0000078C)
@@ -543,9 +495,6 @@ of killing my mood.
 中
 <$00>
 
-
-
-
 // Pos: 00002643
 
 #WLB(PTR, $000007C8)
@@ -566,9 +515,6 @@ later.
 //〇
 〇
 <$00>
-
-
-
 
 // Pos: 0000266C
 
@@ -635,8 +581,7 @@ East:
 <$0D>
 //\n物音がした。
 \n
-Where the sounds\n
-were?
+Where the sounds were?
 <$00><$10><$0B>
 //ウェスト：
 West:
@@ -666,7 +611,4 @@ West:
 \n
 There's no time!
 <$00>
-
-
-
 

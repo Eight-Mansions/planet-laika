@@ -21,9 +21,6 @@ Are you two really\n
 going to live here?
 <$00>
 
-
-
-
 // Pos: 00000F61
 
 #WLB(PTR, $00000280)
@@ -43,9 +40,6 @@ I'd never live in\n
 this dump.
 <$00>
 
-
-
-
 // Pos: 00000F89
 
 #WLB(PTR, $000002A4)
@@ -63,9 +57,6 @@ person. He made this
 <$0C>
 town, whoosh.
 <$00>
-
-
-
 
 // Pos: 00000FB4
 
@@ -90,9 +81,6 @@ earlier. Have you\n
 seen her?
 <$00>
 
-
-
-
 // Pos: 00000FD5
 
 #WLB(PTR, $000003AC)
@@ -110,9 +98,6 @@ Perhaps she did not
 <$0C>
 pass, whoosh, whoosh.
 <$00>
-
-
-
 
 // Pos: 00000FFD
 
@@ -132,9 +117,6 @@ with another woman
 earlier. Have you\n
 seen her?
 <$00>
-
-
-
 
 // Pos: 0000101E
 
@@ -198,7 +180,8 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00><$10><$0B>
 //エイプリル：
@@ -292,8 +275,7 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
 //子トーマス：
 子Thomas:
@@ -358,7 +340,9 @@ Thomas:
 //\n問顆は心も欲しがるかということだ。\n
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
+
 <$0B>
 //トーマス：
 Thomas:
@@ -394,7 +378,8 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
@@ -419,7 +404,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

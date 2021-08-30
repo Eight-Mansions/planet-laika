@@ -11,6 +11,7 @@
 
 #WHB(PTR, $00000549)
 
+
 <$12><$1F><$00>
 //国ああ、ちくしょう、火だ、馬屋が燃えてる。\n俺なのか…俺が火をつけたのか…
 国No, no, NO! It's a\n
@@ -23,14 +24,12 @@ this?!
 国NOOO! NOOOOOOOOOO!
 <$00>
 
-
-
-
 // Pos: 000005E0
 
 #WLB(PTR, $00000550)
 
 #WHB(PTR, $00000551)
+
 
 <$12><$1F><$00>
 //制よ、ドクだなんて…人開きの悪い…
@@ -43,14 +42,12 @@ Vladimir would... NO!\n
 NOOOOOO!
 <$00>
 
-
-
-
 // Pos: 00000617
 
 #WLB(PTR, $0000054C)
 
 #WHB(PTR, $0000054D)
+
 
 <$12><$1F><$00>
 //双ニれ衣を着せただと？
@@ -63,7 +60,4 @@ I...I'm not copying\n
 his behavior. No...\n
 I'm nothing like him!
 <$00>
-
-
-
 

@@ -24,12 +24,9 @@ you, comrade.
 Tommy:
 <$0D>
 //\nひゃー、そりゃ大変だ。
-nYeesh, talk about\n
-bad.
+nYeesh, talk\n
+about bad.
 <$00>
-
-
-
 
 // Pos: 000019CB
 
@@ -49,9 +46,6 @@ Smokey, you
 understand. That guy\n
 isn't so quick.
 <$00>
-
-
-
 
 // Pos: 000019F1
 
@@ -108,9 +102,6 @@ the prowl for YOU!
 声
 <$00>
 
-
-
-
 // Pos: 00001A96
 
 #WLB(PTR, $00000480)
@@ -133,9 +124,6 @@ steer clear!
 //家
 家
 <$00>
-
-
-
 
 // Pos: 00001AD5
 
@@ -164,16 +152,12 @@ That guy lives for\n
 making a production
 <$0C>
 out of everything.\n
-Wanna hear an\n
-example?
+Wanna hear an example?
 <$1B>
 //、開きたい\n開きたくない
 、Yes\n
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 00001B3B
 
@@ -187,8 +171,7 @@ Tommy:
 <$0D>
 //\nあいつにはじいさんがいた。
 \n
-The guy had a\n
-grandpa.
+The guy had a grandpa.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -199,8 +182,7 @@ The grandpa got\n
 spooked by something,
 <$0C>
 and he hiccuped\n
-non-stop for 69\n
-years.
+non-stop for 69 years.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -232,8 +214,7 @@ Tommy:
 The logic was, "If\n
 Andy dies, the
 <$0C>
-hiccups die with\n
-him!"
+hiccups die with him!"
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -245,8 +226,7 @@ grandpa into the
 <$0C>
 casket, and even\n
 arranged flowers for\n
-him. The whole\n
-shpeal.
+him. The whole shpeal.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -286,9 +266,6 @@ might just be right.
 声
 <$00>
 
-
-
-
 // Pos: 00001CD5
 
 #WLB(PTR, $000002FC)
@@ -317,9 +294,6 @@ out like that.
 //家
 家
 <$00>
-
-
-
 
 // Pos: 00001D0E
 
@@ -350,9 +324,6 @@ grandpa.
 声
 <$00>
 
-
-
-
 // Pos: 00001D4B
 
 #WLB(PTR, $00000198)
@@ -370,9 +341,6 @@ That's a good scent
 <$0C>
 for my darling puppy.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00001D6E
 
@@ -396,9 +364,6 @@ are having a ball.
 声
 <$00>
 
-
-
-
 // Pos: 00001DAC
 
 #WLB(PTR, $00000C44)
@@ -418,19 +383,17 @@ Makes my head want to\n
 split...!
 <$00>
 
-
-
-
 // Pos: 00001DD5
 
 #WLB(PTR, $00000CBC)
 
 #WHB(PTR, $00000CBD)
 
+
 <$00>
 //      第１７日 タムズの月
-The Seventeenth of\n
-Tammuz
+    The Seventeenth\n
+of Tammuz
 <$0C>
 //さて、このヨセミテ、死線をさまようこと３日。\n英気の岩から抜け出せなくなるアクシデント！
 For three days and\n
@@ -479,9 +442,6 @@ will remember this\n
 experience deeply.
 <$00>
 
-
-
-
 // Pos: 00001EEC
 
 #WLB(PTR, $00000D54)
@@ -499,7 +459,4 @@ this from a Hewbrew
 <$0C>
 calander?
 <$00>
-
-
-
 

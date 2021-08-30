@@ -17,9 +17,6 @@ What do you want from\n
 Us?
 <$00>
 
-
-
-
 // Pos: 00003788
 
 #WLB(PTR, $000008F4)
@@ -34,9 +31,6 @@ Spacer:
 \n
 Who said that?
 <$00>
-
-
-
 
 // Pos: 000037A3
 
@@ -53,9 +47,6 @@ We are here, before
 you.
 <$00>
 
-
-
-
 // Pos: 000037B9
 
 #WLB(PTR, $000009F4)
@@ -71,9 +62,6 @@ Spacer:
 "We" who?
 <$00>
 
-
-
-
 // Pos: 000037CB
 
 #WLB(PTR, $00000A04)
@@ -84,12 +72,10 @@ Spacer:
 //に私はマコトの存在だ。\nマコトの顔とでも理解してくれ。\nトゥルーフェイスだ。
 にWe are the existence\n
 of truth, the face of\n
-truth.\n
+truth.
+<$0C>
 We are True Faiths.
 <$00>
-
-
-
 
 // Pos: 000037F9
 
@@ -108,9 +94,6 @@ like you who make
 <$0C>
 human faces.
 <$00>
-
-
-
 
 // Pos: 00003824
 
@@ -146,9 +129,6 @@ have no need for\n
 faces.
 <$00>
 
-
-
-
 // Pos: 00003892
 
 #WLB(PTR, $00000A8C)
@@ -166,9 +146,6 @@ Ah, so you're
 <$0C>
 Martians.
 <$00>
-
-
-
 
 // Pos: 000038B5
 
@@ -202,9 +179,6 @@ And what would you
 say you are?
 <$00>
 
-
-
-
 // Pos: 00003915
 
 #WLB(PTR, $00000AB0)
@@ -222,9 +196,6 @@ Earth, so that would
 <$0C>
 make me an Earthling.
 <$00>
-
-
-
 
 // Pos: 00003934
 
@@ -269,12 +240,8 @@ You are foolish to\n
 hide your true selves
 <$0C>
 under countless\n
-titles of\n
-convenience!
+titles of convenience!
 <$00>
-
-
-
 
 // Pos: 000039F7
 
@@ -296,9 +263,6 @@ teachers, mothers,\n
 children, et cetera.
 <$00>
 
-
-
-
 // Pos: 00003A55
 
 #WLB(PTR, $00000BE4)
@@ -314,12 +278,11 @@ True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
 \n
-\n
-"Roles"..."structure"...hah!
+"Roles"..."structure"..\n
+.hah! Then We ask
 <$0C>
-Then We ask you, why\n
-do you kill each\n
-other?
+you, why do you kill\n
+each other?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -331,12 +294,10 @@ hate? To lie and hurt
 <$0C>
 others for\n
 self-preservation?\n
-How can you live that\n
+How can you live that
+<$0C>
 way?!
 <$00>
-
-
-
 
 // Pos: 00003ACA
 
@@ -355,7 +316,8 @@ than hatred and
 <$0C>
 murder. It's about\n
 loving others and\n
-helping them with\n
+helping them with
+<$0C>
 compassion.
 <$0C><$0B>
 //スペーサー：
@@ -369,9 +331,6 @@ every one of us has a
 personal story to\n
 tell.
 <$00>
-
-
-
 
 // Pos: 00003B2F
 
@@ -409,9 +368,9 @@ whole.
 True Faiths:
 <$0D>
 //\nそれは個性などではない。\n心臓は脳にはなれない、\n口は耳にはなれない。
-A heart cannot be a\n
-brain. Nor a mouth,\n
-an ear.
+A heart\n
+cannot be a brain.\n
+Nor a mouth, an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -425,9 +384,6 @@ determined. Your\n
 "personal" logic\n
 falls short.
 <$00>
-
-
-
 
 // Pos: 00003C03
 
@@ -448,9 +404,6 @@ you, are a collective\n
 consciousness devoid\n
 of individuality.
 <$00>
-
-
-
 
 // Pos: 00003C3C
 
@@ -475,9 +428,6 @@ destruction in its\n
 entirety.
 <$00>
 
-
-
-
 // Pos: 00003C8D
 
 #WLB(PTR, $00000CC4)
@@ -495,9 +445,6 @@ who asked to have the
 <$0C>
 human faces.
 <$00>
-
-
-
 
 // Pos: 00003CAF
 
@@ -533,9 +480,6 @@ flicker doomed for\n
 extinction.
 <$00>
 
-
-
-
 // Pos: 00003D37
 
 #WLB(PTR, $00000CEC)
@@ -554,9 +498,6 @@ though. Humans
 acquired wisdom, and\n
 used it to flourish.
 <$00>
-
-
-
 
 // Pos: 00003D64
 
@@ -579,18 +520,19 @@ Wisdom...
 True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
-To "see the world in\n
-a grain of said? See\n
-heaven in a single
+To "see\n
+the world in a grain\n
+of said? See heaven
 <$0C>
+in a single\n
 wildflower"?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nこれのどこが英知なのだ。
-What "wisdom" is\n
-this?!
+What\n
+"wisdom" is this?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -617,9 +559,6 @@ delusion, you\n
 insects?!
 <$00>
 
-
-
-
 // Pos: 00003E2C
 
 #WLB(PTR, $00000DBC)
@@ -639,9 +578,6 @@ Spacer:
 What do you mean,\n
 "insects"?!
 <$00>
-
-
-
 
 // Pos: 00003E4B
 
@@ -664,7 +600,4 @@ idiot, talking to a
 <$0C>
 rag like this.
 <$00>
-
-
-
 

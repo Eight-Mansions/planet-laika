@@ -15,12 +15,8 @@
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-THERE ARE NO\n
-MESSAGES.
+THERE ARE NO MESSAGES.
 <$00>
-
-
-
 
 // Pos: 00001908
 
@@ -58,9 +54,6 @@ entomologist on the
 line to share it with\n
 you.
 <$00>
-
-
-
 
 // Pos: 00001983
 
@@ -126,7 +119,8 @@ Martian's
 <$0C>
 unfathomable ill will\n
 became the miasmic\n
-malice we call Evil\n
+malice we call Evil
+<$0C>
 Mind.
 <$0C><$0B>
 //昆虫学者：
@@ -139,7 +133,8 @@ all the good will
 <$0C>
 they had, and\n
 crystalized it into\n
-glowing stones,\n
+glowing stones,
+<$0C>
 bzzbzz.
 <$0C><$0B>
 //昆虫学者：
@@ -158,21 +153,22 @@ for them.
 Entomologist:
 <$0D>
 //\nフンフン、光る石は全部で５つあるようだ。\n全ての石が集まれば…
-Bzzbzz! There are\n
-five of them in\n
-total, but when all
+Bzzbzz!\n
+There are five of\n
+them in total, but
 <$0C>
-five are gathered...
+when all five are\n
+gathered...
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nフンフンフン、そうなれば火星人が\nよみがえるかも知れない。\nフンフン、そうだ！
-...hehe, who knows?\n
-Maybe the Martians\n
-will spring back to
+...hehe,\n
+who knows? Maybe the\n
+Martians will spring
 <$0C>
-life, bzzbzz!
+back to life, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -186,9 +182,6 @@ HISTORY in the\n
 making! Yes, bzz!\n
 It'll be brilliant!
 <$00>
-
-
-
 
 // Pos: 00001BB4
 
@@ -209,9 +202,6 @@ favorite doctor from\n
 once upon a time!
 <$00>
 
-
-
-
 // Pos: 00001BE3
 
 #WLB(PTR, $0000038C)
@@ -230,9 +220,6 @@ one you kept saying
 liked little girls.
 <$00>
 
-
-
-
 // Pos: 00001C06
 
 #WLB(PTR, $000003A0)
@@ -250,9 +237,6 @@ smirking even now,
 <$0C>
 aren't you?
 <$00>
-
-
-
 
 // Pos: 00001C20
 
@@ -274,9 +258,6 @@ with that little\n
 girl?!
 <$00>
 
-
-
-
 // Pos: 00001C45
 
 #WLB(PTR, $000003C8)
@@ -295,9 +276,6 @@ so tired... I'm so
 tired of this, I\n
 could die!
 <$00>
-
-
-
 
 // Pos: 00001C6E
 
@@ -318,9 +296,6 @@ showed that little\n
 girl the birthmark on\n
 my stomach?!
 <$00>
-
-
-
 
 // Pos: 00001C90
 
@@ -347,7 +322,4 @@ time! I WOULDN'T LIE
 <$0C>
 ABOUT THIS!
 <$00>
-
-
-
 

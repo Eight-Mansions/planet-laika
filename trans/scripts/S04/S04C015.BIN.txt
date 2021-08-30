@@ -36,9 +36,6 @@ the plaza.
 家
 <$00>
 
-
-
-
 // Pos: 00001E59
 
 #WLB(PTR, $00001048)
@@ -57,9 +54,6 @@ doing out here?
 Returning to Earth\n
 already?
 <$00>
-
-
-
 
 // Pos: 00001E80
 
@@ -112,9 +106,6 @@ that silly?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 00001F25
 
 #WLB(PTR, $000010C8)
@@ -132,15 +123,13 @@ shake the feeling
 <$0C>
 Agatha's out to\n
 hijack my mind. I'm\n
-so worried, I can\n
+so worried, I can
+<$0C>
 hardly sleep.
 <$1E>
 //〇
 〇
 <$00>
-
-
-
 
 // Pos: 00001F74
 
@@ -176,9 +165,6 @@ scary!
 〇
 <$00>
 
-
-
-
 // Pos: 00001FF3
 
 #WLB(PTR, $000011F0)
@@ -201,9 +187,6 @@ stopping her!
 〇
 <$00>
 
-
-
-
 // Pos: 00002023
 
 #WLB(PTR, $00001264)
@@ -219,9 +202,6 @@ Feng:
 Oh, dear. You can't\n
 sleep either?
 <$00>
-
-
-
 
 // Pos: 0000203A
 
@@ -253,9 +233,6 @@ mirrors... What's\n
 that about?
 <$00>
 
-
-
-
 // Pos: 00002088
 
 #WLB(PTR, $000012AC)
@@ -275,9 +252,6 @@ Judgement. From\n
 where, pray tell?
 <$00>
 
-
-
-
 // Pos: 000020B9
 
 #WLB(PTR, $000012D0)
@@ -290,9 +264,6 @@ Ernest:
 <$0D>
 //\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
 <$00>
-
-
-
 
 // Pos: 000020EC
 
@@ -324,9 +295,6 @@ what destroy us. That
 is Judgement.
 <$00>
 
-
-
-
 // Pos: 00002154
 
 #WLB(PTR, $00001318)
@@ -346,9 +314,6 @@ that why you made\n
 yours?
 <$00>
 
-
-
-
 // Pos: 0000217E
 
 #WLB(PTR, $0000133C)
@@ -367,9 +332,6 @@ made it only because
 Amanda asked me to.
 <$00>
 
-
-
-
 // Pos: 0000219F
 
 #WLB(PTR, $00001380)
@@ -385,9 +347,6 @@ Ernest:
 Amanda, huh. And who\n
 is she?
 <$00>
-
-
-
 
 // Pos: 000021BB
 
@@ -409,9 +368,6 @@ are...kindred\n
 spirits, hoho.
 <$00>
 
-
-
-
 // Pos: 000021EC
 
 #WLB(PTR, $000015D8)
@@ -428,9 +384,6 @@ Oh, dear. You can't\n
 sleep either?
 <$00>
 
-
-
-
 // Pos: 00002203
 
 #WLB(PTR, $000015FC)
@@ -446,9 +399,6 @@ Spacer:
 Tell me, what's up\n
 with your mirror?
 <$00>
-
-
-
 
 // Pos: 0000221D
 
@@ -467,9 +417,6 @@ Judgement? What would
 <$0C>
 you like to know?
 <$00>
-
-
-
 
 // Pos: 0000223F
 
@@ -491,9 +438,6 @@ mirror made to\n
 nurture evil?
 <$00>
 
-
-
-
 // Pos: 00002288
 
 #WLB(PTR, $00001668)
@@ -514,9 +458,6 @@ destroy the outer, we\n
 find Judgement.
 <$00>
 
-
-
-
 // Pos: 000022C6
 
 #WLB(PTR, $0000168C)
@@ -532,12 +473,8 @@ Spacer:
 But Feng, why would\n
 you make a mirror
 <$0C>
-capable of doing\n
-that?
+capable of doing that?
 <$00>
-
-
-
 
 // Pos: 000022EC
 
@@ -557,9 +494,6 @@ made it only because
 Amanda asked me to.
 <$00>
 
-
-
-
 // Pos: 0000230D
 
 #WLB(PTR, $000016F4)
@@ -577,9 +511,6 @@ does ring a bell. Who
 <$0C>
 is she?
 <$00>
-
-
-
 
 // Pos: 00002330
 
@@ -607,9 +538,6 @@ are...kindred
 spirits, hoho.
 <$00>
 
-
-
-
 // Pos: 00002368
 
 #WLB(PTR, $0000141C)
@@ -625,9 +553,6 @@ Feng:
 Oh, dear. You can't\n
 sleep either?
 <$00>
-
-
-
 
 // Pos: 0000237F
 
@@ -646,9 +571,6 @@ you were making a
 <$0C>
 mirror or something.
 <$00>
-
-
-
 
 // Pos: 000023A8
 
@@ -670,9 +592,6 @@ don't let that scare\n
 you.
 <$00>
 
-
-
-
 // Pos: 000023D7
 
 #WLB(PTR, $00001488)
@@ -692,9 +611,6 @@ trick mirror anyways,\n
 right? One that makes\n
 people prettier?
 <$00>
-
-
-
 
 // Pos: 00002417
 
@@ -728,9 +644,6 @@ what destroy us. That\n
 is Judgement.
 <$00>
 
-
-
-
 // Pos: 0000247D
 
 #WLB(PTR, $000014D0)
@@ -748,9 +661,6 @@ would you make such a
 <$0C>
 thing?
 <$00>
-
-
-
 
 // Pos: 000024A4
 
@@ -770,9 +680,6 @@ made it only because
 Amanda asked me to.
 <$00>
 
-
-
-
 // Pos: 000024C5
 
 #WLB(PTR, $00001538)
@@ -790,9 +697,6 @@ heard the name, but
 <$0C>
 who is she?
 <$00>
-
-
-
 
 // Pos: 000024EA
 
@@ -814,9 +718,6 @@ are...kindred\n
 spirits, hoho.
 <$00>
 
-
-
-
 // Pos: 0000251A
 
 #WLB(PTR, $000006F4)
@@ -825,16 +726,13 @@ spirits, hoho.
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON!\n
+ WELCOME TO PRISON!\n
 REGISTRANT NAME:\n
 "
 <$0F>
 //！
 "
 <$00>
-
-
-
 
 // Pos: 00002531
 
@@ -856,15 +754,12 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
-NOT REGISTERED FOR\n
+ NOT REGISTERED FOR\n
 ENTRY. FOR DETAILS\n
 AND ASSISTANCE, SPEAK
 <$0C>
 TO AN ADMINISTRATOR.
 <$00>
-
-
-
 
 // Pos: 0000255D
 
@@ -886,12 +781,9 @@ TO AN ADMINISTRATOR.
 
 <$12><$13>
 // ヤハリ アナタハ\nトウロクサレテイマセン。
-USER NOT REGISTERED\n
+ USER NOT REGISTERED\n
 FOR ENTRY.
 <$00>
-
-
-
 
 // Pos: 00002576
 
@@ -911,9 +803,6 @@ I supposed to
 register?
 <$00>
 
-
-
-
 // Pos: 00002599
 
 #WLB(PTR, $00000804)
@@ -927,13 +816,11 @@ Yolanda:
 //\n何よこれ？\n失礼しちゃうわね！
 \n
 The fuck does that\n
-mean?\n
+mean?
+<$0C>
 Hello? A little help\n
 here?!
 <$00>
-
-
-
 
 // Pos: 000025B6
 
@@ -950,7 +837,4 @@ Spacer:
 Hmm... Looks like I'm\n
 not getting in.
 <$00>
-
-
-
 

@@ -47,9 +47,6 @@ for someone.
 理
 <$00>
 
-
-
-
 // Pos: 00003FEF
 
 #WLB(PTR, $00000330)
@@ -77,9 +74,6 @@ I'm...changing...
 鋭
 <$00>
 
-
-
-
 // Pos: 00004032
 
 #WLB(PTR, $00000168)
@@ -93,8 +87,7 @@ now. I shall send my\n
 wrath to reap all you
 <$0C>
 have sewn, that all\n
-deeds may know\n
-reward.
+deeds may know reward.
 <$0C>
 //終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
 The end is upon you!\n
@@ -107,27 +100,26 @@ upon you!
 <$05><$0C>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第四の預言を得た。
-So sayeth the fourth\n
-prophecy.
+So sayeth the\n
+fourth prophecy.
 <$00><$10>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第四の預言を得た。
-So sayeth the fourth\n
-prophecy.
+So sayeth the\n
+fourth prophecy.
 <$00>
-
-
-
 
 // Pos: 000040DC
 
@@ -163,9 +155,6 @@ the deepest depths of\n
 Death.
 <$00>
 
-
-
-
 // Pos: 00004132
 
 #WLB(PTR, $000005B0)
@@ -194,9 +183,6 @@ nightmares, beyond
 all falsehood, in the\n
 Land of the Dead.
 <$00>
-
-
-
 
 // Pos: 00004187
 
@@ -228,9 +214,6 @@ miracle, for you are\n
 the Twins of Truth.
 <$00>
 
-
-
-
 // Pos: 000041E5
 
 #WLB(PTR, $0000060C)
@@ -250,9 +233,6 @@ nightmares. I may\n
 have an idea.
 <$00>
 
-
-
-
 // Pos: 0000421C
 
 #WLB(PTR, $000007D0)
@@ -270,9 +250,6 @@ you stronger, or did
 <$0C>
 they hurt you?
 <$00>
-
-
-
 
 // Pos: 00004247
 
@@ -294,9 +271,6 @@ It's scary, a-ha!
 //理
 理
 <$00>
-
-
-
 
 // Pos: 0000426D
 
@@ -320,9 +294,6 @@ calling for you.
 鋭
 <$00>
 
-
-
-
 // Pos: 00004299
 
 #WLB(PTR, $00000838)
@@ -344,9 +315,6 @@ right, a-nope.
 //行
 行
 <$00>
-
-
-
 
 // Pos: 000042B3
 
@@ -401,9 +369,6 @@ of myself as it is.
 中
 <$00>
 
-
-
-
 // Pos: 00004344
 
 #WLB(PTR, $00000860)
@@ -425,7 +390,4 @@ doesn't matter.
 //中
 中
 <$00>
-
-
-
 

@@ -20,9 +20,6 @@ East:
 You came from Earth?
 <$00>
 
-
-
-
 // Pos: 00002A6A
 
 #WLB(PTR, $0000053C)
@@ -37,9 +34,6 @@ West:
 \n
 You came for Herod!
 <$00>
-
-
-
 
 // Pos: 00002A85
 
@@ -56,9 +50,6 @@ East:
 You can tell?
 <$00>
 
-
-
-
 // Pos: 00002A9A
 
 #WLB(PTR, $00000590)
@@ -74,9 +65,6 @@ West:
 Can tell why they\n
 came!
 <$00>
-
-
-
 
 // Pos: 00002AAE
 
@@ -96,9 +84,6 @@ Come in with the red
 stone?
 <$00>
 
-
-
-
 // Pos: 00002ACD
 
 #WLB(PTR, $0000060C)
@@ -113,9 +98,6 @@ West:
 \n
 Get the red stone!
 <$00>
-
-
-
 
 // Pos: 00002AE3
 
@@ -132,9 +114,6 @@ East:
 The one they say\n
 shines brightly?
 <$00>
-
-
-
 
 // Pos: 00002AFF
 
@@ -154,9 +133,6 @@ red house on Brick
 Road!
 <$00>
 
-
-
-
 // Pos: 00002B19
 
 #WLB(PTR, $00000684)
@@ -173,9 +149,6 @@ The one where the\n
 door won't open?
 <$00>
 
-
-
-
 // Pos: 00002B2C
 
 #WLB(PTR, $000006B4)
@@ -190,9 +163,6 @@ West:
 \n
 Who knows!
 <$00>
-
-
-
 
 // Pos: 00002B3A
 
@@ -210,9 +180,6 @@ Can the door be\n
 opened?
 <$00>
 
-
-
-
 // Pos: 00002B4F
 
 #WLB(PTR, $00000708)
@@ -228,9 +195,6 @@ West:
 If you're smart!
 <$00>
 
-
-
-
 // Pos: 00002B5E
 
 #WLB(PTR, $0000072C)
@@ -245,9 +209,6 @@ East:
 \n
 So you can go trough?
 <$00>
-
-
-
 
 // Pos: 00002B6F
 
@@ -265,9 +226,6 @@ Through the mirror\n
 room!
 <$00>
 
-
-
-
 // Pos: 00002B85
 
 #WLB(PTR, $000007A8)
@@ -282,9 +240,6 @@ East:
 \n
 The mirror room?
 <$00>
-
-
-
 
 // Pos: 00002B9C
 
@@ -302,9 +257,6 @@ The room with the\n
 vast mirror?
 <$00>
 
-
-
-
 // Pos: 00002BB1
 
 #WLB(PTR, $000007FC)
@@ -321,9 +273,6 @@ The one I hate and do\n
 not wish to see?
 <$00>
 
-
-
-
 // Pos: 00002BC9
 
 #WLB(PTR, $00000860)
@@ -339,9 +288,6 @@ West:
 Because mirrors are\n
 taboo!
 <$00>
-
-
-
 
 // Pos: 00002BDB
 
@@ -368,9 +314,6 @@ Herod?
 〇
 <$00>
 
-
-
-
 // Pos: 00002BFB
 
 #WLB(PTR, $000008A8)
@@ -394,9 +337,6 @@ Brick Road will!
 〇
 <$00>
 
-
-
-
 // Pos: 00002C1E
 
 #WLB(PTR, $00000B38)
@@ -413,9 +353,6 @@ You came with the red\n
 stone?
 <$00>
 
-
-
-
 // Pos: 00002C38
 
 #WLB(PTR, $00000B5C)
@@ -430,9 +367,6 @@ West:
 \n
 That face says yes!
 <$00>
-
-
-
 
 // Pos: 00002C4D
 
@@ -449,9 +383,6 @@ East:
 Will you give it?
 <$00>
 
-
-
-
 // Pos: 00002C5B
 
 #WLB(PTR, $00000B9C)
@@ -462,18 +393,18 @@ Will you give it?
 
 #WHB(PTR, $00000C09)
 
+
 <$00>
 //赤い石を渡しますか？\n
 Hand over the Red\n
 Stone?\n
+
 <$1B>
 //。渡す\n渡さない
-。Yes\n
+。Yes
+<$0C>
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 00002C78
 
@@ -494,9 +425,6 @@ Giving us the red\n
 stone will help you!
 <$00>
 
-
-
-
 // Pos: 00002CA8
 
 #WLB(PTR, $00000BF8)
@@ -512,9 +440,6 @@ East:
 When will you give us\n
 the stone?
 <$00>
-
-
-
 
 // Pos: 00002CCE
 
@@ -532,9 +457,6 @@ This...is the red\n
 stone!
 <$00>
 
-
-
-
 // Pos: 00002CE2
 
 #WLB(PTR, $00000CAC)
@@ -550,9 +472,6 @@ East:
 So the dogface did\n
 well?
 <$00>
-
-
-
 
 // Pos: 00002CF7
 
@@ -572,9 +491,6 @@ yes, you're a dog! We
 HATE dogs!
 <$00>
 
-
-
-
 // Pos: 00002D18
 
 #WLB(PTR, $00000D00)
@@ -589,9 +505,6 @@ East:
 \n
 Who doesn't?
 <$00>
-
-
-
 
 // Pos: 00002D29
 
@@ -609,9 +522,6 @@ Dogs should be thrown\n
 into space!
 <$00>
 
-
-
-
 // Pos: 00002D3C
 
 #WLB(PTR, $00000D54)
@@ -626,9 +536,6 @@ East:
 \n
 Don't you agree?
 <$00>
-
-
-
 
 // Pos: 00002D4E
 
@@ -646,9 +553,6 @@ We don't even LIKE\n
 dogs!
 <$00>
 
-
-
-
 // Pos: 00002D65
 
 #WLB(PTR, $00000DB4)
@@ -664,9 +568,6 @@ East:
 Why should we?! Awoo!
 <$00>
 
-
-
-
 // Pos: 00002D78
 
 #WLB(PTR, $00000DD8)
@@ -681,9 +582,6 @@ West:
 \n
 Awoo!
 <$00>
-
-
-
 
 // Pos: 00002D86
 
@@ -701,9 +599,6 @@ All right, what's all\n
 the fuss about?
 <$00>
 
-
-
-
 // Pos: 00002D96
 
 #WLB(PTR, $00000F34)
@@ -720,9 +615,6 @@ The fuss about the\n
 survey unit?
 <$00>
 
-
-
-
 // Pos: 00002DA7
 
 #WLB(PTR, $00000F58)
@@ -738,9 +630,6 @@ West:
 The survey unit on\n
 Mars!
 <$00>
-
-
-
 
 // Pos: 00002DB7
 
@@ -759,7 +648,8 @@ So, the
 <$0C>
 terraformation\n
 project really is\n
-back on...and you're\n
+back on...and you're
+<$0C>
 here to inspect.
 <$0C><$0B>
 //ヘロデ：
@@ -774,9 +664,6 @@ find out here. Tell\n
 them everything's\n
 peachy.
 <$00>
-
-
-
 
 // Pos: 00002E40
 
@@ -794,9 +681,6 @@ Because "peachy"\n
 means "no problems"?
 <$00>
 
-
-
-
 // Pos: 00002E53
 
 #WLB(PTR, $00000FC4)
@@ -811,9 +695,6 @@ West:
 \n
 No problems here!
 <$00>
-
-
-
 
 // Pos: 00002E65
 
@@ -889,9 +770,6 @@ this son of"...me!\n
 Herod!
 <$00>
 
-
-
-
 // Pos: 00002F6C
 
 #WLB(PTR, $000010E8)
@@ -907,9 +785,6 @@ East:
 So winter is over?
 <$00>
 
-
-
-
 // Pos: 00002F7E
 
 #WLB(PTR, $0000110C)
@@ -924,9 +799,6 @@ West:
 \n
 Glorious!
 <$00>
-
-
-
 
 // Pos: 00002F92
 
@@ -948,9 +820,6 @@ red carpet for\n
 colonizers.
 <$00>
 
-
-
-
 // Pos: 00002FC6
 
 #WLB(PTR, $000011E4)
@@ -966,9 +835,6 @@ East:
 Understand?
 <$00>
 
-
-
-
 // Pos: 00002FD4
 
 #WLB(PTR, $00001208)
@@ -983,9 +849,6 @@ West:
 \n
 ...
 <$00>
-
-
-
 
 // Pos: 00002FDF
 
@@ -1017,9 +880,6 @@ I'm turning in for\n
 the night.
 <$00>
 
-
-
-
 // Pos: 0000303E
 
 #WLB(PTR, $00001250)
@@ -1035,9 +895,6 @@ East:
 Will you rest, Herod?
 <$00>
 
-
-
-
 // Pos: 00003054
 
 #WLB(PTR, $00001274)
@@ -1052,9 +909,6 @@ West:
 \n
 Herod will sleep!
 <$00>
-
-
-
 
 // Pos: 00003064
 
@@ -1072,9 +926,6 @@ Will you come to Cell\n
 13?
 <$00>
 
-
-
-
 // Pos: 0000307A
 
 #WLB(PTR, $000012BC)
@@ -1088,9 +939,7 @@ West:
 //\n昔は牢屋、今はホテルだ。
 \n
 What once was a\n
-prison is now a
-<$0C>
-hotel!
+prison is now a hotel!
 <$1E>
 //〇
 〇
@@ -1166,7 +1015,8 @@ totally don't care
 <$0C>
 about what the\n
 warehouse next door\n
-stores, right? Our\n
+stores, right? Our
+<$0C>
 oxygenite?
 <$0C><$0B>
 //リトル：
@@ -1188,8 +1038,7 @@ Little:
 PROVING, see, that\n
 you are NOT so
 <$0C>
-indispensible, got\n
-it?
+indispensible, got it?
 <$0C><$0B>
 //リトル：
 Little:
@@ -1258,7 +1107,8 @@ human faces so bad,
 <$0C>
 you come out here,\n
 see it and then pay\n
-us for cosmetic\n
+us for cosmetic
+<$0C>
 surgery!
 <$00><$10><$0B>
 //エイプリル：
@@ -1355,9 +1205,6 @@ while I speak to the
 pair outside.
 <$00>
 
-
-
-
 // Pos: 000034DB
 
 #WLB(PTR, $000015F0)
@@ -1367,16 +1214,14 @@ pair outside.
 <$10>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //赤い石を手に入れた。
 Red Stone acquired.
 <$00>
-
-
-
 
 // Pos: 000034F4
 
@@ -1384,11 +1229,9 @@ Red Stone acquired.
 
 #WHB(PTR, $000015B5)
 
+
 <$00>
 //アイテムがいっぱいです。
 The item bag is full!
 <$00>
-
-
-
 

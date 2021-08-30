@@ -59,9 +59,6 @@ waves.
 ëo
 <$00>
 
-
-
-
 // Pos: 000012CE
 
 #WLB(PTR, $00000238)
@@ -90,9 +87,6 @@ the night...
 //ëo
 ëo
 <$00>
-
-
-
 
 // Pos: 00001308
 
@@ -123,9 +117,6 @@ not a hoax?
 //ëo
 ëo
 <$00>
-
-
-
 
 // Pos: 00001352
 
@@ -159,9 +150,6 @@ Everyone, eaten.
 ëo
 <$00>
 
-
-
-
 // Pos: 000013A0
 
 #WLB(PTR, $000002C8)
@@ -182,9 +170,6 @@ night to attack me.
 //ëo
 ëo
 <$00>
-
-
-
 
 // Pos: 000013CA
 
@@ -207,9 +192,6 @@ of my dreams...
 ëo
 <$00>
 
-
-
-
 // Pos: 000013E5
 
 #WLB(PTR, $00000260)
@@ -231,9 +213,6 @@ town to ash.
 //ëo
 ëo
 <$00>
-
-
-
 
 // Pos: 00001412
 
@@ -275,9 +254,6 @@ the ventilator tower\n
 on the right.
 <$00>
 
-
-
-
 // Pos: 00001478
 
 #WLB(PTR, $000010D8)
@@ -288,9 +264,6 @@ on the right.
 Psycho Lab
 <$00><$00>
 
-
-
-
 // Pos: 00001480
 
 #WLB(PTR, $000010E0)
@@ -300,7 +273,4 @@ Psycho Lab
 //é_çıêŒíuèÍ
 Oxygenite Storage
 <$00><$00>
-
-
-
 

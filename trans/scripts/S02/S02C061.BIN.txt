@@ -21,9 +21,6 @@ There you are, Laika!\n
 'Anging in there?
 <$00>
 
-
-
-
 // Pos: 00000EFE
 
 #WLB(PTR, $0000018C)
@@ -54,9 +51,6 @@ keep the other two\n
 waiting.
 <$00>
 
-
-
-
 // Pos: 00000F60
 
 #WLB(PTR, $00000808)
@@ -77,7 +71,4 @@ there to confuse you.
 //‰Š
 ‰Š
 <$00>
-
-
-
 

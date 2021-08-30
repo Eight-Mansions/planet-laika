@@ -14,11 +14,9 @@
 <$10>
 //\n     タオゴールドを手に入れた。
 \n
-Tao Gold acquired.
+     Tao Gold\n
+acquired.
 <$00>
-
-
-
 
 // Pos: 000009D1
 
@@ -31,7 +29,4 @@ Tao Gold acquired.
 \n
 The item bag is full!
 <$0E><$1E><$17><$00>
-
-
-
 

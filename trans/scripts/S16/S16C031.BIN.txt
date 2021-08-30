@@ -29,12 +29,8 @@ They're all sleeping\n
 like dead cats, huh.
 <$0C>
 Speaking of, I could\n
-use a nap myself,\n
-kek!
+use a nap myself, kek!
 <$00>
-
-
-
 
 // Pos: 00001444
 
@@ -86,9 +82,6 @@ scared, I love it!
 óù
 <$00>
 
-
-
-
 // Pos: 000014C8
 
 #WLB(PTR, $00000218)
@@ -125,9 +118,6 @@ reach. The road to
 <$0C>
 Death won't open.
 <$00>
-
-
-
 
 // Pos: 00001540
 
@@ -180,9 +170,6 @@ death! Take me back\n
 to where I came from!
 <$00>
 
-
-
-
 // Pos: 000015E3
 
 #WLB(PTR, $00000284)
@@ -198,7 +185,4 @@ Neo-Universal Man:
 Remove the source of\n
 the clouding fear.
 <$00>
-
-
-
 

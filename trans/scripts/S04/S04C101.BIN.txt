@@ -25,9 +25,6 @@ in one piece? How is\n
 April?
 <$00>
 
-
-
-
 // Pos: 000032D8
 
 #WLB(PTR, $000005DC)
@@ -45,12 +42,10 @@ revered as a place
 <$0C>
 that revives lost\n
 memories, even if\n
-they are not always\n
+they are not always
+<$0C>
 true.
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 00003324
 
@@ -71,9 +66,6 @@ distort them into\n
 vivid recollections.
 <$0E><$32><$17><$00>
 
-
-
-
 // Pos: 00003350
 
 #WLB(PTR, $000005FC)
@@ -91,9 +83,6 @@ untruths, recovering
 <$0C>
 will be no easy feat.
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 00003384
 
@@ -113,9 +102,6 @@ wasn't siezed by
 strange recollections\n
 yet.
 <$00>
-
-
-
 
 // Pos: 000033B2
 
@@ -139,10 +125,11 @@ a curious one, to me.
 Madam Agatha:
 <$0D>
 //\nなんだか… 初めて会ったとは思えないの。\nもちろん私の中でということだけど。
-nFor some reason, I\n
-get the feeling I've\n
-met her before. It's
+nFor\n
+some reason, I get\n
+the feeling I've met
 <$0C>
+her before. It's\n
 silly, of course.
 <$0C><$0B>
 //マダム・アガタ：
@@ -165,9 +152,6 @@ be, though. Funny,
 <$0C>
 isn't it?
 <$00>
-
-
-
 
 // Pos: 00003461
 
@@ -192,9 +176,6 @@ you come with me?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 0000349B
 
 #WLB(PTR, $00000708)
@@ -211,7 +192,8 @@ I see. Have you met\n
 Feng, by any chance?
 <$1B>
 //,もう会った\nまだ会っていない
-,Yes\n
+,Yes
+<$0C>
 No
 <$00><$17><$00><$10><$0B>
 //マダム・アガタ：
@@ -253,9 +235,6 @@ Feng. You can come\n
 too.
 <$00>
 
-
-
-
 // Pos: 00003567
 
 #WLB(PTR, $00000728)
@@ -276,9 +255,6 @@ You can come too.
 //理
 理
 <$00>
-
-
-
 
 // Pos: 000035A1
 
@@ -313,9 +289,6 @@ too.
 鋭
 <$00>
 
-
-
-
 // Pos: 000035FA
 
 #WLB(PTR, $00000884)
@@ -346,9 +319,6 @@ disappear the moment\n
 I read them.
 <$00>
 
-
-
-
 // Pos: 00003655
 
 #WLB(PTR, $00000F2C)
@@ -369,9 +339,6 @@ only fleet until they\n
 are gone.
 <$00>
 
-
-
-
 // Pos: 0000368C
 
 #WLB(PTR, $00000F44)
@@ -390,9 +357,6 @@ in your dreams, even
 this, only fleet\n
 until they are gone.
 <$00>
-
-
-
 
 // Pos: 000036C9
 
@@ -417,15 +381,12 @@ Spacer:
 <$0D>
 //\nそれとも
 \n
-Otherwise, how would
+Otherwise, how would 
 <$0F>
 //が落とした\n記憶のかけらなのか？
-be able to lose touch\n
+ be able to lose touch \n
 with them?
 <$00>
-
-
-
 
 // Pos: 00003710
 
@@ -457,9 +418,6 @@ in your dreams are
 often there to teach\n
 you powerful lessons.
 <$00>
-
-
-
 
 // Pos: 0000377F
 
@@ -528,9 +486,6 @@ sure. Everyone is in\n
 the ice.
 <$00>
 
-
-
-
 // Pos: 0000387D
 
 #WLB(PTR, $00000C8C)
@@ -545,12 +500,8 @@ the ice.
 December, the window\n
 to new spring. I see
 <$0C>
-a bus in the\n
-distance.
+a bus in the distance.
 <$00>
-
-
-
 
 // Pos: 000038A9
 
@@ -564,10 +515,12 @@ distance.
 //\n小さな男の子の手を引いた…\n男の子はあなたね、あなたとお母さんよ、\nふたりがバスから降りてくる。
 \n
 A little boy's hand\n
-is pulled.\n
+is pulled.
+<$0C>
 The boy is you, with\n
 your mother.\n
-You two are getting\n
+You two are getting
+<$0C>
 off a bus.
 <$0C><$0B>
 //マダム・アガタ：
@@ -593,9 +546,6 @@ the window is Sergei.
 His eyes are so, so\n
 dark.
 <$00>
-
-
-
 
 // Pos: 00003978
 
@@ -634,9 +584,6 @@ stairs. They speak,\n
 and the voice is...
 <$00>
 
-
-
-
 // Pos: 000039F3
 
 #WLB(PTR, $00000A9C)
@@ -645,16 +592,14 @@ and the voice is...
 
 //X（いだろ、
 X（It's cold, isn't\n
-it,
+it, 
 <$0F>
 //、\n俺があたためてやるぜ…
 ?\n
-Here, I'll warm you\n
+Here, I'll warm you
+<$0C>
 up!
 <$00>
-
-
-
 
 // Pos: 00003A09
 
@@ -667,12 +612,8 @@ up!
 <$0D>
 //\nこの声の主はセルゲイね。
 \n
-The voice is\n
-Sergei's.
+The voice is Sergei's.
 <$00>
-
-
-
 
 // Pos: 00003A24
 
@@ -712,9 +653,6 @@ You faint... The pain\n
 is too much.
 <$00>
 
-
-
-
 // Pos: 00003ABA
 
 #WLB(PTR, $00000BCC)
@@ -744,9 +682,6 @@ banging together.\n
 It's a revolting\n
 scene.
 <$00>
-
-
-
 
 // Pos: 00003B15
 
@@ -786,9 +721,6 @@ struck. I see a dark
 <$0C>
 bruise on her face.
 <$00>
-
-
-
 
 // Pos: 00003B9D
 
@@ -841,9 +773,6 @@ can make of the
 situation.
 <$00>
 
-
-
-
 // Pos: 00003C40
 
 #WLB(PTR, $00000C0C)
@@ -861,9 +790,6 @@ of harvest. This
 makes it ripe with\n
 uncertainty. Wait...
 <$00>
-
-
-
 
 // Pos: 00003C84
 
@@ -892,9 +818,6 @@ Something scary is\n
 about to happen.
 <$00>
 
-
-
-
 // Pos: 00003CE6
 
 #WLB(PTR, $00000ADC)
@@ -914,9 +837,6 @@ this in a way I\n
 haven't before.
 <$00>
 
-
-
-
 // Pos: 00003D25
 
 #WLB(PTR, $00000AFC)
@@ -932,8 +852,7 @@ Gasp! The deep night\n
 sky is stained by a
 <$0C>
 red flame. It's a\n
-fire. Someone\n
-screams.
+fire. Someone screams.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -956,9 +875,6 @@ all I can make sense
 of.
 <$00>
 
-
-
-
 // Pos: 00003DA7
 
 #WLB(PTR, $00000C4C)
@@ -977,9 +893,6 @@ policemen stand on\n
 the porch, banging\n
 the door.
 <$00>
-
-
-
 
 // Pos: 00003DEA
 
@@ -1010,9 +923,6 @@ foggy curtain is\n
 lifted.
 <$00>
 
-
-
-
 // Pos: 00003E57
 
 #WLB(PTR, $00000A30)
@@ -1039,12 +949,10 @@ aftermath of a
 <$0C>
 skirmish. Chairs and\n
 floor lamps are\n
-turned over in a\n
+turned over in a
+<$0C>
 strange home.
 <$00>
-
-
-
 
 // Pos: 00003EBB
 
@@ -1082,12 +990,10 @@ him in a terrible
 <$0C>
 state. This is the\n
 aftermath of a\n
-robbery. Truly\n
+robbery. Truly
+<$0C>
 upsetting.
 <$00>
-
-
-
 
 // Pos: 00003F3D
 
@@ -1128,9 +1034,6 @@ Tanya, but you're
 very far away.
 <$00>
 
-
-
-
 // Pos: 00003FB5
 
 #WLB(PTR, $00000B3C)
@@ -1158,12 +1061,8 @@ Madam Agatha:
 This is his closet.
 <$0C>
 His closet is open.\n
-That's all I can\n
-tell.\n
+That's all I can tell.\n
 <$00>
-
-
-
 
 // Pos: 0000401D
 
@@ -1182,9 +1081,6 @@ breeze of a crisp
 July morning, but\n
 there is no light.
 <$00>
-
-
-
 
 // Pos: 0000405C
 
@@ -1215,9 +1111,6 @@ in pain, as if about\n
 to die.
 <$00>
 
-
-
-
 // Pos: 000040BE
 
 #WLB(PTR, $00000CE0)
@@ -1234,9 +1127,6 @@ is...Marrakech's, is
 <$0C>
 it?
 <$00>
-
-
-
 
 // Pos: 000040DD
 
@@ -1265,9 +1155,6 @@ look, I think. What
 <$0C>
 is she doing?
 <$00>
-
-
-
 
 // Pos: 0000412E
 
@@ -1312,9 +1199,6 @@ but I don't know what\n
 she's saying.
 <$00>
 
-
-
-
 // Pos: 000041B4
 
 #WLB(PTR, $00000D64)
@@ -1350,9 +1234,6 @@ I wonder what the\n
 matter is.
 <$00>
 
-
-
-
 // Pos: 0000421E
 
 #WLB(PTR, $00000D84)
@@ -1385,9 +1266,6 @@ convulsions. This\n
 isn't the Boomer I\n
 know.
 <$00>
-
-
-
 
 // Pos: 00004291
 
@@ -1430,9 +1308,6 @@ buried alive, but\n
 Crow is digging the\n
 corpse back up...!
 <$00>
-
-
-
 
 // Pos: 00004335
 
@@ -1478,18 +1353,14 @@ happening?! I can't
 look anymore!
 <$00><$00>
 
-
-
-
 // Pos: 000043C2
 
 #WLB(PTR, $0000308C)
 
 #WHB(PTR, $0000308D)
 
+
 <$00><$00>
-
-
 
 // Pos: 000043C4
 
@@ -1497,9 +1368,8 @@ look anymore!
 
 #WHB(PTR, $00003091)
 
+
 <$00><$00>
-
-
 
 // Pos: 000043C6
 
@@ -1511,9 +1381,6 @@ look anymore!
 Marrakech Flower
 <$00>
 
-
-
-
 // Pos: 000043D0
 
 #WLB(PTR, $00003098)
@@ -1523,9 +1390,6 @@ Marrakech Flower
 //花の命ははかない？
 A flower, wilted?
 <$00>
-
-
-
 
 // Pos: 000043DC
 
@@ -1537,9 +1401,6 @@ A flower, wilted?
 Boomer Night
 <$00><$00>
 
-
-
-
 // Pos: 000043E6
 
 #WLB(PTR, $000030A0)
@@ -1549,9 +1410,6 @@ Boomer Night
 //怖い夜って？
 A scary evening?
 <$00><$00>
-
-
-
 
 // Pos: 000043F0
 
@@ -1563,9 +1421,6 @@ A scary evening?
 Crow Dream
 <$00>
 
-
-
-
 // Pos: 000043F8
 
 #WLB(PTR, $000030A8)
@@ -1575,9 +1430,6 @@ Crow Dream
 //夢の散歩者？
 A strolling dream?
 <$00><$00>
-
-
-
 
 // Pos: 00004404
 
@@ -1589,9 +1441,6 @@ A strolling dream?
 January
 <$00>
 
-
-
-
 // Pos: 0000440C
 
 #WLB(PTR, $000030B0)
@@ -1601,9 +1450,6 @@ January
 //始まりの１月
 When solemnity began?
 <$00><$00>
-
-
-
 
 // Pos: 00004416
 
@@ -1615,9 +1461,6 @@ When solemnity began?
 February
 <$00><$00>
 
-
-
-
 // Pos: 0000441E
 
 #WLB(PTR, $000030B8)
@@ -1625,12 +1468,8 @@ February
 #WHB(PTR, $000030B9)
 
 //凍える２月
-When everything\n
-froze?
+When everything froze?
 <$00>
-
-
-
 
 // Pos: 00004426
 
@@ -1642,9 +1481,6 @@ froze?
 March
 <$00>
 
-
-
-
 // Pos: 0000442A
 
 #WLB(PTR, $000030C0)
@@ -1654,9 +1490,6 @@ March
 //３月、芽吹く春
 When new life budded?
 <$00><$00>
-
-
-
 
 // Pos: 00004436
 
@@ -1668,9 +1501,6 @@ When new life budded?
 May
 <$00><$00>
 
-
-
-
 // Pos: 0000443A
 
 #WLB(PTR, $000030C8)
@@ -1680,9 +1510,6 @@ May
 //５月、光のシーズン
 When light came down?
 <$00>
-
-
-
 
 // Pos: 00004446
 
@@ -1694,9 +1521,6 @@ When light came down?
 June
 <$00>
 
-
-
-
 // Pos: 0000444A
 
 #WLB(PTR, $000030D0)
@@ -1704,12 +1528,8 @@ June
 #WHB(PTR, $000030D1)
 
 //悲しみの６月
-When sadness\n
-deepened?
+When sadness deepened?
 <$00><$00>
-
-
-
 
 // Pos: 00004454
 
@@ -1721,9 +1541,6 @@ deepened?
 July
 <$00><$00>
 
-
-
-
 // Pos: 0000445A
 
 #WLB(PTR, $000030D8)
@@ -1734,9 +1551,6 @@ July
 When breezes soothed?
 <$00><$00>
 
-
-
-
 // Pos: 00004462
 
 #WLB(PTR, $000030DC)
@@ -1746,9 +1560,6 @@ When breezes soothed?
 //オーガスト
 August
 <$00>
-
-
-
 
 // Pos: 00004468
 
@@ -1761,9 +1572,6 @@ When nights were\n
 longest?
 <$00>
 
-
-
-
 // Pos: 00004476
 
 #WLB(PTR, $000030E4)
@@ -1773,9 +1581,6 @@ longest?
 //セプテンバー
 September
 <$00><$00>
-
-
-
 
 // Pos: 0000447E
 
@@ -1788,9 +1593,6 @@ When miracles were\n
 due?
 <$00>
 
-
-
-
 // Pos: 00004486
 
 #WLB(PTR, $000030EC)
@@ -1800,9 +1602,6 @@ due?
 //ノベンバー
 November
 <$00>
-
-
-
 
 // Pos: 0000448C
 
@@ -1814,9 +1613,6 @@ November
 When fog closed in?
 <$00>
 
-
-
-
 // Pos: 00004498
 
 #WLB(PTR, $000030F4)
@@ -1826,9 +1622,6 @@ When fog closed in?
 //ディセンバー
 December
 <$00><$00>
-
-
-
 
 // Pos: 000044A0
 
@@ -1841,9 +1634,6 @@ When omens were\n
 realized?
 <$00>
 
-
-
-
 // Pos: 000044AA
 
 #WLB(PTR, $000030FC)
@@ -1855,9 +1645,6 @@ realized?
 Sand Sympathy
 <$05><$00><$00>
 
-
-
-
 // Pos: 000044B6
 
 #WLB(PTR, $00003100)
@@ -1867,9 +1654,6 @@ Sand Sympathy
 //ダミアヌスを呼び出す
 Calls for Damian
 <$00><$00>
-
-
-
 
 // Pos: 000044C4
 
@@ -1882,9 +1666,6 @@ Calls for Damian
 Silver Capsule
 <$05><$00>
 
-
-
-
 // Pos: 000044CE
 
 #WLB(PTR, $00003108)
@@ -1895,9 +1676,6 @@ Silver Capsule
 Stores the five\n
 propechies
 <$00><$00>
-
-
-
 
 // Pos: 000044DA
 
@@ -1910,9 +1688,6 @@ propechies
 Red Stone
 <$05><$00>
 
-
-
-
 // Pos: 000044E2
 
 #WLB(PTR, $00003110)
@@ -1922,9 +1697,6 @@ Red Stone
 //赤い石
 Red Stone
 <$00>
-
-
-
 
 // Pos: 000044E8
 
@@ -1937,9 +1709,6 @@ Red Stone
 Blue Stone
 <$05><$00>
 
-
-
-
 // Pos: 000044F0
 
 #WLB(PTR, $00003118)
@@ -1949,9 +1718,6 @@ Blue Stone
 //青い石
 Blue Stone
 <$00>
-
-
-
 
 // Pos: 000044F6
 
@@ -1964,9 +1730,6 @@ Blue Stone
 White Stone
 <$05><$00>
 
-
-
-
 // Pos: 000044FE
 
 #WLB(PTR, $00003120)
@@ -1976,9 +1739,6 @@ White Stone
 //白い石
 White Stone
 <$00>
-
-
-
 
 // Pos: 00004504
 
@@ -1991,9 +1751,6 @@ White Stone
 Yellow Stone
 <$05><$00>
 
-
-
-
 // Pos: 0000450E
 
 #WLB(PTR, $00003128)
@@ -2003,9 +1760,6 @@ Yellow Stone
 //黄色い石
 Yellow Stone
 <$00>
-
-
-
 
 // Pos: 00004516
 
@@ -2018,9 +1772,6 @@ Yellow Stone
 Green Stone
 <$05><$00>
 
-
-
-
 // Pos: 0000451E
 
 #WLB(PTR, $00003130)
@@ -2030,9 +1781,6 @@ Green Stone
 //綠の石
 Green Stone
 <$00>
-
-
-
 
 // Pos: 00004524
 
@@ -2044,9 +1792,6 @@ Green Stone
 P Capsule
 <$00>
 
-
-
-
 // Pos: 0000452A
 
 #WLB(PTR, $00003138)
@@ -2056,9 +1801,6 @@ P Capsule
 //知悪を増やすクスリ
 Boosts wisdom
 <$00>
-
-
-
 
 // Pos: 00004536
 
@@ -2070,9 +1812,6 @@ Boosts wisdom
 A Capsule
 <$00>
 
-
-
-
 // Pos: 0000453C
 
 #WLB(PTR, $00003140)
@@ -2082,9 +1821,6 @@ A Capsule
 //力悪を増やすクスリ
 Boosts power
 <$00>
-
-
-
 
 // Pos: 00004548
 
@@ -2096,9 +1832,6 @@ Boosts power
 V Capsule
 <$00>
 
-
-
-
 // Pos: 0000454E
 
 #WLB(PTR, $00003148)
@@ -2108,9 +1841,6 @@ V Capsule
 //欲悪を増やすクスリ
 Boosts greed
 <$00>
-
-
-
 
 // Pos: 0000455A
 
@@ -2122,9 +1852,6 @@ Boosts greed
 Peking
 <$00>
 
-
-
-
 // Pos: 0000455E
 
 #WLB(PTR, $00003150)
@@ -2134,9 +1861,6 @@ Peking
 //知悪をかなり増やせる
 Greatly boosts wisdom
 <$00><$00>
-
-
-
 
 // Pos: 0000456C
 
@@ -2148,9 +1872,6 @@ Greatly boosts wisdom
 Marseille
 <$00>
 
-
-
-
 // Pos: 00004572
 
 #WLB(PTR, $00003158)
@@ -2160,9 +1881,6 @@ Marseille
 //力悪をかなり増やせる
 Greatly boosts power
 <$00><$00>
-
-
-
 
 // Pos: 00004580
 
@@ -2174,9 +1892,6 @@ Greatly boosts power
 Saigon
 <$00><$00>
 
-
-
-
 // Pos: 00004586
 
 #WLB(PTR, $00003160)
@@ -2186,9 +1901,6 @@ Saigon
 //欲悪をかなり増やせる
 Greatly boosts greed
 <$00><$00>
-
-
-
 
 // Pos: 00004594
 
@@ -2200,9 +1912,6 @@ Greatly boosts greed
 Flash
 <$00>
 
-
-
-
 // Pos: 0000459A
 
 #WLB(PTR, $00003168)
@@ -2212,9 +1921,6 @@ Flash
 //マインドスコープを中和
 Wipes the Mind Scope
 <$00>
-
-
-
 
 // Pos: 000045A8
 
@@ -2226,9 +1932,6 @@ Wipes the Mind Scope
 49
 <$00><$00>
 
-
-
-
 // Pos: 000045AC
 
 #WLB(PTR, $00003170)
@@ -2238,9 +1941,6 @@ Wipes the Mind Scope
 //惑応中の悪を増やす
 Boosts evil reception
 <$00>
-
-
-
 
 // Pos: 000045BA
 
@@ -2252,9 +1952,6 @@ Boosts evil reception
 Magic Light
 <$00>
 
-
-
-
 // Pos: 000045C2
 
 #WLB(PTR, $00003178)
@@ -2264,9 +1961,6 @@ Magic Light
 //３悪いずれかを増やす
 Boosts one evil
 <$00>
-
-
-
 
 // Pos: 000045CE
 
@@ -2278,9 +1972,6 @@ Boosts one evil
 Blue Smoke
 <$00>
 
-
-
-
 // Pos: 000045D6
 
 #WLB(PTR, $00003180)
@@ -2290,9 +1981,6 @@ Blue Smoke
 //スペーサーのEM回復
 Restores Spacer's EM
 <$00><$00>
-
-
-
 
 // Pos: 000045E4
 
@@ -2304,9 +1992,6 @@ Restores Spacer's EM
 Red Smoke
 <$00>
 
-
-
-
 // Pos: 000045EC
 
 #WLB(PTR, $00003188)
@@ -2316,9 +2001,6 @@ Red Smoke
 //アーネストのEM回復
 Restores Ernest's EM
 <$00><$00>
-
-
-
 
 // Pos: 000045FA
 
@@ -2330,9 +2012,6 @@ Restores Ernest's EM
 Yellow Smoke
 <$00><$00>
 
-
-
-
 // Pos: 00004604
 
 #WLB(PTR, $00003190)
@@ -2342,9 +2021,6 @@ Yellow Smoke
 //ヨランダのEM回復
 Restores Yolanda's EM
 <$00>
-
-
-
 
 // Pos: 00004610
 
@@ -2356,9 +2032,6 @@ Restores Yolanda's EM
 Tao Gold
 <$00><$00>
 
-
-
-
 // Pos: 00004618
 
 #WLB(PTR, $00003198)
@@ -2368,7 +2041,4 @@ Tao Gold
 //全てのEMを回復する
 Restores all EMs
 <$00><$00><$00>
-
-
-
 

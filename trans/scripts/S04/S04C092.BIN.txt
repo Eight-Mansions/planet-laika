@@ -23,9 +23,6 @@ What are you doing,
 snoopin' around?!
 <$00>
 
-
-
-
 // Pos: 00001F3E
 
 #WLB(PTR, $000002A4)
@@ -39,9 +36,6 @@ April:
 //\n知ってるの？ ライカのこと。
 nDo you know Laika?
 <$00>
-
-
-
 
 // Pos: 00001F58
 
@@ -58,9 +52,6 @@ Little:
 No. I don't know any\n
 such person, got it?
 <$00>
-
-
-
 
 // Pos: 00001F7A
 
@@ -80,9 +71,6 @@ so on edge then? You
 can't ALL be hiding\n
 something!
 <$00>
-
-
-
 
 // Pos: 00001FB0
 
@@ -104,9 +92,6 @@ uproars are all\n
 superstition!
 <$00>
 
-
-
-
 // Pos: 00001FF2
 
 #WLB(PTR, $000002F4)
@@ -127,9 +112,6 @@ Mind and the Black\n
 Rider!
 <$00>
 
-
-
-
 // Pos: 0000203C
 
 #WLB(PTR, $00000364)
@@ -147,7 +129,8 @@ totally don't care
 <$0C>
 about what the\n
 warehouse next door\n
-stores, right? Our\n
+stores, right? Our
+<$0C>
 oxygenite?
 <$0C><$0B>
 //リトル：
@@ -165,11 +148,9 @@ YOU abandoned!
 Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-nPROVING, see, that\n
-you are NOT so\n
-indispensible, got
-<$0C>
-it?
+nPROVING, see,\n
+that you are NOT so\n
+indispensible, got it?
 <$0C><$0B>
 //リトル：
 Little:
@@ -183,14 +164,12 @@ we'll keep doing it\n
 ON OUR OWN.
 <$00>
 
-
-
-
 // Pos: 000020F5
 
 #WLB(PTR, $000003D0)
 
 #WHB(PTR, $000003D1)
+
 
 <$00><$0B>
 //エイプリル：
@@ -215,9 +194,6 @@ The sky about the
 Face was engulfed in\n
 a strange light!
 <$00>
-
-
-
 
 // Pos: 00002143
 
@@ -260,18 +236,17 @@ human faces so bad,
 <$0C>
 you come out here,\n
 see it and then pay\n
-us for cosmetic\n
+us for cosmetic
+<$0C>
 surgery!
 <$00>
-
-
-
 
 // Pos: 00002205
 
 #WLB(PTR, $000004A4)
 
 #WHB(PTR, $000004A5)
+
 
 <$00><$0B>
 //エイプリル：
@@ -284,9 +259,6 @@ had when we tried to
 <$0C>
 land was only...
 <$00>
-
-
-
 
 // Pos: 00002225
 
@@ -306,9 +278,6 @@ engineer's part. It
 happens all the time,\n
 got it?
 <$00>
-
-
-
 
 // Pos: 0000224B
 
@@ -340,9 +309,6 @@ we'll leave first\n
 thing. Fair?
 <$00>
 
-
-
-
 // Pos: 000022A2
 
 #WLB(PTR, $00000570)
@@ -360,9 +326,6 @@ And you said, "first
 <$0C>
 thing", got it?
 <$00>
-
-
-
 
 // Pos: 000022C8
 
@@ -383,9 +346,6 @@ our captain and our\n
 engineer, understand?
 <$00>
 
-
-
-
 // Pos: 000022F2
 
 #WLB(PTR, $00000598)
@@ -405,9 +365,6 @@ dispatch a search\n
 party the mornin'.
 <$00>
 
-
-
-
 // Pos: 00002332
 
 #WLB(PTR, $000005AC)
@@ -423,9 +380,6 @@ April:
 But Laika and I need\n
 to look now!
 <$00>
-
-
-
 
 // Pos: 00002346
 
@@ -447,9 +401,6 @@ pair outside.
 //家
 家
 <$00>
-
-
-
 
 // Pos: 0000235F
 
@@ -480,7 +431,4 @@ sides of the world\n
 and came together in\n
 the colony.
 <$00>
-
-
-
 

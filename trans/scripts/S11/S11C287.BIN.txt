@@ -35,9 +35,6 @@ Land," that's what I\n
 meant.
 <$00>
 
-
-
-
 // Pos: 00002082
 
 #WLB(PTR, $000001B2)
@@ -98,9 +95,6 @@ head already that you
 should lead.
 <$00>
 
-
-
-
 // Pos: 0000213A
 
 #WLB(PTR, $00000970)
@@ -113,9 +107,6 @@ Yes, I must go!\n
 To the place where I\n
 can serve my purpose!
 <$00>
-
-
-
 
 // Pos: 00002160
 
@@ -133,9 +124,6 @@ Goddammit, it's\n
 pourin' out again!
 <$00>
 
-
-
-
 // Pos: 00002179
 
 #WLB(PTR, $00000B2C)
@@ -149,9 +137,7 @@ Little:
 //\nへへへ、金星人のドカンだ。
 \n
 Hehe, check out that\n
-Venusian surge,
-<$0C>
-there.
+Venusian surge, there.
 <$0C><$0B>
 //リトル：
 Little:
@@ -164,9 +150,6 @@ pumped that into
 their brains, and it\n
 broke 'em.
 <$00>
-
-
-
 
 // Pos: 000021B3
 
@@ -218,9 +201,6 @@ this planet can run\n
 from its ruin.
 <$00>
 
-
-
-
 // Pos: 00002257
 
 #WLB(PTR, $00000B6C)
@@ -242,7 +222,4 @@ monitor, got it?
 //家
 家
 <$00>
-
-
-
 

@@ -23,9 +23,6 @@ pEAcEfUlly And
 qUIEtly, whOOsh...
 <$00>
 
-
-
-
 // Pos: 0000179A
 
 #WLB(PTR, $00000148)
@@ -41,9 +38,6 @@ April:
 Why did Noon call for\n
 his mom?
 <$00>
-
-
-
 
 // Pos: 000017B5
 
@@ -64,9 +58,6 @@ whOOsh, whOOsh!
 çs
 <$00>
 
-
-
-
 // Pos: 000017D2
 
 #WLB(PTR, $000000D8)
@@ -85,9 +76,6 @@ whOOsh! WE'rE All
 dOnE fOr, whOOsh,\n
 whOOsh!
 <$00>
-
-
-
 
 // Pos: 000017F8
 
@@ -109,7 +97,4 @@ never your elder!
 //çs
 çs
 <$00>
-
-
-
 

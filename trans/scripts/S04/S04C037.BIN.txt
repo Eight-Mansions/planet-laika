@@ -60,9 +60,6 @@ out, a-yup! Charlie\n
 saw to that!
 <$00>
 
-
-
-
 // Pos: 00003A63
 
 #WLB(PTR, $000002A4)
@@ -90,8 +87,7 @@ No, it's not the name\n
 of anyone using it.
 <$0C>
 The big honcho is the\n
-electric chair\n
-itself.
+electric chair itself.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -141,9 +137,6 @@ here, then that's\n
 Charlie.
 <$00>
 
-
-
-
 // Pos: 00003B7E
 
 #WLB(PTR, $000002FC)
@@ -183,9 +176,6 @@ so...no! Goddammit,
 not here!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00003BEC
 
 #WLB(PTR, $000003B8)
@@ -196,9 +186,6 @@ not here!
 //おい、兄ちゃんよう、兄ちゃん…
 Hey, comrade...
 <$00>
-
-
-
 
 // Pos: 00003BFF
 
@@ -212,9 +199,6 @@ Comrade!\n
 Hey, look to your\n
 left!
 <$00>
-
-
-
 
 // Pos: 00003C17
 
@@ -252,9 +236,6 @@ go, huh?! Fine. YOU
 <$0C>
 come with me!
 <$00>
-
-
-
 
 // Pos: 00003C80
 
@@ -313,12 +294,10 @@ night, anytime,
 <$0C>
 anywhere! They can do\n
 it all night... Oh,\n
-it's over! It's all\n
+it's over! It's all
+<$0C>
 over!
 <$00>
-
-
-
 
 // Pos: 00003D49
 
@@ -363,9 +342,6 @@ noises.
 中
 <$00>
 
-
-
-
 // Pos: 00003DBA
 
 #WLB(PTR, $0000110C)
@@ -406,9 +382,6 @@ I love this!
 中
 <$00>
 
-
-
-
 // Pos: 00003E16
 
 #WLB(PTR, $00001444)
@@ -439,9 +412,6 @@ that means, right?
 ？Yes\n
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 00003E71
 
@@ -497,9 +467,6 @@ happen to you?
 声
 <$00>
 
-
-
-
 // Pos: 00003F16
 
 #WLB(PTR, $0000173C)
@@ -529,9 +496,6 @@ even if one of them
 does drink a lot.
 <$00>
 
-
-
-
 // Pos: 00003F73
 
 #WLB(PTR, $0000174C)
@@ -552,9 +516,6 @@ he doesn't drink\n
 alcohol.
 <$00>
 
-
-
-
 // Pos: 00003FA0
 
 #WLB(PTR, $0000175C)
@@ -573,9 +534,6 @@ Dark Man and I are
 different in more\n
 ways than one, huh.
 <$00>
-
-
-
 
 // Pos: 00003FC3
 
@@ -606,9 +564,6 @@ you'll find Uncle\n
 Red. I'm sure of it.
 <$00>
 
-
-
-
 // Pos: 0000401D
 
 #WLB(PTR, $00001AEC)
@@ -627,9 +582,6 @@ same! We have the
 same smell, a-ha!
 <$00>
 
-
-
-
 // Pos: 0000403E
 
 #WLB(PTR, $00001B00)
@@ -644,9 +596,6 @@ Spacer:
 \n
 You are you...Sammy?!
 <$00>
-
-
-
 
 // Pos: 00004056
 
@@ -665,9 +614,6 @@ knew better. I'm
 <$0C>
 Rummy!
 <$00>
-
-
-
 
 // Pos: 00004076
 
@@ -698,9 +644,6 @@ waves, or is Mountain\n
 just full of it?
 <$00>
 
-
-
-
 // Pos: 000040D7
 
 #WLB(PTR, $00001B3C)
@@ -730,9 +673,6 @@ The waves are too\n
 weak to reach us.
 <$00>
 
-
-
-
 // Pos: 00004133
 
 #WLB(PTR, $00001B80)
@@ -752,9 +692,6 @@ not receiving their\n
 radio waves?
 <$00>
 
-
-
-
 // Pos: 0000415E
 
 #WLB(PTR, $00001B94)
@@ -769,7 +706,4 @@ Rummy:
 \n
 Nope, not a one.
 <$00>
-
-
-
 

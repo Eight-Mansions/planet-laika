@@ -21,9 +21,6 @@ Everyone, behave\n
 yourselves.
 <$00>
 
-
-
-
 // Pos: 000034B8
 
 #WLB(PTR, $000009F8)
@@ -39,9 +36,6 @@ Captain Tatler:
 Not one of you better\n
 run off, am I clear?
 <$00>
-
-
-
 
 // Pos: 000034E8
 
@@ -61,9 +55,6 @@ ship too damn well to
 be talked down to\n
 like I'm some kid.
 <$00>
-
-
-
 
 // Pos: 00003509
 
@@ -85,12 +76,8 @@ Captain Tatler:
 <$0D>
 //\nÇªÇ§Ç¢Ç§Ç±Ç∆ÇæÅB
 \n
-That's your whole\n
-job.
+That's your whole job.
 <$00>
-
-
-
 
 // Pos: 0000354B
 
@@ -110,9 +97,6 @@ thanks to Noon that
 we didn't get into an\n
 accident.
 <$00>
-
-
-
 
 // Pos: 00003567
 
@@ -140,9 +124,6 @@ Captain Tatler:
 For now, we prepare\n
 to head out!
 <$00>
-
-
-
 
 // Pos: 000035B5
 
@@ -175,9 +156,6 @@ live 'ere clearly\n
 lost their mind.
 <$00>
 
-
-
-
 // Pos: 00003620
 
 #WLB(PTR, $00000C48)
@@ -196,9 +174,6 @@ inhabitants were
 exiled, and forced to\n
 live out here.
 <$00>
-
-
-
 
 // Pos: 00003654
 
@@ -219,9 +194,6 @@ cooperate, this won't\n
 be an easy job.
 <$00>
 
-
-
-
 // Pos: 0000367B
 
 #WLB(PTR, $00000C70)
@@ -237,9 +209,6 @@ Noon:
 Oh, I'll make them\n
 cooperate...
 <$00>
-
-
-
 
 // Pos: 00003698
 
@@ -266,9 +235,6 @@ for, Laika? You go
 <$0C>
 first.
 <$00>
-
-
-
 
 // Pos: 000036DE
 
@@ -298,9 +264,6 @@ helmet's on nice and
 tight first.
 <$00>
 
-
-
-
 // Pos: 0000371E
 
 #WLB(PTR, $00000D5C)
@@ -320,9 +283,6 @@ don't come crying to\n
 Mummy.
 <$00>
 
-
-
-
 // Pos: 00003753
 
 #WLB(PTR, $00000EB0)
@@ -339,9 +299,6 @@ Laika, you hop out\n
 first.
 <$00>
 
-
-
-
 // Pos: 00003776
 
 #WLB(PTR, $00000F0C)
@@ -357,9 +314,6 @@ Noon:
 What's the matter?\n
 Nervous?
 <$00>
-
-
-
 
 // Pos: 00003790
 
@@ -380,7 +334,4 @@ failed, but our unit\n
 will nail it this\n
 time!
 <$00>
-
-
-
 

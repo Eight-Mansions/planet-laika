@@ -23,9 +23,6 @@ friends have all
 disappeared!
 <$00>
 
-
-
-
 // Pos: 00002E4F
 
 #WLB(PTR, $000003B0)
@@ -45,9 +42,6 @@ one dreaming all\n
 wrestlessly.
 <$00>
 
-
-
-
 // Pos: 00002E72
 
 #WLB(PTR, $00000648)
@@ -64,12 +58,8 @@ Look at this filthy\n
 woman. Shameful,
 <$0C>
 isn't she? Kekeke!\n
-She's dirty, not\n
-pure!
+She's dirty, not pure!
 <$00>
-
-
-
 
 // Pos: 00002EA5
 
@@ -88,9 +78,6 @@ right hand is so
 <$0C>
 FILTHY!
 <$00>
-
-
-
 
 // Pos: 00002EC2
 
@@ -122,9 +109,6 @@ here...uggh! It's so\n
 filthy, I don't even\n
 want to look!
 <$00>
-
-
-
 
 // Pos: 00002F0A
 
@@ -163,9 +147,6 @@ Crow:
 Right, left! Right,\n
 left!
 <$00>
-
-
-
 
 // Pos: 00002F72
 
@@ -206,9 +187,6 @@ wonder what a rotted
 uterus tastes like.
 <$00>
 
-
-
-
 // Pos: 00002FEE
 
 #WLB(PTR, $00000A64)
@@ -236,8 +214,7 @@ STOP! I DON'T WANT TO\n
 GO BACK! I LIKE THIS
 <$0C>
 PLACE! STOP! DON'T\n
-MAKE ME SEE THE\n
-LIGHT!
+MAKE ME SEE THE LIGHT!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -249,9 +226,6 @@ WANT TO GO TO THE
 <$0C>
 LIGHT!
 <$00>
-
-
-
 
 // Pos: 00003064
 
@@ -266,17 +240,14 @@ LIGHT!
 <$10>
 //\n
 \n
+
 <$0B>
 //     
-
+     
 <$0D>
 //黄色い石を手に入れた。
-Yellow Stone\n
-acquired.
+Yellow Stone acquired.
 <$00>
-
-
-
 
 // Pos: 0000307E
 
@@ -291,14 +262,12 @@ acquired.
 <$10>
 //\n
 \n
+
 <$0B>
 //    
-
+    
 <$0D>
 //アイテムがいっぱいです。
 The item bag is full!
 <$0E><$1E><$17><$00>
-
-
-
 

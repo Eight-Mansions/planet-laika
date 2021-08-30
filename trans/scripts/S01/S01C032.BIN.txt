@@ -15,18 +15,15 @@
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-THERE ARE NO\n
-MESSAGES.
+THERE ARE NO MESSAGES.
 <$00>
-
-
-
 
 // Pos: 00003A3D
 
 #WLB(PTR, $00000CEC)
 
 #WHB(PTR, $00000CED)
+
 
 <$00><$13>
 //け
@@ -76,9 +73,6 @@ with our entomologist
 shortly.
 <$00>
 
-
-
-
 // Pos: 00003B03
 
 #WLB(PTR, $000004A8)
@@ -96,12 +90,10 @@ From the end of life,
 <$0C>
 through the\n
 nightmares, and into\n
-the beginning of\n
+the beginning of
+<$0C>
 death.
 <$00>
-
-
-
 
 // Pos: 00003B3D
 
@@ -129,9 +121,6 @@ Well? Where do you\n
 think he is?
 <$00>
 
-
-
-
 // Pos: 00003B85
 
 #WLB(PTR, $00000580)
@@ -145,7 +134,8 @@ Captain Tatler:
 //\nエレミヤは私の目の前にいる。\nそうだよ、ライカ、君がエレミヤだ。
 \n
 Jeremiah's right\n
-before my eyes.\n
+before my eyes.
+<$0C>
 That's right, Laika.\n
 You're Jeremiah.
 <$0C><$0B>
@@ -160,9 +150,6 @@ towards death, living
 on the doorstep to\n
 the Land of the Dead.
 <$00>
-
-
-
 
 // Pos: 00003BF6
 
@@ -193,9 +180,6 @@ suppose that makes
 sense.
 <$00>
 
-
-
-
 // Pos: 00003C40
 
 #WLB(PTR, $000005A8)
@@ -216,9 +200,6 @@ what death means to\n
 the rest of you.
 <$00>
 
-
-
-
 // Pos: 00003C70
 
 #WLB(PTR, $000005F0)
@@ -235,9 +216,6 @@ The monitor's all\n
 yours, Laika.
 <$00>
 
-
-
-
 // Pos: 00003C8F
 
 #WLB(PTR, $00000604)
@@ -253,9 +231,6 @@ Noon:
 Heheh, is that a call\n
 from the Grim Reaper?
 <$00>
-
-
-
 
 // Pos: 00003CA7
 
@@ -311,25 +286,27 @@ loneliness and
 <$0C>
 suffering are no\n
 more. And May\n
-eternity move past\n
+eternity move past
+<$0C>
 this moment, chanting\n
 in celebration.
 <$05><$00><$12>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第五の預言を得た。
-So sayeth the fifth\n
-prophecy.
+So sayeth the\n
+fifth prophecy.
 <$00><$12>
 //先生、
-Doctor, can
+Doctor, can 
 <$0F>
 //は助かるのですか？
-be saved?
+ be saved?
 <$00><$12>
 //分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
 We'll find out in the\n
@@ -341,7 +318,7 @@ hallucinations.
 <$00><$12>
 //先生、オクトーバー先生！\nお願いします、
 Doctor! Doctor\n
-October, please! Save
+October, please! Save 
 <$0F>
 //を？
 !
@@ -366,6 +343,7 @@ Ernest:
 <$0D>
 //\n
 \n
+
 <$0F>
 //じゃねぇ、\nこいつは誰なんだ？
 ? No...\n
@@ -425,9 +403,6 @@ I've never seen hair
 like that before.\n
 <$00>
 
-
-
-
 // Pos: 00003F68
 
 #WLB(PTR, $00000CC8)
@@ -446,9 +421,6 @@ unit. If he's become
 a good person, will\n
 this really save him?
 <$00>
-
-
-
 
 // Pos: 00003F9E
 
@@ -469,7 +441,4 @@ happy occasion. At\n
 least, that's what\n
 I'd want.
 <$00>
-
-
-
 

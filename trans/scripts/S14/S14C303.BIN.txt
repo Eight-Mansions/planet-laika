@@ -34,9 +34,6 @@ Brrrrrrr!
 ê∫
 <$00>
 
-
-
-
 // Pos: 0000145A
 
 #WLB(PTR, $000001AC)
@@ -76,14 +73,12 @@ What's going on with\n
 my face?!
 <$00>
 
-
-
-
 // Pos: 000014D4
 
 #WLB(PTR, $0000053C)
 
 #WHB(PTR, $0000053D)
+
 
 <$10><$18><$00>
 //ÇüÉZÅB
@@ -141,7 +136,4 @@ ALWAYS KNEW.
 CHARLIE'S AWAKE!\n
 CHARLIE'S AWAKE!
 <$00>
-
-
-
 

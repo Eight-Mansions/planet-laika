@@ -72,9 +72,6 @@ in Laika's place,\n
 ayyye...
 <$00>
 
-
-
-
 // Pos: 0000139D
 
 #WLB(PTR, $00000A24)
@@ -93,9 +90,6 @@ First it's, "Whoosh,
 whoosh," and then\n
 it's "Ayyye, ayyye!"
 <$00>
-
-
-
 
 // Pos: 000013BD
 
@@ -128,9 +122,6 @@ studied both Martian\n
 and insect life for\n
 many years.
 <$00>
-
-
-
 
 // Pos: 0000145B
 
@@ -177,7 +168,8 @@ Their tens of
 <$0C>
 thousands of little\n
 minds all act under\n
-one collective\n
+one collective
+<$0C>
 conscience!
 <$0C><$0B>
 //昆虫学者：
@@ -204,9 +196,6 @@ starts to make sense,\n
 bzzbzz!
 <$00>
 
-
-
-
 // Pos: 00001575
 
 #WLB(PTR, $00000B20)
@@ -224,7 +213,8 @@ yourself comparing
 <$0C>
 Martian politics to\n
 insect politics\n
-today, now did you,\n
+today, now did you,
+<$0C>
 bzz?
 <$0C><$0B>
 //昆虫学者：
@@ -281,9 +271,6 @@ Martian life off the\n
 map, bzzbzzbzz!
 <$00>
 
-
-
-
 // Pos: 00001699
 
 #WLB(PTR, $00000BC4)
@@ -294,9 +281,10 @@ map, bzzbzzbzz!
 
 #WHB(PTR, $00000C5D)
 
+
 <$00><$13>
 // 坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
-THE MINESHAFT IS\n
+ THE MINESHAFT IS\n
 CLOSING SOON.\n
 REPEAT: THE MINESHAFT
 <$0C>
@@ -315,26 +303,21 @@ IMMEDIATELY.
 THIS IS NOT A DRILL.
 <$00>
 
-
-
-
 // Pos: 0000171B
 
 #WLB(PTR, $00000D10)
 
 #WHB(PTR, $00000D11)
 
+
 <$00><$13>
 // アラートを解除します。\n繰り返します。 アラートを解除します。
-THE ALARM WILL SHUT\n
+ THE ALARM WILL SHUT\n
 DOWN.\n
 REPAT: THE ALARM WILL
 <$0C>
 SHUT DOWN.
 <$00>
-
-
-
 
 // Pos: 00001744
 
@@ -342,12 +325,9 @@ SHUT DOWN.
 
 #WHB(PTR, $00000D91)
 
+
 <$00>
 //メッセージはありません…
-THERE ARE NO\n
-MESSAGES.
+THERE ARE NO MESSAGES.
 <$00>
-
-
-
 

@@ -45,9 +45,6 @@ like...? Which shall
 I choose?
 <$00>
 
-
-
-
 // Pos: 00002625
 
 #WLB(PTR, $00000174)
@@ -66,9 +63,6 @@ Then, is it this one?
 、Yes\n
 Not sure
 <$00><$17><$00>
-
-
-
 
 // Pos: 00002646
 
@@ -99,9 +93,6 @@ Then, is it this one?
 、Yes\n
 Not sure
 <$00><$17><$00>
-
-
-
 
 // Pos: 0000268A
 
@@ -161,9 +152,6 @@ won't have to wander\n
 anymore.
 <$00>
 
-
-
-
 // Pos: 0000272B
 
 #WLB(PTR, $00000460)
@@ -199,8 +187,7 @@ depths, sole beam of
 <$0C>
 light cuts the\n
 darkness. Guided by\n
-the light, you\n
-emerge.
+the light, you emerge.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -214,9 +201,6 @@ proper color and\n
 shape in the eyes of\n
 the self!
 <$00>
-
-
-
 
 // Pos: 000027C8
 
@@ -236,9 +220,6 @@ body, Phoenix! Yes, I
 knew Phoenix was your\n
 name.
 <$00>
-
-
-
 
 // Pos: 000027F7
 
@@ -260,15 +241,14 @@ Phoenix:
 <$0D>
 //\nこれは
 \n
-This is
+This is 
 <$0F>
 //さ、僕じゃない、\n僕はこんな人間の形をしていない。
-'s body. I don't have\n
-a human shape.
+'s body. I\n
+don't have a human
+<$0C>
+shape.
 <$00>
-
-
-
 
 // Pos: 00002842
 
@@ -299,9 +279,6 @@ you're using right
 now suits you nicely.
 <$00>
 
-
-
-
 // Pos: 00002890
 
 #WLB(PTR, $000008D8)
@@ -321,9 +298,6 @@ this thing? Shed\n
 tears of lament for\n
 my dead mother?
 <$00>
-
-
-
 
 // Pos: 000028CA
 
@@ -352,9 +326,6 @@ You smell like
 <$0C>
 almonds.
 <$00>
-
-
-
 
 // Pos: 00002917
 
@@ -404,9 +375,6 @@ stops here. I don't\n
 want this.
 <$00>
 
-
-
-
 // Pos: 000029AF
 
 #WLB(PTR, $00000914)
@@ -419,8 +387,7 @@ Chloe:
 <$0D>
 //\n悲観的なのね。
 \n
-Tsk. Such a\n
-pessimist.
+Tsk. Such a pessimist.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -440,9 +407,6 @@ Chloe:
 Do you try to think\n
 that way?
 <$00>
-
-
-
 
 // Pos: 00002A02
 
@@ -473,9 +437,6 @@ trapped in some
 stuffy body. THIS\n
 body!
 <$00>
-
-
-
 
 // Pos: 00002A5D
 
@@ -513,9 +474,6 @@ And yet, you don't\n
 enjoy having it?
 <$00>
 
-
-
-
 // Pos: 00002AAC
 
 #WLB(PTR, $00000950)
@@ -551,9 +509,6 @@ Phoenix:
 I felt warmer. This\n
 body felt warmer.
 <$00>
-
-
-
 
 // Pos: 00002B13
 
@@ -597,9 +552,6 @@ insane simply by\n
 speaking to you.
 <$00>
 
-
-
-
 // Pos: 00002B82
 
 #WLB(PTR, $00000A88)
@@ -614,9 +566,6 @@ Chloe:
 \n
 O-owwe...!
 <$00>
-
-
-
 
 // Pos: 00002B8F
 
@@ -635,9 +584,6 @@ What's happening to
 <$0C>
 you?
 <$00>
-
-
-
 
 // Pos: 00002BAB
 
@@ -667,9 +613,6 @@ right, get it? You
 bum... Owww!
 <$00>
 
-
-
-
 // Pos: 00002BEA
 
 #WLB(PTR, $00000AF8)
@@ -697,9 +640,6 @@ Just have faith...
 <$0C>
 Owww!
 <$00>
-
-
-
 
 // Pos: 00002C2C
 
@@ -729,9 +669,6 @@ alive. Grrr, hurry up
 and find... Owww!
 <$00>
 
-
-
-
 // Pos: 00002C6E
 
 #WLB(PTR, $00000B20)
@@ -750,9 +687,6 @@ some connection to
 the planet. I'll have\n
 to dig further.
 <$00>
-
-
-
 
 // Pos: 00002CA4
 
@@ -774,9 +708,6 @@ is still feeling the\n
 disturbances.
 <$00>
 
-
-
-
 // Pos: 00002CD7
 
 #WLB(PTR, $00000B48)
@@ -791,9 +722,6 @@ Phoenix:
 \n
 Where is April?
 <$00>
-
-
-
 
 // Pos: 00002CF3
 
@@ -810,9 +738,6 @@ Chloe:
 April? You mean that\n
 woman?
 <$00>
-
-
-
 
 // Pos: 00002D0D
 
@@ -831,9 +756,6 @@ who she is. Where can
 <$0C>
 I find her?
 <$00>
-
-
-
 
 // Pos: 00002D39
 
@@ -854,14 +776,12 @@ but...I can't see\n
 that woman.
 <$00>
 
-
-
-
 // Pos: 00002D67
 
 #WLB(PTR, $00000514)
 
 #WHB(PTR, $00000515)
+
 
 <$00><$11>
 //命船フェニックス：
@@ -872,14 +792,12 @@ that woman.
 What's calling me...?
 <$0E><$78><$17><$00>
 
-
-
-
 // Pos: 00002D84
 
 #WLB(PTR, $00000530)
 
 #WHB(PTR, $00000531)
+
 
 <$00><$11>
 //命船フェニックス：
@@ -894,14 +812,12 @@ shaman-like men had\n
 that incident.
 <$0E><$78><$17><$00>
 
-
-
-
 // Pos: 00002DBA
 
 #WLB(PTR, $0000054C)
 
 #WHB(PTR, $0000054D)
+
 
 <$00><$11>
 //命船フェニックス：
@@ -915,14 +831,12 @@ What's making me
 surface like this?
 <$0E><$78><$17><$00>
 
-
-
-
 // Pos: 00002DE6
 
 #WLB(PTR, $0000059C)
 
 #WHB(PTR, $0000059D)
+
 
 <$00><$11>
 //命甲フェニックス：
@@ -936,7 +850,4 @@ the dark forever, but
 I guess...I don't\n
 much say.
 <$0E><$78><$17><$00>
-
-
-
 

@@ -35,9 +35,6 @@ have become beauty\n
 incarnate!
 <$00>
 
-
-
-
 // Pos: 00002B15
 
 #WLB(PTR, $00000374)
@@ -56,9 +53,6 @@ of Judgement? Does it
 reflect absolute\n
 truth...or deception?
 <$00>
-
-
-
 
 // Pos: 00002B53
 
@@ -90,9 +84,6 @@ has a body, she\n
 desires a mind!
 <$00>
 
-
-
-
 // Pos: 00002BAE
 
 #WLB(PTR, $00000478)
@@ -111,9 +102,6 @@ absorbed by the
 mirror too?!
 <$00>
 
-
-
-
 // Pos: 00002BD5
 
 #WLB(PTR, $0000048C)
@@ -129,8 +117,7 @@ Feng:
 Amanda desires this\n
 woman's mind. Amanda
 <$0C>
-has eyes only for\n
-her.
+has eyes only for her.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -167,9 +154,6 @@ disturbance, and\n
 nothing more!
 <$00>
 
-
-
-
 // Pos: 00002C89
 
 #WLB(PTR, $000004E4)
@@ -181,9 +165,6 @@ nothing more!
 I called for you all\n
 this time.
 <$00>
-
-
-
 
 // Pos: 00002CAB
 
@@ -204,9 +185,6 @@ not...April's mother,\n
 are you?
 <$00>
 
-
-
-
 // Pos: 00002CDA
 
 #WLB(PTR, $00000510)
@@ -218,9 +196,6 @@ are you?
 Me, my self.
 <$00>
 
-
-
-
 // Pos: 00002CF5
 
 #WLB(PTR, $000006A8)
@@ -230,9 +205,6 @@ Me, my self.
 //捨はははははははははははははははははははは
 捨AHAHAHAHAHAHAHAHA!
 <$00>
-
-
-
 
 // Pos: 00002D0C
 
@@ -268,9 +240,6 @@ Hurry! Get our of\n
 there now! This way!
 <$00>
 
-
-
-
 // Pos: 00002D73
 
 #WLB(PTR, $000009FC)
@@ -286,9 +255,6 @@ Phoenix:
 April. It's really\n
 you...
 <$00>
-
-
-
 
 // Pos: 00002D8E
 
@@ -316,9 +282,6 @@ reprieve from her
 selfish love, so I...
 <$00>
 
-
-
-
 // Pos: 00002DCF
 
 #WLB(PTR, $00000A24)
@@ -336,9 +299,6 @@ be born from the
 <$0C>
 mirror.
 <$00>
-
-
-
 
 // Pos: 00002DF1
 
@@ -368,9 +328,6 @@ I mean it. I wanted\n
 my mom to die!
 <$00>
 
-
-
-
 // Pos: 00002E38
 
 #WLB(PTR, $00000A58)
@@ -399,9 +356,6 @@ And when you did\n
 that...
 <$00>
 
-
-
-
 // Pos: 00002E73
 
 #WLB(PTR, $00000A6C)
@@ -421,9 +375,6 @@ with a deep sense of\n
 guilt.
 <$00>
 
-
-
-
 // Pos: 00002EA0
 
 #WLB(PTR, $00000A80)
@@ -439,9 +390,6 @@ Phoenix:
 Because you still\n
 heard Amanda's voice.
 <$00>
-
-
-
 
 // Pos: 00002EB6
 
@@ -462,9 +410,6 @@ mom's! It's someone\n
 else!
 <$00>
 
-
-
-
 // Pos: 00002EDD
 
 #WLB(PTR, $00000AA8)
@@ -477,12 +422,8 @@ Phoenix:
 <$0D>
 //\n分身なのか…
 \n
-Is it an alter\n
-ego...?
+Is it an alter ego...?
 <$00>
-
-
-
 
 // Pos: 00002EF2
 
@@ -500,9 +441,6 @@ You're wrong. I said\n
 that's NOT my mom!
 <$00>
 
-
-
-
 // Pos: 00002F0E
 
 #WLB(PTR, $00000BEC)
@@ -516,9 +454,6 @@ Ohoho, what a good
 <$0C>
 soldier you are.
 <$00>
-
-
-
 
 // Pos: 00002F35
 
@@ -537,9 +472,6 @@ Mama?! Mama, it's me!
 <$0C>
 I'm here!
 <$00>
-
-
-
 
 // Pos: 00002F63
 
@@ -570,9 +502,6 @@ truth is nothing but
 a fabrication!
 <$00>
 
-
-
-
 // Pos: 00002FC0
 
 #WLB(PTR, $00000D58)
@@ -591,9 +520,6 @@ there. So, you were
 the one talking to me\n
 all this time.
 <$00>
-
-
-
 
 // Pos: 00002FF1
 
@@ -623,9 +549,6 @@ I know what I have to\n
 do...
 <$00>
 
-
-
-
 // Pos: 00003039
 
 #WLB(PTR, $00000E10)
@@ -641,9 +564,6 @@ April:
 O light, shine over\n
 me!
 <$00>
-
-
-
 
 // Pos: 0000304D
 
@@ -671,7 +591,4 @@ nothing to Mama! I
 never was! I'm only a\n
 shadow!
 <$00>
-
-
-
 

@@ -34,9 +34,6 @@ puzzle I have long\n
 waited to solve.
 <$00>
 
-
-
-
 // Pos: 00004291
 
 #WLB(PTR, $00000AF8)
@@ -52,8 +49,7 @@ Galil:
 Now, I am pure good!\n
 The prophecies bear
 <$0C>
-no significance to\n
-me!
+no significance to me!
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -65,9 +61,6 @@ light! This aura of
 <$0C>
 good!
 <$00>
-
-
-
 
 // Pos: 000042E0
 
@@ -108,9 +101,6 @@ salvation of the
 spirit.
 <$00>
 
-
-
-
 // Pos: 0000435D
 
 #WLB(PTR, $00000C1C)
@@ -139,9 +129,6 @@ may bring about the
 <$0C>
 miracle of rebirth!
 <$00>
-
-
-
 
 // Pos: 000043AC
 
@@ -173,9 +160,6 @@ who dances in the\n
 skies above.
 <$00>
 
-
-
-
 // Pos: 000043FD
 
 #WLB(PTR, $00000DDC)
@@ -193,9 +177,6 @@ does that have to do
 <$0C>
 with me?!
 <$00>
-
-
-
 
 // Pos: 00004425
 
@@ -216,9 +197,6 @@ good nor evil in\n
 shadows!
 <$00>
 
-
-
-
 // Pos: 00004445
 
 #WLB(PTR, $00000E10)
@@ -234,7 +212,7 @@ Galil:
 Only, Phoenix,\n
 because you pushed it
 <$0C>
-all onto
+all onto 
 <$0F>
 //にすべてを押しつけた。
 .
@@ -263,14 +241,12 @@ supposed to be born\n
 for your twin.
 <$00>
 
-
-
-
 // Pos: 000044C2
 
 #WLB(PTR, $00000F80)
 
 #WHB(PTR, $00000F81)
+
 
 <$00>
 //小さな肉のかたまりだ。\nともに成長するしかないだろう…
@@ -280,9 +256,6 @@ Now, you two are
 <$0C>
 stuck together.
 <$00>
-
-
-
 
 // Pos: 000044E3
 
@@ -302,9 +275,6 @@ with so much. All I
 did was further steal\n
 in return.
 <$00>
-
-
-
 
 // Pos: 00004513
 
@@ -332,14 +302,11 @@ Galil:
 You became a tumor, a\n
 cranial parasite that
 <$0C>
-ate at
+ate at 
 <$0F>
 //の心と体をうばったのだ。
 's mind and body.
 <$00>
-
-
-
 
 // Pos: 0000455A
 
@@ -360,9 +327,6 @@ they were receiving\n
 as well!
 <$00>
 
-
-
-
 // Pos: 0000457F
 
 #WLB(PTR, $00001028)
@@ -375,10 +339,10 @@ Galil:
 <$0D>
 //\n君は
 \n
-You used
+You used 
 <$0F>
 //をスケープゴートにした。
-as a tool.
+ as a tool.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -388,7 +352,7 @@ Galil:
 The real source of\n
 the hatred I seek is
 <$0C>
-in
+in 
 <$0F>
 //が宿しているのだ\n君ではない。
 , not you.
@@ -398,16 +362,14 @@ Galil:
 <$0D>
 //\nそして私はマコトの憎しみを抱く\n
 \n
-In my eyes, you and
+In my eyes, you and 
 <$0F>
 //にこそ用があるのだ。
-are better suited to\n
-be called the twins\n
-of hatred.
+ are better suited to b\n
+e called the twins of
+<$0C>
+hatred.
 <$00>
-
-
-
 
 // Pos: 000045E0
 
@@ -446,14 +408,11 @@ Galil:
 Return to the world\n
 of nothingness in the
 <$0C>
-back of
+back of 
 <$0F>
 //の脳にとどまる\n小さな肉のかたまりとして、\n無の世界に戻るのだ。
 's brain.
 <$00>
-
-
-
 
 // Pos: 00004660
 
@@ -516,9 +475,6 @@ beauty in both body\n
 and in mind.
 <$00>
 
-
-
-
 // Pos: 00004744
 
 #WLB(PTR, $00001500)
@@ -544,12 +500,8 @@ Galil:
 Amanda, am I wrong in\n
 saying you've found
 <$0C>
-everything you\n
-wanted?
+everything you wanted?
 <$00>
-
-
-
 
 // Pos: 00004787
 
@@ -601,9 +553,6 @@ I am already beyond\n
 death! I AM ETERNAL!
 <$00>
 
-
-
-
 // Pos: 00004824
 
 #WLB(PTR, $000015B0)
@@ -627,13 +576,8 @@ April:
 //\n子供のころになくしたのに…
 \n
 I thought I had lost\n
-it when I was a
-<$0C>
-child.
+it when I was a child.
 <$00>
-
-
-
 
 // Pos: 00004864
 
@@ -662,9 +606,6 @@ shall grant you\n
 eternity.
 <$00>
 
-
-
-
 // Pos: 000048A4
 
 #WLB(PTR, $00001728)
@@ -690,9 +631,6 @@ April:
 Do you have something\n
 you wish for, Laika?
 <$00>
-
-
-
 
 // Pos: 000048E6
 
@@ -724,9 +662,6 @@ pouring out from\n
 within you!
 <$00>
 
-
-
-
 // Pos: 0000492E
 
 #WLB(PTR, $00001764)
@@ -736,13 +671,11 @@ within you!
 <$10>
 //\n   
 \n
+   
 <$08>
 //闇の諸力から解放された存在として
 May he free himself,
 <$05><$00>
-
-
-
 
 // Pos: 0000494D
 
@@ -753,14 +686,12 @@ May he free himself,
 <$10>
 //\n   
 \n
+   
 <$08>
 //タマシイは再生の時を得るであろう
-that the spirit will\n
-know rebirth.
+that the spirit\n
+will know rebirth.
 <$05><$00>
-
-
-
 
 // Pos: 00004969
 
@@ -771,15 +702,14 @@ know rebirth.
 <$10>
 //\n   
 \n
+   
 <$08>
 //マコトの双子がはじめの一歩を記し
 May the Twins of\n
-Truth take the first\n
+Truth take the first
+<$0C>
 step,
 <$05><$00>
-
-
-
 
 // Pos: 00004986
 
@@ -790,14 +720,12 @@ step,
 <$10>
 //\n  
 \n
+  
 <$08>
 //いまわしい全てのことをお前に報いる
 that all deeds may\n
 know reward.
 <$05><$00>
-
-
-
 
 // Pos: 000049A0
 
@@ -808,15 +736,14 @@ know reward.
 <$10>
 //\n  
 \n
+  
 <$08>
 //ここに新しき天と、新しき地とを見たり
-For a new Heaven and\n
-a new Earth await\n
+For a new Heaven\n
+and a new Earth await
+<$0C>
 you.
 <$05><$00>
-
-
-
 
 // Pos: 000049BD
 
@@ -837,9 +764,6 @@ that mean a miracle\n
 will happen?
 <$00>
 
-
-
-
 // Pos: 000049E3
 
 #WLB(PTR, $00001904)
@@ -855,8 +779,7 @@ Galil:
 What's wrong, Amanda?\n
 Go, illuminate the
 <$0C>
-truth with your\n
-light!
+truth with your light!
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -879,9 +802,6 @@ rise, I, pure good,
 shall face them!
 <$00>
 
-
-
-
 // Pos: 00004A53
 
 #WLB(PTR, $00001A4C)
@@ -900,9 +820,6 @@ that little in your
 life was ever set in\n
 stone.
 <$00>
-
-
-
 
 // Pos: 00004A77
 
@@ -943,9 +860,6 @@ already risen as\n
 "pure good"!
 <$00>
 
-
-
-
 // Pos: 00004AE3
 
 #WLB(PTR, $0000097C)
@@ -975,9 +889,6 @@ Heavens, not at all!
 <$0C>
 For I am GOOD!
 <$00>
-
-
-
 
 // Pos: 00004B3E
 
@@ -1024,9 +935,6 @@ There is only
 delusion.
 <$00>
 
-
-
-
 // Pos: 00004BE3
 
 #WLB(PTR, $00001C7C)
@@ -1044,9 +952,6 @@ light...? This light
 <$0C>
 isn't mine!
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00004BFF
 
@@ -1067,9 +972,6 @@ crossed over from\n
 death!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00004C22
 
 #WLB(PTR, $00001BF0)
@@ -1083,7 +985,7 @@ Galil:
 //\nいい惑じだよ、
 \n
 Your senses are\n
-sharp, little
+sharp, little 
 <$0F>
 //君。\n君は実にいい惑じだ。
 . Very sharp.
@@ -1121,9 +1023,6 @@ you. Let the rebirth
 of the world begin.
 <$00>
 
-
-
-
 // Pos: 00004CB5
 
 #WLB(PTR, $00001D50)
@@ -1153,9 +1052,6 @@ yours, where is...no!
 Where is MY light?!
 <$00>
 
-
-
-
 // Pos: 00004D0D
 
 #WLB(PTR, $0000143C)
@@ -1169,7 +1065,7 @@ Galil:
 //\nどうだったかな？ 
 \n
 How does hearing all\n
-that make you feel,
+that make you feel, 
 <$0F>
 //。
 ?
@@ -1203,11 +1099,12 @@ Galil:
 //\nそうだよ、
 \n
 You were always\n
-alone,
+alone, 
 <$0F>
 //、\n君こそが影だ。
-. You were the lone\n
-shadow I came to\n
+. You were the
+<$0C>
+lone shadow I came to\n
 free.
 <$0C><$0B>
 //ガリル：
@@ -1221,7 +1118,4 @@ the new world! Walk
 with me into the\n
 Promised Land!
 <$00>
-
-
-
 

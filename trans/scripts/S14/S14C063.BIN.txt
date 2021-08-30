@@ -39,9 +39,6 @@ fine.
 º
 <$00>
 
-
-
-
 // Pos: 0000128E
 
 #WLB(PTR, $000001C8)
@@ -59,9 +56,6 @@ I hate liquor.
 //º
 º
 <$00>
-
-
-
 
 // Pos: 000012A5
 
@@ -85,9 +79,6 @@ creepy.
 º
 <$00>
 
-
-
-
 // Pos: 000012DD
 
 #WLB(PTR, $0000015C)
@@ -101,13 +92,8 @@ Gold:
 //\n‚ ‚ Ağ‚ªØ‚ê‚Ä‚«‚â‚ª‚Á‚½B
 \n
 Ah, guess who's\n
-running out of
-<$0C>
-liquor.
+running out of liquor.
 <$1E>
 //‰Æ
 <$00>
-
-
-
 

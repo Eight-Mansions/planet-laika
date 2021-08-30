@@ -24,9 +24,6 @@ right? Yeah, it was a\n
 wall, or...a dam.
 <$00>
 
-
-
-
 // Pos: 0000168D
 
 #WLB(PTR, $00000ABC)
@@ -75,9 +72,6 @@ remember! That was a
 dream! It HAD to be!
 <$00>
 
-
-
-
 // Pos: 00001720
 
 #WLB(PTR, $000006F4)
@@ -95,7 +89,4 @@ ahead? I'm getting
 <$0C>
 scared now.
 <$00>
-
-
-
 

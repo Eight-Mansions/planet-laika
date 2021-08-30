@@ -16,9 +16,6 @@
 you...?
 <$00>
 
-
-
-
 // Pos: 00000824
 
 #WLB(PTR, $000002D8)
@@ -28,12 +25,10 @@ you...?
 //演と愛いエイプリル…\nあなたがこんなに近くにいるなんて…\nうれしいわ…エイプリル…私のエイプリル…
 演とMy darling April...\n
 I'm so happy you're\n
-near.\n
+near.
+<$0C>
 April, my April...
 <$00>
-
-
-
 
 // Pos: 00000859
 
@@ -50,9 +45,6 @@ Yolanda:
 Sorry, April! Nothing\n
 over there either!
 <$00>
-
-
-
 
 // Pos: 00000877
 
@@ -73,9 +65,6 @@ looked inside the\n
 town.
 <$00>
 
-
-
-
 // Pos: 00000896
 
 #WLB(PTR, $000003C4)
@@ -91,7 +80,4 @@ April:
 That voice again...\n
 It did call my name.
 <$00>
-
-
-
 

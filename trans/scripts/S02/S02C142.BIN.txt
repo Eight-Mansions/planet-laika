@@ -24,9 +24,6 @@ sandstorms even in\n
 the nighttime.
 <$00>
 
-
-
-
 // Pos: 00000DC7
 
 #WLB(PTR, $000001E4)
@@ -40,13 +37,8 @@ Yolanda:
 //\n今は大丈夫よ。\nあら…あなた、アタシの知ってる人？
 \n
 Oh, I'm fine. I...\n
-Sorry, do you know
-<$0C>
-me?
+Sorry, do you know me?
 <$00>
-
-
-
 
 // Pos: 00000DF1
 
@@ -63,9 +55,6 @@ Liever:
 Not at all! I'm\n
 Liever.
 <$00>
-
-
-
 
 // Pos: 00000E08
 
@@ -86,9 +75,6 @@ go before the\n
 sandstorms pick up.
 <$00>
 
-
-
-
 // Pos: 00000E3B
 
 #WLB(PTR, $00000220)
@@ -106,9 +92,6 @@ possible go? There's
 <$0C>
 no escape.
 <$00>
-
-
-
 
 // Pos: 00000E59
 
@@ -128,9 +111,6 @@ tell me you're one of
 those delusional\n
 Judgement fucks.
 <$00>
-
-
-
 
 // Pos: 00000E83
 
@@ -152,9 +132,6 @@ handle it all on your\n
 own.
 <$00>
 
-
-
-
 // Pos: 00000EAB
 
 #WLB(PTR, $0000025C)
@@ -169,9 +146,6 @@ Yolanda:
 \n
 H-hey, that's not...!
 <$00>
-
-
-
 
 // Pos: 00000EC1
 
@@ -192,9 +166,6 @@ you follow me to God,\n
 God will protect you.
 <$00>
 
-
-
-
 // Pos: 00000EF7
 
 #WLB(PTR, $00000284)
@@ -210,9 +181,6 @@ Yolanda:
 God will? You say\n
 that like he's here.
 <$00>
-
-
-
 
 // Pos: 00000F15
 
@@ -233,9 +201,6 @@ it to believe it.\n
 Let's meet up later!
 <$00>
 
-
-
-
 // Pos: 00000F3D
 
 #WLB(PTR, $0000030C)
@@ -255,7 +220,4 @@ underground canal.\n
 Just before entering\n
 the colony.
 <$00>
-
-
-
 

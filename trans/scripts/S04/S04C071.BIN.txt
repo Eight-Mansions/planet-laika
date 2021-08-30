@@ -40,9 +40,6 @@
 Are you tourists?
 <$00>
 
-
-
-
 // Pos: 00002FBF
 
 #WLB(PTR, $000000A2)
@@ -227,9 +224,6 @@ You're tourists,\n
 right? I'm Cosmas.
 <$00>
 
-
-
-
 // Pos: 00002FCF
 
 #WLB(PTR, $00000424)
@@ -243,13 +237,8 @@ April:
 //\nÇøÇÂÇ¡Ç∆äJÇ¢ÇƒÇ¢Ç¢ÅH
 \n
 Oh! Uhm, can we ask\n
-you something,
-<$0C>
-Cosmas?
+you something, Cosmas?
 <$00>
-
-
-
 
 // Pos: 00002FE5
 
@@ -270,9 +259,6 @@ home. It's almost\n
 lights-out time.
 <$00>
 
-
-
-
 // Pos: 0000301B
 
 #WLB(PTR, $00000580)
@@ -289,12 +275,8 @@ Well, it's okay if\n
 you go now, but
 <$0C>
 otherwise, do you\n
-know the medicine\n
-men?
+know the medicine men?
 <$00>
-
-
-
 
 // Pos: 00003048
 
@@ -315,9 +297,6 @@ dances to help the\n
 sick.
 <$00>
 
-
-
-
 // Pos: 00003084
 
 #WLB(PTR, $000005A8)
@@ -334,12 +313,8 @@ What makes the\n
 medicine men so
 <$0C>
 different? Don't they\n
-live among the\n
-colony?
+live among the colony?
 <$00>
-
-
-
 
 // Pos: 000030B8
 
@@ -360,9 +335,6 @@ says their powers are\n
 fake.
 <$00>
 
-
-
-
 // Pos: 000030F1
 
 #WLB(PTR, $000005D0)
@@ -377,9 +349,6 @@ April:
 \n
 And who is Mountain?
 <$00>
-
-
-
 
 // Pos: 00003104
 
@@ -412,9 +381,6 @@ men and watch their\n
 activities in secret.
 <$00>
 
-
-
-
 // Pos: 00003169
 
 #WLB(PTR, $000005F8)
@@ -430,9 +396,6 @@ April:
 Why is he acting in\n
 secret?
 <$00>
-
-
-
 
 // Pos: 0000317F
 
@@ -463,9 +426,6 @@ the Venusians the way\n
 he does.
 <$00>
 
-
-
-
 // Pos: 000031C6
 
 #WLB(PTR, $00000620)
@@ -483,9 +443,6 @@ people from Venus
 <$0C>
 here?
 <$00>
-
-
-
 
 // Pos: 000031E6
 
@@ -507,9 +464,6 @@ sent out through\n
 space from Venus.
 <$00>
 
-
-
-
 // Pos: 0000320E
 
 #WLB(PTR, $00000648)
@@ -528,9 +482,6 @@ go...what happened to
 your face?
 <$00>
 
-
-
-
 // Pos: 0000322D
 
 #WLB(PTR, $0000082C)
@@ -542,9 +493,6 @@ your face?
 Cosmas? Cosmas, where\n
 are you?
 <$00>
-
-
-
 
 // Pos: 00003243
 
@@ -567,7 +515,4 @@ trip!
 //âs
 âs
 <$00>
-
-
-
 

@@ -20,9 +20,6 @@ Tommy:
 Hey. Hey, comrade...
 <$00>
 
-
-
-
 // Pos: 00002145
 
 #WLB(PTR, $000003A4)
@@ -43,10 +40,12 @@ Tommy:
 <$0D>
 //\n
 \n
+
 <$12>
 //つくそっ、気分が悪い、吐きそうだぜ…\nおぇっ、うぐぐぐ、おえっ…
 Ick, I feel sick.\n
-Totally about to\n
+Totally about to
+<$0C>
 puke... This sucks!
 <$0C><$0B>
 //トミー：
@@ -68,8 +67,7 @@ If you need to speak\n
 to an employee, I saw
 <$0C>
 Little outside of\n
-NIGHT PLANET just\n
-now.
+NIGHT PLANET just now.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -79,9 +77,6 @@ Tommy:
 (What the heck was he\n
 doing, anyways?)
 <$00>
-
-
-
 
 // Pos: 000021E7
 
@@ -111,9 +106,6 @@ you, the place is
 <$0C>
 highway robbery.
 <$00>
-
-
-
 
 // Pos: 0000221F
 
@@ -147,9 +139,6 @@ mind me. I'm just...
 双
 <$00>
 
-
-
-
 // Pos: 00002276
 
 #WLB(PTR, $000004E0)
@@ -165,14 +154,11 @@ Tommy:
 Ick, I feel sick. I\n
 drank too much this
 <$0C>
-time around.
+time around. 
 <$1E>
 //双
 双
 <$00>
-
-
-
 
 // Pos: 000022A2
 
@@ -191,9 +177,6 @@ those nuts want
 <$0C>
 something from you?
 <$00>
-
-
-
 
 // Pos: 000022CA
 
@@ -222,9 +205,6 @@ All right, don't tell
 <$0C>
 me...
 <$00>
-
-
-
 
 // Pos: 00002311
 
@@ -265,9 +245,6 @@ the red stone. Wanna\n
 know why?
 <$00>
 
-
-
-
 // Pos: 00002389
 
 #WLB(PTR, $000005EC)
@@ -305,9 +282,6 @@ Tommy:
 \n
 Oh, but about that!
 <$00>
-
-
-
 
 // Pos: 00002400
 
@@ -361,9 +335,6 @@ again. Brrrp! I've\n
 gotta run!
 <$00>
 
-
-
-
 // Pos: 000024D4
 
 #WLB(PTR, $0000074C)
@@ -396,9 +367,6 @@ real?
 」Yes\n
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 0000252C
 
@@ -434,9 +402,6 @@ waves.
 双
 <$00>
 
-
-
-
 // Pos: 00002584
 
 #WLB(PTR, $00000798)
@@ -468,9 +433,6 @@ radio waves.
 //双
 双
 <$00>
-
-
-
 
 // Pos: 000025CA
 
@@ -512,9 +474,6 @@ sometime, comrade.
 双
 <$00>
 
-
-
-
 // Pos: 0000263B
 
 #WLB(PTR, $00000FC4)
@@ -531,8 +490,7 @@ April.
 <$0C>
 //行ってあげて、\n彼女、あなたのこと待ってるわ。
 You should go.\n
-She's waiting for\n
-you.
+She's waiting for you.
 <$00><$10><$0B>
 //イースト：
 East:
@@ -580,9 +538,6 @@ West:
 We're the nightwatch!
 <$00>
 
-
-
-
 // Pos: 000026F1
 
 #WLB(PTR, $00000878)
@@ -615,7 +570,4 @@ whole.
 //理
 理
 <$00>
-
-
-
 

@@ -45,9 +45,6 @@ kinda psychic? You\n
 tweaking my brain?
 <$00>
 
-
-
-
 // Pos: 00001B33
 
 #WLB(PTR, $00000260)
@@ -101,9 +98,6 @@ ME?! Fuck off, you're\n
 scaring me!
 <$00>
 
-
-
-
 // Pos: 00001BEE
 
 #WLB(PTR, $0000037C)
@@ -135,9 +129,6 @@ the yellow stone's\n
 finally hitting, Bro!
 <$00>
 
-
-
-
 // Pos: 00001C57
 
 #WLB(PTR, $00000390)
@@ -157,7 +148,4 @@ Shoot, I'm probably\n
 even better than my\n
 bro, kek!
 <$00>
-
-
-
 

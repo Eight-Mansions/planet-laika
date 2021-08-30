@@ -29,16 +29,14 @@ Galil:
 <$0D>
 //\nいずれにせよ、終わりだ、スペーサー\n私は
 \n
-I need
+I need 
 <$0F>
 //に用があるのだ。\nお前は妄念の産物だ、さあ無に帰すがいい。
-now. Go home to your\n
-pesky void, you fruit\n
-of delusion.
+ now. Go home\n
+to your pesky void,
+<$0C>
+you fruit of delusion.
 <$00>
-
-
-
 
 // Pos: 0000106E
 
@@ -58,7 +56,4 @@ I'm real! The you
 whom you call "good"\n
 is the delusion!
 <$00>
-
-
-
 

@@ -25,9 +25,6 @@ it feels like to\n
 explode!
 <$00>
 
-
-
-
 // Pos: 00001BD1
 
 #WLB(PTR, $000001E4)
@@ -64,9 +61,6 @@ more push to ride the
 radio waves.
 <$00>
 
-
-
-
 // Pos: 00001C3B
 
 #WLB(PTR, $00000238)
@@ -94,9 +88,6 @@ head, huh! Yeah,\n
 yeah, YEAH! Keep it\n
 up!
 <$00>
-
-
-
 
 // Pos: 00001C7C
 
@@ -139,7 +130,4 @@ Mountain! I\n
 understand my own\n
 significance!
 <$00>
-
-
-
 

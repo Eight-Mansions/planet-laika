@@ -24,9 +24,6 @@ want to do anything.\n
 I'm simply too tired!
 <$00>
 
-
-
-
 // Pos: 000035A3
 
 #WLB(PTR, $000001EC)
@@ -44,9 +41,6 @@ Did something happen
 <$0C>
 to you?
 <$00>
-
-
-
 
 // Pos: 000035C5
 
@@ -67,9 +61,6 @@ about me. Go back to\n
 your Herod.
 <$00>
 
-
-
-
 // Pos: 000035FD
 
 #WLB(PTR, $00000214)
@@ -88,9 +79,6 @@ time at all. For
 either of us.
 <$00>
 
-
-
-
 // Pos: 0000362F
 
 #WLB(PTR, $00000280)
@@ -107,9 +95,6 @@ Feng, do you hear my\n
 voice?
 <$00>
 
-
-
-
 // Pos: 0000364B
 
 #WLB(PTR, $000002A4)
@@ -124,9 +109,6 @@ Feng:
 \n
 Of course I can!
 <$00>
-
-
-
 
 // Pos: 00003664
 
@@ -146,9 +128,6 @@ Breathe in time with
 me.
 <$00>
 
-
-
-
 // Pos: 00003688
 
 #WLB(PTR, $00000464)
@@ -164,9 +143,6 @@ Feng:
 I am looking into\n
 your eyes...
 <$00>
-
-
-
 
 // Pos: 0000369B
 
@@ -188,9 +164,6 @@ no one can disturb\n
 you.
 <$00>
 
-
-
-
 // Pos: 000036E0
 
 #WLB(PTR, $00000580)
@@ -206,9 +179,6 @@ Feng:
 I am floating...\n
 I am weightless...
 <$00>
-
-
-
 
 // Pos: 000036FB
 
@@ -229,9 +199,6 @@ entrance? You\n
 approach the mirror.
 <$00>
 
-
-
-
 // Pos: 0000372F
 
 #WLB(PTR, $000005A0)
@@ -247,9 +214,6 @@ Feng:
 I approach the\n
 entrance...
 <$00>
-
-
-
 
 // Pos: 0000373F
 
@@ -282,9 +246,6 @@ going exactly as you\n
 planned.
 <$00>
 
-
-
-
 // Pos: 00003798
 
 #WLB(PTR, $000005C0)
@@ -305,9 +266,6 @@ snow white here. It's\n
 lovely...
 <$00>
 
-
-
-
 // Pos: 000037CD
 
 #WLB(PTR, $000009EC)
@@ -320,13 +278,9 @@ Madam Agatha:
 <$0D>
 //\nあなたは？ ヴェロニカね。\n今晩は、ヴェロニカ。
 \n
-Is that you,\n
-Veronica?\n
+Is that you, Veronica?\n
 Good evening.
 <$00>
-
-
-
 
 // Pos: 000037F4
 
@@ -346,9 +300,6 @@ I haven't eaten
 anything today.
 <$00>
 
-
-
-
 // Pos: 0000381A
 
 #WLB(PTR, $00000A14)
@@ -367,9 +318,6 @@ something I wanted to
 ask you.
 <$00>
 
-
-
-
 // Pos: 0000383E
 
 #WLB(PTR, $00000A28)
@@ -383,13 +331,8 @@ Veronica:
 //\nもうかなりたまったよ。
 \n
 That's fine. I've\n
-already saved a
-<$0C>
-lot...
+already saved a lot...
 <$00>
-
-
-
 
 // Pos: 00003856
 
@@ -407,9 +350,6 @@ Hmm? Saved a lot of\n
 what?
 <$00>
 
-
-
-
 // Pos: 0000386B
 
 #WLB(PTR, $00000A50)
@@ -425,9 +365,6 @@ Veronica:
 Lucky rolls.\n
 "Chances" works too.
 <$00>
-
-
-
 
 // Pos: 00003886
 
@@ -448,9 +385,6 @@ far, why haven't you\n
 used any?
 <$00>
 
-
-
-
 // Pos: 000038BC
 
 #WLB(PTR, $00000A78)
@@ -464,14 +398,11 @@ Veronica:
 //\nさっき使ったよ。\n
 \n
 I did so earlier,\n
-for
+for 
 <$0F>
 //を出してあげたの。
 .
 <$00>
-
-
-
 
 // Pos: 000038DE
 
@@ -486,14 +417,11 @@ Madam Agatha:
 //\nそうなの？\n
 \n
 Is that so?\n
-Do you like
+Do you like 
 <$0F>
 //は… 気に入りそう？
 ?
 <$00>
-
-
-
 
 // Pos: 000038FD
 
@@ -512,9 +440,6 @@ don't like is liquor,
 <$0C>
 you know.
 <$00>
-
-
-
 
 // Pos: 00003920
 
@@ -535,9 +460,6 @@ Is she plotting\n
 something?
 <$00>
 
-
-
-
 // Pos: 00003957
 
 #WLB(PTR, $00000AC8)
@@ -557,9 +479,6 @@ She'd do anything to\n
 get what she wants.
 <$00>
 
-
-
-
 // Pos: 00003992
 
 #WLB(PTR, $00000ADC)
@@ -577,9 +496,6 @@ Is it something you
 <$0C>
 want too?
 <$00>
-
-
-
 
 // Pos: 000039B9
 
@@ -617,9 +533,6 @@ made you ask that so
 frankly?
 <$00>
 
-
-
-
 // Pos: 00003A1E
 
 #WLB(PTR, $00000C04)
@@ -639,9 +552,6 @@ of beauty. We both\n
 know that's all she\n
 desires.
 <$00>
-
-
-
 
 // Pos: 00003A4C
 
@@ -663,9 +573,6 @@ will keep her\n
 beautiful.
 <$00>
 
-
-
-
 // Pos: 00003A93
 
 #WLB(PTR, $00000C2C)
@@ -684,9 +591,6 @@ think I've heard of
 her before. People\n
 call her...
 <$00>
-
-
-
 
 // Pos: 00003ABD
 
@@ -717,12 +621,10 @@ Amanda, but ever
 <$0C>
 since she started\n
 with Vanity Face, she\n
-could hear Amanda's\n
+could hear Amanda's
+<$0C>
 voice.
 <$00>
-
-
-
 
 // Pos: 00003B5A
 
@@ -742,9 +644,6 @@ to Feng? Did she
 invite Feng to enter\n
 the mirror?
 <$00>
-
-
-
 
 // Pos: 00003B8D
 
@@ -785,9 +684,6 @@ it the Mirror of\n
 Judgement.
 <$00>
 
-
-
-
 // Pos: 00003C2A
 
 #WLB(PTR, $00000C7C)
@@ -807,9 +703,6 @@ is your closest\n
 friend, right? What\n
 else did they say?
 <$00>
-
-
-
 
 // Pos: 00003C66
 
@@ -853,9 +746,6 @@ point. Everyone all\n
 disappear.
 <$00>
 
-
-
-
 // Pos: 00003CFE
 
 #WLB(PTR, $00000CA4)
@@ -874,9 +764,6 @@ beauty incarnate, but
 what will happen to\n
 you?
 <$00>
-
-
-
 
 // Pos: 00003D2B
 
@@ -897,9 +784,6 @@ before that happens,\n
 or I'll be all alone!
 <$00>
 
-
-
-
 // Pos: 00003D60
 
 #WLB(PTR, $00000E40)
@@ -917,9 +801,6 @@ want to go back down
 <$0C>
 soon?
 <$00>
-
-
-
 
 // Pos: 00003D7B
 
@@ -939,9 +820,6 @@ back... Everything's
 so dark...
 <$00>
 
-
-
-
 // Pos: 00003D9B
 
 #WLB(PTR, $00000E6C)
@@ -958,9 +836,6 @@ Veronica, are you\n
 sure you mean that?
 <$00>
 
-
-
-
 // Pos: 00003DBA
 
 #WLB(PTR, $00000E84)
@@ -976,9 +851,6 @@ Veronica:
 I don't want to go\n
 back!
 <$00>
-
-
-
 
 // Pos: 00003DCF
 
@@ -999,9 +871,6 @@ mentioned the word
 you mean?
 <$00>
 
-
-
-
 // Pos: 00003DF8
 
 #WLB(PTR, $00000EB4)
@@ -1021,9 +890,6 @@ can't tell you more\n
 than that.
 <$00>
 
-
-
-
 // Pos: 00003E1C
 
 #WLB(PTR, $00000ECC)
@@ -1042,9 +908,6 @@ found out about your
 thoughts to integrate\n
 with her.
 <$00>
-
-
-
 
 // Pos: 00003E50
 
@@ -1066,9 +929,6 @@ before she crosses\n
 the line.
 <$00>
 
-
-
-
 // Pos: 00003E81
 
 #WLB(PTR, $00000EFC)
@@ -1087,9 +947,6 @@ an option can truly
 be taken.
 <$00>
 
-
-
-
 // Pos: 00003EA5
 
 #WLB(PTR, $00000F14)
@@ -1107,9 +964,6 @@ it's me. I'll make
 <$0C>
 her see eye-to-eye!
 <$00>
-
-
-
 
 // Pos: 00003EC8
 
@@ -1131,9 +985,6 @@ you're fine.\n
 Understand?
 <$00>
 
-
-
-
 // Pos: 00003EFB
 
 #WLB(PTR, $000010B4)
@@ -1152,9 +1003,6 @@ is your face
 satisfactory?
 <$00>
 
-
-
-
 // Pos: 00003F21
 
 #WLB(PTR, $000010C8)
@@ -1172,9 +1020,6 @@ much as Amanda's is,
 <$0C>
 but it's fine.
 <$00>
-
-
-
 
 // Pos: 00003F4C
 
@@ -1195,9 +1040,6 @@ human faces? Will\n
 they survive\n
 Judgement?
 <$00>
-
-
-
 
 // Pos: 00003F87
 
@@ -1228,9 +1070,6 @@ mind. That makes\n
 sense, doesn't it?
 <$00>
 
-
-
-
 // Pos: 00003FEA
 
 #WLB(PTR, $00001104)
@@ -1249,9 +1088,6 @@ Let's each turn in
 for the night.
 <$00>
 
-
-
-
 // Pos: 0000400D
 
 #WLB(PTR, $00001118)
@@ -1269,7 +1105,8 @@ torment Herod any
 <$0C>
 longer. It's your\n
 fault he can't leave\n
-the Land of\n
+the Land of
+<$0C>
 Nightmares.
 <$0C><$0B>
 //フェイ：
@@ -1283,9 +1120,6 @@ far as to play God
 with your\n
 hypnotherapy?
 <$00>
-
-
-
 
 // Pos: 00004075
 
@@ -1306,9 +1140,6 @@ my work is done for\n
 his sake.
 <$00>
 
-
-
-
 // Pos: 000040A6
 
 #WLB(PTR, $00001140)
@@ -1328,9 +1159,6 @@ Agatha. And you too,\n
 Earthling.
 <$00>
 
-
-
-
 // Pos: 000040D6
 
 #WLB(PTR, $00001154)
@@ -1346,9 +1174,6 @@ Madam Agatha:
 It's Laika.
 <$00>
 
-
-
-
 // Pos: 000040E8
 
 #WLB(PTR, $00001168)
@@ -1363,7 +1188,4 @@ Feng:
 \n
 Goodnight, Laika.
 <$00>
-
-
-
 

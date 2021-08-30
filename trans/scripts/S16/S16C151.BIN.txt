@@ -26,9 +26,9 @@ waves! Weee!
 Yang:
 <$0D>
 //\n‚ ‚ñ‚½‚à‚¾‚ëA‰´‚Æˆê‚É“d”g‚Éæ‚ê‚é‚ñ‚¾‚ëB\nŒ©‚½‚Æ‚±‚ë‚»‚ñ‚È˜f‚¶‚¾A‰´‚Æˆê‚¾A
-nYou are too! We're\n
-riding together on\n
-radio waves! I see
+nYou are too!\n
+We're riding together\n
+on radio waves! I see
 <$0C>
 you sense it too,\n
 just like I do!
@@ -46,9 +46,6 @@ hard-headed, I know.
 //‰s
 ‰s
 <$00>
-
-
-
 
 // Pos: 00000B84
 
@@ -72,9 +69,6 @@ Spacer!
 //‰s
 ‰s
 <$00>
-
-
-
 
 // Pos: 00000BB9
 
@@ -114,9 +108,6 @@ Wahoo! I'm going in!
 ‰s
 <$00>
 
-
-
-
 // Pos: 00000C1A
 
 #WLB(PTR, $000001B4)
@@ -136,9 +127,6 @@ here. It must be\n
 somewhere else.
 <$00>
 
-
-
-
 // Pos: 00000C47
 
 #WLB(PTR, $000001C8)
@@ -156,9 +144,6 @@ reverberating, but I
 <$0C>
 can't hear the sound.
 <$00>
-
-
-
 
 // Pos: 00000C70
 
@@ -179,9 +164,6 @@ you're just\n
 mishearing things.
 <$00>
 
-
-
-
 // Pos: 00000C9B
 
 #WLB(PTR, $000002A4)
@@ -200,9 +182,6 @@ sound is so bad!
 //‰s
 ‰s
 <$00>
-
-
-
 
 // Pos: 00000CBA
 
@@ -226,9 +205,6 @@ something else.
 —
 <$00>
 
-
-
-
 // Pos: 00000CE7
 
 #WLB(PTR, $000002BC)
@@ -249,7 +225,4 @@ Sad, but true...
 //‰s
 ‰s
 <$00>
-
-
-
 

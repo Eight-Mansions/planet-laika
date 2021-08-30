@@ -41,9 +41,6 @@ more marvelous once\n
 we leave!
 <$00>
 
-
-
-
 // Pos: 00000BB2
 
 #WLB(PTR, $000004F8)
@@ -55,9 +52,6 @@ we leave!
 Wait!\n
 Is someone there?
 <$00>
-
-
-
 
 // Pos: 00000BC1
 
@@ -73,7 +67,4 @@ Captain Tatler:
 \n
 It's probably nerves.
 <$00>
-
-
-
 

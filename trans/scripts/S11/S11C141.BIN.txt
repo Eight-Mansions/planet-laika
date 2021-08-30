@@ -23,9 +23,6 @@ you must be the same
 type as us!
 <$00>
 
-
-
-
 // Pos: 000034BB
 
 #WLB(PTR, $00000FF8)
@@ -48,9 +45,6 @@ birth, haven't you?
 。Yes\n
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 000034FD
 
@@ -80,12 +74,8 @@ Spouting that bull is\n
 what got Jeremiah
 <$0C>
 exiled. And now, his\n
-mummy is rotting\n
-away.
+mummy is rotting away.
 <$00>
-
-
-
 
 // Pos: 00003569
 
@@ -128,9 +118,6 @@ that seismic event is
 finally upon us!
 <$00>
 
-
-
-
 // Pos: 000035D7
 
 #WLB(PTR, $00001064)
@@ -149,9 +136,6 @@ influenced by the
 waves, won't we,\n
 Mountain?
 <$00>
-
-
-
 
 // Pos: 00003601
 
@@ -200,9 +184,6 @@ choose?
 １
 <$00><$17><$00>
 
-
-
-
 // Pos: 00003696
 
 #WLB(PTR, $000010AC)
@@ -220,9 +201,6 @@ we're all connected
 <$0C>
 in crazy ways.
 <$00>
-
-
-
 
 // Pos: 000036BD
 
@@ -279,9 +257,6 @@ first-hand, you'll\n
 understand!
 <$00>
 
-
-
-
 // Pos: 00003789
 
 #WLB(PTR, $000010E0)
@@ -297,9 +272,6 @@ Yang:
 Get smart, and\n
 remember Pi!
 <$00>
-
-
-
 
 // Pos: 000037A8
 
@@ -331,9 +303,6 @@ focused blast! It's\n
 fool-proof!
 <$00>
 
-
-
-
 // Pos: 00003808
 
 #WLB(PTR, $00001120)
@@ -349,9 +318,6 @@ Yang:
 Hehe, Venus is the\n
 one, true way!
 <$00>
-
-
-
 
 // Pos: 0000382D
 
@@ -397,9 +363,6 @@ didn't you?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 000038C3
 
 #WLB(PTR, $00001174)
@@ -417,9 +380,6 @@ things you should
 <$0C>
 know.
 <$00>
-
-
-
 
 // Pos: 000038E2
 
@@ -469,9 +429,6 @@ trying to channeling
 us in return.
 <$00>
 
-
-
-
 // Pos: 00003978
 
 #WLB(PTR, $0000122C)
@@ -489,9 +446,6 @@ think the Venusians
 are tracking Mars's\n
 movements so closely.
 <$00>
-
-
-
 
 // Pos: 000039A0
 
@@ -531,9 +485,6 @@ receive messages from\n
 the great beyond.
 <$00>
 
-
-
-
 // Pos: 00003A07
 
 #WLB(PTR, $000012B4)
@@ -553,9 +504,6 @@ something before the\n
 world gets too\n
 clouded.
 <$00>
-
-
-
 
 // Pos: 00003A2F
 
@@ -582,12 +530,8 @@ Mountain:
 Cross your thoughts\n
 with it, and let its
 <$0C>
-words flow into\n
-you...
+words flow into you...
 <$00>
-
-
-
 
 // Pos: 00003A87
 
@@ -615,9 +559,6 @@ going? Go look at
 that eye. That eye!
 <$00>
 
-
-
-
 // Pos: 00003AB0
 
 #WLB(PTR, $00001698)
@@ -634,8 +575,7 @@ Well? Do you\n
 understand now? What
 <$0C>
 you see is what we\n
-call "the mind's\n
-eye".
+call "the mind's eye".
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -648,9 +588,6 @@ couldn't see it!
 C'mon, tell us what\n
 you saw?
 <$00>
-
-
-
 
 // Pos: 00003AFC
 
@@ -666,9 +603,6 @@ Yang:
 \n
 You can tell us!
 <$00>
-
-
-
 
 // Pos: 00003B0D
 
@@ -687,9 +621,6 @@ truth all to
 <$0C>
 yourself!
 <$00>
-
-
-
 
 // Pos: 00003B2D
 
@@ -710,9 +641,6 @@ after we helped you\n
 earlier. Tell us!
 <$00>
 
-
-
-
 // Pos: 00003B57
 
 #WLB(PTR, $00001734)
@@ -727,9 +655,6 @@ Mountain:
 \n
 Come on, Yang.
 <$00>
-
-
-
 
 // Pos: 00003B6C
 
@@ -758,9 +683,6 @@ long show and tell
 <$0C>
 out of this later.
 <$00>
-
-
-
 
 // Pos: 00003BCB
 
@@ -798,9 +720,6 @@ medicine man who knew
 more than any other.
 <$00>
 
-
-
-
 // Pos: 00003C37
 
 #WLB(PTR, $000017C4)
@@ -820,9 +739,6 @@ If you're one of us,\n
 you can find his\n
 journal!
 <$00>
-
-
-
 
 // Pos: 00003C6B
 
@@ -848,9 +764,6 @@ able to see it!
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 00003C95
 
@@ -885,9 +798,6 @@ connection.
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 00003CD8
 
@@ -935,9 +845,6 @@ None of it's real.
 鋭
 <$00>
 
-
-
-
 // Pos: 00003D45
 
 #WLB(PTR, $00001570)
@@ -965,9 +872,6 @@ tonight!
 理
 <$00>
 
-
-
-
 // Pos: 00003D7F
 
 #WLB(PTR, $00001AEC)
@@ -987,9 +891,6 @@ Mountain:
 Well, kid, can you\n
 sense the waves?
 <$00>
-
-
-
 
 // Pos: 00003DA2
 
@@ -1013,9 +914,6 @@ Hey, kid. Did that
 witch cast any weird\n
 hexes on you? No?
 <$00>
-
-
-
 
 // Pos: 00003DD7
 
@@ -1048,9 +946,6 @@ journal.
 鋭
 <$00>
 
-
-
-
 // Pos: 00003DFE
 
 #WLB(PTR, $00001B7C)
@@ -1078,14 +973,12 @@ you say!
 鋭
 <$00>
 
-
-
-
 // Pos: 00003E14
 
 #WLB(PTR, $00000DD4)
 
 #WHB(PTR, $00000DD5)
+
 
 <$00><$0B>
 //オクトーバー司令官：
@@ -1135,7 +1028,8 @@ Commander October:
 //\nあー、ペットが生き返った…\nあー、円周率を思い出した…
 \n
 "Look! My pet came\n
-back to life!"\n
+back to life!"
+<$0C>
 "Listen! I can recite\n
 all of Pi!"
 <$0C><$0B>
@@ -1151,9 +1045,6 @@ contact you again\n
 when there's an\n
 update.
 <$00>
-
-
-
 
 // Pos: 00003F57
 
@@ -1219,9 +1110,6 @@ relationship in all\n
 this.
 <$00>
 
-
-
-
 // Pos: 00004094
 
 #WLB(PTR, $00000E20)
@@ -1258,9 +1146,6 @@ I'll contact you\n
 again soon.
 <$00>
 
-
-
-
 // Pos: 00004115
 
 #WLB(PTR, $00000D28)
@@ -1271,10 +1156,6 @@ again soon.
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-THERE ARE NO\n
-MESSAGES.
+THERE ARE NO MESSAGES.
 <$00>
-
-
-
 

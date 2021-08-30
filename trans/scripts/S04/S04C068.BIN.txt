@@ -48,9 +48,6 @@ hiding so exciting!
 行
 <$00>
 
-
-
-
 // Pos: 00001DD2
 
 #WLB(PTR, $00000294)
@@ -144,7 +141,9 @@ Linda:
 //\nどんな気分だろうかって。\n
 \n
 Do you think that's\n
-possible?\n
+possible?
+<$0C>
+
 <$0B>
 //リンダ：
 Linda:
@@ -226,15 +225,13 @@ Linda:
 //\nもー、何もかも嫌になったわ、\nあー、あー、疲れたのー。
 \n
 I'm disgusted by just\n
-about everything.\n
+about everything. 
+<$0C>
 Seriously, I'm tired.
 <$1E>
 //行
 行
 <$00>
-
-
-
 
 // Pos: 00002047
 
@@ -252,9 +249,6 @@ Oh, aren't you a new\n
 face!
 <$00>
 
-
-
-
 // Pos: 00002063
 
 #WLB(PTR, $00000388)
@@ -269,9 +263,6 @@ Spacer:
 \n
 I'm Spacer.
 <$00>
-
-
-
 
 // Pos: 00002079
 
@@ -292,9 +283,6 @@ talking about your\n
 face! Did you change?
 <$00>
 
-
-
-
 // Pos: 000020AB
 
 #WLB(PTR, $000003B0)
@@ -310,9 +298,6 @@ Spacer:
 Would it be bad if I\n
 did?
 <$00>
-
-
-
 
 // Pos: 000020C3
 
@@ -345,9 +330,6 @@ fit in with those\n
 guys at Psycho Lab.
 <$00>
 
-
-
-
 // Pos: 0000213F
 
 #WLB(PTR, $000003E4)
@@ -365,9 +347,6 @@ going through with
 <$0C>
 their experiments?
 <$00>
-
-
-
 
 // Pos: 00002168
 
@@ -409,9 +388,6 @@ hadn't been there
 since last night.\n
 Very weird.
 <$00>
-
-
-
 
 // Pos: 000021E3
 
@@ -458,9 +434,6 @@ shining.
 行
 <$00>
 
-
-
-
 // Pos: 0000225F
 
 #WLB(PTR, $000002E0)
@@ -481,9 +454,6 @@ shining.
 //中
 中
 <$00>
-
-
-
 
 // Pos: 0000228A
 
@@ -539,9 +509,6 @@ never met her!
 行
 <$00>
 
-
-
-
 // Pos: 00002322
 
 #WLB(PTR, $0000032C)
@@ -565,9 +532,6 @@ bright...
 中
 <$00>
 
-
-
-
 // Pos: 0000235A
 
 #WLB(PTR, $0000041C)
@@ -585,9 +549,6 @@ that's why you'd fit
 <$0C>
 in with Psycho types.
 <$00>
-
-
-
 
 // Pos: 00002384
 
@@ -608,9 +569,6 @@ not going to join\n
 them!
 <$00>
 
-
-
-
 // Pos: 000023AD
 
 #WLB(PTR, $00000440)
@@ -629,9 +587,6 @@ things the same way
 they do...
 <$00>
 
-
-
-
 // Pos: 000023CB
 
 #WLB(PTR, $00000470)
@@ -646,9 +601,6 @@ Linda:
 \n
 ...you little Psycho.
 <$00>
-
-
-
 
 // Pos: 000023E5
 
@@ -665,9 +617,6 @@ Spacer:
 I don't have time to\n
 gush over Venusians!
 <$00>
-
-
-
 
 // Pos: 00002402
 
@@ -701,9 +650,6 @@ it's still,\n
 //行
 行
 <$00>
-
-
-
 
 // Pos: 0000245A
 
@@ -744,9 +690,6 @@ earlier...right?
 行
 <$00>
 
-
-
-
 // Pos: 000024CA
 
 #WLB(PTR, $000004BC)
@@ -777,7 +720,4 @@ stopped shining!
 //行
 行
 <$00>
-
-
-
 

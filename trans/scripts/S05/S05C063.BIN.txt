@@ -21,9 +21,6 @@ Ahhhh, the sweeeeet\n
 kiss of deaaaath...
 <$00>
 
-
-
-
 // Pos: 0000262F
 
 #WLB(PTR, $0000021C)
@@ -50,9 +47,6 @@ Sweet, illuminating
 woooords...!\n
 Commme...to me!
 <$00>
-
-
-
 
 // Pos: 00002675
 
@@ -92,17 +86,15 @@ as new human beings.
 <$05><$0C>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //‘æO‚Ì—aŒ¾‚ğ“¾‚½B
-So sayeth the third\n
-prophecy.
+So sayeth the\n
+third prophecy.
 <$00>
-
-
-
 
 // Pos: 0000271A
 
@@ -164,9 +156,6 @@ good. I doubt I'm up
 to the task.
 <$00>
 
-
-
-
 // Pos: 000027EF
 
 #WLB(PTR, $000005A0)
@@ -184,10 +173,8 @@ humans live such
 <$0C>
 disorderly\n
 existences,\n
-dreadfully brimming\n
+dreadfully brimming
+<$0C>
 with disorder...
 <$00>
-
-
-
 

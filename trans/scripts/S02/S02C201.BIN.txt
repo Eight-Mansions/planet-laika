@@ -20,9 +20,6 @@ We hope you like your\n
 Christmas present!
 <$00>
 
-
-
-
 // Pos: 0000090E
 
 #WLB(PTR, $000008A0)
@@ -41,9 +38,6 @@ Wait, can you hear
 me, Tanya?! Tanya!
 <$00>
 
-
-
-
 // Pos: 0000093F
 
 #WLB(PTR, $000008A4)
@@ -51,18 +45,16 @@ me, Tanya?! Tanya!
 #WHB(PTR, $000008A5)
 
 //想うしたの
-想Do you like it,
+想Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-? Your batya drove\n
-all over town for it.\n
-Mama's so happy for
+?\n
+Your batya drove all\n
+over town for it.
 <$0C>
+Mama's so happy for\n
 you!
 <$00>
-
-
-
 
 // Pos: 00000970
 
@@ -98,7 +90,8 @@ Yolanda:
 //\nなんてね。 死んじゃったんだもの…\n無理よね。
 \n
 I guess not, huh.\n
-There's no way.\n
+There's no way.
+<$0C>
 ...You're dead,\n
 remember?
 <$0C><$0B>
@@ -124,9 +117,6 @@ this would have\n
 happened!
 <$00>
 
-
-
-
 // Pos: 00000A2A
 
 #WLB(PTR, $0000087C)
@@ -141,9 +131,6 @@ town, just for you!
 We hope you like your\n
 Christmas present!
 <$00>
-
-
-
 
 // Pos: 00000A53
 
@@ -163,9 +150,6 @@ I swear I've heard
 that voice before.
 <$00>
 
-
-
-
 // Pos: 00000A83
 
 #WLB(PTR, $00000884)
@@ -173,18 +157,16 @@ that voice before.
 #WHB(PTR, $00000885)
 
 //想うしたの
-想Do you like it,
+想Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-? Your batya drove\n
-all over town for it.\n
-Mama's so happy for
+?\n
+Your batya drove all\n
+over town for it.
 <$0C>
+Mama's so happy for\n
 you!
 <$00>
-
-
-
 
 // Pos: 00000AB4
 
@@ -214,9 +196,6 @@ right? That was a
 Christmas present?
 <$00>
 
-
-
-
 // Pos: 00000B0B
 
 #WLB(PTR, $0000088C)
@@ -231,9 +210,6 @@ town, just for you!
 We hope you like your\n
 Christmas present!
 <$00>
-
-
-
 
 // Pos: 00000B34
 
@@ -253,9 +229,6 @@ anyone else in this
 room?
 <$00>
 
-
-
-
 // Pos: 00000B59
 
 #WLB(PTR, $00000894)
@@ -263,18 +236,16 @@ room?
 #WHB(PTR, $00000895)
 
 //想うしたの
-想Do you like it,
+想Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-? Your batya drove\n
-all over town for it.\n
-Mama's so happy for
+?\n
+Your batya drove all\n
+over town for it.
 <$0C>
+Mama's so happy for\n
 you!
 <$00>
-
-
-
 
 // Pos: 00000B8A
 
@@ -319,7 +290,4 @@ can't remember what
 <$0C>
 became of it after.
 <$00>
-
-
-
 

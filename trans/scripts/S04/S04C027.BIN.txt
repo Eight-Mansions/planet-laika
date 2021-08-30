@@ -36,9 +36,6 @@ the walls.
 ê∫
 <$00>
 
-
-
-
 // Pos: 000013A8
 
 #WLB(PTR, $000003C0)
@@ -70,9 +67,6 @@ soon. Ahhh, you
 should be careful...
 <$00>
 
-
-
-
 // Pos: 000013F1
 
 #WLB(PTR, $000003F4)
@@ -94,9 +88,6 @@ on?
 ê∫
 <$00>
 
-
-
-
 // Pos: 00001412
 
 #WLB(PTR, $00000434)
@@ -115,9 +106,6 @@ looking for you.
 //ê∫
 ê∫
 <$00>
-
-
-
 
 // Pos: 00001436
 
@@ -146,9 +134,6 @@ crackle...
 ê∫
 <$00>
 
-
-
-
 // Pos: 00001465
 
 #WLB(PTR, $00000424)
@@ -171,9 +156,6 @@ over soon?
 â∆
 <$00>
 
-
-
-
 // Pos: 0000148E
 
 #WLB(PTR, $00000444)
@@ -192,9 +174,6 @@ night will return. I
 saw the white light.
 <$00>
 
-
-
-
 // Pos: 000014B4
 
 #WLB(PTR, $00000464)
@@ -211,9 +190,6 @@ Did you...break the\n
 night?
 <$00>
 
-
-
-
 // Pos: 000014CF
 
 #WLB(PTR, $000004A4)
@@ -229,12 +205,8 @@ Spacer:
 That's a wild thing\n
 to ask. What "break"
 <$0C>
-are you talking\n
-about?
+are you talking about?
 <$00>
-
-
-
 
 // Pos: 000014F5
 
@@ -266,9 +238,6 @@ crackle. Didn't you\n
 go see them?
 <$00>
 
-
-
-
 // Pos: 00001555
 
 #WLB(PTR, $000004F4)
@@ -288,9 +257,6 @@ that Venusian radio\n
 wave stuff.
 <$00>
 
-
-
-
 // Pos: 00001585
 
 #WLB(PTR, $00000504)
@@ -309,9 +275,6 @@ written on your face
 that you're ready to\n
 pop too.
 <$00>
-
-
-
 
 // Pos: 000015AE
 
@@ -338,7 +301,4 @@ Spacer:
 No, it just isn't for\n
 me.
 <$00>
-
-
-
 

@@ -21,9 +21,6 @@ You! What're you\n
 looking for?
 <$00>
 
-
-
-
 // Pos: 0000171C
 
 #WLB(PTR, $00000428)
@@ -38,9 +35,6 @@ Crow:
 \n
 Look, it's open!
 <$00>
-
-
-
 
 // Pos: 00001730
 
@@ -65,8 +59,7 @@ Crow:
 That machine? Oh, the\n
 Space A.M.P.! We use
 <$0C>
-that to gather\n
-energy.
+that to gather energy.
 <$0C><$0B>
 //ÉNÉçÉEÅF
 Crow:
@@ -95,9 +88,6 @@ TVs? Kek!
 âä
 <$00>
 
-
-
-
 // Pos: 000017C9
 
 #WLB(PTR, $000003A0)
@@ -121,9 +111,6 @@ power, kek!
 âä
 <$00>
 
-
-
-
 // Pos: 000017F8
 
 #WLB(PTR, $000009B8)
@@ -139,7 +126,4 @@ Yang:
 This is ghastly! This\n
 is ghastly after all!
 <$00>
-
-
-
 

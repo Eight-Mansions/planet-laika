@@ -43,9 +43,6 @@ I'm Yolanda, got it?\n
 Yo-lan-da!
 <$00>
 
-
-
-
 // Pos: 00002493
 
 #WLB(PTR, $000006D0)
@@ -53,14 +50,11 @@ Yo-lan-da!
 #WHB(PTR, $000006D1)
 
 //˜cŠ    
-˜cŠ
+˜cŠ    
 <$0D>
 //ƒ‰ƒCƒJc ‚»‚±‚É‚¢‚é‚ÌH
 Laika, are you there?
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 000024AC
 
@@ -69,15 +63,12 @@ Laika, are you there?
 #WHB(PTR, $000006ED)
 
 //˜cŠ    
-˜cŠ
+˜cŠ    
 <$0D>
 //‚±‚±‚Íc „‚Ì–²c –²‚Ì’†c
-We're...inside of my\n
-dream.
+We're...inside\n
+of my dream.
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 000024CA
 
@@ -86,15 +77,12 @@ dream.
 #WHB(PTR, $00000709)
 
 //˜cŠ    
-˜cŠ
+˜cŠ    
 <$0D>
 //‚Ç‚ñ‚Ç‚ñ‚Í‚¬æ‚ç‚ê‚Ä‚¢‚­c\n
-I'm getting torn\n
-apart...\n
+I'm getting\n
+torn apart...\n
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 000024E6
 
@@ -103,15 +91,12 @@ apart...\n
 #WHB(PTR, $00000725)
 
 //˜cŠ       
-˜cŠ
+˜cŠ       
 <$0D>
 //„‚ªc‚È‚­‚È‚éc
-I'm...going to\n
-disappear...
+I'm...going\n
+to disappear...
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 000024FE
 
@@ -120,15 +105,12 @@ disappear...
 #WHB(PTR, $00000741)
 
 //˜cŠ    
-˜cŠ
+˜cŠ    
 <$0D>
 //‚¨Šè‚¢Aƒ‰ƒCƒJAs‚©‚È‚¢‚ÅB
-Please, Laika. Don't\n
-leave me!
+Please, Laika.\n
+Don't leave me!
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 0000251B
 
@@ -137,14 +119,11 @@ leave me!
 #WHB(PTR, $0000075D)
 
 //˜cŠ       
-˜cŠ
+˜cŠ       
 <$0D>
 //‚±‚±‚Í^‚ÁˆÃ‚æc
 It's so dark...
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 00002535
 
@@ -164,9 +143,6 @@ Spacer:
 \n
 Jo... Ernie...
 <$00>
-
-
-
 
 // Pos: 0000254E
 
@@ -204,7 +180,4 @@ heard true...? Well,
 okay. I guess we'll\n
 find out.
 <$00>
-
-
-
 

@@ -11,19 +11,18 @@
 
 #WHB(PTR, $0000015D)
 
+
 <$00><$0F>
 //？
 ?
 <$00>
-
-
-
 
 // Pos: 00002645
 
 #WLB(PTR, $000001AC)
 
 #WHB(PTR, $000001AD)
+
 
 <$00><$0F>
 //、ママよ、あなたのママよ。
@@ -37,14 +36,12 @@ I gave you when you
 were 5 years old?
 <$00>
 
-
-
-
 // Pos: 00002676
 
 #WLB(PTR, $000001D8)
 
 #WHB(PTR, $000001D9)
+
 
 <$00>
 //パパはあなたのために一番大きなロケットを\nさがしてきたのよ。\n町中のおもちゃ屋さんを回ったのよ。
@@ -66,14 +63,12 @@ cosmonaut all on your\n
 own.
 <$00>
 
-
-
-
 // Pos: 000026E8
 
 #WLB(PTR, $000001EC)
 
 #WHB(PTR, $000001ED)
+
 
 <$00><$13><$1D><$0B>
 //ヨランダ：
@@ -88,14 +83,12 @@ That's a ghost! A\n
 SICK, FUCKING GHOST!
 <$00>
 
-
-
-
 // Pos: 0000271C
 
 #WLB(PTR, $00000494)
 
 #WHB(PTR, $00000495)
+
 
 <$00><$0B>
 //ガリル：
@@ -122,14 +115,12 @@ such fruitless\n
 endeavors.
 <$00>
 
-
-
-
 // Pos: 00002767
 
 #WLB(PTR, $000004A8)
 
 #WHB(PTR, $000004A9)
+
 
 <$00><$0B>
 //ガリル：
@@ -184,9 +175,6 @@ turn the clock that\n
 you forsook!
 <$00>
 
-
-
-
 // Pos: 00002822
 
 #WLB(PTR, $00000730)
@@ -214,9 +202,6 @@ beloved horse to
 death.
 <$00>
 
-
-
-
 // Pos: 00002871
 
 #WLB(PTR, $00000744)
@@ -236,9 +221,6 @@ Sergei's doing, not
 <$0C>
 mine!
 <$00>
-
-
-
 
 // Pos: 000028A0
 
@@ -283,9 +265,6 @@ Sergei's fault
 because YOU did it!
 <$00>
 
-
-
-
 // Pos: 00002917
 
 #WLB(PTR, $0000076C)
@@ -304,9 +283,6 @@ No, stop! It wasn't\n
 me! IT WASN'T ME!
 <$00>
 
-
-
-
 // Pos: 0000293B
 
 #WLB(PTR, $00000780)
@@ -323,9 +299,6 @@ Ernest! You know you
 <$0C>
 did!
 <$00>
-
-
-
 
 // Pos: 00002964
 
@@ -355,9 +328,6 @@ I could never stoop\n
 down to his level!
 <$00>
 
-
-
-
 // Pos: 000029AB
 
 #WLB(PTR, $00000934)
@@ -376,14 +346,12 @@ pin Sergei as a lowly\n
 criminal.
 <$00>
 
-
-
-
 // Pos: 000029DD
 
 #WLB(PTR, $00000948)
 
 #WHB(PTR, $00000949)
+
 
 <$00><$13><$18><$0B>
 //スペーサー：
@@ -399,14 +367,12 @@ impulse well before I\n
 showed up!
 <$00>
 
-
-
-
 // Pos: 00002A10
 
 #WLB(PTR, $0000095C)
 
 #WHB(PTR, $0000095D)
+
 
 <$00><$0B>
 //ガリル：
@@ -454,14 +420,12 @@ near the fire. He did
 not kill that horse!
 <$00>
 
-
-
-
 // Pos: 00002A98
 
 #WLB(PTR, $00000970)
 
 #WHB(PTR, $00000971)
+
 
 <$00><$13><$18><$0B>
 //スペーサー：
@@ -486,14 +450,12 @@ know I am! I HAVE TO
 BE RIGHT!
 <$00>
 
-
-
-
 // Pos: 00002ADD
 
 #WLB(PTR, $00000984)
 
 #WHB(PTR, $00000985)
+
 
 <$00><$0B>
 //ガリル：
@@ -528,14 +490,12 @@ Galil:
 You FRAMED Sergei!
 <$00>
 
-
-
-
 // Pos: 00002B55
 
 #WLB(PTR, $000009A8)
 
 #WHB(PTR, $000009A9)
+
 
 <$00><$13><$18><$0B>
 //スペーサー：
@@ -559,14 +519,12 @@ It was only a matter\n
 of "when"!
 <$00>
 
-
-
-
 // Pos: 00002B9F
 
 #WLB(PTR, $00000B28)
 
 #WHB(PTR, $00000B29)
+
 
 <$00><$0B>
 //ガリル：
@@ -589,14 +547,12 @@ something that wasn't\n
 very good for him.
 <$00>
 
-
-
-
 // Pos: 00002BE9
 
 #WLB(PTR, $00000B3C)
 
 #WHB(PTR, $00000B3D)
+
 
 <$00><$13><$1D><$0B>
 //ヨランダ：
@@ -620,9 +576,6 @@ shit alcohol that
 <$0C>
 rotted his brain.
 <$00>
-
-
-
 
 // Pos: 00002C35
 
@@ -655,14 +608,12 @@ breakfast to wane his\n
 temper.
 <$00>
 
-
-
-
 // Pos: 00002CAC
 
 #WLB(PTR, $00000B64)
 
 #WHB(PTR, $00000B65)
+
 
 <$00><$13><$1D><$0B>
 //ヨランダ：
@@ -684,14 +635,12 @@ I was doing everyone\n
 a...augh! A fa...vor!
 <$00>
 
-
-
-
 // Pos: 00002CE9
 
 #WLB(PTR, $00000B78)
 
 #WHB(PTR, $00000B79)
+
 
 <$00><$0B>
 //ガリル：
@@ -722,14 +671,12 @@ Galil:
 Was there a reason?
 <$00>
 
-
-
-
 // Pos: 00002D46
 
 #WLB(PTR, $00000B9C)
 
 #WHB(PTR, $00000B9D)
+
 
 <$00><$13><$1D><$0B>
 //ヨランダ：
@@ -741,10 +688,6 @@ The plan was\n
 for...Vladimir to die
 <$0C>
 first! B-but then,\n
-Tanya went\n
-and...AUGH!
+Tanya went and...AUGH!
 <$00>
-
-
-
 

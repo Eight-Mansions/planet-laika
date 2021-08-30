@@ -59,9 +59,6 @@ the day.
 óù
 <$00>
 
-
-
-
 // Pos: 00001899
 
 #WLB(PTR, $00000308)
@@ -84,9 +81,6 @@ will!
 //âs
 âs
 <$00>
-
-
-
 
 // Pos: 000018CF
 
@@ -117,9 +111,6 @@ for right now?
 ê∫
 <$00>
 
-
-
-
 // Pos: 00001919
 
 #WLB(PTR, $00000268)
@@ -136,14 +127,11 @@ East and West are so\n
 weird. They're
 <$0C>
 virtually glued\n
-together.
+together. 
 <$1E>
 //â∆
 â∆
 <$00>
-
-
-
 
 // Pos: 00001945
 
@@ -184,9 +172,6 @@ Brick Road.
 ê∫
 <$00>
 
-
-
-
 // Pos: 000019AC
 
 #WLB(PTR, $0000021C)
@@ -208,7 +193,4 @@ Christmas?
 //â∆
 â∆
 <$00>
-
-
-
 

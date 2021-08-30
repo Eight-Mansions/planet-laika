@@ -36,9 +36,6 @@ this?! Did YOU drag\n
 me here?
 <$00>
 
-
-
-
 // Pos: 000028AE
 
 #WLB(PTR, $00000478)
@@ -63,12 +60,8 @@ But this\n
 tunnel...right. This
 <$0C>
 tunnel leads to his\n
-precious little\n
-"God".
+precious little "God".
 <$00>
-
-
-
 
 // Pos: 000028F5
 
@@ -112,9 +105,6 @@ Now, which way's the\n
 exit...? Is it over\n
 here?
 <$00>
-
-
-
 
 // Pos: 0000299C
 
@@ -196,9 +186,6 @@ not me! I never did\n
 anythin'!
 <$00>
 
-
-
-
 // Pos: 00002AA0
 
 #WLB(PTR, $0000063C)
@@ -217,9 +204,6 @@ they're going to\n
 catch me.
 <$00>
 
-
-
-
 // Pos: 00002AE2
 
 #WLB(PTR, $00000684)
@@ -235,9 +219,6 @@ Little:
 Ugh, that again... I\n
 hate it, I HATE IT!
 <$00>
-
-
-
 
 // Pos: 00002B04
 
@@ -269,9 +250,6 @@ a place like this?!
 Did YOU drag me here?
 <$00>
 
-
-
-
 // Pos: 00002B53
 
 #WLB(PTR, $000003F4)
@@ -291,9 +269,6 @@ seeing it. So, it's\n
 real? The Martians\n
 really left it?
 <$00>
-
-
-
 
 // Pos: 00002B82
 
@@ -328,9 +303,6 @@ Little:
 Did YOU drag me here?
 <$00>
 
-
-
-
 // Pos: 00002BD8
 
 #WLB(PTR, $000004A4)
@@ -349,9 +321,6 @@ We came... Oh, hold
 on! I get it, you're\n
 not Liever!
 <$00>
-
-
-
 
 // Pos: 00002C0A
 
@@ -372,9 +341,6 @@ This...yes, this is\n
 where his "God" is.
 <$00>
 
-
-
-
 // Pos: 00002C4B
 
 #WLB(PTR, $00000554)
@@ -393,9 +359,6 @@ said we'd meet God
 here... That wasn't a\n
 prank, was it?
 <$00>
-
-
-
 
 // Pos: 00002C89
 
@@ -418,9 +381,9 @@ Evil Mind?
 Little:
 <$0D>
 //\nあれが神様だと…笑わせやがる。\n俺をおとしいれようっていうんだ。\n俺は何もしちゃいねぇ、そうだろ、
-Please, don't make me\n
-laugh! HE tricked\n
-you, not me!
+Please, don't\n
+make me laugh! HE\n
+tricked you, not me!
 <$0C><$0B>
 //リトル：
 Little:
@@ -446,14 +409,12 @@ exit...? Is it over\n
 here?
 <$00>
 
-
-
-
 // Pos: 00002D38
 
 #WLB(PTR, $000000E8)
 
 #WHB(PTR, $000000E9)
+
 
 <$12><$1F><$00>
 //場
@@ -463,7 +424,4 @@ here?
 He disappeared into\n
 the sandstorm.
 <$00>
-
-
-
 

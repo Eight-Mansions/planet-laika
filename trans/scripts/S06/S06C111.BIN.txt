@@ -21,9 +21,6 @@ Are you two going to\n
 live here?
 <$00>
 
-
-
-
 // Pos: 000023ED
 
 #WLB(PTR, $00000420)
@@ -41,9 +38,6 @@ enough jokes about
 <$0C>
 this for one day.
 <$00>
-
-
-
 
 // Pos: 00002409
 
@@ -63,9 +57,6 @@ you really are going
 to live here, whoosh.
 <$00>
 
-
-
-
 // Pos: 00002433
 
 #WLB(PTR, $00000488)
@@ -81,9 +72,6 @@ April:
 We only came here to\n
 find Noon.
 <$00>
-
-
-
 
 // Pos: 0000244F
 
@@ -104,9 +92,6 @@ no houses for you!\n
 Whoosh, whoosh.
 <$00>
 
-
-
-
 // Pos: 00002488
 
 #WLB(PTR, $0000071C)
@@ -125,9 +110,6 @@ person because he is
 the elder, whoosh.
 <$00>
 
-
-
-
 // Pos: 000024B3
 
 #WLB(PTR, $00000740)
@@ -140,12 +122,8 @@ Yolanda:
 <$0D>
 //\nそう、立派ね。よかったわ。
 \n
-Yeah. Praise the\n
-Lord.
+Yeah. Praise the Lord.
 <$00>
-
-
-
 
 // Pos: 000024CE
 
@@ -163,9 +141,6 @@ Are you two going to\n
 live here?
 <$00>
 
-
-
-
 // Pos: 000024ED
 
 #WLB(PTR, $00000628)
@@ -181,9 +156,6 @@ Yolanda:
 No, this shit's\n
 creepy.
 <$00>
-
-
-
 
 // Pos: 00002503
 
@@ -203,9 +175,6 @@ you really are going
 to live here, whoosh.
 <$00>
 
-
-
-
 // Pos: 0000252D
 
 #WLB(PTR, $00000690)
@@ -223,9 +192,6 @@ came here to find
 <$0C>
 Noon.
 <$00>
-
-
-
 
 // Pos: 00002551
 
@@ -246,9 +212,6 @@ no houses for you!\n
 Whoosh, whoosh.
 <$00>
 
-
-
-
 // Pos: 0000258A
 
 #WLB(PTR, $000006D4)
@@ -263,9 +226,6 @@ Yolanda:
 \n
 Let's hurry. Come on!
 <$00>
-
-
-
 
 // Pos: 000025A0
 
@@ -282,9 +242,6 @@ Yolanda:
 Do you know where the\n
 elder's cottage is?
 <$00>
-
-
-
 
 // Pos: 000025BD
 
@@ -304,9 +261,6 @@ here to find Noo...!
 I mean, Elder Noon.
 <$00>
 
-
-
-
 // Pos: 000025DC
 
 #WLB(PTR, $00000564)
@@ -321,9 +275,6 @@ Yolanda:
 \n
 Wow, rude!
 <$00>
-
-
-
 
 // Pos: 000025F1
 
@@ -341,9 +292,6 @@ Why don't you try\n
 using the front door?
 <$00>
 
-
-
-
 // Pos: 0000260F
 
 #WLB(PTR, $0000076C)
@@ -359,9 +307,6 @@ Oxygen Miner 2：
 Are you two really\n
 going to live here?
 <$00>
-
-
-
 
 // Pos: 0000262F
 
@@ -382,9 +327,6 @@ I'd never live in\n
 this dump.
 <$00>
 
-
-
-
 // Pos: 00002657
 
 #WLB(PTR, $000007B4)
@@ -402,9 +344,6 @@ person. He made this
 <$0C>
 town, whoosh.
 <$00>
-
-
-
 
 // Pos: 00002682
 
@@ -424,9 +363,6 @@ a strange engraving
 on the wall. Let me\n
 see...
 <$00>
-
-
-
 
 // Pos: 000026A5
 
@@ -468,12 +404,10 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00>
-
-
-
 
 // Pos: 00002758
 
@@ -494,9 +428,6 @@ like that isn't very\n
 attractive, you know.
 <$00>
 
-
-
-
 // Pos: 0000277E
 
 #WLB(PTR, $000010D4)
@@ -511,9 +442,6 @@ Yolanda:
 \n
 Huh?
 <$00>
-
-
-
 
 // Pos: 0000278C
 
@@ -530,9 +458,6 @@ Yolanda:
 Oh! Uh, i-it's\n
 nothing! I'm good!
 <$00>
-
-
-
 
 // Pos: 000027AC
 
@@ -597,9 +522,6 @@ little metaphor from\n
 Revelations too!)
 <$00>
 
-
-
-
 // Pos: 0000287A
 
 #WLB(PTR, $0000116C)
@@ -616,12 +538,8 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
-
-
-
 
 // Pos: 000028AE
 
@@ -676,9 +594,6 @@ reincarnation? I dare\n
 say, I am confused.
 <$00>
 
-
-
-
 // Pos: 00002960
 
 #WLB(PTR, $00001184)
@@ -698,9 +613,6 @@ what me and the guys\n
 are.
 <$00>
 
-
-
-
 // Pos: 00002987
 
 #WLB(PTR, $000011C8)
@@ -713,7 +625,9 @@ are.
 //\n問顆は心も欲しがるかということだ。\n
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
+
 <$0B>
 //トーマス：
 Thomas:
@@ -749,12 +663,10 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00>
-
-
-
 
 // Pos: 00002A51
 
@@ -785,7 +697,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

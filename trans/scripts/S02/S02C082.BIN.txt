@@ -11,23 +11,22 @@
 
 #WHB(PTR, $00000405)
 
+
 <$00><$11>
 //顔先生、手術で
-Doctor, can
+Doctor, can 
 <$0F>
 //は助かるのですか？\n
-be saved through\n
-surgery?
+ be saved\n
+through surgery?
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 00002083
 
 #WLB(PTR, $0000041C)
 
 #WHB(PTR, $0000041D)
+
 
 <$00><$13><$13><$11>
 //子フェニックス：
@@ -38,7 +37,4 @@ surgery?
 NO, STOP! Don't kill\n
 me! I'm in here!
 <$0E><$78><$17><$00>
-
-
-
 

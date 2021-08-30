@@ -23,9 +23,6 @@ myself into this.
 Hell if I know...
 <$00>
 
-
-
-
 // Pos: 00002678
 
 #WLB(PTR, $00000174)
@@ -45,9 +42,6 @@ Even I lose sight of\n
 my...self...
 <$00>
 
-
-
-
 // Pos: 000026A9
 
 #WLB(PTR, $0000024C)
@@ -63,9 +57,6 @@ Bull:
 Shit, my senses are\n
 all out of whack.
 <$00>
-
-
-
 
 // Pos: 000026C3
 
@@ -93,8 +84,7 @@ The name's Bull. I\n
 don't exactly care if
 <$0C>
 this is the first\n
-time we've met or\n
-not.
+time we've met or not.
 <$0C><$0B>
 //ÉuÉãÅF
 Bull:
@@ -117,9 +107,6 @@ The hypnotherapy\n
 helps me forget.
 <$00>
 
-
-
-
 // Pos: 00002755
 
 #WLB(PTR, $00000274)
@@ -140,9 +127,6 @@ up! Let my forget\n
 myself!
 <$00>
 
-
-
-
 // Pos: 0000278F
 
 #WLB(PTR, $00000314)
@@ -158,12 +142,8 @@ Bull:
 Hmph, on top of\n
 everything else I
 <$0C>
-hate...I hate my\n
-self.
+hate...I hate my self.
 <$00>
-
-
-
 
 // Pos: 000027B1
 
@@ -198,7 +178,4 @@ I've got stuff I'd
 <$0C>
 rather forget too!
 <$00>
-
-
-
 

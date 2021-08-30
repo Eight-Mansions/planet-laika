@@ -28,9 +28,6 @@ Are you forgetting\n
 something?
 <$00>
 
-
-
-
 // Pos: 00000EC1
 
 #WLB(PTR, $0000016C)
@@ -40,16 +37,14 @@ something?
 <$12>
 //\n
 \n
+
 <$0B>
 //   
-
+   
 <$0D>
 //フェブラリーを手に入れた。
 February acquired.
 <$00>
-
-
-
 
 // Pos: 00000ED8
 
@@ -60,16 +55,14 @@ February acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //    
-
+    
 <$0D>
 //マーチを手に入れた。
 March acquired.
 <$00>
-
-
-
 
 // Pos: 00000EED
 
@@ -80,16 +73,14 @@ March acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //     
-
+     
 <$0D>
 //メイを手に入れた。
 May acquired.
 <$00>
-
-
-
 
 // Pos: 00000F02
 
@@ -100,16 +91,14 @@ May acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //    
-
+    
 <$0D>
 //ジュンを手に入れた。
 June acquired.
 <$00>
-
-
-
 
 // Pos: 00000F17
 
@@ -120,16 +109,14 @@ June acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //    
-
+    
 <$0D>
 //ジュライを手に入れた。
 July acquired.
 <$00>
-
-
-
 
 // Pos: 00000F2D
 
@@ -140,16 +127,14 @@ July acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //   
-
+   
 <$0D>
 //オーガストを手に入れた。
 August acquired.
 <$00>
-
-
-
 
 // Pos: 00000F43
 
@@ -160,16 +145,14 @@ August acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //   
-
+   
 <$0D>
 //セプテンバーを手に入れた。
 September acquired.
 <$00>
-
-
-
 
 // Pos: 00000F5A
 
@@ -180,16 +163,14 @@ September acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //   
-
+   
 <$0D>
 //ノベンバーを手に入れた。
 November acquired.
 <$00>
-
-
-
 
 // Pos: 00000F70
 
@@ -200,9 +181,10 @@ November acquired.
 <$12>
 //\n
 \n
+
 <$0B>
 //   
-
+   
 <$0D>
 //ディセンバーを手に入れた。
 December acquired.
@@ -211,9 +193,6 @@ December acquired.
 What a curious dream\n
 you must be having.
 <$00>
-
-
-
 
 // Pos: 00000FA1
 
@@ -247,9 +226,6 @@ Let Agatha have a
 read.
 <$00>
 
-
-
-
 // Pos: 00001010
 
 #WLB(PTR, $0000017C)
@@ -266,9 +242,6 @@ too "cold" for\n
 playtime.
 <$00>
 
-
-
-
 // Pos: 00001049
 
 #WLB(PTR, $000001CC)
@@ -278,15 +251,14 @@ playtime.
 //立う８月かぁ… 寝付けない夜だね。\nなんだか騒ぎが起きてるみたいだけど、\nだいじょうぶなの？
 立うAugust's long\n
 nights welcome sleep,\n
-but\n
+but
+<$0C>
 a commotion keeps you\n
 up one night.\n
-Is everything all\n
+Is everything all
+<$0C>
 right?
 <$00>
-
-
-
 
 // Pos: 0000107F
 
@@ -309,9 +281,6 @@ this is the calm
 before the storm.
 <$00>
 
-
-
-
 // Pos: 000010C4
 
 #WLB(PTR, $0000026C)
@@ -327,9 +296,6 @@ nine months. Was it\n
 peace?
 <$00>
 
-
-
-
 // Pos: 000010F6
 
 #WLB(PTR, $000002BC)
@@ -340,9 +306,6 @@ peace?
 状What an ominous mess\n
 of a month this is!
 <$00>
-
-
-
 
 // Pos: 00001115
 
@@ -374,9 +337,6 @@ way around. It's\n
 worth a look.
 <$00>
 
-
-
-
 // Pos: 00001193
 
 #WLB(PTR, $0000039C)
@@ -388,9 +348,6 @@ worth a look.
 month. A good month\n
 for planning ahead.
 <$00>
-
-
-
 
 // Pos: 000011AF
 
@@ -406,7 +363,4 @@ unpleasant, but...
 Oh! There's nothing\n
 after this.
 <$00>
-
-
-
 

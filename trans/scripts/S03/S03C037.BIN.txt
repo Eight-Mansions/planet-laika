@@ -42,9 +42,6 @@ buried 'em,. But I\n
 was used, get it?
 <$00>
 
-
-
-
 // Pos: 000024B7
 
 #WLB(PTR, $0000123C)
@@ -75,9 +72,6 @@ Why take twins？\n
 Did Herod sin too？\n
 Where is April？
 <$00><$17><$00>
-
-
-
 
 // Pos: 00002511
 
@@ -130,9 +124,6 @@ existence wiped out,
 is all.
 <$00>
 
-
-
-
 // Pos: 000025A7
 
 #WLB(PTR, $00001290)
@@ -169,8 +160,7 @@ Herod was cursed to\n
 have nightmares since
 <$0C>
 his birth. His fears\n
-have only grown\n
-since.
+have only grown since.
 <$0C><$0B>
 //リトル：
 Little:
@@ -183,9 +173,6 @@ expand and expand,
 until it pops him\n
 like a balloon.
 <$00>
-
-
-
 
 // Pos: 0000264C
 
@@ -229,9 +216,6 @@ Sufferin' in her own\n
 mind.
 <$00>
 
-
-
-
 // Pos: 000026C5
 
 #WLB(PTR, $000012B4)
@@ -247,8 +231,7 @@ Little:
 Man, I can't wait to\n
 put this behind me!
 <$0C>
-Come on, show the\n
-way.
+Come on, show the way.
 <$0C><$0B>
 //リトル：
 Little:
@@ -271,9 +254,6 @@ my head are getting
 worse! Goddammit,\n
 stop!
 <$00>
-
-
-
 
 // Pos: 00002735
 
@@ -322,9 +302,6 @@ DIALOGUE WAS?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 000027CB
 
 #WLB(PTR, $000006B0)
@@ -347,9 +324,6 @@ MADE FOR HOUSEWORK!\n
 DON'T GET YOURSELF\n
 DIRTY."
 <$00>
-
-
-
 
 // Pos: 00002802
 
@@ -392,9 +366,6 @@ PURPOSE I WAS CREATED\n
 TO SERVE? WHO COULD\n
 SAY SUCH A THING?
 <$00>
-
-
-
 
 // Pos: 00002891
 
@@ -450,9 +421,6 @@ AND HAD FORGOTTEN IT\n
 LONG AGO.
 <$00>
 
-
-
-
 // Pos: 00002943
 
 #WLB(PTR, $00000790)
@@ -482,9 +450,6 @@ PLEASE WAIT, JUST A\n
 LITTLE LONGER.
 <$00>
 
-
-
-
 // Pos: 00002990
 
 #WLB(PTR, $00000A98)
@@ -501,9 +466,7 @@ Olympia #2:
 //\nあーら、なんて、こんなコトバ、\nツカってみたいわ。
 \n
 I WANT TO TRY TALKING\n
-LIKE YOU. SEE?
-<$0C>
-"####!"
+LIKE YOU. SEE? "####!"
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -607,8 +570,7 @@ I AM GLAD! YOU ARE\n
 HEAD-STRONG, YOU
 <$0C>
 KNOW? FAR\n
-HEAD-STRONGER THAN\n
-ME.
+HEAD-STRONGER THAN ME.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -618,12 +580,8 @@ Olympia #2:
 AFTER THIS\n
 CONVERSATION, I WILL
 <$0C>
-GET HEAD-STRONGER\n
-TOO.
+GET HEAD-STRONGER TOO.
 <$00>
-
-
-
 
 // Pos: 00002B25
 
@@ -667,9 +625,6 @@ WOMAN... WOMAN,
 <$0C>
 WOMAN, WOMAN...
 <$00>
-
-
-
 
 // Pos: 00002B9B
 
@@ -796,9 +751,6 @@ HERE. SIZE THIS UP\n
 INSTEAD.
 <$00>
 
-
-
-
 // Pos: 00002D27
 
 #WLB(PTR, $00000A2C)
@@ -843,9 +795,6 @@ WASTE... TO SAVE, OR
 <$0C>
 TO WASTE...
 <$00>
-
-
-
 
 // Pos: 00002D94
 
@@ -975,9 +924,6 @@ HELP YOU RETURN TO\n
 YOUR SENSES.
 <$00>
 
-
-
-
 // Pos: 00002F21
 
 #WLB(PTR, $00000A68)
@@ -1023,9 +969,6 @@ CRAZY... VENUS,
 PSYCHO, CRAZY...
 <$00>
 
-
-
-
 // Pos: 00002FA4
 
 #WLB(PTR, $00000A84)
@@ -1064,9 +1007,6 @@ FOR YOU? I AM NOT SO\n
 SURE I DO.
 <$00>
 
-
-
-
 // Pos: 00002FEB
 
 #WLB(PTR, $00000A90)
@@ -1093,9 +1033,6 @@ Olympia #2:
 YES, VERY DAMN. TRY\n
 AGAIN LATER.
 <$00>
-
-
-
 
 // Pos: 00003020
 
@@ -1128,9 +1065,6 @@ WILL STILL LOOK IT IN\n
 THE MOUTH!
 <$00>
 
-
-
-
 // Pos: 0000306E
 
 #WLB(PTR, $00000A18)
@@ -1154,12 +1088,8 @@ Olympia #2:
 <$0D>
 //\nこれでオワりだ、アトでコい。
 \n
-THAT IS IT, I AM\n
-DONE!
+THAT IS IT, I AM DONE!
 <$00>
-
-
-
 
 // Pos: 000030AC
 
@@ -1192,9 +1122,6 @@ THIS OPPORTUNITY TO
 SEE THE WORLD THROUGH\n
 ANOTHER SET OF EYES.
 <$00>
-
-
-
 
 // Pos: 000030FF
 
@@ -1229,9 +1156,6 @@ TO SHARE IT ALL THE\n
 DAMN TIME.
 <$00>
 
-
-
-
 // Pos: 0000314E
 
 #WLB(PTR, $0000092C)
@@ -1254,9 +1178,6 @@ NOT HAVE ANYTHING FOR\n
 YOU.
 <$00>
 
-
-
-
 // Pos: 0000317F
 
 #WLB(PTR, $0000082C)
@@ -1275,8 +1196,7 @@ Olympia #2:
 SOMETIMES, MY HEART\n
 STOPS, AND NEEDS A
 <$0C>
-LITTLE TIME TO\n
-REPAIR.
+LITTLE TIME TO REPAIR.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -1289,9 +1209,6 @@ MAKE A MUCH HARDER
 TIME OF THIS. HUMANS\n
 BREAK EASILY.
 <$00>
-
-
-
 
 // Pos: 000031E0
 
@@ -1326,9 +1243,6 @@ BUT I DOUBT IT IS ILL\n
 WILL ALONE.
 <$00>
 
-
-
-
 // Pos: 0000323F
 
 #WLB(PTR, $00000880)
@@ -1361,9 +1275,6 @@ LIFE OUT OF\n
 EVERYTHING!
 <$00>
 
-
-
-
 // Pos: 00003291
 
 #WLB(PTR, $00000864)
@@ -1393,9 +1304,6 @@ Olympia #2:
 I AM ALSO GETTING\n
 HINTS OF TEETH.
 <$00>
-
-
-
 
 // Pos: 000032E5
 
@@ -1428,9 +1336,6 @@ BEST THAT I SPECTATE
 FROM OUT HERE.
 <$00>
 
-
-
-
 // Pos: 0000332D
 
 #WLB(PTR, $000023B0)
@@ -1440,12 +1345,9 @@ FROM OUT HERE.
 <$10>
 //\n   ユニバーサルキットを手に入れた。
 \n
-Universal Kit\n
+   Universal Kit\n
 acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00003348
 
@@ -1456,11 +1358,9 @@ acquired.
 <$10>
 //\n     マーズキットを手に入れた。
 \n
-Mars Kit acquired.
+     Mars Kit\n
+acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00003362
 
@@ -1471,11 +1371,9 @@ Mars Kit acquired.
 <$10>
 //\n    アストロキットを手に入れた。
 \n
-Astro Kit acquired.
+     Astro Kit\n
+acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 0000337C
 
@@ -1486,11 +1384,9 @@ Astro Kit acquired.
 <$10>
 //\n    プラネットキットを手に入れた。
 \n
-Planet Kit acquired.
+     Planet Kit\n
+acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00003397
 
@@ -1504,9 +1400,6 @@ Planet Kit acquired.
 The item bag is full!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 000033A9
 
 #WLB(PTR, $00001710)
@@ -1517,9 +1410,6 @@ The item bag is full!
 場PHumiliating, isn't\n
 it, Ernest?
 <$00>
-
-
-
 
 // Pos: 000033BA
 
@@ -1536,9 +1426,6 @@ your tail between\n
 your legs.
 <$00>
 
-
-
-
 // Pos: 000033E8
 
 #WLB(PTR, $00001760)
@@ -1551,9 +1438,6 @@ where you were beaten\n
 to a pulp?
 <$00>
 
-
-
-
 // Pos: 00003402
 
 #WLB(PTR, $00001770)
@@ -1565,9 +1449,6 @@ to a pulp?
 find out where the\n
 winner is now?
 <$00>
-
-
-
 
 // Pos: 0000341D
 
@@ -1583,7 +1464,4 @@ times over. Show me
 your power! Show me\n
 your horror!
 <$00>
-
-
-
 

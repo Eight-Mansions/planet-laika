@@ -33,9 +33,6 @@ strange ritual again?
 Wouldn't doubt it.
 <$00>
 
-
-
-
 // Pos: 0000262F
 
 #WLB(PTR, $00000150)
@@ -66,9 +63,6 @@ fault Red went crazy
 too.
 <$00>
 
-
-
-
 // Pos: 0000267C
 
 #WLB(PTR, $00000184)
@@ -87,9 +81,6 @@ so good. It's like
 there's a...nother\n
 me...
 <$00>
-
-
-
 
 // Pos: 000026A2
 
@@ -132,9 +123,6 @@ can take me on, got
 it?
 <$00>
 
-
-
-
 // Pos: 000026EE
 
 #WLB(PTR, $00000350)
@@ -152,7 +140,4 @@ the more they bark.
 <$0C>
 I'm not like that.
 <$00>
-
-
-
 

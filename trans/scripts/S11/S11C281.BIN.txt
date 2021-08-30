@@ -62,9 +62,6 @@ But we? We are\n
 different, you see.
 <$00>
 
-
-
-
 // Pos: 00001CC6
 
 #WLB(PTR, $00000418)
@@ -91,9 +88,6 @@ at the right angle to\n
 face Venus itself.
 <$00>
 
-
-
-
 // Pos: 00001D06
 
 #WLB(PTR, $000004D0)
@@ -109,8 +103,7 @@ Yang:
 The frail of mind\n
 will answer to
 <$0C>
-Judgement soon\n
-enough.
+Judgement soon enough.
 <$0C><$0B>
 //ÉÑÉìÉOÅF
 Yang:
@@ -133,9 +126,6 @@ begin our experiment.
 //óù
 óù
 <$00>
-
-
-
 
 // Pos: 00001D72
 
@@ -180,9 +170,6 @@ start our experiment!
 âs
 <$00>
 
-
-
-
 // Pos: 00001DEE
 
 #WLB(PTR, $00000F14)
@@ -217,9 +204,6 @@ Earth?
 Earth
 <$00><$17><$00>
 
-
-
-
 // Pos: 00001E73
 
 #WLB(PTR, $00000F40)
@@ -252,9 +236,6 @@ between planets when\n
 you're a plasma.
 <$00>
 
-
-
-
 // Pos: 00001EDA
 
 #WLB(PTR, $00000F34)
@@ -285,20 +266,16 @@ names are always in a\n
 stir.
 <$00>
 
-
-
-
 // Pos: 00001F3F
 
 #WLB(PTR, $00000F58)
 
 #WHB(PTR, $00000F59)
 
+
 <$00><$11>
-íN
+//íN
 <$1E><$17><$00>
-
-
 
 // Pos: 00001F46
 
@@ -329,7 +306,8 @@ in screwing around.
 <$0C>
 They shouldn't\n
 underestimate the\n
-Venusians, but they\n
+Venusians, but they
+<$0C>
 do.
 <$0C><$0B>
 //É}ÉEÉìÉeÉìÅF
@@ -344,20 +322,16 @@ I'll give you the PIN\n
 to for the autolock.
 <$00>
 
-
-
-
 // Pos: 00001FFC
 
 #WLB(PTR, $00000F7C)
 
 #WHB(PTR, $00000F7D)
 
+
 <$00><$11>
-íN
+//íN
 <$1E><$17><$00>
-
-
 
 // Pos: 00002003
 
@@ -381,9 +355,6 @@ autolock for you!
 óù
 <$00>
 
-
-
-
 // Pos: 00002032
 
 #WLB(PTR, $00000FE0)
@@ -406,9 +377,6 @@ believe.
 //âs
 âs
 <$00>
-
-
-
 
 // Pos: 00002074
 
@@ -444,9 +412,6 @@ Wanna hear it?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 000020E3
 
 #WLB(PTR, $00000ECC)
@@ -460,15 +425,13 @@ Mountain:
 //\nÇRÅDÇPÇSÇPÇTÇXÇQÇUÇTÇRÇTÇWÇXÇVÇXÇR\nÇQÇRÇWÇSÇUÇQÇUÇSÇRÇRÇWÇRÇQÇVÇXÅB
 \n
 "Three-point-141 592\n
-653 589 793\n
+653 589 793
+<$0C>
 238 462 643 383 279!"
 <$1E>
 //óù
 óù
 <$00>
-
-
-
 
 // Pos: 00002113
 
@@ -490,9 +453,6 @@ solve, not yours!
 //âs
 âs
 <$00>
-
-
-
 
 // Pos: 0000213B
 
@@ -525,7 +485,4 @@ experiment!
 //óù
 óù
 <$00>
-
-
-
 

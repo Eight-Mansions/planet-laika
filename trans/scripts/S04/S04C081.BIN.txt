@@ -20,9 +20,6 @@ medicine on youe face
 now.
 <$00>
 
-
-
-
 // Pos: 00001E72
 
 #WLB(PTR, $000001E8)
@@ -33,9 +30,6 @@ now.
 //眠いよ…
 But I'm sleepy...
 <$00>
-
-
-
 
 // Pos: 00001E79
 
@@ -60,9 +54,6 @@ your face. It'll make\n
 you feel good.
 <$00>
 
-
-
-
 // Pos: 00001EDA
 
 #WLB(PTR, $00000218)
@@ -73,9 +64,6 @@ you feel good.
 //…
 ...
 <$00>
-
-
-
 
 // Pos: 00001EDD
 
@@ -89,9 +77,6 @@ What are you waiting\n
 for? Get your ass\n
 over here!
 <$00>
-
-
-
 
 // Pos: 00001EF2
 
@@ -112,9 +97,6 @@ forcing cosmetic\n
 surgery on him?!
 <$00>
 
-
-
-
 // Pos: 00001F17
 
 #WLB(PTR, $00000274)
@@ -125,9 +107,6 @@ surgery on him?!
 //ダンスの時間だ。
 It's time to dance!
 <$00>
-
-
-
 
 // Pos: 00001F23
 
@@ -145,9 +124,6 @@ Uncle's in the mood,\n
 Cosmas. Uncle's in\n
 the mood.
 <$00>
-
-
-
 
 // Pos: 00001F57
 
@@ -169,9 +145,6 @@ You're so damn cute.
 Uncle. I'm sleepy.\n
 Let me sleep...
 <$00>
-
-
-
 
 // Pos: 00001F86
 
@@ -208,9 +181,6 @@ turn a blind eye to\n
 it.
 <$00>
 
-
-
-
 // Pos: 00001FCB
 
 #WLB(PTR, $000008B4)
@@ -230,9 +200,6 @@ the boy in there? I\n
 feel so bad...
 <$00>
 
-
-
-
 // Pos: 00001FF2
 
 #WLB(PTR, $00000738)
@@ -251,9 +218,6 @@ PIN from Mountain.
 He's over at Psycho\n
 Lab.
 <$00>
-
-
-
 
 // Pos: 0000201F
 
@@ -279,9 +243,6 @@ were supposed to\n
 enter?
 <$00>
 
-
-
-
 // Pos: 00002051
 
 #WLB(PTR, $000004E0)
@@ -297,12 +258,8 @@ April:
 What in the...?! THEY\n
 USE A SINGLE DIGIT
 <$0C>
-NUMBER FOR THEIR\n
-PIN?!
+NUMBER FOR THEIR PIN?!
 <$00>
-
-
-
 
 // Pos: 00002071
 
@@ -310,13 +267,11 @@ PIN?!
 
 #WHB(PTR, $000004FD)
 
+
 <$00>
 //誰だ？
 Who's out there?
 <$00>
-
-
-
 
 // Pos: 00002077
 
@@ -337,22 +292,17 @@ Force. We came here\n
 from Earth!
 <$00>
 
-
-
-
 // Pos: 000020A6
 
 #WLB(PTR, $00000554)
 
 #WHB(PTR, $00000555)
 
+
 <$00>
 //何の用だ？
 For?
 <$00>
-
-
-
 
 // Pos: 000020AE
 
@@ -367,13 +317,8 @@ April:
 //\nメディスンマンの方にお会いしたくて…
 \n
 We're here to speak\n
-with the medicine
-<$0C>
-men.
+with the medicine men.
 <$00>
-
-
-
 
 // Pos: 000020CD
 
@@ -381,13 +326,11 @@ men.
 
 #WHB(PTR, $00000589)
 
+
 <$00>
 //…
 ...
 <$00>
-
-
-
 
 // Pos: 000020D0
 
@@ -408,23 +351,18 @@ but lost touch with\n
 our companions.
 <$00>
 
-
-
-
 // Pos: 00002109
 
 #WLB(PTR, $000005AC)
 
 #WHB(PTR, $000005AD)
 
+
 <$00>
 //ロッジには誰も来ない。
 No one enters the\n
 lodge.
 <$00>
-
-
-
 
 // Pos: 00002118
 
@@ -456,14 +394,12 @@ our companions\n
 disappeared to.
 <$00>
 
-
-
-
 // Pos: 0000215A
 
 #WLB(PTR, $000005D0)
 
 #WHB(PTR, $000005D1)
+
 
 <$00>
 //マウンテン！？ あいつはインチキだ。\nあんなやつにたよってはいけない。
@@ -473,9 +409,6 @@ listen to anything he
 <$0C>
 says!
 <$00>
-
-
-
 
 // Pos: 0000217F
 
@@ -493,22 +426,17 @@ Then you're the only\n
 ones we can count on!
 <$00>
 
-
-
-
 // Pos: 00002196
 
 #WLB(PTR, $000005F4)
 
 #WHB(PTR, $000005F5)
 
+
 <$00>
 //…入れ。
 ...Come in.
 <$00>
-
-
-
 
 // Pos: 0000219D
 
@@ -528,7 +456,4 @@ this door. I wonder
 what kind of person\n
 White Eagle is.
 <$00>
-
-
-
 

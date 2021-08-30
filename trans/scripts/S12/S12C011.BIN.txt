@@ -37,9 +37,6 @@ in the wall there\n
 started glowing.
 <$00>
 
-
-
-
 // Pos: 0000109D
 
 #WLB(PTR, $000001F8)
@@ -68,7 +65,8 @@ mongrel must've
 <$0C>
 become one with the\n
 guy buried in the\n
-wall. This can't be\n
+wall. This can't be
+<$0C>
 good!
 <$0C><$0B>
 //ÉNÉçÉEÅF
@@ -93,9 +91,6 @@ for
 dying...Jeremiah,"\n
 over and over again!
 <$00>
-
-
-
 
 // Pos: 0000113B
 
@@ -138,9 +133,6 @@ power! The source of
 wisdom!
 <$00>
 
-
-
-
 // Pos: 000011B5
 
 #WLB(PTR, $00000280)
@@ -174,9 +166,6 @@ fainted.
 óù
 <$00>
 
-
-
-
 // Pos: 0000120D
 
 #WLB(PTR, $00000310)
@@ -197,7 +186,4 @@ stone to protect me.
 //âs
 âs
 <$00>
-
-
-
 

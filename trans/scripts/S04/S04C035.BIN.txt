@@ -21,9 +21,6 @@ Hey, you! What did\n
 you do with Cosmas?
 <$00>
 
-
-
-
 // Pos: 00000FCA
 
 #WLB(PTR, $00000500)
@@ -65,9 +62,6 @@ this, I'll end you\n
 right here!
 <$00>
 
-
-
-
 // Pos: 00001036
 
 #WLB(PTR, $000008CC)
@@ -89,7 +83,4 @@ understand.
 //’†
 ’†
 <$00>
-
-
-
 

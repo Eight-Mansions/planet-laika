@@ -21,9 +21,6 @@ I can see it!\n
 That's the Face!
 <$00>
 
-
-
-
 // Pos: 0000281F
 
 #WLB(PTR, $00000E40)
@@ -39,9 +36,6 @@ April:
 It...really does\n
 looks like a face.
 <$00>
-
-
-
 
 // Pos: 00002831
 
@@ -60,9 +54,6 @@ human mother could
 <$0C>
 love!
 <$00>
-
-
-
 
 // Pos: 00002853
 
@@ -83,9 +74,6 @@ we wouldn't forget\n
 the faces we had?
 <$00>
 
-
-
-
 // Pos: 00002878
 
 #WLB(PTR, $00000E70)
@@ -104,9 +92,6 @@ It's their fault
 we're in this mess!
 <$00>
 
-
-
-
 // Pos: 00002892
 
 #WLB(PTR, $00000E80)
@@ -123,9 +108,6 @@ All right, everyone.\n
 Get ready to land!
 <$00>
 
-
-
-
 // Pos: 000028B5
 
 #WLB(PTR, $000010BC)
@@ -139,12 +121,10 @@ Noon:
 //\n何だ！この紫色のは何だ！ 煙か？
 \n
 What's all this\n
-purple fluff?\n
+purple fluff?
+<$0C>
 Is it...smoke?!
 <$00>
-
-
-
 
 // Pos: 000028D1
 
@@ -163,9 +143,6 @@ checking that landing
 <$0C>
 point one more time?
 <$00>
-
-
-
 
 // Pos: 000028FF
 
@@ -201,7 +178,4 @@ surface at this rate!
 <$0C>
 Switch it off auto!
 <$00>
-
-
-
 

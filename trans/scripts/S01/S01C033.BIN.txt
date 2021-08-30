@@ -24,9 +24,6 @@ itself... Jeremiah\n
 is...talking to me...
 <$00>
 
-
-
-
 // Pos: 00002D71
 
 #WLB(PTR, $00002CF8)
@@ -36,8 +33,7 @@ is...talking to me...
 <$10><$13><$13><$08>
 //ここに新しき天と、新しき地とを見たり。
 For a new Heaven and\n
-a new Earth await\n
-you,
+a new Earth await you,
 <$0C>
 //これまでの天とこれまでの地とは過ぎ去り、\n海もまた消え失せ、\n今よりのち、悲しみもさけびも苦しみもなく、
 may this Heaven and\n
@@ -46,8 +42,7 @@ the seas dry, that
 <$0C>
 their sadness,\n
 loneliness and\n
-suffering are no\n
-more.
+suffering are no more.
 <$0C>
 //歓喜の歌にたたえられた永遠が続くであろう。
 And May eternity move\n
@@ -56,9 +51,6 @@ chanting in
 <$0C>
 celebration.
 <$05><$00>
-
-
-
 
 // Pos: 00002DE7
 
@@ -69,17 +61,15 @@ celebration.
 <$10>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第五の預言を得た。
-So sayeth the fifth\n
-prophecy.
+So sayeth the\n
+fifth prophecy.
 <$00>
-
-
-
 
 // Pos: 00002DFE
 
@@ -91,15 +81,12 @@ prophecy.
 双
 <$06>
 //生、
-Doctor, can
+Doctor, can 
 <$0F>
 //は助かるのですか？
-be saved through\n
-surgery?
+ be\n
+saved through surgery?
 <$00>
-
-
-
 
 // Pos: 00002E10
 
@@ -115,9 +102,6 @@ There's a mass near
 the brain inciting\n
 hallucinations.
 <$00>
-
-
-
 
 // Pos: 00002E40
 
@@ -139,14 +123,11 @@ hallucinations.
 //生、オクトーバー先生！\nお願いします、
 \n
 Doctor! Doctor\n
-October, please! Save
+October, please! Save 
 <$0F>
 //を…
 !
 <$00>
-
-
-
 
 // Pos: 00002E5E
 
@@ -169,9 +150,6 @@ give up on the
 operation for now.
 <$00>
 
-
-
-
 // Pos: 00002EB3
 
 #WLB(PTR, $00000A34)
@@ -184,14 +162,12 @@ Ernest:
 <$0D>
 //\n
 \n
+
 <$0F>
 //じゃねぇ、\nこいつは誰なんだ？
 ? No...\n
 What is this thing?
 <$00>
-
-
-
 
 // Pos: 00002ED1
 
@@ -212,9 +188,6 @@ that's currently\n
 lodged in our brain.
 <$00>
 
-
-
-
 // Pos: 00002EEF
 
 #WLB(PTR, $00000A54)
@@ -232,9 +205,6 @@ How the hell did it
 <$0C>
 get there?
 <$00>
-
-
-
 
 // Pos: 00002F11
 
@@ -266,9 +236,6 @@ the other twin. Hair,\n
 teeth and all...
 <$00>
 
-
-
-
 // Pos: 00002F79
 
 #WLB(PTR, $00000A74)
@@ -286,9 +253,6 @@ I've never seen hair
 <$0C>
 like that before.
 <$00>
-
-
-
 
 // Pos: 00002FA0
 
@@ -380,7 +344,4 @@ happy occasion. At\n
 least, that's what\n
 I'd want.
 <$00>
-
-
-
 

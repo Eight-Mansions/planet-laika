@@ -52,9 +52,6 @@ DIALOGUE WAS?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 00001562
 
 #WLB(PTR, $00000728)
@@ -77,9 +74,6 @@ MADE FOR HOUSEWORK!\n
 DON'T GET YOURSELF\n
 DIRTY."
 <$00>
-
-
-
 
 // Pos: 00001599
 
@@ -122,9 +116,6 @@ PURPOSE I WAS CREATED\n
 TO SERVE? WHO COULD\n
 SAY SUCH A THING?
 <$00>
-
-
-
 
 // Pos: 00001628
 
@@ -180,9 +171,6 @@ AND HAD FORGOTTEN IT\n
 LONG AGO.
 <$00>
 
-
-
-
 // Pos: 000016DA
 
 #WLB(PTR, $00000808)
@@ -212,9 +200,6 @@ PLEASE WAIT, JUST A\n
 LITTLE LONGER.
 <$00>
 
-
-
-
 // Pos: 00001727
 
 #WLB(PTR, $00000BA8)
@@ -231,9 +216,7 @@ Olympia #2:
 //\nあーら、なんて、こんなコトバ、\nツカってみたいわ。
 \n
 I WANT TO TRY TALKING\n
-LIKE YOU. SEE?
-<$0C>
-"####!"
+LIKE YOU. SEE? "####!"
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -337,8 +320,7 @@ I AM GLAD! YOU ARE\n
 HEAD-STRONG, YOU
 <$0C>
 KNOW? FAR\n
-HEAD-STRONGER THAN\n
-ME.
+HEAD-STRONGER THAN ME.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -348,12 +330,8 @@ Olympia #2:
 AFTER THIS\n
 CONVERSATION, I WILL
 <$0C>
-GET HEAD-STRONGER\n
-TOO.
+GET HEAD-STRONGER TOO.
 <$00>
-
-
-
 
 // Pos: 000018BC
 
@@ -397,9 +375,6 @@ WOMAN... WOMAN,
 <$0C>
 WOMAN, WOMAN...
 <$00>
-
-
-
 
 // Pos: 00001932
 
@@ -526,9 +501,6 @@ HERE. SIZE THIS UP\n
 INSTEAD.
 <$00>
 
-
-
-
 // Pos: 00001ABE
 
 #WLB(PTR, $00000B3C)
@@ -573,9 +545,6 @@ WASTE... TO SAVE, OR
 <$0C>
 TO WASTE...
 <$00>
-
-
-
 
 // Pos: 00001B2B
 
@@ -705,9 +674,6 @@ HELP YOU RETURN TO\n
 YOUR SENSES.
 <$00>
 
-
-
-
 // Pos: 00001CB8
 
 #WLB(PTR, $00000B78)
@@ -753,9 +719,6 @@ CRAZY... VENUS,
 PSYCHO, CRAZY...
 <$00>
 
-
-
-
 // Pos: 00001D3B
 
 #WLB(PTR, $00000B94)
@@ -786,9 +749,6 @@ FOR YOU? I AM NOT SO\n
 SURE I DO.
 <$00>
 
-
-
-
 // Pos: 00001D82
 
 #WLB(PTR, $00000BA0)
@@ -815,9 +775,6 @@ Olympia #2:
 YES, VERY DAMN. TRY\n
 AGAIN LATER.
 <$00>
-
-
-
 
 // Pos: 00001DB7
 
@@ -850,9 +807,6 @@ WILL STILL LOOK IT IN\n
 THE MOUTH!
 <$00>
 
-
-
-
 // Pos: 00001E05
 
 #WLB(PTR, $00000B28)
@@ -876,12 +830,8 @@ Olympia #2:
 <$0D>
 //\nこれでオワりだ、アトでコい。
 \n
-THAT IS IT, I AM\n
-DONE!
+THAT IS IT, I AM DONE!
 <$00>
-
-
-
 
 // Pos: 00001E43
 
@@ -914,9 +864,6 @@ THIS OPPORTUNITY TO
 SEE THE WORLD THROUGH\n
 ANOTHER SET OF EYES.
 <$00>
-
-
-
 
 // Pos: 00001E96
 
@@ -951,9 +898,6 @@ TO SHARE IT ALL THE\n
 DAMN TIME.
 <$00>
 
-
-
-
 // Pos: 00001EE5
 
 #WLB(PTR, $000009A4)
@@ -976,9 +920,6 @@ NOT HAVE ANYTHING FOR\n
 YOU.
 <$00>
 
-
-
-
 // Pos: 00001F16
 
 #WLB(PTR, $000008A4)
@@ -997,8 +938,7 @@ Olympia #2:
 SOMETIMES, MY HEART\n
 STOPS, AND NEEDS A
 <$0C>
-LITTLE TIME TO\n
-REPAIR.
+LITTLE TIME TO REPAIR.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -1011,9 +951,6 @@ MAKE A MUCH HARDER
 TIME OF THIS. HUMANS\n
 BREAK EASILY.
 <$00>
-
-
-
 
 // Pos: 00001F77
 
@@ -1048,9 +985,6 @@ BUT I DOUBT IT IS ILL\n
 WILL ALONE.
 <$00>
 
-
-
-
 // Pos: 00001FD6
 
 #WLB(PTR, $000008F8)
@@ -1082,9 +1016,6 @@ HERE: TO SUCK THE
 LIFE OUT OF\n
 EVERYTHING!
 <$00>
-
-
-
 
 // Pos: 00002028
 
@@ -1120,9 +1051,6 @@ I AM ALSO GETTING\n
 HINTS OF TEETH.
 <$00>
 
-
-
-
 // Pos: 0000207C
 
 #WLB(PTR, $000008C0)
@@ -1154,9 +1082,6 @@ BEST THAT I SPECTATE
 FROM OUT HERE.
 <$00>
 
-
-
-
 // Pos: 000020C4
 
 #WLB(PTR, $00001458)
@@ -1166,12 +1091,9 @@ FROM OUT HERE.
 <$10>
 //\n   ユニバーサルキットを手に入れた。
 \n
-Universal Kit\n
+   Universal Kit\n
 acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 000020DF
 
@@ -1182,11 +1104,9 @@ acquired.
 <$10>
 //\n     マーズキットを手に入れた。
 \n
-Mars Kit acquired.
+     Mars Kit\n
+acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 000020F9
 
@@ -1197,11 +1117,9 @@ Mars Kit acquired.
 <$10>
 //\n    アストロキットを手に入れた。
 \n
-Astro Kit acquired.
+     Astro Kit\n
+acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00002113
 
@@ -1212,11 +1130,9 @@ Astro Kit acquired.
 <$10>
 //\n    プラネットキットを手に入れた。
 \n
-Planet Kit acquired.
+     Planet Kit\n
+acquired.
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 0000212E
 
@@ -1229,7 +1145,4 @@ Planet Kit acquired.
 \n
 The item bag is full!
 <$0E><$1E><$17><$00>
-
-
-
 

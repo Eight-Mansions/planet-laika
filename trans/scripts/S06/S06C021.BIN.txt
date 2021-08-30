@@ -20,9 +20,6 @@ April:
 No, it can't be!
 <$00>
 
-
-
-
 // Pos: 00002C5D
 
 #WLB(PTR, $000011E0)
@@ -40,9 +37,6 @@ it's...it's just as
 <$0C>
 the captain said!
 <$00>
-
-
-
 
 // Pos: 00002C7C
 
@@ -66,9 +60,6 @@ April:
 Laika...? Laika!
 <$00>
 
-
-
-
 // Pos: 00002CA2
 
 #WLB(PTR, $00001254)
@@ -81,13 +72,11 @@ April:
 <$0D>
 //\n
 \n
+
 <$0F>
 //！\nどうしたの？ ねえ！
 , what's the matter?!
 <$00>
-
-
-
 
 // Pos: 00002CBA
 
@@ -97,15 +86,10 @@ April:
 
 <$10><$13><$1D>
 //あなたがエイプリルね。\nそしてそこにいるのが…
-Ah, you must be\n
-April!\n
-And the woman over
-<$0C>
+Ah, you must be April!\n
+And the woman over\n
 there is...
 <$00>
-
-
-
 
 // Pos: 00002CD5
 
@@ -123,9 +107,6 @@ Chloe. What is your\n
 name?
 <$00>
 
-
-
-
 // Pos: 00002CE8
 
 #WLB(PTR, $0000130C)
@@ -137,9 +118,6 @@ name?
 My name's Yolanda.\n
 Yo-lan-da!
 <$00>
-
-
-
 
 // Pos: 00002D00
 
@@ -159,9 +137,6 @@ must have a good deal
 in common!
 <$00>
 
-
-
-
 // Pos: 00002D2B
 
 #WLB(PTR, $00001650)
@@ -178,9 +153,6 @@ I wouldn't know, but\n
 perhaps...
 <$00>
 
-
-
-
 // Pos: 00002D41
 
 #WLB(PTR, $00001698)
@@ -195,9 +167,6 @@ Yolanda:
 \n
 Perhaps what?
 <$00>
-
-
-
 
 // Pos: 00002D55
 
@@ -215,9 +184,6 @@ Perhaps I resemble no\n
 one.
 <$00>
 
-
-
-
 // Pos: 00002D69
 
 #WLB(PTR, $00001704)
@@ -231,7 +197,8 @@ Yolanda:
 //\nそう、同じね。\nアタシもそう思うときがあるの。
 \n
 That's still\n
-relatable!\n
+relatable!
+<$0C>
 I feel the same way\n
 at times.
 <$0C><$0B>
@@ -245,9 +212,6 @@ sometimes I'm like,
 <$0C>
 "What the hell am I?"
 <$00>
-
-
-
 
 // Pos: 00002DB1
 
@@ -266,9 +230,6 @@ alone, which means we
 <$0C>
 couldn't be the same.
 <$00>
-
-
-
 
 // Pos: 00002DCD
 
@@ -289,9 +250,6 @@ there was SOMEONE in\n
 your life.
 <$00>
 
-
-
-
 // Pos: 00002DF9
 
 #WLB(PTR, $000017A0)
@@ -306,9 +264,6 @@ Chloe:
 \n
 Tatler...
 <$0E><$28><$17><$00>
-
-
-
 
 // Pos: 00002E0A
 
@@ -327,9 +282,6 @@ Wait, is the captain
 <$0C>
 HERE?!
 <$00>
-
-
-
 
 // Pos: 00002E2F
 
@@ -350,9 +302,6 @@ he your special\n
 someone?
 <$00>
 
-
-
-
 // Pos: 00002E56
 
 #WLB(PTR, $000018C4)
@@ -368,9 +317,6 @@ Chloe:
 Special someone?\n
 I don't know...
 <$00>
-
-
-
 
 // Pos: 00002E69
 
@@ -390,9 +336,6 @@ all day. Was he your
 boyfriend or what?!
 <$00>
 
-
-
-
 // Pos: 00002E90
 
 #WLB(PTR, $0000190C)
@@ -410,9 +353,6 @@ He was always my
 <$0C>
 friend.
 <$00>
-
-
-
 
 // Pos: 00002EAA
 
@@ -432,9 +372,6 @@ us to where your
 "friend" is!
 <$00>
 
-
-
-
 // Pos: 00002ED2
 
 #WLB(PTR, $00001A08)
@@ -453,9 +390,6 @@ Come along, it's up
 the stairs with us!
 <$00>
 
-
-
-
 // Pos: 00002EF5
 
 #WLB(PTR, $00001A4C)
@@ -471,9 +405,6 @@ April:
 You're...Laika,\n
 aren't you?
 <$00>
-
-
-
 
 // Pos: 00002F0E
 
@@ -515,9 +446,6 @@ captain. That's why I
 came out, after all.
 <$00>
 
-
-
-
 // Pos: 00002F9D
 
 #WLB(PTR, $00001AA0)
@@ -535,9 +463,6 @@ M-my name's April, by
 <$0C>
 the way.
 <$00>
-
-
-
 
 // Pos: 00002FBD
 
@@ -635,7 +560,4 @@ April:
 All right, let's go\n
 up.
 <$00>
-
-
-
 

@@ -20,9 +20,6 @@ Cosmas:
 Don't go, Dark Man!
 <$00>
 
-
-
-
 // Pos: 000007B0
 
 #WLB(PTR, $00000328)
@@ -41,9 +38,6 @@ Sorry, I didn't see
 you. But, maybe this\n
 is a...
 <$00>
-
-
-
 
 // Pos: 000007DD
 
@@ -66,9 +60,6 @@ me?
 、Yes\n
 How?
 <$00><$17><$00>
-
-
-
 
 // Pos: 00000814
 
@@ -96,9 +87,6 @@ Dark Man said! I
 really will be saved!
 <$00>
 
-
-
-
 // Pos: 0000085D
 
 #WLB(PTR, $00000384)
@@ -123,9 +111,6 @@ misfortune brought on
 <$0C>
 my face.
 <$00>
-
-
-
 
 // Pos: 00000899
 
@@ -167,9 +152,6 @@ colony, somewhere
 where East and West\n
 can't find him.
 <$00>
-
-
-
 
 // Pos: 00000920
 
@@ -219,9 +201,6 @@ is floating about in
 my head.
 <$00>
 
-
-
-
 // Pos: 000009A8
 
 #WLB(PTR, $00000468)
@@ -268,9 +247,6 @@ Yes, the word\n
 <$0C>
 about in my head.
 <$00>
-
-
-
 
 // Pos: 00000A35
 
@@ -320,9 +296,6 @@ Yes, the word\n
 <$0C>
 about in my head.
 <$00>
-
-
-
 
 // Pos: 00000ACA
 
@@ -379,9 +352,6 @@ a type, you'll never
 find Liever.
 <$00>
 
-
-
-
 // Pos: 00000B6B
 
 #WLB(PTR, $000004AC)
@@ -404,8 +374,7 @@ Cosmas:
 He's not waiting for\n
 "you" per se, but
 <$0C>
-someone inside of\n
-you.
+someone inside of you.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -420,7 +389,4 @@ much to discuss.
 //炎
 炎
 <$00>
-
-
-
 

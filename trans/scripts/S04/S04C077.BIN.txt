@@ -43,12 +43,10 @@ Think you know what\n
 that is?
 <$1B>
 //？知らない\n知ってる
-？No\n
+？No
+<$0C>
 Yes
 <$00><$17><$00>
-
-
-
 
 // Pos: 00002B8F
 
@@ -110,9 +108,6 @@ dreams.
 声
 <$00>
 
-
-
-
 // Pos: 00002C47
 
 #WLB(PTR, $000001C8)
@@ -135,9 +130,6 @@ you're pretty keen.
 //声
 声
 <$00>
-
-
-
 
 // Pos: 00002C66
 
@@ -164,9 +156,6 @@ the fields".
 //家
 家
 <$00>
-
-
-
 
 // Pos: 00002C94
 
@@ -197,9 +186,6 @@ There's no getting
 out.
 <$00>
 
-
-
-
 // Pos: 00002CE3
 
 #WLB(PTR, $000002A8)
@@ -222,9 +208,6 @@ out.
 //声
 声
 <$00>
-
-
-
 
 // Pos: 00002D0C
 
@@ -311,9 +294,6 @@ tuck away in some of\n
 the different flats.
 <$00>
 
-
-
-
 // Pos: 00002E0F
 
 #WLB(PTR, $000002F8)
@@ -332,9 +312,6 @@ hiding somewhere?
 //声
 声
 <$00>
-
-
-
 
 // Pos: 00002E34
 
@@ -362,9 +339,6 @@ him.
 //声
 声
 <$00>
-
-
-
 
 // Pos: 00002E61
 
@@ -409,9 +383,6 @@ people?
 声
 <$00>
 
-
-
-
 // Pos: 00002EE0
 
 #WLB(PTR, $00000378)
@@ -432,9 +403,6 @@ any color you pick.
 //声
 声
 <$00>
-
-
-
 
 // Pos: 00002F03
 
@@ -468,9 +436,6 @@ capital F-A-R-gone.
 声
 <$00>
 
-
-
-
 // Pos: 00002F5F
 
 #WLB(PTR, $00000344)
@@ -501,9 +466,6 @@ thin air to me.
 声
 <$00>
 
-
-
-
 // Pos: 00002FA5
 
 #WLB(PTR, $000003C4)
@@ -533,9 +495,6 @@ to that sick pup.
 家
 <$00>
 
-
-
-
 // Pos: 00002FCC
 
 #WLB(PTR, $00000BC0)
@@ -555,19 +514,17 @@ Ugh, I feel like I'm\n
 going crazy.
 <$00>
 
-
-
-
 // Pos: 00002FF6
 
 #WLB(PTR, $00000C38)
 
 #WHB(PTR, $00000C39)
 
+
 <$00>
 //     第２２日 テベスの月
-The Twenty-second of\n
-Tevet
+   The Twenty-second\n
+of Tevet
 <$0C>
 //この歳になって、ヨセミテ、悪夢にうなされた。\nなんと、悪夢は\n全ての人に通じていることを発見。
 At this age I,\n
@@ -614,9 +571,6 @@ That, I have learned\n
 too.
 <$00>
 
-
-
-
 // Pos: 00003109
 
 #WLB(PTR, $00000CD0)
@@ -635,7 +589,4 @@ have a true form??
 Then, that only\n
 means...
 <$00>
-
-
-
 

@@ -30,9 +30,6 @@ see you! You've gotta
 help me!
 <$00>
 
-
-
-
 // Pos: 00001C84
 
 #WLB(PTR, $00000130)
@@ -48,9 +45,6 @@ Ernest:
 Who're you calling\n
 Laika? I'm Ernest!
 <$00>
-
-
-
 
 // Pos: 00001CA4
 
@@ -78,9 +72,6 @@ It's Chloe! She's...\n
 Oh my God, Chloe!
 <$00>
 
-
-
-
 // Pos: 00001CF9
 
 #WLB(PTR, $00000238)
@@ -95,9 +86,6 @@ Ernest:
 \n
 She okay?
 <$00>
-
-
-
 
 // Pos: 00001D0D
 
@@ -114,9 +102,6 @@ Captain Tatler:
 Nooooo, she's\n
 buuurniiing!
 <$00>
-
-
-
 
 // Pos: 00001D30
 
@@ -136,9 +121,6 @@ think you're doing
 here?!
 <$00>
 
-
-
-
 // Pos: 00001D50
 
 #WLB(PTR, $0000038C)
@@ -156,9 +138,6 @@ man?! You can't go in
 <$0C>
 by yourself!
 <$00>
-
-
-
 
 // Pos: 00001D71
 
@@ -193,9 +172,6 @@ All will burn!
 óù
 <$00>
 
-
-
-
 // Pos: 00001DCC
 
 #WLB(PTR, $00000430)
@@ -216,7 +192,4 @@ whoosh-whoosh.
 //âs
 âs
 <$00>
-
-
-
 

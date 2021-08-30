@@ -20,9 +20,6 @@ Spacer:
 The mind's eye...
 <$00>
 
-
-
-
 // Pos: 00003D50
 
 #WLB(PTR, $00001874)
@@ -63,9 +60,6 @@ its poetry?
 Exit
 <$00><$17><$00>
 
-
-
-
 // Pos: 00003DC0
 
 #WLB(PTR, $000021F0)
@@ -80,9 +74,6 @@ Spacer:
 \n
 Owwe, owwe, owwe...!
 <$00>
-
-
-
 
 // Pos: 00003DD5
 
@@ -103,9 +94,6 @@ predicts the ruin of\n
 the state"... Augh!
 <$00>
 
-
-
-
 // Pos: 00003E0F
 
 #WLB(PTR, $00002344)
@@ -121,9 +109,6 @@ Yang:
 Hey, stop! You have\n
 to s-s-stop...!
 <$00>
-
-
-
 
 // Pos: 00003E26
 
@@ -142,9 +127,6 @@ When! Why! WHO! WHAT!
 <$0C>
 WHERE! WHEN! WHY!
 <$00>
-
-
-
 
 // Pos: 00003E43
 
@@ -173,12 +155,8 @@ Spacer:
 Ah, what am I saying?\n
 Mountain and Yang are
 <$0C>
-dead by\n
-electrocution.
+dead by electrocution.
 <$00>
-
-
-
 
 // Pos: 00003E94
 
@@ -200,12 +178,10 @@ these two are going\n
 to...!
 <$1B>
 //？読む\n読まない
-？Read\n
+？Read
+<$0C>
 Exit
 <$00><$17><$00>
-
-
-
 
 // Pos: 00003ED4
 
@@ -245,9 +221,6 @@ Why does this one\n
 poem keep repeating?
 <$00>
 
-
-
-
 // Pos: 00003F54
 
 #WLB(PTR, $00002168)
@@ -263,9 +236,6 @@ Yang:
 Hgyah! Gyah! Haaaah!
 <$00>
 
-
-
-
 // Pos: 00003F67
 
 #WLB(PTR, $00002178)
@@ -278,12 +248,8 @@ Mountain:
 <$0D>
 //\nほへほ、ほほへへ…
 \n
-Why, why, why,\n
-why...!
+Why, why, why, why...!
 <$00>
-
-
-
 
 // Pos: 00003F7B
 
@@ -301,12 +267,10 @@ Haah, haah... Are you\n
 t-trying to test me?
 <$1B>
 //？読む\n読まない
-？Read\n
+？Read
+<$0C>
 Exit
 <$00><$17><$00>
-
-
-
 
 // Pos: 00003FA6
 
@@ -328,9 +292,6 @@ blood..."\n
 Haah...haah...
 <$00>
 
-
-
-
 // Pos: 00003FDD
 
 #WLB(PTR, $00001FA8)
@@ -347,9 +308,6 @@ Hey? Ahh? Heya? Heya?\n
 Heya?
 <$00>
 
-
-
-
 // Pos: 00003FF5
 
 #WLB(PTR, $00001FB8)
@@ -365,9 +323,6 @@ Mountain:
 Milk later! Honey\n
 first!
 <$00>
-
-
-
 
 // Pos: 0000400F
 
@@ -391,9 +346,6 @@ more...!
 Exit
 <$00><$17><$00>
 
-
-
-
 // Pos: 00004047
 
 #WLB(PTR, $000023E8)
@@ -414,33 +366,28 @@ tear..." Sounds\n
 painful.
 <$00>
 
-
-
-
 // Pos: 00004081
 
 #WLB(PTR, $00001000)
 
 #WHB(PTR, $00001001)
 
+
 <$00>
 //メッセージはありません。
-THERE ARE NO\n
-MESSAGES.
+THERE ARE NO MESSAGES.
 <$00><$00>
 //無線テレビに着信しています。
 RECEIVING INCOMING\n
 CALL...
 <$00>
 
-
-
-
 // Pos: 000040A3
 
 #WLB(PTR, $00000F4C)
 
 #WHB(PTR, $00000F4D)
+
 
 <$00><$13><$13>
 //調子はどうかね、ヌケガラ君。
@@ -490,7 +437,8 @@ Parasite? No, I'm...
 <$0F>
 //の…\nいや、私はスペーサーだ。その本人だ
 's...\n
-No, I'm Spacer!\n
+ No, I'm Spacer!
+<$0C>
 Nothing more!
 <$0C><$13><$13>
 //ほほう、ご本人とな。それは結構。\nあなたは
@@ -498,39 +446,43 @@ Hoho, splendid!\n
 You're an interesting\n
 one. You don't leech
 <$0C>
-from
+from 
 <$0F>
 //ではなく、\nあなただ、そう言うんですね。
 , you say?
 <$0C>
 //つまり
-In other words,
+In other words, 
 <$0F>
 //はあなただと。\nなるほど…自信家だ。
-is all "you". I\n
-see... You're very\n
-full in yourself.
+ is\n
+all "you". I see...\n
+You're very full in
+<$0C>
+yourself.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nいや…
 \n
-No...
+No... 
 <$0F>
 //が私なのではなく、\n私が
-isn't me. I'm
+ isn't me. I'm 
 <$0F>
 //なのだ…私が…
 , right? Aren't I...?
 <$0C><$13><$13>
 //おや！あなたはスペーサー氏ではなく\n
 A-hah! So, you're not\n
-Spacer without
+Spacer without 
 <$0F>
 //なのですか！\nいずれにせよ、ひとつ忠告しておこう。
-! Very well. Here's a\n
-piece of advice.
+! Very\n
+well. Here's a piece
+<$0C>
+of advice.
 <$0C>
 //この星のことをろくに知らない者が、\n星の意志に逆らおうとしても\nムダというものだ。
 As someone who knows\n
@@ -596,18 +548,15 @@ angry about. We can\n
 discuss this in
 <$0C>
 person very soon. I'm\n
-looking forward to\n
-it.
+looking forward to it.
 <$00>
-
-
-
 
 // Pos: 00004341
 
 #WLB(PTR, $00000F74)
 
 #WHB(PTR, $00000F75)
+
 
 <$00><$13><$13>
 //調子はどうかね、ヌケガラ君。
@@ -657,7 +606,8 @@ Parasite? No, I'm...
 <$0F>
 //の…\nいや、私はスペーサーだ。その本人だ。
 's...\n
-No, I'm Spacer!\n
+ No, I'm Spacer!
+<$0C>
 Nothing more!
 <$0C><$13><$13>
 //ほほう、ご本人とな。それは結構。\nあなたは
@@ -665,39 +615,43 @@ Hoho, splendid!\n
 You're an interesting\n
 one. You don't leech
 <$0C>
-from
+from 
 <$0F>
 //ではなく、あなただ、\nそう言うんですね。
 , you say?
 <$0C>
 //つまり
-In other words,
+In other words, 
 <$0F>
 //はあなただと。\nなるほど…自信家だ。
-is all "you". I\n
-see... You're very\n
-full in yourself.
+ is\n
+all "you". I see...\n
+You're very full in
+<$0C>
+yourself.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nいや…
 \n
-No...
+No... 
 <$0F>
 //が私なのではなく、\n私が
-isn't me. I'm
+ isn't me. I'm 
 <$0F>
 //なのだ…私が…
 , right? Aren't I...?
 <$0C><$13><$13>
 //おや！ あなたはスペーサー氏ではなく\n
 A-hah! So, you're not\n
-Spacer without
+Spacer without 
 <$0F>
 //なのですか！\nいずれにせよ、ひとつ忠告しておこう。
-! Very well. Here's a\n
-piece of advice.
+! Very\n
+well. Here's a piece
+<$0C>
+of advice.
 <$0C>
 //この星のことをろくに知らない者が、\n星の意志に逆らおうとしても\nムダというものだ。
 As someone who knows\n
@@ -760,12 +714,8 @@ angry about. We can\n
 discuss this in
 <$0C>
 person very soon. I'm\n
-looking forward to\n
-it.
+looking forward to it.
 <$00>
-
-
-
 
 // Pos: 000045D3
 
@@ -776,6 +726,7 @@ it.
 #WLB(PTR, $00000EFC)
 
 #WHB(PTR, $00000EFD)
+
 
 <$00><$13><$13>
 //調子はどうかね、ヌケガラ君。
@@ -844,7 +795,4 @@ I will see you soon.\n
 I'm looking forward\n
 to it.
 <$00>
-
-
-
 

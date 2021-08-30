@@ -31,9 +31,6 @@ There's no one else\n
 here besides you.
 <$00>
 
-
-
-
 // Pos: 00000C44
 
 #WLB(PTR, $0000010C)
@@ -52,9 +49,6 @@ Nothing to worry
 about...
 <$00>
 
-
-
-
 // Pos: 00000C61
 
 #WLB(PTR, $00000120)
@@ -71,9 +65,6 @@ I never did tell you\n
 God's name, did I?
 <$00>
 
-
-
-
 // Pos: 00000C83
 
 #WLB(PTR, $00000134)
@@ -88,9 +79,6 @@ Spacer:
 \n
 Does God have a name?
 <$00>
-
-
-
 
 // Pos: 00000C9C
 
@@ -188,9 +176,6 @@ stones would do the\n
 trick.
 <$00>
 
-
-
-
 // Pos: 00000DFD
 
 #WLB(PTR, $0000015C)
@@ -208,9 +193,6 @@ dam for Evil Mind at
 <$0C>
 all!
 <$00>
-
-
-
 
 // Pos: 00000E1F
 
@@ -244,9 +226,6 @@ know you'll want to\n
 see it to believe it.
 <$00>
 
-
-
-
 // Pos: 00000E9E
 
 #WLB(PTR, $000001CC)
@@ -263,10 +242,6 @@ That's why you're\n
 here! Aren't you
 <$0C>
 excited? I know I am!\n
-It's time to face\n
-God!
+It's time to face God!
 <$00>
-
-
-
 

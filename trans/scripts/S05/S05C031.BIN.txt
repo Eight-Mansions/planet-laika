@@ -27,9 +27,6 @@ the lodge. I shall
 wait here.
 <$00>
 
-
-
-
 // Pos: 00001A9C
 
 #WLB(PTR, $00000584)
@@ -45,7 +42,4 @@ doll?!
 Feng, that witch...!\n
 This was her doing!
 <$00>
-
-
-
 

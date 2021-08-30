@@ -36,14 +36,12 @@ you?
 Say, does this look\n
 like a safe 'ouse to
 <$0C>
-you?\n
+you? \n
 The front door looks\n
-safe enough. Open it\n
+safe enough. Open it
+<$0C>
 and check.
 <$00>
-
-
-
 
 // Pos: 00002827
 
@@ -61,9 +59,6 @@ Everything looks\n
 clear. Ladies first.
 <$00>
 
-
-
-
 // Pos: 00002840
 
 #WLB(PTR, $000005F8)
@@ -79,12 +74,8 @@ April:
 How are you feeling,\n
 Laika? The Evil Mind
 <$0C>
-must be affecting\n
-you.
+must be affecting you.
 <$00>
-
-
-
 
 // Pos: 00002879
 
@@ -148,9 +139,6 @@ them. About the\n
 captain and Chloe.
 <$00>
 
-
-
-
 // Pos: 00002937
 
 #WLB(PTR, $0000066C)
@@ -182,9 +170,6 @@ photo with him at all\n
 times.
 <$00>
 
-
-
-
 // Pos: 000029C9
 
 #WLB(PTR, $000006F4)
@@ -204,9 +189,6 @@ around a little and\n
 check back.
 <$00>
 
-
-
-
 // Pos: 000029F6
 
 #WLB(PTR, $00000A58)
@@ -225,9 +207,6 @@ look right. The
 door's wide open.
 <$00>
 
-
-
-
 // Pos: 00002A1B
 
 #WLB(PTR, $00000B0C)
@@ -241,9 +220,7 @@ April:
 //\n船長たち、出かけたのかなあ…
 \n
 I wonder if the\n
-captain took Noon
-<$0C>
-out.
+captain took Noon out.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -255,9 +232,6 @@ see them on the way
 <$0C>
 back?
 <$00>
-
-
-
 
 // Pos: 00002A5B
 
@@ -277,9 +251,6 @@ April:
 \n
 We should go in.
 <$00>
-
-
-
 
 // Pos: 00002A71
 
@@ -303,9 +274,6 @@ April:
 \n
 We should go in.
 <$00>
-
-
-
 
 // Pos: 00002A9C
 
@@ -333,9 +301,6 @@ the safe house? There
 could be clues.
 <$00>
 
-
-
-
 // Pos: 00002ADA
 
 #WLB(PTR, $000012AC)
@@ -353,9 +318,6 @@ anything happens.
 <$0C>
 I'll wait here.
 <$00>
-
-
-
 
 // Pos: 00002AFE
 
@@ -375,9 +337,6 @@ a strange engraving
 on the wall. Let me\n
 see...
 <$00>
-
-
-
 
 // Pos: 00002B21
 
@@ -419,12 +378,10 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00>
-
-
-
 
 // Pos: 00002BD4
 
@@ -459,9 +416,6 @@ Yolanda:
 Oh! Uh, i-it's\n
 nothing! I'm good!
 <$00>
-
-
-
 
 // Pos: 00002C28
 
@@ -526,9 +480,6 @@ little metaphor from\n
 Revelations too!)
 <$00>
 
-
-
-
 // Pos: 00002CF6
 
 #WLB(PTR, $0000176C)
@@ -545,12 +496,8 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
-
-
-
 
 // Pos: 00002D2A
 
@@ -605,9 +552,6 @@ reincarnation? I dare\n
 say, I am confused.
 <$00>
 
-
-
-
 // Pos: 00002DDC
 
 #WLB(PTR, $0000177C)
@@ -627,9 +571,6 @@ what me and the guys\n
 are.
 <$00>
 
-
-
-
 // Pos: 00002E03
 
 #WLB(PTR, $000017B0)
@@ -642,7 +583,9 @@ are.
 //\n問顆は心も欲しがるかということだ。\n
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
+
 <$0B>
 //トーマス：
 Thomas:
@@ -678,12 +621,10 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00>
-
-
-
 
 // Pos: 00002ECD
 
@@ -714,7 +655,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

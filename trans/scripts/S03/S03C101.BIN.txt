@@ -16,9 +16,6 @@
 It's me, Uncle Santa!
 <$00>
 
-
-
-
 // Pos: 000013A6
 
 #WLB(PTR, $000004BC)
@@ -35,9 +32,6 @@ Don't come near me!\n
 Get lost! Disappear!
 <$00>
 
-
-
-
 // Pos: 000013C0
 
 #WLB(PTR, $000004CC)
@@ -47,14 +41,12 @@ Get lost! Disappear!
 //çLÇ∂Ç≥ÇÒÇ…å¸Ç©Ç¡ÇƒÇ–Ç«Ç¢Ç∂Ç·Ç»Ç¢Ç©ÅB\nâ¬à§Ç¢Ç®ÇµÇËÇÇ–ÇÒÇﬁÇ¢ÇøÇ·Ç§ÇºÅB
 Isn't that a rude\n
 thing to say to your\n
-uncle?\n
+uncle?
+<$0C>
 Strip off and show me\n
 that cute ass of\n
 yours.
 <$00>
-
-
-
 
 // Pos: 000013E8
 
@@ -72,9 +64,6 @@ S-screw you! Drop\n
 dead!
 <$00>
 
-
-
-
 // Pos: 000013FD
 
 #WLB(PTR, $000004F0)
@@ -87,12 +76,8 @@ Come on, let's play\n
 together. That's
 <$0C>
 right, we're going\n
-back in the dog\n
-house.
+back in the dog house.
 <$00>
-
-
-
 
 // Pos: 00001428
 
@@ -110,9 +95,6 @@ No, I won't go! I\n
 WON'T!
 <$00>
 
-
-
-
 // Pos: 00001442
 
 #WLB(PTR, $00000514)
@@ -123,9 +105,6 @@ WON'T!
 ê®It's time to dance,\n
 Boy!
 <$00>
-
-
-
 
 // Pos: 00001452
 
@@ -143,12 +122,8 @@ Hehehe... You're\n
 finally here, Uncle.
 <$0C>
 You caught me, Uncle\n
-Bubbles. Hehe,\n
-hehehe!
+Bubbles. Hehe, hehehe!
 <$00>
-
-
-
 
 // Pos: 00001497
 
@@ -184,7 +159,4 @@ Red:
 Ah, guess I'll be\n
 obsolete ag... Ahh...
 <$00>
-
-
-
 

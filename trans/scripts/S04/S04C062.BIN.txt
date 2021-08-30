@@ -24,9 +24,6 @@ here that says Cell
 flashy House Liang?
 <$00>
 
-
-
-
 // Pos: 00001446
 
 #WLB(PTR, $00000314)
@@ -42,9 +39,6 @@ West:
 Mars' popular plastic\n
 surgery office!
 <$00>
-
-
-
 
 // Pos: 0000145F
 
@@ -62,9 +56,6 @@ Will you get fixed,\n
 dogface?
 <$00>
 
-
-
-
 // Pos: 00001472
 
 #WLB(PTR, $0000033C)
@@ -79,9 +70,6 @@ West:
 \n
 We! Hate! Dogs!
 <$00>
-
-
-
 
 // Pos: 00001487
 
@@ -102,9 +90,6 @@ East:
 Is your adventure\n
 over?
 <$00>
-
-
-
 
 // Pos: 0000149C
 
@@ -128,9 +113,6 @@ Go to sleep!
 ’†
 <$00>
 
-
-
-
 // Pos: 000014AF
 
 #WLB(PTR, $000004A4)
@@ -146,9 +128,6 @@ East:
 What do you want?
 <$00>
 
-
-
-
 // Pos: 000014BE
 
 #WLB(PTR, $000004B8)
@@ -163,9 +142,6 @@ West:
 \n
 A lullaby!
 <$00>
-
-
-
 
 // Pos: 000014D4
 
@@ -186,9 +162,6 @@ East:
 Should we sing a\n
 lullaby?
 <$00>
-
-
-
 
 // Pos: 000014E1
 
@@ -212,9 +185,6 @@ We do not sing!
 ’†
 <$00>
 
-
-
-
 // Pos: 000014F5
 
 #WLB(PTR, $0000018C)
@@ -233,9 +203,6 @@ East:
 \n
 Will you go in?
 <$00>
-
-
-
 
 // Pos: 00001504
 
@@ -357,7 +324,4 @@ please. Be careful
 <$0C>
 for me.
 <$00>
-
-
-
 

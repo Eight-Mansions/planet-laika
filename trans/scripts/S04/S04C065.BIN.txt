@@ -20,9 +20,6 @@ East:
 Where are you going?
 <$00>
 
-
-
-
 // Pos: 000012E7
 
 #WLB(PTR, $00000594)
@@ -37,9 +34,6 @@ West:
 \n
 You should know!
 <$00>
-
-
-
 
 // Pos: 000012F9
 
@@ -56,9 +50,6 @@ East:
 To Little?
 <$00>
 
-
-
-
 // Pos: 00001309
 
 #WLB(PTR, $000005F4)
@@ -74,9 +65,6 @@ West:
 To where they were!
 <$00>
 
-
-
-
 // Pos: 0000131B
 
 #WLB(PTR, $00000624)
@@ -89,12 +77,8 @@ East:
 <$0D>
 //\nï®âπÇ™ÇµÇΩÅB
 \n
-Where the sounds\n
-were?
+Where the sounds were?
 <$00>
-
-
-
 
 // Pos: 0000132D
 
@@ -111,9 +95,6 @@ West:
 To the lodge!
 <$00>
 
-
-
-
 // Pos: 0000133C
 
 #WLB(PTR, $00000684)
@@ -128,9 +109,6 @@ East:
 \n
 To everyone?
 <$00>
-
-
-
 
 // Pos: 0000134C
 
@@ -147,9 +125,6 @@ West:
 Come along!
 <$00>
 
-
-
-
 // Pos: 0000135C
 
 #WLB(PTR, $000006E4)
@@ -164,7 +139,4 @@ West:
 \n
 There's no time!
 <$00>
-
-
-
 

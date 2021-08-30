@@ -21,9 +21,6 @@ Kekeke... Welcome to\n
 my kingdom.
 <$00>
 
-
-
-
 // Pos: 00002392
 
 #WLB(PTR, $0000036C)
@@ -41,9 +38,6 @@ your tongue? Come on,
 <$0C>
 say something!
 <$00>
-
-
-
 
 // Pos: 000023C4
 
@@ -76,9 +70,6 @@ I'll...I'll lock you\n
 up in this nightmare!
 <$00>
 
-
-
-
 // Pos: 0000241B
 
 #WLB(PTR, $000003EC)
@@ -99,9 +90,6 @@ worries, Bro. I'll\n
 make 'em dance.
 <$00>
 
-
-
-
 // Pos: 00002449
 
 #WLB(PTR, $0000043C)
@@ -120,7 +108,4 @@ Dance! Dance around
 all the floating\n
 heads with me!
 <$00>
-
-
-
 

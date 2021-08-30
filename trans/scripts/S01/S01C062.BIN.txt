@@ -21,9 +21,6 @@ Is this rocket how\n
 you came here?
 <$00>
 
-
-
-
 // Pos: 00002195
 
 #WLB(PTR, $00000280)
@@ -38,9 +35,6 @@ Spacer:
 \n
 You must be...
 <$00>
-
-
-
 
 // Pos: 000021A5
 
@@ -78,9 +72,6 @@ Judgement. Well?\n
 How'd I do?
 <$00>
 
-
-
-
 // Pos: 000021FF
 
 #WLB(PTR, $000002A8)
@@ -105,9 +96,6 @@ figments of\n
 imagination.
 <$00>
 
-
-
-
 // Pos: 00002234
 
 #WLB(PTR, $000002BC)
@@ -126,9 +114,6 @@ valid! Even the
 existence of the\n
 Black Rider is valid!
 <$00>
-
-
-
 
 // Pos: 0000225E
 
@@ -150,9 +135,6 @@ like the others in\n
 the colony are?
 <$00>
 
-
-
-
 // Pos: 00002297
 
 #WLB(PTR, $000002E4)
@@ -169,9 +151,6 @@ Because, I have faith\n
 in God.
 <$00>
 
-
-
-
 // Pos: 000022BC
 
 #WLB(PTR, $000002F8)
@@ -186,9 +165,6 @@ Spacer:
 \n
 God...
 <$00>
-
-
-
 
 // Pos: 000022CE
 
@@ -208,9 +184,6 @@ to God, God will
 protect me.
 <$00>
 
-
-
-
 // Pos: 000022FC
 
 #WLB(PTR, $00000320)
@@ -228,9 +201,6 @@ source of your
 <$0C>
 enlightenment?
 <$00>
-
-
-
 
 // Pos: 00002319
 
@@ -251,9 +221,6 @@ wake up to His\n
 miracle!
 <$00>
 
-
-
-
 // Pos: 00002345
 
 #WLB(PTR, $00000348)
@@ -269,9 +236,6 @@ Spacer:
 His miracle? Where\n
 would we see that?
 <$00>
-
-
-
 
 // Pos: 00002367
 
@@ -294,7 +258,4 @@ underground canal.
 Just before entering\n
 the colony.
 <$00>
-
-
-
 

@@ -18,9 +18,7 @@ Little:
 //\nそうだそうだ！ ただの夢だ！
 \n
 Get it? I get it!\n
-This is still a
-<$0C>
-dream!
+This is still a dream!
 <$0C><$0B>
 //リトル：
 Little:
@@ -33,9 +31,6 @@ huh. What are you
 appearin' in my\n
 dreams for, huh?
 <$00>
-
-
-
 
 // Pos: 00002E0D
 
@@ -63,9 +58,6 @@ going to tear me
 apart! Brr!
 <$00>
 
-
-
-
 // Pos: 00002E49
 
 #WLB(PTR, $00000B7C)
@@ -83,9 +75,6 @@ Little? Please don't
 <$0C>
 shout.
 <$00>
-
-
-
 
 // Pos: 00002E6C
 
@@ -108,9 +97,7 @@ Little:
 //\n俺はどこにもでかけちゃいない！\n何も見ちゃいない！
 \n
 I didn't GO anywhere,\n
-I didn't SEE
-<$0C>
-anythin'!
+I didn't SEE anythin'!
 <$0C><$0B>
 //リトル：
 Little:
@@ -130,9 +117,6 @@ Little:
 What are you trying\n
 to do to me, girly?
 <$00>
-
-
-
 
 // Pos: 00002EE2
 
@@ -163,9 +147,6 @@ me, just because you\n
 dislike them.
 <$00>
 
-
-
-
 // Pos: 00002F45
 
 #WLB(PTR, $00000C48)
@@ -194,9 +175,6 @@ off my ass! Shoo,
 shoo!
 <$00>
 
-
-
-
 // Pos: 00002F83
 
 #WLB(PTR, $00000C88)
@@ -215,9 +193,6 @@ Little?!
 You're...you're\n
 turning...
 <$00>
-
-
-
 
 // Pos: 00002FA3
 
@@ -238,9 +213,6 @@ out...before ever
 serving my purpose!
 <$00>
 
-
-
-
 // Pos: 00002FE6
 
 #WLB(PTR, $00000E7C)
@@ -260,9 +232,6 @@ your purpose? Can you\n
 tell me?
 <$00>
 
-
-
-
 // Pos: 0000300F
 
 #WLB(PTR, $00000E98)
@@ -277,9 +246,6 @@ at the deepest depths
 <$0C>
 of suffering.
 <$00>
-
-
-
 
 // Pos: 00003039
 
@@ -299,9 +265,6 @@ Who told you to go
 there? Was it Galil?
 <$00>
 
-
-
-
 // Pos: 00003063
 
 #WLB(PTR, $00000EE4)
@@ -319,8 +282,7 @@ this planet.
 <$0C>
 //そしてリトルがころびそうなとき、\nつっかえ棒をしてる。
 When Little starts to\n
-tumble, I am his\n
-rock.
+tumble, I am his rock.
 <$0C>
 //僕はリバーだよ、\nリトルにとって人生の相棒なんだよ。
 I am Liever, the\n
@@ -330,9 +292,6 @@ footprints in the
 sands of Little's\n
 lifelong journey.
 <$00>
-
-
-
 
 // Pos: 000030CC
 
@@ -354,9 +313,6 @@ Finally, finally,\n
 finally...
 <$00>
 
-
-
-
 // Pos: 0000310B
 
 #WLB(PTR, $00000F58)
@@ -374,7 +330,8 @@ crossed paths with
 <$0C>
 the planet, and in\n
 return, the planet\n
-granted you\n
+granted you
+<$0C>
 recollection.
 <$0C><$0B>
 //マダム・アガタ：
@@ -400,9 +357,6 @@ he is about to be\n
 crushed by the weight\n
 of that sin.
 <$00>
-
-
-
 
 // Pos: 00003196
 
@@ -452,9 +406,6 @@ It's...oh! I'm going\n
 again, I'm...owwe...!
 <$00>
 
-
-
-
 // Pos: 0000325C
 
 #WLB(PTR, $00001164)
@@ -472,9 +423,6 @@ Somethin' made me
 <$0C>
 space out.
 <$00>
-
-
-
 
 // Pos: 00003278
 
@@ -515,9 +463,6 @@ crushed by the weight
 of his sins.
 <$00>
 
-
-
-
 // Pos: 000032FB
 
 #WLB(PTR, $00001294)
@@ -552,9 +497,6 @@ Madam Agatha:
 That was Galil's goal\n
 all along.
 <$00>
-
-
-
 
 // Pos: 0000335F
 
@@ -599,9 +541,6 @@ to you becoming a\n
 messenger of this\n
 planet.
 <$00>
-
-
-
 
 // Pos: 000033DF
 
@@ -672,7 +611,4 @@ like Feng, aren't I.
 //鋭
 鋭
 <$00>
-
-
-
 

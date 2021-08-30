@@ -23,9 +23,6 @@ this is how we're
 getting in.
 <$00>
 
-
-
-
 // Pos: 000018CF
 
 #WLB(PTR, $00000C4C)
@@ -42,9 +39,6 @@ What's all this? It\n
 better not be sewage.
 <$00>
 
-
-
-
 // Pos: 000018ED
 
 #WLB(PTR, $00000C60)
@@ -60,12 +54,8 @@ Spacer:
 What is this place?\n
 It almost looks like
 <$0C>
-an archeological\n
-site.
+an archeological site.
 <$00>
-
-
-
 
 // Pos: 0000190A
 
@@ -86,9 +76,6 @@ here in the\n
 shit-abyss.
 <$00>
 
-
-
-
 // Pos: 00001936
 
 #WLB(PTR, $00000C88)
@@ -108,9 +95,6 @@ leads to a dam of\n
 Evil Mind.
 <$00>
 
-
-
-
 // Pos: 00001963
 
 #WLB(PTR, $00000CF0)
@@ -126,9 +110,6 @@ Ernest:
 There's a dam for\n
 Evil Mind?
 <$00>
-
-
-
 
 // Pos: 0000197E
 
@@ -148,9 +129,6 @@ there's a dam. A dam
 for Evil Mind.
 <$00>
 
-
-
-
 // Pos: 000019A5
 
 #WLB(PTR, $00000D14)
@@ -166,9 +144,6 @@ Yolanda:
 This only gets worse\n
 by the minute.
 <$00>
-
-
-
 
 // Pos: 000019BD
 
@@ -189,9 +164,6 @@ move before another\n
 sandstorm hits.
 <$00>
 
-
-
-
 // Pos: 000019E5
 
 #WLB(PTR, $000008DC)
@@ -210,9 +182,6 @@ kind of passage. I
 wonder if Little's\n
 down here.
 <$00>
-
-
-
 
 // Pos: 00001A0D
 
@@ -241,9 +210,6 @@ too? Are you workin'\n
 with Agatha?
 <$00>
 
-
-
-
 // Pos: 00001A4A
 
 #WLB(PTR, $0000098C)
@@ -259,8 +225,7 @@ April:
 Agatha enters Herod's\n
 nightmares and treats
 <$0C>
-him with\n
-hypnotherapy.
+him with hypnotherapy.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -284,9 +249,6 @@ are dreams and\n
 reality swapped on\n
 this planet?
 <$00>
-
-
-
 
 // Pos: 00001ABC
 
@@ -318,9 +280,6 @@ it was her first time\n
 seein' anythin'.
 <$00>
 
-
-
-
 // Pos: 00001B09
 
 #WLB(PTR, $000009AC)
@@ -328,15 +287,10 @@ seein' anythin'.
 #WHB(PTR, $000009AD)
 
 //笑うしたのリトル？\nあなた、まさか
-笑What's wrong,\n
-Little?\n
-Should we be
-<$0C>
+笑What's wrong, Little?\n
+Should we be\n
 concerned?
 <$00>
-
-
-
 
 // Pos: 00001B1C
 
@@ -354,8 +308,7 @@ Shouldn't we be?\n
 Isn't it strange to
 <$0C>
 think she hides\n
-things without\n
-reason?
+things without reason?
 <$0C><$0B>
 //リトル：
 Little:
@@ -368,9 +321,6 @@ somethin' DOES go
 wrong during\n
 hypnotherapy, huh?
 <$00>
-
-
-
 
 // Pos: 00001B63
 
@@ -390,9 +340,6 @@ Agatha perform
 hypnotherapy on you,\n
 Little?
 <$00>
-
-
-
 
 // Pos: 00001B8E
 
@@ -423,9 +370,6 @@ what, I'd never her
 do that stuff to me!
 <$00>
 
-
-
-
 // Pos: 00001BDE
 
 #WLB(PTR, $00000A18)
@@ -452,8 +396,7 @@ Little:
 Right, I was floatin'\n
 in the air somewhere
 <$0C>
-awful. I remember\n
-now!
+awful. I remember now!
 <$0C><$0B>
 //リトル：
 Little:
@@ -478,9 +421,6 @@ inside my head?!
 //家
 家
 <$00>
-
-
-
 
 // Pos: 00001C84
 
@@ -533,8 +473,7 @@ He thought it was\n
 wrong for two twins
 <$0C>
 to share a fate\n
-belonging to one\n
-self.
+belonging to one self.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -555,9 +494,6 @@ April:
 ...Maybe we should\n
 follow Little.
 <$00>
-
-
-
 
 // Pos: 00001D94
 
@@ -582,9 +518,6 @@ April:
 What is it? Little\n
 should be inside.
 <$00>
-
-
-
 
 // Pos: 00001DD2
 
@@ -621,8 +554,7 @@ Spacer:
 What is this place?\n
 It almost looks like
 <$0C>
-an archeological\n
-site.
+an archeological site.
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
@@ -654,7 +586,4 @@ it, we'll have to
 move before another\n
 sandstorm hits.
 <$00>
-
-
-
 

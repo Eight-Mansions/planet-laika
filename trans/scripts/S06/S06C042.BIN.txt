@@ -20,9 +20,6 @@ April:
 I'll try again.
 <$00>
 
-
-
-
 // Pos: 000019B4
 
 #WLB(PTR, $0000015C)
@@ -43,9 +40,6 @@ that I might have a\n
 name already!
 <$00>
 
-
-
-
 // Pos: 000019ED
 
 #WLB(PTR, $00000180)
@@ -60,9 +54,6 @@ April:
 \n
 ...Let's try this.
 <$00>
-
-
-
 
 // Pos: 00001A04
 
@@ -82,9 +73,6 @@ here? We'd better
 report this to the\n
 elder.
 <$00>
-
-
-
 
 // Pos: 00001A30
 
@@ -123,9 +111,6 @@ Drats. Right when I\n
 thought we had an in.
 <$00>
 
-
-
-
 // Pos: 00001A93
 
 #WLB(PTR, $0000035C)
@@ -143,9 +128,6 @@ monitor, why not give
 <$0C>
 it a look?
 <$00>
-
-
-
 
 // Pos: 00001AB8
 
@@ -165,9 +147,6 @@ Where did April go?
 You, did you see?
 <$00>
 
-
-
-
 // Pos: 00001AE5
 
 #WLB(PTR, $000003DC)
@@ -186,9 +165,6 @@ LEAVE ME ALONE,
 WHOOSH!
 <$00>
 
-
-
-
 // Pos: 00001B0F
 
 #WLB(PTR, $00000554)
@@ -205,9 +181,6 @@ Wait a minute...\n
 Where did April go?
 <$00>
 
-
-
-
 // Pos: 00001B31
 
 #WLB(PTR, $00000584)
@@ -222,9 +195,6 @@ Yolanda:
 \n
 Sheesh.
 <$00>
-
-
-
 
 // Pos: 00001B44
 
@@ -245,9 +215,6 @@ wIthOUt pErmIssIOn,\n
 whOOsh!
 <$00>
 
-
-
-
 // Pos: 00001B71
 
 #WLB(PTR, $00000420)
@@ -265,9 +232,6 @@ a message just come
 <$0C>
 in?
 <$00>
-
-
-
 
 // Pos: 00001B8B
 
@@ -287,9 +251,6 @@ dOEsn't mEAn yOU cAn
 wAltz OvEr hErE!
 <$00>
 
-
-
-
 // Pos: 00001BB0
 
 #WLB(PTR, $00000468)
@@ -305,9 +266,6 @@ Yolanda:
 What if the message\n
 is for us?
 <$00>
-
-
-
 
 // Pos: 00001BCE
 
@@ -327,9 +285,6 @@ whOOsh! TOO BAD, GET
 OUT!
 <$00>
 
-
-
-
 // Pos: 00001BF2
 
 #WLB(PTR, $000004B0)
@@ -345,9 +300,6 @@ Yolanda:
 Whoosh, whoosh!
 <$00>
 
-
-
-
 // Pos: 00001C04
 
 #WLB(PTR, $000005E0)
@@ -362,9 +314,6 @@ Oxygen Miner 3ÅF
 \n
 OUt, whOOsh.
 <$00>
-
-
-
 
 // Pos: 00001C1F
 
@@ -413,7 +362,4 @@ April:
 We can't let them\n
 notice.
 <$00>
-
-
-
 

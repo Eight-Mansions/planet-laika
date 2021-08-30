@@ -23,14 +23,12 @@ going to play with
 that rocket?
 <$0E><$B7><$17><$00>
 
-
-
-
 // Pos: 00000AA1
 
 #WLB(PTR, $00000064)
 
 #WHB(PTR, $00000065)
+
 
 <$00><$11>
 //〇
@@ -38,14 +36,11 @@ that rocket?
 <$06>
 //生、
 Doctor, what's wrong\n
-with
+with 
 <$0F>
 //はどうなんです？
 ?
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 00000AB6
 
@@ -65,14 +60,12 @@ Why don't you call me\n
 Call me "batya"!
 <$0E><$99><$17><$00>
 
-
-
-
 // Pos: 00000AEA
 
 #WLB(PTR, $00000098)
 
 #WHB(PTR, $00000099)
+
 
 <$00><$11>
 //亡の子は助かるんですか？\n手術すれば、本当に助かるんですか？
@@ -80,9 +73,6 @@ Will it help, Doctor?\n
 Will surgery save\n
 that child?
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 00000B16
 
@@ -102,26 +92,21 @@ brain? You're covered
 in mud, hahaha!
 <$0E><$99><$17><$00>
 
-
-
-
 // Pos: 00000B4A
 
 #WLB(PTR, $000000CC)
 
 #WHB(PTR, $000000CD)
 
+
 <$00><$11>
 //僕！しっかりするんだ！\nパパの声が開こえるか？
 僕, focus! Listen to\n
-batya's voice,
+batya's voice, 
 <$0F>
 //！
 !
 <$0E><$78><$17><$00>
-
-
-
 
 // Pos: 00000B6C
 
@@ -137,7 +122,4 @@ don't want to leave!
 //！
 ！
 <$0E><$96><$17><$00>
-
-
-
 

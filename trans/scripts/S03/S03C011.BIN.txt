@@ -23,9 +23,6 @@ hear...words in my
 head...!
 <$00>
 
-
-
-
 // Pos: 00002FBE
 
 #WLB(PTR, $000009B0)
@@ -72,9 +69,6 @@ prophetic insight\n
 here!
 <$00>
 
-
-
-
 // Pos: 00003052
 
 #WLB(PTR, $00000BDC)
@@ -88,18 +82,13 @@ Spacer:
 //\n…小さいな…まるでささやくようだ…
 \n
 It sounds so feeble,\n
-like a whisper,
-<$0C>
-but...
+like a whisper, but...
 <$0C>
 //一粒の…花？\n無限を…\n分からない、何のことだ？
 "Grain", "flower",\n
 "eternity"... What\n
 does it all mean?
 <$00>
-
-
-
 
 // Pos: 0000308F
 
@@ -119,9 +108,6 @@ don't hear that
 feeble voice anymore.
 <$00>
 
-
-
-
 // Pos: 000030B6
 
 #WLB(PTR, $000005C8)
@@ -137,9 +123,6 @@ Ernest:
 What the hell? It's\n
 locked.
 <$00>
-
-
-
 
 // Pos: 000030D3
 
@@ -159,9 +142,6 @@ important's hidden in
 there...
 <$00>
 
-
-
-
 // Pos: 000030F9
 
 #WLB(PTR, $00001B14)
@@ -180,15 +160,10 @@ Psycho, but I can't
 see a thing.
 <$0C>
 //ふん、ラミーのやつ…\nまだ何かアタシに隠してるのね。
-Rummy, Rummy,\n
-Rummy...\n
-Always hiding things
-<$0C>
+Rummy, Rummy, Rummy...\n
+Always hiding things\n
 from me.
 <$00>
-
-
-
 
 // Pos: 0000313E
 
@@ -216,9 +191,6 @@ Might you be another
 little Psycho?
 <$00>
 
-
-
-
 // Pos: 0000317C
 
 #WLB(PTR, $00001C5C)
@@ -237,9 +209,6 @@ able to see a large
 eyeball on that door.\n
 Do you see it?
 <$00>
-
-
-
 
 // Pos: 000031B0
 
@@ -263,8 +232,7 @@ Sammy:
 <$0D>
 //\nそれにしちゃ弱そうね。
 \n
-But you look so\n
-frail!
+But you look so frail!
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -311,9 +279,6 @@ a-nope.
 //夜
 夜
 <$00>
-
-
-
 
 // Pos: 00003278
 
@@ -363,9 +328,6 @@ eventually change
 you, hyohyo!
 <$00>
 
-
-
-
 // Pos: 0000330A
 
 #WLB(PTR, $000013D0)
@@ -404,9 +366,6 @@ you don't know,
 hyohyo.
 <$00>
 
-
-
-
 // Pos: 00003372
 
 #WLB(PTR, $000013F4)
@@ -426,9 +385,6 @@ scolding me about\n
 buzzing around.
 <$00>
 
-
-
-
 // Pos: 0000339E
 
 #WLB(PTR, $00001418)
@@ -445,9 +401,6 @@ I can't help it,\n
 Ernest, hyohyo!
 <$00>
 
-
-
-
 // Pos: 000033BE
 
 #WLB(PTR, $0000143C)
@@ -463,9 +416,6 @@ Ernest:
 Why? Is something\n
 going to happen?
 <$00>
-
-
-
 
 // Pos: 000033DA
 
@@ -487,9 +437,6 @@ this time to study,\n
 hyohyo!
 <$00>
 
-
-
-
 // Pos: 0000341F
 
 #WLB(PTR, $00001528)
@@ -505,9 +452,6 @@ Spirit Man:
 Hyohyo, Ernest! What\n
 ever can you do?
 <$00>
-
-
-
 
 // Pos: 00003447
 
@@ -527,9 +471,6 @@ I'm proud of my
 physical strength,\n
 that's for sure!
 <$00>
-
-
-
 
 // Pos: 0000346E
 
@@ -564,9 +505,6 @@ it?
 声
 <$00>
 
-
-
-
 // Pos: 000034CD
 
 #WLB(PTR, $00001870)
@@ -595,9 +533,6 @@ has one. Can you see\n
 it?
 <$00>
 
-
-
-
 // Pos: 00003515
 
 #WLB(PTR, $00001894)
@@ -616,9 +551,6 @@ boozehound. Don't
 know what in blazes\n
 you're talking about.
 <$00>
-
-
-
 
 // Pos: 00003543
 
@@ -639,9 +571,6 @@ sick, but you didn't\n
 need to put me on\n
 blast!
 <$00>
-
-
-
 
 // Pos: 00003577
 
@@ -671,9 +600,6 @@ has one. Can you see\n
 it?
 <$00>
 
-
-
-
 // Pos: 000035BC
 
 #WLB(PTR, $000018FC)
@@ -694,9 +620,6 @@ don't have time for\n
 this!
 <$00>
 
-
-
-
 // Pos: 000035F4
 
 #WLB(PTR, $0000191C)
@@ -715,7 +638,4 @@ as you, but if there
 ain't time for this,\n
 what is time for?
 <$00>
-
-
-
 

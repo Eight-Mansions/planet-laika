@@ -24,9 +24,6 @@ thE plAce. Why wOn't\n
 yOU lEAvE Us AlOne?
 <$00>
 
-
-
-
 // Pos: 000036C5
 
 #WLB(PTR, $00000CB4)
@@ -42,9 +39,6 @@ Yolanda:
 Where is the elder's\n
 cottage?
 <$00>
-
-
-
 
 // Pos: 000036E3
 
@@ -63,9 +57,6 @@ EldEr NOOn, whOOsh,
 <$0C>
 whOOsh?
 <$00>
-
-
-
 
 // Pos: 0000370B
 
@@ -86,9 +77,6 @@ you say, "Whoosh,\n
 whoosh," so much?
 <$00>
 
-
-
-
 // Pos: 00003732
 
 #WLB(PTR, $00000D20)
@@ -106,9 +94,6 @@ nEvEr sAId thAt,
 <$0C>
 whOOsh.
 <$00>
-
-
-
 
 // Pos: 00003752
 
@@ -129,9 +114,6 @@ can't be that\n
 oblivious.
 <$00>
 
-
-
-
 // Pos: 00003777
 
 #WLB(PTR, $00000D68)
@@ -147,9 +129,6 @@ Oxygen Miner 3：
 WhOOsh, whOOsh,\n
 whOOsh, whOOsh...
 <$00>
-
-
-
 
 // Pos: 00003795
 
@@ -167,9 +146,6 @@ Let's go. Noon should\n
 be up this way.
 <$00>
 
-
-
-
 // Pos: 000037B1
 
 #WLB(PTR, $00000618)
@@ -185,9 +161,6 @@ Oxygen Miner 3：
 WhOOsh, whOOsh,\n
 whOOsh, whOOsh!
 <$00>
-
-
-
 
 // Pos: 000037CF
 
@@ -205,9 +178,6 @@ A man of few words,\n
 as they say.
 <$00>
 
-
-
-
 // Pos: 000037EA
 
 #WLB(PTR, $00000AF8)
@@ -223,9 +193,6 @@ Yolanda:
 Is the elder's\n
 cottage up this way?
 <$00>
-
-
-
 
 // Pos: 0000380A
 
@@ -245,9 +212,6 @@ pinch here. Can you
 give me an answer?
 <$00>
 
-
-
-
 // Pos: 0000382B
 
 #WLB(PTR, $00000B6C)
@@ -263,9 +227,6 @@ April:
 Please, sir. We're\n
 looking for people.
 <$00>
-
-
-
 
 // Pos: 00003845
 
@@ -286,9 +247,6 @@ Can you help us or\n
 not?
 <$00>
 
-
-
-
 // Pos: 00003875
 
 #WLB(PTR, $00000BB4)
@@ -307,9 +265,6 @@ re-entering from the
 front door.
 <$00>
 
-
-
-
 // Pos: 00003893
 
 #WLB(PTR, $00000BF8)
@@ -326,9 +281,6 @@ Oh, right. I should\n
 try that.
 <$00>
 
-
-
-
 // Pos: 000038AC
 
 #WLB(PTR, $000005D8)
@@ -344,9 +296,6 @@ Yolanda:
 I'm getting a little\n
 carried away here.
 <$00>
-
-
-
 
 // Pos: 000038C6
 
@@ -367,9 +316,6 @@ jUst wAltz IntO\n
 pEOplE's hOUsEs!
 <$00>
 
-
-
-
 // Pos: 000038F6
 
 #WLB(PTR, $00000DD0)
@@ -389,9 +335,6 @@ start over on a fresh\n
 slate.
 <$00>
 
-
-
-
 // Pos: 0000391A
 
 #WLB(PTR, $00000DF4)
@@ -408,9 +351,6 @@ WhAt dO yOU wAnt frOm\n
 mE, whOOsh?
 <$00>
 
-
-
-
 // Pos: 00003938
 
 #WLB(PTR, $00000E18)
@@ -426,9 +366,6 @@ Yolanda:
 The location of the\n
 elder's cottage.
 <$00>
-
-
-
 
 // Pos: 00003951
 
@@ -447,9 +384,6 @@ EldEr NOOn, whOOsh,
 <$0C>
 whOOsh?
 <$00>
-
-
-
 
 // Pos: 00003978
 
@@ -470,9 +404,6 @@ you say, "Whoosh,\n
 whoosh," so much?
 <$00>
 
-
-
-
 // Pos: 0000399F
 
 #WLB(PTR, $00000E84)
@@ -490,9 +421,6 @@ nEvEr sAId thAt,
 <$0C>
 whOOsh.
 <$00>
-
-
-
 
 // Pos: 000039BF
 
@@ -513,9 +441,6 @@ can't be that\n
 oblivious.
 <$00>
 
-
-
-
 // Pos: 000039E4
 
 #WLB(PTR, $00000ECC)
@@ -532,9 +457,6 @@ WhOOsh, whOOsh,\n
 whOOsh, whOOsh...
 <$00>
 
-
-
-
 // Pos: 00003A02
 
 #WLB(PTR, $00000EEC)
@@ -550,9 +472,6 @@ Yolanda:
 Let's go. Noon should\n
 be up this way.
 <$00>
-
-
-
 
 // Pos: 00003A1F
 
@@ -571,12 +490,10 @@ pEOplE And thEIr
 <$0C>
 prOpErty bE!\n
 SErIOsly, lEAvE Us\n
-AlOnE, whOOsh,\n
+AlOnE, whOOsh,
+<$0C>
 whOOsh...
 <$00>
-
-
-
 
 // Pos: 00003A55
 
@@ -595,9 +512,6 @@ mind me coming
 <$0C>
 through, do you?
 <$00>
-
-
-
 
 // Pos: 00003A7A
 
@@ -618,9 +532,6 @@ rude to keep ladies\n
 waiting outside!
 <$00>
 
-
-
-
 // Pos: 00003AA3
 
 #WLB(PTR, $00001058)
@@ -639,9 +550,6 @@ think he's paying
 attention.
 <$00>
 
-
-
-
 // Pos: 00003AC1
 
 #WLB(PTR, $00001160)
@@ -657,9 +565,6 @@ April:
 Hey, Yolanda?
 <$00>
 
-
-
-
 // Pos: 00003AD4
 
 #WLB(PTR, $000011A4)
@@ -674,9 +579,6 @@ Yolanda:
 \n
 What's up?
 <$00>
-
-
-
 
 // Pos: 00003AE3
 
@@ -696,9 +598,6 @@ town... I don't think
 they trust us.
 <$00>
 
-
-
-
 // Pos: 00003B07
 
 #WLB(PTR, $000011EC)
@@ -716,9 +615,6 @@ come in peace," bit
 <$0C>
 isn't working so hot.
 <$00>
-
-
-
 
 // Pos: 00003B27
 
@@ -739,9 +635,6 @@ group? Why don't we\n
 split up?
 <$00>
 
-
-
-
 // Pos: 00003B52
 
 #WLB(PTR, $00001234)
@@ -760,9 +653,6 @@ but let's not mosey.
 It's the elder's\n
 cottage we want.
 <$00>
-
-
-
 
 // Pos: 00003B7B
 
@@ -783,9 +673,6 @@ knocking on his front\n
 door first.
 <$00>
 
-
-
-
 // Pos: 00003B9B
 
 #WLB(PTR, $000012C0)
@@ -804,9 +691,6 @@ idea! That would be
 the most lady-like\n
 way to go about this!
 <$00>
-
-
-
 
 // Pos: 00003BC0
 
@@ -827,9 +711,6 @@ don't know what I'm\n
 about.
 <$00>
 
-
-
-
 // Pos: 00003BF0
 
 #WLB(PTR, $000007C0)
@@ -842,12 +723,8 @@ Yolanda:
 <$0D>
 //\nちょっと、ここを開けてよ。
 \n
-Hey, open the fuck\n
-up.
+Hey, open the fuck up.
 <$00>
-
-
-
 
 // Pos: 00003C0A
 
@@ -864,12 +741,8 @@ Yolanda:
 Seriously, what's\n
 your damage? It's the
 <$0C>
-elder I want, not\n
-you!
+elder I want, not you!
 <$00>
-
-
-
 
 // Pos: 00003C3A
 
@@ -888,9 +761,6 @@ You PRoMiSe To LeaVe
 <$0C>
 RiGHT aFTeR?
 <$00>
-
-
-
 
 // Pos: 00003C5B
 
@@ -911,9 +781,6 @@ way is it to the\n
 elder's cottage?
 <$00>
 
-
-
-
 // Pos: 00003C84
 
 #WLB(PTR, $00000814)
@@ -933,9 +800,6 @@ aPPeaR iF You DoN'T\n
 CRoSS THe THReSHoLD.
 <$00>
 
-
-
-
 // Pos: 00003CB8
 
 #WLB(PTR, $00000838)
@@ -954,9 +818,6 @@ but...okay! Now, let
 me through.
 <$00>
 
-
-
-
 // Pos: 00003CD2
 
 #WLB(PTR, $00000848)
@@ -972,9 +833,6 @@ Oxygen Miner 4：
 WHooSH!
 <$00>
 
-
-
-
 // Pos: 00003CE6
 
 #WLB(PTR, $0000086C)
@@ -988,13 +846,11 @@ Yolanda:
 //\nシー！シー！シー！…これでどう？
 \n
 Whoosh! Whoosh!\n
-Whoosh?\n
+Whoosh?
+<$0C>
 ...With a cherry on\n
 top?
 <$00>
-
-
-
 
 // Pos: 00003D02
 
@@ -1012,9 +868,6 @@ ANYTHiNG FoR a LaDY.\n
 You MaY PaSS.
 <$00>
 
-
-
-
 // Pos: 00003D1C
 
 #WLB(PTR, $000006B0)
@@ -1029,9 +882,6 @@ Yolanda:
 \n
 It's up this way?
 <$00>
-
-
-
 
 // Pos: 00003D33
 
@@ -1048,9 +898,6 @@ Oxygen Miner 4：
 THiS WaY, WHooSH.
 <$00>
 
-
-
-
 // Pos: 00003D4D
 
 #WLB(PTR, $00000660)
@@ -1063,12 +910,8 @@ Yolanda:
 <$0D>
 //\nこの先ね。
 \n
-M'kay, down this\n
-road.
+M'kay, down this road.
 <$00>
-
-
-
 
 // Pos: 00003D5F
 
@@ -1084,9 +927,6 @@ Oxygen Miner 4：
 \n
 WHooSH.
 <$00>
-
-
-
 
 // Pos: 00003D73
 
@@ -1106,12 +946,10 @@ A mEssAgE?
 Oxygen Miner 3：
 <$0D>
 //\n建う、俺はそんな名前じゃない、シーシー。
-nOh, gUEss It's nOt\n
-fOr mE, whOOsh.
+nOh,\n
+gUEss It's nOt fOr\n
+mE, whOOsh.
 <$00>
-
-
-
 
 // Pos: 00003DAD
 
@@ -1131,9 +969,6 @@ if that message was
 for us?
 <$00>
 
-
-
-
 // Pos: 00003DC5
 
 #WLB(PTR, $0000143C)
@@ -1151,9 +986,6 @@ send us a new rocket
 <$0C>
 to fly home too.
 <$00>
-
-
-
 
 // Pos: 00003DEA
 
@@ -1174,9 +1006,6 @@ wIthOUt pErmIssIOn,\n
 whOOsh!
 <$00>
 
-
-
-
 // Pos: 00003E17
 
 #WLB(PTR, $00000510)
@@ -1194,9 +1023,6 @@ a message just come
 <$0C>
 in?
 <$00>
-
-
-
 
 // Pos: 00003E31
 
@@ -1216,9 +1042,6 @@ dOEsn't mEAn yOU cAn
 wAltz OvEr hErE!
 <$00>
 
-
-
-
 // Pos: 00003E56
 
 #WLB(PTR, $00000558)
@@ -1234,9 +1057,6 @@ Yolanda:
 What if the message\n
 is for us?
 <$00>
-
-
-
 
 // Pos: 00003E74
 
@@ -1256,9 +1076,6 @@ whOOsh! TOO BAD, GET
 OUT!
 <$00>
 
-
-
-
 // Pos: 00003E98
 
 #WLB(PTR, $000005A0)
@@ -1273,9 +1090,6 @@ Yolanda:
 \n
 Whoosh, whoosh!
 <$00>
-
-
-
 
 // Pos: 00003EAA
 
@@ -1292,9 +1106,6 @@ Oxygen Miner 3：
 OUt, whOOsh.
 <$00>
 
-
-
-
 // Pos: 00003EC5
 
 #WLB(PTR, $00000A04)
@@ -1310,9 +1121,6 @@ Yolanda:
 Fine, I got the\n
 message!
 <$00>
-
-
-
 
 // Pos: 00003EDD
 
@@ -1364,9 +1172,6 @@ We can't let them\n
 notice.
 <$00>
 
-
-
-
 // Pos: 00003F7B
 
 #WLB(PTR, $000001D4)
@@ -1381,9 +1186,6 @@ April:
 \n
 I'll try again.
 <$00>
-
-
-
 
 // Pos: 00003F94
 
@@ -1405,9 +1207,6 @@ that I might have a\n
 name already!
 <$00>
 
-
-
-
 // Pos: 00003FCD
 
 #WLB(PTR, $0000023C)
@@ -1422,9 +1221,6 @@ April:
 \n
 ...Let's try this.
 <$00>
-
-
-
 
 // Pos: 00003FE4
 
@@ -1444,9 +1240,6 @@ here? We'd better
 report this to the\n
 elder.
 <$00>
-
-
-
 
 // Pos: 00004010
 
@@ -1484,7 +1277,4 @@ April:
 Drats. Right when I\n
 thought we had an in.
 <$00>
-
-
-
 

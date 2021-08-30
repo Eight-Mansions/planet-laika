@@ -27,9 +27,6 @@ but...
 行
 <$00>
 
-
-
-
 // Pos: 000017EA
 
 #WLB(PTR, $0000026C)
@@ -62,9 +59,6 @@ that weird?!
 //中
 中
 <$00>
-
-
-
 
 // Pos: 00001842
 
@@ -119,9 +113,6 @@ know about?
 Jeremiah
 <$00><$17><$00>
 
-
-
-
 // Pos: 000018E4
 
 #WLB(PTR, $000001BC)
@@ -163,9 +154,6 @@ hides anything there.
 理
 <$00>
 
-
-
-
 // Pos: 00001954
 
 #WLB(PTR, $000001B0)
@@ -182,8 +170,7 @@ He was an exile who\n
 died a long time ago,
 <$0C>
 a-ha! But, he left\n
-behind the\n
-prophecies.
+behind the prophecies.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -221,9 +208,6 @@ two are connected.
 理
 <$00>
 
-
-
-
 // Pos: 000019E1
 
 #WLB(PTR, $000001EC)
@@ -245,9 +229,6 @@ overthinking, a-ha!
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 00001A03
 
@@ -283,9 +264,6 @@ sure does!
 声
 <$00>
 
-
-
-
 // Pos: 00001A6C
 
 #WLB(PTR, $00000284)
@@ -319,14 +297,12 @@ else is in his brain.
 家
 <$00>
 
-
-
-
 // Pos: 00001AE6
 
 #WLB(PTR, $000007F0)
 
 #WHB(PTR, $000007F1)
+
 
 <$00><$18><$00>
 //ぁセ。
@@ -384,7 +360,4 @@ ALWAYS KNEW.
 CHARLIE'S AWAKE!\n
 CHARLIE'S AWAKE!
 <$00>
-
-
-
 

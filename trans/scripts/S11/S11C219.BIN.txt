@@ -21,9 +21,6 @@ Hey, idiot. Don't you\n
 recognize me?
 <$00>
 
-
-
-
 // Pos: 00002968
 
 #WLB(PTR, $000003C8)
@@ -41,9 +38,6 @@ catch that? The fuck
 <$0C>
 did you say?
 <$00>
-
-
-
 
 // Pos: 00002986
 
@@ -63,9 +57,6 @@ unfinished business,
 don't we?
 <$00>
 
-
-
-
 // Pos: 000029A3
 
 #WLB(PTR, $000003F0)
@@ -83,9 +74,6 @@ Heh, you've got some
 <$0C>
 nerve.
 <$00>
-
-
-
 
 // Pos: 000029CF
 
@@ -118,9 +106,6 @@ mommy! "Mommy! Mommy!\n
 Mommy!"
 <$00>
 
-
-
-
 // Pos: 00002A24
 
 #WLB(PTR, $00000604)
@@ -136,9 +121,6 @@ Ernest:
 Don't understimate\n
 me, Puff Puff.
 <$00>
-
-
-
 
 // Pos: 00002A4A
 
@@ -158,9 +140,6 @@ Get ready to die,
 piggy!
 <$00>
 
-
-
-
 // Pos: 00002A6D
 
 #WLB(PTR, $0000062C)
@@ -179,9 +158,6 @@ piglet that's about
 to get smoked is you!
 <$00>
 
-
-
-
 // Pos: 00002A99
 
 #WLB(PTR, $00000680)
@@ -198,14 +174,12 @@ What was that? Is\n
 someone here?
 <$00>
 
-
-
-
 // Pos: 00002AB2
 
 #WLB(PTR, $000006C8)
 
 #WHB(PTR, $000006C9)
+
 
 <$00>
 //とどめを刺せ、アーネスト。\nママのナイフを用意してやろう。
@@ -215,9 +189,6 @@ Mama will prepare the
 <$0C>
 knife.
 <$00>
-
-
-
 
 // Pos: 00002AD4
 
@@ -237,14 +208,12 @@ messing with me, and
 show yourself!
 <$00>
 
-
-
-
 // Pos: 00002AFB
 
 #WLB(PTR, $000006EC)
 
 #WHB(PTR, $000006ED)
+
 
 <$00>
 //怖いのか、アーネスト。\n人を刺すにはうってつけの日じゃないか。
@@ -253,14 +222,12 @@ Isn't it a lovely day\n
 to stab someone?
 <$00>
 
-
-
-
 // Pos: 00002B1F
 
 #WLB(PTR, $000007C4)
 
 #WHB(PTR, $000007C5)
+
 
 <$00>
 //そのナイフをやつのみぞおちに\n突き立てるのだ。
@@ -276,14 +243,12 @@ stuff it all down his
 throat!
 <$00>
 
-
-
-
 // Pos: 00002B65
 
 #WLB(PTR, $000007DC)
 
 #WHB(PTR, $000007DD)
+
 
 <$00>
 //何をためらってる、アーネスト。\n臆病風にでも吹かれたのか？
@@ -293,9 +258,6 @@ Are your nerves
 <$0C>
 getting to you?
 <$00>
-
-
-
 
 // Pos: 00002B88
 
@@ -316,9 +278,6 @@ sort of coward do you\n
 take me for?!
 <$00>
 
-
-
-
 // Pos: 00002BB9
 
 #WLB(PTR, $00000978)
@@ -336,7 +295,4 @@ No...I'm not that
 <$0C>
 weak.
 <$00>
-
-
-
 

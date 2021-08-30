@@ -39,14 +39,12 @@ Hahaha... A pathetic\n
 little man...
 <$00>
 
-
-
-
 // Pos: 0000097F
 
 #WLB(PTR, $0000017C)
 
 #WHB(PTR, $0000017D)
+
 
 <$00><$0B>
 //パンチ：
@@ -68,14 +66,12 @@ YEs...I need to end
 this!
 <$00>
 
-
-
-
 // Pos: 000009C8
 
 #WLB(PTR, $0000018C)
 
 #WHB(PTR, $0000018D)
+
 
 <$00><$0B>
 //パンチ：
@@ -94,14 +90,12 @@ Give me-! Give me\n
 that, Godammit!
 <$00>
 
-
-
-
 // Pos: 00000A0C
 
 #WLB(PTR, $000001C4)
 
 #WHB(PTR, $000001C5)
+
 
 <$00>
 //アタシのヌーンや、パパは病気だったのよ…\nもう洽らないの。 分かった…
@@ -110,8 +104,7 @@ was sick. He was\n
 never going to get
 <$0C>
 better. You\n
-understand, don't\n
-you?
+understand, don't you?
 <$0C>
 //仕方ないことなの…\nふふふふ、仕方ないのよ、ヌーン、\nでなきゃアタシが殺されてた…
 There was no other\n
@@ -128,7 +121,4 @@ it if Mummy died,
 <$0C>
 would you, Noon?
 <$00>
-
-
-
 

@@ -41,9 +41,6 @@ going on.
 ‰s
 <$00>
 
-
-
-
 // Pos: 000016B0
 
 #WLB(PTR, $000007A0)
@@ -83,9 +80,6 @@ You understand what I\n
 mean, don't you?
 <$00>
 
-
-
-
 // Pos: 000016F1
 
 #WLB(PTR, $000007B4)
@@ -108,9 +102,6 @@ to enter your god's
 sewer? Your god\n
 sounds like a dick.
 <$00>
-
-
-
 
 // Pos: 00001714
 
@@ -135,9 +126,6 @@ surprise, but he's\n
 not really here, is\n
 he?
 <$00>
-
-
-
 
 // Pos: 0000173D
 
@@ -169,9 +157,6 @@ through! God is\n
 waiting for you!
 <$00>
 
-
-
-
 // Pos: 0000178E
 
 #WLB(PTR, $000007DC)
@@ -190,7 +175,4 @@ huh. So there's bound
 to be water down\n
 there.
 <$00>
-
-
-
 

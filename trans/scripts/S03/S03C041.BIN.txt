@@ -17,9 +17,6 @@
 The item bag is full!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 0000420B
 
 #WLB(PTR, $00000570)
@@ -29,16 +26,14 @@ The item bag is full!
 <$10>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //赤い石を手に入れた。
 Red Stone acquired.
 <$00>
-
-
-
 
 // Pos: 00004224
 
@@ -59,9 +54,6 @@ I have seen it\n
 somewhere before.
 <$00>
 
-
-
-
 // Pos: 0000425A
 
 #WLB(PTR, $000015EC)
@@ -80,9 +72,6 @@ were in one of your
 nightmares right now.\n
 Did you wake up?
 <$00>
-
-
-
 
 // Pos: 00004293
 
@@ -129,8 +118,7 @@ If this WAS a\n
 nightmare, if that
 <$0C>
 WAS the case,\n
-Agatha've come for\n
-me.
+Agatha've come for me.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -142,9 +130,6 @@ something. Someone,
 <$0C>
 making a disturbance.
 <$00>
-
-
-
 
 // Pos: 00004341
 
@@ -171,9 +156,6 @@ Spacer:
 \n
 Is someone else here?
 <$00>
-
-
-
 
 // Pos: 0000437F
 
@@ -204,9 +186,6 @@ will not make it into\n
 dreaming.
 <$00>
 
-
-
-
 // Pos: 000043D1
 
 #WLB(PTR, $0000163C)
@@ -232,9 +211,6 @@ Where do I start,
 <$0C>
 Herod?
 <$00>
-
-
-
 
 // Pos: 0000440A
 
@@ -272,9 +248,6 @@ STILL TRYING TO HURT
 ME?!
 <$00>
 
-
-
-
 // Pos: 00004450
 
 #WLB(PTR, $00000BF0)
@@ -292,9 +265,6 @@ pure good"?! What
 <$0C>
 does that mean?!
 <$00>
-
-
-
 
 // Pos: 00004474
 
@@ -315,9 +285,6 @@ that the spirit will
 know rebirth.
 <$05><$00>
 
-
-
-
 // Pos: 000044C0
 
 #WLB(PTR, $00000C10)
@@ -327,17 +294,15 @@ know rebirth.
 <$10>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第ニの預言を得た。
-So sayeth the second\n
-prophecy.
+So sayeth the\n
+second prophecy.
 <$00>
-
-
-
 
 // Pos: 000044D8
 
@@ -358,9 +323,6 @@ mean he's in the Land\n
 of the Dead now?
 <$00>
 
-
-
-
 // Pos: 000044FF
 
 #WLB(PTR, $00000C60)
@@ -377,9 +339,6 @@ Now! The end is upon\n
 you!
 <$00>
 
-
-
-
 // Pos: 0000451D
 
 #WLB(PTR, $00000CD8)
@@ -395,8 +354,7 @@ William:
 Hehehe, THIS is the\n
 prophecy everyone's
 <$0C>
-talking about? No\n
-way!
+talking about? No way!
 <$0C><$0B>
 //ウィリアム：
 William:
@@ -419,9 +377,6 @@ William! No,
 <$0C>
 something's missing!
 <$00>
-
-
-
 
 // Pos: 00004591
 
@@ -452,9 +407,6 @@ last fucker in this
 colony to die!
 <$00>
 
-
-
-
 // Pos: 000045DA
 
 #WLB(PTR, $000011B4)
@@ -470,9 +422,6 @@ William:
 Damn you! Damn you\n
 all!
 <$00>
-
-
-
 
 // Pos: 000045F2
 
@@ -503,9 +452,6 @@ this face...\n
 William's brain is\n
 crackling... Hic!
 <$00>
-
-
-
 
 // Pos: 0000463B
 
@@ -555,9 +501,6 @@ But I don't even know\n
 where I am, dammit!
 <$00>
 
-
-
-
 // Pos: 000046CA
 
 #WLB(PTR, $00001488)
@@ -598,9 +541,6 @@ memory? I don't know
 if this pure white\n
 room is safe.
 <$00>
-
-
-
 
 // Pos: 0000474B
 
@@ -662,9 +602,6 @@ GOD, DON'T LOOK AT
 ME! SAVE MEEE!
 <$00>
 
-
-
-
 // Pos: 0000480F
 
 #WLB(PTR, $00000F14)
@@ -683,9 +620,6 @@ sounds like something
 is reverberating.
 <$00>
 
-
-
-
 // Pos: 00004834
 
 #WLB(PTR, $00000F28)
@@ -701,9 +635,6 @@ Yolanda:
 What's out here? Talk\n
 about creepy...
 <$00>
-
-
-
 
 // Pos: 00004852
 
@@ -722,7 +653,4 @@ people bouncing
 <$0C>
 around?
 <$00>
-
-
-
 

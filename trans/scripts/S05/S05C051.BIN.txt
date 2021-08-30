@@ -33,9 +33,6 @@ Does that mean God is\n
 here?
 <$00>
 
-
-
-
 // Pos: 00002F60
 
 #WLB(PTR, $00001640)
@@ -54,9 +51,6 @@ However, Galil, is no
 god!
 <$00>
 
-
-
-
 // Pos: 00002F90
 
 #WLB(PTR, $00001680)
@@ -73,12 +67,8 @@ Indeed. Galil really\n
 did go off the deep
 <$0C>
 end, if he thought he\n
-could achieve\n
-godhood.
+could achieve godhood.
 <$00>
-
-
-
 
 // Pos: 00002FB3
 
@@ -169,9 +159,6 @@ to become that which\n
 exceeds the flesh.
 <$00>
 
-
-
-
 // Pos: 00003022
 
 #WLB(PTR, $000016A8)
@@ -191,9 +178,6 @@ dying? It sounds like\n
 he had a suicidal\n
 ideation.
 <$00>
-
-
-
 
 // Pos: 0000304B
 
@@ -223,9 +207,6 @@ they become an\n
 eternal existence.
 <$00>
 
-
-
-
 // Pos: 000030A4
 
 #WLB(PTR, $00001700)
@@ -244,9 +225,6 @@ purify that evil?
 Isn't that what\n
 prayer is for?
 <$00>
-
-
-
 
 // Pos: 000030CD
 
@@ -284,9 +262,6 @@ power from Universal
 Man.
 <$00>
 
-
-
-
 // Pos: 0000313D
 
 #WLB(PTR, $00001728)
@@ -313,9 +288,6 @@ I give this ounce of\n
 power to you.
 <$00>
 
-
-
-
 // Pos: 00003187
 
 #WLB(PTR, $000018B8)
@@ -331,9 +303,6 @@ Laika(?):
 Is this...the secret\n
 power? It feels warm.
 <$00>
-
-
-
 
 // Pos: 000031A9
 
@@ -385,9 +354,6 @@ don't want to make\n
 people sick, do you?
 <$00>
 
-
-
-
 // Pos: 0000325D
 
 #WLB(PTR, $000019F0)
@@ -416,9 +382,6 @@ someone else loses
 <$0C>
 their mind over this?
 <$00>
-
-
-
 
 // Pos: 00003298
 
@@ -459,9 +422,6 @@ This is the moment of\n
 truth.
 <$00>
 
-
-
-
 // Pos: 00003314
 
 #WLB(PTR, $00001A18)
@@ -479,9 +439,6 @@ have? What makes me
 <$0C>
 so special?
 <$00>
-
-
-
 
 // Pos: 00003332
 
@@ -513,9 +470,6 @@ say? I cannot see
 anything beyond that.
 <$00>
 
-
-
-
 // Pos: 00003396
 
 #WLB(PTR, $00001A40)
@@ -531,9 +485,6 @@ Laika(?):
 Why am I here? Why am\n
 I standing on Mars?
 <$00>
-
-
-
 
 // Pos: 000033B8
 
@@ -563,9 +514,6 @@ pure evil entwine, so
 the world can be\n
 reborn."
 <$00>
-
-
-
 
 // Pos: 00003432
 
@@ -598,9 +546,6 @@ statement and the\n
 light show around the\n
 Face.
 <$00>
-
-
-
 
 // Pos: 00003483
 
@@ -645,9 +590,6 @@ ago. That was\n
 Jeremiah the Exile.
 <$00>
 
-
-
-
 // Pos: 0000351C
 
 #WLB(PTR, $00001C08)
@@ -667,9 +609,6 @@ saw earlier must be a\n
 participant of this\n
 prophecy.
 <$00>
-
-
-
 
 // Pos: 0000354E
 
@@ -708,9 +647,6 @@ Galil has not found\n
 all five of them yet.
 <$00>
 
-
-
-
 // Pos: 000035DD
 
 #WLB(PTR, $00001D60)
@@ -738,10 +674,8 @@ where are the
 <$0C>
 prophecies? Is it\n
 possible for me to\n
-speak with Universal\n
+speak with Universal
+<$0C>
 Man?
 <$00>
-
-
-
 

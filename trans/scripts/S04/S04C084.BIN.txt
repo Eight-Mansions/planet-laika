@@ -20,9 +20,6 @@ East:
 Who are you?
 <$00>
 
-
-
-
 // Pos: 00002488
 
 #WLB(PTR, $00000EE8)
@@ -37,9 +34,6 @@ West:
 \n
 From Little's dream!
 <$00>
-
-
-
 
 // Pos: 0000249E
 
@@ -57,9 +51,6 @@ Is that where you\n
 came from?
 <$00>
 
-
-
-
 // Pos: 000024B4
 
 #WLB(PTR, $00000F48)
@@ -75,9 +66,6 @@ West:
 You prayed together\n
 in the dream!
 <$00>
-
-
-
 
 // Pos: 000024D2
 
@@ -95,9 +83,6 @@ You prayed to\n
 Little's god?
 <$00>
 
-
-
-
 // Pos: 000024F3
 
 #WLB(PTR, $00000FA8)
@@ -113,9 +98,6 @@ West:
 The medicine men put\n
 them up to it!
 <$00>
-
-
-
 
 // Pos: 00002514
 
@@ -133,9 +115,6 @@ So you were\n
 influenced?
 <$00>
 
-
-
-
 // Pos: 00002534
 
 #WLB(PTR, $00001008)
@@ -150,9 +129,6 @@ West:
 \n
 He's not influenced!
 <$00>
-
-
-
 
 // Pos: 00002547
 
@@ -176,9 +152,6 @@ Is he inside?
 〇
 <$00>
 
-
-
-
 // Pos: 0000255C
 
 #WLB(PTR, $00001068)
@@ -196,16 +169,11 @@ West:
 //\n開けるんだ。リトルさんはきっと中だ。
 \n
 Little must be\n
-inside! Open the
-<$0C>
-door!
+inside! Open the door!
 <$1E>
 //〇
 〇
 <$00>
-
-
-
 
 // Pos: 0000257D
 
@@ -228,9 +196,6 @@ it, right?
 //声
 声
 <$00>
-
-
-
 
 // Pos: 000025B8
 
@@ -270,9 +235,6 @@ spell!
 声
 <$00>
 
-
-
-
 // Pos: 00002620
 
 #WLB(PTR, $00001900)
@@ -295,9 +257,6 @@ their spell!
 //家
 家
 <$00>
-
-
-
 
 // Pos: 0000264C
 
@@ -365,9 +324,6 @@ just like last time.
 声
 <$00>
 
-
-
-
 // Pos: 000026EB
 
 #WLB(PTR, $00001828)
@@ -388,9 +344,6 @@ magic dance, a-yup.
 //家
 家
 <$00>
-
-
-
 
 // Pos: 0000270B
 
@@ -440,9 +393,6 @@ is floating about in
 my head.
 <$00>
 
-
-
-
 // Pos: 00002793
 
 #WLB(PTR, $00001B88)
@@ -489,9 +439,6 @@ Yes, the word\n
 <$0C>
 about in my head.
 <$00>
-
-
-
 
 // Pos: 00002820
 
@@ -541,9 +488,6 @@ Yes, the word\n
 <$0C>
 about in my head.
 <$00>
-
-
-
 
 // Pos: 000028B5
 
@@ -600,9 +544,6 @@ a type, you'll never
 find Liever.
 <$00>
 
-
-
-
 // Pos: 00002956
 
 #WLB(PTR, $00001BA0)
@@ -625,8 +566,7 @@ Cosmas:
 He's not waiting for\n
 "you" per se, but
 <$0C>
-someone inside of\n
-you.
+someone inside of you.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -641,7 +581,4 @@ much to discuss.
 //理
 理
 <$00>
-
-
-
 

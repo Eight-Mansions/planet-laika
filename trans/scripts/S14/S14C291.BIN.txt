@@ -36,9 +36,6 @@ EastWest：
 And now, we are one.
 <$00>
 
-
-
-
 // Pos: 00000F8C
 
 #WLB(PTR, $00000198)
@@ -71,9 +68,6 @@ It is convenient and\n
 inconvenient.
 <$00>
 
-
-
-
 // Pos: 00000FE5
 
 #WLB(PTR, $000001AC)
@@ -86,8 +80,7 @@ EastWest：
 <$0D>
 //\nいろんなこと、\nこと、
 \n
-We can hear? (We\n
-can!)
+We can hear? (We can!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
@@ -113,9 +106,6 @@ EastWest：
 He began to murmur a\n
 prophecy.
 <$00>
-
-
-
 
 // Pos: 00001049
 
@@ -159,9 +149,6 @@ To the bedroom.
 声
 <$00>
 
-
-
-
 // Pos: 000010A9
 
 #WLB(PTR, $0000023C)
@@ -188,7 +175,4 @@ in.
 //家
 家
 <$00>
-
-
-
 

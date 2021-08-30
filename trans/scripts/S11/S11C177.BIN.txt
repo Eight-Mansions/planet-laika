@@ -43,9 +43,6 @@ underground canal,\n
 doesn't he?
 <$00>
 
-
-
-
 // Pos: 000018D3
 
 #WLB(PTR, $000004B8)
@@ -64,9 +61,6 @@ see the mind's eyes
 too, can you not?
 <$00>
 
-
-
-
 // Pos: 000018F5
 
 #WLB(PTR, $000004DC)
@@ -82,9 +76,6 @@ Cosmas:
 Was there anything\n
 you wanted to ask me?
 <$00>
-
-
-
 
 // Pos: 00001919
 
@@ -104,17 +95,15 @@ fact...
 //１．君とダミアヌスは双子なのか\n２．ダークマンというのはあの人形のことなのか\n３．泡のおじさんって誰のことだ？
 1. Are you and Damian\n
 twins?\n
-Is Dark Man a doll?\n
+Is Dark Man a doll?
+<$0C>
 Who is Uncle Bubbles?
 <$1B>
 //２１ \n２ \n３ 
-２1\n
-2\n
+２1 \n
+2 \n
 3
 <$00><$17><$00>
-
-
-
 
 // Pos: 0000197D
 
@@ -142,9 +131,6 @@ for spinning tall
 tales on the fly.
 <$00>
 
-
-
-
 // Pos: 000019C6
 
 #WLB(PTR, $00000544)
@@ -164,9 +150,6 @@ but he usually\n
 borrows the body of\n
 my doll.
 <$00>
-
-
-
 
 // Pos: 000019FC
 
@@ -197,9 +180,6 @@ always covered in
 soap bubbles.
 <$00>
 
-
-
-
 // Pos: 00001A42
 
 #WLB(PTR, $000005A0)
@@ -223,13 +203,8 @@ Cosmas:
 //\nもしあんたが僕だったら、\nレッドおじさんを許してあげる？
 \n
 If you were me, would\n
-you forgive Uncle
-<$0C>
-Red?
+you forgive Uncle Red?
 <$00>
-
-
-
 
 // Pos: 00001A87
 
@@ -249,9 +224,6 @@ was horrible! He
 forced you to get\n
 vanity face, and...
 <$00>
-
-
-
 
 // Pos: 00001ABE
 
@@ -292,9 +264,9 @@ through the
 <$0C>
 sandstorms in my\n
 dreams, a whistling\n
-howl blows it back,\n
-and I start to\n
-freeze.
+howl blows it back,
+<$0C>
+and I start to freeze.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -307,9 +279,6 @@ noticed because Dark
 Man is sharpening my\n
 mind.
 <$00>
-
-
-
 
 // Pos: 00001B8A
 
@@ -326,9 +295,6 @@ Spacer:
 Do you always see\n
 sandstorms?
 <$00>
-
-
-
 
 // Pos: 00001BAA
 
@@ -355,9 +321,6 @@ answer. If you don't
 answer quickly, I'll\n
 fall asleep.
 <$00>
-
-
-
 
 // Pos: 00001BF4
 
@@ -390,12 +353,10 @@ could I forgive my\n
 oppressor?
 <$1B>
 //※許してもかまわない\n許すことはできない
-※Possibly\n
+※Possibly
+<$0C>
 Never
 <$00><$17><$00>
-
-
-
 
 // Pos: 00001C61
 
@@ -412,9 +373,6 @@ Cosmas:
 Hmm, I see.
 <$00>
 
-
-
-
 // Pos: 00001C74
 
 #WLB(PTR, $000007DC)
@@ -429,9 +387,6 @@ Spacer:
 \n
 What about you?
 <$00>
-
-
-
 
 // Pos: 00001C89
 
@@ -471,9 +426,6 @@ always meet inside of\n
 another dream.
 <$00>
 
-
-
-
 // Pos: 00001CF0
 
 #WLB(PTR, $00000828)
@@ -489,9 +441,6 @@ Spacer:
 Inside of another\n
 dream?
 <$00>
-
-
-
 
 // Pos: 00001D03
 
@@ -513,9 +462,6 @@ it's lights-off time,\n
 okay?
 <$00>
 
-
-
-
 // Pos: 00001D2D
 
 #WLB(PTR, $00000868)
@@ -533,12 +479,10 @@ remember well, but we
 <$0C>
 met before. I can\n
 tell you about the\n
-glowing stones, at\n
+glowing stones, at
+<$0C>
 least.
 <$00>
-
-
-
 
 // Pos: 00001D71
 
@@ -555,9 +499,6 @@ Spacer:
 Lights-off time?
 <$00>
 
-
-
-
 // Pos: 00001D87
 
 #WLB(PTR, $000008B4)
@@ -570,12 +511,8 @@ Cosmas:
 <$0D>
 //\nそうさ、お休みだよ、あんた。
 \n
-Yeah. Now, good\n
-night!
+Yeah. Now, good night!
 <$00>
-
-
-
 
 // Pos: 00001DA0
 
@@ -591,7 +528,4 @@ Spacer:
 \n
 Did he go to sleep?
 <$00>
-
-
-
 

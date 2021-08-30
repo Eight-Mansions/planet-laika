@@ -18,9 +18,6 @@ That was pretty\n
 scary, not gonna lie.
 <$00>
 
-
-
-
 // Pos: 00001B88
 
 #WLB(PTR, $00000448)
@@ -35,9 +32,6 @@ Yang:
 \n
 What happened to you?
 <$00>
-
-
-
 
 // Pos: 00001B9A
 
@@ -70,9 +64,6 @@ door on the right.
 鋭
 <$00>
 
-
-
-
 // Pos: 00001BE6
 
 #WLB(PTR, $0000025C)
@@ -93,9 +84,6 @@ happy?
 //誰
 誰
 <$1E><$17><$00>
-
-
-
 
 // Pos: 00001C11
 
@@ -123,8 +111,7 @@ Something on Mars\n
 germinates this
 <$0C>
 nonsensical seed. I\n
-fend it off every\n
-day.
+fend it off every day.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -149,7 +136,4 @@ Would I only know\n
 peace if I was never\n
 born?
 <$00>
-
-
-
 

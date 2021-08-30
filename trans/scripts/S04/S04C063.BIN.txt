@@ -21,9 +21,6 @@ Agatha! Did those two\n
 leave?
 <$00>
 
-
-
-
 // Pos: 00001DA1
 
 #WLB(PTR, $000002D0)
@@ -39,9 +36,6 @@ Madam Agatha:
 Yes, for a moment.\n
 Now, you must go!
 <$00>
-
-
-
 
 // Pos: 00001DBF
 
@@ -63,9 +57,6 @@ Judgement affecting\n
 Mars?
 <$00>
 
-
-
-
 // Pos: 00001DF1
 
 #WLB(PTR, $000002F8)
@@ -85,9 +76,6 @@ your companions will\n
 be taken.
 <$00>
 
-
-
-
 // Pos: 00001E27
 
 #WLB(PTR, $0000030C)
@@ -105,9 +93,6 @@ Who would do such a
 <$0C>
 thing?
 <$00>
-
-
-
 
 // Pos: 00001E41
 
@@ -128,9 +113,6 @@ companions and return\n
 to Earth.
 <$00>
 
-
-
-
 // Pos: 00001E80
 
 #WLB(PTR, $00000334)
@@ -146,9 +128,6 @@ April:
 I understand. Thank\n
 you for this, Agatha.
 <$00>
-
-
-
 
 // Pos: 00001E9B
 
@@ -169,9 +148,6 @@ and look for the\n
 black wall.
 <$00>
 
-
-
-
 // Pos: 00001ECB
 
 #WLB(PTR, $0000035C)
@@ -189,9 +165,6 @@ What a strange place
 <$0C>
 for us to have to go.
 <$00>
-
-
-
 
 // Pos: 00001EF0
 
@@ -224,7 +197,4 @@ for me.
 //‰s
 ‰s
 <$00>
-
-
-
 

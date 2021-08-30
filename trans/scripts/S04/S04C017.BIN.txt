@@ -31,9 +31,6 @@ colony?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 00002E40
 
 #WLB(PTR, $000001E6)
@@ -60,9 +57,6 @@ I'll wait here for
 you.
 <$00>
 
-
-
-
 // Pos: 00002E5F
 
 #WLB(PTR, $000019F4)
@@ -86,9 +80,6 @@ under the "Judgement"\n
 rumors, and it shows.
 <$00>
 
-
-
-
 // Pos: 00002E9A
 
 #WLB(PTR, $000018D0)
@@ -110,9 +101,6 @@ before I change my
 <$0C>
 mind.
 <$00>
-
-
-
 
 // Pos: 00002EBB
 
@@ -143,9 +131,6 @@ now. There is nothing\n
 to discuss.
 <$00>
 
-
-
-
 // Pos: 00002F1E
 
 #WLB(PTR, $000016A0)
@@ -164,9 +149,6 @@ limits. Divert your
 attention to\n
 elsewhere.
 <$00>
-
-
-
 
 // Pos: 00002F41
 
@@ -194,9 +176,6 @@ area is currently off
 limits.
 <$00>
 
-
-
-
 // Pos: 00002F5A
 
 #WLB(PTR, $00001728)
@@ -214,9 +193,6 @@ dangerous because
 <$0C>
 they are vulnerable.
 <$00>
-
-
-
 
 // Pos: 00002F78
 
@@ -237,9 +213,6 @@ the smallest touch of\n
 evil will taint a\n
 person.
 <$00>
-
-
-
 
 // Pos: 00002FB4
 
@@ -288,9 +261,6 @@ good people face the\n
 most danger.
 <$00>
 
-
-
-
 // Pos: 00002FD8
 
 #WLB(PTR, $000015C0)
@@ -315,9 +285,6 @@ instant. We must keep\n
 them safe for now.
 <$00>
 
-
-
-
 // Pos: 0000300E
 
 #WLB(PTR, $000016B4)
@@ -333,13 +300,10 @@ them safe for now.
 Noble Rock:
 <$0D>
 //\nコロニーは外出禁止、\nロッジも立入禁止だ。
-The colony is off\n
-limits, as is the\n
-lodge.
+The colony\n
+is off limits, as is\n
+the lodge.
 <$00>
-
-
-
 
 // Pos: 00003038
 
@@ -356,9 +320,6 @@ Spacer:
 I know. All I wanted\n
 was to pass by.
 <$00>
-
-
-
 
 // Pos: 00003058
 
@@ -378,9 +339,6 @@ to get possessed by
 evil, right?
 <$00>
 
-
-
-
 // Pos: 00003079
 
 #WLB(PTR, $00001584)
@@ -396,9 +354,6 @@ Ernest:
 Why, because I'm not\n
 registered?
 <$00>
-
-
-
 
 // Pos: 0000309B
 
@@ -418,9 +373,6 @@ to like good people
 very much.
 <$00>
 
-
-
-
 // Pos: 000030C6
 
 #WLB(PTR, $000015D4)
@@ -439,9 +391,6 @@ I'd kill to get in
 here.
 <$00>
 
-
-
-
 // Pos: 000030EA
 
 #WLB(PTR, $000016C8)
@@ -457,9 +406,6 @@ Ernest:
 Whatever covers all\n
 the bases.
 <$00>
-
-
-
 
 // Pos: 00003103
 
@@ -477,9 +423,6 @@ Huh? This thing says\n
 I'm not registered.
 <$00>
 
-
-
-
 // Pos: 0000312D
 
 #WLB(PTR, $00001620)
@@ -495,12 +438,8 @@ Yolanda:
 The hunt is on, huh.\n
 Are good people
 <$0C>
-really that\n
-dangerous?
+really that dangerous?
 <$00>
-
-
-
 
 // Pos: 00003157
 
@@ -522,9 +461,6 @@ there's even less\n
 rest for the good.
 <$00>
 
-
-
-
 // Pos: 00003187
 
 #WLB(PTR, $000016EC)
@@ -544,9 +480,6 @@ unstable "nice guys"\n
 around me anyways.
 <$00>
 
-
-
-
 // Pos: 000031AC
 
 #WLB(PTR, $00001BF4)
@@ -565,9 +498,6 @@ looking for me? I
 went to Agatha for a\n
 reading over a dream.
 <$00>
-
-
-
 
 // Pos: 000031D0
 
@@ -610,9 +540,6 @@ so curious, I asked
 Agatha to look at it.
 <$00>
 
-
-
-
 // Pos: 00003251
 
 #WLB(PTR, $00001E64)
@@ -632,9 +559,6 @@ mine. I'd only found\n
 it in a dream.
 <$00>
 
-
-
-
 // Pos: 0000327F
 
 #WLB(PTR, $00001E84)
@@ -651,8 +575,7 @@ After that, Agatha\n
 told me to find
 <$0C>
 Little, the guy from\n
-the oxygen\n
-dispensary.
+the oxygen dispensary.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -664,9 +587,6 @@ you have any idea
 <$0C>
 where he went?
 <$00>
-
-
-
 
 // Pos: 000032D7
 
@@ -753,9 +673,6 @@ could see more, but
 the vision is fading.
 <$00>
 
-
-
-
 // Pos: 0000344B
 
 #WLB(PTR, $00000AB8)
@@ -764,16 +681,13 @@ the vision is fading.
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON!\n
+ WELCOME TO PRISON!\n
 REGISTRANT NAME:\n
 "
 <$0F>
 //！
 "
 <$00>
-
-
-
 
 // Pos: 00003462
 
@@ -795,15 +709,12 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
-NOT REGISTERED FOR\n
+ NOT REGISTERED FOR\n
 ENTRY. FOR DETAILS\n
 AND ASSISTANCE, SPEAK
 <$0C>
 TO AN ADMINISTRATOR.
 <$00>
-
-
-
 
 // Pos: 0000348E
 
@@ -825,12 +736,9 @@ TO AN ADMINISTRATOR.
 
 <$12><$13>
 // ヤハリ アナタハ\nトウロクサレテイマセン。
-USER NOT REGISTERED\n
+ USER NOT REGISTERED\n
 FOR ENTRY.
 <$00>
-
-
-
 
 // Pos: 000034A7
 
@@ -850,9 +758,6 @@ I supposed to
 register?
 <$00>
 
-
-
-
 // Pos: 000034CA
 
 #WLB(PTR, $00000BC8)
@@ -866,13 +771,11 @@ Yolanda:
 //\n何よこれ？\n失礼しちゃうわね！
 \n
 The fuck does that\n
-mean?\n
+mean?
+<$0C>
 Hello? A little help\n
 here?!
 <$00>
-
-
-
 
 // Pos: 000034E7
 
@@ -889,7 +792,4 @@ Spacer:
 Hmm... Looks like I'm\n
 not getting in.
 <$00>
-
-
-
 

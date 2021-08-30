@@ -21,9 +21,6 @@ Listen to me,\n
 please...
 <$00>
 
-
-
-
 // Pos: 00001359
 
 #WLB(PTR, $00000428)
@@ -39,9 +36,6 @@ want your\n
 Christmas present.
 <$00>
 
-
-
-
 // Pos: 00001388
 
 #WLB(PTR, $000003D8)
@@ -54,27 +48,27 @@ Christmas present.
 //あなたが言うことを開いてくれて、\n
 You always do as\n
 you're told.\n
+
 <$0B>
 //  
-
+  
 <$0D>
 //ママは嬉しいわ、エイプリル。\n
-You make Mother so\n
+You make Mother so
+<$0C>
 happy, April.\n
+
 <$0B>
 // 
-
+ 
 <$0D>
 //ずっと側にいてね、いい子だから。
 I'll always be here\n
-for you,\n
-because you're my
+for you,
 <$0C>
+because you're my\n
 good girl.
 <$00>
-
-
-
 
 // Pos: 000013C8
 
@@ -89,7 +83,4 @@ You were born in my
 <$0C>
 image.
 <$00>
-
-
-
 

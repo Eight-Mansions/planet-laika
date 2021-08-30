@@ -24,9 +24,6 @@ and Sergei's voices,\n
 but...why now?
 <$00>
 
-
-
-
 // Pos: 0000477B
 
 #WLB(PTR, $00001F78)
@@ -45,9 +42,6 @@ my treasure though.
 My brightly glowing\n
 treasure...
 <$00>
-
-
-
 
 // Pos: 000047A8
 
@@ -86,9 +80,6 @@ in handy for yanking
 it out, Ernest.
 <$00>
 
-
-
-
 // Pos: 0000480B
 
 #WLB(PTR, $00001FB0)
@@ -101,9 +92,9 @@ Yolanda:
 <$0D>
 //\nねぇ、どこなの、ここは？\nやけにすさんだ場所ね。
 \n
-Where are we,\n
-anyways?\n
-This place is a\n
+Where are we, anyways?\n
+This place is a
+<$0C>
 shithole.
 <$0C><$0B>
 //ヨランダ：
@@ -118,9 +109,6 @@ with things this\n
 desolate.
 <$00>
 
-
-
-
 // Pos: 00004850
 
 #WLB(PTR, $00001FC8)
@@ -134,9 +122,11 @@ Spacer:
 //\n火星だ。
 \n
 We're on Mars.\n
+
 <$0F>
 //は\n任務で火星にやってきている。
-is on a mission to\n
+ is on a mission to
+<$0C>
 Mars.
 <$0C><$0B>
 //スペーサー：
@@ -147,11 +137,12 @@ Spacer:
 Something on the\n
 planet's surface is
 <$0C>
-affecting
+affecting 
 <$0F>
 //に作用して、\nあんな声が開こえたんだ。
-'s mind. That's why\n
-we heard voices.
+'s mind.\n
+That's why we heard\n
+voices.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -162,14 +153,11 @@ But those voices came\n
 from deep, dark
 <$0C>
 childhood memories. I\n
-thought
+thought 
 <$0F>
 //は、忘れてなかったんだ。
-forgot them.
+ forgot them.
 <$00>
-
-
-
 
 // Pos: 000048D0
 
@@ -212,9 +200,6 @@ job from the ISF at\n
 this time of year?
 <$00>
 
-
-
-
 // Pos: 00004958
 
 #WLB(PTR, $00001FF8)
@@ -242,9 +227,6 @@ decks their halls, so\n
 be it.
 <$00>
 
-
-
-
 // Pos: 0000499E
 
 #WLB(PTR, $00002010)
@@ -264,9 +246,6 @@ from inside a rocket.\n
 I mean, shit, who\n
 knew Mars had a face?
 <$00>
-
-
-
 
 // Pos: 000049D4
 
@@ -298,9 +277,6 @@ unit's mission\n
 somehow.
 <$00>
 
-
-
-
 // Pos: 00004A26
 
 #WLB(PTR, $00002040)
@@ -320,9 +296,6 @@ made here? Can we all\n
 get the surgery too?
 <$00>
 
-
-
-
 // Pos: 00004A50
 
 #WLB(PTR, $00002058)
@@ -340,9 +313,6 @@ with you two. "I" am
 <$0C>
 Ernest, understand?
 <$00>
-
-
-
 
 // Pos: 00004A83
 
@@ -362,9 +332,6 @@ Are you TRYING to
 surface right now?
 <$00>
 
-
-
-
 // Pos: 00004AB2
 
 #WLB(PTR, $00002088)
@@ -382,9 +349,6 @@ knows what'd happen
 <$0C>
 with me on the loose.
 <$00>
-
-
-
 
 // Pos: 00004AD9
 
@@ -404,9 +368,6 @@ out later. Someone's
 coming.
 <$00>
 
-
-
-
 // Pos: 00004B04
 
 #WLB(PTR, $0000238C)
@@ -419,11 +380,12 @@ Spirit Man:
 <$0D>
 //\nひょひょ、
 \n
-Hyohyo,
+Hyohyo, 
 <$0F>
 //や、\nお前はひとりではないな。
 !\n
-You were not alone\n
+You were not alone
+<$0C>
 after all!
 <$0C><$0B>
 //スピリットマン：
@@ -436,9 +398,6 @@ complex than you
 <$0C>
 look, hyohyo!
 <$00>
-
-
-
 
 // Pos: 00004B4A
 
@@ -470,9 +429,6 @@ you'll undergo a
 personality shift,\n
 hyohyoh!
 <$00>
-
-
-
 
 // Pos: 00004BA1
 
@@ -516,9 +472,6 @@ mind via the mind\n
 scope.
 <$00>
 
-
-
-
 // Pos: 00004C20
 
 #WLB(PTR, $0000241C)
@@ -537,9 +490,6 @@ keep a close eye on
 your mind.
 <$00>
 
-
-
-
 // Pos: 00004C43
 
 #WLB(PTR, $00001C80)
@@ -552,9 +502,6 @@ Are you talking to\n
 the stars again?
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 00004C5F
 
 #WLB(PTR, $00001C90)
@@ -565,9 +512,6 @@ the stars again?
 歪験Hyahyahya! Get a\n
 life, space brain!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00004C76
 
@@ -580,9 +524,6 @@ life, space brain!
 boring Goody Two\n
 Shoes.
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00004C90
 
@@ -601,7 +542,4 @@ yet?
 //炎
 炎
 <$00>
-
-
-
 

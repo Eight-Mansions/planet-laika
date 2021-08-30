@@ -21,9 +21,6 @@ Universal Man...\n
 You're Universal Man.
 <$00>
 
-
-
-
 // Pos: 000024B2
 
 #WLB(PTR, $00000294)
@@ -49,9 +46,6 @@ me, and
 stoooole...the secret\n
 powerrr...
 <$00>
-
-
-
 
 // Pos: 000024FA
 
@@ -81,9 +75,6 @@ late, are we? Come
 on, answer me!
 <$00>
 
-
-
-
 // Pos: 0000253E
 
 #WLB(PTR, $000002BC)
@@ -96,15 +87,11 @@ Universal Man:
 <$0D>
 //\nあああ… ガリルのやつ…\n完全なる善となるべく… あああ…
 \n
-\n
-Gaaa...Galiiiil...seeks
+Gaaa...Galiiiil...seeks\n
+ to become pure
 <$0C>
-to become pure\n
 gooooood...
 <$00>
-
-
-
 
 // Pos: 0000256C
 
@@ -125,9 +112,6 @@ prophecies? Is\n
 finding them all even\n
 possible?
 <$00>
-
-
-
 
 // Pos: 00002595
 
@@ -162,11 +146,10 @@ Universal Man:
 //\n生ではなく、死に！
 \n
 I'm not even\n
-alive...I'mmmm...dyiiiiing!
+alive...I'mmmm...dyiiii
+<$0C>
+ing!
 <$00>
-
-
-
 
 // Pos: 000025FF
 
@@ -184,9 +167,6 @@ Quick, tell me the\n
 prophecy!
 <$00>
 
-
-
-
 // Pos: 00002618
 
 #WLB(PTR, $0000030C)
@@ -202,11 +182,8 @@ Universal Man:
 Ahhh...yes, I can\n
 burn in the flames
 <$0C>
-of...maledictionnnn....
+of...maledictionnnn....\n
 <$00>
-
-
-
 
 // Pos: 00002645
 
@@ -227,9 +204,6 @@ open in some way. Is\n
 this Jeremiah's\n
 prophecy?
 <$00>
-
-
-
 
 // Pos: 00002676
 
@@ -258,9 +232,6 @@ That he may shine in\n
 that light.
 <$05><$00>
 
-
-
-
 // Pos: 000026E4
 
 #WLB(PTR, $0000244C)
@@ -270,17 +241,15 @@ that light.
 <$10>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第一の預言を得た。
-So sayeth the first\n
-prophecy.
+So sayeth the\n
+first prophecy.
 <$00>
-
-
-
 
 // Pos: 000026FC
 
@@ -312,9 +281,6 @@ stone...wouuuuld keep\n
 me from deaaath...
 <$00>
 
-
-
-
 // Pos: 00002753
 
 #WLB(PTR, $000006E4)
@@ -333,7 +299,4 @@ He didn't have a lust
 for death, did he?\n
 That's unsettling.
 <$00>
-
-
-
 

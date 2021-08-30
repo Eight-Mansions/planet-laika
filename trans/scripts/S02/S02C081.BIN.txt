@@ -17,9 +17,6 @@ Weren't you here\n
 before?
 <$00>
 
-
-
-
 // Pos: 00003AFD
 
 #WLB(PTR, $00000D14)
@@ -29,9 +26,6 @@ before?
 //話っていうんだろ？
 話, is it?
 <$00>
-
-
-
 
 // Pos: 00003B08
 
@@ -51,9 +45,6 @@ had an especially
 hard time getting a\n
 good look at you.
 <$00>
-
-
-
 
 // Pos: 00003B3E
 
@@ -88,8 +79,7 @@ Damian:
 So, Laika, would you\n
 like to know where
 <$0C>
-your two friends\n
-went?
+your two friends went?
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -103,9 +93,6 @@ heehee, they wandered\n
 off on their own\n
 along the way.
 <$00>
-
-
-
 
 // Pos: 00003BD5
 
@@ -176,9 +163,6 @@ the Inductive Hills\n
 just ahead.
 <$00>
 
-
-
-
 // Pos: 00003CAC
 
 #WLB(PTR, $0000145C)
@@ -216,15 +200,11 @@ You need to do so out\n
 here in the sands, of
 <$0C>
 course. If not, how\n
-am I supposed to\n
-hear?
+am I supposed to hear?
 <$1E>
 //炎
 炎
 <$00>
-
-
-
 
 // Pos: 00003D23
 
@@ -235,17 +215,15 @@ hear?
 <$10>
 //\n
 \n
+
 <$0B>
 //    
-
+    
 <$0D>
 //砂のシンパシーを手に入れた。
 Sand Sympathy\n
 acquired.
 <$00>
-
-
-
 
 // Pos: 00003D3D
 
@@ -264,9 +242,6 @@ Are you feeling out
 <$0C>
 of your element?
 <$00>
-
-
-
 
 // Pos: 00003D60
 
@@ -331,9 +306,6 @@ better head back.
 炎
 <$00>
 
-
-
-
 // Pos: 00003E2D
 
 #WLB(PTR, $00001E88)
@@ -361,9 +333,6 @@ something you wish\n
 you could open up\n
 about.
 <$00>
-
-
-
 
 // Pos: 00003E78
 
@@ -431,9 +400,6 @@ now. Until next time!
 炎
 <$00>
 
-
-
-
 // Pos: 00003F7D
 
 #WLB(PTR, $00001E58)
@@ -451,9 +417,6 @@ what will we talk
 <$0C>
 about this time?
 <$00>
-
-
-
 
 // Pos: 00003F9D
 
@@ -530,9 +493,6 @@ off!
 炎
 <$00>
 
-
-
-
 // Pos: 00004098
 
 #WLB(PTR, $00001E28)
@@ -558,9 +518,6 @@ Damian:
 Now, what would you\n
 like to know...
 <$00>
-
-
-
 
 // Pos: 000040D8
 
@@ -627,9 +584,6 @@ go now!
 炎
 <$00>
 
-
-
-
 // Pos: 000041D7
 
 #WLB(PTR, $00001DF8)
@@ -648,9 +602,6 @@ about this time? How
 about...a mystery of\n
 the colony!
 <$00>
-
-
-
 
 // Pos: 00004205
 
@@ -679,8 +630,7 @@ Sure, we all turn the\n
 lights out at night,
 <$0C>
 but the colony all\n
-does so at a set\n
-time.
+does so at a set time.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -718,9 +668,6 @@ heading out.
 炎
 <$00>
 
-
-
-
 // Pos: 000042E5
 
 #WLB(PTR, $00001DC8)
@@ -738,9 +685,6 @@ but do you want to
 <$0C>
 talk about dreams?
 <$00>
-
-
-
 
 // Pos: 00004303
 
@@ -783,7 +727,8 @@ doll that's all
 <$0C>
 black. It doesn't\n
 have eyes either.\n
-It's pitch black all\n
+It's pitch black all
+<$0C>
 over.
 <$0C><$0B>
 //ダミアヌス：
@@ -813,9 +758,6 @@ I'd better go home.
 炎
 <$00>
 
-
-
-
 // Pos: 00004419
 
 #WLB(PTR, $00001DA8)
@@ -831,12 +773,8 @@ Damian:
 Hey, have you ever\n
 had to do something
 <$0C>
-you didn't want to\n
-do?
+you didn't want to do?
 <$00>
-
-
-
 
 // Pos: 00004438
 
@@ -867,7 +805,8 @@ what the experiences
 <$0C>
 were. Sadly, I bet\n
 I'm being one of\n
-those bad experiences\n
+those bad experiences
+<$0C>
 now.
 <$0C><$0B>
 //ダミアヌス：
@@ -880,14 +819,11 @@ to blame, don't we?
 <$0C>
 Why do humans doom\n
 themselves to\n
-repetition so?
+repetition so? 
 <$1E>
 //炎
 炎
 <$00>
-
-
-
 
 // Pos: 000044D6
 
@@ -917,7 +853,4 @@ and over! I hate it!
 //炎
 炎
 <$00>
-
-
-
 

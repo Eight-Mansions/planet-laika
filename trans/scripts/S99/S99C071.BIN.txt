@@ -20,9 +20,6 @@ Cosmas:
 Where are you going?
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 00000A4E
 
 #WLB(PTR, $000001C4)
@@ -55,9 +52,6 @@ like my hand?
 ‰s
 <$00>
 
-
-
-
 // Pos: 00000AAA
 
 #WLB(PTR, $000002EC)
@@ -85,7 +79,4 @@ are you going? Let me
 <$0C>
 come with you.
 <$00>
-
-
-
 

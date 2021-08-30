@@ -21,12 +21,10 @@ Hey, do you want to\n
 hear about Red?
 <$1B>
 //、開きたい\n開きたくない
-、Yes\n
+、Yes
+<$0C>
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 00000C9D
 
@@ -126,9 +124,6 @@ weird radio waves in\n
 his head.
 <$00>
 
-
-
-
 // Pos: 00000E40
 
 #WLB(PTR, $0000017C)
@@ -146,9 +141,6 @@ make sure you steer
 <$0C>
 clear of him, a-yup.
 <$00>
-
-
-
 
 // Pos: 00000E62
 
@@ -188,9 +180,6 @@ a-yup.
 声
 <$00>
 
-
-
-
 // Pos: 00000EB2
 
 #WLB(PTR, $000002A4)
@@ -212,7 +201,4 @@ OTHER-other way.
 //家
 家
 <$00>
-
-
-
 

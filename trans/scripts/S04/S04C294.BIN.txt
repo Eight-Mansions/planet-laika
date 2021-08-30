@@ -24,9 +24,6 @@ nose around the\n
 oxygen dispensary.
 <$00>
 
-
-
-
 // Pos: 000020C5
 
 #WLB(PTR, $00000C08)
@@ -45,9 +42,6 @@ you to my store? I'm
 Feng, owner of House\n
 Liang.
 <$00>
-
-
-
 
 // Pos: 000020F6
 
@@ -104,9 +98,6 @@ cleanse your mind?
 中
 <$00>
 
-
-
-
 // Pos: 000021BD
 
 #WLB(PTR, $00000FB8)
@@ -153,16 +144,11 @@ Madam Agatha:
 //\nそれにフェイと建ってウソはないわ。
 \n
 And, unlike Feng,\n
-Veronica does not
-<$0C>
-lie.
+Veronica does not lie.
 <$1E>
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 0000227E
 
@@ -215,9 +201,6 @@ relentless!
 行
 <$00>
 
-
-
-
 // Pos: 0000231C
 
 #WLB(PTR, $00001108)
@@ -236,7 +219,4 @@ truly relentless!
 //行
 行
 <$00>
-
-
-
 

@@ -25,18 +25,16 @@ are...coursing\n
 through my head.
 <$00>
 
-
-
-
 // Pos: 00001094
 
 #WLB(PTR, $00000528)
 
 #WHB(PTR, $00000529)
 
+
 <$00>
 //     第４日 シルバンの月\nおっと、私はヨセミテ、その名の通り自然体。\nひょんなことからエッジのことを知るハメに。
-The Fourth of Sivan\n
+   The Fourth of Sivan\n
 As my name implies,\n
 I, Yosemite, am firm.
 <$0C>
@@ -81,9 +79,6 @@ I crumble in your\n
 presence!
 <$00>
 
-
-
-
 // Pos: 0000119E
 
 #WLB(PTR, $000005C0)
@@ -101,7 +96,4 @@ be one of the
 <$0C>
 medicine men.
 <$00>
-
-
-
 

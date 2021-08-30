@@ -23,9 +23,6 @@ get your face done
 too?
 <$00>
 
-
-
-
 // Pos: 00001F35
 
 #WLB(PTR, $00000664)
@@ -62,9 +59,6 @@ face-wash. I like to
 get my face washed up\n
 before bed.
 <$00>
-
-
-
 
 // Pos: 00001F9F
 
@@ -136,12 +130,8 @@ The Face was the\n
 inspiration she
 <$0C>
 needed to open shop\n
-as a cosmetic\n
-surgeon.
+as a cosmetic surgeon.
 <$00>
-
-
-
 
 // Pos: 00002085
 
@@ -184,9 +174,6 @@ before, or did I
 imagine it?
 <$00>
 
-
-
-
 // Pos: 000020E1
 
 #WLB(PTR, $000002CC)
@@ -204,9 +191,6 @@ friends? Did you come
 <$0C>
 here with them?
 <$00>
-
-
-
 
 // Pos: 00002106
 
@@ -226,9 +210,6 @@ knucklebones. You're
 not a pushover like\n
 they are, I hope,
 <$00>
-
-
-
 
 // Pos: 00002137
 
@@ -272,9 +253,6 @@ for the perfect\n
 moment.
 <$00>
 
-
-
-
 // Pos: 000021B9
 
 #WLB(PTR, $00000308)
@@ -291,12 +269,8 @@ Getting those two out\n
 of your hair was...an
 <$0C>
 exception, so you're\n
-the lucky roller\n
-here.
+the lucky roller here.
 <$00>
-
-
-
 
 // Pos: 000021E7
 
@@ -314,11 +288,9 @@ I'm Veronica. And you\n
 are?
 <$1B>
 //ÅDÉâÉCÉJ\n
-. Laika\n
+. Laika
+<$0C>
 <$0F><$00><$17><$00>
-
-
-
 
 // Pos: 0000220C
 
@@ -350,9 +322,6 @@ know that creeper,\n
 Smokey, is a regular\n
 of the said bar.
 <$00>
-
-
-
 
 // Pos: 0000226F
 
@@ -394,16 +363,13 @@ Veronica:
 When the mirror is\n
 complete, Edge will
 <$0C>
-appear. When everyone\n
-disappears, they will\n
-apper.
+appear.  When\n
+everyone disappears,\n
+they will apper.
 <$1E>
 //âs
 âs
 <$00>
-
-
-
 
 // Pos: 00002325
 
@@ -454,9 +420,6 @@ Vanity Face?
 ÅZ
 <$00>
 
-
-
-
 // Pos: 000023A6
 
 #WLB(PTR, $000004F0)
@@ -477,9 +440,6 @@ Brick Road.
 //ÅZ
 ÅZ
 <$00>
-
-
-
 
 // Pos: 000023C5
 
@@ -514,9 +474,6 @@ worms.
 ÅZ
 <$00>
 
-
-
-
 // Pos: 00002404
 
 #WLB(PTR, $00000564)
@@ -546,7 +503,4 @@ out for you.
 //ÅZ
 ÅZ
 <$00>
-
-
-
 

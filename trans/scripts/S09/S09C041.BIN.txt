@@ -11,6 +11,7 @@
 
 #WHB(PTR, $00000115)
 
+
 <$00><$14><$02><$11>
 //幅ペーサー、お前の存在に意味などないのだ。
 幅Spacer, your\n
@@ -18,14 +19,12 @@ existence is\n
 insignificant.
 <$0E><$78><$17><$00>
 
-
-
-
 // Pos: 00004DC6
 
 #WLB(PTR, $00000130)
 
 #WHB(PTR, $00000131)
+
 
 <$00><$14><$02><$11>
 //期を学んだ？ リトルから何を学んだのだ？
@@ -33,14 +32,12 @@ insignificant.
 learn from Little?
 <$0E><$78><$17><$00>
 
-
-
-
 // Pos: 00004DE5
 
 #WLB(PTR, $00000138)
 
 #WHB(PTR, $00000139)
+
 
 <$00><$14><$02><$11>
 //~ウの闇に目を向けろ。お前の本性が見えるぞ。
@@ -48,7 +45,4 @@ learn from Little?
 in your mind! Realize\n
 your true nature!
 <$0E><$78><$17><$00>
-
-
-
 

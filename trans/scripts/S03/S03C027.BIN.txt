@@ -23,9 +23,6 @@ we goin'? Got any
 ideas?
 <$00>
 
-
-
-
 // Pos: 00002EFF
 
 #WLB(PTR, $000010C0)
@@ -43,9 +40,6 @@ just as bad! What are
 <$0C>
 you guys planning?!
 <$00>
-
-
-
 
 // Pos: 00002F27
 
@@ -74,9 +68,6 @@ he's makin' for\n
 Oceanum Oblivionis.
 <$00>
 
-
-
-
 // Pos: 00002F75
 
 #WLB(PTR, $00001134)
@@ -91,9 +82,6 @@ Little:
 \n
 Let's go see.
 <$00>
-
-
-
 
 // Pos: 00002F86
 
@@ -112,9 +100,6 @@ you found yourself a
 <$0C>
 new "good boy"?
 <$00>
-
-
-
 
 // Pos: 00002FA7
 
@@ -143,9 +128,6 @@ Little:
 What brings you here,\n
 Red?
 <$00>
-
-
-
 
 // Pos: 00002FBF
 
@@ -311,9 +293,6 @@ What brings you here,\n
 Red?
 <$00>
 
-
-
-
 // Pos: 00002FD7
 
 #WLB(PTR, $00001320)
@@ -351,9 +330,6 @@ again! That's right,
 it was Uncle!
 <$00>
 
-
-
-
 // Pos: 0000305B
 
 #WLB(PTR, $00001334)
@@ -372,9 +348,6 @@ door...disappeared?
 And who's this\n
 "Uncle"? Beats me...
 <$00>
-
-
-
 
 // Pos: 00003084
 
@@ -405,9 +378,6 @@ Uncle Bubbles! I
 heard your voice!
 <$00>
 
-
-
-
 // Pos: 000030DC
 
 #WLB(PTR, $00001488)
@@ -436,9 +406,6 @@ I don't want to end
 up like that either.
 <$00>
 
-
-
-
 // Pos: 00003118
 
 #WLB(PTR, $00001494)
@@ -454,9 +421,6 @@ Little:
 Oi, is that Red?\n
 Where's he goin'?
 <$00>
-
-
-
 
 // Pos: 0000313B
 
@@ -475,9 +439,6 @@ can't bear lookin' at
 <$0C>
 'em.
 <$00>
-
-
-
 
 // Pos: 00003157
 
@@ -519,9 +480,6 @@ just know it!
 裂
 <$00>
 
-
-
-
 // Pos: 000031C0
 
 #WLB(PTR, $00000E24)
@@ -539,9 +497,6 @@ Your lot's companion
 <$0C>
 has done it!
 <$00>
-
-
-
 
 // Pos: 000031EF
 
@@ -562,9 +517,6 @@ worth calling a\n
 "surprise"?
 <$00>
 
-
-
-
 // Pos: 00003220
 
 #WLB(PTR, $00000E4C)
@@ -582,12 +534,10 @@ happenings! One has
 <$0C>
 become a wholly "good\n
 person" under the\n
-watchful eye of White\n
+watchful eye of White
+<$0C>
 Eagle!
 <$00>
-
-
-
 
 // Pos: 00003259
 
@@ -606,9 +556,6 @@ Where did you see
 <$0C>
 them?
 <$00>
-
-
-
 
 // Pos: 00003276
 
@@ -636,9 +583,6 @@ unstable. None are\n
 more vulnerable to\n
 evil's take.
 <$00>
-
-
-
 
 // Pos: 000032B9
 
@@ -669,9 +613,6 @@ the most easy to
 stain...
 <$00>
 
-
-
-
 // Pos: 00003302
 
 #WLB(PTR, $00000E9C)
@@ -701,9 +642,6 @@ off limits, as is the\n
 lodge.
 <$00>
 
-
-
-
 // Pos: 00003354
 
 #WLB(PTR, $00000EB0)
@@ -732,9 +670,6 @@ see any barriers
 around the parameter.
 <$00>
 
-
-
-
 // Pos: 00003396
 
 #WLB(PTR, $00000EC4)
@@ -751,9 +686,6 @@ We will bottle\n
 everything up.
 <$00>
 
-
-
-
 // Pos: 000033AD
 
 #WLB(PTR, $00000ED8)
@@ -768,9 +700,6 @@ Spacer:
 \n
 Bottle it...up?
 <$00>
-
-
-
 
 // Pos: 000033BD
 
@@ -787,9 +716,6 @@ Noble Rock:
 Yes, with bottles.
 <$00>
 
-
-
-
 // Pos: 000033D2
 
 #WLB(PTR, $00000F58)
@@ -801,16 +727,13 @@ Yes, with bottles.
 Spacer:
 <$0D>
 //\nびんでイーブルマインドを\nシャットアウトするということか。
-\Oh. Shit, umm...do\n
-you mean you're\n
-putting Evil Mind
+\Oh. Shit,\n
+umm...do you mean\n
+you're putting Evil
 <$0C>
-inside of bottles? Or\n
-something?
+Mind inside of\n
+bottles? Or something?
 <$00>
-
-
-
 
 // Pos: 000033FC
 
@@ -830,9 +753,6 @@ things up to keep
 them safe from Evil\n
 Mind.
 <$00>
-
-
-
 
 // Pos: 00003416
 
@@ -860,9 +780,6 @@ What is a bubble bath\n
 doing way out here?
 <$00>
 
-
-
-
 // Pos: 00003453
 
 #WLB(PTR, $00001620)
@@ -887,8 +804,7 @@ From the way she\n
 carries herself,
 <$0C>
 you'd think she'd be\n
-full of it, and\n
-yet...
+full of it, and yet...
 <$0C><$0B>
 //エイプリル：
 April:
@@ -910,9 +826,6 @@ I'm going on a little\n
 detour, okay?
 <$00>
 
-
-
-
 // Pos: 000034D5
 
 #WLB(PTR, $00001D9C)
@@ -931,9 +844,6 @@ a strange engraving
 on the wall. Let me\n
 see...
 <$00>
-
-
-
 
 // Pos: 000034F8
 
@@ -975,12 +885,10 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00>
-
-
-
 
 // Pos: 000035AB
 
@@ -1015,9 +923,6 @@ Yolanda:
 Oh! Uh, i-it's\n
 nothing! I'm good!
 <$00>
-
-
-
 
 // Pos: 000035FF
 
@@ -1082,9 +987,6 @@ little metaphor from\n
 Revelations too!)
 <$00>
 
-
-
-
 // Pos: 000036CD
 
 #WLB(PTR, $00001FC0)
@@ -1101,12 +1003,8 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
-
-
-
 
 // Pos: 00003701
 
@@ -1161,9 +1059,6 @@ reincarnation? I dare\n
 say, I am confused.
 <$00>
 
-
-
-
 // Pos: 000037B3
 
 #WLB(PTR, $00001FD0)
@@ -1183,9 +1078,6 @@ what me and the guys\n
 are.
 <$00>
 
-
-
-
 // Pos: 000037DA
 
 #WLB(PTR, $00002004)
@@ -1198,7 +1090,9 @@ are.
 //\n問顆は心も欲しがるかということだ。\n
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
+
 <$0B>
 //トーマス：
 Thomas:
@@ -1234,12 +1128,10 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00>
-
-
-
 
 // Pos: 000038A4
 
@@ -1270,7 +1162,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

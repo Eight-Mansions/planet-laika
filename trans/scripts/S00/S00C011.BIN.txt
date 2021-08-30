@@ -20,13 +20,15 @@ Default
 //ストーリーを楽しみたい方は最初から！\nすぐに遊びたい方はコロニーからはじめて下さい\nどこからはじめますか
 \n
 Will you watch the\n
-full story,\n
+full story,
+<$0C>
 or jump straight into\n
 gameplay?\n
 It's all up to you!
 <$1B>
 //、最初\nコロニー
-、Prologue\n
+、Prologue
+<$0C>
 Colony
 <$00><$17><$00>
 //不
@@ -38,10 +40,8 @@ menu!
 <$1B>
 //９むーびーてすと\nキャラへんこう\nちゃぷたーじゃんぷ
 ９Movie Test\n
-Character Swap\n
+Character Swap
+<$0C>
 Chapter Jump
 <$00><$17><$00>
-
-
-
 

@@ -31,9 +31,6 @@ you? To my hideout\n
 here.
 <$00>
 
-
-
-
 // Pos: 00001858
 
 #WLB(PTR, $000004F0)
@@ -47,9 +44,6 @@ Spacer:
 //\n隠れ家…
 Your hideout...
 <$00>
-
-
-
 
 // Pos: 0000186B
 
@@ -66,9 +60,6 @@ Cosmas:
 Was there anything\n
 you wanted to ask me?
 <$00>
-
-
-
 
 // Pos: 0000188F
 
@@ -88,17 +79,15 @@ fact...
 //１．君とダミアヌスは双子なのか？\n２．全ての預言を得るとどうなる？\n３．フェイとヴェロニカはどうなる？
 1. Are you and Damian\n
 twins?\n
-Is Dark Man a doll?\n
+Is Dark Man a doll?
+<$0C>
 Who is Uncle Bubbles?
 <$1B>
 //２１ \n２ \n３ 
-２1\n
-2\n
+２1 \n
+2 \n
 3
 <$00><$17><$00>
-
-
-
 
 // Pos: 000018EF
 
@@ -126,9 +115,6 @@ for spinning tall
 tales on the fly.
 <$00>
 
-
-
-
 // Pos: 00001938
 
 #WLB(PTR, $00000574)
@@ -149,9 +135,6 @@ new prophecy will be\n
 created.
 <$00>
 
-
-
-
 // Pos: 00001970
 
 #WLB(PTR, $00000584)
@@ -167,8 +150,7 @@ Cosmas:
 I think Veronica\n
 wants to live as her
 <$0C>
-own individual\n
-person.
+own individual person.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -181,9 +163,6 @@ think the plan she
 came up with is going\n
 to work.
 <$00>
-
-
-
 
 // Pos: 000019BC
 
@@ -208,15 +187,14 @@ Cosmas:
 //\nもしあんたや
 \n
 If you existed\n
-separately from
+separately from 
 <$0F>
 //が\n仮の姿だとしたら、どうする？
-, what shape would\n
-you take?
+,
+<$0C>
+what shape would you\n
+take?
 <$00>
-
-
-
 
 // Pos: 000019FC
 
@@ -237,9 +215,6 @@ see is what you get.\n
 I mean, I exist\n
 already, don't I?
 <$00>
-
-
-
 
 // Pos: 00001A2D
 
@@ -299,12 +274,8 @@ That sounds awfully\n
 surface-level, but I
 <$0C>
 don't look it things\n
-as deeply as Red\n
-does.
+as deeply as Red does.
 <$00>
-
-
-
 
 // Pos: 00001AF0
 
@@ -324,9 +295,6 @@ existing are the same
 as living and dying,\n
 aren't they?
 <$00>
-
-
-
 
 // Pos: 00001B21
 
@@ -354,9 +322,6 @@ isn't the end. It's\n
 the beginning.
 <$00>
 
-
-
-
 // Pos: 00001B6A
 
 #WLB(PTR, $000007A8)
@@ -376,9 +341,6 @@ distorted. Nothing\n
 begins with death.
 <$00>
 
-
-
-
 // Pos: 00001B9C
 
 #WLB(PTR, $000007C4)
@@ -394,9 +356,6 @@ Cosmas:
 Hmm, I see.
 <$00>
 
-
-
-
 // Pos: 00001BAF
 
 #WLB(PTR, $000007E8)
@@ -411,9 +370,6 @@ Spacer:
 \n
 What about you?
 <$00>
-
-
-
 
 // Pos: 00001BC6
 
@@ -453,9 +409,6 @@ always meet inside of\n
 another dream.
 <$00>
 
-
-
-
 // Pos: 00001C2D
 
 #WLB(PTR, $00000834)
@@ -471,9 +424,6 @@ Spacer:
 Inside of another\n
 dream?
 <$00>
-
-
-
 
 // Pos: 00001C40
 
@@ -495,9 +445,6 @@ it's lights-off time,\n
 okay?
 <$00>
 
-
-
-
 // Pos: 00001C6A
 
 #WLB(PTR, $00000874)
@@ -509,13 +456,10 @@ okay?
 Cosmas:
 <$0D>
 //\nよくは覚えてないんだね、さっきも会ったのに。\nもう石はないよ、\n光る石のことなら教えてあげられるよ。
-I can tell you about\n
-the glowing stones,\n
-at least.
+I can tell you\n
+about the glowing\n
+stones, at least.
 <$00>
-
-
-
 
 // Pos: 00001CAC
 
@@ -532,9 +476,6 @@ Spacer:
 Lights-off time?
 <$00>
 
-
-
-
 // Pos: 00001CC2
 
 #WLB(PTR, $000008C0)
@@ -547,12 +488,8 @@ Cosmas:
 <$0D>
 //\nそうさ、お休みだよ、あんた。
 \n
-Yeah. Now, good\n
-night!
+Yeah. Now, good night!
 <$00>
-
-
-
 
 // Pos: 00001CDB
 
@@ -568,7 +505,4 @@ Spacer:
 \n
 Did he go to sleep?
 <$00>
-
-
-
 

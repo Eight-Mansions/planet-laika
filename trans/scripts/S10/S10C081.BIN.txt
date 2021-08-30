@@ -23,9 +23,6 @@ place? Is this...the
 Promised Land?
 <$00>
 
-
-
-
 // Pos: 00002C51
 
 #WLB(PTR, $0000022C)
@@ -48,9 +45,6 @@ It's time for
 presents!
 <$00>
 
-
-
-
 // Pos: 00002C71
 
 #WLB(PTR, $0000023C)
@@ -64,9 +58,6 @@ presents of
 <$0C>
 nightmares, Little!
 <$00>
-
-
-
 
 // Pos: 00002C85
 
@@ -88,9 +79,6 @@ Oh! They're stuffed\n
 in stockin's!
 <$00>
 
-
-
-
 // Pos: 00002C9A
 
 #WLB(PTR, $000002AC)
@@ -98,15 +86,10 @@ in stockin's!
 #WHB(PTR, $000002AD)
 
 //興うだ、\nお前が悪夢をばらまいた。
-That's right. Now,\n
-go.\n
-Pass the nightmares
-<$0C>
+That's right. Now, go.\n
+Pass the nightmares\n
 all around.
 <$00>
-
-
-
 
 // Pos: 00002CAE
 
@@ -124,9 +107,6 @@ Hahaha, this'll be\n
 fun!
 <$00>
 
-
-
-
 // Pos: 00002CC1
 
 #WLB(PTR, $000002E8)
@@ -136,12 +116,10 @@ fun!
 //仮夢の中で穴を掘ったんだ。\nリトル、お前が生き埋めにしたんだ。
 \n
 You dug holes in\n
-nightmares,\n
+nightmares,
+<$0C>
 and buried us alive!
 <$00>
-
-
-
 
 // Pos: 00002CE8
 
@@ -160,9 +138,6 @@ works, everyone! Down
 <$0C>
 the chute!
 <$00>
-
-
-
 
 // Pos: 00002D03
 
@@ -203,9 +178,6 @@ who will carry your
 sins.
 <$00>
 
-
-
-
 // Pos: 00002D9F
 
 #WLB(PTR, $0000033C)
@@ -224,9 +196,6 @@ and round! All around
 the world!
 <$00>
 
-
-
-
 // Pos: 00002DC2
 
 #WLB(PTR, $0000034C)
@@ -236,20 +205,19 @@ the world!
 //広かしいなリトル君、\nクリスマスの靴下があと一足あまってるぞ。\n誰の分かね？
 広Behave, Little.\n
 We have one more pair\n
-of\n
+of
+<$0C>
 Christmas stockings.\n
 Do you know who\n
 they're for?
 <$00>
-
-
-
 
 // Pos: 00002DEF
 
 #WLB(PTR, $00000490)
 
 #WHB(PTR, $00000491)
+
 
 <$00>
 //真っ暗だ、何も見えない…\nお前、どこにいるんだ…
@@ -261,28 +229,24 @@ It's cold here... So\n
 cold...
 <$00>
 
-
-
-
 // Pos: 00002E18
 
 #WLB(PTR, $0000060C)
 
 #WHB(PTR, $0000060D)
 
+
 <$00>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //青い石を手に入れた。
 Blue Stone acquired.
 <$00><$00>
-
-
-
 
 // Pos: 00002E32
 
@@ -290,9 +254,8 @@ Blue Stone acquired.
 
 #WHB(PTR, $00002A51)
 
+
 <$00>
-
-
 
 // Pos: 00002E33
 
@@ -300,9 +263,8 @@ Blue Stone acquired.
 
 #WHB(PTR, $000022A7)
 
+
 <$00>
-
-
 
 // Pos: 00002E34
 
@@ -310,9 +272,8 @@ Blue Stone acquired.
 
 #WHB(PTR, $00002A55)
 
+
 <$00><$00>
-
-
 
 // Pos: 00002E36
 
@@ -323,9 +284,6 @@ Blue Stone acquired.
 //マラケシュフラワー
 Marrakech Flower
 <$00>
-
-
-
 
 // Pos: 00002E40
 
@@ -345,9 +303,6 @@ Marrakech Flower
 A flower, wilted?
 <$00>
 
-
-
-
 // Pos: 00002E4C
 
 #WLB(PTR, $00002A60)
@@ -358,9 +313,6 @@ A flower, wilted?
 Boomer Night
 <$00><$00>
 
-
-
-
 // Pos: 00002E56
 
 #WLB(PTR, $00002A64)
@@ -370,9 +322,6 @@ Boomer Night
 //怖い夜って？
 A scary evening?
 <$00><$00>
-
-
-
 
 // Pos: 00002E60
 
@@ -392,9 +341,6 @@ A scary evening?
 Crow Dream
 <$00>
 
-
-
-
 // Pos: 00002E68
 
 #WLB(PTR, $00002446)
@@ -409,9 +355,6 @@ Crow Dream
 A strolling dream?
 <$00><$00>
 
-
-
-
 // Pos: 00002E74
 
 #WLB(PTR, $00002A70)
@@ -421,9 +364,6 @@ A strolling dream?
 //ジャニュアリー
 January
 <$00>
-
-
-
 
 // Pos: 00002E7C
 
@@ -435,9 +375,6 @@ January
 When solemnity began?
 <$00><$00>
 
-
-
-
 // Pos: 00002E86
 
 #WLB(PTR, $00002A78)
@@ -448,9 +385,6 @@ When solemnity began?
 February
 <$00><$00>
 
-
-
-
 // Pos: 00002E8E
 
 #WLB(PTR, $00002A7C)
@@ -458,12 +392,8 @@ February
 #WHB(PTR, $00002A7D)
 
 //凍える２月
-When everything\n
-froze?
+When everything froze?
 <$00>
-
-
-
 
 // Pos: 00002E96
 
@@ -475,9 +405,6 @@ froze?
 March
 <$00>
 
-
-
-
 // Pos: 00002E9A
 
 #WLB(PTR, $00002A84)
@@ -487,9 +414,6 @@ March
 //３月、芽吹く春
 When new life budded?
 <$00><$00>
-
-
-
 
 // Pos: 00002EA6
 
@@ -501,9 +425,6 @@ When new life budded?
 May
 <$00><$00>
 
-
-
-
 // Pos: 00002EAA
 
 #WLB(PTR, $00002A8C)
@@ -513,9 +434,6 @@ May
 //５月、光のシーズン
 When light came down?
 <$00>
-
-
-
 
 // Pos: 00002EB6
 
@@ -527,9 +445,6 @@ When light came down?
 June
 <$00>
 
-
-
-
 // Pos: 00002EBA
 
 #WLB(PTR, $00002A94)
@@ -537,12 +452,8 @@ June
 #WHB(PTR, $00002A95)
 
 //悲しみの６月
-When sadness\n
-deepened?
+When sadness deepened?
 <$00><$00>
-
-
-
 
 // Pos: 00002EC4
 
@@ -554,9 +465,6 @@ deepened?
 July
 <$00><$00>
 
-
-
-
 // Pos: 00002ECA
 
 #WLB(PTR, $00002A9C)
@@ -567,9 +475,6 @@ July
 When breezes soothed?
 <$00><$00>
 
-
-
-
 // Pos: 00002ED2
 
 #WLB(PTR, $00002AA0)
@@ -579,9 +484,6 @@ When breezes soothed?
 //オーガスト
 August
 <$00>
-
-
-
 
 // Pos: 00002ED8
 
@@ -594,9 +496,6 @@ When nights were\n
 longest?
 <$00>
 
-
-
-
 // Pos: 00002EE6
 
 #WLB(PTR, $00002AA8)
@@ -606,9 +505,6 @@ longest?
 //セプテンバー
 September
 <$00><$00>
-
-
-
 
 // Pos: 00002EEE
 
@@ -621,9 +517,6 @@ When miracles were\n
 due?
 <$00>
 
-
-
-
 // Pos: 00002EF6
 
 #WLB(PTR, $00002AB0)
@@ -633,9 +526,6 @@ due?
 //ノベンバー
 November
 <$00>
-
-
-
 
 // Pos: 00002EFC
 
@@ -647,9 +537,6 @@ November
 When fog closed in?
 <$00>
 
-
-
-
 // Pos: 00002F08
 
 #WLB(PTR, $00002AB8)
@@ -659,9 +546,6 @@ When fog closed in?
 //ディセンバー
 December
 <$00><$00>
-
-
-
 
 // Pos: 00002F10
 
@@ -674,9 +558,6 @@ When omens were\n
 realized?
 <$00>
 
-
-
-
 // Pos: 00002F1A
 
 #WLB(PTR, $00002AC0)
@@ -688,9 +569,6 @@ realized?
 Sand Sympathy
 <$05><$00><$00>
 
-
-
-
 // Pos: 00002F26
 
 #WLB(PTR, $00002AC4)
@@ -700,9 +578,6 @@ Sand Sympathy
 //ダミアヌスを呼び出す
 Calls for Damian
 <$00><$00>
-
-
-
 
 // Pos: 00002F34
 
@@ -715,9 +590,6 @@ Calls for Damian
 Silver Capsule
 <$05><$00>
 
-
-
-
 // Pos: 00002F3E
 
 #WLB(PTR, $00002ACC)
@@ -728,9 +600,6 @@ Silver Capsule
 Stores the five\n
 propechies
 <$00><$00>
-
-
-
 
 // Pos: 00002F4A
 
@@ -743,9 +612,6 @@ propechies
 Red Stone
 <$05><$00>
 
-
-
-
 // Pos: 00002F52
 
 #WLB(PTR, $00002AD4)
@@ -755,9 +621,6 @@ Red Stone
 //赤い石
 Red Stone
 <$00>
-
-
-
 
 // Pos: 00002F58
 
@@ -770,9 +633,6 @@ Red Stone
 Blue Stone
 <$05><$00>
 
-
-
-
 // Pos: 00002F60
 
 #WLB(PTR, $00002ADC)
@@ -782,9 +642,6 @@ Blue Stone
 //青い石
 Blue Stone
 <$00>
-
-
-
 
 // Pos: 00002F66
 
@@ -797,9 +654,6 @@ Blue Stone
 White Stone
 <$05><$00>
 
-
-
-
 // Pos: 00002F6E
 
 #WLB(PTR, $00002AE4)
@@ -809,9 +663,6 @@ White Stone
 //白い石
 White Stone
 <$00>
-
-
-
 
 // Pos: 00002F74
 
@@ -824,9 +675,6 @@ White Stone
 Yellow Stone
 <$05><$00>
 
-
-
-
 // Pos: 00002F7E
 
 #WLB(PTR, $00002AEC)
@@ -836,9 +684,6 @@ Yellow Stone
 //黄色い石
 Yellow Stone
 <$00>
-
-
-
 
 // Pos: 00002F86
 
@@ -851,9 +696,6 @@ Yellow Stone
 Green Stone
 <$05><$00>
 
-
-
-
 // Pos: 00002F8E
 
 #WLB(PTR, $00002AF4)
@@ -863,9 +705,6 @@ Green Stone
 //綠の石
 Green Stone
 <$00>
-
-
-
 
 // Pos: 00002F94
 
@@ -877,9 +716,6 @@ Green Stone
 P Capsule
 <$00>
 
-
-
-
 // Pos: 00002F9A
 
 #WLB(PTR, $00002AFC)
@@ -889,9 +725,6 @@ P Capsule
 //知悪を増やすクスリ
 Boosts wisdom
 <$00>
-
-
-
 
 // Pos: 00002FA6
 
@@ -911,9 +744,6 @@ Boosts wisdom
 A Capsule
 <$00>
 
-
-
-
 // Pos: 00002FAC
 
 #WLB(PTR, $00002B04)
@@ -924,9 +754,6 @@ A Capsule
 Boosts power
 <$00>
 
-
-
-
 // Pos: 00002FB8
 
 #WLB(PTR, $00002B08)
@@ -936,9 +763,6 @@ Boosts power
 //Vカプセル
 V Capsule
 <$00>
-
-
-
 
 // Pos: 00002FBE
 
@@ -970,9 +794,6 @@ V Capsule
 Boosts greed
 <$00>
 
-
-
-
 // Pos: 00002FCA
 
 #WLB(PTR, $00002B10)
@@ -982,9 +803,6 @@ Boosts greed
 //ペキン
 Peking
 <$00>
-
-
-
 
 // Pos: 00002FCE
 
@@ -996,9 +814,6 @@ Peking
 Greatly boosts wisdom
 <$00><$00>
 
-
-
-
 // Pos: 00002FDC
 
 #WLB(PTR, $00002B18)
@@ -1008,9 +823,6 @@ Greatly boosts wisdom
 //マルセイユ
 Marseille
 <$00>
-
-
-
 
 // Pos: 00002FE2
 
@@ -1022,9 +834,6 @@ Marseille
 Greatly boosts power
 <$00><$00>
 
-
-
-
 // Pos: 00002FF0
 
 #WLB(PTR, $00002B20)
@@ -1034,9 +843,6 @@ Greatly boosts power
 //サイゴン
 Saigon
 <$00><$00>
-
-
-
 
 // Pos: 00002FF6
 
@@ -1048,9 +854,6 @@ Saigon
 Greatly boosts greed
 <$00><$00>
 
-
-
-
 // Pos: 00003004
 
 #WLB(PTR, $00002B28)
@@ -1060,9 +863,6 @@ Greatly boosts greed
 //フラッシュ
 Flash
 <$00>
-
-
-
 
 // Pos: 0000300A
 
@@ -1074,9 +874,6 @@ Flash
 Wipes the Mind Scope
 <$00>
 
-
-
-
 // Pos: 00003018
 
 #WLB(PTR, $00002B30)
@@ -1086,9 +883,6 @@ Wipes the Mind Scope
 //４９
 49
 <$00><$00>
-
-
-
 
 // Pos: 0000301C
 
@@ -1100,9 +894,6 @@ Wipes the Mind Scope
 Boosts evil reception
 <$00>
 
-
-
-
 // Pos: 0000302A
 
 #WLB(PTR, $00002B38)
@@ -1112,9 +903,6 @@ Boosts evil reception
 //マジックライト
 Magic Light
 <$00>
-
-
-
 
 // Pos: 00003032
 
@@ -1126,9 +914,6 @@ Magic Light
 Boosts one evil
 <$00>
 
-
-
-
 // Pos: 0000303E
 
 #WLB(PTR, $00002B40)
@@ -1138,9 +923,6 @@ Boosts one evil
 //ブルースモーク
 Blue Smoke
 <$00>
-
-
-
 
 // Pos: 00003046
 
@@ -1152,9 +934,6 @@ Blue Smoke
 Restores Spacer's EM
 <$00><$00>
 
-
-
-
 // Pos: 00003054
 
 #WLB(PTR, $00002B48)
@@ -1164,9 +943,6 @@ Restores Spacer's EM
 //レッドスモーク
 Red Smoke
 <$00>
-
-
-
 
 // Pos: 0000305C
 
@@ -1178,9 +954,6 @@ Red Smoke
 Restores Ernest's EM
 <$00><$00>
 
-
-
-
 // Pos: 0000306A
 
 #WLB(PTR, $00002B50)
@@ -1190,9 +963,6 @@ Restores Ernest's EM
 //イエロースモーク
 Yellow Smoke
 <$00><$00>
-
-
-
 
 // Pos: 00003074
 
@@ -1204,9 +974,6 @@ Yellow Smoke
 Restores Yolanda's EM
 <$00>
 
-
-
-
 // Pos: 00003080
 
 #WLB(PTR, $00002B58)
@@ -1217,9 +984,6 @@ Restores Yolanda's EM
 Tao Gold
 <$00><$00>
 
-
-
-
 // Pos: 00003088
 
 #WLB(PTR, $00002B5C)
@@ -1229,9 +993,6 @@ Tao Gold
 //全てのEMを回復する
 Restores all EMs
 <$00><$00><$00>
-
-
-
 
 // Pos: 00003098
 
@@ -1246,9 +1007,6 @@ Select an item to\n
 discard.
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 000030C0
 
 #WLB(PTR, $000005A8)
@@ -1261,7 +1019,4 @@ That item cannot be\n
 discarded.\n
 Please try again.
 <$0E><$1E><$17><$00>
-
-
-
 

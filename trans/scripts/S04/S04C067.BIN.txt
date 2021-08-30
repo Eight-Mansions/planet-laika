@@ -42,9 +42,6 @@ I want to beat the\n
 shit out of him.
 <$00>
 
-
-
-
 // Pos: 00003523
 
 #WLB(PTR, $000002B8)
@@ -74,9 +71,6 @@ let jealousy come
 between friends.
 <$00>
 
-
-
-
 // Pos: 0000357A
 
 #WLB(PTR, $000002CC)
@@ -94,9 +88,6 @@ like it here! It
 <$0C>
 hurts a lot.
 <$00>
-
-
-
 
 // Pos: 00003595
 
@@ -127,9 +118,6 @@ that gives you the\n
 face you want.
 <$00>
 
-
-
-
 // Pos: 000035E2
 
 #WLB(PTR, $000002F4)
@@ -157,12 +145,8 @@ I think for me, the\n
 problem is that I'm
 <$0C>
 gradually growing\n
-unsure of what I\n
-want.
+unsure of what I want.
 <$00>
-
-
-
 
 // Pos: 00003636
 
@@ -177,12 +161,10 @@ Cosmas:
 //\n帰ろうよ、ダークマン。\nここは良くないよ。
 \n
 Can we turn back,\n
-Dark Man?\n
+Dark Man?
+<$0C>
 I don't like it here.
 <$00>
-
-
-
 
 // Pos: 00003657
 
@@ -194,15 +176,12 @@ I don't like it here.
 裂に
 <$0B><$0D>
 //約束だコスマス。\nお前を苦悩から解き放ってやる、\n今がその時だ。
-Rest assured, Cosmas.\n
-Now is the time we\n
-free you from your
+Rest assured,\n
+Cosmas. Now is the\n
+time we free you from
 <$0C>
-suffering.
+your suffering.
 <$00>
-
-
-
 
 // Pos: 00003685
 
@@ -223,9 +202,6 @@ again going to do\n
 that?
 <$00>
 
-
-
-
 // Pos: 000036A3
 
 #WLB(PTR, $00000458)
@@ -241,9 +217,6 @@ now, your suffering\n
 will go away.
 <$00>
 
-
-
-
 // Pos: 000036CA
 
 #WLB(PTR, $0000046C)
@@ -258,9 +231,6 @@ Cosmas:
 \n
 Let's go inside.
 <$00>
-
-
-
 
 // Pos: 000036DD
 
@@ -320,9 +290,6 @@ learn from their
 mistakes.
 <$00>
 
-
-
-
 // Pos: 00003797
 
 #WLB(PTR, $000007C8)
@@ -362,9 +329,6 @@ my original face was
 that bad...am I?
 <$00>
 
-
-
-
 // Pos: 00003803
 
 #WLB(PTR, $000007E8)
@@ -400,9 +364,6 @@ welcome to wait in\n
 her office.
 <$00>
 
-
-
-
 // Pos: 00003865
 
 #WLB(PTR, $00000860)
@@ -415,9 +376,9 @@ Marrakech:
 <$0D>
 //\nねぇ、ちょっと、あなた何やったの…\nコスマスが犬顔に戻っちゃったよ。
 \n
-Dear, what did you\n
-do?\n
-Cosmas is a dogface\n
+Dear, what did you do?\n
+Cosmas is a dogface
+<$0C>
 again!
 <$0C><$0B>
 //マラケシュ：
@@ -446,9 +407,6 @@ no turning back.
 行
 <$00>
 
-
-
-
 // Pos: 000038F1
 
 #WLB(PTR, $00000888)
@@ -462,16 +420,14 @@ Marrakech:
 //\nコスマスの犬顔、レッドが見たら怒り狂うわよ。\nあなた、見つからないようにしなきゃ。
 \n
 If Red sees Cosmas'\n
-face, he'll riot.\n
+face, he'll riot.
+<$0C>
 You'd both better\n
 keep away from Red.
 <$1E>
 //中
 中
 <$00>
-
-
-
 
 // Pos: 0000392C
 
@@ -517,9 +473,6 @@ else.
 //行
 行
 <$00>
-
-
-
 
 // Pos: 000039BD
 
@@ -584,12 +537,8 @@ Linda:
 It's...you, isn't it?\n
 Aren't you the one I
 <$0C>
-was talking to\n
-before?
+was talking to before?
 <$00>
-
-
-
 
 // Pos: 00003A87
 
@@ -625,9 +574,6 @@ made?
 ※Yes\n
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 00003B09
 
@@ -693,9 +639,6 @@ done on the side!
 //行
 行
 <$00>
-
-
-
 
 // Pos: 00003BC7
 
@@ -768,9 +711,6 @@ done on the side!
 行
 <$00>
 
-
-
-
 // Pos: 00003CBD
 
 #WLB(PTR, $0000072C)
@@ -809,11 +749,6 @@ Cosmas:
 //\nでもつながってないんだよ。
 \n
 ...but it's not\n
-connected to
-<$0C>
-anything.
+connected to anything.
 <$00>
-
-
-
 

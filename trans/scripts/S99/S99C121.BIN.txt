@@ -17,12 +17,13 @@ Commander October:
 <$0D>
 //\n
 \n
+
 <$0F>
 //君、君は宿命の子なのかね、\nそれでここにいる？
 , you are a Destined\n
-Child, aren't you?\n
-Isn't that why you're
+Child, aren't you?
 <$0C>
+Isn't that why you're\n
 here?
 <$0C><$0B>
 //オクトーバー司令官：
@@ -45,9 +46,6 @@ help you. I want you
 <$0C>
 to know that.
 <$00>
-
-
-
 
 // Pos: 00003021
 
@@ -73,10 +71,12 @@ Commander October:
 <$0D>
 //\n
 \n
+
 <$0F>
 //君、君は幼い頃に\nお父さんを亡くしている。
 , you lost your\n
-father at a very\n
+father at a very
+<$0C>
 young age.
 <$0C><$0B>
 //オクトーバー司令官：
@@ -109,9 +109,6 @@ And so, the stage is\n
 set...
 <$00>
 
-
-
-
 // Pos: 000030DD
 
 #WLB(PTR, $0000057C)
@@ -131,9 +128,6 @@ Why can't you be more\n
 like Sergei?!
 <$00>
 
-
-
-
 // Pos: 0000310C
 
 #WLB(PTR, $000005E8)
@@ -147,13 +141,10 @@ Sergei:
 //\nへへへへ、いいこと教えてやろうか？\n父さんはお前がキライなんだよ。
 \n
 Hehehe! Hey, guess\n
-what?\n
-Batya hates your\n
-guts!
+what?
+<$0C>
+Batya hates your guts!
 <$00>
-
-
-
 
 // Pos: 00003139
 
@@ -168,13 +159,11 @@ Sergei:
 //\nお前達がこの家に来たときからな、\nキライなんだ、ひゃひゃひゃ
 \n
 Yup! From the moment\n
-you and\n
+you and
+<$0C>
 that ugly bitch moved\n
 in!
 <$00>
-
-
-
 
 // Pos: 00003164
 
@@ -216,9 +205,6 @@ soon," thought your\n
 mother.
 <$00>
 
-
-
-
 // Pos: 000031FB
 
 #WLB(PTR, $000006D0)
@@ -258,9 +244,6 @@ ultimately disposed\n
 of.
 <$00>
 
-
-
-
 // Pos: 00003280
 
 #WLB(PTR, $000007D0)
@@ -279,9 +262,6 @@ She's right here, and
 I'm going to protect\n
 her！
 <$00>
-
-
-
 
 // Pos: 000032AB
 
@@ -313,9 +293,6 @@ with us. Just give it
 up.
 <$00>
 
-
-
-
 // Pos: 00003305
 
 #WLB(PTR, $000009F4)
@@ -328,6 +305,7 @@ Commander October:
 <$0D>
 //\n
 \n
+
 <$0F>
 //君、
 ...
@@ -372,14 +350,11 @@ Commander October:
 ...are the seeds from\n
 which you will reap
 <$0C>
-absolute truth,
+absolute truth, 
 <$0F>
 //君。
 .
 <$00>
-
-
-
 
 // Pos: 000033C4
 
@@ -443,9 +418,6 @@ sinful little lambs
 to flock.
 <$00>
 
-
-
-
 // Pos: 000034B8
 
 #WLB(PTR, $00000B1C)
@@ -496,7 +468,4 @@ only yearns for an
 answer from the Twins\n
 of Truth.
 <$00>
-
-
-
 

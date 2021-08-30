@@ -17,12 +17,13 @@ Madam Agatha:
 <$0D>
 //\n大変なの
 \n
-Bad news,
+Bad news, 
 <$0F>
 //！\nエイプリルよ、彼女も悪夢につかまってるの。
-! It's April. She's\n
-trapped in the\n
-nightmares too!
+! It's\n
+April. She's trapped
+<$0C>
+in the nightmares too!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -55,9 +56,6 @@ there. We don't have
 <$0C>
 much time!
 <$00>
-
-
-
 
 // Pos: 00001148
 
@@ -105,12 +103,14 @@ Madam Agatha:
 <$0D>
 //\nわかって、
 \n
-Despite that,
+Despite that, 
 <$0F>
 //。\nこの星の声に耳をかたむけるのよ。
-, you must open\n
-yourself to the\n
-planet, and listen.
+, you\n
+must open yourself to
+<$0C>
+the planet, and\n
+listen.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -123,9 +123,6 @@ for you to serve your
 purpose as its\n
 messenger.
 <$00>
-
-
-
 
 // Pos: 00001247
 
@@ -167,9 +164,6 @@ from here. I can't
 see anything.
 <$00>
 
-
-
-
 // Pos: 000012D0
 
 #WLB(PTR, $000002EC)
@@ -209,7 +203,4 @@ another entrance.
 //理
 理
 <$00>
-
-
-
 

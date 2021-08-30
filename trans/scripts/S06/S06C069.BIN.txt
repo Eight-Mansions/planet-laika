@@ -11,15 +11,13 @@
 
 #WHB(PTR, $000009D1)
 
+
 <$00>
 //   ママはそんなことじゃ死なないよ。
-No, Mummy! I won't\n
+ No, Mummy! I won't\n
 let that 'appen. Not\n
 on Christmas!
 <$00>
-
-
-
 
 // Pos: 0000205F
 
@@ -36,9 +34,6 @@ April:
 Noon!
 <$00>
 
-
-
-
 // Pos: 0000206E
 
 #WLB(PTR, $00000AD0)
@@ -53,9 +48,6 @@ Noon:
 \n
 April, is that you?!
 <$00>
-
-
-
 
 // Pos: 00002082
 
@@ -72,9 +64,6 @@ April:
 What are you doing\n
 here?!
 <$00>
-
-
-
 
 // Pos: 0000209F
 
@@ -94,9 +83,6 @@ Laika the same. Guess
 you two're stuck\n
 together.
 <$00>
-
-
-
 
 // Pos: 000020C6
 
@@ -123,9 +109,6 @@ Laika so easily! I'm
 <$0C>
 Yolanda!
 <$00>
-
-
-
 
 // Pos: 00002115
 
@@ -154,9 +137,6 @@ you two doing in MY\n
 cottage at this 'our?
 <$00>
 
-
-
-
 // Pos: 0000215F
 
 #WLB(PTR, $00000BBC)
@@ -172,8 +152,7 @@ April:
 Noon... This isn't\n
 your house, and your
 <$0C>
-not this town's\n
-elder.
+not this town's elder.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -185,9 +164,6 @@ with us. We have a
 <$0C>
 mission to complete.
 <$00>
-
-
-
 
 // Pos: 000021AC
 
@@ -217,9 +193,6 @@ name'll go down in\n
 history.
 <$00>
 
-
-
-
 // Pos: 00002202
 
 #WLB(PTR, $00000C04)
@@ -235,9 +208,6 @@ Yolanda:
 What the hell are you\n
 on?!
 <$00>
-
-
-
 
 // Pos: 00002219
 
@@ -270,9 +240,6 @@ once we're back on\n
 Earth.
 <$00>
 
-
-
-
 // Pos: 0000226A
 
 #WLB(PTR, $00000C78)
@@ -292,9 +259,6 @@ Mummy isn't mad at me\n
 anymore!
 <$00>
 
-
-
-
 // Pos: 0000229C
 
 #WLB(PTR, $00000C9C)
@@ -313,9 +277,6 @@ I said? You'll make
 Mommy angryyy!
 <$00>
 
-
-
-
 // Pos: 000022C3
 
 #WLB(PTR, $00000CC0)
@@ -332,9 +293,6 @@ Shut up! You're NOT\n
 my Mummy!
 <$00>
 
-
-
-
 // Pos: 000022DC
 
 #WLB(PTR, $00000CE4)
@@ -350,9 +308,6 @@ April:
 And this place isn't\n
 your home, Noon.
 <$00>
-
-
-
 
 // Pos: 000022FC
 
@@ -380,9 +335,6 @@ so I could live
 together with Mummy.
 <$00>
 
-
-
-
 // Pos: 00002335
 
 #WLB(PTR, $00000D38)
@@ -401,9 +353,6 @@ colonel guy we were
 looking for!
 <$00>
 
-
-
-
 // Pos: 00002355
 
 #WLB(PTR, $00000D70)
@@ -421,9 +370,6 @@ listen to what you're
 <$0C>
 saying!
 <$00>
-
-
-
 
 // Pos: 00002378
 
@@ -545,7 +491,4 @@ the captain. Let's
 <$0C>
 head back to town.
 <$00>
-
-
-
 

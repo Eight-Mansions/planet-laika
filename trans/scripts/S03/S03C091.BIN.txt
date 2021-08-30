@@ -33,39 +33,37 @@ committed suicide in
 that bathroom!
 <$00>
 
-
-
-
 // Pos: 00001A4D
 
 #WLB(PTR, $00000544)
 
 #WHB(PTR, $00000545)
 
+
 <$00><$0B>
 //        
-
+        
 <$0D>
 //大丈夫かい？\n
 Are you okay there?\n
+
 <$0B>
 //     
-
+     
 <$0D>
 //何かを見たんだろうけど、\n
-You must have seen\n
-something\n
+You must have\n
+seen something
+<$0C>
+
 <$0B>
 //  
-
+  
 <$0D>
 //それがあんたの本質にかかわることだよ。
-that hit too close to\n
-home.
+that hit too close\n
+to home.
 <$00>
-
-
-
 
 // Pos: 00001A90
 
@@ -80,13 +78,11 @@ Yolanda:
 //\nどこにいるの？ あなたは？\nなんでアタシをつらくさせるの？
 \n
 Where are you? WHO\n
-are you?\n
+are you?
+<$0C>
 Stay the FUCK out of\n
 my head!
 <$00>
-
-
-
 
 // Pos: 00001AB9
 
@@ -95,32 +91,31 @@ my head!
 #WHB(PTR, $000005FD)
 
 //子    
-子
+子    
 <$0D>
 //リバーだよ、一緒に来ただろ。\nあんたはヨランダだね。分かるかい、ヨランダ。\n
-Please calm down,\n
-it's me, Liever.\n
-I came with, Yolanda.\n
+Please calm\n
+down, it's me, Liever.\n
+I came with, Yolanda.
+<$0C>
 It IS Yolanda, right?
 <$0B>
 //   
-
+   
 <$0D>
 //この部屋に苦しみの権化がいるんだ、\n
 The incarnation of\n
 suffering is in this\n
-room.\n
+room.
+<$0C>
+
 <$0B>
 //     
-
+     
 <$0D>
 //そいつを取り除くんだ。
-You have to remove\n
-it.
+You have to remove it.
 <$00>
-
-
-
 
 // Pos: 00001B1A
 
@@ -137,38 +132,36 @@ Yolanda:
 I don't see anything!
 <$00>
 
-
-
-
 // Pos: 00001B34
 
 #WLB(PTR, $00000630)
 
 #WHB(PTR, $00000631)
 
+
 <$00><$0B>
 //    
-
+    
 <$0D>
 //いるんだよ、この部屋に。\n
 There is a\n
 disturbance.\n
+
 <$0B>
 //     
-
+     
 <$0D>
 //どっかそのへんだよ、\n
-It is here in this\n
-room,\n
+It is here in
+<$0C>
+this room,\n
+
 <$0B>
 //     
-
+     
 <$0D>
 //あんたの近くだよ。
 and it's coming\n
 closer.
 <$00>
-
-
-
 

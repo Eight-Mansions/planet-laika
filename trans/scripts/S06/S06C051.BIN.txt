@@ -20,9 +20,6 @@ Yolanda:
 There's nothing here.
 <$00>
 
-
-
-
 // Pos: 00000D6E
 
 #WLB(PTR, $000001A8)
@@ -41,9 +38,6 @@ more people in the
 area.
 <$00>
 
-
-
-
 // Pos: 00000D88
 
 #WLB(PTR, $000001BC)
@@ -61,7 +55,4 @@ that I'm at all
 <$0C>
 enthusiastic...
 <$00>
-
-
-
 

@@ -21,9 +21,6 @@ Dear, have you given\n
 up yet?
 <$00>
 
-
-
-
 // Pos: 000025F1
 
 #WLB(PTR, $00000D04)
@@ -60,9 +57,6 @@ me, now. I can see
 <$0C>
 right through you.
 <$00>
-
-
-
 
 // Pos: 00002661
 
@@ -113,9 +107,6 @@ I'm just playful in\n
 the mornings.
 <$00>
 
-
-
-
 // Pos: 000026E7
 
 #WLB(PTR, $00000E8C)
@@ -143,9 +134,6 @@ people, you rude\n
 little...!
 <$00>
 
-
-
-
 // Pos: 00002724
 
 #WLB(PTR, $00000F58)
@@ -163,14 +151,11 @@ with me! My
 <$0C>
 playfulness is my\n
 most redeeming\n
-feature!
+feature! 
 <$1E>
 //行
 行
 <$00>
-
-
-
 
 // Pos: 00002750
 
@@ -208,12 +193,10 @@ Hey, are you\n
 listening to me?
 <$1B>
 //,ちゃんと開いてる\nしっかり開いてる
-,Yes, closely\n
+,Yes, closely
+<$0C>
 Yes, deeply
 <$00><$17><$00>
-
-
-
 
 // Pos: 000027CA
 
@@ -232,9 +215,6 @@ You'd better be.
 //中
 中
 <$00>
-
-
-
 
 // Pos: 000027E6
 
@@ -286,9 +266,6 @@ Marrakech:
 Now look at my face!
 <$00>
 
-
-
-
 // Pos: 00002877
 
 #WLB(PTR, $00001344)
@@ -311,9 +288,6 @@ a damn about us?!
 行
 <$00>
 
-
-
-
 // Pos: 000028A9
 
 #WLB(PTR, $0000140C)
@@ -334,9 +308,6 @@ face!
 //中
 中
 <$00>
-
-
-
 
 // Pos: 000028D1
 
@@ -368,9 +339,6 @@ of hers?
 //行
 行
 <$00>
-
-
-
 
 // Pos: 00002920
 
@@ -411,9 +379,6 @@ Yes, very off!
 行
 <$00>
 
-
-
-
 // Pos: 00002993
 
 #WLB(PTR, $000016D0)
@@ -436,9 +401,6 @@ agree.
 //行
 行
 <$00>
-
-
-
 
 // Pos: 000029C6
 
@@ -473,9 +435,6 @@ gets for hitting me!
 行
 <$00>
 
-
-
-
 // Pos: 00002A1E
 
 #WLB(PTR, $00001504)
@@ -503,9 +462,6 @@ hitting me.
 中
 <$00>
 
-
-
-
 // Pos: 00002A48
 
 #WLB(PTR, $00000A44)
@@ -523,7 +479,4 @@ so...no! Goddammit,
 <$0C>
 not here!
 <$0E><$1E><$17><$00>
-
-
-
 

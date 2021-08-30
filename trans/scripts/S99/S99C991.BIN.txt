@@ -23,9 +23,6 @@ Ernest. Where are you
 going?
 <$00>
 
-
-
-
 // Pos: 000015B3
 
 #WLB(PTR, $00001530)
@@ -44,9 +41,6 @@ Spacer. What are you
 searching for?
 <$00>
 
-
-
-
 // Pos: 000015DE
 
 #WLB(PTR, $00001534)
@@ -64,6 +58,4 @@ Yolanda. Do you like
 <$0C>
 being alone?
 <$00>
-
-
 

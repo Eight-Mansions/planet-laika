@@ -25,9 +25,6 @@ Shall we look\n
 together?
 <$00>
 
-
-
-
 // Pos: 0000141B
 
 #WLB(PTR, $00000150)
@@ -45,9 +42,6 @@ much time, but time
 <$0C>
 is of the essence!
 <$00>
-
-
-
 
 // Pos: 00001446
 
@@ -68,9 +62,6 @@ make any sudden\n
 movements.
 <$00>
 
-
-
-
 // Pos: 00001477
 
 #WLB(PTR, $00000250)
@@ -89,9 +80,6 @@ for this. You can't
 afford to get caught\n
 in the integration!
 <$00>
-
-
-
 
 // Pos: 000014AC
 
@@ -123,7 +111,4 @@ situation changed?\n
 And if so, how? Is\n
 this truly all right?
 <$00>
-
-
-
 

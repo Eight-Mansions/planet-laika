@@ -26,9 +26,6 @@ saw a white light...
 ê∫
 <$00>
 
-
-
-
 // Pos: 00002E90
 
 #WLB(PTR, $0000181C)
@@ -71,9 +68,6 @@ like them! Ohhh...!
 ê∫
 <$00>
 
-
-
-
 // Pos: 00002F0D
 
 #WLB(PTR, $00000FE4)
@@ -115,9 +109,6 @@ goin' to the Promised
 Land," that's what I\n
 meant.
 <$00>
-
-
-
 
 // Pos: 00002F78
 
@@ -183,12 +174,8 @@ Little:
 <$0D>
 //\nÇªÇ¢Ç¬ÇêUÇËóéÇ∆ÇµÇ…Ç¢Ç≠ÇÒÇæÅB
 \n
-I can't shake 'em\n
-off.
+I can't shake 'em off.
 <$00>
-
-
-
 
 // Pos: 00003054
 
@@ -202,9 +189,6 @@ Yes, I must go!\n
 To the place where I\n
 can serve my purpose!
 <$00>
-
-
-
 
 // Pos: 00003078
 
@@ -240,9 +224,6 @@ sayin' to do in my
 head, get it?
 <$00>
 
-
-
-
 // Pos: 000030D8
 
 #WLB(PTR, $00001198)
@@ -272,9 +253,6 @@ lies keep pourin'
 into me.
 <$00>
 
-
-
-
 // Pos: 00003134
 
 #WLB(PTR, $000011AC)
@@ -293,9 +271,6 @@ anyone better to talk
 to? A wireless TV,\n
 perhaps?
 <$00>
-
-
-
 
 // Pos: 00003165
 
@@ -321,9 +296,6 @@ I'll be here.
 //â∆
 â∆
 <$00>
-
-
-
 
 // Pos: 00003191
 
@@ -351,15 +323,11 @@ Little:
 I was waitin', since\n
 we have common
 <$0C>
-interests now, get\n
-it?
+interests now, get it?
 <$1E>
 //â∆
 â∆
 <$00>
-
-
-
 
 // Pos: 000031E1
 
@@ -376,9 +344,6 @@ Little:
 Oi, is it...really\n
 you?
 <$00>
-
-
-
 
 // Pos: 000031FB
 
@@ -409,9 +374,6 @@ goin' to the Promised
 Land," that's what I\n
 meant.
 <$00>
-
-
-
 
 // Pos: 00003241
 
@@ -462,9 +424,6 @@ up, goddammit! They\n
 won't shut up!
 <$00>
 
-
-
-
 // Pos: 000032DC
 
 #WLB(PTR, $0000156C)
@@ -477,9 +436,6 @@ Yes, I must go!\n
 To the place where I\n
 can serve my purpose!
 <$00>
-
-
-
 
 // Pos: 00003300
 
@@ -496,9 +452,6 @@ Little:
 Goddammit, it's\n
 pourin' out again!
 <$00>
-
-
-
 
 // Pos: 0000331A
 
@@ -541,9 +494,6 @@ choice to prepare as\n
 best as we can.
 <$00>
 
-
-
-
 // Pos: 000033AC
 
 #WLB(PTR, $0000163C)
@@ -563,9 +513,6 @@ might as well get\n
 ready to face it, get\n
 it?
 <$00>
-
-
-
 
 // Pos: 000033D5
 
@@ -631,9 +578,6 @@ are you ready?
 No
 <$00><$17><$00>
 
-
-
-
 // Pos: 000034A5
 
 #WLB(PTR, $00000E3C)
@@ -654,12 +598,8 @@ Little:
 <$0D>
 //\nÇ®ëOÇ™êÊÇ…ï‡Ç¢ÇƒÇ≠ÇÍÅB
 \n
-You should walk\n
-ahead.
+You should walk ahead.
 <$00>
-
-
-
 
 // Pos: 000034BB
 
@@ -686,9 +626,6 @@ into the colony, got
 <$0C>
 it? Outside!
 <$00>
-
-
-
 
 // Pos: 000034E2
 
@@ -733,9 +670,6 @@ up!
 â∆
 <$00>
 
-
-
-
 // Pos: 00003513
 
 #WLB(PTR, $000019EC)
@@ -765,7 +699,4 @@ soon! It's all over!
 //ê∫
 ê∫
 <$00>
-
-
-
 

@@ -18,13 +18,8 @@ White Eagle:
 //\nふほ！\nとうとうひとり歩きを始めたのじゃな。
 \n
 Haww! Started walking\n
-on your own, have
-<$0C>
-you?
+on your own, have you?
 <$00>
-
-
-
 
 // Pos: 000033DB
 
@@ -45,9 +40,6 @@ wasn't exactly my\n
 choice.
 <$00>
 
-
-
-
 // Pos: 0000340F
 
 #WLB(PTR, $000001E8)
@@ -66,9 +58,6 @@ secret power? Have
 you tried using it\n
 yet?
 <$00>
-
-
-
 
 // Pos: 00003437
 
@@ -97,9 +86,6 @@ Is THAT how I'm to\n
 purify the evil?
 <$00>
 
-
-
-
 // Pos: 0000347C
 
 #WLB(PTR, $00000210)
@@ -126,9 +112,6 @@ depths of your mind\n
 go.
 <$00>
 
-
-
-
 // Pos: 000034BF
 
 #WLB(PTR, $00000230)
@@ -147,9 +130,6 @@ me. Is this about
 what happened at the\n
 lodge?
 <$00>
-
-
-
 
 // Pos: 000034E6
 
@@ -189,9 +169,6 @@ as his entrance to
 the Land of the Dead.
 <$00>
 
-
-
-
 // Pos: 0000356B
 
 #WLB(PTR, $000002FC)
@@ -212,9 +189,6 @@ become one with\n
 Jeremiah?
 <$00>
 
-
-
-
 // Pos: 000035AD
 
 #WLB(PTR, $00000310)
@@ -226,9 +200,11 @@ Jeremiah?
 White Eagle:
 <$0D>
 //\nそもそもこの星は死の動機を秘めておる。
-Well, for one, this\n
-planet has its own\n
-reason for dying.
+Well, for\n
+one, this planet has\n
+its own reason for
+<$0C>
+dying.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -251,19 +227,18 @@ Their good will\n
 became glowing
 <$0C>
 stones. Their ill\n
-will became Evil\n
-Mind.
+will became Evil Mind.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n流刑者エレミヤはこの星の精神に触れ、\n死は終わりではなく始まり、
-Jeremiah the Exile\n
-was touched by the\n
-soul of the planet.
+Jeremiah\n
+the Exile was touched\n
+by the soul of the
 <$0C>
-His death was not his\n
-end, but his\n
+planet. His death was\n
+not his end, but his\n
 beginning.
 <$0C><$0B>
 //ホワイトイーグル：
@@ -296,9 +271,6 @@ Jeremiah now is to
 <$0C>
 face death first.
 <$00>
-
-
-
 
 // Pos: 000036DF
 
@@ -337,9 +309,6 @@ Did Universal Man die\n
 and be reborn?
 <$00>
 
-
-
-
 // Pos: 00003754
 
 #WLB(PTR, $000003D4)
@@ -357,8 +326,7 @@ reborn once he merges
 <$0C>
 with his alter ego.\n
 The remaining\n
-prophecies may\n
-follow.
+prophecies may follow.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -372,9 +340,6 @@ fantasies too will\n
 die, and be reborn as\n
 realities.
 <$00>
-
-
-
 
 // Pos: 000037D6
 
@@ -394,9 +359,6 @@ the case? Aren't the
 prohpecies coming\n
 true right now?
 <$00>
-
-
-
 
 // Pos: 00003804
 
@@ -418,9 +380,6 @@ they are not\n
 prophecies.
 <$00>
 
-
-
-
 // Pos: 0000383A
 
 #WLB(PTR, $000008A0)
@@ -436,9 +395,6 @@ April:
 Laika! Thank goodness\n
 you're safe!
 <$00>
-
-
-
 
 // Pos: 00003859
 
@@ -469,9 +425,6 @@ hallucinations about\n
 "cottage" this, and\n
 "Mummy" that.
 <$00>
-
-
-
 
 // Pos: 000038BC
 
@@ -528,9 +481,6 @@ totally lost\n
 afterwards.
 <$00>
 
-
-
-
 // Pos: 00003985
 
 #WLB(PTR, $00000954)
@@ -559,9 +509,6 @@ the colony are doing
 all right.
 <$00>
 
-
-
-
 // Pos: 000039C8
 
 #WLB(PTR, $00000638)
@@ -578,9 +525,6 @@ Hyohyo, is that you,\n
 Ernest? Where to?
 <$00>
 
-
-
-
 // Pos: 000039EA
 
 #WLB(PTR, $0000064C)
@@ -596,9 +540,6 @@ Ernest:
 You're back again?\n
 What for?
 <$00>
-
-
-
 
 // Pos: 00003A0A
 
@@ -620,9 +561,6 @@ to see Liever, seek\n
 "fire".
 <$00>
 
-
-
-
 // Pos: 00003A3F
 
 #WLB(PTR, $00000674)
@@ -643,9 +581,6 @@ It's a tasteless clue\n
 if it does.
 <$00>
 
-
-
-
 // Pos: 00003A61
 
 #WLB(PTR, $000006D4)
@@ -661,9 +596,6 @@ Spirit Man:
 Hyohyo, is that you,\n
 Spacer? Where to?
 <$00>
-
-
-
 
 // Pos: 00003A83
 
@@ -683,9 +615,6 @@ now? That's not
 something you see\n
 everyday.
 <$00>
-
-
-
 
 // Pos: 00003AA8
 
@@ -707,9 +636,6 @@ to see Liever, seek\n
 the "rocket".
 <$00>
 
-
-
-
 // Pos: 00003ADD
 
 #WLB(PTR, $0000070C)
@@ -730,9 +656,6 @@ rocket we came to\n
 Mars in.
 <$00>
 
-
-
-
 // Pos: 00003B05
 
 #WLB(PTR, $00000684)
@@ -748,9 +671,6 @@ Spirit Man:
 Hyohyo, is that you,\n
 Yolanda? Where to?
 <$00>
-
-
-
 
 // Pos: 00003B26
 
@@ -770,9 +690,6 @@ something? I'm tired
 of running around for\n
 shit.
 <$00>
-
-
-
 
 // Pos: 00003B45
 
@@ -794,9 +711,6 @@ to see Liever, seek\n
 "shelter".
 <$00>
 
-
-
-
 // Pos: 00003B7E
 
 #WLB(PTR, $000006C0)
@@ -816,9 +730,6 @@ to run for cover\n
 somewhere shortly\n
 after we landed...
 <$00>
-
-
-
 
 // Pos: 00003BA6
 
@@ -848,9 +759,6 @@ boundary in place
 <$0C>
 that we must breach.
 <$00>
-
-
-
 
 // Pos: 00003C06
 
@@ -890,8 +798,7 @@ White Eagle:
 This won't do. I fear\n
 we don't have much
 <$0C>
-time to look for\n
-them.
+time to look for them.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -903,9 +810,6 @@ so narrowly, it may
 <$0C>
 stay closed.
 <$00>
-
-
-
 
 // Pos: 00003CBC
 
@@ -926,7 +830,4 @@ Martian good will.\n
 They must be around\n
 here somewhere.
 <$00>
-
-
-
 

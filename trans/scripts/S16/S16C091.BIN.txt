@@ -23,9 +23,6 @@ You've got business
 in my dreamÅH
 <$00>
 
-
-
-
 // Pos: 00000B4A
 
 #WLB(PTR, $000001B4)
@@ -78,9 +75,6 @@ comrade.
 â∆
 <$00>
 
-
-
-
 // Pos: 00000BDF
 
 #WLB(PTR, $000003CC)
@@ -111,9 +105,6 @@ take on MY dreams!
 â∆
 <$00>
 
-
-
-
 // Pos: 00000C30
 
 #WLB(PTR, $0000042C)
@@ -136,9 +127,6 @@ anything yet. Whew...
 â∆
 <$00>
 
-
-
-
 // Pos: 00000C64
 
 #WLB(PTR, $0000046C)
@@ -152,16 +140,11 @@ Tommy:
 //\nÇ®Ç¶Ç¡ÅAÇ±ÇËÇ·à´êåÇ¢Ç›ÇΩÇ¢ÇæÇ∫ÅH
 \n
 Whew, am I just\n
-hungover or
-<$0C>
-something?
+hungover or something?
 <$1E>
 //â∆
 â∆
 <$00>
-
-
-
 
 // Pos: 00000C81
 
@@ -185,9 +168,6 @@ I hate it!
 ê∫
 <$00>
 
-
-
-
 // Pos: 00000CBD
 
 #WLB(PTR, $00000330)
@@ -205,9 +185,6 @@ you mean, you smell
 <$0C>
 almonds?
 <$00>
-
-
-
 
 // Pos: 00000CE9
 
@@ -228,9 +205,6 @@ say that. Must've\n
 been the smartass
 <$00>
 
-
-
-
 // Pos: 00000D17
 
 #WLB(PTR, $00000354)
@@ -250,9 +224,6 @@ importantly, who's\n
 back there?
 <$00>
 
-
-
-
 // Pos: 00000D46
 
 #WLB(PTR, $000002C4)
@@ -271,9 +242,6 @@ fresh almonds.
 //â∆
 â∆
 <$00>
-
-
-
 
 // Pos: 00000D65
 
@@ -297,9 +265,6 @@ than before.
 â∆
 <$00>
 
-
-
-
 // Pos: 00000D94
 
 #WLB(PTR, $0000047C)
@@ -317,7 +282,4 @@ I hate almonds!
 //â∆
 â∆
 <$00>
-
-
-
 

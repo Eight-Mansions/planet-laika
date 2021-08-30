@@ -56,9 +56,6 @@ whoosh!
 ÅZ
 <$00>
 
-
-
-
 // Pos: 00000EF5
 
 #WLB(PTR, $000006E4)
@@ -74,9 +71,6 @@ Oxygen Miner 1ÅF
 No! Terrible things,\n
 whoosh!
 <$00>
-
-
-
 
 // Pos: 00000F17
 
@@ -97,9 +91,6 @@ old oxygenite\n
 mineshaft is, whoosh!
 <$00>
 
-
-
-
 // Pos: 00000F5B
 
 #WLB(PTR, $0000072C)
@@ -118,9 +109,6 @@ bAck, bUt wE hEArd
 thE wArnIng AlErt,\n
 whOOsh!
 <$00>
-
-
-
 
 // Pos: 00000F88
 
@@ -141,9 +129,6 @@ whoosh! Go to the\n
 girl!
 <$00>
 
-
-
-
 // Pos: 00000FB7
 
 #WLB(PTR, $00000774)
@@ -161,9 +146,6 @@ Go!
 //ÅZ
 ÅZ
 <$00>
-
-
-
 
 // Pos: 00000FCF
 
@@ -184,9 +166,6 @@ whoosh!
 ÅZ
 <$00>
 
-
-
-
 // Pos: 00000FF2
 
 #WLB(PTR, $000008B8)
@@ -205,9 +184,6 @@ whoosh, whoosh!
 //âä
 âä
 <$00>
-
-
-
 
 // Pos: 00001012
 
@@ -235,7 +211,4 @@ PLEASE EVACUATE
 IMMEDIATELY.\n
 THIS IS NOT A DRILL.
 <$00>
-
-
-
 

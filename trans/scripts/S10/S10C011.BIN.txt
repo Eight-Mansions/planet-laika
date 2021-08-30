@@ -26,12 +26,10 @@ Liever:
 //\n
 <$0F>
 //の新しいパパでしょ。\nあんたにとっても。
-'s step-father. He\n
-did this to you.
+'s\n
+step-father. He did\n
+this to you.
 <$00>
-
-
-
 
 // Pos: 00004046
 
@@ -51,9 +49,6 @@ dirt-fucking bastard,
 to put it nicely.
 <$00>
 
-
-
-
 // Pos: 00004075
 
 #WLB(PTR, $000002EC)
@@ -66,16 +61,14 @@ Liever:
 <$0D>
 //\n
 \n
-It's true.
+It's true. 
 <$0F>
 //のママは\nウラジミールにはひどい目にあわされた、\nそうなんだね。
-'s mother lived a\n
-hellish life under\n
-Vladimir's hand.
+'s mother\n
+lived a hellish life
+<$0C>
+under Vladimir's hand.
 <$00>
-
-
-
 
 // Pos: 000040A2
 
@@ -111,9 +104,6 @@ And, when they\n
 started digging...
 <$00>
 
-
-
-
 // Pos: 00004101
 
 #WLB(PTR, $00000314)
@@ -142,9 +132,6 @@ time you, Yolanda,
 ever surfaced.
 <$00>
 
-
-
-
 // Pos: 00004148
 
 #WLB(PTR, $00000328)
@@ -163,9 +150,6 @@ only I'd talked to
 her sooner.
 <$00>
 
-
-
-
 // Pos: 00004178
 
 #WLB(PTR, $0000033C)
@@ -178,18 +162,15 @@ Liever:
 <$0D>
 //\nタニアは
 \n
-Tanya is
+Tanya is 
 <$0F>
 //のママだよね、\nあんたのママってこと？\nどう思ってたの？
-'s mother. Does that\n
-make her your mother\n
-as well? Or am I
+'s mother.\n
+Does that make her
 <$0C>
-wrong?
+your mother as well?\n
+Or am I wrong?
 <$00>
-
-
-
 
 // Pos: 000041A5
 
@@ -210,13 +191,14 @@ Yolanda:
 <$0D>
 //\n
 \n
+
 <$0F>
 //には何もできないの…\nせいぜいが宇宙飛行士になることくらい。
-couldn't help her! He\n
-was too busy striving\n
-to be a fucking
+ couldn't help her!\n
+He was too busy
 <$0C>
-cosmonaut!
+striving to be a\n
+fucking cosmonaut!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -229,9 +211,6 @@ shoulder to lean on!
 I was the only one\n
 there for her!
 <$00>
-
-
-
 
 // Pos: 00004212
 
@@ -248,9 +227,6 @@ Liever:
 What about Ernest?\n
 Why does he exist?
 <$00>
-
-
-
 
 // Pos: 00004232
 
@@ -291,9 +267,6 @@ Vladimir and Sergei's\n
 physical abuse.
 <$00>
 
-
-
-
 // Pos: 0000429E
 
 #WLB(PTR, $00000990)
@@ -309,9 +282,6 @@ Liever:
 But, that sister\n
 arrived stillborn.
 <$00>
-
-
-
 
 // Pos: 000042B9
 
@@ -339,9 +309,6 @@ eyes, she's out
 there, somewhere.
 <$00>
 
-
-
-
 // Pos: 000042F4
 
 #WLB(PTR, $000009B8)
@@ -357,9 +324,6 @@ Liever:
 He dreamed her up\n
 after the fact?
 <$00>
-
-
-
 
 // Pos: 00004308
 
@@ -381,9 +345,6 @@ details, so you'd\n
 have to ask him.
 <$00>
 
-
-
-
 // Pos: 00004336
 
 #WLB(PTR, $000009E0)
@@ -403,9 +364,6 @@ name that Tanya and\n
 Vladimir planned to\n
 give her?
 <$00>
-
-
-
 
 // Pos: 0000436F
 
@@ -434,9 +392,6 @@ didn't want more\n
 children.
 <$00>
 
-
-
-
 // Pos: 000043B1
 
 #WLB(PTR, $00000D08)
@@ -451,9 +406,6 @@ Liever:
 \n
 Did Spacer know this?
 <$00>
-
-
-
 
 // Pos: 000043C7
 
@@ -475,9 +427,6 @@ eye over the lot of\n
 us.
 <$00>
 
-
-
-
 // Pos: 000043EC
 
 #WLB(PTR, $00000D30)
@@ -496,9 +445,6 @@ filled the gap Ernest
 had intended for\n
 Masha?
 <$00>
-
-
-
 
 // Pos: 0000440E
 
@@ -530,9 +476,6 @@ that idea, his\n
 sister, slip away.
 <$00>
 
-
-
-
 // Pos: 0000445E
 
 #WLB(PTR, $00000D58)
@@ -550,9 +493,6 @@ largely studios
 <$0C>
 person, isn't he.
 <$00>
-
-
-
 
 // Pos: 0000447C
 
@@ -584,7 +524,7 @@ Yolanda:
 Before anyone could\n
 notice...he'd planted
 <$0C>
-himself into
+himself into 
 <$0F>
 //の中に住み着いたのよ、
 's mind as they read.
@@ -604,18 +544,15 @@ Yolanda:
 <$0D>
 //\n
 \n
-In the end,
+In the end, 
 <$0F>
 //が宇宙飛行士になれたのも\nスペーサーがいたからよ。
-only became a\n
-cosmonaut because\n
-Spacer took the
+ only\n
+became a cosmonaut
 <$0C>
-wheel.
+because Spacer took\n
+the wheel.
 <$00>
-
-
-
 
 // Pos: 0000450A
 
@@ -636,9 +573,6 @@ stunning! Brimming\n
 with potential!
 <$00>
 
-
-
-
 // Pos: 00004542
 
 #WLB(PTR, $00001108)
@@ -652,7 +586,7 @@ Galil:
 //\n私は君よりもっとあやふやな存在だった。\nせまり来る不安の中で自信を失っていた。
 \n
 Once, I was more\n
-uncertain an
+uncertain an 
 <$0C>
 existance than you. I\n
 knew no ease, no\n
@@ -709,9 +643,6 @@ That is what you\n
 want, isn't it?
 <$00>
 
-
-
-
 // Pos: 00004630
 
 #WLB(PTR, $00001184)
@@ -723,9 +654,6 @@ want, isn't it?
 No! Don't let him\n
 trick you!
 <$00>
-
-
-
 
 // Pos: 0000463F
 
@@ -744,9 +672,6 @@ capitalize on your
 <$0C>
 suffering!
 <$00>
-
-
-
 
 // Pos: 00004666
 
@@ -768,9 +693,6 @@ your god to rear you\n
 in?
 <$00>
 
-
-
-
 // Pos: 00004690
 
 #WLB(PTR, $000012A0)
@@ -788,9 +710,6 @@ was just a mass of
 <$0C>
 Evil Mind!
 <$00>
-
-
-
 
 // Pos: 000046B8
 
@@ -811,9 +730,6 @@ continue to revel in\n
 your sin?
 <$00>
 
-
-
-
 // Pos: 000046DD
 
 #WLB(PTR, $000012C8)
@@ -829,9 +745,6 @@ Liever:
 I never do anything\n
 wrong!
 <$00>
-
-
-
 
 // Pos: 000046F4
 
@@ -849,12 +762,8 @@ YOU gave twins the\n
 present of
 <$0C>
 nightmares, Little!\n
-YOU buried them\n
-alive!
+YOU buried them alive!
 <$00>
-
-
-
 
 // Pos: 0000472C
 
@@ -875,9 +784,6 @@ AND I SHALL CALL YOU\n
 "LITTLE" FOR IT!
 <$00>
 
-
-
-
 // Pos: 0000475D
 
 #WLB(PTR, $00001378)
@@ -892,9 +798,6 @@ Liever:
 \n
 NOOO!
 <$00>
-
-
-
 
 // Pos: 0000476C
 
@@ -919,9 +822,10 @@ Yolanda:
 <$0D>
 //\n
 \n
+
 <$0F>
 //を追いやって…
-couldn't help it. I\n
+ couldn't help it. I\n
 forced him out.
 <$0C><$0B>
 //ヨランダ：
@@ -930,9 +834,7 @@ Yolanda:
 //\nタニアのことが心配だったの。\n気が急いたわ。
 \n
 I was worried about\n
-Tanya. I had to
-<$0C>
-hurry.
+Tanya. I had to hurry.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -992,7 +894,4 @@ Yolanda:
 I knew I couldn't\n
 save her.
 <$00>
-
-
-
 

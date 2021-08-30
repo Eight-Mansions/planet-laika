@@ -21,9 +21,6 @@ It's time to study,\n
 Ernest.
 <$00>
 
-
-
-
 // Pos: 00002061
 
 #WLB(PTR, $000007F4)
@@ -43,9 +40,6 @@ cannot be overcome by\n
 brute force alone.
 <$00>
 
-
-
-
 // Pos: 00002095
 
 #WLB(PTR, $00000940)
@@ -64,9 +58,6 @@ out of nowhere. What
 in blazes is that\n
 thing?
 <$00>
-
-
-
 
 // Pos: 000020B8
 
@@ -109,9 +100,6 @@ you will disappear,\n
 hyohyo!
 <$00>
 
-
-
-
 // Pos: 0000213F
 
 #WLB(PTR, $0000098C)
@@ -131,9 +119,6 @@ them all into\n
 oblivion before they\n
 get close!
 <$00>
-
-
-
 
 // Pos: 0000216B
 
@@ -187,9 +172,6 @@ looking for? Lost
 <$0C>
 time?
 <$00>
-
-
-
 
 // Pos: 00002243
 
@@ -324,9 +306,7 @@ Spirit Man:
 //\nひょ…お宝は手にいれたのか、アーネスト。
 \n
 Hyo... Did you find\n
-your treasure,
-<$0C>
-Ernest?
+your treasure, Ernest?
 <$00><$10><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -359,9 +339,6 @@ I think you're just\n
 fiesty, hyohyo!
 <$00>
 
-
-
-
 // Pos: 000024B9
 
 #WLB(PTR, $00000C70)
@@ -378,9 +355,6 @@ Come! Come with me to\n
 the mirror room!
 <$00>
 
-
-
-
 // Pos: 000024DC
 
 #WLB(PTR, $00000C58)
@@ -393,13 +367,13 @@ Spirit Man:
 <$0D>
 //\nひょひょ、
 \n
-Hyohyo,
+Hyohyo, 
 <$0F>
 //や、どこへ行く？\nこっちだ、来い来い、鏡の部屋だ。
-, where are you\n
-going? Come! Come\n
-with me to the mirror
+, where are\n
+you going? Come! Come
 <$0C>
+with me to the mirror\n
 room!
 <$00><$10>
 //ガレキのすきまの奥で\n何かが光っているようだ。
@@ -410,9 +384,6 @@ the rubble.
 //サイコカプセルを手にいれた！
 P Capsule acquired.
 <$00>
-
-
-
 
 // Pos: 0000253C
 
@@ -432,9 +403,6 @@ a strange engraving
 on the wall. Let me\n
 see...
 <$00>
-
-
-
 
 // Pos: 0000255F
 
@@ -476,12 +444,10 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00>
-
-
-
 
 // Pos: 00002612
 
@@ -516,9 +482,6 @@ Yolanda:
 Oh! Uh, i-it's\n
 nothing! I'm good!
 <$00>
-
-
-
 
 // Pos: 00002666
 
@@ -583,9 +546,6 @@ little metaphor from\n
 Revelations too!)
 <$00>
 
-
-
-
 // Pos: 00002734
 
 #WLB(PTR, $000013FC)
@@ -602,12 +562,8 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
-
-
-
 
 // Pos: 00002768
 
@@ -662,9 +618,6 @@ reincarnation? I dare\n
 say, I am confused.
 <$00>
 
-
-
-
 // Pos: 0000281A
 
 #WLB(PTR, $0000140C)
@@ -684,9 +637,6 @@ what me and the guys\n
 are.
 <$00>
 
-
-
-
 // Pos: 00002841
 
 #WLB(PTR, $00001440)
@@ -699,7 +649,9 @@ are.
 //\n問顆は心も欲しがるかということだ。\n
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
+
 <$0B>
 //トーマス：
 Thomas:
@@ -735,12 +687,10 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00>
-
-
-
 
 // Pos: 0000290B
 
@@ -771,7 +721,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

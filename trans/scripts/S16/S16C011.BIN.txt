@@ -44,9 +44,6 @@ where are the other\n
 two?
 <$00>
 
-
-
-
 // Pos: 00000665
 
 #WLB(PTR, $000001E0)
@@ -65,9 +62,6 @@ Tommy by now, but
 where are Marrakech\n
 and Yang?
 <$00>
-
-
-
 
 // Pos: 00000695
 
@@ -108,9 +102,6 @@ Your resting place\n
 calls you.
 <$00>
 
-
-
-
 // Pos: 0000070C
 
 #WLB(PTR, $00000108)
@@ -137,9 +128,6 @@ can't wander this
 place so carelessly.
 <$00>
 
-
-
-
 // Pos: 00000760
 
 #WLB(PTR, $00000220)
@@ -165,7 +153,4 @@ can't wander this
 <$0C>
 place so carelessly.
 <$00>
-
-
-
 

@@ -24,9 +24,6 @@ this the Land of\n
 Nightmares?
 <$00>
 
-
-
-
 // Pos: 00002DF9
 
 #WLB(PTR, $000003BC)
@@ -55,9 +52,6 @@ easily set fire to a\n
 stable.
 <$00>
 
-
-
-
 // Pos: 00002E46
 
 #WLB(PTR, $00000368)
@@ -76,9 +70,6 @@ swaying. Was it from
 that dream I saw?
 <$00>
 
-
-
-
 // Pos: 00002E6E
 
 #WLB(PTR, $00000388)
@@ -96,7 +87,8 @@ can't imagine her
 <$0C>
 giving Vladimir\n
 tainted liquor to\n
-drink before\n
+drink before
+<$0C>
 breakfast.
 <$0C><$0B>
 //アーネスト：
@@ -110,9 +102,6 @@ suppose I can't wag
 my finger, but she'd\n
 absolutely do that.
 <$00>
-
-
-
 
 // Pos: 00002EC4
 
@@ -132,9 +121,6 @@ aren't I. That's
 right...this is only\n
 a bad dream.
 <$00>
-
-
-
 
 // Pos: 00002EEB
 
@@ -163,7 +149,4 @@ that shit-for-brains\n
 Sergei for a serious\n
 crime.
 <$00>
-
-
-
 

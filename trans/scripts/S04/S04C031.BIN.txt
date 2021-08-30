@@ -56,9 +56,6 @@ running around?
 ÅZ
 <$00>
 
-
-
-
 // Pos: 0000244C
 
 #WLB(PTR, $0000043C)
@@ -79,9 +76,6 @@ find her.
 //ÅZ
 ÅZ
 <$00>
-
-
-
 
 // Pos: 0000246B
 
@@ -126,9 +120,6 @@ sleepy...
 ëo
 <$00>
 
-
-
-
 // Pos: 000024F0
 
 #WLB(PTR, $000007E4)
@@ -145,8 +136,7 @@ Hey. It's me, Rummy!\n
 So, we make two, and
 <$0C>
 I guess...that\n
-person's number\n
-three?
+person's number three?
 <$0C><$0B>
 //ÉâÉ~Å[ÅF
 Rummy:
@@ -162,9 +152,6 @@ Memoriae, a-ha!
 //âs
 âs
 <$00>
-
-
-
 
 // Pos: 00002545
 
@@ -186,7 +173,4 @@ Memoriae, a-ha!
 //âä
 âä
 <$00>
-
-
-
 

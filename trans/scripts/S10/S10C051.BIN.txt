@@ -24,9 +24,6 @@ this toy have to do\n
 with me?
 <$00>
 
-
-
-
 // Pos: 00000CF6
 
 #WLB(PTR, $000001FC)
@@ -42,12 +39,8 @@ Liever:
 Didn't you play with\n
 this very rocket
 <$0C>
-during your\n
-childhood?
+during your childhood?
 <$00>
-
-
-
 
 // Pos: 00000D1A
 
@@ -76,9 +69,6 @@ it? I never broke a\n
 thing in my life!
 <$00>
 
-
-
-
 // Pos: 00000D58
 
 #WLB(PTR, $00000224)
@@ -91,18 +81,16 @@ Liever:
 <$0D>
 //\n
 \n
+
 <$0F>
 //が壊したんだよ、\nヤケになって、手当たり次第に。
-broke it apart. In a\n
-fit of despair, they\n
-took whatever they
+ broke it apart. In a\n
+fit of despair, they
 <$0C>
+took whatever they\n
 could get their hands\n
 on, and...
 <$00>
-
-
-
 
 // Pos: 00000D81
 
@@ -116,11 +104,13 @@ Yolanda:
 <$0D>
 //\nうそよ、
 \n
-Bullshit.
+Bullshit. 
 <$0F>
 //は\n何もできないのよ。
-couldn't accomplish\n
-that on their own..
+ couldn't\n
+accomplish that on
+<$0C>
+their own..
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -132,9 +122,6 @@ accomplish anything
 <$0C>
 on their own.
 <$00>
-
-
-
 
 // Pos: 00000DB4
 
@@ -148,18 +135,15 @@ Liever:
 <$0D>
 //\nこんなふうに思い出まで壊しちゃったのって\n本当は
 \n
-Are you sure?
+Are you sure? 
 <$0F>
 //なんじゃないの？
-did a smashing job\n
-breaking apart their\n
-own memories, after
+ did a\n
+smashing job breaking
 <$0C>
-all.
+apart their own\n
+memories, after all.
 <$00>
-
-
-
 
 // Pos: 00000DE5
 
@@ -184,16 +168,14 @@ Yolanda:
 <$0D>
 //\n
 \n
+
 <$0F>
 //は善でも悪でもないわ、\n無なのよ。 なにもないの、心もないのよ。
-never accomplished\n
-anything! Never had\n
-anything! They never
+ never accomplished\n
+anything! Never had
 <$0C>
+anything! They never\n
 had a mind of their\n
 own!
 <$00>
-
-
-
 

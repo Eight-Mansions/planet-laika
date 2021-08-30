@@ -36,9 +36,6 @@ sending you home to\n
 Masha!
 <$00>
 
-
-
-
 // Pos: 0000104F
 
 #WLB(PTR, $00000230)
@@ -54,7 +51,4 @@ Ernest:
 Shut up, you! I'm not\n
 going anywhere!
 <$00>
-
-
-
 

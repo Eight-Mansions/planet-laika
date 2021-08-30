@@ -17,12 +17,8 @@ Yolanda:
 <$0D>
 //\nちょっと、そこどいてよ。
 \n
-Wait, someone's\n
-here?!
+Wait, someone's here?!
 <$00>
-
-
-
 
 // Pos: 000017A7
 
@@ -52,9 +48,6 @@ Little oxygen left,
 whoosh, whoosh.
 <$00>
 
-
-
-
 // Pos: 000017FA
 
 #WLB(PTR, $000007C4)
@@ -74,9 +67,6 @@ looking for our\n
 friends.
 <$00>
 
-
-
-
 // Pos: 00001823
 
 #WLB(PTR, $000007E8)
@@ -91,9 +81,6 @@ Oxygen Miner 1：
 \n
 We have no "friends".
 <$00>
-
-
-
 
 // Pos: 0000183D
 
@@ -113,9 +100,6 @@ April, say their
 names please.
 <$00>
 
-
-
-
 // Pos: 00001861
 
 #WLB(PTR, $00000830)
@@ -134,9 +118,6 @@ either of those names
 ring a bell?
 <$00>
 
-
-
-
 // Pos: 00001886
 
 #WLB(PTR, $00000854)
@@ -153,9 +134,6 @@ Noon...? Elder! You\n
 know Elder!
 <$00>
 
-
-
-
 // Pos: 000018AF
 
 #WLB(PTR, $00000878)
@@ -170,9 +148,6 @@ April:
 \n
 El...der?
 <$00>
-
-
-
 
 // Pos: 000018BF
 
@@ -192,9 +167,6 @@ Can you tell us where
 your elder is?
 <$00>
 
-
-
-
 // Pos: 000018DC
 
 #WLB(PTR, $000008C0)
@@ -210,9 +182,6 @@ Oxygen Miner 1：
 Elder lives in\n
 elder's cottage.
 <$00>
-
-
-
 
 // Pos: 000018FC
 
@@ -232,9 +201,6 @@ is the elder's
 residence, exactly?
 <$00>
 
-
-
-
 // Pos: 00001918
 
 #WLB(PTR, $00000908)
@@ -250,9 +216,6 @@ Oxygen Miner 1：
 Center of town,\n
 Elder's cottage.
 <$00>
-
-
-
 
 // Pos: 0000193A
 
@@ -273,9 +236,6 @@ guess that's way in\n
 the back.
 <$00>
 
-
-
-
 // Pos: 0000194D
 
 #WLB(PTR, $00000984)
@@ -295,9 +255,6 @@ meet him. Please let\n
 us pass!
 <$00>
 
-
-
-
 // Pos: 00001976
 
 #WLB(PTR, $000009A8)
@@ -314,9 +271,6 @@ Never heard promise,\n
 whoosh, whoosh.
 <$00>
 
-
-
-
 // Pos: 00001999
 
 #WLB(PTR, $000009CC)
@@ -332,9 +286,6 @@ Yolanda:
 Jesus Lord, can we\n
 get this over with?!
 <$00>
-
-
-
 
 // Pos: 000019B7
 
@@ -375,9 +326,6 @@ here! Are you happy
 now?!
 <$00>
 
-
-
-
 // Pos: 00001A2E
 
 #WLB(PTR, $00000A34)
@@ -395,9 +343,6 @@ Whoosh, whoosh,
 <$0C>
 whoosh.
 <$00>
-
-
-
 
 // Pos: 00001A54
 
@@ -425,9 +370,6 @@ mind wants to goddamn
 live here!
 <$00>
 
-
-
-
 // Pos: 00001A92
 
 #WLB(PTR, $00000A7C)
@@ -442,9 +384,6 @@ Oxygen Miner 1：
 \n
 ...Come.
 <$00>
-
-
-
 
 // Pos: 00001AA7
 
@@ -462,9 +401,6 @@ Whoosh, whoosh.\n
 Suspicious, whoosh!
 <$00>
 
-
-
-
 // Pos: 00001ACA
 
 #WLB(PTR, $00000C24)
@@ -480,9 +416,6 @@ Yolanda:
 Hey, the fuck you\n
 calling suspicious?
 <$00>
-
-
-
 
 // Pos: 00001AE2
 
@@ -500,9 +433,6 @@ Whoosh, you! You try\n
 to move in, whoosh!
 <$00>
 
-
-
-
 // Pos: 00001B0D
 
 #WLB(PTR, $00000C6C)
@@ -519,9 +449,6 @@ M-move in here?\n
 Absolutely not...
 <$00>
 
-
-
-
 // Pos: 00001B29
 
 #WLB(PTR, $00000C90)
@@ -537,9 +464,6 @@ Oxygen Miner 1：
 What do you want,\n
 whoosh?
 <$00>
-
-
-
 
 // Pos: 00001B45
 
@@ -559,7 +483,4 @@ guys are happy here.
 No one's trying to\n
 dick with that.
 <$00>
-
-
-
 

@@ -23,9 +23,6 @@ minute. Can you two
 hear me?
 <$00>
 
-
-
-
 // Pos: 00002A50
 
 #WLB(PTR, $000001AC)
@@ -43,9 +40,6 @@ Ernie! Jo! Can you
 <$0C>
 hear my voice?
 <$00>
-
-
-
 
 // Pos: 00002A7F
 
@@ -65,9 +59,6 @@ Shall I tell you
 about him?
 <$00>
 
-
-
-
 // Pos: 00002AA6
 
 #WLB(PTR, $000003AC)
@@ -82,9 +73,6 @@ Spacer:
 \n
 Uhm...
 <$00>
-
-
-
 
 // Pos: 00002AB6
 
@@ -101,9 +89,6 @@ Damian:
 Who are you?
 <$00>
 
-
-
-
 // Pos: 00002AC7
 
 #WLB(PTR, $000003D4)
@@ -116,13 +101,11 @@ Spacer:
 <$0D>
 //\n
 \n
+
 <$0F>
 //だ…
 ...
 <$00>
-
-
-
 
 // Pos: 00002AD7
 
@@ -140,9 +123,6 @@ Yes, good! I thought\n
 as much, heehee!
 <$00>
 
-
-
-
 // Pos: 00002AF4
 
 #WLB(PTR, $000003FC)
@@ -158,9 +138,6 @@ Spacer:
 All right, tell me\n
 about Galil.
 <$00>
-
-
-
 
 // Pos: 00002B0F
 
@@ -191,9 +168,6 @@ introduced Cosmas to
 Red.
 <$00>
 
-
-
-
 // Pos: 00002B65
 
 #WLB(PTR, $00000424)
@@ -210,9 +184,6 @@ Stoking the coals of\n
 hatred, was he?
 <$00>
 
-
-
-
 // Pos: 00002B89
 
 #WLB(PTR, $00000438)
@@ -225,8 +196,7 @@ Damian:
 <$0D>
 //\nはじめのうちはね。
 \n
-In the beginning,\n
-yes.
+In the beginning, yes.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -239,9 +209,6 @@ everyone became
 obsessed with "evil"\n
 on their own.
 <$00>
-
-
-
 
 // Pos: 00002BC3
 
@@ -257,9 +224,6 @@ Spacer:
 \n
 What...are you?
 <$00>
-
-
-
 
 // Pos: 00002BD6
 
@@ -285,9 +249,6 @@ because of him, you
 <$0C>
 know, so...please?
 <$00>
-
-
-
 
 // Pos: 00002C1B
 
@@ -318,9 +279,6 @@ your relationship to\n
 Cosmas?
 <$00>
 
-
-
-
 // Pos: 00002C72
 
 #WLB(PTR, $0000097C)
@@ -339,9 +297,6 @@ time for you to lead
 Cosmas.
 <$00>
 
-
-
-
 // Pos: 00002C9E
 
 #WLB(PTR, $00000990)
@@ -359,9 +314,6 @@ question. Are you two
 <$0C>
 siblings?
 <$00>
-
-
-
 
 // Pos: 00002CBF
 
@@ -392,9 +344,6 @@ come to you as if he
 were sleepwalking.
 <$00>
 
-
-
-
 // Pos: 00002D04
 
 #WLB(PTR, $000009B8)
@@ -410,9 +359,6 @@ Spacer:
 Damian, I asked you a\n
 question.
 <$00>
-
-
-
 
 // Pos: 00002D24
 
@@ -430,9 +376,6 @@ The doll's name is\n
 Dark Man.
 <$00>
 
-
-
-
 // Pos: 00002D3E
 
 #WLB(PTR, $00000B30)
@@ -448,7 +391,4 @@ Spacer:
 All right, you two\n
 still there?
 <$00>
-
-
-
 

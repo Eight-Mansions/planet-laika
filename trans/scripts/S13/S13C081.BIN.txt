@@ -18,16 +18,15 @@
 //\n僕が？ これは僕の見たものじゃない！\n
 \n
 Is this my...no! I\n
-didn't see this!\n
+didn't see this!
+<$0C>
+
 <$0F>
 //だ、あいつだ！\nここが憎しみの原点なのか！
-did! Was this the\n
+ did! Was this the\n
 origin of their\n
 hatred?
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 00001D82
 
@@ -46,9 +45,6 @@ beckons those around
 <$0C>
 it toward death.
 <$00>
-
-
-
 
 // Pos: 00001DA0
 
@@ -70,7 +66,4 @@ the first time I've
 felt anything like\n
 this! It's Madness!
 <$0E><$78><$17><$00>
-
-
-
 

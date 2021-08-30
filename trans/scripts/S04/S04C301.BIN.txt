@@ -21,9 +21,6 @@ Oh, I get it.\n
 I...err...
 <$00>
 
-
-
-
 // Pos: 00003583
 
 #WLB(PTR, $0000067C)
@@ -50,9 +47,6 @@ time? Ugh, I don't
 even remember.
 <$00>
 
-
-
-
 // Pos: 000035C5
 
 #WLB(PTR, $00000778)
@@ -69,9 +63,6 @@ Who are you, somebody\n
 from Earth?
 <$0E><$32><$17><$00>
 
-
-
-
 // Pos: 000035E4
 
 #WLB(PTR, $00000794)
@@ -87,9 +78,6 @@ L-I-T-T-L-E, got it?
 I work at the oxygen\n
 dispensary.
 <$0E><$32><$17><$00>
-
-
-
 
 // Pos: 00003611
 
@@ -108,9 +96,6 @@ know, huh? Don't
 <$0C>
 waste my time!
 <$0E><$32><$17><$00>
-
-
-
 
 // Pos: 0000363C
 
@@ -144,9 +129,6 @@ us.
 早
 <$00>
 
-
-
-
 // Pos: 000036A4
 
 #WLB(PTR, $0000090C)
@@ -159,8 +141,7 @@ us.
 Oi, I bet you're the\n
 kinda punk who gets
 <$0C>
-off on pickin'\n
-fights!
+off on pickin' fights!
 <$0C>
 //分かるんだ、僕には分かる、\nちょっと怖いよ。
 ...Sure, sure.\n
@@ -174,14 +155,11 @@ Deep down, you're a\n
 softie too, with your\n
 own someone you were
 <$0C>
-born to protect.
+born to protect. 
 <$1E>
 //早
 早
 <$00>
-
-
-
 
 // Pos: 00003707
 
@@ -195,8 +173,7 @@ You put a lot of\n
 focus on your face,\n
 huh. I understand. I
 <$0C>
-see right through\n
-you!
+see right through you!
 <$0C>
 //顔とか見かけにこだわるんだよね、\nでも本当はすごく寂しがり屋さん。
 You worry about your\n
@@ -216,9 +193,6 @@ on.
 //早
 早
 <$00>
-
-
-
 
 // Pos: 00003778
 
@@ -272,9 +246,6 @@ NIGHT PLANET!
 〇
 <$00>
 
-
-
-
 // Pos: 00003805
 
 #WLB(PTR, $00001454)
@@ -296,14 +267,12 @@ burnt for God's sake!
 〇
 <$00>
 
-
-
-
 // Pos: 00003832
 
 #WLB(PTR, $00001850)
 
 #WHB(PTR, $00001851)
+
 
 <$00><$18><$00>
 //ぁセ。
@@ -361,7 +330,4 @@ ALWAYS KNEW.
 CHARLIE'S AWAKE!\n
 CHARLIE'S AWAKE!
 <$00>
-
-
-
 

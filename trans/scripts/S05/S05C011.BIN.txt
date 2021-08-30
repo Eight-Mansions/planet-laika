@@ -44,9 +44,6 @@ memories can and will
 be false.
 <$00>
 
-
-
-
 // Pos: 00001807
 
 #WLB(PTR, $000000D0)
@@ -65,9 +62,6 @@ us! Actually, may I
 ask you one thing?
 <$00>
 
-
-
-
 // Pos: 00001826
 
 #WLB(PTR, $000000E0)
@@ -82,9 +76,6 @@ Noble Rock:
 \n
 You may.
 <$00>
-
-
-
 
 // Pos: 00001837
 
@@ -106,9 +97,6 @@ undergone plastic\n
 surgery?
 <$00>
 
-
-
-
 // Pos: 00001871
 
 #WLB(PTR, $00000120)
@@ -127,9 +115,6 @@ come to Mars to find
 our human faces. That\n
 is an evil path.
 <$00>
-
-
-
 
 // Pos: 000018B3
 
@@ -151,9 +136,6 @@ Technology has come\n
 so far!
 <$00>
 
-
-
-
 // Pos: 000018EB
 
 #WLB(PTR, $00000160)
@@ -173,9 +155,6 @@ roots, and are\n
 watered by Evil Mind.
 <$00>
 
-
-
-
 // Pos: 00001926
 
 #WLB(PTR, $00000190)
@@ -193,9 +172,6 @@ evil to want to be
 <$0C>
 beautiful?
 <$00>
-
-
-
 
 // Pos: 00001944
 
@@ -239,9 +215,6 @@ with their wily\n
 imaginations.
 <$00>
 
-
-
-
 // Pos: 000019C0
 
 #WLB(PTR, $000001D0)
@@ -260,9 +233,6 @@ Psycho type is
 wisdom, what is\n
 Animal type?
 <$00>
-
-
-
 
 // Pos: 000019E4
 
@@ -292,9 +262,6 @@ their chests in\n
 taverns.
 <$00>
 
-
-
-
 // Pos: 00001A3F
 
 #WLB(PTR, $00000210)
@@ -312,9 +279,6 @@ huh. Thank you so
 <$0C>
 much!
 <$00>
-
-
-
 
 // Pos: 00001A58
 
@@ -335,9 +299,6 @@ Valles Memoriae, do\n
 not fall to them.
 <$00>
 
-
-
-
 // Pos: 00001A98
 
 #WLB(PTR, $0000053C)
@@ -356,9 +317,6 @@ rife with deceit. You
 must be careful.
 <$00>
 
-
-
-
 // Pos: 00001ABE
 
 #WLB(PTR, $000005A0)
@@ -372,9 +330,7 @@ Noble Rock:
 //\n大丈夫だったか…\nお前のタマシイは抜けていないな。
 \n
 Are you worried? Your\n
-spirit is not
-<$0C>
-missing.
+spirit is not missing.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -410,9 +366,6 @@ now. We are in the
 middle of reinserting\n
 the spirit.
 <$00>
-
-
-
 
 // Pos: 00001B75
 
@@ -455,7 +408,4 @@ colony. We are in the
 middle of reinserting\n
 the spirit.
 <$00>
-
-
-
 

@@ -58,9 +58,6 @@ bE.
 çs
 <$00>
 
-
-
-
 // Pos: 000033A6
 
 #WLB(PTR, $00000430)
@@ -82,9 +79,6 @@ ThAt mUch Is trUE.
 íÜ
 <$00>
 
-
-
-
 // Pos: 000033DE
 
 #WLB(PTR, $000006F0)
@@ -102,9 +96,6 @@ I'm sEnsIng? Is...Is
 <$0C>
 It my tImE tO...
 <$00>
-
-
-
 
 // Pos: 0000340D
 
@@ -134,9 +125,6 @@ back, where were
 we...oh! Right,\n
 Valles Memoriae!
 <$00>
-
-
-
 
 // Pos: 00003463
 
@@ -178,9 +166,6 @@ I'm Oxygen Minder\n
 you forget it!
 <$00>
 
-
-
-
 // Pos: 000034EA
 
 #WLB(PTR, $00000870)
@@ -199,9 +184,6 @@ the monitor? Who the
 hell set it off?
 <$00>
 
-
-
-
 // Pos: 00003518
 
 #WLB(PTR, $00000928)
@@ -219,9 +201,6 @@ THAT now. It wasn't
 <$0C>
 me!
 <$00>
-
-
-
 
 // Pos: 0000353C
 
@@ -246,9 +225,6 @@ right? Maybe the job\n
 was remote.
 <$00>
 
-
-
-
 // Pos: 00003574
 
 #WLB(PTR, $00000620)
@@ -266,9 +242,6 @@ being used to open
 <$0C>
 and close the gate.
 <$00>
-
-
-
 
 // Pos: 000035A4
 
@@ -298,9 +271,6 @@ touch other peoples'
 things without\n
 permission.
 <$00>
-
-
-
 
 // Pos: 000035E3
 
@@ -336,9 +306,6 @@ He acts very hot and\n
 cold around me.
 <$00>
 
-
-
-
 // Pos: 0000364B
 
 #WLB(PTR, $00000AC4)
@@ -365,9 +332,6 @@ might take a trip
 down memory lane,\n
 a-ha!
 <$00>
-
-
-
 
 // Pos: 0000368F
 
@@ -399,9 +363,6 @@ that makes people\n
 want to die.
 <$00>
 
-
-
-
 // Pos: 000036FE
 
 #WLB(PTR, $000005C4)
@@ -420,9 +381,6 @@ people who stand in
 front of it want to\n
 die. I don't like it.
 <$00>
-
-
-
 
 // Pos: 00003728
 
@@ -453,9 +411,6 @@ staring him down like\n
 I've been doing.
 <$00>
 
-
-
-
 // Pos: 00003789
 
 #WLB(PTR, $00000648)
@@ -474,9 +429,6 @@ Tommy doesn't even
 notice me at all...
 <$00>
 
-
-
-
 // Pos: 000037B9
 
 #WLB(PTR, $000005D8)
@@ -494,7 +446,4 @@ deathrock. I want to
 <$0C>
 live, a-ha!
 <$00>
-
-
-
 

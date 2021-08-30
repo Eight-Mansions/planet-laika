@@ -17,9 +17,6 @@ Closing up for the\n
 day?
 <$00>
 
-
-
-
 // Pos: 00002A5B
 
 #WLB(PTR, $000007BC)
@@ -31,9 +28,6 @@ day?
 We found a dogface\n
 you can fix!
 <$00>
-
-
-
 
 // Pos: 00002A6F
 
@@ -50,9 +44,6 @@ because I heard Herod
 calling for you two.
 <$00>
 
-
-
-
 // Pos: 00002A81
 
 #WLB(PTR, $000007DC)
@@ -64,9 +55,6 @@ calling for you two.
 Calling so soon?
 <$00>
 
-
-
-
 // Pos: 00002A8F
 
 #WLB(PTR, $000007EC)
@@ -77,9 +65,6 @@ Calling so soon?
 //さっきまで一緒だった。
 We were just there!
 <$00>
-
-
-
 
 // Pos: 00002A9E
 
@@ -97,9 +82,6 @@ Agatha for him before\n
 he can.
 <$00>
 
-
-
-
 // Pos: 00002ABE
 
 #WLB(PTR, $0000080C)
@@ -111,9 +93,6 @@ he can.
 Does Herod need\n
 Agatha?
 <$00>
-
-
-
 
 // Pos: 00002AD0
 
@@ -127,9 +106,6 @@ He can't sleep\n
 without Agatha!
 <$00>
 
-
-
-
 // Pos: 00002ADC
 
 #WLB(PTR, $0000082C)
@@ -142,9 +118,6 @@ Can we not stop the\n
 nightmares?
 <$00>
 
-
-
-
 // Pos: 00002AEA
 
 #WLB(PTR, $0000083C)
@@ -156,9 +129,6 @@ nightmares?
 We can't, but Agatha\n
 will help!
 <$00>
-
-
-
 
 // Pos: 00002AFF
 
@@ -178,9 +148,6 @@ go to Valles
 Memoriae, what are we\n
 supposed to do?!
 <$00>
-
-
-
 
 // Pos: 00002B25
 
@@ -202,14 +169,12 @@ mentioned alongside\n
 the Pale Rider.
 <$00>
 
-
-
-
 // Pos: 00002B60
 
 #WLB(PTR, $00000A74)
 
 #WHB(PTR, $00000A75)
+
 
 <$00><$0B>
 //エイプリル：
@@ -245,12 +210,10 @@ with the beasts of
 <$0C>
 the earth."\n
 Ultimately, all\n
-humans were judged by\n
+humans were judged by
+<$0C>
 God.
 <$00>
-
-
-
 
 // Pos: 00002BF4
 
@@ -303,9 +266,6 @@ And oh, did my mom\n
 worry!
 <$00>
 
-
-
-
 // Pos: 00002CA1
 
 #WLB(PTR, $00001374)
@@ -315,14 +275,13 @@ worry!
 //離 まもなく消灯の時間です\n
 離 IT IS ALMOST\n
 LIGHTS-OUT TIME.\n
+
 <$0E><$1E>
 //照明を落とします、照明を落とします。
-THE LIGHTS ARE\n
+THE LIGHTS ARE
+<$0C>
 TURNING OFF.
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00002CD2
 
@@ -340,6 +299,7 @@ What are you doing,\n
 home from school so
 <$0C>
 early,\n
+
 <$0F>
 //。
 ?
@@ -365,7 +325,4 @@ anyone's shit. Get
 Sergei to play with\n
 you.
 <$00>
-
-
-
 

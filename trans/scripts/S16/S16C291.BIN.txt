@@ -24,9 +24,6 @@ nose around the\n
 oxygen dispensary.
 <$00>
 
-
-
-
 // Pos: 00001B3F
 
 #WLB(PTR, $000002C8)
@@ -68,9 +65,6 @@ the mirror reflected
 was not Veronica's,\n
 but MINE!
 <$00>
-
-
-
 
 // Pos: 00001BB8
 
@@ -141,7 +135,4 @@ me! Hahaha! At last,
 <$0C>
 you are in my reach!
 <$00>
-
-
-
 

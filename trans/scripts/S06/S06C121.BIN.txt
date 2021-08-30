@@ -20,9 +20,6 @@ Ernest:
 She's engulfed!
 <$00>
 
-
-
-
 // Pos: 000021B8
 
 #WLB(PTR, $00000154)
@@ -39,9 +36,6 @@ Laika, please! You\n
 have save Chloe!
 <$00>
 
-
-
-
 // Pos: 000021D7
 
 #WLB(PTR, $00000178)
@@ -56,9 +50,6 @@ Ernest:
 \n
 I SAID...
 <$00>
-
-
-
 
 // Pos: 000021E7
 
@@ -76,9 +67,6 @@ Don't worry, Chloe!\n
 Help's on the way!
 <$00>
 
-
-
-
 // Pos: 00002209
 
 #WLB(PTR, $00000230)
@@ -94,9 +82,6 @@ Ernest:
 Hang on, what's that\n
 blue stuff?
 <$00>
-
-
-
 
 // Pos: 00002221
 
@@ -116,9 +101,6 @@ Olympia #2 is
 protecting her.
 <$00>
 
-
-
-
 // Pos: 00002247
 
 #WLB(PTR, $00000298)
@@ -136,9 +118,6 @@ burning! Burning! My
 <$0C>
 Chloe's burniiiing!
 <$00>
-
-
-
 
 // Pos: 00002276
 
@@ -162,9 +141,6 @@ TEMPERATURES ARE\n
 RISING.
 <$00>
 
-
-
-
 // Pos: 0000229D
 
 #WLB(PTR, $00000340)
@@ -183,9 +159,6 @@ Laika! I-I'll wait
 out front!
 <$00>
 
-
-
-
 // Pos: 000022CE
 
 #WLB(PTR, $00000384)
@@ -200,9 +173,6 @@ Ernest:
 \n
 Hey, wait!
 <$00>
-
-
-
 
 // Pos: 000022E4
 
@@ -222,9 +192,6 @@ burning! You have to
 do something!
 <$00>
 
-
-
-
 // Pos: 00002304
 
 #WLB(PTR, $00000454)
@@ -240,9 +207,6 @@ Ernest:
 Some help you are,\n
 good for nothing.
 <$00>
-
-
-
 
 // Pos: 00002327
 
@@ -285,9 +249,6 @@ BE DEFEATED THROUGH
 BATTLE.
 <$00>
 
-
-
-
 // Pos: 00002395
 
 #WLB(PTR, $0000050C)
@@ -306,9 +267,6 @@ battle? What am I
 supposed to do, punch\n
 the flame?!
 <$00>
-
-
-
 
 // Pos: 000023BA
 
@@ -332,9 +290,6 @@ THEM WITH THE POWER\n
 OF YOUR HEART.
 <$00>
 
-
-
-
 // Pos: 000023F0
 
 #WLB(PTR, $0000055C)
@@ -350,9 +305,6 @@ Ernest:
 Okay, so I volley the\n
 mind bullets?
 <$00>
-
-
-
 
 // Pos: 0000240D
 
@@ -388,9 +340,6 @@ Thank you for saving\n
 me.
 <$00>
 
-
-
-
 // Pos: 0000245F
 
 #WLB(PTR, $00000760)
@@ -409,9 +358,6 @@ me. It's the first
 time anyone has ever\n
 helped me.
 <$00>
-
-
-
 
 // Pos: 00002486
 
@@ -443,9 +389,6 @@ like me... You all\n
 have no bodies.
 <$00>
 
-
-
-
 // Pos: 000024D9
 
 #WLB(PTR, $00000880)
@@ -461,9 +404,6 @@ Ernest:
 Woah, hang on. That\n
 doesn't scare you?
 <$00>
-
-
-
 
 // Pos: 000024F8
 
@@ -484,9 +424,6 @@ I AM TIRED. MY HEART\n
 IS IN DISARRAY.
 <$00>
 
-
-
-
 // Pos: 00002523
 
 #WLB(PTR, $0000096C)
@@ -505,9 +442,6 @@ well! I knew I could
 count on you!
 <$00>
 
-
-
-
 // Pos: 00002557
 
 #WLB(PTR, $0000097C)
@@ -522,9 +456,6 @@ Ernest:
 \n
 I'm...Ernest.
 <$00>
-
-
-
 
 // Pos: 0000256E
 
@@ -550,7 +481,4 @@ SAFE! My Chloe is
 <$0C>
 safe!
 <$00>
-
-
-
 

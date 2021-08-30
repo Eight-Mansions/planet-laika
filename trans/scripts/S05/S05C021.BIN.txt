@@ -23,9 +23,6 @@ bar gave me the worst
 vibes, you know?
 <$00>
 
-
-
-
 // Pos: 00002A36
 
 #WLB(PTR, $00000114)
@@ -56,9 +53,6 @@ Mountain, seem evil\n
 in different ways.
 <$00>
 
-
-
-
 // Pos: 00002A9E
 
 #WLB(PTR, $00000130)
@@ -79,9 +73,6 @@ mongrel is a Psycho\n
 type.
 <$00>
 
-
-
-
 // Pos: 00002AD1
 
 #WLB(PTR, $00000290)
@@ -98,9 +89,6 @@ Was it Mountain who\n
 sent you here?
 <$00>
 
-
-
-
 // Pos: 00002AF1
 
 #WLB(PTR, $000002B4)
@@ -116,9 +104,6 @@ April:
 Are you a medicine\n
 man?
 <$00>
-
-
-
 
 // Pos: 00002B0C
 
@@ -139,9 +124,6 @@ elder, the lodge is\n
 this way.
 <$00>
 
-
-
-
 // Pos: 00002B37
 
 #WLB(PTR, $000006C4)
@@ -156,9 +138,6 @@ Noble Rock:
 \n
 We are not safe here!
 <$00>
-
-
-
 
 // Pos: 00002B4E
 
@@ -176,9 +155,6 @@ But how? How did this\n
 happen?!
 <$00>
 
-
-
-
 // Pos: 00002B6E
 
 #WLB(PTR, $000007EC)
@@ -194,9 +170,6 @@ Noble Rock:
 You must go! Get out\n
 of here!
 <$00>
-
-
-
 
 // Pos: 00002B87
 
@@ -228,9 +201,6 @@ You musn't get\n
 interfere!
 <$00>
 
-
-
-
 // Pos: 00002BDC
 
 #WLB(PTR, $00000A2C)
@@ -246,9 +216,6 @@ Crow:
 Kekeke! Hey, what'cha\n
 doing here?
 <$00>
-
-
-
 
 // Pos: 00002BF4
 
@@ -290,9 +257,6 @@ relying on the\n
 Venusians, kek.
 <$00>
 
-
-
-
 // Pos: 00002C74
 
 #WLB(PTR, $00000A74)
@@ -323,9 +287,6 @@ Their new treasure!
 óù
 <$00>
 
-
-
-
 // Pos: 00002CBC
 
 #WLB(PTR, $00000AF8)
@@ -339,14 +300,9 @@ Crow:
 //\nëPêlÇ¡ÇƒíNÇÃÇ±Ç∆ÇæÅAÇ–Ç·ÅI
 \n
 Who do you think this\n
-"good person" is,
-<$0C>
-kek!
+"good person" is, kek!
 <$1E>
 //âs
 âs
 <$00>
-
-
-
 

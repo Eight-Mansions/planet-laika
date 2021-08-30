@@ -54,9 +54,6 @@ come out the other
 side.
 <$00>
 
-
-
-
 // Pos: 000028F1
 
 #WLB(PTR, $00000DB0)
@@ -72,9 +69,6 @@ April:
 Laika! What's the\n
 matter?
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 0000290A
 
@@ -95,9 +89,6 @@ won't it show my\n
 reflection?!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00002934
 
 #WLB(PTR, $00000CCC)
@@ -117,9 +108,6 @@ won't it show my\n
 reflection?!
 <$00>
 
-
-
-
 // Pos: 0000295B
 
 #WLB(PTR, $00000110)
@@ -138,9 +126,6 @@ Hyohyo, Laika. You\n
 should rest soon.
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 0000298B
 
 #WLB(PTR, $0000012C)
@@ -158,7 +143,4 @@ Spirit Man:
 It's not your turn,\n
 hyohyo.
 <$0E><$1E><$17><$00>
-
-
-
 

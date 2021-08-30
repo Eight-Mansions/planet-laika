@@ -16,11 +16,12 @@
 Oxygen Miner 1：
 <$0D>
 //\nお空は青い、海も青い、\nだから僕のにじは映えるのさ…
-"Skies are blue, seas\n
-are bluer, that's why\n
-my rainbow shines
+"Skies\n
+are blue, seas are\n
+bluer, that's why my
 <$0C>
-every co...lor..."
+rainbow shines every\n
+co...lor..."
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
@@ -50,9 +51,6 @@ how to sing.
 行
 <$00>
 
-
-
-
 // Pos: 000014F3
 
 #WLB(PTR, $000001FC)
@@ -72,9 +70,6 @@ with it.
 <$1E>
 //中
 <$00>
-
-
-
 
 // Pos: 00001522
 
@@ -102,9 +97,6 @@ Don't need seven\n
 colors, I think.
 <$00>
 
-
-
-
 // Pos: 0000157A
 
 #WLB(PTR, $000002FC)
@@ -125,9 +117,6 @@ kid..." Damn! Rhymes\n
 bad!
 <$00>
 
-
-
-
 // Pos: 000015BE
 
 #WLB(PTR, $000001CC)
@@ -143,9 +132,6 @@ Oxygen Miner 1：
 I'm ordinary, whoosh.\n
 No changing that.
 <$00>
-
-
-
 
 // Pos: 000015EF
 
@@ -164,9 +150,6 @@ Level 3 emergency
 <$0C>
 lock.
 <$00>
-
-
-
 
 // Pos: 0000160C
 
@@ -194,9 +177,6 @@ something, Hell!
 (...Better than\n
 nothing?)
 <$00>
-
-
-
 
 // Pos: 0000165C
 
@@ -234,9 +214,6 @@ Get it? Because\n
 they're dead!
 <$00>
 
-
-
-
 // Pos: 000016C5
 
 #WLB(PTR, $00000350)
@@ -250,11 +227,6 @@ Oxygen Miner 1：
 //\n力が強いって、いいことだ、\nそう思うだろ、ははっ！
 \n
 Having power is\n
-better, I think.
-<$0C>
-Haha!
+better, I think. Haha!
 <$00>
-
-
-
 

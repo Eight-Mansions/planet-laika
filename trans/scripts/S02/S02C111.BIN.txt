@@ -21,14 +21,11 @@ Whelp, there it is! I\n
 see the safe 'ouse!
 <$00><$00><$11>
 //子     
-子
+子     
 <$0D>
 //はあ、はあ、だめだ！
 Haah, haah! Damn!
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 000021A9
 
@@ -36,18 +33,18 @@ Haah, haah! Damn!
 
 #WHB(PTR, $000010F9)
 
+
 <$00><$11>
 //左変だぜ、あああ、俺…\n
 This is weird.\n
 I...urrk!\n
+
 <$0E><$1E>
 // いやな気分でいっぱいになってきた…\n
-I'm feeling all\n
+I'm feeling all
+<$0C>
 twisted up...!\n
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 000021D2
 
@@ -68,9 +65,6 @@ The sand's getting in\n
 my 'ead.
 <$00>
 
-
-
-
 // Pos: 000021FE
 
 #WLB(PTR, $000004C4)
@@ -88,9 +82,6 @@ yourself! The safe
 <$0C>
 'ouse isn't that way!
 <$00>
-
-
-
 
 // Pos: 00002226
 
@@ -123,25 +114,20 @@ the captain doesn't\n
 either.
 <$00>
 
-
-
-
 // Pos: 00002277
 
 #WLB(PTR, $00001150)
 
 #WHB(PTR, $00001151)
 
+
 <$00><$11>
 //子      
-子
+子      
 <$0D>
 //ああああ、何だ？
 Augh! W-what's that?!
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 0000228E
 
@@ -149,23 +135,21 @@ Augh! W-what's that?!
 
 #WHB(PTR, $00001181)
 
+
 <$00><$11>
 //子   
-子
+子   
 <$0D>
 //ああああ、いやだ、来るな！\n
 No! NO, GET AWAY!\n
+
 <$0E><$1E><$0B>
 //   
-
+   
 <$0D>
 //こっちに来るな！
-Don't come any\n
-closer!
+Don't come any closer!
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 000022B9
 
@@ -173,17 +157,15 @@ closer!
 
 #WHB(PTR, $000011ED)
 
+
 <$00><$11>
 //子      
-子
+子      
 <$0D>
 //ママ…ママなの？
-Mummy? Mummy, is that\n
-you?
+Mummy? Mummy,\n
+is that you?
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 000022D0
 
@@ -191,13 +173,14 @@ you?
 
 #WHB(PTR, $00001209)
 
+
 <$00><$11>
 //子   
-子
+子   
 <$0D>
 //どうして…僕のせいなの…
-Why, Mummy? Was I bad\n
-again?
+Why, Mummy? Was I\n
+bad again?
 <$0E><$5A><$17><$00><$12><$0B>
 //エイプリル：
 April:
@@ -206,7 +189,4 @@ April:
 \n
 Laika! Over here!
 <$00>
-
-
-
 

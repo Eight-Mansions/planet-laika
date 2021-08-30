@@ -13,16 +13,13 @@
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON!\n
+ WELCOME TO PRISON!\n
 REGISTRANT NAME:\n
 "
 <$0F>
 //！
 "
 <$00>
-
-
-
 
 // Pos: 00001B55
 
@@ -44,15 +41,12 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
-NOT REGISTERED FOR\n
+ NOT REGISTERED FOR\n
 ENTRY. FOR DETAILS\n
 AND ASSISTANCE, SPEAK
 <$0C>
 TO AN ADMINISTRATOR.
 <$00>
-
-
-
 
 // Pos: 00001B81
 
@@ -72,9 +66,6 @@ I supposed to
 register?
 <$00>
 
-
-
-
 // Pos: 00001BA4
 
 #WLB(PTR, $000009C8)
@@ -88,13 +79,11 @@ Yolanda:
 //\n何よこれ？\n失礼しちゃうわね！
 \n
 The fuck does that\n
-mean?\n
+mean?
+<$0C>
 Hello? A little help\n
 here?!
 <$00>
-
-
-
 
 // Pos: 00001BC1
 
@@ -111,9 +100,6 @@ Spacer:
 Hmm... Looks like I'm\n
 not getting in.
 <$00>
-
-
-
 
 // Pos: 00001BDD
 
@@ -135,12 +121,9 @@ not getting in.
 
 <$12><$13>
 // ヤハリ アナタハ\nトウロクサレテイマセン。
-USER NOT REGISTERED\n
+ USER NOT REGISTERED\n
 FOR ENTRY.
 <$00>
-
-
-
 
 // Pos: 00001BF6
 
@@ -154,12 +137,8 @@ East:
 <$0D>
 //\nお前たち、お呼びだ。
 \n
-Will you come with\n
-us?
+Will you come with us?
 <$00>
-
-
-
 
 // Pos: 00001C0B
 
@@ -177,9 +156,6 @@ Little will borrow a\n
 face!
 <$00>
 
-
-
-
 // Pos: 00001C28
 
 #WLB(PTR, $00000648)
@@ -194,9 +170,6 @@ East:
 \n
 A face?
 <$00>
-
-
-
 
 // Pos: 00001C35
 
@@ -217,9 +190,6 @@ who is this "Little"\n
 person?
 <$00>
 
-
-
-
 // Pos: 00001C5D
 
 #WLB(PTR, $00000750)
@@ -239,9 +209,6 @@ ventilation tower,\n
 right? Should we\n
 circle back?
 <$00>
-
-
-
 
 // Pos: 00001CA7
 
@@ -281,7 +248,4 @@ if that works. Just
 <$0C>
 be careful, okay?
 <$00>
-
-
-
 

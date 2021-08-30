@@ -53,9 +53,6 @@ safe enough. Open it
 and check.
 <$00>
 
-
-
-
 // Pos: 00001510
 
 #WLB(PTR, $000001DC)
@@ -71,9 +68,6 @@ Noon:
 Everything looks\n
 clear. Ladies first.
 <$00>
-
-
-
 
 // Pos: 00001529
 
@@ -91,12 +85,8 @@ How are you feeling,\n
 Laika? The sandstorms
 <$0C>
 and the purple fog\n
-must be affecting\n
-you.
+must be affecting you.
 <$00>
-
-
-
 
 // Pos: 00001563
 
@@ -160,9 +150,6 @@ them. About the\n
 captain and Chloe.
 <$00>
 
-
-
-
 // Pos: 0000161E
 
 #WLB(PTR, $0000062C)
@@ -194,9 +181,6 @@ photo with him at all\n
 times.
 <$00>
 
-
-
-
 // Pos: 000016B0
 
 #WLB(PTR, $000006B4)
@@ -216,9 +200,6 @@ around a little and\n
 check back.
 <$00>
 
-
-
-
 // Pos: 000016DD
 
 #WLB(PTR, $0000080C)
@@ -236,9 +217,6 @@ look right. The
 <$0C>
 door's wide open.
 <$00>
-
-
-
 
 // Pos: 00001702
 
@@ -259,9 +237,6 @@ out. If so, why\n
 didn't we see them on\n
 the way back?
 <$00>
-
-
-
 
 // Pos: 00001739
 
@@ -286,7 +261,4 @@ look inside the safe\n
 house? There could be\n
 clues.
 <$00>
-
-
-
 

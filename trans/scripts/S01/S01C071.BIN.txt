@@ -22,9 +22,6 @@ There's no way! How
 are you alive?!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00001BB5
 
 #WLB(PTR, $000007FC)
@@ -37,13 +34,8 @@ are you alive?!
 //\nここは…私の…どうして？\nもうなくなったはずなのに…
 \n
 This is my...but why?\n
-I thought it was
-<$0C>
-gone!
+I thought it was gone!
 <$0E><$1E><$17><$00>
-
-
-
 
 // Pos: 00001BDF
 
@@ -63,9 +55,6 @@ You're not Mummy! You\n
 can't be!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00001C13
 
 #WLB(PTR, $000009A0)
@@ -79,13 +68,11 @@ can't be!
 //\nみんな、惑わされるんじゃない！\n何かの…その…幻覚だ。
 \n
 Don't be fooled,\n
-everyone...!\n
+everyone...!
+<$0C>
 These\n
 are...hallucinations!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00001C44
 
@@ -104,9 +91,6 @@ I did! That was...
 <$0C>
 That was my...!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00001C68
 
@@ -127,9 +111,6 @@ the planet's wicked\n
 power at work!
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 00001CA7
 
 #WLB(PTR, $00000B14)
@@ -139,9 +120,6 @@ power at work!
 //葉顔\n\n      怪物は心の中にいる。
 The monsters\n
 \n
-are in the mind.
+      are in the mind.
 <$0E><$FF><$17><$00>
-
-
-
 

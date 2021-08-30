@@ -35,9 +35,6 @@ either. Let's head
 back, shall we?
 <$00>
 
-
-
-
 // Pos: 00001E3F
 
 #WLB(PTR, $0000018C)
@@ -68,9 +65,6 @@ we'd better regroup\n
 now.
 <$00>
 
-
-
-
 // Pos: 00001E9F
 
 #WLB(PTR, $00000A2C)
@@ -96,7 +90,4 @@ Phoenix:
 Is THAT my power is\n
 for?
 <$00>
-
-
-
 

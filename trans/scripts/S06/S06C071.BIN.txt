@@ -11,6 +11,7 @@
 
 #WHB(PTR, $0000095D)
 
+
 <$00><$0B>
 //ジュディ母さん：
 Judy:
@@ -23,14 +24,12 @@ Papa was a pathetic
 little man.
 <$00>
 
-
-
-
 // Pos: 00001DDE
 
 #WLB(PTR, $000009E4)
 
 #WHB(PTR, $000009E5)
+
 
 <$00><$0B>
 //ヌーン：
@@ -52,9 +51,6 @@ those eyes! You're
 scaring me, Mummy!
 <$00>
 
-
-
-
 // Pos: 00001E1C
 
 #WLB(PTR, $000004FC)
@@ -65,13 +61,12 @@ scaring me, Mummy!
 離
 <$13>
 //       病気なのさ、\n   そうだよ、パパは病気なんだよ！
-He was a sick man.\n
-That's right, Papa\n
+       He was a sick\n
+man.\n
+   That's right, Papa
+<$0C>
 was sick!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00001E45
 
@@ -83,9 +78,6 @@ was sick!
 離
 <$13>
 //      ママ！やめて！
-Mummy! STOP!
+      Mummy! STOP!
 <$0E><$3C><$17><$00>
-
-
-
 

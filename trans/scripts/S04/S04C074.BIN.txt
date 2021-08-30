@@ -20,9 +20,6 @@ East:
 Where are you going?
 <$00>
 
-
-
-
 // Pos: 00001B68
 
 #WLB(PTR, $000006CC)
@@ -37,9 +34,6 @@ West:
 \n
 You should know!
 <$00>
-
-
-
 
 // Pos: 00001B7A
 
@@ -56,9 +50,6 @@ East:
 To Little?
 <$00>
 
-
-
-
 // Pos: 00001B8A
 
 #WLB(PTR, $0000072C)
@@ -74,9 +65,6 @@ West:
 To where they were!
 <$00>
 
-
-
-
 // Pos: 00001B9C
 
 #WLB(PTR, $0000075C)
@@ -89,12 +77,8 @@ East:
 <$0D>
 //\n物音がした。
 \n
-Where the sounds\n
-were?
+Where the sounds were?
 <$00>
-
-
-
 
 // Pos: 00001BAE
 
@@ -111,9 +95,6 @@ West:
 To the lodge!
 <$00>
 
-
-
-
 // Pos: 00001BBD
 
 #WLB(PTR, $000007BC)
@@ -128,9 +109,6 @@ East:
 \n
 To everyone?
 <$00>
-
-
-
 
 // Pos: 00001BCD
 
@@ -147,9 +125,6 @@ West:
 Come along!
 <$00>
 
-
-
-
 // Pos: 00001BDD
 
 #WLB(PTR, $0000081C)
@@ -164,9 +139,6 @@ West:
 \n
 There's no time!
 <$00>
-
-
-
 
 // Pos: 00001BED
 
@@ -196,15 +168,11 @@ Marrakech:
 "Dark Man" that. The
 <$0C>
 others will make fun\n
-of him if he keeps\n
-up.
+of him if he keeps up.
 <$1E>
 //行
 行
 <$00>
-
-
-
 
 // Pos: 00001C61
 
@@ -228,9 +196,6 @@ okay?
 //中
 中
 <$00>
-
-
-
 
 // Pos: 00001CAA
 
@@ -271,9 +236,6 @@ dead-eyed stare?
 //行
 行
 <$00>
-
-
-
 
 // Pos: 00001D14
 
@@ -349,12 +311,10 @@ Can you believe such\n
 a tale?
 <$1B>
 //？信じる\n信じない
-？Yes\n
+？Yes
+<$0C>
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 00001E0C
 
@@ -378,10 +338,11 @@ what are they?
 Marrakech:
 <$0D>
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
-That reminds me...\n
-Recently, I saw Linda\n
-mumbling in front of
+That\n
+reminds me...\n
+Recently, I saw Linda
 <$0C>
+mumbling in front of\n
 the mirror.
 <$0C><$0B>
 //マラケシュ：
@@ -397,9 +358,6 @@ ghosts? How spooky!
 //行
 行
 <$00>
-
-
-
 
 // Pos: 00001E88
 
@@ -445,9 +403,6 @@ ghosts? How spooky!
 行
 <$00>
 
-
-
-
 // Pos: 00001F08
 
 #WLB(PTR, $00000AE8)
@@ -470,7 +425,4 @@ make people crazy.
 //中
 中
 <$00>
-
-
-
 

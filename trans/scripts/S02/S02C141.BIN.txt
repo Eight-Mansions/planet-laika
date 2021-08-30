@@ -23,9 +23,6 @@ You had us worried!
 Are you okay?
 <$00>
 
-
-
-
 // Pos: 00002050
 
 #WLB(PTR, $00000350)
@@ -73,9 +70,6 @@ Noon, how far are we\n
 from the colony?
 <$00>
 
-
-
-
 // Pos: 000020E6
 
 #WLB(PTR, $00000360)
@@ -101,9 +95,6 @@ someone expecting us?
 Is someone waiting to\n
 tuck us in?
 <$00>
-
-
-
 
 // Pos: 0000211D
 
@@ -132,9 +123,6 @@ out here in the\n
 middle of nowhere!
 <$00>
 
-
-
-
 // Pos: 00002160
 
 #WLB(PTR, $00000388)
@@ -153,9 +141,6 @@ Captain. Maybe we
 should take a break.
 <$00>
 
-
-
-
 // Pos: 00002189
 
 #WLB(PTR, $0000039C)
@@ -169,9 +154,7 @@ Captain Tatler:
 //\nダメだ。\n我々は任務をやりとげなければならない。
 \n
 No can do.\n
-We've got a job to
-<$0C>
-do.
+We've got a job to do.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -183,9 +166,6 @@ far are we from the
 <$0C>
 colony?
 <$00>
-
-
-
 
 // Pos: 000021D4
 
@@ -217,9 +197,6 @@ Take me 'ome! Mummy's\n
 waiting for me!
 <$00>
 
-
-
-
 // Pos: 00002210
 
 #WLB(PTR, $00000518)
@@ -232,8 +209,7 @@ Captain Tatler:
 <$0D>
 //\nいいかげんにしろ、キサマ！
 \n
-Listen to me,\n
-dumbass!
+Listen to me, dumbass!
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -246,9 +222,6 @@ this! This is a
 mission, you hear?!\n
 MY mission!
 <$00>
-
-
-
 
 // Pos: 0000225E
 
@@ -269,9 +242,6 @@ safeguard the lives\n
 of your crew, isn't\n
 it?!
 <$00>
-
-
-
 
 // Pos: 0000228D
 
@@ -294,9 +264,6 @@ Captain Tatler:
 \n
 ......
 <$00>
-
-
-
 
 // Pos: 000022AE
 
@@ -339,9 +306,6 @@ secured for us before\n
 dark.
 <$00>
 
-
-
-
 // Pos: 0000232C
 
 #WLB(PTR, $000005E0)
@@ -379,9 +343,6 @@ Captain Tatler:
 Now, get to scouting!
 <$00>
 
-
-
-
 // Pos: 000023AA
 
 #WLB(PTR, $0000067C)
@@ -396,9 +357,6 @@ April:
 \n
 Let's go.
 <$00>
-
-
-
 
 // Pos: 000023BD
 
@@ -427,7 +385,4 @@ from home, but don't
 <$0C>
 let it get to you!
 <$00>
-
-
-
 

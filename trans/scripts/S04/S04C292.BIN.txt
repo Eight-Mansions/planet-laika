@@ -24,9 +24,6 @@ East:
 See Little inside?
 <$00>
 
-
-
-
 // Pos: 00000D03
 
 #WLB(PTR, $00000180)
@@ -57,9 +54,6 @@ We will wait outside!
 ’†
 <$00>
 
-
-
-
 // Pos: 00000D1E
 
 #WLB(PTR, $00000254)
@@ -75,9 +69,6 @@ East:
 You're leaving\n
 tomorrow?
 <$00>
-
-
-
 
 // Pos: 00000D35
 
@@ -95,9 +86,6 @@ You're sleeping\n
 tonight!
 <$00>
 
-
-
-
 // Pos: 00000D4D
 
 #WLB(PTR, $0000027C)
@@ -113,9 +101,6 @@ East:
 Shall we watch\n
 through the night?
 <$00>
-
-
-
 
 // Pos: 00000D62
 
@@ -134,7 +119,4 @@ We're the nightwatch!
 //’†
 ’†
 <$00>
-
-
-
 

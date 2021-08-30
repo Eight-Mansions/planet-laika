@@ -24,9 +24,6 @@ Another fishy one for\n
 the books.
 <$00>
 
-
-
-
 // Pos: 000033B1
 
 #WLB(PTR, $000013D4)
@@ -41,9 +38,6 @@ Yolanda:
 \n
 Hey, April...
 <$00>
-
-
-
 
 // Pos: 000033C7
 
@@ -63,9 +57,6 @@ not so sure about...
 Sorry, where was I?
 <$00>
 
-
-
-
 // Pos: 000033F4
 
 #WLB(PTR, $0000119C)
@@ -80,9 +71,6 @@ April:
 \n
 Hey, Yolanda.
 <$00>
-
-
-
 
 // Pos: 00003407
 
@@ -99,9 +87,6 @@ Yolanda:
 ...Hey, you get\n
 through all right?
 <$00>
-
-
-
 
 // Pos: 00003423
 
@@ -121,9 +106,6 @@ straight here
 with...no problems...
 <$00>
 
-
-
-
 // Pos: 00003450
 
 #WLB(PTR, $00001208)
@@ -142,9 +124,6 @@ this is the elder's
 cottage.
 <$00>
 
-
-
-
 // Pos: 00003479
 
 #WLB(PTR, $0000122C)
@@ -162,9 +141,6 @@ and there's no other
 <$0C>
 rooms.
 <$00>
-
-
-
 
 // Pos: 0000349B
 
@@ -186,9 +162,6 @@ whoosh-whooshed out,\n
 are you?
 <$00>
 
-
-
-
 // Pos: 000034C3
 
 #WLB(PTR, $00001274)
@@ -203,9 +176,6 @@ April:
 \n
 It's all right.
 <$00>
-
-
-
 
 // Pos: 000034D6
 
@@ -223,9 +193,6 @@ If you say so. Let's\n
 take a look around.
 <$00>
 
-
-
-
 // Pos: 000034F8
 
 #WLB(PTR, $0000130C)
@@ -240,9 +207,6 @@ April:
 \n
 Hey, Yolanda.
 <$00>
-
-
-
 
 // Pos: 0000350B
 
@@ -259,9 +223,6 @@ Yolanda:
 I take it this is the\n
 elder's cottage.
 <$00>
-
-
-
 
 // Pos: 00003528
 
@@ -281,9 +242,6 @@ and there's no other
 rooms.
 <$00>
 
-
-
-
 // Pos: 0000354F
 
 #WLB(PTR, $00001378)
@@ -300,9 +258,6 @@ Let's take a look\n
 around.
 <$00>
 
-
-
-
 // Pos: 00003569
 
 #WLB(PTR, $0000151C)
@@ -318,9 +273,6 @@ April:
 Should we search the\n
 mansion?
 <$00>
-
-
-
 
 // Pos: 00003585
 
@@ -340,9 +292,6 @@ you intend to call to
 Noon?
 <$00>
 
-
-
-
 // Pos: 000035AC
 
 #WLB(PTR, $000016AC)
@@ -358,9 +307,6 @@ Yolanda:
 How will I...call to\n
 Noon?
 <$00>
-
-
-
 
 // Pos: 000035C7
 
@@ -397,9 +343,6 @@ Noon, come out here\n
 this instant!
 <$00>
 
-
-
-
 // Pos: 0000361A
 
 #WLB(PTR, $000016F4)
@@ -425,9 +368,6 @@ Yolanda:
 \n
 ...Like that.
 <$00>
-
-
-
 
 // Pos: 0000365C
 
@@ -456,9 +396,6 @@ betting he's homesick\n
 by now.
 <$00>
 
-
-
-
 // Pos: 000036A2
 
 #WLB(PTR, $0000173C)
@@ -473,9 +410,6 @@ Yolanda:
 \n
 Ah, I see.
 <$00>
-
-
-
 
 // Pos: 000036B2
 
@@ -540,9 +474,6 @@ gonna die alone down\n
 here!
 <$00>
 
-
-
-
 // Pos: 0000377D
 
 #WLB(PTR, $000019AC)
@@ -557,9 +488,6 @@ here!
 Mummy, stop...\n
 Please... Mummy...!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 0000379A
 
@@ -576,9 +504,6 @@ No more, Mummy, no\n
 more!
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 000037B4
 
 #WLB(PTR, $000019E0)
@@ -594,9 +519,6 @@ April:
 Noon, it's me! April!\n
 Are you listening?
 <$00>
-
-
-
 
 // Pos: 000037D2
 
@@ -617,9 +539,6 @@ but Noon's the only\n
 one here.
 <$00>
 
-
-
-
 // Pos: 000037FD
 
 #WLB(PTR, $00000974)
@@ -635,9 +554,6 @@ Noon:
 I was bad again,\n
 wasn't I, Mummy...
 <$00>
-
-
-
 
 // Pos: 00003814
 
@@ -657,9 +573,6 @@ see someone in the
 window!
 <$00>
 
-
-
-
 // Pos: 00003838
 
 #WLB(PTR, $00001BC4)
@@ -677,9 +590,6 @@ Get off! Please! Get
 <$0C>
 your hands of me!
 <$00>
-
-
-
 
 // Pos: 0000385F
 
@@ -715,12 +625,8 @@ Noon:
 Hahaha, I'm sick too!\n
 SICK, SICK, SICK,
 <$0C>
-SICK, SICK!\n
-AHAHAHAHA!
+SICK, SICK! AHAHAHAHA!
 <$00>
-
-
-
 
 // Pos: 000038D1
 
@@ -736,7 +642,4 @@ Noon:
 \n
 WE'RE ALL SICK!
 <$00>
-
-
-
 

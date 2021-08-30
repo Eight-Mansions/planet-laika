@@ -24,9 +24,6 @@ to Mummy's standards,\n
 whoosh.
 <$00>
 
-
-
-
 // Pos: 00001605
 
 #WLB(PTR, $00000364)
@@ -41,9 +38,6 @@ April:
 \n
 Is Noon's mom here?
 <$00>
-
-
-
 
 // Pos: 0000161B
 
@@ -63,9 +57,6 @@ Mummy's standards,
 whoosh!
 <$00>
 
-
-
-
 // Pos: 00001639
 
 #WLB(PTR, $000003AC)
@@ -84,9 +75,6 @@ long time ago!
 //‰s
 ‰s
 <$00>
-
-
-
 
 // Pos: 00001659
 
@@ -109,9 +97,6 @@ whoosh-woosh!
 ‰Š
 <$00>
 
-
-
-
 // Pos: 00001681
 
 #WLB(PTR, $000002E4)
@@ -130,7 +115,4 @@ elder's cottage? I've
 got a bad feeling\n
 about this.
 <$00>
-
-
-
 

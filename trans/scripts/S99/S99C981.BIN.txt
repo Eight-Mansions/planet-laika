@@ -11,6 +11,7 @@
 
 #WHB(PTR, $000006FD)
 
+
 <$00><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
@@ -28,11 +29,12 @@ Spirit Man:
 //\n人格を失えば
 \n
 When one's\n
-personality wanes,
+personality wanes, 
 <$0F>
 //は\n自分を保てなくなる。
-, the self cannot go\n
-on.
+,
+<$0C>
+the self cannot go on.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -45,14 +47,12 @@ unfortunate affair,
 hyohyo.
 <$00>
 
-
-
-
 // Pos: 00001530
 
 #WLB(PTR, $00000704)
 
 #WHB(PTR, $00000705)
+
 
 <$00><$13><$16><$0B>
 //スピリットマン：
@@ -71,11 +71,12 @@ Spirit Man:
 //\n
 \n
 But, you're not the\n
-same as
+same as 
 <$0F>
 //とはお前のことだったのか、\nいやそうではなかったのか。
-, are you? No, not at\n
-all.
+, are you?
+<$0C>
+No, not at all.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -85,7 +86,4 @@ Spirit Man:
 At any rate, your\n
 suffering ends now.
 <$00>
-
-
-
 

@@ -23,9 +23,6 @@ can't find Little,
 dogface?
 <$00>
 
-
-
-
 // Pos: 000021BA
 
 #WLB(PTR, $00001004)
@@ -44,9 +41,6 @@ instigated him,
 dogface!
 <$00>
 
-
-
-
 // Pos: 000021D7
 
 #WLB(PTR, $00001034)
@@ -63,9 +57,6 @@ Because he's kiddish\n
 sometimes?
 <$00>
 
-
-
-
 // Pos: 000021EE
 
 #WLB(PTR, $00001064)
@@ -81,9 +72,6 @@ West:
 Because his voice is\n
 laughable!
 <$00>
-
-
-
 
 // Pos: 00002202
 
@@ -116,9 +104,6 @@ And he dresses\n
 strangely?
 <$00>
 
-
-
-
 // Pos: 00002215
 
 #WLB(PTR, $000010C4)
@@ -134,9 +119,6 @@ West:
 In the middle of the\n
 night like this!
 <$00>
-
-
-
 
 // Pos: 00002228
 
@@ -154,9 +136,6 @@ Why would he storm\n
 out like that?
 <$00>
 
-
-
-
 // Pos: 0000223E
 
 #WLB(PTR, $00001124)
@@ -173,9 +152,6 @@ Shouting, "God! God!\n
 God!"
 <$00>
 
-
-
-
 // Pos: 0000225C
 
 #WLB(PTR, $00001154)
@@ -190,9 +166,6 @@ East:
 \n
 And then, he's gone?
 <$00>
-
-
-
 
 // Pos: 00002274
 
@@ -209,9 +182,6 @@ West:
 Let us know if you\n
 find him!
 <$00>
-
-
-
 
 // Pos: 00002288
 
@@ -231,9 +201,6 @@ DOGFACE!
 中
 <$00>
 
-
-
-
 // Pos: 0000229A
 
 #WLB(PTR, $00001320)
@@ -248,9 +215,6 @@ East:
 \n
 Where are you going?
 <$00>
-
-
-
 
 // Pos: 000022AD
 
@@ -267,9 +231,6 @@ West:
 You should know!
 <$00>
 
-
-
-
 // Pos: 000022BF
 
 #WLB(PTR, $00001380)
@@ -284,9 +245,6 @@ East:
 \n
 To Little?
 <$00>
-
-
-
 
 // Pos: 000022CF
 
@@ -303,9 +261,6 @@ West:
 To where they were!
 <$00>
 
-
-
-
 // Pos: 000022E1
 
 #WLB(PTR, $000013E0)
@@ -318,12 +273,8 @@ East:
 <$0D>
 //\n物音がした。
 \n
-Where the sounds\n
-were?
+Where the sounds were?
 <$00>
-
-
-
 
 // Pos: 000022F3
 
@@ -340,9 +291,6 @@ West:
 To the lodge!
 <$00>
 
-
-
-
 // Pos: 00002302
 
 #WLB(PTR, $00001440)
@@ -357,9 +305,6 @@ East:
 \n
 To everyone?
 <$00>
-
-
-
 
 // Pos: 00002312
 
@@ -376,9 +321,6 @@ West:
 Come along!
 <$00>
 
-
-
-
 // Pos: 00002322
 
 #WLB(PTR, $000014A0)
@@ -394,9 +336,6 @@ West:
 There's no time!
 <$00>
 
-
-
-
 // Pos: 00002332
 
 #WLB(PTR, $00000708)
@@ -405,16 +344,13 @@ There's no time!
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
-WELCOME TO PRISON!\n
+ WELCOME TO PRISON!\n
 REGISTRANT NAME:\n
 "
 <$0F>
 //！
 "
 <$00>
-
-
-
 
 // Pos: 00002349
 
@@ -436,15 +372,12 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
-NOT REGISTERED FOR\n
+ NOT REGISTERED FOR\n
 ENTRY. FOR DETAILS\n
 AND ASSISTANCE, SPEAK
 <$0C>
 TO AN ADMINISTRATOR.
 <$00>
-
-
-
 
 // Pos: 00002375
 
@@ -466,12 +399,9 @@ TO AN ADMINISTRATOR.
 
 <$12><$13>
 // ヤハリ アナタハ\nトウロクサレテイマセン。
-USER NOT REGISTERED\n
+ USER NOT REGISTERED\n
 FOR ENTRY.
 <$00>
-
-
-
 
 // Pos: 0000238E
 
@@ -491,9 +421,6 @@ I supposed to
 register?
 <$00>
 
-
-
-
 // Pos: 000023B1
 
 #WLB(PTR, $00000818)
@@ -507,13 +434,11 @@ Yolanda:
 //\n何よこれ？\n失礼しちゃうわね！
 \n
 The fuck does that\n
-mean?\n
+mean?
+<$0C>
 Hello? A little help\n
 here?!
 <$00>
-
-
-
 
 // Pos: 000023CE
 
@@ -530,9 +455,6 @@ Spacer:
 Hmm... Looks like I'm\n
 not getting in.
 <$00>
-
-
-
 
 // Pos: 000023EA
 
@@ -588,11 +510,11 @@ that about?
 Feng:
 <$0D>
 //\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
-nHoho, you've heard\n
-about the Mirror of\n
-Judgement? From
+nHoho, you've\n
+heard about the\n
+Mirror of Judgement?
 <$0C>
-where, pray tell?
+From where, pray tell?
 <$00><$13><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -726,8 +648,7 @@ Spacer:
 But Feng, why would\n
 you make a mirror
 <$0C>
-capable of doing\n
-that?
+capable of doing that?
 <$00><$12><$0B>
 //フェイ：
 Feng:
@@ -889,7 +810,4 @@ stopping her!
 //〇
 〇
 <$00>
-
-
-
 

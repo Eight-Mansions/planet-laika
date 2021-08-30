@@ -24,14 +24,12 @@ called for you\n
 earlier?
 <$00>
 
-
-
-
 // Pos: 00001FCF
 
 #WLB(PTR, $00000CC0)
 
 #WHB(PTR, $00000CC1)
+
 
 <$00><$12>
 //にお前の声はかき消されてしまったのだ、\nコスマス。
@@ -39,9 +37,6 @@ earlier?
 drowned out by\n
 others, Cosmas.
 <$00>
-
-
-
 
 // Pos: 00001FED
 
@@ -61,26 +56,22 @@ thought you could
 hear only me.
 <$00>
 
-
-
-
 // Pos: 00002009
 
 #WLB(PTR, $00000E28)
 
 #WHB(PTR, $00000E29)
 
+
 <$00><$12>
 //に苦しみが育っているのだ、コスマス。\nお前の声では小さすぎるのだ。
 \n
 Your suffering grows,\n
-Cosmas.\n
+Cosmas.
+<$0C>
 Your voice is too\n
 quiet.
 <$00>
-
-
-
 
 // Pos: 00002031
 
@@ -98,14 +89,12 @@ How much suffering\n
 must I endure?
 <$00>
 
-
-
-
 // Pos: 0000204B
 
 #WLB(PTR, $00000F90)
 
 #WHB(PTR, $00000F91)
+
 
 <$00><$12>
 //にいずれ私は限界をむかえるだろう。\nこの星は苦しみの王国となるだろう。
@@ -115,7 +104,4 @@ Mars will become a
 <$0C>
 planet of suffering.
 <$00>
-
-
-
 

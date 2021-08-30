@@ -35,9 +35,6 @@ here too. Did you
 come here with him?
 <$00>
 
-
-
-
 // Pos: 00003A70
 
 #WLB(PTR, $0000021C)
@@ -49,11 +46,9 @@ come here with him?
 Tommy:
 <$0D>
 //\nよう、俺はなぁ、あの赤い家のとこだ、そこで、\nああ、くそったれ！ 気が遠くなりやがった。
-I was at that red\n
-house before,\n
-when...BAM! I
-<$0C>
-fainted!
+I was at that\n
+red house before,\n
+when...BAM! I fainted!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -76,9 +71,6 @@ How did that Crow guy\n
 get in here?
 <$00>
 
-
-
-
 // Pos: 00003AE4
 
 #WLB(PTR, $00000280)
@@ -97,9 +89,6 @@ the old mineshaft
 that runs from Ice\n
 Lake to the colony.
 <$00>
-
-
-
 
 // Pos: 00003B14
 
@@ -121,9 +110,6 @@ luck, a-yup.
 //家
 家
 <$00>
-
-
-
 
 // Pos: 00003B3B
 
@@ -147,9 +133,6 @@ Lake.
 家
 <$00>
 
-
-
-
 // Pos: 00003B65
 
 #WLB(PTR, $00000980)
@@ -167,9 +150,6 @@ We spoke
 <$0C>
 earlier...right?
 <$00>
-
-
-
 
 // Pos: 00003B88
 
@@ -199,9 +179,6 @@ pass out again. What
 the heck...?
 <$00>
 
-
-
-
 // Pos: 00003BCA
 
 #WLB(PTR, $00000B00)
@@ -220,9 +197,6 @@ YOU! Are you friend
 to all the radio\n
 waves...?
 <$00>
-
-
-
 
 // Pos: 00003BFD
 
@@ -257,9 +231,6 @@ a monitor. There
 should be one.
 <$00>
 
-
-
-
 // Pos: 00003C4F
 
 #WLB(PTR, $00000598)
@@ -278,9 +249,6 @@ you still not seen
 her?
 <$00>
 
-
-
-
 // Pos: 00003C75
 
 #WLB(PTR, $000005AC)
@@ -298,9 +266,6 @@ only one I can't...
 <$0C>
 She's too far...
 <$00>
-
-
-
 
 // Pos: 00003C96
 
@@ -321,9 +286,6 @@ tethered to the\n
 planet somehow.
 <$00>
 
-
-
-
 // Pos: 00003CCC
 
 #WLB(PTR, $000006D0)
@@ -339,9 +301,6 @@ Chloe:
 I can't see her. I\n
 can't see that woman.
 <$00>
-
-
-
 
 // Pos: 00003CED
 
@@ -384,9 +343,6 @@ carried memories of\n
 people?
 <$00>
 
-
-
-
 // Pos: 00003D84
 
 #WLB(PTR, $000006F8)
@@ -425,9 +381,6 @@ Chloe:
 She is certainly\n
 possessed.
 <$00>
-
-
-
 
 // Pos: 00003E00
 
@@ -469,9 +422,6 @@ body now, can you,\n
 Phoenix?
 <$00>
 
-
-
-
 // Pos: 00003E6F
 
 #WLB(PTR, $0000077C)
@@ -499,9 +449,6 @@ someone else. I'm
 <$0C>
 sure of it now.
 <$00>
-
-
-
 
 // Pos: 00003EB0
 
@@ -532,9 +479,6 @@ be what you are to\n
 him.
 <$00>
 
-
-
-
 // Pos: 00003F05
 
 #WLB(PTR, $000008A8)
@@ -552,9 +496,6 @@ Tatler's... No, that
 <$0C>
 idiot!
 <$00>
-
-
-
 
 // Pos: 00003F27
 
@@ -575,9 +516,6 @@ We are not on the\n
 same level.
 <$00>
 
-
-
-
 // Pos: 00003F54
 
 #WLB(PTR, $000008D0)
@@ -593,9 +531,6 @@ Chloe:
 Listen... I am real.\n
 I am the original.
 <$00>
-
-
-
 
 // Pos: 00003F78
 
@@ -613,9 +548,6 @@ This is an illusion.\n
 It has to be.
 <$00>
 
-
-
-
 // Pos: 00003F95
 
 #WLB(PTR, $000004C4)
@@ -631,9 +563,6 @@ Chloe:
 Listen... I am real.\n
 I am the original.
 <$00>
-
-
-
 
 // Pos: 00003FB9
 
@@ -653,9 +582,6 @@ Almost reminds me of
 Masha.
 <$00>
 
-
-
-
 // Pos: 00003FDF
 
 #WLB(PTR, $0000081C)
@@ -671,9 +597,6 @@ Chloe:
 Hello. My name is not\n
 Masha. It's Chloe.
 <$00>
-
-
-
 
 // Pos: 00003FFE
 
@@ -700,9 +623,6 @@ What are those faces
 <$0C>
 you have there?
 <$00>
-
-
-
 
 // Pos: 0000403C
 
@@ -739,9 +659,6 @@ They have served\n
 their purpose.
 <$00>
 
-
-
-
 // Pos: 00004079
 
 #WLB(PTR, $00000858)
@@ -756,9 +673,6 @@ Ernest:
 \n
 And what's that?
 <$00>
-
-
-
 
 // Pos: 00004091
 
@@ -778,9 +692,6 @@ living. Would you
 like one too?
 <$00>
 
-
-
-
 // Pos: 000040B2
 
 #WLB(PTR, $00000880)
@@ -793,12 +704,8 @@ Ernest:
 <$0D>
 //\nあ…いや、\nよしとくぜ。
 \n
-Err...no, I'm\n
-covered.
+Err...no, I'm covered.
 <$00>
-
-
-
 
 // Pos: 000040CB
 
@@ -819,9 +726,6 @@ you has to be an\n
 illusion.
 <$00>
 
-
-
-
 // Pos: 000040FB
 
 #WLB(PTR, $000004FC)
@@ -838,9 +742,6 @@ This is no illusion.\n
 What you see is real.
 <$00>
 
-
-
-
 // Pos: 00004124
 
 #WLB(PTR, $000007A4)
@@ -856,9 +757,6 @@ Yolanda:
 Oh! Chloe... What's\n
 with the faces?
 <$00>
-
-
-
 
 // Pos: 00004145
 
@@ -895,9 +793,6 @@ They have served\n
 their purpose.
 <$00>
 
-
-
-
 // Pos: 00004182
 
 #WLB(PTR, $000007CC)
@@ -913,12 +808,8 @@ Yolanda:
 I see... So they're\n
 obsolete as soon as
 <$0C>
-you're done with\n
-them.
+you're done with them.
 <$00>
-
-
-
 
 // Pos: 000041A7
 
@@ -936,9 +827,6 @@ That's right. They\n
 are mine.
 <$00>
 
-
-
-
 // Pos: 000041BB
 
 #WLB(PTR, $00000520)
@@ -954,12 +842,8 @@ Yolanda:
 It looks like a fairy\n
 tale here. Someone
 <$0C>
-must be\n
-hallucinating.
+must be hallucinating.
 <$00>
-
-
-
 
 // Pos: 000041E7
 
@@ -980,9 +864,6 @@ is the truth. What\n
 you see is real.
 <$00>
 
-
-
-
 // Pos: 00004219
 
 #WLB(PTR, $000008F8)
@@ -996,15 +877,14 @@ Spacer:
 //\n開いてくれ、さっきのことだ、\nここで君と話して、
 \n
 Tell me, what was up\n
-with that
+with that 
 <$0F>
 //は\nどうなったんだ？
-person you were\n
-talking to earlier?
+ person you
+<$0C>
+were talking to\n
+earlier?
 <$00>
-
-
-
 
 // Pos: 0000424B
 
@@ -1026,9 +906,6 @@ anything, are you,\n
 you imposter?
 <$00>
 
-
-
-
 // Pos: 0000426E
 
 #WLB(PTR, $00000920)
@@ -1048,9 +925,6 @@ Who were you talking\n
 to earlier?
 <$00>
 
-
-
-
 // Pos: 000042A2
 
 #WLB(PTR, $00000478)
@@ -1066,9 +940,6 @@ Spacer:
 Tell me, who were you\n
 talking to earlier?
 <$00>
-
-
-
 
 // Pos: 000042C9
 
@@ -1088,7 +959,4 @@ illusion. So, who
 were you speaking to\n
 earlier?
 <$00>
-
-
-
 

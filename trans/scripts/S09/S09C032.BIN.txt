@@ -21,9 +21,6 @@ The Evil Mind...shot\n
 out?
 <$00>
 
-
-
-
 // Pos: 0000162E
 
 #WLB(PTR, $000001A8)
@@ -38,9 +35,6 @@ Spacer:
 \n
 Liever, it's you.
 <$00>
-
-
-
 
 // Pos: 00001643
 
@@ -61,9 +55,6 @@ just a made up\n
 existence, after all.
 <$00>
 
-
-
-
 // Pos: 00001678
 
 #WLB(PTR, $000001D8)
@@ -79,9 +70,6 @@ Spacer:
 Liever, were your\n
 "sins" made up too?
 <$00>
-
-
-
 
 // Pos: 00001698
 
@@ -113,9 +101,6 @@ with Christmas
 presents inside.
 <$00>
 
-
-
-
 // Pos: 000016F5
 
 #WLB(PTR, $00000208)
@@ -133,9 +118,6 @@ what were these
 <$0C>
 "presents", exactly?
 <$00>
-
-
-
 
 // Pos: 00001711
 
@@ -156,9 +138,6 @@ twins fell asleep,\n
 they would both\n
 disappear.
 <$00>
-
-
-
 
 // Pos: 00001743
 
@@ -189,9 +168,6 @@ I've never heard\n
 about a twin-napper.
 <$00>
 
-
-
-
 // Pos: 00001798
 
 #WLB(PTR, $00000254)
@@ -218,8 +194,7 @@ Liever:
 Apparently, God came\n
 to Herod and told him
 <$0C>
-everything in a\n
-dream.
+everything in a dream.
 <$0C><$0B>
 //ÉäÉoÅ[ÅF
 Liever:
@@ -233,9 +208,6 @@ looking\n
 back...clearly I had\n
 it all wrong.
 <$00>
-
-
-
 
 // Pos: 0000181E
 
@@ -252,12 +224,8 @@ Spacer:
 Tell me about Herod.\n
 Is he scared of
 <$0C>
-someone in\n
-particular?
+someone in particular?
 <$00>
-
-
-
 
 // Pos: 0000184D
 
@@ -284,12 +252,8 @@ Liever:
 He's a cursed man,\n
 doomed to always be
 <$0C>
-haunted by\n
-nightmares.
+haunted by nightmares.
 <$00>
-
-
-
 
 // Pos: 00001898
 
@@ -308,9 +272,6 @@ an evil mind, I
 <$0C>
 suppose.
 <$00>
-
-
-
 
 // Pos: 000018C7
 
@@ -331,9 +292,6 @@ longer... My role is\n
 finished...
 <$00>
 
-
-
-
 // Pos: 000018F5
 
 #WLB(PTR, $00000458)
@@ -348,9 +306,6 @@ Spacer:
 \n
 Is Little waking up?
 <$00>
-
-
-
 
 // Pos: 00001911
 
@@ -376,9 +331,6 @@ Oh, a dream! This is\n
 a dream!
 <$00>
 
-
-
-
 // Pos: 0000193B
 
 #WLB(PTR, $000004B0)
@@ -397,9 +349,6 @@ here?! Quick, let me
 talk to Liever just a\n
 little longer!
 <$00>
-
-
-
 
 // Pos: 00001966
 
@@ -420,9 +369,6 @@ buttin' in, huh? You\n
 bum!
 <$00>
 
-
-
-
 // Pos: 0000198E
 
 #WLB(PTR, $000004E8)
@@ -441,9 +387,6 @@ obselete. I've,
 haah...served my\n
 purpose.
 <$00>
-
-
-
 
 // Pos: 000019B6
 
@@ -469,7 +412,4 @@ mean by "obsolete"?
 <$0C>
 Liever!
 <$00>
-
-
-
 

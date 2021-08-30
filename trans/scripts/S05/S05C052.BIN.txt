@@ -21,9 +21,6 @@ Where is the turn-key\n
 doll?
 <$00>
 
-
-
-
 // Pos: 00000CF6
 
 #WLB(PTR, $0000046C)
@@ -42,7 +39,4 @@ spirits back with the
 doll dance. The\n
 CORRECT doll dance!
 <$00>
-
-
-
 

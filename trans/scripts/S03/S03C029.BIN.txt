@@ -25,9 +25,6 @@ through with sharp\n
 hooks.
 <$00>
 
-
-
-
 // Pos: 00003C3E
 
 #WLB(PTR, $00000778)
@@ -45,9 +42,6 @@ escape now... Ahhhh,
 <$0C>
 there's no time...
 <$00>
-
-
-
 
 // Pos: 00003C64
 
@@ -76,9 +70,6 @@ unkind", but! You can\n
 always talk to\n
 William!
 <$00>
-
-
-
 
 // Pos: 00003CB9
 
@@ -137,9 +128,6 @@ Perhaps the house\n
 with the eyeball.
 <$00>
 
-
-
-
 // Pos: 00003D8E
 
 #WLB(PTR, $00000620)
@@ -169,9 +157,6 @@ William:
 Perhaps the house\n
 with the eyeball.
 <$00>
-
-
-
 
 // Pos: 00003DD5
 
@@ -212,9 +197,6 @@ powers left in me. We\n
 MUST go!
 <$00>
 
-
-
-
 // Pos: 00003E57
 
 #WLB(PTR, $00000410)
@@ -233,9 +215,6 @@ matter? Is something
 going to happen?
 <$00>
 
-
-
-
 // Pos: 00003E79
 
 #WLB(PTR, $0000036C)
@@ -245,8 +224,7 @@ going to happen?
 <$10>
 //うーん… おかしいわね…\n気分じゃないのね。
 Hmmm, how weird.\n
-I don't feel\n
-anything.
+I don't feel anything.
 <$0C>
 //この鏡じゃダメなのかしら。\nでもここにはほかに鏡はないわね、\nやっぱりこの鏡よね。
 Maybe this mirror is\n
@@ -256,9 +234,6 @@ But there's no other
 mirror, so this must\n
 be it.
 <$00>
-
-
-
 
 // Pos: 00003EBE
 
@@ -278,9 +253,6 @@ a strange engraving
 on the wall. Let me\n
 see...
 <$00>
-
-
-
 
 // Pos: 00003EE1
 
@@ -322,12 +294,10 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00>
-
-
-
 
 // Pos: 00003F96
 
@@ -363,14 +333,12 @@ Oh! Uh, i-it's\n
 nothing! I'm good!
 <$00>
 
-
-
-
 // Pos: 00003FEB
 
 #WLB(PTR, $0000150C)
 
 #WHB(PTR, $0000150D)
+
 
 <$00><$0B>
 //トーマス：
@@ -437,9 +405,6 @@ little metaphor from\n
 Revelations too!)
 <$00>
 
-
-
-
 // Pos: 000040C2
 
 #WLB(PTR, $000014E0)
@@ -456,18 +421,15 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
-
-
-
 
 // Pos: 000040F6
 
 #WLB(PTR, $00001518)
 
 #WHB(PTR, $00001519)
+
 
 <$00><$0B>
 //トーマス：
@@ -517,9 +479,6 @@ reincarnation? I dare\n
 say, I am confused.
 <$00>
 
-
-
-
 // Pos: 000041A8
 
 #WLB(PTR, $000014F0)
@@ -539,9 +498,6 @@ what me and the guys\n
 are.
 <$00>
 
-
-
-
 // Pos: 000041CF
 
 #WLB(PTR, $00001524)
@@ -554,7 +510,8 @@ are.
 //\n問顆は心も欲しがるかということだ。
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -590,12 +547,10 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00>
-
-
-
 
 // Pos: 0000429A
 
@@ -626,7 +581,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

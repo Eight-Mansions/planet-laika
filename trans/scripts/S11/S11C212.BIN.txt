@@ -20,9 +20,6 @@ Gold:
 Oh, a lady this time?
 <$00>
 
-
-
-
 // Pos: 00001D64
 
 #WLB(PTR, $000001FC)
@@ -38,9 +35,6 @@ Smokey:
 Well, hello!
 <$00>
 
-
-
-
 // Pos: 00001D76
 
 #WLB(PTR, $00000388)
@@ -54,9 +48,7 @@ April:
 //\nあなたたちとケンカするために\n火星に来たんじゃないの。
 \n
 We didn't come to\n
-Mars to start a
-<$0C>
-fight.
+Mars to start a fight.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -81,9 +73,6 @@ He was on the\n
 original vanguard\n
 unit from Earth.
 <$00>
-
-
-
 
 // Pos: 00001DF0
 
@@ -116,9 +105,6 @@ Is he really what you\n
 came here for?
 <$00>
 
-
-
-
 // Pos: 00001E4C
 
 #WLB(PTR, $000003B8)
@@ -138,9 +124,6 @@ PLANET, we keep it\n
 going all night long!
 <$00>
 
-
-
-
 // Pos: 00001E89
 
 #WLB(PTR, $000003C8)
@@ -158,9 +141,6 @@ for two of our unit
 <$0C>
 members.
 <$00>
-
-
-
 
 // Pos: 00001EA3
 
@@ -180,9 +160,6 @@ more of you? How'd
 you all get here:\n
 clown car?
 <$00>
-
-
-
 
 // Pos: 00001ECF
 
@@ -206,13 +183,12 @@ here into the sun.
 Smokey:
 <$0D>
 //\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
-\You can stick around\n
-and blow the roof off\n
-with Old Smokey!
+\You can stick\n
+around and blow the\n
+roof off with Old
+<$0C>
+Smokey!
 <$00>
-
-
-
 
 // Pos: 00001F15
 
@@ -228,9 +204,6 @@ April:
 \n
 Knock it off, creep!
 <$00>
-
-
-
 
 // Pos: 00001F2A
 
@@ -250,9 +223,6 @@ That's not how a good
 piggy's supposed to\n
 squeal, missy!
 <$00>
-
-
-
 
 // Pos: 00001F5C
 
@@ -274,9 +244,6 @@ apologize to the\n
 lady.
 <$00>
 
-
-
-
 // Pos: 00001F8B
 
 #WLB(PTR, $00000470)
@@ -294,9 +261,6 @@ That smug look on her
 <$0C>
 face says she's fine.
 <$00>
-
-
-
 
 // Pos: 00001FAB
 
@@ -317,9 +281,6 @@ better watch your\n
 backs out there.
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 00001FD3
 
 #WLB(PTR, $0000076C)
@@ -335,9 +296,6 @@ Gold:
 That includes you two\n
 eyesores.
 <$00>
-
-
-
 
 // Pos: 00001FEC
 
@@ -356,9 +314,6 @@ of our teammates are
 <$0C>
 missing.
 <$00>
-
-
-
 
 // Pos: 0000200C
 
@@ -400,9 +355,6 @@ like you. Hence the\n
 word, "snob".
 <$00>
 
-
-
-
 // Pos: 00002071
 
 #WLB(PTR, $000007A8)
@@ -418,9 +370,6 @@ April:
 But you're all wrong!\n
 We're not snobs!
 <$00>
-
-
-
 
 // Pos: 00002094
 
@@ -441,9 +390,6 @@ people, go ask the\n
 medicine men.
 <$00>
 
-
-
-
 // Pos: 000020C4
 
 #WLB(PTR, $000007D0)
@@ -458,9 +404,6 @@ April:
 \n
 Medicine men?
 <$00>
-
-
-
 
 // Pos: 000020D7
 
@@ -479,9 +422,6 @@ They're from Earth,
 <$0C>
 just like you.
 <$00>
-
-
-
 
 // Pos: 00002100
 
@@ -502,9 +442,6 @@ vanguard unit! They\n
 ARE alive!
 <$00>
 
-
-
-
 // Pos: 0000211C
 
 #WLB(PTR, $0000080C)
@@ -523,9 +460,6 @@ the word I'd use for
 that braindead bunch.
 <$00>
 
-
-
-
 // Pos: 0000214D
 
 #WLB(PTR, $00000820)
@@ -541,9 +475,6 @@ April:
 Where can we meet\n
 them?
 <$00>
-
-
-
 
 // Pos: 0000215F
 
@@ -563,9 +494,6 @@ front of the
 ventilation tower in\n
 the piazza.
 <$00>
-
-
-
 
 // Pos: 0000218B
 
@@ -595,7 +523,4 @@ talk to the medicine
 <$0C>
 men!
 <$00>
-
-
-
 

@@ -21,9 +21,6 @@ Behold! This is Tall\n
 Boy!
 <$00>
 
-
-
-
 // Pos: 00002130
 
 #WLB(PTR, $0000015C)
@@ -42,9 +39,6 @@ into the eyes of God!
 Look at them all!
 <$00>
 
-
-
-
 // Pos: 00002157
 
 #WLB(PTR, $00000190)
@@ -62,9 +56,6 @@ got a real bad
 <$0C>
 feeling about this!
 <$00>
-
-
-
 
 // Pos: 00002182
 
@@ -85,9 +76,6 @@ left eye! The left\n
 eye!
 <$00>
 
-
-
-
 // Pos: 000021AC
 
 #WLB(PTR, $00000244)
@@ -107,9 +95,6 @@ amped up on wicked\n
 energy!
 <$00>
 
-
-
-
 // Pos: 000021DC
 
 #WLB(PTR, $0000027C)
@@ -127,9 +112,6 @@ eye now! The right
 <$0C>
 eye!
 <$00>
-
-
-
 
 // Pos: 00002200
 
@@ -150,9 +132,6 @@ you have into the\n
 right eye!
 <$00>
 
-
-
-
 // Pos: 00002235
 
 #WLB(PTR, $00000304)
@@ -171,9 +150,6 @@ incarnate! It's a
 giant mass of Evil\n
 Mind!
 <$00>
-
-
-
 
 // Pos: 0000225E
 
@@ -198,9 +174,6 @@ it into the right eye\n
 NOW!
 <$00>
 
-
-
-
 // Pos: 00002289
 
 #WLB(PTR, $000003C4)
@@ -218,9 +191,6 @@ GOD, IT'S YOU, ISN'T
 <$0C>
 IT?!
 <$00>
-
-
-
 
 // Pos: 000022B2
 
@@ -256,9 +226,6 @@ bringing this planet
 its due rebirth.
 <$00>
 
-
-
-
 // Pos: 00002337
 
 #WLB(PTR, $000003F8)
@@ -277,9 +244,6 @@ be! I...I've always
 been me!
 <$00>
 
-
-
-
 // Pos: 00002359
 
 #WLB(PTR, $00000418)
@@ -290,9 +254,7 @@ been me!
 //こ多くの双子に手をかけたのは、お前だ。\nお前が生き埋めにしたのだ。
 YOU stole countless\n
 twins away!\n
-YOU buried them
-<$0C>
-alive!
+YOU buried them alive!
 <$0C>
 //お前はその罪にさいなまれ、消えることのない\n染みのような悪を心に宿している。
 YOU are guilty of\n
@@ -310,9 +272,6 @@ become an eternal
 <$0C>
 existence.
 <$00>
-
-
-
 
 // Pos: 000023D4
 
@@ -340,9 +299,6 @@ my sins... To purify
 my mind...!
 <$00>
 
-
-
-
 // Pos: 00002412
 
 #WLB(PTR, $0000044C)
@@ -363,9 +319,6 @@ Offer your tainted\n
 spirit to me.
 <$00>
 
-
-
-
 // Pos: 00002456
 
 #WLB(PTR, $00000460)
@@ -383,9 +336,6 @@ All I wanted was to
 <$0C>
 right my wrongs!
 <$00>
-
-
-
 
 // Pos: 0000247E
 
@@ -418,9 +368,6 @@ At the children you
 buried alive!
 <$00>
 
-
-
-
 // Pos: 000024FF
 
 #WLB(PTR, $000004D4)
@@ -439,9 +386,6 @@ near me! I'll gauge
 your eyes back out!
 <$00>
 
-
-
-
 // Pos: 0000252A
 
 #WLB(PTR, $000004F4)
@@ -458,9 +402,6 @@ in the flames of\n
 suffering!
 <$00>
 
-
-
-
 // Pos: 00002561
 
 #WLB(PTR, $000006D8)
@@ -473,9 +414,6 @@ Ah, yes, the other\n
 frightened little\n
 puppy in my midst.
 <$00>
-
-
-
 
 // Pos: 00002579
 
@@ -495,9 +433,6 @@ a huge accumulation
 Evil Mind sediment.
 <$00>
 
-
-
-
 // Pos: 000025A8
 
 #WLB(PTR, $000006FC)
@@ -513,9 +448,6 @@ hour. Yes, allow me
 to give you a whiff\n
 of one such moment.
 <$00>
-
-
-
 
 // Pos: 000025E3
 
@@ -537,9 +469,6 @@ called a mother\n
 giving birth to you?
 <$00>
 
-
-
-
 // Pos: 00002616
 
 #WLB(PTR, $00000734)
@@ -558,9 +487,6 @@ that, not for your
 enjoyment!
 <$00>
 
-
-
-
 // Pos: 0000263B
 
 #WLB(PTR, $00000740)
@@ -575,7 +501,4 @@ deeply and endlessly
 <$0C>
 your hatred runs.
 <$00>
-
-
-
 

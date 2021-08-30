@@ -35,9 +35,6 @@ they say here, "Ankh"\n
 you so much.
 <$00>
 
-
-
-
 // Pos: 0000170F
 
 #WLB(PTR, $00000160)
@@ -52,9 +49,6 @@ Ernest:
 \n
 I'm...Ernest.
 <$00>
-
-
-
 
 // Pos: 00001726
 
@@ -89,9 +83,6 @@ checking in on Chloe,
 I'll rush over.
 <$00>
 
-
-
-
 // Pos: 0000177F
 
 #WLB(PTR, $00000390)
@@ -105,13 +96,8 @@ Liever:
 //\nあいつらは？ もう追ってこない？
 \n
 Have those two\n
-stopped following
-<$0C>
-you?
+stopped following you?
 <$00>
-
-
-
 
 // Pos: 0000179B
 
@@ -128,9 +114,6 @@ Ernest:
 Who do you mean,\n
 "buffoons"?
 <$00>
-
-
-
 
 // Pos: 000017B6
 
@@ -151,9 +134,6 @@ shouldn't follow you\n
 this far, I think.
 <$00>
 
-
-
-
 // Pos: 000017E6
 
 #WLB(PTR, $000003CC)
@@ -172,9 +152,6 @@ away? Do I know you
 from somewhere?
 <$00>
 
-
-
-
 // Pos: 00001811
 
 #WLB(PTR, $000003E0)
@@ -190,9 +167,6 @@ Liever:
 I'm Liever. I don't\n
 think we've met!
 <$00>
-
-
-
 
 // Pos: 00001834
 
@@ -212,9 +186,6 @@ before. Surely,
 you've seen me too.
 <$00>
 
-
-
-
 // Pos: 0000185E
 
 #WLB(PTR, $00000408)
@@ -231,9 +202,6 @@ So, tell me! Do you\n
 have faith?
 <$00>
 
-
-
-
 // Pos: 00001876
 
 #WLB(PTR, $0000041C)
@@ -248,9 +216,6 @@ Ernest:
 \n
 Faith?
 <$00>
-
-
-
 
 // Pos: 00001888
 
@@ -272,9 +237,6 @@ faith. One can only\n
 prosper through God!
 <$00>
 
-
-
-
 // Pos: 000018C6
 
 #WLB(PTR, $00000444)
@@ -290,9 +252,6 @@ Ernest:
 You telling me to\n
 pray or something?
 <$00>
-
-
-
 
 // Pos: 000018E6
 
@@ -313,9 +272,6 @@ going to see him\n
 tonight.
 <$00>
 
-
-
-
 // Pos: 0000190C
 
 #WLB(PTR, $0000046C)
@@ -334,9 +290,6 @@ particular? Where is
 it?
 <$00>
 
-
-
-
 // Pos: 00001925
 
 #WLB(PTR, $00000480)
@@ -351,9 +304,6 @@ Liever:
 \n
 Let's meet up later!
 <$00>
-
-
-
 
 // Pos: 00001935
 
@@ -375,9 +325,6 @@ Just before entering\n
 the colony.
 <$00>
 
-
-
-
 // Pos: 00001972
 
 #WLB(PTR, $00000B9C)
@@ -396,9 +343,6 @@ a strange engraving
 on the wall. Let me\n
 see...
 <$00>
-
-
-
 
 // Pos: 00001995
 
@@ -440,12 +384,10 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00>
-
-
-
 
 // Pos: 00001A48
 
@@ -480,9 +422,6 @@ Yolanda:
 Oh! Uh, i-it's\n
 nothing! I'm good!
 <$00>
-
-
-
 
 // Pos: 00001A9C
 
@@ -547,9 +486,6 @@ little metaphor from\n
 Revelations too!)
 <$00>
 
-
-
-
 // Pos: 00001B6A
 
 #WLB(PTR, $00000DC0)
@@ -566,12 +502,8 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
-
-
-
 
 // Pos: 00001B9E
 
@@ -626,9 +558,6 @@ reincarnation? I dare\n
 say, I am confused.
 <$00>
 
-
-
-
 // Pos: 00001C50
 
 #WLB(PTR, $00000DD0)
@@ -648,9 +577,6 @@ what me and the guys\n
 are.
 <$00>
 
-
-
-
 // Pos: 00001C77
 
 #WLB(PTR, $00000E04)
@@ -663,7 +589,9 @@ are.
 //\n問顆は心も欲しがるかということだ。\n
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
+
 <$0B>
 //トーマス：
 Thomas:
@@ -699,12 +627,10 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00>
-
-
-
 
 // Pos: 00001D41
 
@@ -735,7 +661,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

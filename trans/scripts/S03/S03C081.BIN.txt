@@ -23,9 +23,6 @@ vibe from this...
 Something's fishy.
 <$00>
 
-
-
-
 // Pos: 00002D65
 
 #WLB(PTR, $000018D4)
@@ -42,9 +39,6 @@ Stand before the\n
 mirror!
 <$00>
 
-
-
-
 // Pos: 00002D82
 
 #WLB(PTR, $000019DC)
@@ -57,12 +51,11 @@ Spirit Man:
 <$0D>
 //\nそうだ、
 \n
-Very good,
+Very good, 
 <$0F>
 //。\n今度は鏡に触れてみろ。
 .\n
-Now, touch the\n
-mirror.
+Now, touch the mirror.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -76,9 +69,6 @@ self of the evil\n
 you've harbored,\n
 hyohyo!
 <$00>
-
-
-
 
 // Pos: 00002DE0
 
@@ -100,11 +90,11 @@ Spirit Man:
 <$0D>
 //\n
 \n
+
 <$0F>
 //や、\nお前の心は思ったよりうんと寒々しいぞ。
 , your heart is even\n
-darker than I\n
-thought!
+darker than I thought!
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -116,9 +106,6 @@ in place. Its color
 <$0C>
 is all gone.
 <$00>
-
-
-
 
 // Pos: 00002E45
 
@@ -135,14 +122,11 @@ Spirit Man:
 Ah, there you are!\n
 And who are you,
 <$0C>
-friend of
+friend of 
 <$0F>
 //ではない、お前は誰だ？
 ?
 <$00>
-
-
-
 
 // Pos: 00002E67
 
@@ -159,9 +143,6 @@ Ernest:
 It's Ernest. What do\n
 you want?
 <$00>
-
-
-
 
 // Pos: 00002E88
 
@@ -181,9 +162,6 @@ it? I see you're an
 Animal type.
 <$00>
 
-
-
-
 // Pos: 00002EB8
 
 #WLB(PTR, $00000838)
@@ -202,9 +180,6 @@ up, or you'll answer
 my question.
 <$00>
 
-
-
-
 // Pos: 00002EE7
 
 #WLB(PTR, $00000848)
@@ -220,14 +195,11 @@ Spirit Man:
 You can see me,\n
 right? Do you see me
 <$0C>
-through
+through 
 <$0F>
 //の時も、表が見えていたのか！
 's eyes?
 <$00>
-
-
-
 
 // Pos: 00002F10
 
@@ -257,14 +229,11 @@ Ernest:
 <$0D>
 //\n
 \n
-Did you call
+Did you call 
 <$0F>
 //を火星に呼んだのか、\nどうなんだ、答えろ！
-to Mars? Answer me!
+ to Mars? Answer me!
 <$00>
-
-
-
 
 // Pos: 00002F65
 
@@ -295,9 +264,6 @@ to find a true sense
 of self, Ernest.
 <$00>
 
-
-
-
 // Pos: 00002FC4
 
 #WLB(PTR, $00000A20)
@@ -321,17 +287,15 @@ Spirit Man:
 <$0D>
 //\n
 \n
+
 <$0F>
 //に戻るのはたやすいぞ。\n戻るか、どうするか？\n戻るのなら鏡に触れてみろ
-can shift back easily\n
-here. If you'd like\n
-to rest, touch the
+ can shift back\n
+easily here. If you'd
 <$0C>
-mirror.
+like to rest, touch\n
+the mirror.
 <$00>
-
-
-
 
 // Pos: 00003027
 
@@ -351,7 +315,4 @@ inside the mirror?
 That's...not creepy\n
 at all.
 <$00>
-
-
-
 

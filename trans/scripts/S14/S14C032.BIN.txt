@@ -28,11 +28,12 @@ corpse.
 Linda:
 <$0D>
 //\n死人みたいな変なのがー、ロッジの方に\n行ったけど、途中で消えたのー。
-The stranger went\n
-towards the lodge,\n
-but disappeared along
+The stranger\n
+went towards the\n
+lodge, but
 <$0C>
-the way.
+disappeared along the\n
+way.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -44,9 +45,6 @@ It's strange, no? I
 <$0C>
 must have dreamed it.
 <$00>
-
-
-
 
 // Pos: 00002B6B
 
@@ -64,11 +62,9 @@ Oh, here I go. I've\n
 lost all sense of
 <$0C>
 reali...!\n
-R-reali...realit-t-ty...!
+R-reali...realit-t-ty..\n
+.!
 <$00>
-
-
-
 
 // Pos: 00002B9A
 
@@ -88,9 +84,6 @@ Thomas, were you?
 Hahaha! What can I do\n
 for you?
 <$00>
-
-
-
 
 // Pos: 00002BBF
 
@@ -133,9 +126,6 @@ right? Surely you
 sense it.
 <$00>
 
-
-
-
 // Pos: 00002C39
 
 #WLB(PTR, $00000424)
@@ -154,7 +144,4 @@ to understand the
 modus operendi at\n
 play here, yes.
 <$00>
-
-
-
 

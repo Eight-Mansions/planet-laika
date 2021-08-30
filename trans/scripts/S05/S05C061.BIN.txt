@@ -31,9 +31,6 @@ ice, while I am\n
 buried in stooone...
 <$00>
 
-
-
-
 // Pos: 00002141
 
 #WLB(PTR, $00000380)
@@ -52,9 +49,6 @@ Ice Lake? Do you
 consider him your\n
 alter ego?
 <$00>
-
-
-
 
 // Pos: 0000216C
 
@@ -96,9 +90,6 @@ saaaaame... You
 feeeel this toooo...
 <$00>
 
-
-
-
 // Pos: 000021E5
 
 #WLB(PTR, $000003BC)
@@ -118,9 +109,6 @@ didn't think that was\n
 possible yet.
 <$00>
 
-
-
-
 // Pos: 00002216
 
 #WLB(PTR, $00000418)
@@ -139,9 +127,6 @@ sort of special
 entrance? If so,\n
 where is it?
 <$00>
-
-
-
 
 // Pos: 0000223F
 
@@ -163,15 +148,14 @@ Veronica:
 <$0D>
 //\n
 \n
+
 <$0F>
 //じゃない、あんたは誰？
 \n
-...? No, that's not\n
+...? No, that's not
+<$0C>
 it. What's your name?
 <$00>
-
-
-
 
 // Pos: 00002271
 
@@ -188,9 +172,6 @@ Spacer:
 Uhhh, I'm Spacer. And\n
 who're you?
 <$00>
-
-
-
 
 // Pos: 00002298
 
@@ -218,9 +199,6 @@ just you. Are you\n
 expecting someone?
 <$00>
 
-
-
-
 // Pos: 000022D8
 
 #WLB(PTR, $0000058C)
@@ -239,9 +217,6 @@ Uhm, no. It's just
 me, myself and\n
 this...wall here...
 <$00>
-
-
-
 
 // Pos: 00002300
 
@@ -263,9 +238,6 @@ were scheming here\n
 alone.
 <$00>
 
-
-
-
 // Pos: 00002331
 
 #WLB(PTR, $000005B4)
@@ -283,9 +255,6 @@ scheming, we were
 <$0C>
 just...
 <$00>
-
-
-
 
 // Pos: 00002360
 
@@ -305,9 +274,6 @@ alone after all! I
 caught you when you\n
 said "we"!
 <$00>
-
-
-
 
 // Pos: 00002393
 
@@ -339,9 +305,6 @@ that's trying to\n
 subdue her.
 <$00>
 
-
-
-
 // Pos: 000023F0
 
 #WLB(PTR, $000005F0)
@@ -362,9 +325,6 @@ now to become one\n
 with her.
 <$00>
 
-
-
-
 // Pos: 00002429
 
 #WLB(PTR, $00000604)
@@ -381,9 +341,6 @@ How would that work,\n
 huh? Tell me.
 <$00>
 
-
-
-
 // Pos: 00002449
 
 #WLB(PTR, $00000618)
@@ -395,16 +352,13 @@ huh? Tell me.
 Veronica:
 <$0D>
 //\nアタシ、決めたの。\n吸収するのよ、あの女を、フェイを。\nアタシが見つけたやり方で！
-Simple, really. I've\n
-decided I'll absorb\n
-that woman. Feng.
+Simple,\n
+really. I've decided\n
+I'll absorb that
 <$0C>
-It's the most\n
-realistic option.
+woman. Feng. It's the\n
+most realistic option.
 <$00>
-
-
-
 
 // Pos: 00002484
 
@@ -434,9 +388,6 @@ and consume her\n
 personality.
 <$00>
 
-
-
-
 // Pos: 000024D6
 
 #WLB(PTR, $000006E4)
@@ -454,9 +405,6 @@ my voice? Ernie? Jo?
 <$0C>
 ...Hello!
 <$00>
-
-
-
 
 // Pos: 00002502
 
@@ -497,7 +445,4 @@ or does everyone\n
 disappear? Which is\n
 it?
 <$00>
-
-
-
 

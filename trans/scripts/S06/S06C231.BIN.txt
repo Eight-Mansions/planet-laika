@@ -18,13 +18,10 @@ Ernest:
 //\n俺は…アーネスト…ミーシャを守る…\nミーシャ…俺の妹…
 \n
 I, Ernest...will\n
-protect...\n
-...my sister,\n
-Masha...
+protect...
+<$0C>
+...my sister, Masha...
 <$00>
-
-
-
 
 // Pos: 000004B3
 
@@ -39,9 +36,6 @@ You'd never let
 <$0C>
 anyone down.
 <$00>
-
-
-
 
 // Pos: 000004D6
 
@@ -61,9 +55,7 @@ called to me?
 //君誰でもない…\nお前が忘れていったお前自身の声だ。
 Maybe it's no one.\n
 You just forgot the\n
-sound of my own
-<$0C>
-voice.
+sound of my own voice.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -73,9 +65,6 @@ Ernest:
 Wait, I forgot? What\n
 am I saying?
 <$00>
-
-
-
 
 // Pos: 00000531
 
@@ -98,13 +87,11 @@ Yolanda:
 //\nかわいそうなタニアの話し相手、\n壊れそうな心の後見人…
 \n
 A protecter of the\n
-broken-hearted,\n
+broken-hearted,
+<$0C>
 and a shoulder for\n
 Tanya to cry on.
 <$00>
-
-
-
 
 // Pos: 0000057B
 
@@ -119,9 +106,6 @@ You will always be
 <$0C>
 alone.
 <$00>
-
-
-
 
 // Pos: 0000059B
 
@@ -144,9 +128,6 @@ Don't you know your\n
 own inner voice?
 <$00>
 
-
-
-
 // Pos: 000005E1
 
 #WLB(PTR, $00000438)
@@ -168,14 +149,11 @@ Spacer:
 //\nあのふたりと、そして
 \n
 I'm the control tower\n
-over
+over 
 <$0F>
 //にとって\n私が司令塔なのだ。
-and the other two.
+ and the other two.
 <$00>
-
-
-
 
 // Pos: 0000062E
 
@@ -191,9 +169,6 @@ to hyperbole.
 Don't pretend to be\n
 larger than life!
 <$00>
-
-
-
 
 // Pos: 00000663
 
@@ -219,7 +194,4 @@ The voice in your
 <$0C>
 mind.
 <$00>
-
-
-
 

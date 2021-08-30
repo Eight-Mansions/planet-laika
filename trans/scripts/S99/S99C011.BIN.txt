@@ -11,6 +11,7 @@
 
 #WHB(PTR, $00000D1D)
 
+
 <$00><$0F>
 //、開こえる？ ママの声が…
 , can you hear me?\n
@@ -37,14 +38,12 @@ Try to get along with\n
 Sergei, okay?
 <$00>
 
-
-
-
 // Pos: 0000127F
 
 #WLB(PTR, $00000AD8)
 
 #WHB(PTR, $00000AD9)
+
 
 <$00><$11>
 //命船ウラジミール：
@@ -52,21 +51,21 @@ Sergei, okay?
 <$0D>
 //\n
 \n
+
 <$0F>
 //！ 何度言ったら分かるんだ！\nロケット遊びばかりしてるんじゃない！
 ! What did I say\n
-about playing with\n
+about playing with
+<$0C>
 that toy rocket?!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 000012B6
 
 #WLB(PTR, $00000AE8)
 
 #WHB(PTR, $00000AE9)
+
 
 <$00><$11>
 //命船ウラジミール：
@@ -77,14 +76,12 @@ that toy rocket?!
 Give it here!
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 000012CF
 
 #WLB(PTR, $00000BCC)
 
 #WHB(PTR, $00000BCD)
+
 
 <$00><$11>
 //命船ウラジミール：
@@ -99,14 +96,12 @@ Why can't you be more\n
 like Sergei?!
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 00001305
 
 #WLB(PTR, $00000C34)
 
 #WHB(PTR, $00000C35)
+
 
 <$00><$11>
 //命船セルゲイ：
@@ -121,14 +116,12 @@ Did you trip again?\n
 Hehehe!
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 00001338
 
 #WLB(PTR, $00000C44)
 
 #WHB(PTR, $00000C45)
+
 
 <$00><$11>
 //命船セルゲイ：
@@ -137,19 +130,17 @@ Hehehe!
 //\nへへへへ、いいこと教えてやろうか？\n父さんはお前がキライなんだよ。
 \n
 Hehehe! Hey, guess\n
-what?\n
-Batya hates your\n
-guts!
+what?
+<$0C>
+Batya hates your guts!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 0000136C
 
 #WLB(PTR, $00000C70)
 
 #WHB(PTR, $00000C71)
+
 
 <$00><$11>
 //命船セルゲイ：
@@ -158,19 +149,18 @@ guts!
 //\nお前達がこの家に来たときからな、\nキライなんだ。
 \n
 Yup! From the moment\n
-you and\n
+you and
+<$0C>
 that ugly bitch moved\n
 in!
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00001398
 
 #WLB(PTR, $00000C80)
 
 #WHB(PTR, $00000C81)
+
 
 <$00><$11>
 //命船セルゲイ：
@@ -180,7 +170,4 @@ in!
 \n
 Hahahahaha!
 <$0E><$3C><$17><$00>
-
-
-
 

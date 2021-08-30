@@ -17,14 +17,12 @@
 The item bag is full!
 <$0E><$1E><$17><$00>
 
-
-
-
 // Pos: 00002F2F
 
 #WLB(PTR, $000005A8)
 
 #WHB(PTR, $000005A9)
+
 
 <$00><$11>
 //子コスマス：
@@ -38,9 +36,6 @@ know what kind of
 dream you're having,\n
 but here's a stone.
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00002F5F
 
@@ -81,9 +76,6 @@ About the one called\n
 Galil...
 <$0E><$3C><$17><$00>
 
-
-
-
 // Pos: 00002FF2
 
 #WLB(PTR, $0000035C)
@@ -93,14 +85,13 @@ Galil...
 //離 消灯時間まであとわずかです。\n
 離 LIGHTS-OUT TIME\n
 WILL COME SHORTLY.\n
+
 <$0E><$1E>
 //消灯時間まであとわずかです。
-LIGHTS-OUT TIME WILL\n
+LIGHTS-OUT TIME WILL
+<$0C>
 COME SHORTLY.
 <$0E><$3C><$17><$00>
-
-
-
 
 // Pos: 00003020
 
@@ -108,9 +99,8 @@ COME SHORTLY.
 
 #WHB(PTR, $00000705)
 
+
 <$00>
-
-
 
 // Pos: 00003021
 
@@ -140,14 +130,12 @@ COME SHORTLY.
 
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //綠の石を手に入れた。
 Green Stone acquired.
 <$00>
-
-
-
 

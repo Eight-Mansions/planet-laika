@@ -55,9 +55,6 @@ I'll show you around.
 íÜ
 <$00>
 
-
-
-
 // Pos: 00001ED5
 
 #WLB(PTR, $00000F94)
@@ -111,9 +108,6 @@ just now, and he too\n
 was red in the face!
 <$00>
 
-
-
-
 // Pos: 00001F95
 
 #WLB(PTR, $00000FB0)
@@ -145,9 +139,6 @@ Something's not right\n
 with him, a-nope.
 <$00>
 
-
-
-
 // Pos: 00002002
 
 #WLB(PTR, $00000FCC)
@@ -164,15 +155,11 @@ Little's eyes were\n
 off. You can tell
 <$0C>
 instantly when\n
-someone's eyes\n
-change.
+someone's eyes change.
 <$1E>
 //çs
 çs
 <$00>
-
-
-
 
 // Pos: 00002035
 
@@ -196,9 +183,6 @@ changing.
 //íÜ
 íÜ
 <$00>
-
-
-
 
 // Pos: 00002079
 
@@ -242,9 +226,6 @@ wanna be careful.
 ê∫
 <$00>
 
-
-
-
 // Pos: 000020FA
 
 #WLB(PTR, $00000B4C)
@@ -264,9 +245,6 @@ Like that\n
 hypnotherapist?
 <$00>
 
-
-
-
 // Pos: 0000212B
 
 #WLB(PTR, $00000B68)
@@ -285,9 +263,6 @@ she walks in,
 everyone's doing what\n
 she tells them to!
 <$00>
-
-
-
 
 // Pos: 0000215C
 
@@ -323,9 +298,6 @@ anything!
 óù
 <$00>
 
-
-
-
 // Pos: 000021B8
 
 #WLB(PTR, $00000BA4)
@@ -358,9 +330,6 @@ all I'll ever need.
 âs
 <$00>
 
-
-
-
 // Pos: 0000220E
 
 #WLB(PTR, $00000BC0)
@@ -382,7 +351,4 @@ pop up everywhere!
 //óù
 óù
 <$00>
-
-
-
 

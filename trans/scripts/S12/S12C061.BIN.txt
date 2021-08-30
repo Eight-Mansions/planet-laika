@@ -35,9 +35,6 @@ Chloe? Why else would\n
 you be here?
 <$00>
 
-
-
-
 // Pos: 000021AC
 
 #WLB(PTR, $00000CC4)
@@ -59,9 +56,6 @@ along and offer your
 body to my Chloe!\n
 She's waiting!
 <$00>
-
-
-
 
 // Pos: 000021DA
 
@@ -85,9 +79,6 @@ her your body and\n
 serve your purpose.
 <$00>
 
-
-
-
 // Pos: 00002211
 
 #WLB(PTR, $00000CE8)
@@ -106,8 +97,7 @@ Signpost:
 Oh, my right eye\n
 hurts... My left eye
 <$0C>
-is welling of\n
-tears...
+is welling of tears...
 <$0C><$0B>
 //道しるべ：
 Signpost:
@@ -128,9 +118,6 @@ right? Oh, I hope
 she's happy. I hope\n
 she's so happy.
 <$00>
-
-
-
 
 // Pos: 00002277
 
@@ -154,9 +141,6 @@ stops. If the tears\n
 in my left eye stop,\n
 they go.
 <$00>
-
-
-
 
 // Pos: 000022AB
 
@@ -188,9 +172,6 @@ eye haven't stopped,\n
 so there's no going.
 <$00>
 
-
-
-
 // Pos: 000022FB
 
 #WLB(PTR, $00000D20)
@@ -211,12 +192,10 @@ tears. My left eye is
 <$0C>
 tearful. Only when I\n
 can turn back the\n
-tears, can I turn\n
+tears, can I turn
+<$0C>
 back time.
 <$00>
-
-
-
 
 // Pos: 00002335
 
@@ -260,9 +239,6 @@ you might understand\n
 me a little.
 <$00>
 
-
-
-
 // Pos: 000023B6
 
 #WLB(PTR, $00000784)
@@ -288,9 +264,6 @@ up. It's time to turn
 back, Spacer.
 <$00>
 
-
-
-
 // Pos: 000023DD
 
 #WLB(PTR, $00000798)
@@ -305,9 +278,6 @@ Spacer:
 \n
 Turn back? To where?
 <$00>
-
-
-
 
 // Pos: 000023F5
 
@@ -327,9 +297,6 @@ Signpost:
 Think. Think long and\n
 hard...
 <$00>
-
-
-
 
 // Pos: 00002414
 
@@ -365,9 +332,6 @@ sad. A signpost is\n
 useless is it's sad.
 <$00>
 
-
-
-
 // Pos: 00002471
 
 #WLB(PTR, $000007DC)
@@ -387,12 +351,10 @@ Are you ready to turn\n
 back?
 <$1B>
 //？戻る\n戻らない
-？Yes\n
+？Yes
+<$0C>
 No
 <$00><$17><$00>
-
-
-
 
 // Pos: 00002497
 
@@ -417,9 +379,6 @@ I'm a useless\n
 signpost.
 <$00>
 
-
-
-
 // Pos: 000024B2
 
 #WLB(PTR, $000007FC)
@@ -440,9 +399,6 @@ Let's prepare to turn
 <$0C>
 back.
 <$00>
-
-
-
 
 // Pos: 000024D7
 
@@ -466,9 +422,6 @@ back. Our chances are\n
 too slim.
 <$00>
 
-
-
-
 // Pos: 00002503
 
 #WLB(PTR, $00000B5C)
@@ -487,9 +440,6 @@ could I possible go
 back to?
 <$00>
 
-
-
-
 // Pos: 00002525
 
 #WLB(PTR, $00000B8C)
@@ -507,9 +457,6 @@ home? Do I need the
 <$0C>
 smartass for this?
 <$00>
-
-
-
 
 // Pos: 0000254B
 
@@ -531,9 +478,6 @@ signpost before is
 <$0C>
 useful.
 <$00>
-
-
-
 
 // Pos: 00002571
 
@@ -557,9 +501,6 @@ won't stop. It's too\n
 sad.
 <$00>
 
-
-
-
 // Pos: 00002596
 
 #WLB(PTR, $00000B4C)
@@ -575,9 +516,6 @@ Ernest:
 Then you might as\n
 well cry!
 <$00>
-
-
-
 
 // Pos: 000025B1
 
@@ -609,9 +547,6 @@ I'm a useless\n
 signpost.
 <$00>
 
-
-
-
 // Pos: 000025F0
 
 #WLB(PTR, $0000046C)
@@ -627,9 +562,6 @@ Spacer:
 What shape would I\n
 take...?
 <$00>
-
-
-
 
 // Pos: 0000260B
 
@@ -652,9 +584,6 @@ turning back. There's
 nowhere to turn back\n
 to.
 <$00>
-
-
-
 
 // Pos: 00002635
 
@@ -687,12 +616,14 @@ Spacer:
 <$0D>
 //\nあれは
 \n
-But, if
+But, if 
 <$0F>
 //ではなかった、\n別な誰かだ！
-doesn't smell like\n
-almonds, who was she\n
-talking about?
+ doesn't\n
+smell like almonds,
+<$0C>
+who was she talking\n
+about?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -704,9 +635,6 @@ back time to make
 <$0C>
 sure...
 <$00>
-
-
-
 
 // Pos: 000026BD
 
@@ -731,9 +659,6 @@ done with turning\n
 back.
 <$00>
 
-
-
-
 // Pos: 000026EA
 
 #WLB(PTR, $00000520)
@@ -747,13 +672,8 @@ Spacer:
 //\nもう一度あのときに戻れないのか？
 \n
 You wouldn't want to\n
-go back one more
-<$0C>
-time?
+go back one more time?
 <$00>
-
-
-
 
 // Pos: 0000270A
 
@@ -776,7 +696,4 @@ We're done with
 turning back. It's\n
 already over
 <$00>
-
-
-
 

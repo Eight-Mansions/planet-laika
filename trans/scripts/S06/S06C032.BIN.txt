@@ -21,9 +21,6 @@ Hey, how long have\n
 you been here?
 <$00>
 
-
-
-
 // Pos: 00001BBA
 
 #WLB(PTR, $00000608)
@@ -39,9 +36,6 @@ Oxygen Miner 5ÅF
 Whoosh, they are\n
 connected. Whoosh.
 <$00>
-
-
-
 
 // Pos: 00001BD9
 
@@ -59,9 +53,6 @@ What? "Connected"?\n
 What's connected?
 <$00>
 
-
-
-
 // Pos: 00001BFC
 
 #WLB(PTR, $00000650)
@@ -77,9 +68,6 @@ Oxygen Miner 5ÅF
 Dreams and reality,\n
 whoosh, whoosh.
 <$00>
-
-
-
 
 // Pos: 00001C1C
 
@@ -100,9 +88,6 @@ this town connected\n
 to reality?
 <$00>
 
-
-
-
 // Pos: 00001C40
 
 #WLB(PTR, $00000698)
@@ -120,9 +105,6 @@ whoosh. To no avail,
 <$0C>
 whoosh, whoosh.
 <$00>
-
-
-
 
 // Pos: 00001C70
 
@@ -143,9 +125,6 @@ is the reality the\n
 dream?
 <$00>
 
-
-
-
 // Pos: 00001C8F
 
 #WLB(PTR, $00000728)
@@ -162,12 +141,8 @@ Whoosh, I'll stop\n
 talking. whoosh.
 <$0C>
 Except for this,\n
-whoosh: I'm the\n
-fifth.
+whoosh: I'm the fifth.
 <$00>
-
-
-
 
 // Pos: 00001CC0
 
@@ -187,9 +162,6 @@ Yolanda! This way,
 this way!
 <$00>
 
-
-
-
 // Pos: 00001CED
 
 #WLB(PTR, $000002C8)
@@ -208,7 +180,4 @@ seek, Yolanda? Do not
 let greed be your\n
 undoing.
 <$00>
-
-
-
 

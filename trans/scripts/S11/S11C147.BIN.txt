@@ -84,9 +84,6 @@ As sad as they get,\n
 too. Ohh, ohh...!
 <$00>
 
-
-
-
 // Pos: 00002C4C
 
 #WLB(PTR, $00001400)
@@ -115,12 +112,8 @@ Yang:
 tear off those green
 <$0C>
 butterfly wings and\n
-turn back into a\n
-worm!
+turn back into a worm!
 <$00>
-
-
-
 
 // Pos: 00002CC4
 
@@ -159,9 +152,6 @@ Grill them and eat
 <$0C>
 the little wrens!
 <$00>
-
-
-
 
 // Pos: 00002D3F
 
@@ -203,9 +193,6 @@ here! The last...
 This is the last....!
 <$00>
 
-
-
-
 // Pos: 00002DAC
 
 #WLB(PTR, $00001468)
@@ -220,9 +207,6 @@ Mountain:
 \n
 THE LAST JUDGEMENT!
 <$00>
-
-
-
 
 // Pos: 00002DC2
 
@@ -244,9 +228,6 @@ count my flies with\n
 me?
 <$00>
 
-
-
-
 // Pos: 00002DF3
 
 #WLB(PTR, $00001538)
@@ -265,9 +246,6 @@ many, buddy!
 //信
 信
 <$00>
-
-
-
 
 // Pos: 00002E0D
 
@@ -292,9 +270,6 @@ know?
 鋭
 <$00>
 
-
-
-
 // Pos: 00002E35
 
 #WLB(PTR, $00001654)
@@ -314,9 +289,6 @@ four, five, six...
 鋭
 <$00>
 
-
-
-
 // Pos: 00002E5A
 
 #WLB(PTR, $00001700)
@@ -335,9 +307,6 @@ twelve, thirteen...
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 00002E7B
 
@@ -368,15 +337,11 @@ Mountain:
 ...eighty-seven,\n
 eighty-eight,
 <$0C>
-eighty-nine,\n
-ninety...
+eighty-nine, ninety...
 <$1E>
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 00002EBD
 
@@ -401,9 +366,6 @@ and four...
 鋭
 <$00>
 
-
-
-
 // Pos: 00002EE2
 
 #WLB(PTR, $00001760)
@@ -421,16 +383,14 @@ seventy-two, three
 <$0C>
 hundred\n
 seventy-three, three\n
-hundred seventy-five,\n
+hundred seventy-five,
+<$0C>
 three hundred\n
 seventy-seven...
 <$1E>
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 00002F07
 
@@ -454,29 +414,24 @@ NOT ENOUGH!
 鋭
 <$00>
 
-
-
-
 // Pos: 00002F3B
 
 #WLB(PTR, $0000109C)
 
 #WHB(PTR, $0000109D)
 
+
 <$00>
 //メッセージはありません。
-THERE ARE NO\n
-MESSAGES.
+THERE ARE NO MESSAGES.
 <$00>
-
-
-
 
 // Pos: 00002F49
 
 #WLB(PTR, $0000159C)
 
 #WHB(PTR, $0000159D)
+
 
 <$00>
 //無線テレビに着信しています。
@@ -530,7 +485,8 @@ Commander October:
 //\nあー、ペットが生き返った…\nあー、円周率を思い出した…
 \n
 "Look! My pet came\n
-back to life!"\n
+back to life!"
+<$0C>
 "Listen! I can recite\n
 all of Pi!"
 <$0C><$0B>
@@ -547,14 +503,12 @@ when there's an\n
 update.
 <$00>
 
-
-
-
 // Pos: 000030A0
 
 #WLB(PTR, $00001050)
 
 #WHB(PTR, $00001051)
+
 
 <$00>
 //調子はどうかね、ヌケガラ君。
@@ -592,7 +546,4 @@ I will see you soon.\n
 I'm looking forward\n
 to it.
 <$00>
-
-
-
 

@@ -24,9 +24,6 @@ haven't seen the\n
 others.
 <$00>
 
-
-
-
 // Pos: 00003DE5
 
 #WLB(PTR, $00000664)
@@ -79,9 +76,6 @@ volunteer for this\n
 mission, Laika?
 <$00>
 
-
-
-
 // Pos: 00003E77
 
 #WLB(PTR, $0000074C)
@@ -97,8 +91,7 @@ April:
 I didn't know too\n
 much about this
 <$0C>
-mission when I\n
-joined.
+mission when I joined.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -122,8 +115,7 @@ already aware that
 <$0C>
 Martian topsoil\n
 contains\n
-hallucinogenic\n
-agents.
+hallucinogenic agents.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -148,9 +140,6 @@ until I heard you\n
 were coming.
 <$00>
 
-
-
-
 // Pos: 00003F6E
 
 #WLB(PTR, $00000784)
@@ -174,8 +163,7 @@ April:
 And today's\n
 Christmas, so it's a
 <$0C>
-Christmas on Mars\n
-too!
+Christmas on Mars too!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -222,9 +210,6 @@ you might catch Noon
 and the captain.
 <$00>
 
-
-
-
 // Pos: 00004050
 
 #WLB(PTR, $0000082C)
@@ -259,9 +244,6 @@ He's supposed to help\n
 us.
 <$00>
 
-
-
-
 // Pos: 000040AF
 
 #WLB(PTR, $00001900)
@@ -290,8 +272,7 @@ is in their registry,
 though, since "
 <$0F>
 //って名前で\n登録されてるはずよ。
-"'s on your\n
-paperwork.
+"'s on your paperwork.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -303,9 +284,6 @@ I'll join you once I
 <$0C>
 catch my breath.
 <$00>
-
-
-
 
 // Pos: 00004112
 
@@ -325,9 +303,6 @@ world are you? Answer
 me, April!
 <$00>
 
-
-
-
 // Pos: 00004140
 
 #WLB(PTR, $00000FF0)
@@ -346,9 +321,6 @@ of someone loving you
 ever, I don't\n
 know...weird you out?
 <$00>
-
-
-
 
 // Pos: 00004169
 
@@ -401,9 +373,6 @@ self. It\n
 was...choking.
 <$00>
 
-
-
-
 // Pos: 00004221
 
 #WLB(PTR, $00001214)
@@ -433,9 +402,6 @@ saying, "I'm so proud\n
 of my baby."
 <$00>
 
-
-
-
 // Pos: 0000427E
 
 #WLB(PTR, $00001270)
@@ -455,9 +421,6 @@ being here reminds me\n
 days I'd rather\n
 forget.
 <$00>
-
-
-
 
 // Pos: 000042B6
 
@@ -495,9 +458,6 @@ April:
 finding the colony?
 <$00>
 
-
-
-
 // Pos: 0000430F
 
 #WLB(PTR, $00001AB8)
@@ -526,7 +486,4 @@ Why don't you go look
 <$0C>
 for the colony?
 <$00>
-
-
-
 

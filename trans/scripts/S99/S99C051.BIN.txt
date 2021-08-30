@@ -30,9 +30,6 @@ Spacer:
 I'm all confused.
 <$00>
 
-
-
-
 // Pos: 000019E6
 
 #WLB(PTR, $0000084C)
@@ -52,9 +49,6 @@ purpose", Little\n
 wasted no time coming\n
 back.
 <$00>
-
-
-
 
 // Pos: 00001A18
 
@@ -86,9 +80,6 @@ was more than Little\n
 could bear.
 <$00>
 
-
-
-
 // Pos: 00001A63
 
 #WLB(PTR, $00000874)
@@ -107,9 +98,6 @@ Hey, Ernest. What are
 you looking at over\n
 there?
 <$00>
-
-
-
 
 // Pos: 00001A89
 
@@ -140,9 +128,6 @@ damn fires! It was\n
 burning on its OWN!
 <$00>
 
-
-
-
 // Pos: 00001AD5
 
 #WLB(PTR, $0000089C)
@@ -162,9 +147,6 @@ saying if you didn't\n
 go out of your way to\n
 get defensive.
 <$00>
-
-
-
 
 // Pos: 00001B00
 
@@ -192,15 +174,12 @@ Yolanda:
 Guess the crew's back\n
 on track for now. Why
 <$0C>
-did
+did 
 <$0F>
 //は平気なの？
-get by without a\n
+ get by without a\n
 meltdown?
 <$00>
-
-
-
 
 // Pos: 00001B59
 
@@ -217,9 +196,6 @@ Spacer:
 Because we're here.
 <$00>
 
-
-
-
 // Pos: 00001B70
 
 #WLB(PTR, $000008D8)
@@ -235,9 +211,6 @@ Ernest:
 Oh, a fire! It's a\n
 sea of fire!
 <$00>
-
-
-
 
 // Pos: 00001B8E
 
@@ -276,9 +249,6 @@ nearby. Are we truly
 safe here?
 <$00>
 
-
-
-
 // Pos: 00001BFA
 
 #WLB(PTR, $00000900)
@@ -297,9 +267,6 @@ matter on Mars. We're
 in a whole other\n
 world.
 <$00>
-
-
-
 
 // Pos: 00001C37
 
@@ -335,9 +302,6 @@ chooses to stay
 <$0C>
 asleep at the wheel.
 <$00>
-
-
-
 
 // Pos: 00001C85
 
@@ -377,9 +341,6 @@ manipulates the minds
 of the residents to\n
 brew and spread evil.
 <$00>
-
-
-
 
 // Pos: 00001CFE
 
@@ -442,9 +403,6 @@ wasn't me. Spacer,\n
 was it you?
 <$00>
 
-
-
-
 // Pos: 00001DB6
 
 #WLB(PTR, $00000950)
@@ -484,9 +442,6 @@ about the Black Rider\n
 gathering evil.
 <$00>
 
-
-
-
 // Pos: 00001E34
 
 #WLB(PTR, $00000964)
@@ -504,9 +459,6 @@ Rider, whirling in
 <$0C>
 the skies!
 <$00>
-
-
-
 
 // Pos: 00001E58
 
@@ -548,9 +500,6 @@ behind by the late
 exile!
 <$00>
 
-
-
-
 // Pos: 00001EC1
 
 #WLB(PTR, $0000098C)
@@ -568,9 +517,6 @@ An existence beyond
 <$0C>
 the flesh...
 <$00>
-
-
-
 
 // Pos: 00001EE4
 
@@ -590,9 +536,6 @@ Were you were the one
 who was out during\n
 the conversation?
 <$00>
-
-
-
 
 // Pos: 00001F0E
 
@@ -641,9 +584,6 @@ another. Doesn't make
 sense.
 <$00>
 
-
-
-
 // Pos: 00001F97
 
 #WLB(PTR, $000009C8)
@@ -662,9 +602,6 @@ the Black Rider is
 "evil". In a way,\n
 they make a pair.
 <$00>
-
-
-
 
 // Pos: 00001FC3
 
@@ -685,9 +622,6 @@ evil, just like in\n
 Revelations.
 <$00>
 
-
-
-
 // Pos: 00001FE4
 
 #WLB(PTR, $000009F0)
@@ -706,9 +640,6 @@ was waiting for you
 to say that, you\n
 goddamn nerd.
 <$00>
-
-
-
 
 // Pos: 00002008
 
@@ -739,9 +670,6 @@ will have taken a\n
 tangible form.
 <$00>
 
-
-
-
 // Pos: 00002060
 
 #WLB(PTR, $00000A18)
@@ -761,9 +689,6 @@ the bud and stop\n
 Galil.
 <$00>
 
-
-
-
 // Pos: 0000208B
 
 #WLB(PTR, $00000A2C)
@@ -782,9 +707,6 @@ Someone's coming. You
 two, stay put!
 <$00>
 
-
-
-
 // Pos: 000020AE
 
 #WLB(PTR, $00000A7C)
@@ -800,9 +722,6 @@ Spacer:
 Damian wouldn't\n
 answer my question.
 <$00>
-
-
-
 
 // Pos: 000020C7
 
@@ -822,9 +741,6 @@ Maybe they're more
 like us after all.
 <$00>
 
-
-
-
 // Pos: 000020E9
 
 #WLB(PTR, $00000AA4)
@@ -840,9 +756,6 @@ Who knows. You\n
 couldn't tell just by\n
 looking at them.
 <$00>
-
-
-
 
 // Pos: 00002111
 
@@ -863,9 +776,6 @@ face. Stunning, that\n
 one.
 <$00>
 
-
-
-
 // Pos: 00002143
 
 #WLB(PTR, $00000ACC)
@@ -884,9 +794,6 @@ to help him? By
 taking him back to\n
 Earth?
 <$00>
-
-
-
 
 // Pos: 0000216D
 
@@ -907,9 +814,6 @@ face returned to\n
 normal.
 <$00>
 
-
-
-
 // Pos: 0000218E
 
 #WLB(PTR, $00000AF4)
@@ -927,9 +831,6 @@ undo the surgery? Can
 <$0C>
 we do that?!
 <$00>
-
-
-
 
 // Pos: 000021AB
 
@@ -950,9 +851,6 @@ Wasn't there a safe\n
 house nearby?
 <$00>
 
-
-
-
 // Pos: 000021E6
 
 #WLB(PTR, $00000B1C)
@@ -969,9 +867,6 @@ Need a nap, huh?\n
 Ernie, how about you?
 <$00>
 
-
-
-
 // Pos: 000021FF
 
 #WLB(PTR, $00000B30)
@@ -986,9 +881,6 @@ Ernest:
 \n
 I'm still kicking.
 <$00>
-
-
-
 
 // Pos: 00002216
 
@@ -1007,9 +899,6 @@ kick the shit out of
 <$0C>
 a sandstorm.
 <$00>
-
-
-
 
 // Pos: 00002236
 
@@ -1030,9 +919,6 @@ determines strength.\n
 Anyways, let's rest.
 <$00>
 
-
-
-
 // Pos: 00002261
 
 #WLB(PTR, $000004DC)
@@ -1052,9 +938,6 @@ got there first,\n
 so...that sucks ass.
 <$00>
 
-
-
-
 // Pos: 00002291
 
 #WLB(PTR, $000004F4)
@@ -1073,9 +956,6 @@ What's with the long
 face?
 <$00>
 
-
-
-
 // Pos: 000022B6
 
 #WLB(PTR, $0000050C)
@@ -1091,9 +971,6 @@ Ernest:
 I'm not a coward...\n
 I'm not a coward!
 <$00>
-
-
-
 
 // Pos: 000022D8
 
@@ -1112,9 +989,6 @@ Now, where's the
 <$0C>
 smartass?
 <$00>
-
-
-
 
 // Pos: 000022FE
 
@@ -1135,9 +1009,6 @@ got there first,\n
 so...that sucks ass.
 <$00>
 
-
-
-
 // Pos: 0000232E
 
 #WLB(PTR, $00000644)
@@ -1155,9 +1026,6 @@ Were you itching to
 <$0C>
 head out too?
 <$00>
-
-
-
 
 // Pos: 00002352
 
@@ -1177,9 +1045,6 @@ of me. Inside of my
 head...
 <$00>
 
-
-
-
 // Pos: 0000237A
 
 #WLB(PTR, $00000674)
@@ -1194,9 +1059,6 @@ Yolanda:
 \n
 Were you with anyone?
 <$00>
-
-
-
 
 // Pos: 00002395
 
@@ -1220,13 +1082,10 @@ the way.
 Ernest:
 <$0D>
 //\n中に入れなくて… そん時だ、誰かが…
-nHe wouldn't let me\n
-in, and then, someone\n
-came and...
+nHe wouldn't\n
+let me in, and then,\n
+someone came and...
 <$00>
-
-
-
 
 // Pos: 000023E5
 
@@ -1244,9 +1103,6 @@ Hmm. Glad it wasn't\n
 me, I guess.
 <$00>
 
-
-
-
 // Pos: 000023FE
 
 #WLB(PTR, $000006BC)
@@ -1263,9 +1119,6 @@ Hey, where's the\n
 smartass?
 <$00>
 
-
-
-
 // Pos: 0000241C
 
 #WLB(PTR, $000006D8)
@@ -1281,9 +1134,6 @@ Ernest:
 He must be out. Only\n
 explanation.
 <$00>
-
-
-
 
 // Pos: 0000243B
 
@@ -1303,9 +1153,6 @@ The one with the
 eyeballs, you're\n
 saying?
 <$00>
-
-
-
 
 // Pos: 00002462
 
@@ -1333,9 +1180,6 @@ don't know anything
 right now.
 <$00>
 
-
-
-
 // Pos: 00002480
 
 #WLB(PTR, $00000720)
@@ -1353,8 +1197,7 @@ feeling that,
 <$0C>
 whatever's behind\n
 that yonder door, is\n
-somehow related to\n
-me.
+somehow related to me.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -1366,9 +1209,6 @@ but a woman's
 <$0C>
 intuition is no joke.
 <$00>
-
-
-
 
 // Pos: 000024C5
 
@@ -1386,10 +1226,6 @@ Someone's...calling\n
 me again. I hear
 <$0C>
 their voice.\n
-That...feeble\n
-voice...
+That...feeble voice...
 <$00>
-
-
-
 

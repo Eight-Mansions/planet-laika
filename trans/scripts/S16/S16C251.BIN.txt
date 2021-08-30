@@ -57,9 +57,6 @@ you're...Yolanda.
 çs
 <$00>
 
-
-
-
 // Pos: 00000B99
 
 #WLB(PTR, $000002A8)
@@ -82,9 +79,6 @@ appearance.
 //íÜ
 íÜ
 <$00>
-
-
-
 
 // Pos: 00000BCC
 
@@ -116,9 +110,6 @@ help anyways.
 íÜ
 <$00>
 
-
-
-
 // Pos: 00000C0C
 
 #WLB(PTR, $000001DC)
@@ -137,9 +128,6 @@ world, we can still
 turn back. This is\n
 still a nightmare.
 <$00>
-
-
-
 
 // Pos: 00000C39
 
@@ -161,9 +149,6 @@ it's still only a\n
 dream.
 <$00>
 
-
-
-
 // Pos: 00000C64
 
 #WLB(PTR, $000001F8)
@@ -182,9 +167,6 @@ She's gotta be
 getting sick of it by\n
 now.
 <$00>
-
-
-
 
 // Pos: 00000C8D
 
@@ -207,9 +189,6 @@ finger on what.
 íÜ
 <$00>
 
-
-
-
 // Pos: 00000CAF
 
 #WLB(PTR, $00000124)
@@ -231,9 +210,6 @@ can't ho home yet!
 íÜ
 <$00>
 
-
-
-
 // Pos: 00000CDC
 
 #WLB(PTR, $000002C0)
@@ -254,7 +230,4 @@ go.
 //íÜ
 íÜ
 <$00>
-
-
-
 

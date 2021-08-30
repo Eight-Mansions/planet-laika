@@ -33,9 +33,6 @@ can overcome good and\n
 evil.
 <$00>
 
-
-
-
 // Pos: 0000126B
 
 #WLB(PTR, $00000158)
@@ -48,14 +45,9 @@ Cosmas:
 <$0D>
 //\n顔… 僕の顔がそこにある…僕は…
 \n
-You have my face\n
-on...\n
-Does that mean,\n
-I'm...
+You have my face on...\n
+Does that mean, I'm...
 <$00>
-
-
-
 
 // Pos: 00001289
 
@@ -67,9 +59,6 @@ I'm...
 //お前は解放されたのだ。
 You are free.
 <$00>
-
-
-
 
 // Pos: 0000129A
 
@@ -98,9 +87,6 @@ Cosmas:
 Hehehe, I'm free!\n
 I'm really free!
 <$00>
-
-
-
 
 // Pos: 000012EF
 
@@ -158,9 +144,6 @@ Uncle Red's! Never
 ever!
 <$00>
 
-
-
-
 // Pos: 0000139B
 
 #WLB(PTR, $000001DC)
@@ -189,7 +172,4 @@ Well, so long!
 //理
 理
 <$00>
-
-
-
 

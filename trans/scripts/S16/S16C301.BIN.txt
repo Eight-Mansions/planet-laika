@@ -31,9 +31,6 @@ Ohh, what're\n
 you...no! GET AWAY!
 <$00>
 
-
-
-
 // Pos: 00001C55
 
 #WLB(PTR, $000001D8)
@@ -47,9 +44,7 @@ Herod:
 //\nあああ、やめろ、バケモノめ！\n来るな！
 \n
 Ohhhh, stop! Get away\n
-from me, YOU
-<$0C>
-MONSTERS!
+from me, YOU MONSTERS!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -61,9 +56,6 @@ are you? Get back!
 <$0C>
 GET BACK!
 <$00>
-
-
-
 
 // Pos: 00001C97
 
@@ -96,9 +88,6 @@ floating heads had
 enough fun? Leave me\n
 alone!
 <$00>
-
-
-
 
 // Pos: 00001CFC
 
@@ -195,14 +184,12 @@ Heeheeheeheehee!
 Hahahahahahaha!
 <$00>
 
-
-
-
 // Pos: 00001E20
 
 #WLB(PTR, $00000A0C)
 
 #WHB(PTR, $00000A0D)
+
 
 <$10><$18><$00>
 //ぁセ。
@@ -260,7 +247,4 @@ ALWAYS KNEW.
 CHARLIE'S AWAKE!\n
 CHARLIE'S AWAKE!
 <$00>
-
-
-
 

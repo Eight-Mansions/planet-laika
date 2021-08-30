@@ -35,12 +35,10 @@ but...want to go\n
 check?
 <$1B>
 //（ちょっと行ってみる。\n今はよしておく。
-（Yes。\n
+（Yes。
+<$0C>
 No。
 <$00><$17><$00>
-
-
-
 
 // Pos: 000029A7
 
@@ -71,9 +69,6 @@ don't want my dreams\n
 to emerge.
 <$00>
 
-
-
-
 // Pos: 000029F3
 
 #WLB(PTR, $00000E78)
@@ -92,9 +87,6 @@ you see any
 standstorms, hurry\n
 back.
 <$00>
-
-
-
 
 // Pos: 00002A16
 
@@ -158,9 +150,6 @@ liar. It ain't for me\n
 either. Come on.
 <$00>
 
-
-
-
 // Pos: 00002ADB
 
 #WLB(PTR, $00000DE4)
@@ -180,9 +169,6 @@ I've got things to\n
 do, and no time to do\n
 'em!
 <$00>
-
-
-
 
 // Pos: 00002B12
 
@@ -210,9 +196,6 @@ anymore, so it must
 be my mind playing\n
 games.
 <$00>
-
-
-
 
 // Pos: 00002B57
 
@@ -242,9 +225,6 @@ It's like she's\n
 leading me around.
 <$00>
 
-
-
-
 // Pos: 00002BA2
 
 #WLB(PTR, $00000A68)
@@ -258,7 +238,8 @@ Tommy:
 //\nようよう、やっぱりだ、目ん玉だ。\nリトルには見えるんだ、
 \n
 Hey, you know those\n
-eyeballs?\n
+eyeballs? 
+<$0C>
 Little can see them,\n
 a-yup!
 <$0C><$0B>
@@ -296,9 +277,6 @@ something weird?
 声
 <$00>
 
-
-
-
 // Pos: 00002C28
 
 #WLB(PTR, $00000A8C)
@@ -319,9 +297,6 @@ after all, a-yup.
 //家
 家
 <$00>
-
-
-
 
 // Pos: 00002C53
 
@@ -350,9 +325,6 @@ Little can see them,\n
 a-yup!
 <$00>
 
-
-
-
 // Pos: 00002C96
 
 #WLB(PTR, $000009CC)
@@ -368,9 +340,6 @@ Yolanda:
 Little can see the\n
 eyeballs?
 <$00>
-
-
-
 
 // Pos: 00002CAE
 
@@ -402,9 +371,6 @@ in those eyeball\n
 rumors, a-yup.
 <$00>
 
-
-
-
 // Pos: 00002CF7
 
 #WLB(PTR, $000009F4)
@@ -419,9 +385,6 @@ Yolanda:
 \n
 But what?
 <$00>
-
-
-
 
 // Pos: 00002D05
 
@@ -441,9 +404,6 @@ I was talking to
 before, are you?
 <$00>
 
-
-
-
 // Pos: 00002D20
 
 #WLB(PTR, $00000A30)
@@ -462,9 +422,6 @@ see them, a-yup! It
 was so weird.
 <$00>
 
-
-
-
 // Pos: 00002D42
 
 #WLB(PTR, $00000A44)
@@ -482,9 +439,6 @@ can see the eyeballs.
 <$0C>
 Got it.
 <$00>
-
-
-
 
 // Pos: 00002D6C
 
@@ -513,9 +467,6 @@ Little can see them,\n
 a-yup!
 <$00>
 
-
-
-
 // Pos: 00002DAF
 
 #WLB(PTR, $0000091C)
@@ -531,9 +482,6 @@ Ernest:
 Little can see the\n
 eyeballs.
 <$00>
-
-
-
 
 // Pos: 00002DCA
 
@@ -565,9 +513,6 @@ in those eyeball\n
 rumors, a-yup.
 <$00>
 
-
-
-
 // Pos: 00002E13
 
 #WLB(PTR, $00000944)
@@ -582,9 +527,6 @@ Ernest:
 \n
 What did you say?
 <$00>
-
-
-
 
 // Pos: 00002E2A
 
@@ -604,9 +546,6 @@ Hey, did I say
 something weird?
 <$00>
 
-
-
-
 // Pos: 00002E52
 
 #WLB(PTR, $00000980)
@@ -622,9 +561,6 @@ Tommy:
 Little was talking,\n
 a-yup. I saw it.
 <$00>
-
-
-
 
 // Pos: 00002E77
 
@@ -654,9 +590,6 @@ supposed to see that
 eyeball?
 <$00>
 
-
-
-
 // Pos: 00002EBC
 
 #WLB(PTR, $00000FC0)
@@ -676,7 +609,4 @@ out even once. She\n
 says it's because he\n
 hates Mars.
 <$00>
-
-
-
 

@@ -39,9 +39,6 @@ finally sewed its
 seed within him.
 <$00>
 
-
-
-
 // Pos: 00002933
 
 #WLB(PTR, $000001CC)
@@ -70,9 +67,6 @@ reborn as
 Neo-Universal Man.
 <$00>
 
-
-
-
 // Pos: 00002988
 
 #WLB(PTR, $000001F8)
@@ -92,9 +86,6 @@ there not someone\n
 here who can\n
 withstand its words?
 <$00>
-
-
-
 
 // Pos: 000029B7
 
@@ -122,9 +113,6 @@ While you're not the
 you from before, it\n
 is you.
 <$00>
-
-
-
 
 // Pos: 000029F7
 
@@ -176,9 +164,6 @@ mystery has been
 solved!
 <$00>
 
-
-
-
 // Pos: 00002AA2
 
 #WLB(PTR, $000003D4)
@@ -208,9 +193,6 @@ chosen, their words
 will reduce you to\n
 ash like a curse.
 <$00>
-
-
-
 
 // Pos: 00002B05
 
@@ -248,9 +230,6 @@ prophecies shall I\n
 appear.
 <$00>
 
-
-
-
 // Pos: 00002B62
 
 #WLB(PTR, $00000578)
@@ -270,14 +249,12 @@ Ah, the darkness in\n
 me quickens.
 <$00>
 
-
-
-
 // Pos: 00002B84
 
 #WLB(PTR, $0000096C)
 
 #WHB(PTR, $0000096D)
+
 
 <$00><$13>
 //（お利口な諸君のことだ、\nここがどういう場所かすでに知ってるだろう。\nルールを守る限りにおいて、諸君は自由だ…
@@ -297,14 +274,12 @@ DOESN'T MEAN I HAVE\n
 TO TALK LIKE ONE.)
 <$00>
 
-
-
-
 // Pos: 00002C00
 
 #WLB(PTR, $00000978)
 
 #WHB(PTR, $00000979)
+
 
 <$00><$13>
 //（プリズン４、第四惑星の刑務所ということだ。\nしかしそれも昔の話、\n今となってはただのハキダメ…
@@ -331,14 +306,12 @@ BAR AND A PLASTIC
 SURGEON.
 <$00>
 
-
-
-
 // Pos: 00002C97
 
 #WLB(PTR, $00000A34)
 
 #WHB(PTR, $00000A35)
+
 
 <$00><$13>
 //（死刑がなくなって、お前たちは幸せか…
@@ -354,14 +327,12 @@ WORST PART ABOUT
 LIVING HERE!
 <$00>
 
-
-
-
 // Pos: 00002CD6
 
 #WLB(PTR, $00000A44)
 
 #WHB(PTR, $00000A45)
+
 
 <$00><$13>
 //（酒場の手前にある屋根の崩れた部屋あるだろう、\n昔は処刑室だったところだ。
@@ -396,14 +367,12 @@ ELECTRICITY ON\n
 PURPOSE.
 <$00>
 
-
-
-
 // Pos: 00002D86
 
 #WLB(PTR, $00000A54)
 
 #WHB(PTR, $00000A55)
+
 
 <$00><$13>
 //（火星は小さな星だ。\nしかしお前たちにとっては\nとてつもなくデカイ星だ、忘れるな。
@@ -415,14 +384,12 @@ THE EYES OF THE\n
 UNIVERSE.
 <$00>
 
-
-
-
 // Pos: 00002DB8
 
 #WLB(PTR, $00000A64)
 
 #WHB(PTR, $00000A65)
+
 
 <$00><$13>
 //（今は行けなくなったが、\n記憶の谷からさらに下った自我の谷にも\nコロニーがあったぞ。
@@ -453,18 +420,15 @@ BY THE TIME THE FEW\n
 SURVIVORS WHO FLED\n
 ARRIVED TO PRISON 4,
 <$0C>
-THEY HAD ALL GONE\n
-MAD.
+THEY HAD ALL GONE MAD.
 <$00>
-
-
-
 
 // Pos: 00002E6A
 
 #WLB(PTR, $00000A74)
 
 #WHB(PTR, $00000A75)
+
 
 <$00><$13>
 //（お前たちがなにかを成しとげることなど、\n誰も期待しない。
@@ -478,14 +442,12 @@ PLANET IS DIE A SLOW\n
 DEATH.
 <$00>
 
-
-
-
 // Pos: 00002EA0
 
 #WLB(PTR, $00000A84)
 
 #WHB(PTR, $00000A85)
+
 
 <$00><$13>
 //（地球化計画が始まったのは１０年前だ。\n火星に住む流刑者たちによって\n酸索坑道のエ事が進められた。
@@ -514,14 +476,12 @@ MUST HAVE BEEN TO\n
 BLAME.
 <$00>
 
-
-
-
 // Pos: 00002F55
 
 #WLB(PTR, $00000A94)
 
 #WHB(PTR, $00000A95)
+
 
 <$00><$13>
 //（変化！ 変化こそお前たちにとっては福音だ。\nだがプリズン４にとってはただの災いだ。
@@ -532,14 +492,12 @@ IT WAS ONLY HELL FOR
 PRISON 4.
 <$00>
 
-
-
-
 // Pos: 00002F89
 
 #WLB(PTR, $00000AA4)
 
 #WHB(PTR, $00000AA5)
+
 
 <$00><$13>
 //（前に調査隊がやってきたのも１０年前だ。\nなんでも１０年前だな。\nそのときの隊長がガリルだ。
@@ -557,7 +515,8 @@ EXISTENCE OF EVIL
 <$0C>
 MIND. IN HINDSIGHT,\n
 IT'S AS IF HE\n
-INTENDED TO WEAPONIZE\n
+INTENDED TO WEAPONIZE
+<$0C>
 IT.
 <$0C>
 //イーブルマインドをさぐるうちに、とうに\n死んだ流刑者が残した預言に触れたらしい。\n世界の再生を語る預言だ。
@@ -570,14 +529,12 @@ PROPECHY OF WORLD\n
 REBIRTH.
 <$00>
 
-
-
-
 // Pos: 0000303C
 
 #WLB(PTR, $00000AB4)
 
 #WHB(PTR, $00000AB5)
+
 
 <$00><$13>
 //（お前たちは一人前だ…\nなぜなら息をしてるからだ！
@@ -595,14 +552,12 @@ THERE AND GATHER THE
 STONES!
 <$00>
 
-
-
-
 // Pos: 0000307A
 
 #WLB(PTR, $00000AC4)
 
 #WHB(PTR, $00000AC5)
+
 
 <$00><$13>
 //（火星の酸索は酸索石によって供給されてる。\n酸索石を掘り出してミキサーにかけて、\nそれで酸索を取り出す。 簡単なことだ。
@@ -630,14 +585,12 @@ PLANET HAS BEEN\n
 REBORN.
 <$00>
 
-
-
-
 // Pos: 00003113
 
 #WLB(PTR, $00000AD4)
 
 #WHB(PTR, $00000AD5)
+
 
 <$00><$13>
 //（迷いは苦悩の母だ。\n迷いから自由になれば真の存在となれるだろう。\n
@@ -649,14 +602,12 @@ BECOME A TRUE\n
 EXISTENCE.\n
 <$00>
 
-
-
-
 // Pos: 00003142
 
 #WLB(PTR, $00000AE4)
 
 #WHB(PTR, $00000AE5)
+
 
 <$00><$13>
 //（お前たちは葉っぱではない。\nただ散る日を待つ身ではない、\n自らの意志の元にあるのだ。
@@ -679,14 +630,12 @@ YOUR DESIRE IS WHAT\n
 WILL OPEN THAT DOOR.
 <$00>
 
-
-
-
 // Pos: 000031C2
 
 #WLB(PTR, $00000AF4)
 
 #WHB(PTR, $00000AF5)
+
 
 <$00><$13>
 //（肉体と精神は向き合っているのではない、\n肉体が精神を閉じ込めているのだ。
@@ -697,14 +646,12 @@ ANOTHER. FLESH TRAPS
 THE SOUL.
 <$00>
 
-
-
-
 // Pos: 000031F6
 
 #WLB(PTR, $00000B04)
 
 #WHB(PTR, $00000B05)
+
 
 <$00><$13>
 //（この世界は何だ、天国かそれとも地獄か。\nそれはお前たちが身をもって\n体験しているだろう。
@@ -740,14 +687,12 @@ TO THE WORLD AND
 BEHOLD IT.
 <$00>
 
-
-
-
 // Pos: 000032BD
 
 #WLB(PTR, $00000B14)
 
 #WHB(PTR, $00000B15)
+
 
 <$00><$13>
 //（死は終わりではない、始まりなのだ。\n死を乗り越えた先をめざさねばならない。
@@ -759,14 +704,12 @@ ASCEND TO THE SUMMIT\n
 BEYOND DEATH.
 <$00>
 
-
-
-
 // Pos: 000032ED
 
 #WLB(PTR, $00000B24)
 
 #WHB(PTR, $00000B25)
+
 
 <$00><$13>
 //（生は始まりか？ そうだとするなら、\n苦悩の始まりといっておこう。
@@ -797,14 +740,12 @@ THAT THRESHOLD ARE\n
 COMING.
 <$00>
 
-
-
-
 // Pos: 00003383
 
 #WLB(PTR, $00000B38)
 
 #WHB(PTR, $00000B39)
+
 
 <$00><$13>
 //（再生だ、再生の時だ。\n世界は喜びにあふれ、光が闇を消すだろう！
@@ -816,14 +757,12 @@ AND DARKNESS WILL\n
 BURN IN HIS LIGHT.
 <$00>
 
-
-
-
 // Pos: 000033B1
 
 #WLB(PTR, $00000B48)
 
 #WHB(PTR, $00000B49)
+
 
 <$00><$13>
 //（肉体をぬぎすてたとき、\nお前たちは自由になれる。
@@ -850,14 +789,12 @@ THEIR WARM CRADLES OF\n
 SUFFERING.
 <$00>
 
-
-
-
 // Pos: 00003422
 
 #WLB(PTR, $00000B64)
 
 #WHB(PTR, $00000B65)
+
 
 <$00><$13>
 //（あああ… 言葉はかなり忘れた。
@@ -875,7 +812,4 @@ BARK.
 I'M OUT OF THINGS TO\n
 SAY. BARK, BARK.
 <$00>
-
-
-
 

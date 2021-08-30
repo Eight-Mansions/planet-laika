@@ -36,9 +36,6 @@ were lying to keep us\n
 out, do you?
 <$00>
 
-
-
-
 // Pos: 00002B0B
 
 #WLB(PTR, $00000650)
@@ -77,9 +74,6 @@ ex-vanguard units\n
 live there in hiding.
 <$00>
 
-
-
-
 // Pos: 00002B7F
 
 #WLB(PTR, $000006E8)
@@ -107,9 +101,6 @@ we be up on Yosemite\n
 Plateau?
 <$00>
 
-
-
-
 // Pos: 00002BC0
 
 #WLB(PTR, $000006FC)
@@ -123,13 +114,8 @@ Captain Tatler:
 //\nヌーン、どうなんだ、\nコロニーまでは遠いのか？
 \n
 Yeah, Noon!\n
-Where the hell are
-<$0C>
-we?
+Where the hell are we?
 <$00>
-
-
-
 
 // Pos: 00002BE6
 
@@ -157,9 +143,6 @@ that trails up to
 Yosemite Plateau.
 <$00>
 
-
-
-
 // Pos: 00002C27
 
 #WLB(PTR, $00000724)
@@ -178,9 +161,6 @@ through the Inductive
 Hills... "Inductive,"\n
 what a crock.
 <$00>
-
-
-
 
 // Pos: 00002C57
 
@@ -209,9 +189,6 @@ based on overlaps of\n
 varied observations.
 <$00>
 
-
-
-
 // Pos: 00002C9C
 
 #WLB(PTR, $00000858)
@@ -229,9 +206,6 @@ might have to save
 <$0C>
 the lesson for later.
 <$00>
-
-
-
 
 // Pos: 00002CC7
 
@@ -252,9 +226,6 @@ Hills, we'll find the\n
 colony?
 <$00>
 
-
-
-
 // Pos: 00002CF4
 
 #WLB(PTR, $00000880)
@@ -270,12 +241,8 @@ Noon:
 Yeah, that's right.\n
 And then, we tell
 <$0C>
-them we're from\n
-Earth.
+them we're from Earth.
 <$00>
-
-
-
 
 // Pos: 00002D1B
 
@@ -290,13 +257,11 @@ Captain Tatler:
 //\nよし、コロニーをめざす。\nさぁ出発だ、準備はいいな。
 \n
 Okay then, we're off\n
-to the colony.\n
+to the colony.
+<$0C>
 Is everyone ready to\n
 go?
 <$00>
-
-
-
 
 // Pos: 00002D47
 
@@ -313,9 +278,6 @@ Captain Tatler:
 Noon, double-check\n
 Laika's equipment.
 <$00>
-
-
-
 
 // Pos: 00002D6A
 
@@ -346,9 +308,6 @@ beating out of the
 old chest, no doubt.
 <$00>
 
-
-
-
 // Pos: 00002DAE
 
 #WLB(PTR, $00000A1C)
@@ -375,9 +334,6 @@ want to reach the
 colony before dark.
 <$00>
 
-
-
-
 // Pos: 00002DF8
 
 #WLB(PTR, $00000B98)
@@ -393,9 +349,6 @@ colony before dark.
 Don't stray from the\n
 group.
 <$0E><$0F><$17><$00>
-
-
-
 
 // Pos: 00002E16
 
@@ -413,9 +366,6 @@ Also, watch out for\n
 Evil Mind.
 <$0E><$0F><$17><$00>
 
-
-
-
 // Pos: 00002E3C
 
 #WLB(PTR, $00000BC4)
@@ -430,9 +380,6 @@ Evil Mind.
 \n
 What's "Evil Mind"?
 <$0E><$0F><$17><$00>
-
-
-
 
 // Pos: 00002E57
 
@@ -452,9 +399,6 @@ you don't want to
 touch. It's the\n
 malice of Mars.
 <$0E><$0F><$17><$00>
-
-
-
 
 // Pos: 00002E86
 
@@ -476,9 +420,6 @@ makes them do the\n
 unthinkable.
 <$0E><$0F><$17><$00>
 
-
-
-
 // Pos: 00002EBF
 
 #WLB(PTR, $00000C00)
@@ -497,9 +438,6 @@ lovely... What the
 BLOODY HELL did I get\n
 myself into?!
 <$0E><$0F><$17><$00>
-
-
-
 
 // Pos: 00002EDB
 
@@ -527,9 +465,6 @@ our guide. You should
 have a clearer idea!
 <$00>
 
-
-
-
 // Pos: 00002F1C
 
 #WLB(PTR, $00000390)
@@ -543,9 +478,7 @@ Captain Tatler:
 //\nヌーン、どうなんだ、\nコロニーまでは遠いのか？
 \n
 Yeah, Noon!\n
-Where the hell are
-<$0C>
-we?
+Where the hell are we?
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -558,9 +491,6 @@ wandering like this
 if you didn't mess us\n
 all up.
 <$00>
-
-
-
 
 // Pos: 00002F73
 
@@ -598,9 +528,6 @@ you'll get to try 'er
 <$0C>
 delicious pancakes!
 <$00>
-
-
-
 
 // Pos: 00002FDC
 
@@ -646,9 +573,6 @@ There's no one here\n
 to see us.
 <$00>
 
-
-
-
 // Pos: 0000305B
 
 #WLB(PTR, $000003CC)
@@ -680,9 +604,6 @@ and don't catch her,\n
 she giggles.
 <$00>
 
-
-
-
 // Pos: 000030C0
 
 #WLB(PTR, $000003E0)
@@ -710,9 +631,6 @@ welcome us with open\n
 arms.
 <$00>
 
-
-
-
 // Pos: 000030FC
 
 #WLB(PTR, $000003F4)
@@ -726,7 +644,8 @@ Captain Tatler:
 //\nよし、クロエちゃんに会いに行く。\nさぁ出発だ、準備はいいな。
 \n
 Okay then, I'm off to\n
-see my Chloe.\n
+see my Chloe.
+<$0C>
 Is everyone ready to\n
 go?
 <$0C><$0B>
@@ -738,9 +657,6 @@ Captain Tatler:
 Noon, double-check\n
 Laika's equipment.
 <$00>
-
-
-
 
 // Pos: 00003150
 
@@ -761,9 +677,6 @@ and an 'elmet on\n
 their dome.
 <$00>
 
-
-
-
 // Pos: 00003180
 
 #WLB(PTR, $00000430)
@@ -779,7 +692,4 @@ Noon:
 But...this isn't\n
 Laika!
 <$00>
-
-
-
 

@@ -27,9 +27,6 @@ describe them!
 理
 <$00>
 
-
-
-
 // Pos: 00004595
 
 #WLB(PTR, $000002C4)
@@ -59,9 +56,6 @@ coming! Something's\n
 coming!
 <$00>
 
-
-
-
 // Pos: 000045D8
 
 #WLB(PTR, $00000104)
@@ -75,8 +69,7 @@ now. I shall send my\n
 wrath to reap all you
 <$0C>
 have sewn, that all\n
-deeds may know\n
-reward.
+deeds may know reward.
 <$0C>
 //終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
 The end is upon you!\n
@@ -89,27 +82,26 @@ upon you!
 <$05><$0C>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第四の預言を得た。
-So sayeth the fourth\n
-prophecy.
+So sayeth the\n
+fourth prophecy.
 <$00><$10>
 //\n
 \n
+
 <$0B>
 //      
-
+      
 <$0D>
 //第四の預言を得た。
-So sayeth the fourth\n
-prophecy.
+So sayeth the\n
+fourth prophecy.
 <$00>
-
-
-
 
 // Pos: 00004682
 
@@ -144,9 +136,6 @@ the deepest depths of\n
 Death.
 <$00>
 
-
-
-
 // Pos: 000046D8
 
 #WLB(PTR, $00000514)
@@ -176,9 +165,6 @@ nightmares, beyond
 all falsehood in the\n
 Land of the Dead.
 <$00>
-
-
-
 
 // Pos: 0000472D
 
@@ -210,9 +196,6 @@ for you are the Twins\n
 of Truth.
 <$00>
 
-
-
-
 // Pos: 0000478B
 
 #WLB(PTR, $00000580)
@@ -231,9 +214,6 @@ entrance to the
 nightmares. I may\n
 have an idea.
 <$00>
-
-
-
 
 // Pos: 000047C2
 
@@ -257,9 +237,6 @@ to describe them.
 理
 <$00>
 
-
-
-
 // Pos: 000047ED
 
 #WLB(PTR, $0000071C)
@@ -281,9 +258,6 @@ nightmare!
 //鋭
 鋭
 <$00>
-
-
-
 
 // Pos: 00004815
 
@@ -308,9 +282,6 @@ they're close.
 理
 <$00>
 
-
-
-
 // Pos: 00004862
 
 #WLB(PTR, $0000072C)
@@ -333,7 +304,4 @@ is a lie!
 //鋭
 鋭
 <$00>
-
-
-
 

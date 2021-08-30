@@ -24,9 +24,6 @@ on the wall. Let me\n
 see...
 <$00>
 
-
-
-
 // Pos: 000011F8
 
 #WLB(PTR, $000006A0)
@@ -67,12 +64,10 @@ she too had the
 <$0C>
 ability to travel\n
 from mirror to\n
-mirror, but it gets\n
+mirror, but it gets
+<$0C>
 hazy.
 <$00>
-
-
-
 
 // Pos: 000012AB
 
@@ -107,9 +102,6 @@ Yolanda:
 Oh! Uh, i-it's\n
 nothing! I'm good!
 <$00>
-
-
-
 
 // Pos: 000012FF
 
@@ -174,9 +166,6 @@ little metaphor from\n
 Revelations too!)
 <$00>
 
-
-
-
 // Pos: 000013CD
 
 #WLB(PTR, $000007E8)
@@ -193,12 +182,8 @@ No wonder everyone\n
 here's piss-scared of
 <$0C>
 mirrors. They don't\n
-want to see the\n
-truth.
+want to see the truth.
 <$00>
-
-
-
 
 // Pos: 00001401
 
@@ -253,9 +238,6 @@ reincarnation? I dare\n
 say, I am confused.
 <$00>
 
-
-
-
 // Pos: 000014B3
 
 #WLB(PTR, $000007F8)
@@ -275,9 +257,6 @@ what me and the guys\n
 are.
 <$00>
 
-
-
-
 // Pos: 000014DA
 
 #WLB(PTR, $0000082C)
@@ -290,7 +269,8 @@ are.
 //\n問顆は心も欲しがるかということだ。
 \n
 What is Amanda\n
-searching for?\n
+searching for?
+<$0C>
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -326,12 +306,10 @@ the hazier
 <$0C>
 and...hazier my mind\n
 gets...\n
-("Thomas! Where are\n
+("Thomas! Where are
+<$0C>
 you going?!")
 <$00>
-
-
-
 
 // Pos: 000015A4
 
@@ -362,7 +340,4 @@ don't care what\n
 someone says, you\n
 can't take a mind.
 <$00>
-
-
-
 

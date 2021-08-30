@@ -12,14 +12,11 @@
 #WHB(PTR, $00000219)
 
 //所     
-所
+所     
 <$0D>
 //地球から来たのか？
 You came from Earth?
 <$00>
-
-
-
 
 // Pos: 00003C33
 
@@ -38,9 +35,6 @@ travel companions are
 <$0C>
 missing...
 <$00>
-
-
-
 
 // Pos: 00003C57
 
@@ -61,9 +55,6 @@ ill will of the\n
 planet.
 <$00>
 
-
-
-
 // Pos: 00003C7F
 
 #WLB(PTR, $00000364)
@@ -79,9 +70,6 @@ April:
 The ill will of the\n
 planet?
 <$00>
-
-
-
 
 // Pos: 00003C91
 
@@ -107,13 +95,8 @@ White Eagle:
 //\n星の邪気と言ってもいいじゃろう。
 \n
 It's a fitting name\n
-for Mars's malice,
-<$0C>
-no?
+for Mars's malice, no?
 <$00>
-
-
-
 
 // Pos: 00003CE9
 
@@ -143,9 +126,6 @@ is what got to Col.
 Galil as well.
 <$00>
 
-
-
-
 // Pos: 00003D2F
 
 #WLB(PTR, $000003A0)
@@ -174,9 +154,6 @@ final piece, you
 understand.
 <$00>
 
-
-
-
 // Pos: 00003D84
 
 #WLB(PTR, $000003B4)
@@ -196,9 +173,6 @@ significance of this\n
 "final piece"?
 <$00>
 
-
-
-
 // Pos: 00003DA4
 
 #WLB(PTR, $000003C8)
@@ -214,9 +188,6 @@ White Eagle:
 Do you know the tale\n
 of the Black Rider?
 <$00>
-
-
-
 
 // Pos: 00003DC5
 
@@ -247,9 +218,6 @@ death and ruin to the\n
 world.
 <$00>
 
-
-
-
 // Pos: 00003E0A
 
 #WLB(PTR, $0000046C)
@@ -260,22 +228,21 @@ world.
 葉誰ろ
 <$0B>
 //   
-
+   
 <$0D>
 //現れたのじゃ、ここ火星にな。\n
-And he has since\n
-crossed Mars,\n
+And he has\n
+since crossed Mars,\n
+
 <$0B>
 // 
-
+ 
 <$0D>
 //黒い騎士がほうぼうで悪を吸い集めておる。\n
-calling on ghastly\n
+calling on ghastly
+<$0C>
 evils to join him.\n
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 00003E47
 
@@ -284,22 +251,21 @@ evils to join him.\n
 #WHB(PTR, $0000047D)
 
 //葉子   
-葉子
+葉子 
 <$0D>
 //黒い騎士が完全な悪になったその時、\n
 When he becomes\n
 wholly evil,\n
+
 <$0B>
 //      
-
+      
 <$0D>
 //世界は終わるのじゃ。
-the world will meet\n
-its end.
+the world will
+<$0C>
+meet its end.
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 00003E80
 
@@ -308,21 +274,20 @@ its end.
 #WHB(PTR, $0000048D)
 
 //葉子      
-葉子
+葉子 
 <$0D>
 //蕃判の時じゃのう、\n
-The hour of Judgement\n
-is near.\n
+The hour of\n
+Judgement is near.\n
+
 <$0B>
 //   
 <$0D>
 //ふほ、この星の宿命なのじゃのう。
-This is the planet's\n
+This is the planet's
+<$0C>
 destiny!
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 00003EB4
 
@@ -338,9 +303,6 @@ destiny!
 Destiny? Judgement?\n
 How...prophetic.
 <$0E><$5A><$17><$00>
-
-
-
 
 // Pos: 00003EDC
 
@@ -360,9 +322,6 @@ is! Do you know about
 the prophecies?!
 <$00>
 
-
-
-
 // Pos: 00003F0D
 
 #WLB(PTR, $00000558)
@@ -380,7 +339,8 @@ Earth received
 <$0C>
 strange rumors\n
 halting the\n
-terraformation\n
+terraformation
+<$0C>
 project.
 <$0C><$0B>
 //エイプリル：
@@ -395,9 +355,6 @@ maybe find out what\n
 happened to Colonel\n
 Galil.
 <$00>
-
-
-
 
 // Pos: 00003F8F
 
@@ -430,9 +387,6 @@ absolutely should not\n
 have it!
 <$00>
 
-
-
-
 // Pos: 00003FE5
 
 #WLB(PTR, $00000580)
@@ -451,9 +405,6 @@ a good thing? Or are
 you scared for the\n
 public order?
 <$00>
-
-
-
 
 // Pos: 00004012
 
@@ -475,9 +426,6 @@ cannot afford to come\n
 here.
 <$00>
 
-
-
-
 // Pos: 00004047
 
 #WLB(PTR, $000005A8)
@@ -493,9 +441,6 @@ April:
 But there are good\n
 people too, sir!
 <$00>
-
-
-
 
 // Pos: 00004061
 
@@ -527,9 +472,6 @@ and evil exist in a\n
 strict balance.
 <$00>
 
-
-
-
 // Pos: 000040BF
 
 #WLB(PTR, $000005D0)
@@ -548,9 +490,6 @@ saying is, you don't
 trust anyone to be\n
 good.
 <$00>
-
-
-
 
 // Pos: 000040E4
 
@@ -572,9 +511,6 @@ good, or are they\n
 evil?
 <$00>
 
-
-
-
 // Pos: 00004118
 
 #WLB(PTR, $0000062C)
@@ -592,9 +528,6 @@ can say that much. Is
 <$0C>
 that enough for you?!
 <$00>
-
-
-
 
 // Pos: 00004143
 
@@ -615,9 +548,6 @@ now, and bear witness\n
 with your own eyes.
 <$00>
 
-
-
-
 // Pos: 00004171
 
 #WLB(PTR, $00000654)
@@ -632,9 +562,6 @@ April:
 \n
 Go now? But where?
 <$00>
-
-
-
 
 // Pos: 00004182
 
@@ -651,9 +578,6 @@ White Eagle:
 To Valles Memoriae.
 <$00>
 
-
-
-
 // Pos: 0000419A
 
 #WLB(PTR, $0000067C)
@@ -668,9 +592,6 @@ April:
 \n
 Where is that?
 <$00>
-
-
-
 
 // Pos: 000041AD
 
@@ -691,9 +612,6 @@ wall that opens to\n
 the valley.
 <$00>
 
-
-
-
 // Pos: 000041F2
 
 #WLB(PTR, $000006C8)
@@ -712,9 +630,6 @@ Road? All right.
 Thank you very much.
 <$00>
 
-
-
-
 // Pos: 00004213
 
 #WLB(PTR, $00000724)
@@ -731,9 +646,6 @@ O, Rose! Thou art\n
 sick!
 <$00>
 
-
-
-
 // Pos: 00004232
 
 #WLB(PTR, $00000770)
@@ -748,9 +660,6 @@ April:
 \n
 ...?
 <$00>
-
-
-
 
 // Pos: 0000423E
 
@@ -771,9 +680,6 @@ through the black\n
 wall.
 <$00>
 
-
-
-
 // Pos: 00004262
 
 #WLB(PTR, $00000798)
@@ -787,12 +693,10 @@ April:
 //\nおお、ばらよ！お前は病んでいる！\n…これでいいのね。
 \n
 "O, Rose! Thou art\n
-sick!"\n
+sick!"
+<$0C>
 I'll try to remember.
 <$00>
-
-
-
 
 // Pos: 00004288
 
@@ -808,9 +712,6 @@ White Eagle:
 \n
 Haww...
 <$00>
-
-
-
 
 // Pos: 0000429B
 
@@ -829,9 +730,6 @@ Let's go to the black
 <$0C>
 wall on Brick Road.
 <$00>
-
-
-
 
 // Pos: 000042C1
 
@@ -855,9 +753,6 @@ Let's go to the black
 wall on Brick Road.
 <$00>
 
-
-
-
 // Pos: 000042E7
 
 #WLB(PTR, $00003BB4)
@@ -876,9 +771,6 @@ Personality
 integration can be a\n
 scary thing.
 <$00>
-
-
-
 
 // Pos: 00004314
 
@@ -899,9 +791,6 @@ to personalities\n
 after they integrate.
 <$00>
 
-
-
-
 // Pos: 00004349
 
 #WLB(PTR, $00003BBC)
@@ -916,9 +805,6 @@ Spacer:
 \n
 Would I...disappear?
 <$00>
-
-
-
 
 // Pos: 00004361
 
@@ -938,7 +824,4 @@ whether you exist in
 the first place,\n
 hyohyohyo!
 <$00>
-
-
-
 

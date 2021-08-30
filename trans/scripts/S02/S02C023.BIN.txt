@@ -18,13 +18,8 @@ Ernest:
 //\nお宝だ…へへへ…俺のお宝…
 \n
 Treasure...\n
-Hehehe, my
-<$0C>
-treasure...
+Hehehe, my treasure...
 <$00>
-
-
-
 
 // Pos: 00002145
 
@@ -35,15 +30,13 @@ treasure...
 <$10>
 //\n
 \n
+
 <$0B>
 //      
 <$0D>
 //白い石を手に入れた。
 White Stone acquired.
 <$00>
-
-
-
 
 // Pos: 0000215E
 
@@ -63,9 +56,6 @@ but I'm not breaking
 a sweat to grab it.
 <$00>
 
-
-
-
 // Pos: 00002180
 
 #WLB(PTR, $00000BB8)
@@ -84,9 +74,6 @@ there, but I can't
 force it out.
 <$00>
 
-
-
-
 // Pos: 000021A2
 
 #WLB(PTR, $00000620)
@@ -99,18 +86,15 @@ The item bag is full!
 <$00><$00><$13><$13>
 //\n
 \n
+
 <$0B>
 //   
-
+   
 <$0D>
 //お宝だ… へへへ… 俺のお宝…
 Treasure...\n
-Hehehe, my\n
-treasure...
+Hehehe, my treasure...
 <$00>
-
-
-
 
 // Pos: 000021CB
 
@@ -122,28 +106,28 @@ treasure...
 離
 <$13><$0B>
 //    
-
+    
 <$0D>
 //おうおう、俺の石だ、お宝だ、\n
 Hey! This is my\n
 treasure.\n
+
 <$0B>
 //     
 <$0D>
 //これは俺が見つけたんだ、\n
-I found this stone.\n
+I found this stone.
+<$0C>
 Me!\n
+
 <$0B>
 //     
-
+     
 <$0D>
 //手を出すな、ちくしょう！
-Get your mangy hands\n
-off it!
+Get your mangy\n
+hands off it!
 <$00>
-
-
-
 
 // Pos: 0000220F
 
@@ -152,15 +136,13 @@ off it!
 #WHB(PTR, $000007BD)
 
 //背   さっきは悪かったな、ええ？\n     あやまるよ、ほんとさ。\n    おわびに、ほら、これをやる。
-背 Aww, that was wrong\n
-of me.\n
-I'm sorry. Really!\n
-Here, you take\n
+背   Aww, that was\n
+wrong of me.\n
+   I'm sorry. Really!
+<$0C>
+   Here, you take\n
 this...
 <$00>
-
-
-
 
 // Pos: 00002246
 
@@ -177,9 +159,6 @@ pie!\n
 It's perfect for you!
 <$00>
 
-
-
-
 // Pos: 00002275
 
 #WLB(PTR, $000007F8)
@@ -189,13 +168,10 @@ It's perfect for you!
 //背   男の腐ったやつに腐ったパイだ、\n     ははははは、ぴったりだろ、\n   ああ臭ぇ、お前も同じ臭いがするぜ！
 背Rotten pie for a\n
 rotten kid!\n
-Hahaha, you even
+     Hahaha, you even
 <$0C>
 smell stale!\n
-Eat your "just\n
+     Eat your "just\n
 desserts"!
 <$00>
-
-
-
 

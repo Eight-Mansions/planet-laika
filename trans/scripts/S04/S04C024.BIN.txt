@@ -28,9 +28,6 @@ look around.
 çs
 <$00>
 
-
-
-
 // Pos: 000014B2
 
 #WLB(PTR, $00000BF0)
@@ -48,15 +45,13 @@ impatient now. I just
 <$0C>
 saw Little rushing\n
 out of the oxygen\n
-dispensary. What\n
+dispensary. What
+<$0C>
 happened?
 <$1E>
 //óù
 óù
 <$00>
-
-
-
 
 // Pos: 00001500
 
@@ -91,9 +86,6 @@ like the Venusians.
 óù
 <$00>
 
-
-
-
 // Pos: 00001571
 
 #WLB(PTR, $00000BB8)
@@ -127,9 +119,6 @@ at night.
 ê∫
 <$00>
 
-
-
-
 // Pos: 000015C5
 
 #WLB(PTR, $00000C4C)
@@ -151,7 +140,4 @@ either...
 //ê∫
 ê∫
 <$00>
-
-
-
 
