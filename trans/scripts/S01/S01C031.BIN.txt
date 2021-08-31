@@ -287,6 +287,180 @@ the monitor! It's
 from Earth!
 <$00>
 
+// Pos: 00003D68
+
+#WLB(PTR, $00000B9C)
+
+#WHB(PTR, $00000B9D)
+
+<$10><$0B>
+//タトラー船長：
+Captain Tatler:
+<$0D>
+//\nいつまでそこにいる？
+\n
+How long have you\n
+been dawdling there?
+<$0C><$0B>
+//タトラー船長：
+Captain Tatler:
+<$0D>
+//\n私をいらいらさせないでくれ。\n着陸準備にかかるんだ。
+\n
+Don't bust my chops\n
+now.
+<$0C>
+Go prepare for\n
+landing.
+<$00>
+
+// Pos: 00003DAB
+
+#WLB(PTR, $00000D5C)
+
+#WHB(PTR, $00000D5D)
+
+//離か
+離か
+<$0E><$0F><$14><$01>
+//メッセージはありません。
+THERE ARE NO MESSAGES.
+<$00>
+
+// Pos: 00003F22
+
+#WLB(PTR, $00000A3C)
+
+#WHB(PTR, $00000A3D)
+
+
+<$00><$13>
+//け
+け
+<$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nライカ君、この男を知っているかね。
+\n
+Laika, do you\n
+recognize this man?
+<$00>
+
+// Pos: 00003F49
+
+#WLB(PTR, $00000AC0)
+
+#WHB(PTR, $00000AC1)
+
+<$10>
+//ガリル大佐、先遣隊のリーダーだ。
+That's Colonel Galil,\n
+former leader of the\n
+vanguard unit from
+<$0C>
+Earth's previous\n
+mission to Mars.
+<$00>
+
+// Pos: 00003F60
+
+#WLB(PTR, $00000D20)
+
+#WHB(PTR, $00000D21)
+
+
+<$00><$13><$16><$0E><$0F>
+//ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
+Hyohyo, I can feel\n
+you! You're so close\n
+already! Its so
+<$0C>
+potent, hyo!
+<$00>
+
+// Pos: 00003FC0
+
+#JMP($00003FC0)
+
+
+
+// Pos: 00003DBF
+
+#WLB(PTR, $00000A18)
+
+#WHB(PTR, $00000A19)
+
+//問け
+問け
+<$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nライカ君だね… 私はオクトーバー、\n今回の任務の司令官を務める。
+\n
+Greetings, Laika. Is\n
+that you? This is
+<$0C>
+October, your mission\n
+commander.
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\n君を調査隊にすすめたのは実は私なんだ。\n君の働きには期待しているからね。
+\n
+I personally\n
+recommended you for
+<$0C>
+this survey unit.\n
+Thank you for coming\n
+aboard.
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nさて、君たちが向かう火星だが、\nどうも様子がおかしいんだ。
+\n
+Actually, I have a\n
+small errand for you.
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
+\n
+See, "face-shaped\n
+creatures" on Mars
+<$0C>
+have those on the\n
+planet fearing the\n
+supposed End Times.
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\nこれから地球化計画を再開するにあたって、\nそんなブッソウなことではいかん。
+\n
+Obviously, we won't\n
+allow baseless
+<$0C>
+conjecture to\n
+interrupt our\n
+terraformation plans,
+<$0C><$0B>
+//オクトーバー司令官：
+Commander October:
+<$0D>
+//\n君たちの任務はうわさの真相を\n突き止めることなんだ。
+\n
+but I formally ask\n
+that you help find
+<$0C>
+the source of the\n
+rumors.
+<$00>
+
 // Pos: 00003C25
 
 #WLB(PTR, $00000B50)
@@ -375,173 +549,5 @@ just to make sure
 everything's as safe\n
 enough to terraform,\n
 and report back.
-<$00>
-
-// Pos: 00003D68
-
-#WLB(PTR, $00000B9C)
-
-#WHB(PTR, $00000B9D)
-
-<$10><$0B>
-//タトラー船長：
-Captain Tatler:
-<$0D>
-//\nいつまでそこにいる？
-\n
-How long have you\n
-been dawdling there?
-<$0C><$0B>
-//タトラー船長：
-Captain Tatler:
-<$0D>
-//\n私をいらいらさせないでくれ。\n着陸準備にかかるんだ。
-\n
-Don't bust my chops\n
-now.
-<$0C>
-Go prepare for\n
-landing.
-<$00>
-
-// Pos: 00003DAB
-
-#WLB(PTR, $00000D5C)
-
-#WHB(PTR, $00000D5D)
-
-//離か
-離か
-<$0E><$0F><$14><$01>
-//メッセージはありません。
-THERE ARE NO MESSAGES.
-<$00>
-
-// Pos: 00003DBF
-
-#WLB(PTR, $00000A18)
-
-#WHB(PTR, $00000A19)
-
-//問け
-問け
-<$0B>
-//オクトーバー司令官：
-Commander October:
-<$0D>
-//\nライカ君だね… 私はオクトーバー、\n今回の任務の司令官を務める。
-\n
-Greetings, Laika. Is\n
-that you? This is
-<$0C>
-October, your mission\n
-commander.
-<$0C><$0B>
-//オクトーバー司令官：
-Commander October:
-<$0D>
-//\n君を調査隊にすすめたのは実は私なんだ。\n君の働きには期待しているからね。
-\n
-I personally\n
-recommended you for
-<$0C>
-this survey unit.\n
-Thank you for coming\n
-aboard.
-<$0C><$0B>
-//オクトーバー司令官：
-Commander October:
-<$0D>
-//\nさて、君たちが向かう火星だが、\nどうも様子がおかしいんだ。
-\n
-Actually, I have a\n
-small errand for you.
-<$0C><$0B>
-//オクトーバー司令官：
-Commander October:
-<$0D>
-//\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
-\n
-See, "face-shaped\n
-creatures" on Mars
-<$0C>
-have those on the\n
-planet fearing the\n
-supposed End Times.
-<$0C><$0B>
-//オクトーバー司令官：
-Commander October:
-<$0D>
-//\nこれから地球化計画を再開するにあたって、\nそんなブッソウなことではいかん。
-\n
-Obviously, we won't\n
-allow baseless
-<$0C>
-conjecture to\n
-interrupt our\n
-terraformation plans,
-<$0C><$0B>
-//オクトーバー司令官：
-Commander October:
-<$0D>
-//\n君たちの任務はうわさの真相を\n突き止めることなんだ。
-\n
-but I formally ask\n
-that you help find
-<$0C>
-the source of the\n
-rumors.
-<$00>
-
-// Pos: 00003F22
-
-#WLB(PTR, $00000A3C)
-
-#WHB(PTR, $00000A3D)
-
-
-<$00><$13>
-//け
-け
-<$0B>
-//オクトーバー司令官：
-Commander October:
-<$0D>
-//\nライカ君、この男を知っているかね。
-\n
-Laika, do you\n
-recognize this man?
-<$00>
-
-// Pos: 00003F49
-
-#WLB(PTR, $00000AC0)
-
-#WHB(PTR, $00000AC1)
-
-<$10>
-//ガリル大佐、先遣隊のリーダーだ。
-That's Colonel Galil,\n
-former leader of the\n
-vanguard unit from
-<$0C>
-Earth's previous\n
-mission to Mars.
-<$00>
-
-// Pos: 00003F60
-
-#WLB(PTR, $00000D20)
-
-#WHB(PTR, $00000D21)
-
-
-<$00><$13><$16><$0E><$0F>
-//ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
-Hyohyo, I can feel\n
-you! You're so close\n
-already! Its so
-<$0C>
-potent, hyo!
 <$00>
 
