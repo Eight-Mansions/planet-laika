@@ -34,7 +34,8 @@ snoopin' around?!
 April:
 <$0D>
 //\n知ってるの？ ライカのこと。
-nDo you know Laika?
+\n
+Do you know Laika?
 <$00>
 
 // Pos: 00001F58
@@ -148,8 +149,10 @@ YOU abandoned!
 Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-nPROVING, see,\n
-that you are NOT so\n
+\n
+PROVING, see, that\n
+you are NOT so
+<$0C>
 indispensible, got it?
 <$0C><$0B>
 //リトル：

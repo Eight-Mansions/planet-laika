@@ -19757,7 +19757,7 @@ Little:
 April:
 <$0D>
 //\n知ってるの？ ライカのこと。
-nDo you know Laika?
+\nDo you know Laika?
 <$00>
 
 //F:orig\S04\S04C092.BIN
@@ -19819,7 +19819,7 @@ Little:
 Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-nPROVING, see, that you are NOT so indispensible, got it?
+\nPROVING, see, that you are NOT so indispensible, got it?
 <$0C><$0B>
 //リトル：
 Little:
