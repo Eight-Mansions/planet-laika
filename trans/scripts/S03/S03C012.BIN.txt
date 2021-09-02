@@ -211,12 +211,17 @@ old password.
 #WHB(PTR, $00000B29)
 
 <$10><$0B>
-エイプリル：
+//エイプリル：
+April:
 <$0D>
-\n閉まってたわ。\nホワイトイーグルに教えてもらったのよ。
+//\n閉まってたわ。\nホワイトイーグルに教えてもらったのよ。
+\n
+We're sorry for\n
+scaring you. White
+<$0C>
+Eagle told us your\n
+password.
 <$00>
-
-
 
 // Pos: 000026AA
 

@@ -354,24 +354,6 @@ He was always my
 friend.
 <$00>
 
-// Pos: 00002EAA
-
-#WLB(PTR, $00001930)
-
-#WHB(PTR, $00001931)
-
-<$10><$13><$1D><$0B>
-//ヨランダ：
-Yolanda:
-<$0D>
-//\nそう。じゃあ、\nそのお友達のところに案内してよ。
-\n
-There! We! Go! Take\n
-us to where your
-<$0C>
-"friend" is!
-<$00>
-
 // Pos: 00002ED2
 
 #WLB(PTR, $00001A08)
@@ -404,6 +386,30 @@ April:
 \n
 You're...Laika,\n
 aren't you?
+<$00>
+
+// Pos: 00003130
+
+#JMP($00003130)
+
+
+
+// Pos: 00002EAA
+
+#WLB(PTR, $00001930)
+
+#WHB(PTR, $00001931)
+
+<$10><$13><$1D><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>
+//\nそう。じゃあ、\nそのお友達のところに案内してよ。
+\n
+There! We! Go! Take\n
+us to where your
+<$0C>
+"friend" is!
 <$00>
 
 // Pos: 00002F0E
