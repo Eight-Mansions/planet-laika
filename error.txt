@@ -1,0 +1,6454 @@
+ins\S01\S01C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 30 msecs
+Warning: Invalid command  on line 1240
+Parsing - 0 error(s), 1 warning(s)
+
+Insertion summary: 122 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3324
+|   End: Line 1313  File Position $3C08
++------------------------------------------------------------------------------
+| Script size 2276
+| Bytes Inserted 2276
+|
+| Command Execution Listing
+|   WHB: 104
+|   WLB: 104
+|
+| Pointer Listing
+|   General Pointers Written: 208
++------------------------------------------------------------------------------
+
+Execution time: 157 msecs
+ins\S01\S01C013.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 99 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $27FD
+|   End: Line 177  File Position $2AAA
++------------------------------------------------------------------------------
+| Script size 685
+| Bytes Inserted 685
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 120 msecs
+ins\S01\S01C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 13 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 109 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Block 1
+|   Start: Line 6  File Position $39A1
+|   End: Line 384  File Position $3F6E
++------------------------------------------------------------------------------
+| Script size 1485
+| Bytes Inserted 1485
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Block 2
+|   Start: Line 384  File Position $3FC0
+|   End: Line 541  File Position $44C1
++------------------------------------------------------------------------------
+| Script size 1281
+| Bytes Inserted 1281
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
++------------------------------------------------------------------------------
+| Total Statistics
+| Script Size 2766
+| Script Inserted 2766
+|
+| Command Execution Listing
+| JMP: 2
+| ADDTBL: 1
+| ACTIVETBL: 1
+| CREATEPTR: 1
+| WHB: 23
+| WLB: 23
+| General Pointers Written: 46
++------------------------------------------------------------------------------
+
+Execution time: 126 msecs
+ins\S01\S01C032.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 125 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3A29
+|   End: Line 444  File Position $445D
++------------------------------------------------------------------------------
+| Script size 2612
+| Bytes Inserted 2612
+|
+| Command Execution Listing
+|   WHB: 12
+|   WLB: 12
+|
+| Pointer Listing
+|   General Pointers Written: 24
++------------------------------------------------------------------------------
+
+Execution time: 140 msecs
+ins\S01\S01C033.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 112 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2D3E
+|   End: Line 345  File Position $326E
++------------------------------------------------------------------------------
+| Script size 1328
+| Bytes Inserted 1328
+|
+| Command Execution Listing
+|   WHB: 30
+|   WLB: 30
+|
+| Pointer Listing
+|   General Pointers Written: 60
++------------------------------------------------------------------------------
+
+Execution time: 130 msecs
+ins\S01\S01C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 110 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $349E
+|   End: Line 337  File Position $39FC
++------------------------------------------------------------------------------
+| Script size 1374
+| Bytes Inserted 1374
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 123 msecs
+ins\S01\S01C062.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 6 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 110 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2179
+|   End: Line 260  File Position $2546
++------------------------------------------------------------------------------
+| Script size 973
+| Bytes Inserted 973
+|
+| Command Execution Listing
+|   WHB: 13
+|   WLB: 13
+|
+| Pointer Listing
+|   General Pointers Written: 26
++------------------------------------------------------------------------------
+
+Execution time: 122 msecs
+ins\S01\S01C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1B7C
+|   End: Line 126  File Position $1D7E
++------------------------------------------------------------------------------
+| Script size 514
+| Bytes Inserted 514
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S02\S02C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 16 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 144 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2AA9
+|   End: Line 695  File Position $3713
++------------------------------------------------------------------------------
+| Script size 3178
+| Bytes Inserted 3178
+|
+| Command Execution Listing
+|   WHB: 29
+|   WLB: 29
+|
+| Pointer Listing
+|   General Pointers Written: 58
++------------------------------------------------------------------------------
+
+Execution time: 165 msecs
+ins\S02\S02C023.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 94 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2129
+|   End: Line 178  File Position $23A3
++------------------------------------------------------------------------------
+| Script size 634
+| Bytes Inserted 634
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 103 msecs
+ins\S02\S02C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 103 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $EF5
+|   End: Line 206  File Position $11FB
++------------------------------------------------------------------------------
+| Script size 774
+| Bytes Inserted 774
+|
+| Command Execution Listing
+|   WHB: 11
+|   WLB: 11
+|
+| Pointer Listing
+|   General Pointers Written: 22
++------------------------------------------------------------------------------
+
+Execution time: 109 msecs
+ins\S02\S02C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 14 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 119 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $4751
+|   End: Line 544  File Position $51A8
++------------------------------------------------------------------------------
+| Script size 2647
+| Bytes Inserted 2647
+|
+| Command Execution Listing
+|   WHB: 22
+|   WLB: 22
+|
+| Pointer Listing
+|   General Pointers Written: 44
++------------------------------------------------------------------------------
+
+Execution time: 140 msecs
+ins\S02\S02C043.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $FC1
+|   End: Line 42  File Position $1053
++------------------------------------------------------------------------------
+| Script size 146
+| Bytes Inserted 146
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 90 msecs
+ins\S02\S02C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $82A
+|   End: Line 42  File Position $93C
++------------------------------------------------------------------------------
+| Script size 274
+| Bytes Inserted 274
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 89 msecs
+ins\S02\S02C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $EE6
+|   End: Line 73  File Position $1020
++------------------------------------------------------------------------------
+| Script size 314
+| Bytes Inserted 314
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S02\S02C062.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 18 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 130 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $33B5
+|   End: Line 833  File Position $44A7
++------------------------------------------------------------------------------
+| Script size 4338
+| Bytes Inserted 4338
+|
+| Command Execution Listing
+|   WHB: 32
+|   WLB: 32
+|
+| Pointer Listing
+|   General Pointers Written: 64
++------------------------------------------------------------------------------
+
+Execution time: 155 msecs
+ins\S02\S02C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 79 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $D61
+|   End: Line 31  File Position $E01
++------------------------------------------------------------------------------
+| Script size 160
+| Bytes Inserted 160
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 84 msecs
+ins\S02\S02C072.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1DD5
+|   End: Line 91  File Position $1F8D
++------------------------------------------------------------------------------
+| Script size 440
+| Bytes Inserted 440
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 96 msecs
+ins\S02\S02C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 18 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 150 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3ADF
+|   End: Line 853  File Position $4D59
++------------------------------------------------------------------------------
+| Script size 4730
+| Bytes Inserted 4730
+|
+| Command Execution Listing
+|   WHB: 23
+|   WLB: 23
+|
+| Pointer Listing
+|   General Pointers Written: 46
++------------------------------------------------------------------------------
+
+Execution time: 174 msecs
+ins\S02\S02C082.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2065
+|   End: Line 40  File Position $20CB
++------------------------------------------------------------------------------
+| Script size 102
+| Bytes Inserted 102
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 89 msecs
+ins\S02\S02C091.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 113 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3DC5
+|   End: Line 487  File Position $4838
++------------------------------------------------------------------------------
+| Script size 2675
+| Bytes Inserted 2675
+|
+| Command Execution Listing
+|   WHB: 14
+|   WLB: 14
+|
+| Pointer Listing
+|   General Pointers Written: 28
++------------------------------------------------------------------------------
+
+Execution time: 128 msecs
+ins\S02\S02C111.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 88 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $216D
+|   End: Line 190  File Position $23FF
++------------------------------------------------------------------------------
+| Script size 658
+| Bytes Inserted 658
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S02\S02C112.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 79 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1E28
+|   End: Line 27  File Position $1E7A
++------------------------------------------------------------------------------
+| Script size 82
+| Bytes Inserted 82
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 84 msecs
+ins\S02\S02C121.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $B31
+|   End: Line 70  File Position $C84
++------------------------------------------------------------------------------
+| Script size 339
+| Bytes Inserted 339
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 85 msecs
+ins\S02\S02C122.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1038
+|   End: Line 70  File Position $118B
++------------------------------------------------------------------------------
+| Script size 339
+| Bytes Inserted 339
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 93 msecs
+ins\S02\S02C141.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 113 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2028
+|   End: Line 386  File Position $2743
++------------------------------------------------------------------------------
+| Script size 1819
+| Bytes Inserted 1819
+|
+| Command Execution Listing
+|   WHB: 15
+|   WLB: 15
+|
+| Pointer Listing
+|   General Pointers Written: 30
++------------------------------------------------------------------------------
+
+Execution time: 127 msecs
+ins\S02\S02C142.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 97 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $DA4
+|   End: Line 223  File Position $111A
++------------------------------------------------------------------------------
+| Script size 886
+| Bytes Inserted 886
+|
+| Command Execution Listing
+|   WHB: 12
+|   WLB: 12
+|
+| Pointer Listing
+|   General Pointers Written: 24
++------------------------------------------------------------------------------
+
+Execution time: 104 msecs
+ins\S02\S02C151.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 6 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 122 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1489
+|   End: Line 264  File Position $19A4
++------------------------------------------------------------------------------
+| Script size 1307
+| Bytes Inserted 1307
+|
+| Command Execution Listing
+|   WHB: 10
+|   WLB: 10
+|
+| Pointer Listing
+|   General Pointers Written: 20
++------------------------------------------------------------------------------
+
+Execution time: 132 msecs
+ins\S02\S02C152.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 128 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $27B5
+|   End: Line 656  File Position $3586
++------------------------------------------------------------------------------
+| Script size 3537
+| Bytes Inserted 3537
+|
+| Command Execution Listing
+|   WHB: 22
+|   WLB: 22
+|
+| Pointer Listing
+|   General Pointers Written: 44
++------------------------------------------------------------------------------
+
+Execution time: 148 msecs
+ins\S02\S02C161.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1320
+|   End: Line 87  File Position $1486
++------------------------------------------------------------------------------
+| Script size 358
+| Bytes Inserted 358
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 85 msecs
+ins\S03\S03C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 119 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2F9A
+|   End: Line 641  File Position $3B6F
++------------------------------------------------------------------------------
+| Script size 3029
+| Bytes Inserted 3029
+|
+| Command Execution Listing
+|   WHB: 26
+|   WLB: 26
+|
+| Pointer Listing
+|   General Pointers Written: 52
++------------------------------------------------------------------------------
+
+Execution time: 139 msecs
+ins\S03\S03C012.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 101 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $24ED
+|   End: Line 413  File Position $2A5C
++------------------------------------------------------------------------------
+| Script size 1391
+| Bytes Inserted 1391
+|
+| Command Execution Listing
+|   WHB: 28
+|   WLB: 28
+|
+| Pointer Listing
+|   General Pointers Written: 56
++------------------------------------------------------------------------------
+
+Execution time: 116 msecs
+ins\S03\S03C017.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 14 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 118 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2946
+|   End: Line 612  File Position $33AB
++------------------------------------------------------------------------------
+| Script size 2661
+| Bytes Inserted 2661
+|
+| Command Execution Listing
+|   WHB: 24
+|   WLB: 24
+|
+| Pointer Listing
+|   General Pointers Written: 48
++------------------------------------------------------------------------------
+
+Execution time: 137 msecs
+ins\S03\S03C019.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 96 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2989
+|   End: Line 213  File Position $2DC2
++------------------------------------------------------------------------------
+| Script size 1081
+| Bytes Inserted 1081
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 105 msecs
+ins\S03\S03C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 16 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 135 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2045
+|   End: Line 722  File Position $3169
++------------------------------------------------------------------------------
+| Script size 4388
+| Bytes Inserted 4388
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 156 msecs
+ins\S03\S03C022.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1059
+|   End: Line 137  File Position $122F
++------------------------------------------------------------------------------
+| Script size 470
+| Bytes Inserted 470
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S03\S03C027.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 27 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 138 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2EDA
+|   End: Line 1163  File Position $4216
++------------------------------------------------------------------------------
+| Script size 4924
+| Bytes Inserted 4924
+|
+| Command Execution Listing
+|   WHB: 78
+|   WLB: 78
+|
+| Pointer Listing
+|   General Pointers Written: 156
++------------------------------------------------------------------------------
+
+Execution time: 169 msecs
+ins\S03\S03C029.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 13 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 126 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3C01
+|   End: Line 582  File Position $48AB
++------------------------------------------------------------------------------
+| Script size 3242
+| Bytes Inserted 3242
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 143 msecs
+ins\S03\S03C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 29 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 171 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1ED9
+|   End: Line 1387  File Position $3A3F
++------------------------------------------------------------------------------
+| Script size 7014
+| Bytes Inserted 7014
+|
+| Command Execution Listing
+|   WHB: 38
+|   WLB: 38
+|
+| Pointer Listing
+|   General Pointers Written: 76
++------------------------------------------------------------------------------
+
+Execution time: 207 msecs
+ins\S03\S03C037.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 29 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 182 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2425
+|   End: Line 1468  File Position $41C6
++------------------------------------------------------------------------------
+| Script size 7585
+| Bytes Inserted 7585
+|
+| Command Execution Listing
+|   WHB: 41
+|   WLB: 41
+|
+| Pointer Listing
+|   General Pointers Written: 82
++------------------------------------------------------------------------------
+
+Execution time: 219 msecs
+ins\S03\S03C039.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 23 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 154 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $14CC
+|   End: Line 1149  File Position $2B6F
++------------------------------------------------------------------------------
+| Script size 5795
+| Bytes Inserted 5795
+|
+| Command Execution Listing
+|   WHB: 29
+|   WLB: 29
+|
+| Pointer Listing
+|   General Pointers Written: 58
++------------------------------------------------------------------------------
+
+Execution time: 185 msecs
+ins\S03\S03C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 14 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 123 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $41F9
+|   End: Line 656  File Position $4DBD
++------------------------------------------------------------------------------
+| Script size 3012
+| Bytes Inserted 3012
+|
+| Command Execution Listing
+|   WHB: 24
+|   WLB: 24
+|
+| Pointer Listing
+|   General Pointers Written: 48
++------------------------------------------------------------------------------
+
+Execution time: 142 msecs
+ins\S03\S03C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1211
+|   End: Line 64  File Position $1333
++------------------------------------------------------------------------------
+| Script size 290
+| Bytes Inserted 290
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S03\S03C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 93 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1660
+|   End: Line 178  File Position $1915
++------------------------------------------------------------------------------
+| Script size 693
+| Bytes Inserted 693
+|
+| Command Execution Listing
+|   WHB: 12
+|   WLB: 12
+|
+| Pointer Listing
+|   General Pointers Written: 24
++------------------------------------------------------------------------------
+
+Execution time: 102 msecs
+ins\S03\S03C067.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 92 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $D30
+|   End: Line 107  File Position $1053
++------------------------------------------------------------------------------
+| Script size 803
+| Bytes Inserted 803
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S03\S03C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 118 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $18AA
+|   End: Line 579  File Position $2431
++------------------------------------------------------------------------------
+| Script size 2951
+| Bytes Inserted 2951
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
+Execution time: 136 msecs
+ins\S03\S03C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 95 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2D3D
+|   End: Line 318  File Position $3268
++------------------------------------------------------------------------------
+| Script size 1323
+| Bytes Inserted 1323
+|
+| Command Execution Listing
+|   WHB: 13
+|   WLB: 13
+|
+| Pointer Listing
+|   General Pointers Written: 26
++------------------------------------------------------------------------------
+
+Execution time: 107 msecs
+ins\S03\S03C089.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 87 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $A44
+|   End: Line 84  File Position $B9A
++------------------------------------------------------------------------------
+| Script size 342
+| Bytes Inserted 342
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 94 msecs
+ins\S03\S03C091.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1A10
+|   End: Line 163  File Position $1C65
++------------------------------------------------------------------------------
+| Script size 597
+| Bytes Inserted 597
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 94 msecs
+ins\S03\S03C101.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 94 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $138D
+|   End: Line 158  File Position $15FC
++------------------------------------------------------------------------------
+| Script size 623
+| Bytes Inserted 623
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 104 msecs
+ins\S03\S03C111.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 92 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $4D0C
+|   End: Line 47  File Position $4D8F
++------------------------------------------------------------------------------
+| Script size 131
+| Bytes Inserted 131
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S04\S04C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 99 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1B3E
+|   End: Line 247  File Position $1E63
++------------------------------------------------------------------------------
+| Script size 805
+| Bytes Inserted 805
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 111 msecs
+ins\S04\S04C014.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 19 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 130 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2199
+|   End: Line 747  File Position $2F26
++------------------------------------------------------------------------------
+| Script size 3469
+| Bytes Inserted 3469
+|
+| Command Execution Listing
+|   WHB: 37
+|   WLB: 37
+|
+| Pointer Listing
+|   General Pointers Written: 74
++------------------------------------------------------------------------------
+
+Execution time: 154 msecs
+ins\S04\S04C015.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 22 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 128 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1E16
+|   End: Line 840  File Position $2B7D
++------------------------------------------------------------------------------
+| Script size 3431
+| Bytes Inserted 3431
+|
+| Command Execution Listing
+|   WHB: 45
+|   WLB: 45
+|
+| Pointer Listing
+|   General Pointers Written: 90
++------------------------------------------------------------------------------
+
+Execution time: 155 msecs
+ins\S04\S04C017.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 22 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 128 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2E0E
+|   End: Line 795  File Position $3AAE
++------------------------------------------------------------------------------
+| Script size 3232
+| Bytes Inserted 3232
+|
+| Command Execution Listing
+|   WHB: 55
+|   WLB: 55
+|
+| Pointer Listing
+|   General Pointers Written: 110
++------------------------------------------------------------------------------
+
+Execution time: 156 msecs
+ins\S04\S04C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 6 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 102 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $124A
+|   End: Line 277  File Position $16D7
++------------------------------------------------------------------------------
+| Script size 1165
+| Bytes Inserted 1165
+|
+| Command Execution Listing
+|   WHB: 10
+|   WLB: 10
+|
+| Pointer Listing
+|   General Pointers Written: 20
++------------------------------------------------------------------------------
+
+Execution time: 112 msecs
+ins\S04\S04C024.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1481
+|   End: Line 142  File Position $16FD
++------------------------------------------------------------------------------
+| Script size 636
+| Bytes Inserted 636
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S04\S04C027.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 106 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $135D
+|   End: Line 302  File Position $17FB
++------------------------------------------------------------------------------
+| Script size 1182
+| Bytes Inserted 1182
+|
+| Command Execution Listing
+|   WHB: 14
+|   WLB: 14
+|
+| Pointer Listing
+|   General Pointers Written: 28
++------------------------------------------------------------------------------
+
+Execution time: 118 msecs
+ins\S04\S04C028.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 16 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 124 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2E67
+|   End: Line 699  File Position $3AF8
++------------------------------------------------------------------------------
+| Script size 3217
+| Bytes Inserted 3217
+|
+| Command Execution Listing
+|   WHB: 34
+|   WLB: 34
+|
+| Pointer Listing
+|   General Pointers Written: 68
++------------------------------------------------------------------------------
+
+Execution time: 147 msecs
+ins\S04\S04C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 92 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $23D5
+|   End: Line 175  File Position $26F2
++------------------------------------------------------------------------------
+| Script size 797
+| Bytes Inserted 797
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 101 msecs
+ins\S04\S04C034.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 101 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1E55
+|   End: Line 353  File Position $253B
++------------------------------------------------------------------------------
+| Script size 1766
+| Bytes Inserted 1766
+|
+| Command Execution Listing
+|   WHB: 11
+|   WLB: 11
+|
+| Pointer Listing
+|   General Pointers Written: 22
++------------------------------------------------------------------------------
+
+Execution time: 113 msecs
+ins\S04\S04C035.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $FA8
+|   End: Line 85  File Position $1109
++------------------------------------------------------------------------------
+| Script size 353
+| Bytes Inserted 353
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S04\S04C037.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 127 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $39AD
+|   End: Line 709  File Position $47AD
++------------------------------------------------------------------------------
+| Script size 3584
+| Bytes Inserted 3584
+|
+| Command Execution Listing
+|   WHB: 22
+|   WLB: 22
+|
+| Pointer Listing
+|   General Pointers Written: 44
++------------------------------------------------------------------------------
+
+Execution time: 146 msecs
+ins\S04\S04C044.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 91 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1B69
+|   End: Line 133  File Position $1DCE
++------------------------------------------------------------------------------
+| Script size 613
+| Bytes Inserted 613
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S04\S04C047.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 119 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1992
+|   End: Line 462  File Position $23A9
++------------------------------------------------------------------------------
+| Script size 2583
+| Bytes Inserted 2583
+|
+| Command Execution Listing
+|   WHB: 13
+|   WLB: 13
+|
+| Pointer Listing
+|   General Pointers Written: 26
++------------------------------------------------------------------------------
+
+Execution time: 133 msecs
+ins\S04\S04C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 127 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $D85
+|   End: Line 570  File Position $1D5E
++------------------------------------------------------------------------------
+| Script size 4057
+| Bytes Inserted 4057
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
+Execution time: 148 msecs
+ins\S04\S04C054.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 17 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 130 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $29C0
+|   End: Line 702  File Position $3BE9
++------------------------------------------------------------------------------
+| Script size 4649
+| Bytes Inserted 4649
+|
+| Command Execution Listing
+|   WHB: 27
+|   WLB: 27
+|
+| Pointer Listing
+|   General Pointers Written: 54
++------------------------------------------------------------------------------
+
+Execution time: 155 msecs
+ins\S04\S04C057.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 14 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 131 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1250
+|   End: Line 567  File Position $2229
++------------------------------------------------------------------------------
+| Script size 4057
+| Bytes Inserted 4057
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
+Execution time: 151 msecs
+ins\S04\S04C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 111 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1F15
+|   End: Line 503  File Position $2907
++------------------------------------------------------------------------------
+| Script size 2546
+| Bytes Inserted 2546
+|
+| Command Execution Listing
+|   WHB: 17
+|   WLB: 17
+|
+| Pointer Listing
+|   General Pointers Written: 34
++------------------------------------------------------------------------------
+
+Execution time: 127 msecs
+ins\S04\S04C062.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 101 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1419
+|   End: Line 307  File Position $1877
++------------------------------------------------------------------------------
+| Script size 1118
+| Bytes Inserted 1118
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 113 msecs
+ins\S04\S04C063.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 92 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1D85
+|   End: Line 197  File Position $208F
++------------------------------------------------------------------------------
+| Script size 778
+| Bytes Inserted 778
+|
+| Command Execution Listing
+|   WHB: 10
+|   WLB: 10
+|
+| Pointer Listing
+|   General Pointers Written: 20
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S04\S04C064.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 120 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $20FA
+|   End: Line 593  File Position $2C8A
++------------------------------------------------------------------------------
+| Script size 2960
+| Bytes Inserted 2960
+|
+| Command Execution Listing
+|   WHB: 19
+|   WLB: 19
+|
+| Pointer Listing
+|   General Pointers Written: 38
++------------------------------------------------------------------------------
+
+Execution time: 140 msecs
+ins\S04\S04C065.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $12D4
+|   End: Line 142  File Position $13B9
++------------------------------------------------------------------------------
+| Script size 229
+| Bytes Inserted 229
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 94 msecs
+ins\S04\S04C067.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 18 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 163 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $34B5
+|   End: Line 749  File Position $450E
++------------------------------------------------------------------------------
+| Script size 4185
+| Bytes Inserted 4185
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
+Execution time: 187 msecs
+ins\S04\S04C068.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 124 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1D69
+|   End: Line 720  File Position $2B93
++------------------------------------------------------------------------------
+| Script size 3626
+| Bytes Inserted 3626
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
+Execution time: 144 msecs
+ins\S04\S04C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 93 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2FB5
+|   End: Line 325  File Position $34B0
++------------------------------------------------------------------------------
+| Script size 1275
+| Bytes Inserted 1275
+|
+| Command Execution Listing
+|   WHB: 17
+|   WLB: 17
+|
+| Pointer Listing
+|   General Pointers Written: 34
++------------------------------------------------------------------------------
+
+Execution time: 105 msecs
+ins\S04\S04C074.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 105 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1B55
+|   End: Line 427  File Position $22A3
++------------------------------------------------------------------------------
+| Script size 1870
+| Bytes Inserted 1870
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 118 msecs
+ins\S04\S04C077.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 14 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 121 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2B13
+|   End: Line 592  File Position $3655
++------------------------------------------------------------------------------
+| Script size 2882
+| Bytes Inserted 2882
+|
+| Command Execution Listing
+|   WHB: 24
+|   WLB: 24
+|
+| Pointer Listing
+|   General Pointers Written: 48
++------------------------------------------------------------------------------
+
+Execution time: 140 msecs
+ins\S04\S04C078.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 87 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $20AD
+|   End: Line 103  File Position $22C4
++------------------------------------------------------------------------------
+| Script size 535
+| Bytes Inserted 535
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 95 msecs
+ins\S04\S04C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 105 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1E55
+|   End: Line 459  File Position $250B
++------------------------------------------------------------------------------
+| Script size 1718
+| Bytes Inserted 1718
+|
+| Command Execution Listing
+|   WHB: 29
+|   WLB: 29
+|
+| Pointer Listing
+|   General Pointers Written: 58
++------------------------------------------------------------------------------
+
+Execution time: 120 msecs
+ins\S04\S04C084.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 13 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 118 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2475
+|   End: Line 579  File Position $2DB6
++------------------------------------------------------------------------------
+| Script size 2369
+| Bytes Inserted 2369
+|
+| Command Execution Listing
+|   WHB: 24
+|   WLB: 24
+|
+| Pointer Listing
+|   General Pointers Written: 48
++------------------------------------------------------------------------------
+
+Execution time: 135 msecs
+ins\S04\S04C087.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $13E7
+|   End: Line 25  File Position $1428
++------------------------------------------------------------------------------
+| Script size 65
+| Bytes Inserted 65
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 84 msecs
+ins\S04\S04C091.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 28 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 139 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2A52
+|   End: Line 1238  File Position $3C90
++------------------------------------------------------------------------------
+| Script size 4670
+| Bytes Inserted 4670
+|
+| Command Execution Listing
+|   WHB: 57
+|   WLB: 57
+|
+| Pointer Listing
+|   General Pointers Written: 114
++------------------------------------------------------------------------------
+
+Execution time: 171 msecs
+ins\S04\S04C092.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 103 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1F19
+|   End: Line 435  File Position $273B
++------------------------------------------------------------------------------
+| Script size 2082
+| Bytes Inserted 2082
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 117 msecs
+ins\S04\S04C097.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 126 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2DCE
+|   End: Line 603  File Position $3B47
++------------------------------------------------------------------------------
+| Script size 3449
+| Bytes Inserted 3449
+|
+| Command Execution Listing
+|   WHB: 20
+|   WLB: 20
+|
+| Pointer Listing
+|   General Pointers Written: 40
++------------------------------------------------------------------------------
+
+Execution time: 147 msecs
+ins\S04\S04C101.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 48 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 197 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $329E
+|   End: Line 2045  File Position $554E
++------------------------------------------------------------------------------
+| Script size 8880
+| Bytes Inserted 8880
+|
+| Command Execution Listing
+|   WHB: 115
+|   WLB: 115
+|
+| Pointer Listing
+|   General Pointers Written: 230
++------------------------------------------------------------------------------
+
+Execution time: 251 msecs
+ins\S04\S04C221.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 104 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2A4D
+|   End: Line 323  File Position $300D
++------------------------------------------------------------------------------
+| Script size 1472
+| Bytes Inserted 1472
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 116 msecs
+ins\S04\S04C224.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1FB5
+|   End: Line 24  File Position $1FF7
++------------------------------------------------------------------------------
+| Script size 66
+| Bytes Inserted 66
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 87 msecs
+ins\S04\S04C227.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 96 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3692
+|   End: Line 148  File Position $38DE
++------------------------------------------------------------------------------
+| Script size 588
+| Bytes Inserted 588
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 107 msecs
+ins\S04\S04C291.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 118 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2129
+|   End: Line 570  File Position $2BE0
++------------------------------------------------------------------------------
+| Script size 2743
+| Bytes Inserted 2743
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 135 msecs
+ins\S04\S04C292.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 92 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $CEC
+|   End: Line 113  File Position $DBB
++------------------------------------------------------------------------------
+| Script size 207
+| Bytes Inserted 207
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 105 msecs
+ins\S04\S04C294.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 113 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $20A2
+|   End: Line 221  File Position $2528
++------------------------------------------------------------------------------
+| Script size 1158
+| Bytes Inserted 1158
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 122 msecs
+ins\S04\S04C297.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 107 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $25D9
+|   End: Line 482  File Position $2E38
++------------------------------------------------------------------------------
+| Script size 2143
+| Bytes Inserted 2143
+|
+| Command Execution Listing
+|   WHB: 17
+|   WLB: 17
+|
+| Pointer Listing
+|   General Pointers Written: 34
++------------------------------------------------------------------------------
+
+Execution time: 122 msecs
+ins\S04\S04C301.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 112 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3567
+|   End: Line 320  File Position $3C05
++------------------------------------------------------------------------------
+| Script size 1694
+| Bytes Inserted 1694
+|
+| Command Execution Listing
+|   WHB: 11
+|   WLB: 11
+|
+| Pointer Listing
+|   General Pointers Written: 22
++------------------------------------------------------------------------------
+
+Execution time: 126 msecs
+ins\S04\S04C304.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 116 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $17B1
+|   End: Line 350  File Position $1EC4
++------------------------------------------------------------------------------
+| Script size 1811
+| Bytes Inserted 1811
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 125 msecs
+ins\S04\S04C307.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 20 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 137 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $34A2
+|   End: Line 842  File Position $447A
++------------------------------------------------------------------------------
+| Script size 4056
+| Bytes Inserted 4056
+|
+| Command Execution Listing
+|   WHB: 32
+|   WLB: 32
+|
+| Pointer Listing
+|   General Pointers Written: 64
++------------------------------------------------------------------------------
+
+Execution time: 164 msecs
+ins\S04\S04C308.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $E2D
+|   End: Line 58  File Position $F6C
++------------------------------------------------------------------------------
+| Script size 319
+| Bytes Inserted 319
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S04\S04C311.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $C6D
+|   End: Line 203  File Position $108E
++------------------------------------------------------------------------------
+| Script size 1057
+| Bytes Inserted 1057
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S05\S05C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 110 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $17A1
+|   End: Line 407  File Position $1FA9
++------------------------------------------------------------------------------
+| Script size 2056
+| Bytes Inserted 2056
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 121 msecs
+ins\S05\S05C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 101 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2A19
+|   End: Line 307  File Position $2EF6
++------------------------------------------------------------------------------
+| Script size 1245
+| Bytes Inserted 1245
+|
+| Command Execution Listing
+|   WHB: 14
+|   WLB: 14
+|
+| Pointer Listing
+|   General Pointers Written: 28
++------------------------------------------------------------------------------
+
+Execution time: 113 msecs
+ins\S05\S05C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 88 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1A79
+|   End: Line 45  File Position $1B0F
++------------------------------------------------------------------------------
+| Script size 150
+| Bytes Inserted 150
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 94 msecs
+ins\S05\S05C033.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 95 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $13E4
+|   End: Line 112  File Position $15F6
++------------------------------------------------------------------------------
+| Script size 530
+| Bytes Inserted 530
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 103 msecs
+ins\S05\S05C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 20 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 118 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3C1E
+|   End: Line 827  File Position $48DD
++------------------------------------------------------------------------------
+| Script size 3263
+| Bytes Inserted 3263
+|
+| Command Execution Listing
+|   WHB: 42
+|   WLB: 42
+|
+| Pointer Listing
+|   General Pointers Written: 84
++------------------------------------------------------------------------------
+
+Execution time: 146 msecs
+ins\S05\S05C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 16 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 132 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2F1D
+|   End: Line 679  File Position $3CA8
++------------------------------------------------------------------------------
+| Script size 3467
+| Bytes Inserted 3467
+|
+| Command Execution Listing
+|   WHB: 37
+|   WLB: 37
+|
+| Pointer Listing
+|   General Pointers Written: 74
++------------------------------------------------------------------------------
+
+Execution time: 155 msecs
+ins\S05\S05C052.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $CDD
+|   End: Line 42  File Position $D65
++------------------------------------------------------------------------------
+| Script size 136
+| Bytes Inserted 136
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 86 msecs
+ins\S05\S05C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 110 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $20E5
+|   End: Line 446  File Position $28B8
++------------------------------------------------------------------------------
+| Script size 2003
+| Bytes Inserted 2003
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
+Execution time: 125 msecs
+ins\S05\S05C063.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 94 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2612
+|   End: Line 180  File Position $29E3
++------------------------------------------------------------------------------
+| Script size 977
+| Bytes Inserted 977
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 103 msecs
+ins\S06\S06C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $7C5
+|   End: Line 53  File Position $881
++------------------------------------------------------------------------------
+| Script size 188
+| Bytes Inserted 188
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 91 msecs
+ins\S06\S06C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 13 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 104 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2C49
+|   End: Line 545  File Position $3473
++------------------------------------------------------------------------------
+| Script size 2090
+| Bytes Inserted 2090
+|
+| Command Execution Listing
+|   WHB: 26
+|   WLB: 26
+|
+| Pointer Listing
+|   General Pointers Written: 52
++------------------------------------------------------------------------------
+
+Execution time: 122 msecs
+ins\S06\S06C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 105 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $178F
+|   End: Line 486  File Position $1E56
++------------------------------------------------------------------------------
+| Script size 1735
+| Bytes Inserted 1735
+|
+| Command Execution Listing
+|   WHB: 26
+|   WLB: 26
+|
+| Pointer Listing
+|   General Pointers Written: 52
++------------------------------------------------------------------------------
+
+Execution time: 118 msecs
+ins\S06\S06C032.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 87 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1B9A
+|   End: Line 183  File Position $1E53
++------------------------------------------------------------------------------
+| Script size 697
+| Bytes Inserted 697
+|
+| Command Execution Listing
+|   WHB: 10
+|   WLB: 10
+|
+| Pointer Listing
+|   General Pointers Written: 20
++------------------------------------------------------------------------------
+
+Execution time: 96 msecs
+ins\S06\S06C033.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 6 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 93 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $E34
+|   End: Line 212  File Position $11A4
++------------------------------------------------------------------------------
+| Script size 880
+| Bytes Inserted 880
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 103 msecs
+ins\S06\S06C034.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 87 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1287
+|   End: Line 131  File Position $1432
++------------------------------------------------------------------------------
+| Script size 427
+| Bytes Inserted 427
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 95 msecs
+ins\S06\S06C035.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $12AC
+|   End: Line 47  File Position $1342
++------------------------------------------------------------------------------
+| Script size 150
+| Bytes Inserted 150
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 85 msecs
+ins\S06\S06C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 45 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 153 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3692
+|   End: Line 1276  File Position $490C
++------------------------------------------------------------------------------
+| Script size 4730
+| Bytes Inserted 4730
+|
+| Command Execution Listing
+|   WHB: 70
+|   WLB: 70
+|
+| Pointer Listing
+|   General Pointers Written: 140
++------------------------------------------------------------------------------
+
+Execution time: 202 msecs
+ins\S06\S06C042.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 94 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $199B
+|   End: Line 357  File Position $1EB1
++------------------------------------------------------------------------------
+| Script size 1302
+| Bytes Inserted 1302
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 107 msecs
+ins\S06\S06C043.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 97 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $ECC
+|   End: Line 25  File Position $F0D
++------------------------------------------------------------------------------
+| Script size 65
+| Bytes Inserted 65
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 102 msecs
+ins\S06\S06C044.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1774
+|   End: Line 99  File Position $18AF
++------------------------------------------------------------------------------
+| Script size 315
+| Bytes Inserted 315
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S06\S06C045.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1443
+|   End: Line 77  File Position $1509
++------------------------------------------------------------------------------
+| Script size 198
+| Bytes Inserted 198
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 93 msecs
+ins\S06\S06C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 97 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $D5B
+|   End: Line 58  File Position $DF6
++------------------------------------------------------------------------------
+| Script size 155
+| Bytes Inserted 155
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 103 msecs
+ins\S06\S06C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 115 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3389
+|   End: Line 645  File Position $3CC7
++------------------------------------------------------------------------------
+| Script size 2366
+| Bytes Inserted 2366
+|
+| Command Execution Listing
+|   WHB: 32
+|   WLB: 32
+|
+| Pointer Listing
+|   General Pointers Written: 64
++------------------------------------------------------------------------------
+
+Execution time: 137 msecs
+ins\S06\S06C069.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 105 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2049
+|   End: Line 474  File Position $290C
++------------------------------------------------------------------------------
+| Script size 2243
+| Bytes Inserted 2243
+|
+| Command Execution Listing
+|   WHB: 19
+|   WLB: 19
+|
+| Pointer Listing
+|   General Pointers Written: 38
++------------------------------------------------------------------------------
+
+Execution time: 121 msecs
+ins\S06\S06C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1DB0
+|   End: Line 83  File Position $1EBC
++------------------------------------------------------------------------------
+| Script size 268
+| Bytes Inserted 268
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 88 msecs
+ins\S06\S06C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $930
+|   End: Line 123  File Position $BBF
++------------------------------------------------------------------------------
+| Script size 655
+| Bytes Inserted 655
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S06\S06C091.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 88 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $4D49
+|   End: Line 50  File Position $4DDF
++------------------------------------------------------------------------------
+| Script size 150
+| Bytes Inserted 150
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S06\S06C101.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 111 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $12AE
+|   End: Line 334  File Position $1ACC
++------------------------------------------------------------------------------
+| Script size 2078
+| Bytes Inserted 2078
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 124 msecs
+ins\S06\S06C111.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 16 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 124 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $23CE
+|   End: Line 698  File Position $30C0
++------------------------------------------------------------------------------
+| Script size 3314
+| Bytes Inserted 3314
+|
+| Command Execution Listing
+|   WHB: 31
+|   WLB: 31
+|
+| Pointer Listing
+|   General Pointers Written: 62
++------------------------------------------------------------------------------
+
+Execution time: 144 msecs
+ins\S06\S06C112.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 113 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $F41
+|   End: Line 359  File Position $1962
++------------------------------------------------------------------------------
+| Script size 2593
+| Bytes Inserted 2593
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 123 msecs
+ins\S06\S06C113.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 0 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 91 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $E05
+|   End: Line 27  File Position $E4F
++------------------------------------------------------------------------------
+| Script size 74
+| Bytes Inserted 74
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S06\S06C114.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $15CB
+|   End: Line 118  File Position $1745
++------------------------------------------------------------------------------
+| Script size 378
+| Bytes Inserted 378
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 93 msecs
+ins\S06\S06C115.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 87 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1C47
+|   End: Line 194  File Position $1F22
++------------------------------------------------------------------------------
+| Script size 731
+| Bytes Inserted 731
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 96 msecs
+ins\S06\S06C121.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 122 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $21A4
+|   End: Line 482  File Position $2861
++------------------------------------------------------------------------------
+| Script size 1725
+| Bytes Inserted 1725
+|
+| Command Execution Listing
+|   WHB: 24
+|   WLB: 24
+|
+| Pointer Listing
+|   General Pointers Written: 48
++------------------------------------------------------------------------------
+
+Execution time: 137 msecs
+ins\S06\S06C131.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 83 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $817
+|   End: Line 83  File Position $928
++------------------------------------------------------------------------------
+| Script size 273
+| Bytes Inserted 273
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 88 msecs
+ins\S06\S06C171.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $328
+|   End: Line 23  File Position $35B
++------------------------------------------------------------------------------
+| Script size 51
+| Bytes Inserted 51
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 91 msecs
+ins\S06\S06C211.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 120 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $16BA
+|   End: Line 662  File Position $239E
++------------------------------------------------------------------------------
+| Script size 3300
+| Bytes Inserted 3300
+|
+| Command Execution Listing
+|   WHB: 27
+|   WLB: 27
+|
+| Pointer Listing
+|   General Pointers Written: 54
++------------------------------------------------------------------------------
+
+Execution time: 136 msecs
+ins\S07\S07C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 32 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 123 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1AB2
+|   End: Line 1312  File Position $2735
++------------------------------------------------------------------------------
+| Script size 3203
+| Bytes Inserted 3203
+|
+| Command Execution Listing
+|   WHB: 104
+|   WLB: 104
+|
+| Pointer Listing
+|   General Pointers Written: 208
++------------------------------------------------------------------------------
+
+Execution time: 159 msecs
+ins\S07\S07C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 91 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $13F6
+|   End: Line 179  File Position $16B6
++------------------------------------------------------------------------------
+| Script size 704
+| Bytes Inserted 704
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S07\S07C032.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 88 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3130
+|   End: Line 147  File Position $338B
++------------------------------------------------------------------------------
+| Script size 603
+| Bytes Inserted 603
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S07\S07C141.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 88 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $9A8
+|   End: Line 55  File Position $B12
++------------------------------------------------------------------------------
+| Script size 362
+| Bytes Inserted 362
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 94 msecs
+ins\S08\S08C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1669
+|   End: Line 92  File Position $17F8
++------------------------------------------------------------------------------
+| Script size 399
+| Bytes Inserted 399
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 93 msecs
+ins\S08\S08C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 91 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $286E
+|   End: Line 145  File Position $2AAD
++------------------------------------------------------------------------------
+| Script size 575
+| Bytes Inserted 575
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S08\S08C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 107 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $285D
+|   End: Line 427  File Position $3159
++------------------------------------------------------------------------------
+| Script size 2300
+| Bytes Inserted 2300
+|
+| Command Execution Listing
+|   WHB: 14
+|   WLB: 14
+|
+| Pointer Listing
+|   General Pointers Written: 28
++------------------------------------------------------------------------------
+
+Execution time: 123 msecs
+ins\S08\S08C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2417
+|   End: Line 179  File Position $26B5
++------------------------------------------------------------------------------
+| Script size 670
+| Bytes Inserted 670
+|
+| Command Execution Listing
+|   WHB: 10
+|   WLB: 10
+|
+| Pointer Listing
+|   General Pointers Written: 20
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S08\S08C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 101 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2A29
+|   End: Line 394  File Position $2F5A
++------------------------------------------------------------------------------
+| Script size 1329
+| Bytes Inserted 1329
+|
+| Command Execution Listing
+|   WHB: 20
+|   WLB: 20
+|
+| Pointer Listing
+|   General Pointers Written: 40
++------------------------------------------------------------------------------
+
+Execution time: 115 msecs
+ins\S09\S09C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 98 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $C08
+|   End: Line 247  File Position $10FF
++------------------------------------------------------------------------------
+| Script size 1271
+| Bytes Inserted 1271
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 109 msecs
+ins\S09\S09C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 106 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2119
+|   End: Line 505  File Position $2AB8
++------------------------------------------------------------------------------
+| Script size 2463
+| Bytes Inserted 2463
+|
+| Command Execution Listing
+|   WHB: 26
+|   WLB: 26
+|
+| Pointer Listing
+|   General Pointers Written: 52
++------------------------------------------------------------------------------
+
+Execution time: 124 msecs
+ins\S09\S09C032.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 105 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $160D
+|   End: Line 413  File Position $1CE3
++------------------------------------------------------------------------------
+| Script size 1750
+| Bytes Inserted 1750
+|
+| Command Execution Listing
+|   WHB: 19
+|   WLB: 19
+|
+| Pointer Listing
+|   General Pointers Written: 38
++------------------------------------------------------------------------------
+
+Execution time: 119 msecs
+ins\S09\S09C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $4DA4
+|   End: Line 49  File Position $4E48
++------------------------------------------------------------------------------
+| Script size 164
+| Bytes Inserted 164
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 93 msecs
+ins\S09\S09C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 104 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $248E
+|   End: Line 302  File Position $29FF
++------------------------------------------------------------------------------
+| Script size 1393
+| Bytes Inserted 1393
+|
+| Command Execution Listing
+|   WHB: 13
+|   WLB: 13
+|
+| Pointer Listing
+|   General Pointers Written: 26
++------------------------------------------------------------------------------
+
+Execution time: 118 msecs
+ins\S09\S09C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 83 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $9BA
+|   End: Line 33  File Position $9EF
++------------------------------------------------------------------------------
+| Script size 53
+| Bytes Inserted 53
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 89 msecs
+ins\S09\S09C101.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 25 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 115 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1C9E
+|   End: Line 985  File Position $24E2
++------------------------------------------------------------------------------
+| Script size 2116
+| Bytes Inserted 2116
+|
+| Command Execution Listing
+|   WHB: 85
+|   WLB: 85
+|
+| Pointer Listing
+|   General Pointers Written: 170
++------------------------------------------------------------------------------
+
+Execution time: 149 msecs
+ins\S09\S09C121.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $799
+|   End: Line 22  File Position $7B4
++------------------------------------------------------------------------------
+| Script size 27
+| Bytes Inserted 27
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 86 msecs
+ins\S10\S10C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 19 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 132 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $400D
+|   End: Line 880  File Position $4FF1
++------------------------------------------------------------------------------
+| Script size 4068
+| Bytes Inserted 4068
+|
+| Command Execution Listing
+|   WHB: 34
+|   WLB: 34
+|
+| Pointer Listing
+|   General Pointers Written: 68
++------------------------------------------------------------------------------
+
+Execution time: 156 msecs
+ins\S10\S10C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $CCC
+|   End: Line 178  File Position $FE5
++------------------------------------------------------------------------------
+| Script size 793
+| Bytes Inserted 793
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S10\S10C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 81 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1134
+|   End: Line 32  File Position $11E5
++------------------------------------------------------------------------------
+| Script size 177
+| Bytes Inserted 177
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 83 msecs
+ins\S10\S10C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 133 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2641
+|   End: Line 693  File Position $334A
++------------------------------------------------------------------------------
+| Script size 3337
+| Bytes Inserted 3337
+|
+| Command Execution Listing
+|   WHB: 24
+|   WLB: 24
+|
+| Pointer Listing
+|   General Pointers Written: 48
++------------------------------------------------------------------------------
+
+Execution time: 153 msecs
+ins\S10\S10C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 27 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 116 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2C2E
+|   End: Line 1023  File Position $344D
++------------------------------------------------------------------------------
+| Script size 2079
+| Bytes Inserted 2079
+|
+| Command Execution Listing
+|   WHB: 98
+|   WLB: 98
+|
+| Pointer Listing
+|   General Pointers Written: 196
++------------------------------------------------------------------------------
+
+Execution time: 149 msecs
+ins\S11\S11C131.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1707
+|   End: Line 129  File Position $1913
++------------------------------------------------------------------------------
+| Script size 524
+| Bytes Inserted 524
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S11\S11C141.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 27 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 156 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3484
+|   End: Line 1161  File Position $4AAD
++------------------------------------------------------------------------------
+| Script size 5673
+| Bytes Inserted 5673
+|
+| Command Execution Listing
+|   WHB: 51
+|   WLB: 51
+|
+| Pointer Listing
+|   General Pointers Written: 102
++------------------------------------------------------------------------------
+
+Execution time: 187 msecs
+ins\S11\S11C147.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 119 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2B3E
+|   End: Line 544  File Position $3677
++------------------------------------------------------------------------------
+| Script size 2873
+| Bytes Inserted 2873
+|
+| Command Execution Listing
+|   WHB: 17
+|   WLB: 17
+|
+| Pointer Listing
+|   General Pointers Written: 34
++------------------------------------------------------------------------------
+
+Execution time: 138 msecs
+ins\S11\S11C148.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 17 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 142 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3D3A
+|   End: Line 788  File Position $4FA3
++------------------------------------------------------------------------------
+| Script size 4713
+| Bytes Inserted 4713
+|
+| Command Execution Listing
+|   WHB: 22
+|   WLB: 22
+|
+| Pointer Listing
+|   General Pointers Written: 44
++------------------------------------------------------------------------------
+
+Execution time: 167 msecs
+ins\S11\S11C149.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 21 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 140 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $26C6
+|   End: Line 668  File Position $3828
++------------------------------------------------------------------------------
+| Script size 4450
+| Bytes Inserted 4450
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 170 msecs
+ins\S11\S11C161.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 104 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1061
+|   End: Line 99  File Position $1312
++------------------------------------------------------------------------------
+| Script size 689
+| Bytes Inserted 689
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 109 msecs
+ins\S11\S11C177.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 114 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $186E
+|   End: Line 531  File Position $216D
++------------------------------------------------------------------------------
+| Script size 2303
+| Bytes Inserted 2303
+|
+| Command Execution Listing
+|   WHB: 22
+|   WLB: 22
+|
+| Pointer Listing
+|   General Pointers Written: 44
++------------------------------------------------------------------------------
+
+Execution time: 127 msecs
+ins\S11\S11C178.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 111 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $181D
+|   End: Line 508  File Position $208D
++------------------------------------------------------------------------------
+| Script size 2160
+| Bytes Inserted 2160
+|
+| Command Execution Listing
+|   WHB: 22
+|   WLB: 22
+|
+| Pointer Listing
+|   General Pointers Written: 44
++------------------------------------------------------------------------------
+
+Execution time: 127 msecs
+ins\S11\S11C197.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 102 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2379
+|   End: Line 307  File Position $29BA
++------------------------------------------------------------------------------
+| Script size 1601
+| Bytes Inserted 1601
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 113 msecs
+ins\S11\S11C211.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 19 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 144 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $25C9
+|   End: Line 892  File Position $3746
++------------------------------------------------------------------------------
+| Script size 4477
+| Bytes Inserted 4477
+|
+| Command Execution Listing
+|   WHB: 24
+|   WLB: 24
+|
+| Pointer Listing
+|   General Pointers Written: 48
++------------------------------------------------------------------------------
+
+Execution time: 167 msecs
+ins\S11\S11C212.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 12 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 110 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1D51
+|   End: Line 524  File Position $25B4
++------------------------------------------------------------------------------
+| Script size 2147
+| Bytes Inserted 2147
+|
+| Command Execution Listing
+|   WHB: 25
+|   WLB: 25
+|
+| Pointer Listing
+|   General Pointers Written: 50
++------------------------------------------------------------------------------
+
+Execution time: 127 msecs
+ins\S11\S11C219.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 94 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2949
+|   End: Line 298  File Position $2DCA
++------------------------------------------------------------------------------
+| Script size 1153
+| Bytes Inserted 1153
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 105 msecs
+ins\S11\S11C231.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 109 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2165
+|   End: Line 465  File Position $2A78
++------------------------------------------------------------------------------
+| Script size 2323
+| Bytes Inserted 2323
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 123 msecs
+ins\S11\S11C232.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 27 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 151 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $357A
+|   End: Line 1191  File Position $4999
++------------------------------------------------------------------------------
+| Script size 5151
+| Bytes Inserted 5151
+|
+| Command Execution Listing
+|   WHB: 59
+|   WLB: 59
+|
+| Pointer Listing
+|   General Pointers Written: 118
++------------------------------------------------------------------------------
+
+Execution time: 182 msecs
+ins\S11\S11C237.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 20 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 124 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2321
+|   End: Line 801  File Position $31BC
++------------------------------------------------------------------------------
+| Script size 3739
+| Bytes Inserted 3739
+|
+| Command Execution Listing
+|   WHB: 38
+|   WLB: 38
+|
+| Pointer Listing
+|   General Pointers Written: 76
++------------------------------------------------------------------------------
+
+Execution time: 150 msecs
+ins\S11\S11C238.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 13 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 118 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3779
+|   End: Line 603  File Position $42EC
++------------------------------------------------------------------------------
+| Script size 2931
+| Bytes Inserted 2931
+|
+| Command Execution Listing
+|   WHB: 25
+|   WLB: 25
+|
+| Pointer Listing
+|   General Pointers Written: 50
++------------------------------------------------------------------------------
+
+Execution time: 138 msecs
+ins\S11\S11C257.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $CD1
+|   End: Line 26  File Position $D13
++------------------------------------------------------------------------------
+| Script size 66
+| Bytes Inserted 66
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 84 msecs
+ins\S11\S11C258.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $11E5
+|   End: Line 172  File Position $1527
++------------------------------------------------------------------------------
+| Script size 834
+| Bytes Inserted 834
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S11\S11C271.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 106 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $799
+|   End: Line 387  File Position $EE3
++------------------------------------------------------------------------------
+| Script size 1866
+| Bytes Inserted 1866
+|
+| Command Execution Listing
+|   WHB: 11
+|   WLB: 11
+|
+| Pointer Listing
+|   General Pointers Written: 22
++------------------------------------------------------------------------------
+
+Execution time: 119 msecs
+ins\S11\S11C281.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 110 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1C1D
+|   End: Line 485  File Position $2540
++------------------------------------------------------------------------------
+| Script size 2339
+| Bytes Inserted 2339
+|
+| Command Execution Listing
+|   WHB: 16
+|   WLB: 16
+|
+| Pointer Listing
+|   General Pointers Written: 32
++------------------------------------------------------------------------------
+
+Execution time: 125 msecs
+ins\S11\S11C287.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 96 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $203C
+|   End: Line 224  File Position $2498
++------------------------------------------------------------------------------
+| Script size 1116
+| Bytes Inserted 1116
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 105 msecs
+ins\S12\S12C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1029
+|   End: Line 188  File Position $141D
++------------------------------------------------------------------------------
+| Script size 1012
+| Bytes Inserted 1012
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 96 msecs
+ins\S12\S12C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 21 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 128 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3A15
+|   End: Line 962  File Position $4937
++------------------------------------------------------------------------------
+| Script size 3874
+| Bytes Inserted 3874
+|
+| Command Execution Listing
+|   WHB: 44
+|   WLB: 44
+|
+| Pointer Listing
+|   General Pointers Written: 88
++------------------------------------------------------------------------------
+
+Execution time: 153 msecs
+ins\S12\S12C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 93 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1449
+|   End: Line 232  File Position $186B
++------------------------------------------------------------------------------
+| Script size 1058
+| Bytes Inserted 1058
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S12\S12C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 10 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 107 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $32E9
+|   End: Line 449  File Position $3B8F
++------------------------------------------------------------------------------
+| Script size 2214
+| Bytes Inserted 2214
+|
+| Command Execution Listing
+|   WHB: 18
+|   WLB: 18
+|
+| Pointer Listing
+|   General Pointers Written: 36
++------------------------------------------------------------------------------
+
+Execution time: 123 msecs
+ins\S12\S12C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 15 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 117 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $216D
+|   End: Line 698  File Position $2C32
++------------------------------------------------------------------------------
+| Script size 2757
+| Bytes Inserted 2757
+|
+| Command Execution Listing
+|   WHB: 30
+|   WLB: 30
+|
+| Pointer Listing
+|   General Pointers Written: 60
++------------------------------------------------------------------------------
+
+Execution time: 136 msecs
+ins\S12\S12C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 19 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 136 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $25B6
+|   End: Line 853  File Position $352A
++------------------------------------------------------------------------------
+| Script size 3956
+| Bytes Inserted 3956
+|
+| Command Execution Listing
+|   WHB: 31
+|   WLB: 31
+|
+| Pointer Listing
+|   General Pointers Written: 62
++------------------------------------------------------------------------------
+
+Execution time: 159 msecs
+ins\S12\S12C091.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 99 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $18F4
+|   End: Line 323  File Position $201B
++------------------------------------------------------------------------------
+| Script size 1831
+| Bytes Inserted 1831
+|
+| Command Execution Listing
+|   WHB: 10
+|   WLB: 10
+|
+| Pointer Listing
+|   General Pointers Written: 20
++------------------------------------------------------------------------------
+
+Execution time: 110 msecs
+ins\S13\S13C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 77 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $DC0
+|   End: Line 26  File Position $E18
++------------------------------------------------------------------------------
+| Script size 88
+| Bytes Inserted 88
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 83 msecs
+ins\S13\S13C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 114 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1AB6
+|   End: Line 151  File Position $1DF4
++------------------------------------------------------------------------------
+| Script size 830
+| Bytes Inserted 830
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 122 msecs
+ins\S13\S13C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 109 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1D41
+|   End: Line 68  File Position $1E4D
++------------------------------------------------------------------------------
+| Script size 268
+| Bytes Inserted 268
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 114 msecs
+ins\S14\S14C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $E14
+|   End: Line 128  File Position $F66
++------------------------------------------------------------------------------
+| Script size 338
+| Bytes Inserted 338
+|
+| Command Execution Listing
+|   WHB: 12
+|   WLB: 12
+|
+| Pointer Listing
+|   General Pointers Written: 24
++------------------------------------------------------------------------------
+
+Execution time: 94 msecs
+ins\S14\S14C012.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 88 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $EA8
+|   End: Line 128  File Position $FFA
++------------------------------------------------------------------------------
+| Script size 338
+| Bytes Inserted 338
+|
+| Command Execution Listing
+|   WHB: 12
+|   WLB: 12
+|
+| Pointer Listing
+|   General Pointers Written: 24
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S14\S14C013.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 87 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $10B8
+|   End: Line 148  File Position $127C
++------------------------------------------------------------------------------
+| Script size 452
+| Bytes Inserted 452
+|
+| Command Execution Listing
+|   WHB: 13
+|   WLB: 13
+|
+| Pointer Listing
+|   General Pointers Written: 26
++------------------------------------------------------------------------------
+
+Execution time: 93 msecs
+ins\S14\S14C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 93 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $13BE
+|   End: Line 176  File Position $16B6
++------------------------------------------------------------------------------
+| Script size 760
+| Bytes Inserted 760
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 102 msecs
+ins\S14\S14C022.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 110 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3B7A
+|   End: Line 424  File Position $4485
++------------------------------------------------------------------------------
+| Script size 2315
+| Bytes Inserted 2315
+|
+| Command Execution Listing
+|   WHB: 13
+|   WLB: 13
+|
+| Pointer Listing
+|   General Pointers Written: 26
++------------------------------------------------------------------------------
+
+Execution time: 124 msecs
+ins\S14\S14C023.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 106 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3F7A
+|   End: Line 392  File Position $46D2
++------------------------------------------------------------------------------
+| Script size 1880
+| Bytes Inserted 1880
+|
+| Command Execution Listing
+|   WHB: 13
+|   WLB: 13
+|
+| Pointer Listing
+|   General Pointers Written: 26
++------------------------------------------------------------------------------
+
+Execution time: 119 msecs
+ins\S14\S14C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 92 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1821
+|   End: Line 195  File Position $1B0E
++------------------------------------------------------------------------------
+| Script size 749
+| Bytes Inserted 749
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 101 msecs
+ins\S14\S14C032.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 95 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2AF6
+|   End: Line 147  File Position $2DD4
++------------------------------------------------------------------------------
+| Script size 734
+| Bytes Inserted 734
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 103 msecs
+ins\S14\S14C033.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1502
+|   End: Line 124  File Position $1702
++------------------------------------------------------------------------------
+| Script size 512
+| Bytes Inserted 512
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 91 msecs
+ins\S14\S14C042.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 88 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1BA4
+|   End: Line 129  File Position $1E18
++------------------------------------------------------------------------------
+| Script size 628
+| Bytes Inserted 628
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 96 msecs
+ins\S14\S14C043.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $C8F
+|   End: Line 36  File Position $D49
++------------------------------------------------------------------------------
+| Script size 186
+| Bytes Inserted 186
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 90 msecs
+ins\S14\S14C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 13 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 128 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $945
+|   End: Line 570  File Position $191E
++------------------------------------------------------------------------------
+| Script size 4057
+| Bytes Inserted 4057
+|
+| Command Execution Listing
+|   WHB: 21
+|   WLB: 21
+|
+| Pointer Listing
+|   General Pointers Written: 42
++------------------------------------------------------------------------------
+
+Execution time: 148 msecs
+ins\S14\S14C053.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 20 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 141 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $28B9
+|   End: Line 814  File Position $3D98
++------------------------------------------------------------------------------
+| Script size 5343
+| Bytes Inserted 5343
+|
+| Command Execution Listing
+|   WHB: 29
+|   WLB: 29
+|
+| Pointer Listing
+|   General Pointers Written: 58
++------------------------------------------------------------------------------
+
+Execution time: 169 msecs
+ins\S14\S14C063.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1238
+|   End: Line 98  File Position $137C
++------------------------------------------------------------------------------
+| Script size 324
+| Bytes Inserted 324
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 90 msecs
+ins\S14\S14C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $17B8
+|   End: Line 69  File Position $18D5
++------------------------------------------------------------------------------
+| Script size 285
+| Bytes Inserted 285
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 89 msecs
+ins\S14\S14C073.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 98 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $4562
+|   End: Line 306  File Position $4B4B
++------------------------------------------------------------------------------
+| Script size 1513
+| Bytes Inserted 1513
+|
+| Command Execution Listing
+|   WHB: 11
+|   WLB: 11
+|
+| Pointer Listing
+|   General Pointers Written: 22
++------------------------------------------------------------------------------
+
+Execution time: 109 msecs
+ins\S14\S14C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $DD8
+|   End: Line 65  File Position $E70
++------------------------------------------------------------------------------
+| Script size 152
+| Bytes Inserted 152
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 88 msecs
+ins\S14\S14C082.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 83 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $25E4
+|   End: Line 143  File Position $2817
++------------------------------------------------------------------------------
+| Script size 563
+| Bytes Inserted 563
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S14\S14C083.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 93 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $6A8
+|   End: Line 124  File Position $8A7
++------------------------------------------------------------------------------
+| Script size 511
+| Bytes Inserted 511
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S14\S14C101.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 46 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 185 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $29DA
+|   End: Line 2017  File Position $4BEF
++------------------------------------------------------------------------------
+| Script size 8725
+| Bytes Inserted 8725
+|
+| Command Execution Listing
+|   WHB: 114
+|   WLB: 114
+|
+| Pointer Listing
+|   General Pointers Written: 228
++------------------------------------------------------------------------------
+
+Execution time: 235 msecs
+ins\S14\S14C103.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1091
+|   End: Line 201  File Position $1545
++------------------------------------------------------------------------------
+| Script size 1204
+| Bytes Inserted 1204
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S14\S14C122.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 85 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $11B1
+|   End: Line 41  File Position $1283
++------------------------------------------------------------------------------
+| Script size 210
+| Bytes Inserted 210
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S14\S14C221.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $3441
+|   End: Line 148  File Position $368D
++------------------------------------------------------------------------------
+| Script size 588
+| Bytes Inserted 588
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S14\S14C223.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2F1D
+|   End: Line 140  File Position $30F8
++------------------------------------------------------------------------------
+| Script size 475
+| Bytes Inserted 475
+|
+| Command Execution Listing
+|   WHB: 11
+|   WLB: 11
+|
+| Pointer Listing
+|   General Pointers Written: 22
++------------------------------------------------------------------------------
+
+Execution time: 97 msecs
+ins\S14\S14C291.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 91 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $F44
+|   End: Line 175  File Position $11DC
++------------------------------------------------------------------------------
+| Script size 664
+| Bytes Inserted 664
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 96 msecs
+ins\S14\S14C292.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 98 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2652
+|   End: Line 179  File Position $293E
++------------------------------------------------------------------------------
+| Script size 748
+| Bytes Inserted 748
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 107 msecs
+ins\S14\S14C293.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1174
+|   End: Line 94  File Position $127F
++------------------------------------------------------------------------------
+| Script size 267
+| Bytes Inserted 267
+|
+| Command Execution Listing
+|   WHB: 4
+|   WLB: 4
+|
+| Pointer Listing
+|   General Pointers Written: 8
++------------------------------------------------------------------------------
+
+Execution time: 85 msecs
+ins\S14\S14C301.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 83 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $89D
+|   End: Line 58  File Position $9DC
++------------------------------------------------------------------------------
+| Script size 319
+| Bytes Inserted 319
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S14\S14C302.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 83 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $8A5
+|   End: Line 58  File Position $9E4
++------------------------------------------------------------------------------
+| Script size 319
+| Bytes Inserted 319
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 91 msecs
+ins\S14\S14C303.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1418
+|   End: Line 126  File Position $1666
++------------------------------------------------------------------------------
+| Script size 590
+| Bytes Inserted 590
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S16\S16C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $5F3
+|   End: Line 154  File Position $915
++------------------------------------------------------------------------------
+| Script size 802
+| Bytes Inserted 802
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 101 msecs
+ins\S16\S16C031.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 91 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $13F9
+|   End: Line 188  File Position $17AB
++------------------------------------------------------------------------------
+| Script size 946
+| Bytes Inserted 946
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S16\S16C051.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 98 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2375
+|   End: Line 111  File Position $2551
++------------------------------------------------------------------------------
+| Script size 476
+| Bytes Inserted 476
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 105 msecs
+ins\S16\S16C052.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 6 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 96 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2E30
+|   End: Line 272  File Position $32A9
++------------------------------------------------------------------------------
+| Script size 1145
+| Bytes Inserted 1145
+|
+| Command Execution Listing
+|   WHB: 12
+|   WLB: 12
+|
+| Pointer Listing
+|   General Pointers Written: 24
++------------------------------------------------------------------------------
+
+Execution time: 109 msecs
+ins\S16\S16C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 8 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 109 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $11D5
+|   End: Line 341  File Position $19FA
++------------------------------------------------------------------------------
+| Script size 2085
+| Bytes Inserted 2085
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 122 msecs
+ins\S16\S16C091.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 7 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 95 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $B29
+|   End: Line 284  File Position $F69
++------------------------------------------------------------------------------
+| Script size 1088
+| Bytes Inserted 1088
+|
+| Command Execution Listing
+|   WHB: 12
+|   WLB: 12
+|
+| Pointer Listing
+|   General Pointers Written: 24
++------------------------------------------------------------------------------
+
+Execution time: 106 msecs
+ins\S16\S16C111.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 6 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 95 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2B46
+|   End: Line 262  File Position $30D1
++------------------------------------------------------------------------------
+| Script size 1419
+| Bytes Inserted 1419
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 105 msecs
+ins\S16\S16C151.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 97 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $AF4
+|   End: Line 227  File Position $E85
++------------------------------------------------------------------------------
+| Script size 913
+| Bytes Inserted 913
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 103 msecs
+ins\S16\S16C221.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2DCD
+|   End: Line 150  File Position $309F
++------------------------------------------------------------------------------
+| Script size 722
+| Bytes Inserted 722
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S16\S16C251.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 94 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $B0B
+|   End: Line 232  File Position $EF2
++------------------------------------------------------------------------------
+| Script size 999
+| Bytes Inserted 999
+|
+| Command Execution Listing
+|   WHB: 9
+|   WLB: 9
+|
+| Pointer Listing
+|   General Pointers Written: 18
++------------------------------------------------------------------------------
+
+Execution time: 100 msecs
+ins\S16\S16C291.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 91 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1B1C
+|   End: Line 128  File Position $1E0E
++------------------------------------------------------------------------------
+| Script size 754
+| Bytes Inserted 754
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 99 msecs
+ins\S16\S16C301.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 102 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1C1C
+|   End: Line 237  File Position $20E6
++------------------------------------------------------------------------------
+| Script size 1226
+| Bytes Inserted 1226
+|
+| Command Execution Listing
+|   WHB: 5
+|   WLB: 5
+|
+| Pointer Listing
+|   General Pointers Written: 10
++------------------------------------------------------------------------------
+
+Execution time: 114 msecs
+ins\S16\S16C321.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 80 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $4D78
+|   End: Line 47  File Position $4E04
++------------------------------------------------------------------------------
+| Script size 140
+| Bytes Inserted 140
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 86 msecs
+ins\S17\S17C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 14 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 115 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2ABE
+|   End: Line 592  File Position $34D8
++------------------------------------------------------------------------------
+| Script size 2586
+| Bytes Inserted 2586
+|
+| Command Execution Listing
+|   WHB: 27
+|   WLB: 27
+|
+| Pointer Listing
+|   General Pointers Written: 54
++------------------------------------------------------------------------------
+
+Execution time: 134 msecs
+ins\S17\S17C021.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 24 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 153 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $423E
+|   End: Line 1111  File Position $5725
++------------------------------------------------------------------------------
+| Script size 5351
+| Bytes Inserted 5351
+|
+| Command Execution Listing
+|   WHB: 37
+|   WLB: 37
+|
+| Pointer Listing
+|   General Pointers Written: 74
++------------------------------------------------------------------------------
+
+Execution time: 181 msecs
+ins\S17\S17C022.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 90 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $109E
+|   End: Line 110  File Position $1264
++------------------------------------------------------------------------------
+| Script size 454
+| Bytes Inserted 454
+|
+| Command Execution Listing
+|   WHB: 6
+|   WLB: 6
+|
+| Pointer Listing
+|   General Pointers Written: 12
++------------------------------------------------------------------------------
+
+Execution time: 94 msecs
+ins\S17\S17C023.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 87 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1481
+|   End: Line 59  File Position $15A5
++------------------------------------------------------------------------------
+| Script size 292
+| Bytes Inserted 292
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 95 msecs
+ins\S17\S17C024.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 82 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $FE9
+|   End: Line 54  File Position $10DB
++------------------------------------------------------------------------------
+| Script size 242
+| Bytes Inserted 242
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 88 msecs
+ins\S17\S17C025.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 83 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $FE9
+|   End: Line 59  File Position $10F1
++------------------------------------------------------------------------------
+| Script size 264
+| Bytes Inserted 264
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 91 msecs
+ins\S17\S17C061.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1101
+|   End: Line 203  File Position $140B
++------------------------------------------------------------------------------
+| Script size 778
+| Bytes Inserted 778
+|
+| Command Execution Listing
+|   WHB: 10
+|   WLB: 10
+|
+| Pointer Listing
+|   General Pointers Written: 20
++------------------------------------------------------------------------------
+
+Execution time: 95 msecs
+ins\S17\S17C091.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $4DA8
+|   End: Line 48  File Position $4E34
++------------------------------------------------------------------------------
+| Script size 140
+| Bytes Inserted 140
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 90 msecs
+ins\S99\S99C011.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 5 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 89 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $120A
+|   End: Line 173  File Position $14A7
++------------------------------------------------------------------------------
+| Script size 669
+| Bytes Inserted 669
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 95 msecs
+ins\S99\S99C041.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 3 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 84 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $A81
+|   End: Line 125  File Position $C27
++------------------------------------------------------------------------------
+| Script size 422
+| Bytes Inserted 422
+|
+| Command Execution Listing
+|   WHB: 7
+|   WLB: 7
+|
+| Pointer Listing
+|   General Pointers Written: 14
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S99\S99C071.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $A39
+|   End: Line 80  File Position $B73
++------------------------------------------------------------------------------
+| Script size 314
+| Bytes Inserted 314
+|
+| Command Execution Listing
+|   WHB: 3
+|   WLB: 3
+|
+| Pointer Listing
+|   General Pointers Written: 6
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs
+ins\S99\S99C081.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 9 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 95 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $E59
+|   End: Line 367  File Position $1438
++------------------------------------------------------------------------------
+| Script size 1503
+| Bytes Inserted 1503
+|
+| Command Execution Listing
+|   WHB: 19
+|   WLB: 19
+|
+| Pointer Listing
+|   General Pointers Written: 38
++------------------------------------------------------------------------------
+
+Execution time: 108 msecs
+ins\S99\S99C101.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 4 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 93 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $1855
+|   End: Line 150  File Position $1A44
++------------------------------------------------------------------------------
+| Script size 495
+| Bytes Inserted 495
+|
+| Command Execution Listing
+|   WHB: 8
+|   WLB: 8
+|
+| Pointer Listing
+|   General Pointers Written: 16
++------------------------------------------------------------------------------
+
+Execution time: 98 msecs
+ins\S99\S99C111.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 1 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 80 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $690
+|   End: Line 25  File Position $6D0
++------------------------------------------------------------------------------
+| Script size 64
+| Bytes Inserted 64
+|
+| Command Execution Listing
+|   WHB: 1
+|   WLB: 1
+|
+| Pointer Listing
+|   General Pointers Written: 2
++------------------------------------------------------------------------------
+
+Execution time: 85 msecs
+ins\S99\S99C121.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 11 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 113 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $2F95
+|   End: Line 465  File Position $3994
++------------------------------------------------------------------------------
+| Script size 2559
+| Bytes Inserted 2559
+|
+| Command Execution Listing
+|   WHB: 15
+|   WLB: 15
+|
+| Pointer Listing
+|   General Pointers Written: 30
++------------------------------------------------------------------------------
+
+Execution time: 128 msecs
+ins\S99\S99C981.BIN 
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 86 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 6  File Position $14D0
+|   End: Line 84  File Position $1652
++------------------------------------------------------------------------------
+| Script size 386
+| Bytes Inserted 386
+|
+| Command Execution Listing
+|   WHB: 2
+|   WLB: 2
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 92 msecs

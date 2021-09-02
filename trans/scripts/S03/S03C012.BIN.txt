@@ -80,7 +80,10 @@ sick!\n
 sick!
 <$1B>
 //３１\n２\n３
-３１\n２\n３
+３１
+<$0C>
+２\n
+３
 <$00><$17><$00>
 
 // Pos: 000025AA
@@ -207,42 +210,13 @@ old password.
 
 #WHB(PTR, $00000B29)
 
-// #WLB(PTR, $00001CEE)
-
-// #WHB(PTR, $00001CEF)
-
-// #WLB(PTR, $00001D5A)
-
-// #WHB(PTR, $00001D5B)
-
-// #WLB(PTR, $00001D9A)
-
-// #WHB(PTR, $00001D9B)
-
-// #WLB(PTR, $00001DFA)
-
-// #WHB(PTR, $00001DFB)
-
-// #WLB(PTR, $00001E66)
-
-// #WHB(PTR, $00001E67)
-
-// #WLB(PTR, $00001EA2)
-
-// #WHB(PTR, $00001EA3)
-
 <$10><$0B>
-//エイプリル：
-April:
+エイプリル：
 <$0D>
-//\n閉まってたわ。\nホワイトイーグルに教えてもらったのよ。
-\n
-We're sorry for\n
-scaring you. White
-<$0C>
-Eagle told us your\n
-password.
+\n閉まってたわ。\nホワイトイーグルに教えてもらったのよ。
 <$00>
+
+
 
 // Pos: 000026AA
 
