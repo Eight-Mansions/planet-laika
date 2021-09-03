@@ -85,9 +85,9 @@ Let's go see.
 
 // Pos: 00002F86
 
-#WLB(PTR, $00001238)
+#WLB(PTR, $000012FC)
 
-#WHB(PTR, $00001239)
+#WHB(PTR, $000012FD)
 
 <$10><$0B>
 //リトル：
@@ -103,9 +103,9 @@ new "good boy"?
 
 // Pos: 00002FA7
 
-#WLB(PTR, $000012FC)
+#WLB(PTR, $000011DC)
 
-#WHB(PTR, $000012FD)
+#WHB(PTR, $000011DD)
 
 <$10><$0B>
 //リトル：
@@ -119,9 +119,21 @@ Red?
 
 // Pos: 00002FBF
 
-#WLB(PTR, $00001320)
+#WLB(PTR, $00001238)
 
-#WHB(PTR, $00001321)
+#WHB(PTR, $00001239)
+
+#WLB(PTR, $000013CA)
+
+#WHB(PTR, $000013CB)
+
+#WLB(PTR, $000014F6)
+
+#WHB(PTR, $000014F7)
+
+#WLB(PTR, $000019EE)
+
+#WHB(PTR, $000019EF)
 
 <$10><$0B>
 //リトル：
@@ -135,9 +147,9 @@ Red?
 
 // Pos: 00002FD7
 
-#WLB(PTR, $000013CA)
+#WLB(PTR, $00001320)
 
-#WHB(PTR, $000013CB)
+#WHB(PTR, $00001321)
 
 <$11><$0B>
 //レッド：
