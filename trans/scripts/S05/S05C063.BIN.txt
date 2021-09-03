@@ -50,9 +50,6 @@ Commme...to me!
 
 // Pos: 00002675
 
-#WLB(PTR, $000019CA)
-
-#WHB(PTR, $000019CB)
 
 #WLB(PTR, $000025D0)
 
