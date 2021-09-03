@@ -638,10 +638,6 @@ Marrakech Flower
 
 // Pos: 00002086
 
-#WLB(PTR, $00001756)
-
-#WHB(PTR, $00001757)
-
 #WLB(PTR, $00001818)
 
 #WHB(PTR, $00001819)
@@ -1122,14 +1118,6 @@ Greatly boosts wisdom
 <$00><$00>
 
 // Pos: 00002222
-
-#WLB(PTR, $00000352)
-
-#WHB(PTR, $00000353)
-
-#WLB(PTR, $00001036)
-
-#WHB(PTR, $00001037)
 
 #WLB(PTR, $000018D4)
 
