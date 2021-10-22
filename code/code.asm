@@ -238,10 +238,12 @@ noIncreaseX:
 	nop
 	
 newline:
-	la t1, ovr_flow
+	la t1, cur_width
 	lb v0, 0xA1D4(v0)
+	addiu t2, r0, 0x0C
+	sb t2, 0(t1)
 	j 0x8001d630
-	sb v1,  0(t1) ; We don't care what # it is as long as it isn't 0
+	sb t2,  2(t1) ; We don't care what # it is as long as it isn't 0
 	
 
 variables:
