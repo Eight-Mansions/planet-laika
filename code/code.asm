@@ -35,10 +35,13 @@
 	
 ; Increase the allowed width by 2 more pixels to make it so i have a bit more wiggle room
 ;.org 0x8001d030
-;	addiu v1, a0, 0x22
+;	addiu v1, a0, 0x23
 
 ;.org 0x8001d028
 ;	addiu v0, a3, 0x03
+
+.org 0x8001d028
+	addu v0, a1, t2
 	
 .org 0x8001d03c
 	addu v0, a1, t1
@@ -242,10 +245,12 @@ increaseXCoord:
 	la t1, cur_width
 	lb t1,  0(t1)
 	lb a1, 0x02(s1)
-	slti t1, t1, 0x0B
+	slti t1, t1, 0x0C
+	xor t2, t2
 	bne t1, r0, noIncreaseX
 	xor t1, t1
 	addiu t1, r0, 0x03
+	addiu t2, r0, 0x06
 noIncreaseX:
 	j 0x8001d028
 	nop
