@@ -13,8 +13,9 @@
 
 <$10>
 //自動着陸装置、確認。
-AUTO LANDING SYSTEM,\n
-CHECK.
+AUTO \n
+LANDING SYSTEM, \n
+CHECK. 
 <$00>
 
 // Pos: 000039B5
