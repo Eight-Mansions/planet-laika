@@ -48,8 +48,8 @@
 	
 ; -------------------------------
 ; Below is when we hit a newline character (0x0A).  We need to set it to "overflow" so it'll increas the x position (why it has to happen who knows...)
-;.org 0x8001d628
-;	j newline
+.org 0x8001d628
+	j newline
 	
 ; Increase the amount of letters weve seen
 .org 0x8001deac
@@ -243,12 +243,16 @@ increaseLetterBuffer:
 ;8001d03c : ADDIU   00000001 (v0), 00000020 (a1), 0003 (3),
 increaseXCoord:
 	la t1, cur_width
+	lb t2, 3(t1) ; get if newline will occur
+	sb r0, 3(t1) ; we dont care if it gets reset everytime
 	lb t1,  0(t1)
+	bne t2, r0, increaseX
 	lb a1, 0x02(s1)
 	slti t1, t1, 0x0C
 	xor t2, t2
 	bne t1, r0, noIncreaseX
 	xor t1, t1
+increaseX:
 	addiu t1, r0, 0x03
 	addiu t2, r0, 0x06
 noIncreaseX:
@@ -269,9 +273,16 @@ getLetterWidth:
 	la t0, nex_width
 	addiu t1, a0, 0xFFE0
 	addu t2, t2, t1
+	lb t1, 1(v1)
 	lb t2, 0(t2)
-	j 0x8001e518	
+	addiu t1, t1, 0xFFF6 ;-0x0A
+	sb r0, 2(t0) ; new_line flag
+	bne t1, r0, not_newline
 	sb t2, 0(t0)
+	addiu t1, t1, 0x01
+	sb t1, 2(t0) ; new line flag
+not_newline:
+	j 0x8001e518	
 	nop
 
 variables:
@@ -281,7 +292,7 @@ nex_width:
 	.db 0x08
 ovr_flow:
 	.db 0
-padding:
+new_line:
 	.db 0
 tmp_buffer:
 	.dw 0
