@@ -54,6 +54,9 @@
 ; Increase the amount of letters weve seen
 .org 0x8001deac
 	addu v0, v0, t4 ; t4 holds our overflow...
+	
+.org 0x8001d5bc
+	jal resetOnEnd
 ;------------------------------------
 
 ; Setup current width of the letter
@@ -284,6 +287,13 @@ getLetterWidth:
 not_newline:
 	j 0x8001e518	
 	nop
+	
+resetOnEnd:
+	la t1, cur_width
+	addiu t2, r0, 0x0C
+	sb t2, 0(t1)
+	j 0x800234cc
+	sb t2,  2(t1) ; We don't care what # it is as long as it isn't 0
 
 variables:
 cur_width:
@@ -300,7 +310,7 @@ tmp_buffer:
 ovr_buffer:
 	.db 0
 
-.org 0x80063900
+.org 0x80063B00
 letter_widths:
 	.db 0x00
 	.db 0x04
