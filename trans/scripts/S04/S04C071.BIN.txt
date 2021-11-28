@@ -13,7 +13,7 @@
 
 <$12>
 //お客さんなの？
-Are you tourists?
+Are you tourists? 
 <$00>
 
 // Pos: 00002FBF
@@ -26,10 +26,9 @@ Are you tourists?
 //コスマス：
 Cosmas:
 <$0D>
-//\nお客さん？
-\n
-You're tourists,\n
-right? I'm Cosmas.
+// \nお客さん？
+ \n
+You're tourists, right? I'm Cosmas. 
 <$00>
 
 // Pos: 00002FCF
@@ -42,10 +41,10 @@ right? I'm Cosmas.
 //エイプリル：
 April:
 <$0D>
-//\nちょっと開いていい？
-\n
-Oh! Uhm, can we ask\n
-you something, Cosmas?
+// \nちょっと開いていい？
+ \n
+Oh! Uhm, can we ask you something, \n
+Cosmas? 
 <$00>
 
 // Pos: 00002FE5
@@ -58,13 +57,10 @@ you something, Cosmas?
 //コスマス：
 Cosmas:
 <$0D>
-//\n僕、コスマスだよ。 うとうとしてたんだ。\nもう寝ようと思って。消灯時間さ。
-\n
-I was nodding off,\n
-and was about to head
-<$0C>
-home. It's almost\n
-lights-out time.
+// \n僕、コスマスだよ。 うとうとしてたんだ。 \nもう寝ようと思って。消灯時間さ。
+ \n
+I was nodding off, and was about to \n
+head home. It's almost lights-out time. 
 <$00>
 
 // Pos: 0000301B
@@ -77,13 +73,12 @@ lights-out time.
 //エイプリル：
 April:
 <$0D>
-//\nそう…今晩は、コスマス。\nねぇ、メディスンマンってどんな人なの？
-\n
-Well, it's okay if\n
-you go now, but
+// \nそう…今晩は、コスマス。 \nねぇ、メディスンマンってどんな人なの？
+ \n
+Well, it's okay if you go now, but \n
+otherwise, do you know the medicine
 <$0C>
-otherwise, do you\n
-know the medicine men?
+men? 
 <$00>
 
 // Pos: 00003048
@@ -96,13 +91,10 @@ know the medicine men?
 //コスマス：
 Cosmas:
 <$0D>
-//\nお祈りしたり、おどったりする人だよ。\nメディスンマンって、\n病気を洽す人って意味らしいよ。
-\n
-A medicine man is\n
-someone who sings and
-<$0C>
-dances to help the\n
-sick.
+// \nお祈りしたり、おどったりする人だよ。 \nメディスンマンって、 \n病気を洽す人って意味らしいよ。
+ \n
+A medicine man is someone who sings \n
+and dances to help the sick. 
 <$00>
 
 // Pos: 00003084
@@ -115,13 +107,12 @@ sick.
 //エイプリル：
 April:
 <$0D>
-//\nどうして彼らは離れた場所にいるの？\nコロニーでみんなと一緒じゃないの？
-\n
-What makes the\n
-medicine men so
+// \nどうして彼らは離れた場所にいるの？ \nコロニーでみんなと一緒じゃないの？
+ \n
+What makes the medicine men so \n
+different? Don't they live among the
 <$0C>
-different? Don't they\n
-live among the colony?
+colony? 
 <$00>
 
 // Pos: 000030B8
@@ -134,13 +125,10 @@ live among the colony?
 //コスマス：
 Cosmas:
 <$0D>
-//\n彼らは特別なんだよ。超能力があるんだ。\nでも、マウンテンはインチキだって言ってる。
-\n
-The medicine men have\n
-ESP, but Mountain
-<$0C>
-says their powers are\n
-fake.
+// \n彼らは特別なんだよ。超能力があるんだ。 \nでも、マウンテンはインチキだって言ってる。
+ \n
+The medicine men have ESP, but \n
+Mountain says their powers are fake. 
 <$00>
 
 // Pos: 000030F1
@@ -153,9 +141,9 @@ fake.
 //エイプリル：
 April:
 <$0D>
-//\nマウンテンって？
-\n
-And who is Mountain?
+// \nマウンテンって？
+ \n
+And who is Mountain? 
 <$00>
 
 // Pos: 00003104
@@ -168,25 +156,22 @@ And who is Mountain?
 //コスマス：
 Cosmas:
 <$0D>
-//\nハウスでいろいろ研究してる。\nメディスンマンのロッジに入る暗証番号を\n教えてくれるよ。
-\n
-He's a researcher at\n
-Psycho Lab, but he
+// \nハウスでいろいろ研究してる。 \nメディスンマンのロッジに入る暗証番号を \n教えてくれるよ。
+ \n
+He's a researcher at Psycho Lab, but he \n
+knows the PIN to enter the medicine
 <$0C>
-knows the PIN to\n
-enter the medicine\n
-men's lodge.
+men's lodge. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nマウンテンはこっそり\nロッジの様子をさぐったりしてるんだ。
-\n
-Mountain likes to\n
-stalk the medicine
+// \nマウンテンはこっそり \nロッジの様子をさぐったりしてるんだ。
+ \n
+Mountain likes to stalk the medicine \n
+men and watch their activities in
 <$0C>
-men and watch their\n
-activities in secret.
+secret. 
 <$00>
 
 // Pos: 00003169
@@ -199,10 +184,9 @@ activities in secret.
 //エイプリル：
 April:
 <$0D>
-//\nどうしてこっそりなの？
-\n
-Why is he acting in\n
-secret?
+// \nどうしてこっそりなの？
+ \n
+Why is he acting in secret? 
 <$00>
 
 // Pos: 0000317F
@@ -215,23 +199,20 @@ secret?
 //コスマス：
 Cosmas:
 <$0D>
-//\nマウンテンたちと\nメディスンマンは仲が悪いんだ。
-\n
-Mountain and the\n
-medicine men are not
-<$0C>
-on good terms.
+// \nマウンテンたちと \nメディスンマンは仲が悪いんだ。
+ \n
+Mountain and the medicine men are not \n
+on good terms. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nメディスンマンは金星人を\n信じちゃいないからね。
-\n
-Because the medicine\n
-men don't believe in
+// \nメディスンマンは金星人を \n信じちゃいないからね。
+ \n
+Because the medicine men don't \n
+believe in the Venusians the way he
 <$0C>
-the Venusians the way\n
-he does.
+does. 
 <$00>
 
 // Pos: 000031C6
@@ -244,12 +225,10 @@ he does.
 //エイプリル：
 April:
 <$0D>
-//\n金星人？\nここには金星人もいるの？
-\n
-Venusians? Are there\n
-people from Venus
-<$0C>
-here?
+// \n金星人？ \nここには金星人もいるの？
+ \n
+Venusians? Are there people from \n
+Venus here? 
 <$00>
 
 // Pos: 000031E6
@@ -262,14 +241,12 @@ here?
 //コスマス：
 Cosmas:
 <$0D>
-//\nここにはいないさ。\n力がやって来るんだ、宇宙からね。
-\n
-Not people from\n
-Venus, no. Venusians
+// \nここにはいないさ。 \n力がやって来るんだ、宇宙からね。
+ \n
+Not people from Venus, no. Venusians \n
+are the energy being sent out through
 <$0C>
-are the energy being\n
-sent out through\n
-space from Venus.
+space from Venus. 
 <$00>
 
 // Pos: 0000320E
@@ -282,12 +259,10 @@ space from Venus.
 //エイプリル：
 April:
 <$0D>
-//\nところで、あなたのその顔、どうしたの？
-\n
-I see. Now, before I\n
-go...what happened to
-<$0C>
-your face?
+// \nところで、あなたのその顔、どうしたの？
+ \n
+I see. Now, before I go...what \n
+happened to your face? 
 <$00>
 
 // Pos: 0000322D
@@ -298,8 +273,7 @@ your face?
 
 <$12>
 //コスマス！ コスマス！ どこにいるんだ？
-Cosmas? Cosmas, where\n
-are you?
+Cosmas? Cosmas, where are you? 
 <$00>
 
 // Pos: 00003243
@@ -312,15 +286,12 @@ are you?
 //コスマス：
 Cosmas:
 <$0D>
-//\nレッドおじさんだ…もう行くね、じゃあね。
-\n
-That was Uncle Red...\n
-I have to go now, but
-<$0C>
-good luck on your\n
-trip!
+// \nレッドおじさんだ…もう行くね、じゃあね。
+ \n
+That was Uncle Red... I have to go now, \n
+but good luck on your trip!
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 

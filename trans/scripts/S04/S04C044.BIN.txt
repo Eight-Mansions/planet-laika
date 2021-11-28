@@ -12,10 +12,9 @@
 #WHB(PTR, $00000309)
 
 <$10>
-//おい、大丈夫か、お前。\nおっかないことになったのか？
-Hey, you all right?\n
-That was pretty\n
-scary, not gonna lie.
+//おい、大丈夫か、お前。 \nおっかないことになったのか？
+Hey, you all right? \n
+That was pretty scary, not gonna lie. 
 <$00>
 
 // Pos: 00001B88
@@ -28,9 +27,9 @@ scary, not gonna lie.
 //ヤング：
 Yang:
 <$0D>
-//\nおい、どうなんだ。
-\n
-What happened to you?
+// \nおい、どうなんだ。
+ \n
+What happened to you? 
 <$00>
 
 // Pos: 00001B9A
@@ -43,25 +42,21 @@ What happened to you?
 //ヤング：
 Yang:
 <$0D>
-//\nちょいと手を借りたいんだ。\nスペースルームに来てくれ。
-\n
-Let's get you some\n
-help. Come to the
-<$0C>
-space room.
+// \nちょいと手を借りたいんだ。 \nスペースルームに来てくれ。
+ \n
+Let's get you some help. Come to the \n
+space room. 
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-//\n分かるか、スペースルームだ、\nハウスにある。いいな。
-\n
-That's the space room\n
-in Psycho Lab. First
-<$0C>
-door on the right.
+// \n分かるか、スペースルームだ、 \nハウスにある。いいな。
+ \n
+That's the space room in Psycho Lab. \n
+First door on the right.
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 
 // Pos: 00001BE6
@@ -74,15 +69,13 @@ door on the right.
 //ヘロデ：
 Herod:
 <$0D>
-//\n幸福か？\nええ、どうなんだ、お前は幸福なのか？
-\n
-Are you happy? How,\n
-then? How are you
-<$0C>
-happy?
+// \n幸福か？ \nええ、どうなんだ、お前は幸福なのか？
+ \n
+Are you happy? How, then? How are \n
+you happy? 
 <$00><$00><$11>
 //誰
-誰
+誰 
 <$1E><$17><$00>
 
 // Pos: 00001C11
@@ -95,45 +88,37 @@ happy?
 //ヘロデ：
 Herod:
 <$0D>
-//\n俺の心には恐怖という名の\nタネがまかれている。
-\n
-A seed known as fear\n
-planted itself so
-<$0C>
-deeply in my mind.
+// \n俺の心には恐怖という名の \nタネがまかれている。
+ \n
+A seed known as fear planted itself so \n
+deeply in my mind. 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nこの星では何かにつけそいつが発芽する、\nワケの分からない恐怖に\n追い立てられる毎日だ。
-\n
-Something on Mars\n
-germinates this
+// \nこの星では何かにつけそいつが発芽する、 \nワケの分からない恐怖に \n追い立てられる毎日だ。
+ \n
+Something on Mars germinates this \n
+nonsensical seed. I fend it off every
 <$0C>
-nonsensical seed. I\n
-fend it off every day.
+day. 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n俺はこれまで、\n人生を実惑したことなど一度もないんだ。
-\n
-All this time, I've\n
-never truly felt like
-<$0C>
-I was living. And for\n
-what?
+// \n俺はこれまで、 \n人生を実惑したことなど一度もないんだ。
+ \n
+All this time, I've never truly felt like I \n
+was living. And for what? 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n何がいけない？ この名前か？\nただ鋭が悪いだけなのか？\nそれとも生まれてきたのが間建いなのか？
-\n
-What do I call this?\n
-Is this just my luck?
+// \n何がいけない？ この名前か？ \nただ鋭が悪いだけなのか？ \nそれとも生まれてきたのが間建いなのか？
+ \n
+What do I call this? Is this just my luck? \n
+Would I only know peace if I was never
 <$0C>
-Would I only know\n
-peace if I was never\n
-born?
+born? 
 <$00>
 

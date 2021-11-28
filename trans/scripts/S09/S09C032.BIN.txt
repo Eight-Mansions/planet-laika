@@ -15,10 +15,9 @@
 //スペーサー：
 Spacer:
 <$0D>
-//\nイーブルマインドが…吹き出したのか。
-\n
-The Evil Mind...shot\n
-out?
+// \nイーブルマインドが…吹き出したのか。
+ \n
+The Evil Mind...shot out? 
 <$00>
 
 // Pos: 0000162E
@@ -31,9 +30,9 @@ out?
 //スペーサー：
 Spacer:
 <$0D>
-//\n君は… リバー…
-\n
-Liever, it's you.
+// \n君は… リバー…
+ \n
+Liever, it's you. 
 <$00>
 
 // Pos: 00001643
@@ -46,13 +45,10 @@ Liever, it's you.
 //リバー：
 Liever:
 <$0D>
-//\nなんだかあんたをだましたみたいで…\n僕はやっぱり中途ハンパな存在なんだね…
-\n
-Ah, seems I lead you\n
-on a red herring. I'm
-<$0C>
-just a made up\n
-existence, after all.
+// \nなんだかあんたをだましたみたいで… \n僕はやっぱり中途ハンパな存在なんだね…
+ \n
+Ah, seems I lead you on a red herring. \n
+I'm just a made up existence, after all. 
 <$00>
 
 // Pos: 00001678
@@ -65,10 +61,9 @@ existence, after all.
 //スペーサー：
 Spacer:
 <$0D>
-//\nリバー、君の罪とは、本当なのか？
-\n
-Liever, were your\n
-"sins" made up too?
+// \nリバー、君の罪とは、本当なのか？
+ \n
+Liever, were your "sins" made up too? 
 <$00>
 
 // Pos: 00001698
@@ -81,24 +76,20 @@ Liever, were your\n
 //リバー：
 Liever:
 <$0D>
-//\nたぶん… いや、僕のもう一人… リトルが\n双子の子どもたちに靴下を配ったんだ…
-\n
-Maybe...? No, it was\n
-the other me. Little
+// \nたぶん… いや、僕のもう一人… リトルが \n双子の子どもたちに靴下を配ったんだ…
+ \n
+Maybe...? No, it was the other me. Little \n
+would give out stockings to twin
 <$0C>
-would give out\n
-stockings to twin\n
-children.
+children. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nクリスマスプレゼントを入れる、\n赤い靴下だよ。
-\n
-Little red stockings\n
-with Christmas
-<$0C>
-presents inside.
+// \nクリスマスプレゼントを入れる、 \n赤い靴下だよ。
+ \n
+Little red stockings with Christmas \n
+presents inside. 
 <$00>
 
 // Pos: 000016F5
@@ -111,12 +102,10 @@ presents inside.
 //スペーサー：
 Spacer:
 <$0D>
-//\n靴下…\nプレゼントは何だ？
-\n
-Stockings, huh. And\n
-what were these
-<$0C>
-"presents", exactly?
+// \n靴下… \nプレゼントは何だ？
+ \n
+Stockings, huh. And what were these \n
+"presents", exactly? 
 <$00>
 
 // Pos: 00001711
@@ -129,14 +118,12 @@ what were these
 //リバー：
 Liever:
 <$0D>
-//\nプレゼントは、悪夢だよ。\n双子たちは眠ってる間に… 姿を消した。
-\n
-The presents?\n
-Nightmares. When the
+// \nプレゼントは、悪夢だよ。 \n双子たちは眠ってる間に… 姿を消した。
+ \n
+The presents? Nightmares. When the \n
+twins fell asleep, they would both
 <$0C>
-twins fell asleep,\n
-they would both\n
-disappear.
+disappear. 
 <$00>
 
 // Pos: 00001743
@@ -149,23 +136,18 @@ disappear.
 //スペーサー：
 Spacer:
 <$0D>
-//\nしかし、なぜ双子なんだ？\n双子に何かいわれでもあるのか？
-\n
-But why twins? Surely\n
-you had a reason to
-<$0C>
-target twins.
+// \nしかし、なぜ双子なんだ？ \n双子に何かいわれでもあるのか？
+ \n
+But why twins? Surely you had a reason \n
+to target twins. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nここに子供がいるなんて…\nそんな話は開いていないぞ。
-\n
-I know I've seen\n
-children around, but
-<$0C>
-I've never heard\n
-about a twin-napper.
+// \nここに子供がいるなんて… \nそんな話は開いていないぞ。
+ \n
+I know I've seen children around, but \n
+I've never heard about a twin-napper. 
 <$00>
 
 // Pos: 00001798
@@ -178,35 +160,30 @@ about a twin-napper.
 //リバー：
 Liever:
 <$0D>
-//\n預言だよ！ 預言にあるんだ、\nマコトの双子が完全な人間になれるって。
-\n
-It was the prophecy!\n
-In the prophecy, the
+// \n預言だよ！ 預言にあるんだ、 \nマコトの双子が完全な人間になれるって。
+ \n
+It was the prophecy! In the prophecy, \n
+the Twins of Truth become wholly
 <$0C>
-Twins of Truth become\n
-wholly human.
+human. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nヘロデさんは夢の中で\n神様から教えてもらったらしいよ。
-\n
-Apparently, God came\n
-to Herod and told him
-<$0C>
-everything in a dream.
+// \nヘロデさんは夢の中で \n神様から教えてもらったらしいよ。
+ \n
+Apparently, God came to Herod and \n
+told him everything in a dream. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n僕とおんなじだね…神って…\n本当は建うのかも知れないよ。
-\n
-That's what happened\n
-to me also, but
+// \n僕とおんなじだね…神って… \n本当は建うのかも知れないよ。
+ \n
+That's what happened to me also, but \n
+looking back...clearly I had it all
 <$0C>
-looking\n
-back...clearly I had\n
-it all wrong.
+wrong. 
 <$00>
 
 // Pos: 0000181E
@@ -219,12 +196,10 @@ it all wrong.
 //スペーサー：
 Spacer:
 <$0D>
-//\nヘロデについて教えてくれ。\nヘロデは誰かにおどかされていたのか？
-\n
-Tell me about Herod.\n
-Is he scared of
-<$0C>
-someone in particular?
+// \nヘロデについて教えてくれ。 \nヘロデは誰かにおどかされていたのか？
+ \n
+Tell me about Herod. Is he scared of \n
+someone in particular? 
 <$00>
 
 // Pos: 0000184D
@@ -237,22 +212,18 @@ someone in particular?
 //リバー：
 Liever:
 <$0D>
-//\n分からないよ。\nあの人は悪夢の中で生まれてきたんだ。
-\n
-That, I don't know.\n
-Herod was born into
-<$0C>
-nightmares.
+// \n分からないよ。 \nあの人は悪夢の中で生まれてきたんだ。
+ \n
+That, I don't know. Herod was born into \n
+nightmares. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n呪われた人なんだ。\nいつも悪夢におびえてるんだよ。
-\n
-He's a cursed man,\n
-doomed to always be
-<$0C>
-haunted by nightmares.
+// \n呪われた人なんだ。 \nいつも悪夢におびえてるんだよ。
+ \n
+He's a cursed man, doomed to always \n
+be haunted by nightmares. 
 <$00>
 
 // Pos: 00001898
@@ -265,12 +236,10 @@ haunted by nightmares.
 //スペーサー：
 Spacer:
 <$0D>
-//\nおびえる心もイーブルマインドにねらわれる、\nそういうことなんだな。
-\n
-A frightened mind is\n
-an evil mind, I
-<$0C>
-suppose.
+// \nおびえる心もイーブルマインドにねらわれる、 \nそういうことなんだな。
+ \n
+A frightened mind is an evil mind, I \n
+suppose. 
 <$00>
 
 // Pos: 000018C7
@@ -283,13 +252,10 @@ suppose.
 //リバー：
 Liever:
 <$0D>
-//\nだめだ、もう、持ちこたえられない…\n僕の役目は終わったんだ…
-\n
-Oh, no! Oh, no! I\n
-can't hold on any
-<$0C>
-longer... My role is\n
-finished...
+// \nだめだ、もう、持ちこたえられない… \n僕の役目は終わったんだ…
+ \n
+Oh, no! Oh, no! I can't hold on any \n
+longer... My role is finished... 
 <$00>
 
 // Pos: 000018F5
@@ -302,9 +268,9 @@ finished...
 //スペーサー：
 Spacer:
 <$0D>
-//\nリトルが目を覚ましたのか…
-\n
-Is Little waking up?
+// \nリトルが目を覚ましたのか…
+ \n
+Is Little waking up? 
 <$00>
 
 // Pos: 00001911
@@ -317,18 +283,16 @@ Is Little waking up?
 //リトル：
 Little:
 <$0D>
-//\nうううう、何だ？…お前は…
-\n
-Oww, what happened?\n
-What're you...
+// \nうううう、何だ？…お前は…
+ \n
+Oww, what happened? What're you... 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n夢だ！ これは夢だ！
-\n
-Oh, a dream! This is\n
-a dream!
+// \n夢だ！ これは夢だ！
+ \n
+Oh, a dream! This is a dream! 
 <$00>
 
 // Pos: 0000193B
@@ -341,13 +305,10 @@ a dream!
 //スペーサー：
 Spacer:
 <$0D>
-//\nリトル…リトルなのか？\nもう少し、リバーと話させてくれ！
-\n
-Little? Why are you\n
-here?! Quick, let me
-<$0C>
-talk to Liever just a\n
-little longer!
+// \nリトル…リトルなのか？ \nもう少し、リバーと話させてくれ！
+ \n
+Little? Why are you here?! Quick, let me \n
+talk to Liever just a little longer! 
 <$00>
 
 // Pos: 00001966
@@ -360,13 +321,10 @@ little longer!
 //リトル：
 Little:
 <$0D>
-//\nううう、うるさい！\n何をしてるんだ、お前は、また俺を…くそっ！
-\n
-Oi, don't yell at me!\n
-Why're you always
-<$0C>
-buttin' in, huh? You\n
-bum!
+// \nううう、うるさい！ \n何をしてるんだ、お前は、また俺を…くそっ！
+ \n
+Oi, don't yell at me! Why're you always \n
+buttin' in, huh? You bum! 
 <$00>
 
 // Pos: 0000198E
@@ -379,13 +337,10 @@ bum!
 //リバー：
 Liever:
 <$0D>
-//\nはあはあ、僕は、もう用済みだ…\nふふふ、用済み…
-\n
-Haah, I...am\n
-obselete. I've,
-<$0C>
-haah...served my\n
-purpose.
+// \nはあはあ、僕は、もう用済みだ… \nふふふ、用済み…
+ \n
+Haah, I...am obselete. I've, \n
+haah...served my purpose. 
 <$00>
 
 // Pos: 000019B6
@@ -398,18 +353,16 @@ purpose.
 //スペーサー：
 Spacer:
 <$0D>
-//\n用済み？
-\n
-Served your purpose?
+// \n用済み？
+ \n
+Served your purpose? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nリバー、用済みとはどういう意味だ？\nリバー！
-\n
-Liever, what do you\n
-mean by "obsolete"?
-<$0C>
-Liever!
+// \nリバー、用済みとはどういう意味だ？ \nリバー！
+ \n
+Liever, what do you mean by \n
+"obsolete"? Liever! 
 <$00>
 

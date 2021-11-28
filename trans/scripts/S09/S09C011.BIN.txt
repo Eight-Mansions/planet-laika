@@ -15,20 +15,17 @@
 //リバー：
 Liever:
 <$0D>
-//\nふふ、どうしたのさ。\nけげんな顔して。
-\n
-Hmm, what's the\n
-matter? Why the long
-<$0C>
-face?
+// \nふふ、どうしたのさ。 \nけげんな顔して。
+ \n
+Hmm, what's the matter? Why the long \n
+face? 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n他に誰もいないよね、あんただけだよね。
-\n
-There's no one else\n
-here besides you.
+// \n他に誰もいないよね、あんただけだよね。
+ \n
+There's no one else here besides you. 
 <$00>
 
 // Pos: 00000C44
@@ -41,12 +38,10 @@ here besides you.
 //スペーサー：
 Spacer:
 <$0D>
-//\n私だけだ。 心配はいらない。
-\n
-No one besides me.\n
-Nothing to worry
-<$0C>
-about...
+// \n私だけだ。 心配はいらない。
+ \n
+No one besides me. Nothing to worry \n
+about... 
 <$00>
 
 // Pos: 00000C61
@@ -59,10 +54,9 @@ about...
 //リバー：
 Liever:
 <$0D>
-//\nあんたに神様の名前、教えてなかったね。
-\n
-I never did tell you\n
-God's name, did I?
+// \nあんたに神様の名前、教えてなかったね。
+ \n
+I never did tell you God's name, did I? 
 <$00>
 
 // Pos: 00000C83
@@ -75,9 +69,9 @@ God's name, did I?
 //スペーサー：
 Spacer:
 <$0D>
-//\n神に名前があるのか。
-\n
-Does God have a name?
+// \n神に名前があるのか。
+ \n
+Does God have a name? 
 <$00>
 
 // Pos: 00000C9C
@@ -90,90 +84,73 @@ Does God have a name?
 //リバー：
 Liever:
 <$0D>
-//\n神様はトールボーイって言うんだ。
-\n
-God is named "Tall\n
-Boy".
+// \n神様はトールボーイって言うんだ。
+ \n
+God is named "Tall Boy". 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n名付けたのは僕じゃない。\n夢の中で開こえたんだ、\nトールボーイって呼ぶ声が。
-\n
-I didn't name him. A\n
-voice, calling for
-<$0C>
-"Tall Boy", came to\n
-me in a dream.
+// \n名付けたのは僕じゃない。 \n夢の中で開こえたんだ、 \nトールボーイって呼ぶ声が。
+ \n
+I didn't name him. A voice, calling for \n
+"Tall Boy", came to me in a dream. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n最初に見つけたときは、つららを逆さにした\nみたいな柱だったんだ。
-\n
-When I first found\n
-this place, an icicle
+// \n最初に見つけたときは、つららを逆さにした \nみたいな柱だったんだ。
+ \n
+When I first found this place, an icicle \n
+came down like a great pillar before
 <$0C>
-came down like a\n
-great pillar before\n
-me.
+me. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n次に来たら顔ができてた。 下の方にだよ。
-\n
-The next time I came,\n
-a face had formed at
-<$0C>
-its base.
+// \n次に来たら顔ができてた。 下の方にだよ。
+ \n
+The next time I came, a face had \n
+formed at its base. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nその次は、どうなってたと思う？\n３つも顔ができてたんだよ。\n見に来るたんびに顔が増えていくんだ。
-\n
-And what happened the\n
-next time? Three
+// \nその次は、どうなってたと思う？ \n３つも顔ができてたんだよ。 \n見に来るたんびに顔が増えていくんだ。
+ \n
+And what happened the next time? \n
+Three faces appeared! The number of
 <$0C>
-faces appeared! The\n
-number of faces goes\n
-up each time.
+faces goes up each time. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n今じゃ柱中に顔がある。 すごいよ。
-\n
-And now, their faces\n
-live all over that
-<$0C>
-giant pillar. It's a\n
-marvel!
+// \n今じゃ柱中に顔がある。 すごいよ。
+ \n
+And now, their faces live all over that \n
+giant pillar. It's a marvel! 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
-\n
-There are sockets in\n
-the eyes of the first
+// \nそのうち最初にできた一番下の顔の眼のあたりが \nくぼんで、何かをはめるような惑じに \nなってきたんだ。
+ \n
+There are sockets in the eyes of the \n
+first face that appeared. Surely they
 <$0C>
-face that appeared.\n
-Surely they can fit\n
-something.
+can fit something. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nそれで家にあった光る石を\n思いついたってわけだよ。
-\n
-I've come to the\n
-conclusion that two
+// \nそれで家にあった光る石を \n思いついたってわけだよ。
+ \n
+I've come to the conclusion that two of \n
+those glowing stones would do the
 <$0C>
-of those glowing\n
-stones would do the\n
-trick.
+trick. 
 <$00>
 
 // Pos: 00000DFD
@@ -186,12 +163,9 @@ trick.
 //スペーサー：
 Spacer:
 <$0D>
-//\nここはイーブルマインドのダムではないのか。
-\n
-This place isn't a\n
-dam for Evil Mind at
-<$0C>
-all!
+// \nここはイーブルマインドのダムではないのか。
+ \n
+This place isn't a dam for Evil Mind at all! 
 <$00>
 
 // Pos: 00000E1F
@@ -204,26 +178,22 @@ all!
 //リバー：
 Liever:
 <$0D>
-//\nトールボーイがイーブルマインドを\n吐き出すところに現れたってこと、\n意味あると思わない？
-\n
-But, doesn't it tell\n
-you something that
+// \nトールボーイがイーブルマインドを \n吐き出すところに現れたってこと、 \n意味あると思わない？
+ \n
+But, doesn't it tell you something that \n
+Tall Boy appeared in an Evil Mind
 <$0C>
-Tall Boy appeared in\n
-an Evil Mind deposit\n
-like so?
+deposit like so? 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nトールボーイは悪を食べるんだよ。\n食べてきれいにしてくれるんだ。\nでも、眼を入れないと本物にはならない。
-\n
-Tall Boy devours\n
-evil, and keeps Mars
+// \nトールボーイは悪を食べるんだよ。 \n食べてきれいにしてくれるんだ。 \nでも、眼を入れないと本物にはならない。
+ \n
+Tall Boy devours evil, and keeps Mars \n
+clean. Of course, I know you'll want to
 <$0C>
-clean. Of course, I\n
-know you'll want to\n
-see it to believe it.
+see it to believe it. 
 <$00>
 
 // Pos: 00000E9E
@@ -236,12 +206,11 @@ see it to believe it.
 //リバー：
 Liever:
 <$0D>
-//\nいよいよなんだよ、ドキドキさ、そりゃ。\nあんたもでしょ。\nでも恐くないよ、神様だもん。
-\n
-That's why you're\n
-here! Aren't you
+// \nいよいよなんだよ、ドキドキさ、そりゃ。 \nあんたもでしょ。 \nでも恐くないよ、神様だもん。
+ \n
+That's why you're here! Aren't you \n
+excited? I know I am! It's time to face
 <$0C>
-excited? I know I am!\n
-It's time to face God!
+God! 
 <$00>
 

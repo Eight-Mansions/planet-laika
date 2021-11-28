@@ -15,10 +15,9 @@
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあら？ もうあきらめたの？
-\n
-Dear, have you given\n
-up yet?
+// \nあら？ もうあきらめたの？
+ \n
+Dear, have you given up yet? 
 <$00>
 
 // Pos: 000025F1
@@ -31,31 +30,25 @@ up yet?
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nそうじゃないの？\nええ？ そうなんでしょ、
-\n
-That's it, isn't it?\n
-I though so.
+// \nそうじゃないの？ \nええ？ そうなんでしょ、
+ \n
+That's it, isn't it? I though so. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあなたさっき…そうよね、さっき\nリャンハウスの前でうろうろしてたじゃない、
-\n
-I saw you earlier,\n
-didn't I? Standing
-<$0C>
-around in front of\n
-House Liang.
+// \nあなたさっき…そうよね、さっき \nリャンハウスの前でうろうろしてたじゃない、
+ \n
+I saw you earlier, didn't I? Standing \n
+around in front of House Liang. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n隠してもダメヨ、\nアタシ、見抜く、ミヌク。
-\n
-You can't hide from\n
-me, now. I can see
-<$0C>
-right through you.
+// \n隠してもダメヨ、 \nアタシ、見抜く、ミヌク。
+ \n
+You can't hide from me, now. I can see \n
+right through you. 
 <$00>
 
 // Pos: 00002661
@@ -68,43 +61,33 @@ right through you.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nねらってる？
-\n
-You have your eye on\n
-someone.
+// \nねらってる？
+ \n
+You have your eye on someone. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nでしょ、やっぱりね、\n顔見りゃ分かるって…
-\n
-I'm right about that\n
-too, huh. I can tell
-<$0C>
-just by looking at\n
-your face.
+// \nでしょ、やっぱりね、 \n顔見りゃ分かるって…
+ \n
+I'm right about that too, huh. I can tell \n
+just by looking at your face. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあら嫌だ、顔だなんて、\n顔ねらってるの顔で分かる、
-\n
-Well, not just your\n
-face, but the face of
-<$0C>
-the face that you're\n
-facing.
+// \nあら嫌だ、顔だなんて、 \n顔ねらってるの顔で分かる、
+ \n
+Well, not just your face, but the face of \n
+the face that you're facing. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n変なしゃれできちゃった。\nあははははは、バカねアタシ、朝から陽気ね
-\n
-I'm only joking,\n
-ahaha! Don't mind me.
-<$0C>
-I'm just playful in\n
-the mornings.
+// \n変なしゃれできちゃった。 \nあははははは、バカねアタシ、朝から陽気ね
+ \n
+I'm only joking, ahaha! Don't mind me. \n
+I'm just playful in the mornings. 
 <$00>
 
 // Pos: 000026E7
@@ -117,21 +100,17 @@ the mornings.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n陽気が悪いか、てめぇ！
-\n
-Is being goofy so\n
-wrong? Well?!
+// \n陽気が悪いか、てめぇ！
+ \n
+Is being goofy so wrong? Well?! 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nおう、人の顔見てニヤついてんじゃねぇ！\nくそ野郎！
-\n
-Then why don't you\n
-smile when you see
-<$0C>
-people, you rude\n
-little...!
+// \nおう、人の顔見てニヤついてんじゃねぇ！ \nくそ野郎！
+ \n
+Then why don't you smile when you see \n
+people, you rude little...! 
 <$00>
 
 // Pos: 00002724
@@ -144,17 +123,15 @@ little...!
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nなんてね…\nいいじゃない、陽気なのはアタシの取り柄よ。
-\n
-There's nothing wrong\n
-with me! My
+// \nなんてね… \nいいじゃない、陽気なのはアタシの取り柄よ。
+ \n
+There's nothing wrong with me! My \n
+playfulness is my most redeeming
 <$0C>
-playfulness is my\n
-most redeeming\n
 feature! 
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00002750
@@ -167,35 +144,29 @@ feature!
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nねえ、リャンハウスで\nなにやらかそうっていうの？
-\n
-So, what business did\n
-you have at House
-<$0C>
-Liang?
+// \nねえ、リャンハウスで \nなにやらかそうっていうの？
+ \n
+So, what business did you have at \n
+House Liang? 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあなたよね、さっきいたの…\nしらばくれてるの？
-\n
-I saw you there\n
-before, so no need to
-<$0C>
-play coy.
+// \nあなたよね、さっきいたの… \nしらばくれてるの？
+ \n
+I saw you there before, so no need to \n
+play coy. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nアタシのこと、ちゃんとしっかり開いてる？
-\n
-Hey, are you\n
-listening to me?
+// \nアタシのこと、ちゃんとしっかり開いてる？
+ \n
+Hey, are you listening to me?
 <$1B>
-//,ちゃんと開いてる\nしっかり開いてる
-,Yes, closely
-<$0C>
-Yes, deeply
+//,ちゃんと開いてる \nしっかり開いてる
+,Yes, closely \n
+Yes, deeply 
 <$00><$17><$00>
 
 // Pos: 000027CA
@@ -208,12 +179,12 @@ Yes, deeply
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nそうよねぇ、そうこなくちゃ。
-\n
+// \nそうよねぇ、そうこなくちゃ。
+ \n
 You'd better be.
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 000027E6
@@ -226,44 +197,39 @@ You'd better be.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nサイテーよ、レッドのやつ！
-\n
-Oh, damn Red to Hell!
+// \nサイテーよ、レッドのやつ！
+ \n
+Oh, damn Red to Hell! 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nアタシのことぶったのよ。\nひどい、ぶつなんて！
-\n
-He hit me! He just\n
-fucking hit me!
+// \nアタシのことぶったのよ。 \nひどい、ぶつなんて！
+ \n
+He hit me! He just fucking hit me! 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあんたのせいよ、\nあんたが余計なことするから…
-\n
-This is YOUR fault!\n
-YOU'RE the one who
-<$0C>
-stuck your nose out!
+// \nあんたのせいよ、 \nあんたが余計なことするから…
+ \n
+This is YOUR fault! YOU'RE the one who \n
+stuck your nose out! 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nなのにアタシまで手を貸したみたいに\n言われたの。
-\n
-I thought I could\n
-diffuse the
-<$0C>
-situation, but nooo!
+// \nなのにアタシまで手を貸したみたいに \n言われたの。
+ \n
+I thought I could diffuse the situation, \n
+but nooo! 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n見て、お顔。
-\n
-Now look at my face!
+// \n見て、お顔。
+ \n
+Now look at my face! 
 <$00>
 
 // Pos: 00002877
@@ -276,16 +242,15 @@ Now look at my face!
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあああ、もう、こんなの！ お顔が何よ！\nどうでもよくなってきちゃった。
-\n
-What are you going to\n
-do NOW huh? Keep
+// \nあああ、もう、こんなの！ お顔が何よ！ \nどうでもよくなってきちゃった。
+ \n
+What are you going to do NOW huh? \n
+Keep acting like you give a damn about
 <$0C>
-acting like you give\n
-a damn about us?!
+us?!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000028A9
@@ -298,15 +263,13 @@ a damn about us?!
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nレッドのやつ、ちくしょう！\nアタシのことぶったのよ！
-\n
-Damn Red to Hell! He\n
-hit me right in the
-<$0C>
+// \nレッドのやつ、ちくしょう！ \nアタシのことぶったのよ！
+ \n
+Damn Red to Hell! He hit me right in the \n
 face!
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 000028D1
@@ -319,25 +282,21 @@ face!
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあのコ… どっかで見たことあるのよね。
-\n
-That lassie...I'd\n
-seen her around, I
-<$0C>
-think.
+// \nあのコ… どっかで見たことあるのよね。
+ \n
+That lassie...I'd seen her around, I \n
+think. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n地球じゃああいうお顔がはやってるの、\nみんなあんなお顔してるの？
-\n
-Do people down on\n
-Earth like that face
-<$0C>
+// \n地球じゃああいうお顔がはやってるの、 \nみんなあんなお顔してるの？
+ \n
+Do people down on Earth like that face \n
 of hers?
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00002920
@@ -350,33 +309,28 @@ of hers?
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあのコ、アガタに気に入られたの？\nねぇ、そうなの？ なら気を付けなきゃね。
-\n
-Your lassie friend\n
-fancies Agatha, no?
-<$0C>
-She'd better be\n
-careful.
+// \nあのコ、アガタに気に入られたの？ \nねぇ、そうなの？ なら気を付けなきゃね。
+ \n
+Your lassie friend fancies Agatha, no? \n
+She'd better be careful. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nそれにしてもよ、やっぱり変よ、\nあのお顔。いただけない、
-\n
-At any rate, she's a\n
-little odd, no? Her
-<$0C>
-face is off.
+// \nそれにしてもよ、やっぱり変よ、 \nあのお顔。いただけない、
+ \n
+At any rate, she's a little odd, no? Her \n
+face is off. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nそうよ、いただけないわ。
-\n
+// \nそうよ、いただけないわ。
+ \n
 Yes, very off!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00002993
@@ -389,17 +343,13 @@ Yes, very off!
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあのコ、自分のこと、かわいいって\n思ってるのかしらね。きっとそうよね。
-\n
-That lass is very\n
-charming in your
-<$0C>
-eyes, isn't she? Yes,\n
-I was sure you'd\n
-agree.
+// \nあのコ、自分のこと、かわいいって \n思ってるのかしらね。きっとそうよね。
+ \n
+That lass is very charming in your eyes, \n
+isn't she? Yes, I was sure you'd agree.
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000029C6
@@ -412,27 +362,23 @@ agree.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nレッドのやつ、あのサイテー野郎、\nあわてて出ていったよ。
-\n
-I saw that bastard,\n
-Red, walk out here
-<$0C>
-acting like he got\n
-really fucked up.
+// \nレッドのやつ、あのサイテー野郎、 \nあわてて出ていったよ。
+ \n
+I saw that bastard, Red, walk out here \n
+acting like he got really fucked up. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n誰かにどやされでもしたの？\nいい気味よね、アタシをぶつからよ。
-\n
-Did someone get to\n
-him before I did?
+// \n誰かにどやされでもしたの？ \nいい気味よね、アタシをぶつからよ。
+ \n
+Did someone get to him before I did? \n
+Good. That's what he gets for hitting
 <$0C>
-Good. That's what he\n
-gets for hitting me!
+me!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00002A1E
@@ -449,17 +395,15 @@ gets for hitting me!
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nふん、アタシのことぶつからよ。\nあのヘンタイ野郎が！
-\n
-I hope that dirty\n
-bastard gets
+// \nふん、アタシのことぶつからよ。 \nあのヘンタイ野郎が！
+ \n
+I hope that dirty bastard gets \n
+everything that's coming to him for
 <$0C>
-everything that's\n
-coming to him for\n
 hitting me.
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 00002A48
@@ -472,11 +416,9 @@ hitting me.
 //子リトル：
 Little:
 <$0D>
-//\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
-\n
-Oi, why do I feel\n
-so...no! Goddammit,
-<$0C>
-not here!
+// \nなんで俺が… \nくそっ！俺が俺が、こんなところで！
+ \n
+Oi, why do I feel so...no! Goddammit, \n
+not here! 
 <$0E><$1E><$17><$00>
 

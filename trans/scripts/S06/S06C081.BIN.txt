@@ -15,28 +15,24 @@
 //ヌーン：
 Noon:
 <$0D>
-//\nそうだよね…
-\n
-I get it...
+// \nそうだよね…
+ \n
+I get it... 
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-//\nははは、ママの言うとおりさ、\nパパは病気なんだ、かわいそうなんだ…
-\n
-Hahaha! It's just as\n
-you say, Mummy! Papa
-<$0C>
-was sick! Papa was\n
-pathetic!
+// \nははは、ママの言うとおりさ、 \nパパは病気なんだ、かわいそうなんだ…
+ \n
+Hahaha! It's just as you say, Mummy! \n
+Papa was sick! Papa was pathetic! 
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-//\nははは…そうさ、かわいそう…
-\n
-Hahaha... A pathetic\n
-little man...
+// \nははは…そうさ、かわいそう…
+ \n
+Hahaha... A pathetic little man... 
 <$00>
 
 // Pos: 0000097F
@@ -45,25 +41,19 @@ little man...
 
 #WHB(PTR, $0000017D)
 
-
+ 
 <$00><$0B>
 //パンチ：
 Punch:
 <$0D>
-//\nよせ！ ジュディ！ それをわたせ！\nさあ、おとなしくわたすんだ。
-\n
-Bloody hell, Judy!\n
-Breathe! 'Ere, calm
-<$0C>
-down and gimme the\n
-knife.
+// \nよせ！ ジュディ！ それをわたせ！ \nさあ、おとなしくわたすんだ。
+ \n
+Bloody hell, Judy! Breathe! 'Ere, calm \n
+down and gimme the knife. 
 <$0C><$0E><$1E>
-//うんざりよ… もううんざり…\n全部おしまいにしてやる！
-I'm tired...so\n
-tired...\n
-YEs...I need to end
-<$0C>
-this!
+//うんざりよ… もううんざり… \n全部おしまいにしてやる！
+I'm tired...so tired... \n
+YEs...I need to end this! 
 <$00>
 
 // Pos: 000009C8
@@ -72,22 +62,18 @@ this!
 
 #WHB(PTR, $0000018D)
 
-
+ 
 <$00><$0B>
 //パンチ：
 Punch:
 <$0D>
-//\nわ、分からず屋は、お仕置きだぞ…\nひ、火かき棒でお仕置き…
-\n
-Y-you bloody bitch,\n
-you'll pay! Yeah,
-<$0C>
-you'll pay with this\n
-fire iron...!
+// \nわ、分からず屋は、お仕置きだぞ… \nひ、火かき棒でお仕置き…
+ \n
+Y-you bloody bitch, you'll pay! Yeah, \n
+you'll pay with this fire iron...! 
 <$0C><$0E><$1E>
 //返せ！ アタシを返せ… ちくしょう！
-Give me-! Give me\n
-that, Godammit!
+Give me-! Give me that, Godammit! 
 <$00>
 
 // Pos: 00000A0C
@@ -96,29 +82,20 @@ that, Godammit!
 
 #WHB(PTR, $000001C5)
 
-
+ 
 <$00>
-//アタシのヌーンや、パパは病気だったのよ…\nもう洽らないの。 分かった…
-My little Noon. Papa\n
-was sick. He was\n
-never going to get
+//アタシのヌーンや、パパは病気だったのよ… \nもう洽らないの。 分かった…
+My little Noon. Papa was sick. He was \n
+never going to get better. You \n
+understand, don't you? 
 <$0C>
-better. You\n
-understand, don't you?
+//仕方ないことなの… \nふふふふ、仕方ないのよ、ヌーン、 \nでなきゃアタシが殺されてた…
+There was no other way... Tsk, tsk. No \n
+other way, Noon. Otherwise, I would \n
+have died instead. 
 <$0C>
-//仕方ないことなの…\nふふふふ、仕方ないのよ、ヌーン、\nでなきゃアタシが殺されてた…
-There was no other\n
-way... Tsk, tsk. No\n
-other way, Noon.
-<$0C>
-Otherwise, I would\n
-have died instead.
-<$0C>
-//はははは、そうよ！\nアタシが死んだ方がよかったの？\nヌーン！
-Hahaha, that's right!\n
-And you wouldn't like\n
-it if Mummy died,
-<$0C>
-would you, Noon?
+//はははは、そうよ！ \nアタシが死んだ方がよかったの？ \nヌーン！
+Hahaha, that's right! And you wouldn't \n
+like it if Mummy died, would you, Noon? 
 <$00>
 

@@ -15,12 +15,10 @@
 //リトル：
 Little:
 <$0D>
-//\nさあどこだ…俺の行く場所は。\nああ？ 何だありゃ？
-\n
-All right, where are\n
-we goin'? Got any
-<$0C>
-ideas?
+// \nさあどこだ…俺の行く場所は。 \nああ？ 何だありゃ？
+ \n
+All right, where are we goin'? Got any \n
+ideas? 
 <$00>
 
 // Pos: 00002EFF
@@ -33,12 +31,10 @@ ideas?
 //レッド：
 Red:
 <$0D>
-//\nうわわわわ、ここにもいやがった。\n何を企んでるんだ、お前らは！
-\n
-Grr, this place is\n
-just as bad! What are
-<$0C>
-you guys planning?!
+// \nうわわわわ、ここにもいやがった。 \n何を企んでるんだ、お前らは！
+ \n
+Grr, this place is just as bad! What are \n
+you guys planning?! 
 <$00>
 
 // Pos: 00002F27
@@ -51,21 +47,19 @@ you guys planning?!
 //リトル：
 Little:
 <$0D>
-//\nレッドのやつ、\nあんなところで何やってるんだ？
-\n
-Oi, what in blazes is\n
-Red doin' out here?!
+// \nレッドのやつ、 \nあんなところで何やってるんだ？
+ \n
+Oi, what in blazes is Red doin' out here?! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nあいつ、メディスンマンの後を追いかけて\n忘却の海に出かけたんだ。
-\n
-Maybe he wants to see\n
-the medicine men, so
+// \nあいつ、メディスンマンの後を追いかけて \n忘却の海に出かけたんだ。
+ \n
+Maybe he wants to see the medicine \n
+men, so he's makin' for Oceanum
 <$0C>
-he's makin' for\n
-Oceanum Oblivionis.
+Oblivionis. 
 <$00>
 
 // Pos: 00002F75
@@ -78,9 +72,9 @@ Oceanum Oblivionis.
 //リトル：
 Little:
 <$0D>
-//\n行ってみよう。
-\n
-Let's go see.
+// \n行ってみよう。
+ \n
+Let's go see. 
 <$00>
 
 // Pos: 00002F86
@@ -93,12 +87,10 @@ Let's go see.
 //リトル：
 Little:
 <$0D>
-//\nどうしたレッド？\n善人ってのは見つかったのか？
-\n
-What's up, Red? Have\n
-you found yourself a
-<$0C>
-new "good boy"?
+// \nどうしたレッド？ \n善人ってのは見つかったのか？
+ \n
+What's up, Red? Have you found \n
+yourself a new "good boy"? 
 <$00>
 
 // Pos: 00002FA7
@@ -123,10 +115,9 @@ new "good boy"?
 //リトル：
 Little:
 <$0D>
-//\nどうした、レッドだ、こっちだ。
-\n
-What brings you here,\n
-Red?
+// \nどうした、レッドだ、こっちだ。
+ \n
+What brings you here, Red? 
 <$00>
 
 // Pos: 00002FBF
@@ -287,10 +278,9 @@ Red?
 //リトル：
 Little:
 <$0D>
-//\nどうした、レッドだ、こっちだ。
-\n
-What brings you here,\n
-Red?
+// \nどうした、レッドだ、こっちだ。
+ \n
+What brings you here, Red? 
 <$00>
 
 // Pos: 00002FD7
@@ -303,31 +293,27 @@ Red?
 //レッド：
 Red:
 <$0D>
-//\nくそったれ！\nあの女は誰なんだ、あうあうあうあう…
-\n
-Hmph! Who was that\n
-woman? Grr, grr...
+// \nくそったれ！ \nあの女は誰なんだ、あうあうあうあう…
+ \n
+Hmph! Who was that woman? Grr, grr... 
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-//\nいきなり目の前から消えやがった！\n地球から来た女だろ、変な扉だ、\nその中に消えやがった！
-\n
-As soon as our eyes\n
-met, she left through
+// \nいきなり目の前から消えやがった！ \n地球から来た女だろ、変な扉だ、 \nその中に消えやがった！
+ \n
+As soon as our eyes met, she left \n
+through a strange door and
 <$0C>
-a strange door and\n
-disappeared!
+disappeared! 
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-//\nあああ、おじさんだ。\nそうだ、おじさんに建いない！
-\n
-...It was Uncle\n
-again! That's right,
-<$0C>
-it was Uncle!
+// \nあああ、おじさんだ。 \nそうだ、おじさんに建いない！
+ \n
+...It was Uncle again! That's right, it \n
+was Uncle! 
 <$00>
 
 // Pos: 0000305B
@@ -340,13 +326,10 @@ it was Uncle!
 //リトル：
 Little:
 <$0D>
-//\n変な扉… 消えた…\nおじさんって誰だ、俺は知らないぞ。
-\n
-The strange\n
-door...disappeared?
-<$0C>
-And who's this\n
-"Uncle"? Beats me...
+// \n変な扉… 消えた… \nおじさんって誰だ、俺は知らないぞ。
+ \n
+The strange door...disappeared? And \n
+who's this "Uncle"? Beats me... 
 <$00>
 
 // Pos: 00003084
@@ -359,23 +342,18 @@ And who's this\n
 //レッド：
 Red:
 <$0D>
-//\nあうあうあうあう、おじさんが来る、\nやって来る、怖いよ、おじさんが来るんだ、
-\n
-Awoooo! Uncle is\n
-coming! He's finally
-<$0C>
-coming! I'm scared,\n
-but he's coming!
+// \nあうあうあうあう、おじさんが来る、 \nやって来る、怖いよ、おじさんが来るんだ、
+ \n
+Awoooo! Uncle is coming! He's finally \n
+coming! I'm scared, but he's coming! 
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-//\nやっぱりだ、\n泡のおじさん、音が開こえるじゃないか！
-\n
-I knew it was you,\n
-Uncle Bubbles! I
-<$0C>
-heard your voice!
+// \nやっぱりだ、 \n泡のおじさん、音が開こえるじゃないか！
+ \n
+I knew it was you, Uncle Bubbles! I \n
+heard your voice! 
 <$00>
 
 // Pos: 000030DC
@@ -388,22 +366,18 @@ heard your voice!
 //リトル：
 Little:
 <$0D>
-//\n自分の悪に耐えきれなかったんだ。
-\n
-He couldn't stand up\n
-to the evil within
-<$0C>
-himself.
+// \n自分の悪に耐えきれなかったんだ。
+ \n
+He couldn't stand up to the evil within \n
+himself. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nさあ、急いでくれ。\n俺もああはなりたくないんだ。
-\n
-Come on, let's hurry.\n
-I don't want to end
-<$0C>
-up like that either.
+// \nさあ、急いでくれ。 \n俺もああはなりたくないんだ。
+ \n
+Come on, let's hurry. I don't want to end \n
+up like that either. 
 <$00>
 
 // Pos: 00003118
@@ -416,10 +390,9 @@ up like that either.
 //リトル：
 Little:
 <$0D>
-//\nどうしたんだ… レッドのやつ…\nどこ行きやがった？
-\n
-Oi, is that Red?\n
-Where's he goin'?
+// \nどうしたんだ… レッドのやつ… \nどこ行きやがった？
+ \n
+Oi, is that Red? Where's he goin'? 
 <$00>
 
 // Pos: 0000313B
@@ -432,12 +405,10 @@ Where's he goin'?
 //リトル：
 Little:
 <$0D>
-//\n鏡は嫌いだ、そうだ、見たくないぞ。
-\n
-I hate mirrors. I\n
-can't bear lookin' at
-<$0C>
-'em.
+// \n鏡は嫌いだ、そうだ、見たくないぞ。
+ \n
+I hate mirrors. I can't bear lookin' at \n
+'em. 
 <$00>
 
 // Pos: 00003157
@@ -450,34 +421,28 @@ can't bear lookin' at
 //リトル：
 Little:
 <$0D>
-//\nあれは夢なんかじゃなかった、\nそういうことだな。
-\n
-It wasn't a dream at\n
-all. I get it now.
+// \nあれは夢なんかじゃなかった、 \nそういうことだな。
+ \n
+It wasn't a dream at all. I get it now. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nもうひとりの俺がやったんだ。\nそうだそうだ…
-\n
-It was another me who\n
-did that stuff, get
-<$0C>
-it?
+// \nもうひとりの俺がやったんだ。 \nそうだそうだ…
+ \n
+It was another me who did that stuff, \n
+get it? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nお前もだろ、お前の中にも誰かがいるんだ、\nそうだそうだ！
-\n
-Oi, you're just like\n
-me! There's another
-<$0C>
-you in there too. I\n
-just know it!
+// \nお前もだろ、お前の中にも誰かがいるんだ、 \nそうだそうだ！
+ \n
+Oi, you're just like me! There's another \n
+you in there too. I just know it!
 <$1E>
 //裂
-裂
+裂 
 <$00>
 
 // Pos: 000031C0
@@ -490,12 +455,10 @@ just know it!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nハプニング、ハプニングだ！\nあれはお前たちの仲間に相建ない。
-\n
-SURPRISE! SURPRISE!\n
-Your lot's companion
-<$0C>
-has done it!
+// \nハプニング、ハプニングだ！ \nあれはお前たちの仲間に相建ない。
+ \n
+SURPRISE! SURPRISE! Your lot's \n
+companion has done it! 
 <$00>
 
 // Pos: 000031EF
@@ -508,13 +471,10 @@ has done it!
 //スペーサー：
 Spacer:
 <$0D>
-//\n仲間！ 私の仲間がどうした？\nハプニングに巻き込まれたのか。
-\n
-Our companion? What\n
-did they do that's
-<$0C>
-worth calling a\n
-"surprise"?
+// \n仲間！ 私の仲間がどうした？ \nハプニングに巻き込まれたのか。
+ \n
+Our companion? What did they do \n
+that's worth calling a "surprise"? 
 <$00>
 
 // Pos: 00003220
@@ -527,16 +487,12 @@ worth calling a\n
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\n大変なことだ、完全な善人になったやつがいる。\nホワイトイーグルが保護した。
-\n
-The greatest of\n
-happenings! One has
+// \n大変なことだ、完全な善人になったやつがいる。 \nホワイトイーグルが保護した。
+ \n
+The greatest of happenings! One has \n
+become a wholly "good person" under
 <$0C>
-become a wholly "good\n
-person" under the\n
-watchful eye of White
-<$0C>
-Eagle!
+the watchful eye of White Eagle! 
 <$00>
 
 // Pos: 00003259
@@ -549,12 +505,10 @@ Eagle!
 //スペーサー：
 Spacer:
 <$0D>
-//\n善人… どこで見つかったんだ？
-\n
-A good person...?\n
-Where did you see
-<$0C>
-them?
+// \n善人… どこで見つかったんだ？
+ \n
+A good person...? Where did you see \n
+them? 
 <$00>
 
 // Pos: 00003276
@@ -567,21 +521,19 @@ them?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\n記憶の谷だ。
-\n
-In Valles Memoriae.
+// \n記憶の谷だ。
+ \n
+In Valles Memoriae. 
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\n完全な善人は恐ろしく不安定だ、\nすぐ悪に憑かれる。
-\n
-But, wholly good\n
-people are dreadfully
+// \n完全な善人は恐ろしく不安定だ、 \nすぐ悪に憑かれる。
+ \n
+But, wholly good people are \n
+dreadfully unstable. None are more
 <$0C>
-unstable. None are\n
-more vulnerable to\n
-evil's take.
+vulnerable to evil's take. 
 <$00>
 
 // Pos: 000032B9
@@ -594,23 +546,18 @@ evil's take.
 //スペーサー：
 Spacer:
 <$0D>
-//\n悪に憑かれる…\n善人だからこそというわけだな。
-\n
-Are you saying that\n
-good people are more
-<$0C>
-likely to be\n
-possessed by evil?
+// \n悪に憑かれる… \n善人だからこそというわけだな。
+ \n
+Are you saying that good people are \n
+more likely to be possessed by evil? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n善人は染まりやすいと、\n悪におちいりやすいと。
-\n
-That which is pure is\n
-the most easy to
-<$0C>
-stain...
+// \n善人は染まりやすいと、 \n悪におちいりやすいと。
+ \n
+That which is pure is the most easy to \n
+stain... 
 <$00>
 
 // Pos: 00003302
@@ -623,23 +570,18 @@ stain...
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nそうだ。\nそうなればまたハプニングだ。
-\n
-That is right. And we\n
-cannot afford another
-<$0C>
-fall.
+// \nそうだ。 \nそうなればまたハプニングだ。
+ \n
+That is right. And we cannot afford \n
+another fall. 
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\n安定させるまでコロニーは立入禁止、\nロッジも立入禁止だ。
-\n
-Until things are\n
-stable, the colony is
-<$0C>
-off limits, as is the\n
-lodge.
+// \n安定させるまでコロニーは立入禁止、 \nロッジも立入禁止だ。
+ \n
+Until things are stable, the colony is off \n
+limits, as is the lodge. 
 <$00>
 
 // Pos: 00003354
@@ -652,22 +594,18 @@ lodge.
 //スペーサー：
 Spacer:
 <$0D>
-//\n安定… 君たちの呪術を使うんだな。
-\n
-So, you're all using\n
-your magic to restore
-<$0C>
-balance.
+// \n安定… 君たちの呪術を使うんだな。
+ \n
+So, you're all using your magic to \n
+restore balance. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n呪術でどうする？\nバリアを張るのか。
-\n
-How, exactly? I don't\n
-see any barriers
-<$0C>
-around the parameter.
+// \n呪術でどうする？ \nバリアを張るのか。
+ \n
+How, exactly? I don't see any barriers \n
+around the parameter. 
 <$00>
 
 // Pos: 00003396
@@ -680,10 +618,9 @@ around the parameter.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nびんに入れるのだ。
-\n
-We will bottle\n
-everything up.
+// \nびんに入れるのだ。
+ \n
+We will bottle everything up. 
 <$00>
 
 // Pos: 000033AD
@@ -696,9 +633,9 @@ everything up.
 //スペーサー：
 Spacer:
 <$0D>
-//\nびん…
-\n
-Bottle it...up?
+// \nびん…
+ \n
+Bottle it...up? 
 <$00>
 
 // Pos: 000033BD
@@ -711,9 +648,9 @@ Bottle it...up?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nそうだ、びんだ。
-\n
-Yes, with bottles.
+// \nそうだ、びんだ。
+ \n
+Yes, with bottles. 
 <$00>
 
 // Pos: 000033D2
@@ -726,13 +663,10 @@ Yes, with bottles.
 //スペーサー：
 Spacer:
 <$0D>
-//\nびんでイーブルマインドを\nシャットアウトするということか。
-\Oh. Shit,\n
-umm...do you mean\n
-you're putting Evil
-<$0C>
-Mind inside of\n
-bottles? Or something?
+// \nびんでイーブルマインドを \nシャットアウトするということか。
+\Oh. Shit, umm...do you mean \n
+you're putting Evil Mind inside of \n
+bottles? Or something? 
 <$00>
 
 // Pos: 000033FC
@@ -745,13 +679,10 @@ bottles? Or something?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nそうだ、びんに入れてな。
-\n
-Yes, we will bottle\n
-things up to keep
-<$0C>
-them safe from Evil\n
-Mind.
+// \nそうだ、びんに入れてな。
+ \n
+Yes, we will bottle things up to keep \n
+them safe from Evil Mind. 
 <$00>
 
 // Pos: 00003416
@@ -764,20 +695,18 @@ Mind.
 //エイプリル：
 April:
 <$0D>
-//\n何、これ… 泡みたい…\nおフロの泡？
-\n
-What is this...? It\n
-looks like bubbles
-<$0C>
-from a bubble bath.
+// \n何、これ… 泡みたい… \nおフロの泡？
+ \n
+What is this...? It looks like bubbles \n
+from a bubble bath. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nまさか、こんなところにあるわけないよね。
-\n
-What is a bubble bath\n
-doing way out here?
+// \nまさか、こんなところにあるわけないよね。
+ \n
+What is a bubble bath doing way out \n
+here? 
 <$00>
 
 // Pos: 00003453
@@ -790,40 +719,33 @@ doing way out here?
 //エイプリル：
 April:
 <$0D>
-//\nねえ、ライカ、アガタってどう思う？
-\n
-Hey, Laika. What do\n
-you think of Agatha?
+// \nねえ、ライカ、アガタってどう思う？
+ \n
+Hey, Laika. What do you think of \n
+Agatha? 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n彼女は何かすごく重いものを\n背負ってるようだけど…
-\n
-From the way she\n
-carries herself,
-<$0C>
-you'd think she'd be\n
-full of it, and yet...
+// \n彼女は何かすごく重いものを \n背負ってるようだけど…
+ \n
+From the way she carries herself, \n
+you'd think she'd be full of it, and yet... 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nもう少し話してみたいの。\n見てもらいたい物もあるし。
-\n
-I like talking to\n
-her. In fact, there's
-<$0C>
-something I'd like to\n
-ask her now.
+// \nもう少し話してみたいの。 \n見てもらいたい物もあるし。
+ \n
+I like talking to her. In fact, there's \n
+something I'd like to ask her now. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nちょっと行ってくるね。
-\n
-I'm going on a little\n
-detour, okay?
+// \nちょっと行ってくるね。
+ \n
+I'm going on a little detour, okay? 
 <$00>
 
 // Pos: 000034D5
@@ -836,13 +758,10 @@ detour, okay?
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何かしら…\nここに誰かいたのね、その跡ね。
-\n
-Oh-lala! Someone left\n
-a strange engraving
-<$0C>
-on the wall. Let me\n
-see...
+// \n何かしら… \nここに誰かいたのね、その跡ね。
+ \n
+Oh-lala! Someone left a strange \n
+engraving on the wall. Let me see... 
 <$00>
 
 // Pos: 000034F8
@@ -854,40 +773,32 @@ see...
 //子トーマス：
 子Thomas:
 <$0D>
-//\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
-\n
-There are tales of a\n
-woman who appears in
+// \n夜になると鏡の中に現れる、そういうウワサが \n広まっているが、私はまだ見たことはない。
+ \n
+There are tales of a woman who \n
+appears in mirrors at night. I dare say,
 <$0C>
-mirrors at night. I\n
-dare say, I've never\n
-seen her.
+I've never seen her. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
-\n
-If this woman lives\n
-in a mirror, I'd call
+// \n鏡の中なら、それはアマンダに建いない。 \n私なりに言うと彼女は鏡の精となったからだ。
+ \n
+If this woman lives in a mirror, I'd call \n
+her a mirror spirit, no different than
 <$0C>
-her a mirror spirit,\n
-no different than\n
-Amanda.
+Amanda. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
-\n
-I'd stay up to see if\n
-she too had the
+// \n鏡から鏡へ旅を続けている。 \nこのことは寝ずの研究ではっきりしたが、 \nときに私はぼんやりし始める。
+ \n
+I'd stay up to see if she too had the \n
+ability to travel from mirror to
 <$0C>
-ability to travel\n
-from mirror to\n
-mirror, but it gets
-<$0C>
-hazy.
+mirror, but it gets hazy. 
 <$00>
 
 // Pos: 000035AB
@@ -900,28 +811,26 @@ hazy.
 //エイプリル：
 April:
 <$0D>
-//\nどうしたの、カベに向かって…\nブツブツやってたけど…
-\n
-What are you doing?\n
-Mumbling at the wall
+// \nどうしたの、カベに向かって… \nブツブツやってたけど…
+ \n
+What are you doing? Mumbling at the \n
+wall like that isn't very attractive, you
 <$0C>
-like that isn't very\n
-attractive, you know.
+know. 
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nん？
-\n
-Huh?
+// \nん？
+ \n
+Huh? 
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nああ、いや、なんでもないのよ。平気よ。
-\n
-Oh! Uh, i-it's\n
-nothing! I'm good!
+// \nああ、いや、なんでもないのよ。平気よ。
+ \n
+Oh! Uh, i-it's nothing! I'm good! 
 <$00>
 
 // Pos: 000035FF
@@ -933,58 +842,46 @@ nothing! I'm good!
 //子トーマス：
 子Thomas:
 <$0D>
-//\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
-\n
-I dare say, I've come\n
-up with a sound
-<$0C>
-hypothesis about\n
-Amanda.
+// \n私なりにだ、 \n仮説と呼べるところまで導いたわけだ。
+ \n
+I dare say, I've come up with a sound \n
+hypothesis about Amanda. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nアマンダは\n鏡の精で満足するような女ではないからだ。
-\n
-Amanda is not a woman\n
-who is satisfied with
-<$0C>
-living as a mirror\n
-spirit.
+// \nアマンダは \n鏡の精で満足するような女ではないからだ。
+ \n
+Amanda is not a woman who is satisfied \n
+with living as a mirror spirit. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
-\n
-She wants to create a\n
-perfect mirror. One
+// \n彼女は完全な鏡、みにくい顔をそのまま映す鏡を \n求めている。 その鏡ができれば…
+ \n
+She wants to create a perfect mirror. \n
+One so perfect, it could reflect her
 <$0C>
-so perfect, it could\n
-reflect her face for\n
-everything it is.
+face for everything it is. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
-\n
-With such a mirror,\n
-the seas and lands of
+// \n火星に憎しみの大地が生まれ、 \n苦しみが海をなす…
+ \n
+With such a mirror, the seas and lands \n
+of Mars might be reborn in her wicked
 <$0C>
-Mars might be reborn\n
-in her wicked image.
+image. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\n私なりに、黙示録的な例えだ！
-\n
-(I dare say, I've\n
-come up with a sound
-<$0C>
-little metaphor from\n
-Revelations too!)
+// \n私なりに、黙示録的な例えだ！
+ \n
+(I dare say, I've come up with a sound \n
+little metaphor from Revelations too!) 
 <$00>
 
 // Pos: 000036CD
@@ -997,13 +894,12 @@ Revelations too!)
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
-\n
-No wonder everyone\n
-here's piss-scared of
+// \n道理でねぇ… ここの人たちは鏡が怖いのね。 \nありのままを見たくないのね。
+ \n
+No wonder everyone here's \n
+piss-scared of mirrors. They don't
 <$0C>
-mirrors. They don't\n
-want to see the truth.
+want to see the truth. 
 <$00>
 
 // Pos: 00003701
@@ -1015,48 +911,42 @@ want to see the truth.
 //子トーマス：
 子Thomas:
 <$0D>
-//\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
-\n
-I thought I saw\n
-someone, although, I
+// \nうっすらとだが、見たような気がする… \n私なりに答を出してもいいのか。
+ \n
+I thought I saw someone, although, I \n
+don't know how to describe it with
 <$0C>
-don't know how to\n
-describe it with\n
-certainty.
+certainty. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
-\n
-There was a woman who\n
-looked precisely like
+// \nアマンダそっくりの女、 \n私の夢の中に現れて消えた。
+ \n
+There was a woman who looked \n
+precisely like Amanda. She faded in and
 <$0C>
-Amanda. She faded in\n
-and out of my dream.
+out of my dream. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\n
-It all happened so\n
-fast, I almost didn't
+// \nあっという間だった、あれはなんだったのか… \n私なりにうとうとしていて…
+ \n
+It all happened so fast, I almost didn't \n
+notice, but...even then, it's all so
 <$0C>
-notice, but...even\n
-then, it's all so\n
-hazy...
+hazy... 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
-\n
-Was she an alter ego,\n
-or a hint at Amanda's
+// \nあれは分身か、生まれ変わりの暗示なのか。 \n私なりに混乱してきた。
+ \n
+Was she an alter ego, or a hint at \n
+Amanda's reincarnation? I dare say, I
 <$0C>
-reincarnation? I dare\n
-say, I am confused.
+am confused. 
 <$00>
 
 // Pos: 000037B3
@@ -1069,13 +959,10 @@ say, I am confused.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n分身… 誰がよ。\nアタシたちとは建うってことね。
-\n
-Alter ego? That\n
-sounds different from
-<$0C>
-what me and the guys\n
-are.
+// \n分身… 誰がよ。 \nアタシたちとは建うってことね。
+ \n
+Alter ego? That sounds different from \n
+what me and the guys are. 
 <$00>
 
 // Pos: 000037DA
@@ -1087,50 +974,40 @@ are.
 //子トーマス：
 子Thomas:
 <$0D>
-//\n問顆は心も欲しがるかということだ。\n
-\n
-What is Amanda\n
-searching for?
-<$0C>
+// \n問顆は心も欲しがるかということだ。 \n
+ \n
+What is Amanda searching for? \n
 
 <$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
-\n
-I dare say, Feng\n
-would have no qualms
+// \n私なりには、体は間建いなくフェイが与える。 \nフェイはアマンダに仕えているからな。
+
 <$0C>
-offering her body to\n
-Amanda. Feng is her\n
-disciple.
+I dare say, Feng would have no qualms \n
+offering her body to Amanda. Feng is \n
+her disciple. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nそこでだ、アマンダは心を欲しがるのか、\nそこまでやるのか。あるいは誰か別な女の心を\nねらっているのか。
-\n
-Amanda must want a\n
-heart, but how does
+// \nそこでだ、アマンダは心を欲しがるのか、 \nそこまでやるのか。あるいは誰か別な女の心を \nねらっているのか。
+ \n
+Amanda must want a heart, but how \n
+does one get a mind of their own?
 <$0C>
-one get a mind of\n
-their own? Would she\n
-take another's?
+Would she take another's? 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nあああ、それなのに、\n私なりに、どんどん気が遠くなる。\nトーマスよ、どこへ行く！
-\n
-The more I ponder it,\n
-the hazier
+// \nあああ、それなのに、 \n私なりに、どんどん気が遠くなる。 \nトーマスよ、どこへ行く！
+ \n
+The more I ponder it, the hazier \n
+and...hazier my mind gets...
 <$0C>
-and...hazier my mind\n
-gets...\n
-("Thomas! Where are
-<$0C>
-you going?!")
+("Thomas! Where are you going?!") 
 <$00>
 
 // Pos: 000038A4
@@ -1143,23 +1020,19 @@ you going?!")
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n体は…\nあれ？ なんて言ったっけ、用済み…
-\n
-A body? I understand\n
-that much, but what's
-<$0C>
-this other bit...
+// \n体は… \nあれ？ なんて言ったっけ、用済み…
+ \n
+A body? I understand that much, but \n
+what's this other bit... 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
-\n
-How do you take\n
-someone's mind? I
+// \n心はどうするの、心はうばえないわよ。 \nいくらなんでも… ねぇ。
+ \n
+How do you take someone's mind? I \n
+don't care what someone says, you
 <$0C>
-don't care what\n
-someone says, you\n
-can't take a mind.
+can't take a mind. 
 <$00>
 

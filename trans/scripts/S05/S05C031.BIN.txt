@@ -19,12 +19,10 @@
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\n長老はロッジの中だ。私はここで待つ。
-\n
-Our elder is inside\n
-the lodge. I shall
-<$0C>
-wait here.
+// \n長老はロッジの中だ。私はここで待つ。
+ \n
+Our elder is inside the lodge. I shall wait \n
+here. 
 <$00>
 
 // Pos: 00001A9C
@@ -33,13 +31,11 @@ wait here.
 
 #WHB(PTR, $00000585)
 
-//甘い、ないぞ！\nくそ人形、どこやりやがった！
-This cannot be!\n
-Where is that damned\n
-doll?!
+//甘い、ないぞ！ \nくそ人形、どこやりやがった！
+This cannot be! \n
+Where is that damned doll?! 
 <$0C>
 //フェイの野郎か、やっぱりあの女が…
-Feng, that witch...!\n
-This was her doing!
+Feng, that witch...! This was her doing! 
 <$00>
 

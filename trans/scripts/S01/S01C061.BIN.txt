@@ -15,10 +15,9 @@
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n気を抜くんじゃないぞ。
-\n
-Everyone, behave\n
-yourselves.
+// \n気を抜くんじゃないぞ。
+ \n
+Everyone, behave yourselves. 
 <$00>
 
 // Pos: 000034B8
@@ -31,10 +30,10 @@ yourselves.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n降りたら勝手に動くな、全員で行動する、\n分かったな。
-\n
-Not one of you better\n
-run off, am I clear?
+// \n降りたら勝手に動くな、全員で行動する、 \n分かったな。
+ \n
+Not one of you better run off, am I \n
+clear? 
 <$00>
 
 // Pos: 000034E8
@@ -47,13 +46,10 @@ run off, am I clear?
 //ヌーン：
 Noon:
 <$0D>
-//\nうまく着陸できた、機関も異常なしだ。
-\n
-Listen, I landed this\n
-ship too damn well to
-<$0C>
-be talked down to\n
-like I'm some kid.
+// \nうまく着陸できた、機関も異常なしだ。
+ \n
+Listen, I landed this ship too damn well \n
+to be talked down to like I'm some kid. 
 <$00>
 
 // Pos: 00003509
@@ -66,17 +62,16 @@ like I'm some kid.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nヌーン、もういいぞ。\n私たちは着陸すべくして着陸した。
-\n
-And? When I say,\n
-"land", you land.
+// \nヌーン、もういいぞ。 \n私たちは着陸すべくして着陸した。
+ \n
+And? When I say, "land", you land. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nそういうことだ。
-\n
-That's your whole job.
+// \nそういうことだ。
+ \n
+That's your whole job. 
 <$00>
 
 // Pos: 0000354B
@@ -89,13 +84,10 @@ That's your whole job.
 //エイプリル：
 April:
 <$0D>
-//\n船長、ヌーンのおかげで私たち…
-\n
-Captain, it's only\n
-thanks to Noon that
-<$0C>
-we didn't get into an\n
-accident.
+// \n船長、ヌーンのおかげで私たち…
+ \n
+Captain, it's only thanks to Noon that \n
+we didn't get into an accident. 
 <$00>
 
 // Pos: 00003567
@@ -108,21 +100,17 @@ accident.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nこの船にアクシデントなどなかったのだ。\nわからんのか…
-\n
-I don't care about\n
-accidents. If we dent
-<$0C>
-something, we fix it\n
-later.
+// \nこの船にアクシデントなどなかったのだ。 \nわからんのか…
+ \n
+I don't care about accidents. If we dent \n
+something, we fix it later. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n報告書はそうまとめる。 さ、準備だ！
-\n
-For now, we prepare\n
-to head out!
+// \n報告書はそうまとめる。 さ、準備だ！
+ \n
+For now, we prepare to head out! 
 <$00>
 
 // Pos: 000035B5
@@ -135,25 +123,20 @@ to head out!
 //ヌーン：
 Noon:
 <$0D>
-//\nけっ、とっととガリルって妄想野郎を\nとっつかまえて地球に戻ろうぜ。\nこんなブッソウな星に長居したくない。
-\n
-Heh, maybe we can\n
-drag that mad dog
+// \nけっ、とっととガリルって妄想野郎を \nとっつかまえて地球に戻ろうぜ。 \nこんなブッソウな星に長居したくない。
+ \n
+Heh, maybe we can drag that mad dog \n
+Galil back to Earth. I only hope we're
 <$0C>
-Galil back to Earth.\n
-I only hope we're\n
-quick.
+quick. 
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-//\nこの星には頭がおかしくなった\n密航者ばかりだ。
-\n
-I hate this planet.\n
-Anyone who chooses to
-<$0C>
-live 'ere clearly\n
-lost their mind.
+// \nこの星には頭がおかしくなった \n密航者ばかりだ。
+ \n
+I hate this planet. Anyone who chooses \n
+to live 'ere clearly lost their mind. 
 <$00>
 
 // Pos: 00003620
@@ -166,13 +149,12 @@ lost their mind.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n密航者だけではない。\n流刑者のなれのはても生きながらえている。
-\n
-Not necessarily. Some\n
-inhabitants were
+// \n密航者だけではない。 \n流刑者のなれのはても生きながらえている。
+ \n
+Not necessarily. Some inhabitants \n
+were exiled, and forced to live out
 <$0C>
-exiled, and forced to\n
-live out here.
+here. 
 <$00>
 
 // Pos: 00003654
@@ -185,13 +167,10 @@ live out here.
 //エイプリル：
 April:
 <$0D>
-//\n彼らの協力が得られないと、\nちょっとやっかいよ。
-\n
-If we can't get\n
-residents to
-<$0C>
-cooperate, this won't\n
-be an easy job.
+// \n彼らの協力が得られないと、 \nちょっとやっかいよ。
+ \n
+If we can't get residents to cooperate, \n
+this won't be an easy job. 
 <$00>
 
 // Pos: 0000367B
@@ -204,10 +183,9 @@ be an easy job.
 //ヌーン：
 Noon:
 <$0D>
-//\nふん！ いよいよとなれば、力ずくでも…
-\n
-Oh, I'll make them\n
-cooperate...
+// \nふん！ いよいよとなれば、力ずくでも…
+ \n
+Oh, I'll make them cooperate... 
 <$00>
 
 // Pos: 00003698
@@ -220,20 +198,17 @@ cooperate...
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nさ、用意はいいか。
-\n
-Enough. Is everyone\n
-ready?
+// \nさ、用意はいいか。
+ \n
+Enough. Is everyone ready? 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nライカ、なにをぐずぐずしてる？\n君が最初に降り立つんだ。
-\n
-What're you waiting\n
-for, Laika? You go
-<$0C>
-first.
+// \nライカ、なにをぐずぐずしてる？ \n君が最初に降り立つんだ。
+ \n
+What're you waiting for, Laika? You go \n
+first. 
 <$00>
 
 // Pos: 000036DE
@@ -246,22 +221,18 @@ first.
 //エイプリル：
 April:
 <$0D>
-//\nライカ、大丈夫よ。\nハッチを抜けて右よ。
-\n
-To your right, Laika.\n
-Take that hatch
-<$0C>
-outside.
+// \nライカ、大丈夫よ。 \nハッチを抜けて右よ。
+ \n
+To your right, Laika. Take that hatch \n
+outside. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n自分のヘルメット、\n確かめてね。
-\n
-Make sure your\n
-helmet's on nice and
-<$0C>
-tight first.
+// \n自分のヘルメット、 \n確かめてね。
+ \n
+Make sure your helmet's on nice and \n
+tight first. 
 <$00>
 
 // Pos: 0000371E
@@ -274,13 +245,10 @@ tight first.
 //ヌーン：
 Noon:
 <$0D>
-//\nロケットから離れるんじゃないぞ、\n迷子になっても\nママはむかえに来てくれないぜ。
-\n
-If you run off and\n
-get lost on the job,
-<$0C>
-don't come crying to\n
-Mummy.
+// \nロケットから離れるんじゃないぞ、 \n迷子になっても \nママはむかえに来てくれないぜ。
+ \n
+If you run off and get lost on the job, \n
+don't come crying to Mummy. 
 <$00>
 
 // Pos: 00003753
@@ -293,10 +261,9 @@ Mummy.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nライカ、君がはじめの一歩を記すんだ。
-\n
-Laika, you hop out\n
-first.
+// \nライカ、君がはじめの一歩を記すんだ。
+ \n
+Laika, you hop out first. 
 <$00>
 
 // Pos: 00003776
@@ -309,10 +276,9 @@ first.
 //ヌーン：
 Noon:
 <$0D>
-//\nおっかなびっくりなんじゃねえのか？
-\n
-What's the matter?\n
-Nervous?
+// \nおっかなびっくりなんじゃねえのか？
+ \n
+What's the matter? Nervous? 
 <$00>
 
 // Pos: 00003790
@@ -325,13 +291,9 @@ Nervous?
 //エイプリル：
 April:
 <$0D>
-//\n前の任務もうまくいったじゃない。\n今度もきっと平気よ。
-\n
-So, maybe the\n
-previous mission
-<$0C>
-failed, but our unit\n
-will nail it this\n
-time!
+// \n前の任務もうまくいったじゃない。 \n今度もきっと平気よ。
+ \n
+So, maybe the previous mission failed, \n
+but our unit will nail it this time! 
 <$00>
 

@@ -15,12 +15,10 @@
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあらいやだ、あなたも顔作りに来たの？
-\n
-Dear, are you here to\n
-get your face done
-<$0C>
-too?
+// \nあらいやだ、あなたも顔作りに来たの？
+ \n
+Dear, are you here to get your face \n
+done too? 
 <$00>
 
 // Pos: 00001F35
@@ -33,31 +31,25 @@ too?
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nフェイはお出かけよ…フェイ…
-\n
-Feng's out,\n
-unfortunately.
+// \nフェイはお出かけよ…フェイ…
+ \n
+Feng's out, unfortunately. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n知ってるんでしょ、リャンハウスのフェイよ、\n整形屋さん。
-\n
-You know Feng, right?\n
-The cosmetic surgeon
-<$0C>
-of House Liang.
+// \n知ってるんでしょ、リャンハウスのフェイよ、 \n整形屋さん。
+ \n
+You know Feng, right? The cosmetic \n
+surgeon of House Liang. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nアタシは洗顔に来たのよ、\n寝る前のお洗顔よ。
-\n
-I came for a\n
-face-wash. I like to
-<$0C>
-get my face washed up\n
-before bed.
+// \nアタシは洗顔に来たのよ、 \n寝る前のお洗顔よ。
+ \n
+I came for a face-wash. I like to get my \n
+face washed up before bed. 
 <$00>
 
 // Pos: 00001F9F
@@ -70,67 +62,54 @@ before bed.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n地球じゃご法度よね、お顔なんて。
-\n
-Human faces are still\n
-banned on Earth,
-<$0C>
-right?
+// \n地球じゃご法度よね、お顔なんて。
+ \n
+Human faces are still banned on Earth, \n
+right? 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n犬の顔で人類が平和になった、\nそう教えられてきたものね。
-\n
-I remember being\n
-taught that the trade
+// \n犬の顔で人類が平和になった、 \nそう教えられてきたものね。
+ \n
+I remember being taught that the \n
+trade for our dog faces ensured peace
 <$0C>
-for our dog faces\n
-ensured peace for\n
-mankind.
+for mankind. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nでもガマンすることないのよ。\n火星人は人間の顔の記憶を残して滅んだの。
-\n
-Peace from what, huh?\n
-The Martians died off
-<$0C>
-and took our faces\n
-with them!
+// \nでもガマンすることないのよ。 \n火星人は人間の顔の記憶を残して滅んだの。
+ \n
+Peace from what, huh? The Martians \n
+died off and took our faces with them! 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nそれがあの人面岩、ザ・フェイスよ。
-\n
-At least they left us\n
-that mountain, the
-<$0C>
-Face. Talk about a\n
-sick momento.
+// \nそれがあの人面岩、ザ・フェイスよ。
+ \n
+At least they left us that mountain, the \n
+Face. Talk about a sick momento. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nフェイはあそこで\n強いインスピレーションを得たの。
-\n
-Feng uses the\n
-sculpture as a base
-<$0C>
-model for her work.
+// \nフェイはあそこで \n強いインスピレーションを得たの。
+ \n
+Feng uses the sculpture as a base \n
+model for her work. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nそれでこのお仕事、整形屋を始めたのよ。
-\n
-The Face was the\n
-inspiration she
+// \nそれでこのお仕事、整形屋を始めたのよ。
+ \n
+The Face was the inspiration she \n
+needed to open shop as a cosmetic
 <$0C>
-needed to open shop\n
-as a cosmetic surgeon.
+surgeon. 
 <$00>
 
 // Pos: 00002085
@@ -151,27 +130,23 @@ as a cosmetic surgeon.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nアタシ、だんだん人間の顔に近づくにつれ、\n優しい気分になれるの。幸せよ。
-\n
-The closer my face\n
-gets to looking
+// \nアタシ、だんだん人間の顔に近づくにつれ、 \n優しい気分になれるの。幸せよ。
+ \n
+The closer my face gets to looking \n
+human, the more I feel human. I feel
 <$0C>
-human, the more I\n
-feel human. I feel\n
 happy.
 <$1E>
 //〇
-〇
+〇 
 <$00><$12><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n変ねぇ…どっかで会った気がするのよ…\n気のせい？
-\n
-Dear...have we met\n
-before, or did I
-<$0C>
-imagine it?
+// \n変ねぇ…どっかで会った気がするのよ… \n気のせい？
+ \n
+Dear...have we met before, or did I \n
+imagine it? 
 <$00>
 
 // Pos: 000020E1
@@ -184,12 +159,10 @@ imagine it?
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nあんたも仲間なの？\nあいつらと一緒なの？
-\n
-Where those two your\n
-friends? Did you come
-<$0C>
-here with them?
+// \nあんたも仲間なの？ \nあいつらと一緒なの？
+ \n
+Where those two your friends? Did you \n
+come here with them? 
 <$00>
 
 // Pos: 00002106
@@ -202,13 +175,10 @@ here with them?
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n簡単よ、あいつら動かすの。\nあんたもあいつらみたいに簡単なの？
-\n
-What a couple of\n
-knucklebones. You're
-<$0C>
-not a pushover like\n
-they are, I hope,
+// \n簡単よ、あいつら動かすの。 \nあんたもあいつらみたいに簡単なの？
+ \n
+What a couple of knucklebones. You're \n
+not a pushover like they are, I hope, 
 <$00>
 
 // Pos: 00002137
@@ -221,36 +191,28 @@ they are, I hope,
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nねぇ、簡単ってどういうことか知ってる？
-\n
-You knew what I meant\n
-by "knucklebones",
-<$0C>
-right?
+// \nねぇ、簡単ってどういうことか知ってる？
+ \n
+You knew what I meant by \n
+"knucklebones", right? 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nサイコロに命令するようなものよ。\n何回かに一回、必ず命令通りになるの。
-\n
-That's an old dice\n
-game. You take turns
+// \nサイコロに命令するようなものよ。 \n何回かに一回、必ず命令通りになるの。
+ \n
+That's an old dice game. You take turns \n
+until someone rolls a Venus and wins
 <$0C>
-until someone rolls a\n
-Venus and wins the\n
-pot.
+the pot. 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nだから私、命令をためてる。\nいざっていう時に使うのよ。
-\n
-Figuratively\n
-speaking, I'd rather
-<$0C>
-save my lucky rolls\n
-for the perfect\n
-moment.
+// \nだから私、命令をためてる。 \nいざっていう時に使うのよ。
+ \n
+Figuratively speaking, I'd rather save \n
+my lucky rolls for the perfect moment. 
 <$00>
 
 // Pos: 000021B9
@@ -263,13 +225,12 @@ moment.
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n今は…そうでもないよ。\n今がいざっていう時じゃないってこと。
-\n
-Getting those two out\n
-of your hair was...an
+// \n今は…そうでもないよ。 \n今がいざっていう時じゃないってこと。
+ \n
+Getting those two out of your hair \n
+was...an exception, so you're the lucky
 <$0C>
-exception, so you're\n
-the lucky roller here.
+roller here. 
 <$00>
 
 // Pos: 000021E7
@@ -282,14 +243,12 @@ the lucky roller here.
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nアタシ、ヴェロニカ。あんたは？
-\n
-I'm Veronica. And you\n
-are?
+// \nアタシ、ヴェロニカ。あんたは？
+ \n
+I'm Veronica. And you are?
 <$1B>
-//．ライカ\n
-. Laika
-<$0C>
+//．ライカ \n
+. Laika \n 
 <$0F><$00><$17><$00>
 
 // Pos: 0000220C
@@ -302,25 +261,22 @@ are?
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nねぇ、あんたの他にも新しい人見たよ。\nナイトプラネットのところで。女の人。
-\n
-Actually, I saw\n
-another new face at
+// \nねぇ、あんたの他にも新しい人見たよ。 \nナイトプラネットのところで。女の人。
+ \n
+Actually, I saw another new face at \n
+over at NIGHT PLANET. It was a young
 <$0C>
-over at NIGHT PLANET.\n
-It was a young woman.
+woman. 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nナイトプラネットにはゴールドがいるの。\nあとスモーキーもよくやってくる。
-\n
-Gold is always at\n
-NIGHT PLANET, but I
+// \nナイトプラネットにはゴールドがいるの。 \nあとスモーキーもよくやってくる。
+ \n
+Gold is always at NIGHT PLANET, but I \n
+know that creeper, Smokey, is a
 <$0C>
-know that creeper,\n
-Smokey, is a regular\n
-of the said bar.
+regular of the said bar. 
 <$00>
 
 // Pos: 0000226F
@@ -333,42 +289,36 @@ of the said bar.
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nあいつ、大キライ。スモーキー…\n死んでしまえばいいのよ。\nあんたもきっとそう思うから。
-\n
-I hate that guy,\n
-Smokey. I'd rather he
-<$0C>
-died. If you ever met\n
-him, you'd agree.
+// \nあいつ、大キライ。スモーキー… \n死んでしまえばいいのよ。 \nあんたもきっとそう思うから。
+ \n
+I hate that guy, Smokey. I'd rather he \n
+died. If you ever met him, you'd agree.
 <$1E>
 //鋭
-鋭
+鋭 
 <$00><$13><$13><$19><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nエッジの鏡ができたら、\nあんなやつら、みんな消えるんだ。\n空の騎士に吸い込まれてしまうのよ。
-\n
-When it's completed,\n
-the rider in the sky
+// \nエッジの鏡ができたら、 \nあんなやつら、みんな消えるんだ。 \n空の騎士に吸い込まれてしまうのよ。
+ \n
+When it's completed, the rider in the \n
+sky will slay them all with Edge's
 <$0C>
-will slay them all\n
-with Edge's mirror.
+mirror. 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n鏡ができたら、エッジは戻ってくる。\nみんないなくなってから、戻ってくるのよ。
-\n
-When the mirror is\n
-complete, Edge will
+// \n鏡ができたら、エッジは戻ってくる。 \nみんないなくなってから、戻ってくるのよ。
+ \n
+When the mirror is complete, Edge will \n
+appear.  When everyone disappears,
 <$0C>
-appear.  When\n
-everyone disappears,\n
 they will apper.
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 
 // Pos: 00002325
@@ -381,43 +331,35 @@ they will apper.
 //リンダ：
 Linda:
 <$0D>
-//\nあらー、マラケシュに用なのー。
-\n
-Gosh, Marrakech is\n
-such a worrywart.
+// \nあらー、マラケシュに用なのー。
+ \n
+Gosh, Marrakech is such a worrywart. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nあんたがー、\n鏡のとこに行ったんじゃないかってー、
-\n
-She'd thought you'd\n
-gone into the mirror
-<$0C>
-or something.
+// \nあんたがー、 \n鏡のとこに行ったんじゃないかってー、
+ \n
+She'd thought you'd gone into the \n
+mirror or something. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nブリックロードに様子見に行ったよ。
-\n
-I ran down to Brick\n
-Road to check.
+// \nブリックロードに様子見に行ったよ。
+ \n
+I ran down to Brick Road to check. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nあんたー、カタブツ？\nヴァニティフェイスに興味ないのー？
-\n
-You look\n
-spick-and-span,
-<$0C>
-though. So, are you\n
-here to get your\n
-Vanity Face?
+// \nあんたー、カタブツ？ \nヴァニティフェイスに興味ないのー？
+ \n
+You look spick-and-span, though. So, \n
+are you here to get your Vanity Face?
 <$1E>
 //〇
-〇
+〇 
 <$00>
 
 // Pos: 000023A6
@@ -430,15 +372,13 @@ Vanity Face?
 //リンダ：
 Linda:
 <$0D>
-//\nマラケシュなら、ブリックロードだよー。
-\n
-If you want\n
-Marrakech, check
-<$0C>
-Brick Road.
+// \nマラケシュなら、ブリックロードだよー。
+ \n
+If you want Marrakech, check Brick \n
+Road.
 <$1E>
 //〇
-〇
+〇 
 <$00>
 
 // Pos: 000023C5
@@ -451,27 +391,23 @@ Brick Road.
 //リンダ：
 Linda:
 <$0D>
-//\nねぇ、アタシとさー、マラケシュさー、
-\n
-Hmmm, you or\n
-Marrakech, you or
-<$0C>
-Marrakech...
+// \nねぇ、アタシとさー、マラケシュさー、
+ \n
+Hmmm, you or Marrakech, you or \n
+Marrakech... 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nどっちがイケてるかって、\n開きたいけどやめるー。
-\n
-I'd ask which of you\n
-is better-looking,
+// \nどっちがイケてるかって、 \n開きたいけどやめるー。
+ \n
+I'd ask which of you is better-looking, \n
+but I don't want to open that can of
 <$0C>
-but I don't want to\n
-open that can of\n
 worms.
 <$1E>
 //〇
-〇
+〇 
 <$00>
 
 // Pos: 00002404
@@ -484,23 +420,19 @@ worms.
 //リンダ：
 Linda:
 <$0D>
-//\nねえ、ちょっと、あんたずるいよー。\nあんな可愛いコと一緒だなんてー。
-\n
-Wow, I can't believe\n
-you were walking
-<$0C>
-around with such a\n
-pretty woman!
+// \nねえ、ちょっと、あんたずるいよー。 \nあんな可愛いコと一緒だなんてー。
+ \n
+Wow, I can't believe you were walking \n
+around with such a pretty woman! 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nあんたのこと、さがしてたよー。
-\n
-I was keeping an eye\n
-out for you.
+// \nあんたのこと、さがしてたよー。
+ \n
+I was keeping an eye out for you.
 <$1E>
 //〇
-〇
+〇 
 <$00>
 

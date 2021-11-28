@@ -15,46 +15,37 @@
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n大変なの
-\n
+// \n大変なの
+ \n
 Bad news, 
 <$0F>
-//！\nエイプリルよ、彼女も悪夢につかまってるの。
-! It's\n
-April. She's trapped
-<$0C>
-in the nightmares too!
+//！ \nエイプリルよ、彼女も悪夢につかまってるの。
+! It's April. She's trapped in \n
+the nightmares too! 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nヘロデの姿も見えるけど、\nどうしても近づけないわ。
-\n
-I can see Herod now,\n
-but I can't reach him
-<$0C>
-to help. He's so\n
-scared...
+// \nヘロデの姿も見えるけど、 \nどうしても近づけないわ。
+ \n
+I can see Herod now, but I can't reach \n
+him to help. He's so scared... 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n彼はひどくおびえてる…ここからじゃ無理ね。\n入り口を見つけて。お願い。
-\n
-Please, you must find\n
-the entrance to the
-<$0C>
-Land of Nightmares.
+// \n彼はひどくおびえてる…ここからじゃ無理ね。 \n入り口を見つけて。お願い。
+ \n
+Please, you must find the entrance to \n
+the Land of Nightmares. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nあまり時間はないわ。\n悪夢の世界で何かが起きてるのよ。
-\n
-Something's going on\n
-there. We don't have
-<$0C>
-much time!
+// \nあまり時間はないわ。 \n悪夢の世界で何かが起きてるのよ。
+ \n
+Something's going on there. We don't \n
+have much time! 
 <$00>
 
 // Pos: 00001148
@@ -67,61 +58,49 @@ much time!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n悪夢の先に道が開ける…\nその道は奇跡に続く道…\n星が教えてくれたのよ。
-\n
-"Beyond the Land of\n
-Nightmares is path
-<$0C>
-that opens into\n
-miracles."
+// \n悪夢の先に道が開ける… \nその道は奇跡に続く道… \n星が教えてくれたのよ。
+ \n
+"Beyond the Land of Nightmares is path \n
+that opens into miracles." 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nこの星は強い意志を持ち、\n新しい歴史を書き記そうとしているの。\n星には逆らえないのよ…
-\n
-The planet told me\n
-that. It has the
+// \nこの星は強い意志を持ち、 \n新しい歴史を書き記そうとしているの。 \n星には逆らえないのよ…
+ \n
+The planet told me that. It has the \n
+willpower, a wish, to write a new
 <$0C>
-willpower, a wish, to\n
-write a new history.
+history. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n野心や欲では星の望みを\nかなえることはできないわ。\nなのに…
-\n
-We cannot fight the\n
-planet, nor can we
+// \n野心や欲では星の望みを \nかなえることはできないわ。 \nなのに…
+ \n
+We cannot fight the planet, nor can we \n
+expect it to side with our selfish
 <$0C>
-expect it to side\n
-with our selfish\n
-ambitions.
+ambitions. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nわかって、
-\n
+// \nわかって、
+ \n
 Despite that, 
 <$0F>
-//。\nこの星の声に耳をかたむけるのよ。
-, you\n
-must open yourself to
-<$0C>
-the planet, and\n
-listen.
+//。 \nこの星の声に耳をかたむけるのよ。
+, you must open yourself \n
+to the planet, and listen. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nこの星はあなたを待っているわ。\n使者となったあなたを。
-\n
-The planet is waiting\n
-for you to serve your
-<$0C>
-purpose as its\n
-messenger.
+// \nこの星はあなたを待っているわ。 \n使者となったあなたを。
+ \n
+The planet is waiting for you to serve \n
+your purpose as its messenger. 
 <$00>
 
 // Pos: 00001247
@@ -134,34 +113,26 @@ messenger.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n悪夢の世界は、にごっていて、\nまるでこれからふくらむ悪意を\n待ちかまえてるかのようよ。
-\n
-The Land of\n
-Nightmares is a
-<$0C>
-clouded swell of\n
-ever-looming ill\n
-will.
+// \n悪夢の世界は、にごっていて、 \nまるでこれからふくらむ悪意を \n待ちかまえてるかのようよ。
+ \n
+The Land of Nightmares is a clouded \n
+swell of ever-looming ill will. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nエイプリルがいるのなら\nどこか他に入口があるはず。
-\n
-If April is in there,\n
-she must have found
-<$0C>
-an entrance.
+// \nエイプリルがいるのなら \nどこか他に入口があるはず。
+ \n
+If April is in there, she must have found \n
+an entrance. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nここからは入れないわ、\n何も見えなくなったの。
-\n
-I can't get to her\n
-from here. I can't
-<$0C>
-see anything.
+// \nここからは入れないわ、 \n何も見えなくなったの。
+ \n
+I can't get to her from here. I can't see \n
+anything. 
 <$00>
 
 // Pos: 000012D0
@@ -174,33 +145,28 @@ see anything.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n悪夢の世界にはつながったけど、\nここからは無理ね。
-\n
-It's impossible to\n
-reach the Land of
-<$0C>
-Nightmares from here.
+// \n悪夢の世界にはつながったけど、 \nここからは無理ね。
+ \n
+It's impossible to reach the Land of \n
+Nightmares from here. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n何も見えなくなったの。\nエイプリルもいるのよ、悪夢の中に。
-\n
-I can't see anything,\n
-but April is there
-<$0C>
-too. She's in the\n
-nightmares.
+// \n何も見えなくなったの。 \nエイプリルもいるのよ、悪夢の中に。
+ \n
+I can't see anything, but April is there \n
+too. She's in the nightmares. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n他に入口はないかしら。
-\n
-She must have found\n
-another entrance.
+// \n他に入口はないかしら。
+ \n
+She must have found another \n
+entrance.
 <$1E>
 //理
-理
+理 
 <$00>
 

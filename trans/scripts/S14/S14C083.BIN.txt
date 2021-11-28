@@ -15,15 +15,13 @@
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\nああ、コロニーはいつの間に\nこんなに寒くなったの…変ねぇ。
-\n
-ThE cOlOny gOt sO\n
-cOld OUt Of
-<$0C>
+// \nああ、コロニーはいつの間に \nこんなに寒くなったの…変ねぇ。
+ \n
+ThE cOlOny gOt sO cOld OUt Of \n
 nOwhErEs... StrAngE!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000006DC
@@ -36,17 +34,15 @@ nOwhErEs... StrAngE!
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\n家が燃える夢を見たの…\nめらめら、ぱちぱち、燃えてるの。\n熱くって、逃げ出したのよ、夢の中で。
-\n
-I hAd a drEAm thAt\n
-OUr hOUsEs wErE
+// \n家が燃える夢を見たの… \nめらめら、ぱちぱち、燃えてるの。 \n熱くって、逃げ出したのよ、夢の中で。
+ \n
+I hAd a drEAm thAt OUr hOUsEs wErE \n
+bUrnIng. It wAs sO hOt And IntEnse, All I
 <$0C>
-bUrnIng. It wAs sO\n
-hOt And IntEnse, All\n
-I cOUld dO wAs rUn.
+cOUld dO wAs rUn.
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00000728
@@ -59,27 +55,21 @@ I cOUld dO wAs rUn.
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\n家が燃えて…どうしたの、それから、そうよ…\nトミーって名前を思い出して…
-\n
-HOUsEs wErE on fIrE,\n
-bUt thEn...yEAh... I
-<$0C>
-rEmEmbEr thE nAmE\n
-"TOmmy".
+// \n家が燃えて…どうしたの、それから、そうよ… \nトミーって名前を思い出して…
+ \n
+HOUsEs wErE on fIrE, bUt thEn...yEAh... \n
+I rEmEmbEr thE nAmE "TOmmy". 
 <$0C><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\nおうおう、トミーのやつだ、\n俺を無視しやがった！
-\n
-OH! OH! ThAt's rIght,\n
-fUckIng TOmmy! ThAt's
-<$0C>
-thE gUy whO blEw mE\n
-Off!
+// \nおうおう、トミーのやつだ、 \n俺を無視しやがった！
+ \n
+OH! OH! ThAt's rIght, fUckIng TOmmy! \n
+ThAt's thE gUy whO blEw mE Off!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 0000078F
@@ -92,13 +82,12 @@ Off!
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\nなんでトミーは俺のこと知らないんだ？
-\n
-DOEsn't TOmmy knOw\n
-whO I Am?
+// \nなんでトミーは俺のこと知らないんだ？
+ \n
+DOEsn't TOmmy knOw whO I Am?
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 000007B6
@@ -111,15 +100,12 @@ whO I Am?
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\n大きな音、何の音なの。何かがはねる音よ。\nヘルメットの中にひびいてるわ、\n音がやまないわ。
-\n
-WhAt's thIs lOUd,\n
-bOUncIng sOUnd
-<$0C>
-blArIng In my hElmEt?\n
-It wOn't stOp!
+// \n大きな音、何の音なの。何かがはねる音よ。 \nヘルメットの中にひびいてるわ、 \n音がやまないわ。
+ \n
+WhAt's thIs lOUd, bOUncIng sOUnd \n
+blArIng In my hElmEt? It wOn't stOp!
 <$1E>
 //行
-行
+行 
 <$00>
 

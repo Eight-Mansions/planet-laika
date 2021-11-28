@@ -15,12 +15,10 @@
 //エイプリル：
 April:
 <$0D>
-//\nライカ！\nおそいから心配したよ！ 大丈夫だった？
-\n
-Laika!\n
-You had us worried!
-<$0C>
-Are you okay?
+// \nライカ！ \nおそいから心配したよ！ 大丈夫だった？
+ \n
+Laika! \n
+You had us worried! Are you okay? 
 <$00>
 
 // Pos: 00002050
@@ -33,41 +31,33 @@ Are you okay?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nやっと全員そろったな。\nひとまずここで待機だ。
-\n
-Now that everyone's\n
-here, I'm calling for
-<$0C>
-a time-out.
+// \nやっと全員そろったな。 \nひとまずここで待機だ。
+ \n
+Now that everyone's here, I'm calling \n
+for a time-out. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nこの星は予想以上にひどいことになっている。
-\n
-That sandstorm was\n
-not the warm welcome
-<$0C>
-I'd hoped for, so...
+// \nこの星は予想以上にひどいことになっている。
+ \n
+That sandstorm was not the warm \n
+welcome I'd hoped for, so... 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n暗くなる前に、\nなんとかコロニーに到着したい。
-\n
-...all the more\n
-reason to haul ass,
-<$0C>
-and reach the colony\n
-before nightfall.
+// \n暗くなる前に、 \nなんとかコロニーに到着したい。
+ \n
+...all the more reason to haul ass, and \n
+reach the colony before nightfall. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nヌーン、コロニーまではどのくらいだ？
-\n
-Noon, how far are we\n
-from the colony?
+// \nヌーン、コロニーまではどのくらいだ？
+ \n
+Noon, how far are we from the colony? 
 <$00>
 
 // Pos: 000020E6
@@ -80,20 +70,17 @@ from the colony?
 //ヌーン：
 Noon:
 <$0D>
-//\nコ、コロニー…
-\n
-The...colony...?
+// \nコ、コロニー…
+ \n
+The...colony...? 
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-//\nふふふ、コロニーには誰がいるんだ？\n誰かが待ってるのか？
-\n
-Pffthaha! What, is\n
-someone expecting us?
-<$0C>
-Is someone waiting to\n
-tuck us in?
+// \nふふふ、コロニーには誰がいるんだ？ \n誰かが待ってるのか？
+ \n
+Pffthaha! What, is someone expecting \n
+us? Is someone waiting to tuck us in? 
 <$00>
 
 // Pos: 0000211D
@@ -106,21 +93,17 @@ tuck us in?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nヌーン、どうした？ 気分でも悪いのか。
-\n
-Huh?! What's wrong\n
-with you?!
+// \nヌーン、どうした？ 気分でも悪いのか。
+ \n
+Huh?! What's wrong with you?! 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nここで夜を明かすわけにはいかないんだ。
-\n
-Listen, genius, you\n
-know we can't bum it
-<$0C>
-out here in the\n
-middle of nowhere!
+// \nここで夜を明かすわけにはいかないんだ。
+ \n
+Listen, genius, you know we can't bum \n
+it out here in the middle of nowhere! 
 <$00>
 
 // Pos: 00002160
@@ -133,12 +116,10 @@ middle of nowhere!
 //エイプリル：
 April:
 <$0D>
-//\nヌーンは疲れてるのよ。\n船長、ちょっと休みましょう。
-\n
-He must be tired,\n
-Captain. Maybe we
-<$0C>
-should take a break.
+// \nヌーンは疲れてるのよ。 \n船長、ちょっと休みましょう。
+ \n
+He must be tired, Captain. Maybe we \n
+should take a break. 
 <$00>
 
 // Pos: 00002189
@@ -151,20 +132,18 @@ should take a break.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nダメだ。\n我々は任務をやりとげなければならない。
-\n
-No can do.\n
-We've got a job to do.
+// \nダメだ。 \n我々は任務をやりとげなければならない。
+ \n
+No can do. \n
+We've got a job to do. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nヌーン、コロニーまではどのくらいなんだ？
-\n
-Answer me, Noon. How\n
-far are we from the
-<$0C>
-colony?
+// \nヌーン、コロニーまではどのくらいなんだ？
+ \n
+Answer me, Noon. How far are we from \n
+the colony? 
 <$00>
 
 // Pos: 000021D4
@@ -181,20 +160,17 @@ colony?
 //ヌーン：
 Noon:
 <$0D>
-//\nうふふふふふふ…
-\n
-Weeeheeheehee...
+// \nうふふふふふふ…
+ \n
+Weeeheeheehee... 
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-//\nコロニー…コロニー…早くおうちに帰りたい。\nママが待ってるんだ！
-\n
-Quick...! Take me\n
-to...the colony...
-<$0C>
-Take me 'ome! Mummy's\n
-waiting for me!
+// \nコロニー…コロニー…早くおうちに帰りたい。 \nママが待ってるんだ！
+ \n
+Quick...! Take me to...the colony... Take \n
+me 'ome! Mummy's waiting for me! 
 <$00>
 
 // Pos: 00002210
@@ -207,20 +183,17 @@ waiting for me!
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nいいかげんにしろ、キサマ！
-\n
-Listen to me, dumbass!
+// \nいいかげんにしろ、キサマ！
+ \n
+Listen to me, dumbass! 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n私には時間がないんだ。\nくそっ、これは任務だ！ 私の任務なんだ！
-\n
-I don't have time for\n
-this! This is a
-<$0C>
-mission, you hear?!\n
-MY mission!
+// \n私には時間がないんだ。 \nくそっ、これは任務だ！ 私の任務なんだ！
+ \n
+I don't have time for this! This is a \n
+mission, you hear?! MY mission! 
 <$00>
 
 // Pos: 0000225E
@@ -233,14 +206,12 @@ MY mission!
 //エイプリル：
 April:
 <$0D>
-//\n船長！ 隊員の命を守るのも、\n船長の役割じゃないの！
-\n
-Captain, please! It's\n
-your duty to
+// \n船長！ 隊員の命を守るのも、 \n船長の役割じゃないの！
+ \n
+Captain, please! It's your duty to \n
+safeguard the lives of your crew, isn't
 <$0C>
-safeguard the lives\n
-of your crew, isn't\n
-it?!
+it?! 
 <$00>
 
 // Pos: 0000228D
@@ -253,16 +224,16 @@ it?!
 //ヌーン：
 Noon:
 <$0D>
-//\n命…いのち…
-\n
-Lives... Li...fe...
+// \n命…いのち…
+ \n
+Lives... Li...fe... 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n…………
-\n
-......
+// \n…………
+ \n
+...... 
 <$00>
 
 // Pos: 000022AE
@@ -275,35 +246,28 @@ Captain Tatler:
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nふ… 仕方ない。\n分かった、ここで小休止だ。
-\n
-Tch... Well, taking a\n
-break beats dealing
-<$0C>
-with this shit on the\n
-trek.
+// \nふ… 仕方ない。 \n分かった、ここで小休止だ。
+ \n
+Tch... Well, taking a break beats \n
+dealing with this shit on the trek. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nエイプリル、ライカ、\n君たちはニ人で偵察に出てくれないか。
-\n
-April, Laika, can you\n
-two go out and survey
+// \nエイプリル、ライカ、 \n君たちはニ人で偵察に出てくれないか。
+ \n
+April, Laika, can you two go out and \n
+survey the area until Noon comes
 <$0C>
-the area until Noon\n
-comes down?
+down? 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n暗くなる前に安全なルートを確保したいんだ。
-\n
-At the very least, I\n
-want a safe route
-<$0C>
-secured for us before\n
-dark.
+// \n暗くなる前に安全なルートを確保したいんだ。
+ \n
+At the very least, I want a safe route \n
+secured for us before dark. 
 <$00>
 
 // Pos: 0000232C
@@ -316,31 +280,27 @@ dark.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nイーブルマインドにさえ\n用心していれば平気だ。
-\n
-Whatever you do, stay\n
-safe around that Evil
-<$0C>
-Mind.
+// \nイーブルマインドにさえ \n用心していれば平気だ。
+ \n
+Whatever you do, stay safe around \n
+that Evil Mind. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nどうやら酸索はうまく供給されているようだ、\nもうヘルメットはいらないぞ。
-\n
-The environment\n
-itself provides
+// \nどうやら酸索はうまく供給されているようだ、 \nもうヘルメットはいらないぞ。
+ \n
+The environment itself provides \n
+enough oxygen. We don't need helmets
 <$0C>
-enough oxygen. We\n
-don't need helmets\n
-anymore.
+anymore. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nさあ、偵察に出てくれ、たのんだぞ。
-\n
-Now, get to scouting!
+// \nさあ、偵察に出てくれ、たのんだぞ。
+ \n
+Now, get to scouting! 
 <$00>
 
 // Pos: 000023AA
@@ -353,9 +313,9 @@ Now, get to scouting!
 //エイプリル：
 April:
 <$0D>
-//\n行きましょう。
-\n
-Let's go.
+// \n行きましょう。
+ \n
+Let's go. 
 <$00>
 
 // Pos: 000023BD
@@ -368,21 +328,17 @@ Let's go.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nどうした、ライカ？\n怖じ気付いたのか…
-\n
-What's wrong, Laika?\n
-Is Mars making your
-<$0C>
-skin crawl?
+// \nどうした、ライカ？ \n怖じ気付いたのか…
+ \n
+What's wrong, Laika? Is Mars making \n
+your skin crawl? 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nもうここは地球のようなものだ、\n恐がることはないぞ。
-\n
-Sure, maybe we're far\n
-from home, but don't
-<$0C>
-let it get to you!
+// \nもうここは地球のようなものだ、 \n恐がることはないぞ。
+ \n
+Sure, maybe we're far from home, but \n
+don't let it get to you! 
 <$00>
 

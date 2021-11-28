@@ -11,9 +11,9 @@
 
 #WHB(PTR, $000004A9)
 
-//野あ、レッドボーイ、\nサンタのおじさんだよ。
-野Yes, Red Boy!\n
-It's me, Uncle Santa!
+//野あ、レッドボーイ、 \nサンタのおじさんだよ。
+野Yes, Red Boy! \n
+It's me, Uncle Santa! 
 <$00>
 
 // Pos: 000013A6
@@ -26,10 +26,10 @@ It's me, Uncle Santa!
 //レッド：
 Red:
 <$0D>
-//\n来るな。 消えろ！ 失せろ！
-\n
-Don't come near me!\n
-Get lost! Disappear!
+// \n来るな。 消えろ！ 失せろ！
+ \n
+Don't come near me! Get lost! \n
+Disappear! 
 <$00>
 
 // Pos: 000013C0
@@ -38,14 +38,12 @@ Get lost! Disappear!
 
 #WHB(PTR, $000004CD)
 
-//広じさんに向かってひどいじゃないか。\n可愛いおしりをひんむいちゃうぞ。
-Isn't that a rude\n
-thing to say to your\n
-uncle?
+//広じさんに向かってひどいじゃないか。 \n可愛いおしりをひんむいちゃうぞ。
+Isn't that a rude thing to say to your \n
+uncle? \n
+Strip off and show me that cute ass of
 <$0C>
-Strip off and show me\n
-that cute ass of\n
-yours.
+yours. 
 <$00>
 
 // Pos: 000013E8
@@ -58,10 +56,9 @@ yours.
 //レッド：
 Red:
 <$0D>
-//\nくそったれ！ くたばれ！
-\n
-S-screw you! Drop\n
-dead!
+// \nくそったれ！ くたばれ！
+ \n
+S-screw you! Drop dead! 
 <$00>
 
 // Pos: 000013FD
@@ -70,13 +67,10 @@ dead!
 
 #WHB(PTR, $000004F1)
 
-//仮い言葉はいけないよ。\nさあ、一緒に遊ぼう、青少年の家で遊ぼう。
-Watch your mouth!\n
-Come on, let's play\n
-together. That's
-<$0C>
-right, we're going\n
-back in the dog house.
+//仮い言葉はいけないよ。 \nさあ、一緒に遊ぼう、青少年の家で遊ぼう。
+Watch your mouth! Come on, let's play \n
+together. That's right, we're going \n
+back in the dog house. 
 <$00>
 
 // Pos: 00001428
@@ -89,10 +83,9 @@ back in the dog house.
 //レッド：
 Red:
 <$0D>
-//\nイヤだ、行かないぞ、俺はイヤだ！
-\n
-No, I won't go! I\n
-WON'T!
+// \nイヤだ、行かないぞ、俺はイヤだ！
+ \n
+No, I won't go! I WON'T! 
 <$00>
 
 // Pos: 00001442
@@ -102,8 +95,7 @@ WON'T!
 #WHB(PTR, $00000515)
 
 //勢ンスの時間だ、ボーイ。
-勢It's time to dance,\n
-Boy!
+勢It's time to dance, Boy! 
 <$00>
 
 // Pos: 00001452
@@ -116,13 +108,12 @@ Boy!
 //レッド：
 Red:
 <$0D>
-//\nへへへ… へへ…ついに来やがった、おじさんだ\n泡のおじさんに捕まった… へへへ…\nへへへへへへへへへへへへへへへ…
-\n
-Hehehe... You're\n
-finally here, Uncle.
+// \nへへへ… へへ…ついに来やがった、おじさんだ \n泡のおじさんに捕まった… へへへ… \nへへへへへへへへへへへへへへへ…
+ \n
+Hehehe... You're finally here, Uncle. \n
+You caught me, Uncle Bubbles. Hehe,
 <$0C>
-You caught me, Uncle\n
-Bubbles. Hehe, hehehe!
+hehehe! 
 <$00>
 
 // Pos: 00001497
@@ -135,28 +126,23 @@ Bubbles. Hehe, hehehe!
 //レッド：
 Red:
 <$0D>
-//\nへへへ、ついに来やがった、おじさんだ。
-\n
-Hehehe, you're\n
-finally here, Uncle.
+// \nへへへ、ついに来やがった、おじさんだ。
+ \n
+Hehehe, you're finally here, Uncle. 
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-//\nへへ… 俺はどうなるんだ…\nこれが用済みってことなのか？
-\n
-Hehe, what will\n
-happen to me now?
-<$0C>
-Will I have...served\n
-my purpose?
+// \nへへ… 俺はどうなるんだ… \nこれが用済みってことなのか？
+ \n
+Hehe, what will happen to me now? Will \n
+I have...served my purpose? 
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-//\nああ、用済み、あああああああああああ…
-\n
-Ah, guess I'll be\n
-obsolete ag... Ahh...
+// \nああ、用済み、あああああああああああ…
+ \n
+Ah, guess I'll be obsolete ag... Ahh... 
 <$00>
 

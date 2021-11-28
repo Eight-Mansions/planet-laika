@@ -15,12 +15,10 @@
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\nせっかく静かに暮らしていたのに、シー。
-\n
-WE wErE lIvIng sO\n
-pEAcEfUlly And
-<$0C>
-qUIEtly, whOOsh...
+// \nせっかく静かに暮らしていたのに、シー。
+ \n
+WE wErE lIvIng sO pEAcEfUlly And \n
+qUIEtly, whOOsh... 
 <$00>
 
 // Pos: 0000179A
@@ -33,10 +31,9 @@ qUIEtly, whOOsh...
 //エイプリル：
 April:
 <$0D>
-//\nヌーンがママを呼び出したの？
-\n
-Why did Noon call for\n
-his mom?
+// \nヌーンがママを呼び出したの？
+ \n
+Why did Noon call for his mom? 
 <$00>
 
 // Pos: 000017B5
@@ -49,13 +46,12 @@ his mom?
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\nシーシーシーシー！
-\n
-WhOOsh, whOOsh,\n
-whOOsh, whOOsh!
+// \nシーシーシーシー！
+ \n
+WhOOsh, whOOsh, whOOsh, whOOsh!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000017D2
@@ -68,13 +64,10 @@ whOOsh, whOOsh!
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-//\nおしまい、シー、\nもうおしまい、シーシー…
-\n
-WE'rE dOnE fOr,\n
-whOOsh! WE'rE All
-<$0C>
-dOnE fOr, whOOsh,\n
-whOOsh!
+// \nおしまい、シー、 \nもうおしまい、シーシー…
+ \n
+WE'rE dOnE fOr, whOOsh! WE'rE All dOnE \n
+fOr, whOOsh, whOOsh! 
 <$00>
 
 // Pos: 000017F8
@@ -87,14 +80,12 @@ whOOsh!
 //エイプリル：
 April:
 <$0D>
-//\nヌーンは機関士なのよ、\nここの町長じゃないの。
-\n
-Noon is an engineer\n
-from Earth! He was
-<$0C>
+// \nヌーンは機関士なのよ、 \nここの町長じゃないの。
+ \n
+Noon is an engineer from Earth! He was \n
 never your elder!
 <$1E>
 //行
-行
+行 
 <$00>
 

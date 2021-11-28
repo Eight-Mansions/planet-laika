@@ -11,17 +11,14 @@
 
 #WHB(PTR, $00000549)
 
-
+ 
 <$12><$1F><$00>
-//国ああ、ちくしょう、火だ、馬屋が燃えてる。\n俺なのか…俺が火をつけたのか…
-国No, no, NO! It's a\n
-fire! The stable\n
-is...! Did I...start
-<$0C>
-this?!
+//国ああ、ちくしょう、火だ、馬屋が燃えてる。 \n俺なのか…俺が火をつけたのか…
+国No, no, NO! It's a fire! The stable is...! \n
+Did I...start this?! 
 <$0C><$1F><$00>
 //国あああ、ちくしょう！
-国NOOO! NOOOOOOOOOO!
+国NOOO! NOOOOOOOOOO! 
 <$00>
 
 // Pos: 000005E0
@@ -30,16 +27,14 @@ this?!
 
 #WHB(PTR, $00000551)
 
-
+ 
 <$12><$1F><$00>
 //制よ、ドクだなんて…人開きの悪い…
-制It was a toxic drink\n
-for a toxic man...
+制It was a toxic drink for a toxic man... 
 <$0C><$1F><$00>
-//番ああ、あたしはただウラジミールが…\nいやよ、建うわ！
-B-but I didn't think\n
-Vladimir would... NO!\n
-NOOOOOO!
+//番ああ、あたしはただウラジミールが… \nいやよ、建うわ！
+B-but I didn't think Vladimir would... \n
+NO! NOOOOOO! 
 <$00>
 
 // Pos: 00000617
@@ -48,16 +43,14 @@ NOOOOOO!
 
 #WHB(PTR, $0000054D)
 
-
+ 
 <$12><$1F><$00>
 //双ニれ衣を着せただと？
-双ニFunny how I'm using\n
-his own clothes\n
-to...fabricate his...
+双ニFunny how I'm using his own \n
+clothes to...fabricate his... 
 <$0C><$1F><$00>
-//権の私が…そんなひきょうなマネは…\nあああ、そんなはずはない！ 絶対に！
-I...I'm not copying\n
-his behavior. No...\n
-I'm nothing like him!
+//権の私が…そんなひきょうなマネは… \nあああ、そんなはずはない！ 絶対に！
+I...I'm not copying his behavior. No... \n
+I'm nothing like him! 
 <$00>
 

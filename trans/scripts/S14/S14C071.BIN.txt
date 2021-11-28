@@ -15,35 +15,29 @@
 //ゴールドマン：
 Goldman:
 <$0D>
-//\nあそこじゃない、ここだ、酒場だ…\n俺に近いのはここだ。
-\n
-The bar's not over\n
-there. It's here,
-<$0C>
-close to me.
+// \nあそこじゃない、ここだ、酒場だ… \n俺に近いのはここだ。
+ \n
+The bar's not over there. It's here, \n
+close to me. 
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
-//\nでもな、俺は飲めねぇんだ、ぜんぜんだ。\nそれなのに、ここが落ちつく。
-\n
-Not that I drink or\n
-anything. It just
-<$0C>
-warms me to be near.
+// \nでもな、俺は飲めねぇんだ、ぜんぜんだ。 \nそれなのに、ここが落ちつく。
+ \n
+Not that I drink or anything. It just \n
+warms me to be near. 
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
-//\nそんなこと考えてたら寒くなってきやがった。
-\n
-But thinking about\n
-that makes me feel
-<$0C>
+// \nそんなこと考えてたら寒くなってきやがった。
+ \n
+But thinking about that makes me feel \n
 much colder now.
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00001836
@@ -56,15 +50,12 @@ much colder now.
 //ゴールドマン：
 Goldman:
 <$0D>
-//\n何で俺が酒場なんだ… 下戸なのにな。\n飲めねぇ、一滴もだ。うー、寒い寒い…
-\n
-Why am I at the bar?\n
-I don't even drink!
-<$0C>
-Not one drop! Brr, so\n
-cold!
+// \n何で俺が酒場なんだ… 下戸なのにな。 \n飲めねぇ、一滴もだ。うー、寒い寒い…
+ \n
+Why am I at the bar? I don't even drink! \n
+Not one drop! Brr, so cold!
 <$1E>
 //家
-家
+家 
 <$00>
 

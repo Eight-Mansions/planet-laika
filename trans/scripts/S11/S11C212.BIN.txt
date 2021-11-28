@@ -15,9 +15,9 @@
 //ゴールド：
 Gold:
 <$0D>
-//\n今度は女か。
-\n
-Oh, a lady this time?
+// \n今度は女か。
+ \n
+Oh, a lady this time? 
 <$00>
 
 // Pos: 00001D64
@@ -30,9 +30,9 @@ Oh, a lady this time?
 //スモーキー：
 Smokey:
 <$0D>
-//\nひゅーひゅー！
-\n
-Well, hello!
+// \nひゅーひゅー！
+ \n
+Well, hello! 
 <$00>
 
 // Pos: 00001D76
@@ -45,33 +45,29 @@ Well, hello!
 //エイプリル：
 April:
 <$0D>
-//\nあなたたちとケンカするために\n火星に来たんじゃないの。
-\n
-We didn't come to\n
-Mars to start a fight.
+// \nあなたたちとケンカするために \n火星に来たんじゃないの。
+ \n
+We didn't come to Mars to start a fight. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
-\n
-We heard troubling\n
-reports about the
+// \nこの星に何やら良くないウワサがあって、 \nそれを調べに来たのよ。
+ \n
+We heard troubling reports about the \n
+environment, and came only to
 <$0C>
-environment, and came\n
-only to inspect.
+inspect. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n先遣隊のガリル大佐について何か知らない？
-\n
-Did you ever hear\n
-about Colonel Galil.
+// \n先遣隊のガリル大佐について何か知らない？
+ \n
+Did you ever hear about Colonel Galil. \n
+He was on the original vanguard unit
 <$0C>
-He was on the\n
-original vanguard\n
-unit from Earth.
+from Earth. 
 <$00>
 
 // Pos: 00001DF0
@@ -84,25 +80,20 @@ unit from Earth.
 //ゴールド：
 Gold:
 <$0D>
-//\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
-\n
-Galil? The guy's a\n
-legend after all that
+// \nガリル！ 今や伝説だ、 \n今頃は善人の光に包まれてることだろう。
+ \n
+Galil? The guy's a legend after all that "I \n
+am the light" good boy bullshit years
 <$0C>
-"I am the light" good\n
-boy bullshit years\n
-back.
+back. 
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-//\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
-\n
-He sounds like any\n
-other weirdo to me.
-<$0C>
-Is he really what you\n
-came here for?
+// \nへっ、要は変わり者だってことよ。 \nで、ここには何の用なんだ？
+ \n
+He sounds like any other weirdo to me. \n
+Is he really what you came here for? 
 <$00>
 
 // Pos: 00001E4C
@@ -115,13 +106,10 @@ came here for?
 //スモーキー：
 Smokey:
 <$0D>
-//\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
-\n
-Nah, she's here to\n
-drink! Here at SNOB
-<$0C>
-PLANET, we keep it\n
-going all night long!
+// \n飲みに来たんだよ、 \n俺たちと一晩中飲みたいってよ、ひょー！ \nおまわり酒場だ、ひょー！
+ \n
+Nah, she's here to drink! Here at SNOB \n
+PLANET, we keep it going all night long! 
 <$00>
 
 // Pos: 00001E89
@@ -134,12 +122,10 @@ going all night long!
 //エイプリル：
 April:
 <$0D>
-//\n人をさがしてるの、仲間よ。
-\n
-We're also looking\n
-for two of our unit
-<$0C>
-members.
+// \n人をさがしてるの、仲間よ。
+ \n
+We're also looking for two of our unit \n
+members. 
 <$00>
 
 // Pos: 00001EA3
@@ -152,13 +138,10 @@ members.
 //ゴールド：
 Gold:
 <$0D>
-//\n人？ お前らの他にもまだいるのか。\nここには誰も来ちゃいねぇ。
-\n
-"Members"? So there's\n
-more of you? How'd
-<$0C>
-you all get here:\n
-clown car?
+// \n人？ お前らの他にもまだいるのか。 \nここには誰も来ちゃいねぇ。
+ \n
+"Members"? So there's more of you? \n
+How'd you all get here: clown car? 
 <$00>
 
 // Pos: 00001ECF
@@ -171,23 +154,17 @@ clown car?
 //スモーキー：
 Smokey:
 <$0D>
-//\nお姉ちゃんよう、\nそのうすのろぶちのめしたあと、
-\n
-Forget the job,\n
-cutie. Let's hurl
-<$0C>
-your half-wit friend\n
-here into the sun.
+// \nお姉ちゃんよう、 \nそのうすのろぶちのめしたあと、
+ \n
+Forget the job, cutie. Let's hurl your \n
+half-wit friend here into the sun. 
 <$0C><$0B>
 //スモーキー：
 Smokey:
 <$0D>
-//\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
-\You can stick\n
-around and blow the\n
-roof off with Old
-<$0C>
-Smokey!
+// \nこのスモーキーちゃんと \nモクモクしねえか、ええ？
+\You can stick around and \n
+blow the roof off with Old Smokey! 
 <$00>
 
 // Pos: 00001F15
@@ -200,9 +177,9 @@ Smokey!
 //エイプリル：
 April:
 <$0D>
-//\nいいかげんにしてよ！
-\n
-Knock it off, creep!
+// \nいいかげんにしてよ！
+ \n
+Knock it off, creep! 
 <$00>
 
 // Pos: 00001F2A
@@ -215,13 +192,12 @@ Knock it off, creep!
 //スモーキー：
 Smokey:
 <$0D>
-//\nてめぇ！ おとなしくしてりゃ、\nでかい口たたくじゃねぇか、お姉ちゃんよう！
-\n
-What'd you call me?!\n
-That's not how a good
+// \nてめぇ！ おとなしくしてりゃ、 \nでかい口たたくじゃねぇか、お姉ちゃんよう！
+ \n
+What'd you call me?! That's not how a \n
+good piggy's supposed to squeal,
 <$0C>
-piggy's supposed to\n
-squeal, missy!
+missy! 
 <$00>
 
 // Pos: 00001F5C
@@ -234,14 +210,10 @@ squeal, missy!
 //ゴールド：
 Gold:
 <$0D>
-//\nおい、スモーキー、\n今夜のところはもう帰るんだ。\n騒ぎはごめんだ。
-\n
-Whelp, about time we\n
-all called it a
-<$0C>
-night. Smokey,\n
-apologize to the\n
-lady.
+// \nおい、スモーキー、 \n今夜のところはもう帰るんだ。 \n騒ぎはごめんだ。
+ \n
+Whelp, about time we all called it a \n
+night. Smokey, apologize to the lady. 
 <$00>
 
 // Pos: 00001F8B
@@ -254,12 +226,10 @@ lady.
 //スモーキー：
 Smokey:
 <$0D>
-//\nくそ！ 手前ぇら、いい気になりやがって！
-\n
-Grr...! I'll pass.\n
-That smug look on her
-<$0C>
-face says she's fine.
+// \nくそ！ 手前ぇら、いい気になりやがって！
+ \n
+Grr...! I'll pass. That smug look on her \n
+face says she's fine. 
 <$00>
 
 // Pos: 00001FAB
@@ -272,13 +242,12 @@ face says she's fine.
 //スモーキー：
 Smokey:
 <$0D>
-//\n気取り屋どもが！\nせいぜい気を付けることだな！
-\n
-You're all a bunch of\n
-snobs! Damned well
+// \n気取り屋どもが！ \nせいぜい気を付けることだな！
+ \n
+You're all a bunch of snobs! Damned \n
+well better watch your backs out
 <$0C>
-better watch your\n
-backs out there.
+there. 
 <$0E><$3C><$17><$00>
 
 // Pos: 00001FD3
@@ -291,10 +260,9 @@ backs out there.
 //ゴールド：
 Gold:
 <$0D>
-//\nお前らも帰れ。目障りだ。
-\n
-That includes you two\n
-eyesores.
+// \nお前らも帰れ。目障りだ。
+ \n
+That includes you two eyesores. 
 <$00>
 
 // Pos: 00001FEC
@@ -307,12 +275,10 @@ eyesores.
 //エイプリル：
 April:
 <$0D>
-//\n仲間のふたりが行方不明なのよ。
-\n
-Sorry. It's just, two\n
-of our teammates are
-<$0C>
-missing.
+// \n仲間のふたりが行方不明なのよ。
+ \n
+Sorry. It's just, two of our teammates \n
+are missing. 
 <$00>
 
 // Pos: 0000200C
@@ -325,34 +291,28 @@ missing.
 //ゴールド：
 Gold:
 <$0D>
-//\nここにはいねぇ。見りゃ分かるだろ。
-\n
-They're not here.\n
-Anyone with eyes can
-<$0C>
-see that.
+// \nここにはいねぇ。見りゃ分かるだろ。
+ \n
+They're not here. Anyone with eyes can \n
+see that. 
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-//\nここのやつらは、お前らみたいに制服着てる\nやつにこっぴどくやられたからな、
-\n
-Then again, anyone\n
-with a brain wouldn't
+// \nここのやつらは、お前らみたいに制服着てる \nやつにこっぴどくやられたからな、
+ \n
+Then again, anyone with a brain \n
+wouldn't waltz in wearing those
 <$0C>
-waltz in wearing\n
-those uniforms...
+uniforms... 
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-//\nいい気がしねぇんだ。くそったれ！
-\n
-Bad shit happens to\n
-hunky-dory idiots
-<$0C>
-like you. Hence the\n
-word, "snob".
+// \nいい気がしねぇんだ。くそったれ！
+ \n
+Bad shit happens to hunky-dory idiots \n
+like you. Hence the word, "snob". 
 <$00>
 
 // Pos: 00002071
@@ -365,10 +325,9 @@ word, "snob".
 //エイプリル：
 April:
 <$0D>
-//\n私たちはあなたたちの言う\nおまわりじゃないのよ。
-\n
-But you're all wrong!\n
-We're not snobs!
+// \n私たちはあなたたちの言う \nおまわりじゃないのよ。
+ \n
+But you're all wrong! We're not snobs! 
 <$00>
 
 // Pos: 00002094
@@ -381,13 +340,10 @@ We're not snobs!
 //ゴールド：
 Gold:
 <$0D>
-//\n似たようなもんだ。人さがしなら\nメディスンマンのやつらにでも開いてみな。
-\n
-Sure... Anyways, if\n
-you're looking for
-<$0C>
-people, go ask the\n
-medicine men.
+// \n似たようなもんだ。人さがしなら \nメディスンマンのやつらにでも開いてみな。
+ \n
+Sure... Anyways, if you're looking for \n
+people, go ask the medicine men. 
 <$00>
 
 // Pos: 000020C4
@@ -400,9 +356,9 @@ medicine men.
 //エイプリル：
 April:
 <$0D>
-//\nメディスンマン？
-\n
-Medicine men?
+// \nメディスンマン？
+ \n
+Medicine men? 
 <$00>
 
 // Pos: 000020D7
@@ -415,12 +371,10 @@ Medicine men?
 //ゴールド：
 Gold:
 <$0D>
-//\n知らねぇのか。\nお前らと同じ、地球から来たやつらだ。
-\n
-Never heard of them?\n
-They're from Earth,
-<$0C>
-just like you.
+// \n知らねぇのか。 \nお前らと同じ、地球から来たやつらだ。
+ \n
+Never heard of them? They're from \n
+Earth, just like you. 
 <$00>
 
 // Pos: 00002100
@@ -433,13 +387,10 @@ just like you.
 //エイプリル：
 April:
 <$0D>
-//\n先遣隊ね！ 生きてたんだ！
-\n
-That...must be the\n
-members of the
-<$0C>
-vanguard unit! They\n
-ARE alive!
+// \n先遣隊ね！ 生きてたんだ！
+ \n
+That...must be the members of the \n
+vanguard unit! They ARE alive! 
 <$00>
 
 // Pos: 0000211C
@@ -452,12 +403,10 @@ ARE alive!
 //ゴールド：
 Gold:
 <$0D>
-//\nへん！ 生きてたんだ！？生きてても\n死んでるようなもんだぜ、あいつらは。
-\n
-Hmph, "alive" is not\n
-the word I'd use for
-<$0C>
-that braindead bunch.
+// \nへん！ 生きてたんだ！？生きてても \n死んでるようなもんだぜ、あいつらは。
+ \n
+Hmph, "alive" is not the word I'd use for \n
+that braindead bunch. 
 <$00>
 
 // Pos: 0000214D
@@ -470,10 +419,9 @@ that braindead bunch.
 //エイプリル：
 April:
 <$0D>
-//\n彼らはどこ？
-\n
-Where can we meet\n
-them?
+// \n彼らはどこ？
+ \n
+Where can we meet them? 
 <$00>
 
 // Pos: 0000215F
@@ -486,13 +434,10 @@ them?
 //ゴールド：
 Gold:
 <$0D>
-//\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
-\n
-At the lodge, in\n
-front of the
-<$0C>
-ventilation tower in\n
-the piazza.
+// \nやつらはロッジだ。 \n広場の換気塔の手前を右に行くんだ。
+ \n
+At the lodge, in front of the ventilation \n
+tower in the piazza. 
 <$00>
 
 // Pos: 0000218B
@@ -505,22 +450,17 @@ the piazza.
 //エイプリル：
 April:
 <$0D>
-//\n換気塔の手前ね。ありがとう。
-\n
-In front of the\n
-ventilation tower?
-<$0C>
-Got it. Thank you so\n
-much!
+// \n換気塔の手前ね。ありがとう。
+ \n
+In front of the ventilation tower? Got \n
+it. Thank you so much! 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nライカ、行きましょ。\nメディスンマンに話を開くのよ。
-\n
-Okay, Laika. Let's go\n
-talk to the medicine
-<$0C>
-men!
+// \nライカ、行きましょ。 \nメディスンマンに話を開くのよ。
+ \n
+Okay, Laika. Let's go talk to the \n
+medicine men! 
 <$00>
 

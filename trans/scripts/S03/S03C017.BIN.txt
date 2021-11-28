@@ -15,29 +15,24 @@
 //リトル：
 Little:
 <$0D>
-//\n気になるのか、\nお前と一緒に来た女のことだろ…
-\n
-...You thinking about\n
-the girly you came
-<$0C>
-here with?
+// \n気になるのか、 \nお前と一緒に来た女のことだろ…
+ \n
+...You thinking about the girly you \n
+came here with? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nレッドのやつが見たのは幻覚かもな。\n見に行くのか？
-\n
-Red might've been\n
-seeing
+// \nレッドのやつが見たのは幻覚かもな。 \n見に行くのか？
+ \n
+Red might've been seeing \n
+hallucinations, but...want to go
 <$0C>
-hallucinations,\n
-but...want to go\n
 check?
 <$1B>
-//（ちょっと行ってみる。\n今はよしておく。
-（Yes。
-<$0C>
-No。
+//（ちょっと行ってみる。 \n今はよしておく。
+（Yes。 \n
+No。 
 <$00><$17><$00>
 
 // Pos: 000029A7
@@ -50,23 +45,18 @@ No。
 //リトル：
 Little:
 <$0D>
-//\nなら俺はここで待ってる。早くしてくれよ。
-\n
-If you want, I'll\n
-wait here. Just make
-<$0C>
-it quick.
+// \nなら俺はここで待ってる。早くしてくれよ。
+ \n
+If you want, I'll wait here. Just make it \n
+quick. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺の行くところは忘却の海じゃない…\n夢に出てこなかったからな。
-\n
-I'm not going to\n
-Oceanum Oblivionis. I
-<$0C>
-don't want my dreams\n
-to emerge.
+// \n俺の行くところは忘却の海じゃない… \n夢に出てこなかったからな。
+ \n
+I'm not going to Oceanum Oblivionis. I \n
+don't want my dreams to emerge. 
 <$00>
 
 // Pos: 000029F3
@@ -79,13 +69,10 @@ to emerge.
 //リトル：
 Little:
 <$0D>
-//\n賢明だ、そうだ、砂嵐が来そうだ。戻ろう。
-\n
-Keep it prudent. If\n
-you see any
-<$0C>
-standstorms, hurry\n
-back.
+// \n賢明だ、そうだ、砂嵐が来そうだ。戻ろう。
+ \n
+Keep it prudent. If you see any \n
+standstorms, hurry back. 
 <$00>
 
 // Pos: 00002A16
@@ -98,56 +85,47 @@ back.
 //リトル：
 Little:
 <$0D>
-//\nメディスンマンのやつがここを閉めたんだ。
-\n
-Oi, looks like the\n
-medicine men closed
-<$0C>
-this.
+// \nメディスンマンのやつがここを閉めたんだ。
+ \n
+Oi, looks like the medicine men closed \n
+this. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n記憶の谷で善人が見つかったそうだ。善人だ。\nもうじき戻ってくるだろう。
-\n
-Must mean a "good\n
-person" was seen in
+// \n記憶の谷で善人が見つかったそうだ。善人だ。 \nもうじき戻ってくるだろう。
+ \n
+Must mean a "good person" was seen in \n
+Valles Memoriae. Let's hope they make
 <$0C>
-Valles Memoriae.\n
-Let's hope they make\n
-it back soon.
+it back soon. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n善人は危ないんだ、\nそうだ、すぐ悪にころんでしまうからな。
-\n
-Good people are\n
-dangerous, got it?
+// \n善人は危ないんだ、 \nそうだ、すぐ悪にころんでしまうからな。
+ \n
+Good people are dangerous, got it? The \n
+gooder they are, the harder they fall
 <$0C>
-The gooder they are,\n
-the harder they fall\n
-before evil.
+before evil. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nお前の仲間かも知れんぞ。
-\n
-That includes your\n
-companions.
+// \nお前の仲間かも知れんぞ。
+ \n
+That includes your companions. 
 <$00><$11><$0B>
 //リトル：
 Little:
 <$0D>
-//\nもういいのか。思い出にヒタれるやつは\nシアワせだ。\n俺にはそれができない。さあ、行こう。
-\n
-Had enough? Anyone\n
-who says memories
+// \nもういいのか。思い出にヒタれるやつは \nシアワせだ。 \n俺にはそれができない。さあ、行こう。
+ \n
+Had enough? Anyone who says \n
+memories don't affect 'em is a liar. It
 <$0C>
-don't affect 'em is a\n
-liar. It ain't for me\n
-either. Come on.
+ain't for me either. Come on. 
 <$00>
 
 // Pos: 00002ADB
@@ -160,14 +138,12 @@ either. Come on.
 //リトル：
 Little:
 <$0D>
-//\nおい、俺はのんびり屋じゃないんだ、\n急いでるんだ、そうだそうだ、\n俺には時間がない！
-\n
-Oi, I'm not some bum\n
-like you, got it?
+// \nおい、俺はのんびり屋じゃないんだ、 \n急いでるんだ、そうだそうだ、 \n俺には時間がない！
+ \n
+Oi, I'm not some bum like you, got it? \n
+I've got things to do, and no time to do
 <$0C>
-I've got things to\n
-do, and no time to do\n
-'em!
+'em! 
 <$00>
 
 // Pos: 00002B12
@@ -180,21 +156,17 @@ do, and no time to do\n
 //エイプリル：
 April:
 <$0D>
-//\n何か開こえたような気がしたけど…
-\n
-I thought I'd heard\n
-something...break.
+// \n何か開こえたような気がしたけど…
+ \n
+I thought I'd heard something...break. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n何かがはねるような音よ。\nでももう開こえない、気のせいね。
-\n
-I don't hear it\n
-anymore, so it must
-<$0C>
-be my mind playing\n
-games.
+// \n何かがはねるような音よ。 \nでももう開こえない、気のせいね。
+ \n
+I don't hear it anymore, so it must be my \n
+mind playing games. 
 <$00>
 
 // Pos: 00002B57
@@ -207,22 +179,17 @@ games.
 //エイプリル：
 April:
 <$0D>
-//\n同じような惑じね、ママの声も急に、\nふっと開こえては遠ざかるの。
-\n
-I heard my mom's\n
-voice all of a
-<$0C>
-sudden, and just as\n
-suddenly, it faded\n
-away.
+// \n同じような惑じね、ママの声も急に、 \nふっと開こえては遠ざかるの。
+ \n
+I heard my mom's voice all of a sudden, \n
+and just as suddenly, it faded away. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n私のようすをうかがうかのように…
-\n
-It's like she's\n
-leading me around.
+// \n私のようすをうかがうかのように…
+ \n
+It's like she's leading me around. 
 <$00>
 
 // Pos: 00002BA2
@@ -235,46 +202,38 @@ leading me around.
 //トミー：
 Tommy:
 <$0D>
-//\nようよう、やっぱりだ、目ん玉だ。\nリトルには見えるんだ、
-\n
-Hey, you know those\n
-eyeballs? 
-<$0C>
-Little can see them,\n
-a-yup!
+// \nようよう、やっぱりだ、目ん玉だ。 \nリトルには見えるんだ、
+ \n
+Hey, you know those eyeballs?  \n
+Little can see them, a-yup! 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nおかしなこともあるもんだ。\nぶつぶつ言いながら扉の中に消えたぞ。
-\n
-It was so weird, but\n
-he just mumbled some
+// \nおかしなこともあるもんだ。 \nぶつぶつ言いながら扉の中に消えたぞ。
+ \n
+It was so weird, but he just mumbled \n
+some weird rhyme and disappeared
 <$0C>
-weird rhyme and\n
-disappeared through\n
-the door.
+through the door. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nああ、俺には無理だな、そうだな…
-\n
-But ah, I can't help\n
-you beyond that,
-<$0C>
-a-yup.
+// \nああ、俺には無理だな、そうだな…
+ \n
+But ah, I can't help you beyond that, \n
+a-yup. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\n俺、こんなふうにしゃべったか？
-\n
-Hey, did I saw\n
-something weird?
+// \n俺、こんなふうにしゃべったか？
+ \n
+Hey, did I saw something weird?
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00002C28
@@ -287,15 +246,13 @@ something weird?
 //トミー：
 Tommy:
 <$0D>
-//\nやっぱりだな、目ん玉、\nあのウワサは本当だったんだな。
-\n
-I knew it! Those\n
-eyeballs were real
-<$0C>
+// \nやっぱりだな、目ん玉、 \nあのウワサは本当だったんだな。
+ \n
+I knew it! Those eyeballs were real \n
 after all, a-yup.
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00002C53
@@ -308,21 +265,17 @@ after all, a-yup.
 //トミー：
 Tommy:
 <$0D>
-//\nようよう…知ってるか。\n目ん玉のウワサは本当だったんだ、
-\n
-Hey, did you know\n
-those eyeballs
-<$0C>
-everyone talks about\n
-are real?
+// \nようよう…知ってるか。 \n目ん玉のウワサは本当だったんだ、
+ \n
+Hey, did you know those eyeballs \n
+everyone talks about are real? 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nリトルには見えてたんだ、ようよう…
-\n
-Little can see them,\n
-a-yup!
+// \nリトルには見えてたんだ、ようよう…
+ \n
+Little can see them, a-yup! 
 <$00>
 
 // Pos: 00002C96
@@ -335,10 +288,9 @@ a-yup!
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n目ん玉ね、リトルね。
-\n
-Little can see the\n
-eyeballs?
+// \n目ん玉ね、リトルね。
+ \n
+Little can see the eyeballs? 
 <$00>
 
 // Pos: 00002CAE
@@ -351,24 +303,18 @@ eyeballs?
 //トミー：
 Tommy:
 <$0D>
-//\nさっきぶつぶつ言いながら扉の中に消えたぞ。
-\n
-He just mumbled some\n
-weird rhyme and
-<$0C>
-disappeared through\n
-the door.
+// \nさっきぶつぶつ言いながら扉の中に消えたぞ。
+ \n
+He just mumbled some weird rhyme \n
+and disappeared through the door. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
-\n
-That's the kind of\n
-stuff you hear about
-<$0C>
-in those eyeball\n
-rumors, a-yup.
+// \nあれは目ん玉とお話してたに建いない。 \nそうだろ、あんた…
+ \n
+That's the kind of stuff you hear about \n
+in those eyeball rumors, a-yup. 
 <$00>
 
 // Pos: 00002CF7
@@ -381,9 +327,9 @@ rumors, a-yup.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何？
-\n
-But what?
+// \n何？
+ \n
+But what? 
 <$00>
 
 // Pos: 00002D05
@@ -396,12 +342,10 @@ But what?
 //トミー：
 Tommy:
 <$0D>
-//\nさっきと同じか、同じやつなのか？
-\n
-You're not the person\n
-I was talking to
-<$0C>
-before, are you?
+// \nさっきと同じか、同じやつなのか？
+ \n
+You're not the person I was talking to \n
+before, are you? 
 <$00>
 
 // Pos: 00002D20
@@ -414,12 +358,10 @@ before, are you?
 //トミー：
 Tommy:
 <$0D>
-//\nリトルには見えるんだ、\nようよう、おかしな話だ。
-\n
-Anyways, Little can\n
-see them, a-yup! It
-<$0C>
-was so weird.
+// \nリトルには見えるんだ、 \nようよう、おかしな話だ。
+ \n
+Anyways, Little can see them, a-yup! It \n
+was so weird. 
 <$00>
 
 // Pos: 00002D42
@@ -432,12 +374,10 @@ was so weird.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n目ん玉ね、たしか…頭いいと見える…\n思い出したわ。
-\n
-Note to self: nerds\n
-can see the eyeballs.
-<$0C>
-Got it.
+// \n目ん玉ね、たしか…頭いいと見える… \n思い出したわ。
+ \n
+Note to self: nerds can see the \n
+eyeballs. Got it. 
 <$00>
 
 // Pos: 00002D6C
@@ -450,21 +390,17 @@ Got it.
 //トミー：
 Tommy:
 <$0D>
-//\nようよう…知ってるか。\n目ん玉のウワサは本当だったんだ、
-\n
-Hey, did you know\n
-those eyeballs
-<$0C>
-everyone talks about\n
-are real?
+// \nようよう…知ってるか。 \n目ん玉のウワサは本当だったんだ、
+ \n
+Hey, did you know those eyeballs \n
+everyone talks about are real? 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nリトルには見えてたんだ、ようよう…
-\n
-Little can see them,\n
-a-yup!
+// \nリトルには見えてたんだ、ようよう…
+ \n
+Little can see them, a-yup! 
 <$00>
 
 // Pos: 00002DAF
@@ -477,10 +413,9 @@ a-yup!
 //アーネスト：
 Ernest:
 <$0D>
-//\n目ん玉だな、リトルだな。
-\n
-Little can see the\n
-eyeballs.
+// \n目ん玉だな、リトルだな。
+ \n
+Little can see the eyeballs. 
 <$00>
 
 // Pos: 00002DCA
@@ -493,24 +428,18 @@ eyeballs.
 //トミー：
 Tommy:
 <$0D>
-//\nさっきぶつぶつ言いながら扉の中に消えたぞ。
-\n
-He just mumbled some\n
-weird rhyme and
-<$0C>
-disappeared through\n
-the door.
+// \nさっきぶつぶつ言いながら扉の中に消えたぞ。
+ \n
+He just mumbled some weird rhyme \n
+and disappeared through the door. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
-\n
-That's the kind of\n
-stuff you hear about
-<$0C>
-in those eyeball\n
-rumors, a-yup.
+// \nあれは目ん玉とお話してたに建いない。 \nそうだろ、あんた…
+ \n
+That's the kind of stuff you hear about \n
+in those eyeball rumors, a-yup. 
 <$00>
 
 // Pos: 00002E13
@@ -523,9 +452,9 @@ rumors, a-yup.
 //アーネスト：
 Ernest:
 <$0D>
-//\n何だ？ 言ってみろ。
-\n
-What did you say?
+// \n何だ？ 言ってみろ。
+ \n
+What did you say? 
 <$00>
 
 // Pos: 00002E2A
@@ -538,12 +467,10 @@ What did you say?
 //トミー：
 Tommy:
 <$0D>
-//\n怖いな、にらむんじゃないな…\n俺、こんなふうにしゃべったか？
-\n
-What a scary look...\n
-Hey, did I say
-<$0C>
-something weird?
+// \n怖いな、にらむんじゃないな… \n俺、こんなふうにしゃべったか？
+ \n
+What a scary look... Hey, did I say \n
+something weird? 
 <$00>
 
 // Pos: 00002E52
@@ -556,10 +483,9 @@ something weird?
 //トミー：
 Tommy:
 <$0D>
-//\nリトルはお話ししたんだ、\nようよう、そうだ、お話だ。
-\n
-Little was talking,\n
-a-yup. I saw it.
+// \nリトルはお話ししたんだ、 \nようよう、そうだ、お話だ。
+ \n
+Little was talking, a-yup. I saw it. 
 <$00>
 
 // Pos: 00002E77
@@ -572,22 +498,18 @@ a-yup. I saw it.
 //アーネスト：
 Ernest:
 <$0D>
-//\n目ん玉だな…頭いいと見える…\n思い出したぜ。
-\n
-Apparently...only\n
-really smart people
-<$0C>
-can see the eyeballs.
+// \n目ん玉だな…頭いいと見える… \n思い出したぜ。
+ \n
+Apparently...only really smart people \n
+can see the eyeballs. 
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nここは…あの眼のある場所？
-\n
-Is this where I'm\n
-supposed to see that
-<$0C>
-eyeball?
+// \nここは…あの眼のある場所？
+ \n
+Is this where I'm supposed to see that \n
+eyeball? 
 <$00>
 
 // Pos: 00002EBC
@@ -600,13 +522,11 @@ eyeball?
 //エイプリル：
 April:
 <$0D>
-//\nリトルは一度も表には出たことないんだって。\nアガタが教えてくれたよ。\n火星のことを憎んでるからなんだって。
-\n
-According to Agatha,\n
-Little hasn't come
+// \nリトルは一度も表には出たことないんだって。 \nアガタが教えてくれたよ。 \n火星のことを憎んでるからなんだって。
+ \n
+According to Agatha, Little hasn't \n
+come out even once. She says it's
 <$0C>
-out even once. She\n
-says it's because he\n
-hates Mars.
+because he hates Mars. 
 <$00>
 

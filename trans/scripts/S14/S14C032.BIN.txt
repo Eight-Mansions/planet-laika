@@ -15,35 +15,25 @@
 //リンダ：
 Linda:
 <$0D>
-//\nさっきさー、変なのがここ通ったよー。
-\n
-A while ago, a\n
-stranger passed
-<$0C>
-through here. He\n
-looked like a mangled\n
-corpse.
+// \nさっきさー、変なのがここ通ったよー。
+ \n
+A while ago, a stranger passed through \n
+here. He looked like a mangled corpse. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\n死人みたいな変なのがー、ロッジの方に\n行ったけど、途中で消えたのー。
-The stranger\n
-went towards the\n
-lodge, but
-<$0C>
-disappeared along the\n
-way.
+// \n死人みたいな変なのがー、ロッジの方に \n行ったけど、途中で消えたのー。
+The stranger went towards the \n
+lodge, but disappeared along the way. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nアタシ、幽霊でも見たのー？ 変？\n夢見てるみたいねー。
-\n
-Did I see a ghost?\n
-It's strange, no? I
-<$0C>
-must have dreamed it.
+// \nアタシ、幽霊でも見たのー？ 変？ \n夢見てるみたいねー。
+ \n
+Did I see a ghost? It's strange, no? I \n
+must have dreamed it. 
 <$00>
 
 // Pos: 00002B6B
@@ -56,14 +46,10 @@ must have dreamed it.
 //リンダ：
 Linda:
 <$0D>
-//\nあらー、またまた現実惑ないのー、\nないない、あー、ないない、ないなー…
-\n
-Oh, here I go. I've\n
-lost all sense of
-<$0C>
-reali...!\n
-R-reali...realit-t-ty..\n
-.!
+// \nあらー、またまた現実惑ないのー、 \nないない、あー、ないない、ないなー…
+ \n
+Oh, here I go. I've lost all sense of \n
+reali...! R-reali...realit-t-ty...! 
 <$00>
 
 // Pos: 00002B9A
@@ -76,13 +62,10 @@ R-reali...realit-t-ty..\n
 //トーマス：
 Thomas:
 <$0D>
-//\nこのトーマス様におたずねか、ああ？\n何かおたずねか？
-\n
-Looking for THE\n
-Thomas, were you?
-<$0C>
-Hahaha! What can I do\n
-for you?
+// \nこのトーマス様におたずねか、ああ？ \n何かおたずねか？
+ \n
+Looking for THE Thomas, were you? \n
+Hahaha! What can I do for you? 
 <$00>
 
 // Pos: 00002BBF
@@ -95,35 +78,30 @@ for you?
 //トーマス：
 Thomas:
 <$0D>
-//\nこれでも私なりの理解があってね、\n去来したイメージを思念に変えていたのだ。
-\n
-I dare say, after\n
-re-arranging the
+// \nこれでも私なりの理解があってね、 \n去来したイメージを思念に変えていたのだ。
+ \n
+I dare say, after re-arranging the \n
+images entering my thoughts, I've a
 <$0C>
-images entering my\n
-thoughts, I've a new\n
-genius discovery:
+new genius discovery: 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nヤングも同じだろう、\nなかよし広場の手前でふるえていたぞ。
-\n
-Everyone in the plaza\n
-is shaking. We're all
+// \nヤングも同じだろう、 \nなかよし広場の手前でふるえていたぞ。
+ \n
+Everyone in the plaza is shaking. We're \n
+all going through the same thing Yang
 <$0C>
-going through the\n
-same thing Yang is.
+is. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nあんたも見たか？\nあんな惑じだ。
-\n
-You've seen it too,\n
-right? Surely you
-<$0C>
-sense it.
+// \nあんたも見たか？ \nあんな惑じだ。
+ \n
+You've seen it too, right? Surely you \n
+sense it. 
 <$00>
 
 // Pos: 00002C39
@@ -136,12 +114,9 @@ sense it.
 //トーマス：
 Thomas:
 <$0D>
-//\n私なりにね、\nからくりを理解してるわけだよ、うんうん。
-\n
-I dare say, I've come\n
-to understand the
-<$0C>
-modus operendi at\n
-play here, yes.
+// \n私なりにね、 \nからくりを理解してるわけだよ、うんうん。
+ \n
+I dare say, I've come to understand the \n
+modus operendi at play here, yes. 
 <$00>
 

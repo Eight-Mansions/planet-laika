@@ -15,43 +15,35 @@
 //リバー：
 Liever:
 <$0D>
-//\nこれはマジックミラーさ。\n砂嵐が起きると、この鏡は使えなくなる。
-\n
-This is a magic\n
-mirror. It doesn't
-<$0C>
-work during\n
-sandstorms.
+// \nこれはマジックミラーさ。 \n砂嵐が起きると、この鏡は使えなくなる。
+ \n
+This is a magic mirror. It doesn't work \n
+during sandstorms. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nほら、鏡をよく見るんだ。
-\n
-Here. Take a close\n
-look in the mirror.
+// \nほら、鏡をよく見るんだ。
+ \n
+Here. Take a close look in the mirror. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n中に実際にはない入口がうつってるだろ。\nそこから向こうへ抜けるんだ。
-\n
-When you do, you\n
-might see entrances
+// \n中に実際にはない入口がうつってるだろ。 \nそこから向こうへ抜けるんだ。
+ \n
+When you do, you might see entrances \n
+in its reflection you wouldn't see
 <$0C>
-in its reflection you\n
-wouldn't see\n
-otherwise.
+otherwise. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nこうだよ。
-\n
-If you go in, you'll\n
-come out the other
-<$0C>
-side.
+// \nこうだよ。
+ \n
+If you go in, you'll come out the other \n
+side. 
 <$00>
 
 // Pos: 000028F1
@@ -64,10 +56,9 @@ side.
 //エイプリル：
 April:
 <$0D>
-//\nライカ！ どうしたの？
-\n
-Laika! What's the\n
-matter?
+// \nライカ！ どうしたの？
+ \n
+Laika! What's the matter? 
 <$0E><$1E><$17><$00>
 
 // Pos: 0000290A
@@ -80,13 +71,10 @@ matter?
 //エイプリル：
 April:
 <$0D>
-//\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
-\n
-What is a mirror\n
-doing here? And...why
-<$0C>
-won't it show my\n
-reflection?!
+// \nこの鏡… どうして？ \nねぇ、どうして私は映らないの。
+ \n
+What is a mirror doing here? And...why \n
+won't it show my reflection?! 
 <$0E><$1E><$17><$00>
 
 // Pos: 00002934
@@ -99,13 +87,10 @@ reflection?!
 //エイプリル：
 April:
 <$0D>
-//\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
-\n
-What is a mirror\n
-doing here? And...why
-<$0C>
-won't it show my\n
-reflection?!
+// \nこの鏡… どうして？ \nねぇ、どうして私は映らないの。
+ \n
+What is a mirror doing here? And...why \n
+won't it show my reflection?! 
 <$00>
 
 // Pos: 0000295B
@@ -120,10 +105,9 @@ reflection?!
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nひょひょ、ライカ、\nお前はそろそろ休んだ方がいい、ひょ。
-\n
-Hyohyo, Laika. You\n
-should rest soon.
+// \nひょひょ、ライカ、 \nお前はそろそろ休んだ方がいい、ひょ。
+ \n
+Hyohyo, Laika. You should rest soon. 
 <$0E><$1E><$17><$00>
 
 // Pos: 0000298B
@@ -138,9 +122,8 @@ should rest soon.
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nお前の出番ではない、ひょひょ。
-\n
-It's not your turn,\n
-hyohyo.
+// \nお前の出番ではない、ひょひょ。
+ \n
+It's not your turn, hyohyo. 
 <$0E><$1E><$17><$00>
 

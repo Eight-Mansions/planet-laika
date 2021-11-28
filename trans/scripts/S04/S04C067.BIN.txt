@@ -15,31 +15,27 @@
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあら、コスマスをどうするつもりなの？
-\n
-Hey, what do you\n
-think you're doing
-<$0C>
-with Cosmas?
+// \nあら、コスマスをどうするつもりなの？
+ \n
+Hey, what do you think you're doing \n
+with Cosmas? 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nまさかあなたも…建うでしょうね、そうよね、\nレッドのやつはフケツよ、\nすこぶるつきのフケツ野郎。
-\n
-...Sorry. I guess\n
-you're different. Red
+// \nまさかあなたも…建うでしょうね、そうよね、 \nレッドのやつはフケツよ、 \nすこぶるつきのフケツ野郎。
+ \n
+...Sorry. I guess you're different. Red \n
+is the fuck up, not you. Fucking
 <$0C>
-is the fuck up, not\n
-you. Fucking mongrel.
+mongrel. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあいつはサイテーね。
-\n
-I want to beat the\n
-shit out of him.
+// \nあいつはサイテーね。
+ \n
+I want to beat the shit out of him. 
 <$00>
 
 // Pos: 00003523
@@ -52,23 +48,18 @@ shit out of him.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nねぇ、コスマス君、\nあなた…すごくうまくいってると思うわ、
-\n
-Oh, Cosmas.\n
-You're...coming along
-<$0C>
-so moothly. Really,\n
-I'm jealous.
+// \nねぇ、コスマス君、 \nあなた…すごくうまくいってると思うわ、
+ \n
+Oh, Cosmas. You're...coming along so \n
+moothly. Really, I'm jealous. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nうらやましいわ、本当よ。\nでもあんまり欲張らない方がいいわよ。
-\n
-Of course, I won't\n
-let jealousy come
-<$0C>
-between friends.
+// \nうらやましいわ、本当よ。 \nでもあんまり欲張らない方がいいわよ。
+ \n
+Of course, I won't let jealousy come \n
+between friends. 
 <$00>
 
 // Pos: 0000357A
@@ -81,12 +72,10 @@ between friends.
 //コスマス：
 Cosmas:
 <$0D>
-//\nイヤだ、ここはイヤだ、痛いもん。
-\n
-Stop, I...I don't\n
-like it here! It
-<$0C>
-hurts a lot.
+// \nイヤだ、ここはイヤだ、痛いもん。
+ \n
+Stop, I...I don't like it here! It hurts a \n
+lot. 
 <$00>
 
 // Pos: 00003595
@@ -99,23 +88,18 @@ hurts a lot.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあら、そんなことないのよ。\n痛くなんてないじゃない。
-\n
-No pet, don't think\n
-that way. This
-<$0C>
-doesn't hurt, really.
+// \nあら、そんなことないのよ。 \n痛くなんてないじゃない。
+ \n
+No pet, don't think that way. This \n
+doesn't hurt, really. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nただ布をかぶせるだけ。\nそれで望みの顔になれるのよ。
-\n
-It's just a cloth\n
-they put on your face
-<$0C>
-that gives you the\n
-face you want.
+// \nただ布をかぶせるだけ。 \nそれで望みの顔になれるのよ。
+ \n
+It's just a cloth they put on your face \n
+that gives you the face you want. 
 <$00>
 
 // Pos: 000035E2
@@ -128,24 +112,22 @@ face you want.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nでもね、どんなのが望みなのか\nちゃんとしてないと、ちゃんとならないのよ。
-\n
-What do you want,\n
-exactly? If you don't
+// \nでもね、どんなのが望みなのか \nちゃんとしてないと、ちゃんとならないのよ。
+ \n
+What do you want, exactly? If you \n
+don't think properly, it won't work
 <$0C>
-think properly, it\n
-won't work properly.
+properly. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nアタシ、だんだん何が望みなのか\n分からなくなって…
-\n
-I think for me, the\n
-problem is that I'm
+// \nアタシ、だんだん何が望みなのか \n分からなくなって…
+ \n
+I think for me, the problem is that I'm \n
+gradually growing unsure of what I
 <$0C>
-gradually growing\n
-unsure of what I want.
+want. 
 <$00>
 
 // Pos: 00003636
@@ -158,12 +140,10 @@ unsure of what I want.
 //コスマス：
 Cosmas:
 <$0D>
-//\n帰ろうよ、ダークマン。\nここは良くないよ。
-\n
-Can we turn back,\n
-Dark Man?
-<$0C>
-I don't like it here.
+// \n帰ろうよ、ダークマン。 \nここは良くないよ。
+ \n
+Can we turn back, Dark Man? \n
+I don't like it here. 
 <$00>
 
 // Pos: 00003657
@@ -175,12 +155,9 @@ I don't like it here.
 //裂に
 裂に
 <$0B><$0D>
-//約束だコスマス。\nお前を苦悩から解き放ってやる、\n今がその時だ。
-Rest assured,\n
-Cosmas. Now is the\n
-time we free you from
-<$0C>
-your suffering.
+//約束だコスマス。 \nお前を苦悩から解き放ってやる、 \n今がその時だ。
+Rest assured, Cosmas. Now is the \n
+time we free you from your suffering. 
 <$00>
 
 // Pos: 00003685
@@ -193,13 +170,10 @@ your suffering.
 //コスマス：
 Cosmas:
 <$0D>
-//\nどうやって？\nまたあの布をかぶせるの？
-\n
-But how is covering\n
-me with that cloth
-<$0C>
-again going to do\n
-that?
+// \nどうやって？ \nまたあの布をかぶせるの？
+ \n
+But how is covering me with that cloth \n
+again going to do that? 
 <$00>
 
 // Pos: 000036A3
@@ -208,13 +182,10 @@ that?
 
 #WHB(PTR, $00000459)
 
-//裂に痛みには耐えるのだ。\n耐えねばならん。 それで苦悩は去る。
-\n
-Face your pain. If\n
-you can endure it
-<$0C>
-now, your suffering\n
-will go away.
+//裂に痛みには耐えるのだ。 \n耐えねばならん。 それで苦悩は去る。
+ \n
+Face your pain. If you can endure it \n
+now, your suffering will go away. 
 <$00>
 
 // Pos: 000036CA
@@ -227,9 +198,9 @@ will go away.
 //コスマス：
 Cosmas:
 <$0D>
-//\n中に入ろうよ。
-\n
-Let's go inside.
+// \n中に入ろうよ。
+ \n
+Let's go inside. 
 <$00>
 
 // Pos: 000036DD
@@ -242,52 +213,41 @@ Let's go inside.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nフェイが戻るまで中で待つといいわ…
-\n
-Wait inside until\n
-Feng returns.
+// \nフェイが戻るまで中で待つといいわ…
+ \n
+Wait inside until Feng returns. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nコスマスはどんどんきれいになって、\nアタシは置いてけぼり。 いっつもそう。
-\n
-Cosmas is always\n
-getting prettier and
-<$0C>
-prettier while I'm\n
-out in the dirt.
+// \nコスマスはどんどんきれいになって、 \nアタシは置いてけぼり。 いっつもそう。
+ \n
+Cosmas is always getting prettier and \n
+prettier while I'm out in the dirt. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nアタシって、なんでも後回しにされるの。\n小さいころからよ…
-\n
-It's what I get for\n
-putting things off
-<$0C>
-since my own youth.
+// \nアタシって、なんでも後回しにされるの。 \n小さいころからよ…
+ \n
+It's what I get for putting things off \n
+since my own youth. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nふふふ、人生だって、\nみんなの後を追いかけてるようなもの。
-\n
-But, c'est la vie. We\n
-chase after everyone
-<$0C>
-we feel is miles\n
-ahead of us.
+// \nふふふ、人生だって、 \nみんなの後を追いかけてるようなもの。
+ \n
+But, c'est la vie. We chase after \n
+everyone we feel is miles ahead of us. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n人の失敗に学ぶのよ。
-\n
-Best we can do is\n
-learn from their
-<$0C>
-mistakes.
+// \n人の失敗に学ぶのよ。
+ \n
+Best we can do is learn from their \n
+mistakes. 
 <$00>
 
 // Pos: 00003797
@@ -300,33 +260,28 @@ mistakes.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nアタシはねぇ、どんなお顔がいいのか、\nまだ自分でも分かっちゃないのよ。
-\n
-What face would look\n
-good on me? I still
+// \nアタシはねぇ、どんなお顔がいいのか、 \nまだ自分でも分かっちゃないのよ。
+ \n
+What face would look good on me? I \n
+still don't know what kind of face I'd
 <$0C>
-don't know what kind\n
-of face I'd like.
+like. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nそういうことにしておく。
-\n
-If I got a nickel\n
-every time someone
-<$0C>
-said that...
+// \nそういうことにしておく。
+ \n
+If I got a nickel every time someone \n
+said that... 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n元が良くないなんて、言わせないから…\nねぇそうよね？
-\n
-I'm not acting like\n
-my original face was
-<$0C>
-that bad...am I?
+// \n元が良くないなんて、言わせないから… \nねぇそうよね？
+ \n
+I'm not acting like my original face was \n
+that bad...am I? 
 <$00>
 
 // Pos: 00003803
@@ -339,29 +294,24 @@ that bad...am I?
 //マラケシュ：
 Marrakech:
 <$0D>
-//\n答えなくてもいいのよ…
-\n
-You don't have to\n
-answer.
+// \n答えなくてもいいのよ…
+ \n
+You don't have to answer. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nなんだかちょっと落ち込んだわ。\nでもだいじょうぶ…
-\n
-I'm a little down,\n
-but it's okay.
+// \nなんだかちょっと落ち込んだわ。 \nでもだいじょうぶ…
+ \n
+I'm a little down, but it's okay. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nフェイを待つんでしょ、\n中に入って待てばいいわ。
-\n
-Feng will be a\n
-moment, but you're
-<$0C>
-welcome to wait in\n
-her office.
+// \nフェイを待つんでしょ、 \n中に入って待てばいいわ。
+ \n
+Feng will be a moment, but you're \n
+welcome to wait in her office. 
 <$00>
 
 // Pos: 00003865
@@ -374,37 +324,29 @@ her office.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nねぇ、ちょっと、あなた何やったの…\nコスマスが犬顔に戻っちゃったよ。
-\n
-Dear, what did you do?\n
-Cosmas is a dogface
-<$0C>
-again!
+// \nねぇ、ちょっと、あなた何やったの… \nコスマスが犬顔に戻っちゃったよ。
+ \n
+Dear, what did you do? \n
+Cosmas is a dogface again! 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nどうしたの、あれじゃ逆整形よ。\nアタシ、知らないよ、レッドのやつが見たら…
-\n
-That's reverse\n
-cosmetic surgery. I
-<$0C>
-don't know how Red\n
-will take to that.
+// \nどうしたの、あれじゃ逆整形よ。 \nアタシ、知らないよ、レッドのやつが見たら…
+ \n
+That's reverse cosmetic surgery. I \n
+don't know how Red will take to that. 
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあああ、また憎しみが深くなるのね…\nもうおしまいよ。
-\n
-If he sees Cosmas\n
-now, his hatred will
-<$0C>
-take over. There'd be\n
-no turning back.
+// \nあああ、また憎しみが深くなるのね… \nもうおしまいよ。
+ \n
+If he sees Cosmas now, his hatred will \n
+take over. There'd be no turning back.
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000038F1
@@ -417,16 +359,13 @@ no turning back.
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nコスマスの犬顔、レッドが見たら怒り狂うわよ。\nあなた、見つからないようにしなきゃ。
-\n
-If Red sees Cosmas'\n
-face, he'll riot.
-<$0C>
-You'd both better\n
-keep away from Red.
+// \nコスマスの犬顔、レッドが見たら怒り狂うわよ。 \nあなた、見つからないようにしなきゃ。
+ \n
+If Red sees Cosmas' face, he'll riot. \n
+You'd both better keep away from Red.
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 0000392C
@@ -439,39 +378,33 @@ keep away from Red.
 //リンダ：
 Linda:
 <$0D>
-//\nあらー、あなたも行ったり来たりねー。
-\n
-You're always coming\n
-and going too, aren't
-<$0C>
-you?
+// \nあらー、あなたも行ったり来たりねー。
+ \n
+You're always coming and going too, \n
+aren't you? 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nアタシ、また夢見ちゃったのー。\nこのアタシがねー、カベに向かって立ってねー、\nブツブツやってるのー
-\n
-You know, it's funny.\n
-I had this one dream
+// \nアタシ、また夢見ちゃったのー。 \nこのアタシがねー、カベに向かって立ってねー、 \nブツブツやってるのー
+ \n
+You know, it's funny. I had this one \n
+dream again where I stand and
 <$0C>
-again where I stand\n
-and mumble in front\n
-of a wall.
+mumble in front of a wall. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nすごい集中してるんだけどー、\nなんかアタシじゃないみたいなのー。\n他人みたいなのー。
-\n
-It's like I'm really\n
-focused on something,
+// \nすごい集中してるんだけどー、 \nなんかアタシじゃないみたいなのー。 \n他人みたいなのー。
+ \n
+It's like I'm really focused on \n
+something, but not as myself. It's like
 <$0C>
-but not as myself.\n
-It's like I'm someone\n
-else.
+I'm someone else.
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000039BD
@@ -484,60 +417,49 @@ else.
 //リンダ：
 Linda:
 <$0D>
-//\nカベにブツブツよー。 えーっとね、\nブリックロードと避難小屋と記憶の谷よー、
-\n
-Where do I stutter?\n
-Let me think...I
+// \nカベにブツブツよー。 えーっとね、 \nブリックロードと避難小屋と記憶の谷よー、
+ \n
+Where do I stutter? Let me think...I \n
+suppose around Brick Road, the safe
 <$0C>
-suppose around Brick\n
-Road, the safe house\n
-and Valles Memoriae.
+house and Valles Memoriae. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nアタシの場所じゃないのにねー、\nゼンゼンないのにー。
-\n
-But, I'd never be\n
-caught dead around
-<$0C>
-those places. Not\n
-now, not ever!
+// \nアタシの場所じゃないのにねー、 \nゼンゼンないのにー。
+ \n
+But, I'd never be caught dead around \n
+those places. Not now, not ever!
 <$1E>
 //中
-中
+中 
 <$00><$12><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nねー、変ねー、夜じゃないのに\n消灯時間だなんてねー。
-\n
-How weird. It's\n
-always lights-out
-<$0C>
-time, feels like.
+// \nねー、変ねー、夜じゃないのに \n消灯時間だなんてねー。
+ \n
+How weird. It's always lights-out \n
+time, feels like. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nなんだかねー、あんたが来てから\nおかしなことばっかよー。
-\n
-I don't know how to\n
-explain it, but I've
+// \nなんだかねー、あんたが来てから \nおかしなことばっかよー。
+ \n
+I don't know how to explain it, but I've \n
+had the strangest feeling ever since
 <$0C>
-had the strangest\n
-feeling ever since\n
-you came here.
+you came here. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nあんた…あんただよね、\nさっきのあんたよねー。
-\n
-It's...you, isn't it?\n
-Aren't you the one I
-<$0C>
-was talking to before?
+// \nあんた…あんただよね、 \nさっきのあんたよねー。
+ \n
+It's...you, isn't it? Aren't you the one I \n
+was talking to before? 
 <$00>
 
 // Pos: 00003A87
@@ -550,29 +472,25 @@ was talking to before?
 //リンダ：
 Linda:
 <$0D>
-//\nあんたさー、マラケシュに開いたんだけど、\n抜け駆けしてヴァニティフェイス\n手に入れようっていうんでしょ。
-\n
-I had a one-on-one\n
-with Marrakesh, and
+// \nあんたさー、マラケシュに開いたんだけど、 \n抜け駆けしてヴァニティフェイス \n手に入れようっていうんでしょ。
+ \n
+I had a one-on-one with Marrakesh, \n
+and she said you were sneaking a
 <$0C>
-she said you were\n
-sneaking a Vanity\n
-Face procedure.
+Vanity Face procedure. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nずるいったらずるいねー。\nどうやって顔作るか知ってるの？
-\n
-Sneaky little devil,\n
-you! So, do you know
-<$0C>
-how a Vanity Face is\n
-made?
+// \nずるいったらずるいねー。 \nどうやって顔作るか知ってるの？
+ \n
+Sneaky little devil, you! So, do you \n
+know how a Vanity Face is made?
 <$1B>
-//※もちろん、知ってる\nそんなの、知らない
-※Yes\n
-No
+//※もちろん、知ってる \nそんなの、知らない
+※Yes
+<$0C>
+No 
 <$00><$17><$00>
 
 // Pos: 00003B09
@@ -585,59 +503,52 @@ No
 //リンダ：
 Linda:
 <$0D>
-//\nへぇ… そうなの、そうなの。
-\n
-Ahhh, of course, of\n
-course.
+// \nへぇ… そうなの、そうなの。
+ \n
+Ahhh, of course, of course. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\n地球じゃできなかったことよ。\nヴェロニカの布は火星にしかないんだから。
-\n
-Earth doesn't have\n
-this sort of thing.
+// \n地球じゃできなかったことよ。 \nヴェロニカの布は火星にしかないんだから。
+ \n
+Earth doesn't have this sort of thing. \n
+Veronica's cloth is only available on
 <$0C>
-Veronica's cloth is\n
-only available on\n
-Mars.
+Mars. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nで、蕃判の話、地球にも伝わってるの？\nそうよね、そうに建いない…
-\n
-Tell me, have those\n
-"Judgement" rumors
+// \nで、蕃判の話、地球にも伝わってるの？ \nそうよね、そうに建いない…
+ \n
+Tell me, have those "Judgement" \n
+rumors spread to Earth? I figured
 <$0C>
-spread to Earth? I\n
-figured they would.
+they would. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nそれであんたがやってきて…
-\n
-That must be how you\n
-were able to book a
+// \nそれであんたがやってきて…
+ \n
+That must be how you were able to \n
+book a free ride here. Hehe, I'm right,
 <$0C>
-free ride here. Hehe,\n
-I'm right, aren't I?
+aren't I? 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
-\n
-You probably accepted\n
-whatever job Earth
+// \nえー、自分だけ人間の顔になろうってコンタン。 \n見え見えー、えへへ、でしょ？
+ \n
+You probably accepted whatever job \n
+Earth gave you, so that you could get
 <$0C>
-gave you, so that you\n
-could get your face\n
-done on the side!
+your face done on the side!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00003BC7
@@ -650,65 +561,55 @@ done on the side!
 //リンダ：
 Linda:
 <$0D>
-//\nじゃあ、教えてあげる。\n汚い布、かぶせるのよ、お顔に。
-\n
-All right, I'll tell\n
-you. First of all,
+// \nじゃあ、教えてあげる。 \n汚い布、かぶせるのよ、お顔に。
+ \n
+All right, I'll tell you. First of all, Feng \n
+puts some dirty cloth she got on your
 <$0C>
-Feng puts some dirty\n
-cloth she got on your\n
-face.
+face. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nフェイが手に入れたの、その布。\nかぶせると、布の表面に顔が現れて、\nしばらくするとその顔になれるの。
-\n
-Once your face is\n
-covered, a face rises
+// \nフェイが手に入れたの、その布。 \nかぶせると、布の表面に顔が現れて、 \nしばらくするとその顔になれるの。
+ \n
+Once your face is covered, a face rises \n
+up to the surface of the cloth, and it
 <$0C>
-up to the surface of\n
-the cloth, and it\n
-sticks.
+sticks. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nあの布は火星にしかないんだから。
-\n
-Give it more time,\n
-and it becomes your
+// \nあの布は火星にしかないんだから。
+ \n
+Give it more time, and it becomes your \n
+face. The cloth that does this exists
 <$0C>
-face. The cloth that\n
-does this exists only\n
-on Mars.
+only on Mars. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nで、蕃判の話、地球にも伝わってるの？\nそうよね、そうに建いない…\nそれであんたがやってきて…
-\n
-Tell me, have those\n
-"Judgement" rumors
+// \nで、蕃判の話、地球にも伝わってるの？ \nそうよね、そうに建いない… \nそれであんたがやってきて…
+ \n
+Tell me, have those "Judgement" \n
+rumors spread to Earth? I figured
 <$0C>
-spread to Earth? I\n
-figured that's how\n
-you got a free ride.
+that's how you got a free ride. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
-\n
-You probably accepted\n
-whatever job Earth
+// \nえー、自分だけ人間の顔になろうってコンタン。 \n見え見えー、えへへ、でしょ？
+ \n
+You probably accepted whatever job \n
+Earth gave you, so that you could get
 <$0C>
-gave you, so that you\n
-could get your face\n
-done on the side!
+your face done on the side!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00003CBD
@@ -721,34 +622,27 @@ done on the side!
 //リンダ：
 Linda:
 <$0D>
-//\nでー、お顔、どうなったのー。\nまだ犬じゃんかよー。
-\n
-Oh, what happened to\n
-your face? You're a
-<$0C>
-dog again, aren't\n
-you...
+// \nでー、お顔、どうなったのー。 \nまだ犬じゃんかよー。
+ \n
+Oh, what happened to your face? \n
+You're a dog again, aren't you...
 <$1E>
 //中
-中
+中 
 <$00><$12><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\n僕、ときどき夢見るんだ、\n裏側からこの部屋、見てるんだ。
-\n
-Sometimes, when I\n
-dream, I'm looking
-<$0C>
-into this room from\n
-the other side...
+// \n僕、ときどき夢見るんだ、 \n裏側からこの部屋、見てるんだ。
+ \n
+Sometimes, when I dream, I'm looking \n
+into this room from the other side... 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nでもつながってないんだよ。
-\n
-...but it's not\n
-connected to anything.
+// \nでもつながってないんだよ。
+ \n
+...but it's not connected to anything. 
 <$00>
 

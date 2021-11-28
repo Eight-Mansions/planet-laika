@@ -15,48 +15,41 @@
 //ブーマー：
 Boomer:
 <$0D>
-//\n見ねぇ顔だな…
-\n
-I don't think I've\n
-seen your face
-<$0C>
-before...
+// \n見ねぇ顔だな…
+ \n
+I don't think I've seen your face \n
+before... 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\nもうヘロデんとこには行ったのか。\nコロニーの親玉、酸索屋だ。
-\n
-Have you been to the\n
-oxygen dispensary?
+// \nもうヘロデんとこには行ったのか。 \nコロニーの親玉、酸索屋だ。
+ \n
+Have you been to the oxygen \n
+dispensary? The owner, Herod, is
 <$0C>
-The owner, Herod, is\n
-leader of the colony.
+leader of the colony. 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\nそれともサイコハウスに用か？\nハウスのやつら、頭に電波だ、
-\n
-Or do you want to see\n
-Psycho Lab? The guys
+// \nそれともサイコハウスに用か？ \nハウスのやつら、頭に電波だ、
+ \n
+Or do you want to see Psycho Lab? The \n
+guys there shoot radio waves into
 <$0C>
-there shoot radio\n
-waves into their\n
-heads.
+their heads. 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\n電波が飛んでくるってな。
-\n
-Ahhh, they're trying\n
-to ride the radio
-<$0C>
+// \n電波が飛んでくるってな。
+ \n
+Ahhh, they're trying to ride the radio \n
 waves.
 <$1E>
 //双
-双
+双 
 <$00>
 
 // Pos: 000012CE
@@ -69,23 +62,20 @@ waves.
 //ブーマー：
 Boomer:
 <$0D>
-//\nヘロデなら酸索屋だ。\nハウスならそこの扉だ。
-\n
-Herod's at the oxygen\n
-dispensary. This door
-<$0C>
-leads to Psycho Lab.
+// \nヘロデなら酸索屋だ。 \nハウスならそこの扉だ。
+ \n
+Herod's at the oxygen dispensary. This \n
+door leads to Psycho Lab. 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\n俺は…夜が怖い。
-\n
-Ohhh, I'm scared of\n
-the night...
+// \n俺は…夜が怖い。
+ \n
+Ohhh, I'm scared of the night...
 <$1E>
 //双
-双
+双 
 <$00>
 
 // Pos: 00001308
@@ -98,24 +88,20 @@ the night...
 //ブーマー：
 Boomer:
 <$0D>
-//\n目ん玉のところに行くのか？
-\n
-You're looking for an\n
-eyeball?
+// \n目ん玉のところに行くのか？
+ \n
+You're looking for an eyeball? 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\n見えねぇんだ、どうやってもな。\n目ん玉なんざ、うそなんじゃねぇのか？
-\n
-Ahhh, I can't see the\n
-eyeballs, no matter
-<$0C>
-what I do. Are they\n
-not a hoax?
+// \n見えねぇんだ、どうやってもな。 \n目ん玉なんざ、うそなんじゃねぇのか？
+ \n
+Ahhh, I can't see the eyeballs, no \n
+matter what I do. Are they not a hoax?
 <$1E>
 //双
-双
+双 
 <$00>
 
 // Pos: 00001352
@@ -128,26 +114,21 @@ not a hoax?
 //ブーマー：
 Boomer:
 <$0D>
-//\nイヤな夜だぜ…誰も戻らねぇ。
-\n
-I hate the night. No\n
-one comes home
-<$0C>
-anymore.
+// \nイヤな夜だぜ…誰も戻らねぇ。
+ \n
+I hate the night. No one comes home \n
+anymore. 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\nみんな夜につかまっちまうんだ、\n夢に食われちまうんだ、みんな食われる…
-\n
-Ahhh, everyone is\n
-taken. Taken and
-<$0C>
-eaten by dreams.\n
-Everyone, eaten.
+// \nみんな夜につかまっちまうんだ、 \n夢に食われちまうんだ、みんな食われる…
+ \n
+Ahhh, everyone is taken. Taken and \n
+eaten by dreams. Everyone, eaten.
 <$1E>
 //双
-双
+双 
 <$00>
 
 // Pos: 000013A0
@@ -160,15 +141,13 @@ Everyone, eaten.
 //ブーマー：
 Boomer:
 <$0D>
-//\n夢に襲われるんだ、\n夜から抜け出して来るんだ…
-\n
-Ahhh, my dreams creep\n
-out from the dark of
-<$0C>
-night to attack me.
+// \n夢に襲われるんだ、 \n夜から抜け出して来るんだ…
+ \n
+Ahhh, my dreams creep out from the \n
+dark of night to attack me.
 <$1E>
 //双
-双
+双 
 <$00>
 
 // Pos: 000013CA
@@ -181,15 +160,13 @@ night to attack me.
 //ブーマー：
 Boomer:
 <$0D>
-//\n夜が怖い、夢が怖い…
-\n
-Ohhh, I'm scared of\n
-the night, I'm scared
-<$0C>
-of my dreams...
+// \n夜が怖い、夢が怖い…
+ \n
+Ohhh, I'm scared of the night, I'm \n
+scared of my dreams...
 <$1E>
 //双
-双
+双 
 <$00>
 
 // Pos: 000013E5
@@ -202,16 +179,13 @@ of my dreams...
 //ブーマー：
 Boomer:
 <$0D>
-//\n夢見た…\n陽は赤く燃え、その焼け跡に町を残した…
-\n
-Ohh, I had a dream\n
-that the sun burned
-<$0C>
-so red, it razed the\n
-town to ash.
+// \n夢見た… \n陽は赤く燃え、その焼け跡に町を残した…
+ \n
+Ohh, I had a dream that the sun burned \n
+so red, it razed the town to ash.
 <$1E>
 //双
-双
+双 
 <$00>
 
 // Pos: 00001412
@@ -224,34 +198,30 @@ town to ash.
 //ブーマー：
 Boomer:
 <$0D>
-//\n夢が怖い、思い出も怖い…
-\n
-Ohhh, I'm scared of\n
-my dreams, I'm scared
-<$0C>
-of my memories...
+// \n夢が怖い、思い出も怖い…
+ \n
+Ohhh, I'm scared of my dreams, I'm \n
+scared of my memories...
 <$1E>
 //双
-双
+双 
 <$00><$10><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\n誰も戻らねぇ…誰もな。
-\n
-Ahhh, no one's coming\n
-back! No one!
+// \n誰も戻らねぇ…誰もな。
+ \n
+Ahhh, no one's coming back! No one! 
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nちゃんと開けた、暗証番号？\n行こう、換気塔の手前を右よ
-\n
-The password opened\n
-the way. Let's check
+// \nちゃんと開けた、暗証番号？ \n行こう、換気塔の手前を右よ
+ \n
+The password opened the way. Let's \n
+check the ventilator tower on the
 <$0C>
-the ventilator tower\n
-on the right.
+right. 
 <$00>
 
 // Pos: 00001478
@@ -261,7 +231,7 @@ on the right.
 #WHB(PTR, $000010D9)
 
 //サイコハウス
-Psycho Lab
+Psycho Lab 
 <$00><$00>
 
 // Pos: 00001480
@@ -271,6 +241,6 @@ Psycho Lab
 #WHB(PTR, $000010E1)
 
 //酸索石置場
-Oxygenite Storage
+Oxygenite Storage 
 <$00><$00>
 

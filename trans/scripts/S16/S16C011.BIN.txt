@@ -15,33 +15,27 @@
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\n悪夢じゃ、ここが悪夢…
-\n
-A night mare! Oh,\n
-this is a nightmare!
+// \n悪夢じゃ、ここが悪夢…
+ \n
+A night mare! Oh, this is a nightmare! 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nほうほう、３人の悪夢がつながっておるのう。\nトミー、マラケシュ、ヤング…
-\n
-Actually, it's three\n
-nightmares tethered
+// \nほうほう、３人の悪夢がつながっておるのう。 \nトミー、マラケシュ、ヤング…
+ \n
+Actually, it's three nightmares \n
+tethered into one: Tommy's,
 <$0C>
-into one: Tommy's,\n
-Marrakech's, and\n
-Yang's.
+Marrakech's, and Yang's. 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nトミーには会ったのう。\nあとニ人はどこじゃ？
-\n
-You must've seen\n
-Tommy by now, but
-<$0C>
-where are the other\n
-two?
+// \nトミーには会ったのう。 \nあとニ人はどこじゃ？
+ \n
+You must've seen Tommy by now, but \n
+where are the other two? 
 <$00>
 
 // Pos: 00000665
@@ -54,13 +48,10 @@ two?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nトミーには会ったのう。 あとニ人じゃ。\nマラケシュにヤングじゃ。
-\n
-You must've seen\n
-Tommy by now, but
-<$0C>
-where are Marrakech\n
-and Yang?
+// \nトミーには会ったのう。 あとニ人じゃ。 \nマラケシュにヤングじゃ。
+ \n
+You must've seen Tommy by now, but \n
+where are Marrakech and Yang? 
 <$00>
 
 // Pos: 00000695
@@ -73,33 +64,27 @@ and Yang?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nほうほう、３人に会ったのじゃな。
-\n
-So, you've met the\n
-three of them.
+// \nほうほう、３人に会ったのじゃな。
+ \n
+So, you've met the three of them. 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nこれでお前もこの悪夢の住人になったぞ。\nようやくな、ふほ。
-\n
-In doing that, you\n
-too are now a
-<$0C>
-tethered dweller of\n
-nightmares.
+// \nこれでお前もこの悪夢の住人になったぞ。 \nようやくな、ふほ。
+ \n
+In doing that, you too are now a \n
+tethered dweller of nightmares. 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nお前を呼んでる場所があるぞ、\n眠りの場所だ、ふほ。
-\n
-And now, haww, you\n
-will be beckoned
+// \nお前を呼んでる場所があるぞ、 \n眠りの場所だ、ふほ。
+ \n
+And now, haww, you will be beckoned \n
+somewhere to lay. Your resting place
 <$0C>
-somewhere to lay.\n
-Your resting place\n
-calls you.
+calls you. 
 <$00>
 
 // Pos: 0000070C
@@ -112,20 +97,18 @@ calls you.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nお前は誰かに心を読まれておるようじゃな。
-\n
-It seems someone is\n
-reading your mind.
+// \nお前は誰かに心を読まれておるようじゃな。
+ \n
+It seems someone is reading your \n
+mind. 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\n用心せねばならんぞ、\nここではうかつなことは許されんからのう。
-\n
-You must be alert! We\n
-can't wander this
-<$0C>
-place so carelessly.
+// \n用心せねばならんぞ、 \nここではうかつなことは許されんからのう。
+ \n
+You must be alert! We can't wander this \n
+place so carelessly. 
 <$00>
 
 // Pos: 00000760
@@ -138,19 +121,17 @@ place so carelessly.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nお前は誰かに心を読まれておるようじゃな。
-\n
-It seems someone is\n
-reading your mind.
+// \nお前は誰かに心を読まれておるようじゃな。
+ \n
+It seems someone is reading your \n
+mind. 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\n用心せねばならんぞ、\nここではうかつなことは許されんからのう。
-\n
-You must be alert! We\n
-can't wander this
-<$0C>
-place so carelessly.
+// \n用心せねばならんぞ、 \nここではうかつなことは許されんからのう。
+ \n
+You must be alert! We can't wander this \n
+place so carelessly. 
 <$00>
 

@@ -15,10 +15,9 @@
 //クロウ：
 Crow:
 <$0D>
-//\nおい、お前、何見てんだ？
-\n
-You! What're you\n
-looking for?
+// \nおい、お前、何見てんだ？
+ \n
+You! What're you looking for? 
 <$00>
 
 // Pos: 0000171C
@@ -31,9 +30,9 @@ looking for?
 //クロウ：
 Crow:
 <$0D>
-//\nおい、開いてんだよ！
-\n
-Look, it's open!
+// \nおい、開いてんだよ！
+ \n
+Look, it's open! 
 <$00>
 
 // Pos: 00001730
@@ -46,46 +45,38 @@ Look, it's open!
 //クロウ：
 Crow:
 <$0D>
-//\n何だお前は…
-\n
-What do you want to\n
-know about?
+// \n何だお前は…
+ \n
+What do you want to know about? 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nあのマシンか！ あれは、スペースアンプだ。\n集めてんだよう、力を！
-\n
-That machine? Oh, the\n
-Space A.M.P.! We use
-<$0C>
-that to gather energy.
+// \nあのマシンか！ あれは、スペースアンプだ。 \n集めてんだよう、力を！
+ \n
+That machine? Oh, the Space A.M.P.! We \n
+use that to gather energy. 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nへへ！ 金星からやってくる力だ、\n頭ん中に入って来るんだ！
-\n
-Kekeke, that energy\n
-is power that comes
+// \nへへ！ 金星からやってくる力だ、 \n頭ん中に入って来るんだ！
+ \n
+Kekeke, that energy is power that \n
+comes out from Venus, and we're
 <$0C>
-out from Venus, and\n
-we're gonna fire it\n
-into our brains!
+gonna fire it into our brains! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nへへ！ それともなにか、使えもしねえ\n無線テレビで遊ぼうってのか…へへ！
-\n
-We can't use it any\n
-other way. What do we
-<$0C>
-look like, wireless\n
-TVs? Kek!
+// \nへへ！ それともなにか、使えもしねえ \n無線テレビで遊ぼうってのか…へへ！
+ \n
+We can't use it any other way. What do \n
+we look like, wireless TVs? Kek!
 <$1E>
 //炎
-炎
+炎 
 <$00>
 
 // Pos: 000017C9
@@ -98,17 +89,15 @@ TVs? Kek!
 //クロウ：
 Crow:
 <$0D>
-//\nヤングのやつが戻ったら実験開始だ、\n金星の力だ、へへ！
-\n
-Once Yang gets back,\n
-we're starting our
+// \nヤングのやつが戻ったら実験開始だ、 \n金星の力だ、へへ！
+ \n
+Once Yang gets back, we're starting \n
+our big experiment to utilize the
 <$0C>
-big experiment to\n
-utilize the Venusian\n
-power, kek!
+Venusian power, kek!
 <$1E>
 //炎
-炎
+炎 
 <$00>
 
 // Pos: 000017F8
@@ -121,9 +110,8 @@ power, kek!
 //ヤング：
 Yang:
 <$0D>
-//\nおっかないだろ、\nやっぱりおっかないことになってるだろ。
-\n
-This is ghastly! This\n
-is ghastly after all!
+// \nおっかないだろ、 \nやっぱりおっかないことになってるだろ。
+ \n
+This is ghastly! This is ghastly after all! 
 <$00>
 

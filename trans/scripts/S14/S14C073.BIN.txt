@@ -15,16 +15,15 @@
 //トーマス：
 Thomas:
 <$0D>
-//\nあああ、あいつ、怖い目で私を見たんだ、\n言わせてもらうとそういうことだ。
-\n
-Oh, what scary eyes\n
-he looked at me with
+// \nあああ、あいつ、怖い目で私を見たんだ、 \n言わせてもらうとそういうことだ。
+ \n
+Oh, what scary eyes he looked at me \n
+with too! I've no words to describe
 <$0C>
-too! I've no words to\n
-describe them!
+them!
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00004595
@@ -37,23 +36,18 @@ describe them!
 //トーマス：
 Thomas:
 <$0D>
-//\nいわゆるあれだ、私なりの… おお？
-\n
-I sare say, I want to\n
-explore this
-<$0C>
-so-called...hmm?
+// \nいわゆるあれだ、私なりの… おお？
+ \n
+I sare say, I want to explore this \n
+so-called...hmm? 
 <$0C><$12><$0B><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\n何だ、本格的だな、\nおおお、来る来る、来るぞ！
-\n
-Whatever it is, it's\n
-the real...oh! It's
-<$0C>
-coming! Something's\n
-coming!
+// \n何だ、本格的だな、 \nおおお、来る来る、来るぞ！
+ \n
+Whatever it is, it's the real...oh! It's \n
+coming! Something's coming! 
 <$00>
 
 // Pos: 000045D8
@@ -63,44 +57,35 @@ coming!
 #WHB(PTR, $00000105)
 
 <$10><$08>
-//今こそ終わりがお前の上に来る。\n私は怒りを送り、お前の行いにしたがって栽き、\nいまわしい全てのことをお前に報いる。
-The end is upon you\n
-now. I shall send my\n
-wrath to reap all you
+//今こそ終わりがお前の上に来る。 \n私は怒りを送り、お前の行いにしたがって栽き、 \nいまわしい全てのことをお前に報いる。
+The end is upon you now. I shall send my \n
+wrath to reap all you have sewn, that \n
+all deeds may know reward. 
 <$0C>
-have sewn, that all\n
-deeds may know reward.
-<$0C>
-//終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
-The end is upon you!\n
-The end is upon you!\n
-The end of the world
-<$0C>
-burns for you. Now,\n
-behold! This hour is\n
-upon you!
+//終わりが来る、終わりが来る、 \n終わりの時がお前のために熱す。 \n今や見よ、この時が来る。
+The end is upon you! The end is upon you! \n
+The end of the world burns for you. \n
+Now, behold! This hour is upon you! 
 <$05><$0C>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
       
 <$0D>
 //第四の預言を得た。
-So sayeth the\n
-fourth prophecy.
+So sayeth the fourth prophecy. 
 <$00><$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
       
 <$0D>
 //第四の預言を得た。
-So sayeth the\n
-fourth prophecy.
+So sayeth the fourth prophecy. 
 <$00>
 
 // Pos: 00004682
@@ -116,24 +101,21 @@ fourth prophecy.
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-//\nおおお、私を呼ぶ者がある…
-\n
-Oh, someone calls for\n
-me...
+// \nおおお、私を呼ぶ者がある…
+ \n
+Oh, someone calls for me... 
 <$0C><$12>
 //に
 <$0B>
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-//\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
-\n
-...leading me to\n
-Jeremiah. Leading me
+// \nエレミヤの元へ、純粋な死へ。 \nさらなる死へ、その深みへ。
+ \n
+...leading me to Jeremiah. Leading me \n
+to sweet Death. To the deepest depths
 <$0C>
-to sweet Death. To\n
-the deepest depths of\n
-Death.
+of Death. 
 <$00>
 
 // Pos: 000046D8
@@ -146,24 +128,18 @@ Death.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\n最後の預言はエレミヤのミイラとともに\n眠っておる。
-\n
-The final prophecy\n
-lays in rest,
-<$0C>
-together with\n
-Jeremiah's mummy.
+// \n最後の預言はエレミヤのミイラとともに \n眠っておる。
+ \n
+The final prophecy lays in rest, \n
+together with Jeremiah's mummy. 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
-\n
-It lays beyond the\n
-nightmares, beyond
-<$0C>
-all falsehood in the\n
-Land of the Dead.
+// \n悪夢の先じゃ。 \nウソいつわりのない死の世界じゃ。
+ \n
+It lays beyond the nightmares, beyond \n
+all falsehood in the Land of the Dead. 
 <$00>
 
 // Pos: 0000472D
@@ -176,24 +152,20 @@ Land of the Dead.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nいよいよじゃな、最後の試練じゃ。\nそれを乗り越えて、お前たちは…
-\n
-At last, you all must\n
-come together to
-<$0C>
-overcome the final\n
-test.
+// \nいよいよじゃな、最後の試練じゃ。 \nそれを乗り越えて、お前たちは…
+ \n
+At last, you all must come together to \n
+overcome the final test. 
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nマコトの双子ならきっと奇跡を\n起こせるはずじゃ。
-\n
-But surely you will\n
-awaken this miracle,
+// \nマコトの双子ならきっと奇跡を \n起こせるはずじゃ。
+ \n
+But surely you will awaken this \n
+miracle, for you are the Twins of
 <$0C>
-for you are the Twins\n
-of Truth.
+Truth. 
 <$00>
 
 // Pos: 0000478B
@@ -206,13 +178,10 @@ of Truth.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-//\nわしは悪夢への入り口をさがしにいってくるぞ。\nちょっと思うところあってな。
-\n
-I shall look for the\n
-entrance to the
-<$0C>
-nightmares. I may\n
-have an idea.
+// \nわしは悪夢への入り口をさがしにいってくるぞ。 \nちょっと思うところあってな。
+ \n
+I shall look for the entrance to the \n
+nightmares. I may have an idea. 
 <$00>
 
 // Pos: 000047C2
@@ -225,16 +194,15 @@ have an idea.
 //トーマス：
 Thomas:
 <$0D>
-//\nあんたまで…私を怖い目で見るのか…\nそれにはなれてない。
-\n
-As for you, you look\n
-at me with such scary
+// \nあんたまで…私を怖い目で見るのか… \nそれにはなれてない。
+ \n
+As for you, you look at me with such \n
+scary eyes. I've no words to describe
 <$0C>
-eyes. I've no words\n
-to describe them.
+them.
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 000047ED
@@ -247,16 +215,13 @@ to describe them.
 //トーマス：
 Thomas:
 <$0D>
-//\nあああ、ここは悪夢なのか？\n私なりに、悪夢なのか。
-\n
-Ohh, is this a\n
-nightmare?! I dare
-<$0C>
-say, I'm living a\n
-nightmare!
+// \nあああ、ここは悪夢なのか？ \n私なりに、悪夢なのか。
+ \n
+Ohh, is this a nightmare?! I dare say, \n
+I'm living a nightmare!
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 
 // Pos: 00004815
@@ -269,17 +234,15 @@ nightmare!
 //トーマス：
 Thomas:
 <$0D>
-//\n私なりに、私に近いことしか考えられなくなって\nきたんだ…近いこと、近く…よねー、\n近いことー、それだけでいいのよねー。
-\n
-I dare say, the more\n
-I think about things
+// \n私なりに、私に近いことしか考えられなくなって \nきたんだ…近いこと、近く…よねー、 \n近いことー、それだけでいいのよねー。
+ \n
+I dare say, the more I think about \n
+things closer to me...all that matters is
 <$0C>
-closer to me...all\n
-that matters is that\n
-they're close.
+that they're close.
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00004862
@@ -292,16 +255,14 @@ they're close.
 //トーマス：
 Thomas:
 <$0D>
-//\n人だってそうだ…側にいたって遠いのよー、\nぜんぜん遠い、ウソだらけー。
-\n
-I've come to the\n
-conclusion that even
+// \n人だってそうだ…側にいたって遠いのよー、 \nぜんぜん遠い、ウソだらけー。
+ \n
+I've come to the conclusion that even \n
+those distant from us are close.
 <$0C>
-those distant from us\n
-are close. Distance\n
-is a lie!
+Distance is a lie!
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 

@@ -15,12 +15,10 @@
 //リバー：
 Liever:
 <$0D>
-//\nカギ、開けたから。\nこの中を通って行くんだ。
-\n
-This way is open, so\n
-this is how we're
-<$0C>
-getting in.
+// \nカギ、開けたから。 \nこの中を通って行くんだ。
+ \n
+This way is open, so this is how we're \n
+getting in. 
 <$00>
 
 // Pos: 000018CF
@@ -33,10 +31,10 @@ getting in.
 //アーネスト：
 Ernest:
 <$0D>
-//\n何だこりゃ？ 下水じゃねぇか！
-\n
-What's all this? It\n
-better not be sewage.
+// \n何だこりゃ？ 下水じゃねぇか！
+ \n
+What's all this? It better not be \n
+sewage. 
 <$00>
 
 // Pos: 000018ED
@@ -49,12 +47,10 @@ better not be sewage.
 //スペーサー：
 Spacer:
 <$0D>
-//\nイセキ？\nまさか…そんなはずが…
-\n
-What is this place?\n
-It almost looks like
-<$0C>
-an archeological site.
+// \nイセキ？ \nまさか…そんなはずが…
+ \n
+What is this place? It almost looks like \n
+an archeological site. 
 <$00>
 
 // Pos: 0000190A
@@ -67,13 +63,10 @@ an archeological site.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何だか汚らしいところね。\nこんなところに神様がいるなんて…
-\n
-I'm dying to know\n
-what God's doing down
-<$0C>
-here in the\n
-shit-abyss.
+// \n何だか汚らしいところね。 \nこんなところに神様がいるなんて…
+ \n
+I'm dying to know what God's doing \n
+down here in the shit-abyss. 
 <$00>
 
 // Pos: 00001936
@@ -86,13 +79,10 @@ shit-abyss.
 //リバー：
 Liever:
 <$0D>
-//\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
-\n
-The underground canal\n
-is an aqueduct that
-<$0C>
-leads to a dam of\n
-Evil Mind.
+// \nこれは地下水道… \nイーブルマインドのダムにつながってるんだ。
+ \n
+The underground canal is an aqueduct \n
+that leads to a dam of Evil Mind. 
 <$00>
 
 // Pos: 00001963
@@ -105,10 +95,9 @@ Evil Mind.
 //アーネスト：
 Ernest:
 <$0D>
-//\nイーブルマインドのダムだと？
-\n
-There's a dam for\n
-Evil Mind?
+// \nイーブルマインドのダムだと？
+ \n
+There's a dam for Evil Mind? 
 <$00>
 
 // Pos: 0000197E
@@ -121,12 +110,10 @@ Evil Mind?
 //スペーサー：
 Spacer:
 <$0D>
-//\nダム！ ダムがあるのか、\nイーブルマインドのダムが。
-\n
-Ah, a dam! So,\n
-there's a dam. A dam
-<$0C>
-for Evil Mind.
+// \nダム！ ダムがあるのか、 \nイーブルマインドのダムが。
+ \n
+Ah, a dam! So, there's a dam. A dam for \n
+Evil Mind. 
 <$00>
 
 // Pos: 000019A5
@@ -139,10 +126,9 @@ for Evil Mind.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nますます嫌な惑じね。
-\n
-This only gets worse\n
-by the minute.
+// \nますます嫌な惑じね。
+ \n
+This only gets worse by the minute. 
 <$00>
 
 // Pos: 000019BD
@@ -155,13 +141,10 @@ by the minute.
 //リバー：
 Liever:
 <$0D>
-//\n先に行くよ。\n砂嵐が来る前に通り抜けなきゃ。
-\n
-If you want to see\n
-it, we'll have to
-<$0C>
-move before another\n
-sandstorm hits.
+// \n先に行くよ。 \n砂嵐が来る前に通り抜けなきゃ。
+ \n
+If you want to see it, we'll have to move \n
+before another sandstorm hits. 
 <$00>
 
 // Pos: 000019E5
@@ -174,13 +157,10 @@ sandstorm hits.
 //エイプリル：
 April:
 <$0D>
-//\nここは… 何かの通路みたいね。\nリトルはこの奥かなぁ。
-\n
-This looks like some\n
-kind of passage. I
-<$0C>
-wonder if Little's\n
-down here.
+// \nここは… 何かの通路みたいね。 \nリトルはこの奥かなぁ。
+ \n
+This looks like some kind of passage. I \n
+wonder if Little's down here. 
 <$00>
 
 // Pos: 00001A0D
@@ -193,21 +173,19 @@ down here.
 //リトル：
 Little:
 <$0D>
-//\n俺がどうしたと？
-\n
-Oi, what did you do\n
-to me?!
+// \n俺がどうしたと？
+ \n
+Oi, what did you do to me?! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nおい、お前も悪夢に出入りしてるのか、\nええ、アガタと組んだのか？
-\n
-Can you move in and\n
-out of the nightmares
+// \nおい、お前も悪夢に出入りしてるのか、 \nええ、アガタと組んだのか？
+ \n
+Can you move in and out of the \n
+nightmares too? Are you workin' with
 <$0C>
-too? Are you workin'\n
-with Agatha?
+Agatha? 
 <$00>
 
 // Pos: 00001A4A
@@ -220,34 +198,28 @@ with Agatha?
 //エイプリル：
 April:
 <$0D>
-//\nアガタは悪夢の中で\nヘロデに催眠術をかけているのね。
-\n
-Agatha enters Herod's\n
-nightmares and treats
-<$0C>
-him with hypnotherapy.
+// \nアガタは悪夢の中で \nヘロデに催眠術をかけているのね。
+ \n
+Agatha enters Herod's nightmares and \n
+treats him with hypnotherapy. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nヘロデが悪夢から戻ってこられるように。
-\n
-That's how Herod is\n
-able to come out of
-<$0C>
-his nightmares.
+// \nヘロデが悪夢から戻ってこられるように。
+ \n
+That's how Herod is able to come out of \n
+his nightmares. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nねぇ、この星では\n夢と現実が入れ替わったりするの？
-\n
-Still, all this dream\n
-talk makes me wonder:
+// \nねぇ、この星では \n夢と現実が入れ替わったりするの？
+ \n
+Still, all this dream talk makes me \n
+wonder: are dreams and reality
 <$0C>
-are dreams and\n
-reality swapped on\n
-this planet?
+swapped on this planet? 
 <$00>
 
 // Pos: 00001ABC
@@ -260,24 +232,18 @@ this planet?
 //リトル：
 Little:
 <$0D>
-//\nアガタは知ってたはずだ。\n俺の中にもうひとりいることをな。
-\n
-Agatha would've known\n
-that there was
-<$0C>
-someone else inside\n
-me.
+// \nアガタは知ってたはずだ。 \n俺の中にもうひとりいることをな。
+ \n
+Agatha would've known that there \n
+was someone else inside me. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nそれなのに、しらばっくれてやがる。\nまるではじめてみたいに
-\n
-And yet, she played\n
-dumb, and acted like
-<$0C>
-it was her first time\n
-seein' anythin'.
+// \nそれなのに、しらばっくれてやがる。 \nまるではじめてみたいに
+ \n
+And yet, she played dumb, and acted \n
+like it was her first time seein' anythin'. 
 <$00>
 
 // Pos: 00001B09
@@ -286,10 +252,9 @@ seein' anythin'.
 
 #WHB(PTR, $000009AD)
 
-//笑うしたのリトル？\nあなた、まさか
-笑What's wrong, Little?\n
-Should we be\n
-concerned?
+//笑うしたのリトル？ \nあなた、まさか
+笑What's wrong, Little? \n
+Should we be concerned? 
 <$00>
 
 // Pos: 00001B1C
@@ -302,24 +267,18 @@ concerned?
 //リトル：
 Little:
 <$0D>
-//\nおかしいじゃないか。 何か隠してる惑じだ。
-\n
-Shouldn't we be?\n
-Isn't it strange to
-<$0C>
-think she hides\n
-things without reason?
+// \nおかしいじゃないか。 何か隠してる惑じだ。
+ \n
+Shouldn't we be? Isn't it strange to \n
+think she hides things without reason? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nへっ、催眠術で何かまずいことでも\nあったんじゃないのか。
-\n
-What'll she do when\n
-somethin' DOES go
-<$0C>
-wrong during\n
-hypnotherapy, huh?
+// \nへっ、催眠術で何かまずいことでも \nあったんじゃないのか。
+ \n
+What'll she do when somethin' DOES go \n
+wrong during hypnotherapy, huh? 
 <$00>
 
 // Pos: 00001B63
@@ -332,13 +291,10 @@ hypnotherapy, huh?
 //エイプリル：
 April:
 <$0D>
-//\nリトル、あなたアガタに\n催眠術かけてもらったことはないの？
-\n
-Have you ever had\n
-Agatha perform
-<$0C>
-hypnotherapy on you,\n
-Little?
+// \nリトル、あなたアガタに \n催眠術かけてもらったことはないの？
+ \n
+Have you ever had Agatha perform \n
+hypnotherapy on you, Little? 
 <$00>
 
 // Pos: 00001B8E
@@ -351,23 +307,18 @@ Little?
 //リトル：
 Little:
 <$0D>
-//\nない、ない、絶対にないぞ！\nあああ、側で見ていたことはあるが
-\n
-No, no, DEFINITELY\n
-not! I've seen her
-<$0C>
-administer it up\n
-close, but...
+// \nない、ない、絶対にないぞ！ \nあああ、側で見ていたことはあるが
+ \n
+No, no, DEFINITELY not! I've seen her \n
+administer it up close, but... 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺にはかからなかったはずだ…\n本当だ、俺にはかからない…
-\n
-Oi, I'll tell you\n
-what, I'd never her
-<$0C>
-do that stuff to me!
+// \n俺にはかからなかったはずだ… \n本当だ、俺にはかからない…
+ \n
+Oi, I'll tell you what, I'd never her do \n
+that stuff to me! 
 <$00>
 
 // Pos: 00001BDE
@@ -380,46 +331,40 @@ do that stuff to me!
 //リトル：
 Little:
 <$0D>
-//\nちくしょう！ さっきのはひどかった…\nお前が俺に話しかけてたぞ。
-\n
-Goddammit, that was\n
-all so awful! Yeah, I
+// \nちくしょう！ さっきのはひどかった… \nお前が俺に話しかけてたぞ。
+ \n
+Goddammit, that was all so awful! \n
+Yeah, I remember you talkin' to me
 <$0C>
-remember you talkin'\n
-to me before.
+before. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺は、イヤな場所で宙に浮かんでた…\nあああ、思い出してきたぞ。
-\n
-Right, I was floatin'\n
-in the air somewhere
-<$0C>
-awful. I remember now!
+// \n俺は、イヤな場所で宙に浮かんでた… \nあああ、思い出してきたぞ。
+ \n
+Right, I was floatin' in the air \n
+somewhere awful. I remember now! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n頭の中で声がするんだ、双子の苦しみ、\n生き埋めの双子の苦しみってな。
-\n
-The voice in my\n
-head's talkin' about
+// \n頭の中で声がするんだ、双子の苦しみ、 \n生き埋めの双子の苦しみってな。
+ \n
+The voice in my head's talkin' about \n
+"twin suffering" and things being
 <$0C>
-"twin suffering" and\n
-things being "buried\n
-alive".
+"buried alive". 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺の中で何が起きてるんだ？
-\n
-Oi, what's going on\n
-inside my head?!
+// \n俺の中で何が起きてるんだ？
+ \n
+Oi, what's going on inside my head?!
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00001C84
@@ -432,67 +377,57 @@ inside my head?!
 //エイプリル：
 April:
 <$0D>
-//\n今のリトルの話、知ってる？\n生き埋めの双子って…
-\n
-Have you ever heard\n
-the story Little just
+// \n今のリトルの話、知ってる？ \n生き埋めの双子って…
+ \n
+Have you ever heard the story Little \n
+just mentioned? The one about the
 <$0C>
-mentioned? The one\n
-about the buried\n
-twins?
+buried twins? 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nずいぶん昔の話で、そう、\n火星がまだ流刑地だったころのことよ。
-\n
-The incident happened\n
-a long time ago, back
+// \nずいぶん昔の話で、そう、 \n火星がまだ流刑地だったころのことよ。
+ \n
+The incident happened a long time ago, \n
+back when Mars was still a penal
 <$0C>
-when Mars was still a\n
-penal colony.
+colony. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n自分こそ選ばれた人間だって思い込んだ\nひとりの流刑者が、双子だった男の子を\n生き埋めにしたの。
-\n
-An exile who thought\n
-he was "the chosen
+// \n自分こそ選ばれた人間だって思い込んだ \nひとりの流刑者が、双子だった男の子を \n生き埋めにしたの。
+ \n
+An exile who thought he was "the \n
+chosen one" was caught burying twin
 <$0C>
-one" was caught\n
-burying twin boys\n
-alive.
+boys alive. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n自分に向いた鋭命が双子に\n取られないように…
-\n
-He thought it was\n
-wrong for two twins
-<$0C>
-to share a fate\n
-belonging to one self.
+// \n自分に向いた鋭命が双子に \n取られないように…
+ \n
+He thought it was wrong for two twins \n
+to share a fate belonging to one self. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nそんな話が今頃になって\nよみがえるなんて… 幽霊みたいに…
-\n
-To be honest, it's\n
-weird to hear that
+// \nそんな話が今頃になって \nよみがえるなんて… 幽霊みたいに…
+ \n
+To be honest, it's weird to hear that \n
+story spring back to life like some
 <$0C>
-story spring back to\n
-life like some ghost.
+ghost. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nねぇ、リトルのこと、追ってみない？
-\n
-...Maybe we should\n
-follow Little.
+// \nねぇ、リトルのこと、追ってみない？
+ \n
+...Maybe we should follow Little. 
 <$00>
 
 // Pos: 00001D94
@@ -505,18 +440,16 @@ follow Little.
 //エイプリル：
 April:
 <$0D>
-//\nリトルよ、この奥。 行ってみようよ。
-\n
-Little's down here!\n
-Let's go!
+// \nリトルよ、この奥。 行ってみようよ。
+ \n
+Little's down here! Let's go! 
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nどうしたの？ リトルはきっとこの中よ。
-\n
-What is it? Little\n
-should be inside.
+// \nどうしたの？ リトルはきっとこの中よ。
+ \n
+What is it? Little should be inside. 
 <$00>
 
 // Pos: 00001DD2
@@ -529,61 +462,48 @@ should be inside.
 //エイプリル：
 April:
 <$0D>
-//\nどうしたの、急におびえはじめて。\nこの先に何があるの？
-\n
-What's happening up\n
-ahead? I'm getting
-<$0C>
-scared now.
+// \nどうしたの、急におびえはじめて。 \nこの先に何があるの？
+ \n
+What's happening up ahead? I'm \n
+getting scared now. 
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n鍵、開けたから。この中を通って行くんだ。
-\n
-This way is open, so\n
-this is how we're
-<$0C>
-getting in.
+// \n鍵、開けたから。この中を通って行くんだ。
+ \n
+This way is open, so this is how we're \n
+getting in. 
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nイセキ？まさか…そんなはずが…
-\n
-What is this place?\n
-It almost looks like
-<$0C>
-an archeological site.
+// \nイセキ？まさか…そんなはずが…
+ \n
+What is this place? It almost looks like \n
+an archeological site. 
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
-\n
-The underground canal\n
-is an aqueduct that
-<$0C>
-leads to a dam of\n
-Evil Mind.
+// \nこれは地下水道… \nイーブルマインドのダムにつながってるんだ。
+ \n
+The underground canal is an aqueduct \n
+that leads to a dam of Evil Mind. 
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nダム！ダムがあるのか！
-\n
-Ah, a dam! So,\n
-there's a dam.
+// \nダム！ダムがあるのか！
+ \n
+Ah, a dam! So, there's a dam. 
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
-//\n先に行くよ。砂嵐が来る前に通り抜けなきゃ。
-\n
-If you want to see\n
-it, we'll have to
-<$0C>
-move before another\n
-sandstorm hits.
+// \n先に行くよ。砂嵐が来る前に通り抜けなきゃ。
+ \n
+If you want to see it, we'll have to move \n
+before another sandstorm hits. 
 <$00>
 

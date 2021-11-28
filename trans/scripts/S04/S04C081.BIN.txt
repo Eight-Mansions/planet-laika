@@ -12,12 +12,9 @@
 #WHB(PTR, $00000145)
 
 <$10>
-//そうだ、コスマス、\n早くその薬を顔に塗るんだ。
-All right, Cosmas.\n
-Let's get this\n
-medicine on youe face
-<$0C>
-now.
+//そうだ、コスマス、 \n早くその薬を顔に塗るんだ。
+All right, Cosmas. Let's get this \n
+medicine on youe face now. 
 <$00>
 
 // Pos: 00001E72
@@ -28,7 +25,7 @@ now.
 
 <$10>
 //眠いよ…
-But I'm sleepy...
+But I'm sleepy... 
 <$00>
 
 // Pos: 00001E79
@@ -38,20 +35,14 @@ But I'm sleepy...
 #WHB(PTR, $00000209)
 
 <$10>
-//コスマス、忘れちゃいかんなぁ…\n誰がお前をこの可愛い顔に仕上げんだ？\nふうん？
-Shhh, Cosmas. Don't\n
-forget, who made this\n
-darling face for you?
+//コスマス、忘れちゃいかんなぁ… \n誰がお前をこの可愛い顔に仕上げんだ？ \nふうん？
+Shhh, Cosmas. Don't forget, who made \n
+this darling face for you? Hmm? 
 <$0C>
-Hmm?
-<$0C>
-//俺はなぁ…今夜は気分が乗ってるんだ、\nさあ、こっちへおいで。\nおじさんが塗ってあげよう。
-That's right, me.\n
-Now, come over here\n
-and let Uncle doll up
-<$0C>
-your face. It'll make\n
-you feel good.
+//俺はなぁ…今夜は気分が乗ってるんだ、 \nさあ、こっちへおいで。 \nおじさんが塗ってあげよう。
+That's right, me. Now, come over here \n
+and let Uncle doll up your face. It'll \n
+make you feel good. 
 <$00>
 
 // Pos: 00001EDA
@@ -62,7 +53,7 @@ you feel good.
 
 <$10>
 //…
-...
+... 
 <$00>
 
 // Pos: 00001EDD
@@ -72,10 +63,9 @@ you feel good.
 #WHB(PTR, $00000229)
 
 <$10>
-//なにをぐずぐずしてる。\nさあ、おいで。
-What are you waiting\n
-for? Get your ass\n
-over here!
+//なにをぐずぐずしてる。 \nさあ、おいで。
+What are you waiting for? Get your ass \n
+over here! 
 <$00>
 
 // Pos: 00001EF2
@@ -88,13 +78,10 @@ over here!
 //エイプリル：
 April:
 <$0D>
-//\nさっきの子ね。\n無理に整形させられたのね…
-\n
-That's the little boy\n
-we saw! Is that man
-<$0C>
-forcing cosmetic\n
-surgery on him?!
+// \nさっきの子ね。 \n無理に整形させられたのね…
+ \n
+That's the little boy we saw! Is that man \n
+forcing cosmetic surgery on him?! 
 <$00>
 
 // Pos: 00001F17
@@ -105,7 +92,7 @@ surgery on him?!
 
 <$10>
 //ダンスの時間だ。
-It's time to dance!
+It's time to dance! 
 <$00>
 
 // Pos: 00001F23
@@ -115,14 +102,12 @@ It's time to dance!
 #WHB(PTR, $00001699)
 
 <$10>
-//もう寝るよ、\nおじさん、僕、眠いんだ。
-I'm going to bed now,\n
-Uncle. I'm sleepy.
+//もう寝るよ、 \nおじさん、僕、眠いんだ。
+I'm going to bed now, Uncle. I'm sleepy. 
 <$0C>
-//気分が乗ってるんだ、コスマス、\nおじさんは気分だぞ。
-Uncle's in the mood,\n
-Cosmas. Uncle's in\n
-the mood.
+//気分が乗ってるんだ、コスマス、 \nおじさんは気分だぞ。
+Uncle's in the mood, Cosmas. Uncle's in \n
+the mood. 
 <$00>
 
 // Pos: 00001F57
@@ -136,14 +121,12 @@ the mood.
 #WHB(PTR, $0000151D)
 
 <$10>
-//ひひひ、コスマス、お前は可愛い、\nほんとに可愛いぞ。
-Hehehe. Cosmas,\n
-you're so cute.\n
-You're so damn cute.
+//ひひひ、コスマス、お前は可愛い、 \nほんとに可愛いぞ。
+Hehehe. Cosmas, you're so cute. You're \n
+so damn cute. 
 <$0C>
 //おじさん、眠いよ、眠い…
-Uncle. I'm sleepy.\n
-Let me sleep...
+Uncle. I'm sleepy. Let me sleep... 
 <$00>
 
 // Pos: 00001F86
@@ -160,25 +143,18 @@ Let me sleep...
 //エイプリル：
 April:
 <$0D>
-//\nあの子、なにかひどい目にあわされてるのよ。
-\n
-That poor boy. He's\n
-being treated so
-<$0C>
-horribly. It's\n
-sickening.
+// \nあの子、なにかひどい目にあわされてるのよ。
+ \n
+That poor boy. He's being treated so \n
+horribly. It's sickening. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nなのにみんな見て見ぬふりしてる…\nイヤなところね。
-\n
-Everyone seems to\n
-know what's going on
-<$0C>
-too, but they all\n
-turn a blind eye to\n
-it.
+// \nなのにみんな見て見ぬふりしてる… \nイヤなところね。
+ \n
+Everyone seems to know what's going \n
+on too, but they all turn a blind eye to it. 
 <$00>
 
 // Pos: 00001FCB
@@ -191,13 +167,10 @@ it.
 //エイプリル：
 April:
 <$0D>
-//\nダンスの時間って？\nなんだかあの子、かわいそうね。
-\n
-"It's time to dance"?\n
-What's happening to
-<$0C>
-the boy in there? I\n
-feel so bad...
+// \nダンスの時間って？ \nなんだかあの子、かわいそうね。
+ \n
+"It's time to dance"? What's happening \n
+to the boy in there? I feel so bad... 
 <$00>
 
 // Pos: 00001FF2
@@ -210,13 +183,10 @@ feel so bad...
 //エイプリル：
 April:
 <$0D>
-//\n先にマウンテンに暗証番号を\n教えてもらうのよ。ハウスよ。
-\n
-We have to get the\n
-PIN from Mountain.
-<$0C>
-He's over at Psycho\n
-Lab.
+// \n先にマウンテンに暗証番号を \n教えてもらうのよ。ハウスよ。
+ \n
+We have to get the PIN from Mountain. \n
+He's over at Psycho Lab. 
 <$00>
 
 // Pos: 0000201F
@@ -233,14 +203,12 @@ Lab.
 //エイプリル：
 April:
 <$0D>
-//\nオートロックよ…さっきの暗証番号、\n覚えてる？ 入力してみない？
-\n
-That's the autolock\n
-to the lodge. Do you
+// \nオートロックよ…さっきの暗証番号、 \n覚えてる？ 入力してみない？
+ \n
+That's the autolock to the lodge. Do you \n
+remember what PIN we were
 <$0C>
-remember what PIN we\n
-were supposed to\n
-enter?
+supposed to enter? 
 <$00>
 
 // Pos: 00002051
@@ -253,12 +221,10 @@ enter?
 //エイプリル：
 April:
 <$0D>
-//\nえ？ ひとケタなの、暗証番号って。
-\n
-What in the...?! THEY\n
-USE A SINGLE DIGIT
-<$0C>
-NUMBER FOR THEIR PIN?!
+// \nえ？ ひとケタなの、暗証番号って。
+ \n
+What in the...?! THEY USE A SINGLE DIGIT \n
+NUMBER FOR THEIR PIN?! 
 <$00>
 
 // Pos: 00002071
@@ -267,10 +233,10 @@ NUMBER FOR THEIR PIN?!
 
 #WHB(PTR, $000004FD)
 
-
+ 
 <$00>
 //誰だ？
-Who's out there?
+Who's out there? 
 <$00>
 
 // Pos: 00002077
@@ -283,13 +249,10 @@ Who's out there?
 //エイプリル：
 April:
 <$0D>
-//\n地球から来た…その…\n世界連盟の宇宙航空隊です…
-\n
-Eep! This is the\n
-International Space
-<$0C>
-Force. We came here\n
-from Earth!
+// \n地球から来た…その… \n世界連盟の宇宙航空隊です…
+ \n
+Eep! This is the International Space \n
+Force. We came here from Earth! 
 <$00>
 
 // Pos: 000020A6
@@ -298,10 +261,10 @@ from Earth!
 
 #WHB(PTR, $00000555)
 
-
+ 
 <$00>
 //何の用だ？
-For?
+For? 
 <$00>
 
 // Pos: 000020AE
@@ -314,10 +277,10 @@ For?
 //エイプリル：
 April:
 <$0D>
-//\nメディスンマンの方にお会いしたくて…
-\n
-We're here to speak\n
-with the medicine men.
+// \nメディスンマンの方にお会いしたくて…
+ \n
+We're here to speak with the medicine \n
+men. 
 <$00>
 
 // Pos: 000020CD
@@ -326,10 +289,10 @@ with the medicine men.
 
 #WHB(PTR, $00000589)
 
-
+ 
 <$00>
 //…
-...
+... 
 <$00>
 
 // Pos: 000020D0
@@ -342,13 +305,10 @@ with the medicine men.
 //エイプリル：
 April:
 <$0D>
-//\n私たちは不時着して、\nそれでこのコロニーに来る途中で\n仲間とはぐれたんです。
-\n
-We had to make an\n
-emergency landing,
-<$0C>
-but lost touch with\n
-our companions.
+// \n私たちは不時着して、 \nそれでこのコロニーに来る途中で \n仲間とはぐれたんです。
+ \n
+We had to make an emergency landing, \n
+but lost touch with our companions. 
 <$00>
 
 // Pos: 00002109
@@ -357,11 +317,10 @@ our companions.
 
 #WHB(PTR, $000005AD)
 
-
+ 
 <$00>
 //ロッジには誰も来ない。
-No one enters the\n
-lodge.
+No one enters the lodge. 
 <$00>
 
 // Pos: 00002118
@@ -374,24 +333,20 @@ lodge.
 //エイプリル：
 April:
 <$0D>
-//\n…マウンテンって人から開いたの、
-\n
-...A man named\n
-Mountain told us
-<$0C>
-about you.
+// \n…マウンテンって人から開いたの、
+ \n
+...A man named Mountain told us about \n
+you. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nあなたたちなら何か心当たりが\nあるんじゃないかって…
-\n
-He said if we met\n
-you, you'd possibly
+// \nあなたたちなら何か心当たりが \nあるんじゃないかって…
+ \n
+He said if we met you, you'd possibly \n
+have an idea where our companions
 <$0C>
-have an idea where\n
-our companions\n
-disappeared to.
+disappeared to. 
 <$00>
 
 // Pos: 0000215A
@@ -400,14 +355,11 @@ disappeared to.
 
 #WHB(PTR, $000005D1)
 
-
+ 
 <$00>
-//マウンテン！？ あいつはインチキだ。\nあんなやつにたよってはいけない。
-Mountain?! That\n
-imposter! Don't\n
-listen to anything he
-<$0C>
-says!
+//マウンテン！？ あいつはインチキだ。 \nあんなやつにたよってはいけない。
+Mountain?! That imposter! Don't listen \n
+to anything he says! 
 <$00>
 
 // Pos: 0000217F
@@ -420,10 +372,10 @@ says!
 //エイプリル：
 April:
 <$0D>
-//\nじゃあ、お願いします。
-\n
-Then you're the only\n
-ones we can count on!
+// \nじゃあ、お願いします。
+ \n
+Then you're the only ones we can count \n
+on! 
 <$00>
 
 // Pos: 00002196
@@ -432,10 +384,10 @@ ones we can count on!
 
 #WHB(PTR, $000005F5)
 
-
+ 
 <$00>
 //…入れ。
-...Come in.
+...Come in. 
 <$00>
 
 // Pos: 0000219D
@@ -448,12 +400,9 @@ ones we can count on!
 //エイプリル：
 April:
 <$0D>
-//\nこの扉から入るのね。\nホワイトイーグルってどんな人かなぁ？
-\n
-Let's go in through\n
-this door. I wonder
-<$0C>
-what kind of person\n
-White Eagle is.
+// \nこの扉から入るのね。 \nホワイトイーグルってどんな人かなぁ？
+ \n
+Let's go in through this door. I wonder \n
+what kind of person White Eagle is. 
 <$00>
 

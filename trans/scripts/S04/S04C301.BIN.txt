@@ -15,10 +15,9 @@
 //リトル：
 Little:
 <$0D>
-//\nううう、そうだそうだ、俺が…うううう…
-\n
-Oh, I get it.\n
-I...err...
+// \nううう、そうだそうだ、俺が…うううう…
+ \n
+Oh, I get it. I...err... 
 <$00>
 
 // Pos: 00003583
@@ -31,20 +30,17 @@ I...err...
 //リトル：
 Little:
 <$0D>
-//\nちくしょう！ またか、また俺は…
-\n
-Goddammit. I did it\n
-again, huh.
+// \nちくしょう！ またか、また俺は…
+ \n
+Goddammit. I did it again, huh. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n今度は何をやらかしたんだ…\nあああ、くそっ、思い出せない…
-\n
-But what'd I do this\n
-time? Ugh, I don't
-<$0C>
-even remember.
+// \n今度は何をやらかしたんだ… \nあああ、くそっ、思い出せない…
+ \n
+But what'd I do this time? Ugh, I don't \n
+even remember. 
 <$00>
 
 // Pos: 000035C5
@@ -57,10 +53,9 @@ even remember.
 //リトル：
 Little:
 <$0D>
-//\nお前は誰だ、地球から来たのか？
-\n
-Who are you, somebody\n
-from Earth?
+// \nお前は誰だ、地球から来たのか？
+ \n
+Who are you, somebody from Earth? 
 <$0E><$32><$17><$00>
 
 // Pos: 000035E4
@@ -70,13 +65,10 @@ from Earth?
 #WHB(PTR, $00000795)
 
 <$10>
-//俺は…俺は…\nリ、ト、ル…リトルだ、\nそうだそうだ、俺は酸索屋のリトルだ。
-\n
-I'm Little.\n
-L-I-T-T-L-E, got it?
-<$0C>
-I work at the oxygen\n
-dispensary.
+//俺は…俺は… \nリ、ト、ル…リトルだ、 \nそうだそうだ、俺は酸索屋のリトルだ。
+ \n
+I'm Little. L-I-T-T-L-E, got it? I work at \n
+the oxygen dispensary. 
 <$0E><$32><$17><$00>
 
 // Pos: 00003611
@@ -89,12 +81,10 @@ dispensary.
 //リトル：
 Little:
 <$0D>
-//\nそれがなんで…\nちくしょう、またやつだ、やつが俺の時間を！
-\n
-Why do you want to\n
-know, huh? Don't
-<$0C>
-waste my time!
+// \nそれがなんで… \nちくしょう、またやつだ、やつが俺の時間を！
+ \n
+Why do you want to know, huh? Don't \n
+waste my time! 
 <$0E><$32><$17><$00>
 
 // Pos: 0000363C
@@ -104,29 +94,21 @@ waste my time!
 #WHB(PTR, $00000921)
 
 <$10><$13><$19>
-//あんた、頭いい人でしょ。\nきっと僕よりも頭がいいんだ。
-I bet you're a smart\n
-person. Hell, you've\n
-gotta be smarter than
+//あんた、頭いい人でしょ。 \nきっと僕よりも頭がいいんだ。
+I bet you're a smart person. Hell, \n
+you've gotta be smarter than me! 
 <$0C>
-me!
+//あんたは本の中から生まれてきたみたいな、 \nそんな人なんだよ。
+You grow up with your nose in the \n
+books or somethin'? All you smart \n
+people do. 
 <$0C>
-//あんたは本の中から生まれてきたみたいな、\nそんな人なんだよ。
-You grow up with your\n
-nose in the books or\n
-somethin'? All you
-<$0C>
-smart people do.
-<$0C>
-//問顆が起きないようにするのが\nあんたの役目なんだよね。
-It's your job to get\n
-out there and solve\n
-the big puzzles for
-<$0C>
-us.
+//問顆が起きないようにするのが \nあんたの役目なんだよね。
+It's your job to get out there and solve \n
+the big puzzles for us.
 <$1E>
 //早
-早
+早 
 <$00>
 
 // Pos: 000036A4
@@ -136,29 +118,22 @@ us.
 #WHB(PTR, $0000090D)
 
 <$10><$13><$19>
-//あんたは…何だろう、\nきっとケンカが好きなんだね。
-\n
-Oi, I bet you're the\n
-kinda punk who gets
+//あんたは…何だろう、 \nきっとケンカが好きなんだね。
+ \n
+Oi, I bet you're the kinda punk who gets \n
+off on pickin' fights! 
 <$0C>
-off on pickin' fights!
+//分かるんだ、僕には分かる、 \nちょっと怖いよ。
+...Sure, sure. Whatever you want. But I \n
+know how you scare-bear types are. 
 <$0C>
-//分かるんだ、僕には分かる、\nちょっと怖いよ。
-...Sure, sure.\n
-Whatever you want.\n
-But I know how you
-<$0C>
-scare-bear types are.
-<$0C>
-//でも本当はやさしい人なんだよね、\n誰かを守るために生まれてきたんだね。
-Deep down, you're a\n
-softie too, with your\n
-own someone you were
-<$0C>
-born to protect. 
+//でも本当はやさしい人なんだよね、 \n誰かを守るために生まれてきたんだね。
+Deep down, you're a softie too, with \n
+your own someone you were born to \n
+protect. 
 <$1E>
 //早
-早
+早 
 <$00>
 
 // Pos: 00003707
@@ -168,30 +143,21 @@ born to protect.
 #WHB(PTR, $00000931)
 
 <$10><$13><$19>
-//あんたは顔のこと、気にしたりしてるんでしょ。\n分かるんだ、僕にはお見通しだよ。
-You put a lot of\n
-focus on your face,\n
-huh. I understand. I
+//あんたは顔のこと、気にしたりしてるんでしょ。 \n分かるんだ、僕にはお見通しだよ。
+You put a lot of focus on your face, huh. \n
+I understand. I see right through you! 
 <$0C>
-see right through you!
-<$0C>
-//顔とか見かけにこだわるんだよね、\nでも本当はすごく寂しがり屋さん。
-You worry about your\n
-face and appearance\n
-for others, but while
-<$0C>
-you put others first,\n
-you're lonely.
+//顔とか見かけにこだわるんだよね、 \nでも本当はすごく寂しがり屋さん。
+You worry about your face and \n
+appearance for others, but while you \n
+put others first, you're lonely. 
 <$0C>
 //あんたは誰かの相談相手だったんでしょ。
-That tells me you\n
-vied to be a shoulder\n
-for someone to lean
-<$0C>
-on.
+That tells me you vied to be a shoulder \n
+for someone to lean on.
 <$1E>
 //早
-早
+早 
 <$00>
 
 // Pos: 00003778
@@ -204,46 +170,36 @@ on.
 //リンダ：
 Linda:
 <$0D>
-//\nあらー、アタシに用？
-\n
-My, are you looking\n
-for me?
+// \nあらー、アタシに用？
+ \n
+My, are you looking for me? 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nそうじゃないのねー、顔？\nねぇ、あなたもその顔、なんとかするのー。
-\n
-Why the long face,\n
-then? You know, you
-<$0C>
-should do something\n
-about that.
+// \nそうじゃないのねー、顔？ \nねぇ、あなたもその顔、なんとかするのー。
+ \n
+Why the long face, then? You know, \n
+you should do something about that. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nだったらあっち、リャンハウス、\n整形屋ねー。
-\n
-If you want to fix\n
-you, you can get
-<$0C>
-cosmetic surgery at\n
-House Liang.
+// \nだったらあっち、リャンハウス、 \n整形屋ねー。
+ \n
+If you want to fix you, you can get \n
+cosmetic surgery at House Liang. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nそっち、ナイトプラネット、\nケチな酒場ねー。あっちとそっちよー。
-\n
-If you'd rather\n
-forget you, you can
-<$0C>
-blow your money at\n
-NIGHT PLANET!
+// \nそっち、ナイトプラネット、 \nケチな酒場ねー。あっちとそっちよー。
+ \n
+If you'd rather forget you, you can \n
+blow your money at NIGHT PLANET!
 <$1E>
 //〇
-〇
+〇 
 <$00>
 
 // Pos: 00003805
@@ -256,15 +212,13 @@ NIGHT PLANET!
 //リンダ：
 Linda:
 <$0D>
-//\nここはねー、ちょっとねー、\nいやな部屋よー、焦げ臭いのー。
-\n
-This flat here's\n
-disgusting. It smells
-<$0C>
+// \nここはねー、ちょっとねー、 \nいやな部屋よー、焦げ臭いのー。
+ \n
+This flat here's disgusting. It smells \n
 burnt for God's sake!
 <$1E>
 //〇
-〇
+〇 
 <$00>
 
 // Pos: 00003832
@@ -273,61 +227,55 @@ burnt for God's sake!
 
 #WHB(PTR, $00001851)
 
-
+ 
 <$00><$18><$00>
 //ぁセ。
-ぁセ。
+ぁセ。 
 <$00><$00><$00>
-//チャーリー、ごちそう、ごちそう。\nもうすぐ、ごちそう、ごちそう。
-FEED CHARLIE. FEED\n
-CHARLIE.\n
-NOW. NOW. FEED
-<$0C>
-CHARLIE NOW.
+//チャーリー、ごちそう、ごちそう。 \nもうすぐ、ごちそう、ごちそう。
+FEED CHARLIE. FEED CHARLIE. \n
+NOW. NOW. FEED CHARLIE NOW.
 <$1A>
 //ヒ
-ヒ
+ヒ 
 <$00><$00><$00><$18><$00>
 //ぁば
-ぁば
+ぁば 
 <$1B><$00><$00><$00>
-//チャーリー、見つけた、ごちそう、\n見つけた。
-CHARLIE SEES YOU.\n
-FEED CHARLIE. CHARLIE\n
-SEES YOU.
+//チャーリー、見つけた、ごちそう、 \n見つけた。
+CHARLIE SEES YOU. FEED CHARLIE. \n
+CHARLIE SEES YOU.
 <$1A>
 //ぁ
-ぁ
+ぁ 
 <$00><$00><$00><$18><$00>
 //ぁほ
-ぁほ
+ぁほ 
 <$1D><$00><$00><$00>
-//チャーリー、食べたい、ごちそう、\n食べたい。
-CHARLIE'S HUNGRY.\n
-FEED HUNGRY CHARLIE.
+//チャーリー、食べたい、ごちそう、 \n食べたい。
+CHARLIE'S HUNGRY. FEED HUNGRY \n
+CHARLIE.
 <$1A>
 //も
-も
+も 
 <$00><$00><$00><$18><$00>
 //ぽM
-ぽM
+ぽM 
 <$1A><$00><$00><$00>
 //チャーリー、考える、ごちそう、考える。
-FEED CHARLIE. CHARLIE\n
-KNOWS. CHARLIE KNOWS.
+FEED CHARLIE. CHARLIE KNOWS. \n
+CHARLIE KNOWS.
 <$1A>
 //あ
-あ
+あ 
 <$00><$00><$00><$18><$00>
 //ぽホ
-ぽホ
+ぽホ 
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE\n
-ALWAYS KNEW.
+CHARLIE KNEW. CHARLIE ALWAYS KNEW. 
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
-CHARLIE'S AWAKE!\n
-CHARLIE'S AWAKE!
+CHARLIE'S AWAKE! CHARLIE'S AWAKE! 
 <$00>
 

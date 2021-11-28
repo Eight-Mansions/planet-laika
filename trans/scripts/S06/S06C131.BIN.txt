@@ -12,8 +12,7 @@
 #WHB(PTR, $000002B5)
 
 //輪イプリル…あなたね…
-輪April, is that\n
-you...?
+輪April, is that you...? 
 <$00>
 
 // Pos: 00000824
@@ -22,12 +21,10 @@ you...?
 
 #WHB(PTR, $000002D9)
 
-//演と愛いエイプリル…\nあなたがこんなに近くにいるなんて…\nうれしいわ…エイプリル…私のエイプリル…
-演とMy darling April...\n
-I'm so happy you're\n
-near.
-<$0C>
-April, my April...
+//演と愛いエイプリル… \nあなたがこんなに近くにいるなんて… \nうれしいわ…エイプリル…私のエイプリル…
+演とMy darling April... \n
+I'm so happy you're near. \n
+April, my April... 
 <$00>
 
 // Pos: 00000859
@@ -40,10 +37,10 @@ April, my April...
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nエイプリル、そっちじゃないみたいね！
-\n
-Sorry, April! Nothing\n
-over there either!
+// \nエイプリル、そっちじゃないみたいね！
+ \n
+Sorry, April! Nothing over there \n
+either! 
 <$00>
 
 // Pos: 00000877
@@ -56,13 +53,10 @@ over there either!
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nねぇ、町の中に入ってみましょう。
-\n
-That's it for up\n
-here! It's time we
-<$0C>
-looked inside the\n
-town.
+// \nねぇ、町の中に入ってみましょう。
+ \n
+That's it for up here! It's time we \n
+looked inside the town. 
 <$00>
 
 // Pos: 00000896
@@ -75,9 +69,8 @@ town.
 //エイプリル：
 April:
 <$0D>
-//\n誰の声なの… 私のこと…
-\n
-That voice again...\n
-It did call my name.
+// \n誰の声なの… 私のこと…
+ \n
+That voice again... It did call my name. 
 <$00>
 

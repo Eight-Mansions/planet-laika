@@ -15,56 +15,46 @@
 //ダミアヌス：
 Damian:
 <$0D>
-//\nふふふ、あんたもやるじゃない。\nレッドのやつ、とうとうおかしくなったよ。
-\n
-Heehee, so you've\n
-seen it too now! Red
-<$0C>
-has finally lost his\n
-mind.
+// \nふふふ、あんたもやるじゃない。 \nレッドのやつ、とうとうおかしくなったよ。
+ \n
+Heehee, so you've seen it too now! Red \n
+has finally lost his mind. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\nおかえしだね、これまでさんざん…\nふふふ、もっと他にも楽しみたいでしょ。
-\n
-And now, he's on the\n
-revenge path. It'll
+// \nおかえしだね、これまでさんざん… \nふふふ、もっと他にも楽しみたいでしょ。
+ \n
+And now, he's on the revenge path. It'll \n
+get even more fun for you from here on
 <$0C>
-get even more fun for\n
-you from here on out.
+out. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\n頭のいいあんたならサイコハウスで\nいいことあるよ、ほんとさ。
-\n
-If you're really\n
-smart, you'll go over
-<$0C>
-to Psycho Lab.
+// \n頭のいいあんたならサイコハウスで \nいいことあるよ、ほんとさ。
+ \n
+If you're really smart, you'll go over to \n
+Psycho Lab. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\nまだチャンスはあるね、ふふふ、\nみんなおかしくなればいい、
-\n
-We still have a\n
-chance, don't we?
-<$0C>
-It'll be fun driving\n
-everyone up the wall.
+// \nまだチャンスはあるね、ふふふ、 \nみんなおかしくなればいい、
+ \n
+We still have a chance, don't we? It'll be \n
+fun driving everyone up the wall. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\nみんなみんなだよ。
-\n
-Up the wall, up the\n
-wall!
+// \nみんなみんなだよ。
+ \n
+Up the wall, up the wall!
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00002172
@@ -77,32 +67,27 @@ wall!
 //レッド：
 Red:
 <$0D>
-//\nへへへへ、俺は気が変わったんだ、\nさあ、入れ！
-\n
-Hehehe, change of\n
-plans. Get inside!
+// \nへへへへ、俺は気が変わったんだ、 \nさあ、入れ！
+ \n
+Hehehe, change of plans. Get inside! 
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-//\nお前を痛めつける代わりに、\nたっぷり可愛がってやる。
-\n
-Instead of hurting\n
-you, I'm going to
-<$0C>
-love on you big time.
+// \nお前を痛めつける代わりに、 \nたっぷり可愛がってやる。
+ \n
+Instead of hurting you, I'm going to \n
+love on you big time. 
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-//\nぐずぐずするな、入るんだ！
-\n
-Grr, don't just stand\n
-there, get in the
-<$0C>
+// \nぐずぐずするな、入るんだ！
+ \n
+Grr, don't just stand there, get in the \n
 damn house!
 <$1E>
 //中
-中
+中 
 <$00>
 

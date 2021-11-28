@@ -15,16 +15,13 @@
 //リンダ：
 Linda:
 <$0D>
-//\nあらー、あなたも催眠術するのー、されるのー。\n気をつけないとねー。おかしくなるよー。
-\n
-Are you going to try\n
-hypnotherapy too? It
-<$0C>
-sounds so shady,\n
-but...
+// \nあらー、あなたも催眠術するのー、されるのー。 \n気をつけないとねー。おかしくなるよー。
+ \n
+Are you going to try hypnotherapy \n
+too? It sounds so shady, but...
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000017EA
@@ -37,27 +34,21 @@ but...
 //リンダ：
 Linda:
 <$0D>
-//\nあたしもよー、アガタとお話してからー、\nおかしくなったのー。
-\n
-...I went to Agatha\n
-about it myself. And
-<$0C>
-yeah, she's weird in\n
-general.
+// \nあたしもよー、アガタとお話してからー、 \nおかしくなったのー。
+ \n
+...I went to Agatha about it myself. And \n
+yeah, she's weird in general. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nなんて言うかー、この星が何かたくらんでるって\n気になったのー。変ねー。
-\n
-She said, "The planet\n
-is plotting
-<$0C>
-something." Isn't\n
-that weird?!
+// \nなんて言うかー、この星が何かたくらんでるって \n気になったのー。変ねー。
+ \n
+She said, "The planet is plotting \n
+something." Isn't that weird?!
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 00001842
@@ -70,47 +61,40 @@ that weird?!
 //ラミー：
 Rummy:
 <$0D>
-//\nびっくりしたな、綠の光だな、\n頭に入ってきたな、僕はラミーだな。
-\n
-The green flashing in\n
-my head caught me by
-<$0C>
-surprise... Ah,\n
-right. I'm Rummy!
+// \nびっくりしたな、綠の光だな、 \n頭に入ってきたな、僕はラミーだな。
+ \n
+The green flashing in my head caught \n
+me by surprise... Ah, right. I'm Rummy! 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\nあんた、ここで何してるな。
-\n
-What are you doing\n
-here?
+// \nあんた、ここで何してるな。
+ \n
+What are you doing here? 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\n僕はこの世界のからくりを考えてるな。\nふたつのことが、どこかでつながってるな。
-\n
-I'm trying to figure\n
-out how the world
+// \n僕はこの世界のからくりを考えてるな。 \nふたつのことが、どこかでつながってるな。
+ \n
+I'm trying to figure out how the world \n
+works, but maybe those two are
 <$0C>
-works, but maybe\n
-those two are\n
-connected...
+connected... 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\nふたつのどちらを知りたいですか？
-\n
-Which of the two\n
-would you like to
-<$0C>
+// \nふたつのどちらを知りたいですか？
+ \n
+Which of the two would you like to \n
 know about?
 <$1B>
-//．コスマスのこと\nエレミヤのこと
-．Cosmas\n
-Jeremiah
+//．コスマスのこと \nエレミヤのこと
+．Cosmas
+<$0C>
+Jeremiah 
 <$00><$17><$00>
 
 // Pos: 000018E4
@@ -123,35 +107,28 @@ Jeremiah
 //ラミー：
 Rummy:
 <$0D>
-//\nそうだな、コスマスだな。
-\n
-Hoho, yes. Dear,\n
-little Cosmas.
+// \nそうだな、コスマスだな。
+ \n
+Hoho, yes. Dear, little Cosmas. 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\nあいつは心のトモダチとお話ししてるな、\n今もだな、お話の最中だな。
-\n
-He's always talking\n
-with the friend in
-<$0C>
-his head. He doesn't\n
-hide it either.
+// \nあいつは心のトモダチとお話ししてるな、 \n今もだな、お話の最中だな。
+ \n
+He's always talking with the friend in \n
+his head. He doesn't hide it either. 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\n窓のわきにいると開こえてくるな、\n声だな、お話の声だな。
-\n
-If you ever peek\n
-through the back
-<$0C>
-alley window, no one\n
-hides anything there.
+// \n窓のわきにいると開こえてくるな、 \n声だな、お話の声だな。
+ \n
+If you ever peek through the back alley \n
+window, no one hides anything there.
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00001954
@@ -164,48 +141,41 @@ hides anything there.
 //ラミー：
 Rummy:
 <$0D>
-//\nとうに死んだ流刑者だな、\n預言を残したな。
-\n
-He was an exile who\n
-died a long time ago,
+// \nとうに死んだ流刑者だな、 \n預言を残したな。
+ \n
+He was an exile who died a long time \n
+ago, a-ha! But, he left behind the
 <$0C>
-a-ha! But, he left\n
-behind the prophecies.
+prophecies. 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\nマコトの双子が現れて、\n人類が再生するんだな。
-\n
-The prophecies say\n
-that the Twins of
+// \nマコトの双子が現れて、 \n人類が再生するんだな。
+ \n
+The prophecies say that the Twins of \n
+Truth will appear, and that humanity
 <$0C>
-Truth will appear,\n
-and that humanity\n
-will be reborn.
+will be reborn. 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\n再生って、どうするんだかな、\nわからないな。
-\n
-I don't know what\n
-"reborn" means in
-<$0C>
-this case.
+// \n再生って、どうするんだかな、 \nわからないな。
+ \n
+I don't know what "reborn" means in \n
+this case. 
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-//\nふたつのこと、つながってるな、\n僕の読みだな。
-\n
-Still, I can't shake\n
-the idea that those
-<$0C>
+// \nふたつのこと、つながってるな、 \n僕の読みだな。
+ \n
+Still, I can't shake the idea that those \n
 two are connected.
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 000019E1
@@ -218,16 +188,13 @@ two are connected.
 //ラミー：
 Rummy:
 <$0D>
-//\n考えすぎだな、\n頭がぼんやりしてきたな。
-\n
-You know, nothing\n
-clouds the head
-<$0C>
-better than\n
-overthinking, a-ha!
+// \n考えすぎだな、 \n頭がぼんやりしてきたな。
+ \n
+You know, nothing clouds the head \n
+better than overthinking, a-ha!
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 
 // Pos: 00001A03
@@ -240,28 +207,23 @@ overthinking, a-ha!
 //トミー：
 Tommy:
 <$0D>
-//\nよう、兄ちゃんよう、\nリトルのやつのこと、知ってるか？\nあいつ、神様こさえてるんだ、ひゃ！神様だ。
-\n
-Hey, do you know that\n
-dispensary employee
+// \nよう、兄ちゃんよう、 \nリトルのやつのこと、知ってるか？ \nあいつ、神様こさえてるんだ、ひゃ！神様だ。
+ \n
+Hey, do you know that dispensary \n
+employee named Little? He thinks he
 <$0C>
-named Little? He\n
-thinks he can talk to\n
-God!
+can talk to God! 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nこさえた神様にお祈りしてるんだ、\nあるか、そんなもん！
-\n
-Not everyone wants to\n
-go meeting their
-<$0C>
-maker, but Little\n
-sure does!
+// \nこさえた神様にお祈りしてるんだ、 \nあるか、そんなもん！
+ \n
+Not everyone wants to go meeting \n
+their maker, but Little sure does!
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00001A6C
@@ -274,27 +236,23 @@ sure does!
 //トミー：
 Tommy:
 <$0D>
-//\nリトルのやつな、声がひっくり返って、\n神様神様だ、へん！\nこさえた神様がなんになる？
-\n
-Hehe, that Little guy\n
-trying to accomplish
+// \nリトルのやつな、声がひっくり返って、 \n神様神様だ、へん！ \nこさえた神様がなんになる？
+ \n
+Hehe, that Little guy trying to \n
+accomplish with crying, "God! God!
 <$0C>
-with crying, "God!\n
-God! GOD!"
+GOD!" 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nやっぱりあいつにも、別な誰かがいるんだ。\nきっとな。\n心の中に用意してるんだ。建いないぜ。
-\n
-It just doesn't sound\n
-like him. No way.
-<$0C>
-It's like someone\n
-else is in his brain.
+// \nやっぱりあいつにも、別な誰かがいるんだ。 \nきっとな。 \n心の中に用意してるんだ。建いないぜ。
+ \n
+It just doesn't sound like him. No way. \n
+It's like someone else is in his brain.
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00001AE6
@@ -303,61 +261,55 @@ else is in his brain.
 
 #WHB(PTR, $000007F1)
 
-
+ 
 <$00><$18><$00>
 //ぁセ。
-ぁセ。
+ぁセ。 
 <$00><$00><$00>
-//チャーリー、ごちそう、ごちそう。\nもうすぐ、ごちそう、ごちそう。
-FEED CHARLIE. FEED\n
-CHARLIE.\n
-NOW. NOW. FEED
-<$0C>
-CHARLIE NOW.
+//チャーリー、ごちそう、ごちそう。 \nもうすぐ、ごちそう、ごちそう。
+FEED CHARLIE. FEED CHARLIE. \n
+NOW. NOW. FEED CHARLIE NOW.
 <$1A>
 //ヒ
-ヒ
+ヒ 
 <$00><$00><$00><$18><$00>
 //ぁば
-ぁば
+ぁば 
 <$1B><$00><$00><$00>
-//チャーリー、見つけた、ごちそう、\n見つけた。
-CHARLIE SEES YOU.\n
-FEED CHARLIE. CHARLIE\n
-SEES YOU.
+//チャーリー、見つけた、ごちそう、 \n見つけた。
+CHARLIE SEES YOU. FEED CHARLIE. \n
+CHARLIE SEES YOU.
 <$1A>
 //ぁ
-ぁ
+ぁ 
 <$00><$00><$00><$18><$00>
 //ぁほ
-ぁほ
+ぁほ 
 <$1D><$00><$00><$00>
-//チャーリー、食べたい、ごちそう、\n食べたい。
-CHARLIE'S HUNGRY.\n
-FEED HUNGRY CHARLIE.
+//チャーリー、食べたい、ごちそう、 \n食べたい。
+CHARLIE'S HUNGRY. FEED HUNGRY \n
+CHARLIE.
 <$1A>
 //も
-も
+も 
 <$00><$00><$00><$18><$00>
 //ぽM
-ぽM
+ぽM 
 <$1A><$00><$00><$00>
 //チャーリー、考える、ごちそう、考える。
-FEED CHARLIE. CHARLIE\n
-KNOWS. CHARLIE KNOWS.
+FEED CHARLIE. CHARLIE KNOWS. \n
+CHARLIE KNOWS.
 <$1A>
 //あ
-あ
+あ 
 <$00><$00><$00><$18><$00>
 //ぽホ
-ぽホ
+ぽホ 
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE\n
-ALWAYS KNEW.
+CHARLIE KNEW. CHARLIE ALWAYS KNEW. 
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
-CHARLIE'S AWAKE!\n
-CHARLIE'S AWAKE!
+CHARLIE'S AWAKE! CHARLIE'S AWAKE! 
 <$00>
 

@@ -15,25 +15,20 @@
 //フェイ：
 Feng:
 <$0D>
-//\n簡単なことなのよ。\nヴァニティフェイスで性格が良くなって、\n悪意が無くなる。
-\n
-A Vanity Face can\n
-safely better your
-<$0C>
-dispostion and remove\n
-ill will.
+// \n簡単なことなのよ。 \nヴァニティフェイスで性格が良くなって、 \n悪意が無くなる。
+ \n
+A Vanity Face can safely better your \n
+dispostion and remove ill will. 
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-//\nそれでもう安心。 蕃判だの奇跡だの、\n何が起きても変なふうにならずに済むのよ。\n強くなれるのよ。
-\n
-This miracle of\n
-Judgement will make
+// \nそれでもう安心。 蕃判だの奇跡だの、 \n何が起きても変なふうにならずに済むのよ。 \n強くなれるのよ。
+ \n
+This miracle of Judgement will make \n
+you strong. It'll keep you from feeling
 <$0C>
-you strong. It'll\n
-keep you from feeling\n
-not like your self.
+not like your self. 
 <$00>
 
 // Pos: 00002172
@@ -46,10 +41,9 @@ not like your self.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n私が先に入るわ。 後に続いて。
-\n
-I'll go in first. You\n
-should follow.
+// \n私が先に入るわ。 後に続いて。
+ \n
+I'll go in first. You should follow. 
 <$00>
 
 // Pos: 00002192
@@ -62,10 +56,9 @@ should follow.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n私が先に入るわ。 後に続いて。
-\n
-I'll go in first. You\n
-should follow.
+// \n私が先に入るわ。 後に続いて。
+ \n
+I'll go in first. You should follow. 
 <$00>
 
 // Pos: 000021B2
@@ -78,38 +71,30 @@ should follow.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nヴェロニカはフェイを\n取り込もうとしてるみたいね。\nどうするのかしら…
-\n
-It seems Veronica is\n
-trying to absorb
+// \nヴェロニカはフェイを \n取り込もうとしてるみたいね。 \nどうするのかしら…
+ \n
+It seems Veronica is trying to absorb \n
+Feng. I'm not sure how to feel about
 <$0C>
-Feng. I'm not sure\n
-how to feel about\n
-that.
+that. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nそれにしても心の悪を照らす鏡だなんて、\nイヤな話ね。
-\n
-On top of that, I\n
-don't like the idea
-<$0C>
-of a mirror that\n
-illuminates a mind's\n
-evil.
+// \nそれにしても心の悪を照らす鏡だなんて、 \nイヤな話ね。
+ \n
+On top of that, I don't like the idea of a \n
+mirror that illuminates a mind's evil. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nそんな鏡、どこにあるのかしら。\n鏡のことはフェイに\nそれとなく開いてみるしかなさそうね。
-\n
-And where would one\n
-find such a mirror?
+// \nそんな鏡、どこにあるのかしら。 \n鏡のことはフェイに \nそれとなく開いてみるしかなさそうね。
+ \n
+And where would one find such a \n
+mirror? I've no choice but to ask Feng
 <$0C>
-I've no choice but to\n
-ask Feng about it\n
-later.
+about it later. 
 <$00>
 
 // Pos: 00002249
@@ -122,9 +107,9 @@ later.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nあっ！
-\n
-Ah!
+// \nあっ！
+ \n
+Ah! 
 <$00>
 
 // Pos: 00002259
@@ -137,24 +122,18 @@ Ah!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nいけない… ヘロデが目を覚ましたの。\n悪夢の世界で眠れなくなると大変…
-\n
-Damn! Herod woke\n
-up... He cannot rest
-<$0C>
-when in the Land of\n
-Nightmares.
+// \nいけない… ヘロデが目を覚ましたの。 \n悪夢の世界で眠れなくなると大変…
+ \n
+Damn! Herod woke up... He cannot rest \n
+when in the Land of Nightmares. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nこっちに戻れなくなるのよ。\n彼は悪夢の住人なの。もう行かなきゃ。
-\n
-But, he cannot stay\n
-here. He is a dweller
-<$0C>
-of the Land of\n
-Nightmares. I must go.
+// \nこっちに戻れなくなるのよ。 \n彼は悪夢の住人なの。もう行かなきゃ。
+ \n
+But, he cannot stay here. He is a dweller \n
+of the Land of Nightmares. I must go. 
 <$00>
 
 // Pos: 000022C2
@@ -167,12 +146,10 @@ Nightmares. I must go.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nねぇ、何かエイプリルの持ち物ない？
-\n
-By the way, does\n
-April have any
-<$0C>
-personal belongings?
+// \nねぇ、何かエイプリルの持ち物ない？
+ \n
+By the way, does April have any \n
+personal belongings? 
 <$00>
 
 // Pos: 000022E2
@@ -185,51 +162,41 @@ personal belongings?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nそう… 私、物の記憶が読めるの…。
-\n
-You see, I can peer\n
-into a person simply
-<$0C>
-by looking at their\n
-personal effects.
+// \nそう… 私、物の記憶が読めるの…。
+ \n
+You see, I can peer into a person simply \n
+by looking at their personal effects. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n物を見るだけで、いろんなようすが\n目に浮かんでくるの。\n物はいろんなことを教えてくれる…
-\n
-When I see an object,\n
-various other images
-<$0C>
-related to it will\n
-pour into me.
+// \n物を見るだけで、いろんなようすが \n目に浮かんでくるの。 \n物はいろんなことを教えてくれる…
+ \n
+When I see an object, various other \n
+images related to it will pour into me. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nでもここじゃダメね、集中できないから。
-\n
-It demands my full\n
-concentration, so
+// \nでもここじゃダメね、集中できないから。
+ \n
+It demands my full concentration, so \n
+it's not a skill I can use out here in the
 <$0C>
-it's not a skill I\n
-can use out here in\n
-the street.
+street. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n何か私に見せたい物があるときは、\n私の部屋に来て。 テレビのそばにある\nクリスタルボールに触れてみて。
-\n
-If you wish to see\n
-me, come to my room.
+// \n何か私に見せたい物があるときは、 \n私の部屋に来て。 テレビのそばにある \nクリスタルボールに触れてみて。
+ \n
+If you wish to see me, come to my room. \n
+Touch the crystal ball near the
 <$0C>
-Touch the crystal\n
-ball near the\n
 television.
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 000023A9
@@ -242,12 +209,10 @@ television.
 //リンダ：
 Linda:
 <$0D>
-//\nここの人、\nみんなあさっての方向見ちゃってるのよねー。
-\n
-The people here have\n
-to keep their eyes on
-<$0C>
-the road ahead.
+// \nここの人、 \nみんなあさっての方向見ちゃってるのよねー。
+ \n
+The people here have to keep their \n
+eyes on the road ahead. 
 <$00>
 
 // Pos: 000023CF
@@ -260,44 +225,38 @@ the road ahead.
 //リンダ：
 Linda:
 <$0D>
-//\nリトルって知ってるよね、\nあの人もあさって組よー。
-\n
-You know Little,\n
-right? He keeps his
-<$0C>
-eyes on the road too.
+// \nリトルって知ってるよね、 \nあの人もあさって組よー。
+ \n
+You know Little, right? He keeps his \n
+eyes on the road too. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\n気味の悪い顔のお化けを神様だなんて、ねー。\nどうしちゃったの。
-\n
-But then again, he\n
-thinks some
+// \n気味の悪い顔のお化けを神様だなんて、ねー。 \nどうしちゃったの。
+ \n
+But then again, he thinks some \n
+awful-looking ghoul is God. Like,
 <$0C>
-awful-looking ghoul\n
-is God. Like, what?
+what? 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nあー嫌だ嫌だ、
-\n
-Eh, I can't say I'm a\n
-fan.
+// \nあー嫌だ嫌だ、
+ \n
+Eh, I can't say I'm a fan. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nあんたも変なやつらと\n付き合わない方がいいよー。
-\n
-For your own sake, I\n
-suggest you avoid his
-<$0C>
-ilk like the plague.
+// \nあんたも変なやつらと \n付き合わない方がいいよー。
+ \n
+For your own sake, I suggest you avoid \n
+his ilk like the plague.
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 00002457
@@ -310,17 +269,15 @@ ilk like the plague.
 //リンダ：
 Linda:
 <$0D>
-//\nあさって、あさって…\nあさってが来なかったら、ねー、どうしよう…
-\n
-Tomorrow, the day\n
-after, and the day
+// \nあさって、あさって… \nあさってが来なかったら、ねー、どうしよう…
+ \n
+Tomorrow, the day after, and the day \n
+after that... If they don't come, what'll
 <$0C>
-after that... If they\n
-don't come, what'll\n
 we do...?
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 00002484
@@ -333,12 +290,10 @@ we do...?
 //リンダ：
 Linda:
 <$0D>
-//\nあらー、もう話つけたのー、\n予約でも入れたのー。
-\n
-Oh, did you make a\n
-booking already? Why
-<$0C>
-didn't you say so?
+// \nあらー、もう話つけたのー、 \n予約でも入れたのー。
+ \n
+Oh, did you make a booking already? \n
+Why didn't you say so? 
 <$00>
 
 // Pos: 000024A9
@@ -351,27 +306,23 @@ didn't you say so?
 //リンダ：
 Linda:
 <$0D>
-//\nねぇー、ここー、寝る時間でもないのに\n消灯時間ですーっていうのよー。
-\n
-You know, those beds\n
-likes to say,
+// \nねぇー、ここー、寝る時間でもないのに \n消灯時間ですーっていうのよー。
+ \n
+You know, those beds likes to say, \n
+"LIGHTS-OUT!" even when it's not time
 <$0C>
-"LIGHTS-OUT!" even\n
-when it's not time\n
-for bed.
+for bed. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\n変ねー、朝でもそうなのー。
-\n
-It's weird, right?\n
-It'll even do it in
-<$0C>
-the morning!
+// \n変ねー、朝でもそうなのー。
+ \n
+It's weird, right? It'll even do it in the \n
+morning!
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000024F5
@@ -384,17 +335,15 @@ the morning!
 //リンダ：
 Linda:
 <$0D>
-//\n変ねー、いつでも消灯時間だなんてねー、\nあのベッドがこわれてるのよー。
-\n
-How weird. It's\n
-always lights-out
+// \n変ねー、いつでも消灯時間だなんてねー、 \nあのベッドがこわれてるのよー。
+ \n
+How weird. It's always lights-out \n
+time, feels like. Maybe those beds are
 <$0C>
-time, feels like.\n
-Maybe those beds are\n
 busted.
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 00002529
@@ -407,25 +356,21 @@ busted.
 //リンダ：
 Linda:
 <$0D>
-//\nねーねー、いいこと、教えてあげるよー、\n顔のこと。ヴァニティフェイス、
-\n
-Hey, let me tell you\n
-something good. It's
-<$0C>
-about Vanity Face.
+// \nねーねー、いいこと、教えてあげるよー、 \n顔のこと。ヴァニティフェイス、
+ \n
+Hey, let me tell you something good. \n
+It's about Vanity Face. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nどうやって作るか、知ってる？
-\n
-Do you know how a\n
-Vanity Face is made?
+// \nどうやって作るか、知ってる？
+ \n
+Do you know how a Vanity Face is made?
 <$1B>
-//？知ってる\n知らない
-？Yes
-<$0C>
-No
+//？知ってる \n知らない
+？Yes \n
+No 
 <$00><$17><$00>
 
 // Pos: 0000257E
@@ -438,28 +383,23 @@ No
 //リンダ：
 Linda:
 <$0D>
-//\nうそばっかー。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
-\n
-You wouldn't believe\n
-it, but it's a cloth!
+// \nうそばっかー。 \n布よ、ヴェロニカの布… \nあー、布をどうするー…
+ \n
+You wouldn't believe it, but it's a cloth! \n
+Veronica uses a cloth to create a Vanity
 <$0C>
-Veronica uses a cloth\n
-to create a Vanity\n
-Face.
+Face. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
-\n
-I'd tell you more,\n
-but Marrakech is on
-<$0C>
-my ass, and it's kind\n
-of killing my mood.
+// \nそばにマラケシュがいると、 \nアタシ、うまくないのよー。 \n後で教えてあげるねー。
+ \n
+I'd tell you more, but Marrakech is on \n
+my ass, and it's kind of killing my mood.
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 000025DD
@@ -472,27 +412,21 @@ of killing my mood.
 //リンダ：
 Linda:
 <$0D>
-//\nすごいんだからー、すごいの。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
-\n
-It's amazing! The\n
-things Veronica can
-<$0C>
-do with that cloth of\n
-hers is stunning!
+// \nすごいんだからー、すごいの。 \n布よ、ヴェロニカの布… \nあー、布をどうするー…
+ \n
+It's amazing! The things Veronica can \n
+do with that cloth of hers is stunning! 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
-\n
-I'd tell you more,\n
-but Marrakech is on
-<$0C>
-my ass, and it's kind\n
-of killing my mood.
+// \nそばにマラケシュがいると、 \nアタシ、うまくないのよー。 \n後で教えてあげるねー。
+ \n
+I'd tell you more, but Marrakech is on \n
+my ass, and it's kind of killing my mood.
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 00002643
@@ -505,15 +439,12 @@ of killing my mood.
 //リンダ：
 Linda:
 <$0D>
-//\nヴァニティフェイスのこと、\n後でねー、教えてあげるー。
-\n
-I'll tell you all\n
-about Vanity Face
-<$0C>
-later.
+// \nヴァニティフェイスのこと、 \n後でねー、教えてあげるー。
+ \n
+I'll tell you all about Vanity Face later.
 <$1E>
 //〇
-〇
+〇 
 <$00>
 
 // Pos: 0000266C
@@ -526,89 +457,85 @@ later.
 //リンダ：
 Linda:
 <$0D>
-//\n蕃判なんてうそっぱちよー、\n焦る気持ちは分かるけどねー。
-\n
-That "Judgement" talk\n
-is straight-up
+// \n蕃判なんてうそっぱちよー、 \n焦る気持ちは分かるけどねー。
+ \n
+That "Judgement" talk is straight-up \n
+bullshit. People will freak out over
 <$0C>
-bullshit. People will\n
-freak out over\n
-anything.
+anything. 
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
-//\nみんな自信ないのよー、\nそれでおかしくなるのよー
-\n
-Everyone thinks their\n
-so helpless! Sad,
-<$0C>
+// \nみんな自信ないのよー、 \nそれでおかしくなるのよー
+ \n
+Everyone thinks their so helpless! Sad, \n
 don't you think?
 <$1E>
 //中
-中
+中 
 <$00><$10><$0B>
 //イースト：
 East:
 <$0D>
-//\nおい、どこ行く？
-\n
-Where are you going?
+// \nおい、どこ行く？
+ \n
+Where are you going? 
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-//\n知ってるだろ。
-\n
-You should know!
+// \n知ってるだろ。
+ \n
+You should know! 
 <$00><$10><$0B>
 //イースト：
 East:
 <$0D>
-//\nリトルさん。
-\n
-To Little?
+// \nリトルさん。
+ \n
+To Little? 
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-//\n居場所だ。
-\n
-To where they were!
+// \n居場所だ。
+ \n
+To where they were! 
 <$00><$10><$0B>
 //イースト：
 East:
 <$0D>
-//\n物音がした。
-\n
-Where the sounds were?
+// \n物音がした。
+ \n
+Where the sounds were? 
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-//\nロッジだ。
-\n
-To the lodge!
+// \nロッジだ。
+ \n
+To the lodge! 
 <$00><$10><$0B>
 //イースト：
 East:
 <$0D>
-//\nあいつらの。
-\n
-To everyone?
+// \nあいつらの。
+ \n
+To everyone? 
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-//\n連れてけ。
-\n
-Come along!
+// \n連れてけ。
+ \n
+Come along! 
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-//\n今すぐだ。
-\n
-There's no time!
+// \n今すぐだ。
+ \n
+There's no time! 
 <$00>
 

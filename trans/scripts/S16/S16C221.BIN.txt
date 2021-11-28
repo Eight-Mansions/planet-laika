@@ -15,13 +15,10 @@
 //スペーサー：
 Spacer:
 <$0D>
-//\nここは…なにもかもが逆の世界。\n悪夢の世界なのか。
-\n
-Everything in this\n
-world is reversed. Is
-<$0C>
-this the Land of\n
-Nightmares?
+// \nここは…なにもかもが逆の世界。 \n悪夢の世界なのか。
+ \n
+Everything in this world is reversed. Is \n
+this the Land of Nightmares? 
 <$00>
 
 // Pos: 00002DF9
@@ -34,22 +31,19 @@ Nightmares?
 //スペーサー：
 Spacer:
 <$0D>
-//\nアーネスト…やつならやりかねない。
-\n
-Ernie... Yeah, I can\n
-see him doing it.
+// \nアーネスト…やつならやりかねない。
+ \n
+Ernie... Yeah, I can see him doing it. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nやつは破壊と暴力に憑かれている。\n馬屋に火を放つくらい…
-\n
-With his obssession\n
-with power and
+// \nやつは破壊と暴力に憑かれている。 \n馬屋に火を放つくらい…
+ \n
+With his obssession with power and \n
+conflict, he could easily set fire to a
 <$0C>
-conflict, he could\n
-easily set fire to a\n
-stable.
+stable. 
 <$00>
 
 // Pos: 00002E46
@@ -62,12 +56,10 @@ stable.
 //アーネスト：
 Ernest:
 <$0D>
-//\nあああ、何でゆらゆらしてるんだ。\n夢でも見てるのか？
-\n
-Argh, my head keeps\n
-swaying. Was it from
-<$0C>
-that dream I saw?
+// \nあああ、何でゆらゆらしてるんだ。 \n夢でも見てるのか？
+ \n
+Argh, my head keeps swaying. Was it \n
+from that dream I saw? 
 <$00>
 
 // Pos: 00002E6E
@@ -80,27 +72,20 @@ that dream I saw?
 //アーネスト：
 Ernest:
 <$0D>
-//\nふん、あの女ならやりかねないぜ…
-\n
-Hmph. That woman... I\n
-can't imagine her
+// \nふん、あの女ならやりかねないぜ…
+ \n
+Hmph. That woman... I can't imagine \n
+her giving Vladimir tainted liquor to
 <$0C>
-giving Vladimir\n
-tainted liquor to\n
-drink before
-<$0C>
-breakfast.
+drink before breakfast. 
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-//\nウラジミールにインチキな酒飲ませることなど、\nヨランダにしちゃ朝メシ前だ、建いねぇ。
-\n
-But Yolanda? I\n
-suppose I can't wag
-<$0C>
-my finger, but she'd\n
-absolutely do that.
+// \nウラジミールにインチキな酒飲ませることなど、 \nヨランダにしちゃ朝メシ前だ、建いねぇ。
+ \n
+But Yolanda? I suppose I can't wag my \n
+finger, but she'd absolutely do that. 
 <$00>
 
 // Pos: 00002EC4
@@ -113,13 +98,10 @@ absolutely do that.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n夢よね、\nそうよ、アタシは悪い夢の中にいるのよ。
-\n
-I'm in a dream,\n
-aren't I. That's
-<$0C>
-right...this is only\n
-a bad dream.
+// \n夢よね、 \nそうよ、アタシは悪い夢の中にいるのよ。
+ \n
+I'm in a dream, aren't I. That's \n
+right...this is only a bad dream. 
 <$00>
 
 // Pos: 00002EEB
@@ -132,21 +114,18 @@ a bad dream.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nお利口さんのスペーサーなら考えつくことよ。
-\n
-I can see smartass\n
-Spacer doing it.
+// \nお利口さんのスペーサーなら考えつくことよ。
+ \n
+I can see smartass Spacer doing it. 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nそうよ、おろかなセルゲイに\n濡れ衣を着せるくらい簡単なこと…
-\n
-He'd have zero\n
-difficulty framing
+// \nそうよ、おろかなセルゲイに \n濡れ衣を着せるくらい簡単なこと…
+ \n
+He'd have zero difficulty framing that \n
+shit-for-brains Sergei for a serious
 <$0C>
-that shit-for-brains\n
-Sergei for a serious\n
-crime.
+crime. 
 <$00>
 

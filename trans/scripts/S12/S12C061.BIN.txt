@@ -18,21 +18,17 @@
 //道しるべ：
 Signpost:
 <$0D>
-//\nどこかで見たようなお前だな…
-\n
-I feel like I've seen\n
-you before...
+// \nどこかで見たようなお前だな…
+ \n
+I feel like I've seen you before... 
 <$0C><$0B>
 //道しるべ：
 Signpost:
 <$0D>
-//\nクロエちゃんに体をあげに来たのか？\nそうなのか？
-\n
-Have you come to\n
-offer your body to my
-<$0C>
-Chloe? Why else would\n
-you be here?
+// \nクロエちゃんに体をあげに来たのか？ \nそうなのか？
+ \n
+Have you come to offer your body to my \n
+Chloe? Why else would you be here? 
 <$00>
 
 // Pos: 000021AC
@@ -48,13 +44,10 @@ you be here?
 //道しるべ：
 Signpost:
 <$0D>
-//\nやっぱりだ、早くクロエちゃんに\n体をあげてくれ。待ってるぞ。
-\n
-Did I stutter? Hurry\n
-along and offer your
-<$0C>
-body to my Chloe!\n
-She's waiting!
+// \nやっぱりだ、早くクロエちゃんに \n体をあげてくれ。待ってるぞ。
+ \n
+Did I stutter? Hurry along and offer \n
+your body to my Chloe! She's waiting! 
 <$00>
 
 // Pos: 000021DA
@@ -70,13 +63,12 @@ She's waiting!
 //道しるべ：
 Signpost:
 <$0D>
-//\nクロエちゃんはキノコのおうちに住んでるんだ。\n用済みの体を分けてあげるんだ。
-\n
-My Chloe lives in the\n
-mushroom house. Give
+// \nクロエちゃんはキノコのおうちに住んでるんだ。 \n用済みの体を分けてあげるんだ。
+ \n
+My Chloe lives in the mushroom house. \n
+Give her your body and serve your
 <$0C>
-her your body and\n
-serve your purpose.
+purpose. 
 <$00>
 
 // Pos: 00002211
@@ -92,31 +84,25 @@ serve your purpose.
 //道しるべ：
 Signpost:
 <$0D>
-//\nあああ、右目は痛い…\n左目は涙でいっぱい…
-\n
-Oh, my right eye\n
-hurts... My left eye
-<$0C>
-is welling of tears...
+// \nあああ、右目は痛い… \n左目は涙でいっぱい…
+ \n
+Oh, my right eye hurts... My left eye is \n
+welling of tears... 
 <$0C><$0B>
 //道しるべ：
 Signpost:
 <$0D>
-//\nクロエちゃんは元気かな…
-\n
-I hope my Chloe's\n
-doing all right.
+// \nクロエちゃんは元気かな…
+ \n
+I hope my Chloe's doing all right. 
 <$0C><$0B>
 //道しるべ：
 Signpost:
 <$0D>
-//\n元気ならよかった、\nクロエちゃんがよかったならよかった。
-\n
-Is Chloe doing all\n
-right? Oh, I hope
-<$0C>
-she's happy. I hope\n
-she's so happy.
+// \n元気ならよかった、 \nクロエちゃんがよかったならよかった。
+ \n
+Is Chloe doing all right? Oh, I hope she's \n
+happy. I hope she's so happy. 
 <$00>
 
 // Pos: 00002277
@@ -132,14 +118,10 @@ she's so happy.
 //道しるべ：
 Signpost:
 <$0D>
-//\n右目の痛いのが収まったら平気。\n左目の涙が乾いたら通れる。
-\n
-If the pain in my\n
-right eye goes, it
-<$0C>
-stops. If the tears\n
-in my left eye stop,\n
-they go.
+// \n右目の痛いのが収まったら平気。 \n左目の涙が乾いたら通れる。
+ \n
+If the pain in my right eye goes, it stops. \n
+If the tears in my left eye stop, they go. 
 <$00>
 
 // Pos: 000022AB
@@ -155,21 +137,18 @@ they go.
 //道しるべ：
 Signpost:
 <$0D>
-//\n右目の痛いのは終わった。
-\n
-The pain in my right\n
-eye went and stopped.
+// \n右目の痛いのは終わった。
+ \n
+The pain in my right eye went and \n
+stopped. 
 <$0C><$0B>
 //道しるべ：
 Signpost:
 <$0D>
-//\nこれで平気、戻れる戻れる。\n左目の涙はまだ乾かない。まだ行けない。
-\n
-But it'll be back.\n
-The tears in my left
-<$0C>
-eye haven't stopped,\n
-so there's no going.
+// \nこれで平気、戻れる戻れる。 \n左目の涙はまだ乾かない。まだ行けない。
+ \n
+But it'll be back. The tears in my left eye \n
+haven't stopped, so there's no going. 
 <$00>
 
 // Pos: 000022FB
@@ -185,16 +164,12 @@ so there's no going.
 //道しるべ：
 Signpost:
 <$0D>
-//\n涙、たくさん。左目、涙、まだ乾かない。\n乾いたら戻れる、時間を戻れる。
-\n
-There's so many\n
-tears. My left eye is
+// \n涙、たくさん。左目、涙、まだ乾かない。 \n乾いたら戻れる、時間を戻れる。
+ \n
+There's so many tears. My left eye is \n
+tearful. Only when I can turn back the
 <$0C>
-tearful. Only when I\n
-can turn back the\n
-tears, can I turn
-<$0C>
-back time.
+tears, can I turn back time. 
 <$00>
 
 // Pos: 00002335
@@ -210,33 +185,26 @@ back time.
 //道しるべ：
 Signpost:
 <$0D>
-//\nやっと乾いた、涙が乾いた。
-\n
-They've finally\n
-dried. My tears have
-<$0C>
-finally dried.
+// \nやっと乾いた、涙が乾いた。
+ \n
+They've finally dried. My tears have \n
+finally dried. 
 <$0C><$0B>
 //道しるべ：
 Signpost:
 <$0D>
-//\n私がどうしてここにいるか、\nお前はまだ知らない、知らない。
-\n
-Why am I here? You\n
-don't know yet. You
-<$0C>
-still don't know.
+// \n私がどうしてここにいるか、 \nお前はまだ知らない、知らない。
+ \n
+Why am I here? You don't know yet. You \n
+still don't know. 
 <$0C><$0B>
 //道しるべ：
 Signpost:
 <$0D>
-//\n考えて、考えて、お前は利口になる。\n利口なら少し分かる、私の理由、少し分かる。
-\n
-Think, and you'll\n
-grow wiser. Think,
-<$0C>
-you might understand\n
-me a little.
+// \n考えて、考えて、お前は利口になる。 \n利口なら少し分かる、私の理由、少し分かる。
+ \n
+Think, and you'll grow wiser. Think, \n
+you might understand me a little. 
 <$00>
 
 // Pos: 000023B6
@@ -256,12 +224,10 @@ me a little.
 //道しるべ：
 Signpost:
 <$0D>
-//\nやっと涙が乾いた、\nこれで戻れる、スペーサー。
-\n
-My tears have dried\n
-up. It's time to turn
-<$0C>
-back, Spacer.
+// \nやっと涙が乾いた、 \nこれで戻れる、スペーサー。
+ \n
+My tears have dried up. It's time to turn \n
+back, Spacer. 
 <$00>
 
 // Pos: 000023DD
@@ -274,9 +240,9 @@ back, Spacer.
 //スペーサー：
 Spacer:
 <$0D>
-//\n戻れる？ どこへだ？
-\n
-Turn back? To where?
+// \n戻れる？ どこへだ？
+ \n
+Turn back? To where? 
 <$00>
 
 // Pos: 000023F5
@@ -292,10 +258,9 @@ Turn back? To where?
 //道しるべ：
 Signpost:
 <$0D>
-//\nようく考えて、考えて、考えて…
-\n
-Think. Think long and\n
-hard...
+// \nようく考えて、考えて、考えて…
+ \n
+Think. Think long and hard... 
 <$00>
 
 // Pos: 00002414
@@ -311,25 +276,20 @@ hard...
 //道しるべ：
 Signpost:
 <$0D>
-//\n考えたら、泣けてきた。\nああん、涙、また涙があふれてきた。
-\n
-When I thought long\n
-and hard, I started
+// \n考えたら、泣けてきた。 \nああん、涙、また涙があふれてきた。
+ \n
+When I thought long and hard, I \n
+started to cry again. Oh, the tears are
 <$0C>
-to cry again. Oh, the\n
-tears are welling up\n
-again...
+welling up again... 
 <$0C><$0B>
 //道しるべ：
 Signpost:
 <$0D>
-//\n戻る必要ない、それは悲しい…\n道しるべ、役立たずで悲しい。
-\n
-I shouldn't need to\n
-turn back. It's too
-<$0C>
-sad. A signpost is\n
-useless is it's sad.
+// \n戻る必要ない、それは悲しい… \n道しるべ、役立たずで悲しい。
+ \n
+I shouldn't need to turn back. It's too \n
+sad. A signpost is useless is it's sad. 
 <$00>
 
 // Pos: 00002471
@@ -345,15 +305,13 @@ useless is it's sad.
 //道しるべ：
 Signpost:
 <$0D>
-//\n考えて、決めてみろ。
-\n
-Are you ready to turn\n
-back?
+// \n考えて、決めてみろ。
+ \n
+Are you ready to turn back?
 <$1B>
-//？戻る\n戻らない
-？Yes
-<$0C>
-No
+//？戻る \n戻らない
+？Yes \n
+No 
 <$00><$17><$00>
 
 // Pos: 00002497
@@ -373,10 +331,9 @@ No
 //道しるべ：
 Signpost:
 <$0D>
-//\n役に立たない道しるべ。
-\n
-I'm a useless\n
-signpost.
+// \n役に立たない道しるべ。
+ \n
+I'm a useless signpost. 
 <$00>
 
 // Pos: 000024B2
@@ -392,12 +349,10 @@ signpost.
 //道しるべ：
 Signpost:
 <$0D>
-//\n少し昔だ、そこに戻れる。用意はいいぞ。
-/\n
-It's been a while.\n
-Let's prepare to turn
-<$0C>
-back.
+// \n少し昔だ、そこに戻れる。用意はいいぞ。
+/ \n
+It's been a while. Let's prepare to turn \n
+back. 
 <$00>
 
 // Pos: 000024D7
@@ -413,13 +368,10 @@ back.
 //道しるべ：
 Signpost:
 <$0D>
-//\nそれは残念、戻らないのは残念。\nチャンスは少ない。
-\n
-It's too bad. It's\n
-too bad we can't turn
-<$0C>
-back. Our chances are\n
-too slim.
+// \nそれは残念、戻らないのは残念。 \nチャンスは少ない。
+ \n
+It's too bad. It's too bad we can't turn \n
+back. Our chances are too slim. 
 <$00>
 
 // Pos: 00002503
@@ -432,12 +384,10 @@ too slim.
 //アーネスト：
 Ernest:
 <$0D>
-//\n戻る？ どこへだ？\n俺じゃいけねぇのか！
-/\n
-Turn back? Where\n
-could I possible go
-<$0C>
-back to?
+// \n戻る？ どこへだ？ \n俺じゃいけねぇのか！
+/ \n
+Turn back? Where could I possible go \n
+back to? 
 <$00>
 
 // Pos: 00002525
@@ -450,12 +400,10 @@ back to?
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n戻るって？ 帰れるの？\nあのお利口さんだけ？
-\n
-Turn back? Like, go\n
-home? Do I need the
-<$0C>
-smartass for this?
+// \n戻るって？ 帰れるの？ \nあのお利口さんだけ？
+ \n
+Turn back? Like, go home? Do I need the \n
+smartass for this? 
 <$00>
 
 // Pos: 0000254B
@@ -471,12 +419,10 @@ smartass for this?
 //道しるべ：
 Signpost:
 <$0D>
-//\n時を戻す道しるべ、\n左目が役に立つ。
-\n
-The left eye of the\n
-signpost before is
-<$0C>
-useful.
+// \n時を戻す道しるべ、 \n左目が役に立つ。
+ \n
+The left eye of the signpost before is \n
+useful. 
 <$00>
 
 // Pos: 00002571
@@ -492,13 +438,10 @@ useful.
 //道しるべ：
 Signpost:
 <$0D>
-//\nまた泣けてきた、\n涙がいっぱい、悲しくて。
-\n
-I started to cry\n
-again. The tears
-<$0C>
-won't stop. It's too\n
-sad.
+// \nまた泣けてきた、 \n涙がいっぱい、悲しくて。
+ \n
+I started to cry again. The tears won't \n
+stop. It's too sad. 
 <$00>
 
 // Pos: 00002596
@@ -511,10 +454,9 @@ sad.
 //アーネスト：
 Ernest:
 <$0D>
-//\nへん、勝手に泣いてろ！
-/\n
-Then you might as\n
-well cry!
+// \nへん、勝手に泣いてろ！
+/ \n
+Then you might as well cry! 
 <$00>
 
 // Pos: 000025B1
@@ -527,13 +469,10 @@ well cry!
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nあら残念、\n泣き虫じゃしょうがないわね。
-\n
-Sorry, 'cap. Even I\n
-have my limits on who
-<$0C>
-can cry on my\n
-shoulder.
+// \nあら残念、 \n泣き虫じゃしょうがないわね。
+ \n
+Sorry, 'cap. Even I have my limits on \n
+who can cry on my shoulder. 
 <$00><$10><$13>
 //く
 く
@@ -541,10 +480,9 @@ shoulder.
 //道しるべ：
 Signpost:
 <$0D>
-//\n役に立たない道しるべ。
-\n
-I'm a useless\n
-signpost.
+// \n役に立たない道しるべ。
+ \n
+I'm a useless signpost. 
 <$00>
 
 // Pos: 000025F0
@@ -557,10 +495,9 @@ signpost.
 //スペーサー：
 Spacer:
 <$0D>
-//\n私が仮の姿だというのか…
-\n
-What shape would I\n
-take...?
+// \n私が仮の姿だというのか…
+ \n
+What shape would I take...? 
 <$00>
 
 // Pos: 0000260B
@@ -576,13 +513,10 @@ take...?
 //道しるべ：
 Signpost:
 <$0D>
-//\nもう終わり、戻れない戻れない、\nどこにも戻れない。
-\n
-It's over. There's no\n
-turning back. There's
-<$0C>
-nowhere to turn back\n
-to.
+// \nもう終わり、戻れない戻れない、 \nどこにも戻れない。
+ \n
+It's over. There's no turning back. \n
+There's nowhere to turn back to. 
 <$00>
 
 // Pos: 00002635
@@ -595,45 +529,36 @@ to.
 //スペーサー：
 Spacer:
 <$0D>
-//\nあの時…\nそうだ、はじめてここに来たときだ…
-\n
-Back when we first\n
-came here...
+// \nあの時… \nそうだ、はじめてここに来たときだ…
+ \n
+Back when we first came here... 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nあの子、クロエの前でたしか…\nアーモンドの香りがどうしたとか。
-\n
-...that Chloe girl\n
-said something
-<$0C>
-about...the smell of\n
-almonds.
+// \nあの子、クロエの前でたしか… \nアーモンドの香りがどうしたとか。
+ \n
+...that Chloe girl said something \n
+about...the smell of almonds. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nあれは
-\n
+// \nあれは
+ \n
 But, if 
 <$0F>
-//ではなかった、\n別な誰かだ！
- doesn't\n
-smell like almonds,
-<$0C>
-who was she talking\n
-about?
+//ではなかった、 \n別な誰かだ！
+ doesn't smell like almonds, who \n
+was she talking about? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nもうあのときには戻れないのか？
-\n
-If only I could turn\n
-back time to make
-<$0C>
-sure...
+// \nもうあのときには戻れないのか？
+ \n
+If only I could turn back time to make \n
+sure... 
 <$00>
 
 // Pos: 000026BD
@@ -649,14 +574,12 @@ sure...
 //道しるべ：
 Signpost:
 <$0D>
-//\n戻るの終わり、もう終わり。\n戻るの終わり、戻れない。
-\n
-We're done with\n
-turning back. It's
+// \n戻るの終わり、もう終わり。 \n戻るの終わり、戻れない。
+ \n
+We're done with turning back. It's \n
+already over. We're done with turning
 <$0C>
-already over. We're\n
-done with turning\n
-back.
+back. 
 <$00>
 
 // Pos: 000026EA
@@ -669,10 +592,10 @@ back.
 //スペーサー：
 Spacer:
 <$0D>
-//\nもう一度あのときに戻れないのか？
-\n
-You wouldn't want to\n
-go back one more time?
+// \nもう一度あのときに戻れないのか？
+ \n
+You wouldn't want to go back one more \n
+time? 
 <$00>
 
 // Pos: 0000270A
@@ -688,12 +611,9 @@ go back one more time?
 //道しるべ：
 Signpost:
 <$0D>
-//\nもう終わり、戻るの終わり、戻れない。
-\n
-It's already over.\n
-We're done with
-<$0C>
-turning back. It's\n
-already over
+// \nもう終わり、戻るの終わり、戻れない。
+ \n
+It's already over. We're done with \n
+turning back. It's already over 
 <$00>
 

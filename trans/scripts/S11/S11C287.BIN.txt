@@ -15,24 +15,18 @@
 //リトル：
 Little:
 <$0D>
-//\nさあ、これからお前は\n自分に向き合う旅を始める、
-\n
-Come on. It's time\n
-for you to start your
-<$0C>
-journey to face the\n
-self.
+// \nさあ、これからお前は \n自分に向き合う旅を始める、
+ \n
+Come on. It's time for you to start your \n
+journey to face the self. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺は約束の場所に行く、そういうことだ。
-\n
-When I said, "We're\n
-goin' to the Promised
-<$0C>
-Land," that's what I\n
-meant.
+// \n俺は約束の場所に行く、そういうことだ。
+ \n
+When I said, "We're goin' to the \n
+Promised Land," that's what I meant. 
 <$00>
 
 // Pos: 00002082
@@ -45,50 +39,40 @@ meant.
 //リトル：
 Little:
 <$0D>
-//\n俺の頭の中で呼ぶ声が開こえるんだ…
-\n
-I can hear the voices\n
-callin' in my head.
+// \n俺の頭の中で呼ぶ声が開こえるんだ…
+ \n
+I can hear the voices callin' in my head. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n早く来い、約束の場所が待っているぞ、\n早く来いリトルってな。
-\n
-They're sayin',\n
-"Hurry, Little. We
-<$0C>
-await you in the\n
-Promised Land."
+// \n早く来い、約束の場所が待っているぞ、 \n早く来いリトルってな。
+ \n
+They're sayin', "Hurry, Little. We await \n
+you in the Promised Land." 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
-\n
-Goddammit, the voices\n
-only got worse and
-<$0C>
-worse after you came\n
-here.
+// \nちくしょう、その声はお前がやってきてから \nひどくなりやがったんだ。
+ \n
+Goddammit, the voices only got worse \n
+and worse after you came here. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nさあ、どこだ、俺を連れて行くんだ。
-\n
-So, where are you\n
-draggin' me?
+// \nさあ、どこだ、俺を連れて行くんだ。
+ \n
+So, where are you draggin' me? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nお前が連れていく、\n俺の頭の中じゃそうなってるんだ。
-\n
-I've got it in my\n
-head already that you
-<$0C>
-should lead.
+// \nお前が連れていく、 \n俺の頭の中じゃそうなってるんだ。
+ \n
+I've got it in my head already that you \n
+should lead. 
 <$00>
 
 // Pos: 0000213A
@@ -98,10 +82,10 @@ should lead.
 #WHB(PTR, $00000971)
 
 <$10><$13><$19><$0B><$0D>
-//あああ、用済み、\nそうさ、用済みの場所に行くんだ！
-Yes, I must go!\n
-To the place where I\n
-can serve my purpose!
+//あああ、用済み、 \nそうさ、用済みの場所に行くんだ！
+Yes, I must go! \n
+To the place where I can serve my \n
+purpose! 
 <$00>
 
 // Pos: 00002160
@@ -114,10 +98,9 @@ can serve my purpose!
 //リトル：
 Little:
 <$0D>
-//\nくそったれ！また前に出やがる！
-\n
-Goddammit, it's\n
-pourin' out again!
+// \nくそったれ！また前に出やがる！
+ \n
+Goddammit, it's pourin' out again! 
 <$00>
 
 // Pos: 00002179
@@ -130,21 +113,18 @@ pourin' out again!
 //リトル：
 Little:
 <$0D>
-//\nへへへ、金星人のドカンだ。
-\n
-Hehe, check out that\n
-Venusian surge, there.
+// \nへへへ、金星人のドカンだ。
+ \n
+Hehe, check out that Venusian surge, \n
+there. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nスペースルームのやつら、\nいかれちまったってワケだ。
-\n
-Those Psycho Lab bums\n
-pumped that into
-<$0C>
-their brains, and it\n
-broke 'em.
+// \nスペースルームのやつら、 \nいかれちまったってワケだ。
+ \n
+Those Psycho Lab bums pumped that \n
+into their brains, and it broke 'em. 
 <$00>
 
 // Pos: 000021B3
@@ -157,44 +137,35 @@ broke 'em.
 //リトル：
 Little:
 <$0D>
-//\n主人の家の門で腹を空かせる犬は\n国家の滅亡を言い当てる…
-\n
-"A dog starved at his\n
-master's gate.
-<$0C>
-Predicts the ruin of\n
-the state."
+// \n主人の家の門で腹を空かせる犬は \n国家の滅亡を言い当てる…
+ \n
+"A dog starved at his master's gate. \n
+Predicts the ruin of the state." 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nふっ、終末の暗示を含んだ詩だ。\nお前に分かるか？
-\n
-Hehe, do you know\n
-what that's from?
+// \nふっ、終末の暗示を含んだ詩だ。 \nお前に分かるか？
+ \n
+Hehe, do you know what that's from? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n金星人野郎の頭はこの詩であふれた。\nそして弾けた。
-\n
-A poem that surged\n
-into Psycho Lab's
+// \n金星人野郎の頭はこの詩であふれた。 \nそして弾けた。
+ \n
+A poem that surged into Psycho Lab's \n
+Venusian zealot brains until all their
 <$0C>
-Venusian zealot\n
-brains until all\n
-their brains popped.
+brains popped. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n逃げようたって無理なんだ、\nこの星にいる限りはな。
-\n
-At the end of the\n
-day, no one livin' on
-<$0C>
-this planet can run\n
-from its ruin.
+// \n逃げようたって無理なんだ、 \nこの星にいる限りはな。
+ \n
+At the end of the day, no one livin' on this \n
+planet can run from its ruin. 
 <$00>
 
 // Pos: 00002257
@@ -207,15 +178,12 @@ from its ruin.
 //リトル：
 Little:
 <$0D>
-//\nへっ、他にもお前に話したいやつがいるのか。\n無線テレビだ、そうだそうだ。
-\n
-Oi, if you want to\n
-talk with anyone, go
-<$0C>
-play with that\n
-monitor, got it?
+// \nへっ、他にもお前に話したいやつがいるのか。 \n無線テレビだ、そうだそうだ。
+ \n
+Oi, if you want to talk with anyone, go \n
+play with that monitor, got it?
 <$1E>
 //家
-家
+家 
 <$00>
 

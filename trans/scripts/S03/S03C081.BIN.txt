@@ -15,12 +15,10 @@
 //スペーサー：
 Spacer:
 <$0D>
-//\n惑じる…異質な空気だ…\nそれに…なにか臭う…
-\n
-I'm getting a weird\n
-vibe from this...
-<$0C>
-Something's fishy.
+// \n惑じる…異質な空気だ… \nそれに…なにか臭う…
+ \n
+I'm getting a weird vibe from this... \n
+Something's fishy. 
 <$00>
 
 // Pos: 00002D65
@@ -33,10 +31,9 @@ Something's fishy.
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nさあ、鏡の前に来るのだ。
-\n
-Stand before the\n
-mirror!
+// \nさあ、鏡の前に来るのだ。
+ \n
+Stand before the mirror! 
 <$00>
 
 // Pos: 00002D82
@@ -49,25 +46,23 @@ mirror!
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nそうだ、
-\n
+// \nそうだ、
+ \n
 Very good, 
 <$0F>
-//。\n今度は鏡に触れてみろ。
-.\n
-Now, touch the mirror.
+//。 \n今度は鏡に触れてみろ。
+. \n
+Now, touch the mirror. 
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nたまった悪でお前は人格変容するぞ。\n自分を映して自分でなくなる、ひょひょひょ。
-\n
-It won't reflect your\n
-current self, but the
+// \nたまった悪でお前は人格変容するぞ。 \n自分を映して自分でなくなる、ひょひょひょ。
+ \n
+It won't reflect your current self, but \n
+the self of the evil you've harbored,
 <$0C>
-self of the evil\n
-you've harbored,\n
-hyohyo!
+hyohyo! 
 <$00>
 
 // Pos: 00002DE0
@@ -80,31 +75,28 @@ hyohyo!
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nこれはおどろいたぞ、ひょひょ…
-\n
-Now, this is\n
-surprising, hyohyo!
+// \nこれはおどろいたぞ、ひょひょ…
+ \n
+Now, this is surprising, hyohyo! 
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
-//や、\nお前の心は思ったよりうんと寒々しいぞ。
-, your heart is even\n
-darker than I thought!
+//や、 \nお前の心は思ったよりうんと寒々しいぞ。
+, your heart is even darker than I \n
+thought! 
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\n全てが止まり、色を失っているぞ…
-\n
-Everything is frozen\n
-in place. Its color
-<$0C>
-is all gone.
+// \n全てが止まり、色を失っているぞ…
+ \n
+Everything is frozen in place. Its color \n
+is all gone. 
 <$00>
 
 // Pos: 00002E45
@@ -117,15 +109,13 @@ is all gone.
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\n現れた！\n
-\n
-Ah, there you are!\n
-And who are you,
-<$0C>
+// \n現れた！ \n
+ \n
+Ah, there you are! And who are you, \n
 friend of 
 <$0F>
 //ではない、お前は誰だ？
-?
+? 
 <$00>
 
 // Pos: 00002E67
@@ -138,10 +128,9 @@ friend of
 //アーネスト：
 Ernest:
 <$0D>
-//\nおう、俺はアーネストだ。\nお前こそ何だ？
-\n
-It's Ernest. What do\n
-you want?
+// \nおう、俺はアーネストだ。 \nお前こそ何だ？
+ \n
+It's Ernest. What do you want? 
 <$00>
 
 // Pos: 00002E88
@@ -154,12 +143,10 @@ you want?
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nひょひょひょ！ アーネストか、\n見るからにお前はアニマル系だな。
-\n
-Hyoyohyo! Ernest, is\n
-it? I see you're an
-<$0C>
-Animal type.
+// \nひょひょひょ！ アーネストか、 \n見るからにお前はアニマル系だな。
+ \n
+Hyoyohyo! Ernest, is it? I see you're an \n
+Animal type. 
 <$00>
 
 // Pos: 00002EB8
@@ -172,12 +159,10 @@ Animal type.
 //アーネスト：
 Ernest:
 <$0D>
-//\nうるせぇ、俺は開いてるんだ！\nお前は誰だ、さっきもいやがったな！
-\n
-Either you'll shut\n
-up, or you'll answer
-<$0C>
-my question.
+// \nうるせぇ、俺は開いてるんだ！ \nお前は誰だ、さっきもいやがったな！
+ \n
+Either you'll shut up, or you'll answer \n
+my question. 
 <$00>
 
 // Pos: 00002EE7
@@ -190,15 +175,13 @@ my question.
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\n見えていたのか！\n
-\n
-You can see me,\n
-right? Do you see me
-<$0C>
+// \n見えていたのか！ \n
+ \n
+You can see me, right? Do you see me \n
 through 
 <$0F>
 //の時も、表が見えていたのか！
-'s eyes?
+'s eyes? 
 <$00>
 
 // Pos: 00002F10
@@ -211,28 +194,26 @@ through
 //アーネスト：
 Ernest:
 <$0D>
-//\nはっきりじゃねぇ、\nぼんやりだ。
-\n
-Not clearly, no. It\n
-gets hazy.
+// \nはっきりじゃねぇ、 \nぼんやりだ。
+ \n
+Not clearly, no. It gets hazy. 
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-//\nお前が呼んだのか？
-\n
-Are you the one that\n
-called us?
+// \nお前が呼んだのか？
+ \n
+Are you the one that called us? 
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-//\n
-\n
+// \n
+ \n
 Did you call 
 <$0F>
-//を火星に呼んだのか、\nどうなんだ、答えろ！
- to Mars? Answer me!
+//を火星に呼んだのか、 \nどうなんだ、答えろ！
+ to Mars? Answer me! 
 <$00>
 
 // Pos: 00002F65
@@ -245,23 +226,20 @@ Did you call
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\n呼んでなどいないぞ、アーネスト。\n鋭命の輪が回り始めたのだ、ひょひょひょ。
-\n
-I didn't call you.\n
-The wheels of fate
+// \n呼んでなどいないぞ、アーネスト。 \n鋭命の輪が回り始めたのだ、ひょひょひょ。
+ \n
+I didn't call you. The wheels of fate \n
+have started turning on their own,
 <$0C>
-have started turning\n
-on their own, hyohyo!
+hyohyo! 
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nさあ、自分自身を実惑するのだアーネスト。
-\n
-You're finally ready\n
-to find a true sense
-<$0C>
-of self, Ernest.
+// \nさあ、自分自身を実惑するのだアーネスト。
+ \n
+You're finally ready to find a true \n
+sense of self, Ernest. 
 <$00>
 
 // Pos: 00002FC4
@@ -274,27 +252,21 @@ of self, Ernest.
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\n私は鏡の中にいる、\n鏡の中でお前を待つぞ、ひょひょ。
-\n
-I'm inside the\n
-mirror. I'm waiting
-<$0C>
-for you from inside\n
-the mirror, hyohyo!
+// \n私は鏡の中にいる、 \n鏡の中でお前を待つぞ、ひょひょ。
+ \n
+I'm inside the mirror. I'm waiting for \n
+you from inside the mirror, hyohyo! 
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
-//に戻るのはたやすいぞ。\n戻るか、どうするか？\n戻るのなら鏡に触れてみろ
- can shift back\n
-easily here. If you'd
-<$0C>
-like to rest, touch\n
-the mirror.
+//に戻るのはたやすいぞ。 \n戻るか、どうするか？ \n戻るのなら鏡に触れてみろ
+ can shift back easily here. If you'd like \n
+to rest, touch the mirror. 
 <$00>
 
 // Pos: 00003027
@@ -307,12 +279,9 @@ the mirror.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n誰なの？ 鏡の中にいるの？\nなんだか気味が悪いわ。
-\n
-Who are you? Are you\n
-inside the mirror?
-<$0C>
-That's...not creepy\n
-at all.
+// \n誰なの？ 鏡の中にいるの？ \nなんだか気味が悪いわ。
+ \n
+Who are you? Are you inside the \n
+mirror? That's...not creepy at all. 
 <$00>
 

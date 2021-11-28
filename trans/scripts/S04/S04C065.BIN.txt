@@ -15,9 +15,9 @@
 //イースト：
 East:
 <$0D>
-//\nおい、どこ行く？
-\n
-Where are you going?
+// \nおい、どこ行く？
+ \n
+Where are you going? 
 <$00>
 
 // Pos: 000012E7
@@ -30,9 +30,9 @@ Where are you going?
 //ウェスト：
 West:
 <$0D>
-//\n知ってるだろ。
-\n
-You should know!
+// \n知ってるだろ。
+ \n
+You should know! 
 <$00>
 
 // Pos: 000012F9
@@ -45,9 +45,9 @@ You should know!
 //イースト：
 East:
 <$0D>
-//\nリトルさん。
-\n
-To Little?
+// \nリトルさん。
+ \n
+To Little? 
 <$00>
 
 // Pos: 00001309
@@ -60,9 +60,9 @@ To Little?
 //ウェスト：
 West:
 <$0D>
-//\n居場所だ。
-\n
-To where they were!
+// \n居場所だ。
+ \n
+To where they were! 
 <$00>
 
 // Pos: 0000131B
@@ -75,9 +75,9 @@ To where they were!
 //イースト：
 East:
 <$0D>
-//\n物音がした。
-\n
-Where the sounds were?
+// \n物音がした。
+ \n
+Where the sounds were? 
 <$00>
 
 // Pos: 0000132D
@@ -90,9 +90,9 @@ Where the sounds were?
 //ウェスト：
 West:
 <$0D>
-//\nロッジだ。
-\n
-To the lodge!
+// \nロッジだ。
+ \n
+To the lodge! 
 <$00>
 
 // Pos: 0000133C
@@ -105,9 +105,9 @@ To the lodge!
 //イースト：
 East:
 <$0D>
-//\nあいつらの。
-\n
-To everyone?
+// \nあいつらの。
+ \n
+To everyone? 
 <$00>
 
 // Pos: 0000134C
@@ -120,9 +120,9 @@ To everyone?
 //ウェスト：
 West:
 <$0D>
-//\n連れてけ。
-\n
-Come along!
+// \n連れてけ。
+ \n
+Come along! 
 <$00>
 
 // Pos: 0000135C
@@ -135,8 +135,8 @@ Come along!
 //ウェスト：
 West:
 <$0D>
-//\n今すぐだ。
-\n
-There's no time!
+// \n今すぐだ。
+ \n
+There's no time! 
 <$00>
 

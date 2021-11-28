@@ -15,9 +15,9 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nちょっと、そこどいてよ。
-\n
-Wait, someone's here?!
+// \nちょっと、そこどいてよ。
+ \n
+Wait, someone's here?! 
 <$00>
 
 // Pos: 000017A7
@@ -30,22 +30,18 @@ Wait, someone's here?!
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\nだめだ。\n町には入れない、シーシー。
-\n
-Turn away. Can't\n
-enter town, whoosh,
-<$0C>
-whoosh.
+// \nだめだ。 \n町には入れない、シーシー。
+ \n
+Turn away. Can't enter town, whoosh, \n
+whoosh. 
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\n坑道はふさがってる、\n酸索はもう十分だ、シーシー。
-\n
-Mineshaft closed.\n
-Little oxygen left,
-<$0C>
-whoosh, whoosh.
+// \n坑道はふさがってる、 \n酸索はもう十分だ、シーシー。
+ \n
+Mineshaft closed. Little oxygen left, \n
+whoosh, whoosh. 
 <$00>
 
 // Pos: 000017FA
@@ -58,13 +54,10 @@ whoosh, whoosh.
 //エイプリル：
 April:
 <$0D>
-//\n酸索石じゃないの、仲間をさがしてるの。\nお願い。
-\n
-We're not after\n
-oxygenite. We're
-<$0C>
-looking for our\n
-friends.
+// \n酸索石じゃないの、仲間をさがしてるの。 \nお願い。
+ \n
+We're not after oxygenite. We're \n
+looking for our friends. 
 <$00>
 
 // Pos: 00001823
@@ -77,9 +70,9 @@ friends.
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\n仲間はいない。
-\n
-We have no "friends".
+// \n仲間はいない。
+ \n
+We have no "friends". 
 <$00>
 
 // Pos: 0000183D
@@ -92,12 +85,10 @@ We have no "friends".
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何言ってんのよ！\nあんたの仲間じゃないのよ。
-\n
-Not for you, dummy!\n
-April, say their
-<$0C>
-names please.
+// \n何言ってんのよ！ \nあんたの仲間じゃないのよ。
+ \n
+Not for you, dummy! April, say their \n
+names please. 
 <$00>
 
 // Pos: 00001861
@@ -110,12 +101,10 @@ names please.
 //エイプリル：
 April:
 <$0D>
-//\nタトラー、ヌーン、\nこの名前を開いたことはない？
-\n
-Tatler and Noon. Do\n
-either of those names
-<$0C>
-ring a bell?
+// \nタトラー、ヌーン、 \nこの名前を開いたことはない？
+ \n
+Tatler and Noon. Do either of those \n
+names ring a bell? 
 <$00>
 
 // Pos: 00001886
@@ -128,10 +117,9 @@ ring a bell?
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\nヌーン！\n…町長のことか！ 知り合いか？
-\n
-Noon...? Elder! You\n
-know Elder!
+// \nヌーン！ \n…町長のことか！ 知り合いか？
+ \n
+Noon...? Elder! You know Elder! 
 <$00>
 
 // Pos: 000018AF
@@ -144,9 +132,9 @@ know Elder!
 //エイプリル：
 April:
 <$0D>
-//\n町長？
-\n
-El...der?
+// \n町長？
+ \n
+El...der? 
 <$00>
 
 // Pos: 000018BF
@@ -159,12 +147,10 @@ El...der?
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nねえ、その町長さんはどこなの？
-\n
-Yes, that's our guy!\n
-Can you tell us where
-<$0C>
-your elder is?
+// \nねえ、その町長さんはどこなの？
+ \n
+Yes, that's our guy! Can you tell us \n
+where your elder is? 
 <$00>
 
 // Pos: 000018DC
@@ -177,10 +163,9 @@ your elder is?
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\n町長は町長屋敷だ。
-\n
-Elder lives in\n
-elder's cottage.
+// \n町長は町長屋敷だ。
+ \n
+Elder lives in elder's cottage. 
 <$00>
 
 // Pos: 000018FC
@@ -193,12 +178,10 @@ elder's cottage.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nその町長屋敷はどこなの？
-\n
-Oh. Right. And where\n
-is the elder's
-<$0C>
-residence, exactly?
+// \nその町長屋敷はどこなの？
+ \n
+Oh. Right. And where is the elder's \n
+residence, exactly? 
 <$00>
 
 // Pos: 00001918
@@ -211,10 +194,9 @@ residence, exactly?
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\n町長屋敷は一番奥だ。
-\n
-Center of town,\n
-Elder's cottage.
+// \n町長屋敷は一番奥だ。
+ \n
+Center of town, Elder's cottage. 
 <$00>
 
 // Pos: 0000193A
@@ -227,13 +209,10 @@ Elder's cottage.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n奥だそうよ。
-\n
-From how this town\n
-seems built, I'd
-<$0C>
-guess that's way in\n
-the back.
+// \n奥だそうよ。
+ \n
+From how this town seems built, I'd \n
+guess that's way in the back. 
 <$00>
 
 // Pos: 0000194D
@@ -246,13 +225,10 @@ the back.
 //エイプリル：
 April:
 <$0D>
-//\n私たち、ヌーン町長と約束があるの。\nだから通して。
-\n
-We, uhm...promised\n
-Elder Noon we would
-<$0C>
-meet him. Please let\n
-us pass!
+// \n私たち、ヌーン町長と約束があるの。 \nだから通して。
+ \n
+We, uhm...promised Elder Noon we \n
+would meet him. Please let us pass! 
 <$00>
 
 // Pos: 00001976
@@ -265,10 +241,10 @@ us pass!
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\n約束は開いていない、シーシー。
-\n
-Never heard promise,\n
-whoosh, whoosh.
+// \n約束は開いていない、シーシー。
+ \n
+Never heard promise, whoosh, \n
+whoosh. 
 <$00>
 
 // Pos: 00001999
@@ -281,10 +257,9 @@ whoosh, whoosh.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nねえちょっと、いい加減にしてよ。
-\n
-Jesus Lord, can we\n
-get this over with?!
+// \nねえちょっと、いい加減にしてよ。
+ \n
+Jesus Lord, can we get this over with?! 
 <$00>
 
 // Pos: 000019B7
@@ -297,33 +272,26 @@ get this over with?!
 //エイプリル：
 April:
 <$0D>
-//\nヌーンは町長なんかじゃないの！\n私たちの仲間なのよ。
-\n
-For real! Noon is NOT\n
-your elder! He's our
-<$0C>
-friend!
+// \nヌーンは町長なんかじゃないの！ \n私たちの仲間なのよ。
+ \n
+For real! Noon is NOT your elder! He's \n
+our friend! 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n彼はウデの立つ機関士で、\n私たちを地球に連れ戻してくれる、
-\n
-More importantly,\n
-he's the engineer we
-<$0C>
-need to fly us back\n
-to Earth!
+// \n彼はウデの立つ機関士で、 \n私たちを地球に連れ戻してくれる、
+ \n
+More importantly, he's the engineer \n
+we need to fly us back to Earth! 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nその話があるから来たの。これでいい？
-\n
-THAT'S why we're\n
-here! Are you happy
-<$0C>
-now?!
+// \nその話があるから来たの。これでいい？
+ \n
+THAT'S why we're here! Are you happy \n
+now?! 
 <$00>
 
 // Pos: 00001A2E
@@ -336,12 +304,10 @@ now?!
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\n住むわけではないのか、シーシーシーシー。
-\n
-Not moving in?\n
-Whoosh, whoosh,
-<$0C>
-whoosh.
+// \n住むわけではないのか、シーシーシーシー。
+ \n
+Not moving in? Whoosh, whoosh, \n
+whoosh. 
 <$00>
 
 // Pos: 00001A54
@@ -354,20 +320,17 @@ whoosh.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n帰るのよ！ 地球に。
-\n
-NOOO! WE. ARE. FROM.\n
-EARRRTH!
+// \n帰るのよ！ 地球に。
+ \n
+NOOO! WE. ARE. FROM. EARRRTH! 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nこんなとこに住みたいなんて、\n思うはずないじゃない！
-\n
-No one in their right\n
-mind wants to goddamn
-<$0C>
-live here!
+// \nこんなとこに住みたいなんて、 \n思うはずないじゃない！
+ \n
+No one in their right mind wants to \n
+goddamn live here! 
 <$00>
 
 // Pos: 00001A92
@@ -380,9 +343,9 @@ live here!
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\n通れ。
-\n
-...Come.
+// \n通れ。
+ \n
+...Come. 
 <$00>
 
 // Pos: 00001AA7
@@ -395,10 +358,9 @@ Oxygen Miner 1：
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\nシー、シー、やっぱりあやしい、シー。
-\n
-Whoosh, whoosh.\n
-Suspicious, whoosh!
+// \nシー、シー、やっぱりあやしい、シー。
+ \n
+Whoosh, whoosh. Suspicious, whoosh! 
 <$00>
 
 // Pos: 00001ACA
@@ -411,10 +373,9 @@ Suspicious, whoosh!
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何がよ、何があやしいの？
-\n
-Hey, the fuck you\n
-calling suspicious?
+// \n何がよ、何があやしいの？
+ \n
+Hey, the fuck you calling suspicious? 
 <$00>
 
 // Pos: 00001AE2
@@ -427,10 +388,10 @@ calling suspicious?
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\nシー、お前たち。\nここに住むつもりなんだろ、シー。
-\n
-Whoosh, you! You try\n
-to move in, whoosh!
+// \nシー、お前たち。 \nここに住むつもりなんだろ、シー。
+ \n
+Whoosh, you! You try to move in, \n
+whoosh! 
 <$00>
 
 // Pos: 00001B0D
@@ -443,10 +404,9 @@ to move in, whoosh!
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nそんなワケないじゃない、こんな…
-\n
-M-move in here?\n
-Absolutely not...
+// \nそんなワケないじゃない、こんな…
+ \n
+M-move in here? Absolutely not... 
 <$00>
 
 // Pos: 00001B29
@@ -459,10 +419,9 @@ Absolutely not...
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-//\nこんな、何だ？ シー。
-\n
-What do you want,\n
-whoosh?
+// \nこんな、何だ？ シー。
+ \n
+What do you want, whoosh? 
 <$00>
 
 // Pos: 00001B45
@@ -475,12 +434,9 @@ whoosh?
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nいいの。 あんたたちは幸せそうね。\n誰も邪魔しようなんて思っちゃいないから。\n安心して。
-\n
-Listen, I'm sure you\n
-guys are happy here.
-<$0C>
-No one's trying to\n
-dick with that.
+// \nいいの。 あんたたちは幸せそうね。 \n誰も邪魔しようなんて思っちゃいないから。 \n安心して。
+ \n
+Listen, I'm sure you guys are happy \n
+here. No one's trying to dick with that. 
 <$00>
 

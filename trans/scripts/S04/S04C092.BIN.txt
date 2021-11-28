@@ -15,12 +15,10 @@
 //リトル：
 Little:
 <$0D>
-//\nお前だったのか…\nふん、こそこそ何をかぎ回ってるんだ！
-\n
-Ah, there you are!\n
-What are you doing,
-<$0C>
-snoopin' around?!
+// \nお前だったのか… \nふん、こそこそ何をかぎ回ってるんだ！
+ \n
+Ah, there you are! What are you doing, \n
+snoopin' around?! 
 <$00>
 
 // Pos: 00001F3E
@@ -33,9 +31,9 @@ snoopin' around?!
 //エイプリル：
 April:
 <$0D>
-//\n知ってるの？ ライカのこと。
-\n
-Do you know Laika?
+// \n知ってるの？ ライカのこと。
+ \n
+Do you know Laika? 
 <$00>
 
 // Pos: 00001F58
@@ -48,10 +46,10 @@ Do you know Laika?
 //リトル：
 Little:
 <$0D>
-//\nいや、俺は何も知らない、\nそうだそうだ、何もな。
-\n
-No. I don't know any\n
-such person, got it?
+// \nいや、俺は何も知らない、 \nそうだそうだ、何もな。
+ \n
+No. I don't know any such person, got \n
+it? 
 <$00>
 
 // Pos: 00001F7A
@@ -64,13 +62,10 @@ such person, got it?
 //エイプリル：
 April:
 <$0D>
-//\nねぇ、どうしてここの人たちは、\nみんなぴりぴりしてるの？\n何かよくないことでもあるの？
-\n
-Why is everyone here\n
-so on edge then? You
-<$0C>
-can't ALL be hiding\n
-something!
+// \nねぇ、どうしてここの人たちは、 \nみんなぴりぴりしてるの？ \n何かよくないことでもあるの？
+ \n
+Why is everyone here so on edge then? \n
+You can't ALL be hiding something! 
 <$00>
 
 // Pos: 00001FB0
@@ -83,14 +78,12 @@ something!
 //リトル：
 Little:
 <$0D>
-//\nここはカンペキだ。何も悪いところはない。\n迷信に振り回されて大騒ぎしてるのは\nお前たちの方だ、ええ？
-\n
-Of course not!\n
-There's no evil
+// \nここはカンペキだ。何も悪いところはない。 \n迷信に振り回されて大騒ぎしてるのは \nお前たちの方だ、ええ？
+ \n
+Of course not! There's no evil afoot. \n
+The rumors and uproars are all
 <$0C>
-afoot. The rumors and\n
-uproars are all\n
-superstition!
+superstition! 
 <$00>
 
 // Pos: 00001FF2
@@ -103,14 +96,12 @@ superstition!
 //エイプリル：
 April:
 <$0D>
-//\n迷信？ メディスンマンから開いたのよ、\nイーブルマインドや黒い騎士の話。\nどこかで悪が大きく育っているのよ。
-\n
-Superstition? But\n
-even the medicine men
+// \n迷信？ メディスンマンから開いたのよ、 \nイーブルマインドや黒い騎士の話。 \nどこかで悪が大きく育っているのよ。
+ \n
+Superstition? But even the medicine \n
+men told us about Evil Mind and the
 <$0C>
-told us about Evil\n
-Mind and the Black\n
-Rider!
+Black Rider! 
 <$00>
 
 // Pos: 0000203C
@@ -123,48 +114,38 @@ Rider!
 //リトル：
 Little:
 <$0D>
-//\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
-\n
-How lovely. Then, you\n
-totally don't care
+// \nやけに威勢がいいな、ええ？ \n隣の倉庫を見たか？ あれが酸索石だ。 \nあれは俺たちが掘り出したものだ。
+ \n
+How lovely. Then, you totally don't \n
+care about what the warehouse next
 <$0C>
-about what the\n
-warehouse next door\n
-stores, right? Our
-<$0C>
-oxygenite?
+door stores, right? Our oxygenite? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nお前たちが見捨てたこの星は、\nあの酸索石でよみがえる。
-\n
-It is WE who used OUR\n
-oxygenite resources
+// \nお前たちが見捨てたこの星は、 \nあの酸索石でよみがえる。
+ \n
+It is WE who used OUR oxygenite \n
+resources to restore the planet YOU
 <$0C>
-to restore the planet\n
-YOU abandoned!
+abandoned! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-\n
-PROVING, see, that\n
-you are NOT so
-<$0C>
-indispensible, got it?
+// \n今さらお前らの手を借りる必要はない、 \nそうだそうだ。
+ \n
+PROVING, see, that you are NOT so \n
+indispensible, got it? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nこの星にはこの星なりのやり方がある、\nそういうことだ。
-\n
-Mars has its own way\n
-of doing things, and
-<$0C>
-we'll keep doing it\n
-ON OUR OWN.
+// \nこの星にはこの星なりのやり方がある、 \nそういうことだ。
+ \n
+Mars has its own way of doing things, \n
+and we'll keep doing it ON OUR OWN. 
 <$00>
 
 // Pos: 000020F5
@@ -173,29 +154,23 @@ ON OUR OWN.
 
 #WHB(PTR, $000003D1)
 
-
+ 
 <$00><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n分からない…\n迷信なら迷信でいいの。
-\n
-I don't understand. I\n
-mean, if all it was
-<$0C>
-were superstition,\n
-that'd be fine.
+// \n分からない… \n迷信なら迷信でいいの。
+ \n
+I don't understand. I mean, if all it was \n
+were superstition, that'd be fine. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nでも実際にザ・フェイスの上空で\nおかしな光に包まれたのよ。
-\n
-But even we saw it!\n
-The sky about the
-<$0C>
-Face was engulfed in\n
-a strange light!
+// \nでも実際にザ・フェイスの上空で \nおかしな光に包まれたのよ。
+ \n
+But even we saw it! The sky about the \n
+Face was engulfed in a strange light! 
 <$00>
 
 // Pos: 00002143
@@ -208,40 +183,32 @@ a strange light!
 //リトル：
 Little:
 <$0D>
-//\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
-\n
-Nothing happened to\n
-the Face. That
+// \nザ・フェイスには何の変化もない。 \nあれは滅んだ火星人の \n置きみやげみたいなもんだ。
+ \n
+Nothing happened to the Face. That \n
+thing's only a dumb souvenir left by the
 <$0C>
-thing's only a dumb\n
-souvenir left by the\n
-Martians.
+Martians. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nご希望とあらば、ザ・フェイスまで\n酸索パイプラインを敷いて観光名所にしたって\n構わないんだ、ええ、そうだそうだ。
-\n
-We laid out an\n
-oxygenite pipeline up
+// \nご希望とあらば、ザ・フェイスまで \n酸索パイプラインを敷いて観光名所にしたって \n構わないんだ、ええ、そうだそうだ。
+ \n
+We laid out an oxygenite pipeline up to \n
+the Face. It's now a tourist spot for you
 <$0C>
-to the Face. It's now\n
-a tourist spot for\n
-you Earthlings.
+Earthlings. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
-\n
-You all obsess over\n
-human faces so bad,
+// \n地球のやつら、人間の顔を拝みに \nはるばるやってくるだろう、 \nそうだそうだ、整形屋はおおはやりだ！
+ \n
+You all obsess over human faces so \n
+bad, you come out here, see it and then
 <$0C>
-you come out here,\n
-see it and then pay\n
-us for cosmetic
-<$0C>
-surgery!
+pay us for cosmetic surgery! 
 <$00>
 
 // Pos: 00002205
@@ -250,17 +217,15 @@ surgery!
 
 #WHB(PTR, $000004A5)
 
-
+ 
 <$00><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n私たちが着陸しようとしたとき…それに…
-\n
-So, the disruption we\n
-had when we tried to
-<$0C>
-land was only...
+// \n私たちが着陸しようとしたとき…それに…
+ \n
+So, the disruption we had when we \n
+tried to land was only... 
 <$00>
 
 // Pos: 00002225
@@ -273,13 +238,10 @@ land was only...
 //リトル：
 Little:
 <$0D>
-//\n操縦を誤っただけだ、よくあることだ、\nそうだそうだ。
-\n
-A fluke on your\n
-engineer's part. It
-<$0C>
-happens all the time,\n
-got it?
+// \n操縦を誤っただけだ、よくあることだ、 \nそうだそうだ。
+ \n
+A fluke on your engineer's part. It \n
+happens all the time, got it? 
 <$00>
 
 // Pos: 0000224B
@@ -292,24 +254,18 @@ got it?
 //エイプリル：
 April:
 <$0D>
-//\nそうね…分かったわ、\nはぐれたクルーを見つけて、
-\n
-I see. Then, I\n
-suppose we should
-<$0C>
-look for the rest of\n
-our crew,
+// \nそうね…分かったわ、 \nはぐれたクルーを見つけて、
+ \n
+I see. Then, I suppose we should look \n
+for the rest of our crew, 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nザ・フェイスに何も異変が見あたらなかったら\nさっさと引き揚げる、これでどう？
-\n
-and if nothing else\n
-happens to the Face,
-<$0C>
-we'll leave first\n
-thing. Fair?
+// \nザ・フェイスに何も異変が見あたらなかったら \nさっさと引き揚げる、これでどう？
+ \n
+and if nothing else happens to the Face, \n
+we'll leave first thing. Fair? 
 <$00>
 
 // Pos: 000022A2
@@ -322,12 +278,10 @@ thing. Fair?
 //リトル：
 Little:
 <$0D>
-//\n賢明だ。さっさとな、\nそれが賢明だ、そうだそうだ。
-\n
-Yes, fantastic even.\n
-And you said, "first
-<$0C>
-thing", got it?
+// \n賢明だ。さっさとな、 \nそれが賢明だ、そうだそうだ。
+ \n
+Yes, fantastic even. And you said, \n
+"first thing", got it? 
 <$00>
 
 // Pos: 000022C8
@@ -340,13 +294,12 @@ thing", got it?
 //エイプリル：
 April:
 <$0D>
-//\n船長と機関士がいないと\nロケットを飛ばせないのよ。
-\n
-But we won't fly the\n
-rocket without both
+// \n船長と機関士がいないと \nロケットを飛ばせないのよ。
+ \n
+But we won't fly the rocket without \n
+both our captain and our engineer,
 <$0C>
-our captain and our\n
-engineer, understand?
+understand? 
 <$00>
 
 // Pos: 000022F2
@@ -359,13 +312,10 @@ engineer, understand?
 //リトル：
 Little:
 <$0D>
-//\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
-\n
-Oi, if it speeds\n
-things up, I'll
-<$0C>
-dispatch a search\n
-party the mornin'.
+// \n仲間さがしには協力をおしまないつもりだ。 \n明日の朝にでも人手を出してやろう、 \nそうだそうだ。
+ \n
+Oi, if it speeds things up, I'll dispatch a \n
+search party the mornin'. 
 <$00>
 
 // Pos: 00002332
@@ -378,10 +328,9 @@ party the mornin'.
 //エイプリル：
 April:
 <$0D>
-//\nもう行っていい？
-\n
-But Laika and I need\n
-to look now!
+// \nもう行っていい？
+ \n
+But Laika and I need to look now! 
 <$00>
 
 // Pos: 00002346
@@ -394,15 +343,13 @@ to look now!
 //リトル：
 Little:
 <$0D>
-//\nあのふたりに送らせよう。
-\n
-...Hmph. Excuse me\n
-while I speak to the
-<$0C>
+// \nあのふたりに送らせよう。
+ \n
+...Hmph. Excuse me while I speak to the \n
 pair outside.
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 0000235F
@@ -415,23 +362,19 @@ pair outside.
 //エイプリル：
 April:
 <$0D>
-//\nあのふたりって…\nあの人たちのことね。
-\n
-Those two\n
-bouncers...sure are
-<$0C>
-two peas in a pod.
+// \nあのふたりって… \nあの人たちのことね。
+ \n
+Those two bouncers...sure are two \n
+peas in a pod. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nヒガシとニシからやってきて、\nコロニーに居着いたんだって。
-\n
-It's like they came\n
-from pure opposite
+// \nヒガシとニシからやってきて、 \nコロニーに居着いたんだって。
+ \n
+It's like they came from pure opposite \n
+sides of the world and came together
 <$0C>
-sides of the world\n
-and came together in\n
-the colony.
+in the colony. 
 <$00>
 

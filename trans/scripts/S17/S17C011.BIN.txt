@@ -15,24 +15,20 @@
 //フェイ：
 Feng:
 <$0D>
-//\nあははははは、\nアマンダは体を得たわ、私の体を。
-\n
-Ahaha! Amanda has\n
-claimed this body. MY
-<$0C>
-body!
+// \nあははははは、 \nアマンダは体を得たわ、私の体を。
+ \n
+Ahaha! Amanda has claimed this body. \n
+MY body! 
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-//\nそして私はアマンダを手に入れたの、\n美の全てを！ 私は美の権化となるの！
-\n
-Now that I have\n
-attained all of
+// \nそして私はアマンダを手に入れたの、 \n美の全てを！ 私は美の権化となるの！
+ \n
+Now that I have attained all of \n
+Amanda's beauty, I have become
 <$0C>
-Amanda's beauty, I\n
-have become beauty\n
-incarnate!
+beauty incarnate! 
 <$00>
 
 // Pos: 00002B15
@@ -45,13 +41,12 @@ incarnate!
 //フェニックス：
 Phoenix:
 <$0D>
-//\nこれが…鏡…蕃判の鏡なのか。\nこの鏡が映すのは真実なのか、\nそれともまやかしか…
-\n
-Is this...the Mirror\n
-of Judgement? Does it
+// \nこれが…鏡…蕃判の鏡なのか。 \nこの鏡が映すのは真実なのか、 \nそれともまやかしか…
+ \n
+Is this...the Mirror of Judgement? \n
+Does it reflect absolute truth...or
 <$0C>
-reflect absolute\n
-truth...or deception?
+deception? 
 <$00>
 
 // Pos: 00002B53
@@ -64,24 +59,18 @@ truth...or deception?
 //フェイ：
 Feng:
 <$0D>
-//\n体の次は何かしら。アマンダは欲が深いのよ。\nそうよね、アマンダ。
-\n
-Amanda, what next do\n
-you crave so deeply?
-<$0C>
-...Ah, yes. Of\n
-course, Amanda.
+// \n体の次は何かしら。アマンダは欲が深いのよ。 \nそうよね、アマンダ。
+ \n
+Amanda, what next do you crave so \n
+deeply? ...Ah, yes. Of course, Amanda. 
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-//\nあはははは、アマンダはこう言ってるわ、\n次は心だって。心が欲しいの！
-\n
-Ahaha! Amanda has\n
-spoken! Now that she
-<$0C>
-has a body, she\n
-desires a mind!
+// \nあはははは、アマンダはこう言ってるわ、 \n次は心だって。心が欲しいの！
+ \n
+Ahaha! Amanda has spoken! Now that \n
+she has a body, she desires a mind! 
 <$00>
 
 // Pos: 00002BAE
@@ -94,12 +83,10 @@ desires a mind!
 //フェニックス：
 Phoenix:
 <$0D>
-//\nエイプリル！\n君も鏡に取り込まれていたのか！
-\n
-April! You were\n
-absorbed by the
-<$0C>
-mirror too?!
+// \nエイプリル！ \n君も鏡に取り込まれていたのか！
+ \n
+April! You were absorbed by the mirror \n
+too?! 
 <$00>
 
 // Pos: 00002BD5
@@ -112,46 +99,38 @@ mirror too?!
 //フェイ：
 Feng:
 <$0D>
-//\nこの女の心が欲しい、\nアマンダは目を付けていたのよ。
-\n
-Amanda desires this\n
-woman's mind. Amanda
-<$0C>
-has eyes only for her.
+// \nこの女の心が欲しい、 \nアマンダは目を付けていたのよ。
+ \n
+Amanda desires this woman's mind. \n
+Amanda has eyes only for her. 
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-//\n最初から、目を付けていた…\n体はもういい、欲しいのは心よ。
-\n
-Amanda watched from\n
-the very beginning.
+// \n最初から、目を付けていた… \n体はもういい、欲しいのは心よ。
+ \n
+Amanda watched from the very \n
+beginning. Amanda has a body, but
 <$0C>
-Amanda has a body,\n
-but desires a mind.
+desires a mind. 
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-//\nこの女の心を手に入れて、\nアマンダは完成するのよ、\nそして私は永遠の存在になれるのよ。
-\n
-In taking this\n
-woman's mind, Amanda
+// \nこの女の心を手に入れて、 \nアマンダは完成するのよ、 \nそして私は永遠の存在になれるのよ。
+ \n
+In taking this woman's mind, Amanda \n
+will be complete, and I shall become an
 <$0C>
-will be complete, and\n
-I shall become an\n
-eternal existence.
+eternal existence. 
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-//\nあなたなんかに邪魔させるものですか、\n絶対に！
-\n
-Do you see now? You\n
-are only a
-<$0C>
-disturbance, and\n
-nothing more!
+// \nあなたなんかに邪魔させるものですか、 \n絶対に！
+ \n
+Do you see now? You are only a \n
+disturbance, and nothing more! 
 <$00>
 
 // Pos: 00002C89
@@ -160,10 +139,9 @@ nothing more!
 
 #WHB(PTR, $000004E5)
 
-//輪イプリル、私のエイプリル、\nずっとそう呼び続けてきたのよ。
-輪April, my April.\n
-I called for you all\n
-this time.
+//輪イプリル、私のエイプリル、 \nずっとそう呼び続けてきたのよ。
+輪April, my April. \n
+I called for you all this time. 
 <$00>
 
 // Pos: 00002CAB
@@ -176,13 +154,10 @@ this time.
 //フェニックス：
 Phoenix:
 <$0D>
-//\nお前は誰なんだ、アマンダ。\nエイプリルのママなのか… それとも…
-\n
-Amanda, who are you\n
-really? You're
-<$0C>
-not...April's mother,\n
-are you?
+// \nお前は誰なんだ、アマンダ。 \nエイプリルのママなのか… それとも…
+ \n
+Amanda, who are you really? You're \n
+not...April's mother, are you? 
 <$00>
 
 // Pos: 00002CDA
@@ -191,9 +166,8 @@ are you?
 
 #WHB(PTR, $00000511)
 
-//捨なたは私なのよ、エイプリル。\n私そのものなのよ。
-捨You are me, April.\n
-Me, my self.
+//捨なたは私なのよ、エイプリル。 \n私そのものなのよ。
+捨You are me, April. Me, my self. 
 <$00>
 
 // Pos: 00002CF5
@@ -203,7 +177,7 @@ Me, my self.
 #WHB(PTR, $000006A9)
 
 //捨はははははははははははははははははははは
-捨AHAHAHAHAHAHAHAHA!
+捨AHAHAHAHAHAHAHAHA! 
 <$00>
 
 // Pos: 00002D0C
@@ -216,28 +190,24 @@ Me, my self.
 //フェニックス：
 Phoenix:
 <$0D>
-//\n今のうちだ、エイプリル！
-\n
-Now's youre chance,\n
-April!
+// \n今のうちだ、エイプリル！
+ \n
+Now's youre chance, April! 
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-//\n鏡の力が弱まっているあいだに、\nそこから出るんだ。
-\n
-Get out of there now,\n
-while the mirror's
-<$0C>
-power is weakened!
+// \n鏡の力が弱まっているあいだに、 \nそこから出るんだ。
+ \n
+Get out of there now, while the \n
+mirror's power is weakened! 
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-//\n早く！ 早く、そこから出るんだ、\nこっちだ！
-\n
-Hurry! Get our of\n
-there now! This way!
+// \n早く！ 早く、そこから出るんだ、 \nこっちだ！
+ \n
+Hurry! Get our of there now! This way! 
 <$00>
 
 // Pos: 00002D73
@@ -250,10 +220,9 @@ there now! This way!
 //フェニックス：
 Phoenix:
 <$0D>
-//\nエイプリル… やはり君は…
-\n
-April. It's really\n
-you...
+// \nエイプリル… やはり君は…
+ \n
+April. It's really you... 
 <$00>
 
 // Pos: 00002D8E
@@ -266,20 +235,17 @@ you...
 //エイプリル：
 April:
 <$0D>
-//\nママが死んだとき、私は解放された…
-\n
-When my mom died, I\n
-was set free.
+// \nママが死んだとき、私は解放された…
+ \n
+When my mom died, I was set free. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n身勝手な愛から自由になったの。私は…
-\n
-I thought I'd find\n
-reprieve from her
-<$0C>
-selfish love, so I...
+// \n身勝手な愛から自由になったの。私は…
+ \n
+I thought I'd find reprieve from her \n
+selfish love, so I... 
 <$00>
 
 // Pos: 00002DCF
@@ -292,12 +258,10 @@ selfish love, so I...
 //フェニックス：
 Phoenix:
 <$0D>
-//\n鏡から生まれたというのは君なんだな。
-\n
-You forced yourself\n
-be born from the
-<$0C>
-mirror.
+// \n鏡から生まれたというのは君なんだな。
+ \n
+You forced yourself be born from the \n
+mirror. 
 <$00>
 
 // Pos: 00002DF1
@@ -310,22 +274,19 @@ mirror.
 //エイプリル：
 April:
 <$0D>
-//\n私は心のどこかでママがいなくなればいいと\n思っていたのよ、
-\n
-But the thing is, I\n
-was hoping my mom
+// \n私は心のどこかでママがいなくなればいいと \n思っていたのよ、
+ \n
+But the thing is, I was hoping my mom \n
+would leave me. I wished it with all my
 <$0C>
-would leave me. I\n
-wished it with all my\n
-heart.
+heart. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nそうよ、ママの死を望んでいたのよ！
-\n
-I mean it. I wanted\n
-my mom to die!
+// \nそうよ、ママの死を望んでいたのよ！
+ \n
+I mean it. I wanted my mom to die! 
 <$00>
 
 // Pos: 00002E38
@@ -338,22 +299,19 @@ my mom to die!
 //フェニックス：
 Phoenix:
 <$0D>
-//\nアマンダは鏡の精となり、\n君は鏡から生まれた…
-\n
-Amanda was a mirror\n
-spirit, but you
+// \nアマンダは鏡の精となり、 \n君は鏡から生まれた…
+ \n
+Amanda was a mirror spirit, but you \n
+pushed yourself out in her place.
 <$0C>
-pushed yourself out\n
-in her place. That's\n
-how you were born.
+That's how you were born. 
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-//\nということは…
-\n
-And when you did\n
-that...
+// \nということは…
+ \n
+And when you did that... 
 <$00>
 
 // Pos: 00002E73
@@ -366,13 +324,10 @@ that...
 //エイプリル：
 April:
 <$0D>
-//\nママが死んで、私は深い罪悪惑に\nさいなまれ続けたの。でも…
-\n
-My mom was dead, and\n
-still I was overcome
-<$0C>
-with a deep sense of\n
-guilt.
+// \nママが死んで、私は深い罪悪惑に \nさいなまれ続けたの。でも…
+ \n
+My mom was dead, and still I was \n
+overcome with a deep sense of guilt. 
 <$00>
 
 // Pos: 00002EA0
@@ -385,10 +340,10 @@ guilt.
 //フェニックス：
 Phoenix:
 <$0D>
-//\n君はアマンダの…
-\n
-Because you still\n
-heard Amanda's voice.
+// \n君はアマンダの…
+ \n
+Because you still heard Amanda's \n
+voice. 
 <$00>
 
 // Pos: 00002EB6
@@ -401,13 +356,10 @@ heard Amanda's voice.
 //エイプリル：
 April:
 <$0D>
-//\nでもあの声は建う、ママじゃない、\n誰か別の人よ！
-\n
-No, that's a\n
-different voice, not
-<$0C>
-mom's! It's someone\n
-else!
+// \nでもあの声は建う、ママじゃない、 \n誰か別の人よ！
+ \n
+No, that's a different voice, not mom's! \n
+It's someone else! 
 <$00>
 
 // Pos: 00002EDD
@@ -420,9 +372,9 @@ else!
 //フェニックス：
 Phoenix:
 <$0D>
-//\n分身なのか…
-\n
-Is it an alter ego...?
+// \n分身なのか…
+ \n
+Is it an alter ego...? 
 <$00>
 
 // Pos: 00002EF2
@@ -435,10 +387,10 @@ Is it an alter ego...?
 //エイプリル：
 April:
 <$0D>
-//\nあれはママじゃない！ 建うのよ！
-\n
-You're wrong. I said\n
-that's NOT my mom!
+// \nあれはママじゃない！ 建うのよ！
+ \n
+You're wrong. I said that's NOT my \n
+mom! 
 <$00>
 
 // Pos: 00002F0E
@@ -447,12 +399,9 @@ that's NOT my mom!
 
 #WHB(PTR, $00000BED)
 
-//老ーモンドの香り…\nうふふふふ、あなたは兵士、立派な兵士よ…
-Ah. the scent of\n
-almonds...\n
-Ohoho, what a good
-<$0C>
-soldier you are.
+//老ーモンドの香り… \nうふふふふ、あなたは兵士、立派な兵士よ…
+Ah. the scent of almonds... \n
+Ohoho, what a good soldier you are. 
 <$00>
 
 // Pos: 00002F35
@@ -465,12 +414,10 @@ soldier you are.
 //フェニックス：
 Phoenix:
 <$0D>
-//\nあああ、この声は…ママだね！\n僕だよ！ 僕はここにいるよ！
-\n
-T-that voice...!\n
-Mama?! Mama, it's me!
-<$0C>
-I'm here!
+// \nあああ、この声は…ママだね！ \n僕だよ！ 僕はここにいるよ！
+ \n
+T-that voice...! Mama?! Mama, it's me! \n
+I'm here! 
 <$00>
 
 // Pos: 00002F63
@@ -483,23 +430,18 @@ I'm here!
 //エイプリル：
 April:
 <$0D>
-//\nまどわされないで！\nその声は誰のママでもないのよ！
-\n
-Don't fall for the\n
-planet's tricks! That
-<$0C>
-voice isn't anyone's\n
-mom!
+// \nまどわされないで！ \nその声は誰のママでもないのよ！
+ \n
+Don't fall for the planet's tricks! That \n
+voice isn't anyone's mom! 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nこの星が私たちをだまそうとしているのよ！\n真実の光なんて、ウソよ、そんなはずない！
-\n
-Its light of absolute\n
-truth is nothing but
-<$0C>
-a fabrication!
+// \nこの星が私たちをだまそうとしているのよ！ \n真実の光なんて、ウソよ、そんなはずない！
+ \n
+Its light of absolute truth is nothing \n
+but a fabrication! 
 <$00>
 
 // Pos: 00002FC0
@@ -512,13 +454,10 @@ a fabrication!
 //エイプリル：
 April:
 <$0D>
-//\nアマンダ… まだいるのね、そこに。\nずっと私に語りかけていたのはあなたね。
-\n
-Amanda, you're still\n
-there. So, you were
-<$0C>
-the one talking to me\n
-all this time.
+// \nアマンダ… まだいるのね、そこに。 \nずっと私に語りかけていたのはあなたね。
+ \n
+Amanda, you're still there. So, you \n
+were the one talking to me all this time. 
 <$00>
 
 // Pos: 00002FF1
@@ -531,22 +470,19 @@ all this time.
 //エイプリル：
 April:
 <$0D>
-//\nアマンダ… あなたの思い通りにはさせない。\n私は自分を乗り越えるの、そうよ！
-\n
-Amanda, I won't let\n
-you do what you want.
+// \nアマンダ… あなたの思い通りにはさせない。 \n私は自分を乗り越えるの、そうよ！
+ \n
+Amanda, I won't let you do what you \n
+want. I'll overcome my self, right
 <$0C>
-I'll overcome my\n
-self, right here,\n
-right now!
+here, right now! 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n私にできること…
-\n
-I know what I have to\n
-do...
+// \n私にできること…
+ \n
+I know what I have to do... 
 <$00>
 
 // Pos: 00003039
@@ -559,10 +495,9 @@ do...
 //エイプリル：
 April:
 <$0D>
-//\nこの光を、私に！
-\n
-O light, shine over\n
-me!
+// \nこの光を、私に！
+ \n
+O light, shine over me! 
 <$00>
 
 // Pos: 0000304D
@@ -575,20 +510,16 @@ me!
 //フェニックス：
 Phoenix:
 <$0D>
-//\nああああ、この光が教えてくれるよ！
-\n
-Aah! At last, I...see\n
-the light...!
+// \nああああ、この光が教えてくれるよ！
+ \n
+Aah! At last, I...see the light...! 
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-//\nそうだよ、ママ、僕にはなにもないんだ！\nやっぱりだ、僕はただの影なんだ！
-\n
-I know now! I'm...I'm\n
-nothing to Mama! I
-<$0C>
-never was! I'm only a\n
-shadow!
+// \nそうだよ、ママ、僕にはなにもないんだ！ \nやっぱりだ、僕はただの影なんだ！
+ \n
+I know now! I'm...I'm nothing to Mama! \n
+I never was! I'm only a shadow! 
 <$00>
 

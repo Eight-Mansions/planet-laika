@@ -15,12 +15,10 @@
 //子セルゲイ：
 子Sergei:
 <$0D>
-//\nいつまでロケット遊びしてるんだ？
-\n
-How long are you\n
-going to play with
-<$0C>
-that rocket?
+// \nいつまでロケット遊びしてるんだ？
+ \n
+How long are you going to play with that \n
+rocket? 
 <$0E><$B7><$17><$00>
 
 // Pos: 00000AA1
@@ -29,17 +27,16 @@ that rocket?
 
 #WHB(PTR, $00000065)
 
-
+ 
 <$00><$11>
 //〇
 〇
 <$06>
 //生、
-Doctor, what's wrong\n
-with 
+Doctor, what's wrong with 
 <$0F>
 //はどうなんです？
-?
+? 
 <$0E><$5A><$17><$00>
 
 // Pos: 00000AB6
@@ -52,12 +49,10 @@ with
 //子ウラジミール：
 子Vladimir:
 <$0D>
-//\nなぜ私を父さんと呼べない、\nええ、呼んでみろ！できそこないめが！
-\n
-Why don't you call me\n
-"batya"? Come on!
-<$0C>
-Call me "batya"!
+// \nなぜ私を父さんと呼べない、 \nええ、呼んでみろ！できそこないめが！
+ \n
+Why don't you call me "batya"? Come \n
+on! Call me "batya"! 
 <$0E><$99><$17><$00>
 
 // Pos: 00000AEA
@@ -66,12 +61,11 @@ Call me "batya"!
 
 #WHB(PTR, $00000099)
 
-
+ 
 <$00><$11>
-//亡の子は助かるんですか？\n手術すれば、本当に助かるんですか？
-Will it help, Doctor?\n
-Will surgery save\n
-that child?
+//亡の子は助かるんですか？ \n手術すれば、本当に助かるんですか？
+Will it help, Doctor? Will surgery save \n
+that child? 
 <$0E><$78><$17><$00>
 
 // Pos: 00000B16
@@ -84,12 +78,10 @@ that child?
 //子セルゲイ：
 子Sergei:
 <$0D>
-//\nどうした宇宙飛行士殿。\n服が泥まみれだぜ、ひゃひゃひゃひゃ
-\n
-What's wrong, space\n
-brain? You're covered
-<$0C>
-in mud, hahaha!
+// \nどうした宇宙飛行士殿。 \n服が泥まみれだぜ、ひゃひゃひゃひゃ
+ \n
+What's wrong, space brain? You're \n
+covered in mud, hahaha! 
 <$0E><$99><$17><$00>
 
 // Pos: 00000B4A
@@ -98,14 +90,13 @@ in mud, hahaha!
 
 #WHB(PTR, $000000CD)
 
-
+ 
 <$00><$11>
-//僕！しっかりするんだ！\nパパの声が開こえるか？
-僕, focus! Listen to\n
-batya's voice, 
+//僕！しっかりするんだ！ \nパパの声が開こえるか？
+僕, focus! Listen to batya's voice, 
 <$0F>
 //！
-!
+! 
 <$0E><$78><$17><$00>
 
 // Pos: 00000B6C
@@ -114,12 +105,11 @@ batya's voice,
 
 #WHB(PTR, $00000121)
 
-//歪~イ術？手術で僕をどうしようっていうんだ？\n僕はどこにも行かないよ。
-歪~イ術？What will this\n
-surgery do to me? I-I\n
-don't want to leave!
+//歪~イ術？手術で僕をどうしようっていうんだ？ \n僕はどこにも行かないよ。
+歪~イ術？What will this surgery do \n
+to me? I-I don't want to leave!
 <$0F>
 //！
-！
+！ 
 <$0E><$96><$17><$00>
 

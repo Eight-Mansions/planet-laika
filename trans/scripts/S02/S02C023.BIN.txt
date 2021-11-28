@@ -15,10 +15,10 @@
 //アーネスト：
 Ernest:
 <$0D>
-//\nお宝だ…へへへ…俺のお宝…
-\n
-Treasure...\n
-Hehehe, my treasure...
+// \nお宝だ…へへへ…俺のお宝…
+ \n
+Treasure... \n
+Hehehe, my treasure... 
 <$00>
 
 // Pos: 00002145
@@ -28,14 +28,14 @@ Hehehe, my treasure...
 #WHB(PTR, $00000B7D)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
 <$0D>
 //白い石を手に入れた。
-White Stone acquired.
+White Stone acquired. 
 <$00>
 
 // Pos: 0000215E
@@ -48,12 +48,10 @@ White Stone acquired.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何かしら…何かあるわ、取れそうもないわね。
-\n
-Something in there,\n
-but I'm not breaking
-<$0C>
-a sweat to grab it.
+// \n何かしら…何かあるわ、取れそうもないわね。
+ \n
+Something in there, but I'm not \n
+breaking a sweat to grab it. 
 <$00>
 
 // Pos: 00002180
@@ -66,12 +64,10 @@ a sweat to grab it.
 //スペーサー：
 Spacer:
 <$0D>
-//\n何かあるが…取れない、私では無理だ。
-\n
-I see something in\n
-there, but I can't
-<$0C>
-force it out.
+// \n何かあるが…取れない、私では無理だ。
+ \n
+I see something in there, but I can't \n
+force it out. 
 <$00>
 
 // Pos: 000021A2
@@ -82,18 +78,18 @@ force it out.
 
 <$10>
 //アイテムがいっぱいです。
-The item bag is full!
+The item bag is full! 
 <$00><$00><$13><$13>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //   
    
 <$0D>
 //お宝だ… へへへ… 俺のお宝…
-Treasure...\n
-Hehehe, my treasure...
+Treasure... \n
+Hehehe, my treasure... 
 <$00>
 
 // Pos: 000021CB
@@ -108,25 +104,21 @@ Hehehe, my treasure...
 //    
     
 <$0D>
-//おうおう、俺の石だ、お宝だ、\n
-Hey! This is my\n
-treasure.\n
+//おうおう、俺の石だ、お宝だ、 \n
+Hey! This is my treasure. \n
 
 <$0B>
 //     
 <$0D>
-//これは俺が見つけたんだ、\n
-I found this stone.
-<$0C>
-Me!\n
+//これは俺が見つけたんだ、 \n
+I found this stone. Me! \n
 
 <$0B>
 //     
      
 <$0D>
 //手を出すな、ちくしょう！
-Get your mangy\n
-hands off it!
+Get your mangy hands off it! 
 <$00>
 
 // Pos: 0000220F
@@ -135,13 +127,10 @@ hands off it!
 
 #WHB(PTR, $000007BD)
 
-//背   さっきは悪かったな、ええ？\n     あやまるよ、ほんとさ。\n    おわびに、ほら、これをやる。
-背   Aww, that was\n
-wrong of me.\n
-   I'm sorry. Really!
-<$0C>
-   Here, you take\n
-this...
+//背   さっきは悪かったな、ええ？ \n     あやまるよ、ほんとさ。 \n    おわびに、ほら、これをやる。
+背   Aww, that was wrong of me. \n
+   I'm sorry. Really! \n
+   Here, you take this... 
 <$00>
 
 // Pos: 00002246
@@ -150,13 +139,10 @@ this...
 
 #WHB(PTR, $000007E1)
 
-//背さあ、食いなよ、俺の目の前で、早く！\nひひひ、腐ったパイだ、お前にぴったりだろ、
-背Come on, eat it! Eat\n
-it now!\n
-Hehe, eat this moldy
-<$0C>
-pie!\n
-It's perfect for you!
+//背さあ、食いなよ、俺の目の前で、早く！ \nひひひ、腐ったパイだ、お前にぴったりだろ、
+背Come on, eat it! Eat it now! \n
+Hehe, eat this moldy pie! \n
+It's perfect for you! 
 <$00>
 
 // Pos: 00002275
@@ -165,13 +151,9 @@ It's perfect for you!
 
 #WHB(PTR, $000007F9)
 
-//背   男の腐ったやつに腐ったパイだ、\n     ははははは、ぴったりだろ、\n   ああ臭ぇ、お前も同じ臭いがするぜ！
-背Rotten pie for a\n
-rotten kid!\n
-     Hahaha, you even
-<$0C>
-smell stale!\n
-     Eat your "just\n
-desserts"!
+//背   男の腐ったやつに腐ったパイだ、 \n     ははははは、ぴったりだろ、 \n   ああ臭ぇ、お前も同じ臭いがするぜ！
+背Rotten pie for a rotten kid! \n
+     Hahaha, you even smell stale! \n
+     Eat your "just desserts"! 
 <$00>
 

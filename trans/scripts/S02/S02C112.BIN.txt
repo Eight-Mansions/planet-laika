@@ -15,13 +15,11 @@
 //エイプリル：
 April:
 <$0D>
-//\nライカ！ こっち、こっちだよ！\n私の生まれた家よ、見せてあげる。\nねえ、来て、こっちよ。
-\n
-Come on, Laika! This\n
-way!
+// \nライカ！ こっち、こっちだよ！ \n私の生まれた家よ、見せてあげる。 \nねえ、来て、こっちよ。
+ \n
+Come on, Laika! This way! \n
+I'll get to show you the house I was born
 <$0C>
-I'll get to show you\n
-the house I was born\n
-in!
+in! 
 <$00>
 

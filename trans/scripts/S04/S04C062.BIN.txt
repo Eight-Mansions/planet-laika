@@ -15,13 +15,10 @@
 //イースト：
 East:
 <$0D>
-//\nここがホテル。１３号監房だ。\nそこの派手なのがリャンハウス。
-\n
-Do you see the wall\n
-here that says Cell
-<$0C>
-13, next to the\n
-flashy House Liang?
+// \nここがホテル。１３号監房だ。 \nそこの派手なのがリャンハウス。
+ \n
+Do you see the wall here that says Cell \n
+13, next to the flashy House Liang? 
 <$00>
 
 // Pos: 00001446
@@ -34,10 +31,9 @@ flashy House Liang?
 //ウェスト：
 West:
 <$0D>
-//\n火星で人気の整形屋。
-\n
-Mars' popular plastic\n
-surgery office!
+// \n火星で人気の整形屋。
+ \n
+Mars' popular plastic surgery office! 
 <$00>
 
 // Pos: 0000145F
@@ -50,10 +46,9 @@ surgery office!
 //イースト：
 East:
 <$0D>
-//\n犬顔、直す。
-\n
-Will you get fixed,\n
-dogface?
+// \n犬顔、直す。
+ \n
+Will you get fixed, dogface? 
 <$00>
 
 // Pos: 00001472
@@ -66,9 +61,9 @@ dogface?
 //ウェスト：
 West:
 <$0D>
-//\n俺たち、犬、キライ。
-\n
-We! Hate! Dogs!
+// \n俺たち、犬、キライ。
+ \n
+We! Hate! Dogs! 
 <$00>
 
 // Pos: 00001487
@@ -85,10 +80,9 @@ We! Hate! Dogs!
 //イースト：
 East:
 <$0D>
-//\n冒険は終わりだ。
-\n
-Is your adventure\n
-over?
+// \n冒険は終わりだ。
+ \n
+Is your adventure over? 
 <$00>
 
 // Pos: 0000149C
@@ -105,12 +99,12 @@ over?
 //ウェスト：
 West:
 <$0D>
-//\nもう寝ろ。
-\n
+// \nもう寝ろ。
+ \n
 Go to sleep!
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 000014AF
@@ -123,9 +117,9 @@ Go to sleep!
 //イースト：
 East:
 <$0D>
-//\n何してる？
-\n
-What do you want?
+// \n何してる？
+ \n
+What do you want? 
 <$00>
 
 // Pos: 000014BE
@@ -138,9 +132,9 @@ What do you want?
 //ウェスト：
 West:
 <$0D>
-//\n子守歌が欲しいか？
-\n
-A lullaby!
+// \n子守歌が欲しいか？
+ \n
+A lullaby! 
 <$00>
 
 // Pos: 000014D4
@@ -157,10 +151,9 @@ A lullaby!
 //イースト：
 East:
 <$0D>
-//\n俺たち
-\n
-Should we sing a\n
-lullaby?
+// \n俺たち
+ \n
+Should we sing a lullaby? 
 <$00>
 
 // Pos: 000014E1
@@ -177,12 +170,12 @@ lullaby?
 //ウェスト：
 West:
 <$0D>
-//\n歌知らない。
-\n
+// \n歌知らない。
+ \n
 We do not sing!
 <$1E>
 //中
-中
+中 
 <$00>
 
 // Pos: 000014F5
@@ -199,9 +192,9 @@ We do not sing!
 //イースト：
 East:
 <$0D>
-//\n着いた。
-\n
-Will you go in?
+// \n着いた。
+ \n
+Will you go in? 
 <$00>
 
 // Pos: 00001504
@@ -218,110 +211,89 @@ Will you go in?
 //ウェスト：
 West:
 <$0D>
-//\n入れ。
-\n
+// \n入れ。
+ \n
 Go inside!
 <$1E>
 //中
-中
+中 
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nアガタ！\nあのふたりを返したの？
-\n
-Agatha! Did you get\n
-those two off our
-<$0C>
-backs?
+// \nアガタ！ \nあのふたりを返したの？
+ \n
+Agatha! Did you get those two off our \n
+backs? 
 <$00><$10><$0B>
 //マダム・アガタ…：
 Madam Agatha...:
 <$0D>
-//\nそうよ。\nさあ、行って。早く！
-\n
-Yes, for a moment.\n
-Now, you must go!
+// \nそうよ。 \nさあ、行って。早く！
+ \n
+Yes, for a moment. Now, you must go! 
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n教えて欲しいの。この星には何があるの？\n黒い騎士とか預言とか…
-\n
-Can I ask you\n
-something? How are
+// \n教えて欲しいの。この星には何があるの？ \n黒い騎士とか預言とか…
+ \n
+Can I ask you something? How are the \n
+Black Rider and the prophecies
 <$0C>
-the Black Rider and\n
-the prophecies\n
-affecting Mars?
+affecting Mars? 
 <$00><$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nエイプリル、今は時間がないのよ。\nあなたの仲間が捕らえられてしまうわ。
-\n
-April, we must save\n
-that for later, or
-<$0C>
-your companions will\n
-be taken.
+// \nエイプリル、今は時間がないのよ。 \nあなたの仲間が捕らえられてしまうわ。
+ \n
+April, we must save that for later, or \n
+your companions will be taken. 
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-//\n誰？\nそんなことする人って？
-\n
-What?! Taken by who?!\n
-Who would do such a
-<$0C>
-thing?
+// \n誰？ \nそんなことする人って？
+ \n
+What?! Taken by who?! Who would do \n
+such a thing? 
 <$00><$11><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n人？いいえ、人なんかじゃない。\nさあ、早く、仲間を助けなきゃ。\n地球に戻れなくなるわ。
-\n
-There is no "who",\n
-April. Save your
-<$0C>
-companions and return\n
-to Earth.
+// \n人？いいえ、人なんかじゃない。 \nさあ、早く、仲間を助けなきゃ。 \n地球に戻れなくなるわ。
+ \n
+There is no "who", April. Save your \n
+companions and return to Earth. 
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nわかった。\nありがとう、アガタ。
-\n
-I understand. Thank\n
-you for this, Agatha.
+// \nわかった。 \nありがとう、アガタ。
+ \n
+I understand. Thank you for this, \n
+Agatha. 
 <$00><$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところ。
-\n
-Take Brick Road down\n
-to Valles Memoriae,
-<$0C>
-and look for the\n
-black wall.
+// \n記憶の谷はブリックロードから行くのよ。 \n黒いカベのところ。
+ \n
+Take Brick Road down to Valles \n
+Memoriae, and look for the black wall. 
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nこの星に来て、迷い込むとしたら\nあそこしかないの。
-\n
-When someone's lost\n
-in the world, that's
-<$0C>
-the only place for\n
-them to go.
+// \nこの星に来て、迷い込むとしたら \nあそこしかないの。
+ \n
+When someone's lost in the world, \n
+that's the only place for them to go. 
 <$0C>
 //さ、行って。…気を付けてね。
-\n
-There is no time, so\n
-please. Be careful
-<$0C>
-for me.
+ \n
+There is no time, so please. Be careful \n
+for me. 
 <$00>
 

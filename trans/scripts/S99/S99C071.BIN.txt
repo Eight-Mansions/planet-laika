@@ -15,9 +15,9 @@
 //子コスマス：
 Cosmas:
 <$0D>
-//\nどこいくの？
-\n
-Where are you going?
+// \nどこいくの？
+ \n
+Where are you going? 
 <$0E><$3C><$17><$00>
 
 // Pos: 00000A4E
@@ -30,26 +30,21 @@ Where are you going?
 //子コスマス：
 子Cosmas:
 <$0D>
-//\nねぇ、だめだよ、勝手に出歩いちゃ。\nこんなの、はじめてだよ。
-\n
-Hey, don't run off\n
-like that! You've
-<$0C>
-never done that\n
-before.
+// \nねぇ、だめだよ、勝手に出歩いちゃ。 \nこんなの、はじめてだよ。
+ \n
+Hey, don't run off like that! You've \n
+never done that before. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nうふふ、くすぐったいよ、ダークマン、\n僕の手はキライになったの？
-\n
-Hey! That tickles,\n
-Dark Man! Do you not
-<$0C>
+// \nうふふ、くすぐったいよ、ダークマン、 \n僕の手はキライになったの？
+ \n
+Hey! That tickles, Dark Man! Do you not \n
 like my hand?
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 
 // Pos: 00000AAA
@@ -62,21 +57,17 @@ like my hand?
 //子コスマス：
 子Cosmas:
 <$0D>
-//\nねぇ、どうしたの、ダークマン。\n僕の手から離れちゃだめじゃないか。
-\n
-Hey, what's wrong,\n
-Dark Man? Why won't
-<$0C>
-you free my hand?
+// \nねぇ、どうしたの、ダークマン。 \n僕の手から離れちゃだめじゃないか。
+ \n
+Hey, what's wrong, Dark Man? Why \n
+won't you free my hand? 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nねえってば…ダークマン、どこかに行くの？\nだったらついてくよ、僕。
-\n
-Hey, Dark Man. Where\n
-are you going? Let me
-<$0C>
-come with you.
+// \nねえってば…ダークマン、どこかに行くの？ \nだったらついてくよ、僕。
+ \n
+Hey, Dark Man. Where are you going? \n
+Let me come with you. 
 <$00>
 

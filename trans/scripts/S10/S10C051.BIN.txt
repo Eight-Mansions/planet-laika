@@ -15,13 +15,10 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何これ… ガラクタのロケット…\nいったいどうしたって言うの？
-\n
-What is this trashed\n
-rocket? What does
-<$0C>
-this toy have to do\n
-with me?
+// \n何これ… ガラクタのロケット… \nいったいどうしたって言うの？
+ \n
+What is this trashed rocket? What does \n
+this toy have to do with me? 
 <$00>
 
 // Pos: 00000CF6
@@ -34,12 +31,10 @@ with me?
 //リバー：
 Liever:
 <$0D>
-//\n子供の頃、遊んだんじゃないの？\nあんたが。
-\n
-Didn't you play with\n
-this very rocket
-<$0C>
-during your childhood?
+// \n子供の頃、遊んだんじゃないの？ \nあんたが。
+ \n
+Didn't you play with this very rocket \n
+during your childhood? 
 <$00>
 
 // Pos: 00000D1A
@@ -52,21 +47,19 @@ during your childhood?
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n…子供の頃って…
-\n
-Did I play with this\n
-toy...?
+// \n…子供の頃って…
+ \n
+Did I play with this toy...? 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n誰がこんなふうにしたの？\nどれもこれも壊れてるじゃない。
-\n
-I mean, maybe, but\n
-who the hell trashed
+// \n誰がこんなふうにしたの？ \nどれもこれも壊れてるじゃない。
+ \n
+I mean, maybe, but who the hell \n
+trashed it? I never broke a thing in my
 <$0C>
-it? I never broke a\n
-thing in my life!
+life! 
 <$00>
 
 // Pos: 00000D58
@@ -79,17 +72,15 @@ thing in my life!
 //リバー：
 Liever:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
-//が壊したんだよ、\nヤケになって、手当たり次第に。
- broke it apart. In a\n
-fit of despair, they
+//が壊したんだよ、 \nヤケになって、手当たり次第に。
+ broke it apart. In a fit of despair, they \n
+took whatever they could get their
 <$0C>
-took whatever they\n
-could get their hands\n
-on, and...
+hands on, and... 
 <$00>
 
 // Pos: 00000D81
@@ -102,25 +93,20 @@ on, and...
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nうそよ、
-\n
+// \nうそよ、
+ \n
 Bullshit. 
 <$0F>
-//は\n何もできないのよ。
- couldn't\n
-accomplish that on
-<$0C>
-their own..
+//は \n何もできないのよ。
+ couldn't accomplish that on their own.. 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n彼は刃向かえないのよ。
-\n
-They couldn't\n
-accomplish anything
-<$0C>
-on their own.
+// \n彼は刃向かえないのよ。
+ \n
+They couldn't accomplish anything on \n
+their own. 
 <$00>
 
 // Pos: 00000DB4
@@ -133,16 +119,15 @@ on their own.
 //リバー：
 Liever:
 <$0D>
-//\nこんなふうに思い出まで壊しちゃったのって\n本当は
-\n
+// \nこんなふうに思い出まで壊しちゃったのって \n本当は
+ \n
 Are you sure? 
 <$0F>
 //なんじゃないの？
- did a\n
-smashing job breaking
+ did a smashing job \n
+breaking apart their own memories,
 <$0C>
-apart their own\n
-memories, after all.
+after all. 
 <$00>
 
 // Pos: 00000DE5
@@ -155,27 +140,22 @@ memories, after all.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nうそ、うそよ、そんなはずないじゃない！
-\n
-No, you're lying! I\n
-told you that's not
-<$0C>
-how it fucking\n
-happened!
+// \nうそ、うそよ、そんなはずないじゃない！
+ \n
+No, you're lying! I told you that's not \n
+how it fucking happened! 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
-//は善でも悪でもないわ、\n無なのよ。 なにもないの、心もないのよ。
- never accomplished\n
-anything! Never had
+//は善でも悪でもないわ、 \n無なのよ。 なにもないの、心もないのよ。
+ never accomplished anything! Never \n
+had anything! They never had a mind of
 <$0C>
-anything! They never\n
-had a mind of their\n
-own!
+their own! 
 <$00>
 

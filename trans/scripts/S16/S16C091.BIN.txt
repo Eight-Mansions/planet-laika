@@ -15,12 +15,10 @@
 //トミー：
 Tommy:
 <$0D>
-//\nおう？\n兄ちゃんよう、俺の夢になんか用か？
-\n
-Oh？ Hey, comrade.\n
-You've got business
-<$0C>
-in my dream？
+// \nおう？ \n兄ちゃんよう、俺の夢になんか用か？
+ \n
+Oh？ Hey, comrade. You've got \n
+business in my dream？ 
 <$00>
 
 // Pos: 00000B4A
@@ -33,46 +31,37 @@ in my dream？
 //トミー：
 Tommy:
 <$0D>
-//\nああ、クロウのやつみたいに\n人の夢に出入りしてるのか。
-\n
-I take it you can go\n
-in and out of
-<$0C>
-peoples' dreams like\n
-that Crow guy does.
+// \nああ、クロウのやつみたいに \n人の夢に出入りしてるのか。
+ \n
+I take it you can go in and out of peoples' \n
+dreams like that Crow guy does. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nなぁ、兄ちゃんよう、俺とおんなじだろ、\nなあ、おんなじだろ。
-\n
-Nah, you're just like\n
-me huh? Aren't you,
-<$0C>
-a-yup!
+// \nなぁ、兄ちゃんよう、俺とおんなじだろ、 \nなあ、おんなじだろ。
+ \n
+Nah, you're just like me huh? Aren't \n
+you, a-yup! 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\n力がわいてくる惑じだろ、へへ、知ってるぜ。
-\n
-I just know we're\n
-getting stronger,
-<$0C>
-hehe.
+// \n力がわいてくる惑じだろ、へへ、知ってるぜ。
+ \n
+I just know we're getting stronger, \n
+hehe. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nここは俺の夢だ、\n兄ちゃんはアーネストっていうんだ。
-\n
-Well, this here is my\n
-dream, Ernest, my
-<$0C>
+// \nここは俺の夢だ、 \n兄ちゃんはアーネストっていうんだ。
+ \n
+Well, this here is my dream, Ernest, my \n
 comrade.
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00000BDF
@@ -85,24 +74,23 @@ comrade.
 //トミー：
 Tommy:
 <$0D>
-//\n兄ちゃんはアーネストっていうんだ、\n俺とおんなじタイプだ。
-\n
-Ernest, my comrade.\n
-We're the same type.
+// \n兄ちゃんはアーネストっていうんだ、 \n俺とおんなじタイプだ。
+ \n
+Ernest, my comrade. We're the same \n
+type. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\n力がわいてくるんだろ。\n俺の夢のなかじゃウソはつけないぜ。
-\n
-We're getting\n
-stronger. Lies aren't
+// \n力がわいてくるんだろ。 \n俺の夢のなかじゃウソはつけないぜ。
+ \n
+We're getting stronger. Lies aren't \n
+powerful enough to take on MY
 <$0C>
-powerful enough to\n
-take on MY dreams!
+dreams!
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00000C30
@@ -115,16 +103,13 @@ take on MY dreams!
 //トミー：
 Tommy:
 <$0D>
-//\nおえっ…眠くなってきやがった、\n昨日から飲んでねぇのにな、おえっおえっ…
-\n
-Whew, I'm getting so\n
-sleepy. I don't get
-<$0C>
-it, I didn't drink\n
-anything yet. Whew...
+// \nおえっ…眠くなってきやがった、 \n昨日から飲んでねぇのにな、おえっおえっ…
+ \n
+Whew, I'm getting so sleepy. I don't get \n
+it, I didn't drink anything yet. Whew...
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00000C64
@@ -137,13 +122,13 @@ anything yet. Whew...
 //トミー：
 Tommy:
 <$0D>
-//\nおえっ、こりゃ悪酔いみたいだぜ？
-\n
-Whew, am I just\n
-hungover or something?
+// \nおえっ、こりゃ悪酔いみたいだぜ？
+ \n
+Whew, am I just hungover or \n
+something?
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00000C81
@@ -156,16 +141,13 @@ hungover or something?
 //トミー：
 Tommy:
 <$0D>
-//\nおえっ、誰かいるよな、この奥に。\n気分悪いぜ、俺はアーモンドがキライだ、\n臭ってきそうだ…
-\n
-Someone's back here,\n
-huh. It reeks like
-<$0C>
-almonds in here. Ick,\n
-I hate it!
+// \nおえっ、誰かいるよな、この奥に。 \n気分悪いぜ、俺はアーモンドがキライだ、 \n臭ってきそうだ…
+ \n
+Someone's back here, huh. It reeks like \n
+almonds in here. Ick, I hate it!
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00000CBD
@@ -178,12 +160,10 @@ I hate it!
 //スペーサー：
 Spacer:
 <$0D>
-//\nアーモンド？アーモンドの臭いがするのか、\nおい、どうなんだ？
-\n
-Almonds? Hey, what do\n
-you mean, you smell
-<$0C>
-almonds?
+// \nアーモンド？アーモンドの臭いがするのか、 \nおい、どうなんだ？
+ \n
+Almonds? Hey, what do you mean, you \n
+smell almonds? 
 <$00>
 
 // Pos: 00000CE9
@@ -196,13 +176,12 @@ almonds?
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何よ、アーモンドって。誰かが言ってたわね？\nあのお利口さんが？
-\n
-Almonds, almonds... I\n
-swear I heard someone
+// \n何よ、アーモンドって。誰かが言ってたわね？ \nあのお利口さんが？
+ \n
+Almonds, almonds... I swear I heard \n
+someone say that. Must've been the
 <$0C>
-say that. Must've\n
-been the smartass
+smartass 
 <$00>
 
 // Pos: 00000D17
@@ -215,13 +194,10 @@ been the smartass
 //アーネスト：
 Ernest:
 <$0D>
-//\nアーモンドなら、俺もきらいだぜ。\nそれより、誰がいるんだ、奥に？
-\n
-I don't care for\n
-almonds either. More
-<$0C>
-importantly, who's\n
-back there?
+// \nアーモンドなら、俺もきらいだぜ。 \nそれより、誰がいるんだ、奥に？
+ \n
+I don't care for almonds either. More \n
+importantly, who's back there? 
 <$00>
 
 // Pos: 00000D46
@@ -234,13 +210,12 @@ back there?
 //トミー：
 Tommy:
 <$0D>
-//\nおえっ、臭ってきそうだ、アーモンド…
-\n
-Ick, it smells like\n
-fresh almonds.
+// \nおえっ、臭ってきそうだ、アーモンド…
+ \n
+Ick, it smells like fresh almonds.
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00000D65
@@ -253,16 +228,13 @@ fresh almonds.
 //トミー：
 Tommy:
 <$0D>
-//\nやっぱりだ、アーモンドの臭い？\nさっきより強くなってきやがったぜ。
-\n
-It sure smells like\n
-almonds, don't it.
-<$0C>
-It's even stronger\n
-than before.
+// \nやっぱりだ、アーモンドの臭い？ \nさっきより強くなってきやがったぜ。
+ \n
+It sure smells like almonds, don't it. It's \n
+even stronger than before.
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00000D94
@@ -275,11 +247,11 @@ than before.
 //トミー：
 Tommy:
 <$0D>
-//\n俺はアーモンドなんてきらいだぜ。
-\n
+// \n俺はアーモンドなんてきらいだぜ。
+ \n
 I hate almonds!
 <$1E>
 //家
-家
+家 
 <$00>
 

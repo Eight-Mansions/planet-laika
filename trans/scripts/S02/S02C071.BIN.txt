@@ -12,22 +12,17 @@
 #WHB(PTR, $00000879)
 
 //案ウが弱いとダメさ。 あんたは…
-案ウYou can't afford to\n
-be weak.
+案ウYou can't afford to be weak. 
 <$0C>
-//うーん、読めないな。\n強いのか、弱いのか、わからないよ。
-Oddly, even I can't\n
-tell whether you're\n
-strong or weak!
+//うーん、読めないな。 \n強いのか、弱いのか、わからないよ。
+Oddly, even I can't tell whether you're \n
+strong or weak! 
 <$0C>
-//さっきの人は読めたよ、ひどくおびえてるよ。\n弱いんだね、きっと。
-The person I saw\n
-earlier was so\n
-scared, so they must
-<$0C>
-have been weak.
+//さっきの人は読めたよ、ひどくおびえてるよ。 \n弱いんだね、きっと。
+The person I saw earlier was so \n
+scared, so they must have been weak.
 <$1E>
 //炎
-炎
+炎 
 <$00>
 

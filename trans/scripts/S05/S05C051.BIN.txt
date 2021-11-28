@@ -15,22 +15,19 @@
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nねぇ、教えてよ、\n神のさばきがくだる、それが蕃判なんだろ？
-\n
-All right, tell me.\n
-This "Judgement"
+// \nねぇ、教えてよ、 \n神のさばきがくだる、それが蕃判なんだろ？
+ \n
+All right, tell me. This "Judgement" \n
+business. It comes across like God's
 <$0C>
-business. It comes\n
-across like God's\n
-will, no?
+will, no? 
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nここには神がいるの？
-\n
-Does that mean God is\n
-here?
+// \nここには神がいるの？
+ \n
+Does that mean God is here? 
 <$00>
 
 // Pos: 00002F60
@@ -43,12 +40,10 @@ here?
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n神はいつもおいでじゃ。\nだがやつは、ガリルは神ではない！
-\n
-God was always here.\n
-However, Galil, is no
-<$0C>
-god!
+// \n神はいつもおいでじゃ。 \nだがやつは、ガリルは神ではない！
+ \n
+God was always here. However, Galil, \n
+is no god! 
 <$00>
 
 // Pos: 00002F90
@@ -61,13 +56,12 @@ god!
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nガリルが神？\nすごいことになってるんだね。
-\n
-Indeed. Galil really\n
-did go off the deep
+// \nガリルが神？ \nすごいことになってるんだね。
+ \n
+Indeed. Galil really did go off the deep \n
+end, if he thought he could achieve
 <$0C>
-end, if he thought he\n
-could achieve godhood.
+godhood. 
 <$00>
 
 // Pos: 00002FB3
@@ -140,23 +134,19 @@ could achieve godhood.
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nなんともはやだ。\nガリルは神への階段を昇ろうとしておる。
-\n
-Not entirely, for\n
-Galil ascends the
-<$0C>
-stairway to God as we\n
-speak.
+// \nなんともはやだ。 \nガリルは神への階段を昇ろうとしておる。
+ \n
+Not entirely, for Galil ascends the \n
+stairway to God as we speak. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 <$0D>
-//\n得体の知れない死の情熱で、\n肉体を超えた存在になろうとしておるのじゃ。
-\n
-He means to embracing\n
-his reason for dying
+// \n得体の知れない死の情熱で、 \n肉体を超えた存在になろうとしておるのじゃ。
+ \n
+He means to embracing his reason for \n
+dying to become that which exceeds
 <$0C>
-to become that which\n
-exceeds the flesh.
+the flesh. 
 <$00>
 
 // Pos: 00003022
@@ -169,14 +159,12 @@ exceeds the flesh.
 //ライカ…？：
 Laika(?):
 <$0D>
-//\n死の情熱？\nまるで自殺願望だね、それじゃ。
-\n
-And to that end, that\n
-was his reason for
+// \n死の情熱？ \nまるで自殺願望だね、それじゃ。
+ \n
+And to that end, that was his reason for \n
+dying? It sounds like he had a suicidal
 <$0C>
-dying? It sounds like\n
-he had a suicidal\n
-ideation.
+ideation. 
 <$00>
 
 // Pos: 0000304B
@@ -189,22 +177,19 @@ ideation.
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nやつにとって死はたわむれじゃ。
-\n
-To him, Death is a\n
-flirtation.
+// \nやつにとって死はたわむれじゃ。
+ \n
+To him, Death is a flirtation. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n心の悪のそのすべてを浄化したとき、\n永遠の存在になるというのじゃ。
-\n
-It is said that when\n
-one purifies their
+// \n心の悪のそのすべてを浄化したとき、 \n永遠の存在になるというのじゃ。
+ \n
+It is said that when one purifies their \n
+mind of all evil, they become an eternal
 <$0C>
-mind of all evil,\n
-they become an\n
-eternal existence.
+existence. 
 <$00>
 
 // Pos: 000030A4
@@ -217,13 +202,10 @@ eternal existence.
 //ライカ…？：
 Laika(?):
 <$0D>
-//\n悪を浄化するって、どうやって？\nお祈りでもするの？
-\n
-And how does one\n
-purify that evil?
-<$0C>
-Isn't that what\n
-prayer is for?
+// \n悪を浄化するって、どうやって？ \nお祈りでもするの？
+ \n
+And how does one purify that evil? \n
+Isn't that what prayer is for? 
 <$00>
 
 // Pos: 000030CD
@@ -236,30 +218,25 @@ prayer is for?
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nシークレットパワーじゃよ。
-\n
-No, it requires the\n
-secret power.
+// \nシークレットパワーじゃよ。
+ \n
+No, it requires the secret power. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n我らがメディスンマン一族に伝わる禁断の力。
-\n
-It is a forbidden\n
-power passed between
-<$0C>
-us medicine men.
+// \n我らがメディスンマン一族に伝わる禁断の力。
+ \n
+It is a forbidden power passed \n
+between us medicine men. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nガリルはユニバーサルマンから\nうばったのじゃ。
-\n
-Galil stole this\n
-power from Universal
-<$0C>
-Man.
+// \nガリルはユニバーサルマンから \nうばったのじゃ。
+ \n
+Galil stole this power from Universal \n
+Man. 
 <$00>
 
 // Pos: 0000313D
@@ -272,20 +249,17 @@ Man.
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nおとろえておるが、\nまだ少しは役に立つじゃろう。
-\n
-We have grown weaker,\n
-but I wish to lend
-<$0C>
-whatever aid I can.
+// \nおとろえておるが、 \nまだ少しは役に立つじゃろう。
+ \n
+We have grown weaker, but I wish to \n
+lend whatever aid I can. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nこの力をお前にさずけよう。
-\n
-I give this ounce of\n
-power to you.
+// \nこの力をお前にさずけよう。
+ \n
+I give this ounce of power to you. 
 <$00>
 
 // Pos: 00003187
@@ -298,10 +272,10 @@ power to you.
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nあたたかいよ… これがシークレットパワー…
-\n
-Is this...the secret\n
-power? It feels warm.
+// \nあたたかいよ… これがシークレットパワー…
+ \n
+Is this...the secret power? It feels \n
+warm. 
 <$00>
 
 // Pos: 000031A9
@@ -314,44 +288,37 @@ power? It feels warm.
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nシークレットパワーは、\n心の悪を浄化する力じゃ。
-\n
-The secret power\n
-purifies evil
+// \nシークレットパワーは、 \n心の悪を浄化する力じゃ。
+ \n
+The secret power purifies evil 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nお前の心に積もった悪をな。
-\n
-The evil that has\n
-accumulated in one's
-<$0C>
-mind, that is.
+// \nお前の心に積もった悪をな。
+ \n
+The evil that has accumulated in one's \n
+mind, that is. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
-\n
-But you cannot use it\n
-on yourself. There
+// \nだが、ひとりではできん。その悪をそそぎ込む \n相手が必要じゃな。
+ \n
+But you cannot use it on yourself. \n
+There needs to be someone into whom
 <$0C>
-needs to be someone\n
-into whom that evil\n
-is transferred
+that evil is transferred 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n心が弱い相手じゃと、ふほ…\nおかしくなってしまうかも知れないのう。
-\n
-It takes someone of\n
-strong mind to
+// \n心が弱い相手じゃと、ふほ… \nおかしくなってしまうかも知れないのう。
+ \n
+It takes someone of strong mind to \n
+withstand it. You don't want to make
 <$0C>
-withstand it. You\n
-don't want to make\n
-people sick, do you?
+people sick, do you? 
 <$00>
 
 // Pos: 0000325D
@@ -364,23 +331,18 @@ people sick, do you?
 //ライカ…？：
 Laika(?):
 <$0D>
-//\n人をギセイにするんだ…\nその人はおかしくなるの？
-\n
-So, I'd be pushing my\n
-evil onto someone
-<$0C>
-else? And making them\n
-sick?
+// \n人をギセイにするんだ… \nその人はおかしくなるの？
+ \n
+So, I'd be pushing my evil onto someone \n
+else? And making them sick? 
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
 <$0D>
-//\n気が変になるとかなの？
-\n
-What happens if\n
-someone else loses
-<$0C>
-their mind over this?
+// \n気が変になるとかなの？
+ \n
+What happens if someone else loses \n
+their mind over this? 
 <$00>
 
 // Pos: 00003298
@@ -393,33 +355,27 @@ their mind over this?
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nふほ、そうせかんでもええのう。
-\n
-Haww, then they lose\n
-their mind!
+// \nふほ、そうせかんでもええのう。
+ \n
+Haww, then they lose their mind! 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nその力はやがて役に立つじゃろうて。\nふほふほ。
-\n
-But, even if that is\n
-a risk, you will need
-<$0C>
-to use this power\n
-soon enough.
+// \nその力はやがて役に立つじゃろうて。 \nふほふほ。
+ \n
+But, even if that is a risk, you will need \n
+to use this power soon enough. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nお前には資質があるということじゃなぁ。\nまことにそういうことじゃ。
-\n
-This conversation\n
-proves you have the
+// \nお前には資質があるということじゃなぁ。 \nまことにそういうことじゃ。
+ \n
+This conversation proves you have the \n
+qualities we need. This is the moment
 <$0C>
-qualities we need.\n
-This is the moment of\n
-truth.
+of truth. 
 <$00>
 
 // Pos: 00003314
@@ -432,12 +388,10 @@ truth.
 //ライカ…？：
 Laika(?):
 <$0D>
-//\n資質って？僕は特別なの？
-\n
-What qualities do I\n
-have? What makes me
-<$0C>
-so special?
+// \n資質って？僕は特別なの？
+ \n
+What qualities do I have? What makes \n
+me so special? 
 <$00>
 
 // Pos: 00003332
@@ -450,24 +404,20 @@ so special?
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nふほ、お前とそれからもうひとりの…\nふほ、もしや預言にあるマコトの双子…
-\n
-Haww, that you are\n
-part of another, like
+// \nふほ、お前とそれからもうひとりの… \nふほ、もしや預言にあるマコトの双子…
+ \n
+Haww, that you are part of another, \n
+like the Twins of Truth spoken of in the
 <$0C>
-the Twins of Truth\n
-spoken of in the\n
-prophecies.
+prophecies. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nいやわからんのう。\nわしにはそれ以上は見えんのじゃ。
-\n
-Beyond that, who can\n
-say? I cannot see
-<$0C>
-anything beyond that.
+// \nいやわからんのう。 \nわしにはそれ以上は見えんのじゃ。
+ \n
+Beyond that, who can say? I cannot see \n
+anything beyond that. 
 <$00>
 
 // Pos: 00003396
@@ -480,10 +430,10 @@ anything beyond that.
 //ライカ…？：
 Laika(?):
 <$0D>
-//\n僕はどうしてここにいるの？\nこの星に？
-\n
-Why am I here? Why am\n
-I standing on Mars?
+// \n僕はどうしてここにいるの？ \nこの星に？
+ \n
+Why am I here? Why am I standing on \n
+Mars? 
 <$00>
 
 // Pos: 000033B8
@@ -496,23 +446,18 @@ I standing on Mars?
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n呼ばれたのじゃな。この星では古くからの\n言い伝えがある…
-\n
-I cannot say, but on\n
-this planet, we speak
-<$0C>
-of an old legend.
+// \n呼ばれたのじゃな。この星では古くからの \n言い伝えがある…
+ \n
+I cannot say, but on this planet, we \n
+speak of an old legend. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n完全なる善と、完全なる悪、このふたつが\n出会うときに世界は再生されると\n言われておるのじゃ。
-\n
-"May pure good and\n
-pure evil entwine, so
-<$0C>
-the world can be\n
-reborn."
+// \n完全なる善と、完全なる悪、このふたつが \n出会うときに世界は再生されると \n言われておるのじゃ。
+ \n
+"May pure good and pure evil entwine, \n
+so the world can be reborn." 
 <$00>
 
 // Pos: 00003432
@@ -525,26 +470,22 @@ reborn."
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nじゃあガリルは…\nもしかして完全なる善になろうってことなの。
-\n
-If that's the\n
-case...I suppose
+// \nじゃあガリルは… \nもしかして完全なる善になろうってことなの。
+ \n
+If that's the case...I suppose Galil \n
+perceives himself the "pure good" one
 <$0C>
-Galil perceives\n
-himself the "pure\n
-good" one of the two.
+of the two. 
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nすごいや、それで光の私なんだ。\n輝いてるんだ。
-\n
-That explains his, "I\n
-am the light,"
+// \nすごいや、それで光の私なんだ。 \n輝いてるんだ。
+ \n
+That explains his, "I am the light," \n
+statement and the light show around
 <$0C>
-statement and the\n
-light show around the\n
-Face.
+the Face. 
 <$00>
 
 // Pos: 00003483
@@ -557,37 +498,30 @@ Face.
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n全ては妄想のなせるワザじゃ。
-\n
-Fantasies can fool\n
-most anyone in any
-<$0C>
-which way the fooled\n
-desires.
+// \n全ては妄想のなせるワザじゃ。
+ \n
+Fantasies can fool most anyone in any \n
+which way the fooled desires. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nガリルはイーブルマインドをさぐるうちに\n世界の再生に触れた預言と出会った。
-\n
-In Galil's search for\n
-Evil Mind, he
+// \nガリルはイーブルマインドをさぐるうちに \n世界の再生に触れた預言と出会った。
+ \n
+In Galil's search for Evil Mind, he \n
+uncovered the prophecies detailing
 <$0C>
-uncovered the\n
-prophecies detailing\n
-world rebirth.
+world rebirth. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nとうの昔に死んだ流刑者が残したもので、\nエレミヤの預言と呼ばれておる。
-\n
-These prophecies were\n
-left behind by an
+// \nとうの昔に死んだ流刑者が残したもので、 \nエレミヤの預言と呼ばれておる。
+ \n
+These prophecies were left behind by \n
+an exile who died long ago. That was
 <$0C>
-exile who died long\n
-ago. That was\n
-Jeremiah the Exile.
+Jeremiah the Exile. 
 <$00>
 
 // Pos: 0000351C
@@ -600,14 +534,12 @@ Jeremiah the Exile.
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nそうだったのか…さっき見た黒い騎士も\nその預言から現れたんだな。
-\n
-I see... So, the\n
-rising Black Rider we
+// \nそうだったのか…さっき見た黒い騎士も \nその預言から現れたんだな。
+ \n
+I see... So, the rising Black Rider we saw \n
+earlier must be a participant of this
 <$0C>
-saw earlier must be a\n
-participant of this\n
-prophecy.
+prophecy. 
 <$00>
 
 // Pos: 0000354E
@@ -620,31 +552,25 @@ prophecy.
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nガリルの妄想をふせぐには、\nエレミヤの預言を得ることじゃ。
-\n
-To stop Galil's\n
-fantasy, you must
-<$0C>
-find Jeremiah's five\n
-prophecies first.
+// \nガリルの妄想をふせぐには、 \nエレミヤの預言を得ることじゃ。
+ \n
+To stop Galil's fantasy, you must find \n
+Jeremiah's five prophecies first. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\n５つの預言全てを銀のカプセルに\n閉じ込めるのじゃ。
-\n
-You can lock all five\n
-prophecies inside of
-<$0C>
-a silver capsule.
+// \n５つの預言全てを銀のカプセルに \n閉じ込めるのじゃ。
+ \n
+You can lock all five prophecies inside \n
+of a silver capsule. 
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
-//\nやつはまだ全てを手に入れたわけではない。\n今のうちじゃ。
-\n
-Galil has not found\n
-all five of them yet.
+// \nやつはまだ全てを手に入れたわけではない。 \n今のうちじゃ。
+ \n
+Galil has not found all five of them yet. 
 <$00>
 
 // Pos: 000035DD
@@ -657,25 +583,19 @@ all five of them yet.
 //ライカ…？：
 Laika(?):
 <$0D>
-//\n銀のカプセル… 確か記憶の谷で…
-\n
-A silver capsule, got\n
-it. I found one in
-<$0C>
-Memory Valley.
+// \n銀のカプセル… 確か記憶の谷で…
+ \n
+A silver capsule, got it. I found one in \n
+Memory Valley. 
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
 <$0D>
-//\nねぇ、預言はどこなの？\nユニバーサルマンに会えばいいの？
-\n
-...Speaking of which,\n
-where are the
+// \nねぇ、預言はどこなの？ \nユニバーサルマンに会えばいいの？
+ \n
+...Speaking of which, where are the \n
+prophecies? Is it possible for me to
 <$0C>
-prophecies? Is it\n
-possible for me to\n
-speak with Universal
-<$0C>
-Man?
+speak with Universal Man? 
 <$00>
 

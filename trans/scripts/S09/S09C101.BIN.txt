@@ -15,22 +15,18 @@
 //リバー：
 Liever:
 <$0D>
-//\nあんたがさがしてるメディスンマンは、\n階段を降りたところにいるよ。
-\n
-The medicine man you\n
-seek is just down
-<$0C>
-this stairway.
+// \nあんたがさがしてるメディスンマンは、 \n階段を降りたところにいるよ。
+ \n
+The medicine man you seek is just \n
+down this stairway. 
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-//\nイーブルマインドが下がって\n通れるようになったんだ。
-\n
-With Evil Mind now\n
-out of the way, you
-<$0C>
-can get through.
+// \nイーブルマインドが下がって \n通れるようになったんだ。
+ \n
+With Evil Mind now out of the way, you \n
+can get through. 
 <$00>
 
 // Pos: 00001CF1
@@ -43,12 +39,10 @@ can get through.
 //スペーサー：
 Spacer:
 <$0D>
-//\nユニバーサルマンか！
-\n
-The stairs here will\n
-take me to Universal
-<$0C>
-Man?
+// \nユニバーサルマンか！
+ \n
+The stairs here will take me to \n
+Universal Man? 
 <$00>
 
 // Pos: 00001D08
@@ -61,14 +55,12 @@ Man?
 //リバー：
 Liever:
 <$0D>
-//\nそうだよ。\n彼はこのグランパでずっと眠ってるんだ。\n預言と共に眠ってるのさ。
-\n
-Yes. He's been\n
-resting in the
+// \nそうだよ。 \n彼はこのグランパでずっと眠ってるんだ。 \n預言と共に眠ってるのさ。
+ \n
+Yes. He's been resting in the ground, \n
+keeping the prophecy safe all this
 <$0C>
-ground, keeping the\n
-prophecy safe all\n
-this time.
+time. 
 <$00>
 
 // Pos: 00001D3E
@@ -81,12 +73,10 @@ this time.
 //スペーサー：
 Spacer:
 <$0D>
-//\n預言！\nそうか、ユニバーサルマンが知っているのか！
-\n
-Does Universal Man\n
-know all of the
-<$0C>
-prophecies?
+// \n預言！ \nそうか、ユニバーサルマンが知っているのか！
+ \n
+Does Universal Man know all of the \n
+prophecies? 
 <$00>
 
 // Pos: 00001D66
@@ -99,12 +89,10 @@ prophecies?
 //リバー：
 Liever:
 <$0D>
-//\n全部じゃないと思うけどね。\nエレミヤの預言を得るのはあんたの仕事だよ。
-\n
-Not all. Remember,\n
-it's your job to find
-<$0C>
-Jeremiah's prophecies.
+// \n全部じゃないと思うけどね。 \nエレミヤの預言を得るのはあんたの仕事だよ。
+ \n
+Not all. Remember, it's your job to find \n
+Jeremiah's prophecies. 
 <$00>
 
 // Pos: 00001D9B
@@ -117,12 +105,10 @@ Jeremiah's prophecies.
 //スペーサー：
 Spacer:
 <$0D>
-//\nエレミヤ…死んだ流刑者のことだな。\nそれがなぜ私と関係あるんだ…
-\n
-Jeremiah the Exile's\n
-the dead guy, right?
-<$0C>
-What does want?
+// \nエレミヤ…死んだ流刑者のことだな。 \nそれがなぜ私と関係あるんだ…
+ \n
+Jeremiah the Exile's the dead guy, \n
+right? What does want? 
 <$00>
 
 // Pos: 00001DCE
@@ -135,14 +121,12 @@ What does want?
 //リバー：
 Liever:
 <$0D>
-//\n理解できないとダメなのさ。\nそれに銀のカプセルがないと、預言は\n呪いの言葉になってあんたを焼き尽くすよ。
-\n
-Understanding. But be\n
-warned, without the
+// \n理解できないとダメなのさ。 \nそれに銀のカプセルがないと、預言は \n呪いの言葉になってあんたを焼き尽くすよ。
+ \n
+Understanding. But be warned, \n
+without the silver capsule,
 <$0C>
-silver capsule,\n
-Jeremiah's words will\n
-consume you.
+Jeremiah's words will consume you. 
 <$00>
 
 // Pos: 00001E15
@@ -155,16 +139,13 @@ consume you.
 //スペーサー：
 Spacer:
 <$0D>
-//\n銀の… おお、持ってる、\n持ってるぞ、銀のカプセル！
-\n
-The silver what...?\n
-Oh, the silver
-<$0C>
-capsule! We've got\n
-that!
+// \n銀の… おお、持ってる、 \n持ってるぞ、銀のカプセル！
+ \n
+The silver what...? Oh, the silver \n
+capsule! We've got that! 
 <$00><$00><$11>
 //誰
-誰
+誰 
 <$1E><$17><$00>
 
 // Pos: 00001E47
@@ -177,14 +158,12 @@ that!
 //リバー：
 Liever:
 <$0D>
-//\nもう行くよ。付き合ってくれてありがとう。\nこれ、もういらないからお礼にあげるよ、\n赤い石。
-\n
-I'm going now. Thank\n
-you for seeing me. I
+// \nもう行くよ。付き合ってくれてありがとう。 \nこれ、もういらないからお礼にあげるよ、 \n赤い石。
+ \n
+I'm going now. Thank you for seeing \n
+me. I don't need this red stone
 <$0C>
-don't need this red\n
-stone anymore, so\n
-take it.
+anymore, so take it. 
 <$00>
 
 // Pos: 00001E85
@@ -194,15 +173,15 @@ take it.
 #WHB(PTR, $000004AD)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
       
 <$0D>
 //赤い石を手に入れた。
-Red Stone acquired.
+Red Stone acquired. 
 <$00>
 
 // Pos: 00001E9E
@@ -215,14 +194,12 @@ Red Stone acquired.
 //スペーサー：
 Spacer:
 <$0D>
-//\nもうひとつの青い石はどうした？ リトルか？\nリトルに渡したんだな。\nおい、リバー、リトルを呼び出してくれ。
-\n
-What happened to the\n
-blue stone? Does
+// \nもうひとつの青い石はどうした？ リトルか？ \nリトルに渡したんだな。 \nおい、リバー、リトルを呼び出してくれ。
+ \n
+What happened to the blue stone? Does \n
+Little have it?! Quick, Liever, call Little
 <$0C>
-Little have it?!\n
-Quick, Liever, call\n
-Little back!
+back! 
 <$00>
 
 // Pos: 00001EE5
@@ -235,10 +212,9 @@ Little back!
 //スペーサー：
 Spacer:
 <$0D>
-//\nリバー！\nどうしたんだ？ リバー！
-\n
-Liever, what's\n
-happening? Liever!
+// \nリバー！ \nどうしたんだ？ リバー！
+ \n
+Liever, what's happening? Liever! 
 <$00>
 
 // Pos: 00001F03
@@ -251,12 +227,10 @@ happening? Liever!
 //スペーサー：
 Spacer:
 <$0D>
-//\nいなくなった…\n用済み…
-\n
-He's gone... I guess\n
-he "served his
-<$0C>
-purpose".
+// \nいなくなった… \n用済み…
+ \n
+He's gone... I guess he "served his \n
+purpose". 
 <$00>
 
 // Pos: 00001F1E
@@ -265,7 +239,7 @@ purpose".
 
 #WHB(PTR, $00001A65)
 
-
+ 
 <$00><$00>
 
 // Pos: 00001F20
@@ -274,7 +248,7 @@ purpose".
 
 #WHB(PTR, $00001A69)
 
-
+ 
 <$00><$00>
 
 // Pos: 00001F22
@@ -284,7 +258,7 @@ purpose".
 #WHB(PTR, $00001A6D)
 
 //マラケシュフラワー
-Marrakech Flower
+Marrakech Flower 
 <$00>
 
 // Pos: 00001F2C
@@ -294,7 +268,7 @@ Marrakech Flower
 #WHB(PTR, $00001A71)
 
 //花の命ははかない？
-A flower, wilted?
+A flower, wilted? 
 <$00>
 
 // Pos: 00001F38
@@ -304,7 +278,7 @@ A flower, wilted?
 #WHB(PTR, $00001A75)
 
 //ブーマーズナイト
-Boomer Night
+Boomer Night 
 <$00><$00>
 
 // Pos: 00001F42
@@ -314,7 +288,7 @@ Boomer Night
 #WHB(PTR, $00001A79)
 
 //怖い夜って？
-A scary evening?
+A scary evening? 
 <$00><$00>
 
 // Pos: 00001F4C
@@ -324,7 +298,7 @@ A scary evening?
 #WHB(PTR, $00001A7D)
 
 //クロウドリーム
-Crow Dream
+Crow Dream 
 <$00>
 
 // Pos: 00001F54
@@ -334,7 +308,7 @@ Crow Dream
 #WHB(PTR, $00001A81)
 
 //夢の散歩者？
-A strolling dream?
+A strolling dream? 
 <$00><$00>
 
 // Pos: 00001F60
@@ -344,7 +318,7 @@ A strolling dream?
 #WHB(PTR, $00001A85)
 
 //ジャニュアリー
-January
+January 
 <$00>
 
 // Pos: 00001F68
@@ -354,7 +328,7 @@ January
 #WHB(PTR, $00001A89)
 
 //始まりの１月
-When solemnity began?
+When solemnity began? 
 <$00><$00>
 
 // Pos: 00001F72
@@ -364,7 +338,7 @@ When solemnity began?
 #WHB(PTR, $00001A8D)
 
 //フェブラリー
-February
+February 
 <$00><$00>
 
 // Pos: 00001F7A
@@ -374,7 +348,7 @@ February
 #WHB(PTR, $00001A91)
 
 //凍える２月
-When everything froze?
+When everything froze? 
 <$00>
 
 // Pos: 00001F82
@@ -384,7 +358,7 @@ When everything froze?
 #WHB(PTR, $00001A95)
 
 //マーチ
-March
+March 
 <$00>
 
 // Pos: 00001F86
@@ -394,7 +368,7 @@ March
 #WHB(PTR, $00001A99)
 
 //３月、芽吹く春
-When new life budded?
+When new life budded? 
 <$00><$00>
 
 // Pos: 00001F92
@@ -404,7 +378,7 @@ When new life budded?
 #WHB(PTR, $00001A9D)
 
 //メイ
-May
+May 
 <$00><$00>
 
 // Pos: 00001F96
@@ -414,7 +388,7 @@ May
 #WHB(PTR, $00001AA1)
 
 //５月、光のシーズン
-When light came down?
+When light came down? 
 <$00>
 
 // Pos: 00001FA2
@@ -424,7 +398,7 @@ When light came down?
 #WHB(PTR, $00001AA5)
 
 //ジュン
-June
+June 
 <$00>
 
 // Pos: 00001FA6
@@ -434,7 +408,7 @@ June
 #WHB(PTR, $00001AA9)
 
 //悲しみの６月
-When sadness deepened?
+When sadness deepened? 
 <$00><$00>
 
 // Pos: 00001FB0
@@ -444,7 +418,7 @@ When sadness deepened?
 #WHB(PTR, $00001AAD)
 
 //ジュライ
-July
+July 
 <$00><$00>
 
 // Pos: 00001FB6
@@ -454,7 +428,7 @@ July
 #WHB(PTR, $00001AB1)
 
 //風の７月
-When breezes soothed?
+When breezes soothed? 
 <$00><$00>
 
 // Pos: 00001FBE
@@ -464,7 +438,7 @@ When breezes soothed?
 #WHB(PTR, $00001AB5)
 
 //オーガスト
-August
+August 
 <$00>
 
 // Pos: 00001FC4
@@ -474,8 +448,7 @@ August
 #WHB(PTR, $00001AB9)
 
 //寝付けない８月の夜
-When nights were\n
-longest?
+When nights were longest? 
 <$00>
 
 // Pos: 00001FD2
@@ -485,7 +458,7 @@ longest?
 #WHB(PTR, $00001ABD)
 
 //セプテンバー
-September
+September 
 <$00><$00>
 
 // Pos: 00001FDA
@@ -495,8 +468,7 @@ September
 #WHB(PTR, $00001AC1)
 
 //９月、実り
-When miracles were\n
-due?
+When miracles were due? 
 <$00>
 
 // Pos: 00001FE2
@@ -506,7 +478,7 @@ due?
 #WHB(PTR, $00001AC5)
 
 //ノベンバー
-November
+November 
 <$00>
 
 // Pos: 00001FE8
@@ -516,7 +488,7 @@ November
 #WHB(PTR, $00001AC9)
 
 //冷たい朝、１１月
-When fog closed in?
+When fog closed in? 
 <$00>
 
 // Pos: 00001FF4
@@ -526,7 +498,7 @@ When fog closed in?
 #WHB(PTR, $00001ACD)
 
 //ディセンバー
-December
+December 
 <$00><$00>
 
 // Pos: 00001FFC
@@ -536,8 +508,7 @@ December
 #WHB(PTR, $00001AD1)
 
 //春のような１２月
-When omens were\n
-realized?
+When omens were realized? 
 <$00>
 
 // Pos: 00002006
@@ -548,7 +519,7 @@ realized?
 
 <$08>
 //砂のシンパシー
-Sand Sympathy
+Sand Sympathy 
 <$05><$00><$00>
 
 // Pos: 00002012
@@ -558,7 +529,7 @@ Sand Sympathy
 #WHB(PTR, $00001AD9)
 
 //ダミアヌスを呼び出す
-Calls for Damian
+Calls for Damian 
 <$00><$00>
 
 // Pos: 00002020
@@ -569,7 +540,7 @@ Calls for Damian
 
 <$08>
 //銀のカプセル
-Silver Capsule
+Silver Capsule 
 <$05><$00>
 
 // Pos: 0000202A
@@ -579,8 +550,7 @@ Silver Capsule
 #WHB(PTR, $00001AE1)
 
 //５つの預言をしまう
-Stores the five\n
-propechies
+Stores the five propechies 
 <$00><$00>
 
 // Pos: 00002036
@@ -591,7 +561,7 @@ propechies
 
 <$08>
 //赤い石
-Red Stone
+Red Stone 
 <$05><$00>
 
 // Pos: 0000203E
@@ -601,7 +571,7 @@ Red Stone
 #WHB(PTR, $00001AE9)
 
 //赤い石
-Red Stone
+Red Stone 
 <$00>
 
 // Pos: 00002044
@@ -612,7 +582,7 @@ Red Stone
 
 <$08>
 //青い石
-Blue Stone
+Blue Stone 
 <$05><$00>
 
 // Pos: 0000204C
@@ -622,7 +592,7 @@ Blue Stone
 #WHB(PTR, $00001AF1)
 
 //青い石
-Blue Stone
+Blue Stone 
 <$00>
 
 // Pos: 00002052
@@ -633,7 +603,7 @@ Blue Stone
 
 <$08>
 //白い石
-White Stone
+White Stone 
 <$05><$00>
 
 // Pos: 0000205A
@@ -643,7 +613,7 @@ White Stone
 #WHB(PTR, $00001AF9)
 
 //白い石
-White Stone
+White Stone 
 <$00>
 
 // Pos: 00002060
@@ -654,7 +624,7 @@ White Stone
 
 <$08>
 //黄色い石
-Yellow Stone
+Yellow Stone 
 <$05><$00>
 
 // Pos: 0000206A
@@ -664,7 +634,7 @@ Yellow Stone
 #WHB(PTR, $00001B01)
 
 //黄色い石
-Yellow Stone
+Yellow Stone 
 <$00>
 
 // Pos: 00002072
@@ -675,7 +645,7 @@ Yellow Stone
 
 <$08>
 //綠の石
-Green Stone
+Green Stone 
 <$05><$00>
 
 // Pos: 0000207A
@@ -685,7 +655,7 @@ Green Stone
 #WHB(PTR, $00001B09)
 
 //綠の石
-Green Stone
+Green Stone 
 <$00>
 
 // Pos: 00002080
@@ -699,7 +669,7 @@ Green Stone
 #WHB(PTR, $00001B0D)
 
 //Pカプセル
-P Capsule
+P Capsule 
 <$00>
 
 // Pos: 00002086
@@ -713,7 +683,7 @@ P Capsule
 #WHB(PTR, $00001B11)
 
 //知悪を増やすクスリ
-Boosts wisdom
+Boosts wisdom 
 <$00>
 
 // Pos: 00002092
@@ -723,7 +693,7 @@ Boosts wisdom
 #WHB(PTR, $00001B15)
 
 //Aカプセル
-A Capsule
+A Capsule 
 <$00>
 
 // Pos: 00002098
@@ -733,7 +703,7 @@ A Capsule
 #WHB(PTR, $00001B19)
 
 //力悪を増やすクスリ
-Boosts power
+Boosts power 
 <$00>
 
 // Pos: 000020A4
@@ -743,7 +713,7 @@ Boosts power
 #WHB(PTR, $00001B1D)
 
 //Vカプセル
-V Capsule
+V Capsule 
 <$00>
 
 // Pos: 000020AA
@@ -753,7 +723,7 @@ V Capsule
 #WHB(PTR, $00001B21)
 
 //欲悪を増やすクスリ
-Boosts greed
+Boosts greed 
 <$00>
 
 // Pos: 000020B6
@@ -763,7 +733,7 @@ Boosts greed
 #WHB(PTR, $00001B25)
 
 //ペキン
-Peking
+Peking 
 <$00>
 
 // Pos: 000020BA
@@ -773,7 +743,7 @@ Peking
 #WHB(PTR, $00001B29)
 
 //知悪をかなり増やせる
-Greatly boosts wisdom
+Greatly boosts wisdom 
 <$00><$00>
 
 // Pos: 000020C8
@@ -783,7 +753,7 @@ Greatly boosts wisdom
 #WHB(PTR, $00001B2D)
 
 //マルセイユ
-Marseille
+Marseille 
 <$00>
 
 // Pos: 000020CE
@@ -793,7 +763,7 @@ Marseille
 #WHB(PTR, $00001B31)
 
 //力悪をかなり増やせる
-Greatly boosts power
+Greatly boosts power 
 <$00><$00>
 
 // Pos: 000020DC
@@ -803,7 +773,7 @@ Greatly boosts power
 #WHB(PTR, $00001B35)
 
 //サイゴン
-Saigon
+Saigon 
 <$00><$00>
 
 // Pos: 000020E2
@@ -813,7 +783,7 @@ Saigon
 #WHB(PTR, $00001B39)
 
 //欲悪をかなり増やせる
-Greatly boosts greed
+Greatly boosts greed 
 <$00><$00>
 
 // Pos: 000020F0
@@ -823,7 +793,7 @@ Greatly boosts greed
 #WHB(PTR, $00001B3D)
 
 //フラッシュ
-Flash
+Flash 
 <$00>
 
 // Pos: 000020F6
@@ -833,7 +803,7 @@ Flash
 #WHB(PTR, $00001B41)
 
 //マインドスコープを中和
-Wipes the Mind Scope
+Wipes the Mind Scope 
 <$00>
 
 // Pos: 00002104
@@ -843,7 +813,7 @@ Wipes the Mind Scope
 #WHB(PTR, $00001B45)
 
 //４９
-49
+49 
 <$00><$00>
 
 // Pos: 00002108
@@ -853,7 +823,7 @@ Wipes the Mind Scope
 #WHB(PTR, $00001B49)
 
 //惑応中の悪を増やす
-Boosts evil reception
+Boosts evil reception 
 <$00>
 
 // Pos: 00002116
@@ -863,7 +833,7 @@ Boosts evil reception
 #WHB(PTR, $00001B4D)
 
 //マジックライト
-Magic Light
+Magic Light 
 <$00>
 
 // Pos: 0000211E
@@ -873,7 +843,7 @@ Magic Light
 #WHB(PTR, $00001B51)
 
 //３悪いずれかを増やす
-Boosts one evil
+Boosts one evil 
 <$00>
 
 // Pos: 0000212A
@@ -883,7 +853,7 @@ Boosts one evil
 #WHB(PTR, $00001B55)
 
 //ブルースモーク
-Blue Smoke
+Blue Smoke 
 <$00>
 
 // Pos: 00002132
@@ -893,7 +863,7 @@ Blue Smoke
 #WHB(PTR, $00001B59)
 
 //スペーサーのEM回復
-Restores Spacer's EM
+Restores Spacer's EM 
 <$00><$00>
 
 // Pos: 00002140
@@ -903,7 +873,7 @@ Restores Spacer's EM
 #WHB(PTR, $00001B5D)
 
 //レッドスモーク
-Red Smoke
+Red Smoke 
 <$00>
 
 // Pos: 00002148
@@ -913,7 +883,7 @@ Red Smoke
 #WHB(PTR, $00001B61)
 
 //アーネストのEM回復
-Restores Ernest's EM
+Restores Ernest's EM 
 <$00><$00>
 
 // Pos: 00002156
@@ -923,7 +893,7 @@ Restores Ernest's EM
 #WHB(PTR, $00001B65)
 
 //イエロースモーク
-Yellow Smoke
+Yellow Smoke 
 <$00><$00>
 
 // Pos: 00002160
@@ -933,7 +903,7 @@ Yellow Smoke
 #WHB(PTR, $00001B69)
 
 //ヨランダのEM回復
-Restores Yolanda's EM
+Restores Yolanda's EM 
 <$00>
 
 // Pos: 0000216C
@@ -943,7 +913,7 @@ Restores Yolanda's EM
 #WHB(PTR, $00001B6D)
 
 //タオゴールド
-Tao Gold
+Tao Gold 
 <$00><$00>
 
 // Pos: 00002174
@@ -953,7 +923,7 @@ Tao Gold
 #WHB(PTR, $00001B71)
 
 //全てのEMを回復する
-Restores all EMs
+Restores all EMs 
 <$00><$00><$00>
 
 // Pos: 00002184
@@ -963,10 +933,9 @@ Restores all EMs
 #WHB(PTR, $00000425)
 
 <$10>
-//アイテムがいっぱいです。\nどれか、捨てるアイテムを選んでください。
-The item bag is full!\n
-Select an item to\n
-discard.
+//アイテムがいっぱいです。 \nどれか、捨てるアイテムを選んでください。
+The item bag is full! \n
+Select an item to discard. 
 <$0E><$1E><$17><$00>
 
 // Pos: 000021AC
@@ -976,9 +945,8 @@ discard.
 #WHB(PTR, $00000445)
 
 <$10>
-//それは、捨てられません。\nもう一度、アイテムを選んでください。
-That item cannot be\n
-discarded.\n
-Please try again.
+//それは、捨てられません。 \nもう一度、アイテムを選んでください。
+That item cannot be discarded. \n
+Please try again. 
 <$0E><$1E><$17><$00>
 

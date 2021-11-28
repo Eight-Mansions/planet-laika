@@ -12,9 +12,9 @@
 #WHB(PTR, $00000539)
 
 <$10>
-//\nアイテムがいっぱいです。
-\n
-The item bag is full!
+// \nアイテムがいっぱいです。
+ \n
+The item bag is full! 
 <$0E><$1E><$17><$00>
 
 // Pos: 0000420B
@@ -24,15 +24,15 @@ The item bag is full!
 #WHB(PTR, $00000571)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
       
 <$0D>
 //赤い石を手に入れた。
-Red Stone acquired.
+Red Stone acquired. 
 <$00>
 
 // Pos: 00004224
@@ -45,13 +45,10 @@ Red Stone acquired.
 //スペーサー：
 Spacer:
 <$0D>
-//\nこの石は…これが酸索石なのか…\nいや建う…他にもどこかで見たようだが…
-\n
-This stone. Is it\n
-oxygenite...? No, but
-<$0C>
-I have seen it\n
-somewhere before.
+// \nこの石は…これが酸索石なのか… \nいや建う…他にもどこかで見たようだが…
+ \n
+This stone. Is it oxygenite...? No, but I \n
+have seen it somewhere before. 
 <$00>
 
 // Pos: 0000425A
@@ -64,13 +61,12 @@ somewhere before.
 //スペーサー：
 Spacer:
 <$0D>
-//\nヘロデ、悪夢の中にいるんじゃなかったのか…\n向こうで目覚めて戻ってきたのか？
-\n
-Herod? I thought you\n
-were in one of your
+// \nヘロデ、悪夢の中にいるんじゃなかったのか… \n向こうで目覚めて戻ってきたのか？
+ \n
+Herod? I thought you were in one of \n
+your nightmares right now. Did you
 <$0C>
-nightmares right now.\n
-Did you wake up?
+wake up? 
 <$00>
 
 // Pos: 00004293
@@ -83,52 +79,41 @@ Did you wake up?
 //ヘロデ：
 Herod:
 <$0D>
-//\nここは悪夢じゃない…\nもっと別なイヤな場所だ。
-\n
-This may not be a\n
-nightmare, but a
-<$0C>
-differently vile\n
-place.
+// \nここは悪夢じゃない… \nもっと別なイヤな場所だ。
+ \n
+This may not be a nightmare, but a \n
+differently vile place. 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n俺のみにくい人生が、\nどっしりとのしかかってくる。
-\n
-My hideous life looms\n
-high over my head at
-<$0C>
-all times.
+// \n俺のみにくい人生が、 \nどっしりとのしかかってくる。
+ \n
+My hideous life looms high over my \n
+head at all times. 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nああ、早く抜け出したい
-\n
-I want out! I want\n
-out of it NOW!
+// \nああ、早く抜け出したい
+ \n
+I want out! I want out of it NOW! 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n悪夢の中だったら、くそっ、本当だったら\nアガタがむかえに来ているはずだ。
-\n
-If this WAS a\n
-nightmare, if that
-<$0C>
-WAS the case,\n
-Agatha've come for me.
+// \n悪夢の中だったら、くそっ、本当だったら \nアガタがむかえに来ているはずだ。
+ \n
+If this WAS a nightmare, if that WAS the \n
+case, Agatha've come for me. 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n誰かが邪魔してやがる、\nそんな気がするんだ。
-\n
-Still, I do feel\n
-something. Someone,
-<$0C>
-making a disturbance.
+// \n誰かが邪魔してやがる、 \nそんな気がするんだ。
+ \n
+Still, I do feel something. Someone, \n
+making a disturbance. 
 <$00>
 
 // Pos: 00004341
@@ -141,20 +126,17 @@ making a disturbance.
 //スペーサー：
 Spacer:
 <$0D>
-//\n誰かが… あんたが悪夢に入るのを\n邪魔してるというのか。
-\n
-Do you feel a\n
-disturbance every
-<$0C>
-time someone enters\n
-your nightmares?
+// \n誰かが… あんたが悪夢に入るのを \n邪魔してるというのか。
+ \n
+Do you feel a disturbance every time \n
+someone enters your nightmares? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n誰なんだ？
-\n
-Is someone else here?
+// \n誰なんだ？
+ \n
+Is someone else here? 
 <$00>
 
 // Pos: 0000437F
@@ -167,23 +149,18 @@ Is someone else here?
 //ヘロデ：
 Herod:
 <$0D>
-//\nでかいやつだ…\nああ、そうだ、深い苦しみの権化みたいな…。
-\n
-Yes, a great being...\n
-They are deep
-<$0C>
-suffering incarnate.
+// \nでかいやつだ… \nああ、そうだ、深い苦しみの権化みたいな…。
+ \n
+Yes, a great being... They are deep \n
+suffering incarnate. 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nそいつが邪魔してる限り、\n俺は夢の中に入れないんだ。
-\n
-As long their\n
-disturbance exists, I
-<$0C>
-will not make it into\n
-dreaming.
+// \nそいつが邪魔してる限り、 \n俺は夢の中に入れないんだ。
+ \n
+As long their disturbance exists, I will \n
+not make it into dreaming. 
 <$00>
 
 // Pos: 000043D1
@@ -196,20 +173,17 @@ dreaming.
 //スペーサー：
 Spacer:
 <$0D>
-//\nそいつを取り除けばいいんだな。
-\n
-Then they to be given\n
-the boot.
+// \nそいつを取り除けばいいんだな。
+ \n
+Then they to be given the boot. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n私にできるか、\nどうなんだヘロデ。
-\n
-Maybe I can help.\n
-Where do I start,
-<$0C>
-Herod?
+// \n私にできるか、 \nどうなんだヘロデ。
+ \n
+Maybe I can help. Where do I start, \n
+Herod? 
 <$00>
 
 // Pos: 0000440A
@@ -222,30 +196,25 @@ Herod?
 //ヘロデ：
 Herod:
 <$0D>
-//\n分からん。やってくれ。
-\n
-I don't know! Just do\n
-it!
+// \n分からん。やってくれ。
+ \n
+I don't know! Just do it! 
 <$0C><$12><$0B><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n俺は お、お、何だ、この気分は
-\n
-I don't...oh! Oh, no!\n
-W-what's this
-<$0C>
-feeling?!
+// \n俺は お、お、何だ、この気分は
+ \n
+I don't...oh! Oh, no! W-what's this \n
+feeling?! 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nまだ俺を苦しめようっていうのか！
-\n
-WHY?! WHY ARE YOU\n
-STILL TRYING TO HURT
-<$0C>
-ME?!
+// \nまだ俺を苦しめようっていうのか！
+ \n
+WHY?! WHY ARE YOU STILL TRYING TO \n
+HURT ME?! 
 <$00>
 
 // Pos: 00004450
@@ -258,12 +227,10 @@ ME?!
 //ヘロデ：
 Herod:
 <$0D>
-//\nおおお、何だ…\n完全なる善を見よ… 何のことだ？
-\n
-Augh! What?! "Behold\n
-pure good"?! What
-<$0C>
-does that mean?!
+// \nおおお、何だ… \n完全なる善を見よ… 何のことだ？
+ \n
+Augh! What?! "Behold pure good"?! \n
+What does that mean?! 
 <$00>
 
 // Pos: 00004474
@@ -274,15 +241,12 @@ does that mean?!
 
 <$10><$13><$18><$08>
 //完全なる善を見よ。完全なる悪を見よ。
-Behold pure good!\n
-Behold pure evil!
+Behold pure good! Behold pure evil! 
 <$0C>
-//このふたつが最後の出会いを果たすとき、\nタマシイは再生の時を得るであろう。
-May the two meet at\n
-the end of the world,\n
-that the spirit will
-<$0C>
-know rebirth.
+//このふたつが最後の出会いを果たすとき、 \nタマシイは再生の時を得るであろう。
+May the two meet at the end of the \n
+world, that the spirit will know \n
+rebirth. 
 <$05><$00>
 
 // Pos: 000044C0
@@ -292,16 +256,15 @@ know rebirth.
 #WHB(PTR, $00000C11)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
       
 <$0D>
 //第ニの預言を得た。
-So sayeth the\n
-second prophecy.
+So sayeth the second prophecy. 
 <$00>
 
 // Pos: 000044D8
@@ -314,13 +277,10 @@ second prophecy.
 //スペーサー：
 Spacer:
 <$0D>
-//\nヘロデが預言を…\n彼は死の世界にいるのか？
-\n
-Herod recited a\n
-prophecy. Does that
-<$0C>
-mean he's in the Land\n
-of the Dead now?
+// \nヘロデが預言を… \n彼は死の世界にいるのか？
+ \n
+Herod recited a prophecy. Does that \n
+mean he's in the Land of the Dead now? 
 <$00>
 
 // Pos: 000044FF
@@ -333,10 +293,9 @@ of the Dead now?
 //ウィリアム：
 William:
 <$0D>
-//\n今こそ終わりがお前の上に来る。
-\n
-Now! The end is upon\n
-you!
+// \n今こそ終わりがお前の上に来る。
+ \n
+Now! The end is upon you! 
 <$00>
 
 // Pos: 0000451D
@@ -349,33 +308,26 @@ you!
 //ウィリアム：
 William:
 <$0D>
-//\nふふふ、これがうわさの預言か…\nこれで全部か…建うだろ！
-\n
-Hehehe, THIS is the\n
-prophecy everyone's
-<$0C>
-talking about? No way!
+// \nふふふ、これがうわさの預言か… \nこれで全部か…建うだろ！
+ \n
+Hehehe, THIS is the prophecy \n
+everyone's talking about? No way! 
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
-//\nふふふ、僕の欲しかったのは\nこんなのじゃない！
-\n
-Ohohoh, but this\n
-isn't what William
-<$0C>
-wanted at all! Not\n
-this!
+// \nふふふ、僕の欲しかったのは \nこんなのじゃない！
+ \n
+Ohohoh, but this isn't what William \n
+wanted at all! Not this! 
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
-//\n僕には無理なんだ、\nやっぱり、何か足りないんだ！
-\n
-This isn't right for\n
-William! No,
-<$0C>
-something's missing!
+// \n僕には無理なんだ、 \nやっぱり、何か足りないんだ！
+ \n
+This isn't right for William! No, \n
+something's missing! 
 <$00>
 
 // Pos: 00004591
@@ -388,23 +340,20 @@ something's missing!
 //ウィリアム：
 William:
 <$0D>
-//\n僕は、僕は、\nあいつらが滅びるところを見たかったんだ。
-\n
-William...William\n
-only wanted to watch
+// \n僕は、僕は、 \nあいつらが滅びるところを見たかったんだ。
+ \n
+William...William only wanted to \n
+watch those philistines get their just
 <$0C>
-those philistines get\n
-their just desserts.
+desserts. 
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
-//\nコロニーのやつらさ、\nみんな死んでしまえ！
-\n
-William wanted every\n
-last fucker in this
-<$0C>
-colony to die!
+// \nコロニーのやつらさ、 \nみんな死んでしまえ！
+ \n
+William wanted every last fucker in \n
+this colony to die! 
 <$00>
 
 // Pos: 000045DA
@@ -417,10 +366,9 @@ colony to die!
 //ウィリアム：
 William:
 <$0D>
-//\nちくしょう！ ちくしょう！
-\n
-Damn you! Damn you\n
-all!
+// \nちくしょう！ ちくしょう！
+ \n
+Damn you! Damn you all! 
 <$00>
 
 // Pos: 000045F2
@@ -433,24 +381,19 @@ all!
 //ウィリアム：
 William:
 <$0D>
-//\n… あ… う…\n夜が追いかけて来るんだ…
-\n
-Oh...ohhh... The\n
-night is upon
-<$0C>
-William...
+// \n… あ… う… \n夜が追いかけて来るんだ…
+ \n
+Oh...ohhh... The night is upon William... 
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
-//\nあ、見ねぇ顔だな…\n脳ミソがパチパチだ… あうううう…
-\n
-Oh, why doesn't\n
-William recognize
+// \nあ、見ねぇ顔だな… \n脳ミソがパチパチだ… あうううう…
+ \n
+Oh, why doesn't William recognize this \n
+face... William's brain is crackling...
 <$0C>
-this face...\n
-William's brain is\n
-crackling... Hic!
+Hic! 
 <$00>
 
 // Pos: 0000463B
@@ -463,42 +406,34 @@ crackling... Hic!
 //ヘロデ：
 Herod:
 <$0D>
-//\n暗闇の中を歩いて光にぶつかった…
-\n
-"The people who walk\n
-in darkness will see
-<$0C>
-a great light."
+// \n暗闇の中を歩いて光にぶつかった…
+ \n
+"The people who walk in darkness will \n
+see a great light." 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nそいつが変な言葉になって、\n俺の中に入ってきやがった。
-\n
-I don't know who\n
-enjoys bleeding words
-<$0C>
-like that into my\n
-head...
+// \nそいつが変な言葉になって、 \n俺の中に入ってきやがった。
+ \n
+I don't know who enjoys bleeding \n
+words like that into my head... 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n俺にはそんな言葉なんざいらない、\nこの中途半端な場所から出たいんだ。
-\n
-I don't have time for\n
-such crazy talk. I
-<$0C>
-need out of this\n
-crazy place!
+// \n俺にはそんな言葉なんざいらない、 \nこの中途半端な場所から出たいんだ。
+ \n
+I don't have time for such crazy talk. I \n
+need out of this crazy place! 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nちくしょう、\nここはどこなんだ？
-\n
-But I don't even know\n
-where I am, dammit!
+// \nちくしょう、 \nここはどこなんだ？
+ \n
+But I don't even know where I am, \n
+dammit! 
 <$00>
 
 // Pos: 000046CA
@@ -511,35 +446,26 @@ where I am, dammit!
 //ヘロデ：
 Herod:
 <$0D>
-//\nあああ、また光だ！\n光が見えるぞ、あれか！ 出口か！
-\n
-Ohhh, it's another\n
-light! I see the
-<$0C>
-light! I'm on my way\n
-out!
+// \nあああ、また光だ！ \n光が見えるぞ、あれか！ 出口か！
+ \n
+Ohhh, it's another light! I see the light! \n
+I'm on my way out! 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nああ、建う…白い部屋だ。\n真っ白な部屋、あの部屋は何だ？
-\n
-Ohh, no... It's a\n
-white room. A pure
-<$0C>
-white room. What room\n
-is that?
+// \nああ、建う…白い部屋だ。 \n真っ白な部屋、あの部屋は何だ？
+ \n
+Ohh, no... It's a white room. A pure \n
+white room. What room is that? 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\n誰かの思い出なのか？\n俺でも平気なのか…真っ白な部屋だ。
-\n
-Is it someone's\n
-memory? I don't know
-<$0C>
-if this pure white\n
-room is safe.
+// \n誰かの思い出なのか？ \n俺でも平気なのか…真っ白な部屋だ。
+ \n
+Is it someone's memory? I don't know \n
+if this pure white room is safe. 
 <$00>
 
 // Pos: 0000474B
@@ -552,54 +478,44 @@ room is safe.
 //ヘロデ：
 Herod:
 <$0D>
-//\nやっと白い部屋を抜けたぞ、\nはは、いつもの悪夢だ。
-\n
-I finally made it out\n
-of the white room in
-<$0C>
-these everlasting\n
-nightmares.
+// \nやっと白い部屋を抜けたぞ、 \nはは、いつもの悪夢だ。
+ \n
+I finally made it out of the white room \n
+in these everlasting nightmares. 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nさあ、アガタ、早くむかえに来るんだ…\nあのいまいましい生クビ野郎め！
-\n
-Come on, Agatha, come\n
-for me soon. The
+// \nさあ、アガタ、早くむかえに来るんだ… \nあのいまいましい生クビ野郎め！
+ \n
+Come on, Agatha, come for me soon. \n
+The floating heads are chasing me
 <$0C>
-floating heads are\n
-chasing me again!
+again! 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nあああ、俺を追いかけてきやがる、\nいつもと建うじゃねぇか！
-\n
-Augh, but it's\n
-different from usual!
-<$0C>
-Get it away!
+// \nあああ、俺を追いかけてきやがる、 \nいつもと建うじゃねぇか！
+ \n
+Augh, but it's different from usual! Get \n
+it away! 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nどうなってんだ、生クビ野郎！\nくそぉ、来るんじゃない！
-\n
-What do you want from\n
-me, you filthy
-<$0C>
-heads?! No! Get away!
+// \nどうなってんだ、生クビ野郎！ \nくそぉ、来るんじゃない！
+ \n
+What do you want from me, you filthy \n
+heads?! No! Get away! 
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-//\nああああ、イヤだ、俺を見るな！\n助けてくれー。
-\n
-Don't look at me!\n
-GOD, DON'T LOOK AT
-<$0C>
-ME! SAVE MEEE!
+// \nああああ、イヤだ、俺を見るな！ \n助けてくれー。
+ \n
+Don't look at me! GOD, DON'T LOOK AT ME! \n
+SAVE MEEE! 
 <$00>
 
 // Pos: 0000480F
@@ -612,12 +528,10 @@ ME! SAVE MEEE!
 //スペーサー：
 Spacer:
 <$0D>
-//\n何だ、この音は？\n何かがはねてるような音だ。
-\n
-What's that noise? It\n
-sounds like something
-<$0C>
-is reverberating.
+// \n何だ、この音は？ \n何かがはねてるような音だ。
+ \n
+What's that noise? It sounds like \n
+something is reverberating. 
 <$00>
 
 // Pos: 00004834
@@ -630,10 +544,9 @@ is reverberating.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何？\n何がいるのよ、気味悪いわね。
-\n
-What's out here? Talk\n
-about creepy...
+// \n何？ \n何がいるのよ、気味悪いわね。
+ \n
+What's out here? Talk about creepy... 
 <$00>
 
 // Pos: 00004852
@@ -646,11 +559,9 @@ about creepy...
 //アーネスト：
 Ernest:
 <$0D>
-//\n何だ？\nはねていやがる？
-\n
-What's going on? Are\n
-people bouncing
-<$0C>
-around?
+// \n何だ？ \nはねていやがる？
+ \n
+What's going on? Are people bouncing \n
+around? 
 <$00>
 

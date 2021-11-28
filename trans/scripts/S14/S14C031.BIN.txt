@@ -27,36 +27,31 @@
 //トーマス：
 Thomas:
 <$0D>
-//\n今さっき、私なりの解釈が正しいと分かったよ、\nうんうん。
-\n
-I've just uncovered\n
-that my hypothesis
-<$0C>
-held true.
+// \n今さっき、私なりの解釈が正しいと分かったよ、 \nうんうん。
+ \n
+I've just uncovered that my \n
+hypothesis held true. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nやはり、あの解釈は正解だ、うんうん、\n寝ずにがんばってよかった。
-\n
-I sare say, my\n
-observations are all
+// \nやはり、あの解釈は正解だ、うんうん、 \n寝ずにがんばってよかった。
+ \n
+I sare say, my observations are all \n
+correct. You're lucky I work so
 <$0C>
-correct. You're lucky\n
-I work so tirelessly.
+tirelessly. 
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-//\nあの解釈とは、いやここでは止そう。
-\n
-But perhaps that's\n
-enough observing for
-<$0C>
-the day.
+// \nあの解釈とは、いやここでは止そう。
+ \n
+But perhaps that's enough observing \n
+for the day.
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00001899
@@ -69,17 +64,15 @@ the day.
 //トーマス：
 Thomas:
 <$0D>
-//\n集中力は負けないよ、うんうん、\n思念をね、こう、ぱーっと、送るんだ。
-\n
-There's no breaking\n
-my concentration.
+// \n集中力は負けないよ、うんうん、 \n思念をね、こう、ぱーっと、送るんだ。
+ \n
+There's no breaking my \n
+concentration. Thoughts come to me
 <$0C>
-Thoughts come to me\n
-of their own free\n
-will!
+of their own free will!
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 
 // Pos: 000018CF
@@ -92,23 +85,22 @@ will!
 //ブル：
 Bull:
 <$0D>
-//\n俺には用がねぇってよ。
-\n
-I guess I'm old news.
+// \n俺には用がねぇってよ。
+ \n
+I guess I'm old news. 
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
-//\nイースト、ウェストのやつらに追い出されたぜ、\n取り込み中なんだとよ、アガタは。
-\n
-Those East and West\n
-guys drove me out.
+// \nイースト、ウェストのやつらに追い出されたぜ、 \n取り込み中なんだとよ、アガタは。
+ \n
+Those East and West guys drove me \n
+out. What's Agatha so busy for right
 <$0C>
-What's Agatha so busy\n
-for right now?
+now?
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00001919
@@ -121,16 +113,13 @@ for right now?
 //ブル：
 Bull:
 <$0D>
-//\nイースト、ウェストのふたり、\nなんか変だったぜ。くっついてたぜ。
-\n
-East and West are so\n
-weird. They're
-<$0C>
-virtually glued\n
-together. 
+// \nイースト、ウェストのふたり、 \nなんか変だったぜ。くっついてたぜ。
+ \n
+East and West are so weird. They're \n
+virtually glued together. 
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00001945
@@ -143,33 +132,28 @@ together.
 //ブル：
 Bull:
 <$0D>
-//\nよう、なんだか寒くないか。\nどこかに穴があいたんだ。
-\n
-Brr, it's cold, isn't\n
-it. There's a hole
-<$0C>
-somewhere.
+// \nよう、なんだか寒くないか。 \nどこかに穴があいたんだ。
+ \n
+Brr, it's cold, isn't it. There's a hole \n
+somewhere. 
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
-//\nあの世につながる穴だ、\nスパーキーのやつがさがしに行ったぜ。
-\n
-It's a hole to the\n
-other world. Sparky
-<$0C>
-went looking for it.
+// \nあの世につながる穴だ、 \nスパーキーのやつがさがしに行ったぜ。
+ \n
+It's a hole to the other world. Sparky \n
+went looking for it. 
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
-//\nブリックロードに出て行ったぜ。
-\n
-He zipped off toward\n
-Brick Road.
+// \nブリックロードに出て行ったぜ。
+ \n
+He zipped off toward Brick Road.
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 000019AC
@@ -182,15 +166,12 @@ Brick Road.
 //ブル：
 Bull:
 <$0D>
-//\n寒いぜ… 何でこんなに寒いんだ。\nクリスマスだからか？
-\n
-It's cold! Why is\n
-everything so cold?
-<$0C>
-Because it's\n
-Christmas?
+// \n寒いぜ… 何でこんなに寒いんだ。 \nクリスマスだからか？
+ \n
+It's cold! Why is everything so cold? \n
+Because it's Christmas?
 <$1E>
 //家
-家
+家 
 <$00>
 

@@ -15,13 +15,10 @@
 //フェニックス：
 Phoenix:
 <$0D>
-//\n僕が… 死に憑かれているだと…\nこの僕が… エレミヤだと言うのか。
-\n
-I'm...being\n
-haunted...by death
-<$0C>
-itself... Jeremiah\n
-is...talking to me...
+// \n僕が… 死に憑かれているだと… \nこの僕が… エレミヤだと言うのか。
+ \n
+I'm...being haunted...by death itself... \n
+Jeremiah is...talking to me... 
 <$00>
 
 // Pos: 00002D71
@@ -32,24 +29,17 @@ is...talking to me...
 
 <$10><$13><$13><$08>
 //ここに新しき天と、新しき地とを見たり。
-For a new Heaven and\n
-a new Earth await you,
+For a new Heaven and a new Earth \n
+await you, 
 <$0C>
-//これまでの天とこれまでの地とは過ぎ去り、\n海もまた消え失せ、\n今よりのち、悲しみもさけびも苦しみもなく、
-may this Heaven and\n
-Earth pass, and may\n
-the seas dry, that
-<$0C>
-their sadness,\n
-loneliness and\n
-suffering are no more.
+//これまでの天とこれまでの地とは過ぎ去り、 \n海もまた消え失せ、 \n今よりのち、悲しみもさけびも苦しみもなく、
+may this Heaven and Earth pass, and \n
+may the seas dry, that their sadness, \n
+loneliness and suffering are no more. 
 <$0C>
 //歓喜の歌にたたえられた永遠が続くであろう。
-And May eternity move\n
-past this moment,\n
-chanting in
-<$0C>
-celebration.
+And May eternity move past this \n
+moment, chanting in celebration. 
 <$05><$00>
 
 // Pos: 00002DE7
@@ -59,16 +49,15 @@ celebration.
 #WHB(PTR, $00002CFD)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
       
 <$0D>
 //第五の預言を得た。
-So sayeth the\n
-fifth prophecy.
+So sayeth the fifth prophecy. 
 <$00>
 
 // Pos: 00002DFE
@@ -84,8 +73,7 @@ fifth prophecy.
 Doctor, can 
 <$0F>
 //は助かるのですか？
- be\n
-saved through surgery?
+ be saved through surgery? 
 <$00>
 
 // Pos: 00002E10
@@ -94,13 +82,10 @@ saved through surgery?
 
 #WHB(PTR, $00000839)
 
-//快からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
-We'll find out in the\n
-operation room.\n
-There's a mass near
-<$0C>
-the brain inciting\n
-hallucinations.
+//快からん、とにかく手術室へ。 \n脳のそばに何かがあるんだ、 \n幻覚はその影響だ。
+We'll find out in the operation room. \n
+There's a mass near the brain inciting \n
+hallucinations. 
 <$00>
 
 // Pos: 00002E40
@@ -120,13 +105,12 @@ hallucinations.
 //双
 双
 <$06>
-//生、オクトーバー先生！\nお願いします、
-\n
-Doctor! Doctor\n
-October, please! Save 
+//生、オクトーバー先生！ \nお願いします、
+ \n
+Doctor! Doctor October, please! Save 
 <$0F>
 //を…
-!
+! 
 <$00>
 
 // Pos: 00002E5E
@@ -135,19 +119,14 @@ October, please! Save
 
 #WHB(PTR, $000008F5)
 
-//捨ああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
-...Damn. The mass is\n
-too deep. If we force\n
-it too hard, we will
+//捨ああ、ダメだ、深すぎる。 \n無理をすれば脳を傷つけてしまう、 \n手術はあきらめるしかない。
+...Damn. The mass is too deep. If we \n
+force it too hard, we will damage the \n
+brain. 
 <$0C>
-damage the brain.
-<$0C>
-//今は小さな肉のかたまり…\nだが、共に成長したとき…
-Even though the mass\n
-is small, we must\n
-give up on the
-<$0C>
-operation for now.
+//今は小さな肉のかたまり… \nだが、共に成長したとき…
+Even though the mass is small, we must \n
+give up on the operation for now. 
 <$00>
 
 // Pos: 00002EB3
@@ -160,13 +139,13 @@ operation for now.
 //アーネスト：
 Ernest:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
-//じゃねぇ、\nこいつは誰なんだ？
-? No...\n
-What is this thing?
+//じゃねぇ、 \nこいつは誰なんだ？
+? No... \n
+What is this thing? 
 <$00>
 
 // Pos: 00002ED1
@@ -179,13 +158,10 @@ What is this thing?
 //スペーサー：
 Spacer:
 <$0D>
-//\nシュヨウだ、脳にできたシュヨウ…
-\n
-It's a teratoma: a\n
-rare type of tumor
-<$0C>
-that's currently\n
-lodged in our brain.
+// \nシュヨウだ、脳にできたシュヨウ…
+ \n
+It's a teratoma: a rare type of tumor \n
+that's currently lodged in our brain. 
 <$00>
 
 // Pos: 00002EEF
@@ -198,12 +174,10 @@ lodged in our brain.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nデキモノってことなの…\nひどいわ、そんなの。
-\n
-That's horrible!\n
-How the hell did it
-<$0C>
-get there?
+// \nデキモノってことなの… \nひどいわ、そんなの。
+ \n
+That's horrible! \n
+How the hell did it get there? 
 <$00>
 
 // Pos: 00002F11
@@ -216,24 +190,20 @@ get there?
 //スペーサー：
 Spacer:
 <$0D>
-//\nシュヨウは、双子として生まれてくるはずの\n一部が取り込まれたものだ。
-\n
-Phoenix was supposed\n
-to be born as a twin,
+// \nシュヨウは、双子として生まれてくるはずの \n一部が取り込まれたものだ。
+ \n
+Phoenix was supposed to be born as a \n
+twin, but Phoenix developed into a
 <$0C>
-but Phoenix developed\n
-into a mass instead.
+mass instead. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nシュヨウの中には兄弟になるはずだった\n人間の髮の毛がつまっていたりする…
-\n
-That mass was\n
-absorbed back into
-<$0C>
-the other twin. Hair,\n
-teeth and all...
+// \nシュヨウの中には兄弟になるはずだった \n人間の髮の毛がつまっていたりする…
+ \n
+That mass was absorbed back into the \n
+other twin. Hair, teeth and all... 
 <$00>
 
 // Pos: 00002F79
@@ -246,12 +216,10 @@ teeth and all...
 //アーネスト：
 Ernest:
 <$0D>
-//\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…
-\n
-Could've fooled me.\n
-I've never seen hair
-<$0C>
-like that before.
+// \nじゃあ、こいつは何だ？ \nまさか髮の毛じゃねぇだろう…
+ \n
+Could've fooled me. I've never seen \n
+hair like that before. 
 <$00>
 
 // Pos: 00002FA0
@@ -324,24 +292,21 @@ like that before.
 //フェニックス：
 Phoenix:
 <$0D>
-//\nこれは…クルーの仲間だね。\n善人になったの？\nそれで救われたってことなの？
-\n
-He's from the survey\n
-unit. If he's become
+// \nこれは…クルーの仲間だね。 \n善人になったの？ \nそれで救われたってことなの？
+ \n
+He's from the survey unit. If he's \n
+become a good person, will this really
 <$0C>
-a good person, will\n
-this really save him?
+save him? 
 <$00><$13><$13><$13><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-//\n善人になって、幸せそうだよ。\nいいね、そういうのって…
-\n
-Becoming a good\n
-person should be a
+// \n善人になって、幸せそうだよ。 \nいいね、そういうのって…
+ \n
+Becoming a good person should be a \n
+happy occasion. At least, that's what
 <$0C>
-happy occasion. At\n
-least, that's what\n
-I'd want.
+I'd want. 
 <$00>
 

@@ -13,32 +13,24 @@
 
 <$10>
 //建う！本当にいたんだ、あそこに、ママが！
-Your wrong! I saw\n
-'er! Mummy was really\n
-there!
+Your wrong! I saw 'er! Mummy was \n
+really there! 
 <$0C>
-//ふっ、犯罪者のか…\n獄死したはずだろう、お前の母親は。
-Noon, your mother was\n
-a criminal! Judy died\n
-in prison!
+//ふっ、犯罪者のか… \n獄死したはずだろう、お前の母親は。
+Noon, your mother was a criminal! \n
+Judy died in prison! 
 <$0C>
 //いたんだ…僕を追いかけてきた…
-But she's back!\n
-She was...chasing me\n
-again!
+But she's back! \n
+She was...chasing me again! 
 <$0C>
-//死んだ人間がよみがえる…ふふふふ、面白い。\nここはユカイな星だ！
-Can the dead come\n
-back to life 'ere?\n
-Interesting...
-<$0C>
-Marvelous planet,\n
-this.
+//死んだ人間がよみがえる…ふふふふ、面白い。 \nここはユカイな星だ！
+Can the dead come back to life 'ere? \n
+Interesting... Marvelous planet, this. 
 <$0C>
 //早く、帰りたい。
-Yeah, well it'll be\n
-more marvelous once\n
-we leave!
+Yeah, well it'll be more marvelous once \n
+we leave! 
 <$00>
 
 // Pos: 000010B7
@@ -49,8 +41,8 @@ we leave!
 
 <$10>
 //誰だ？誰かいるのか？
-Wait!\n
-Is someone there?
+Wait! \n
+Is someone there? 
 <$00>
 
 // Pos: 000010C5
@@ -63,8 +55,8 @@ Is someone there?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n気のせいか…
-\n
-It's probably nerves.
+// \n気のせいか…
+ \n
+It's probably nerves. 
 <$00>
 

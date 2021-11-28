@@ -13,9 +13,7 @@
 
 <$10>
 //自動着陸装置、確認。
-AUTO \n
-LANDING SYSTEM, \n
-CHECK. 
+1\n2\n3
 <$00>
 
 // Pos: 000039B5
@@ -25,10 +23,17 @@ CHECK.
 #WHB(PTR, $00000301)
 
 <$10>
-//装置、オン！\n目標、シドニアエリア。顔のそば！
-NOW APPROACHING\n
-PARAMETER OF THE\n
-FACE, CYDONIA REGION.
+//装置、オン！ \n目標、シドニアエリア。顔のそば！
+NOW APPROACHING PARAMETER OF THE \n
+FACE, CYDONIA REGION. 
+NOW APPROACHING PARAMETER OF THE \n
+FACE, CYDONIA REGION. 
+NOW APPROACHING PARAMETER OF THE \n
+FACE, CYDONIA REGION. 
+NOW APPROACHING PARAMETER OF THE \n
+FACE, CYDONIA REGION. 
+NOW APPROACHING PARAMETER OF THE \n
+FACE, CYDONIA REGION. 
 <$00>
 
 // Pos: 000039D3
@@ -38,12 +43,10 @@ FACE, CYDONIA REGION.
 #WHB(PTR, $0000031D)
 
 <$10>
-//ザ・フェイス… 何がフェイスだ…\nちくしょう！ 火星人め！
-We're landing next to\n
-the Face, eh? Damned\n
-Martians, always
-<$0C>
-trying to taunt us.
+//ザ・フェイス… 何がフェイスだ… \nちくしょう！ 火星人め！
+We're landing next to the Face, eh? \n
+Damned Martians, always trying to \n
+taunt us. 
 <$00>
 
 // Pos: 000039F4
@@ -53,10 +56,9 @@ trying to taunt us.
 #WHB(PTR, $00000339)
 
 <$10>
-//ヌーン、よしてよ。\n火星人なんてもう滅んだのよ…
-Noon, you know\n
-full-well Martians\n
-are extinct.
+//ヌーン、よしてよ。 \n火星人なんてもう滅んだのよ…
+Noon, you know full-well Martians are \n
+extinct. 
 <$00>
 
 // Pos: 00003A11
@@ -69,14 +71,12 @@ are extinct.
 //エイプリル：
 April:
 <$0D>
-//\n人間の顔を手に入れて、それで火星人は滅んだ…\nなんか妙な惑じね。
-\n
-It's eerie to think\n
-they died off so soon
+// \n人間の顔を手に入れて、それで火星人は滅んだ… \nなんか妙な惑じね。
+ \n
+It's eerie to think they died off so soon \n
+after acquiring our faces in the face
 <$0C>
-after acquiring our\n
-faces in the face\n
-pact.
+pact. 
 <$00>
 
 // Pos: 00003A45
@@ -89,13 +89,12 @@ pact.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n人間の顔が、彼らに災いをもたらした。\n今ではそう考えられている。
-\n
-Theory says our human\n
-faces were what
+// \n人間の顔が、彼らに災いをもたらした。 \n今ではそう考えられている。
+ \n
+Theory says our human faces were \n
+what triggered the Martian
 <$0C>
-triggered the Martian\n
-extinction.
+extinction. 
 <$00>
 
 // Pos: 00003A79
@@ -108,12 +107,10 @@ extinction.
 //ヌーン：
 Noon:
 <$0D>
-//\n火星人のやつら、ハダに合わなかったんだよ、\n人間の顔が。
-\n
-Oh, so it's OUR fault\n
-those filthy Martians
-<$0C>
-took our faces?
+// \n火星人のやつら、ハダに合わなかったんだよ、 \n人間の顔が。
+ \n
+Oh, so it's OUR fault those filthy \n
+Martians took our faces? 
 <$00>
 
 // Pos: 00003AA3
@@ -126,14 +123,12 @@ took our faces?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
-\n
-Only if Martian life\n
-suffered mass a
+// \n地球からバクテリアを持ち帰ってしまった、 \nそんな説もある。
+ \n
+Only if Martian life suffered mass a \n
+rejection to "filthy" bacteria from
 <$0C>
-rejection to "filthy"\n
-bacteria from said\n
-faces.
+said faces. 
 <$00>
 
 // Pos: 00003AD3
@@ -146,12 +141,10 @@ faces.
 //ヌーン：
 Noon:
 <$0D>
-//\nけっ、大きなお世話って惑じだな。
-\n
-I don't care, Cap'n.\n
-Blame our bacteria
-<$0C>
-all you want.
+// \nけっ、大きなお世話って惑じだな。
+ \n
+I don't care, Cap'n. Blame our bacteria \n
+all you want. 
 <$00>
 
 // Pos: 00003AF0
@@ -160,7 +153,7 @@ all you want.
 
 #WHB(PTR, $000004C1)
 
-
+ 
 <$00><$14><$02><$11>
 //問 
 問
@@ -168,18 +161,15 @@ all you want.
 //  
   
 <$0D>
-//これより火星の軌道に向かいます。\n
-NOW ENTERING\n
-MARS'S ORBIT.\n
+//これより火星の軌道に向かいます。 \n
+NOW ENTERING MARS'S ORBIT. \n
 
 <$0E><$1E><$0B>
 //  
   
 <$0D>
 //これより火星の軌道に向かいます。
-NOW ENTERING MARS'S
-<$0C>
-ORBIT.
+NOW ENTERING MARS'S ORBIT. 
 <$00>
 
 // Pos: 00003B2D
@@ -192,10 +182,9 @@ ORBIT.
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-//\n見ろ、あの狂おしい輝きを！
-\n
-See that crazy glow?\n
-That's Mars!
+// \n見ろ、あの狂おしい輝きを！
+ \n
+See that crazy glow? That's Mars! 
 <$0E><$78><$17><$00>
 
 // Pos: 00003B51
@@ -208,13 +197,10 @@ That's Mars!
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-//\nあれが火星だ！\n災いの星、闘いの象徴…まやかしの惑星だ。
-\n
-Star of disaster,\n
-symbol of conflict
-<$0C>
-and planet of\n
-deception.
+// \nあれが火星だ！ \n災いの星、闘いの象徴…まやかしの惑星だ。
+ \n
+Star of disaster, symbol of conflict \n
+and planet of deception. 
 <$0E><$78><$17><$00>
 
 // Pos: 00003B8B
@@ -227,12 +213,10 @@ deception.
 //子ヌーン：
 子Noon:
 <$0D>
-//\nふん、イヤな惑じだぜ、\nとりわけ今度の任務はな。
-\n
-Hmph. Forget this\n
-planet and this lousy
-<$0C>
-mission.
+// \nふん、イヤな惑じだぜ、 \nとりわけ今度の任務はな。
+ \n
+Hmph. Forget this planet and this lousy \n
+mission. 
 <$0E><$78><$17><$00>
 
 // Pos: 00003BB8
@@ -245,16 +229,13 @@ mission.
 //子ヌーン：
 子Noon:
 <$0D>
-//\nあそこにはおかしなウワサがいっぱいだ。\nおかしなやつらもな。
-\n
-There's nothing\n
-redeeming about Mars
-<$0C>
-or anybody living on\n
-it.
+// \nあそこにはおかしなウワサがいっぱいだ。 \nおかしなやつらもな。
+ \n
+There's nothing redeeming about \n
+Mars or anybody living on it. 
 <$0E><$78><$17><$00><$10><$14><$03><$11>
 //誰び
-誰び
+誰び 
 <$17><$00>
 
 // Pos: 00003BEF
@@ -263,11 +244,10 @@ it.
 
 #WHB(PTR, $00000725)
 
-
+ 
 <$00><$13>
-//けライカ君、ライカ君だね…\nそこにいるのは…
-けLaika? Laika, are\n
-you there?
+//けライカ君、ライカ君だね… \nそこにいるのは…
+けLaika? Laika, are you there? 
 <$00>
 
 // Pos: 00003C08
@@ -280,12 +260,10 @@ you there?
 //エイプリル：
 April:
 <$0D>
-//\n無線テレビよ！ 地球からね。
-\n
-We've got a stream on\n
-the monitor! It's
-<$0C>
-from Earth!
+// \n無線テレビよ！ 地球からね。
+ \n
+We've got a stream on the monitor! It's \n
+from Earth! 
 <$00>
 
 // Pos: 00003D68
@@ -298,21 +276,18 @@ from Earth!
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nいつまでそこにいる？
-\n
-How long have you\n
-been dawdling there?
+// \nいつまでそこにいる？
+ \n
+How long have you been dawdling \n
+there? 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n私をいらいらさせないでくれ。\n着陸準備にかかるんだ。
-\n
-Don't bust my chops\n
-now.
-<$0C>
-Go prepare for\n
-landing.
+// \n私をいらいらさせないでくれ。 \n着陸準備にかかるんだ。
+ \n
+Don't bust my chops now. \n
+Go prepare for landing. 
 <$00>
 
 // Pos: 00003DAB
@@ -325,7 +300,7 @@ landing.
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-THERE ARE NO MESSAGES.
+THERE ARE NO MESSAGES. 
 <$00>
 
 // Pos: 00003F22
@@ -334,7 +309,7 @@ THERE ARE NO MESSAGES.
 
 #WHB(PTR, $00000A3D)
 
-
+ 
 <$00><$13>
 //け
 け
@@ -342,10 +317,9 @@ THERE ARE NO MESSAGES.
 //オクトーバー司令官：
 Commander October:
 <$0D>
-//\nライカ君、この男を知っているかね。
-\n
-Laika, do you\n
-recognize this man?
+// \nライカ君、この男を知っているかね。
+ \n
+Laika, do you recognize this man? 
 <$00>
 
 // Pos: 00003F49
@@ -356,12 +330,9 @@ recognize this man?
 
 <$10>
 //ガリル大佐、先遣隊のリーダーだ。
-That's Colonel Galil,\n
-former leader of the\n
-vanguard unit from
-<$0C>
-Earth's previous\n
-mission to Mars.
+That's Colonel Galil, former leader of \n
+the vanguard unit from Earth's \n
+previous mission to Mars. 
 <$00>
 
 // Pos: 00003F60
@@ -370,14 +341,11 @@ mission to Mars.
 
 #WHB(PTR, $00000D21)
 
-
+ 
 <$00><$13><$16><$0E><$0F>
-//ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
-Hyohyo, I can feel\n
-you! You're so close\n
-already! Its so
-<$0C>
-potent, hyo!
+//ひょひょ、お前を惑じるぞ、近くに惑じるぞ。 \nひときわ強く、ひょ。
+Hyohyo, I can feel you! You're so close \n
+already! Its so potent, hyo! 
 <$00>
 
 // Pos: 00003FC0
@@ -398,68 +366,55 @@ potent, hyo!
 //オクトーバー司令官：
 Commander October:
 <$0D>
-//\nライカ君だね… 私はオクトーバー、\n今回の任務の司令官を務める。
-\n
-Greetings, Laika. Is\n
-that you? This is
-<$0C>
-October, your mission\n
-commander.
+// \nライカ君だね… 私はオクトーバー、 \n今回の任務の司令官を務める。
+ \n
+Greetings, Laika. Is that you? This is \n
+October, your mission commander. 
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-//\n君を調査隊にすすめたのは実は私なんだ。\n君の働きには期待しているからね。
-\n
-I personally\n
-recommended you for
+// \n君を調査隊にすすめたのは実は私なんだ。 \n君の働きには期待しているからね。
+ \n
+I personally recommended you for \n
+this survey unit. Thank you for coming
 <$0C>
-this survey unit.\n
-Thank you for coming\n
-aboard.
+aboard. 
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-//\nさて、君たちが向かう火星だが、\nどうも様子がおかしいんだ。
-\n
-Actually, I have a\n
-small errand for you.
+// \nさて、君たちが向かう火星だが、 \nどうも様子がおかしいんだ。
+ \n
+Actually, I have a small errand for you. 
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-//\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
-\n
-See, "face-shaped\n
-creatures" on Mars
+// \nなんでも顔の形の怪物が現れただの、 \n世界の破滅が近いだの、 \n妙なうわさが飛び交っている。
+ \n
+See, "face-shaped creatures" on Mars \n
+have those on the planet fearing the
 <$0C>
-have those on the\n
-planet fearing the\n
-supposed End Times.
+supposed End Times. 
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-//\nこれから地球化計画を再開するにあたって、\nそんなブッソウなことではいかん。
-\n
-Obviously, we won't\n
-allow baseless
+// \nこれから地球化計画を再開するにあたって、 \nそんなブッソウなことではいかん。
+ \n
+Obviously, we won't allow baseless \n
+conjecture to interrupt our
 <$0C>
-conjecture to\n
-interrupt our\n
-terraformation plans,
+terraformation plans, 
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-//\n君たちの任務はうわさの真相を\n突き止めることなんだ。
-\n
-but I formally ask\n
-that you help find
-<$0C>
-the source of the\n
-rumors.
+// \n君たちの任務はうわさの真相を \n突き止めることなんだ。
+ \n
+but I formally ask that you help find the \n
+source of the rumors. 
 <$00>
 
 // Pos: 00003C25
@@ -472,83 +427,69 @@ rumors.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n先遣隊が火星に送られたのは\n１０年前のことだ。
-\n
-Ten years ago, we\n
-sent his vanguard
+// \n先遣隊が火星に送られたのは \n１０年前のことだ。
+ \n
+Ten years ago, we sent his vanguard \n
+unit to Mars, but then...something
 <$0C>
-unit to Mars, but\n
-then...something went\n
-wrong.
+went wrong. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n地球化計画の再開で、\n火星に調査のためにやってきた。\nガリル大佐はそのときのリーダーだった。
-\n
-Now that colonization\n
-plans have resumed,
+// \n地球化計画の再開で、 \n火星に調査のためにやってきた。 \nガリル大佐はそのときのリーダーだった。
+ \n
+Now that colonization plans have \n
+resumed, we want to find out what
 <$0C>
-we want to find out\n
-what that "something"\n
-was.
+that "something" was. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n神は死んだ、光の私…
-\n
-Last time, Colonel\n
-Galil, the leader of
+// \n神は死んだ、光の私…
+ \n
+Last time, Colonel Galil, the leader of \n
+that vanguard unit, left a bizarre final
 <$0C>
-that vanguard unit,\n
-left a bizarre final\n
-message.
+message. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nナゾのメッセージを最後に連絡は途絶えた。
-\n
-"God is dead. I am\n
-the light."
+// \nナゾのメッセージを最後に連絡は途絶えた。
+ \n
+"God is dead. I am the light." \n
+And with that, his unit cut all contact.
 <$0C>
-And with that, his\n
-unit cut all contact.\n
-Forever.
+Forever. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n火星に妙なウワサがはびこるようになったのは\nそれからのことだ。
-\n
-And THEN, shortly\n
-after all that, we
+// \n火星に妙なウワサがはびこるようになったのは \nそれからのことだ。
+ \n
+And THEN, shortly after all that, we \n
+caught word of a new, terrifying
 <$0C>
-caught word of a new,\n
-terrifying\n
-infestation on Mars.
+infestation on Mars. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n我々はウワサの出所をさぐって、\n火星はなんでもない、
-\n
-We'd searched in vain\n
-for a source to the
-<$0C>
-rumor ever since,
+// \n我々はウワサの出所をさぐって、 \n火星はなんでもない、
+ \n
+We'd searched in vain for a source to \n
+the rumor ever since, 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n平和で友好的だと報告しなければならない。\nそれが任務だ。
-\n
-so the job now is\n
-just to make sure
+// \n平和で友好的だと報告しなければならない。 \nそれが任務だ。
+ \n
+so the job now is just to make sure \n
+everything's as safe enough to
 <$0C>
-everything's as safe\n
-enough to terraform,\n
-and report back.
+terraform, and report back. 
 <$00>
 

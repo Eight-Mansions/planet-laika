@@ -15,26 +15,22 @@
 //ガリル：
 Galil:
 <$0D>
-//\nこれはこれは、ヨランダではないか！\nもう十分に旅を楽しんだことだろう。
-\n
-My, oh my! Yolanda,\n
-is that you? I hope
+// \nこれはこれは、ヨランダではないか！ \nもう十分に旅を楽しんだことだろう。
+ \n
+My, oh my! Yolanda, is that you? I hope \n
+this outing of yours was everything
 <$0C>
-this outing of yours\n
-was everything you\n
-desired.
+you desired. 
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-//\nお前にはもう何も残ってはいない。\nそろそろタニアとともに眠りにつくときだ。
-\n
-There's nothing for\n
-you here now. It's
+// \nお前にはもう何も残ってはいない。 \nそろそろタニアとともに眠りにつくときだ。
+ \n
+There's nothing for you here now. It's \n
+high time I laid you to rest with your
 <$0C>
-high time I laid you\n
-to rest with your\n
-Tanya.
+Tanya. 
 <$00>
 
 // Pos: 000014DF
@@ -47,13 +43,11 @@ Tanya.
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nアタシはどこにもいかない、そうよ\nここにいるのよ、残るのよ！
-\n
-That's right. There's\n
-no place for me to
+// \nアタシはどこにもいかない、そうよ \nここにいるのよ、残るのよ！
+ \n
+That's right. There's no place for me to \n
+go. But I'm here, aren't I? So here I
 <$0C>
-go. But I'm here,\n
-aren't I? So here I\n
-stay!
+stay! 
 <$00>
 

@@ -15,13 +15,10 @@
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-//\n町長、町こしらえた、町長、町こしらえた、\nママは似合わない、シー。
-\n
-Elder Noon made the\n
-town, but it's not up
-<$0C>
-to Mummy's standards,\n
-whoosh.
+// \n町長、町こしらえた、町長、町こしらえた、 \nママは似合わない、シー。
+ \n
+Elder Noon made the town, but it's not \n
+up to Mummy's standards, whoosh. 
 <$00>
 
 // Pos: 00001605
@@ -34,9 +31,9 @@ whoosh.
 //エイプリル：
 April:
 <$0D>
-//\nヌーンのママがいるの？
-\n
-Is Noon's mom here?
+// \nヌーンのママがいるの？
+ \n
+Is Noon's mom here? 
 <$00>
 
 // Pos: 0000161B
@@ -49,12 +46,10 @@ Is Noon's mom here?
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-//\nママは似合わない、シー
-\n
-Nothing's up to\n
-Mummy's standards,
-<$0C>
-whoosh!
+// \nママは似合わない、シー
+ \n
+Nothing's up to Mummy's standards, \n
+whoosh! 
 <$00>
 
 // Pos: 00001639
@@ -67,13 +62,12 @@ whoosh!
 //エイプリル：
 April:
 <$0D>
-//\nヌーンのママはとっくに死んだのよ！
-\n
-Noon's mom died a\n
-long time ago!
+// \nヌーンのママはとっくに死んだのよ！
+ \n
+Noon's mom died a long time ago!
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 
 // Pos: 00001659
@@ -86,15 +80,13 @@ long time ago!
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-//\n町長、町、ママ、建う、シーシー。
-\n
-Elder! Town! Mummy!\n
-All wrong,
-<$0C>
+// \n町長、町、ママ、建う、シーシー。
+ \n
+Elder! Town! Mummy! All wrong, \n
 whoosh-woosh!
 <$1E>
 //炎
-炎
+炎 
 <$00>
 
 // Pos: 00001681
@@ -107,12 +99,9 @@ whoosh-woosh!
 //エイプリル：
 April:
 <$0D>
-//\n町長屋敷に行ってみない？ イヤな予惑…
-\n
-Can we hurry to the\n
-elder's cottage? I've
-<$0C>
-got a bad feeling\n
-about this.
+// \n町長屋敷に行ってみない？ イヤな予惑…
+ \n
+Can we hurry to the elder's cottage? \n
+I've got a bad feeling about this. 
 <$00>
 

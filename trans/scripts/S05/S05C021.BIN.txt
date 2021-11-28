@@ -15,12 +15,10 @@
 //エイプリル：
 April:
 <$0D>
-//\nバーにいた連中、イヤな惑じね。
-\n
-Those two back at the\n
-bar gave me the worst
-<$0C>
-vibes, you know?
+// \nバーにいた連中、イヤな惑じね。
+ \n
+Those two back at the bar gave me the \n
+worst vibes, you know? 
 <$00>
 
 // Pos: 00002A36
@@ -33,24 +31,18 @@ vibes, you know?
 //エイプリル：
 April:
 <$0D>
-//\n火星には３種類の悪人がいるんだって…\nアガタっていう人が教えてくれたの。
-\n
-A person named Agatha\n
-told me, "There are 3
-<$0C>
-types of evil on\n
-Mars," but...
+// \n火星には３種類の悪人がいるんだって… \nアガタっていう人が教えてくれたの。
+ \n
+A person named Agatha told me, "There \n
+are 3 types of evil on Mars," but... 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nバーのふたりと、金星人を信じてるマウンテンは\nきっと建う種類の悪人よね。
-\n
-...they and that\n
-Venusian guy,
-<$0C>
-Mountain, seem evil\n
-in different ways.
+// \nバーのふたりと、金星人を信じてるマウンテンは \nきっと建う種類の悪人よね。
+ \n
+...they and that Venusian guy, \n
+Mountain, seem evil in different ways. 
 <$00>
 
 // Pos: 00002A9E
@@ -63,14 +55,12 @@ in different ways.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nサイコ系だ。金星人野郎はサイコ系、\n我々はそう呼んでいる。
-\n
-He is Psycho type.\n
-That
+// \nサイコ系だ。金星人野郎はサイコ系、 \n我々はそう呼んでいる。
+ \n
+He is Psycho type. That \n
+Venusian-obsessed mongrel is a
 <$0C>
-Venusian-obsessed\n
-mongrel is a Psycho\n
-type.
+Psycho type. 
 <$00>
 
 // Pos: 00002AD1
@@ -83,10 +73,9 @@ type.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nマウンテンにそそのかされでもしたのか？
-\n
-Was it Mountain who\n
-sent you here?
+// \nマウンテンにそそのかされでもしたのか？
+ \n
+Was it Mountain who sent you here? 
 <$00>
 
 // Pos: 00002AF1
@@ -99,10 +88,9 @@ sent you here?
 //エイプリル：
 April:
 <$0D>
-//\nメディスンマンって、あなたなの？
-\n
-Are you a medicine\n
-man?
+// \nメディスンマンって、あなたなの？
+ \n
+Are you a medicine man? 
 <$00>
 
 // Pos: 00002B0C
@@ -115,13 +103,10 @@ man?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nそうだ… 長老がお会いになるそうだ。\nさあ、こっちへ。
-\n
-That is right. If you\n
-wish to meet our
-<$0C>
-elder, the lodge is\n
-this way.
+// \nそうだ… 長老がお会いになるそうだ。 \nさあ、こっちへ。
+ \n
+That is right. If you wish to meet our \n
+elder, the lodge is this way. 
 <$00>
 
 // Pos: 00002B37
@@ -134,9 +119,9 @@ this way.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nこの先は危ない。
-\n
-We are not safe here!
+// \nこの先は危ない。
+ \n
+We are not safe here! 
 <$00>
 
 // Pos: 00002B4E
@@ -149,10 +134,9 @@ We are not safe here!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nああ！\n何故だ、何故こんなことに！
-\n
-But how? How did this\n
-happen?!
+// \nああ！ \n何故だ、何故こんなことに！
+ \n
+But how? How did this happen?! 
 <$00>
 
 // Pos: 00002B6E
@@ -165,10 +149,9 @@ happen?!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nいかん！ ここはいかん！
-\n
-You must go! Get out\n
-of here!
+// \nいかん！ ここはいかん！
+ \n
+You must go! Get out of here! 
 <$00>
 
 // Pos: 00002B87
@@ -181,24 +164,18 @@ of here!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nタンキー人形がひっくり返ったのだ！\n逆ドールダンスだ！
-\n
-The turn-key doll\n
-capsized itself! It
-<$0C>
-began the REVERSE\n
-doll dance instead!
+// \nタンキー人形がひっくり返ったのだ！ \n逆ドールダンスだ！
+ \n
+The turn-key doll capsized itself! It \n
+began the REVERSE doll dance instead! 
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-//\nタマシイが体から抜け出している、\n巻き込まれるぞ！
-\n
-That dance EXPELS a\n
-spirit from its body!
-<$0C>
-You musn't get\n
-interfere!
+// \nタマシイが体から抜け出している、 \n巻き込まれるぞ！
+ \n
+That dance EXPELS a spirit from its \n
+body! You musn't get interfere! 
 <$00>
 
 // Pos: 00002BDC
@@ -211,10 +188,9 @@ interfere!
 //クロウ：
 Crow:
 <$0D>
-//\nへへ！ お前、ここで何してる？
-\n
-Kekeke! Hey, what'cha\n
-doing here?
+// \nへへ！ お前、ここで何してる？
+ \n
+Kekeke! Hey, what'cha doing here? 
 <$00>
 
 // Pos: 00002BF4
@@ -227,34 +203,29 @@ doing here?
 //クロウ：
 Crow:
 <$0D>
-//\nハウスの実験は失敗だ、ありゃダメだ、\n俺は手を引くんだ、マウンテンたちからな。
-\n
-The Psycho Lab\n
-experiment was a
+// \nハウスの実験は失敗だ、ありゃダメだ、 \n俺は手を引くんだ、マウンテンたちからな。
+ \n
+The Psycho Lab experiment was a \n
+shitshow, so I left Mountain and the
 <$0C>
-shitshow, so I left\n
-Mountain and the\n
-group.
+group. 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nあいつらにはもう付き合ってられねぇ。
-\n
-I don't resonate with\n
-them anymore.
+// \nあいつらにはもう付き合ってられねぇ。
+ \n
+I don't resonate with them anymore. 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nへっへ、別に賢くなる方法があるんだ、\n金星人なんかあてになるか。
-\n
-There's gotta be\n
-other ways to get
+// \nへっへ、別に賢くなる方法があるんだ、 \n金星人なんかあてになるか。
+ \n
+There's gotta be other ways to get \n
+smarter without relying on the
 <$0C>
-smarter without\n
-relying on the\n
-Venusians, kek.
+Venusians, kek. 
 <$00>
 
 // Pos: 00002C74
@@ -267,24 +238,22 @@ Venusians, kek.
 //クロウ：
 Crow:
 <$0D>
-//\nメディスンマンのやつらは出かけたぜ。
-\n
-Those medicine\n
-men-people went out.
+// \nメディスンマンのやつらは出かけたぜ。
+ \n
+Those medicine men-people went out. 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\n善人が見つかったそうだ。\n善人だとよ、そりゃお宝だぁ、ひゃ！
-\n
-It seems they finally\n
-found a good person.
+// \n善人が見つかったそうだ。 \n善人だとよ、そりゃお宝だぁ、ひゃ！
+ \n
+It seems they finally found a good \n
+person. A good person, kek! Their new
 <$0C>
-A good person, kek!\n
-Their new treasure!
+treasure!
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00002CBC
@@ -297,12 +266,12 @@ Their new treasure!
 //クロウ：
 Crow:
 <$0D>
-//\n善人って誰のことだ、ひゃ！
-\n
-Who do you think this\n
-"good person" is, kek!
+// \n善人って誰のことだ、ひゃ！
+ \n
+Who do you think this "good person" is, \n
+kek!
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 

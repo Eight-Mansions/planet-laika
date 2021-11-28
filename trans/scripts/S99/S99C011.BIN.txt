@@ -11,31 +11,24 @@
 
 #WHB(PTR, $00000D1D)
 
-
+ 
 <$00><$0F>
 //、開こえる？ ママの声が…
-, can you hear me?\n
-Listen to Mama...
+, can you hear me? Listen to Mama... 
 <$0C>
 //お願い、自分を見失わないで。
-Please, keep yourself\n
-together.
+Please, keep yourself together. 
 <$0C>
-//ウラジミールはあなたの新しいパパよ。\nセルゲイは新しいお兄さん…
-Vladimir is your new\n
-father.\n
-Sergei is your new
-<$0C>
-brother.
+//ウラジミールはあなたの新しいパパよ。 \nセルゲイは新しいお兄さん…
+Vladimir is your new father. \n
+Sergei is your new brother. 
 <$0C>
 //あなた、兄弟が欲しいって言ってたじゃない。
-Didn't you say you\n
-always wanted a big\n
-brother?
+Didn't you say you always wanted a big \n
+brother? 
 <$0C>
 //セルゲイ兄さんとは仲良くしてね。
-Try to get along with\n
-Sergei, okay?
+Try to get along with Sergei, okay? 
 <$00>
 
 // Pos: 0000127F
@@ -44,20 +37,18 @@ Sergei, okay?
 
 #WHB(PTR, $00000AD9)
 
-
+ 
 <$00><$11>
 //命船ウラジミール：
 命船Vladimir:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
-//！ 何度言ったら分かるんだ！\nロケット遊びばかりしてるんじゃない！
-! What did I say\n
-about playing with
-<$0C>
-that toy rocket?!
+//！ 何度言ったら分かるんだ！ \nロケット遊びばかりしてるんじゃない！
+! What did I say about playing with that \n
+toy rocket?! 
 <$0E><$3C><$17><$00>
 
 // Pos: 000012B6
@@ -66,14 +57,14 @@ that toy rocket?!
 
 #WHB(PTR, $00000AE9)
 
-
+ 
 <$00><$11>
 //命船ウラジミール：
 命船Vladimir:
 <$0D>
-//\nこんなもん！
-\n
-Give it here!
+// \nこんなもん！
+ \n
+Give it here! 
 <$0E><$3C><$17><$00>
 
 // Pos: 000012CF
@@ -82,18 +73,17 @@ Give it here!
 
 #WHB(PTR, $00000BCD)
 
-
+ 
 <$00><$11>
 //命船ウラジミール：
 命船Vladimir:
 <$0D>
-//\nセルゲイ兄さんを見習え！\nええ？ 見習うんだ、できそこないめが！
-\n
-Where you dropped on\n
-the fucking head?!
+// \nセルゲイ兄さんを見習え！ \nええ？ 見習うんだ、できそこないめが！
+ \n
+Where you dropped on the fucking \n
+head?! Why can't you be more like
 <$0C>
-Why can't you be more\n
-like Sergei?!
+Sergei?! 
 <$0E><$3C><$17><$00>
 
 // Pos: 00001305
@@ -102,18 +92,15 @@ like Sergei?!
 
 #WHB(PTR, $00000C35)
 
-
+ 
 <$00><$11>
 //命船セルゲイ：
 命船Sergei:
 <$0D>
-//\nよう、宇宙飛行士殿、へへへ、\nまたヘマをやらかしたのか？
-\n
-Aww, what's the\n
-matter, space brain?
-<$0C>
-Did you trip again?\n
-Hehehe!
+// \nよう、宇宙飛行士殿、へへへ、 \nまたヘマをやらかしたのか？
+ \n
+Aww, what's the matter, space brain? \n
+Did you trip again? Hehehe! 
 <$0E><$3C><$17><$00>
 
 // Pos: 00001338
@@ -122,17 +109,15 @@ Hehehe!
 
 #WHB(PTR, $00000C45)
 
-
+ 
 <$00><$11>
 //命船セルゲイ：
 命船Sergei:
 <$0D>
-//\nへへへへ、いいこと教えてやろうか？\n父さんはお前がキライなんだよ。
-\n
-Hehehe! Hey, guess\n
-what?
-<$0C>
-Batya hates your guts!
+// \nへへへへ、いいこと教えてやろうか？ \n父さんはお前がキライなんだよ。
+ \n
+Hehehe! Hey, guess what? \n
+Batya hates your guts! 
 <$0E><$3C><$17><$00>
 
 // Pos: 0000136C
@@ -141,18 +126,15 @@ Batya hates your guts!
 
 #WHB(PTR, $00000C71)
 
-
+ 
 <$00><$11>
 //命船セルゲイ：
 命船Sergei:
 <$0D>
-//\nお前達がこの家に来たときからな、\nキライなんだ。
-\n
-Yup! From the moment\n
-you and
-<$0C>
-that ugly bitch moved\n
-in!
+// \nお前達がこの家に来たときからな、 \nキライなんだ。
+ \n
+Yup! From the moment you and \n
+that ugly bitch moved in! 
 <$0E><$3C><$17><$00>
 
 // Pos: 00001398
@@ -161,13 +143,13 @@ in!
 
 #WHB(PTR, $00000C81)
 
-
+ 
 <$00><$11>
 //命船セルゲイ：
 命船Sergei:
 <$0D>
-//\nひゃひゃひゃひゃひゃひゃひゃ。
-\n
-Hahahahaha!
+// \nひゃひゃひゃひゃひゃひゃひゃ。
+ \n
+Hahahahaha! 
 <$0E><$3C><$17><$00>
 

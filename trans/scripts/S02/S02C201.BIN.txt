@@ -11,13 +11,10 @@
 
 #WHB(PTR, $0000089D)
 
-//話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the\n
-biggest toy rocket in\n
-town, just for you!
-<$0C>
-We hope you like your\n
-Christmas present!
+//話、 \nクリスマスプレゼントは大きなロケットよ、 \n町で一番大きいのよ！
+話, we found the biggest toy rocket in \n
+town, just for you! We hope you like \n
+your Christmas present! 
 <$00>
 
 // Pos: 0000090E
@@ -30,12 +27,10 @@ Christmas present!
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nその声は… タニアね！ ちょっと、\nアタシの声、開こえる？ タニア！
-\n
-That voice...! Tanya!\n
-Wait, can you hear
-<$0C>
-me, Tanya?! Tanya!
+// \nその声は… タニアね！ ちょっと、 \nアタシの声、開こえる？ タニア！
+ \n
+That voice...! Tanya! Wait, can you hear \n
+me, Tanya?! Tanya! 
 <$00>
 
 // Pos: 0000093F
@@ -47,13 +42,10 @@ me, Tanya?! Tanya!
 //想うしたの
 想Do you like it, 
 <$0F>
-//、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-?\n
-Your batya drove all\n
-over town for it.
-<$0C>
-Mama's so happy for\n
-you!
+//、 \nロケット、パパからのプレゼントよ。 \n索敵なクリスマスね。ママも嬉しいわ。
+? Your batya drove all \n
+over town for it. Mama's so happy for \n
+you! 
 <$00>
 
 // Pos: 00000970
@@ -66,55 +58,42 @@ you!
 //ヨランダ：
 Yolanda:
 <$0D>
-//\n何の話なの… ロケットって…\nあたしはそんなオモチャはいらないわよ。
-\n
-What are you talking\n
-about, "rocket"... I
-<$0C>
-don't want that damn\n
-toy.
+// \n何の話なの… ロケットって… \nあたしはそんなオモチャはいらないわよ。
+ \n
+What are you talking about, "rocket"... \n
+I don't want that damn toy. 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nねぇタニア、いるのなら出てきて…
-\n
-...Hey, Tanya. If\n
-you're really here,
-<$0C>
-can I...see you?
+// \nねぇタニア、いるのなら出てきて…
+ \n
+...Hey, Tanya. If you're really here, can \n
+I...see you? 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nなんてね。 死んじゃったんだもの…\n無理よね。
-\n
-I guess not, huh.\n
-There's no way.
-<$0C>
-...You're dead,\n
-remember?
+// \nなんてね。 死んじゃったんだもの… \n無理よね。
+ \n
+I guess not, huh. There's no way. \n
+...You're dead, remember? 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nあのバスルーム… 血で真っ赤になってた…
-\n
-The bathroom... You\n
-stained it all red
-<$0C>
-with your blood.
+// \nあのバスルーム… 血で真っ赤になってた…
+ \n
+The bathroom... You stained it all red \n
+with your blood. 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nもっと早くアタシに相談してくれれば、\nあんなことにならずに済んだ。
-\n
-If only you talked to\n
-me sooner, none of
-<$0C>
-this would have\n
-happened!
+// \nもっと早くアタシに相談してくれれば、 \nあんなことにならずに済んだ。
+ \n
+If only you talked to me sooner, none \n
+of this would have happened! 
 <$00>
 
 // Pos: 00000A2A
@@ -123,13 +102,10 @@ happened!
 
 #WHB(PTR, $0000087D)
 
-//話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the\n
-biggest toy rocket in\n
-town, just for you!
-<$0C>
-We hope you like your\n
-Christmas present!
+//話、 \nクリスマスプレゼントは大きなロケットよ、 \n町で一番大きいのよ！
+話, we found the biggest toy rocket in \n
+town, just for you! We hope you like \n
+your Christmas present! 
 <$00>
 
 // Pos: 00000A53
@@ -142,12 +118,10 @@ Christmas present!
 //アーネスト：
 Ernest:
 <$0D>
-//\n誰だ… この声は？ 開いたことがあるぜ。\nぼんやり覚えてるぜ。
-\n
-Who...who said that?\n
-I swear I've heard
-<$0C>
-that voice before.
+// \n誰だ… この声は？ 開いたことがあるぜ。 \nぼんやり覚えてるぜ。
+ \n
+Who...who said that? I swear I've \n
+heard that voice before. 
 <$00>
 
 // Pos: 00000A83
@@ -159,13 +133,10 @@ that voice before.
 //想うしたの
 想Do you like it, 
 <$0F>
-//、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-?\n
-Your batya drove all\n
-over town for it.
-<$0C>
-Mama's so happy for\n
-you!
+//、 \nロケット、パパからのプレゼントよ。 \n索敵なクリスマスね。ママも嬉しいわ。
+? Your batya drove all \n
+over town for it. Mama's so happy for \n
+you! 
 <$00>
 
 // Pos: 00000AB4
@@ -178,22 +149,18 @@ you!
 //アーネスト：
 Ernest:
 <$0D>
-//\nロケットだと？ 俺はそんなもんで遊ばないぜ。\nおい、俺をおちょくってるのか…
-\n
-A toy rocket? I don't\n
-play with toys. Stop
-<$0C>
-messing with me...
+// \nロケットだと？ 俺はそんなもんで遊ばないぜ。 \nおい、俺をおちょくってるのか…
+ \n
+A toy rocket? I don't play with toys. \n
+Stop messing with me... 
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-//\n大きなロケットだと？\nクリスマスプレゼントだと？
-\n
-...The big rocket,\n
-right? That was a
-<$0C>
-Christmas present?
+// \n大きなロケットだと？ \nクリスマスプレゼントだと？
+ \n
+...The big rocket, right? That was a \n
+Christmas present? 
 <$00>
 
 // Pos: 00000B0B
@@ -202,13 +169,10 @@ Christmas present?
 
 #WHB(PTR, $0000088D)
 
-//話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the\n
-biggest toy rocket in\n
-town, just for you!
-<$0C>
-We hope you like your\n
-Christmas present!
+//話、 \nクリスマスプレゼントは大きなロケットよ、 \n町で一番大きいのよ！
+話, we found the biggest toy rocket in \n
+town, just for you! We hope you like \n
+your Christmas present! 
 <$00>
 
 // Pos: 00000B34
@@ -221,12 +185,10 @@ Christmas present!
 //スペーサー：
 Spacer:
 <$0D>
-//\n誰かいるのか？ この部屋に誰かいるのか？
-\n
-Hello? Is there\n
-anyone else in this
-<$0C>
-room?
+// \n誰かいるのか？ この部屋に誰かいるのか？
+ \n
+Hello? Is there anyone else in this \n
+room? 
 <$00>
 
 // Pos: 00000B59
@@ -238,13 +200,10 @@ room?
 //想うしたの
 想Do you like it, 
 <$0F>
-//、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-?\n
-Your batya drove all\n
-over town for it.
-<$0C>
-Mama's so happy for\n
-you!
+//、 \nロケット、パパからのプレゼントよ。 \n索敵なクリスマスね。ママも嬉しいわ。
+? Your batya drove all \n
+over town for it. Mama's so happy for \n
+you! 
 <$00>
 
 // Pos: 00000B8A
@@ -257,37 +216,31 @@ you!
 //スペーサー：
 Spacer:
 <$0D>
-//\nロケット… そうか！
-\n
-A rocket...? Oh,\n
-right!
+// \nロケット… そうか！
+ \n
+A rocket...? Oh, right! 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n大きなロケットのおもちゃだ。\n見たことがあるぞ。
-\n
-I've seen a big toy\n
-rocket before.
+// \n大きなロケットのおもちゃだ。 \n見たことがあるぞ。
+ \n
+I've seen a big toy rocket before. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nたしかまだ引っ越す前の家にあったはずだ。
-\n
-I think it was still\n
-in the house before
-<$0C>
-we moved.
+// \nたしかまだ引っ越す前の家にあったはずだ。
+ \n
+I think it was still in the house before \n
+we moved. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nしかし… その後のことは思い出せない。\nああ、くそ！
-\n
-But... Dangit, I\n
-can't remember what
-<$0C>
-became of it after.
+// \nしかし… その後のことは思い出せない。 \nああ、くそ！
+ \n
+But... Dangit, I can't remember what \n
+became of it after. 
 <$00>
 

@@ -15,12 +15,10 @@
 //クロウ：
 Crow:
 <$0D>
-//\nひゃ！ ヘロデのお友達が消えちまった。
-\n
-Aww, Herod's little\n
-friends have all
-<$0C>
-disappeared!
+// \nひゃ！ ヘロデのお友達が消えちまった。
+ \n
+Aww, Herod's little friends have all \n
+disappeared! 
 <$00>
 
 // Pos: 00002E4F
@@ -33,13 +31,10 @@ disappeared!
 //クロウ：
 Crow:
 <$0D>
-//\nまだいるぜ、もうひとり、\n夢にうなされてるやつが。
-\n
-Well, there's still\n
-one more person. The
-<$0C>
-one dreaming all\n
-wrestlessly.
+// \nまだいるぜ、もうひとり、 \n夢にうなされてるやつが。
+ \n
+Well, there's still one more person. The \n
+one dreaming all wrestlessly. 
 <$00>
 
 // Pos: 00002E72
@@ -52,13 +47,10 @@ wrestlessly.
 //クロウ：
 Crow:
 <$0D>
-//\n女だ、汚ねぇ女だ。ホレてるのか。ひゃ！\n女は汚れてるぜ、純粋じゃない！
-\n
-Look at this filthy\n
-woman. Shameful,
-<$0C>
-isn't she? Kekeke!\n
-She's dirty, not pure!
+// \n女だ、汚ねぇ女だ。ホレてるのか。ひゃ！ \n女は汚れてるぜ、純粋じゃない！
+ \n
+Look at this filthy woman. Shameful, \n
+isn't she? Kekeke! She's dirty, not pure! 
 <$00>
 
 // Pos: 00002EA5
@@ -71,12 +63,10 @@ She's dirty, not pure!
 //クロウ：
 Crow:
 <$0D>
-//\nへへ、この女の右手は汚れてるぜ！
-\n
-See? This woman's\n
-right hand is so
-<$0C>
-FILTHY!
+// \nへへ、この女の右手は汚れてるぜ！
+ \n
+See? This woman's right hand is so \n
+FILTHY! 
 <$00>
 
 // Pos: 00002EC2
@@ -89,25 +79,20 @@ FILTHY!
 //クロウ：
 Crow:
 <$0D>
-//\nへへへ、死者の光だ。索敵なショーだ。
-\n
-Check it out, that's\n
-the light of the
-<$0C>
-dead. It's lovely to\n
-see, no?
+// \nへへへ、死者の光だ。索敵なショーだ。
+ \n
+Check it out, that's the light of the dead. \n
+It's lovely to see, no? 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\n今度は左手、左手だ。\n汚れた左手は見たくねぇ！
-\n
-And now, for the left\n
-hand, over
+// \n今度は左手、左手だ。 \n汚れた左手は見たくねぇ！
+ \n
+And now, for the left hand, over \n
+here...uggh! It's so filthy, I don't even
 <$0C>
-here...uggh! It's so\n
-filthy, I don't even\n
-want to look!
+want to look! 
 <$00>
 
 // Pos: 00002F0A
@@ -120,32 +105,25 @@ want to look!
 //クロウ：
 Crow:
 <$0D>
-//\nどうだ、死者の気分は、いい気分だろう。\n俺は夢見る天才だ。
-\n
-How does it feel to\n
-be deceased? Does it
-<$0C>
-feel good, my\n
-dreaming prodigy?
+// \nどうだ、死者の気分は、いい気分だろう。 \n俺は夢見る天才だ。
+ \n
+How does it feel to be deceased? Does it \n
+feel good, my dreaming prodigy? 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nさあ、お次は特別サービス、\nこの女はアシが汚れてるときたもんだ。
-\n
-Then, next is our\n
-special service. This
-<$0C>
-sick rose needs a\n
-closer sniff.
+// \nさあ、お次は特別サービス、 \nこの女はアシが汚れてるときたもんだ。
+ \n
+Then, next is our special service. This \n
+sick rose needs a closer sniff. 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\n右も左もだ！
-\n
-Right, left! Right,\n
-left!
+// \n右も左もだ！
+ \n
+Right, left! Right, left! 
 <$00>
 
 // Pos: 00002F72
@@ -158,33 +136,26 @@ left!
 //クロウ：
 Crow:
 <$0D>
-//\nへへへへへへ、これでいいんだ。\nおっと、まだ臭うぜ、くんくんくん、
-\n
-Kekeke, this is fine.\n
-Might as well smell
-<$0C>
-it all. Sniff,\n
-sniff...
+// \nへへへへへへ、これでいいんだ。 \nおっと、まだ臭うぜ、くんくんくん、
+ \n
+Kekeke, this is fine. Might as well smell \n
+it all. Sniff, sniff... 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nへっ、こりゃ子宮の臭いだ。\n腐った子宮の臭いがするぜ。
-\n
-Blech, what a smelly\n
-womb. Her womb smells
-<$0C>
-like it's rotted!
+// \nへっ、こりゃ子宮の臭いだ。 \n腐った子宮の臭いがするぜ。
+ \n
+Blech, what a smelly womb. Her womb \n
+smells like it's rotted! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nむしゃむしゃむしゃ、\n腐った子宮はどんな味がするんだ？
-\n
-Grumble, grumble. I\n
-wonder what a rotted
-<$0C>
-uterus tastes like.
+// \nむしゃむしゃむしゃ、 \n腐った子宮はどんな味がするんだ？
+ \n
+Grumble, grumble. I wonder what a \n
+rotted uterus tastes like. 
 <$00>
 
 // Pos: 00002FEE
@@ -197,34 +168,28 @@ uterus tastes like.
 //クロウ：
 Crow:
 <$0D>
-//\n変な光だ、あーあー、やめろ！ ちくしょう！\nあーあー、目が覚める…
-\n
-What's this strange\n
-light, huh? Ahh!
-<$0C>
-STOP! NO! I'll wake\n
-up!
+// \n変な光だ、あーあー、やめろ！ ちくしょう！ \nあーあー、目が覚める…
+ \n
+What's this strange light, huh? Ahh! \n
+STOP! NO! I'll wake up! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nイヤだ、戻りたくない！\n俺はここがいいんだ、とめろ、この光を！
-\n
-STOP! I DON'T WANT TO\n
-GO BACK! I LIKE THIS
+// \nイヤだ、戻りたくない！ \n俺はここがいいんだ、とめろ、この光を！
+ \n
+STOP! I DON'T WANT TO GO BACK! I LIKE \n
+THIS PLACE! STOP! DON'T MAKE ME SEE THE
 <$0C>
-PLACE! STOP! DON'T\n
-MAKE ME SEE THE LIGHT!
+LIGHT! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nあああああ、イヤだ、\n光なんかいらないんだ！
-\n
-AHHHH, NOOOO! I DON'T\n
-WANT TO GO TO THE
-<$0C>
-LIGHT!
+// \nあああああ、イヤだ、 \n光なんかいらないんだ！
+ \n
+AHHHH, NOOOO! I DON'T WANT TO GO TO \n
+THE LIGHT! 
 <$00>
 
 // Pos: 00003064
@@ -238,15 +203,15 @@ LIGHT!
 #WHB(PTR, $00000EF1)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //     
      
 <$0D>
 //黄色い石を手に入れた。
-Yellow Stone acquired.
+Yellow Stone acquired. 
 <$00>
 
 // Pos: 0000307E
@@ -260,14 +225,14 @@ Yellow Stone acquired.
 #WHB(PTR, $00000E85)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //    
     
 <$0D>
 //アイテムがいっぱいです。
-The item bag is full!
+The item bag is full! 
 <$0E><$1E><$17><$00>
 

@@ -15,13 +15,12 @@
 //ブル：
 Bull:
 <$0D>
-//\nはじまったんだ、くそっ！
-\n
-It's already\n
-started...
+// \nはじまったんだ、くそっ！
+ \n
+It's already started...
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 0000118B
@@ -34,15 +33,13 @@ started...
 //ブル：
 Bull:
 <$0D>
-//\n俺を差しおいて、アガタのやつ…\n俺も忘れたいことがあるんだ！
-\n
-I need to see Agatha.\n
-I've got stuff I'd
-<$0C>
+// \n俺を差しおいて、アガタのやつ… \n俺も忘れたいことがあるんだ！
+ \n
+I need to see Agatha. I've got stuff I'd \n
 rather forget too!
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 000011B6
@@ -55,23 +52,20 @@ rather forget too!
 //ブル：
 Bull:
 <$0D>
-//\nくそ、お顔がひりひりだ…
-\n
-Shit, my face is\n
-tingling so bad.
+// \nくそ、お顔がひりひりだ…
+ \n
+Shit, my face is tingling so bad. 
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
-//\nお顔だと？\nおい、お前、俺に変なこと言ったか？
-\n
-What, is it my face?\n
-What the heck do you
-<$0C>
-mean by that?
+// \nお顔だと？ \nおい、お前、俺に変なこと言ったか？
+ \n
+What, is it my face? What the heck do \n
+you mean by that?
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 000011EE
@@ -84,12 +78,11 @@ mean by that?
 //ブル：
 Bull:
 <$0D>
-//\nこの俺が！ お顔だと！ へん！
-\n
-This is ME? This is\n
-MY face? Shiiit!
+// \nこの俺が！ お顔だと！ へん！
+ \n
+This is ME? This is MY face? Shiiit!
 <$1E>
 //家
-家
+家 
 <$00>
 

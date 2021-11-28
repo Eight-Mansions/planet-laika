@@ -15,12 +15,10 @@
 //スペーサー：
 Spacer:
 <$0D>
-//\nちょっと話し合いたいんだ、\n開こえているのか？
-\n
-We need to talk for a\n
-minute. Can you two
-<$0C>
-hear me?
+// \nちょっと話し合いたいんだ、 \n開こえているのか？
+ \n
+We need to talk for a minute. Can you \n
+two hear me? 
 <$00>
 
 // Pos: 00002A50
@@ -33,12 +31,10 @@ hear me?
 //スペーサー：
 Spacer:
 <$0D>
-//\nどうなんだ？ アーネスト… ヨランダ…\n私の声が開こえているか？
-\n
-Come on, come on...\n
-Ernie! Jo! Can you
-<$0C>
-hear my voice?
+// \nどうなんだ？ アーネスト… ヨランダ… \n私の声が開こえているか？
+ \n
+Come on, come on... Ernie! Jo! Can you \n
+hear my voice? 
 <$00>
 
 // Pos: 00002A7F
@@ -51,12 +47,10 @@ hear my voice?
 //ダミアヌス：
 Damian:
 <$0D>
-//\nガリルがどうかしたって？\n教えてやろうか、やつのこと。
-\n
-Did you say "Galil"?\n
-Shall I tell you
-<$0C>
-about him?
+// \nガリルがどうかしたって？ \n教えてやろうか、やつのこと。
+ \n
+Did you say "Galil"? Shall I tell you about \n
+him? 
 <$00>
 
 // Pos: 00002AA6
@@ -69,9 +63,9 @@ about him?
 //スペーサー：
 Spacer:
 <$0D>
-//\nああ…
-\n
-Uhm...
+// \nああ…
+ \n
+Uhm... 
 <$00>
 
 // Pos: 00002AB6
@@ -84,9 +78,9 @@ Uhm...
 //ダミアヌス：
 Damian:
 <$0D>
-//\nあんた誰？
-\n
-Who are you?
+// \nあんた誰？
+ \n
+Who are you? 
 <$00>
 
 // Pos: 00002AC7
@@ -99,12 +93,12 @@ Who are you?
 //スペーサー：
 Spacer:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
 //だ…
-...
+... 
 <$00>
 
 // Pos: 00002AD7
@@ -117,10 +111,9 @@ Spacer:
 //ダミアヌス：
 Damian:
 <$0D>
-//\nそう、よかったね。ふふふ、よかった。
-\n
-Yes, good! I thought\n
-as much, heehee!
+// \nそう、よかったね。ふふふ、よかった。
+ \n
+Yes, good! I thought as much, heehee! 
 <$00>
 
 // Pos: 00002AF4
@@ -133,10 +126,9 @@ as much, heehee!
 //スペーサー：
 Spacer:
 <$0D>
-//\nガリルのこと、教えてくれ。
-\n
-All right, tell me\n
-about Galil.
+// \nガリルのこと、教えてくれ。
+ \n
+All right, tell me about Galil. 
 <$00>
 
 // Pos: 00002B0F
@@ -149,23 +141,18 @@ about Galil.
 //ダミアヌス：
 Damian:
 <$0D>
-//\nやつだよ、ヴェロニカに汚い布をわたして\nヴァニティフェイスをはびこらせたの。
-\n
-Well, Galil gave\n
-Veronica a filthy
-<$0C>
-cloth before Vanity\n
-Face picked up.
+// \nやつだよ、ヴェロニカに汚い布をわたして \nヴァニティフェイスをはびこらせたの。
+ \n
+Well, Galil gave Veronica a filthy cloth \n
+before Vanity Face picked up. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\nレッドにコスマスを引き合わせたのも\nあいつさ。
-\n
-He's also the one who\n
-introduced Cosmas to
-<$0C>
-Red.
+// \nレッドにコスマスを引き合わせたのも \nあいつさ。
+ \n
+He's also the one who introduced \n
+Cosmas to Red. 
 <$00>
 
 // Pos: 00002B65
@@ -178,10 +165,9 @@ Red.
 //スペーサー：
 Spacer:
 <$0D>
-//\n憎しみの火種を付けて回ってるんだな。
-\n
-Stoking the coals of\n
-hatred, was he?
+// \n憎しみの火種を付けて回ってるんだな。
+ \n
+Stoking the coals of hatred, was he? 
 <$00>
 
 // Pos: 00002B89
@@ -194,20 +180,17 @@ hatred, was he?
 //ダミアヌス：
 Damian:
 <$0D>
-//\nはじめのうちはね。
-\n
-In the beginning, yes.
+// \nはじめのうちはね。
+ \n
+In the beginning, yes. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\nそのうち誰も彼もが\n悪に憑かれるようになったのさ。
-\n
-From then on,\n
-everyone became
-<$0C>
-obsessed with "evil"\n
-on their own.
+// \nそのうち誰も彼もが \n悪に憑かれるようになったのさ。
+ \n
+From then on, everyone became \n
+obsessed with "evil" on their own. 
 <$00>
 
 // Pos: 00002BC3
@@ -220,9 +203,9 @@ on their own.
 //スペーサー：
 Spacer:
 <$0D>
-//\n君は…今…
-\n
-What...are you?
+// \n君は…今…
+ \n
+What...are you? 
 <$00>
 
 // Pos: 00002BD6
@@ -235,19 +218,17 @@ What...are you?
 //ダミアヌス：
 Damian:
 <$0D>
-//\nねぇ、コスマスを助けてやってよ。
-\n
-Please, save Cosmas.
+// \nねぇ、コスマスを助けてやってよ。
+ \n
+Please, save Cosmas. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\nあんたがここまで来れたのもあいつのおかげ…\nそうじゃないの？
-\n
-You only got this far\n
-because of him, you
-<$0C>
-know, so...please?
+// \nあんたがここまで来れたのもあいつのおかげ… \nそうじゃないの？
+ \n
+You only got this far because of him, \n
+you know, so...please? 
 <$00>
 
 // Pos: 00002C1B
@@ -260,23 +241,18 @@ know, so...please?
 //スペーサー：
 Spacer:
 <$0D>
-//\n彼と約束をかわした。\nしかし、どうやって？
-\n
-I promise, but...save\n
-him "how"? Red keeps
-<$0C>
-constant tabs on him.
+// \n彼と約束をかわした。 \nしかし、どうやって？
+ \n
+I promise, but...save him "how"? Red \n
+keeps constant tabs on him. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nあのレッドが眼を光らせてる。\nそれに…君はコスマスとどういう関係なのだ？
-\n
-Which begs the\n
-question: what is
-<$0C>
-your relationship to\n
-Cosmas?
+// \nあのレッドが眼を光らせてる。 \nそれに…君はコスマスとどういう関係なのだ？
+ \n
+Which begs the question: what is your \n
+relationship to Cosmas? 
 <$00>
 
 // Pos: 00002C72
@@ -289,12 +265,10 @@ Cosmas?
 //ダミアヌス：
 Damian:
 <$0D>
-//\nレッドは出かけてるよ。\n今の間にコスマスを連れ出すのさ。
-\n
-Red is out. Now's the\n
-time for you to lead
-<$0C>
-Cosmas.
+// \nレッドは出かけてるよ。 \n今の間にコスマスを連れ出すのさ。
+ \n
+Red is out. Now's the time for you to \n
+lead Cosmas. 
 <$00>
 
 // Pos: 00002C9E
@@ -307,12 +281,10 @@ Cosmas.
 //スペーサー：
 Spacer:
 <$0D>
-//\n答えてくれ。 君たちは兄弟なのか？
-\n
-You dodged my\n
-question. Are you two
-<$0C>
-siblings?
+// \n答えてくれ。 君たちは兄弟なのか？
+ \n
+You dodged my question. Are you two \n
+siblings? 
 <$00>
 
 // Pos: 00002CBF
@@ -325,23 +297,18 @@ siblings?
 //ダミアヌス：
 Damian:
 <$0D>
-//\n人形だよ。\n黒い人形であいつを誘い出せる。
-\n
-There's a doll. A\n
-black doll that will
-<$0C>
-get Cosmas out of the\n
-house.
+// \n人形だよ。 \n黒い人形であいつを誘い出せる。
+ \n
+There's a doll. A black doll that will get \n
+Cosmas out of the house. 
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-//\nあいつ、夢遊病みたいに付いてくるよ。
-\n
-If you use it, he'll\n
-come to you as if he
-<$0C>
-were sleepwalking.
+// \nあいつ、夢遊病みたいに付いてくるよ。
+ \n
+If you use it, he'll come to you as if he \n
+were sleepwalking. 
 <$00>
 
 // Pos: 00002D04
@@ -354,10 +321,9 @@ were sleepwalking.
 //スペーサー：
 Spacer:
 <$0D>
-//\nダミアヌス、私は質問しているのだ。
-\n
-Damian, I asked you a\n
-question.
+// \nダミアヌス、私は質問しているのだ。
+ \n
+Damian, I asked you a question. 
 <$00>
 
 // Pos: 00002D24
@@ -370,10 +336,9 @@ question.
 //ダミアヌス：
 Damian:
 <$0D>
-//\n人形の名前はダークマンだ。
-\n
-The doll's name is\n
-Dark Man.
+// \n人形の名前はダークマンだ。
+ \n
+The doll's name is Dark Man. 
 <$00>
 
 // Pos: 00002D3E
@@ -386,9 +351,8 @@ Dark Man.
 //スペーサー：
 Spacer:
 <$0D>
-//\nまだいるんだろう？ そこに…
-\n
-All right, you two\n
-still there?
+// \nまだいるんだろう？ そこに…
+ \n
+All right, you two still there? 
 <$00>
 

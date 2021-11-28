@@ -15,22 +15,18 @@
 //エイプリル：
 April:
 <$0D>
-//\nここが記憶の谷ね。\n酸索石はここで掘り出していたのよ…
-\n
-This is Valles\n
-Memoriae, where the
-<$0C>
-oxygenite is dug out.
+// \nここが記憶の谷ね。 \n酸索石はここで掘り出していたのよ…
+ \n
+This is Valles Memoriae, where the \n
+oxygenite is dug out. 
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-//\nなんだか吸い込まれてしまいそうな雰囲気ね。
-\n
-The atmosphere's a\n
-little hard to
-<$0C>
-breathe in.
+// \nなんだか吸い込まれてしまいそうな雰囲気ね。
+ \n
+The atmosphere's a little hard to \n
+breathe in. 
 <$00>
 
 // Pos: 00000816
@@ -43,11 +39,9 @@ breathe in.
 //エイプリル：
 April:
 <$0D>
-//\n人の気配がしないけど…\n奥に行ってみない？
-\n
-There's no sign of\n
-anyone here, so why
-<$0C>
-not look around?
+// \n人の気配がしないけど… \n奥に行ってみない？
+ \n
+There's no sign of anyone here, so why \n
+not look around? 
 <$00>
 

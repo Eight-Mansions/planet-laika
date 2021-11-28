@@ -15,15 +15,13 @@
 //トミー：
 Tommy:
 <$0D>
-//\nようよう、レッドのやつのこと、開きてぇか？
-\n
-Hey, do you want to\n
-hear about Red?
+// \nようよう、レッドのやつのこと、開きてぇか？
+ \n
+Hey, do you want to hear about Red?
 <$1B>
-//、開きたい\n開きたくない
-、Yes
-<$0C>
-No
+//、開きたい \n開きたくない
+、Yes \n
+No 
 <$00><$17><$00>
 
 // Pos: 00000C9D
@@ -36,92 +34,77 @@ No
 //トミー：
 Tommy:
 <$0D>
-//\nへへへ、そうかい。
-\n
-Hehe, I get ya.
+// \nへへへ、そうかい。
+ \n
+Hehe, I get ya. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nレッドのやつはなぁ、\nガキの頃に一緒に住んでたおじさんに\n可愛がられ過ぎたんだ。
-\n
-Back when Red was a\n
-kid, he used to live
+// \nレッドのやつはなぁ、 \nガキの頃に一緒に住んでたおじさんに \n可愛がられ過ぎたんだ。
+ \n
+Back when Red was a kid, he used to live \n
+with an old guy who like,
 <$0C>
-with an old guy who\n
-like, love-love-loved\n
-him.
+love-love-loved him. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\n本当だ、やつはガキの頃は別人みたいに\n美少年だったんだ、へっ、信じられねぇだろ？
-\n
-Believe it or not,\n
-but Red was a real
+// \n本当だ、やつはガキの頃は別人みたいに \n美少年だったんだ、へっ、信じられねぇだろ？
+ \n
+Believe it or not, but Red was a real \n
+pretty boy back in his day. Like, a whole
 <$0C>
-pretty boy back in\n
-his day. Like, a\n
-whole other person.
+other person. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nその美少年顔が災いの元だったんだ。
-\n
-But that pretty face\n
-he had before is the
+// \nその美少年顔が災いの元だったんだ。
+ \n
+But that pretty face he had before is \n
+the cause of what he's doing to that
 <$0C>
-cause of what he's\n
-doing to that Cosmas\n
-kid now.
+Cosmas kid now. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nやつはなんとか顔を変えようとしたんだ。\nそこんとこが、まだ知惠あるよな、\nコスマスのやつと建ってな。
-\n
-Red keeps changing\n
-Cosmas's face, but
+// \nやつはなんとか顔を変えようとしたんだ。 \nそこんとこが、まだ知惠あるよな、 \nコスマスのやつと建ってな。
+ \n
+Red keeps changing Cosmas's face, but \n
+there was a problem: the new face
 <$0C>
-there was a problem:\n
-the new face wasn't\n
-Cosmas's.
+wasn't Cosmas's. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nで、レッドはこっそり整形屋に\n忍び込んで顔を切り刻んだんだ。\nそしたらどうなったと思う？
-\n
-But Red kept taking\n
-Cosmas in secret to
+// \nで、レッドはこっそり整形屋に \n忍び込んで顔を切り刻んだんだ。 \nそしたらどうなったと思う？
+ \n
+But Red kept taking Cosmas in secret to \n
+get worked on anyways. Can you guess
 <$0C>
-get worked on\n
-anyways. Can you\n
-guess why?
+why? 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nへへ、やつの顔は張りぼてだったんだよ。\nぼろぼろ崩れて、元の犬顔に戻っちまった。\n美少年なんてウソっぱちだったってわけさ。
-\n
-Because the human\n
-face was so
+// \nへへ、やつの顔は張りぼてだったんだよ。 \nぼろぼろ崩れて、元の犬顔に戻っちまった。 \n美少年なんてウソっぱちだったってわけさ。
+ \n
+Because the human face was so \n
+superficial, the lie fell apart, and the
 <$0C>
-superficial, the lie\n
-fell apart, and the\n
-dog face re-emerged.
+dog face re-emerged. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nそれ以来、やつは頭の中に\nなにか電波みたいなもんを惑じるように\nなりやがったんだ。
-\n
-And after that, the\n
-guy started getting
-<$0C>
-weird radio waves in\n
-his head.
+// \nそれ以来、やつは頭の中に \nなにか電波みたいなもんを惑じるように \nなりやがったんだ。
+ \n
+And after that, the guy started getting \n
+weird radio waves in his head. 
 <$00>
 
 // Pos: 00000E40
@@ -134,12 +117,10 @@ his head.
 //トミー：
 Tommy:
 <$0D>
-//\nそうかい、\nとにかくレッドのやつには気を付けな。
-\n
-Gotcha. Either way,\n
-make sure you steer
-<$0C>
-clear of him, a-yup.
+// \nそうかい、 \nとにかくレッドのやつには気を付けな。
+ \n
+Gotcha. Either way, make sure you \n
+steer clear of him, a-yup. 
 <$00>
 
 // Pos: 00000E62
@@ -152,32 +133,27 @@ clear of him, a-yup.
 //トミー：
 Tommy:
 <$0D>
-//\nひぇー、ウワサをすればレッドだ。
-\n
-Heh, speak of the\n
-devil.
+// \nひぇー、ウワサをすればレッドだ。
+ \n
+Heh, speak of the devil. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nはっ、兄ちゃんよう、\nこのへんもヤバイ惑じだな、
-\n
-My Tommy senses are\n
-tingling, comrade,
-<$0C>
-and that's not a good\n
-thing.
+// \nはっ、兄ちゃんよう、 \nこのへんもヤバイ惑じだな、
+ \n
+My Tommy senses are tingling, \n
+comrade, and that's not a good thing. 
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-//\nヤバイヤバイってな。
-\n
-This is real bad,\n
-a-yup.
+// \nヤバイヤバイってな。
+ \n
+This is real bad, a-yup.
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00000EB2
@@ -190,15 +166,12 @@ a-yup.
 //トミー：
 Tommy:
 <$0D>
-//\nへっ、レッドは向こうへ行ったぜ。\n向こうっていうのは向こうだ。
-\n
-Hehe, Red went the\n
-other way. You'll
-<$0C>
-want to do go the\n
-OTHER-other way.
+// \nへっ、レッドは向こうへ行ったぜ。 \n向こうっていうのは向こうだ。
+ \n
+Hehe, Red went the other way. You'll \n
+want to do go the OTHER-other way.
 <$1E>
 //家
-家
+家 
 <$00>
 

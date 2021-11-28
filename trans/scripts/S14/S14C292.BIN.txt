@@ -15,12 +15,10 @@
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nあああ、アタシがここにいるのは\nなんでかってことよね…
-\n
-Ah, how'd I get\n
-myself into this.
-<$0C>
-Hell if I know...
+// \nあああ、アタシがここにいるのは \nなんでかってことよね…
+ \n
+Ah, how'd I get myself into this. Hell if I \n
+know... 
 <$00>
 
 // Pos: 00002678
@@ -33,13 +31,10 @@ Hell if I know...
 //マラケシュ：
 Marrakech:
 <$0D>
-//\nああ、アタシもときどき分からなくなるのよ、\n自分っていうのが、なにかこう…
-\n
-Sometimes you just\n
-don't know, you know?
-<$0C>
-Even I lose sight of\n
-my...self...
+// \nああ、アタシもときどき分からなくなるのよ、 \n自分っていうのが、なにかこう…
+ \n
+Sometimes you just don't know, you \n
+know? Even I lose sight of my...self... 
 <$00>
 
 // Pos: 000026A9
@@ -52,10 +47,9 @@ my...self...
 //ブル：
 Bull:
 <$0D>
-//\nおおお、イヤな惑じだ、ちくしょう！
-\n
-Shit, my senses are\n
-all out of whack.
+// \nおおお、イヤな惑じだ、ちくしょう！
+ \n
+Shit, my senses are all out of whack. 
 <$00>
 
 // Pos: 000026C3
@@ -68,43 +62,35 @@ all out of whack.
 //ブル：
 Bull:
 <$0D>
-//\n俺はあんたがきらいだ…\nあー、何て言うか、きらいなんだ。
-\n
-I don't like you, or\n
-anything you have to
-<$0C>
-say.
+// \n俺はあんたがきらいだ… \nあー、何て言うか、きらいなんだ。
+ \n
+I don't like you, or anything you have to \n
+say. 
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
-//\nはじめて会うやつなのにな…\n俺はブルだ。
-\n
-The name's Bull. I\n
-don't exactly care if
-<$0C>
-this is the first\n
-time we've met or not.
+// \nはじめて会うやつなのにな… \n俺はブルだ。
+ \n
+The name's Bull. I don't exactly care if \n
+this is the first time we've met or not. 
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
-//\nあんた、アガタと組んでるのか、分かるんだ。
-\n
-All I know is, you're\n
-on Agatha's team.
+// \nあんた、アガタと組んでるのか、分かるんだ。
+ \n
+All I know is, you're on Agatha's team. 
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
-//\n俺は落ち込むとすぐにここに来るんだ、\n催眠術で何もかも忘れることができるんだ。
-\n
-I come here the\n
-minute I start
+// \n俺は落ち込むとすぐにここに来るんだ、 \n催眠術で何もかも忘れることができるんだ。
+ \n
+I come here the minute I start feeling \n
+depressed. The hypnotherapy helps
 <$0C>
-feeling depressed.\n
-The hypnotherapy\n
-helps me forget.
+me forget. 
 <$00>
 
 // Pos: 00002755
@@ -117,14 +103,12 @@ helps me forget.
 //ブル：
 Bull:
 <$0D>
-//\nちくしょう！ 俺は何で俺なんだ？\nもうあきたぜ。アガタ、ここを開けてくれ。\n自分を忘れたいぜ！
-\n
-Why'd I have to be\n
-me, huh? Well, I'm
+// \nちくしょう！ 俺は何で俺なんだ？ \nもうあきたぜ。アガタ、ここを開けてくれ。 \n自分を忘れたいぜ！
+ \n
+Why'd I have to be me, huh? Well, I'm \n
+here, Agatha! Open up! Let my forget
 <$0C>
-here, Agatha! Open\n
-up! Let my forget\n
-myself!
+myself! 
 <$00>
 
 // Pos: 0000278F
@@ -137,12 +121,10 @@ myself!
 //ブル：
 Bull:
 <$0D>
-//\nへん！ 俺は自分もきらいなんだ、\nそういうことだ。
-\n
-Hmph, on top of\n
-everything else I
-<$0C>
-hate...I hate my self.
+// \nへん！ 俺は自分もきらいなんだ、 \nそういうことだ。
+ \n
+Hmph, on top of everything else I \n
+hate...I hate my self. 
 <$00>
 
 // Pos: 000027B1
@@ -163,19 +145,16 @@ hate...I hate my self.
 //ブル：
 Bull:
 <$0D>
-//\nはじまったんだ、くそっ！
-\n
-It's already\n
-started...
+// \nはじまったんだ、くそっ！
+ \n
+It's already started... 
 <$00><$10><$0B>
 //ブル：
 Bull:
 <$0D>
-//\n俺を差しおいて、アガタのやつ…\n俺も忘れたいことがあるんだ！
-\n
-I need to see Agatha.\n
-I've got stuff I'd
-<$0C>
-rather forget too!
+// \n俺を差しおいて、アガタのやつ… \n俺も忘れたいことがあるんだ！
+ \n
+I need to see Agatha. I've got stuff I'd \n
+rather forget too! 
 <$00>
 

@@ -11,11 +11,10 @@
 
 #WHB(PTR, $0000010D)
 
-
+ 
 <$00><$14><$02><$11>
 //急前には誰も救えないのだ、ヨランダ。
-You can't save\n
-anyone, Yolanda.
+You can't save anyone, Yolanda. 
 <$0E><$78><$17><$00>
 
 // Pos: 00004D29
@@ -24,11 +23,10 @@ anyone, Yolanda.
 
 #WHB(PTR, $00000129)
 
-
+ 
 <$00><$14><$02><$11>
-//馬ニアはお前が殺したようなものだ。見殺しだ。\n 
-You'll die alone,\n
-just like Tanya did!\n
+//馬ニアはお前が殺したようなものだ。見殺しだ。 \n 
+You'll die alone, just like Tanya did! \n 
 <$0E><$78><$17><$00>
 
 // Pos: 00004D4C
@@ -37,10 +35,9 @@ just like Tanya did!\n
 
 #WHB(PTR, $00000131)
 
-
+ 
 <$00><$14><$02><$11>
 //急前はひとりだヨランダ。この先もひとりだ。
-You're all alone, and\n
-always will be!
+You're all alone, and always will be! 
 <$0E><$78><$17><$00>
 

@@ -15,20 +15,17 @@
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nあああああああ…
-\n
-Ohhh...
+// \nあああああああ…
+ \n
+Ohhh... 
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\n死の分身を…氷の中で冷たくなっている分身だ。\nあああ、死を完成させねばならない、\nあああ…死…
-\n
-Death's alter\n
-ego...is frooozen in
-<$0C>
-ice, while I am\n
-buried in stooone...
+// \n死の分身を…氷の中で冷たくなっている分身だ。 \nあああ、死を完成させねばならない、 \nあああ…死…
+ \n
+Death's alter ego...is frooozen in ice, \n
+while I am buried in stooone... 
 <$00>
 
 // Pos: 00002141
@@ -41,13 +38,10 @@ buried in stooone...
 //スペーサー：
 Spacer:
 <$0D>
-//\nアイスレイクにいたやつか…\nその分身を呼び寄せるのか？
-\n
-The big guy down in\n
-Ice Lake? Do you
-<$0C>
-consider him your\n
-alter ego?
+// \nアイスレイクにいたやつか… \nその分身を呼び寄せるのか？
+ \n
+The big guy down in Ice Lake? Do you \n
+consider him your alter ego? 
 <$00>
 
 // Pos: 0000216C
@@ -60,34 +54,26 @@ alter ego?
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nあああ、死の動機を得るのだ、\n死に向き合えば、エレミヤに近付ける…
-\n
-Finnnnd a\n
-reason...for dying,
-<$0C>
-faaace Death, and\n
-Jeremiah will\n
-commme...
+// \nあああ、死の動機を得るのだ、 \n死に向き合えば、エレミヤに近付ける…
+ \n
+Finnnnd a reason...for dying, faaace \n
+Death, and Jeremiah will commme... 
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\n残りの預言はエレミヤのうちに…
-\n
-The rrremaining\n
-prophecy...rests in
-<$0C>
-Jeremiaaaah...
+// \n残りの預言はエレミヤのうちに…
+ \n
+The rrremaining prophecy...rests in \n
+Jeremiaaaah... 
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nお前にも惑じるぞ、同じだ、私と同じだ。
-\n
-You and I, we are the\n
-saaaaame... You
-<$0C>
-feeeel this toooo...
+// \nお前にも惑じるぞ、同じだ、私と同じだ。
+ \n
+You and I, we are the saaaaame... You \n
+feeeel this toooo... 
 <$00>
 
 // Pos: 000021E5
@@ -100,13 +86,10 @@ feeeel this toooo...
 //スペーサー：
 Spacer:
 <$0D>
-//\n死の世界に入ろうとしているのか？\nまだすぐには無理そうだな。
-\n
-Do you want into the\n
-Land of the Dead? I
-<$0C>
-didn't think that was\n
-possible yet.
+// \n死の世界に入ろうとしているのか？ \nまだすぐには無理そうだな。
+ \n
+Do you want into the Land of the Dead? I \n
+didn't think that was possible yet. 
 <$00>
 
 // Pos: 00002216
@@ -119,13 +102,10 @@ possible yet.
 //スペーサー：
 Spacer:
 <$0D>
-//\nどこかで死の世界とつながっている。\nそれはどこだ。
-\n
-Or, is there some\n
-sort of special
-<$0C>
-entrance? If so,\n
-where is it?
+// \nどこかで死の世界とつながっている。 \nそれはどこだ。
+ \n
+Or, is there some sort of special \n
+entrance? If so, where is it? 
 <$00>
 
 // Pos: 0000223F
@@ -138,23 +118,20 @@ where is it?
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nあんたも半分死んでるの？
-\n
-You're not half-dead\n
-too, are you?
+// \nあんたも半分死んでるの？
+ \n
+You're not half-dead too, are you? 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n
-\n
+// \n
+ \n
 
 <$0F>
 //じゃない、あんたは誰？
-\n
-...? No, that's not
-<$0C>
-it. What's your name?
+ \n
+...? No, that's not it. What's your name? 
 <$00>
 
 // Pos: 00002271
@@ -167,10 +144,9 @@ it. What's your name?
 //スペーサー：
 Spacer:
 <$0D>
-//\nあああ、私はスペーサーだ、スペーサー。\n君は確か…
-\n
-Uhhh, I'm Spacer. And\n
-who're you?
+// \nあああ、私はスペーサーだ、スペーサー。 \n君は確か…
+ \n
+Uhhh, I'm Spacer. And who're you? 
 <$00>
 
 // Pos: 00002298
@@ -183,20 +159,17 @@ who're you?
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nアタシ、ヴェロニカ。
-\n
-I'm Veronica.
+// \nアタシ、ヴェロニカ。
+ \n
+I'm Veronica. 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nねぇ、開くけどあんたは、あんただけなの？\n他にはいないの？
-\n
-I thought I heard\n
-talking, but it's
-<$0C>
-just you. Are you\n
-expecting someone?
+// \nねぇ、開くけどあんたは、あんただけなの？ \n他にはいないの？
+ \n
+I thought I heard talking, but it's just \n
+you. Are you expecting someone? 
 <$00>
 
 // Pos: 000022D8
@@ -209,13 +182,10 @@ expecting someone?
 //スペーサー：
 Spacer:
 <$0D>
-//\n私だけ… もしそうだとしたら？\n私が全てだとしたら…
-\n
-Expecting someone...?\n
-Uhm, no. It's just
-<$0C>
-me, myself and\n
-this...wall here...
+// \n私だけ… もしそうだとしたら？ \n私が全てだとしたら…
+ \n
+Expecting someone...? Uhm, no. It's \n
+just me, myself and this...wall here... 
 <$00>
 
 // Pos: 00002300
@@ -228,14 +198,12 @@ this...wall here...
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nじゃあ、合わさったの？\nそれともはじめからひとりなの？\nねえ、どっち？
-\n
-Well, either you were\n
-you talking to
+// \nじゃあ、合わさったの？ \nそれともはじめからひとりなの？ \nねえ、どっち？
+ \n
+Well, either you were you talking to \n
+someone, or were you were scheming
 <$0C>
-someone, or were you\n
-were scheming here\n
-alone.
+here alone. 
 <$00>
 
 // Pos: 00002331
@@ -248,12 +216,10 @@ alone.
 //スペーサー：
 Spacer:
 <$0D>
-//\n合わさる…\nどういうことだ、合わさるとは。\n私たちが合わさる…
-\n
-What? There's no\n
-scheming, we were
-<$0C>
-just...
+// \n合わさる… \nどういうことだ、合わさるとは。 \n私たちが合わさる…
+ \n
+What? There's no scheming, we were \n
+just... 
 <$00>
 
 // Pos: 00002360
@@ -266,13 +232,10 @@ just...
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nほら、やっぱり。\nひとりじゃないんだよ。\n私たちだなんて言って…ばれてるよ。
-\n
-Gotcha! You weren't\n
-alone after all! I
-<$0C>
-caught you when you\n
-said "we"!
+// \nほら、やっぱり。 \nひとりじゃないんだよ。 \n私たちだなんて言って…ばれてるよ。
+ \n
+Gotcha! You weren't alone after all! I \n
+caught you when you said "we"! 
 <$00>
 
 // Pos: 00002393
@@ -285,24 +248,20 @@ said "we"!
 //スペーサー：
 Spacer:
 <$0D>
-//\n君は…\n君にも誰かいるのか…
-\n
-W-well, what about\n
-you, huh? What's your
-<$0C>
-deal?
+// \n君は… \n君にも誰かいるのか…
+ \n
+W-well, what about you, huh? What's \n
+your deal? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nそうか！ 思い出したぞ、フェイだ、\n君はフェイのことをきらってる、\nそして取り込もうとしているんだな！
-\n
-Oh, now I remember!\n
-You don't like Feng.
+// \nそうか！ 思い出したぞ、フェイだ、 \n君はフェイのことをきらってる、 \nそして取り込もうとしているんだな！
+ \n
+Oh, now I remember! You don't like \n
+Feng. You're the half that's trying to
 <$0C>
-You're the half\n
-that's trying to\n
-subdue her.
+subdue her. 
 <$00>
 
 // Pos: 000023F0
@@ -315,14 +274,12 @@ subdue her.
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nふふふ、アタシはいいこと思いついたのよ、\nふたりがひとりになれる特別の方法を。
-\n
-Hohoho! I thought\n
-long and hard, you
+// \nふふふ、アタシはいいこと思いついたのよ、 \nふたりがひとりになれる特別の方法を。
+ \n
+Hohoho! I thought long and hard, you \n
+know. I've got a plan now to become
 <$0C>
-know. I've got a plan\n
-now to become one\n
-with her.
+one with her. 
 <$00>
 
 // Pos: 00002429
@@ -335,10 +292,9 @@ with her.
 //スペーサー：
 Spacer:
 <$0D>
-//\nなんだ、どうするんだ？\n教えてくれ！
-\n
-How would that work,\n
-huh? Tell me.
+// \nなんだ、どうするんだ？ \n教えてくれ！
+ \n
+How would that work, huh? Tell me. 
 <$00>
 
 // Pos: 00002449
@@ -351,13 +307,10 @@ huh? Tell me.
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nアタシ、決めたの。\n吸収するのよ、あの女を、フェイを。\nアタシが見つけたやり方で！
-Simple,\n
-really. I've decided\n
-I'll absorb that
-<$0C>
-woman. Feng. It's the\n
-most realistic option.
+// \nアタシ、決めたの。 \n吸収するのよ、あの女を、フェイを。 \nアタシが見つけたやり方で！
+Simple, really. I've decided \n
+I'll absorb that woman. Feng. It's the \n
+most realistic option. 
 <$00>
 
 // Pos: 00002484
@@ -370,22 +323,19 @@ most realistic option.
 //スペーサー：
 Spacer:
 <$0D>
-//\nドールダンスか…
-\n
-Using the doll dance?\n
-That's it, isn't it?
+// \nドールダンスか…
+ \n
+Using the doll dance? That's it, isn't it? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nそうなのか、メディスンマンたちのまじないで\n人格を統合させようとしているのか…\n人格統合…
-\n
-Veronica wants to use\n
-shamanic magic to
+// \nそうなのか、メディスンマンたちのまじないで \n人格を統合させようとしているのか… \n人格統合…
+ \n
+Veronica wants to use shamanic magic \n
+to integrate with Feng, and consume
 <$0C>
-integrate with Feng,\n
-and consume her\n
-personality.
+her personality. 
 <$00>
 
 // Pos: 000024D6
@@ -398,12 +348,10 @@ personality.
 //スペーサー：
 Spacer:
 <$0D>
-//\n開こえるか…私の声が。\nヨランダ、アーネスト…どうなんだ？
-\n
-Hey, can you two hear\n
-my voice? Ernie? Jo?
-<$0C>
-...Hello!
+// \n開こえるか…私の声が。 \nヨランダ、アーネスト…どうなんだ？
+ \n
+Hey, can you two hear my voice? Ernie? \n
+Jo? ...Hello! 
 <$00>
 
 // Pos: 00002502
@@ -424,25 +372,19 @@ my voice? Ernie? Jo?
 //スペーサー：
 Spacer:
 <$0D>
-//\nまだ眠っているのか。\n人格統合だ、その時はどうなる？
-\n
-Are you two still\n
-sleeping? Guys, what
-<$0C>
-happens in\n
-personality\n
-integration?
+// \nまだ眠っているのか。 \n人格統合だ、その時はどうなる？
+ \n
+Are you two still sleeping? Guys, what \n
+happens in personality integration? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n誰が残るんだ。\nそれとも誰も残れないのか、どうなんだ？
-\n
-Who remains, huh?\n
-Does everyone remain,
+// \n誰が残るんだ。 \nそれとも誰も残れないのか、どうなんだ？
+ \n
+Who remains, huh? Does everyone \n
+remain, or does everyone disappear?
 <$0C>
-or does everyone\n
-disappear? Which is\n
-it?
+Which is it? 
 <$00>
 

@@ -15,32 +15,25 @@
 //コスマス：
 Cosmas:
 <$0D>
-//\nあー、眠い眠い…
-\n
-Gosh, am I sleepy...
+// \nあー、眠い眠い…
+ \n
+Gosh, am I sleepy... 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nあんただね。\nよく来られたね、ここが僕の隠れ家だよ。
-\n
-You've come here\n
-quite a bit, haven't
-<$0C>
-you? To my hideout\n
-here.
+// \nあんただね。 \nよく来られたね、ここが僕の隠れ家だよ。
+ \n
+You've come here quite a bit, haven't \n
+you? To my hideout here. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nレッドおじさんは\n地下水道にあると思い込んでるけどね。
-\n
-Uncle Red still\n
-thinks my hiding
-<$0C>
-place is in the\n
-underground canal,\n
-doesn't he?
+// \nレッドおじさんは \n地下水道にあると思い込んでるけどね。
+ \n
+Uncle Red still thinks my hiding place is \n
+in the underground canal, doesn't he? 
 <$00>
 
 // Pos: 000018D3
@@ -53,12 +46,10 @@ doesn't he?
 //スペーサー：
 Spacer:
 <$0D>
-//\n思念の眼、君にもあれが見えるんだな？
-\n
-So tell me, you can\n
-see the mind's eyes
-<$0C>
-too, can you not?
+// \n思念の眼、君にもあれが見えるんだな？
+ \n
+So tell me, you can see the mind's eyes \n
+too, can you not? 
 <$00>
 
 // Pos: 000018F5
@@ -71,10 +62,10 @@ too, can you not?
 //コスマス：
 Cosmas:
 <$0D>
-//\nねぇ、なんか僕に\n開きたいことあるんじゃないの？
-\n
-Was there anything\n
-you wanted to ask me?
+// \nねぇ、なんか僕に \n開きたいことあるんじゃないの？
+ \n
+Was there anything you wanted to ask \n
+me? 
 <$00>
 
 // Pos: 00001919
@@ -87,22 +78,20 @@ you wanted to ask me?
 //スペーサー：
 Spacer:
 <$0D>
-//\nあ、ああ… あるにはあるが…
-\n
-Well, as a matter of\n
-fact...
+// \nあ、ああ… あるにはあるが…
+ \n
+Well, as a matter of fact... 
 <$0C>
-//１．君とダミアヌスは双子なのか\n２．ダークマンというのはあの人形のことなのか\n３．泡のおじさんって誰のことだ？
-1. Are you and Damian\n
-twins?\n
-Is Dark Man a doll?
-<$0C>
+//１．君とダミアヌスは双子なのか \n２．ダークマンというのはあの人形のことなのか \n３．泡のおじさんって誰のことだ？
+1. Are you and Damian twins? \n
+Is Dark Man a doll? \n
 Who is Uncle Bubbles?
 <$1B>
-//２１ \n２ \n３ 
-２1 \n
-2 \n
-3
+//２１  \n２  \n３ 
+２1 
+<$0C>
+2  \n
+3 
 <$00><$17><$00>
 
 // Pos: 0000197D
@@ -115,20 +104,17 @@ Who is Uncle Bubbles?
 //コスマス：
 Cosmas:
 <$0D>
-//\n僕に兄弟なんていないさ、本当だよ。
-\n
-The truth is, I don't\n
-have any siblings.
+// \n僕に兄弟なんていないさ、本当だよ。
+ \n
+The truth is, I don't have any siblings. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nレッドおじさんは勝手に話を作り出す\n天才なんだよ。
-\n
-Uncle Red has a gift\n
-for spinning tall
-<$0C>
-tales on the fly.
+// \nレッドおじさんは勝手に話を作り出す \n天才なんだよ。
+ \n
+Uncle Red has a gift for spinning tall \n
+tales on the fly. 
 <$00>
 
 // Pos: 000019C6
@@ -141,14 +127,10 @@ tales on the fly.
 //コスマス：
 Cosmas:
 <$0D>
-//\nときどきね。ときどき人形の体を借りに来る…\nでもいつもは別のところにいるんだ。
-\n
-On and off. He\n
-doesn't come around,
-<$0C>
-but he usually\n
-borrows the body of\n
-my doll.
+// \nときどきね。ときどき人形の体を借りに来る… \nでもいつもは別のところにいるんだ。
+ \n
+On and off. He doesn't come around, but \n
+he usually borrows the body of my doll. 
 <$00>
 
 // Pos: 000019FC
@@ -161,23 +143,18 @@ my doll.
 //コスマス：
 Cosmas:
 <$0D>
-//\nレッドおじさんが子供の頃に\n一緒に暮らしてたひとだよ。
-\n
-That's the old man\n
-Uncle Red used to
-<$0C>
-live with when he was\n
-a kid.
+// \nレッドおじさんが子供の頃に \n一緒に暮らしてたひとだよ。
+ \n
+That's the old man Uncle Red used to live \n
+with when he was a kid. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nいつも泡まみれになってるんだって。
-\n
-Apparently, he was\n
-always covered in
-<$0C>
-soap bubbles.
+// \nいつも泡まみれになってるんだって。
+ \n
+Apparently, he was always covered in \n
+soap bubbles. 
 <$00>
 
 // Pos: 00001A42
@@ -190,20 +167,18 @@ soap bubbles.
 //コスマス：
 Cosmas:
 <$0D>
-//\nじゃあ、今度は僕が質問するよ。
-\n
-All right, now it's\n
-my turn to ask you
-<$0C>
-something.
+// \nじゃあ、今度は僕が質問するよ。
+ \n
+All right, now it's my turn to ask you \n
+something. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nもしあんたが僕だったら、\nレッドおじさんを許してあげる？
-\n
-If you were me, would\n
-you forgive Uncle Red?
+// \nもしあんたが僕だったら、 \nレッドおじさんを許してあげる？
+ \n
+If you were me, would you forgive \n
+Uncle Red? 
 <$00>
 
 // Pos: 00001A87
@@ -216,13 +191,10 @@ you forgive Uncle Red?
 //スペーサー：
 Spacer:
 <$0D>
-//\n君はひどい目にあったんだな… 無理に\nヴァニティフェイスにさせられて、しかも…
-\n
-What you went through\n
-was horrible! He
-<$0C>
-forced you to get\n
-vanity face, and...
+// \n君はひどい目にあったんだな… 無理に \nヴァニティフェイスにさせられて、しかも…
+ \n
+What you went through was horrible! \n
+He forced you to get vanity face, and... 
 <$00>
 
 // Pos: 00001ABE
@@ -235,49 +207,39 @@ vanity face, and...
 //コスマス：
 Cosmas:
 <$0D>
-//\n本当のところ、僕がどれだけひどい目にあったか\nあまり覚えていないんだ…
-\n
-The truth is, I don't\n
-actually remember how
-<$0C>
-terrible it all was.
+// \n本当のところ、僕がどれだけひどい目にあったか \nあまり覚えていないんだ…
+ \n
+The truth is, I don't actually remember \n
+how terrible it all was. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nなんでか分からないけど、おじさんが\n僕のクビ筋に息を吹きかけたりしはじめると、\nいつも眠っちゃうんだよ。
-\n
-I don't know why, but\n
-whenever my uncle
+// \nなんでか分からないけど、おじさんが \n僕のクビ筋に息を吹きかけたりしはじめると、 \nいつも眠っちゃうんだよ。
+ \n
+I don't know why, but whenever my \n
+uncle breathed on the back of my neck,
 <$0C>
-breathed on the back\n
-of my neck, I always\n
-fell asleep.
+I always fell asleep. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nそして夢の中で砂嵐の中を歩いてる。\nぴゅうぴゅう風が吹いて寒いんだ…
-\n
-And when I walked\n
-through the
+// \nそして夢の中で砂嵐の中を歩いてる。 \nぴゅうぴゅう風が吹いて寒いんだ…
+ \n
+And when I walked through the \n
+sandstorms in my dreams, a whistling
 <$0C>
-sandstorms in my\n
-dreams, a whistling\n
-howl blows it back,
-<$0C>
-and I start to freeze.
+howl blows it back, and I start to \n
+freeze. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nそうなるのはダークマンが\n僕を鋭んでくれるからだよ。
-\n
-I suppose I've only\n
-noticed because Dark
-<$0C>
-Man is sharpening my\n
-mind.
+// \nそうなるのはダークマンが \n僕を鋭んでくれるからだよ。
+ \n
+I suppose I've only noticed because \n
+Dark Man is sharpening my mind. 
 <$00>
 
 // Pos: 00001B8A
@@ -290,10 +252,9 @@ mind.
 //スペーサー：
 Spacer:
 <$0D>
-//\n砂嵐？ それはいつものことなのか？
-\n
-Do you always see\n
-sandstorms?
+// \n砂嵐？ それはいつものことなのか？
+ \n
+Do you always see sandstorms? 
 <$00>
 
 // Pos: 00001BAA
@@ -306,20 +267,17 @@ sandstorms?
 //コスマス：
 Cosmas:
 <$0D>
-//\nそうだよ。
-\n
-Yes.
+// \nそうだよ。
+ \n
+Yes. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nねぇ、答えてよ、レッドおじさんを許す？\nそれとも許さないの？\n早くしないと眠くなっちゃう。
-\n
-So, what's your\n
-answer. If you don't
-<$0C>
-answer quickly, I'll\n
-fall asleep.
+// \nねぇ、答えてよ、レッドおじさんを許す？ \nそれとも許さないの？ \n早くしないと眠くなっちゃう。
+ \n
+So, what's your answer. If you don't \n
+answer quickly, I'll fall asleep. 
 <$00>
 
 // Pos: 00001BF4
@@ -332,30 +290,23 @@ fall asleep.
 //スペーサー：
 Spacer:
 <$0D>
-//\nひどい目にあわせたこと自体は許しがたい…
-\n
-If the oppression I\n
-suffered was so
-<$0C>
-undoubtedly\n
-horrible...
+// \nひどい目にあわせたこと自体は許しがたい…
+ \n
+If the oppression I suffered was so \n
+undoubtedly horrible... 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nしかし、それによって君が\n心に悪をためないすべを身に付けたのだから…
-\n
-...but I felt it\n
-helped me rid the
-<$0C>
-evil in my heart,\n
-could I forgive my\n
-oppressor?
+// \nしかし、それによって君が \n心に悪をためないすべを身に付けたのだから…
+ \n
+...but I felt it helped me rid the evil in my \n
+heart, could I forgive my oppressor?
 <$1B>
-//※許してもかまわない\n許すことはできない
+//※許してもかまわない \n許すことはできない
 ※Possibly
 <$0C>
-Never
+Never 
 <$00><$17><$00>
 
 // Pos: 00001C61
@@ -368,9 +319,9 @@ Never
 //コスマス：
 Cosmas:
 <$0D>
-//\nふーん、そうなの。
-\n
-Hmm, I see.
+// \nふーん、そうなの。
+ \n
+Hmm, I see. 
 <$00>
 
 // Pos: 00001C74
@@ -383,9 +334,9 @@ Hmm, I see.
 //スペーサー：
 Spacer:
 <$0D>
-//\n君はどうなんだ？
-\n
-What about you?
+// \n君はどうなんだ？
+ \n
+What about you? 
 <$00>
 
 // Pos: 00001C89
@@ -398,32 +349,25 @@ What about you?
 //コスマス：
 Cosmas:
 <$0D>
-//\nどうって？ 答はあんたが出したじゃない。\nそれで決まりだよ。
-\n
-What about me? I was\n
-asking you the
-<$0C>
-question, not the\n
-other way around.
+// \nどうって？ 答はあんたが出したじゃない。 \nそれで決まりだよ。
+ \n
+What about me? I was asking you the \n
+question, not the other way around. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\n僕、もう寝るね。
-\n
-Anyways, I'm going to\n
-sleep now.
+// \n僕、もう寝るね。
+ \n
+Anyways, I'm going to sleep now. 
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-//\nあんたも寝るといいよ、\n夢の中で会えるって本当だよ。
-\n
-You should go to\n
-sleep too. We can
-<$0C>
-always meet inside of\n
-another dream.
+// \nあんたも寝るといいよ、 \n夢の中で会えるって本当だよ。
+ \n
+You should go to sleep too. We can \n
+always meet inside of another dream. 
 <$00>
 
 // Pos: 00001CF0
@@ -436,10 +380,9 @@ another dream.
 //スペーサー：
 Spacer:
 <$0D>
-//\n夢の中？
-\n
-Inside of another\n
-dream?
+// \n夢の中？
+ \n
+Inside of another dream? 
 <$00>
 
 // Pos: 00001D03
@@ -452,14 +395,12 @@ dream?
 //コスマス：
 Cosmas:
 <$0D>
-//\n今なら眠れるよ、\n僕が眠ってるときが消灯時間さ。
-\n
-I'm going to sleep\n
-for now, but when I'm
+// \n今なら眠れるよ、 \n僕が眠ってるときが消灯時間さ。
+ \n
+I'm going to sleep for now, but when \n
+I'm sleeping-sleeping, it's lights-off
 <$0C>
-sleeping-sleeping,\n
-it's lights-off time,\n
-okay?
+time, okay? 
 <$00>
 
 // Pos: 00001D2D
@@ -472,16 +413,12 @@ okay?
 //コスマス：
 Cosmas:
 <$0D>
-//\nよくは覚えてないんだね、さっきも会ったのに。\nもう石はないよ、\nでも光る石のことなら教えてあげられるよ。
-\n
-You might not\n
-remember well, but we
+// \nよくは覚えてないんだね、さっきも会ったのに。 \nもう石はないよ、 \nでも光る石のことなら教えてあげられるよ。
+ \n
+You might not remember well, but we \n
+met before. I can tell you about the
 <$0C>
-met before. I can\n
-tell you about the\n
-glowing stones, at
-<$0C>
-least.
+glowing stones, at least. 
 <$00>
 
 // Pos: 00001D71
@@ -494,9 +431,9 @@ least.
 //スペーサー：
 Spacer:
 <$0D>
-//\n消灯時間？
-\n
-Lights-off time?
+// \n消灯時間？
+ \n
+Lights-off time? 
 <$00>
 
 // Pos: 00001D87
@@ -509,9 +446,9 @@ Lights-off time?
 //コスマス：
 Cosmas:
 <$0D>
-//\nそうさ、お休みだよ、あんた。
-\n
-Yeah. Now, good night!
+// \nそうさ、お休みだよ、あんた。
+ \n
+Yeah. Now, good night! 
 <$00>
 
 // Pos: 00001DA0
@@ -524,8 +461,8 @@ Yeah. Now, good night!
 //スペーサー：
 Spacer:
 <$0D>
-//\n眠ったのか。
-\n
-Did he go to sleep?
+// \n眠ったのか。
+ \n
+Did he go to sleep? 
 <$00>
 

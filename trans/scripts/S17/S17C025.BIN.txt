@@ -15,27 +15,23 @@
 //ガリル：
 Galil:
 <$0D>
-//\nおおお、宇宙の先生のおでましだ！\nスペーサー、お前は英知のたまものか？\nそれともひ弱な夢想家か？
-\n
-Oh Spacer, Little\n
-Prince of The Cosmos!
+// \nおおお、宇宙の先生のおでましだ！ \nスペーサー、お前は英知のたまものか？ \nそれともひ弱な夢想家か？
+ \n
+Oh Spacer, Little Prince of The Cosmos! \n
+Do you come with wisdom, or petty,
 <$0C>
-Do you come with\n
-wisdom, or petty,\n
-fickle dreams?
+fickle dreams? 
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-//\nいずれにせよ、終わりだ、スペーサー\n私は
-\n
+// \nいずれにせよ、終わりだ、スペーサー \n私は
+ \n
 I need 
 <$0F>
-//に用があるのだ。\nお前は妄念の産物だ、さあ無に帰すがいい。
- now. Go home\n
-to your pesky void,
-<$0C>
-you fruit of delusion.
+//に用があるのだ。 \nお前は妄念の産物だ、さあ無に帰すがいい。
+ now. Go home to your pesky \n
+void, you fruit of delusion. 
 <$00>
 
 // Pos: 0000106E
@@ -48,12 +44,9 @@ you fruit of delusion.
 //スペーサー：
 Spacer:
 <$0D>
-//\n私は現実だ！ 妄念などではない。\nお前こそエセ善人ではないか！
-\n
-Me? I'm no delusion,\n
-I'm real! The you
-<$0C>
-whom you call "good"\n
-is the delusion!
+// \n私は現実だ！ 妄念などではない。 \nお前こそエセ善人ではないか！
+ \n
+Me? I'm no delusion, I'm real! The you \n
+whom you call "good" is the delusion! 
 <$00>
 

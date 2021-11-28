@@ -15,10 +15,9 @@
 //アーネスト：
 Ernest:
 <$0D>
-//\nおい、俺が分からねぇのか、うすのろ！
-\n
-Hey, idiot. Don't you\n
-recognize me?
+// \nおい、俺が分からねぇのか、うすのろ！
+ \n
+Hey, idiot. Don't you recognize me? 
 <$00>
 
 // Pos: 00002968
@@ -31,12 +30,10 @@ recognize me?
 //スモーキー：
 Smokey:
 <$0D>
-//\n何だ？ 開こえねぇな？\n何て言った？
-\n
-Sorry, guess I didn't\n
-catch that? The fuck
-<$0C>
-did you say?
+// \n何だ？ 開こえねぇな？ \n何て言った？
+ \n
+Sorry, guess I didn't catch that? The \n
+fuck did you say? 
 <$00>
 
 // Pos: 00002986
@@ -49,12 +46,10 @@ did you say?
 //アーネスト：
 Ernest:
 <$0D>
-//\n用があると言ったんだ、マヌケ！
-\n
-You and I've got\n
-unfinished business,
-<$0C>
-don't we?
+// \n用があると言ったんだ、マヌケ！
+ \n
+You and I've got unfinished business, \n
+don't we? 
 <$00>
 
 // Pos: 000029A3
@@ -67,12 +62,10 @@ don't we?
 //スモーキー：
 Smokey:
 <$0D>
-//\n用があるだと… てめぇ、\nいい度胸してるじゃねぇか、ああん？
-\n
-Unfinished business?\n
-Heh, you've got some
-<$0C>
-nerve.
+// \n用があるだと… てめぇ、 \nいい度胸してるじゃねぇか、ああん？
+ \n
+Unfinished business? Heh, you've got \n
+some nerve. 
 <$00>
 
 // Pos: 000029CF
@@ -85,25 +78,20 @@ nerve.
 //スモーキー：
 Smokey:
 <$0D>
-//\nさっきのショータイムじゃ物足りねぇと、\nへん！ 手加減しねぇぜ！ 白ブタ野郎！
-\n
-If the little show\n
-earlier didn't get
-<$0C>
-the message across, I\n
-came with encores.
+// \nさっきのショータイムじゃ物足りねぇと、 \nへん！ 手加減しねぇぜ！ 白ブタ野郎！
+ \n
+If the little show earlier didn't get the \n
+message across, I came with encores. 
 <$0C><$0B>
 //スモーキー：
 Smokey:
 <$0D>
-//\nママー、ママー、どうした、叫べ！
-\n
-What's stopping you,\n
-huh? Go ahead and cry
+// \nママー、ママー、どうした、叫べ！
+ \n
+What's stopping you, huh? Go ahead \n
+and cry to your pigshit mommy!
 <$0C>
-to your pigshit\n
-mommy! "Mommy! Mommy!\n
-Mommy!"
+"Mommy! Mommy! Mommy!" 
 <$00>
 
 // Pos: 00002A24
@@ -116,10 +104,9 @@ Mommy!"
 //アーネスト：
 Ernest:
 <$0D>
-//\n俺を甘く見るんじゃねぇぜ、\nスモーキーちゃんよ。
-\n
-Don't understimate\n
-me, Puff Puff.
+// \n俺を甘く見るんじゃねぇぜ、 \nスモーキーちゃんよ。
+ \n
+Don't understimate me, Puff Puff. 
 <$00>
 
 // Pos: 00002A4A
@@ -132,12 +119,9 @@ me, Puff Puff.
 //スモーキー：
 Smokey:
 <$0D>
-//\nうううう、くそっ、白ブタ…\nぶっ殺してやる！
-\n
-Grrr, I've had it!\n
-Get ready to die,
-<$0C>
-piggy!
+// \nうううう、くそっ、白ブタ… \nぶっ殺してやる！
+ \n
+Grrr, I've had it! Get ready to die, piggy! 
 <$00>
 
 // Pos: 00002A6D
@@ -150,12 +134,10 @@ piggy!
 //アーネスト：
 Ernest:
 <$0D>
-//\nそれはお前だ、スモーキー。\n白ブタから産まれたのはお前だ！
-\n
-Sorry, Smokey. The\n
-piglet that's about
-<$0C>
-to get smoked is you!
+// \nそれはお前だ、スモーキー。 \n白ブタから産まれたのはお前だ！
+ \n
+Sorry, Smokey. The piglet that's about \n
+to get smoked is you! 
 <$00>
 
 // Pos: 00002A99
@@ -168,10 +150,9 @@ to get smoked is you!
 //アーネスト：
 Ernest:
 <$0D>
-//\n何だ？ 誰かいるのか？
-\n
-What was that? Is\n
-someone here?
+// \n何だ？ 誰かいるのか？
+ \n
+What was that? Is someone here? 
 <$00>
 
 // Pos: 00002AB2
@@ -180,14 +161,11 @@ someone here?
 
 #WHB(PTR, $000006C9)
 
-
+ 
 <$00>
-//とどめを刺せ、アーネスト。\nママのナイフを用意してやろう。
-Finish him off,\n
-Ernest.\n
-Mama will prepare the
-<$0C>
-knife.
+//とどめを刺せ、アーネスト。 \nママのナイフを用意してやろう。
+Finish him off, Ernest. \n
+Mama will prepare the knife. 
 <$00>
 
 // Pos: 00002AD4
@@ -200,12 +178,10 @@ knife.
 //アーネスト：
 Ernest:
 <$0D>
-//\n誰だ！ 出てこい！\nいい加減なことぬかすな！
-\n
-Who said that? Stop\n
-messing with me, and
-<$0C>
-show yourself!
+// \n誰だ！ 出てこい！ \nいい加減なことぬかすな！
+ \n
+Who said that? Stop messing with me, \n
+and show yourself! 
 <$00>
 
 // Pos: 00002AFB
@@ -214,12 +190,11 @@ show yourself!
 
 #WHB(PTR, $000006ED)
 
-
+ 
 <$00>
-//怖いのか、アーネスト。\n人を刺すにはうってつけの日じゃないか。
-What's wrong, dear?\n
-Isn't it a lovely day\n
-to stab someone?
+//怖いのか、アーネスト。 \n人を刺すにはうってつけの日じゃないか。
+What's wrong, dear? \n
+Isn't it a lovely day to stab someone? 
 <$00>
 
 // Pos: 00002B1F
@@ -228,19 +203,14 @@ to stab someone?
 
 #WHB(PTR, $000007C5)
 
-
+ 
 <$00>
-//そのナイフをやつのみぞおちに\n突き立てるのだ。
-Thrust the knife\n
-straight into the\n
-belly.
+//そのナイフをやつのみぞおちに \n突き立てるのだ。
+Thrust the knife straight into the belly. 
 <$0C>
-//腹を切り裂け！\n内臓を引きずり出してやつの口に\n突っ込んでやれ！
-And then, slit! Pull\n
-out the innards, and\n
-stuff it all down his
-<$0C>
-throat!
+//腹を切り裂け！ \n内臓を引きずり出してやつの口に \n突っ込んでやれ！
+And then, slit! Pull out the innards, and \n
+stuff it all down his throat! 
 <$00>
 
 // Pos: 00002B65
@@ -249,14 +219,11 @@ throat!
 
 #WHB(PTR, $000007DD)
 
-
+ 
 <$00>
-//何をためらってる、アーネスト。\n臆病風にでも吹かれたのか？
-Why are you\n
-hesitating, Ernest?\n
-Are your nerves
-<$0C>
-getting to you?
+//何をためらってる、アーネスト。 \n臆病風にでも吹かれたのか？
+Why are you hesitating, Ernest? \n
+Are your nerves getting to you? 
 <$00>
 
 // Pos: 00002B88
@@ -269,13 +236,12 @@ getting to you?
 //アーネスト：
 Ernest:
 <$0D>
-//\n何だと、くそ野郎！ 俺が… 臆病だと？\nもう一度言ってみろ！
-\n
-What do you want from\n
-me, asshole... What
+// \n何だと、くそ野郎！ 俺が… 臆病だと？ \nもう一度言ってみろ！
+ \n
+What do you want from me, asshole... \n
+What sort of coward do you take me
 <$0C>
-sort of coward do you\n
-take me for?!
+for?! 
 <$00>
 
 // Pos: 00002BB9
@@ -288,11 +254,8 @@ take me for?!
 //アーネスト：
 Ernest:
 <$0D>
-//\n臆病だと？\nこの俺が… 俺は弱くねぇぜ。
-\n
-Am I a coward?\n
-No...I'm not that
-<$0C>
-weak.
+// \n臆病だと？ \nこの俺が… 俺は弱くねぇぜ。
+ \n
+Am I a coward? No...I'm not that weak. 
 <$00>
 

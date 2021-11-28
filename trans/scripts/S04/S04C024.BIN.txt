@@ -15,17 +15,15 @@
 //フェイ：
 Feng:
 <$0D>
-//\nねえ、どうしたの？ せっかく火星に\n来たんだから、見ていくといいわ。
-\n
-What are you up to?\n
-If you've come all
+// \nねえ、どうしたの？ せっかく火星に \n来たんだから、見ていくといいわ。
+ \n
+What are you up to? If you've come all \n
+this way to Mars, you might as well
 <$0C>
-this way to Mars, you\n
-might as well enjoy a\n
-look around.
+enjoy a look around.
 <$1E>
 //行
-行
+行 
 <$00>
 
 // Pos: 000014B2
@@ -38,19 +36,15 @@ look around.
 //ヤング：
 Yang:
 <$0D>
-//\nへへ、みんな焦りはじめてやがる。さっきもな、\nリトルの野郎があわてて酸索屋から飛び出して\nきたけど、何かあったのか？
-\n
-Everyone's so\n
-impatient now. I just
+// \nへへ、みんな焦りはじめてやがる。さっきもな、 \nリトルの野郎があわてて酸索屋から飛び出して \nきたけど、何かあったのか？
+ \n
+Everyone's so impatient now. I just \n
+saw Little rushing out of the oxygen
 <$0C>
-saw Little rushing\n
-out of the oxygen\n
-dispensary. What
-<$0C>
-happened?
+dispensary. What happened?
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00001500
@@ -63,27 +57,23 @@ happened?
 //ヤング：
 Yang:
 <$0D>
-//\nへへ、それ、光る石だろ。\nリトルのやつが大事にしてた…
-\n
-Hehe, Little really\n
-cherished that
-<$0C>
-glowing stone.
+// \nへへ、それ、光る石だろ。 \nリトルのやつが大事にしてた…
+ \n
+Hehe, Little really cherished that \n
+glowing stone. 
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-//\nお前、そんなもん勝手にガメてよう、\nおっかないことになるんじゃねぇのか。\n金星人の方がましだぜ、すき通ってるぜ。
-\n
-You don't want to get\n
-bent on something
+// \nお前、そんなもん勝手にガメてよう、 \nおっかないことになるんじゃねぇのか。 \n金星人の方がましだぜ、すき通ってるぜ。
+ \n
+You don't want to get bent on \n
+something ghastly over it. Just go with
 <$0C>
-ghastly over it. Just\n
-go with the flow,\n
-like the Venusians.
+the flow, like the Venusians.
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 00001571
@@ -96,27 +86,21 @@ like the Venusians.
 //ブーマー：
 Boomer:
 <$0D>
-//\n悪いな、逆らえねぇんだ、\nスモーキーのやつにはな。
-\n
-Ohhh, I wish it went\n
-different, but
-<$0C>
-there's no reasoning\n
-with Smokey.
+// \n悪いな、逆らえねぇんだ、 \nスモーキーのやつにはな。
+ \n
+Ohhh, I wish it went different, but \n
+there's no reasoning with Smokey. 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\nあんた、表に行くなら気をつけな。\n夜は化け物が出やすいんだ。
-\n
-Be careful where you\n
-go poking your nose.
-<$0C>
-Predators hunt best\n
-at night.
+// \nあんた、表に行くなら気をつけな。 \n夜は化け物が出やすいんだ。
+ \n
+Be careful where you go poking your \n
+nose. Predators hunt best at night.
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 000015C5
@@ -129,15 +113,12 @@ at night.
 //ブーマー：
 Boomer:
 <$0D>
-//\n夢にもな、\n夢にも逆らえねぇ…
-\n
-Ahhh, like Smokey,\n
-there's no reasoning
-<$0C>
-with our dreams\n
-either...
+// \n夢にもな、 \n夢にも逆らえねぇ…
+ \n
+Ahhh, like Smokey, there's no \n
+reasoning with our dreams either...
 <$1E>
 //声
-声
+声 
 <$00>
 

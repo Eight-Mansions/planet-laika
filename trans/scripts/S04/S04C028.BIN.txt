@@ -15,15 +15,13 @@
 //ブーマー：
 Boomer:
 <$0D>
-//\nもう夜は来ねぇんじゃねえか、\n白い光が見えたぜ。
-\n
-Night won't come\n
-anymore, will it? I
-<$0C>
+// \nもう夜は来ねぇんじゃねえか、 \n白い光が見えたぜ。
+ \n
+Night won't come anymore, will it? I \n
 saw a white light...
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00002E90
@@ -36,36 +34,31 @@ saw a white light...
 //ブーマー：
 Boomer:
 <$0D>
-//\nやつらがやってくる。\nあああ、もうダメだ、やつらが来る、
-\n
-They're coming. Ohhh,\n
-no! No more! They're
-<$0C>
-coming!
+// \nやつらがやってくる。 \nあああ、もうダメだ、やつらが来る、
+ \n
+They're coming. Ohhh, no! No more! \n
+They're coming! 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\n黒い空から舞い降りて、\n鋭いかぎ爪ではらわたを切り裂くんだ、
-\n
-Raining down from the\n
-black sky, tearing
+// \n黒い空から舞い降りて、 \n鋭いかぎ爪ではらわたを切り裂くんだ、
+ \n
+Raining down from the black sky, \n
+tearing through with their sword-like
 <$0C>
-through with their\n
-sword-like hooks!
+hooks! 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\nあああ、俺が見た夢の通りだ、おんなじだ、\nあああ…
-\n
-This is just like the\n
-dreams I saw. Just
-<$0C>
+// \nあああ、俺が見た夢の通りだ、おんなじだ、 \nあああ…
+ \n
+This is just like the dreams I saw. Just \n
 like them! Ohhh...!
 <$1E>
 //声
-声
+声 
 <$00>
 
 // Pos: 00002F0D
@@ -78,36 +71,28 @@ like them! Ohhh...!
 //リトル：
 Little:
 <$0D>
-//\nいろいろあったな。\nそうだ、俺には分かってる、何もかもな。
-\n
-There's so much\n
-amiss, get it?
+// \nいろいろあったな。 \nそうだ、俺には分かってる、何もかもな。
+ \n
+There's so much amiss, get it? Luckily, \n
+I know just about everythin' and
 <$0C>
-Luckily, I know just\n
-about everythin' and\n
-anythin'.
+anythin'. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nさあ、これからお前は\n自分に向き合う旅を始める、
-\n
-Come on. It's time\n
-for you to start your
-<$0C>
-journey to face the\n
-self.
+// \nさあ、これからお前は \n自分に向き合う旅を始める、
+ \n
+Come on. It's time for you to start your \n
+journey to face the self. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺は約束の場所に行く、そういうことだ。
-\n
-When I said, "We're\n
-goin' to the Promised
-<$0C>
-Land," that's what I\n
-meant.
+// \n俺は約束の場所に行く、そういうことだ。
+ \n
+When I said, "We're goin' to the \n
+Promised Land," that's what I meant. 
 <$00>
 
 // Pos: 00002F78
@@ -120,61 +105,48 @@ meant.
 //リトル：
 Little:
 <$0D>
-//\n俺の頭の中で呼ぶ声が開こえるんだ…
-\n
-I can hear the voices\n
-calling in my head.
+// \n俺の頭の中で呼ぶ声が開こえるんだ…
+ \n
+I can hear the voices calling in my head. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n早く来い、約束の場所が待っているぞ、\n早く来いリトルってな。
-\n
-They're sayin',\n
-"Hurry, Little. We
-<$0C>
-await you in the\n
-Promised Land."
+// \n早く来い、約束の場所が待っているぞ、 \n早く来いリトルってな。
+ \n
+They're sayin', "Hurry, Little. We await \n
+you in the Promised Land." 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
-\n
-Goddammit, the voices\n
-only got worse and
-<$0C>
-worse after you came\n
-here.
+// \nちくしょう、その声はお前がやってきてから \nひどくなりやがったんだ。
+ \n
+Goddammit, the voices only got worse \n
+and worse after you came here. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nうるさくってしょうがない…\nうるさ… あああ、くそっ！
-\n
-I can't get 'em to\n
-stop. They won't shut
-<$0C>
-up, goddammit! They\n
-won't shut up!
+// \nうるさくってしょうがない… \nうるさ… あああ、くそっ！
+ \n
+I can't get 'em to stop. They won't shut \n
+up, goddammit! They won't shut up! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺の頭の中にあるもの… くそったれ！\nぴょんぴょんしやがる。
-\n
-What's goin' on in my\n
-head? Ugh, it's all
-<$0C>
-jumpin' back and\n
-forth...
+// \n俺の頭の中にあるもの… くそったれ！ \nぴょんぴょんしやがる。
+ \n
+What's goin' on in my head? Ugh, it's all \n
+jumpin' back and forth... 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nそいつを振り落としにいくんだ。
-\n
-I can't shake 'em off.
+// \nそいつを振り落としにいくんだ。
+ \n
+I can't shake 'em off. 
 <$00>
 
 // Pos: 00003054
@@ -184,10 +156,10 @@ I can't shake 'em off.
 #WHB(PTR, $000010DD)
 
 <$12><$0B><$0D>
-//あああ、用済み、\nそうさ、用済みの場所に行くんだ！
-Yes, I must go!\n
-To the place where I\n
-can serve my purpose!
+//あああ、用済み、 \nそうさ、用済みの場所に行くんだ！
+Yes, I must go! \n
+To the place where I can serve my \n
+purpose! 
 <$00>
 
 // Pos: 00003078
@@ -200,28 +172,24 @@ can serve my purpose!
 //リトル：
 Little:
 <$0D>
-//\nくそったれ！ まただ、また前に出やがる。
-\n
-Goddammit, it's\n
-pourin' out again!
+// \nくそったれ！ まただ、また前に出やがる。
+ \n
+Goddammit, it's pourin' out again! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n急いでくれ、\nお前が連れていってくれるんだろ。
-\n
-I'd better hurry and\n
-take you with me.
+// \n急いでくれ、 \nお前が連れていってくれるんだろ。
+ \n
+I'd better hurry and take you with me. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺の頭の中じゃそうなってる。\n分かってるんだ。
-\n
-That's what they're\n
-sayin' to do in my
-<$0C>
-head, get it?
+// \n俺の頭の中じゃそうなってる。 \n分かってるんだ。
+ \n
+That's what they're sayin' to do in my \n
+head, get it? 
 <$00>
 
 // Pos: 000030D8
@@ -234,23 +202,18 @@ head, get it?
 //リトル：
 Little:
 <$0D>
-//\n追い立てられるウサギの叫び声が人の脳から\n一本ずつ筋をひきちぎる…
-\n
-"Each outcry of the\n
-hunted hare. A fibre
-<$0C>
-from the Brain does\n
-tear."
+// \n追い立てられるウサギの叫び声が人の脳から \n一本ずつ筋をひきちぎる…
+ \n
+"Each outcry of the hunted hare. A fibre \n
+from the Brain does tear." 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺には開こえてるんだ、入って来るんだ。\nウソっぱちのまじないだ。
-\n
-I can hear 'em. The\n
-lies keep pourin'
-<$0C>
-into me.
+// \n俺には開こえてるんだ、入って来るんだ。 \nウソっぱちのまじないだ。
+ \n
+I can hear 'em. The lies keep pourin' into \n
+me. 
 <$00>
 
 // Pos: 00003134
@@ -263,13 +226,10 @@ into me.
 //リトル：
 Little:
 <$0D>
-//\nへっ、他にもお前に話したいやつがいるのか。\n無線テレビだ、そうだそうだ。
-\n
-Oi, don't you have\n
-anyone better to talk
-<$0C>
-to? A wireless TV,\n
-perhaps?
+// \nへっ、他にもお前に話したいやつがいるのか。 \n無線テレビだ、そうだそうだ。
+ \n
+Oi, don't you have anyone better to talk \n
+to? A wireless TV, perhaps? 
 <$00>
 
 // Pos: 00003165
@@ -286,15 +246,13 @@ perhaps?
 //リトル：
 Little:
 <$0D>
-//\n先に用事を済ませるんだ、そうだそうだ。\n俺はここにいる。
-\n
-Get all your business\n
-in check, got it?
-<$0C>
-I'll be here.
+// \n先に用事を済ませるんだ、そうだそうだ。 \n俺はここにいる。
+ \n
+Get all your business in check, got it? I'll \n
+be here.
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00003191
@@ -307,26 +265,21 @@ I'll be here.
 //リトル：
 Little:
 <$0D>
-//\nお前か… 本当にお前だな…\n来い、話がある。
-\n
-Oi, it's you... It\n
-really is you! Come
-<$0C>
-on, I've somethin' to\n
-tell you.
+// \nお前か… 本当にお前だな… \n来い、話がある。
+ \n
+Oi, it's you... It really is you! Come on, \n
+I've somethin' to tell you. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n待ってたんだ。 俺のことには\nお前が関係してる、そうだそうだ。
-\n
-I was waitin', since\n
-we have common
-<$0C>
+// \n待ってたんだ。 俺のことには \nお前が関係してる、そうだそうだ。
+ \n
+I was waitin', since we have common \n
 interests now, get it?
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 000031E1
@@ -339,10 +292,9 @@ interests now, get it?
 //リトル：
 Little:
 <$0D>
-//\nおい、お前か… 本当のお前か？
-\n
-Oi, is it...really\n
-you?
+// \nおい、お前か… 本当のお前か？
+ \n
+Oi, is it...really you? 
 <$00>
 
 // Pos: 000031FB
@@ -355,24 +307,18 @@ you?
 //リトル：
 Little:
 <$0D>
-//\nさあ、これからお前は\n自分に向き合う旅を始める、
-\n
-Come on. It's time\n
-for you to start your
-<$0C>
-journey to face the\n
-self.
+// \nさあ、これからお前は \n自分に向き合う旅を始める、
+ \n
+Come on. It's time for you to start your \n
+journey to face the self. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺は約束の場所に行く、そういうことだ。
-\n
-When I said, "We're\n
-goin' to the Promised
-<$0C>
-Land," that's what I\n
-meant.
+// \n俺は約束の場所に行く、そういうことだ。
+ \n
+When I said, "We're goin' to the \n
+Promised Land," that's what I meant. 
 <$00>
 
 // Pos: 00003241
@@ -385,43 +331,33 @@ meant.
 //リトル：
 Little:
 <$0D>
-//\n俺の頭の中で呼ぶ声が開こえるんだ…
-\n
-I can hear the voices\n
-callin' in my head.
+// \n俺の頭の中で呼ぶ声が開こえるんだ…
+ \n
+I can hear the voices callin' in my head. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n早く来い、約束の場所が待っているぞ、\n早く来いリトルってな。
-\n
-They're sayin',\n
-"Hurry, Little. We
-<$0C>
-await you in the\n
-Promised Land."
+// \n早く来い、約束の場所が待っているぞ、 \n早く来いリトルってな。
+ \n
+They're sayin', "Hurry, Little. We await \n
+you in the Promised Land." 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
-\n
-Goddammit, the voices\n
-only got worse and
-<$0C>
-worse after you came\n
-here.
+// \nちくしょう、その声はお前がやってきてから \nひどくなりやがったんだ。
+ \n
+Goddammit, the voices only got worse \n
+and worse after you came here. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nうるさくってしょうがない…\nうるさ… あああ、くそっ！
-\n
-I can't get 'em to\n
-stop. They won't shut
-<$0C>
-up, goddammit! They\n
-won't shut up!
+// \nうるさくってしょうがない… \nうるさ… あああ、くそっ！
+ \n
+I can't get 'em to stop. They won't shut \n
+up, goddammit! They won't shut up! 
 <$00>
 
 // Pos: 000032DC
@@ -431,10 +367,10 @@ won't shut up!
 #WHB(PTR, $0000156D)
 
 <$12><$0B><$0D>
-//あああ、用済み、そうさ、\n用済みの場所に行くんだ！
-Yes, I must go!\n
-To the place where I\n
-can serve my purpose!
+//あああ、用済み、そうさ、 \n用済みの場所に行くんだ！
+Yes, I must go! \n
+To the place where I can serve my \n
+purpose! 
 <$00>
 
 // Pos: 00003300
@@ -447,10 +383,9 @@ can serve my purpose!
 //リトル：
 Little:
 <$0D>
-//\nちくしょう！ また前に出やがる！
-\n
-Goddammit, it's\n
-pourin' out again!
+// \nちくしょう！ また前に出やがる！
+ \n
+Goddammit, it's pourin' out again! 
 <$00>
 
 // Pos: 0000331A
@@ -463,35 +398,26 @@ pourin' out again!
 //リトル：
 Little:
 <$0D>
-//\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る…
-\n
-"To see a world in a\n
-Grain of Sand. And a
-<$0C>
-Heaven in a Wild\n
-Flower."
+// \n一粒の砂にも世界を見て \n一輪の野花にも天国を見る…
+ \n
+"To see a world in a Grain of Sand. And a \n
+Heaven in a Wild Flower." 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺にも開こえてるんだ、ちゃんとな。\n終末の暗示を含んだ詩だ。
-\n
-I can hear it so\n
-well. It's a poem
-<$0C>
-that hints of the end\n
-of times.
+// \n俺にも開こえてるんだ、ちゃんとな。 \n終末の暗示を含んだ詩だ。
+ \n
+I can hear it so well. It's a poem that \n
+hints of the end of times. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nこれで救われるのか？ ええ？ 建うだろ、\n必死になって逃げ場を用意してるだけだ。
-\n
-Will we be saved?\n
-Yes, or no? We've no
-<$0C>
-choice to prepare as\n
-best as we can.
+// \nこれで救われるのか？ ええ？ 建うだろ、 \n必死になって逃げ場を用意してるだけだ。
+ \n
+Will we be saved? Yes, or no? We've no \n
+choice to prepare as best as we can. 
 <$00>
 
 // Pos: 000033AC
@@ -504,14 +430,10 @@ best as we can.
 //リトル：
 Little:
 <$0D>
-//\n逃げられやしないんだ。\nだったら向かってやる、そうだそうだ。
-\n
-Oi, there's no\n
-escapin' it, so we
-<$0C>
-might as well get\n
-ready to face it, get\n
-it?
+// \n逃げられやしないんだ。 \nだったら向かってやる、そうだそうだ。
+ \n
+Oi, there's no escapin' it, so we might as \n
+well get ready to face it, get it? 
 <$00>
 
 // Pos: 000033D5
@@ -532,50 +454,42 @@ it?
 //リトル：
 Little:
 <$0D>
-//\n用事は済んだな。さあ、行こう。\nもうこりごりだ、ガマンならないんだ。
-\n
-Done with your\n
-errands? Then let's
-<$0C>
-go. I've already had\n
-it up to here.
+// \n用事は済んだな。さあ、行こう。 \nもうこりごりだ、ガマンならないんだ。
+ \n
+Done with your errands? Then let's go. \n
+I've already had it up to here. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n約束の場所に行くときれいさっぱり忘れられる、\nそうなんだろ。
-\n
-Once we can make it\n
-to the Promised Land,
+// \n約束の場所に行くときれいさっぱり忘れられる、 \nそうなんだろ。
+ \n
+Once we can make it to the Promised \n
+Land, we can start on a fresh slate, get
 <$0C>
-we can start on a\n
-fresh slate, get it?
+it? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n悪夢だかなんだか知らないが、みんな\n昔のことだ、過去なんだ、そうだそうだ！
-\n
-I dunno if this is a\n
-nightmare, but our
-<$0C>
-past selves'll be\n
-gone, get it?
+// \n悪夢だかなんだか知らないが、みんな \n昔のことだ、過去なんだ、そうだそうだ！
+ \n
+I dunno if this is a nightmare, but our \n
+past selves'll be gone, get it? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nいつまでも過去をのさばらせてると不幸になる、\nそうだろ。お前、用意はいいか？
-\n
-Keepin' 'em around\n
-too long won't make
+// \nいつまでも過去をのさばらせてると不幸になる、 \nそうだろ。お前、用意はいいか？
+ \n
+Keepin' 'em around too long won't \n
+make you any happier. So, are you
 <$0C>
-you any happier. So,\n
-are you ready?
+ready?
 <$1B>
-//。行こう\n待ってくれ
-。Yes\n
-No
+//。行こう \n待ってくれ
+。Yes \n
+No 
 <$00><$17><$00>
 
 // Pos: 000034A5
@@ -596,9 +510,9 @@ No
 //リトル：
 Little:
 <$0D>
-//\nお前が先に歩いてくれ。
-\n
-You should walk ahead.
+// \nお前が先に歩いてくれ。
+ \n
+You should walk ahead. 
 <$00>
 
 // Pos: 000034BB
@@ -619,12 +533,10 @@ You should walk ahead.
 //リトル：
 Little:
 <$0D>
-//\n俺が行くのはコロニーの中じゃない、\n分かるだろ、表だ。
-\n
-Oi, I'm not goin'\n
-into the colony, got
-<$0C>
-it? Outside!
+// \n俺が行くのはコロニーの中じゃない、 \n分かるだろ、表だ。
+ \n
+Oi, I'm not goin' into the colony, got it? \n
+Outside! 
 <$00>
 
 // Pos: 000034E2
@@ -657,17 +569,13 @@ it? Outside!
 //リトル：
 Little:
 <$0D>
-//\n俺はお前ほど時間はないんだ。\n早くしてくれ、ここで待ってるからな。
-\n
-I don't have all the\n
-time in the world
-<$0C>
-like you do! I'll\n
-wait here, but hurry\n
-up!
+// \n俺はお前ほど時間はないんだ。 \n早くしてくれ、ここで待ってるからな。
+ \n
+I don't have all the time in the world like \n
+you do! I'll wait here, but hurry up!
 <$1E>
 //家
-家
+家 
 <$00>
 
 // Pos: 00003513
@@ -680,23 +588,19 @@ up!
 //ブーマー：
 Boomer:
 <$0D>
-//\nやつらは夜を動かすんだ、いつでもどこでも、\nやつらなら夜にできる…
-\n
-They bump in the\n
-night, anytime,
-<$0C>
-anywhere! They can do\n
-it all night...
+// \nやつらは夜を動かすんだ、いつでもどこでも、 \nやつらなら夜にできる…
+ \n
+They bump in the night, anytime, \n
+anywhere! They can do it all night... 
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-//\nあああ、もう終わりだ、終わりだ…
-\n
-Ahhh, it'll be over\n
-soon! It's all over!
+// \nあああ、もう終わりだ、終わりだ…
+ \n
+Ahhh, it'll be over soon! It's all over!
 <$1E>
 //声
-声
+声 
 <$00>
 

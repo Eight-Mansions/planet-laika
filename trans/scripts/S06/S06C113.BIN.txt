@@ -15,14 +15,12 @@
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-//\nさっきと同じやつ… 建うやつ…
-\n
-Are you the person I\n
-saw before,
-<$0C>
+// \nさっきと同じやつ… 建うやつ…
+ \n
+Are you the person I saw before, \n
 or...someone else?
 <$1E>
 //理
-理
+理 
 <$00>
 

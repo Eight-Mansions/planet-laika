@@ -15,10 +15,9 @@
 //スペーサー：
 Spacer:
 <$0D>
-//\nユニバーサルマン…\nあなたがユニバーサルマン…
-\n
-Universal Man...\n
-You're Universal Man.
+// \nユニバーサルマン… \nあなたがユニバーサルマン…
+ \n
+Universal Man... You're Universal Man. 
 <$00>
 
 // Pos: 000024B2
@@ -31,20 +30,17 @@ You're Universal Man.
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nあああ私だ… 私は破れたのだ。
-\n
-I...am brokennn...
+// \nあああ私だ… 私は破れたのだ。
+ \n
+I...am brokennn... 
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nガリルに破れ、力をうばわれた…\nシークレットパワーを…
-\n
-Galiiil defeeeated\n
-me, and
-<$0C>
-stoooole...the secret\n
-powerrr...
+// \nガリルに破れ、力をうばわれた… \nシークレットパワーを…
+ \n
+Galiiil defeeeated me, and \n
+stoooole...the secret powerrr... 
 <$00>
 
 // Pos: 000024FA
@@ -57,22 +53,18 @@ powerrr...
 //スペーサー：
 Spacer:
 <$0D>
-//\nガリルは全ての預言を得たのか？
-\n
-Has Galil collected\n
-all of the
-<$0C>
-prophecies?!
+// \nガリルは全ての預言を得たのか？
+ \n
+Has Galil collected all of the \n
+prophecies?! 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nもう間に合わないのか？\nどうなんだ、教えてくれ！
-\n
-Dangit, we're not too\n
-late, are we? Come
-<$0C>
-on, answer me!
+// \nもう間に合わないのか？ \nどうなんだ、教えてくれ！
+ \n
+Dangit, we're not too late, are we? \n
+Come on, answer me! 
 <$00>
 
 // Pos: 0000253E
@@ -85,12 +77,10 @@ on, answer me!
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nあああ… ガリルのやつ…\n完全なる善となるべく… あああ…
-\n
-Gaaa...Galiiiil...seeks\n
- to become pure
-<$0C>
-gooooood...
+// \nあああ… ガリルのやつ… \n完全なる善となるべく… あああ…
+ \n
+Gaaa...Galiiiil...seeks to become pure \n
+gooooood... 
 <$00>
 
 // Pos: 0000256C
@@ -103,14 +93,12 @@ gooooood...
 //スペーサー：
 Spacer:
 <$0D>
-//\nどこに行けば全ての預言を得ることが\nできるのだ？
-\n
-Where can we go to\n
-find all the
+// \nどこに行けば全ての預言を得ることが \nできるのだ？
+ \n
+Where can we go to find all the \n
+prophecies? Is finding them all even
 <$0C>
-prophecies? Is\n
-finding them all even\n
-possible?
+possible? 
 <$00>
 
 // Pos: 00002595
@@ -123,32 +111,26 @@ possible?
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nひとつはここに、私のうちに。\n残るは死者に…
-\n
-Onnne is here, in\n
-me... The rest are in
-<$0C>
-the deaaaad...
+// \nひとつはここに、私のうちに。 \n残るは死者に…
+ \n
+Onnne is here, in me... The rest are in \n
+the deaaaad... 
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nあああ、やはり私は死と\n向き合わなければならないのか！
-\n
-Ahhhh, after all\n
-this, even I cannot
-<$0C>
-escape deaaaath...
+// \nあああ、やはり私は死と \n向き合わなければならないのか！
+ \n
+Ahhhh, after all this, even I cannot \n
+escape deaaaath... 
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\n生ではなく、死に！
-\n
-I'm not even\n
-alive...I'mmmm...dyiiii
-<$0C>
-ing!
+// \n生ではなく、死に！
+ \n
+I'm not even \n
+alive...I'mmmm...dyiiiiing! 
 <$00>
 
 // Pos: 000025FF
@@ -161,10 +143,9 @@ ing!
 //スペーサー：
 Spacer:
 <$0D>
-//\n教えてくれ、預言だ！
-\n
-Quick, tell me the\n
-prophecy!
+// \n教えてくれ、預言だ！
+ \n
+Quick, tell me the prophecy! 
 <$00>
 
 // Pos: 00002618
@@ -177,12 +158,10 @@ prophecy!
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\nあああ…\n呪いの火に焼きつくされてもいいのか…\nあああ…
-\n
-Ahhh...yes, I can\n
-burn in the flames
-<$0C>
-of...maledictionnnn....\n
+// \nあああ… \n呪いの火に焼きつくされてもいいのか… \nあああ…
+ \n
+Ahhh...yes, I can burn in the flames \n
+of...maledictionnnn.... 
 <$00>
 
 // Pos: 00002645
@@ -195,14 +174,12 @@ of...maledictionnnn....\n
 //スペーサー：
 Spacer:
 <$0D>
-//\nなんと、心の中から開こえてくるようだ…\nこれがエレミヤの預言か。
-\n
-It...feels like my\n
-mind's being pulled
+// \nなんと、心の中から開こえてくるようだ… \nこれがエレミヤの預言か。
+ \n
+It...feels like my mind's being pulled \n
+open in some way. Is this Jeremiah's
 <$0C>
-open in some way. Is\n
-this Jeremiah's\n
-prophecy?
+prophecy? 
 <$00>
 
 // Pos: 00002676
@@ -212,24 +189,17 @@ prophecy?
 #WHB(PTR, $00002449)
 
 <$10><$13><$18><$08>
-//カオスの中にマコトに\n主体的な者が現れるであろう。
-May there be one who\n
-boldly siezes the\n
-truth within the
+//カオスの中にマコトに \n主体的な者が現れるであろう。
+May there be one who boldly siezes the \n
+truth within the chaos. 
 <$0C>
-chaos.
-<$0C>
-//自らのタマシイを浄化して、\nいかり、おごり、さげすみなど、\n闇の諸力から解放された存在として、
-May he purify his own\n
-spirit, and free\n
-himself from the dark
-<$0C>
-hooks of anger, pride\n
-and envy.
+//自らのタマシイを浄化して、 \nいかり、おごり、さげすみなど、 \n闇の諸力から解放された存在として、
+May he purify his own spirit, and free \n
+himself from the dark hooks of anger, \n
+pride and envy. 
 <$0C>
 //光の中に輝くであろう。
-That he may shine in\n
-that light.
+That he may shine in that light. 
 <$05><$00>
 
 // Pos: 000026E4
@@ -239,16 +209,15 @@ that light.
 #WHB(PTR, $0000244D)
 
 <$10>
-//\n
-\n
+// \n
+ \n
 
 <$0B>
 //      
       
 <$0D>
 //第一の預言を得た。
-So sayeth the\n
-first prophecy.
+So sayeth the first prophecy. 
 <$00>
 
 // Pos: 000026FC
@@ -261,24 +230,20 @@ first prophecy.
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\n死の動機がうずく… 岩よ、私の岩よ…
-\n
-Myyyy reason for\n
-dying...lead me to
-<$0C>
-this...aaaaching\n
-rock. Myyyy rock...
+// \n死の動機がうずく… 岩よ、私の岩よ…
+ \n
+Myyyy reason for dying...lead me to \n
+this...aaaaching rock. Myyyy rock... 
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-//\n死と向き合うために英気を養わねばならぬとは…\n皮肉なことよ。
-\n
-How ironiiic...I\n
-thought a hearrrt of
+// \n死と向き合うために英気を養わねばならぬとは… \n皮肉なことよ。
+ \n
+How ironiiic...I thought a hearrrt of \n
+stone...wouuuuld keep me from
 <$0C>
-stone...wouuuuld keep\n
-me from deaaath...
+deaaath... 
 <$00>
 
 // Pos: 00002753
@@ -291,12 +256,11 @@ me from deaaath...
 //スペーサー：
 Spacer:
 <$0D>
-//\n死の動機… 死の動機… イヤな言葉だ。
-\n
-A reason for dying...\n
-He didn't have a lust
+// \n死の動機… 死の動機… イヤな言葉だ。
+ \n
+A reason for dying... He didn't have a \n
+lust for death, did he? That's
 <$0C>
-for death, did he?\n
-That's unsettling.
+unsettling. 
 <$00>
 

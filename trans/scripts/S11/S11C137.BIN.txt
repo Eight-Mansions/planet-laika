@@ -19,12 +19,9 @@
 //スピリットマン：
 Spirit Man:
 <$0D>
-//\nひょひょ、スペーサーや、\nお前は陽精に会ったのだ、ひょひょ。
-\n
-Hyohyo, Spacer! So,\n
-you've encounted
-<$0C>
-"Yang", haven't you?\n
-Hyohyo!
+// \nひょひょ、スペーサーや、 \nお前は陽精に会ったのだ、ひょひょ。
+ \n
+Hyohyo, Spacer! So, you've encounted \n
+"Yang", haven't you? Hyohyo! 
 <$0E><$50><$17><$00>
 

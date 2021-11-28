@@ -15,9 +15,9 @@
 //アーネスト：
 Ernest:
 <$0D>
-//\n燃えてるぜ。
-\n
-She's engulfed!
+// \n燃えてるぜ。
+ \n
+She's engulfed! 
 <$00>
 
 // Pos: 000021B8
@@ -30,10 +30,9 @@ She's engulfed!
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nライカ君、頼む、クロエちゃんを！
-\n
-Laika, please! You\n
-have save Chloe!
+// \nライカ君、頼む、クロエちゃんを！
+ \n
+Laika, please! You have save Chloe! 
 <$00>
 
 // Pos: 000021D7
@@ -46,9 +45,9 @@ have save Chloe!
 //アーネスト：
 Ernest:
 <$0D>
-//\n俺は…
-\n
-I SAID...
+// \n俺は…
+ \n
+I SAID... 
 <$00>
 
 // Pos: 000021E7
@@ -61,10 +60,9 @@ I SAID...
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nクロエちゃーん、今そこに行くからねー
-\n
-Don't worry, Chloe!\n
-Help's on the way!
+// \nクロエちゃーん、今そこに行くからねー
+ \n
+Don't worry, Chloe! Help's on the way! 
 <$00>
 
 // Pos: 00002209
@@ -77,10 +75,9 @@ Help's on the way!
 //アーネスト：
 Ernest:
 <$0D>
-//\n何だ、あの青いのは？
-\n
-Hang on, what's that\n
-blue stuff?
+// \n何だ、あの青いのは？
+ \n
+Hang on, what's that blue stuff? 
 <$00>
 
 // Pos: 00002221
@@ -93,12 +90,10 @@ blue stuff?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nバリアだ。\nオリンピア２号が守ってくれてる。
-\n
-It's a barrier.\n
-Olympia #2 is
-<$0C>
-protecting her.
+// \nバリアだ。 \nオリンピア２号が守ってくれてる。
+ \n
+It's a barrier. Olympia #2 is \n
+protecting her. 
 <$00>
 
 // Pos: 00002247
@@ -111,12 +106,10 @@ protecting her.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nああ、燃える燃える、クロエちゃんが、\n燃えてしまうぅぅぅぅ…
-\n
-Please, no! She's\n
-burning! Burning! My
-<$0C>
-Chloe's burniiiing!
+// \nああ、燃える燃える、クロエちゃんが、 \n燃えてしまうぅぅぅぅ…
+ \n
+Please, no! She's burning! Burning! My \n
+Chloe's burniiiing! 
 <$00>
 
 // Pos: 00002276
@@ -132,13 +125,10 @@ Chloe's burniiiing!
 //オリンピア２号：
 Olympia #2:
 <$0D>
-//\nホノオがオソってきます。\nオンドはアツいです。
-\n
-THE FLAMES ARE\n
-RISING. THE
-<$0C>
-TEMPERATURES ARE\n
-RISING.
+// \nホノオがオソってきます。 \nオンドはアツいです。
+ \n
+THE FLAMES ARE RISING. THE \n
+TEMPERATURES ARE RISING. 
 <$00>
 
 // Pos: 0000229D
@@ -151,12 +141,10 @@ RISING.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n早く！ ライカ君、急いでくれたまえ！\n私は表で待ってるからね！
-\n
-Do something quick,\n
-Laika! I-I'll wait
-<$0C>
-out front!
+// \n早く！ ライカ君、急いでくれたまえ！ \n私は表で待ってるからね！
+ \n
+Do something quick, Laika! I-I'll wait \n
+out front! 
 <$00>
 
 // Pos: 000022CE
@@ -169,9 +157,9 @@ out front!
 //アーネスト：
 Ernest:
 <$0D>
-//\nああ、待ってろ！
-\n
-Hey, wait!
+// \nああ、待ってろ！
+ \n
+Hey, wait! 
 <$00>
 
 // Pos: 000022E4
@@ -184,12 +172,10 @@ Hey, wait!
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\n燃える、燃える、何とかしてくれ。
-\n
-She's burning! She's\n
-burning! You have to
-<$0C>
-do something!
+// \n燃える、燃える、何とかしてくれ。
+ \n
+She's burning! She's burning! You have \n
+to do something! 
 <$00>
 
 // Pos: 00002304
@@ -202,10 +188,9 @@ do something!
 //アーネスト：
 Ernest:
 <$0D>
-//\nくそったれ！ 役に立たねぇ野郎だぜ！
-\n
-Some help you are,\n
-good for nothing.
+// \nくそったれ！ 役に立たねぇ野郎だぜ！
+ \n
+Some help you are, good for nothing. 
 <$00>
 
 // Pos: 00002327
@@ -221,32 +206,26 @@ good for nothing.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-//\nホノオはヌーンのクラいジョウネンから\nウマれました。
-\n
-THESE FLAMES SPAWNED\n
-FROM NOON'S DARKEST
-<$0C>
-SENTIMENTS.
+// \nホノオはヌーンのクラいジョウネンから \nウマれました。
+ \n
+THESE FLAMES SPAWNED FROM NOON'S \n
+DARKEST SENTIMENTS. 
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-//\nホノオは、このホシのアクイにフレて\nイシをモッたのです。
-\n
-THESE FLAMES ARE\n
-STOKED BY THE ILL
-<$0C>
-WILL OF MARS.
+// \nホノオは、このホシのアクイにフレて \nイシをモッたのです。
+ \n
+THESE FLAMES ARE STOKED BY THE ILL \n
+WILL OF MARS. 
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-//\nホノオとタタカってください。
-\n
-THESE FLAMES CAN ONLY\n
-BE DEFEATED THROUGH
-<$0C>
-BATTLE.
+// \nホノオとタタカってください。
+ \n
+THESE FLAMES CAN ONLY BE DEFEATED \n
+THROUGH BATTLE. 
 <$00>
 
 // Pos: 00002395
@@ -259,13 +238,10 @@ BATTLE.
 //アーネスト：
 Ernest:
 <$0D>
-//\nなんだか分からねぇけど、\nどうやって闘うんだ？
-\n
-Defeated through\n
-battle? What am I
-<$0C>
-supposed to do, punch\n
-the flame?!
+// \nなんだか分からねぇけど、 \nどうやって闘うんだ？
+ \n
+Defeated through battle? What am I \n
+supposed to do, punch the flame?! 
 <$00>
 
 // Pos: 000023BA
@@ -281,13 +257,12 @@ the flame?!
 //オリンピア２号：
 Olympia #2:
 <$0D>
-//\nホノオがハきダすネンパをはねカエすのです。\nココロのチカラでタタカうのです。
-\n
-THE FLAMES WILL FIRE\n
-PULSES AT YOU. REPEL
+// \nホノオがハきダすネンパをはねカエすのです。 \nココロのチカラでタタカうのです。
+ \n
+THE FLAMES WILL FIRE PULSES AT YOU. \n
+REPEL THEM WITH THE POWER OF YOUR
 <$0C>
-THEM WITH THE POWER\n
-OF YOUR HEART.
+HEART. 
 <$00>
 
 // Pos: 000023F0
@@ -300,10 +275,9 @@ OF YOUR HEART.
 //アーネスト：
 Ernest:
 <$0D>
-//\nはね返すんだな、念波だな。
-\n
-Okay, so I volley the\n
-mind bullets?
+// \nはね返すんだな、念波だな。
+ \n
+Okay, so I volley the mind bullets? 
 <$00>
 
 // Pos: 0000240D
@@ -319,25 +293,23 @@ mind bullets?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-//\nそうです、タイミングがタイセツです。
-\n
-CORRECT, BUT TIMING\n
-IS CRUCUAL.
+// \nそうです、タイミングがタイセツです。
+ \n
+CORRECT, BUT TIMING IS CRUCUAL. 
 <$00><$10><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-//\nなんとか、やっつけたぜ。
-\n
-I think I got it.
+// \nなんとか、やっつけたぜ。
+ \n
+I think I got it. 
 <$00><$10><$0B>
 //クロエ：
 Chloe:
 <$0D>
-//\n助けてくれて、ありがとう。
-\n
-Thank you for saving\n
-me.
+// \n助けてくれて、ありがとう。
+ \n
+Thank you for saving me. 
 <$00>
 
 // Pos: 0000245F
@@ -350,13 +322,10 @@ me.
 //クロエ：
 Chloe:
 <$0D>
-//\n助けてくれてありがとう…\nはじめてよ…人に助けられたの…
-\n
-Thank you for saving\n
-me. It's the first
-<$0C>
-time anyone has ever\n
-helped me.
+// \n助けてくれてありがとう… \nはじめてよ…人に助けられたの…
+ \n
+Thank you for saving me. It's the first \n
+time anyone has ever helped me. 
 <$00>
 
 // Pos: 00002486
@@ -369,24 +338,18 @@ helped me.
 //クロエ：
 Chloe:
 <$0D>
-//\nアーネスト…そう言うんでしょ…\n他の人たちのことも知ってるわ…
-\n
-Ernest... I know who\n
-you are, and I know
-<$0C>
-who the others with\n
-you are.
+// \nアーネスト…そう言うんでしょ… \n他の人たちのことも知ってるわ…
+ \n
+Ernest... I know who you are, and I \n
+know who the others with you are. 
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-//\nそれにフェニックスのことも…\nあなたは…私と同じ…体がないの…
-\n
-And I know about\n
-Phoenix. You are all
-<$0C>
-like me... You all\n
-have no bodies.
+// \nそれにフェニックスのことも… \nあなたは…私と同じ…体がないの…
+ \n
+And I know about Phoenix. You are all \n
+like me... You all have no bodies. 
 <$00>
 
 // Pos: 000024D9
@@ -399,10 +362,9 @@ have no bodies.
 //アーネスト：
 Ernest:
 <$0D>
-//\nおう、何だ、びっくりするじゃねぇか！
-\n
-Woah, hang on. That\n
-doesn't scare you?
+// \nおう、何だ、びっくりするじゃねぇか！
+ \n
+Woah, hang on. That doesn't scare you? 
 <$00>
 
 // Pos: 000024F8
@@ -418,10 +380,9 @@ doesn't scare you?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-//\nワタシはツカれたので、\nココロがスコしミダれています。
-\n
-I AM TIRED. MY HEART\n
-IS IN DISARRAY.
+// \nワタシはツカれたので、 \nココロがスコしミダれています。
+ \n
+I AM TIRED. MY HEART IS IN DISARRAY. 
 <$00>
 
 // Pos: 00002523
@@ -434,12 +395,10 @@ IS IN DISARRAY.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nやあやあやあ、ライカ君！ よくやった！\n君のことは前から頼りにしてたんだ！
-\n
-Oh, Laika! You did so\n
-well! I knew I could
-<$0C>
-count on you!
+// \nやあやあやあ、ライカ君！ よくやった！ \n君のことは前から頼りにしてたんだ！
+ \n
+Oh, Laika! You did so well! I knew I could \n
+count on you! 
 <$00>
 
 // Pos: 00002557
@@ -452,9 +411,9 @@ count on you!
 //アーネスト：
 Ernest:
 <$0D>
-//\n俺は…アーネストだ…
-\n
-I'm...Ernest.
+// \n俺は…アーネストだ…
+ \n
+I'm...Ernest. 
 <$00>
 
 // Pos: 0000256E
@@ -467,18 +426,16 @@ I'm...Ernest.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nあああ、クロエちゃん！
-\n
-Ohhh, Chloe!
+// \nあああ、クロエちゃん！
+ \n
+Ohhh, Chloe! 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-//\nあはは！ 平気だ、平気。\nクロエちゃんが平気だ！
-\n
-Ahaha! You're safe!\n
-SAFE! My Chloe is
-<$0C>
-safe!
+// \nあはは！ 平気だ、平気。 \nクロエちゃんが平気だ！
+ \n
+Ahaha! You're safe! SAFE! My Chloe is \n
+safe! 
 <$00>
 

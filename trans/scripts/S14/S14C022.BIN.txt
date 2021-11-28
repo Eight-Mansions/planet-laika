@@ -15,72 +15,56 @@
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nアタシのせいじゃないんだよ、
-\n
-This isn't my fault!
+// \nアタシのせいじゃないんだよ、
+ \n
+This isn't my fault! 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nアタシはただあのまじない人形を…
-\n
-I just took the\n
-enchanted doll when...
+// \nアタシはただあのまじない人形を…
+ \n
+I just took the enchanted doll when... 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nそしたらカベに埋まってる人のウデが\nのびてきて、人形を持っていったのよ。
-\n
-...the guy buried in\n
-the cave wall reach
-<$0C>
-out his arm and took\n
-the doll away!
+// \nそしたらカベに埋まってる人のウデが \nのびてきて、人形を持っていったのよ。
+ \n
+...the guy buried in the cave wall reach \n
+out his arm and took the doll away! 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n世界が綠色になって、\nいろんな声が開こえたの。
-\n
-The world turned\n
-green, and I could
-<$0C>
-hear all kinds of\n
-voices.
+// \n世界が綠色になって、 \nいろんな声が開こえたの。
+ \n
+The world turned green, and I could \n
+hear all kinds of voices. 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n死の動機、死の動機って…\nねぇ、開いてる？
-\n
-They say, "Reason for\n
-dying...reason for
-<$0C>
-dying..." Tell me, do\n
-you hear it?
+// \n死の動機、死の動機って… \nねぇ、開いてる？
+ \n
+They say, "Reason for dying...reason \n
+for dying..." Tell me, do you hear it? 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n分かってるの、\nまじない人形がダメだったら、
-\n
-Then you understand,\n
-don't you? If that
-<$0C>
-cursed doll doesn't\n
-work,
+// \n分かってるの、 \nまじない人形がダメだったら、
+ \n
+Then you understand, don't you? If \n
+that cursed doll doesn't work, 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n合わされないのよ。\nそんなのイヤだ、絶対イヤだよ。
-\n
-I won't be able to\n
-integrate! I won't
-<$0C>
-have that! I CAN'T\n
-have that!
+// \n合わされないのよ。 \nそんなのイヤだ、絶対イヤだよ。
+ \n
+I won't be able to integrate! I won't \n
+have that! I CAN'T have that! 
 <$00>
 
 // Pos: 00003C75
@@ -93,22 +77,19 @@ have that!
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n甘い香りよ…アーモンドみたいな…
-\n
-You smell so sweet,\n
-like almonds...
+// \n甘い香りよ…アーモンドみたいな…
+ \n
+You smell so sweet, like almonds... 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nどうしたの？ ねぇ、あんた、誰よ？\nさっきの人じゃないね。
-\n
-What's the\n
-matter...wait. Who
+// \nどうしたの？ ねぇ、あんた、誰よ？ \nさっきの人じゃないね。
+ \n
+What's the matter...wait. Who are \n
+you? You're not the Earthling I met
 <$0C>
-are you? You're not\n
-the Earthling I met\n
-earlier.
+earlier. 
 <$00>
 
 // Pos: 00003CBC
@@ -121,33 +102,26 @@ earlier.
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n何よ、またあの女がしゃしゃり出てきたの？
-\n
-Wh-what's this?! Is\n
-this another one of
-<$0C>
-that woman's tricks?!
+// \n何よ、またあの女がしゃしゃり出てきたの？
+ \n
+Wh-what's this?! Is this another one of \n
+that woman's tricks?! 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nねぇ、ウソつき鏡はできたの？
-\n
-Oh no, did she\n
-complete that lousy
-<$0C>
-trick mirror?
+// \nねぇ、ウソつき鏡はできたの？
+ \n
+Oh no, did she complete that lousy trick \n
+mirror? 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nいやよ！ 入れ替わらないで！\n勝手に持っていかないで、アタシの時間よ！
-\n
-NO! I don't want to\n
-change places! This
-<$0C>
-is MY time! Don't\n
-take it away from me!
+// \nいやよ！ 入れ替わらないで！ \n勝手に持っていかないで、アタシの時間よ！
+ \n
+NO! I don't want to change places! This \n
+is MY time! Don't take it away from me! 
 <$00>
 
 // Pos: 00003D2C
@@ -157,23 +131,19 @@ take it away from me!
 #WHB(PTR, $0000039D)
 
 <$12>
-//もうすぐよ、蕃判の鏡、完成は近いわ。\n真実の光でまやかしは消え去るの。
-The Mirror of\n
-Judgement is almost\n
-complete.
+//もうすぐよ、蕃判の鏡、完成は近いわ。 \n真実の光でまやかしは消え去るの。
+The Mirror of Judgement is almost \n
+complete. \n
+Deception will burn before absolute
 <$0C>
-Deception will burn\n
-before absolute truth!
+truth! 
 <$0C>
 //ふふふふ、私の勝利よ、
-Hohoho, I have won.
+Hohoho, I have won. 
 <$0C>
-//アマンダにこの体をささげるの。\n私は美の権化となるのよ！
-I offer this body to\n
-Amanda,\n
-that I may become
-<$0C>
-beauty incarnate!
+//アマンダにこの体をささげるの。 \n私は美の権化となるのよ！
+I offer this body to Amanda, \n
+that I may become beauty incarnate! 
 <$00>
 
 // Pos: 00003D8B
@@ -186,12 +156,10 @@ beauty incarnate!
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n引っ込んでてよ！ 残るのはアタシよ、\nあんたじゃない、アタシなのよ！
-\n
-Get back in there!\n
-I'M the one who's
-<$0C>
-staying, not you! ME!
+// \n引っ込んでてよ！ 残るのはアタシよ、 \nあんたじゃない、アタシなのよ！
+ \n
+Get back in there! I'M the one who's \n
+staying, not you! ME! 
 <$00>
 
 // Pos: 00003DBD
@@ -204,35 +172,28 @@ staying, not you! ME!
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n絶対にやらないから、\nアタシの時間なんだから。
-\n
-I definitely won't\n
-fall for that. This
-<$0C>
-is MY time!
+// \n絶対にやらないから、 \nアタシの時間なんだから。
+ \n
+I definitely won't fall for that. This is \n
+MY time! 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nあんたもそうでしょ、\nさっきの人より、今のほうがいいのよね。
-\n
-It is also your time.\n
-You're adept. More
-<$0C>
-than the one I met\n
-earlier.
+// \nあんたもそうでしょ、 \nさっきの人より、今のほうがいいのよね。
+ \n
+It is also your time. You're adept. More \n
+than the one I met earlier. 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\n分かるわ、強い力を惑じるもの。\nふふふ、試してみれば？
-\n
-I sense a strong\n
-power in you,
+// \n分かるわ、強い力を惑じるもの。 \nふふふ、試してみれば？
+ \n
+I sense a strong power in you, \n
+understand. Hohoho, why don't you try
 <$0C>
-understand. Hohoho,\n
-why don't you try it\n
-out?
+it out? 
 <$00>
 
 // Pos: 00003E37
@@ -245,21 +206,17 @@ out?
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nここの連中、すごくビンカンになってるの。
-\n
-The lot here are\n
-especially vulnerable.
+// \nここの連中、すごくビンカンになってるの。
+ \n
+The lot here are especially vulnerable. 
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-//\nおもしろいよ、思い通りだよ。\n命令するの、なんでもできるわ。
-\n
-It's funny. Precisely\n
-what I invisioned. I
-<$0C>
-didn't have to pull\n
-any strings.
+// \nおもしろいよ、思い通りだよ。 \n命令するの、なんでもできるわ。
+ \n
+It's funny. Precisely what I invisioned. \n
+I didn't have to pull any strings. 
 <$00>
 
 // Pos: 00003E86
@@ -272,32 +229,25 @@ any strings.
 //フェニックス：
 Phoenix:
 <$0D>
-//\nこれが力なのか…\nシークレットパワー。
-\n
-Is this the work...of\n
-the secret power?
+// \nこれが力なのか… \nシークレットパワー。
+ \n
+Is this the work...of the secret power? 
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-//\n人格を変える力…\n僕はそんな力を手に入れたのか。
-\n
-Do I have the ability\n
-to change the
-<$0C>
-personalities of\n
-others?
+// \n人格を変える力… \n僕はそんな力を手に入れたのか。
+ \n
+Do I have the ability to change the \n
+personalities of others? 
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-//\n僕はもう影ではないのか…\nいや、そんなはずはない、そんなはずは…
-\n
-Am I not a mere\n
-shadow anymore? No,
-<$0C>
-that shouldn't be.\n
-That can't be.
+// \n僕はもう影ではないのか… \nいや、そんなはずはない、そんなはずは…
+ \n
+Am I not a mere shadow anymore? No, \n
+that shouldn't be. That can't be. 
 <$00>
 
 // Pos: 00003EFF
@@ -310,29 +260,25 @@ That can't be.
 //マウンテン：
 Mountain:
 <$0D>
-//\nかなりいいぞ、
-\n
-So far, so good.
+// \nかなりいいぞ、
+ \n
+So far, so good. 
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-//\nまだ少し残ってるがな、今回のはかなりいい、\n効いたぞ。
-\n
-I've still got a ways\n
-to go, but it's
-<$0C>
-working good so far.
+// \nまだ少し残ってるがな、今回のはかなりいい、 \n効いたぞ。
+ \n
+I've still got a ways to go, but it's \n
+working good so far. 
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-//\n超越したその先が見えた、見えた、見えた…
-\n
-I can see beyond the\n
-transcendant. I can
-<$0C>
-see, I can see...
+// \n超越したその先が見えた、見えた、見えた…
+ \n
+I can see beyond the transcendant. I \n
+can see, I can see... 
 <$00>
 
 // Pos: 00003F5C
@@ -345,13 +291,10 @@ see, I can see...
 //マウンテン：
 Mountain:
 <$0D>
-//\nあああ、おお！まただ、また見え始めたぞ、\n映ってるぞ！おおお、これだ、これが望みだ！
-\n
-AHHH! It's there! I\n
-see it again! It's
-<$0C>
-reflecting! This is\n
-what I wanted!!
+// \nあああ、おお！まただ、また見え始めたぞ、 \n映ってるぞ！おおお、これだ、これが望みだ！
+ \n
+AHHH! It's there! I see it again! It's \n
+reflecting! This is what I wanted!! 
 <$00>
 
 // Pos: 00003F94
@@ -364,12 +307,10 @@ what I wanted!!
 //スパーキー：
 Sparky:
 <$0D>
-//\n何か寒いわね…あら、初めての方？\n私はスパーキー、ちょっと派手ないいやつよ。
-nIt's kind of\n
-cold here. Oh, oops.\n
-Have we met? I'm
-<$0C>
-Sparky. I don't bite.
+// \n何か寒いわね…あら、初めての方？ \n私はスパーキー、ちょっと派手ないいやつよ。
+nIt's kind of cold here. Oh, \n
+oops. Have we met? I'm Sparky. I don't \n
+bite. 
 <$00>
 
 // Pos: 00003FCA
@@ -382,24 +323,18 @@ Sparky. I don't bite.
 //スパーキー：
 Sparky:
 <$0D>
-//\nねぇ、ここはなんかクサくない？\nああ、分かった、ウィリアムのニオい、\nそうよね、これは…
-\n
-Hey, it kinda smells,\n
-doesn't it? Ahh,
-<$0C>
-yeah, that smells\n
-like William.
+// \nねぇ、ここはなんかクサくない？ \nああ、分かった、ウィリアムのニオい、 \nそうよね、これは…
+ \n
+Hey, it kinda smells, doesn't it? Ahh, \n
+yeah, that smells like William. 
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>
-//\nいつもこのあたりに立っていたのよ。\n大きな体のウィリアム。
-\n
-William is the really\n
-well-built guy who
-<$0C>
-likes to stand around\n
-this spot.
+// \nいつもこのあたりに立っていたのよ。 \n大きな体のウィリアム。
+ \n
+William is the really well-built guy who \n
+likes to stand around this spot. 
 <$00>
 
 // Pos: 0000402B
@@ -412,13 +347,11 @@ this spot.
 //スパーキー：
 Sparky:
 <$0D>
-//\nくんくん、ニオう、ウィリアムのニオい…\nどこ行ったのかしらウィリアムったら、\nいつもここがお気に入りなのにね。
-\n
-Sniff, sniff... I can\n
-smell William. Where
+// \nくんくん、ニオう、ウィリアムのニオい… \nどこ行ったのかしらウィリアムったら、 \nいつもここがお気に入りなのにね。
+ \n
+Sniff, sniff... I can smell William. \n
+Where would he have gone? I thought
 <$0C>
-would he have gone? I\n
-thought he liked this\n
-spot.
+he liked this spot. 
 <$00>
 

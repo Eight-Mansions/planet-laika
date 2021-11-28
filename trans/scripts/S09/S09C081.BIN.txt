@@ -12,10 +12,9 @@
 #WHB(PTR, $000003FD)
 
 <$10>
-//\n     タオゴールドを手に入れた。
-\n
-     Tao Gold\n
-acquired.
+// \n     タオゴールドを手に入れた。
+ \n
+     Tao Gold acquired. 
 <$00>
 
 // Pos: 000009D1
@@ -25,8 +24,8 @@ acquired.
 #WHB(PTR, $000005F9)
 
 <$10>
-//\nアイテムがいっぱいです。
-\n
-The item bag is full!
+// \nアイテムがいっぱいです。
+ \n
+The item bag is full! 
 <$0E><$1E><$17><$00>
 

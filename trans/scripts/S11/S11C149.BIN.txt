@@ -15,13 +15,10 @@
 //スペーサー：
 Spacer:
 <$0D>
-//\nここは… サイコハウスではないか！\n何かが私を待っているのか？
-\n
-This place... This\n
-isn't Psycho Lab, is
-<$0C>
-it? Is something\n
-waiting for me here?
+// \nここは… サイコハウスではないか！ \n何かが私を待っているのか？
+ \n
+This place... This isn't Psycho Lab, is it? \n
+Is something waiting for me here? 
 <$00>
 
 // Pos: 000026F3
@@ -34,9 +31,9 @@ waiting for me here?
 //スペーサー：
 Spacer:
 <$0D>
-//\n思念の眼が…
-\n
-The mind's eye...
+// \n思念の眼が…
+ \n
+The mind's eye... 
 <$00>
 
 // Pos: 00002709
@@ -49,27 +46,23 @@ The mind's eye...
 //スペーサー：
 Spacer:
 <$0D>
-//\n深い… あああ、言葉が… 出てこない…\nあ、あ、あ… 詩… 読む… 詩を読むか？
-\n
-It's coursing...augh!\n
-I can't...! I...I
+// \n深い… あああ、言葉が… 出てこない… \nあ、あ、あ… 詩… 読む… 詩を読むか？
+ \n
+It's coursing...augh! I can't...! I...I \n
+hear a question? Poetry? Do I read
 <$0C>
-hear a question?\n
-Poetry? Do I read\n
-poetry?
+poetry? 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n私に尋ねているのか？
-\n
-Is it asking if I'll\n
-read its poetry?
+// \n私に尋ねているのか？
+ \n
+Is it asking if I'll read its poetry?
 <$1B>
-//？読む\n読まない
-？Read
-<$0C>
-Exit
+//？読む \n読まない
+？Read \n
+Exit 
 <$00><$17><$00>
 
 // Pos: 00002767
@@ -82,9 +75,9 @@ Exit
 //スペーサー：
 Spacer:
 <$0D>
-//\nあ、あ、あ、あ…
-\n
-Owwe, owwe, owwe...!
+// \nあ、あ、あ、あ…
+ \n
+Owwe, owwe, owwe...! 
 <$00>
 
 // Pos: 0000277C
@@ -97,13 +90,10 @@ Owwe, owwe, owwe...!
 //スペーサー：
 Spacer:
 <$0D>
-//\n主人の家の門で腹を空かせる犬は\n国家の滅亡を言い当てる… あ、あ、あ
-\n
-"A dog starved at his\n
-master's gate
-<$0C>
-predicts the ruin of\n
-the state"... Augh!
+// \n主人の家の門で腹を空かせる犬は \n国家の滅亡を言い当てる… あ、あ、あ
+ \n
+"A dog starved at his master's gate \n
+predicts the ruin of the state"... Augh! 
 <$00>
 
 // Pos: 000027B6
@@ -116,10 +106,9 @@ the state"... Augh!
 //ヤング：
 Yang:
 <$0D>
-//\nやめろ、おい！ やめるるる…
-\n
-Hey, stop! You have\n
-to s-s-stop...!
+// \nやめろ、おい！ やめるるる…
+ \n
+Hey, stop! You have to s-s-stop...! 
 <$00>
 
 // Pos: 000027CD
@@ -132,12 +121,10 @@ to s-s-stop...!
 //マウンテン：
 Mountain:
 <$0D>
-//\n何ひへる、ほまへ、ほこれ、何ひへる…
-\n
-Who! What! Where!\n
-When! Why! WHO! WHAT!
-<$0C>
-WHERE! WHEN! WHY!
+// \n何ひへる、ほまへ、ほこれ、何ひへる…
+ \n
+Who! What! Where! When! Why! WHO! \n
+WHAT! WHERE! WHEN! WHY! 
 <$00>
 
 // Pos: 000027EA
@@ -150,24 +137,20 @@ WHERE! WHEN! WHY!
 //スペーサー：
 Spacer:
 <$0D>
-//\nスペースアンプが暴走している。\nこのまま続けると…
-\n
-The Space A.M.P. is\n
-out of control! If it
+// \nスペースアンプが暴走している。 \nこのまま続けると…
+ \n
+The Space A.M.P. is out of control! If it \n
+keeps running like this, these guys
 <$0C>
-keeps running like\n
-this, these guys\n
-are...
+are... 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nああ、なんということ、\nマウンテンとヤングは惑電死だ。
-\n
-Ah, what am I saying?\n
-Mountain and Yang are
-<$0C>
-dead by electrocution.
+// \nああ、なんということ、 \nマウンテンとヤングは惑電死だ。
+ \n
+Ah, what am I saying? Mountain and \n
+Yang are dead by electrocution. 
 <$00>
 
 // Pos: 0000283B
@@ -180,19 +163,16 @@ dead by electrocution.
 //スペーサー：
 Spacer:
 <$0D>
-//\nまただ… また問いかけだ。\nこのまま続けると、このふたりが… 危ない…
-\n
-It's still going!\n
-I'll check again. If
+// \nまただ… また問いかけだ。 \nこのまま続けると、このふたりが… 危ない…
+ \n
+It's still going! I'll check again. If this \n
+keeps running, these two are going
 <$0C>
-this keeps running,\n
-these two are going\n
 to...!
 <$1B>
-//？読む\n読まない
-？Read
-<$0C>
-Exit
+//？読む \n読まない
+？Read \n
+Exit 
 <$00><$17><$00>
 
 // Pos: 0000287B
@@ -205,32 +185,26 @@ Exit
 //スペーサー：
 Spacer:
 <$0D>
-//\n主人の家の門で腹を空かせる犬は\n国家の滅亡を言い当てる。
-\n
-"A dog starved at his\n
-master's gate.
-<$0C>
-Predicts the ruin of\n
-the state..."
+// \n主人の家の門で腹を空かせる犬は \n国家の滅亡を言い当てる。
+ \n
+"A dog starved at his master's gate. \n
+Predicts the ruin of the state..." 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n路上でこき使われる馬はつぐないの人の血を\n神に呼ぴ求める…
-\n
-"A Horse misused upon\n
-the Road. Calls to
-<$0C>
-Heaven for Human\n
-blood..."
+// \n路上でこき使われる馬はつぐないの人の血を \n神に呼ぴ求める…
+ \n
+"A Horse misused upon the Road. Calls \n
+to Heaven for Human blood..." 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nなぜこの詩ばかりがくり返されるのか…
-\n
-Why does this one\n
-poem keep repeating?
+// \nなぜこの詩ばかりがくり返されるのか…
+ \n
+Why does this one poem keep \n
+repeating? 
 <$00>
 
 // Pos: 000028FB
@@ -243,9 +217,9 @@ poem keep repeating?
 //ヤング：
 Yang:
 <$0D>
-//\nふはーふはー、ふはー
-\n
-Hgyah! Gyah! Haaaah!
+// \nふはーふはー、ふはー
+ \n
+Hgyah! Gyah! Haaaah! 
 <$00>
 
 // Pos: 0000290E
@@ -258,9 +232,9 @@ Hgyah! Gyah! Haaaah!
 //マウンテン：
 Mountain:
 <$0D>
-//\nほへほ、ほほへへ…
-\n
-Why, why, why, why...!
+// \nほへほ、ほほへへ…
+ \n
+Why, why, why, why...! 
 <$00>
 
 // Pos: 00002922
@@ -273,15 +247,15 @@ Why, why, why, why...!
 //スペーサー：
 Spacer:
 <$0D>
-//\nあ、あ、あ、私を試しているのか？
-\n
-Haah, haah... Are you\n
-t-trying to test me?
+// \nあ、あ、あ、私を試しているのか？
+ \n
+Haah, haah... Are you t-trying to test \n
+me?
 <$1B>
-//？読む\n読まない
+//？読む \n読まない
 ？Read
 <$0C>
-Exit
+Exit 
 <$00><$17><$00>
 
 // Pos: 0000294D
@@ -294,13 +268,10 @@ Exit
 //スペーサー：
 Spacer:
 <$0D>
-//\n路上でこき使われる馬はつぐないの人の血を\n神に呼ぴ求める…あ、あ、あ
-\n
-"A Horse misused upon\n
-the Road. Calls to
-<$0C>
-Heaven for Human\n
-blood..." Haah!
+// \n路上でこき使われる馬はつぐないの人の血を \n神に呼ぴ求める…あ、あ、あ
+ \n
+"A Horse misused upon the Road. Calls \n
+to Heaven for Human blood..." Haah! 
 <$00>
 
 // Pos: 00002983
@@ -313,10 +284,9 @@ blood..." Haah!
 //ヤング：
 Yang:
 <$0D>
-//\nひ？ ろ？ ひろ、ひろ、ひろ？
-\n
-Hey? Ahh? Heya? Heya?\n
-Heya?
+// \nひ？ ろ？ ひろ、ひろ、ひろ？
+ \n
+Hey? Ahh? Heya? Heya? Heya? 
 <$00>
 
 // Pos: 0000299B
@@ -329,10 +299,9 @@ Heya?
 //マウンテン：
 Mountain:
 <$0D>
-//\nミルクは後、ハチミツが先。
-\n
-Milk later! Honey\n
-first!
+// \nミルクは後、ハチミツが先。
+ \n
+Milk later! Honey first! 
 <$00>
 
 // Pos: 000029B5
@@ -345,16 +314,15 @@ first!
 //スペーサー：
 Spacer:
 <$0D>
-//\nあ、あ、あ…ダメだ。\nこれ以上は、私には… あ、あ、あ…
-\n
-Haah! Augh! D-dammit!\n
-I can't...take it any
-<$0C>
-more...!
+// \nあ、あ、あ…ダメだ。 \nこれ以上は、私には… あ、あ、あ…
+ \n
+Haah! Augh! D-dammit! I can't...take it \n
+any more...!
 <$1B>
-//？読む\n読まない
-？Read\n
-Exit
+//？読む \n読まない
+？Read
+<$0C>
+Exit 
 <$00><$17><$00>
 
 // Pos: 000029ED
@@ -367,372 +335,279 @@ Exit
 //スペーサー：
 Spacer:
 <$0D>
-//\n追い立てられるウサギの叫び声が\n人の脳から一本ずつ筋をひきちぎる…\n苦しい…
-\n
-"Each outcry of the\n
-hunted hare. A fibre
+// \n追い立てられるウサギの叫び声が \n人の脳から一本ずつ筋をひきちぎる… \n苦しい…
+ \n
+"Each outcry of the hunted hare. A fibre \n
+from the Brain does tear." Sounds
 <$0C>
-from the Brain does\n
-tear." Sounds painful.
+painful. 
 <$00><$00>
 //メッセージはありません。
-THERE ARE NO MESSAGES.
+THERE ARE NO MESSAGES. 
 <$00><$00>
 //無線テレビに着信しています。
-RECEIVING INCOMING\n
-CALL...
+RECEIVING INCOMING CALL... 
 <$00><$00><$13><$00>
 //調子はどうかね、ヌケガラ君。
-How goes it, my\n
-little husk?
+How goes it, my little husk? 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nア、アーネスト…どうして…
-\n
-Ernie, is that you?\n
-What are you doing in
-<$0C>
-there?
+// \nア、アーネスト…どうして…
+ \n
+Ernie, is that you? What are you doing in \n
+there? 
 <$0C><$13><$00>
-//子犬が鳴いた、キャンキャンキャン\nお家に帰る道がわからない。哀れなものだ。
-Who's asking? A lost\n
-puppy, yipping and\n
-yapping because he
-<$0C>
-can't find his way\n
-home? Pathetic...
+//子犬が鳴いた、キャンキャンキャン \nお家に帰る道がわからない。哀れなものだ。
+Who's asking? A lost puppy, yipping and \n
+yapping because he can't find his way \n
+home? Pathetic... 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nアーネストではないな、誰だ！
-\n
-You're not Ernest!\n
-Who are you?!
+// \nアーネストではないな、誰だ！
+ \n
+You're not Ernest! Who are you?! 
 <$0C><$13><$00>
-//そういう先生こそ誰なのでしょう？\n深い憎しみを抱いた先生。
-Let's say I'm...a\n
-doctor. A doctor who\n
-embracing his deep
-<$0C>
-hatred towards you\n
-parasites.
+//そういう先生こそ誰なのでしょう？ \n深い憎しみを抱いた先生。
+Let's say I'm...a doctor. A doctor who \n
+embracing his deep hatred towards \n
+you parasites. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n私は…私は…
-\n
+// \n私は…私は…
+ \n
 Parasite? No, I'm...
 <$0F>
-//の…\nいや、私はスペーサーだ。その本人だ
-'s...\n
- No, I'm Spacer!
-<$0C>
-Nothing more!
+//の… \nいや、私はスペーサーだ。その本人だ
+'s... \n
+ No, I'm Spacer! Nothing more! 
 <$0C><$13><$00>
-//ほほう、ご本人とな。それは結構。\nあなたは
-Hoho, splendid!\n
-You're an interesting\n
-one. You don't leech
-<$0C>
-from 
+//ほほう、ご本人とな。それは結構。 \nあなたは
+Hoho, splendid! You're an interesting \n
+one. You don't leech from 
 <$0F>
-//ではなく、\nあなただ、そう言うんですね。
-, you say?
+//ではなく、 \nあなただ、そう言うんですね。
+, you say? 
 <$0C>
 //つまり
 In other words, 
 <$0F>
-//はあなただと。\nなるほど…自信家だ。
- is\n
-all "you". I see...\n
-You're very full in
-<$0C>
-yourself.
+//はあなただと。 \nなるほど…自信家だ。
+ is all "you". I see... \n
+You're very full in yourself. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nいや…
-\n
+// \nいや…
+ \n
 No... 
 <$0F>
-//が私なのではなく、\n私が
+//が私なのではなく、 \n私が
  isn't me. I'm 
 <$0F>
 //なのだ…私が…
-, right? Aren't I...?
+, right? Aren't I...? 
 <$0C><$13><$00>
-//おや！あなたはスペーサー氏ではなく\n
-A-hah! So, you're not\n
-Spacer without 
+//おや！あなたはスペーサー氏ではなく \n
+A-hah! So, you're not Spacer without 
 <$0F>
-//なのですか！\nいずれにせよ、ひとつ忠告しておこう。
-! Very\n
-well. Here's a piece
+//なのですか！ \nいずれにせよ、ひとつ忠告しておこう。
+! Very well. Here's a piece of advice. 
 <$0C>
-of advice.
+//この星のことをろくに知らない者が、 \n星の意志に逆らおうとしても \n無駄というものだ。
+As someone who knows knowing about \n
+Mars, it's useless to try to defy the will \n
+of this planet. 
 <$0C>
-//この星のことをろくに知らない者が、\n星の意志に逆らおうとしても\n無駄というものだ。
-As someone who knows\n
-knowing about Mars,\n
-it's useless to try
-<$0C>
-to defy the will of\n
-this planet.
-<$0C>
-//世界の再生、\nそれはこの星が決めたことなのだ。
-This planet has\n
-chosen world rebirth.
+//世界の再生、 \nそれはこの星が決めたことなのだ。
+This planet has chosen world rebirth. 
 <$0C>
 //私は星の意志に触れ、使命を受けている。
-I touched the\n
-planet's will and\n
-found life.
+I touched the planet's will and found \n
+life. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n星の意志？\n邪悪なイーブルマインドではないか！
-\n
-"The planet's will"?\n
-Do you mean that
-<$0C>
-wicked Evil Mind\n
-stuff?
+// \n星の意志？ \n邪悪なイーブルマインドではないか！
+ \n
+"The planet's will"? Do you mean that \n
+wicked Evil Mind stuff? 
 <$0C><$13><$00>
-//邪悪！私が邪悪だと、そう言いたいのかね。\nなら君の期待を裏切ることになりそうだ。
-Wicked! Do you mean\n
-to tell me I am\n
-wicked? If so, then I
-<$0C>
-hate to disappoint\n
-you.
+//邪悪！私が邪悪だと、そう言いたいのかね。 \nなら君の期待を裏切ることになりそうだ。
+Wicked! Do you mean to tell me I am \n
+wicked? If so, then I hate to disappoint \n
+you. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n私はイーブルマインドが\n人を苦しめる様を見てきた。
-\n
-I've seen the torment\n
-Evil Mind inflicts on
-<$0C>
-people.
+// \n私はイーブルマインドが \n人を苦しめる様を見てきた。
+ \n
+I've seen the torment Evil Mind inflicts \n
+on people. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n心の悪に働きかけ、人を苦しめるのを！\nそれが悪でなくてなんだ？
-\n
-It promotes sicking\n
-our inner evils on
+// \n心の悪に働きかけ、人を苦しめるのを！ \nそれが悪でなくてなんだ？
+ \n
+It promotes sicking our inner evils on \n
+others to promote a spread. Don't you
 <$0C>
-others to promote a\n
-spread. Don't you\n
-think that's wrong?
+think that's wrong? 
 <$0C><$13><$00>
-//そう憤るな。もうすぐ君に会えそうだ。\n楽しみに待っているよ。
-It's nothing to get\n
-angry about. We can\n
-discuss this in
-<$0C>
-person very soon. I'm\n
-looking forward to it.
+//そう憤るな。もうすぐ君に会えそうだ。 \n楽しみに待っているよ。
+It's nothing to get angry about. We can \n
+discuss this in person very soon. I'm \n
+looking forward to it. 
 <$00><$00><$13><$00>
 //調子はどうかね、ヌケガラ君。
-How goes it, my\n
-little husk?
+How goes it, my little husk? 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nア、アーネスト… どうして…
-\n
-Ernie, is that you?\n
-What are you doing in
-<$0C>
-there?
+// \nア、アーネスト… どうして…
+ \n
+Ernie, is that you? What are you doing in \n
+there? 
 <$0C><$13><$00>
-//子犬が鳴いた、キャンキャンキャン\nお家に帰る道がわからない。哀れなものだ。
-Who's asking? A lost\n
-puppy, yipping and\n
-yapping because he
-<$0C>
-can't find his way\n
-home? Pathetic...
+//子犬が鳴いた、キャンキャンキャン \nお家に帰る道がわからない。哀れなものだ。
+Who's asking? A lost puppy, yipping and \n
+yapping because he can't find his way \n
+home? Pathetic... 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nアーネストではないな、誰だ！
-\n
-You're not Ernest!\n
-Who are you?!
+// \nアーネストではないな、誰だ！
+ \n
+You're not Ernest! Who are you?! 
 <$0C><$13><$00>
-//そういう先生こそ誰なのでしょう？\n深い憎しみを抱いた先生。
-Let's say I'm...a\n
-doctor. A doctor who\n
-embracing his deep
-<$0C>
-hatred towards you\n
-parasites.
+//そういう先生こそ誰なのでしょう？ \n深い憎しみを抱いた先生。
+Let's say I'm...a doctor. A doctor who \n
+embracing his deep hatred towards \n
+you parasites. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n私は…私は…
-\n
+// \n私は…私は…
+ \n
 Parasite? No, I'm...
 <$0F>
-//の…\nいや、私はスペーサーだ。その本人だ。
-'s...\n
- No, I'm Spacer!
-<$0C>
-Nothing more!
+//の… \nいや、私はスペーサーだ。その本人だ。
+'s... \n
+ No, I'm Spacer! Nothing more! 
 <$0C><$13><$00>
-//ほほう、ご本人とな。それは結構。\nあなたは
-Hoho, splendid!\n
-You're an interesting\n
-one. You don't leech
-<$0C>
-from 
+//ほほう、ご本人とな。それは結構。 \nあなたは
+Hoho, splendid! You're an interesting \n
+one. You don't leech from 
 <$0F>
-//ではなく、あなただ、\nそう言うんですね。
-, you say?
+//ではなく、あなただ、 \nそう言うんですね。
+, you say? 
 <$0C>
 //つまり
 In other words, 
 <$0F>
-//はあなただと。\nなるほど…自信家だ。
- is\n
-all "you". I see...\n
-You're very full in
-<$0C>
-yourself.
+//はあなただと。 \nなるほど…自信家だ。
+ is all "you". I see... \n
+You're very full in yourself. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nいや…
-\n
+// \nいや…
+ \n
 No... 
 <$0F>
-//が私なのではなく、\n私が
+//が私なのではなく、 \n私が
  isn't me. I'm 
 <$0F>
 //なのだ…私が…
-, right? Aren't I...?
+, right? Aren't I...? 
 <$0C><$13><$00>
-//おや！ あなたはスペーサー氏ではなく\n
-A-hah! So, you're not\n
-Spacer without 
+//おや！ あなたはスペーサー氏ではなく \n
+A-hah! So, you're not Spacer without 
 <$0F>
-//なのですか！\nいずれにせよ、ひとつ忠告しておこう。
-! Very\n
-well. Here's a piece
+//なのですか！ \nいずれにせよ、ひとつ忠告しておこう。
+! Very well. Here's a piece of advice. 
 <$0C>
-of advice.
+//この星のことをろくに知らない者が、 \n星の意志に逆らおうとしても \n無駄というものだ。
+As someone who knows knowing about \n
+Mars, it's useless to try to defy the will \n
+of this planet. 
 <$0C>
-//この星のことをろくに知らない者が、\n星の意志に逆らおうとしても\n無駄というものだ。
-As someone who knows\n
-knowing about Mars,\n
-it's useless to try
-<$0C>
-to defy the will of\n
-this planet.
-<$0C>
-//世界の再生、\nそれはこの星が決めたことなのだ。
-This planet has\n
-chosen world rebirth.
+//世界の再生、 \nそれはこの星が決めたことなのだ。
+This planet has chosen world rebirth. 
 <$0C>
 //私は星の意志に触れ、使命を受けている。
-I touched the\n
-planet's will and\n
-found life.
+I touched the planet's will and found \n
+life. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n星の意志？\n邪悪なイーブルマインドではないか！
-\n
-"The planet's will"?\n
-Do you mean that
-<$0C>
-wicked Evil Mind\n
-stuff?
+// \n星の意志？ \n邪悪なイーブルマインドではないか！
+ \n
+"The planet's will"? Do you mean that \n
+wicked Evil Mind stuff? 
 <$0C><$13><$00>
-//邪悪！私が邪悪だと、そう言いたいのかね。\nなら君の期待を裏切るることになりそうだ。
-Wicked! Do you mean\n
-to tell me I am\n
-wicked? If so, then I
-<$0C>
-hate to disappoint\n
-you.
+//邪悪！私が邪悪だと、そう言いたいのかね。 \nなら君の期待を裏切るることになりそうだ。
+Wicked! Do you mean to tell me I am \n
+wicked? If so, then I hate to disappoint \n
+you. 
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n私はイーブルマインドが\n人を苦しめる様を見てきた。
-\n
-I've seen the torment\n
-Evil Mind inflicts on
-<$0C>
-people.
+// \n私はイーブルマインドが \n人を苦しめる様を見てきた。
+ \n
+I've seen the torment Evil Mind inflicts \n
+on people. 
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\n心の悪に働きかけ、人を苦しめるのを！\nそれが悪でなくてなんだ？
-\n
-It promotes sicking\n
-our inner evils on
+// \n心の悪に働きかけ、人を苦しめるのを！ \nそれが悪でなくてなんだ？
+ \n
+It promotes sicking our inner evils on \n
+others to promote a spread. Don't you
 <$0C>
-others to promote a\n
-spread. Don't you\n
-think that's wrong?
+think that's wrong? 
 <$0C><$13><$00>
-//そう憤るな。もうすぐ君に会えそうだ。\n楽しみに待っているよ。
-It's nothing to get\n
-angry about. We can\n
-discuss this in
-<$0C>
-person very soon. I'm\n
-looking forward to it.
+//そう憤るな。もうすぐ君に会えそうだ。 \n楽しみに待っているよ。
+It's nothing to get angry about. We can \n
+discuss this in person very soon. I'm \n
+looking forward to it. 
 <$00><$00>
 //調子はどうかね、ヌケガラ君。
-How goes it, my\n
-little husk?
+How goes it, my little husk? 
 <$0C>
 //君は、いや君たちは実に哀れだ。
-You...all of you, are\n
-so pathetic.
+You...all of you, are so pathetic. 
 <$0C>
-//ひとつ忠告をさずけよう。\nこの星の意志に逆らおうとしても\n無駄というものだ。
-Here's a piece of\n
-advice. It's useless\n
-to try to defy the
+//ひとつ忠告をさずけよう。 \nこの星の意志に逆らおうとしても \n無駄というものだ。
+Here's a piece of advice. It's useless to \n
+try to defy the will of this planet. 
 <$0C>
-will of this planet.
+//世界の再生、 \nそれはこの星が決めたことなのだ。
+This planet has chosen world rebirth. 
 <$0C>
-//世界の再生、\nそれはこの星が決めたことなのだ。
-This planet has\n
-chosen world rebirth.
+//私は星の意志に触れ、使命を受けている。 \n再生は私の目的ではなく、 \nこの星の目的なのだよ。
+I touched the planet's will and found \n
+life. Rebirth is not my purpose. It is the \n
+planet's purpose. 
 <$0C>
-//私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
-I touched the\n
-planet's will and\n
-found life. Rebirth
-<$0C>
-is not my purpose. It\n
-is the planet's\n
-purpose.
-<$0C>
-//もうすぐ君に会えるだろう。\n楽しみに待っているよ。
-I will see you soon.\n
-I'm looking forward\n
-to it.
+//もうすぐ君に会えるだろう。 \n楽しみに待っているよ。
+I will see you soon. I'm looking \n
+forward to it. 
 <$00>
 

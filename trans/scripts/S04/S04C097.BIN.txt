@@ -15,21 +15,17 @@
 //リトル：
 Little:
 <$0D>
-//\nそうだそうだ！ ただの夢だ！
-\n
-Get it? I get it!\n
-This is still a dream!
+// \nそうだそうだ！ ただの夢だ！
+ \n
+Get it? I get it! This is still a dream! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nお前もいたぞ、ええ？\n何でお前が俺の夢に現れるんだ、ええ？
-\n
-But you're here too,\n
-huh. What are you
-<$0C>
-appearin' in my\n
-dreams for, huh?
+// \nお前もいたぞ、ええ？ \n何でお前が俺の夢に現れるんだ、ええ？
+ \n
+But you're here too, huh. What are you \n
+appearin' in my dreams for, huh? 
 <$00>
 
 // Pos: 00002E0D
@@ -42,20 +38,17 @@ dreams for, huh?
 //リトル：
 Little:
 <$0D>
-//\nああああ、トーテムポールみたいな怪物が…
-\n
-Brr, that great,\n
-totem-like monster...
+// \nああああ、トーテムポールみたいな怪物が…
+ \n
+Brr, that great, totem-like monster... 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nああああ、ばらばらになりそうだ！ ひゃー！
-\n
-...I thought it was\n
-going to tear me
-<$0C>
-apart! Brr!
+// \nああああ、ばらばらになりそうだ！ ひゃー！
+ \n
+...I thought it was going to tear me \n
+apart! Brr! 
 <$00>
 
 // Pos: 00002E49
@@ -68,12 +61,10 @@ apart! Brr!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nどうしたのリトル。 大声を出さないで。
-\n
-What's the matter,\n
-Little? Please don't
-<$0C>
-shout.
+// \nどうしたのリトル。 大声を出さないで。
+ \n
+What's the matter, Little? Please don't \n
+shout. 
 <$00>
 
 // Pos: 00002E6C
@@ -86,36 +77,32 @@ shout.
 //リトル：
 Little:
 <$0D>
-//\nあれは夢だ。 そうだ！
-\n
-It's okay! It was\n
-only a dream, get it?
+// \nあれは夢だ。 そうだ！
+ \n
+It's okay! It was only a dream, get it? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺はどこにもでかけちゃいない！\n何も見ちゃいない！
-\n
-I didn't GO anywhere,\n
-I didn't SEE anythin'!
+// \n俺はどこにもでかけちゃいない！ \n何も見ちゃいない！
+ \n
+I didn't GO anywhere, I didn't SEE \n
+anythin'! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nちくしょう、あんたの催眠術から\nおかしなことになったんだ。
-\n
-Yeah, it was only\n
-YOUR hypnotherapy
-<$0C>
-that messed me up!
+// \nちくしょう、あんたの催眠術から \nおかしなことになったんだ。
+ \n
+Yeah, it was only YOUR hypnotherapy \n
+that messed me up! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺をどうするつもりなんだ、ええ？
-\n
-What are you trying\n
-to do to me, girly?
+// \n俺をどうするつもりなんだ、ええ？
+ \n
+What are you trying to do to me, girly? 
 <$00>
 
 // Pos: 00002EE2
@@ -128,23 +115,18 @@ to do to me, girly?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nあなたは自分に向き合う努力が足りないのよ、\nリトル。
-\n
-You're not pulling\n
-the weight to face
-<$0C>
-yourself, Little.
+// \nあなたは自分に向き合う努力が足りないのよ、 \nリトル。
+ \n
+You're not pulling the weight to face \n
+yourself, Little. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nうまくいかないとすぐに人のせいにする、\nそれはよくないわ。 索直にならなくちゃ。
-\n
-It's also impolite to\n
-blame your results on
-<$0C>
-me, just because you\n
-dislike them.
+// \nうまくいかないとすぐに人のせいにする、 \nそれはよくないわ。 索直にならなくちゃ。
+ \n
+It's also impolite to blame your results \n
+on me, just because you dislike them. 
 <$00>
 
 // Pos: 00002F45
@@ -157,22 +139,18 @@ dislike them.
 //リトル：
 Little:
 <$0D>
-//\nちくしょう、俺だ、俺だ、\nここにいるのが俺だ…
-\n
-Goddammit! Why me,\n
-why me?! Why am I
-<$0C>
-here?!
+// \nちくしょう、俺だ、俺だ、 \nここにいるのが俺だ…
+ \n
+Goddammit! Why me, why me?! Why am \n
+I here?! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nつきまとうな、あああ、失せろ！ 失せろ！
-\n
-And YOU, girly! Get\n
-off my ass! Shoo,
-<$0C>
-shoo!
+// \nつきまとうな、あああ、失せろ！ 失せろ！
+ \n
+And YOU, girly! Get off my ass! Shoo, \n
+shoo! 
 <$00>
 
 // Pos: 00002F83
@@ -185,13 +163,10 @@ shoo!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nどうしたの？\nリトル…あなた…まさか…
-\n
-What's wrong,\n
-Little?!
-<$0C>
-You're...you're\n
-turning...
+// \nどうしたの？ \nリトル…あなた…まさか…
+ \n
+What's wrong, Little?! You're...you're \n
+turning... 
 <$00>
 
 // Pos: 00002FA3
@@ -202,15 +177,11 @@ turning...
 
 <$10><$13><$19>
 //あーあー… 邪魔をしないで…
-No... I can't stop\n
-now...!
+No... I can't stop now...! 
 <$0C>
-//ねぇ…早く、急いで…\nでなきゃ手おくれになっちゃうよ…\n用済みにすらなれないよう…
-If I don't hurry...\n
-I'll be wiped\n
-out...before ever
-<$0C>
-serving my purpose!
+//ねぇ…早く、急いで… \nでなきゃ手おくれになっちゃうよ… \n用済みにすらなれないよう…
+If I don't hurry... I'll be wiped \n
+out...before ever serving my purpose! 
 <$00>
 
 // Pos: 00002FE6
@@ -223,13 +194,10 @@ serving my purpose!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n何を急ぐの？\n差し支えなければ、教えてくれない？
-\n
-What are you in a\n
-hurry for? What is
-<$0C>
-your purpose? Can you\n
-tell me?
+// \n何を急ぐの？ \n差し支えなければ、教えてくれない？
+ \n
+What are you in a hurry for? What is \n
+your purpose? Can you tell me? 
 <$00>
 
 // Pos: 0000300F
@@ -239,12 +207,10 @@ tell me?
 #WHB(PTR, $00000E99)
 
 <$10><$13><$19>
-//行かなきゃならないんだ、約束の場所に。\n苦しみの底にあるんだ。
-I have to go, to the\n
-Promised Land, down\n
-at the deepest depths
-<$0C>
-of suffering.
+//行かなきゃならないんだ、約束の場所に。 \n苦しみの底にあるんだ。
+I have to go, to the Promised Land, \n
+down at the deepest depths of \n
+suffering. 
 <$00>
 
 // Pos: 00003039
@@ -257,12 +223,10 @@ of suffering.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n約束の場所？\n誰と約束したの、ガリルとなの？
-\n
-The Promised Land?\n
-Who told you to go
-<$0C>
-there? Was it Galil?
+// \n約束の場所？ \n誰と約束したの、ガリルとなの？
+ \n
+The Promised Land? Who told you to go \n
+there? Was it Galil? 
 <$00>
 
 // Pos: 00003063
@@ -272,25 +236,19 @@ there? Was it Galil?
 #WHB(PTR, $00000EE5)
 
 <$10><$13><$19>
-//この星とだよ、たぶん。 僕の心は\nこの星の深いところにつながってるんだ。
-Perhaps it was Mars\n
-itself. My mind is\n
-connected to the
+//この星とだよ、たぶん。 僕の心は \nこの星の深いところにつながってるんだ。
+Perhaps it was Mars itself. My mind is \n
+connected to the innermost part of \n
+this planet. 
 <$0C>
-innermost part of\n
-this planet.
+//そしてリトルがころびそうなとき、 \nつっかえ棒をしてる。
+When Little starts to tumble, I am his \n
+rock. 
 <$0C>
-//そしてリトルがころびそうなとき、\nつっかえ棒をしてる。
-When Little starts to\n
-tumble, I am his rock.
-<$0C>
-//僕はリバーだよ、\nリトルにとって人生の相棒なんだよ。
-I am Liever, the\n
-other pair of\n
-footprints in the
-<$0C>
-sands of Little's\n
-lifelong journey.
+//僕はリバーだよ、 \nリトルにとって人生の相棒なんだよ。
+I am Liever, the other pair of \n
+footprints in the sands of Little's \n
+lifelong journey. 
 <$00>
 
 // Pos: 000030CC
@@ -300,17 +258,13 @@ lifelong journey.
 #WHB(PTR, $00000F29)
 
 <$10><$13><$19>
-//この人も知ってるよ、約束の場所のこと。\nそこに行けば僕は用済みになれるんだ。
-This person knows\n
-about the Promised\n
-Land too. If we go, I
-<$0C>
-will be able to serve\n
-my purpose.
+//この人も知ってるよ、約束の場所のこと。 \nそこに行けば僕は用済みになれるんだ。
+This person knows about the Promised \n
+Land too. If we go, I will be able to serve \n
+my purpose. 
 <$0C>
 //やっとね、ちゃんとね。
-Finally, finally,\n
-finally...
+Finally, finally, finally... 
 <$00>
 
 // Pos: 0000310B
@@ -323,39 +277,30 @@ finally...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nそう… 星と意志を交わしたのね。\nそして記憶を与えられたのね。
-\n
-I see. You have\n
-crossed paths with
+// \nそう… 星と意志を交わしたのね。 \nそして記憶を与えられたのね。
+ \n
+I see. You have crossed paths with the \n
+planet, and in return, the planet
 <$0C>
-the planet, and in\n
-return, the planet\n
-granted you
-<$0C>
-recollection.
+granted you recollection. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n双子が生き埋めにされたのは\nずいぶん昔のことよ… それなのに…
-\n
-It's been a long time\n
-since all of those
-<$0C>
-twins were buried\n
-alive, and now...
+// \n双子が生き埋めにされたのは \nずいぶん昔のことよ… それなのに…
+ \n
+It's been a long time since all of those \n
+twins were buried alive, and now... 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nリトルは罪の意識に\nつぶされそうになっているのね。
-\n
-Little realizes he\n
-that, despite this,
+// \nリトルは罪の意識に \nつぶされそうになっているのね。
+ \n
+Little realizes he that, despite this, he \n
+is about to be crushed by the weight of
 <$0C>
-he is about to be\n
-crushed by the weight\n
-of that sin.
+that sin. 
 <$00>
 
 // Pos: 00003196
@@ -365,45 +310,34 @@ of that sin.
 #WHB(PTR, $00000FA9)
 
 <$10><$13><$19>
-//僕は見たよ、ぼんやりとだけど。 リトルが\n双子たちに靴下を配るのを。 ぼんやりと。
-I saw it only\n
-vaguely. It was a\n
-hazy image, but
+//僕は見たよ、ぼんやりとだけど。 リトルが \n双子たちに靴下を配るのを。 ぼんやりと。
+I saw it only vaguely. It was a hazy \n
+image, but Little handed out stockings \n
+to various twins. 
 <$0C>
-Little handed out\n
-stockings to various\n
-twins.
-<$0C>
-//あああ、もう行くんだ、でなきゃリトルが\nなくなってしまう。そうなるとこの僕も…
-I have to go to the\n
-Promised Land. If I\n
-don't, Little will be
-<$0C>
-wiped out, and I\n
-shall follow.
+//あああ、もう行くんだ、でなきゃリトルが \nなくなってしまう。そうなるとこの僕も…
+I have to go to the Promised Land. If I \n
+don't, Little will be wiped out, and I \n
+shall follow. 
 <$00><$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nリバーね…\nライカが呼ばれてるって、どういうことなの？
-\n
-Liever, you seem to\n
-suggest that someone
-<$0C>
-is calling out to\n
-Laika.
+// \nリバーね… \nライカが呼ばれてるって、どういうことなの？
+ \n
+Liever, you seem to suggest that \n
+someone is calling out to Laika. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n誰に呼ばれてるの？
-\n
-Who is calling them?
+// \n誰に呼ばれてるの？
+ \n
+Who is calling them? 
 <$00><$10><$13><$19>
-//この星だよ、あああ、行くんだ！\n行くんだ行くんだ、ああ、あーあー…
-It's the planet.\n
-It's...oh! I'm going\n
-again, I'm...owwe...!
+//この星だよ、あああ、行くんだ！ \n行くんだ行くんだ、ああ、あーあー…
+It's the planet. It's...oh! I'm going \n
+again, I'm...owwe...! 
 <$00>
 
 // Pos: 0000325C
@@ -416,12 +350,10 @@ again, I'm...owwe...!
 //リトル：
 Little:
 <$0D>
-//\n取れた…取れたぞ、何かが取れた。
-\n
-I...spaced out.\n
-Somethin' made me
-<$0C>
-space out.
+// \n取れた…取れたぞ、何かが取れた。
+ \n
+I...spaced out. Somethin' made me \n
+space out. 
 <$00>
 
 // Pos: 00003278
@@ -434,33 +366,25 @@ space out.
 //リトル：
 Little:
 <$0D>
-//\n押したか？ あんた俺の頭の中を押しただろ。\nそれで取れたんだ、そうだそうだ…
-\n
-Oi, what'd you do,\n
-hit me on the head?
-<$0C>
-Yeah, yeah. THAT'S\n
-why I spaced out.
+// \n押したか？ あんた俺の頭の中を押しただろ。 \nそれで取れたんだ、そうだそうだ…
+ \n
+Oi, what'd you do, hit me on the head? \n
+Yeah, yeah. THAT'S why I spaced out. 
 <$00><$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nこの星は思ったよりひどいことに\nなっているようね。
-\n
-This planet is\n
-crueler than I
-<$0C>
-thought.
+// \nこの星は思ったよりひどいことに \nなっているようね。
+ \n
+This planet is crueler than I thought. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nリトルは罪のいしきに\n今にも押しつぶされそうよ…
-\n
-Little is about to be\n
-crushed by the weight
-<$0C>
-of his sins.
+// \nリトルは罪のいしきに \n今にも押しつぶされそうよ…
+ \n
+Little is about to be crushed by the \n
+weight of his sins. 
 <$00>
 
 // Pos: 000032FB
@@ -473,29 +397,24 @@ of his sins.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nリトルだけじゃない…
-\n
-This problem isn't\n
-just Little.
+// \nリトルだけじゃない…
+ \n
+This problem isn't just Little. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nここの誰もが心の中に増えてくる悪によって\nつぶされそうになっているの…
-\n
-Everyone here is\n
-about to be crushed
-<$0C>
-by the evil swelling\n
-in their minds.
+// \nここの誰もが心の中に増えてくる悪によって \nつぶされそうになっているの…
+ \n
+Everyone here is about to be crushed \n
+by the evil swelling in their minds. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nそれがガリルのねらいなのよ。
-\n
-That was Galil's goal\n
-all along.
+// \nそれがガリルのねらいなのよ。
+ \n
+That was Galil's goal all along. 
 <$00>
 
 // Pos: 0000335F
@@ -508,38 +427,32 @@ all along.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n心に闇を残していてはいけないわ。\nもっと自分を知らなきゃ。そうよね？
-\n
-Don't leave the\n
-darkness to settle in
+// \n心に闇を残していてはいけないわ。 \nもっと自分を知らなきゃ。そうよね？
+ \n
+Don't leave the darkness to settle in \n
+your mind. You have to uncover more
 <$0C>
-your mind. You have\n
-to uncover more about\n
-yourself.
+about yourself. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n心のありのままを見つける旅をするの。\nそして気づきを得るの。
-\n
-Go on a journey to\n
-shed light on the
+// \n心のありのままを見つける旅をするの。 \nそして気づきを得るの。
+ \n
+Go on a journey to shed light on the \n
+truth of your own mind, and you will
 <$0C>
-truth of your own\n
-mind, and you will\n
-realize.
+realize. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nそれでこの星の使者になれるのよ。
-\n
-That realization you\n
-have then will be key
+// \nそれでこの星の使者になれるのよ。
+ \n
+That realization you have then will be \n
+key to you becoming a messenger of
 <$0C>
-to you becoming a\n
-messenger of this\n
-planet.
+this planet. 
 <$00>
 
 // Pos: 000033DF
@@ -552,63 +465,51 @@ planet.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nライカ、あなたの心にも\nぽっかりと穴が開いているのが分かるわ。
-\n
-Laika, we both know\n
-there is a gap inside
-<$0C>
-of your mind.
+// \nライカ、あなたの心にも \nぽっかりと穴が開いているのが分かるわ。
+ \n
+Laika, we both know there is a gap \n
+inside of your mind. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n黒い穴よ… 何も見えないわ。
-\n
-It is a black hole,\n
-where I can't see
-<$0C>
-anything at all.
+// \n黒い穴よ… 何も見えないわ。
+ \n
+It is a black hole, where I can't see \n
+anything at all. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nあなた次第で、\nその穴を埋めることができるのよ。
-\n
-The possibility of\n
-ever filling that
-<$0C>
-hole depends entirely\n
-on you.
+// \nあなた次第で、 \nその穴を埋めることができるのよ。
+ \n
+The possibility of ever filling that hole \n
+depends entirely on you. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n恐がることはないわ、心に向き合うの。
-\n
-Do not be afraid to\n
-face your own mind.
+// \n恐がることはないわ、心に向き合うの。
+ \n
+Do not be afraid to face your own mind. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\n心の奥にしまい込んだ\n小さな声に耳をかたむけるのよ。
-\n
-Listen to the little\n
-voices laced deep in
-<$0C>
-your mind.
+// \n心の奥にしまい込んだ \n小さな声に耳をかたむけるのよ。
+ \n
+Listen to the little voices laced deep in \n
+your mind. 
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-//\nあら… フェイの口グセね、これは。
-\n
-Oh, dear... Now I'm\n
-starting to sound
-<$0C>
+// \nあら… フェイの口グセね、これは。
+ \n
+Oh, dear... Now I'm starting to sound \n
 like Feng, aren't I.
 <$1E>
 //鋭
-鋭
+鋭 
 <$00>
 

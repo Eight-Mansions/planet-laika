@@ -15,21 +15,19 @@
 //クロウ：
 Crow:
 <$0D>
-//\nやったよ、兄さん、\nあいつらの夢をうばってやったよ。
-\n
-I did it, Bro! I took\n
-all their dreams!
+// \nやったよ、兄さん、 \nあいつらの夢をうばってやったよ。
+ \n
+I did it, Bro! I took all their dreams! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\n死んだ猫みたいに眠ってね。\n俺は寝付きがいいんだ。
-\n
-They're all sleeping\n
-like dead cats, huh.
+// \n死んだ猫みたいに眠ってね。 \n俺は寝付きがいいんだ。
+ \n
+They're all sleeping like dead cats, huh. \n
+Speaking of, I could use a nap myself,
 <$0C>
-Speaking of, I could\n
-use a nap myself, kek!
+kek! 
 <$00>
 
 // Pos: 00001444
@@ -42,44 +40,37 @@ use a nap myself, kek!
 //クロウ：
 Crow:
 <$0D>
-//\nあはは、ここじゃ俺が一番。\nそうだろ、俺だろ！
-\n
-Kekeke, I'm the top\n
-dog here! That's
-<$0C>
-right! Me!
+// \nあはは、ここじゃ俺が一番。 \nそうだろ、俺だろ！
+ \n
+Kekeke, I'm the top dog here! That's \n
+right! Me! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nははっ、俺をさんざんバカにしやがって！
-\n
-And they were calling\n
-ME the whack-job?!
+// \nははっ、俺をさんざんバカにしやがって！
+ \n
+And they were calling ME the \n
+whack-job?! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\nもうえらそうなことは言わさない、\nヘロデのやつもおびえきってたぞ。
-\n
-Bet they won't talk\n
-like that anymore.
-<$0C>
-Even old Herod was\n
-shakin' in his boots!
+// \nもうえらそうなことは言わさない、 \nヘロデのやつもおびえきってたぞ。
+ \n
+Bet they won't talk like that anymore. \n
+Even old Herod was shakin' in his boots! 
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-//\n楽しいな、おびえてたぞ、楽しいな！
-\n
-Isn't it great?\n
-They're all so
-<$0C>
-scared, I love it!
+// \n楽しいな、おびえてたぞ、楽しいな！
+ \n
+Isn't it great? They're all so scared, I \n
+love it!
 <$1E>
 //理
-理
+理 
 <$00>
 
 // Pos: 000014C8
@@ -92,31 +83,25 @@ scared, I love it!
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-//\n誰かがいる…この世界に。
-\n
-Someone is here in\n
-this world.
+// \n誰かがいる…この世界に。
+ \n
+Someone is here in this world. 
 <$0C><$0B>
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-//\nおびえた心が悪夢をさまよい、\n私をくもらせている…
-\n
-A frightened mind\n
-wanders the
-<$0C>
-nightmares, clouding\n
-me.
+// \nおびえた心が悪夢をさまよい、 \n私をくもらせている…
+ \n
+A frightened mind wanders the \n
+nightmares, clouding me. 
 <$0C><$0B>
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-//\nああ、言葉が届かない…\n死への道が開かない…
-\n
-Ah, my words won't\n
-reach. The road to
-<$0C>
-Death won't open.
+// \nああ、言葉が届かない… \n死への道が開かない…
+ \n
+Ah, my words won't reach. The road to \n
+Death won't open. 
 <$00>
 
 // Pos: 00001540
@@ -127,47 +112,41 @@ Death won't open.
 
 <$10><$18>
 //王６
-王６
+王６ 
 <$00><$00><$00><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-//\n何だと？ 死への道？ 俺は死んじゃいねぇ、\n巻きぞえにするな、おい！
-\n
-What is this, the\n
-road to death? But
-<$0C>
-I'm not dead! This is\n
-wrong! Hey!
+// \n何だと？ 死への道？ 俺は死んじゃいねぇ、 \n巻きぞえにするな、おい！
+ \n
+What is this, the road to death? But I'm \n
+not dead! This is wrong! Hey!
 <$1A>
 //ろ
-ろ
+ろ 
 <$00><$00><$00><$18>
 //炎ー
-炎ー
+炎ー 
 <$00><$00><$00><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-//\nユニバーサルマン…\nここは死の世界に通じているのか！
-\n
-Universal Man... This\n
-is the way he took to
-<$0C>
-the Land of the Dead!
+// \nユニバーサルマン… \nここは死の世界に通じているのか！
+ \n
+Universal Man... This is the way he took \n
+to the Land of the Dead!
 <$1A>
-//：
+//： 
 <$00><$00><$00><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-//\nあああ、いや！ 死への道だなんて！\n帰して、元の場所に。ねぇ！
-\n
-No, no, NO! This\n
-can't be the path to
+// \nあああ、いや！ 死への道だなんて！ \n帰して、元の場所に。ねぇ！
+ \n
+No, no, NO! This can't be the path to \n
+death! Take me back to where I came
 <$0C>
-death! Take me back\n
-to where I came from!
+from! 
 <$00>
 
 // Pos: 000015E3
@@ -180,9 +159,9 @@ to where I came from!
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-//\nおびえの元を取り除け。
-\n
-Remove the source of\n
-the clouding fear.
+// \nおびえの元を取り除け。
+ \n
+Remove the source of the clouding \n
+fear. 
 <$00>
 

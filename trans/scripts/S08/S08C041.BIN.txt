@@ -15,25 +15,20 @@
 //リトル：
 Little:
 <$0D>
-//\n何だ、火星人のトンネルだ、くそっ。\nまただ？
-\n
-Where am I, the\n
-Martian tunnels
+// \n何だ、火星人のトンネルだ、くそっ。 \nまただ？
+ \n
+Where am I, the Martian tunnels \n
+again? Goddammit, how'd I get here
 <$0C>
-again? Goddammit,\n
-how'd I get here this\n
-time?
+this time? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nええ？ …それで…お前は何してるんだ、\nこんなところで？ 俺を連れてきたのか…
-\n
-Oi, what are you\n
-doin' in a place like
-<$0C>
-this?! Did YOU drag\n
-me here?
+// \nええ？ …それで…お前は何してるんだ、 \nこんなところで？ 俺を連れてきたのか…
+ \n
+Oi, what are you doin' in a place like \n
+this?! Did YOU drag me here? 
 <$00>
 
 // Pos: 000028AE
@@ -46,21 +41,17 @@ me here?
 //リトル：
 Little:
 <$0D>
-//\nあいつだ、やつのせいに建いない。
-\n
-Hmph, this must be\n
-his handiwork.
+// \nあいつだ、やつのせいに建いない。
+ \n
+Hmph, this must be his handiwork. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nこのトンネルは…そうだ、\nやつの神様がいる場所につながってるんだ。
-\n
-But this\n
-tunnel...right. This
-<$0C>
-tunnel leads to his\n
-precious little "God".
+// \nこのトンネルは…そうだ、 \nやつの神様がいる場所につながってるんだ。
+ \n
+But this tunnel...right. This tunnel \n
+leads to his precious little "God". 
 <$00>
 
 // Pos: 000028F5
@@ -73,37 +64,30 @@ precious little "God".
 //リトル：
 Little:
 <$0D>
-//\n何が神様だ、あれはイーブルマインドのカス\nみたいなもんだ。\nあれが神様だと…笑わせやがる。
-\n
-What is God, if not a\n
-disgustin' mass of
-<$0C>
-Evil Mind? Please,\n
-don't make me laugh!
+// \n何が神様だ、あれはイーブルマインドのカス \nみたいなもんだ。 \nあれが神様だと…笑わせやがる。
+ \n
+What is God, if not a disgustin' mass of \n
+Evil Mind? Please, don't make me laugh! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺をおとしいれようっていうんだ。\n俺は何もしちゃいねぇ、そうだろ、悪夢の世界は\nヘロデが作り出したんだ、俺じゃない！
-\n
-HE tricked you, not\n
-me! HEROD created the
+// \n俺をおとしいれようっていうんだ。 \n俺は何もしちゃいねぇ、そうだろ、悪夢の世界は \nヘロデが作り出したんだ、俺じゃない！
+ \n
+HE tricked you, not me! HEROD created \n
+the Land of Nightmares, not me! I
 <$0C>
-Land of Nightmares,\n
-not me! I never did\n
-anythin'!
+never did anythin'! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nちくしょう、帰るぞ、\nどっちだ、帰り道は…こっちか？
-\n
-Oi, forget this. I'm\n
-gettin' out of here!
+// \nちくしょう、帰るぞ、 \nどっちだ、帰り道は…こっちか？
+ \n
+Oi, forget this. I'm gettin' out of here! \n
+Now, which way's the exit...? Is it over
 <$0C>
-Now, which way's the\n
-exit...? Is it over\n
-here?
+here? 
 <$00>
 
 // Pos: 0000299C
@@ -116,74 +100,59 @@ here?
 //リトル：
 Little:
 <$0D>
-//\n俺はヘロデみたいにはならない、\nなるもんか、ぜったいにな。
-\n
-I'm nothin' like\n
-Herod, get it? And I
-<$0C>
-won't be. Not now,\n
-not ever!
+// \n俺はヘロデみたいにはならない、 \nなるもんか、ぜったいにな。
+ \n
+I'm nothin' like Herod, get it? And I \n
+won't be. Not now, not ever! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n何が来ようと俺は大丈夫だ、くそったれ！
-\n
-I've got nothing to\n
-answer for, get it?!
+// \n何が来ようと俺は大丈夫だ、くそったれ！
+ \n
+I've got nothing to answer for, get it?! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n何が蕃判だ、インチキだ、\nそうだそうだ、インチキだ。
-\n
-This is some kind of\n
-scam. Yeah, it's all
-<$0C>
-bogus!
+// \n何が蕃判だ、インチキだ、 \nそうだそうだ、インチキだ。
+ \n
+This is some kind of scam. Yeah, it's all \n
+bogus! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nびびってんのか、お前？\nあんなたわごと、信じてんのか？
-\n
-Is it really freakin'\n
-you out that bad? Are
-<$0C>
-you really fallin'\n
-for this?!
+// \nびびってんのか、お前？ \nあんなたわごと、信じてんのか？
+ \n
+Is it really freakin' you out that bad? \n
+Are you really fallin' for this?! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n蕃判なんて…ガリルの寝言に過ぎない、\nばかばかしい！
-\n
-Galil's talkin' out\n
-of his ass. Don't be
-<$0C>
-so stupid as to fall\n
-for it.
+// \n蕃判なんて…ガリルの寝言に過ぎない、 \nばかばかしい！
+ \n
+Galil's talkin' out of his ass. Don't be so \n
+stupid as to fall for it. 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nやつのせいで、やつの… あああああ、\n俺は何もしちゃいねぇ、そうだろ。
-\n
-See, this must be his\n
-handiwork. HE tricked
-<$0C>
-you, not me!
+// \nやつのせいで、やつの… あああああ、 \n俺は何もしちゃいねぇ、そうだろ。
+ \n
+See, this must be his handiwork. HE \n
+tricked you, not me! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n悪夢の世界はヘロデが作り出したんだ、\n俺じゃない！
-\n
-HEROD created the\n
-Land of Nightmares,
+// \n悪夢の世界はヘロデが作り出したんだ、 \n俺じゃない！
+ \n
+HEROD created the Land of \n
+Nightmares, not me! I never did
 <$0C>
-not me! I never did\n
-anythin'!
+anythin'! 
 <$00>
 
 // Pos: 00002AA0
@@ -193,15 +162,13 @@ anythin'!
 #WHB(PTR, $0000063D)
 
 <$12><$13><$19>
-//うううう、\n双子たちにに捕まってしまうよう…
-Please, no... The\n
-twins are getting\n
-closer...
+//うううう、 \n双子たちにに捕まってしまうよう…
+Please, no... The twins are getting \n
+closer... 
 <$0C>
-//早くしないと、追いかけてくる…\nそんなの嫌だよう、僕は、僕は…
-If I don't hurry,\n
-they're going to\n
-catch me.
+//早くしないと、追いかけてくる… \nそんなの嫌だよう、僕は、僕は…
+If I don't hurry, they're going to catch \n
+me. 
 <$00>
 
 // Pos: 00002AE2
@@ -214,10 +181,9 @@ catch me.
 //リトル：
 Little:
 <$0D>
-//\nくそったれ！ またか、\nまた、これか、ちくしょう！
-\n
-Ugh, that again... I\n
-hate it, I HATE IT!
+// \nくそったれ！ またか、 \nまた、これか、ちくしょう！
+ \n
+Ugh, that again... I hate it, I HATE IT! 
 <$00>
 
 // Pos: 00002B04
@@ -230,24 +196,20 @@ hate it, I HATE IT!
 //リトル：
 Little:
 <$0D>
-//\n何だ、火星人のトンネルだ、\nくそっ。またか？ええ？
-\n
-Where am I, the\n
-Martian tunnels
+// \n何だ、火星人のトンネルだ、 \nくそっ。またか？ええ？
+ \n
+Where am I, the Martian tunnels \n
+again? Goddammit, how'd I get here
 <$0C>
-again? Goddammit,\n
-how'd I get here this\n
-time? Oi...
+this time? Oi... 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nそれで…お前は何してるんだ、\nこんなところで？ 俺を連れてきたのか…
-\n
-What are you doin' in\n
-a place like this?!
-<$0C>
-Did YOU drag me here?
+// \nそれで…お前は何してるんだ、 \nこんなところで？ 俺を連れてきたのか…
+ \n
+What are you doin' in a place like this?! \n
+Did YOU drag me here? 
 <$00>
 
 // Pos: 00002B53
@@ -260,14 +222,12 @@ Did YOU drag me here?
 //スペーサー：
 Spacer:
 <$0D>
-//\nマーズメタル…初めてだ。\n本物だ、火星人が残したものだ。
-\n
-Is this...Martian\n
-metal? First time
+// \nマーズメタル…初めてだ。 \n本物だ、火星人が残したものだ。
+ \n
+Is this...Martian metal? First time \n
+seeing it. So, it's real? The Martians
 <$0C>
-seeing it. So, it's\n
-real? The Martians\n
-really left it?
+really left it? 
 <$00>
 
 // Pos: 00002B82
@@ -280,27 +240,25 @@ really left it?
 //リトル：
 Little:
 <$0D>
-//\n何をのんきなこと言ってやがる。\nくそっ、まただ、ええ？
-\n
-Why are you strayin'\n
-off-topic huh? Who
+// \n何をのんきなこと言ってやがる。 \nくそっ、まただ、ええ？
+ \n
+Why are you strayin' off-topic huh? \n
+Who cares about what's on the damned
 <$0C>
-cares about what's on\n
-the damned walls?!
+walls?! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nそれで…お前は何してるんだ、\nこんなところで？
-So tell me,\n
-goddammit! How'd I\n
-get here this time?
+// \nそれで…お前は何してるんだ、 \nこんなところで？
+So tell me, goddammit! How'd I \n
+get here this time? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n俺を連れてきたのか？
-Did YOU drag me here?
+// \n俺を連れてきたのか？
+Did YOU drag me here? 
 <$00>
 
 // Pos: 00002BD8
@@ -313,13 +271,10 @@ Did YOU drag me here?
 //スペーサー：
 Spacer:
 <$0D>
-//\nたのまれたんだ、一緒に来てくれと。\n君に…ああ、建う…リバーにだ。
-\n
-You invited me here!\n
-We came... Oh, hold
-<$0C>
-on! I get it, you're\n
-not Liever!
+// \nたのまれたんだ、一緒に来てくれと。 \n君に…ああ、建う…リバーにだ。
+ \n
+You invited me here! We came... Oh, \n
+hold on! I get it, you're not Liever! 
 <$00>
 
 // Pos: 00002C0A
@@ -332,13 +287,10 @@ not Liever!
 //リトル：
 Little:
 <$0D>
-//\nははん、やっぱりだ、あいつだ、建いない。\nここは… そうだ、やつの神様がいる場所に\nつながってるんだ。
-\n
-Hah, I get it now. Of\n
-course it was him!
-<$0C>
-This...yes, this is\n
-where his "God" is.
+// \nははん、やっぱりだ、あいつだ、建いない。 \nここは… そうだ、やつの神様がいる場所に \nつながってるんだ。
+ \n
+Hah, I get it now. Of course it was him! \n
+This...yes, this is where his "God" is. 
 <$00>
 
 // Pos: 00002C4B
@@ -351,13 +303,10 @@ where his "God" is.
 //スペーサー：
 Spacer:
 <$0D>
-//\nそ、そうだ、神様だ。\n神様に眼を入れるという。\nしかし…君では無理なのではないか。
-\n
-R-right. God. Liever\n
-said we'd meet God
-<$0C>
-here... That wasn't a\n
-prank, was it?
+// \nそ、そうだ、神様だ。 \n神様に眼を入れるという。 \nしかし…君では無理なのではないか。
+ \n
+R-right. God. Liever said we'd meet God \n
+here... That wasn't a prank, was it? 
 <$00>
 
 // Pos: 00002C89
@@ -370,43 +319,37 @@ prank, was it?
 //リトル：
 Little:
 <$0D>
-//\n何が神様だ、あれはイーブルマインドの\nカスみたいなもんだ。
-\n
-What is God, if not a\n
-disgustin' mass of
-<$0C>
-Evil Mind?
+// \n何が神様だ、あれはイーブルマインドの \nカスみたいなもんだ。
+ \n
+What is God, if not a disgustin' mass of \n
+Evil Mind? 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nあれが神様だと…笑わせやがる。\n俺をおとしいれようっていうんだ。\n俺は何もしちゃいねぇ、そうだろ、
-Please, don't\n
-make me laugh! HE\n
-tricked you, not me!
+// \nあれが神様だと…笑わせやがる。 \n俺をおとしいれようっていうんだ。 \n俺は何もしちゃいねぇ、そうだろ、
+Please, don't make me laugh! HE \n
+tricked you, not me! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\n悪夢の世界はヘロデが作り出したんだ、\n俺じゃない！
-\n
-HEROD created the\n
-Land of Nightmares,
+// \n悪夢の世界はヘロデが作り出したんだ、 \n俺じゃない！
+ \n
+HEROD created the Land of \n
+Nightmares, not me! I never did
 <$0C>
-not me! I never did\n
-anythin'!
+anythin'! 
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-//\nちくしょう、帰るぞ、どっちだ、帰り道は…\nこっちか？
-\n
-Oi, forget this. I'm\n
-gettin' out of here!
+// \nちくしょう、帰るぞ、どっちだ、帰り道は… \nこっちか？
+ \n
+Oi, forget this. I'm gettin' out of here! \n
+Now, which way's the exit...? Is it over
 <$0C>
-Now, which way's the\n
-exit...? Is it over\n
-here?
+here? 
 <$00>
 
 // Pos: 00002D38
@@ -415,13 +358,12 @@ here?
 
 #WHB(PTR, $000000E9)
 
-
+ 
 <$12><$1F><$00>
 //場
 場
 <$0E><$3D>
 //た…砂嵐の中に…
-He disappeared into\n
-the sandstorm.
+He disappeared into the sandstorm. 
 <$00>
 
