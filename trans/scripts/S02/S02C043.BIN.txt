@@ -11,11 +11,11 @@
 
 #WHB(PTR, $00000291)
 
- 
+
 <$00>
-//えへへへ、びっくりしてる… \nねぇ、そうなんだろ？
-Hyohyo, you look started! \n
-I don't blame you. 
+//えへへへ、びっくりしてる…\nねぇ、そうなんだろ？
+Hyohyo, you look started!\n
+I don't blame you.
 <$00>
 
 // Pos: 00000FDB
@@ -24,14 +24,14 @@ I don't blame you.
 
 #WHB(PTR, $00000635)
 
- 
+
 <$00>
-//オーラだよ、あんたは惑応してるんだ。 \n火星の人間はみんなこうだよ、 \nあんたを惑応させるよ。
-That aura is a sensory response that all \n
-humans on Mars feel. Humans \n
+//オーラだよ、あんたは惑応してるんだ。\n火星の人間はみんなこうだよ、\nあんたを惑応させるよ。
+That aura is a sensory response that all\n
+humans on Mars feel. Humans\n
 stimulate, and you change.
 <$1E>
 //炎
-炎 
+炎
 <$00>
 

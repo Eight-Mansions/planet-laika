@@ -15,21 +15,21 @@
 //ブーマー：
 Boomer:
 <$0D>
-// \n悪いな…顔貸してくれ。
- \n
-Ohhh, forgive me... We need only a \n
-moment of your time. 
+//\n悪いな…顔貸してくれ。
+\n
+Ohhh, forgive me... We need only a\n
+moment of your time.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-// \n広場でスモーキーが待ってるんだ、来てくれ。 \n広場だ。
- \n
-Ahhh, come. Smokey is waiting for you \n
+//\n広場でスモーキーが待ってるんだ、来てくれ。\n広場だ。
+\n
+Ahhh, come. Smokey is waiting for you\n
 in the plaza.
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00001E59
@@ -42,10 +42,10 @@ in the plaza.
 //フェイ：
 Feng:
 <$0D>
-// \nあら…何してるの、こんなところで？ \nもう地球に帰るの？
- \n
-And what are you doing out here? \n
-Returning to Earth already? 
+//\nあら…何してるの、こんなところで？\nもう地球に帰るの？
+\n
+And what are you doing out here?\n
+Returning to Earth already?
 <$00>
 
 // Pos: 00001E80
@@ -58,40 +58,40 @@ Returning to Earth already?
 //フェイ：
 Feng:
 <$0D>
-// \nねぇ、アガタには気を付けてね。 \nあの人、きっと邪悪な心の持ち主よ。
- \n
-Listen. Be wary around Agatha. She \n
-clearly possesses a wicked mind. 
+//\nねぇ、アガタには気を付けてね。\nあの人、きっと邪悪な心の持ち主よ。
+\n
+Listen. Be wary around Agatha. She\n
+clearly possesses a wicked mind.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n私、思うの。
- \n
-At least, I'd say so. 
+//\n私、思うの。
+\n
+At least, I'd say so.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nときどき自分がどこにいるのか \n分からなくなることがあって、それはきまって \nアガタに会った後なのよ。
- \n
-Sometimes, I wonder where my "self" \n
+//\nときどき自分がどこにいるのか\n分からなくなることがあって、それはきまって\nアガタに会った後なのよ。
+\n
+Sometimes, I wonder where my "self"\n
 is, but that only started once I met
 <$0C>
-Agatha. 
+Agatha.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nおかしいと思うでしょ？ねぇそう思う？
- \n
-I'm sure that sounds silly. Do you find \n
+//\nおかしいと思うでしょ？ねぇそう思う？
+\n
+I'm sure that sounds silly. Do you find\n
 that silly?
 <$1B>
-//、おかしい \nおかしくない
+//、おかしい\nおかしくない
 、Yes
 <$0C>
-No 
+No
 <$00><$17><$00>
 
 // Pos: 00001F25
@@ -104,15 +104,15 @@ No
 //フェイ：
 Feng:
 <$0D>
-// \nそうよね。きっと私の心をアガタが… \nああ彼女が私の心を乗っ取ろうとしているのよ。 \n気分がすぐれないわ…眠れそうもないわ。
- \n
-Of course. I can't shake the feeling \n
+//\nそうよね。きっと私の心をアガタが…\nああ彼女が私の心を乗っ取ろうとしているのよ。\n気分がすぐれないわ…眠れそうもないわ。
+\n
+Of course. I can't shake the feeling\n
 Agatha's out to hijack my mind. I'm so
 <$0C>
 worried, I can hardly sleep.
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00001F74
@@ -125,25 +125,25 @@ worried, I can hardly sleep.
 //フェイ：
 Feng:
 <$0D>
-// \n本当にそう思うの？…私はね、アガタが私の心を \n乗っ取るんじゃないかって、それが心配なの。
- \n
-You really think so? Then maybe \n
+//\n本当にそう思うの？…私はね、アガタが私の心を\n乗っ取るんじゃないかって、それが心配なの。
+\n
+You really think so? Then maybe\n
 Agatha does have it in her to hijack my
 <$0C>
-mind. 
+mind.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nヘロデを支配している催眠術なら、 \nなんでもできるのよ。 \nああ、いやな気分よ…まだ眠れそうもないわ。
- \n
-If she can control Herod through \n
+//\nヘロデを支配している催眠術なら、\nなんでもできるのよ。\nああ、いやな気分よ…まだ眠れそうもないわ。
+\n
+If she can control Herod through\n
 hypnotherapy, she can do anything!
 <$0C>
 How scary!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00001FF3
@@ -156,13 +156,13 @@ How scary!
 //フェイ：
 Feng:
 <$0D>
-// \nマダム・アガタはまた催眠術の最中よ。 \nこりないのよ…ほんとに…
- \n
-Agatha is so deep into hypnotherapy, I \n
+//\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
+\n
+Agatha is so deep into hypnotherapy, I\n
 wouldn't dream of stopping her!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00002023
@@ -175,9 +175,9 @@ wouldn't dream of stopping her!
 //フェイ：
 Feng:
 <$0D>
-// \nあら、あなたも眠れないの？
- \n
-Oh, dear. You can't sleep either? 
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't sleep either?
 <$00>
 
 // Pos: 0000203A
@@ -190,18 +190,18 @@ Oh, dear. You can't sleep either?
 //アーネスト：
 Ernest:
 <$0D>
-// \nあんたに開きたいことがあるんだ… \n鏡だ、鏡のことだ。
- \n
-Does that matter? The people here \n
-just seem easily spooked by mirrors. 
+//\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
+\n
+Does that matter? The people here\n
+just seem easily spooked by mirrors.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nなんてったっけ、みんなが消える鏡… \n何のことだ？
- \n
-That talk about people vanishing into \n
-mirrors... What's that about? 
+//\nなんてったっけ、みんなが消える鏡…\n何のことだ？
+\n
+That talk about people vanishing into\n
+mirrors... What's that about?
 <$00>
 
 // Pos: 00002088
@@ -214,10 +214,10 @@ mirrors... What's that about?
 //フェイ：
 Feng:
 <$0D>
-// \nふふふ、蕃判の鏡のことね。どこで開いたの。 \nなんだかうろ覚えのようね。
- \n
-Hoho, you've heard about the Mirror of \n
-Judgement. From where, pray tell? 
+//\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
+\n
+Hoho, you've heard about the Mirror of\n
+Judgement. From where, pray tell?
 <$00>
 
 // Pos: 000020B9
@@ -230,7 +230,7 @@ Judgement. From where, pray tell?
 //アーネスト：
 Ernest:
 <$0D>
-// \nああ、でも分かるぜ。 \nここのやつらは鏡をイヤガってる、 \nそうじゃないのか。 
+//\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
 <$00>
 
 // Pos: 000020EC
@@ -243,20 +243,20 @@ Ernest:
 //フェイ：
 Feng:
 <$0D>
-// \nそうよ。見たくないのよ。 \n鏡に自分の顔を映すと憎しみがわいてくるのよ。 \n分かったでしょ、鏡は悪をはぐくむの。
- \n
-Indeed. When we show ourselves to \n
+//\nそうよ。見たくないのよ。\n鏡に自分の顔を映すと憎しみがわいてくるのよ。\n分かったでしょ、鏡は悪をはぐくむの。
+\n
+Indeed. When we show ourselves to\n
 the mirror, our evils reflect what no
 <$0C>
-one wants to see. 
+one wants to see.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nみんなが自分の悪につぶされるの、 \nそれが蕃判よ。
- \n
-Our inner evils are what destroy us. \n
-That is Judgement. 
+//\nみんなが自分の悪につぶされるの、\nそれが蕃判よ。
+\n
+Our inner evils are what destroy us.\n
+That is Judgement.
 <$00>
 
 // Pos: 00002154
@@ -269,10 +269,10 @@ That is Judgement.
 //アーネスト：
 Ernest:
 <$0D>
-// \nへん！悪をはぐくむ鏡… \nそれをあんたが作ってるんだな。
- \n
-Heh, so mirrors cultivate evil? Is that \n
-why you made yours? 
+//\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
+\n
+Heh, so mirrors cultivate evil? Is that\n
+why you made yours?
 <$00>
 
 // Pos: 0000217E
@@ -285,10 +285,10 @@ why you made yours?
 //フェイ：
 Feng:
 <$0D>
-// \nふふふ、私はたのまれてるだけよ、 \nアマンダにね。
- \n
-Hohoho! Come now, I made it only \n
-because Amanda asked me to. 
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Hohoho! Come now, I made it only\n
+because Amanda asked me to.
 <$00>
 
 // Pos: 0000219F
@@ -301,9 +301,9 @@ because Amanda asked me to.
 //アーネスト：
 Ernest:
 <$0D>
-// \nアマンダ…誰なんだそいつは？
- \n
-Amanda, huh. And who is she? 
+//\nアマンダ…誰なんだそいつは？
+\n
+Amanda, huh. And who is she?
 <$00>
 
 // Pos: 000021BB
@@ -316,12 +316,12 @@ Amanda, huh. And who is she?
 //フェイ：
 Feng:
 <$0D>
-// \n鏡の精よ、ふふふふふふ。美の権化よ… \nいずれ私のものとなるの、ふふふ。
- \n
-A mirror spirit, and beauty incarnate. \n
+//\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
+\n
+A mirror spirit, and beauty incarnate.\n
 You can say she and I are...kindred
 <$0C>
-spirits, hoho. 
+spirits, hoho.
 <$00>
 
 // Pos: 000021EC
@@ -334,9 +334,9 @@ spirits, hoho.
 //フェイ：
 Feng:
 <$0D>
-// \nあら、あなたも眠れないの？
- \n
-Oh, dear. You can't sleep either? 
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't sleep either?
 <$00>
 
 // Pos: 00002203
@@ -349,9 +349,9 @@ Oh, dear. You can't sleep either?
 //スペーサー：
 Spacer:
 <$0D>
-// \n鏡のこと、話してくれ。
- \n
-Tell me, what's up with your mirror? 
+//\n鏡のこと、話してくれ。
+\n
+Tell me, what's up with your mirror?
 <$00>
 
 // Pos: 0000221D
@@ -364,10 +364,10 @@ Tell me, what's up with your mirror?
 //フェイ：
 Feng:
 <$0D>
-// \nふふふふふ、蕃判の鏡ね。 \n何が知りたいの？
- \n
-Hohoho, the Mirror of Judgement? \n
-What would you like to know? 
+//\nふふふふふ、蕃判の鏡ね。\n何が知りたいの？
+\n
+Hohoho, the Mirror of Judgement?\n
+What would you like to know?
 <$00>
 
 // Pos: 0000223F
@@ -380,12 +380,12 @@ What would you like to know?
 //スペーサー：
 Spacer:
 <$0D>
-// \n鏡に自分を映すとそれだけで憎しみがふくらむ、 \nそうじゃないのか。 \n鏡が悪をはぐくむんじゃないのか。建うのか。
- \n
-Looking into the mirror only seems to \n
+//\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
+\n
+Looking into the mirror only seems to\n
 stir hate. Was that mirror made to
 <$0C>
-nurture evil? 
+nurture evil?
 <$00>
 
 // Pos: 00002288
@@ -398,12 +398,12 @@ nurture evil?
 //フェイ：
 Feng:
 <$0D>
-// \nあら、よく知ってるわね。 \n誰もが自分の中にふくらんでくる \n悪につぶされるの、それが蕃判なのよ。
- \n
-My, my! So, you do know. Indeed, when \n
+//\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
+\n
+My, my! So, you do know. Indeed, when\n
 we let our inner evils destroy the
 <$0C>
-outer, we find Judgement. 
+outer, we find Judgement.
 <$00>
 
 // Pos: 000022C6
@@ -416,10 +416,10 @@ outer, we find Judgement.
 //スペーサー：
 Spacer:
 <$0D>
-// \nフェイ、なぜあなたがそんな鏡を作る？ \nなぜだ。
- \n
-But Feng, why would you make a mirror \n
-capable of doing that? 
+//\nフェイ、なぜあなたがそんな鏡を作る？\nなぜだ。
+\n
+But Feng, why would you make a mirror\n
+capable of doing that?
 <$00>
 
 // Pos: 000022EC
@@ -432,10 +432,10 @@ capable of doing that?
 //フェイ：
 Feng:
 <$0D>
-// \nふふふ、私はたのまれてるだけよ、 \nアマンダにね。
- \n
-Hohoho! Come now, I made it only \n
-because Amanda asked me to. 
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Hohoho! Come now, I made it only\n
+because Amanda asked me to.
 <$00>
 
 // Pos: 0000230D
@@ -448,10 +448,10 @@ because Amanda asked me to.
 //スペーサー：
 Spacer:
 <$0D>
-// \nアマンダ…またしてもこの名前…誰なんだ？
- \n
-Amanda? That name does ring a bell. \n
-Who is she? 
+//\nアマンダ…またしてもこの名前…誰なんだ？
+\n
+Amanda? That name does ring a bell.\n
+Who is she?
 <$00>
 
 // Pos: 00002330
@@ -464,17 +464,17 @@ Who is she?
 //フェイ：
 Feng:
 <$0D>
-// \n鏡の精よ、ふふふふふふ。 \n美の権化…
- \n
-A mirror spirit, and beauty incarnate. 
+//\n鏡の精よ、ふふふふふふ。\n美の権化…
+\n
+A mirror spirit, and beauty incarnate.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nいずれ私のものとなるの、ふふふ。
- \n
-You can say she and I are...kindred \n
-spirits, hoho. 
+//\nいずれ私のものとなるの、ふふふ。
+\n
+You can say she and I are...kindred\n
+spirits, hoho.
 <$00>
 
 // Pos: 00002368
@@ -487,9 +487,9 @@ spirits, hoho.
 //フェイ：
 Feng:
 <$0D>
-// \nあら、あなたも眠れないの？
- \n
-Oh, dear. You can't sleep either? 
+//\nあら、あなたも眠れないの？
+\n
+Oh, dear. You can't sleep either?
 <$00>
 
 // Pos: 0000237F
@@ -502,10 +502,10 @@ Oh, dear. You can't sleep either?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねぇ、鏡って？ \n開こえてたわよ、あんたが作ってるの？
- \n
-Maybe. Say, I heard you were making a \n
-mirror or something. 
+//\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
+\n
+Maybe. Say, I heard you were making a\n
+mirror or something.
 <$00>
 
 // Pos: 000023A8
@@ -518,12 +518,12 @@ mirror or something.
 //フェイ：
 Feng:
 <$0D>
-// \nあら、開こえてた？ \nふふふ、蕃判の鏡のことね。 \nそれはよかったわね。
- \n
-Oh, the Mirror of Judgement? So, you \n
+//\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
+\n
+Oh, the Mirror of Judgement? So, you\n
 heard. But please, don't let that scare
 <$0C>
-you. 
+you.
 <$00>
 
 // Pos: 000023D7
@@ -536,12 +536,12 @@ you.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nちょっと、はぐらかさないでよ。 \nどうせインチキ鏡なんでしょ、 \n実際よりきれいに見えたりするのよね。
- \n
-Aww, you worry to much. It's just a \n
+//\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
+\n
+Aww, you worry to much. It's just a\n
 trick mirror anyways, right? One that
 <$0C>
-makes people prettier? 
+makes people prettier?
 <$00>
 
 // Pos: 00002417
@@ -554,22 +554,22 @@ makes people prettier?
 //フェイ：
 Feng:
 <$0D>
-// \nきれいになんて見えないわ、そのままよ、 \nそれが憎しみをはぐくむの、悪を育てるの。
- \n
-...It's not for seeing beauty. It's for \n
+//\nきれいになんて見えないわ、そのままよ、\nそれが憎しみをはぐくむの、悪を育てるの。
+\n
+...It's not for seeing beauty. It's for\n
 nurturing one's hatred. Or rather,
 <$0C>
-one's inner evil. 
+one's inner evil.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nでもどうしようもないのよ。 \nみんなみんな、自分の悪につぶされる、 \nそれが蕃判よ。
- \n
-Think of it like Dorian Gray, where our \n
+//\nでもどうしようもないのよ。\nみんなみんな、自分の悪につぶされる、\nそれが蕃判よ。
+\n
+Think of it like Dorian Gray, where our\n
 inner evils are what destroy us. That is
 <$0C>
-Judgement. 
+Judgement.
 <$00>
 
 // Pos: 0000247D
@@ -582,10 +582,10 @@ Judgement.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nなんで？ なんでそんなもの、 \n作らなきゃならないの？
- \n
-What? Hang on, why would you make \n
-such a thing? 
+//\nなんで？ なんでそんなもの、\n作らなきゃならないの？
+\n
+What? Hang on, why would you make\n
+such a thing?
 <$00>
 
 // Pos: 000024A4
@@ -598,10 +598,10 @@ such a thing?
 //フェイ：
 Feng:
 <$0D>
-// \nふふふ、私はたのまれてるだけよ、 \nアマンダにね。
- \n
-Hohoho! Come now, I made it only \n
-because Amanda asked me to. 
+//\nふふふ、私はたのまれてるだけよ、\nアマンダにね。
+\n
+Hohoho! Come now, I made it only\n
+because Amanda asked me to.
 <$00>
 
 // Pos: 000024C5
@@ -614,10 +614,10 @@ because Amanda asked me to.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアマンダ！ 知ってるわよ、その名前。 \n確か…
- \n
-Amanda? I know I've heard the name, \n
-but who is she? 
+//\nアマンダ！ 知ってるわよ、その名前。\n確か…
+\n
+Amanda? I know I've heard the name,\n
+but who is she?
 <$00>
 
 // Pos: 000024EA
@@ -630,12 +630,12 @@ but who is she?
 //フェイ：
 Feng:
 <$0D>
-// \n鏡の精よ、ふふふふふふ。美の権化… \nいずれ私のものとなるの、ふふふ。
- \n
-A mirror spirit, and beauty incarnate. \n
+//\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
+\n
+A mirror spirit, and beauty incarnate.\n
 You can say she and I are...kindred
 <$0C>
-spirits, hoho. 
+spirits, hoho.
 <$00>
 
 // Pos: 0000251A
@@ -645,13 +645,13 @@ spirits, hoho.
 #WHB(PTR, $000006F5)
 
 <$12><$13>
-// ヨウコソ プリズン４ヘ。 \nミスター
- WELCOME TO PRISON! \n
-REGISTRANT NAME: \n
+// ヨウコソ プリズン４ヘ。\nミスター
+ WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
 "
 <$0F>
 //！
-" 
+"
 <$00>
 
 // Pos: 00002531
@@ -673,10 +673,10 @@ REGISTRANT NAME: \n
 #WHB(PTR, $00001B49)
 
 <$12><$13>
-// アナタハ トウロクサレテイマセン。 \nクワシクハ カンリシャニ \nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR \n
-DETAILS AND ASSISTANCE, SPEAK TO AN \n
-ADMINISTRATOR. 
+// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+ NOT REGISTERED FOR ENTRY. FOR\n
+DETAILS AND ASSISTANCE, SPEAK TO AN\n
+ADMINISTRATOR.
 <$00>
 
 // Pos: 0000255D
@@ -698,8 +698,8 @@ ADMINISTRATOR.
 #WHB(PTR, $00001B29)
 
 <$12><$13>
-// ヤハリ アナタハ \nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY. 
+// ヤハリ アナタハ\nトウロクサレテイマセン。
+ USER NOT REGISTERED FOR ENTRY.
 <$00>
 
 // Pos: 00002576
@@ -712,10 +712,10 @@ ADMINISTRATOR.
 //アーネスト：
 Ernest:
 <$0D>
-// \nちくしょう！ \nなにが登録だ、くそったれ！
- \n
-Piece of junk. How am I supposed to \n
-register? 
+//\nちくしょう！\nなにが登録だ、くそったれ！
+\n
+Piece of junk. How am I supposed to\n
+register?
 <$00>
 
 // Pos: 00002599
@@ -728,10 +728,10 @@ register?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何よこれ？ \n失礼しちゃうわね！
- \n
-The fuck does that mean? \n
-Hello? A little help here?! 
+//\n何よこれ？\n失礼しちゃうわね！
+\n
+The fuck does that mean?\n
+Hello? A little help here?!
 <$00>
 
 // Pos: 000025B6
@@ -744,8 +744,8 @@ Hello? A little help here?!
 //スペーサー：
 Spacer:
 <$0D>
-// \nやはりな… \n私ではだめなのだ。
- \n
-Hmm... Looks like I'm not getting in. 
+//\nやはりな…\n私ではだめなのだ。
+\n
+Hmm... Looks like I'm not getting in.
 <$00>
 

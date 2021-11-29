@@ -15,9 +15,9 @@
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nおおお、新しき人間の誕生じゃ。
- \n
-This is it! The birth of a new human! 
+//\nおおお、新しき人間の誕生じゃ。
+\n
+This is it! The birth of a new human!
 <$00>
 
 // Pos: 00001122
@@ -29,10 +29,10 @@ This is it! The birth of a new human!
 //歪命船ホワイトイーグル：
 歪命船White Eagle:
 <$0D>
-// \n分身は合わさり、人格は統合され…
- \n
-All alter egoes have merged! \n
-All personalities have integrated! 
+//\n分身は合わさり、人格は統合され…
+\n
+All alter egoes have merged!\n
+All personalities have integrated!
 <$0E><$3C><$17><$00>
 
 // Pos: 0000114C
@@ -44,10 +44,10 @@ All personalities have integrated!
 //歪命船ホワイトイーグル：
 歪命船White Eagle:
 <$0D>
-// \n宿命の子は神の手に触れたのじゃな、 \nふほふほ。
- \n
-You are a Destined Child, haww, yes! \n
-Touched by the hand of God! 
+//\n宿命の子は神の手に触れたのじゃな、\nふほふほ。
+\n
+You are a Destined Child, haww, yes!\n
+Touched by the hand of God!
 <$0E><$3C><$17><$00>
 
 // Pos: 0000117E
@@ -59,9 +59,9 @@ Touched by the hand of God!
 //歪命船ホワイトイーグル：
 歪命船White Eagle:
 <$0D>
-// \nおおお、いよいよか、まさにその時か！
- \n
-Your time has come at long last! 
+//\nおおお、いよいよか、まさにその時か！
+\n
+Your time has come at long last!
 <$0E><$3C><$17><$00>
 
 // Pos: 000011A6
@@ -73,12 +73,12 @@ Your time has come at long last!
 //葉命船ホワイトイーグル：
 歪命船White Eagle:
 <$0D>
-// \n新しき人間は高みに昇り、 \nやがて落ちていくのかのう… \nふたたび世界が生まれるのかのう…
- \n
-Will you ascend? \n
+//\n新しき人間は高みに昇り、\nやがて落ちていくのかのう…\nふたたび世界が生まれるのかのう…
+\n
+Will you ascend?\n
 Will you fall too soon?
 <$0C>
-Can your world be reborn? 
+Can your world be reborn?
 <$0E><$5A><$17><$00>
 
 // Pos: 000011ED
@@ -90,9 +90,9 @@ Can your world be reborn?
 //歪命愛いじょうぶ？ 
 歪命船Are you all right, 
 <$0F>
-//… \nうなされてたみたいだけど。
-? \n
-You look like you had a bad dream. 
+//…\nうなされてたみたいだけど。
+?\n
+You look like you had a bad dream.
 <$0E><$3C><$17><$00>
 
 // Pos: 0000120E
@@ -105,7 +105,7 @@ You look like you had a bad dream.
 歪命王
 <$0F>
 //は… どうしてここにいるのかなぁ…
-... Why are we here? 
+... Why are we here?
 <$0E><$3C><$17><$00>
 
 // Pos: 0000122A
@@ -117,9 +117,9 @@ You look like you had a bad dream.
 //歪命我かった、
 Oh, 
 <$0F>
-//！ \nこれからよ、これからはじまるの。
-！ \n
-It's okay. We're going to start over. 
+//！\nこれからよ、これからはじまるの。
+！\n
+It's okay. We're going to start over.
 <$0E><$3C><$17><$00>
 
 // Pos: 0000124B
@@ -128,45 +128,45 @@ It's okay. We're going to start over.
 
 #WHB(PTR, $000005E1)
 
-//歪命容イプリル… \n僕には何ができるんだろう…
-歪命容April... \n
-I hope I'm up to the task. 
+//歪命容イプリル…\n僕には何ができるんだろう…
+歪命容April...\n
+I hope I'm up to the task.
 <$0E><$5A><$17><$00><$10><$0B>
 //ライカ：
 Laika: 
 <$0D>
-// \nエイプリル…
- \n
-April... 
+//\nエイプリル…
+\n
+April...
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nライカね、
- \n
+//\nライカね、
+\n
 Laika, it's you! It's you, 
 <$0F>
 //ね！
-! 
+!
 <$00><$10><$0B><$0F>
 //：
 ：
 <$0D>
-// \n僕は… どうしたんだろう… \n君のこと、守ってあげられなかった。
- \n
-I don't know what happened. \n
-I'm...sorry I couldn't protect you. 
+//\n僕は… どうしたんだろう…\n君のこと、守ってあげられなかった。
+\n
+I don't know what happened.\n
+I'm...sorry I couldn't protect you.
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nいいのよ、
- \n
+//\nいいのよ、
+\n
 It's okay, 
 <$0F>
-//。 \nよかった、戻ってきてくれて。
-. \n
-I'm glad you're back. 
+//。\nよかった、戻ってきてくれて。
+.\n
+I'm glad you're back.
 <$00>
 
 // Pos: 000012D5
@@ -175,12 +175,12 @@ I'm glad you're back.
 
 #WHB(PTR, $00000655)
 
- 
+
 <$00><$11>
 //命船       
 命船       
 <$0D>
 //あっ、雪よ。
-Look, it's snowing. 
+Look, it's snowing.
 <$0E><$B4><$17><$00>
 

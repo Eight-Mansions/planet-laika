@@ -15,9 +15,9 @@
 //子ヌーン：
 子Noon:
 <$0D>
-// \nああ、前が見えねぇ。
- \n
-I can't see a damned thing. 
+//\nああ、前が見えねぇ。
+\n
+I can't see a damned thing.
 <$0E><$14><$17><$00>
 
 // Pos: 00000F0D
@@ -30,10 +30,10 @@ I can't see a damned thing.
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-// \nこのままではまずいな。
- \n
-I'm not sure how much farther we can \n
-wade through this. 
+//\nこのままではまずいな。
+\n
+I'm not sure how much farther we can\n
+wade through this.
 <$0E><$14><$17><$00>
 
 // Pos: 00000F2B
@@ -46,10 +46,10 @@ wade through this.
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-// \nヌーン、どこかに待避場所はないのか？
- \n
-Noon, were there any shelters \n
-marked in the area? 
+//\nヌーン、どこかに待避場所はないのか？
+\n
+Noon, were there any shelters\n
+marked in the area?
 <$0E><$14><$17><$00>
 
 // Pos: 00000F54
@@ -62,10 +62,10 @@ marked in the area?
 //子ヌーン：
 子Noon:
 <$0D>
-// \nああ、砂だ…ちくしょう、ざらざらしてきた、 \n頭ん中までざらざら、ざらざらだ。
- \n
-Am I the only one who despises sand? \n
-Blimey, it's up to my ears! 
+//\nああ、砂だ…ちくしょう、ざらざらしてきた、\n頭ん中までざらざら、ざらざらだ。
+\n
+Am I the only one who despises sand?\n
+Blimey, it's up to my ears!
 <$0E><$1E><$17><$00>
 
 // Pos: 00000F8B
@@ -78,10 +78,10 @@ Blimey, it's up to my ears!
 //子エイプリル：
 子April:
 <$0D>
-// \n近くに避難小屋があるはずよ。ねぇ、ヌーン。
- \n
-There should be a safe house nearby, \n
-right Noon? 
+//\n近くに避難小屋があるはずよ。ねぇ、ヌーン。
+\n
+There should be a safe house nearby,\n
+right Noon?
 <$0E><$14><$17><$00>
 
 // Pos: 00000FB5
@@ -94,9 +94,9 @@ right Noon?
 //子ヌーン：
 子Noon:
 <$0D>
-// \nあああ、避難小屋だ。 \n
- \n
-Ohhh, right! A safe 'ouse! \n 
+//\nあああ、避難小屋だ。\n
+\n
+Ohhh, right! A safe 'ouse!\n
 <$0E><$14><$17><$00>
 
 // Pos: 00000FD2
@@ -109,10 +109,10 @@ Ohhh, right! A safe 'ouse! \n
 //子ヌーン：
 子Noon:
 <$0D>
-// \nご一行は避難小屋に着きました、 \nそこでおネンネしました、
- \n
-"The crew found a safe 'ouse, \n
-and went blissfully to sleep..." 
+//\nご一行は避難小屋に着きました、\nそこでおネンネしました、
+\n
+"The crew found a safe 'ouse,\n
+and went blissfully to sleep..."
 <$0E><$1E><$17><$00>
 
 // Pos: 00001003
@@ -125,10 +125,10 @@ and went blissfully to sleep..."
 //子ヌーン：
 子Noon:
 <$0D>
-// \n目が覚めたらおウチでした。
- \n
-"...and when they woke up, they were \n
-already 'ome on Earth!" 
+//\n目が覚めたらおウチでした。
+\n
+"...and when they woke up, they were\n
+already 'ome on Earth!"
 <$0E><$14><$17><$00>
 
 // Pos: 00001020
@@ -141,10 +141,10 @@ already 'ome on Earth!"
 //子ヌーン：
 子Noon:
 <$0D>
-// \n火星は平和でした、報告書はそう書けばいいんだ \nそうじゃねぇのか？
- \n
-"Mars was declared peaceful, and they \n
-all lived 'appily ever after. THE END!" 
+//\n火星は平和でした、報告書はそう書けばいいんだ\nそうじゃねぇのか？
+\n
+"Mars was declared peaceful, and they\n
+all lived 'appily ever after. THE END!"
 <$0E><$1E><$17><$00>
 
 // Pos: 00001056
@@ -157,10 +157,10 @@ all lived 'appily ever after. THE END!"
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-// \nヌーン、おくれてるぞ。 \nライカ、どうした、ペースを上げるんだ！
- \n
-Stop dragging your ass, Noon. And \n
-where's Laika? 
+//\nヌーン、おくれてるぞ。\nライカ、どうした、ペースを上げるんだ！
+\n
+Stop dragging your ass, Noon. And\n
+where's Laika?
 <$0E><$1E><$17><$00>
 
 // Pos: 00001089
@@ -173,9 +173,9 @@ where's Laika?
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-// \nライカ！ なにをぐずぐずしてる、 \nはぐれてしまうぞ！
- \n
-Laika, don't fall behind! You'll get \n
-yourself lost! 
+//\nライカ！ なにをぐずぐずしてる、\nはぐれてしまうぞ！
+\n
+Laika, don't fall behind! You'll get\n
+yourself lost!
 <$0E><$3C><$17><$00>
 

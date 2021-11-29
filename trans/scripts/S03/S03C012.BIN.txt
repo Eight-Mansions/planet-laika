@@ -15,10 +15,10 @@
 //エイプリル：
 April:
 <$0D>
-// \nそっちは忘却の海よ。 \n黒いカベってそっちじゃないよ。
- \n
-That's Oceanum Oblivionis. The black \n
-wall won't be there! 
+//\nそっちは忘却の海よ。\n黒いカベってそっちじゃないよ。
+\n
+That's Oceanum Oblivionis. The black\n
+wall won't be there!
 <$00>
 
 // Pos: 00002516
@@ -35,10 +35,10 @@ wall won't be there!
 //エイプリル：
 April:
 <$0D>
-// \n今はだめよ、連中にみつかると \nまた閉じ込められてしまうじゃない。
- \n
-Now's not the time! If we're caught \n
-again, we'll be imprisoned! 
+//\n今はだめよ、連中にみつかると\nまた閉じ込められてしまうじゃない。
+\n
+Now's not the time! If we're caught\n
+again, we'll be imprisoned!
 <$00>
 
 // Pos: 00002546
@@ -51,10 +51,10 @@ again, we'll be imprisoned!
 //エイプリル：
 April:
 <$0D>
-// \nここね。 合い言葉、何だっけ？
- \n
-Here we are! What was the password \n
-again? 
+//\nここね。 合い言葉、何だっけ？
+\n
+Here we are! What was the password\n
+again?
 <$00>
 
 // Pos: 00002562
@@ -63,18 +63,18 @@ again?
 
 #WHB(PTR, $000008A1)
 
- 
+
 <$10><$14><$00>
-//１ おお？ばらよ、お前は病んでいる？ \n２ おお、ばらよ？お前は病んでいる！ \n３ おお、ばらよ！お前は病んでいる！
-1. O, Rose! Thou art sick? \n
-2. O, Rose? Thou art sick! \n
+//１ おお？ばらよ、お前は病んでいる？\n２ おお、ばらよ？お前は病んでいる！\n３ おお、ばらよ！お前は病んでいる！
+1. O, Rose! Thou art sick?\n
+2. O, Rose? Thou art sick!\n
 3. O, Rose! Thou art sick!
 <$1B>
-//３１ \n２ \n３
+//３１\n２\n３
 ３１
 <$0C>
-２ \n
-３ 
+２\n
+３
 <$00><$17><$00>
 
 // Pos: 000025AA
@@ -87,9 +87,9 @@ again?
 //エイプリル：
 April:
 <$0D>
-// \nおお？ばらよ、お前は病んでいる？
- \n
-O, Rose! Thou art sick? 
+//\nおお？ばらよ、お前は病んでいる？
+\n
+O, Rose! Thou art sick?
 <$00>
 
 // Pos: 000025C6
@@ -102,9 +102,9 @@ O, Rose! Thou art sick?
 //エイプリル：
 April:
 <$0D>
-// \nおお、ばらよ？お前は病んでいる！
- \n
-O, Rose? Thou art sick! 
+//\nおお、ばらよ？お前は病んでいる！
+\n
+O, Rose? Thou art sick!
 <$00>
 
 // Pos: 000025E2
@@ -117,9 +117,9 @@ O, Rose? Thou art sick!
 //エイプリル：
 April:
 <$0D>
-// \nおかしいな…これじゃないんじゃない？
- \n
-Uh-oh... Maybe that wasn't it. 
+//\nおかしいな…これじゃないんじゃない？
+\n
+Uh-oh... Maybe that wasn't it.
 <$00>
 
 // Pos: 000025FF
@@ -132,9 +132,9 @@ Uh-oh... Maybe that wasn't it.
 //エイプリル：
 April:
 <$0D>
-// \nおお、ばらよ！お前は病んでいる！
- \n
-O, Rose! Thou art sick! 
+//\nおお、ばらよ！お前は病んでいる！
+\n
+O, Rose! Thou art sick!
 <$00>
 
 // Pos: 0000261B
@@ -147,9 +147,9 @@ O, Rose! Thou art sick!
 //エイプリル：
 April:
 <$0D>
-// \n開いた！
- \n
-We're in! 
+//\n開いた！
+\n
+We're in!
 <$00>
 
 // Pos: 0000262B
@@ -160,7 +160,7 @@ We're in!
 
 <$10>
 //なんだなんだ、おどかすな！
-What in the world?! 
+What in the world?!
 <$00>
 
 // Pos: 0000263A
@@ -173,18 +173,18 @@ What in the world?!
 //ヤング：
 Yang:
 <$0D>
-// \nいきなり何だよ。
- \n
-You scared me, doing that! How did you \n
-open the door?! 
+//\nいきなり何だよ。
+\n
+You scared me, doing that! How did you\n
+open the door?!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nそんな古くさい合言葉なんてもういらないんだ、 \n普通に開いただろ、開かなかったか？
- \n
-Clearly, I need to do something about \n
-that old password. 
+//\nそんな古くさい合言葉なんてもういらないんだ、\n普通に開いただろ、開かなかったか？
+\n
+Clearly, I need to do something about\n
+that old password.
 <$00>
 
 // Pos: 00002682
@@ -197,10 +197,10 @@ that old password.
 //エイプリル：
 April:
 <$0D>
-// \n閉まってたわ。 \nホワイトイーグルに教えてもらったのよ。
- \n
-We're sorry for scaring you. White \n
-Eagle told us your password. 
+//\n閉まってたわ。\nホワイトイーグルに教えてもらったのよ。
+\n
+We're sorry for scaring you. White\n
+Eagle told us your password.
 <$00>
 
 // Pos: 000026AA
@@ -213,34 +213,34 @@ Eagle told us your password.
 //ヤング：
 Yang:
 <$0D>
-// \nおかしいな、まあいいや、 \nお前たちこんな時間にどこ行くんだ、
- \n
-Delightful. Anyways, what brings you \n
-here at this hour? 
+//\nおかしいな、まあいいや、\nお前たちこんな時間にどこ行くんだ、
+\n
+Delightful. Anyways, what brings you\n
+here at this hour?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nまさか記憶の谷に降りていくつもりじゃ \nないだろうな、
- \n
-Don't tell me you're on your way to \n
-Valles Memoriae. 
+//\nまさか記憶の谷に降りていくつもりじゃ\nないだろうな、
+\n
+Don't tell me you're on your way to\n
+Valles Memoriae.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nおっかないよ、 \nあそこはおっかないことになってる、
- \n
-How ghastly! What a ghastly place that \n
-is right now. 
+//\nおっかないよ、\nあそこはおっかないことになってる、
+\n
+How ghastly! What a ghastly place that\n
+is right now.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n本当だ、 \nちゃんと見てきたんだ、俺が見たんだ。
- \n
-It's true, I saw it. I saw it with my own \n
-eyes. 
+//\n本当だ、\nちゃんと見てきたんだ、俺が見たんだ。
+\n
+It's true, I saw it. I saw it with my own\n
+eyes.
 <$00>
 
 // Pos: 0000273C
@@ -253,9 +253,9 @@ eyes.
 //エイプリル：
 April:
 <$0D>
-// \n何がおっかないの？
- \n
-What did you see? 
+//\n何がおっかないの？
+\n
+What did you see?
 <$00>
 
 // Pos: 00002750
@@ -268,17 +268,17 @@ What did you see?
 //ヤング：
 Yang:
 <$0D>
-// \nおっかないったら、おっかないんだ、
- \n
-Ghastly things, the ghastliest things! 
+//\nおっかないったら、おっかないんだ、
+\n
+Ghastly things, the ghastliest things!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nもうみんなコロニーには戻らない、 \n行ってしまったんだよ！
- \n
-No one comes back to the colony, not if \n
-they go you-know-where! 
+//\nもうみんなコロニーには戻らない、\n行ってしまったんだよ！
+\n
+No one comes back to the colony, not if\n
+they go you-know-where!
 <$00>
 
 // Pos: 00002790
@@ -291,9 +291,9 @@ they go you-know-where!
 //エイプリル：
 April:
 <$0D>
-// \n行ったって、どこへ？
- \n
-"You-know-where"? Where's that? 
+//\n行ったって、どこへ？
+\n
+"You-know-where"? Where's that?
 <$00>
 
 // Pos: 000027A6
@@ -314,12 +314,12 @@ April:
 //ヤング：
 Yang:
 <$0D>
-// \nあっちの世界だ、あああ、 \nみんなロボットみたいに変な話し方をする。
- \n
-The other world! Augh, everyone \n
+//\nあっちの世界だ、あああ、\nみんなロボットみたいに変な話し方をする。
+\n
+The other world! Augh, everyone\n
 there talks so strangely. They're
 <$0C>
-robots! 
+robots!
 <$00>
 
 // Pos: 000027D5
@@ -332,12 +332,12 @@ robots!
 //エイプリル：
 April:
 <$0D>
-// \nロボット？ ねぇ、ロボットって… \nお手伝いロボットか何かいるの？
- \n
-Robots? Like, actual robots? Does that \n
+//\nロボット？ ねぇ、ロボットって…\nお手伝いロボットか何かいるの？
+\n
+Robots? Like, actual robots? Does that\n
 mean there are helper robots there,
 <$0C>
-or... 
+or...
 <$00>
 
 // Pos: 00002802
@@ -350,20 +350,20 @@ or...
 //ヤング：
 Yang:
 <$0D>
-// \nうははは、 \nマウンテンが言ってた奇跡が起きたんだ！
- \n
-But! The miracle Mountain spoke of has \n
-come true! 
+//\nうははは、\nマウンテンが言ってた奇跡が起きたんだ！
+\n
+But! The miracle Mountain spoke of has\n
+come true!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nうははは… 奇跡だ、ロックバースの奇跡、 \nははは、ざま見ろ！
- \n
-Wahoo, the miracle! The miracle of \n
+//\nうははは… 奇跡だ、ロックバースの奇跡、\nははは、ざま見ろ！
+\n
+Wahoo, the miracle! The miracle of\n
 rock birth! Come, see it for yourself!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 

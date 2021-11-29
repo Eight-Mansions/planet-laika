@@ -15,9 +15,9 @@
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nお勉強だ、アーネスト。
- \n
-It's time to study, Ernest. 
+//\nお勉強だ、アーネスト。
+\n
+It's time to study, Ernest.
 <$00>
 
 // Pos: 00002061
@@ -30,12 +30,12 @@ It's time to study, Ernest.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこの星には力だけではままならないことが \nあるのだ、それを知るがいい。
- \n
-There are things on this planet that \n
+//\nこの星には力だけではままならないことが\nあるのだ、それを知るがいい。
+\n
+There are things on this planet that\n
 cannot be overcome by brute force
 <$0C>
-alone. 
+alone.
 <$00>
 
 // Pos: 00002095
@@ -48,10 +48,10 @@ alone.
 //アーネスト：
 Ernest:
 <$0D>
-// \nへん、現れやがったな、顔のバケモンめが！
- \n
-Well, that appeared out of nowhere. \n
-What in blazes is that thing? 
+//\nへん、現れやがったな、顔のバケモンめが！
+\n
+Well, that appeared out of nowhere.\n
+What in blazes is that thing?
 <$00>
 
 // Pos: 000020B8
@@ -64,28 +64,28 @@ What in blazes is that thing?
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこいつらはフェイスだ、 \n顔への妄念が実体化したものだ。
- \n
-That is a "Phase", a tangible \n
-manifestation of Mars's delusion. 
+//\nこいつらはフェイスだ、\n顔への妄念が実体化したものだ。
+\n
+That is a "Phase", a tangible\n
+manifestation of Mars's delusion.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nフェイスはお前たちの可能性が好物だぞ。
- \n
-What the Phase crave the most is to \n
-feed on human potential. 
+//\nフェイスはお前たちの可能性が好物だぞ。
+\n
+What the Phase crave the most is to\n
+feed on human potential.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nフェイスの攻撃でEM値がゼロになったら、 \nお前は消えてしまうぞ、ひょ。
- \n
-If a Phase's attack depletes your Evil \n
+//\nフェイスの攻撃でEM値がゼロになったら、\nお前は消えてしまうぞ、ひょ。
+\n
+If a Phase's attack depletes your Evil\n
 Meter(EM) to zero, you will disappear,
 <$0C>
-hyohyo! 
+hyohyo!
 <$00>
 
 // Pos: 0000213F
@@ -98,12 +98,12 @@ hyohyo!
 //アーネスト：
 Ernest:
 <$0D>
-// \nEM値だと？ 消えるだと… \n俺はそんなことにはならないぜ！
- \n
-If the Phase are so bad, I'll just sock \n
+//\nEM値だと？ 消えるだと…\n俺はそんなことにはならないぜ！
+\n
+If the Phase are so bad, I'll just sock\n
 them all into oblivion before they get
 <$0C>
-close! 
+close!
 <$00>
 
 // Pos: 0000216B
@@ -116,38 +116,38 @@ close!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n力では勝てんぞ、アーネスト。 \nお前の心が作り出すマインドコアで、 \nフェイスの念波をはね返すのだ。
- \n
-Sorry, but to face the Phase, you'll \n
+//\n力では勝てんぞ、アーネスト。\nお前の心が作り出すマインドコアで、\nフェイスの念波をはね返すのだ。
+\n
+Sorry, but to face the Phase, you'll\n
 need to use the Mind Core created by
 <$0C>
-your heart. 
+your heart.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nタイミングをうまく合わせてな、 \nココロの〇ボタンを押すのだ、ひょひょ。
- \n
-When a Phase fires a pulse, press the 〇 \n
+//\nタイミングをうまく合わせてな、\nココロの〇ボタンを押すのだ、ひょひょ。
+\n
+When a Phase fires a pulse, press the 〇\n
 button to push your Mind Core
 <$0C>
-foreward and repel it. 
+foreward and repel it.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nマインドコアを戻すときは、 \nココロのXボタンだ、 \nそれがテクニックだ、ひょひょひょ。
- \n
-To retract the Mind Core, press the X \n
-button. That's all there is to it! 
+//\nマインドコアを戻すときは、\nココロのXボタンだ、\nそれがテクニックだ、ひょひょひょ。
+\n
+To retract the Mind Core, press the X\n
+button. That's all there is to it!
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ。何をさがしてる？ \n失った時間か？
- \n
-Hyohyo, what are you looking for? \n
-Lost time? 
+//\nひょひょ。何をさがしてる？\n失った時間か？
+\n
+Hyohyo, what are you looking for?\n
+Lost time?
 <$00>
 
 // Pos: 00002243
@@ -160,131 +160,131 @@ Lost time?
 //スペーサー：
 Spacer:
 <$0D>
-// \nあなたは…一体…
- \n
-What in the world are you? 
+//\nあなたは…一体…
+\n
+What in the world are you?
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n難しいことは無しだぞ、 \n来い来い。
- \n
-Don't worry about that. Come, come! 
+//\n難しいことは無しだぞ、\n来い来い。
+\n
+Don't worry about that. Come, come!
 <$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nあの詩はなんだ？ \nずいぶん古い詩のようだが。
- \n
-So, what was that poem about? It \n
-sounded pretty dated. 
+//\nあの詩はなんだ？\nずいぶん古い詩のようだが。
+\n
+So, what was that poem about? It\n
+sounded pretty dated.
 <$00><$11><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n詩はお前の思念だ、 \nお前の頭の中にある言葉だ、ひょ。 \n
- \n
-That poem reflects the thoughts and \n
-words circling in your head. 
+//\n詩はお前の思念だ、\nお前の頭の中にある言葉だ、ひょ。\n
+\n
+That poem reflects the thoughts and\n
+words circling in your head.
 <$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nいや、私は何も考えなかった、 \n私の思念なはずがない！
- \n
-No way! I didn't think up any of those \n
-words. Those couldn't be my thoughts! 
+//\nいや、私は何も考えなかった、\n私の思念なはずがない！
+\n
+No way! I didn't think up any of those\n
+words. Those couldn't be my thoughts!
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょひょ、お前の血となり肉となった、 \nお前たちの歴史だ。
- \n
-Hyohyo, are you sure? Those words \n
+//\nひょひょひょ、お前の血となり肉となった、\nお前たちの歴史だ。
+\n
+Hyohyo, are you sure? Those words\n
 are your flesh and blood. They're your
 <$0C>
-history! 
+history!
 <$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n私たちの歴史…あなたはいったい…
- \n
-My history, personally? Or do you \n
-mean people in general? 
+//\n私たちの歴史…あなたはいったい…
+\n
+My history, personally? Or do you\n
+mean people in general?
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n陽精だ。姿は仮の物、 \nこの星には陰精もいる。
- \n
-They are the Yand reflection of your \n
+//\n陽精だ。姿は仮の物、\nこの星には陰精もいる。
+\n
+They are the Yand reflection of your\n
 self. On this planet, your true form
 <$0C>
-exists in Yin. 
+exists in Yin.
 <$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n陽と陰、ふたつの精がいるといのか…
- \n
-Yang and Yin, as in the forces of dark \n
-and light in Chinese divination? 
+//\n陽と陰、ふたつの精がいるといのか…
+\n
+Yang and Yin, as in the forces of dark\n
+and light in Chinese divination?
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nそのうち分かる。 \nしゃべりすぎに注意しろ、スペーサー。
- \n
-So, you understand. We won't have to \n
-spend too much time discussing it. 
+//\nそのうち分かる。\nしゃべりすぎに注意しろ、スペーサー。
+\n
+So, you understand. We won't have to\n
+spend too much time discussing it.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nそろそろお前の時間を終わらせてやろう、 \nひょひょ。
- \n
-Hyohyo, your time is almost up for now. 
+//\nそろそろお前の時間を終わらせてやろう、\nひょひょ。
+\n
+Hyohyo, your time is almost up for now.
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、 \nお前の時間を終わらせてやろう。
- \n
-Hyohyo, your time is almost up. 
+//\nひょひょ、\nお前の時間を終わらせてやろう。
+\n
+Hyohyo, your time is almost up.
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょ…お宝は手にいれたのか、アーネスト。
- \n
-Hyo... Did you find your treasure, \n
-Ernest? 
+//\nひょ…お宝は手にいれたのか、アーネスト。
+\n
+Hyo... Did you find your treasure,\n
+Ernest?
 <$00><$10><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nまたお前か…俺はお前にゃ用がない… \n失せろ！
- \n
-I don't think we have business \n
-anymore. Get lost! 
+//\nまたお前か…俺はお前にゃ用がない…\n失せろ！
+\n
+I don't think we have business\n
+anymore. Get lost!
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょひょ…マコトに主体的な人間？ \n時の中でつながる双子？
- \n
-Hyohyo... Are you, in truth, so \n
+//\nひょひょひょ…マコトに主体的な人間？\n時の中でつながる双子？
+\n
+Hyohyo... Are you, in truth, so\n
 independant? Even twins are
 <$0C>
-tethered by time. 
+tethered by time.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこの怒りんぼうがそうなのか、 \nひょひょひょ。
- \n
-I think you're just fiesty, hyohyo! 
+//\nこの怒りんぼうがそうなのか、\nひょひょひょ。
+\n
+I think you're just fiesty, hyohyo!
 <$00>
 
 // Pos: 000024B9
@@ -297,10 +297,10 @@ I think you're just fiesty, hyohyo!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこっちへ来い来い、鏡の部屋だ。
- \n
-Come! Come with me to the mirror \n
-room! 
+//\nこっちへ来い来い、鏡の部屋だ。
+\n
+Come! Come with me to the mirror\n
+room!
 <$00>
 
 // Pos: 000024DC
@@ -313,20 +313,20 @@ room!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、
- \n
+//\nひょひょ、
+\n
 Hyohyo, 
 <$0F>
-//や、どこへ行く？ \nこっちだ、来い来い、鏡の部屋だ。
-, where are you going? Come! \n
-Come with me to the mirror room! 
+//や、どこへ行く？\nこっちだ、来い来い、鏡の部屋だ。
+, where are you going? Come!\n
+Come with me to the mirror room!
 <$00><$10>
-//ガレキのすきまの奥で \n何かが光っているようだ。
-Something glows through the cracks \n
-of the rubble. 
+//ガレキのすきまの奥で\n何かが光っているようだ。
+Something glows through the cracks\n
+of the rubble.
 <$00><$10>
 //サイコカプセルを手にいれた！
-P Capsule acquired. 
+P Capsule acquired.
 <$00>
 
 // Pos: 0000253C
@@ -339,10 +339,10 @@ P Capsule acquired.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何かしら… \nここに誰かいたのね、その跡ね。
- \n
-Oh-lala! Someone left a strange \n
-engraving on the wall. Let me see... 
+//\n何かしら…\nここに誰かいたのね、その跡ね。
+\n
+Oh-lala! Someone left a strange\n
+engraving on the wall. Let me see...
 <$00>
 
 // Pos: 0000255F
@@ -354,32 +354,32 @@ engraving on the wall. Let me see...
 //子トーマス：
 子Thomas:
 <$0D>
-// \n夜になると鏡の中に現れる、そういうウワサが \n広まっているが、私はまだ見たことはない。
- \n
-There are tales of a woman who \n
+//\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
+\n
+There are tales of a woman who\n
 appears in mirrors at night. I dare say,
 <$0C>
-I've never seen her. 
+I've never seen her.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n鏡の中なら、それはアマンダに建いない。 \n私なりに言うと彼女は鏡の精となったからだ。
- \n
-If this woman lives in a mirror, I'd call \n
+//\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
+\n
+If this woman lives in a mirror, I'd call\n
 her a mirror spirit, no different than
 <$0C>
-Amanda. 
+Amanda.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n鏡から鏡へ旅を続けている。 \nこのことは寝ずの研究ではっきりしたが、 \nときに私はぼんやりし始める。
- \n
-I'd stay up to see if she too had the \n
+//\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
+\n
+I'd stay up to see if she too had the\n
 ability to travel from mirror to
 <$0C>
-mirror, but it gets hazy. 
+mirror, but it gets hazy.
 <$00>
 
 // Pos: 00002612
@@ -392,26 +392,26 @@ mirror, but it gets hazy.
 //エイプリル：
 April:
 <$0D>
-// \nどうしたの、カベに向かって… \nブツブツやってたけど…
- \n
-What are you doing? Mumbling at the \n
+//\nどうしたの、カベに向かって…\nブツブツやってたけど…
+\n
+What are you doing? Mumbling at the\n
 wall like that isn't very attractive, you
 <$0C>
-know. 
+know.
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nん？
- \n
-Huh? 
+//\nん？
+\n
+Huh?
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nああ、いや、なんでもないのよ。平気よ。
- \n
-Oh! Uh, i-it's nothing! I'm good! 
+//\nああ、いや、なんでもないのよ。平気よ。
+\n
+Oh! Uh, i-it's nothing! I'm good!
 <$00>
 
 // Pos: 00002666
@@ -423,46 +423,46 @@ Oh! Uh, i-it's nothing! I'm good!
 //子トーマス：
 子Thomas:
 <$0D>
-// \n私なりにだ、 \n仮説と呼べるところまで導いたわけだ。
- \n
-I dare say, I've come up with a sound \n
-hypothesis about Amanda. 
+//\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
+\n
+I dare say, I've come up with a sound\n
+hypothesis about Amanda.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \nアマンダは \n鏡の精で満足するような女ではないからだ。
- \n
-Amanda is not a woman who is satisfied \n
-with living as a mirror spirit. 
+//\nアマンダは\n鏡の精で満足するような女ではないからだ。
+\n
+Amanda is not a woman who is satisfied\n
+with living as a mirror spirit.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n彼女は完全な鏡、みにくい顔をそのまま映す鏡を \n求めている。 その鏡ができれば…
- \n
-She wants to create a perfect mirror. \n
+//\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
+\n
+She wants to create a perfect mirror.\n
 One so perfect, it could reflect her
 <$0C>
-face for everything it is. 
+face for everything it is.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n火星に憎しみの大地が生まれ、 \n苦しみが海をなす…
- \n
-With such a mirror, the seas and lands \n
+//\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
+\n
+With such a mirror, the seas and lands\n
 of Mars might be reborn in her wicked
 <$0C>
-image. 
+image.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n私なりに、黙示録的な例えだ！
- \n
-(I dare say, I've come up with a sound \n
-little metaphor from Revelations too!) 
+//\n私なりに、黙示録的な例えだ！
+\n
+(I dare say, I've come up with a sound\n
+little metaphor from Revelations too!)
 <$00>
 
 // Pos: 00002734
@@ -475,12 +475,12 @@ little metaphor from Revelations too!)
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n道理でねぇ… ここの人たちは鏡が怖いのね。 \nありのままを見たくないのね。
- \n
-No wonder everyone here's \n
+//\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
+\n
+No wonder everyone here's\n
 piss-scared of mirrors. They don't
 <$0C>
-want to see the truth. 
+want to see the truth.
 <$00>
 
 // Pos: 00002768
@@ -492,42 +492,42 @@ want to see the truth.
 //子トーマス：
 子Thomas:
 <$0D>
-// \nうっすらとだが、見たような気がする… \n私なりに答を出してもいいのか。
- \n
-I thought I saw someone, although, I \n
+//\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
+\n
+I thought I saw someone, although, I\n
 don't know how to describe it with
 <$0C>
-certainty. 
+certainty.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \nアマンダそっくりの女、 \n私の夢の中に現れて消えた。
- \n
-There was a woman who looked \n
+//\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
+\n
+There was a woman who looked\n
 precisely like Amanda. She faded in and
 <$0C>
-out of my dream. 
+out of my dream.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \nあっという間だった、あれはなんだったのか… \n私なりにうとうとしていて…
- \n
-It all happened so fast, I almost didn't \n
+//\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
+\n
+It all happened so fast, I almost didn't\n
 notice, but...even then, it's all so
 <$0C>
-hazy... 
+hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \nあれは分身か、生まれ変わりの暗示なのか。 \n私なりに混乱してきた。
- \n
-Was she an alter ego, or a hint at \n
+//\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
+\n
+Was she an alter ego, or a hint at\n
 Amanda's reincarnation? I dare say, I
 <$0C>
-am confused. 
+am confused.
 <$00>
 
 // Pos: 0000281A
@@ -540,10 +540,10 @@ am confused.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n分身… 誰がよ。 \nアタシたちとは建うってことね。
- \n
-Alter ego? That sounds different from \n
-what me and the guys are. 
+//\n分身… 誰がよ。\nアタシたちとは建うってことね。
+\n
+Alter ego? That sounds different from\n
+what me and the guys are.
 <$00>
 
 // Pos: 00002841
@@ -555,40 +555,40 @@ what me and the guys are.
 //子トーマス：
 子Thomas:
 <$0D>
-// \n問顆は心も欲しがるかということだ。 \n
- \n
-What is Amanda searching for? \n
+//\n問顆は心も欲しがるかということだ。\n
+\n
+What is Amanda searching for?\n
 
 <$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n私なりには、体は間建いなくフェイが与える。 \nフェイはアマンダに仕えているからな。
+//\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
 
 <$0C>
-I dare say, Feng would have no qualms \n
-offering her body to Amanda. Feng is \n
-her disciple. 
+I dare say, Feng would have no qualms\n
+offering her body to Amanda. Feng is\n
+her disciple.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \nそこでだ、アマンダは心を欲しがるのか、 \nそこまでやるのか。あるいは誰か別な女の心を \nねらっているのか。
- \n
-Amanda must want a heart, but how \n
+//\nそこでだ、アマンダは心を欲しがるのか、\nそこまでやるのか。あるいは誰か別な女の心を\nねらっているのか。
+\n
+Amanda must want a heart, but how\n
 does one get a mind of their own?
 <$0C>
-Would she take another's? 
+Would she take another's?
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \nあああ、それなのに、 \n私なりに、どんどん気が遠くなる。 \nトーマスよ、どこへ行く！
- \n
-The more I ponder it, the hazier \n
+//\nあああ、それなのに、\n私なりに、どんどん気が遠くなる。\nトーマスよ、どこへ行く！
+\n
+The more I ponder it, the hazier\n
 and...hazier my mind gets...
 <$0C>
-("Thomas! Where are you going?!") 
+("Thomas! Where are you going?!")
 <$00>
 
 // Pos: 0000290B
@@ -601,19 +601,19 @@ and...hazier my mind gets...
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n体は… \nあれ？ なんて言ったっけ、用済み…
- \n
-A body? I understand that much, but \n
-what's this other bit... 
+//\n体は…\nあれ？ なんて言ったっけ、用済み…
+\n
+A body? I understand that much, but\n
+what's this other bit...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n心はどうするの、心はうばえないわよ。 \nいくらなんでも… ねぇ。
- \n
-How do you take someone's mind? I \n
+//\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
+\n
+How do you take someone's mind? I\n
 don't care what someone says, you
 <$0C>
-can't take a mind. 
+can't take a mind.
 <$00>
 

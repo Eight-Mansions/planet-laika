@@ -11,11 +11,11 @@
 
 #WHB(PTR, $0000010D)
 
- 
+
 <$00><$14><$02><$11>
 //登ーンは弱虫だ。お前もなのか、アーネスト。
-登Noon's a pussy, Ernest, and so are \n
-you! 
+登Noon's a pussy, Ernest, and so are\n
+you!
 <$0E><$78><$17><$00>
 
 // Pos: 00004D69
@@ -24,11 +24,11 @@ you!
 
 #WHB(PTR, $00000129)
 
- 
+
 <$00><$14><$02><$11>
 //急前は暗い思い出から抜けられないのだ。
-急You can't let go of your dark \n
-memories. 
+急You can't let go of your dark\n
+memories.
 <$0E><$78><$17><$00>
 
 // Pos: 00004D89
@@ -37,10 +37,10 @@ memories.
 
 #WHB(PTR, $00000131)
 
- 
+
 <$00><$14><$02><$11>
-//純ーシャは死んだ。お前が意気地なしだからだ。 \n 
-純Misha's only dead because YOU'RE A \n
-PUSSY! \n 
+//純ーシャは死んだ。お前が意気地なしだからだ。\n 
+純Misha's only dead because YOU'RE A\n
+PUSSY!\n
 <$0E><$78><$17><$00>
 

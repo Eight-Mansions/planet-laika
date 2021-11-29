@@ -15,17 +15,17 @@
 //リバー：
 Liever:
 <$0D>
-// \nすべてはウラジミールのせいなの？
- \n
-It was all Vladimir's fault, no? 
+//\nすべてはウラジミールのせいなの？
+\n
+It was all Vladimir's fault, no?
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \n
+//\n
 <$0F>
-//の新しいパパでしょ。 \nあんたにとっても。
-'s step-father. He did this to you. 
+//の新しいパパでしょ。\nあんたにとっても。
+'s step-father. He did this to you.
 <$00>
 
 // Pos: 00004046
@@ -38,10 +38,10 @@ Liever:
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nふん！ ウラジミールなんてろくでなしよ。 \nすこぶる付きのろくでなし。
- \n
-Hmph. Vladimir was a dirt-fucking \n
-bastard, to put it nicely. 
+//\nふん！ ウラジミールなんてろくでなしよ。\nすこぶる付きのろくでなし。
+\n
+Hmph. Vladimir was a dirt-fucking\n
+bastard, to put it nicely.
 <$00>
 
 // Pos: 00004075
@@ -54,13 +54,13 @@ bastard, to put it nicely.
 //リバー：
 Liever:
 <$0D>
-// \n
- \n
+//\n
+\n
 It's true. 
 <$0F>
-//のママは \nウラジミールにはひどい目にあわされた、 \nそうなんだね。
-'s mother lived a hellish life \n
-under Vladimir's hand. 
+//のママは\nウラジミールにはひどい目にあわされた、\nそうなんだね。
+'s mother lived a hellish life\n
+under Vladimir's hand.
 <$00>
 
 // Pos: 000040A2
@@ -73,24 +73,24 @@ under Vladimir's hand.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nタニアはいじめ抜かれたのよ。
- \n
-Tanya was abused. 
+//\nタニアはいじめ抜かれたのよ。
+\n
+Tanya was abused.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nすっかり性格が変わって、 \nすぐにふさぎ込むようになって…
- \n
-Her disposition changed entirely. Her \n
-spirits had hit rock bottom. 
+//\nすっかり性格が変わって、\nすぐにふさぎ込むようになって…
+\n
+Her disposition changed entirely. Her\n
+spirits had hit rock bottom.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそして限界を超えちゃったのよ。
- \n
-And, when they started digging... 
+//\nそして限界を超えちゃったのよ。
+\n
+And, when they started digging...
 <$00>
 
 // Pos: 00004101
@@ -103,18 +103,18 @@ And, when they started digging...
 //リバー：
 Liever:
 <$0D>
-// \n自殺したんだね、バスルームで。 \n見たんでしょ。
- \n
-She committed suicide in the \n
-bathroom. You found her. 
+//\n自殺したんだね、バスルームで。\n見たんでしょ。
+\n
+She committed suicide in the\n
+bathroom. You found her.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \nあんたが表に出たのは \nその時がはじめてなんだね。
- \n
-That was the first time you, Yolanda, \n
-ever surfaced. 
+//\nあんたが表に出たのは\nその時がはじめてなんだね。
+\n
+That was the first time you, Yolanda,\n
+ever surfaced.
 <$00>
 
 // Pos: 00004148
@@ -127,10 +127,10 @@ ever surfaced.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n可哀想に… もっと早く \nアタシが話し相手になってあげれば…
- \n
-I'm pathetic... If only I'd talked to her \n
-sooner. 
+//\n可哀想に… もっと早く\nアタシが話し相手になってあげれば…
+\n
+I'm pathetic... If only I'd talked to her\n
+sooner.
 <$00>
 
 // Pos: 00004178
@@ -143,13 +143,13 @@ sooner.
 //リバー：
 Liever:
 <$0D>
-// \nタニアは
- \n
+//\nタニアは
+\n
 Tanya is 
 <$0F>
-//のママだよね、 \nあんたのママってこと？ \nどう思ってたの？
-'s mother. Does that make her \n
-your mother as well? Or am I wrong? 
+//のママだよね、\nあんたのママってこと？\nどう思ってたの？
+'s mother. Does that make her\n
+your mother as well? Or am I wrong?
 <$00>
 
 // Pos: 000041A5
@@ -162,28 +162,28 @@ your mother as well? Or am I wrong?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシには友達なのよ。
- \n
-She was my friend! 
+//\nアタシには友達なのよ。
+\n
+She was my friend!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n
- \n
+//\n
+\n
 
 <$0F>
-//には何もできないの… \nせいぜいが宇宙飛行士になることくらい。
- couldn't help her! He was too busy \n
-striving to be a fucking cosmonaut! 
+//には何もできないの…\nせいぜいが宇宙飛行士になることくらい。
+ couldn't help her! He was too busy\n
+striving to be a fucking cosmonaut!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nタニアの相談相手は、アタシをおいて \n他にいないわ。
- \n
-I was Tanya's shoulder to lean on! I was \n
-the only one there for her! 
+//\nタニアの相談相手は、アタシをおいて\n他にいないわ。
+\n
+I was Tanya's shoulder to lean on! I was\n
+the only one there for her!
 <$00>
 
 // Pos: 00004212
@@ -196,9 +196,9 @@ the only one there for her!
 //リバー：
 Liever:
 <$0D>
-// \nアーネストは？ \n彼はなぜ存在するの？
- \n
-What about Ernest? Why does he exist? 
+//\nアーネストは？\n彼はなぜ存在するの？
+\n
+What about Ernest? Why does he exist?
 <$00>
 
 // Pos: 00004232
@@ -211,28 +211,28 @@ What about Ernest? Why does he exist?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n守るためよ。 \n生まれてくるはずだった妹…
- \n
-To protect. He came to protect his little \n
-sister... 
+//\n守るためよ。\n生まれてくるはずだった妹…
+\n
+To protect. He came to protect his little\n
+sister...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアーネストは \nその妹を守るためにやってきたのよ。
- \n
-...the little sister whom Tanya was to \n
-give birth to. 
+//\nアーネストは\nその妹を守るためにやってきたのよ。
+\n
+...the little sister whom Tanya was to\n
+give birth to.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nウラジミールとセルゲイの暴力から \n妹を守るためよ。
- \n
-Ernest meant to keep his sister safe \n
+//\nウラジミールとセルゲイの暴力から\n妹を守るためよ。
+\n
+Ernest meant to keep his sister safe\n
 from Vladimir and Sergei's physical
 <$0C>
-abuse. 
+abuse.
 <$00>
 
 // Pos: 0000429E
@@ -245,9 +245,9 @@ abuse.
 //リバー：
 Liever:
 <$0D>
-// \nでも妹は生まれてこなかった。
- \n
-But, that sister arrived stillborn. 
+//\nでも妹は生まれてこなかった。
+\n
+But, that sister arrived stillborn.
 <$00>
 
 // Pos: 000042B9
@@ -260,17 +260,17 @@ But, that sister arrived stillborn.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nううん、生まれたの。
- \n
-In reality, yes she did... 
+//\nううん、生まれたの。
+\n
+In reality, yes she did...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアーネストにしてみれば、 \n生まれたことになってるの。
- \n
-...but in Ernest's eyes, she's out there, \n
-somewhere. 
+//\nアーネストにしてみれば、\n生まれたことになってるの。
+\n
+...but in Ernest's eyes, she's out there,\n
+somewhere.
 <$00>
 
 // Pos: 000042F4
@@ -283,9 +283,9 @@ somewhere.
 //リバー：
 Liever:
 <$0D>
-// \n作り出したの？
- \n
-He dreamed her up after the fact? 
+//\n作り出したの？
+\n
+He dreamed her up after the fact?
 <$00>
 
 // Pos: 00004308
@@ -298,12 +298,12 @@ He dreamed her up after the fact?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nどうやらそのようね。 \n詳しいことは分からない、本人じゃなきゃね。
- \n
-Apparently, he did it to fill that gap. I \n
+//\nどうやらそのようね。\n詳しいことは分からない、本人じゃなきゃね。
+\n
+Apparently, he did it to fill that gap. I\n
 don't know the details, so you'd have to
 <$0C>
-ask him. 
+ask him.
 <$00>
 
 // Pos: 00004336
@@ -316,12 +316,12 @@ ask him.
 //リバー：
 Liever:
 <$0D>
-// \n本当は生まれたときには死んでたんだよね、 \nミーシャって名前まで用意してたのに。
- \n
-So, she was born dead. Was "Masha" the \n
+//\n本当は生まれたときには死んでたんだよね、\nミーシャって名前まで用意してたのに。
+\n
+So, she was born dead. Was "Masha" the\n
 name that Tanya and Vladimir planned
 <$0C>
-to give her? 
+to give her?
 <$00>
 
 // Pos: 0000436F
@@ -334,19 +334,19 @@ to give her?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nミーシャは殺されたのよ…
- \n
-Misha was murdered. 
+//\nミーシャは殺されたのよ…
+\n
+Misha was murdered.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nウラジミールがはかったの。 \nもう子供は欲しくなかったのよ。
- \n
-Vladimir made sure of that with \n
+//\nウラジミールがはかったの。\nもう子供は欲しくなかったのよ。
+\n
+Vladimir made sure of that with\n
 Tanya's doctor. Vladimir didn't want
 <$0C>
-more children. 
+more children.
 <$00>
 
 // Pos: 000043B1
@@ -359,9 +359,9 @@ more children.
 //リバー：
 Liever:
 <$0D>
-// \nスペーサーはどうなの？
- \n
-Did Spacer know this? 
+//\nスペーサーはどうなの？
+\n
+Did Spacer know this?
 <$00>
 
 // Pos: 000043C7
@@ -374,12 +374,12 @@ Did Spacer know this?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n彼は司令塔よ。 \nアタシたちの監視役。
- \n
-Spacer is our personal command \n
+//\n彼は司令塔よ。\nアタシたちの監視役。
+\n
+Spacer is our personal command\n
 tower. He keeps an eye over the lot of
 <$0C>
-us. 
+us.
 <$00>
 
 // Pos: 000043EC
@@ -392,10 +392,10 @@ us.
 //リバー：
 Liever:
 <$0D>
-// \nそしてアーネストからミーシャを取り上げた。
- \n
-So, could you say he filled the gap \n
-Ernest had intended for Masha? 
+//\nそしてアーネストからミーシャを取り上げた。
+\n
+So, could you say he filled the gap\n
+Ernest had intended for Masha?
 <$00>
 
 // Pos: 0000440E
@@ -408,18 +408,18 @@ Ernest had intended for Masha?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそうよ。ミーシャっていう人格が \nひとり歩きしないようにね。
- \n
-Definitely. By that point, the idea of \n
-"Masha" had taken a life of its own. 
+//\nそうよ。ミーシャっていう人格が\nひとり歩きしないようにね。
+\n
+Definitely. By that point, the idea of\n
+"Masha" had taken a life of its own.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n妹を消されたことでアーネストは \n彼をうらんでるわ。
- \n
-And Ernest resents Spacer for letting \n
-that idea, his sister, slip away. 
+//\n妹を消されたことでアーネストは\n彼をうらんでるわ。
+\n
+And Ernest resents Spacer for letting\n
+that idea, his sister, slip away.
 <$00>
 
 // Pos: 0000445E
@@ -432,10 +432,10 @@ that idea, his sister, slip away.
 //リバー：
 Liever:
 <$0D>
-// \nスペーサーは大の勉強家だよね。
- \n
-But Spacer is a largely studios person, \n
-isn't he. 
+//\nスペーサーは大の勉強家だよね。
+\n
+But Spacer is a largely studios person,\n
+isn't he.
 <$00>
 
 // Pos: 0000447C
@@ -448,47 +448,47 @@ isn't he.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそうみたいね。
- \n
-I'd say so. 
+//\nそうみたいね。
+\n
+I'd say so.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n彼は図書室の本の中から現れて
- \n
-He emerged from some book in the \n
-library. 
+//\n彼は図書室の本の中から現れて
+\n
+He emerged from some book in the\n
+library.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nいつのまにか… \n
- \n
-Before anyone could notice...he'd \n
+//\nいつのまにか…\n
+\n
+Before anyone could notice...he'd\n
 planted himself into 
 <$0F>
 //の中に住み着いたのよ、
-'s mind as they read. 
+'s mind as they read.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシはそう思ってる。
- \n
-At least, that's my understanding of \n
-the situation. 
+//\nアタシはそう思ってる。
+\n
+At least, that's my understanding of\n
+the situation.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n
- \n
+//\n
+\n
 In the end, 
 <$0F>
-//が宇宙飛行士になれたのも \nスペーサーがいたからよ。
- only became a cosmonaut \n
-because Spacer took the wheel. 
+//が宇宙飛行士になれたのも\nスペーサーがいたからよ。
+ only became a cosmonaut\n
+because Spacer took the wheel.
 <$00>
 
 // Pos: 0000450A
@@ -501,10 +501,10 @@ because Spacer took the wheel.
 //ガリル：
 Galil:
 <$0D>
-// \n実に満ち足りたひとときだったよ、ライカ君。 \n君はすばらしい、可能性に輝いている。
- \n
-What fun you are, Laika. You are \n
-stunning! Brimming with potential! 
+//\n実に満ち足りたひとときだったよ、ライカ君。\n君はすばらしい、可能性に輝いている。
+\n
+What fun you are, Laika. You are\n
+stunning! Brimming with potential!
 <$00>
 
 // Pos: 00004542
@@ -517,51 +517,51 @@ stunning! Brimming with potential!
 //ガリル：
 Galil:
 <$0D>
-// \n私は君よりもっとあやふやな存在だった。 \nせまり来る不安の中で自信を失っていた。
- \n
-Once, I was more uncertain an  \n
+//\n私は君よりもっとあやふやな存在だった。\nせまり来る不安の中で自信を失っていた。
+\n
+Once, I was more uncertain an \n
 existance than you. I knew no ease, no
 <$0C>
-confidence. 
+confidence.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nしかしどうだ、 \n今や明るい理性の庭にいる。
- \n
-And now, the shining beacon of all \n
-reason stands before you! 
+//\nしかしどうだ、\n今や明るい理性の庭にいる。
+\n
+And now, the shining beacon of all\n
+reason stands before you!
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n全てはこの星の意志に \n触れたからに他ならない。
- \n
-All because I was touched by the will of \n
-the planet. 
+//\n全てはこの星の意志に\n触れたからに他ならない。
+\n
+All because I was touched by the will of\n
+the planet.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nもう恐れは去ったのだ、冷たい触手に \nからめ取られることもない。
- \n
-My fears are gone. Their cold tentacles \n
-can tear me through no longer. 
+//\nもう恐れは去ったのだ、冷たい触手に\nからめ取られることもない。
+\n
+My fears are gone. Their cold tentacles\n
+can tear me through no longer.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nどうだね、 \n私と共に世界の再生に立ち会わないか。
- \n
-What do you say, Laika? Would you like \n
-to witness world rebirth at my side? 
+//\nどうだね、\n私と共に世界の再生に立ち会わないか。
+\n
+What do you say, Laika? Would you like\n
+to witness world rebirth at my side?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n君は求められているのではないかね。
- \n
-That is what you want, isn't it? 
+//\n君は求められているのではないかね。
+\n
+That is what you want, isn't it?
 <$00>
 
 // Pos: 00004630
@@ -572,7 +572,7 @@ That is what you want, isn't it?
 
 <$10>
 //ダメだよ、だまされてるよ！
-No! Don't let him trick you! 
+No! Don't let him trick you!
 <$00>
 
 // Pos: 0000463F
@@ -585,10 +585,10 @@ No! Don't let him trick you!
 //リバー：
 Liever:
 <$0D>
-// \nそいつはあんたの苦しみを \n利用しようとしてるんだ。
- \n
-All Galil wants is to capitalize on your \n
-suffering! 
+//\nそいつはあんたの苦しみを\n利用しようとしてるんだ。
+\n
+All Galil wants is to capitalize on your\n
+suffering!
 <$00>
 
 // Pos: 00004666
@@ -601,12 +601,12 @@ suffering!
 //ガリル：
 Galil:
 <$0D>
-// \n立役者のご登場というわけか。 \nお前の神様はどうした？
- \n
-Ah, the "leading star" makes his \n
+//\n立役者のご登場というわけか。\nお前の神様はどうした？
+\n
+Ah, the "leading star" makes his\n
 appearance. Where is your god to rear
 <$0C>
-you in? 
+you in?
 <$00>
 
 // Pos: 00004690
@@ -619,10 +619,10 @@ you in?
 //リバー：
 Liever:
 <$0D>
-// \nあれは神様なんかじゃない！ \nイーブルマインドのカスだ！
- \n
-That wasn't God! That was just a mass \n
-of Evil Mind! 
+//\nあれは神様なんかじゃない！\nイーブルマインドのカスだ！
+\n
+That wasn't God! That was just a mass\n
+of Evil Mind!
 <$00>
 
 // Pos: 000046B8
@@ -635,10 +635,10 @@ of Evil Mind!
 //ガリル：
 Galil:
 <$0D>
-// \nそのカスに祈り続けて、 \nお前の罪はつぐなえたのか？
- \n
-Do you pray to that mass, then? Or do \n
-you continue to revel in your sin? 
+//\nそのカスに祈り続けて、\nお前の罪はつぐなえたのか？
+\n
+Do you pray to that mass, then? Or do\n
+you continue to revel in your sin?
 <$00>
 
 // Pos: 000046DD
@@ -651,9 +651,9 @@ you continue to revel in your sin?
 //リバー：
 Liever:
 <$0D>
-// \n僕は何もしちゃいない！
- \n
-I never do anything wrong! 
+//\n僕は何もしちゃいない！
+\n
+I never do anything wrong!
 <$00>
 
 // Pos: 000046F4
@@ -666,12 +666,12 @@ I never do anything wrong!
 //ガリル：
 Galil:
 <$0D>
-// \n双子たちに悪夢のプレゼントを配ったのは \nお前だ、リトル！お前が生き埋めにしたんだ！
- \n
-YOU gave twins the present of \n
+//\n双子たちに悪夢のプレゼントを配ったのは\nお前だ、リトル！お前が生き埋めにしたんだ！
+\n
+YOU gave twins the present of\n
 nightmares, Little! YOU buried them
 <$0C>
-alive! 
+alive!
 <$00>
 
 // Pos: 0000472C
@@ -684,12 +684,12 @@ alive!
 //ガリル：
 Galil:
 <$0D>
-// \nそうだ、リトル。お前だリトル。 \nリトル、リトル、この名を呼び続けてやろう！
- \n
-That's right, LITTLE! It was you, \n
+//\nそうだ、リトル。お前だリトル。\nリトル、リトル、この名を呼び続けてやろう！
+\n
+That's right, LITTLE! It was you,\n
 LITTLE! AND I SHALL CALL YOU "LITTLE"
 <$0C>
-FOR IT! 
+FOR IT!
 <$00>
 
 // Pos: 0000475D
@@ -702,9 +702,9 @@ FOR IT!
 //リバー：
 Liever:
 <$0D>
-// \nうわっ！
- \n
-NOOO! 
+//\nうわっ！
+\n
+NOOO!
 <$00>
 
 // Pos: 0000476C
@@ -717,75 +717,75 @@ NOOO!
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあの日…アタシ、妙に胸騒ぎを覚えて \n学校を抜け出したのよ。
- \n
-I...remember ditching class, because \n
-of a bad feeling I got that day. 
+//\nあの日…アタシ、妙に胸騒ぎを覚えて\n学校を抜け出したのよ。
+\n
+I...remember ditching class, because\n
+of a bad feeling I got that day.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n
- \n
+//\n
+\n
 
 <$0F>
 //を追いやって…
- couldn't help it. I forced him out. 
+ couldn't help it. I forced him out.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nタニアのことが心配だったの。 \n気が急いたわ。
- \n
-I was worried about Tanya. I had to \n
-hurry. 
+//\nタニアのことが心配だったの。\n気が急いたわ。
+\n
+I was worried about Tanya. I had to\n
+hurry.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n家に帰って人の気配がしないからさがしたの、
- \n
-When we got home, there was no sign \n
-of her, so I went looking. 
+//\n家に帰って人の気配がしないからさがしたの、
+\n
+When we got home, there was no sign\n
+of her, so I went looking.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nタニア、タニアって、 \n呼ぶ声が口をついて出てきた。
- \n
-"Tanya! Tanya," I cried. That's all I \n
-could muster. 
+//\nタニア、タニアって、\n呼ぶ声が口をついて出てきた。
+\n
+"Tanya! Tanya," I cried. That's all I\n
+could muster.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nバスルームから水の音が開こえて… \nもう見るまでもなかった。
- \n
-I heard the sound of running water \n
+//\nバスルームから水の音が開こえて…\nもう見るまでもなかった。
+\n
+I heard the sound of running water\n
 from the bath room. I didn't have to
 <$0C>
-look anymore. 
+look anymore.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n分かってたのよ、
- \n
-I knew what she did. 
+//\n分かってたのよ、
+\n
+I knew what she did.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nタニアの心が \n持ちこたえられそうもないってことは。
- \n
-I knew Tanya's heart couldn't take it \n
-any longer. 
+//\nタニアの心が\n持ちこたえられそうもないってことは。
+\n
+I knew Tanya's heart couldn't take it\n
+any longer.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシは何もしてあげられなかった。
- \n
-I knew I couldn't save her. 
+//\nアタシは何もしてあげられなかった。
+\n
+I knew I couldn't save her.
 <$00>
 

@@ -15,10 +15,10 @@
 //エイプリル：
 April:
 <$0D>
-// \nあっライカ… \nまたふたりになっちゃったね。
- \n
-There you are, Laika. Listen, I still \n
-haven't seen the others. 
+//\nあっライカ…\nまたふたりになっちゃったね。
+\n
+There you are, Laika. Listen, I still\n
+haven't seen the others.
 <$00>
 
 // Pos: 00003DE5
@@ -31,36 +31,36 @@ haven't seen the others.
 //エイプリル：
 April:
 <$0D>
-// \nさっきの子、催眠術でも使ったの？
- \n
-That little boy just now, did he use \n
-hypnosis on you too? 
+//\nさっきの子、催眠術でも使ったの？
+\n
+That little boy just now, did he use\n
+hypnosis on you too?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n知らない間にここまで歩いてきた… \n変な気分ね。
- \n
-I found myself walking here before I \n
+//\n知らない間にここまで歩いてきた…\n変な気分ね。
+\n
+I found myself walking here before I\n
 knew what was happening. It felt so
 <$0C>
-weird. 
+weird.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n気をつけなきゃ。 \nこの星に心をうばわれたりしないように。
- \n
-We have to be careful. We can't let this \n
-planet get inside our heads. 
+//\n気をつけなきゃ。\nこの星に心をうばわれたりしないように。
+\n
+We have to be careful. We can't let this\n
+planet get inside our heads.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n…ねぇライカ、 \nライカはこの任務に志願したの？
- \n
-This might seem off topic, but...did you \n
-volunteer for this mission, Laika? 
+//\n…ねぇライカ、\nライカはこの任務に志願したの？
+\n
+This might seem off topic, but...did you\n
+volunteer for this mission, Laika?
 <$00>
 
 // Pos: 00003E77
@@ -73,46 +73,46 @@ volunteer for this mission, Laika?
 //エイプリル：
 April:
 <$0D>
-// \n私、この任務のこと \nほとんど知らされてなかったの。
- \n
-I didn't know too much about this \n
-mission when I joined. 
+//\n私、この任務のこと\nほとんど知らされてなかったの。
+\n
+I didn't know too much about this\n
+mission when I joined.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nただ火星の土のサンプルを持ち帰る… \nなんでもいいってわけじゃないけど、 \n急にそういう話になって…
- \n
-All I had to do was collect samples of \n
+//\nただ火星の土のサンプルを持ち帰る…\nなんでもいいってわけじゃないけど、\n急にそういう話になって…
+\n
+All I had to do was collect samples of\n
 Martian topsoil, but now, that feels
 <$0C>
-irrelevant. 
+irrelevant.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nオクトーバー司令官は、 \n火星の土に含まれてる成分が人に \n幻覚をもたらす、そう考えてるみたいなの。
- \n
-Commander October was already \n
+//\nオクトーバー司令官は、\n火星の土に含まれてる成分が人に\n幻覚をもたらす、そう考えてるみたいなの。
+\n
+Commander October was already\n
 aware that Martian topsoil contains
 <$0C>
-hallucinogenic agents. 
+hallucinogenic agents.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nほんとに急だったのよ。
- \n
-And it's effective against humans? \n
-That might've been news to me, but... 
+//\nほんとに急だったのよ。
+\n
+And it's effective against humans?\n
+That might've been news to me, but...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nはじめは乗り気がしなかったけど、 \nライカと一緒って開いて引き受けたんだ。
- \n
-...I wasn't so interested in joining until \n
-I heard you were coming. 
+//\nはじめは乗り気がしなかったけど、\nライカと一緒って開いて引き受けたんだ。
+\n
+...I wasn't so interested in joining until\n
+I heard you were coming.
 <$00>
 
 // Pos: 00003F6E
@@ -125,53 +125,53 @@ I heard you were coming.
 //エイプリル：
 April:
 <$0D>
-// \nああ、夕陽ね、火星の夕陽…
- \n
-Wow, a sunset! A sunset on Mars! 
+//\nああ、夕陽ね、火星の夕陽…
+\n
+Wow, a sunset! A sunset on Mars!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n今日はクリスマスイブね。 \n火星でクリスマスだなんて…
- \n
-And today's Christmas, so it's a \n
-Christmas on Mars too! 
+//\n今日はクリスマスイブね。\n火星でクリスマスだなんて…
+\n
+And today's Christmas, so it's a\n
+Christmas on Mars too!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nまだ気分がすぐれないから、 \nちょっとここで休んでいくね。
- \n
-I wish I was feeling better for this. Do \n
-you mind if I take a break here? 
+//\nまだ気分がすぐれないから、\nちょっとここで休んでいくね。
+\n
+I wish I was feeling better for this. Do\n
+you mind if I take a break here?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nライカ、先にコロニーに行って。 \nヘロデっていう人をたずねるの。
- \n
-The colony's just up ahead. We're \n
+//\nライカ、先にコロニーに行って。\nヘロデっていう人をたずねるの。
+\n
+The colony's just up ahead. We're\n
 supposed to ask for a man named
 <$0C>
-Herod. 
+Herod.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n酸索屋のヘロデ。 \nその人がコロニーを仕切ってるの。
- \n
-He runs the oxygen dispensary, but \n
+//\n酸索屋のヘロデ。\nその人がコロニーを仕切ってるの。
+\n
+He runs the oxygen dispensary, but\n
 more importantly, he directs the
 <$0C>
-entire colony. 
+entire colony.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n船長たち、もう到着してるかも知れない。
- \n
-If you go see him, you might catch Noon \n
-and the captain. 
+//\n船長たち、もう到着してるかも知れない。
+\n
+If you go see him, you might catch Noon\n
+and the captain.
 <$00>
 
 // Pos: 00004050
@@ -188,20 +188,20 @@ and the captain.
 //エイプリル：
 April:
 <$0D>
-// \nここでちょっと休んだらすぐに追いつく。 \nだから先にコロニーに行ってて。
- \n
-I'll be right behind you, soon as I catch \n
+//\nここでちょっと休んだらすぐに追いつく。\nだから先にコロニーに行ってて。
+\n
+I'll be right behind you, soon as I catch\n
 my breath. You should make for the
 <$0C>
-colony. 
+colony.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n酸索屋のヘロデをたずねるのよ。 \n彼が協力してくれるはずよ。
- \n
-Ask for Herod at the oxygen \n
-dispensary. He's supposed to help us. 
+//\n酸索屋のヘロデをたずねるのよ。\n彼が協力してくれるはずよ。
+\n
+Ask for Herod at the oxygen\n
+dispensary. He's supposed to help us.
 <$00>
 
 // Pos: 000040AF
@@ -214,29 +214,29 @@ dispensary. He's supposed to help us.
 //エイプリル：
 April:
 <$0D>
-// \nどうしたの？コロニーはすぐそこよ。
- \n
-What's the matter? The colony is \n
-straight ahead. 
+//\nどうしたの？コロニーはすぐそこよ。
+\n
+What's the matter? The colony is\n
+straight ahead.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nちゃんとライカ…じゃなかった \n
- \n
-I don't think "Laika" is in their registry, \n
+//\nちゃんとライカ…じゃなかった\n
+\n
+I don't think "Laika" is in their registry,\n
 though, since "
 <$0F>
-//って名前で \n登録されてるはずよ。
-"'s on your paperwork. 
+//って名前で\n登録されてるはずよ。
+"'s on your paperwork.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nもう少ししたら私も行くから。
- \n
-Go on without me, and I'll join you once \n
-I catch my breath. 
+//\nもう少ししたら私も行くから。
+\n
+Go on without me, and I'll join you once\n
+I catch my breath.
 <$00>
 
 // Pos: 00004112
@@ -249,10 +249,10 @@ I catch my breath.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nエイプリル…君はいったい誰なんだ。 \n答えてくれ、エイプリル！
- \n
-April, who in the world are you? \n
-Answer me, April! 
+//\nエイプリル…君はいったい誰なんだ。\n答えてくれ、エイプリル！
+\n
+April, who in the world are you?\n
+Answer me, April!
 <$00>
 
 // Pos: 00004140
@@ -265,12 +265,12 @@ Answer me, April!
 //エイプリル：
 April:
 <$0D>
-// \nねぇ… ライカは誰かに愛されてるって \n惑じたことある？
- \n
-Hey, does the thought of someone \n
+//\nねぇ… ライカは誰かに愛されてるって\n惑じたことある？
+\n
+Hey, does the thought of someone\n
 loving you ever, I don't know...weird
 <$0C>
-you out? 
+you out?
 <$00>
 
 // Pos: 00004169
@@ -283,36 +283,36 @@ you out?
 //エイプリル：
 April:
 <$0D>
-// \n愛されるって、ホントはすごく幸せなこと…
- \n
-Being loved is a truly happy thing to \n
-have happen... 
+//\n愛されるって、ホントはすごく幸せなこと…
+\n
+Being loved is a truly happy thing to\n
+have happen...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nなのに私にとってはつらいことなの。 \n愛されるのが怖いの…
- \n
-...but it hurts me. I'm scared of being \n
-loved. 
+//\nなのに私にとってはつらいことなの。\n愛されるのが怖いの…
+\n
+...but it hurts me. I'm scared of being\n
+loved.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nママのせいよ。 \nママは私をかわいがってくれたけど、 \nそれはママがそうしたかったからなの。
- \n
-It's my mom's fault. She took good care \n
-of me, but only because it served her. 
+//\nママのせいよ。\nママは私をかわいがってくれたけど、\nそれはママがそうしたかったからなの。
+\n
+It's my mom's fault. She took good care\n
+of me, but only because it served her.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n私のためじゃなく、ママのため、 \n自分のために私を愛したの。 \n私にはそれがきゅうくつだった。
- \n
-It wasn't for me, but for her. Mom \n
+//\n私のためじゃなく、ママのため、\n自分のために私を愛したの。\n私にはそれがきゅうくつだった。
+\n
+It wasn't for me, but for her. Mom\n
 loved me only to suit her self. It
 <$0C>
-was...choking. 
+was...choking.
 <$00>
 
 // Pos: 00004221
@@ -325,18 +325,18 @@ was...choking.
 //エイプリル：
 April:
 <$0D>
-// \nライカのママはきっと \nすてきな人なんでしょうね…
- \n
-Something tells me your mom was very \n
-good to you. 
+//\nライカのママはきっと\nすてきな人なんでしょうね…
+\n
+Something tells me your mom was very\n
+good to you.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nライカを見てると分かるような気がする。 \nライカのことをすごくほこりに思ってた、 \nそうじゃない？
- \n
-When I look at you, I can almost hear \n
-her saying, "I'm so proud of my baby." 
+//\nライカを見てると分かるような気がする。\nライカのことをすごくほこりに思ってた、\nそうじゃない？
+\n
+When I look at you, I can almost hear\n
+her saying, "I'm so proud of my baby."
 <$00>
 
 // Pos: 0000427E
@@ -349,12 +349,12 @@ her saying, "I'm so proud of my baby."
 //エイプリル：
 April:
 <$0D>
-// \nこの星は忘れたい昔を思い起こさせるのね… \nすごく意地悪なおじいさんみたいに。
- \n
-I feel like an old man saying this, but \n
+//\nこの星は忘れたい昔を思い起こさせるのね…\nすごく意地悪なおじいさんみたいに。
+\n
+I feel like an old man saying this, but\n
 being here reminds me days I'd rather
 <$0C>
-forget. 
+forget.
 <$00>
 
 // Pos: 000042B6
@@ -367,26 +367,26 @@ forget.
 //エイプリル：
 April:
 <$0D>
-// \nごめんね、急に。なんだかママが \nすごく近くにいるようで怖いの。
- \n
-Sorry, I need to recoup. I had the \n
+//\nごめんね、急に。なんだかママが\nすごく近くにいるようで怖いの。
+\n
+Sorry, I need to recoup. I had the\n
 sudden sensation my mom was
 <$0C>
-breathing down my neck. 
+breathing down my neck.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nママはとっくに…
- \n
-Even though she's already... 
+//\nママはとっくに…
+\n
+Even though she's already...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nねえ、コロニーに戻ってみない？
- \n
-...So! Any luck finding the colony? 
+//\nねえ、コロニーに戻ってみない？
+\n
+...So! Any luck finding the colony?
 <$00>
 
 // Pos: 0000430F
@@ -399,19 +399,19 @@ April:
 //エイプリル：
 April:
 <$0D>
-// \n早くなんとかしないと \n取り返しのつかないことになりそうよ…
- \n
-If we don't wrap this up soon, I worry \n
+//\n早くなんとかしないと\n取り返しのつかないことになりそうよ…
+\n
+If we don't wrap this up soon, I worry\n
 the wounds we open here won't close
 <$0C>
-again. 
+again.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nとにかくコロニーでようすをさぐってみない？
- \n
-Don't mind me though. Why don't you go \n
-look for the colony? 
+//\nとにかくコロニーでようすをさぐってみない？
+\n
+Don't mind me though. Why don't you go\n
+look for the colony?
 <$00>
 

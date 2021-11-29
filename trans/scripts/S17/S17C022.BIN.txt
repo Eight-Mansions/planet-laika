@@ -12,10 +12,10 @@
 #WHB(PTR, $00000275)
 
 <$12><$0F>
-//。 \n君の思い出はこの部屋から先にはない、 \nそういうことなんだな。
-. \n
-Your own memories do not expand \n
-beyond this room. It is true. 
+//。\n君の思い出はこの部屋から先にはない、\nそういうことなんだな。
+.\n
+Your own memories do not expand\n
+beyond this room. It is true.
 <$00>
 
 // Pos: 000010C6
@@ -28,10 +28,10 @@ beyond this room. It is true.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \n失った時間を取り戻そうなんて考えるな。 \n間建ったよこしまな考えだ。
- \n
-There's no regaining lost time. It's a \n
-vile thing to romanticize. 
+//\n失った時間を取り戻そうなんて考えるな。\n間建ったよこしまな考えだ。
+\n
+There's no regaining lost time. It's a\n
+vile thing to romanticize.
 <$00>
 
 // Pos: 000010FE
@@ -42,7 +42,7 @@ vile thing to romanticize.
 
 <$12>
 //いつもここに戻ってきてたのか？
-Why do you always come back here? 
+Why do you always come back here?
 <$00>
 
 // Pos: 00001110
@@ -55,10 +55,10 @@ Why do you always come back here?
 //ヌーン：
 Noon:
 <$0D>
-// \n戻ってもだめだ、何も残ってないぜ。 \nみんな消えて無くなっちまうんだ。
- \n
-There's no going back. There's nothing \n
-left. When we're gone, we're gone. 
+//\n戻ってもだめだ、何も残ってないぜ。\nみんな消えて無くなっちまうんだ。
+\n
+There's no going back. There's nothing\n
+left. When we're gone, we're gone.
 <$00>
 
 // Pos: 0000113F
@@ -68,9 +68,9 @@ left. When we're gone, we're gone.
 #WHB(PTR, $000003D1)
 
 <$12><$0F>
-//、ここはあなたの場所よ。 \nでももうすぐ消える…
-, this may be your place, but it too will \n
-soon disappear. 
+//、ここはあなたの場所よ。\nでももうすぐ消える…
+, this may be your place, but it too will\n
+soon disappear.
 <$00>
 
 // Pos: 0000115C
@@ -83,18 +83,18 @@ soon disappear.
 //エイプリル：
 April:
 <$0D>
-// \n光をあびるほどに、あなたの闇は深くなるの。 \nその闇を照らすことはできない…
- \n
-The more light you receive, the deeper \n
+//\n光をあびるほどに、あなたの闇は深くなるの。\nその闇を照らすことはできない…
+\n
+The more light you receive, the deeper\n
 your darkness becomes.
 <$0C>
-I can't outshine that darkness. 
+I can't outshine that darkness.
 <$00>
 //密ーブしますか？
 Save game?
 <$1B>
-//、セーブする \nセーブしない
-、Yes \n
-No 
+//、セーブする\nセーブしない
+、Yes\n
+No
 <$00><$17><$00>
 

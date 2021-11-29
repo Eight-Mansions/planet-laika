@@ -19,28 +19,28 @@
 //ゴールド：
 Gold:
 <$0D>
-// \nレッドのやつ、 \n朝っぱらからどこか行きやがったぜ。
- \n
-Red ran off somewhere this morning. 
+//\nレッドのやつ、\n朝っぱらからどこか行きやがったぜ。
+\n
+Red ran off somewhere this morning.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nへへん、いいこと教えてやろうか。 \nレッドのやつだ、やつが何におびえてるか…
- \n
-Hehe, might as well tell you. The guy's \n
-scared of something. 
+//\nへへん、いいこと教えてやろうか。\nレッドのやつだ、やつが何におびえてるか…
+\n
+Hehe, might as well tell you. The guy's\n
+scared of something.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nへへん、知ってるか？ ああん？
- \n
+//\nへへん、知ってるか？ ああん？
+\n
 Think you know what that is?
 <$1B>
-//？知らない \n知ってる
-？No \n
-Yes 
+//？知らない\n知ってる
+？No\n
+Yes
 <$00><$17><$00>
 
 // Pos: 00002B8F
@@ -57,41 +57,41 @@ Yes
 //ゴールド：
 Gold:
 <$0D>
-// \n泡のおじさんだ…どう思う？ \n泡のおじさんだとよ、へへん、笑わせるぜ！
- \n
-"Uncle Bubbles". Like, really? "Uncle \n
-Bubbles"?! Tell me he's not stupid. 
+//\n泡のおじさんだ…どう思う？\n泡のおじさんだとよ、へへん、笑わせるぜ！
+\n
+"Uncle Bubbles". Like, really? "Uncle\n
+Bubbles"?! Tell me he's not stupid.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nガキの頃に一緒に住んでたおじさんで、 \nそいつに妙な可愛がられ方したんだそうだ
- \n
-The guy's real, though. Lived with Red \n
+//\nガキの頃に一緒に住んでたおじさんで、\nそいつに妙な可愛がられ方したんだそうだ
+\n
+The guy's real, though. Lived with Red\n
 when he was a kid. They had some
 <$0C>
-"thing" going on. 
+"thing" going on.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \n今でも夢の中に出て来るらしいぜ。 \nクロウのやつがのぞき見したんだ。
- \n
-Apparently, he still appears in Red's \n
+//\n今でも夢の中に出て来るらしいぜ。\nクロウのやつがのぞき見したんだ。
+\n
+Apparently, he still appears in Red's\n
 dreams. Crow peeked in and saw the
 <$0C>
-guy. 
+guy.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nクロウのやつは人の夢の中がのぞけるんだ。
- \n
-I should mention: Crow has the ability \n
+//\nクロウのやつは人の夢の中がのぞけるんだ。
+\n
+I should mention: Crow has the ability\n
 to peer into peoples' dreams.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002C47
@@ -108,12 +108,12 @@ to peer into peoples' dreams.
 //ゴールド：
 Gold:
 <$0D>
-// \nそうかい、お前もやけに早耳だな。
- \n
+//\nそうかい、お前もやけに早耳だな。
+\n
 Really, now? Guess you're pretty keen.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002C66
@@ -130,13 +130,13 @@ Really, now? Guess you're pretty keen.
 //ゴールド：
 Gold:
 <$0D>
-// \nしかし何かあったのか？ \nレッドのやつがいそいそ出かけるなんてな。
- \n
-I wonder why Red went out. He ain't \n
+//\nしかし何かあったのか？\nレッドのやつがいそいそ出かけるなんてな。
+\n
+I wonder why Red went out. He ain't\n
 exactly one to "frolick in the fields".
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00002C94
@@ -149,18 +149,18 @@ exactly one to "frolick in the fields".
 //ゴールド：
 Gold:
 <$0D>
-// \n何だ、お前、コスマスのことお気に入りか？ \nやばいぜ、レッドのやつに見つかると。
- \n
-Why are you so invested in Cosmas? If \n
-Red catches onto you, you're done for. 
+//\n何だ、お前、コスマスのことお気に入りか？\nやばいぜ、レッドのやつに見つかると。
+\n
+Why are you so invested in Cosmas? If\n
+Red catches onto you, you're done for.
 <$00><$12><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \n扉、壊れちまった、開かねぇんだ！
- \n
-The door's busted. There's no getting \n
-out. 
+//\n扉、壊れちまった、開かねぇんだ！
+\n
+The door's busted. There's no getting\n
+out.
 <$00>
 
 // Pos: 00002CE3
@@ -173,15 +173,15 @@ out.
 //ゴールド：
 Gold:
 <$0D>
-// \nなんだ？ 朝から飲みてぇのか？ \nふん！ やめときな。
- \n
-You haven't been drinking since this \n
+//\nなんだ？ 朝から飲みてぇのか？\nふん！ やめときな。
+\n
+You haven't been drinking since this\n
 morning, have you? Might be time to
 <$0C>
 tap out.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002D0C
@@ -194,64 +194,64 @@ tap out.
 //ゴールド：
 Gold:
 <$0D>
-// \nレッドのやつがさがしてるってよ。 \n気に入られたのか？
- \n
-You're the one Red's looking for, right? \n
+//\nレッドのやつがさがしてるってよ。\n気に入られたのか？
+\n
+You're the one Red's looking for, right?\n
 Must've caught his fancy.
 <$1E>
 //家
-家 
+家
 <$00><$12><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nおい、俺はなぁ、 \n別にお前のこと心配ってわけじゃねぇ、
- \n
-I mean, you live your life, kid. I ain't \n
-exactly worried for your sake. 
+//\nおい、俺はなぁ、\n別にお前のこと心配ってわけじゃねぇ、
+\n
+I mean, you live your life, kid. I ain't\n
+exactly worried for your sake.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nただこれ以上、 \n騒ぎを起こしてほしくねぇんだ、分かるか。
- \n
-I don't want the noise seeping into my \n
+//\nただこれ以上、\n騒ぎを起こしてほしくねぇんだ、分かるか。
+\n
+I don't want the noise seeping into my\n
 bar, got it? That's why they say, "Get a
 <$0C>
-room". 
+room".
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nレッドのやつが戻った…
- \n
-Red must be back... 
+//\nレッドのやつが戻った…
+\n
+Red must be back...
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nやつは？血眼になってお前をさがしてる、
- \n
-He's lookin' like a mad dog after you. \n
-Eyes all bloodshot, like that. 
+//\nやつは？血眼になってお前をさがしてる、
+\n
+He's lookin' like a mad dog after you.\n
+Eyes all bloodshot, like that.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nどっかそのへんに身を隠すところ、ないか？ \nあるだろ、ちょっと隠れればいいんだ。
- \n
-You don't need to lay low, do you? There \n
-are places to hide, if you need 'em. 
+//\nどっかそのへんに身を隠すところ、ないか？\nあるだろ、ちょっと隠れればいいんだ。
+\n
+You don't need to lay low, do you? There\n
+are places to hide, if you need 'em.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \n部屋の中とかじゃねぇぞ、 \nちょっと隠れるんだ。
- \n
-Even if they aren't permanent, you can \n
+//\n部屋の中とかじゃねぇぞ、\nちょっと隠れるんだ。
+\n
+Even if they aren't permanent, you can\n
 tuck away in some of the different
 <$0C>
-flats. 
+flats.
 <$00>
 
 // Pos: 00002E0F
@@ -264,12 +264,12 @@ flats.
 //ゴールド：
 Gold:
 <$0D>
-// \nどこかに身を隠した方がいいんじゃねぇのか？
- \n
+//\nどこかに身を隠した方がいいんじゃねぇのか？
+\n
 Shouldn't you be hiding somewhere?
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002E34
@@ -286,15 +286,15 @@ Shouldn't you be hiding somewhere?
 //ゴールド：
 Gold:
 <$0D>
-// \nおう… コスマスはどうした… \nレッドのやつが戻るとうるせぇぞ。
- \n
-The heck happened to Cosmas? \n
+//\nおう… コスマスはどうした…\nレッドのやつが戻るとうるせぇぞ。
+\n
+The heck happened to Cosmas?\n
 There'll be a shitstorm once Red comes
 <$0C>
 back and sees him.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002E61
@@ -307,32 +307,32 @@ back and sees him.
 //ゴールド：
 Gold:
 <$0D>
-// \nメディスンマンのやつは戻ったのか？
- \n
-Did that medicine man return? 
+//\nメディスンマンのやつは戻ったのか？
+\n
+Did that medicine man return?
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \n記憶の谷で善人が見つかったとかでよ、 \n善人はすぐ悪に憑かれちまうから \n危ないんだそうだ。
- \n
-A good person was seen in Valles \n
+//\n記憶の谷で善人が見つかったとかでよ、\n善人はすぐ悪に憑かれちまうから\n危ないんだそうだ。
+\n
+A good person was seen in Valles\n
 Memoriae, meaning they'll soon be
 <$0C>
-posessed by evil. 
+posessed by evil.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nあんたのお仲間なのか？ \nそいつは善人だったのか？
- \n
-It's not safe. Could it be your friend? \n
+//\nあんたのお仲間なのか？\nそいつは善人だったのか？
+\n
+It's not safe. Could it be your friend?\n
 Are any of your companions good
 <$0C>
 people?
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002EE0
@@ -345,13 +345,13 @@ people?
 //ゴールド：
 Gold:
 <$0D>
-// \nま、白い紙はいろんな色になるってことよ。
- \n
-A white sheet of paper can be turned \n
+//\nま、白い紙はいろんな色になるってことよ。
+\n
+A white sheet of paper can be turned\n
 any color you pick.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002F03
@@ -364,21 +364,21 @@ any color you pick.
 //ゴールド：
 Gold:
 <$0D>
-// \nおう、お前、レッドに何したんだ？ \n変なこと口走りながら出て行きやがったぜ。
- \n
-What did you do to Red? He just walked \n
-out mumbling something weird. 
+//\nおう、お前、レッドに何したんだ？\n変なこと口走りながら出て行きやがったぜ。
+\n
+What did you do to Red? He just walked\n
+out mumbling something weird.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nありゃ戻らねぇな、もう無理だ。 \n壊れちまってる。
- \n
-There's no saving him now. That guy's \n
+//\nありゃ戻らねぇな、もう無理だ。\n壊れちまってる。
+\n
+There's no saving him now. That guy's\n
 capital F-A-R-gone.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002F5F
@@ -391,20 +391,20 @@ capital F-A-R-gone.
 //ゴールド：
 Gold:
 <$0D>
-// \nレッドのやつ、泡のおじさんが怖いんだ、 \nへへ、ああ見えてもな。
- \n
-Red's scared of Uncle Bubbles, hehe. \n
-Even if none of us can see him. 
+//\nレッドのやつ、泡のおじさんが怖いんだ、\nへへ、ああ見えてもな。
+\n
+Red's scared of Uncle Bubbles, hehe.\n
+Even if none of us can see him.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nほんとだぜ、泡のおじさんだ。
- \n
+//\nほんとだぜ、泡のおじさんだ。
+\n
 Yup, Uncle Bubbles is thin air to me.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00002FA5
@@ -425,13 +425,13 @@ Yup, Uncle Bubbles is thin air to me.
 //ゴールド：
 Gold:
 <$0D>
-// \nあのレッドの野郎がなぁ… \nどうなっちまったんだ。
- \n
-Red, Red, Red... I wonder what \n
+//\nあのレッドの野郎がなぁ…\nどうなっちまったんだ。
+\n
+Red, Red, Red... I wonder what\n
 happened to that sick pup.
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00002FCC
@@ -444,10 +444,10 @@ happened to that sick pup.
 //スペーサー：
 Spacer:
 <$0D>
-// \n今度はひときわ強いぞ… \nああ、気が変になりそうだ。
- \n
-It's especially strong this time. Ugh, I \n
-feel like I'm going crazy. 
+//\n今度はひときわ強いぞ…\nああ、気が変になりそうだ。
+\n
+It's especially strong this time. Ugh, I\n
+feel like I'm going crazy.
 <$00>
 
 // Pos: 00002FF6
@@ -456,38 +456,38 @@ feel like I'm going crazy.
 
 #WHB(PTR, $00000C39)
 
- 
+
 <$00>
 //     第２２日 テベスの月
-   The Twenty-second of Tevet 
+   The Twenty-second of Tevet
 <$0C>
-//この歳になって、ヨセミテ、悪夢にうなされた。 \nなんと、悪夢は \n全ての人に通じていることを発見。
-At this age I, Yosemite, had a \n
-nightmare. I learned that nightmares \n
-are common for everyone. 
+//この歳になって、ヨセミテ、悪夢にうなされた。\nなんと、悪夢は\n全ての人に通じていることを発見。
+At this age I, Yosemite, had a\n
+nightmare. I learned that nightmares\n
+are common for everyone.
 <$0C>
-//いろんな人間のおこないが \n手に取るように見えた。
-It seems I'm picking up all sorts of \n
-human behaviors. 
+//いろんな人間のおこないが\n手に取るように見えた。
+It seems I'm picking up all sorts of\n
+human behaviors.
 <$0C>
-//なかでもダークマンの名を呼ぶ少年には \nおどろかされる。 惑動すら覚える。 \nあの少年、コスマスは作り主だ。
-The boy who calls out the name "Dark \n
-Man", Cosmas, is especially \n
-surprising. He is Dark Man's creator. 
+//なかでもダークマンの名を呼ぶ少年には\nおどろかされる。 惑動すら覚える。\nあの少年、コスマスは作り主だ。
+The boy who calls out the name "Dark\n
+Man", Cosmas, is especially\n
+surprising. He is Dark Man's creator.
 <$0C>
-//すばらしい！ \nダークマンは、心の友である。 私にも \nあのようなことが、できるのであろうか。
-How splendid it is, that Dark Man is his \n
-tulpa. I wonder if I will acquire this \n
-ability too. 
+//すばらしい！\nダークマンは、心の友である。 私にも\nあのようなことが、できるのであろうか。
+How splendid it is, that Dark Man is his\n
+tulpa. I wonder if I will acquire this\n
+ability too.
 <$0C>
-//念じて念じて、 \nやがて友が現れてくれるのであろうか。
-Wish I may, and wish I might, will a \n
-friend appear before my sight? 
+//念じて念じて、\nやがて友が現れてくれるのであろうか。
+Wish I may, and wish I might, will a\n
+friend appear before my sight?
 <$0C>
-//苦しみから逃れるだけではいけない。 \n私はまた学んだ。
-Try as I might, it is not so easy to escape \n
-one's suffering. That, I have learned \n
-too. 
+//苦しみから逃れるだけではいけない。\n私はまた学んだ。
+Try as I might, it is not so easy to escape\n
+one's suffering. That, I have learned\n
+too.
 <$00>
 
 // Pos: 00003109
@@ -500,9 +500,9 @@ too.
 //スペーサー：
 Spacer:
 <$0D>
-// \nダークマンは実体を持たないのか？ \nそれとも…
- \n
-Does Dark Man not have a true form?? \n
-Then, that only means... 
+//\nダークマンは実体を持たないのか？\nそれとも…
+\n
+Does Dark Man not have a true form??\n
+Then, that only means...
 <$00>
 

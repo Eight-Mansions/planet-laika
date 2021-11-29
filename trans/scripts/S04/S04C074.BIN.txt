@@ -15,9 +15,9 @@
 //イースト：
 East:
 <$0D>
-// \nおい、どこ行く？
- \n
-Where are you going? 
+//\nおい、どこ行く？
+\n
+Where are you going?
 <$00>
 
 // Pos: 00001B68
@@ -30,9 +30,9 @@ Where are you going?
 //ウェスト：
 West:
 <$0D>
-// \n知ってるだろ。
- \n
-You should know! 
+//\n知ってるだろ。
+\n
+You should know!
 <$00>
 
 // Pos: 00001B7A
@@ -45,9 +45,9 @@ You should know!
 //イースト：
 East:
 <$0D>
-// \nリトルさん。
- \n
-To Little? 
+//\nリトルさん。
+\n
+To Little?
 <$00>
 
 // Pos: 00001B8A
@@ -60,9 +60,9 @@ To Little?
 //ウェスト：
 West:
 <$0D>
-// \n居場所だ。
- \n
-To where they were! 
+//\n居場所だ。
+\n
+To where they were!
 <$00>
 
 // Pos: 00001B9C
@@ -75,9 +75,9 @@ To where they were!
 //イースト：
 East:
 <$0D>
-// \n物音がした。
- \n
-Where the sounds were? 
+//\n物音がした。
+\n
+Where the sounds were?
 <$00>
 
 // Pos: 00001BAE
@@ -90,9 +90,9 @@ Where the sounds were?
 //ウェスト：
 West:
 <$0D>
-// \nロッジだ。
- \n
-To the lodge! 
+//\nロッジだ。
+\n
+To the lodge!
 <$00>
 
 // Pos: 00001BBD
@@ -105,9 +105,9 @@ To the lodge!
 //イースト：
 East:
 <$0D>
-// \nあいつらの。
- \n
-To everyone? 
+//\nあいつらの。
+\n
+To everyone?
 <$00>
 
 // Pos: 00001BCD
@@ -120,9 +120,9 @@ To everyone?
 //ウェスト：
 West:
 <$0D>
-// \n連れてけ。
- \n
-Come along! 
+//\n連れてけ。
+\n
+Come along!
 <$00>
 
 // Pos: 00001BDD
@@ -135,9 +135,9 @@ Come along!
 //ウェスト：
 West:
 <$0D>
-// \n今すぐだ。
- \n
-There's no time! 
+//\n今すぐだ。
+\n
+There's no time!
 <$00>
 
 // Pos: 00001BED
@@ -150,25 +150,25 @@ There's no time!
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nねぇ、また始まったよ、コスマスの独り言。 \nあの子、おかしいのよ、変よ、
- \n
-Cosmas is talking to himself again \n
+//\nねぇ、また始まったよ、コスマスの独り言。\nあの子、おかしいのよ、変よ、
+\n
+Cosmas is talking to himself again\n
 through the back alley window. What
 <$0C>
-an odd kid. 
+an odd kid.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nダークマンがどうしたこうしたって… \nいじめられすぎたのね。 \n窓のところに回ってみれば？開こえるから。
- \n
-"Dark Man" this, "Dark Man" that. The \n
+//\nダークマンがどうしたこうしたって…\nいじめられすぎたのね。\n窓のところに回ってみれば？開こえるから。
+\n
+"Dark Man" this, "Dark Man" that. The\n
 others will make fun of him if he keeps
 <$0C>
 up.
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 00001C61
@@ -181,15 +181,15 @@ up.
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nコスマスがまたお話ごっこを始めたのよ。 \n開こえるから…窓のところよ。 \nあなた、開き耳、得意なんでしょ？
- \n
-Cosmas is talking to himself again. \n
+//\nコスマスがまたお話ごっこを始めたのよ。\n開こえるから…窓のところよ。\nあなた、開き耳、得意なんでしょ？
+\n
+Cosmas is talking to himself again.\n
 Don't eavesdrop through the back
 <$0C>
 alley window, okay?
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00001CAA
@@ -202,28 +202,28 @@ alley window, okay?
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nたしかにね、そうよね、
- \n
-There's not a doubt in my mind. 
+//\nたしかにね、そうよね、
+\n
+There's not a doubt in my mind.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nコスマスってどこか人の心を見通してるような \nところがあるのよね。
- \n
-There's something about Cosmas. It's \n
-like he can read people's minds. 
+//\nコスマスってどこか人の心を見通してるような\nところがあるのよね。
+\n
+There's something about Cosmas. It's\n
+like he can read people's minds.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nじっと見つめられるとさ、 \n心がスケスケになるのよね。
- \n
-What else would he be doing with that \n
+//\nじっと見つめられるとさ、\n心がスケスケになるのよね。
+\n
+What else would he be doing with that\n
 dead-eyed stare?
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 00001D14
@@ -236,59 +236,59 @@ dead-eyed stare?
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n鏡のところには行ったの？ \n鏡はね、人をまどわすのよ…
- \n
-Did you find the mirror? I think mirrors \n
-are untrustworthy. 
+//\n鏡のところには行ったの？\n鏡はね、人をまどわすのよ…
+\n
+Did you find the mirror? I think mirrors\n
+are untrustworthy.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n昔ね、リャンハウス始まって以来の \n美人がいたの、アマンダって名前の女よ。
- \n
-Long ago, ever since House Liang first \n
+//\n昔ね、リャンハウス始まって以来の\n美人がいたの、アマンダって名前の女よ。
+\n
+Long ago, ever since House Liang first\n
 came to be, there was a gorgeous
 <$0C>
-woman named Amanda. 
+woman named Amanda.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n最高にキレイなお顔を手に入れて、 \nいつも鏡に見入っていたの。
- \n
-She had the most beautiful face, and \n
+//\n最高にキレイなお顔を手に入れて、\nいつも鏡に見入っていたの。
+\n
+She had the most beautiful face, and\n
 she was always looking at it through a
 <$0C>
-mirror. 
+mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nそしたらどうなったと思う？
- \n
-And then...something happened, you \n
-know? It's a strange story, really. 
+//\nそしたらどうなったと思う？
+\n
+And then...something happened, you\n
+know? It's a strange story, really.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n変なお話よ。アマンダは鏡に飲込まれて、 \n鏡の精になったのよ。
- \n
-Amanda was swallowed by her own \n
+//\n変なお話よ。アマンダは鏡に飲込まれて、\n鏡の精になったのよ。
+\n
+Amanda was swallowed by her own\n
 mirror, and that's how she became a
 <$0C>
-mirror spirit. 
+mirror spirit.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nこんなのって、信じられる？
- \n
+//\nこんなのって、信じられる？
+\n
 Can you believe such a tale?
 <$1B>
-//？信じる \n信じない
-？Yes \n
-No 
+//？信じる\n信じない
+？Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00001E0C
@@ -301,29 +301,29 @@ No
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n鏡の精よ、そんなのいるの… \nだったらオバケのことじゃないの？
- \n
-Mirror spirits do exist, but...if they're \n
-not ghosts, what are they? 
+//\n鏡の精よ、そんなのいるの…\nだったらオバケのことじゃないの？
+\n
+Mirror spirits do exist, but...if they're\n
+not ghosts, what are they?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nそういえばリンダが鏡のそばでなにやら \nブツブツやってるの、見たわよ。
-That reminds me... \n
-Recently, I saw Linda mumbling in \n
-front of the mirror. 
+//\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
+That reminds me...\n
+Recently, I saw Linda mumbling in\n
+front of the mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nオバケ、呼出してたりしてね、 \nああいやだ。
- \n
-I wonder if she's taken to talking to \n
+//\nオバケ、呼出してたりしてね、\nああいやだ。
+\n
+I wonder if she's taken to talking to\n
 ghosts? How spooky!
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 00001E88
@@ -336,31 +336,31 @@ ghosts? How spooky!
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nそうよね、鏡の精なんてね。 \n案外オバケの正体だったりしてね…
- \n
-That's right, she's a mirror spirit! You \n
+//\nそうよね、鏡の精なんてね。\n案外オバケの正体だったりしてね…
+\n
+That's right, she's a mirror spirit! You\n
 learn some strange things once you
 <$0C>
-pull off the mask. 
+pull off the mask.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nそういえばリンダが鏡のそばでなにやら \nブツブツやってるの、見たわよ。
- \n
-That reminds me... Recently, I saw \n
-Linda mumbling in front of the mirror. 
+//\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
+\n
+That reminds me... Recently, I saw\n
+Linda mumbling in front of the mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nオバケ、呼出してたりしてね、 \nああいやだ。
- \n
-I wonder if she's taken to talking to \n
+//\nオバケ、呼出してたりしてね、\nああいやだ。
+\n
+I wonder if she's taken to talking to\n
 ghosts? How spooky!
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 00001F08
@@ -373,14 +373,14 @@ ghosts? How spooky!
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nあのときのリンダ、 \nリンダじゃないみたいだった… \n鏡って怖いのよ、人をおかしくさせるから。
- \n
-When I saw Linda that time, she looked \n
+//\nあのときのリンダ、\nリンダじゃないみたいだった…\n鏡って怖いのよ、人をおかしくさせるから。
+\n
+When I saw Linda that time, she looked\n
 so different. Mirrors scare me
 <$0C>
 because they make people crazy.
 <$1E>
 //中
-中 
+中
 <$00>
 

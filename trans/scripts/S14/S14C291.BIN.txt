@@ -15,23 +15,23 @@
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n俺たち、 \nたち、
- \n
-Who saw it? (The green light!) 
+//\n俺たち、\nたち、
+\n
+Who saw it? (The green light!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n綠の光、 \n光、
- \n
-The green light? (We saw it!) 
+//\n綠の光、\n光、
+\n
+The green light? (We saw it!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n一緒になった、 \nなった。
- \n
-And now, we are one. 
+//\n一緒になった、\nなった。
+\n
+And now, we are one.
 <$00>
 
 // Pos: 00000F8C
@@ -44,23 +44,23 @@ And now, we are one.
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n互いが互いに互いだ、 \n分かるんだ、
- \n
-We understand? (One another!) 
+//\n互いが互いに互いだ、\n分かるんだ、
+\n
+We understand? (One another!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \nそうなりゃ、 \nなりゃ、
- \n
-Go along with? (One another!) 
+//\nそうなりゃ、\nなりゃ、
+\n
+Go along with? (One another!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n便利で不便だ、 \n不便だ。
- \n
-It is convenient and inconvenient. 
+//\n便利で不便だ、\n不便だ。
+\n
+It is convenient and inconvenient.
 <$00>
 
 // Pos: 00000FE5
@@ -73,30 +73,30 @@ It is convenient and inconvenient.
 //イーストウェスト：
 EastWest：
 <$0D>
-// \nいろんなこと、 \nこと、
- \n
-We can hear? (We can!) 
+//\nいろんなこと、\nこと、
+\n
+We can hear? (We can!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \nよく開こえる、 \nえる、
- \n
-All sorts of things? (All sorts!) 
+//\nよく開こえる、\nえる、
+\n
+All sorts of things? (All sorts!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \nヘロデさんが預言、 \n預言、
- \n
-Like murmurs? (Herod's murmurs!) 
+//\nヘロデさんが預言、\n預言、
+\n
+Like murmurs? (Herod's murmurs!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \nつぶやき始めた。
- \n
-He began to murmur a prophecy. 
+//\nつぶやき始めた。
+\n
+He began to murmur a prophecy.
 <$00>
 
 // Pos: 00001049
@@ -109,33 +109,33 @@ He began to murmur a prophecy.
 //イーストウェスト：
 EastWest：
 <$0D>
-// \nヘロデさんお前を、 \nお前を、
- \n
-Who calls for you? (Herod calls!) 
+//\nヘロデさんお前を、\nお前を、
+\n
+Who calls for you? (Herod calls!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n呼んでる、 \nでる。
- \n
-Herod calls for who? (You!) 
+//\n呼んでる、\nでる。
+\n
+Herod calls for who? (You!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n奥だ、 \nアガタだ、
- \n
-To the back? (To Agatha!) 
+//\n奥だ、\nアガタだ、
+\n
+To the back? (To Agatha!)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n寝室だ。
- \n
+//\n寝室だ。
+\n
 To the bedroom.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 000010A9
@@ -148,18 +148,18 @@ To the bedroom.
 //イーストウェスト：
 EastWest：
 <$0D>
-// \nヘロデさん、 \nお前を呼ぶ、 \n呼ぶ。
- \n
-Who calls for you? (Herod calls) 
+//\nヘロデさん、\nお前を呼ぶ、\n呼ぶ。
+\n
+Who calls for you? (Herod calls)
 <$0C><$0B>
 //イーストウェスト：
 EastWest：
 <$0D>
-// \n中だ入れ、 \n入れ。
- \n
+//\n中だ入れ、\n入れ。
+\n
 He asks that you come in.
 <$1E>
 //家
-家 
+家
 <$00>
 

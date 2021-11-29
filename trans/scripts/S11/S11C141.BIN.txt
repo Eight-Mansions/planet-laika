@@ -15,10 +15,10 @@
 //マウンテン：
 Mountain:
 <$0D>
-// \nあんたも見えるんだな、あの目が。そうだろう、 \nタイプなんだよ、私たちと同じタイプだ。
- \n
-If you saw the eye, you must be the \n
-same type as us! 
+//\nあんたも見えるんだな、あの目が。そうだろう、\nタイプなんだよ、私たちと同じタイプだ。
+\n
+If you saw the eye, you must be the\n
+same type as us!
 <$00>
 
 // Pos: 000034BB
@@ -31,15 +31,15 @@ same type as us!
 //マウンテン：
 Mountain:
 <$0D>
-// \nいろんなことが関連づいてる。 \nおい、ロックバースの奇跡を知ってるか？
- \n
-Everything is connected! Why, you've \n
+//\nいろんなことが関連づいてる。\nおい、ロックバースの奇跡を知ってるか？
+\n
+Everything is connected! Why, you've\n
 heard of rock birth, haven't you?
 <$1B>
-//。知っている \n知らない
+//。知っている\n知らない
 。Yes
 <$0C>
-No 
+No
 <$00><$17><$00>
 
 // Pos: 000034FD
@@ -52,22 +52,22 @@ No
 //ヤング：
 Yang:
 <$0D>
-// \nロックバースだ、岩から世界が生まれるんだ。 \nふん！預言なんてインチキだ。流刑者だぞ、
- \n
-"Rock birth" means the world was born \n
+//\nロックバースだ、岩から世界が生まれるんだ。\nふん！預言なんてインチキだ。流刑者だぞ、
+\n
+"Rock birth" means the world was born\n
 from rocks, unlike what those
 <$0C>
-prophecies say. 
+prophecies say.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nエレミヤとかいうやつはただの流刑者だ、 \nしかも今は腐れミイラだ、ははっ！
- \n
-Spouting that bull is what got Jeremiah \n
+//\nエレミヤとかいうやつはただの流刑者だ、\nしかも今は腐れミイラだ、ははっ！
+\n
+Spouting that bull is what got Jeremiah\n
 exiled. And now, his mummy is rotting
 <$0C>
-away. 
+away.
 <$00>
 
 // Pos: 00003569
@@ -80,28 +80,28 @@ away.
 //マウンテン：
 Mountain:
 <$0D>
-// \nロックバースは火星の宿命だ。
- \n
-Rock birth is Mars' very destiny. That \n
-Galil idiot never had the right idea. 
+//\nロックバースは火星の宿命だ。
+\n
+Rock birth is Mars' very destiny. That\n
+Galil idiot never had the right idea.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nガリルとか言うバカも関係ない、これは宇宙の \n波動がもたらすイベントなんだ。
- \n
-You see, the real miracle will be a \n
+//\nガリルとか言うバカも関係ない、これは宇宙の\n波動がもたらすイベントなんだ。
+\n
+You see, the real miracle will be a\n
 seismic event brought on by waves
 <$0C>
-from outer space. 
+from outer space.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nそしていよいよその時が来たのだ。
- \n
-And now, the hour for that seismic \n
-event is finally upon us! 
+//\nそしていよいよその時が来たのだ。
+\n
+And now, the hour for that seismic\n
+event is finally upon us!
 <$00>
 
 // Pos: 000035D7
@@ -114,10 +114,10 @@ event is finally upon us!
 //ヤング：
 Yang:
 <$0D>
-// \n俺たちはなぁ、波動にかかわってるんだ、 \nそうだよなマウンテン？
- \n
-We'll all be directly influenced by the \n
-waves, won't we, Mountain? 
+//\n俺たちはなぁ、波動にかかわってるんだ、\nそうだよなマウンテン？
+\n
+We'll all be directly influenced by the\n
+waves, won't we, Mountain?
 <$00>
 
 // Pos: 00003601
@@ -130,35 +130,35 @@ waves, won't we, Mountain?
 //マウンテン：
 Mountain:
 <$0D>
-// \nもともと波動の乱れは深刻だ。放置しておいたら \nいろんな意味が失われてしまう。
- \n
-By nature, the disturbance will be \n
+//\nもともと波動の乱れは深刻だ。放置しておいたら\nいろんな意味が失われてしまう。
+\n
+By nature, the disturbance will be\n
 serious, and various senses could be
 <$0C>
-cut off. 
+cut off.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n例えば３だ。３と１は緊張した関係にある。 \n同じ奇数というだけではない。
- \n
-Anyways, think about the number \n
+//\n例えば３だ。３と１は緊張した関係にある。\n同じ奇数というだけではない。
+\n
+Anyways, think about the number\n
 three. Three and one are closely
 <$0C>
-connected odd numbers. 
+connected odd numbers.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n３と１だ、お前はどっちの味方なんだ？
- \n
-And yet, they are not the same! Three \n
+//\n３と１だ、お前はどっちの味方なんだ？
+\n
+And yet, they are not the same! Three\n
 or one: which do you choose?
 <$1B>
-//「３ \n１
+//「３\n１
 「３
 <$0C>
-１ 
+１
 <$00><$17><$00>
 
 // Pos: 00003696
@@ -171,10 +171,10 @@ or one: which do you choose?
 //ヤング：
 Yang:
 <$0D>
-// \nマウンテンはな、どんなことでも \n関係に目が行くんだ。
- \n
-As Mountain said, we're all connected \n
-in crazy ways. 
+//\nマウンテンはな、どんなことでも\n関係に目が行くんだ。
+\n
+As Mountain said, we're all connected\n
+in crazy ways.
 <$00>
 
 // Pos: 000036BD
@@ -187,40 +187,40 @@ in crazy ways.
 //マウンテン：
 Mountain:
 <$0D>
-// \nつながった１と３はプラスの世界ではもちろん、 \nマイナスの世界でも緊張関係にある。
- \n
-Positive "one" and "three" are tightly \n
+//\nつながった１と３はプラスの世界ではもちろん、\nマイナスの世界でも緊張関係にある。
+\n
+Positive "one" and "three" are tightly\n
 connected, as are negative "one" and
 <$0C>
-"three". 
+"three".
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nそこに気が付いた私はこのマシンを作った。 \nスペースアンプだ。
- \n
-I noticed that yin/yang relationship, \n
+//\nそこに気が付いた私はこのマシンを作った。\nスペースアンプだ。
+\n
+I noticed that yin/yang relationship,\n
 and made this machine: the Space
 <$0C>
-A.M.P.! 
+A.M.P.!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n見ろ！ あそこに書いてあるAとMの後ろに \nピリオドはいらない、そう思ってるだろ。
- \n
-Look, I know we don't need the periods \n
+//\n見ろ！ あそこに書いてあるAとMの後ろに\nピリオドはいらない、そう思ってるだろ。
+\n
+Look, I know we don't need the periods\n
 between the letters, but do you think I
 <$0C>
-care?! 
+care?!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nこれでいいんだ。このアンプがエナジーを \n増やしてくれる、すばらしい体験だ。
- \n
-Once you see this baby amplify energy \n
-first-hand, you'll understand! 
+//\nこれでいいんだ。このアンプがエナジーを\n増やしてくれる、すばらしい体験だ。
+\n
+Once you see this baby amplify energy\n
+first-hand, you'll understand!
 <$00>
 
 // Pos: 00003789
@@ -233,9 +233,9 @@ first-hand, you'll understand!
 //ヤング：
 Yang:
 <$0D>
-// \n賢くなるんだ！ 円周率も覚えるぞ。
- \n
-Get smart, and remember Pi! 
+//\n賢くなるんだ！ 円周率も覚えるぞ。
+\n
+Get smart, and remember Pi!
 <$00>
 
 // Pos: 000037A8
@@ -248,18 +248,18 @@ Get smart, and remember Pi!
 //マウンテン：
 Mountain:
 <$0D>
-// \n宇宙には波動が満ちている。 \n少しずつ周期的に変化する波動を集めて
- \n
-Outer space is full of waves. Our amp \n
-picks up those smaller waves... 
+//\n宇宙には波動が満ちている。\n少しずつ周期的に変化する波動を集めて
+\n
+Outer space is full of waves. Our amp\n
+picks up those smaller waves...
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n幅を持たせることができるんだ。 \n私には確信がある！
- \n
-...and brings them together in one, \n
-focused blast! It's fool-proof! 
+//\n幅を持たせることができるんだ。\n私には確信がある！
+\n
+...and brings them together in one,\n
+focused blast! It's fool-proof!
 <$00>
 
 // Pos: 00003808
@@ -272,9 +272,9 @@ focused blast! It's fool-proof!
 //ヤング：
 Yang:
 <$0D>
-// \nへへーっ！金星だ。 \n正しいのは金星だけなんだ！
- \n
-Hehe, Venus is the one, true way! 
+//\nへへーっ！金星だ。\n正しいのは金星だけなんだ！
+\n
+Hehe, Venus is the one, true way!
 <$00>
 
 // Pos: 0000382D
@@ -287,31 +287,31 @@ Hehe, Venus is the one, true way!
 //マウンテン：
 Mountain:
 <$0D>
-// \n金星からの波動が全ての議準になった。 \nあと少しで幅が決定される。
- \n
-Venusian waves have a standard, so all \n
-we have to do is determine range. 
+//\n金星からの波動が全ての議準になった。\nあと少しで幅が決定される。
+\n
+Venusian waves have a standard, so all\n
+we have to do is determine range.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n幅だ、重要なのは幅なんだ。 \nそこを見落とすやつがおおすぎる。
- \n
-Range. Range is all that matters, but \n
-lots of people overlook it! 
+//\n幅だ、重要なのは幅なんだ。\nそこを見落とすやつがおおすぎる。
+\n
+Range. Range is all that matters, but\n
+lots of people overlook it!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nお前はどうだ？見落としてこなかったか
- \n
-Be honest. You overlooked it too, didn't \n
+//\nお前はどうだ？見落としてこなかったか
+\n
+Be honest. You overlooked it too, didn't\n
 you?
 <$1B>
-//,見落としてきた \n見落とさなかった
+//,見落としてきた\n見落とさなかった
 ,Yes
 <$0C>
-No 
+No
 <$00><$17><$00>
 
 // Pos: 000038C3
@@ -324,10 +324,10 @@ No
 //ヤング：
 Yang:
 <$0D>
-// \n幅が教えてくれるんだ、いろんなことをな。
- \n
-There's a few more things you should \n
-know. 
+//\n幅が教えてくれるんだ、いろんなことをな。
+\n
+There's a few more things you should\n
+know.
 <$00>
 
 // Pos: 000038E2
@@ -339,35 +339,35 @@ know.
 //船マウンテン：
 船Mountain:
 <$0D>
-// \nそうだ、金星人だ。
- \n
-Yes! About the Venusians! 
+//\nそうだ、金星人だ。
+\n
+Yes! About the Venusians!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nまだ発表はしていないが、金星人は \n私たちのことをすでに知っているんだ。
- \n
-No one's outright said it yet, but the \n
-Venusians already know about us. 
+//\nまだ発表はしていないが、金星人は\n私たちのことをすでに知っているんだ。
+\n
+No one's outright said it yet, but the\n
+Venusians already know about us.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n星の鋭行が少し変わったのも \nそのシグナルだと思う。
- \n
-It's possible the minute abnormalities \n
+//\n星の鋭行が少し変わったのも\nそのシグナルだと思う。
+\n
+It's possible the minute abnormalities\n
 in Mars's revolutionary cycle let out a
 <$0C>
-signal. 
+signal.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n彼らもチャネリングしたい、 \n私にはそう思えるのだ。
- \n
-We think they're trying to channeling \n
-us in return. 
+//\n彼らもチャネリングしたい、\n私にはそう思えるのだ。
+\n
+We think they're trying to channeling\n
+us in return.
 <$00>
 
 // Pos: 00003978
@@ -379,12 +379,12 @@ us in return.
 //所ヤング：
 所Yang:
 <$0D>
-// \n金星人は星の鋭行で知らせて来るんだ、 \nすげぇな。
- \n
-It's incredible to think the Venusians \n
+//\n金星人は星の鋭行で知らせて来るんだ、\nすげぇな。
+\n
+It's incredible to think the Venusians\n
 are tracking Mars's movements so
 <$0C>
-closely. 
+closely.
 <$00>
 
 // Pos: 000039A0
@@ -396,28 +396,28 @@ closely.
 //所マウンテン：
 所Mountain:
 <$0D>
-// \nただやっかいなことが起きた。
- \n
-Unfortunately, these revelations are \n
-not without hangups. 
+//\nただやっかいなことが起きた。
+\n
+Unfortunately, these revelations are\n
+not without hangups.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nイーブルマインドが増えて、 \n世界がにごり始めてる。
- \n
-One, being the Evil Mind further \n
-clouding our atmosphere. 
+//\nイーブルマインドが増えて、\n世界がにごり始めてる。
+\n
+One, being the Evil Mind further\n
+clouding our atmosphere.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nこのままではメッセージを \n受け取れなくなってしまう。
- \n
-If it worsens, we'll never be able to \n
+//\nこのままではメッセージを\n受け取れなくなってしまう。
+\n
+If it worsens, we'll never be able to\n
 receive messages from the great
 <$0C>
-beyond. 
+beyond.
 <$00>
 
 // Pos: 00003A07
@@ -430,12 +430,12 @@ beyond.
 //ヤング：
 Yang:
 <$0D>
-// \n実験を急ぐんだ、 \n世界がにごる前になんとかするんだ。
- \n
-We must hasten our experiment, and \n
+//\n実験を急ぐんだ、\n世界がにごる前になんとかするんだ。
+\n
+We must hasten our experiment, and\n
 do something before the world gets
 <$0C>
-too clouded. 
+too clouded.
 <$00>
 
 // Pos: 00003A2F
@@ -448,18 +448,18 @@ too clouded.
 //マウンテン：
 Mountain:
 <$0D>
-// \nちょっと見てくれないか、 \nこのスペースアンプの中にある眼だ、
- \n
-Take a look at the eye on the Space \n
-A.M.P. for us. 
+//\nちょっと見てくれないか、\nこのスペースアンプの中にある眼だ、
+\n
+Take a look at the eye on the Space\n
+A.M.P. for us.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nこいつと思念をかわしてみてくれ。 \n言葉があふれ出てくるだろう…
- \n
-Cross your thoughts with it, and let its \n
-words flow into you... 
+//\nこいつと思念をかわしてみてくれ。\n言葉があふれ出てくるだろう…
+\n
+Cross your thoughts with it, and let its\n
+words flow into you...
 <$00>
 
 // Pos: 00003A87
@@ -480,10 +480,10 @@ words flow into you...
 //ヤング：
 Yang:
 <$0D>
-// \nおいおい、どこ行くつもりだ。 \n見てくれ、眼だ、あの眼だよ！
- \n
-Hey, where are you going? Go look at \n
-that eye. That eye! 
+//\nおいおい、どこ行くつもりだ。\n見てくれ、眼だ、あの眼だよ！
+\n
+Hey, where are you going? Go look at\n
+that eye. That eye!
 <$00>
 
 // Pos: 00003AB0
@@ -496,18 +496,18 @@ that eye. That eye!
 //マウンテン：
 Mountain:
 <$0D>
-// \nどうだ？ 何か分かるか？ \n見えてるんだろ、思念の眼だ。
- \n
-Well? Do you understand now? What \n
-you see is what we call "the mind's eye". 
+//\nどうだ？ 何か分かるか？\n見えてるんだろ、思念の眼だ。
+\n
+Well? Do you understand now? What\n
+you see is what we call "the mind's eye".
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nまさか見えないなんてことはないだろ。 \nどうなんだ？
- \n
-There's no way you couldn't see it! \n
-C'mon, tell us what you saw? 
+//\nまさか見えないなんてことはないだろ。\nどうなんだ？
+\n
+There's no way you couldn't see it!\n
+C'mon, tell us what you saw?
 <$00>
 
 // Pos: 00003AFC
@@ -520,9 +520,9 @@ C'mon, tell us what you saw?
 //ヤング：
 Yang:
 <$0D>
-// \nおい、答えろ！
- \n
-You can tell us! 
+//\nおい、答えろ！
+\n
+You can tell us!
 <$00>
 
 // Pos: 00003B0D
@@ -535,9 +535,9 @@ You can tell us!
 //マウンテン：
 Mountain:
 <$0D>
-// \n独り占めはいけないことだ、本当だ。
- \n
-You can't hog the truth all to yourself! 
+//\n独り占めはいけないことだ、本当だ。
+\n
+You can't hog the truth all to yourself!
 <$00>
 
 // Pos: 00003B2D
@@ -550,10 +550,10 @@ You can't hog the truth all to yourself!
 //ヤング：
 Yang:
 <$0D>
-// \n何とか言え！俺たちをなめてるのか、お前！ \nさっき助けてやったろ。
- \n
-You better prove you're not mocking \n
-us after we helped you earlier. Tell us! 
+//\n何とか言え！俺たちをなめてるのか、お前！\nさっき助けてやったろ。
+\n
+You better prove you're not mocking\n
+us after we helped you earlier. Tell us!
 <$00>
 
 // Pos: 00003B57
@@ -566,9 +566,9 @@ us after we helped you earlier. Tell us!
 //マウンテン：
 Mountain:
 <$0D>
-// \nはは、ヤング、よせ。
- \n
-Come on, Yang. 
+//\nはは、ヤング、よせ。
+\n
+Come on, Yang.
 <$00>
 
 // Pos: 00003B6C
@@ -581,18 +581,18 @@ Come on, Yang.
 //マウンテン：
 Mountain:
 <$0D>
-// \nこいつの頭の中にはいろいろ現れてるんだ。 \n私たちと同じように。
- \n
-If he's anything like us, he's got a lot on \n
-his mind as is. 
+//\nこいつの頭の中にはいろいろ現れてるんだ。\n私たちと同じように。
+\n
+If he's anything like us, he's got a lot on\n
+his mind as is.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nそうだろ、後でたっぷり開かせてもらう、 \nお前の頭の良さを見せてもらう。
- \n
-We can make a good, long show and tell \n
-out of this later. 
+//\nそうだろ、後でたっぷり開かせてもらう、\nお前の頭の良さを見せてもらう。
+\n
+We can make a good, long show and tell\n
+out of this later.
 <$00>
 
 // Pos: 00003BCB
@@ -605,25 +605,25 @@ out of this later.
 //ヤング：
 Yang:
 <$0D>
-// \nおい、お前、このサイコハウスの中にある \nヨセミテの日記、見えるか？ああん？
- \n
-Ugh, fine. Well, did you ever see \n
-Yosemites journal here in Psycho Lab? 
+//\nおい、お前、このサイコハウスの中にある\nヨセミテの日記、見えるか？ああん？
+\n
+Ugh, fine. Well, did you ever see\n
+Yosemites journal here in Psycho Lab?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nどうなんだ…
- \n
-Because, actually... 
+//\nどうなんだ…
+\n
+Because, actually...
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nヨセミテはメディスンマンのひとり、 \n何でも知ってるすばらしいやつだった。
- \n
-Yosemite was the one medicine man \n
-who knew more than any other. 
+//\nヨセミテはメディスンマンのひとり、\n何でも知ってるすばらしいやつだった。
+\n
+Yosemite was the one medicine man\n
+who knew more than any other.
 <$00>
 
 // Pos: 00003C37
@@ -636,12 +636,12 @@ who knew more than any other.
 //マウンテン：
 Mountain:
 <$0D>
-// \nああ、ヨセミテには多くを学んだ… \n彼の日記が見えれば、お前は仲間だ。
- \n
-Oh, we learned so much from \n
+//\nああ、ヨセミテには多くを学んだ…\n彼の日記が見えれば、お前は仲間だ。
+\n
+Oh, we learned so much from\n
 Yosemite! If you're one of us, you can
 <$0C>
-find his journal! 
+find his journal!
 <$00>
 
 // Pos: 00003C6B
@@ -658,13 +658,13 @@ find his journal!
 //ヤング：
 Yang:
 <$0D>
-// \n日記が見えなきゃ、ただのボケだ、 \nそうだろ、マウンテン！
- \n
-Aww, you'd have to be an idiot to not be \n
+//\n日記が見えなきゃ、ただのボケだ、\nそうだろ、マウンテン！
+\n
+Aww, you'd have to be an idiot to not be\n
 able to see it!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00003C95
@@ -681,20 +681,20 @@ able to see it!
 //マウンテン：
 Mountain:
 <$0D>
-// \nああ、そうだな。
- \n
-Well, that may be true. 
+//\nああ、そうだな。
+\n
+Well, that may be true.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nいやきっとこいつには見えるんだ、 \n俺たちに通じるところを惑じるぞ。
- \n
-But I'm talking about our little friend \n
+//\nいやきっとこいつには見えるんだ、\n俺たちに通じるところを惑じるぞ。
+\n
+But I'm talking about our little friend\n
 here. Gotta sense the connection.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00003CD8
@@ -711,29 +711,29 @@ here. Gotta sense the connection.
 //ヤング：
 Yang:
 <$0D>
-// \n何だお前…いまどきそんな無線テレビ、 \nどうしようってんだ？
- \n
-What are you doing with that busted, \n
-old monitor? 
+//\n何だお前…いまどきそんな無線テレビ、\nどうしようってんだ？
+\n
+What are you doing with that busted,\n
+old monitor?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nもう放送なんかしてねぇ。映りっこねぇ！
- \n
-That thing doesn't broadcast or show \n
-anything anymore. 
+//\nもう放送なんかしてねぇ。映りっこねぇ！
+\n
+That thing doesn't broadcast or show\n
+anything anymore.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nさっきは目のサッカクだったんだ、 \nリアルじゃないんだ。
- \n
-Those light tricks it does are optical \n
+//\nさっきは目のサッカクだったんだ、\nリアルじゃないんだ。
+\n
+Those light tricks it does are optical\n
 illusions, at best. None of it's real.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00003D45
@@ -750,15 +750,15 @@ illusions, at best. None of it's real.
 //ヤング：
 Yang:
 <$0D>
-// \n無線テレビなんかより実験だ、 \n今夜の実験にはお前も参加するんだ、いいな。
- \n
-Our experiment will be much cooler \n
+//\n無線テレビなんかより実験だ、\n今夜の実験にはお前も参加するんだ、いいな。
+\n
+Our experiment will be much cooler\n
 than that monitor. You should join us
 <$0C>
 tonight!
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00003D7F
@@ -775,9 +775,9 @@ tonight!
 //マウンテン：
 Mountain:
 <$0D>
-// \nどうした、 \n波動を惑じるようになったのか？
- \n
-Well, kid, can you sense the waves? 
+//\nどうした、\n波動を惑じるようになったのか？
+\n
+Well, kid, can you sense the waves?
 <$00>
 
 // Pos: 00003DA2
@@ -794,10 +794,10 @@ Well, kid, can you sense the waves?
 //ヤング：
 Yang:
 <$0D>
-// \nこいつ！おい、お前、 \nあの魔女に変な魔法でも \nかけられたんじゃねぇのか、ひゃ！
- \n
-A-are you serious?! Hey, kid. Did that \n
-witch cast any weird hexes on you? No? 
+//\nこいつ！おい、お前、\nあの魔女に変な魔法でも\nかけられたんじゃねぇのか、ひゃ！
+\n
+A-are you serious?! Hey, kid. Did that\n
+witch cast any weird hexes on you? No?
 <$00>
 
 // Pos: 00003DD7
@@ -818,13 +818,13 @@ witch cast any weird hexes on you? No?
 //マウンテン：
 Mountain:
 <$0D>
-// \nふふ、今に分かる。 \nこいつが本物かどうかな。
- \n
-We can test that right now. Let's see if \n
+//\nふふ、今に分かる。\nこいつが本物かどうかな。
+\n
+We can test that right now. Let's see if\n
 this kid can really find the journal.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00003DFE
@@ -845,12 +845,12 @@ this kid can really find the journal.
 //ヤング：
 Yang:
 <$0D>
-// \nへっ！ \nどうだかな。
- \n
+//\nへっ！\nどうだかな。
+\n
 All right, whatever you say!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00003E14
@@ -859,60 +859,60 @@ All right, whatever you say!
 
 #WHB(PTR, $00000DD5)
 
- 
+
 <$00><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあー、ライカ君、ライカ君だね…
- \n
-Greetings, Laika. Is that you? 
+//\nあー、ライカ君、ライカ君だね…
+\n
+Greetings, Laika. Is that you?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nいやあ大変だ、地球では火星がおかしなことに \nなったと大騒ぎなんだ。
- \n
-I think Earth finally got a taste of Mars' \n
-uproar. The Face went aglow! 
+//\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
+\n
+I think Earth finally got a taste of Mars'\n
+uproar. The Face went aglow!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n火星の顔が急に光を放ち、 \nいろんな電波や光線が攻撃してくるらしい。
- \n
-It happened suddenly, assaulting us \n
+//\n火星の顔が急に光を放ち、\nいろんな電波や光線が攻撃してくるらしい。
+\n
+It happened suddenly, assaulting us\n
 with a show of radio waves and light
 <$0C>
-beams. 
+beams.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nたんなる光のいたずらだと思いたいが、 \n早くもいくつもの奇跡が報告され始めている。
- \n
-I took it for a prank, but now we're \n
+//\nたんなる光のいたずらだと思いたいが、\n早くもいくつもの奇跡が報告され始めている。
+\n
+I took it for a prank, but now we're\n
 hearing news reports of miracles on
 <$0C>
-Earth! 
+Earth!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあー、ペットが生き返った… \nあー、円周率を思い出した…
- \n
-"Look! My pet came back to life!" \n
-"Listen! I can recite all of Pi!" 
+//\nあー、ペットが生き返った…\nあー、円周率を思い出した…
+\n
+"Look! My pet came back to life!"\n
+"Listen! I can recite all of Pi!"
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nだめだ、これは奇跡ではない。 \nとにかく、何かあったらまた連絡する。
- \n
-Alas, I fear this is no miracle. I'll \n
+//\nだめだ、これは奇跡ではない。\nとにかく、何かあったらまた連絡する。
+\n
+Alas, I fear this is no miracle. I'll\n
 contact you again when there's an
 <$0C>
-update. 
+update.
 <$00>
 
 // Pos: 00003F57
@@ -924,48 +924,48 @@ update.
 //子オクトーバー司令官：
 子Commander October:
 <$0D>
-// \nああ、ライカ君、私にも見えたよ。 \n火星の顔の付近は、確かに妙な輝きに \n包まれている。
- \n
-Greetings, Laika. I saw it too now, the \n
+//\nああ、ライカ君、私にも見えたよ。\n火星の顔の付近は、確かに妙な輝きに\n包まれている。
+\n
+Greetings, Laika. I saw it too now, the\n
 glow enveloping that human face on
 <$0C>
-Mars. 
+Mars.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n火星人がよみがえり、今度は人間の体を求めて \n襲来するんじゃないかと地球では大騒ぎが \n始まった。
- \n
-There's uproar on Earth now: "The \n
+//\n火星人がよみがえり、今度は人間の体を求めて\n襲来するんじゃないかと地球では大騒ぎが\n始まった。
+\n
+There's uproar on Earth now: "The\n
 Martians are back! They want to take
 <$0C>
-our bodies now too"! 
+our bodies now too"!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nライカ君、イーブルマインドの状態は \nどうだろうか？
- \n
-Laika, what is the state of Evil Mind \n
-over there? 
+//\nライカ君、イーブルマインドの状態は\nどうだろうか？
+\n
+Laika, what is the state of Evil Mind\n
+over there?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n一説ではイーブルマインドは \n滅んだ火星人の邪気が実体化したものと \nされている。
- \n
-Remember, in theory, Evil Mind is the \n
+//\n一説ではイーブルマインドは\n滅んだ火星人の邪気が実体化したものと\nされている。
+\n
+Remember, in theory, Evil Mind is the\n
 materialization of the extinct
 <$0C>
-Martians's malice. 
+Martians's malice.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nそれが本当なら、 \nイーブルマインドが今回の騒ぎに \n何か関係しているはずだ。
- \n
-If that is true, Evil Mind's disturbance \n
-must bear some relationship in all this. 
+//\nそれが本当なら、\nイーブルマインドが今回の騒ぎに\n何か関係しているはずだ。
+\n
+If that is true, Evil Mind's disturbance\n
+must bear some relationship in all this.
 <$00>
 
 // Pos: 00004094
@@ -977,25 +977,25 @@ must bear some relationship in all this.
 //子オクトーバー司令官：
 子Commander October:
 <$0D>
-// \nところでクルーのメンバーは \nみんな無事かな。
- \n
-By the way, how is the rest of the crew? \n
-Is everyone safe and sound? 
+//\nところでクルーのメンバーは\nみんな無事かな。
+\n
+By the way, how is the rest of the crew?\n
+Is everyone safe and sound?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n忘れていたんだが、今日はヌーンのお母さんが \n亡くなった日だそうだ。
- \n
-I'd almost forgotten, but today is the \n
-day Noon's mother died. 
+//\n忘れていたんだが、今日はヌーンのお母さんが\n亡くなった日だそうだ。
+\n
+I'd almost forgotten, but today is the\n
+day Noon's mother died.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあああ、また連絡するよ。
- \n
-I'll contact you again soon. 
+//\nあああ、また連絡するよ。
+\n
+I'll contact you again soon.
 <$00>
 
 // Pos: 00004115
@@ -1008,6 +1008,6 @@ I'll contact you again soon.
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-THERE ARE NO MESSAGES. 
+THERE ARE NO MESSAGES.
 <$00>
 

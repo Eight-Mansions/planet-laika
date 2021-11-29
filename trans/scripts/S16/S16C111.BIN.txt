@@ -15,21 +15,21 @@
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nどうなの、
- \n
-How are you faring in the Land of \n
+//\nどうなの、
+\n
+How are you faring in the Land of\n
 Nightmares, 
 <$0F>
-//、悪夢の世界は。 \n何か邪悪な気を惑じない？
-? 
+//、悪夢の世界は。\n何か邪悪な気を惑じない？
+?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nいつもとは建うのよ、壊れそうなのよ。
- \n
-Sense anything wicked? I suspect \n
-things are still tearing at the seams. 
+//\nいつもとは建うのよ、壊れそうなのよ。
+\n
+Sense anything wicked? I suspect\n
+things are still tearing at the seams.
 <$00>
 
 // Pos: 00002B93
@@ -42,20 +42,20 @@ things are still tearing at the seams.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあっ、待って。 これは… あなたのこと。 \nあなたね、
- \n
-Oh, wait. I see... Yes, this pertains to \n
+//\nあっ、待って。 これは… あなたのこと。\nあなたね、
+\n
+Oh, wait. I see... Yes, this pertains to\n
 you, 
 <$0F>
-//… 
+//…
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたのことが… 読めそうよ… \nあなたの過去が。
- \n
-Let me take a closer look, and peer into \n
-your past. 
+//\nあなたのことが… 読めそうよ…\nあなたの過去が。
+\n
+Let me take a closer look, and peer into\n
+your past.
 <$00>
 
 // Pos: 00002BE4
@@ -68,20 +68,20 @@ your past.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nふたり… あなたと… \nあっ、あれはお母さんね、
- \n
-I see two people, you and...ah. It's you \n
-and your mother. 
+//\nふたり… あなたと…\nあっ、あれはお母さんね、
+\n
+I see two people, you and...ah. It's you\n
+and your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n一緒にいるのはあなたのお母さん… \n何か恐ろしいことが起こりそう…
- \n
-A mother and child who were always \n
+//\n一緒にいるのはあなたのお母さん…\n何か恐ろしいことが起こりそう…
+\n
+A mother and child who were always\n
 together until something tragic
 <$0C>
-happened. 
+happened.
 <$00>
 
 // Pos: 00002C3A
@@ -94,26 +94,26 @@ happened.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたの過去、 \nもう少しで読めるわ。
- \n
-Let's take a short peer into your past, \n
-shall we? 
+//\nあなたの過去、\nもう少しで読めるわ。
+\n
+Let's take a short peer into your past,\n
+shall we?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n遠い昔… \nそこからとても強い力がおよんでいるのよ。
- \n
-Back to when you first received your \n
-powerful abilities. 
+//\n遠い昔…\nそこからとても強い力がおよんでいるのよ。
+\n
+Back to when you first received your\n
+powerful abilities.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたのことがわからないと、 \n問顆を解くことはできないわ。
- \n
-Unless we can understand you, we can \n
-never fully solve the puzzle. 
+//\nあなたのことがわからないと、\n問顆を解くことはできないわ。
+\n
+Unless we can understand you, we can\n
+never fully solve the puzzle.
 <$00>
 
 // Pos: 00002CB2
@@ -126,26 +126,26 @@ never fully solve the puzzle.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあやふやだけど、 \nなんとか読めたわ。
- \n
-It's a little hazey, but I managed to see \n
-something when I was peering. 
+//\nあやふやだけど、\nなんとか読めたわ。
+\n
+It's a little hazey, but I managed to see\n
+something when I was peering.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n薄暗い部屋の中… \nあなたとお母さんがいるわ。
- \n
-You're inside of a dim room...you and \n
-your mother. 
+//\n薄暗い部屋の中…\nあなたとお母さんがいるわ。
+\n
+You're inside of a dim room...you and\n
+your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nお母さんはあなたの手を取って… \n何か渡そうとしている…
-/ \n
-Your mother takes your hand. She's \n
-trying to give you something. 
+//\nお母さんはあなたの手を取って…\n何か渡そうとしている…
+/\n
+Your mother takes your hand. She's\n
+trying to give you something.
 <$00>
 
 // Pos: 00002D25
@@ -158,10 +158,10 @@ trying to give you something.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n何かのびんよ… \nお酒でも入っているのかしら。
- \n
-It's some sort of bottle. I wonder, does \n
-it contain liquor? 
+//\n何かのびんよ…\nお酒でも入っているのかしら。
+\n
+It's some sort of bottle. I wonder, does\n
+it contain liquor?
 <$00>
 
 // Pos: 00002D4A
@@ -174,12 +174,12 @@ it contain liquor?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n今度は夜… またふたりでいるわ… \n馬小屋ね、月明かりに照らされて… \nふたりで馬小屋を見ているところね。
- \n
-Evening comes. You two are together \n
+//\n今度は夜… またふたりでいるわ…\n馬小屋ね、月明かりに照らされて…\nふたりで馬小屋を見ているところね。
+\n
+Evening comes. You two are together\n
 again, looking at the stables in the
 <$0C>
-moonlight. 
+moonlight.
 <$00>
 
 // Pos: 00002D96
@@ -192,35 +192,35 @@ moonlight.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nここは… 誰の部屋かしら… \nセルゲイよ、ね、あなたのお義兄さんの部屋…
- \n
-What room are you in...? Sergei's... \n
+//\nここは… 誰の部屋かしら…\nセルゲイよ、ね、あなたのお義兄さんの部屋…
+\n
+What room are you in...? Sergei's...\n
 Yes, you are in your step-brother's
 <$0C>
-room. 
+room.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたとお母さんが… \nクロゼットの扉を開けている…
- \n
-It's you and your mother. You both \n
-stand near Sergei's closet. 
+//\nあなたとお母さんが…\nクロゼットの扉を開けている…
+\n
+It's you and your mother. You both\n
+stand near Sergei's closet.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nセルゲイのシャツを \n手にしたお母さん…
- \n
-Your mother digs through the closet, \n
-until she takes a shirt. 
+//\nセルゲイのシャツを\n手にしたお母さん…
+\n
+Your mother digs through the closet,\n
+until she takes a shirt.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n何かを企んでいるふうよ。 \nあなたは何も覚えてはいないのね
- \n
-She is planning something, but you \n
-don't remember what. 
+//\n何かを企んでいるふうよ。\nあなたは何も覚えてはいないのね
+\n
+She is planning something, but you\n
+don't remember what.
 <$00>
 

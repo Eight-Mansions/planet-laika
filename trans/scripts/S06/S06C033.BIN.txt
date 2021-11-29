@@ -15,41 +15,41 @@
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
-// \nところでお前は…さっきのやつか？ \n私は５号だがな、れっきとした５号だがな。
- \n
-Is it you, whoosh? You, from before? \n
+//\nところでお前は…さっきのやつか？\n私は５号だがな、れっきとした５号だがな。
+\n
+Is it you, whoosh? You, from before?\n
 I'm number five, whoosh. I'm actually
 <$0C>
 five!
 <$1E>
 //理
-理 
+理
 <$00><$10><$0B>
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-// \nだめだめ、今は立入禁止だ。 \n氷がくずれかけている、あぶない、シーシー。
- \n
-It's dangerous! The ice there is \n
+//\nだめだめ、今は立入禁止だ。\n氷がくずれかけている、あぶない、シーシー。
+\n
+It's dangerous! The ice there is\n
 breaking and on the verge of collapse,
 <$0C>
 whoosh!
 <$1E>
 //炎
-炎 
+炎
 <$00><$13><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-// \nお前の連れがアイスレイクに入っていった。 \n今連れ戻すところだ、シー。 \nうろうろするな、シーシー。
- \n
-Saw your friend, whoosh! Went to ice \n
+//\nお前の連れがアイスレイクに入っていった。\n今連れ戻すところだ、シー。\nうろうろするな、シーシー。
+\n
+Saw your friend, whoosh! Went to ice\n
 lake, whoosh. Dangerous, whoosh,
 <$0C>
 whoosh!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00000EF5
@@ -62,9 +62,9 @@ whoosh!
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-// \nおい！ \n大変が起きた！シー！
- \n
-No! Terrible things, whoosh! 
+//\nおい！\n大変が起きた！シー！
+\n
+No! Terrible things, whoosh!
 <$00>
 
 // Pos: 00000F17
@@ -77,12 +77,12 @@ No! Terrible things, whoosh!
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-// \nお前の仲間がアイスレイクに入った、 \nアイスなレイクだ、古い酸索坑道がある、 \nシーシー！
- \n
-Your friend went to Ice Lake, where \n
+//\nお前の仲間がアイスレイクに入った、\nアイスなレイクだ、古い酸索坑道がある、\nシーシー！
+\n
+Your friend went to Ice Lake, where\n
 the old oxygenite mineshaft is,
 <$0C>
-whoosh! 
+whoosh!
 <$00>
 
 // Pos: 00000F5B
@@ -95,10 +95,10 @@ whoosh!
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-// \n連れ戻そうとしたら、アラートだ、 \n警報だ、シー！
- \n
-WE trIEd tO gEt thEm bAck, bUt wE hEArd \n
-thE wArnIng AlErt, whOOsh! 
+//\n連れ戻そうとしたら、アラートだ、\n警報だ、シー！
+\n
+WE trIEd tO gEt thEm bAck, bUt wE hEArd\n
+thE wArnIng AlErt, whOOsh!
 <$00>
 
 // Pos: 00000F88
@@ -111,10 +111,10 @@ thE wArnIng AlErt, whOOsh!
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-// \nお前が行け、シーシー、仲間だろ… \nお前、さっきのやつ？
- \n
-You must go to your friend, whoosh, \n
-whoosh! Go to the girl! 
+//\nお前が行け、シーシー、仲間だろ…\nお前、さっきのやつ？
+\n
+You must go to your friend, whoosh,\n
+whoosh! Go to the girl!
 <$00>
 
 // Pos: 00000FB7
@@ -127,12 +127,12 @@ whoosh! Go to the girl!
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-// \n行け。
- \n
+//\n行け。
+\n
 Go!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00000FCF
@@ -145,12 +145,12 @@ Go!
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
-// \n大変が起きたんだ、シー。
- \n
+//\n大変が起きたんだ、シー。
+\n
 Terrible thing, whoosh!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00000FF2
@@ -163,12 +163,12 @@ Terrible thing, whoosh!
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-// \nお前の仲間だ、シー。
- \n
+//\nお前の仲間だ、シー。
+\n
 It was your friend, whoosh, whoosh!
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 00001012
@@ -181,16 +181,16 @@ It was your friend, whoosh, whoosh!
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-// \nアイスレイクだ、行け、シー。
- \n
+//\nアイスレイクだ、行け、シー。
+\n
 YOU mUst gO tO IcE LAkE, whOOsh!
 <$1E>
 //〇
-〇 
+〇
 <$00><$10>
-//坑道閉鎖まで、あとわずかです。 \n繰り返します、あとわずか。 \nこれは訓練ではありません。
-THE MINESHAFT IS CLOSING SOON. \n
-PLEASE EVACUATE IMMEDIATELY. \n
-THIS IS NOT A DRILL. 
+//坑道閉鎖まで、あとわずかです。\n繰り返します、あとわずか。\nこれは訓練ではありません。
+THE MINESHAFT IS CLOSING SOON.\n
+PLEASE EVACUATE IMMEDIATELY.\n
+THIS IS NOT A DRILL.
 <$00>
 

@@ -15,13 +15,13 @@
 //子フェニックス：
 子Phoenix:
 <$0D>
-// \n僕が？ これは僕の見たものじゃない！ \n
- \n
-Is this my...no! I didn't see this! \n
+//\n僕が？ これは僕の見たものじゃない！\n
+\n
+Is this my...no! I didn't see this!\n
 
 <$0F>
-//だ、あいつだ！ \nここが憎しみの原点なのか！
- did! Was this the origin of their hatred? 
+//だ、あいつだ！\nここが憎しみの原点なのか！
+ did! Was this the origin of their hatred?
 <$0E><$5A><$17><$00>
 
 // Pos: 00001D82
@@ -34,10 +34,10 @@ Is this my...no! I didn't see this! \n
 //フェニックス：
 Phoenix:
 <$0D>
-// \nデスロック… \n死を誘うのか。
- \n
-The deathrock... It beckons those \n
-around it toward death. 
+//\nデスロック…\n死を誘うのか。
+\n
+The deathrock... It beckons those\n
+around it toward death.
 <$00>
 
 // Pos: 00001DA0
@@ -52,9 +52,9 @@ around it toward death.
 //子フェニックス：
 Phoenix:
 <$0D>
-// \n体… これが僕の体… \nはじめてだ、こんなのはじめてだ。 \nあああ、混乱する！
- \n
-This body! T-this is the first time I've \n
-felt anything like this! It's Madness! 
+//\n体… これが僕の体…\nはじめてだ、こんなのはじめてだ。\nあああ、混乱する！
+\n
+This body! T-this is the first time I've\n
+felt anything like this! It's Madness!
 <$0E><$78><$17><$00>
 

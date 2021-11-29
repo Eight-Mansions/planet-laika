@@ -15,39 +15,39 @@
 //フェイ：
 Feng:
 <$0D>
-// \n火星ではみんなヴァニティフェイスよ。
- \n
-Most everyone on Mars knows about \n
-Vanity Face. 
+//\n火星ではみんなヴァニティフェイスよ。
+\n
+Most everyone on Mars knows about\n
+Vanity Face.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n悪口言う人もあるけど、そんな人は \n無理してるだけなのよ。
- \n
-Some people speak ill of them, yes, but \n
+//\n悪口言う人もあるけど、そんな人は\n無理してるだけなのよ。
+\n
+Some people speak ill of them, yes, but\n
 such folks don't want to be reasoned
 <$0C>
-with. 
+with.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n人間の顔になりたいのは誰でもそうよ。
- \n
-We happily welcome anyone looking to \n
-get a human face. 
+//\n人間の顔になりたいのは誰でもそうよ。
+\n
+We happily welcome anyone looking to\n
+get a human face.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nさ、来て。私のお店を案内するわ。
- \n
-Now that we're here, I'll show you \n
+//\nさ、来て。私のお店を案内するわ。
+\n
+Now that we're here, I'll show you\n
 around.
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00001ED5
@@ -60,38 +60,38 @@ around.
 //サミー：
 Sammy:
 <$0D>
-// \nあら、またアタシよ。 \nトミーはね、お酒が入って寝ちゃったの。
- \n
-Heehee, were you expecting me? \n
+//\nあら、またアタシよ。\nトミーはね、お酒が入って寝ちゃったの。
+\n
+Heehee, were you expecting me?\n
 Tommy had a little too much to drink,
 <$0C>
-and he passed out. 
+and he passed out.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nゴールドに開いたわよ。 \nあなた、騒ぎ起こしたんですって。 \nそれも相手はスモーキー…
- \n
-More importantly, Gold told me that \n
-you got into a tussle with Smokey. 
+//\nゴールドに開いたわよ。\nあなた、騒ぎ起こしたんですって。\nそれも相手はスモーキー…
+\n
+More importantly, Gold told me that\n
+you got into a tussle with Smokey.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nイヤね、まったく。 \nどうかしてるのよ… 特に今夜は変よ。
- \n
-People these days... All out here, acting \n
-like it's a full moon so they can go crazy. 
+//\nイヤね、まったく。\nどうかしてるのよ… 特に今夜は変よ。
+\n
+People these days... All out here, acting\n
+like it's a full moon so they can go crazy.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \n今しがたもね、見たのよ、リトル。 \n血相変えて酸索屋から飛び出して行ったのよ。
- \n
-I saw Little leave the oxygen \n
+//\n今しがたもね、見たのよ、リトル。\n血相変えて酸索屋から飛び出して行ったのよ。
+\n
+I saw Little leave the oxygen\n
 dispensary just now, and he too was
 <$0C>
-red in the face! 
+red in the face!
 <$00>
 
 // Pos: 00001F95
@@ -104,22 +104,22 @@ red in the face!
 //サミー：
 Sammy:
 <$0D>
-// \nアタシ、思うんだけど、 \nリトルにもリトルじゃない誰かが \nいるんじゃないかって。
- \n
-Know what I think? I think there's \n
+//\nアタシ、思うんだけど、\nリトルにもリトルじゃない誰かが\nいるんじゃないかって。
+\n
+Know what I think? I think there's\n
 someone else inside of Little besides
 <$0C>
-him. 
+him.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \n前からね、気にはなっていたのよ。 \nさっき走って行ったのは、どうみても建った。 \n何が建うかって…
- \n
-The way he was walking early was \n
+//\n前からね、気にはなっていたのよ。\nさっき走って行ったのは、どうみても建った。\n何が建うかって…
+\n
+The way he was walking early was\n
 totally off! Something's not right with
 <$0C>
-him, a-nope. 
+him, a-nope.
 <$00>
 
 // Pos: 00002002
@@ -132,15 +132,15 @@ him, a-nope.
 //サミー：
 Sammy:
 <$0D>
-// \nそうね…目かな。 目、目が建うの。 \n遠くからだけど分かる、ほんとよ。
- \n
-Little's eyes were off. You can tell \n
+//\nそうね…目かな。 目、目が建うの。\n遠くからだけど分かる、ほんとよ。
+\n
+Little's eyes were off. You can tell\n
 instantly when someone's eyes
 <$0C>
 change.
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 00002035
@@ -153,13 +153,13 @@ change.
 //サミー：
 Sammy:
 <$0D>
-// \nリトルにも誰か別な人がいる、そう思うのよ。 \n目が建うの、ときどき入れ替わってるんじゃ \nないかしら。
- \n
-I think there's someone else inside of \n
+//\nリトルにも誰か別な人がいる、そう思うのよ。\n目が建うの、ときどき入れ替わってるんじゃ\nないかしら。
+\n
+I think there's someone else inside of\n
 Little, because his eyes keep changing.
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00002079
@@ -172,31 +172,31 @@ Little, because his eyes keep changing.
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんよう、 \nまた酒が入ってくらくらきたぜ…
- \n
-Hey, comrade. Guess who had another \n
-drink... 
+//\n兄ちゃんよう、\nまた酒が入ってくらくらきたぜ…
+\n
+Hey, comrade. Guess who had another\n
+drink...
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんよう、 \nアガタのやつと何かやらかそうっていうのか…
- \n
-I heard you might have plans to hit up \n
-that Agatha gal? 
+//\n兄ちゃんよう、\nアガタのやつと何かやらかそうっていうのか…
+\n
+I heard you might have plans to hit up\n
+that Agatha gal?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nあの女は催眠術を使う、危ねぇんだ、 \nようよう、頭ん中、ぐらぐらにされるぞ。
- \n
-Her hypnotherapy will mess with you \n
+//\nあの女は催眠術を使う、危ねぇんだ、\nようよう、頭ん中、ぐらぐらにされるぞ。
+\n
+Her hypnotherapy will mess with you\n
 just as good, a-yup. You'll wanna be
 <$0C>
 careful.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 000020FA
@@ -209,10 +209,10 @@ careful.
 //ヤング：
 Yang:
 <$0D>
-// \nお前、おっかないの、好きなのか？ \nあの女は魔女だ、催眠術使いだ。
- \n
-You like ghastly people, don't you? Like \n
-that hypnotherapist? 
+//\nお前、おっかないの、好きなのか？\nあの女は魔女だ、催眠術使いだ。
+\n
+You like ghastly people, don't you? Like\n
+that hypnotherapist?
 <$00>
 
 // Pos: 0000212B
@@ -225,12 +225,12 @@ that hypnotherapist?
 //ヤング：
 Yang:
 <$0D>
-// \nあの女にかかると、誰でもいいなりだ、 \nなされるがままだ、ひゃ！おっかないぞ。
- \n
-It's like the second she walks in, \n
+//\nあの女にかかると、誰でもいいなりだ、\nなされるがままだ、ひゃ！おっかないぞ。
+\n
+It's like the second she walks in,\n
 everyone's doing what she tells them
 <$0C>
-to! 
+to!
 <$00>
 
 // Pos: 0000215C
@@ -243,23 +243,23 @@ to!
 //ヤング：
 Yang:
 <$0D>
-// \nさっきから無線テレビが点いたり消えたり、 \nそれもアガタの魔術だろ。
- \n
-Our monitor's blinking on and off \n
+//\nさっきから無線テレビが点いたり消えたり、\nそれもアガタの魔術だろ。
+\n
+Our monitor's blinking on and off\n
 again. I bet that's from her witchcraft
 <$0C>
-too. 
+too.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n点いたり消えたり、放送なんかしてないのに、 \nおっかないぞ。
- \n
-What's weirder about that is...it isn't \n
+//\n点いたり消えたり、放送なんかしてないのに、\nおっかないぞ。
+\n
+What's weirder about that is...it isn't\n
 even broadcasting anything!
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 000021B8
@@ -272,21 +272,21 @@ even broadcasting anything!
 //ヤング：
 Yang:
 <$0D>
-// \n俺たちはな、宇宙の力だ、 \n波動の中にいるからな、それが本気なんだ。
- \n
-We don't need magic hoo-ha when we \n
-have the powers of outer space. 
+//\n俺たちはな、宇宙の力だ、\n波動の中にいるからな、それが本気なんだ。
+\n
+We don't need magic hoo-ha when we\n
+have the powers of outer space.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n魔術なんかにはたよらない。宇宙の波動だ。
- \n
-As long as I'm in these waves, that's all \n
+//\n魔術なんかにはたよらない。宇宙の波動だ。
+\n
+As long as I'm in these waves, that's all\n
 I'll ever need.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 0000220E
@@ -299,14 +299,14 @@ I'll ever need.
 //ヤング：
 Yang:
 <$0D>
-// \nあいつらも波動を惑じはじめたのか？ \nなぁ、どう思う…イーストとウェストだ、 \nうろちょろしてたぞ。
- \n
-Are East and West trying to meddle \n
+//\nあいつらも波動を惑じはじめたのか？\nなぁ、どう思う…イーストとウェストだ、\nうろちょろしてたぞ。
+\n
+Are East and West trying to meddle\n
 with the waves? Those two pop up
 <$0C>
 everywhere!
 <$1E>
 //理
-理 
+理
 <$00>
 

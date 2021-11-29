@@ -51,6 +51,13 @@
 	;SLL     00000010 (t4), 00000082 (v1), 01 (1),
 	addu t4, r0, v1
 	
+.org 0x8001c768
+	j multiplyByY
+	nop
+	
+.org 0x8001c784
+	addiu t3, t3, 0xFF90
+	
 
 .org 0x80063640
 ; TODO: Cleanup but im lazy...
@@ -127,6 +134,17 @@ onIncreaseY:
 	sb s4, 3(v0) ; we don't care what it is as long as not zero
 	j 0x8001c910
 	slt v0, s4, t5
+	
+multiplyByY:
+	addu t3, t8, s4 ; the value of this gets set to v0 and then used to calculate the line position on screen... yay.... this is used for 0x8001c784
+	sll t3, t3, 0x04
+	
+	addiu v0, r0, 0x06
+	mult v0, s4
+	mflo v0
+	addu v0, t8, v0
+	j 0x8001c770
+	sll v1, v0, 1
 	
 ; addiu t2, r0, 0x0C
 ; ;sb r0, 1(t1)

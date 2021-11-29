@@ -15,9 +15,9 @@
 //イースト：
 East:
 <$0D>
-// \nはるばる地球から来た。
- \n
-You came from Earth? 
+//\nはるばる地球から来た。
+\n
+You came from Earth?
 <$00>
 
 // Pos: 00002A6A
@@ -30,9 +30,9 @@ You came from Earth?
 //ウェスト：
 West:
 <$0D>
-// \n来た。 \nヘロデさんに用…だと。
- \n
-You came for Herod! 
+//\n来た。\nヘロデさんに用…だと。
+\n
+You came for Herod!
 <$00>
 
 // Pos: 00002A85
@@ -45,9 +45,9 @@ You came for Herod!
 //イースト：
 East:
 <$0D>
-// \nだと。 \n見れば分かる。
- \n
-You can tell? 
+//\nだと。\n見れば分かる。
+\n
+You can tell?
 <$00>
 
 // Pos: 00002A9A
@@ -60,9 +60,9 @@ You can tell?
 //ウェスト：
 West:
 <$0D>
-// \nなら取って来い。
- \n
-Can tell why they came! 
+//\nなら取って来い。
+\n
+Can tell why they came!
 <$00>
 
 // Pos: 00002AAE
@@ -75,10 +75,10 @@ Can tell why they came!
 //イースト：
 East:
 <$0D>
-// \n来い。 赤い石だ。 \n取って来い。
- \n
-Will you come in? Come in with the red \n
-stone? 
+//\n来い。 赤い石だ。\n取って来い。
+\n
+Will you come in? Come in with the red\n
+stone?
 <$00>
 
 // Pos: 00002ACD
@@ -91,9 +91,9 @@ stone?
 //ウェスト：
 West:
 <$0D>
-// \n取ってきたら会わす。
- \n
-Get the red stone! 
+//\n取ってきたら会わす。
+\n
+Get the red stone!
 <$00>
 
 // Pos: 00002AE3
@@ -106,9 +106,9 @@ Get the red stone!
 //イースト：
 East:
 <$0D>
-// \nぴかっと光る。 \nうわさで開いた。
- \n
-The one they say shines brightly? 
+//\nぴかっと光る。\nうわさで開いた。
+\n
+The one they say shines brightly?
 <$00>
 
 // Pos: 00002AFF
@@ -121,10 +121,10 @@ The one they say shines brightly?
 //ウェスト：
 West:
 <$0D>
-// \nブリックロードだ。 \n赤い家。
- \n
-They say, go to the red house on Brick \n
-Road! 
+//\nブリックロードだ。\n赤い家。
+\n
+They say, go to the red house on Brick\n
+Road!
 <$00>
 
 // Pos: 00002B19
@@ -137,9 +137,9 @@ Road!
 //イースト：
 East:
 <$0D>
-// \n扉、開かない。
- \n
-The one where the door won't open? 
+//\n扉、開かない。
+\n
+The one where the door won't open?
 <$00>
 
 // Pos: 00002B2C
@@ -152,9 +152,9 @@ The one where the door won't open?
 //ウェスト：
 West:
 <$0D>
-// \nナゾだ。
- \n
-Who knows! 
+//\nナゾだ。
+\n
+Who knows!
 <$00>
 
 // Pos: 00002B3A
@@ -167,9 +167,9 @@ Who knows!
 //イースト：
 East:
 <$0D>
-// \nなんとかして開けろ。
- \n
-Can the door be opened? 
+//\nなんとかして開けろ。
+\n
+Can the door be opened?
 <$00>
 
 // Pos: 00002B4F
@@ -182,9 +182,9 @@ Can the door be opened?
 //ウェスト：
 West:
 <$0D>
-// \n頭いいと
- \n
-If you're smart! 
+//\n頭いいと
+\n
+If you're smart!
 <$00>
 
 // Pos: 00002B5E
@@ -197,9 +197,9 @@ If you're smart!
 //イースト：
 East:
 <$0D>
-// \n開けられる。
- \n
-So you can go trough? 
+//\n開けられる。
+\n
+So you can go trough?
 <$00>
 
 // Pos: 00002B6F
@@ -212,9 +212,9 @@ So you can go trough?
 //ウェスト：
 West:
 <$0D>
-// \n鏡の部屋の先だ。
- \n
-Through the mirror room! 
+//\n鏡の部屋の先だ。
+\n
+Through the mirror room!
 <$00>
 
 // Pos: 00002B85
@@ -227,9 +227,9 @@ Through the mirror room!
 //イースト：
 East:
 <$0D>
-// \n分かるか、鏡の部屋。
- \n
-The mirror room? 
+//\n分かるか、鏡の部屋。
+\n
+The mirror room?
 <$00>
 
 // Pos: 00002B9C
@@ -242,9 +242,9 @@ The mirror room?
 //ウェスト：
 West:
 <$0D>
-// \nあるんだ、でかい鏡。
- \n
-The room with the vast mirror? 
+//\nあるんだ、でかい鏡。
+\n
+The room with the vast mirror?
 <$00>
 
 // Pos: 00002BB1
@@ -257,9 +257,9 @@ The room with the vast mirror?
 //イースト：
 East:
 <$0D>
-// \n鏡はキライだ、見たくない。
- \n
-The one I hate and do not wish to see? 
+//\n鏡はキライだ、見たくない。
+\n
+The one I hate and do not wish to see?
 <$00>
 
 // Pos: 00002BC9
@@ -272,9 +272,9 @@ The one I hate and do not wish to see?
 //ウェスト：
 West:
 <$0D>
-// \n鏡はタブーだ。
- \n
-Because mirrors are taboo! 
+//\n鏡はタブーだ。
+\n
+Because mirrors are taboo!
 <$00>
 
 // Pos: 00002BDB
@@ -291,13 +291,13 @@ Because mirrors are taboo!
 //イースト：
 East:
 <$0D>
-// \n赤い石、ヘロデさん。 \n分かったか？
- \n
-Will it lead to the red stone and to \n
+//\n赤い石、ヘロデさん。\n分かったか？
+\n
+Will it lead to the red stone and to\n
 Herod?
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00002BFB
@@ -314,12 +314,12 @@ Herod?
 //ウェスト：
 West:
 <$0D>
-// \n分かったろ。赤い家だ。 \nブリックロード。
- \n
+//\n分かったろ。赤い家だ。\nブリックロード。
+\n
 The red house on Brick Road will!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00002C1E
@@ -332,9 +332,9 @@ The red house on Brick Road will!
 //イースト：
 East:
 <$0D>
-// \n来たか、持って、赤い石。
- \n
-You came with the red stone? 
+//\n来たか、持って、赤い石。
+\n
+You came with the red stone?
 <$00>
 
 // Pos: 00002C38
@@ -347,9 +347,9 @@ You came with the red stone?
 //ウェスト：
 West:
 <$0D>
-// \nその顔は、もちろん。
- \n
-That face says yes! 
+//\nその顔は、もちろん。
+\n
+That face says yes!
 <$00>
 
 // Pos: 00002C4D
@@ -362,9 +362,9 @@ That face says yes!
 //イースト：
 East:
 <$0D>
-// \n出せ。
- \n
-Will you give it? 
+//\n出せ。
+\n
+Will you give it?
 <$00>
 
 // Pos: 00002C5B
@@ -377,15 +377,15 @@ Will you give it?
 
 #WHB(PTR, $00000C09)
 
- 
+
 <$00>
-//赤い石を渡しますか？ \n
-Hand over the Red Stone? \n
+//赤い石を渡しますか？\n
+Hand over the Red Stone?\n
 
 <$1B>
-//。渡す \n渡さない
-。Yes \n
-No 
+//。渡す\n渡さない
+。Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00002C78
@@ -398,12 +398,12 @@ No
 //ウェスト：
 West:
 <$0D>
-// \nそれはない。 \nお前は赤い石を持ってる、 \n渡すことでお前は救われる。
- \n
-That's not right, you have the red \n
+//\nそれはない。\nお前は赤い石を持ってる、\n渡すことでお前は救われる。
+\n
+That's not right, you have the red\n
 stone! Giving us the red stone will help
 <$0C>
-you! 
+you!
 <$00>
 
 // Pos: 00002CA8
@@ -416,9 +416,9 @@ you!
 //イースト：
 East:
 <$0D>
-// \nさあ、渡せ。 \n俺たちもたのまれてるんだ、さあ、渡せ。
- \n
-When will you give us the stone? 
+//\nさあ、渡せ。\n俺たちもたのまれてるんだ、さあ、渡せ。
+\n
+When will you give us the stone?
 <$00>
 
 // Pos: 00002CCE
@@ -431,9 +431,9 @@ When will you give us the stone?
 //ウェスト：
 West:
 <$0D>
-// \nこれだ…赤い石…
- \n
-This...is the red stone! 
+//\nこれだ…赤い石…
+\n
+This...is the red stone!
 <$00>
 
 // Pos: 00002CE2
@@ -446,9 +446,9 @@ This...is the red stone!
 //イースト：
 East:
 <$0D>
-// \nよくやった、犬顔。
- \n
-So the dogface did well? 
+//\nよくやった、犬顔。
+\n
+So the dogface did well?
 <$00>
 
 // Pos: 00002CF7
@@ -461,10 +461,10 @@ So the dogface did well?
 //ウェスト：
 West:
 <$0D>
-// \nそうだ、犬だ、お前は！ \n俺たちは犬キライ。
- \n
-That's right! And yes, you're a dog! We \n
-HATE dogs! 
+//\nそうだ、犬だ、お前は！\n俺たちは犬キライ。
+\n
+That's right! And yes, you're a dog! We\n
+HATE dogs!
 <$00>
 
 // Pos: 00002D18
@@ -477,9 +477,9 @@ HATE dogs!
 //イースト：
 East:
 <$0D>
-// \nそう、キライ。
- \n
-Who doesn't? 
+//\nそう、キライ。
+\n
+Who doesn't?
 <$00>
 
 // Pos: 00002D29
@@ -492,9 +492,9 @@ Who doesn't?
 //ウェスト：
 West:
 <$0D>
-// \n犬をけ飛ばす。
- \n
-Dogs should be thrown into space! 
+//\n犬をけ飛ばす。
+\n
+Dogs should be thrown into space!
 <$00>
 
 // Pos: 00002D3C
@@ -507,9 +507,9 @@ Dogs should be thrown into space!
 //イースト：
 East:
 <$0D>
-// \nそう、いじめる。
- \n
-Don't you agree? 
+//\nそう、いじめる。
+\n
+Don't you agree?
 <$00>
 
 // Pos: 00002D4E
@@ -522,9 +522,9 @@ Don't you agree?
 //ウェスト：
 West:
 <$0D>
-// \n好きくないんだ、犬が！
- \n
-We don't even LIKE dogs! 
+//\n好きくないんだ、犬が！
+\n
+We don't even LIKE dogs!
 <$00>
 
 // Pos: 00002D65
@@ -537,9 +537,9 @@ We don't even LIKE dogs!
 //イースト：
 East:
 <$0D>
-// \n犬がな！ひょー！
- \n
-Why should we?! Awoo! 
+//\n犬がな！ひょー！
+\n
+Why should we?! Awoo!
 <$00>
 
 // Pos: 00002D78
@@ -552,9 +552,9 @@ Why should we?! Awoo!
 //ウェスト：
 West:
 <$0D>
-// \nひょー！
- \n
-Awoo! 
+//\nひょー！
+\n
+Awoo!
 <$00>
 
 // Pos: 00002D86
@@ -567,9 +567,9 @@ Awoo!
 //ヘロデ：
 Herod:
 <$0D>
-// \n何の騒ぎだ？
- \n
-All right, what's all the fuss about? 
+//\n何の騒ぎだ？
+\n
+All right, what's all the fuss about?
 <$00>
 
 // Pos: 00002D96
@@ -582,9 +582,9 @@ All right, what's all the fuss about?
 //イースト：
 East:
 <$0D>
-// \n調査とな。
- \n
-The fuss about the survey unit? 
+//\n調査とな。
+\n
+The fuss about the survey unit?
 <$00>
 
 // Pos: 00002DA7
@@ -597,9 +597,9 @@ The fuss about the survey unit?
 //ウェスト：
 West:
 <$0D>
-// \n火星の。
- \n
-The survey unit on Mars! 
+//\n火星の。
+\n
+The survey unit on Mars!
 <$00>
 
 // Pos: 00002DB7
@@ -612,22 +612,22 @@ The survey unit on Mars!
 //ヘロデ：
 Herod:
 <$0D>
-// \nふん、お前か、調査隊っていうのは。 \nまた地球化計画とやらの話が持ち上がったのか。 \nそれでこそこそ調べに来た、そうなんだな。
- \n
-They mean you, kid? So, the \n
+//\nふん、お前か、調査隊っていうのは。\nまた地球化計画とやらの話が持ち上がったのか。\nそれでこそこそ調べに来た、そうなんだな。
+\n
+They mean you, kid? So, the\n
 terraformation project really is back
 <$0C>
-on...and you're here to inspect. 
+on...and you're here to inspect.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \n何をだ、何を調べてる… \nここはうまくいってる、とっとと戻って、 \nそう報告することだ。
- \n
-I mean, I don't know what you \n
+//\n何をだ、何を調べてる…\nここはうまくいってる、とっとと戻って、\nそう報告することだ。
+\n
+I mean, I don't know what you\n
 expected to find out here. Tell them
 <$0C>
-everything's peachy. 
+everything's peachy.
 <$00>
 
 // Pos: 00002E40
@@ -640,10 +640,10 @@ everything's peachy.
 //イースト：
 East:
 <$0D>
-// \nそうだ、うまくだ。
- \n
-Because "peachy" means "no \n
-problems"? 
+//\nそうだ、うまくだ。
+\n
+Because "peachy" means "no\n
+problems"?
 <$00>
 
 // Pos: 00002E53
@@ -656,9 +656,9 @@ problems"?
 //ウェスト：
 West:
 <$0D>
-// \n問顆なしだ。
- \n
-No problems here! 
+//\n問顆なしだ。
+\n
+No problems here!
 <$00>
 
 // Pos: 00002E65
@@ -671,56 +671,56 @@ No problems here!
 //ヘロデ：
 Herod:
 <$0D>
-// \n地球のやつらが、 \nここをどうしようっていうんだ？
- \n
-What do you Earth fogeys want to do \n
-here anyhow? 
+//\n地球のやつらが、\nここをどうしようっていうんだ？
+\n
+What do you Earth fogeys want to do\n
+here anyhow?
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nいいか、これだけは忘れるんじゃない。
- \n
-Maybe this should stay between you \n
-and me, but... 
+//\nいいか、これだけは忘れるんじゃない。
+\n
+Maybe this should stay between you\n
+and me, but...
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \n私はお前たちが見捨てたこの星を \nなんとか立て直そうと、身を粉にして働いた。
- \n
-I worked my ass off to rebuild this \n
+//\n私はお前たちが見捨てたこの星を\nなんとか立て直そうと、身を粉にして働いた。
+\n
+I worked my ass off to rebuild this\n
 planet from the dust up after YOU
 <$0C>
-leeches abandoned it! 
+leeches abandoned it!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \n鉱脈を見つけ酸索石を掘り出して、 \n地球と同じように暮らせるよう努力したんだ。
- \n
-I found the oxygenite veins and \n
+//\n鉱脈を見つけ酸索石を掘り出して、\n地球と同じように暮らせるよう努力したんだ。
+\n
+I found the oxygenite veins and\n
 opened the mines to make this place
 <$0C>
-livable. 
+livable.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nその甲斐あってコロニーはよみがえった。 \nもう流刑地などと呼ばせるわけにはいかない。
- \n
-I revived this colony to be "like Earth", \n
-but that doesn't mean it "is Earth's"! 
+//\nその甲斐あってコロニーはよみがえった。\nもう流刑地などと呼ばせるわけにはいかない。
+\n
+I revived this colony to be "like Earth",\n
+but that doesn't mean it "is Earth's"!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \n不満の冬が終わり、輝く夏に変わったのだ！
- \n
-"Now is the winter of our discontent. \n
+//\n不満の冬が終わり、輝く夏に変わったのだ！
+\n
+"Now is the winter of our discontent.\n
 Made glorious summer by this son
 <$0C>
-of"...me! Herod! 
+of"...me! Herod!
 <$00>
 
 // Pos: 00002F6C
@@ -733,9 +733,9 @@ of"...me! Herod!
 //イースト：
 East:
 <$0D>
-// \n終わったのだ。
- \n
-So winter is over? 
+//\n終わったのだ。
+\n
+So winter is over?
 <$00>
 
 // Pos: 00002F7E
@@ -748,9 +748,9 @@ So winter is over?
 //ウェスト：
 West:
 <$0D>
-// \nそうだ、輝くんだ。
- \n
-Glorious! 
+//\nそうだ、輝くんだ。
+\n
+Glorious!
 <$00>
 
 // Pos: 00002F92
@@ -763,12 +763,12 @@ Glorious!
 //ヘロデ：
 Herod:
 <$0D>
-// \nここにはあらそいもない、失望もない、 \nお前たちの出る幕もない。そういうことだ。
- \n
-So no hard feelings, but no debates. I \n
+//\nここにはあらそいもない、失望もない、\nお前たちの出る幕もない。そういうことだ。
+\n
+So no hard feelings, but no debates. I\n
 won't roll out the red carpet for
 <$0C>
-colonizers. 
+colonizers.
 <$00>
 
 // Pos: 00002FC6
@@ -781,9 +781,9 @@ colonizers.
 //イースト：
 East:
 <$0D>
-// \nことだ。
- \n
-Understand? 
+//\nことだ。
+\n
+Understand?
 <$00>
 
 // Pos: 00002FD4
@@ -796,9 +796,9 @@ Understand?
 //ウェスト：
 West:
 <$0D>
-// \n…
- \n
-... 
+//\n…
+\n
+...
 <$00>
 
 // Pos: 00002FDF
@@ -811,18 +811,18 @@ West:
 //ヘロデ：
 Herod:
 <$0D>
-// \n今夜の宿を用意してやる。 \n明日の朝、飛び立つんだ。
- \n
-I'll arrange a night's stay for you, but \n
-you're to leave tomorrow morning. 
+//\n今夜の宿を用意してやる。\n明日の朝、飛び立つんだ。
+\n
+I'll arrange a night's stay for you, but\n
+you're to leave tomorrow morning.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nイースト、ウェスト、１３号監房にご案内しろ。 \n私はそろそろ休むことにする。
- \n
-East, West, escort this one to Cell 13. \n
-I'm turning in for the night. 
+//\nイースト、ウェスト、１３号監房にご案内しろ。\n私はそろそろ休むことにする。
+\n
+East, West, escort this one to Cell 13.\n
+I'm turning in for the night.
 <$00>
 
 // Pos: 0000303E
@@ -835,9 +835,9 @@ I'm turning in for the night.
 //イースト：
 East:
 <$0D>
-// \nヘロデさんはお休みだ。
- \n
-Will you rest, Herod? 
+//\nヘロデさんはお休みだ。
+\n
+Will you rest, Herod?
 <$00>
 
 // Pos: 00003054
@@ -850,9 +850,9 @@ Will you rest, Herod?
 //ウェスト：
 West:
 <$0D>
-// \n眠いんだ。
- \n
-Herod will sleep! 
+//\n眠いんだ。
+\n
+Herod will sleep!
 <$00>
 
 // Pos: 00003064
@@ -865,9 +865,9 @@ Herod will sleep!
 //イースト：
 East:
 <$0D>
-// \nお前は１３号監房。
- \n
-Will you come to Cell 13? 
+//\nお前は１３号監房。
+\n
+Will you come to Cell 13?
 <$00>
 
 // Pos: 0000307A
@@ -880,219 +880,219 @@ Will you come to Cell 13?
 //ウェスト：
 West:
 <$0D>
-// \n昔は牢屋、今はホテルだ。
- \n
+//\n昔は牢屋、今はホテルだ。
+\n
 What once was a prison is now a hotel!
 <$1E>
 //〇
-〇 
+〇
 <$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
-// \nお前だったのか… \nふん、こそこそ何をかぎ回ってるんだ！
- \n
-Ah, there you are! What are you doing, \n
-snoopin' around?! 
+//\nお前だったのか…\nふん、こそこそ何をかぎ回ってるんだ！
+\n
+Ah, there you are! What are you doing,\n
+snoopin' around?!
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n知ってるの？ ライカのこと。 \nもう会ったの？
- \n
-Do you know Laika? Have you met \n
-before? 
+//\n知ってるの？ ライカのこと。\nもう会ったの？
+\n
+Do you know Laika? Have you met\n
+before?
 <$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
-// \nいや、俺は何も知らない、 \nそうだそうだ、何もな。
- \n
-No. I don't know any such person, got \n
-it? 
+//\nいや、俺は何も知らない、\nそうだそうだ、何もな。
+\n
+No. I don't know any such person, got\n
+it?
 <$00><$11><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nねぇ、どうしてここの人たちは、 \nみんなぴりぴりしてるの？ \n何かよくないことでもあるの？
- \n
-Why is everyone here so on edge then? \n
-You can't ALL be hiding something! 
+//\nねぇ、どうしてここの人たちは、\nみんなぴりぴりしてるの？\n何かよくないことでもあるの？
+\n
+Why is everyone here so on edge then?\n
+You can't ALL be hiding something!
 <$00><$11><$0B>
 //リトル：
 Little:
 <$0D>
-// \nここはカンペキだ。何も悪いところはない。 \n迷信に振り回されて大騒ぎしてるのは \nお前たちの方だ、ええ？
- \n
-Of course not! There's no evil afoot. \n
+//\nここはカンペキだ。何も悪いところはない。\n迷信に振り回されて大騒ぎしてるのは\nお前たちの方だ、ええ？
+\n
+Of course not! There's no evil afoot.\n
 The rumors and uproars are all
 <$0C>
-superstition! 
+superstition!
 <$00><$11><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n迷信？ メディスンマンから開いたのよ、 \nイーブルマインドや黒い騎士の話。 \nどこかで悪が大きく育っているのよ。
- \n
-Superstition? But even the medicine \n
+//\n迷信？ メディスンマンから開いたのよ、\nイーブルマインドや黒い騎士の話。\nどこかで悪が大きく育っているのよ。
+\n
+Superstition? But even the medicine\n
 men told us about Evil Mind and the
 <$0C>
-Black Rider! 
+Black Rider!
 <$00><$11><$0B>
 //リトル：
 Little:
 <$0D>
-// \nやけに威勢がいいな、ええ？ \n隣の倉庫を見たか？ あれが酸索石だ。 \nあれは俺たちが掘り出したものだ。
- \n
-How lovely. Then, you totally don't \n
+//\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
+\n
+How lovely. Then, you totally don't\n
 care about what the warehouse next
 <$0C>
-door stores, right? Our oxygenite? 
+door stores, right? Our oxygenite?
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \nお前たちが見捨てたこの星は、 \nあの酸索石でよみがえる。
- \n
-It is WE who used OUR oxygenite \n
+//\nお前たちが見捨てたこの星は、\nあの酸索石でよみがえる。
+\n
+It is WE who used OUR oxygenite\n
 resources to restore the planet YOU
 <$0C>
-abandoned! 
+abandoned!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \n今さらお前らの手を借りる必要はない、 \nそうだそうだ。
- \n
-PROVING, see, that you are NOT so \n
-indispensible, got it? 
+//\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
+\n
+PROVING, see, that you are NOT so\n
+indispensible, got it?
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \nこの星にはこの星なりのやり方がある、 \nそういうことだ。
- \n
-Mars has its own way of doing things, \n
-and we'll keep doing it ON OUR OWN. 
+//\nこの星にはこの星なりのやり方がある、\nそういうことだ。
+\n
+Mars has its own way of doing things,\n
+and we'll keep doing it ON OUR OWN.
 <$00><$11><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n分からない… \n迷信なら迷信でいいの。
- \n
-I don't understand. I mean, if all it was \n
-were superstition, that'd be fine. 
+//\n分からない…\n迷信なら迷信でいいの。
+\n
+I don't understand. I mean, if all it was\n
+were superstition, that'd be fine.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nでも実際にザ・フェイスの上空で \nおかしな光に包まれたのよ。
- \n
-But even we saw it! The sky about the \n
-Face was engulfed in a strange light! 
+//\nでも実際にザ・フェイスの上空で\nおかしな光に包まれたのよ。
+\n
+But even we saw it! The sky about the\n
+Face was engulfed in a strange light!
 <$00><$11><$0B>
 //リトル：
 Little:
 <$0D>
-// \nザ・フェイスには何の変化もない。 \nあれは滅んだ火星人の \n置きみやげみたいなもんだ。
- \n
-Nothing happened to the Face. That \n
+//\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
+\n
+Nothing happened to the Face. That\n
 thing's only a dumb souvenir left by the
 <$0C>
-Martians. 
+Martians.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \nご希望とあらば、ザ・フェイスを \n火星きっての観光名所にしたって \n構わないんだ、ええ、そうだそうだ。
- \n
-We laid out an oxygenite pipeline up to \n
+//\nご希望とあらば、ザ・フェイスを\n火星きっての観光名所にしたって\n構わないんだ、ええ、そうだそうだ。
+\n
+We laid out an oxygenite pipeline up to\n
 the Face. It's now a tourist spot for you
 <$0C>
-Earthlings. 
+Earthlings.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \n地球のやつら、人間の顔を拝みに \nはるばるやってくるだろう、 \nそうだそうだ、整形屋はおおはやりだ！
- \n
-You all obsess over human faces so \n
+//\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
+\n
+You all obsess over human faces so\n
 bad, you come out here, see it and then
 <$0C>
-pay us for cosmetic surgery! 
+pay us for cosmetic surgery!
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n私たちが着陸しようとしたとき…それに…
- \n
-So, the disruption we had when we \n
-tried to land was only... 
+//\n私たちが着陸しようとしたとき…それに…
+\n
+So, the disruption we had when we\n
+tried to land was only...
 <$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
-// \n操縦を誤っただけだ、よくあることだ、 \nそうだそうだ。
- \n
-A fluke on your engineer's part. It \n
-happens all the time, got it? 
+//\n操縦を誤っただけだ、よくあることだ、\nそうだそうだ。
+\n
+A fluke on your engineer's part. It\n
+happens all the time, got it?
 <$00><$11><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそうね…分かったわ、 \nはぐれたクルーを見つけて、
- \n
-I see. Then, I suppose we should look \n
-for the rest of our crew, 
+//\nそうね…分かったわ、\nはぐれたクルーを見つけて、
+\n
+I see. Then, I suppose we should look\n
+for the rest of our crew,
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nザ・フェイスに何も異変が見あたらなかったら \nさっさと引き揚げる、これでどう？
- \n
-and if nothing else happens to the Face, \n
-we'll leave first thing. Fair? 
+//\nザ・フェイスに何も異変が見あたらなかったら\nさっさと引き揚げる、これでどう？
+\n
+and if nothing else happens to the Face,\n
+we'll leave first thing. Fair?
 <$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
-// \n賢明だ。さっさとな、 \nそれが賢明だ、そうだそうだ。
- \n
-Yes, fantastic even. And you said, \n
-"first thing", got it? 
+//\n賢明だ。さっさとな、\nそれが賢明だ、そうだそうだ。
+\n
+Yes, fantastic even. And you said,\n
+"first thing", got it?
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n船長と機関士がいないと \nロケットを飛ばせないのよ。
- \n
-But we won't fly the rocket without \n
+//\n船長と機関士がいないと\nロケットを飛ばせないのよ。
+\n
+But we won't fly the rocket without\n
 both our captain and our engineer,
 <$0C>
-understand? 
+understand?
 <$00><$11><$0B>
 //リトル：
 Little:
 <$0D>
-// \n仲間さがしには協力をおしまないつもりだ。 \n明日の朝にでも人手を出してやろう、 \nそうだそうだ。
- \n
-Oi, if it speeds things up, I'll dispatch a \n
-search party the mornin'. 
+//\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
+\n
+Oi, if it speeds things up, I'll dispatch a\n
+search party the mornin'.
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nもう行っていい？
- \n
-But Laika and I need to look now! 
+//\nもう行っていい？
+\n
+But Laika and I need to look now!
 <$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
-// \nあのふたりに送らせよう。
- \n
-...Hmph. Excuse me while I speak to the \n
-pair outside. 
+//\nあのふたりに送らせよう。
+\n
+...Hmph. Excuse me while I speak to the\n
+pair outside.
 <$00>
 
 // Pos: 000034DB
@@ -1102,15 +1102,15 @@ pair outside.
 #WHB(PTR, $000015F1)
 
 <$10>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //      
       
 <$0D>
 //赤い石を手に入れた。
-Red Stone acquired. 
+Red Stone acquired.
 <$00>
 
 // Pos: 000034F4
@@ -1119,9 +1119,9 @@ Red Stone acquired.
 
 #WHB(PTR, $000015B5)
 
- 
+
 <$00>
 //アイテムがいっぱいです。
-The item bag is full! 
+The item bag is full!
 <$00>
 

@@ -15,60 +15,60 @@
 //マウンテン：
 Mountain:
 <$0D>
-// \nあ… あ… \nす、すごい考えが来る、止まらないんだ！
- \n
-Ohh! Ohh! Wh-what wonderful \n
-thoughts are coming to me! I can't stop! 
+//\nあ… あ…\nす、すごい考えが来る、止まらないんだ！
+\n
+Ohh! Ohh! Wh-what wonderful\n
+thoughts are coming to me! I can't stop!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nははぁ… ハエだ、ハエの憎しみが…
- \n
-Haa, haa... Flies! Flies! I hate them! 
+//\nははぁ… ハエだ、ハエの憎しみが…
+\n
+Haa, haa... Flies! Flies! I hate them!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nあ… 憎しみがどうした？ \n虫？ 私は虫は嫌いだ。
- \n
-Ohh! What about my hatred? Is it for \n
-insects? I do hate insects...! 
+//\nあ… 憎しみがどうした？\n虫？ 私は虫は嫌いだ。
+\n
+Ohh! What about my hatred? Is it for\n
+insects? I do hate insects...!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nそうか！ 黄金虫か！
- \n
-YES! THE GOLD-BUG! 
+//\nそうか！ 黄金虫か！
+\n
+YES! THE GOLD-BUG!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nそれなら知ってるぞ、見たことあるぞ、 \nお… 青虫になるのか？
- \n
-Oh, yes, I'm aware. I'd seen it. \n
+//\nそれなら知ってるぞ、見たことあるぞ、\nお… 青虫になるのか？
+\n
+Oh, yes, I'm aware. I'd seen it.\n
 Does...does it become a
 <$0C>
-cabbageworm? 
+cabbageworm?
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nウソだ、それはウソだ、 \n黄金虫が青虫になるはずない、いいいい、
- \n
-No, that's wrong! The gold-bug does \n
-NOT become a cabbageworm! Eeeyah! 
+//\nウソだ、それはウソだ、\n黄金虫が青虫になるはずない、いいいい、
+\n
+No, that's wrong! The gold-bug does\n
+NOT become a cabbageworm! Eeeyah!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n母の悲しみ… そういえば俺は悲しい、 \n最も悲しい… ああ… ああ… あああ…
- \n
-Mother's disappointed. Well, so am I, \n
+//\n母の悲しみ… そういえば俺は悲しい、\n最も悲しい… ああ… ああ… あああ…
+\n
+Mother's disappointed. Well, so am I,\n
 by the by. As sad as they get, too. Ohh,
 <$0C>
-ohh...! 
+ohh...!
 <$00>
 
 // Pos: 00002C4C
@@ -81,20 +81,20 @@ ohh...!
 //ヤング：
 Yang:
 <$0D>
-// \nガキだ！ \n…建う、悪ガキだ、そいつが殺したんだ、 \n夜は嫌なものだね、諸君。
- \n
-It was the kid! No, that devil! He killed \n
-them! I HATE the night! I HATE the cycle! 
+//\nガキだ！\n…建う、悪ガキだ、そいつが殺したんだ、\n夜は嫌なものだね、諸君。
+\n
+It was the kid! No, that devil! He killed\n
+them! I HATE the night! I HATE the cycle!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nちくしょう！ 羽根をもぎってやる、 \n蝶の羽根をもぎって、青虫に戻してやれば \nいいんだ！ それがサイクルだ！
- \n
-...Forget it! I-I'll tear off those green \n
+//\nちくしょう！ 羽根をもぎってやる、\n蝶の羽根をもぎって、青虫に戻してやれば\nいいんだ！ それがサイクルだ！
+\n
+...Forget it! I-I'll tear off those green\n
 butterfly wings and turn back into a
 <$0C>
-worm! 
+worm!
 <$00>
 
 // Pos: 00002CC4
@@ -107,27 +107,27 @@ worm!
 //マウンテン：
 Mountain:
 <$0D>
-// \n私のここのところをこうしてくれないか？
- \n
-What do I do with myself? 
+//\n私のここのところをこうしてくれないか？
+\n
+What do I do with myself?
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n何を？ 夜のふくろうに言ってるのさ、 \n不信者のおそれ…小さなみそさざい…はは！
- \n
-Know what a night owl told me? Fear \n
+//\n何を？ 夜のふくろうに言ってるのさ、\n不信者のおそれ…小さなみそさざい…はは！
+\n
+Know what a night owl told me? Fear\n
 the non-believers... The Troglodytes
 <$0C>
-troglodytes. 
+troglodytes.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nみそさざい、食え食え、 \n烏のグリルだ、小烏のだ。
- \n
-The wrens! Eat them! Grill them and eat \n
-the little wrens! 
+//\nみそさざい、食え食え、\n烏のグリルだ、小烏のだ。
+\n
+The wrens! Eat them! Grill them and eat\n
+the little wrens!
 <$00>
 
 // Pos: 00002D3F
@@ -140,28 +140,28 @@ the little wrens!
 //ヤング：
 Yang:
 <$0D>
-// \n飛んでるのは蝶だ、いやガだ、 \n殺したのかてめぇ！ なんでか分かるか？
- \n
-Why is there a butterfly but not a \n
+//\n飛んでるのは蝶だ、いやガだ、\n殺したのかてめぇ！ なんでか分かるか？
+\n
+Why is there a butterfly but not a\n
 "moth-fly"?! Did someone kill him! Do
 <$0C>
-you know? 
+you know?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nへへ！ 俺は知ってるぜ、諸君！ \n近づいてるんだ！
- \n
-Hehe! I know, buddy! And it's getting \n
-closer! 
+//\nへへ！ 俺は知ってるぜ、諸君！\n近づいてるんだ！
+\n
+Hehe! I know, buddy! And it's getting\n
+closer!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nあああああああ、近くにな！ \nさ…さい…
- \n
-Ahhhhhh! It's almost here! The last... \n
-This is the last....! 
+//\nあああああああ、近くにな！\nさ…さい…
+\n
+Ahhhhhh! It's almost here! The last...\n
+This is the last....!
 <$00>
 
 // Pos: 00002DAC
@@ -174,9 +174,9 @@ This is the last....!
 //マウンテン：
 Mountain:
 <$0D>
-// \n最後の蕃判だ！
- \n
-THE LAST JUDGEMENT! 
+//\n最後の蕃判だ！
+\n
+THE LAST JUDGEMENT!
 <$00>
 
 // Pos: 00002DC2
@@ -189,12 +189,12 @@ THE LAST JUDGEMENT!
 //マウンテン：
 Mountain:
 <$0D>
-// \nあ？ あああ？ ぶんぶん飛んでる… \nハエ… 俺のハエを数えてくれないか。
- \n
-Oh? OHHH? There are so many flying. \n
+//\nあ？ あああ？ ぶんぶん飛んでる…\nハエ… 俺のハエを数えてくれないか。
+\n
+Oh? OHHH? There are so many flying.\n
 Flies... Won't you count my flies with
 <$0C>
-me? 
+me?
 <$00>
 
 // Pos: 00002DF3
@@ -207,12 +207,12 @@ me?
 //ヤング：
 Yang:
 <$0D>
-// \n少なくないはずだ、諸君！
- \n
+//\n少なくないはずだ、諸君！
+\n
 There aren't that many, buddy!
 <$1E>
 //信
-信 
+信
 <$00>
 
 // Pos: 00002E0D
@@ -225,15 +225,15 @@ There aren't that many, buddy!
 //ヤング：
 Yang:
 <$0D>
-// \n飛んでるぞ。 \nいったい蝶とガの建いは何だ、諸君？
- \n
-They're flying. What's the difference \n
+//\n飛んでるぞ。\nいったい蝶とガの建いは何だ、諸君？
+\n
+They're flying. What's the difference\n
 between butterflies and moths, do
 <$0C>
 you know?
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002E35
@@ -246,12 +246,12 @@ you know?
 //マウンテン：
 Mountain:
 <$0D>
-// \n１四 ２四 ３四 ４四 ５四 ６四
- \n
+//\n１四 ２四 ３四 ４四 ５四 ６四
+\n
 One, two, three, four, five, six...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002E5A
@@ -264,12 +264,12 @@ One, two, three, four, five, six...
 //マウンテン：
 Mountain:
 <$0D>
-// \n１０四 １１四 １２四 １３四
- \n
+//\n１０四 １１四 １２四 １３四
+\n
 ...ten, eleven, twelve, thirteen...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002E7B
@@ -282,24 +282,24 @@ Mountain:
 //マウンテン：
 Mountain:
 <$0D>
-// \n３４四 ３５四 ３６四 ３７四
- \n
-...thirty-four, thirty-five, thirty-six, \n
+//\n３４四 ３５四 ３６四 ３７四
+\n
+...thirty-four, thirty-five, thirty-six,\n
 thirty-seven...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00><$10><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n８７四 ８８四 ８９四 ９０四
- \n
-...eighty-seven, eighty-eight, \n
+//\n８７四 ８８四 ８９四 ９０四
+\n
+...eighty-seven, eighty-eight,\n
 eighty-nine, ninety...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002EBD
@@ -312,15 +312,15 @@ eighty-nine, ninety...
 //マウンテン：
 Mountain:
 <$0D>
-// \n１０１四 １０２四 １０３四 １０４四
- \n
-...one hundred and one, one hundred \n
+//\n１０１四 １０２四 １０３四 １０４四
+\n
+...one hundred and one, one hundred\n
 and two, one hundred and three, one
 <$0C>
 hundred and four...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002EE2
@@ -333,16 +333,16 @@ hundred and four...
 //マウンテン：
 Mountain:
 <$0D>
-// \n３７２四 ３７３四 ３７５四 ３７７四
- \n
-...three hundred seventy-two, three \n
+//\n３７２四 ３７３四 ３７５四 ３７７四
+\n
+...three hundred seventy-two, three\n
 hundred seventy-three, three
 <$0C>
-hundred seventy-five, three hundred \n
+hundred seventy-five, three hundred\n
 seventy-seven...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002F07
@@ -355,13 +355,13 @@ seventy-seven...
 //マウンテン：
 Mountain:
 <$0D>
-// \n数が足りない、数が足りない、 \nハエは増えるのに、数が足りない。
- \n
-Not enough. IT's not enough! There are \n
+//\n数が足りない、数が足りない、\nハエは増えるのに、数が足りない。
+\n
+Not enough. IT's not enough! There are\n
 MORE flies! BUT IT'S NOT ENOUGH!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002F3B
@@ -370,10 +370,10 @@ MORE flies! BUT IT'S NOT ENOUGH!
 
 #WHB(PTR, $0000109D)
 
- 
+
 <$00>
 //メッセージはありません。
-THERE ARE NO MESSAGES. 
+THERE ARE NO MESSAGES.
 <$00>
 
 // Pos: 00002F49
@@ -382,63 +382,63 @@ THERE ARE NO MESSAGES.
 
 #WHB(PTR, $0000159D)
 
- 
+
 <$00>
 //無線テレビに着信しています。
-RECEIVING INCOMING CALL... 
+RECEIVING INCOMING CALL...
 <$00><$00><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあー、ライカ君、ライカ君だね？
- \n
-Greetings, Laika. Is that you? 
+//\nあー、ライカ君、ライカ君だね？
+\n
+Greetings, Laika. Is that you?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nいやあ大変だ、地球では火星がおかしなことに \nなったと大騒ぎなんだ。
- \n
-I think Earth finally got a taste of Mars' \n
-uproar. The Face went aglow! 
+//\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
+\n
+I think Earth finally got a taste of Mars'\n
+uproar. The Face went aglow!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n火星の顔が急に光を放ち、 \nいろんな電波や光線が攻撃してくるらしい。
- \n
-It happened suddenly, assaulting us \n
+//\n火星の顔が急に光を放ち、\nいろんな電波や光線が攻撃してくるらしい。
+\n
+It happened suddenly, assaulting us\n
 with a show of radio waves and light
 <$0C>
-beams. 
+beams.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nたんなる光のいたずらだと思いたいが、 \n早くもいくつもの奇跡が報告され始めている。
- \n
-I took it for a prank, but now we're \n
+//\nたんなる光のいたずらだと思いたいが、\n早くもいくつもの奇跡が報告され始めている。
+\n
+I took it for a prank, but now we're\n
 hearing news reports of miracles on
 <$0C>
-Earth! 
+Earth!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあー、ペットが生き返った… \nあー、円周率を思い出した…
- \n
-"Look! My pet came back to life!" \n
-"Listen! I can recite all of Pi!" 
+//\nあー、ペットが生き返った…\nあー、円周率を思い出した…
+\n
+"Look! My pet came back to life!"\n
+"Listen! I can recite all of Pi!"
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nだめだ、これは奇跡ではない。 \nとにかく、何かあったらまた連絡する。
- \n
-Alas, I fear this is no miracle. I'll \n
+//\nだめだ、これは奇跡ではない。\nとにかく、何かあったらまた連絡する。
+\n
+Alas, I fear this is no miracle. I'll\n
 contact you again when there's an
 <$0C>
-update. 
+update.
 <$00>
 
 // Pos: 000030A0
@@ -447,31 +447,31 @@ update.
 
 #WHB(PTR, $00001051)
 
- 
+
 <$00>
 //調子はどうかね、ヌケガラ君。
-How goes it, my little husk? 
+How goes it, my little husk?
 <$0C>
 //君は、いや君たちは実に哀れだ。
-You...all of you, are so pathetic. 
+You...all of you, are so pathetic.
 <$0C>
 //ひとつ忠告しておこう。
-Here's a piece of advice. 
+Here's a piece of advice.
 <$0C>
-//星の意志に逆らおうとしても \nムダというものだ。
-It's useless to try to defy the will of this \n
-planet. 
+//星の意志に逆らおうとしても\nムダというものだ。
+It's useless to try to defy the will of this\n
+planet.
 <$0C>
-//世界の再生、 \nそれはこの星が決めたことなのだ。
-This planet has chosen world rebirth. 
+//世界の再生、\nそれはこの星が決めたことなのだ。
+This planet has chosen world rebirth.
 <$0C>
-//私は星の意志に触れ、使命を受けている。 \n再生は私の目的ではなく、 \nこの星の目的なのだよ。
-I touched the planet's will and found \n
-life. Rebirth is not my purpose. It is the \n
-planet's purpose. 
+//私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
+I touched the planet's will and found\n
+life. Rebirth is not my purpose. It is the\n
+planet's purpose.
 <$0C>
-//もうすぐ君に会えるだろう。 \n楽しみに待っているよ。
-I will see you soon. I'm looking \n
-forward to it. 
+//もうすぐ君に会えるだろう。\n楽しみに待っているよ。
+I will see you soon. I'm looking\n
+forward to it.
 <$00>
 

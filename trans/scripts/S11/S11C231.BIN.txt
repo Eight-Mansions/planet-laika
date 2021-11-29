@@ -15,26 +15,26 @@
 //フェイ：
 Feng:
 <$0D>
-// \nここがお店。 \n整形って呼ばれてもかまわないわ。
- \n
-What others call "cosmetic surgery", I \n
-call Vanity Face. 
+//\nここがお店。\n整形って呼ばれてもかまわないわ。
+\n
+What others call "cosmetic surgery", I\n
+call Vanity Face.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nでも私はヴァニティフェイスっていう \n名前の方が好き。夢があるでしょ。
- \n
-It carries a dream-like quality that \n
-befits the ends to the means: 
+//\nでも私はヴァニティフェイスっていう\n名前の方が好き。夢があるでしょ。
+\n
+It carries a dream-like quality that\n
+befits the ends to the means:
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n誰だって自分以上の自分になりたい、 \nそう願ってるのよ。
- \n
-"I want everyone to surpass their true \n
-self!" That's my desire. 
+//\n誰だって自分以上の自分になりたい、\nそう願ってるのよ。
+\n
+"I want everyone to surpass their true\n
+self!" That's my desire.
 <$00>
 
 // Pos: 000021E0
@@ -47,34 +47,34 @@ self!" That's my desire.
 //フェイ：
 Feng:
 <$0D>
-// \nヴァニティフェイスはね、 \n一度じゃ済まないのよ。 \n本人が気に入るまで何度でも試すの。
- \n
-You don't have to do it only once. You can \n
-try it as many times as you'd like. 
+//\nヴァニティフェイスはね、\n一度じゃ済まないのよ。\n本人が気に入るまで何度でも試すの。
+\n
+You don't have to do it only once. You can\n
+try it as many times as you'd like.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nけれど、中には最初の一回でカンペキな顔に \nなれる人もいるわ…アマンダみたいにね
- \n
-But you know, some people start with \n
-the perfect face, like Amanda did. 
+//\nけれど、中には最初の一回でカンペキな顔に\nなれる人もいるわ…アマンダみたいにね
+\n
+But you know, some people start with\n
+the perfect face, like Amanda did.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n今となっては彼女は伝説よ。 \n美しい自分の顔を愛し、鏡を愛したの。
- \n
-She was a legendary beauty who loved \n
-to look at her self in the mirror. 
+//\n今となっては彼女は伝説よ。\n美しい自分の顔を愛し、鏡を愛したの。
+\n
+She was a legendary beauty who loved\n
+to look at her self in the mirror.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n彼女がいなくなってもう何年にもなる… \n私は決めたのよ、彼女に仕える、 \nアマンダに仕えようって。そしたら
- \n
-Amanda passed many years ago, but I \n
-strive to work in her honor. 
+//\n彼女がいなくなってもう何年にもなる…\n私は決めたのよ、彼女に仕える、\nアマンダに仕えようって。そしたら
+\n
+Amanda passed many years ago, but I\n
+strive to work in her honor.
 <$00>
 
 // Pos: 000022C5
@@ -87,10 +87,10 @@ strive to work in her honor.
 //レッド：
 Red:
 <$0D>
-// \nフェイ、薬だ、薬をくれ。
- \n
-Feng, I need medicine. Give me the the \n
-medicine! 
+//\nフェイ、薬だ、薬をくれ。
+\n
+Feng, I need medicine. Give me the the\n
+medicine!
 <$00>
 
 // Pos: 000022DC
@@ -103,9 +103,9 @@ medicine!
 //フェイ：
 Feng:
 <$0D>
-// \nあら、もう切らしちゃったの？
- \n
-Goodness! Did you run out already?! 
+//\nあら、もう切らしちゃったの？
+\n
+Goodness! Did you run out already?!
 <$00>
 
 // Pos: 000022F4
@@ -118,10 +118,10 @@ Goodness! Did you run out already?!
 //レッド：
 Red:
 <$0D>
-// \n早くしてくれ。あいつが寝てる間に塗るんだ。
- \n
-Just hurry. I want to apply it while he's \n
-sleeping. 
+//\n早くしてくれ。あいつが寝てる間に塗るんだ。
+\n
+Just hurry. I want to apply it while he's\n
+sleeping.
 <$00>
 
 // Pos: 00002316
@@ -134,9 +134,9 @@ sleeping.
 //フェイ：
 Feng:
 <$0D>
-// \n分かったわ。ちょっと待って。
- \n
-I understand. Please wait a moment. 
+//\n分かったわ。ちょっと待って。
+\n
+I understand. Please wait a moment.
 <$00>
 
 // Pos: 0000232E
@@ -149,9 +149,9 @@ I understand. Please wait a moment.
 //レッド：
 Red:
 <$0D>
-// \nお前か、地球からやってきたっていうのは？
- \n
-So, you came here from Earth? 
+//\nお前か、地球からやってきたっていうのは？
+\n
+So, you came here from Earth?
 <$00>
 
 // Pos: 0000234D
@@ -164,28 +164,28 @@ So, you came here from Earth?
 //レッド：
 Red:
 <$0D>
-// \nで、こそこそかぎ回って何が分かった？ \nここは万事うまくいってる、そうだろ？
- \n
-What've you found out after creeping \n
-around like you have been? 
+//\nで、こそこそかぎ回って何が分かった？\nここは万事うまくいってる、そうだろ？
+\n
+What've you found out after creeping\n
+around like you have been?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nみんな妙なウワサにふりまわされてるが、 \n俺はそんなことはない。
- \n
-I'm sure everyone's telling you about \n
+//\nみんな妙なウワサにふりまわされてるが、\n俺はそんなことはない。
+\n
+I'm sure everyone's telling you about\n
 the "Judgement Day" rumors, but I'm
 <$0C>
-not minding it. 
+not minding it.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n自分を信じてるからな \n自分をつらぬいてるからな。
- \n
-All I've gotta worry about is me. I'm \n
-just gonna work on me. 
+//\n自分を信じてるからな\n自分をつらぬいてるからな。
+\n
+All I've gotta worry about is me. I'm\n
+just gonna work on me.
 <$00>
 
 // Pos: 000023C9
@@ -198,9 +198,9 @@ just gonna work on me.
 //フェイ：
 Feng:
 <$0D>
-// \n薬よ。
- \n
-Here's the medicine. 
+//\n薬よ。
+\n
+Here's the medicine.
 <$00>
 
 // Pos: 000023D6
@@ -213,12 +213,12 @@ Here's the medicine.
 //フェイ：
 Feng:
 <$0D>
-// \nねぇ、いつまで続けるの？ \nいい惑じになったじゃない、コスマスは。 \n私はもう満足よ。
- \n
-Red, how long must we do this? I've a \n
+//\nねぇ、いつまで続けるの？\nいい惑じになったじゃない、コスマスは。\n私はもう満足よ。
+\n
+Red, how long must we do this? I've a\n
 sense that Cosmas is satisfied
 <$0C>
-already. 
+already.
 <$00>
 
 // Pos: 0000240C
@@ -231,10 +231,10 @@ already.
 //レッド：
 Red:
 <$0D>
-// \nまだだ。もっとよくなるはずだ、そうだろ？
-/ \n
-Then he's wrong. His face deserves to \n
-be better, doesn't it? 
+//\nまだだ。もっとよくなるはずだ、そうだろ？
+/\n
+Then he's wrong. His face deserves to\n
+be better, doesn't it?
 <$00>
 
 // Pos: 00002429
@@ -247,10 +247,10 @@ be better, doesn't it?
 //フェイ：
 Feng:
 <$0D>
-// \n蕃判には十分よ。
- \n
-In the eyes of Judgement, he is \n
-adequate. 
+//\n蕃判には十分よ。
+\n
+In the eyes of Judgement, he is\n
+adequate.
 <$00>
 
 // Pos: 0000243D
@@ -263,10 +263,10 @@ adequate.
 //レッド：
 Red:
 <$0D>
-// \nおい、余計なこと言うんじゃない！ \nまたあいつを連れてくるからな。
- \n
-All that yippin' won't do your face any \n
-good, Feng. I'm bringing him in again! 
+//\nおい、余計なこと言うんじゃない！\nまたあいつを連れてくるからな。
+\n
+All that yippin' won't do your face any\n
+good, Feng. I'm bringing him in again!
 <$00>
 
 // Pos: 00002469
@@ -279,10 +279,10 @@ good, Feng. I'm bringing him in again!
 //フェイ：
 Feng:
 <$0D>
-// \nねぇ、酸索屋にはもう行ったの？ \nマダム・アガタには会った？
- \n
-By the way, since you've met Herod, \n
-have you met Madam Agatha? 
+//\nねぇ、酸索屋にはもう行ったの？\nマダム・アガタには会った？
+\n
+By the way, since you've met Herod,\n
+have you met Madam Agatha?
 <$00>
 
 // Pos: 00002494
@@ -295,48 +295,48 @@ have you met Madam Agatha?
 //フェイ：
 Feng:
 <$0D>
-// \n彼女には気をつけてね。催眠術よ… \nまやかしの天才…まるで魔女よ。
- \n
-Be careful around that...angel of \n
+//\n彼女には気をつけてね。催眠術よ…\nまやかしの天才…まるで魔女よ。
+\n
+Be careful around that...angel of\n
 deception. She practices what's
 <$0C>
-known as hypnotherapy. 
+known as hypnotherapy.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nアガタは催眠術でヘロデのことを支配してるの。 \n心の中まで全部ね。
- \n
-Agatha uses hypnotherapy to take \n
-over Herod's mind. 
+//\nアガタは催眠術でヘロデのことを支配してるの。\n心の中まで全部ね。
+\n
+Agatha uses hypnotherapy to take\n
+over Herod's mind.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nヘロデは見かけほど悪い人じゃない、本当よ。 \n子どもみたいに純真なの。それをあの女が…
- \n
-Herod isn't as negative as he looks. His \n
+//\nヘロデは見かけほど悪い人じゃない、本当よ。\n子どもみたいに純真なの。それをあの女が…
+\n
+Herod isn't as negative as he looks. His\n
 nightmares are those of an innocent
 <$0C>
-child. 
+child.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nかわいそうなヘロデ… \n彼は悪夢の中に生まれたの。
- \n
-Poor Herod was born in the Land of \n
+//\nかわいそうなヘロデ…\n彼は悪夢の中に生まれたの。
+\n
+Poor Herod was born in the Land of\n
 Nightmares. Half of his life is
 <$0C>
-nightmares. 
+nightmares.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n今でも半分は悪夢の世界に生きているのよ。 \nあの女はそこに付け入って…やりたい放顆よ。
- \n
-That witch takes advantage of this and \n
-manipulates Herod to do her bidding! 
+//\n今でも半分は悪夢の世界に生きているのよ。\nあの女はそこに付け入って…やりたい放顆よ。
+\n
+That witch takes advantage of this and\n
+manipulates Herod to do her bidding!
 <$00>
 
 // Pos: 00002590
@@ -349,58 +349,58 @@ manipulates Herod to do her bidding!
 //フェイ：
 Feng:
 <$0D>
-// \n私には声が開こえるの、アマンダの声よ。 \nアマンダは鏡の中に住んでいるの。
- \n
-Amanda's voice...I can hear it. \n
-Amanda lives within the mirror. 
+//\n私には声が開こえるの、アマンダの声よ。\nアマンダは鏡の中に住んでいるの。
+\n
+Amanda's voice...I can hear it.\n
+Amanda lives within the mirror.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n誰も彼女の美しさを超えられなかった、 \n伝説の美女。そして今じゃ鏡の精よ。
- \n
-She once lived as a legendary beauty \n
+//\n誰も彼女の美しさを超えられなかった、\n伝説の美女。そして今じゃ鏡の精よ。
+\n
+She once lived as a legendary beauty\n
 without peer. And now, she is a mirror
 <$0C>
-spirit. 
+spirit.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nうふふ、夢のようでしょ、 \n美しさには限りがないのよ。
- \n
-Hoho, how very dreamlike. \n
-Truly, there is no limit to her beauty. 
+//\nうふふ、夢のようでしょ、\n美しさには限りがないのよ。
+\n
+Hoho, how very dreamlike.\n
+Truly, there is no limit to her beauty.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nでも私ならだいじょうぶよ、 \nきっとね、うふふふふ。
- \n
-But I'll be fine, right? \n
+//\nでも私ならだいじょうぶよ、\nきっとね、うふふふふ。
+\n
+But I'll be fine, right?\n
 Yes, of course. Hohoho!
 <$1E>
 //中
-中 
+中
 <$00><$11><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそこが整形屋さんね、 \n人間に似せて顔を作るところって。
- \n
-That's the plastic surgeon's office, \n
+//\nそこが整形屋さんね、\n人間に似せて顔を作るところって。
+\n
+That's the plastic surgeon's office,\n
 where you can get a face that looks
 <$0C>
-more human. 
+more human.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nなんだか変な臭いがする…生臭いよ。 \nねぇ、気味悪いから行こうよ。
- \n
-It...smells like rotten meat. Actually, \n
+//\nなんだか変な臭いがする…生臭いよ。\nねぇ、気味悪いから行こうよ。
+\n
+It...smells like rotten meat. Actually,\n
 can we leave? I don't want to be around
 <$0C>
-this. 
+this.
 <$00>
 

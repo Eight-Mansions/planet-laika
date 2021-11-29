@@ -15,22 +15,22 @@
 //クロウ：
 Crow:
 <$0D>
-// \nえらいことになった、フェイだ、 \nあいつがよう、メディスンマンのドームから \n気味悪い人形を盗もうとしたんだ。
- \n
-Kekeke, Feng's done it now. She tried \n
+//\nえらいことになった、フェイだ、\nあいつがよう、メディスンマンのドームから\n気味悪い人形を盗もうとしたんだ。
+\n
+Kekeke, Feng's done it now. She tried\n
 swiping that creepy doll from the
 <$0C>
-medicine mens' dome. 
+medicine mens' dome.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \nそしたら人形から変な光が出てよう、 \nカベに埋まってるやつを照らし出した…
- \n
-Then, a light shot out from the doll, and \n
+//\nそしたら人形から変な光が出てよう、\nカベに埋まってるやつを照らし出した…
+\n
+Then, a light shot out from the doll, and\n
 some mangled dude in the wall there
 <$0C>
-started glowing. 
+started glowing.
 <$00>
 
 // Pos: 0000109D
@@ -43,38 +43,38 @@ started glowing.
 //クロウ：
 Crow:
 <$0D>
-// \nあー、いやだ！そこへ溶けた氷みたいなやつが \nやってきたんだ！
- \n
-Oh, damn! I bet that guy that was \n
-frozen in the ice started all of this! 
+//\nあー、いやだ！そこへ溶けた氷みたいなやつが\nやってきたんだ！
+\n
+Oh, damn! I bet that guy that was\n
+frozen in the ice started all of this!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \n氷の野郎は、カベに埋まったやつと \n合体しやがった！ あー、いやだ！
- \n
-If he melted, ice mongrel must've \n
+//\n氷の野郎は、カベに埋まったやつと\n合体しやがった！ あー、いやだ！
+\n
+If he melted, ice mongrel must've\n
 become one with the guy buried in the
 <$0C>
-wall. This can't be good! 
+wall. This can't be good!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \n地獄の底から響くような声が開こえてきて…
- \n
-Yeah... That's when I heard a voice \n
-echoing from the depths of Hell... 
+//\n地獄の底から響くような声が開こえてきて…
+\n
+Yeah... That's when I heard a voice\n
+echoing from the depths of Hell...
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \nエレミヤ、死の動機、エレミヤって \nくり返すんだ。
- \n
-"Jeremiah...reason for \n
+//\nエレミヤ、死の動機、エレミヤって\nくり返すんだ。
+\n
+"Jeremiah...reason for\n
 dying...Jeremiah," over and over
 <$0C>
-again! 
+again!
 <$00>
 
 // Pos: 0000113B
@@ -87,28 +87,28 @@ again!
 //クロウ：
 Crow:
 <$0D>
-// \n俺の頭の中にも声が響きはじめてよう、 \nエレミヤ、エレミヤ、エレミヤ…
- \n
-I started hearing the voice in my head. \n
-"Jeremiah, Jeremiah, Jeremiah." 
+//\n俺の頭の中にも声が響きはじめてよう、\nエレミヤ、エレミヤ、エレミヤ…
+\n
+I started hearing the voice in my head.\n
+"Jeremiah, Jeremiah, Jeremiah."
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \nあはー、頭が変になりそうだ、数を忘れそうだ！ \n俺は光る石をにぎりしめたさ！
- \n
-I started losing count! I was going \n
+//\nあはー、頭が変になりそうだ、数を忘れそうだ！\n俺は光る石をにぎりしめたさ！
+\n
+I started losing count! I was going\n
 crazy! So, I'd kept squeezing the
 <$0C>
-glowing stone. 
+glowing stone.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \n力のもとだ、英知のもとだ！
- \n
-It's the source of power! The source of \n
-wisdom! 
+//\n力のもとだ、英知のもとだ！
+\n
+It's the source of power! The source of\n
+wisdom!
 <$00>
 
 // Pos: 000011B5
@@ -121,23 +121,23 @@ wisdom!
 //クロウ：
 Crow:
 <$0D>
-// \nだんだん光が強くなって… \nな、やばい惑じがするだろ？ 走って走って…
- \n
-The light got stronger. I'd sensed \n
+//\nだんだん光が強くなって…\nな、やばい惑じがするだろ？ 走って走って…
+\n
+The light got stronger. I'd sensed\n
 something bad, right? So I ran, and I
 <$0C>
-ran. 
+ran.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \nあの目玉の家まできたときに急に \n気を失ったんだ。
- \n
-And just when I made it to that house \n
+//\nあの目玉の家まできたときに急に\n気を失ったんだ。
+\n
+And just when I made it to that house\n
 with the eyeball, I fainted.
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 0000120D
@@ -150,12 +150,12 @@ with the eyeball, I fainted.
 //クロウ：
 Crow:
 <$0D>
-// \nでもな、怖くない。 \n光る石が守ってくれるからな。
- \n
-But I'm not scared. I've got the glowing \n
+//\nでもな、怖くない。\n光る石が守ってくれるからな。
+\n
+But I'm not scared. I've got the glowing\n
 stone to protect me.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 

@@ -11,17 +11,17 @@
 
 #WHB(PTR, $00000481)
 
- 
+
 <$00><$13>
-//（お利口な諸君のことだ、 \nここがどういう場所かすでに知ってるだろう。 \nルールを守る限りにおいて、諸君は自由だ…
-（YOU'VE GOT A BRAIN. YOU KNOW WHAT \n
-TO DO. AS LONG AS YOU OBEY THE RULES, \n
-YOU ARE FREE. 
+//（お利口な諸君のことだ、\nここがどういう場所かすでに知ってるだろう。\nルールを守る限りにおいて、諸君は自由だ…
+（YOU'VE GOT A BRAIN. YOU KNOW WHAT\n
+TO DO. AS LONG AS YOU OBEY THE RULES,\n
+YOU ARE FREE.
 <$0C>
-//あああ、昔を思い出すワン… \nあああ、犬だからといって、 \nそんなことにはならない、普通に話すぞ。
-AH, JUST LIKE HOME, BARK... (OKAY, \n
-JUST BECAUSE I'M A "DOG" DOESN'T MEAN I \n
-HAVE TO TALK LIKE ONE.) 
+//あああ、昔を思い出すワン…\nあああ、犬だからといって、\nそんなことにはならない、普通に話すぞ。
+AH, JUST LIKE HOME, BARK... (OKAY,\n
+JUST BECAUSE I'M A "DOG" DOESN'T MEAN I\n
+HAVE TO TALK LIKE ONE.)
 <$00>
 
 // Pos: 000009C1
@@ -30,21 +30,21 @@ HAVE TO TALK LIKE ONE.)
 
 #WHB(PTR, $0000048D)
 
- 
+
 <$00><$13>
-//（プリズン４、第四惑星の刑務所ということだ。 \nしかしそれも昔の話、 \n今となってはただのハキダメ…
-（PRISON 4 GOT ITS NAME FROM BEING A \n
-PRISON ON THE FOURTH PLANET. NOW, \n
-IT'S A TRASH HEAP. 
+//（プリズン４、第四惑星の刑務所ということだ。\nしかしそれも昔の話、\n今となってはただのハキダメ…
+（PRISON 4 GOT ITS NAME FROM BEING A\n
+PRISON ON THE FOURTH PLANET. NOW,\n
+IT'S A TRASH HEAP.
 <$0C>
-//そんなこと見りゃわかる。ここのやつらは \n好きこのんで火星に住み着いてる。 \n地球より居心地がいいってわけだ。
-I CAN'T BLAME THE PEOPLE HERE. THEY SAY \n
-PLANET MARS IS MORE COMFORTABLE \n
-THAN PLANET EARTH. 
+//そんなこと見りゃわかる。ここのやつらは\n好きこのんで火星に住み着いてる。\n地球より居心地がいいってわけだ。
+I CAN'T BLAME THE PEOPLE HERE. THEY SAY\n
+PLANET MARS IS MORE COMFORTABLE\n
+THAN PLANET EARTH.
 <$0C>
 //酒場もある、整形屋もある、だがそれだけだ。
-EVEN IF THERE'S LITTLE MORE THAN A BAR \n
-AND A PLASTIC SURGEON. 
+EVEN IF THERE'S LITTLE MORE THAN A BAR\n
+AND A PLASTIC SURGEON.
 <$00>
 
 // Pos: 00000A58
@@ -53,15 +53,15 @@ AND A PLASTIC SURGEON.
 
 #WHB(PTR, $00000549)
 
- 
+
 <$00><$13>
 //（死刑がなくなって、お前たちは幸せか…
-（IS EVERYONE HERE HAPPY WITH THE \n
-DEATH PENALTY GONE? 
+（IS EVERYONE HERE HAPPY WITH THE\n
+DEATH PENALTY GONE?
 <$0C>
-//いーや、不幸だ！ \nここで生きながらえるほど \n不幸なことはないぞ。
-NO, IT'S A NUISANCE! IT'S PERHAPS THE \n
-WORST PART ABOUT LIVING HERE! 
+//いーや、不幸だ！\nここで生きながらえるほど\n不幸なことはないぞ。
+NO, IT'S A NUISANCE! IT'S PERHAPS THE\n
+WORST PART ABOUT LIVING HERE!
 <$00>
 
 // Pos: 00000A97
@@ -70,27 +70,27 @@ WORST PART ABOUT LIVING HERE!
 
 #WHB(PTR, $00000559)
 
- 
+
 <$00><$13>
-//（酒場の手前にある屋根の崩れた部屋あるだろう、 \n昔は処刑室だったところだ。
-（IN FRONT OF THE BAR IS A FLAT WITH A \n
-COLLAPSED ROOF. IT USED TO BE AN \n
-EXECUTION CHAMBER. 
+//（酒場の手前にある屋根の崩れた部屋あるだろう、\n昔は処刑室だったところだ。
+（IN FRONT OF THE BAR IS A FLAT WITH A\n
+COLLAPSED ROOF. IT USED TO BE AN\n
+EXECUTION CHAMBER.
 <$0C>
-//プリズン４では \n電気イスのチャーリーって名前だ。 \nチャーリーは処刑が大好きなんだ。
-THE ELECTRIC CHAIR ONCE USED IN \n
-PRISON 4 WAS NAMED CHARLIE. CHARLIE \n
-LOVES THE DEATH PENALTHY. 
+//プリズン４では\n電気イスのチャーリーって名前だ。\nチャーリーは処刑が大好きなんだ。
+THE ELECTRIC CHAIR ONCE USED IN\n
+PRISON 4 WAS NAMED CHARLIE. CHARLIE\n
+LOVES THE DEATH PENALTHY.
 <$0C>
-//処刑のある日にはコロニー中の電気が \nいつもより暗くなる。
-ON JUDGEMENT DAYS, THE COLONY'S \n
-POWER GRID WOULD GO DARKER THAN \n
-USUAL. 
+//処刑のある日にはコロニー中の電気が\nいつもより暗くなる。
+ON JUDGEMENT DAYS, THE COLONY'S\n
+POWER GRID WOULD GO DARKER THAN\n
+USUAL.
 <$0C>
-//チャーリーが電気を独り占めしてる、 \nそんなウワサが広まったこともあるぞ。
-THERE ARE RUMORS THAT CHARLIE \n
-MONOPOLIZES THE COLONY'S \n
-ELECTRICITY ON PURPOSE. 
+//チャーリーが電気を独り占めしてる、\nそんなウワサが広まったこともあるぞ。
+THERE ARE RUMORS THAT CHARLIE\n
+MONOPOLIZES THE COLONY'S\n
+ELECTRICITY ON PURPOSE.
 <$00>
 
 // Pos: 00000B47
@@ -99,12 +99,12 @@ ELECTRICITY ON PURPOSE.
 
 #WHB(PTR, $00000569)
 
- 
+
 <$00><$13>
-//（火星は小さな星だ。 \nしかしお前たちにとっては \nとてつもなくデカイ星だ、忘れるな。
-（DO NOT FORGET: MARS IS A VAST \n
-PLANET TO YOU, BUT A FLECK IN THE EYES \n
-OF THE UNIVERSE. 
+//（火星は小さな星だ。\nしかしお前たちにとっては\nとてつもなくデカイ星だ、忘れるな。
+（DO NOT FORGET: MARS IS A VAST PLANET\n
+TO YOU, BUT A FLECK IN THE EYES OF THE\n
+UNIVERSE.
 <$00>
 
 // Pos: 00000B79
@@ -113,27 +113,27 @@ OF THE UNIVERSE.
 
 #WHB(PTR, $00000579)
 
- 
+
 <$00><$13>
-//（今は行けなくなったが、 \n記憶の谷からさらに下った自我の谷にも \nコロニーがあったぞ。
-（THERE ONCE WAS A COLONY BEYOND \n
-VALLES MEMORIAE. IT IS NOW \n
-INACCESSIBLE. 
+//（今は行けなくなったが、\n記憶の谷からさらに下った自我の谷にも\nコロニーがあったぞ。
+（THERE ONCE WAS A COLONY BEYOND\n
+VALLES MEMORIAE. IT IS NOW\n
+INACCESSIBLE.
 <$0C>
-//陰気くさいところだった。 \nいつも霧におおわれていて、 \nろくに前も見えない。
-IT WAS A GLOOMY PLACE, COATED IN FOG \n
-SO THICK, NONE COULD SEE IN FROM THE \n
-OUTSIDE. 
+//陰気くさいところだった。\nいつも霧におおわれていて、\nろくに前も見えない。
+IT WAS A GLOOMY PLACE, COATED IN FOG\n
+SO THICK, NONE COULD SEE IN FROM THE\n
+OUTSIDE.
 <$0C>
-//ある朝、コロニー中が紫になってたらしい… \n夜のうちにイーブルマインドに \nのみこまれたんだ。
-THEN, ONE MORNING, ALL WENT PURPLE, \n
-AND EVIL MIND SWALLOWED THE COLONY \n
-IN A SINGLE DAY. 
+//ある朝、コロニー中が紫になってたらしい…\n夜のうちにイーブルマインドに\nのみこまれたんだ。
+THEN, ONE MORNING, ALL WENT PURPLE,\n
+AND EVIL MIND SWALLOWED THE COLONY\n
+IN A SINGLE DAY.
 <$0C>
-//何人かはプリズン４までたどり着いたが… \nおかしくなってしまった。
-BY THE TIME THE FEW SURVIVORS WHO \n
-FLED ARRIVED TO PRISON 4, THEY HAD ALL \n
-GONE MAD. 
+//何人かはプリズン４までたどり着いたが…\nおかしくなってしまった。
+BY THE TIME THE FEW SURVIVORS WHO\n
+FLED ARRIVED TO PRISON 4, THEY HAD ALL\n
+GONE MAD.
 <$00>
 
 // Pos: 00000C2B
@@ -142,15 +142,15 @@ GONE MAD.
 
 #WHB(PTR, $00000589)
 
- 
+
 <$00><$13>
-//（お前たちがなにかを成しとげることなど、 \n誰も期待しない。
-（NO ONE EXPECTS YOU TO ACCOMPLISH \n
-ANYTHING. 
+//（お前たちがなにかを成しとげることなど、\n誰も期待しない。
+（NO ONE EXPECTS YOU TO ACCOMPLISH\n
+ANYTHING.
 <$0C>
 //この星でゆっくりくたばるだけだ。
-ALL YOU'LL DO ON THIS PLANET IS DIE A \n
-SLOW DEATH. 
+ALL YOU'LL DO ON THIS PLANET IS DIE A\n
+SLOW DEATH.
 <$00>
 
 // Pos: 00000C61
@@ -159,22 +159,22 @@ SLOW DEATH.
 
 #WHB(PTR, $00000599)
 
- 
+
 <$00><$13>
-//（地球化計画が始まったのは１０年前だ。 \n火星に住む流刑者たちによって \n酸索坑道のエ事が進められた。
-（THE TERRAFORMATION STARTED A \n
-DECADE AGO. THE OXYGEN MINESHAFTS \n
-WERE CONSTRUCTED BY EXILES. 
+//（地球化計画が始まったのは１０年前だ。\n火星に住む流刑者たちによって\n酸索坑道のエ事が進められた。
+（THE TERRAFORMATION STARTED A\n
+DECADE AGO. THE OXYGEN MINESHAFTS\n
+WERE CONSTRUCTED BY EXILES.
 <$0C>
-//記憶の谷を前線議地としてな。 \nところが坑夫たちに変な幻覚を見る者が \n続出したんだ。
-VALLES MEMORIAE WAS TO BECOME THE \n
-PROJECT OUTPOST. THEN, THE MINERS \n
-BEGAN TO HALLUCINATE. 
+//記憶の谷を前線議地としてな。\nところが坑夫たちに変な幻覚を見る者が\n続出したんだ。
+VALLES MEMORIAE WAS TO BECOME THE\n
+PROJECT OUTPOST. THEN, THE MINERS\n
+BEGAN TO HALLUCINATE.
 <$0C>
-//これはイーブルマインドのせいに建いないと、 \n坑夫たちは特注のヘルメットを \nかぶるようになった。
-THAT'S WHEN MINERS BEGAN TO WEAR \n
-SPECIALLY-MADE HELMETS. EVIL MIND \n
-MUST HAVE BEEN TO BLAME. 
+//これはイーブルマインドのせいに建いないと、\n坑夫たちは特注のヘルメットを\nかぶるようになった。
+THAT'S WHEN MINERS BEGAN TO WEAR\n
+SPECIALLY-MADE HELMETS. EVIL MIND\n
+MUST HAVE BEEN TO BLAME.
 <$00>
 
 // Pos: 00000D16
@@ -183,11 +183,11 @@ MUST HAVE BEEN TO BLAME.
 
 #WHB(PTR, $000005A9)
 
- 
+
 <$00><$13>
-//（変化！ 変化こそお前たちにとっては福音だ。 \nだがプリズン４にとってはただの災いだ。
-（CHANGE! TO YOU, CHANGE IS GOSPEL, \n
-BUT IT WAS ONLY HELL FOR PRISON 4. 
+//（変化！ 変化こそお前たちにとっては福音だ。\nだがプリズン４にとってはただの災いだ。
+（CHANGE! TO YOU, CHANGE IS GOSPEL,\n
+BUT IT WAS ONLY HELL FOR PRISON 4.
 <$00>
 
 // Pos: 00000D4A
@@ -196,24 +196,24 @@ BUT IT WAS ONLY HELL FOR PRISON 4.
 
 #WHB(PTR, $000005B9)
 
- 
+
 <$00><$13>
-//（前に調査隊がやってきたのも１０年前だ。 \nなんでも１０年前だな。 \nそのときの隊長がガリルだ。
-（YOUR VANGUARD UNIT ARRIVED 10 \n
-YEARS AGO. THE LEADER AT THE TIME WAS \n
-CAPTAIN GALIL. 
+//（前に調査隊がやってきたのも１０年前だ。\nなんでも１０年前だな。\nそのときの隊長がガリルだ。
+（YOUR VANGUARD UNIT ARRIVED 10\n
+YEARS AGO. THE LEADER AT THE TIME WAS\n
+CAPTAIN GALIL.
 <$0C>
-//ガリルはイーブルマインドの存在を知り、 \n深い興味を持った。 \n兵器にでもするつもりだったのか…
-GALIL WAS DEEPLY INVESTED IN THE \n
-EXISTENCE OF EVIL MIND. IN \n
+//ガリルはイーブルマインドの存在を知り、\n深い興味を持った。\n兵器にでもするつもりだったのか…
+GALIL WAS DEEPLY INVESTED IN THE\n
+EXISTENCE OF EVIL MIND. IN\n
 HINDSIGHT, IT'S AS IF HE INTENDED TO
 <$0C>
-WEAPONIZE IT. 
+WEAPONIZE IT.
 <$0C>
-//イーブルマインドをさぐるうちに、とうに \n死んだ流刑者が残した預言に触れたらしい。 \n世界の再生を語る預言だ。
-IN HIS SEARCH FOR EVIL MIND, HE MET \n
-WITH THE DEAD EXILE'S PROPECHY, THE \n
-PROPECHY OF WORLD REBIRTH. 
+//イーブルマインドをさぐるうちに、とうに\n死んだ流刑者が残した預言に触れたらしい。\n世界の再生を語る預言だ。
+IN HIS SEARCH FOR EVIL MIND, HE MET\n
+WITH THE DEAD EXILE'S PROPECHY, THE\n
+PROPECHY OF WORLD REBIRTH.
 <$00>
 
 // Pos: 00000DFD
@@ -222,15 +222,15 @@ PROPECHY OF WORLD REBIRTH.
 
 #WHB(PTR, $000005C9)
 
- 
+
 <$00><$13>
-//（お前たちは一人前だ… \nなぜなら息をしてるからだ！
-（YOU'RE ALL ONLY HUMAN. YOUR SHARED \n
-ABILITY TO BREATHE PROVES THAT! 
+//（お前たちは一人前だ…\nなぜなら息をしてるからだ！
+（YOU'RE ALL ONLY HUMAN. YOUR SHARED\n
+ABILITY TO BREATHE PROVES THAT!
 <$0C>
-//自分の酸索くらいかせげ、 \nさっさと石を集めに行け！
-IF YOU'D LIKE TO EARN THAT KEEP, GET \n
-OUT THERE AND GATHER THE STONES! 
+//自分の酸索くらいかせげ、\nさっさと石を集めに行け！
+IF YOU'D LIKE TO EARN THAT KEEP, GET\n
+OUT THERE AND GATHER THE STONES!
 <$00>
 
 // Pos: 00000E3B
@@ -239,22 +239,22 @@ OUT THERE AND GATHER THE STONES!
 
 #WHB(PTR, $000005D9)
 
- 
+
 <$00><$13>
-//（火星の酸索は酸索石によって供給されてる。 \n酸索石を掘り出してミキサーにかけて、 \nそれで酸索を取り出す。 簡単なことだ。
-（STONES, "OXYGENITE", SUPPLY MARS \n
-WITH OXYGEN. THE STONES ARE MINED SO \n
-THAT OXYGEN CAN EXTRACTED. 
+//（火星の酸索は酸索石によって供給されてる。\n酸索石を掘り出してミキサーにかけて、\nそれで酸索を取り出す。 簡単なことだ。
+（STONES, "OXYGENITE", SUPPLY MARS\n
+WITH OXYGEN. THE STONES ARE MINED SO\n
+THAT OXYGEN CAN EXTRACTED.
 <$0C>
-//この１０年のあいだに、 \n酸索は火星のほとんどに行き渡ったぞ。
-OVER THE LAST DECADE, THAT EXTRACTED \n
-OXYGEN HAS BLED OUT OVER MOST OF THE \n
-PLANET'S SURFACE. 
+//この１０年のあいだに、\n酸索は火星のほとんどに行き渡ったぞ。
+OVER THE LAST DECADE, THAT EXTRACTED\n
+OXYGEN HAS BLED OUT OVER MOST OF THE\n
+PLANET'S SURFACE.
 <$0C>
-//もうヘルメットはいらないんだ、 \n星が生まれ変わったんだ。
-HELMETS ARE HARDLY A NECESSITY ANY \n
-MORE. IN THAT ONE WAY, THE PLANET HAS \n
-BEEN REBORN. 
+//もうヘルメットはいらないんだ、\n星が生まれ変わったんだ。
+HELMETS ARE HARDLY A NECESSITY ANY\n
+MORE. IN THAT ONE WAY, THE PLANET HAS\n
+BEEN REBORN.
 <$00>
 
 // Pos: 00000ED4
@@ -263,13 +263,13 @@ BEEN REBORN.
 
 #WHB(PTR, $000005E9)
 
- 
+
 <$00><$13>
-//（迷いは苦悩の母だ。 \n迷いから自由になれば真の存在となれるだろう。 \n
-（HESITATION IS THE MOTHER OF \n
-SUFFERING. FREE YOURSELF, AND BECOME \n
+//（迷いは苦悩の母だ。\n迷いから自由になれば真の存在となれるだろう。\n
+（HESITATION IS THE MOTHER OF\n
+SUFFERING. FREE YOURSELF, AND BECOME\n
 A TRUE EXISTENCE.
-<$0C> 
+<$0C>
 <$00>
 
 // Pos: 00000F03
@@ -278,20 +278,20 @@ A TRUE EXISTENCE.
 
 #WHB(PTR, $000005F9)
 
- 
+
 <$00><$13>
-//（お前たちは葉っぱではない。 \nただ散る日を待つ身ではない、 \n自らの意志の元にあるのだ。
-（YOU ARE NOT LEAVES THAT FALL AT \n
-AUTUMN's BECKON. YOU MUST WILL \n
-YOURSELF TO FALL. 
+//（お前たちは葉っぱではない。\nただ散る日を待つ身ではない、\n自らの意志の元にあるのだ。
+（YOU ARE NOT LEAVES THAT FALL AT\n
+AUTUMN's BECKON. YOU MUST WILL\n
+YOURSELF TO FALL.
 <$0C>
-//主体的であることこそが、お前たちを救う。 \n生も死も、お前たちの手の内にあるのだ。
-INDEPENDENCE WILL SAVE YOU ALL. YOUR \n
-LIVES AND DEATHS ARE IN YOUR HANDS. 
+//主体的であることこそが、お前たちを救う。\n生も死も、お前たちの手の内にあるのだ。
+INDEPENDENCE WILL SAVE YOU ALL. YOUR\n
+LIVES AND DEATHS ARE IN YOUR HANDS.
 <$0C>
 //望め、望め、望むことで扉は開かれる。
-DESIRE. YOUR DESIRE. YOUR DESIRE IS \n
-WHAT WILL OPEN THAT DOOR. 
+DESIRE. YOUR DESIRE. YOUR DESIRE IS\n
+WHAT WILL OPEN THAT DOOR.
 <$00>
 
 // Pos: 00000F83
@@ -300,11 +300,11 @@ WHAT WILL OPEN THAT DOOR.
 
 #WHB(PTR, $00000609)
 
- 
+
 <$00><$13>
-//（肉体と精神は向き合っているのではない、 \n肉体が精神を閉じ込めているのだ。
-（FLESH AND SOUL DO NOT REFLECT ONE \n
-ANOTHER. FLESH TRAPS THE SOUL. 
+//（肉体と精神は向き合っているのではない、\n肉体が精神を閉じ込めているのだ。
+（FLESH AND SOUL DO NOT REFLECT ONE\n
+ANOTHER. FLESH TRAPS THE SOUL.
 <$00>
 
 // Pos: 00000FB7
@@ -313,26 +313,26 @@ ANOTHER. FLESH TRAPS THE SOUL.
 
 #WHB(PTR, $00000619)
 
- 
+
 <$00><$13>
-//（この世界は何だ、天国かそれとも地獄か。 \nそれはお前たちが身をもって \n体験しているだろう。
-（WHAT IS THIS WORLD: HEAVEN OR \n
-HELL? THAT IS WHAT YOU ALL MUST \n
-DETERMINE WITH YOUR BODIES. 
+//（この世界は何だ、天国かそれとも地獄か。\nそれはお前たちが身をもって\n体験しているだろう。
+（WHAT IS THIS WORLD: HEAVEN OR HELL?\n
+THAT IS WHAT YOU ALL MUST DETERMINE\n
+WITH YOUR BODIES.
 <$0C>
-//見よ、このウソに満ちた世界を、 \nタマシイを閉じこめたお前たちの \nそのみっともない肉体を。
-BEHOLD THIS WORLD OF LIES AND \n
-SHAMEFUL FLESH THAT BARS YOUR SPIRIT \n
-FROM EXPERIENCE. 
+//見よ、このウソに満ちた世界を、\nタマシイを閉じこめたお前たちの\nそのみっともない肉体を。
+BEHOLD THIS WORLD OF LIES AND\n
+SHAMEFUL FLESH THAT BARS YOUR SPIRIT\n
+FROM EXPERIENCE.
 <$0C>
-//やがてすべては滅び、土に帰る。 \nタマシイはそのときようやく解放されるのだ。
-EVENTUALLY, EVERYTHING WILL PERISH \n
-AND RETURN TO THE SOUL. THAT IS WHEN \n
-THE SPIRIT IS FREED. 
+//やがてすべては滅び、土に帰る。\nタマシイはそのときようやく解放されるのだ。
+EVENTUALLY, EVERYTHING WILL PERISH\n
+AND RETURN TO THE SOUL. THAT IS WHEN\n
+THE SPIRIT IS FREED.
 <$0C>
-//お前たちが不幸だとするなら、 \nそれは何によってもたらされているか、 \n考えても見るがいい。
-THINK ABOUT THE MISFORTUNE YOU \n
-BRING TO THE WORLD AND BEHOLD IT. 
+//お前たちが不幸だとするなら、\nそれは何によってもたらされているか、\n考えても見るがいい。
+THINK ABOUT THE MISFORTUNE YOU\n
+BRING TO THE WORLD AND BEHOLD IT.
 <$00>
 
 // Pos: 0000107E
@@ -341,12 +341,12 @@ BRING TO THE WORLD AND BEHOLD IT.
 
 #WHB(PTR, $00000629)
 
- 
+
 <$00><$13>
-//（死は終わりではない、始まりなのだ。 \n死を乗り越えた先をめざさねばならない。
-（DEATH IS NOT THE END, BUT THE \n
-BEGINNING. WE MUST ASCEND TO THE \n
-SUMMIT BEYOND DEATH. 
+//（死は終わりではない、始まりなのだ。\n死を乗り越えた先をめざさねばならない。
+（DEATH IS NOT THE END, BUT THE\n
+BEGINNING. WE MUST ASCEND TO THE\n
+SUMMIT BEYOND DEATH.
 <$00>
 
 // Pos: 000010AE
@@ -355,25 +355,25 @@ SUMMIT BEYOND DEATH.
 
 #WHB(PTR, $00000639)
 
- 
+
 <$00><$13>
-//（生は始まりか？ そうだとするなら、 \n苦悩の始まりといっておこう。
-（IS LIFE THE BEGINNING? IF YES, THEN \n
-IT WOULD BE THE SO-CALLED BEGINNING \n
-OF SUFFERING. 
+//（生は始まりか？ そうだとするなら、\n苦悩の始まりといっておこう。
+（IS LIFE THE BEGINNING? IF YES, THEN\n
+IT WOULD BE THE SO-CALLED BEGINNING\n
+OF SUFFERING.
 <$0C>
-//死は終わりか、そうだとするなら、 \n苦悩の終わりだ。
-IS DEATH THE END? IF SO, THEN IT WOULD \n
-BE THE END OF SUFFERING. 
+//死は終わりか、そうだとするなら、\n苦悩の終わりだ。
+IS DEATH THE END? IF SO, THEN IT WOULD\n
+BE THE END OF SUFFERING.
 <$0C>
-//冬が終わり、永遠の春が来る、死の向こうに \nすべての始まりが待ちかまえているのだ。
-WINTER ENDS, WELCOMING ETERNAL \n
-SPRING. THE BEGINNING OF EVERYTHING \n
-WAITS ACROSS DEATH'S THRESHOLD. 
+//冬が終わり、永遠の春が来る、死の向こうに\nすべての始まりが待ちかまえているのだ。
+WINTER ENDS, WELCOMING ETERNAL\n
+SPRING. THE BEGINNING OF EVERYTHING\n
+WAITS ACROSS DEATH'S THRESHOLD.
 <$0C>
-//そして、ようやく \nお前たちの出番がやってくるのだ。
-YOUR TURNS TO CROSS THAT THRESHOLD \n
-ARE COMING. 
+//そして、ようやく\nお前たちの出番がやってくるのだ。
+YOUR TURNS TO CROSS THAT THRESHOLD\n
+ARE COMING.
 <$00>
 
 // Pos: 00001144
@@ -382,12 +382,12 @@ ARE COMING.
 
 #WHB(PTR, $0000064D)
 
- 
+
 <$00><$13>
-//（再生だ、再生の時だ。 \n世界は喜びにあふれ、光が闇を消すだろう！
-（FIRST HE DIED! TIME AND AGAIN! THE \n
-WORLD WILL SWIM IN HIS JOY, AND \n
-DARKNESS WILL BURN IN HIS LIGHT. 
+//（再生だ、再生の時だ。\n世界は喜びにあふれ、光が闇を消すだろう！
+（FIRST HE DIED! TIME AND AGAIN! THE\n
+WORLD WILL SWIM IN HIS JOY, AND\n
+DARKNESS WILL BURN IN HIS LIGHT.
 <$00>
 
 // Pos: 00001172
@@ -396,23 +396,23 @@ DARKNESS WILL BURN IN HIS LIGHT.
 
 #WHB(PTR, $0000065D)
 
- 
+
 <$00><$13>
-//（肉体をぬぎすてたとき、 \nお前たちは自由になれる。
-（BURN THE FLESH, THAT YOU MAY KNOW \n
-FREEDOM. 
+//（肉体をぬぎすてたとき、\nお前たちは自由になれる。
+（BURN THE FLESH, THAT YOU MAY KNOW\n
+FREEDOM.
 <$0C>
-//死の向こうへ歩むとき、 \n再生の喜びにむかえられる。
-CROSS DEATH'S THRESHOLD, THAT YOU \n
-MAY BE MET WITH JOY IN REBIRTH. 
+//死の向こうへ歩むとき、\n再生の喜びにむかえられる。
+CROSS DEATH'S THRESHOLD, THAT YOU\n
+MAY BE MET WITH JOY IN REBIRTH.
 <$0C>
 //光の私の完成は近い。
-I, IN MY LIGHT, FACE COMPLETION YET. 
+I, IN MY LIGHT, FACE COMPLETION YET.
 <$0C>
-//私の言葉を開かぬ者は、 \n再び苦しみの基で眠るがいい。
-THOSE WHO LISTEN NOT TO MY WORDS MAY \n
-REST ANOTHER NIGHT IN THEIR WARM \n
-CRADLES OF SUFFERING. 
+//私の言葉を開かぬ者は、\n再び苦しみの基で眠るがいい。
+THOSE WHO LISTEN NOT TO MY WORDS MAY\n
+REST ANOTHER NIGHT IN THEIR WARM\n
+CRADLES OF SUFFERING.
 <$00>
 
 // Pos: 000011E3
@@ -421,17 +421,17 @@ CRADLES OF SUFFERING.
 
 #WHB(PTR, $00000679)
 
- 
+
 <$00><$13>
 //（あああ… 言葉はかなり忘れた。
-（AH, MAYHAPS MY WORDS ARE LONG \n
-FORGOTTEN. 
+（AH, MAYHAPS MY WORDS ARE LONG\n
+FORGOTTEN.
 <$0C>
-//昔のことだ、犬だからといって \nそんなことにはならないワン…
-IT WAS VERY LONG AGO, AND I DON'T MEAN \n
-THAT IN JUST DOG YEARS, BARK. 
+//昔のことだ、犬だからといって\nそんなことにはならないワン…
+IT WAS VERY LONG AGO, AND I DON'T MEAN\n
+THAT IN JUST DOG YEARS, BARK.
 <$0C>
 //もう話せないワン。
-I'M OUT OF THINGS TO SAY. BARK, BARK. 
+I'M OUT OF THINGS TO SAY. BARK, BARK.
 <$00>
 

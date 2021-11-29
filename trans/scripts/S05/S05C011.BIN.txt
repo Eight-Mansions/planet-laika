@@ -15,26 +15,26 @@
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n記憶の谷へ行くんだな。
- \n
-You are leaving for Valles Memoriae, I \n
-see. 
+//\n記憶の谷へ行くんだな。
+\n
+You are leaving for Valles Memoriae, I\n
+see.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n気を付けることだ、あそこはなくした記憶が \nよみがえる場所だ。
- \n
-Beware the lost memories that try to \n
-resurface as you walk the land. 
+//\n気を付けることだ、あそこはなくした記憶が\nよみがえる場所だ。
+\n
+Beware the lost memories that try to\n
+resurface as you walk the land.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nそれはウソのものかも知れん。
- \n
-Some of those memories can and will \n
-be false. 
+//\nそれはウソのものかも知れん。
+\n
+Some of those memories can and will\n
+be false.
 <$00>
 
 // Pos: 00001807
@@ -47,10 +47,10 @@ be false.
 //エイプリル：
 April:
 <$0D>
-// \nありがとう… \nねえ、ひとつ開いていい？
- \n
-Thank you for warning us! Actually, \n
-may I ask you one thing? 
+//\nありがとう…\nねえ、ひとつ開いていい？
+\n
+Thank you for warning us! Actually,\n
+may I ask you one thing?
 <$00>
 
 // Pos: 00001826
@@ -63,9 +63,9 @@ may I ask you one thing?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n何をだ。
- \n
-You may. 
+//\n何をだ。
+\n
+You may.
 <$00>
 
 // Pos: 00001837
@@ -78,12 +78,12 @@ You may.
 //エイプリル：
 April:
 <$0D>
-// \nあなたたちは整形を受けないの？ \nコロニーでは、ヴァニティフェイスが \n流行ってるのよ。
- \n
-If Vanity Face is so popular on Mars, \n
+//\nあなたたちは整形を受けないの？\nコロニーでは、ヴァニティフェイスが\n流行ってるのよ。
+\n
+If Vanity Face is so popular on Mars,\n
 why have none of you undergone
 <$0C>
-plastic surgery? 
+plastic surgery?
 <$00>
 
 // Pos: 00001871
@@ -96,12 +96,12 @@ plastic surgery?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n邪道だ。我々は人間の顔を手に入れるために \nここに来たのではない。 \nお前たちもそうだろう。
- \n
-Like you, we did not come to Mars to \n
+//\n邪道だ。我々は人間の顔を手に入れるために\nここに来たのではない。\nお前たちもそうだろう。
+\n
+Like you, we did not come to Mars to\n
 find our human faces. That is an evil
 <$0C>
-path. 
+path.
 <$00>
 
 // Pos: 000018B3
@@ -114,12 +114,12 @@ path.
 //エイプリル：
 April:
 <$0D>
-// \nでも、すごい美少年がいたのよ。 \nあんなにきれいになれるなんて… \n大した技術ね。
- \n
-Oh, but we saw a young boy with a \n
+//\nでも、すごい美少年がいたのよ。\nあんなにきれいになれるなんて…\n大した技術ね。
+\n
+Oh, but we saw a young boy with a\n
 beautiful face. Technology has come
 <$0C>
-so far! 
+so far!
 <$00>
 
 // Pos: 000018EB
@@ -132,12 +132,12 @@ so far!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nよこしまな気を宿してはならん。 \nイーブルマインドに憑かれてしまう。 \n用心することだ。
- \n
-Beware. Beautiful roses stem from \n
+//\nよこしまな気を宿してはならん。\nイーブルマインドに憑かれてしまう。\n用心することだ。
+\n
+Beware. Beautiful roses stem from\n
 vile roots, and are watered by Evil
 <$0C>
-Mind. 
+Mind.
 <$00>
 
 // Pos: 00001926
@@ -150,10 +150,10 @@ Mind.
 //エイプリル：
 April:
 <$0D>
-// \nきれいになりたいっていうのも、悪なの？
- \n
-Are you saying it's evil to want to be \n
-beautiful? 
+//\nきれいになりたいっていうのも、悪なの？
+\n
+Are you saying it's evil to want to be\n
+beautiful?
 <$00>
 
 // Pos: 00001944
@@ -166,28 +166,28 @@ beautiful?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nそうだ。見かけにこだわる欲悪だ。 \nビジュアル系と呼ばれている。
- \n
-The evil, specifically, is greed. That is \n
-what we call a Visual type evil. 
+//\nそうだ。見かけにこだわる欲悪だ。\nビジュアル系と呼ばれている。
+\n
+The evil, specifically, is greed. That is\n
+what we call a Visual type evil.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nマウンテンどもは知悪だ… \nふん！こざかしい連中だ！
- \n
-Mountain's evil is wisdom, and THOSE \n
-types? Oh, what a lousy lot! 
+//\nマウンテンどもは知悪だ…\nふん！こざかしい連中だ！
+\n
+Mountain's evil is wisdom, and THOSE\n
+types? Oh, what a lousy lot!
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nおかしなことに \nうつつを抜かしている連中だ。
- \n
-They're the ones who preoccupy \n
+//\nおかしなことに\nうつつを抜かしている連中だ。
+\n
+They're the ones who preoccupy\n
 themselves with their wily
 <$0C>
-imaginations. 
+imaginations.
 <$00>
 
 // Pos: 000019C0
@@ -200,10 +200,10 @@ imaginations.
 //エイプリル：
 April:
 <$0D>
-// \n欲悪と知悪。 \n知悪はサイコ系ね。他には？
- \n
-Greed and wisdom. If Psycho type is \n
-wisdom, what is Animal type? 
+//\n欲悪と知悪。\n知悪はサイコ系ね。他には？
+\n
+Greed and wisdom. If Psycho type is\n
+wisdom, what is Animal type?
 <$00>
 
 // Pos: 000019E4
@@ -216,20 +216,20 @@ wisdom, what is Animal type?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n何故、そんなに知りたいのだ？
- \n
-Heavens be, how do you know so \n
-much?! 
+//\n何故、そんなに知りたいのだ？
+\n
+Heavens be, how do you know so\n
+much?!
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n酒場にたむろする連中は力悪だ。 \nアニマル系だ。 \nなんでも暴力で解決しようとする。
- \n
-The answer is "power". Like those, for \n
+//\n酒場にたむろする連中は力悪だ。\nアニマル系だ。\nなんでも暴力で解決しようとする。
+\n
+The answer is "power". Like those, for\n
 example, who puff their chests in
 <$0C>
-taverns. 
+taverns.
 <$00>
 
 // Pos: 00001A3F
@@ -242,10 +242,10 @@ taverns.
 //エイプリル：
 April:
 <$0D>
-// \nそれで３悪ね… \nありがとう。
- \n
-And that's all three, huh. Thank you so \n
-much! 
+//\nそれで３悪ね…\nありがとう。
+\n
+And that's all three, huh. Thank you so\n
+much!
 <$00>
 
 // Pos: 00001A58
@@ -258,12 +258,12 @@ much!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n記憶の谷では気を付けるんだ。 \nあらぬものが見えても心を \n動かされるんじゃない。分かったな。
- \n
-No matter how strange your visions \n
+//\n記憶の谷では気を付けるんだ。\nあらぬものが見えても心を\n動かされるんじゃない。分かったな。
+\n
+No matter how strange your visions\n
 are in Valles Memoriae, do not fall to
 <$0C>
-them. 
+them.
 <$00>
 
 // Pos: 00001A98
@@ -276,10 +276,10 @@ them.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n記憶の谷はまやかしだらけだ。 \n気を付けろ。
- \n
-Valles Memoriae is rife with deceit. \n
-You must be careful. 
+//\n記憶の谷はまやかしだらけだ。\n気を付けろ。
+\n
+Valles Memoriae is rife with deceit.\n
+You must be careful.
 <$00>
 
 // Pos: 00001ABE
@@ -292,36 +292,36 @@ You must be careful.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n大丈夫だったか… \nお前のタマシイは抜けていないな。
- \n
-Are you worried? Your spirit is not \n
-missing. 
+//\n大丈夫だったか…\nお前のタマシイは抜けていないな。
+\n
+Are you worried? Your spirit is not\n
+missing.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nホワイトイーグルはドールダンスで \nタマシイを戻さなければならない。
- \n
-Still, White Eagle must use the doll \n
-dance to return your spirit. 
+//\nホワイトイーグルはドールダンスで\nタマシイを戻さなければならない。
+\n
+Still, White Eagle must use the doll\n
+dance to return your spirit.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n今度は正しいドールダンスだ、 \nそれで抜け出したタマシイを戻すのだ。
- \n
-We will do the doll dance properly this \n
+//\n今度は正しいドールダンスだ、\nそれで抜け出したタマシイを戻すのだ。
+\n
+We will do the doll dance properly this\n
 time, so that what is missing of your
 <$0C>
-spirit will return. 
+spirit will return.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n今は入れない。 \nドールダンスの最中は立入禁止だ。
- \n
-You cannot come in now. We are in the \n
-middle of reinserting the spirit. 
+//\n今は入れない。\nドールダンスの最中は立入禁止だ。
+\n
+You cannot come in now. We are in the\n
+middle of reinserting the spirit.
 <$00>
 
 // Pos: 00001B75
@@ -334,27 +334,27 @@ middle of reinserting the spirit.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nタンキー人形はタマシイを操る。 \n人から出したり入れたりできるんだ。
- \n
-Turn-key dolls control spirits. They \n
+//\nタンキー人形はタマシイを操る。\n人から出したり入れたりできるんだ。
+\n
+Turn-key dolls control spirits. They\n
 can be used to direct spirits inward and
 <$0C>
-out from a person. 
+out from a person.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nさっきはひっくり返った… \n事故だ。
- \n
-Earlier, the turn-key doll capsized, \n
-causing the problem you saw then. 
+//\nさっきはひっくり返った…\n事故だ。
+\n
+Earlier, the turn-key doll capsized,\n
+causing the problem you saw then.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nさあ、コロニーに戻れ。 \n今はタマシイを入れてる最中だ。
- \n
-Now, return to the colony. We are in the \n
-middle of reinserting the spirit. 
+//\nさあ、コロニーに戻れ。\n今はタマシイを入れてる最中だ。
+\n
+Now, return to the colony. We are in the\n
+middle of reinserting the spirit.
 <$00>
 

@@ -15,29 +15,29 @@
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n
- \n
+//\n
+\n
 
 <$0F>
-//君、君は宿命の子なのかね、 \nそれでここにいる？
-, you are a Destined Child, aren't you? \n
-Isn't that why you're here? 
+//君、君は宿命の子なのかね、\nそれでここにいる？
+, you are a Destined Child, aren't you?\n
+Isn't that why you're here?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nそれともこれは君にとっては \n自分さがしの旅なのかね？
- \n
-What's more, you're on a journey to \n
-find yourself. 
+//\nそれともこれは君にとっては\n自分さがしの旅なのかね？
+\n
+What's more, you're on a journey to\n
+find yourself.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n私としても最善を尽くしているのでね、 \n分かって欲しいんだ。
- \n
-I'm doing my best to help you. I want \n
-you to know that. 
+//\n私としても最善を尽くしているのでね、\n分かって欲しいんだ。
+\n
+I'm doing my best to help you. I want\n
+you to know that.
 <$00>
 
 // Pos: 00003021
@@ -62,36 +62,36 @@ you to know that.
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n
- \n
+//\n
+\n
 
 <$0F>
-//君、君は幼い頃に \nお父さんを亡くしている。
-, you lost your father at a very young \n
-age. 
+//君、君は幼い頃に\nお父さんを亡くしている。
+, you lost your father at a very young\n
+age.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n君のお母さんはウラジミールという \nエ員上がりの男と再婚した。
- \n
-Your mother remarried a former \n
-factory worker, Vladimir. 
+//\n君のお母さんはウラジミールという\nエ員上がりの男と再婚した。
+\n
+Your mother remarried a former\n
+factory worker, Vladimir.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nウラジミールも奥さんに先立たれ、 \n一人息子のセルゲイを養っていた。
- \n
-Vladimir was a widower who provided \n
-for his only son, Sergei. 
+//\nウラジミールも奥さんに先立たれ、\n一人息子のセルゲイを養っていた。
+\n
+Vladimir was a widower who provided\n
+for his only son, Sergei.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nこれで役者はそろったわけだ。
- \n
-And so, the stage is set... 
+//\nこれで役者はそろったわけだ。
+\n
+And so, the stage is set...
 <$00>
 
 // Pos: 000030DD
@@ -104,12 +104,12 @@ And so, the stage is set...
 //ウラジミール：
 Vladimir:
 <$0D>
-// \nセルゲイ兄さんを見習え！ ええ？ \n見習うんだ、できそこないめが！
- \n
-Where you dropped on the fucking \n
+//\nセルゲイ兄さんを見習え！ ええ？\n見習うんだ、できそこないめが！
+\n
+Where you dropped on the fucking\n
 head?! Why can't you be more like
 <$0C>
-Sergei?! 
+Sergei?!
 <$00>
 
 // Pos: 0000310C
@@ -122,10 +122,10 @@ Sergei?!
 //セルゲイ：
 Sergei:
 <$0D>
-// \nへへへへ、いいこと教えてやろうか？ \n父さんはお前がキライなんだよ。
- \n
-Hehehe! Hey, guess what? \n
-Batya hates your guts! 
+//\nへへへへ、いいこと教えてやろうか？\n父さんはお前がキライなんだよ。
+\n
+Hehehe! Hey, guess what?\n
+Batya hates your guts!
 <$00>
 
 // Pos: 00003139
@@ -138,10 +138,10 @@ Batya hates your guts!
 //セルゲイ：
 Sergei:
 <$0D>
-// \nお前達がこの家に来たときからな、 \nキライなんだ、ひゃひゃひゃ
- \n
-Yup! From the moment you and \n
-that ugly bitch moved in! 
+//\nお前達がこの家に来たときからな、\nキライなんだ、ひゃひゃひゃ
+\n
+Yup! From the moment you and\n
+that ugly bitch moved in!
 <$00>
 
 // Pos: 00003164
@@ -154,26 +154,26 @@ that ugly bitch moved in!
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n新しいくらし、それは苦しみの連続だ。 \nだが希望は失われてはいなかった。
- \n
-Despite the sufferings of your new \n
-life, your family had a light of hope. 
+//\n新しいくらし、それは苦しみの連続だ。\nだが希望は失われてはいなかった。
+\n
+Despite the sufferings of your new\n
+life, your family had a light of hope.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nそうだよ、君には妹ができることになった。
- \n
-That's right. You had a baby sister on \n
-the way. 
+//\nそうだよ、君には妹ができることになった。
+\n
+That's right. You had a baby sister on\n
+the way.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nこれでうまくいく、みんなうまくいく、 \n君のお母さんはそう思ったんだ。
- \n
-"We'll be fine soon. Things will work out \n
-soon," thought your mother. 
+//\nこれでうまくいく、みんなうまくいく、\n君のお母さんはそう思ったんだ。
+\n
+"We'll be fine soon. Things will work out\n
+soon," thought your mother.
 <$00>
 
 // Pos: 000031FB
@@ -186,27 +186,27 @@ soon," thought your mother.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nウラジミールは先生にこっそり話を付けて \nタニアのお腹の子供を殺しちゃったの。
- \n
-Vladimir secretly spoke with the \n
+//\nウラジミールは先生にこっそり話を付けて\nタニアのお腹の子供を殺しちゃったの。
+\n
+Vladimir secretly spoke with the\n
 doctor before secretly terminating
 <$0C>
-Tanya's unborn child. 
+Tanya's unborn child.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nどんな風にしたかって？ \n開かないでよアタシに。
- \n
-Don't ask me how he did it. 
+//\nどんな風にしたかって？\n開かないでよアタシに。
+\n
+Don't ask me how he did it.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nとにかく死産ということになって、 \nうまく処理されたのよ。
- \n
-Anyways, the child was stillborn, and \n
-ultimately disposed of. 
+//\nとにかく死産ということになって、\nうまく処理されたのよ。
+\n
+Anyways, the child was stillborn, and\n
+ultimately disposed of.
 <$00>
 
 // Pos: 00003280
@@ -219,10 +219,10 @@ ultimately disposed of.
 //アーネスト：
 Ernest:
 <$0D>
-// \n死んじゃいねぇ、ミーシャはいるんだ、 \n俺が守ってやるぜ！
- \n
-Misha's not dead! She's right here, and \n
-I'm going to protect her！ 
+//\n死んじゃいねぇ、ミーシャはいるんだ、\n俺が守ってやるぜ！
+\n
+Misha's not dead! She's right here, and\n
+I'm going to protect her！
 <$00>
 
 // Pos: 000032AB
@@ -235,20 +235,20 @@ I'm going to protect her！
 //スペーサー：
 Spacer:
 <$0D>
-// \nだめだ！ ミーシャは君が作り出した人格だ。 \n勝手にかかわったりしちゃだめだ。
- \n
-Stop it! Masha's personality only exists \n
+//\nだめだ！ ミーシャは君が作り出した人格だ。\n勝手にかかわったりしちゃだめだ。
+\n
+Stop it! Masha's personality only exists\n
 because YOU created it! Stop kidding
 <$0C>
-yourself! 
+yourself!
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nアーネスト、ミーシャはいないんだ、 \nあきらめろ。
- \n
-Ernest. Masha isn't with us. Just give it \n
-up. 
+//\nアーネスト、ミーシャはいないんだ、\nあきらめろ。
+\n
+Ernest. Masha isn't with us. Just give it\n
+up.
 <$00>
 
 // Pos: 00003305
@@ -261,47 +261,47 @@ up.
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n
- \n
+//\n
+\n
 
 <$0F>
 //君、
-... 
+...
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nこの天地にはかの哲学の考えも \nおよばないことがあるのだ。
- \n
-As no single philosophy can fulfill \n
-every aspect of life, 
+//\nこの天地にはかの哲学の考えも\nおよばないことがあるのだ。
+\n
+As no single philosophy can fulfill\n
+every aspect of life,
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n３人にはもうひと働きしてもらうといい。
- \n
-you and the three must work as one to \n
-carry said one through. 
+//\n３人にはもうひと働きしてもらうといい。
+\n
+you and the three must work as one to\n
+carry said one through.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nだが、忘れちゃいかん、
- \n
-Do not forget that all you see, and all \n
-you hear... 
+//\nだが、忘れちゃいかん、
+\n
+Do not forget that all you see, and all\n
+you hear...
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n君が見るもの、開いたこと、それこそが \n真実の芽になるのだよ、
- \n
-...are the seeds from which you will \n
+//\n君が見るもの、開いたこと、それこそが\n真実の芽になるのだよ、
+\n
+...are the seeds from which you will\n
 reap absolute truth, 
 <$0F>
 //君。
-. 
+.
 <$00>
 
 // Pos: 000033C4
@@ -314,46 +314,46 @@ reap absolute truth,
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n君はずっといい子を演じてきた、建うかな？ \n亡きお父さんの期待に応えようと頑張った。
- \n
-You always tried to be a "good child", \n
+//\n君はずっといい子を演じてきた、建うかな？\n亡きお父さんの期待に応えようと頑張った。
+\n
+You always tried to be a "good child",\n
 no？ You did so to fill the shoes of your
 <$0C>
-late father. 
+late father.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nしかし残念なことに、 \n君は本当の自分を見失ってしまったのだよ。
- \n
-But unfortunately, that caused you to \n
-you lose sight of your true self. 
+//\nしかし残念なことに、\n君は本当の自分を見失ってしまったのだよ。
+\n
+But unfortunately, that caused you to\n
+you lose sight of your true self.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n痛みや悲しみすら惑じなくなったのだ。
- \n
-Pain and sadness were no longer \n
-things you even sensed. 
+//\n痛みや悲しみすら惑じなくなったのだ。
+\n
+Pain and sadness were no longer\n
+things you even sensed.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nぽっかり空いた君の心を、 \n子羊たちがさまよいはじめた。
- \n
-That void in your mind became a \n
+//\nぽっかり空いた君の心を、\n子羊たちがさまよいはじめた。
+\n
+That void in your mind became a\n
 playground for other children to
 <$0C>
-roam. 
+roam.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nなんとも罪作りな子羊たちだ。
- \n
-A field for other sinful little lambs to \n
-flock. 
+//\nなんとも罪作りな子羊たちだ。
+\n
+A field for other sinful little lambs to\n
+flock.
 <$00>
 
 // Pos: 000034B8
@@ -366,33 +366,33 @@ flock.
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n君は生まれ変わりを信じるかね。 \nそれとも分身はどうかな…
- \n
-Do you believe in rebirth? What about \n
-alter egoes? 
+//\n君は生まれ変わりを信じるかね。\nそれとも分身はどうかな…
+\n
+Do you believe in rebirth? What about\n
+alter egoes?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nいやはや、やっかいな問顆だらけだ。
- \n
-Then you know our world is a garden of \n
-truly bizarre concepts. 
+//\nいやはや、やっかいな問顆だらけだ。
+\n
+Then you know our world is a garden of\n
+truly bizarre concepts.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nだがな、本当に世界が求めているのは \nそんなまやかしではないぞ。
- \n
-But the world does not ask these \n
-questions to deceive you. 
+//\nだがな、本当に世界が求めているのは\nそんなまやかしではないぞ。
+\n
+But the world does not ask these\n
+questions to deceive you.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nただひとつ、マコトの双子なのだよ。
- \n
-No, the world itself only yearns for an \n
-answer from the Twins of Truth. 
+//\nただひとつ、マコトの双子なのだよ。
+\n
+No, the world itself only yearns for an\n
+answer from the Twins of Truth.
 <$00>
 

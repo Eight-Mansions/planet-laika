@@ -15,25 +15,25 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n顔よ、顔で蕃判を切り抜けるのよ。 \nみんなそうしてるじゃない。
- \n
-Everyone thinks having a pretty face \n
-will spare them from Judgement. 
+//\n顔よ、顔で蕃判を切り抜けるのよ。\nみんなそうしてるじゃない。
+\n
+Everyone thinks having a pretty face\n
+will spare them from Judgement.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシだって…そう…ケンリあるのよ。 \nもうあんな暗闇には戻りたくはない。
- \n
-I'm priveleged, in that way. But I don't \n
-want to live in the dark anymore. 
+//\nアタシだって…そう…ケンリあるのよ。\nもうあんな暗闇には戻りたくはない。
+\n
+I'm priveleged, in that way. But I don't\n
+want to live in the dark anymore.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nヨランダ、そうよ、アタシはヨランダよ！
- \n
-I'm Yolanda, got it? Yo-lan-da! 
+//\nヨランダ、そうよ、アタシはヨランダよ！
+\n
+I'm Yolanda, got it? Yo-lan-da!
 <$00>
 
 // Pos: 00002493
@@ -46,7 +46,7 @@ I'm Yolanda, got it? Yo-lan-da!
 歪所    
 <$0D>
 //ライカ… そこにいるの？
-Laika, are you there? 
+Laika, are you there?
 <$0E><$78><$17><$00>
 
 // Pos: 000024AC
@@ -59,7 +59,7 @@ Laika, are you there?
 歪所    
 <$0D>
 //ここは… 私の夢… 夢の中…
-We're...inside of my dream. 
+We're...inside of my dream.
 <$0E><$78><$17><$00>
 
 // Pos: 000024CA
@@ -71,8 +71,8 @@ We're...inside of my dream.
 //歪所    
 歪所    
 <$0D>
-//どんどんはぎ取られていく… \n
-I'm getting torn apart... \n 
+//どんどんはぎ取られていく…\n
+I'm getting torn apart...\n
 <$0E><$78><$17><$00>
 
 // Pos: 000024E6
@@ -85,7 +85,7 @@ I'm getting torn apart... \n
 歪所       
 <$0D>
 //私が…なくなる…
-I'm...going to disappear... 
+I'm...going to disappear...
 <$0E><$78><$17><$00>
 
 // Pos: 000024FE
@@ -98,7 +98,7 @@ I'm...going to disappear...
 歪所    
 <$0D>
 //お願い、ライカ、行かないで。
-Please, Laika. Don't leave me! 
+Please, Laika. Don't leave me!
 <$0E><$78><$17><$00>
 
 // Pos: 0000251B
@@ -111,7 +111,7 @@ Please, Laika. Don't leave me!
 歪所       
 <$0D>
 //ここは真っ暗よ…
-It's so dark... 
+It's so dark...
 <$0E><$78><$17><$00>
 
 // Pos: 00002535
@@ -128,9 +128,9 @@ It's so dark...
 //スペーサー：
 Spacer:
 <$0D>
-// \nヨランダ… アーネスト…
- \n
-Jo... Ernie... 
+//\nヨランダ… アーネスト…
+\n
+Jo... Ernie...
 <$00>
 
 // Pos: 0000254E
@@ -143,24 +143,24 @@ Jo... Ernie...
 //スペーサー：
 Spacer:
 <$0D>
-// \nまだ寝ているのだな。 無理もない。
- \n
-Still sleeping, are you? Figures. 
+//\nまだ寝ているのだな。 無理もない。
+\n
+Still sleeping, are you? Figures.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n開こえるか？ \nアーネスト、ヨランダ、私の声が開こえるか？
- \n
-Do either of you hear me? Ernie? Jo? Do \n
-you hear my voice? 
+//\n開こえるか？\nアーネスト、ヨランダ、私の声が開こえるか？
+\n
+Do either of you hear me? Ernie? Jo? Do\n
+you hear my voice?
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nさっきのことは本当なのか？ \nまあ、いい。いずれ分かることだ。
- \n
-Was everything I heard true...? Well, \n
-okay. I guess we'll find out. 
+//\nさっきのことは本当なのか？\nまあ、いい。いずれ分かることだ。
+\n
+Was everything I heard true...? Well,\n
+okay. I guess we'll find out.
 <$00>
 

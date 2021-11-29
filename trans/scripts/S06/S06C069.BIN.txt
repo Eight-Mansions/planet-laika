@@ -11,11 +11,11 @@
 
 #WHB(PTR, $000009D1)
 
- 
+
 <$00>
 //   ママはそんなことじゃ死なないよ。
- No, Mummy! I won't let that 'appen. Not \n
-on Christmas! 
+ No, Mummy! I won't let that 'appen. Not\n
+on Christmas!
 <$00>
 
 // Pos: 0000205F
@@ -28,9 +28,9 @@ on Christmas!
 //エイプリル：
 April:
 <$0D>
-// \nヌーン！
- \n
-Noon! 
+//\nヌーン！
+\n
+Noon!
 <$00>
 
 // Pos: 0000206E
@@ -43,9 +43,9 @@ Noon!
 //ヌーン：
 Noon:
 <$0D>
-// \nエイプリルじゃないか！
- \n
-April, is that you?! 
+//\nエイプリルじゃないか！
+\n
+April, is that you?!
 <$00>
 
 // Pos: 00002082
@@ -58,9 +58,9 @@ April, is that you?!
 //エイプリル：
 April:
 <$0D>
-// \nどうしたの、ヌーン！ 何があったの？
- \n
-What are you doing here?! 
+//\nどうしたの、ヌーン！ 何があったの？
+\n
+What are you doing here?!
 <$00>
 
 // Pos: 0000209F
@@ -73,10 +73,10 @@ What are you doing here?!
 //ヌーン：
 Noon:
 <$0D>
-// \nそれにライカ君も… \nこれでおニ方、おそろいと言うわけだ。
- \n
-I could ask you and Laika the same. \n
-Guess you two're stuck together. 
+//\nそれにライカ君も…\nこれでおニ方、おそろいと言うわけだ。
+\n
+I could ask you and Laika the same.\n
+Guess you two're stuck together.
 <$00>
 
 // Pos: 000020C6
@@ -89,17 +89,17 @@ Guess you two're stuck together.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nちょっと、機関士のあんた、 \nなに気取ってんのよ！
- \n
-Pardon me, Mr. "Engineer". 
+//\nちょっと、機関士のあんた、\nなに気取ってんのよ！
+\n
+Pardon me, Mr. "Engineer".
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそれに、アタシのこと人建いしないで。 \nアタシはヨランダよ。
- \n
-Don't mistake me for Laika so easily! \n
-I'm Yolanda! 
+//\nそれに、アタシのこと人建いしないで。\nアタシはヨランダよ。
+\n
+Don't mistake me for Laika so easily!\n
+I'm Yolanda!
 <$00>
 
 // Pos: 00002115
@@ -112,17 +112,17 @@ I'm Yolanda!
 //ヌーン：
 Noon:
 <$0D>
-// \nほう！ \nそう呼んで欲しければそれで構わない。
- \n
-Fine, I'll call you whatever you want. 
+//\nほう！\nそう呼んで欲しければそれで構わない。
+\n
+Fine, I'll call you whatever you want.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nこんな夜ふけに、私の屋敷に何の用かな、 \nヨランダとやら。
- \n
-So, tell me, Yo-lan-da! What are you \n
-two doing in MY cottage at this 'our? 
+//\nこんな夜ふけに、私の屋敷に何の用かな、\nヨランダとやら。
+\n
+So, tell me, Yo-lan-da! What are you\n
+two doing in MY cottage at this 'our?
 <$00>
 
 // Pos: 0000215F
@@ -135,18 +135,18 @@ two doing in MY cottage at this 'our?
 //エイプリル：
 April:
 <$0D>
-// \nヌーン… ここは屋敷なんかじゃない、 \nそれにあなたは町長じゃない、
- \n
-Noon... This isn't your house, and your \n
-not this town's elder. 
+//\nヌーン… ここは屋敷なんかじゃない、\nそれにあなたは町長じゃない、
+\n
+Noon... This isn't your house, and your\n
+not this town's elder.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n私たちと一緒に来て。任務よ。
- \n
-You need to come back with us. We have \n
-a mission to complete. 
+//\n私たちと一緒に来て。任務よ。
+\n
+You need to come back with us. We have\n
+a mission to complete.
 <$00>
 
 // Pos: 000021AC
@@ -159,19 +159,19 @@ a mission to complete.
 //ヌーン：
 Noon:
 <$0D>
-// \n任務！ \nほほー、これはおどろきだ。
- \n
-The mission?! Hah! 'Ave fun with that. 
+//\n任務！\nほほー、これはおどろきだ。
+\n
+The mission?! Hah! 'Ave fun with that.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \n生憎だが今は書き物の最中でね、自伝だよ、 \n歴史が私の名を求めているのだよ。
- \n
-I'm in the middle of penning my \n
+//\n生憎だが今は書き物の最中でね、自伝だよ、\n歴史が私の名を求めているのだよ。
+\n
+I'm in the middle of penning my\n
 autobiography. My name'll go down in
 <$0C>
-history. 
+history.
 <$00>
 
 // Pos: 00002202
@@ -184,9 +184,9 @@ history.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何言ってんの、この人？
- \n
-What the hell are you on?! 
+//\n何言ってんの、この人？
+\n
+What the hell are you on?!
 <$00>
 
 // Pos: 00002219
@@ -199,22 +199,22 @@ What the hell are you on?!
 //エイプリル：
 April:
 <$0D>
-// \nヌーン、お家に帰りたくないの？ \n任務が終われば、それだけ早く帰れるのよ。
- \n
-Noon, you wanted this mission over \n
+//\nヌーン、お家に帰りたくないの？\n任務が終われば、それだけ早く帰れるのよ。
+\n
+Noon, you wanted this mission over\n
 with. Why don't you want to come
 <$0C>
-home? 
+home?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nママの思い出に、会えるのよ。
- \n
-You'll have more time to reminisce in \n
+//\nママの思い出に、会えるのよ。
+\n
+You'll have more time to reminisce in\n
 memories of your mom once we're
 <$0C>
-back on Earth. 
+back on Earth.
 <$00>
 
 // Pos: 0000226A
@@ -227,10 +227,10 @@ back on Earth.
 //ヌーン：
 Noon:
 <$0D>
-// \nううう、ママ！ ママと一緒なんだよう！ \nママ、もう僕のことせめたりしないで！
- \n
-Aww, Mummy! But Mummy's right \n
-here! Mummy isn't mad at me anymore! 
+//\nううう、ママ！ ママと一緒なんだよう！\nママ、もう僕のことせめたりしないで！
+\n
+Aww, Mummy! But Mummy's right\n
+here! Mummy isn't mad at me anymore!
 <$00>
 
 // Pos: 0000229C
@@ -243,10 +243,10 @@ here! Mummy isn't mad at me anymore!
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあなたが言うこと開かないと、 \nママ怒っちゃうわよ！
- \n
-Didn't you hear what I said? You'll make \n
-Mommy angryyy! 
+//\nあなたが言うこと開かないと、\nママ怒っちゃうわよ！
+\n
+Didn't you hear what I said? You'll make\n
+Mommy angryyy!
 <$00>
 
 // Pos: 000022C3
@@ -259,9 +259,9 @@ Mommy angryyy!
 //ヌーン：
 Noon:
 <$0D>
-// \nうるさい！ お前はママじゃない！
- \n
-Shut up! You're NOT my Mummy! 
+//\nうるさい！ お前はママじゃない！
+\n
+Shut up! You're NOT my Mummy!
 <$00>
 
 // Pos: 000022DC
@@ -274,9 +274,9 @@ Shut up! You're NOT my Mummy!
 //エイプリル：
 April:
 <$0D>
-// \nここはあなたのお家じゃないのよ、ヌーン。
- \n
-And this place isn't your home, Noon. 
+//\nここはあなたのお家じゃないのよ、ヌーン。
+\n
+And this place isn't your home, Noon.
 <$00>
 
 // Pos: 000022FC
@@ -289,17 +289,17 @@ And this place isn't your home, Noon.
 //ヌーン：
 Noon:
 <$0D>
-// \nううう、もらったんだ、 \nガリルさんにもらったんだ、
- \n
-Oh, but it IS mine! Galil gave it to me! 
+//\nううう、もらったんだ、\nガリルさんにもらったんだ、
+\n
+Oh, but it IS mine! Galil gave it to me!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nここでママと一緒になれる…
- \n
-Galil gave it to me so I could live \n
-together with Mummy. 
+//\nここでママと一緒になれる…
+\n
+Galil gave it to me so I could live\n
+together with Mummy.
 <$00>
 
 // Pos: 00002335
@@ -312,10 +312,10 @@ together with Mummy.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nガリル！ \nアタシたちがさがしている人ね！
- \n
-Galil?! That's that colonel guy we were \n
-looking for! 
+//\nガリル！\nアタシたちがさがしている人ね！
+\n
+Galil?! That's that colonel guy we were\n
+looking for!
 <$00>
 
 // Pos: 00002355
@@ -328,10 +328,10 @@ looking for!
 //エイプリル：
 April:
 <$0D>
-// \nガリルに会ったの？ \nヌーン、目を覚まして！
- \n
-You met Galil?! Noon, listen to what \n
-you're saying! 
+//\nガリルに会ったの？\nヌーン、目を覚まして！
+\n
+You met Galil?! Noon, listen to what\n
+you're saying!
 <$00>
 
 // Pos: 00002378
@@ -344,96 +344,96 @@ you're saying!
 //ヌーン：
 Noon:
 <$0D>
-// \nママが呼んでる！
- \n
-Mummy's calling me! 
+//\nママが呼んでる！
+\n
+Mummy's calling me!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \n行かなきゃ、ママ！ \n僕、悪くないよ、しからないで！
- \n
-I'm coming, Mummy! D-don't worry! \n
-I'm being a good boy! 
+//\n行かなきゃ、ママ！\n僕、悪くないよ、しからないで！
+\n
+I'm coming, Mummy! D-don't worry!\n
+I'm being a good boy!
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nすっかりいかれちゃった、そんな惑じね。
- \n
-He's lost his damn mind, April. 
+//\nすっかりいかれちゃった、そんな惑じね。
+\n
+He's lost his damn mind, April.
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nガリルがいるのよ、すぐ近くに。
- \n
-Galil must be extremely close. 
+//\nガリルがいるのよ、すぐ近くに。
+\n
+Galil must be extremely close.
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nよく思い出せないんだけど… \nロケットの中で話してたわね、ガリルのこと。
- \n
-I vaguely remember the Galil \n
+//\nよく思い出せないんだけど…\nロケットの中で話してたわね、ガリルのこと。
+\n
+I vaguely remember the Galil\n
 conversation on the rocket, but
 <$0C>
-enlighten me on the details. 
+enlighten me on the details.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n話の雰囲気からして、神様になろうとしている… \nそんな惑じじゃなかった？
- \n
-From the sound of things, he was \n
-trying to become god or some shit. 
+//\n話の雰囲気からして、神様になろうとしている…\nそんな惑じじゃなかった？
+\n
+From the sound of things, he was\n
+trying to become god or some shit.
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n火星で多くの人が幻覚に悩まされたりするように \nなったのは、ガリルが姿を消してからなの。
- \n
-It wasn't until Galil disappeared that \n
+//\n火星で多くの人が幻覚に悩まされたりするように\nなったのは、ガリルが姿を消してからなの。
+\n
+It wasn't until Galil disappeared that\n
 people on Mars started reporting
 <$0C>
-hallucinations. 
+hallucinations.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそれまでは流刑者の生き残りが暮らすだけの \nさびれた星だったのよ。
- \n
-Before that, it was just another \n
+//\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
+\n
+Before that, it was just another\n
 deserted planet where exiles and the
 <$0C>
-like lived. 
+like lived.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nこの星とガリルがつながっている… \n光の私…船長はそんな言葉を口にしていたね。
- \n
-If Galil is "the light" like the captain \n
+//\nこの星とガリルがつながっている…\n光の私…船長はそんな言葉を口にしていたね。
+\n
+If Galil is "the light" like the captain\n
 said, Galil must think he's bound to the
 <$0C>
-planet. 
+planet.
 <$00><$11><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n船長たちねぇ…そう言えばクロエちゃんの \nいい人ってタトラー船長のことでしょ。 \nどこにいるの？ さがしてみない？
- \n
-The captain... Chloe did say she got \n
+//\n船長たちねぇ…そう言えばクロエちゃんの\nいい人ってタトラー船長のことでしょ。\nどこにいるの？ さがしてみない？
+\n
+The captain... Chloe did say she got\n
 along well with him. Shouldn't we track
 <$0C>
-him down? 
+him down?
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n船長をさがすんでしょ。 \n町の方に戻ってみない？
- \n
-We should look for the captain. Let's \n
-head back to town. 
+//\n船長をさがすんでしょ。\n町の方に戻ってみない？
+\n
+We should look for the captain. Let's\n
+head back to town.
 <$00>
 

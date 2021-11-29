@@ -15,18 +15,18 @@
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあーあー、ライカ君かね？ \nあー、君はライカ君？ そこにいるかね？
- \n
-Ayyye, greetings, Laika! Is that you, \n
-Laika? Are you there? 
+//\nあーあー、ライカ君かね？\nあー、君はライカ君？ そこにいるかね？
+\n
+Ayyye, greetings, Laika! Is that you,\n
+Laika? Are you there?
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシたちに用なの？ \nねえ、これ地球からなんでしょ？
- \n
-Can we help you? Excuse me, is this \n
-message from Earth? 
+//\nアタシたちに用なの？\nねえ、これ地球からなんでしょ？
+\n
+Can we help you? Excuse me, is this\n
+message from Earth?
 <$0C><$13>
 //か
 か
@@ -34,18 +34,18 @@ message from Earth?
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあーあー、君は誰？ \nあー、新しい事実だ、あーあー…
- \n
-Ayyye? And who are you...? Ah, yes. A \n
-new reality, ayyye... 
+//\nあーあー、君は誰？\nあー、新しい事実だ、あーあー…
+\n
+Ayyye? And who are you...? Ah, yes. A\n
+new reality, ayyye...
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nちょっと、しっかりしてよ。 \nこっちも新しい事実が分かったのよ！
- \n
-You're telling me! I've been seeing \n
-nothing but new realities here. 
+//\nちょっと、しっかりしてよ。\nこっちも新しい事実が分かったのよ！
+\n
+You're telling me! I've been seeing\n
+nothing but new realities here.
 <$0C><$13>
 //か
 か
@@ -53,12 +53,12 @@ nothing but new realities here.
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあーあー、ライカ君に代わってくれ、 \n彼に話があるんだ、あーあーあー。
- \n
-Ayyye, I see. Very well. I have a story \n
+//\nあーあー、ライカ君に代わってくれ、\n彼に話があるんだ、あーあーあー。
+\n
+Ayyye, I see. Very well. I have a story\n
 I'd like you to hear in Laika's place,
 <$0C>
-ayyye... 
+ayyye...
 <$00>
 
 // Pos: 0000139D
@@ -71,10 +71,10 @@ ayyye...
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何よ！ シーシーの次は、あーあーなの！
- \n
-People, am I right? First it's, "Whoosh, \n
-whoosh," and then it's "Ayyye, ayyye!" 
+//\n何よ！ シーシーの次は、あーあーなの！
+\n
+People, am I right? First it's, "Whoosh,\n
+whoosh," and then it's "Ayyye, ayyye!"
 <$00>
 
 // Pos: 000013BD
@@ -87,22 +87,22 @@ whoosh," and then it's "Ayyye, ayyye!"
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nあー、ライカ君だね、騒ぎは収まりそうもない。 \nそこで少し見方を変えて、火星人について、 \n掘り下げようと思う。
- \n
-Greetings, Laika! Is that you? I'd like to \n
+//\nあー、ライカ君だね、騒ぎは収まりそうもない。\nそこで少し見方を変えて、火星人について、\n掘り下げようと思う。
+\n
+Greetings, Laika! Is that you? I'd like to\n
 take your attention from your task for
 <$0C>
-a moment. 
+a moment.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n長年、火星人と昆虫との類似点を研究している \n学者がいる。彼の意見を開いてみて欲しい。
- \n
-This is our entomologist. He has \n
+//\n長年、火星人と昆虫との類似点を研究している\n学者がいる。彼の意見を開いてみて欲しい。
+\n
+This is our entomologist. He has\n
 studied both Martian and insect life for
 <$0C>
-many years. 
+many years.
 <$00>
 
 // Pos: 0000145B
@@ -115,53 +115,53 @@ many years.
 //昆虫学者：
 Entomologist:
 <$0D>
-// \nフンフン、開こえていますか、フンフン！
- \n
-Bzzbzz! Can you hear me, bzzbzz! 
+//\nフンフン、開こえていますか、フンフン！
+\n
+Bzzbzz! Can you hear me, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \nフン！君は白アリについて、 \nどれほど知っていますか、フン！
- \n
-Bzz, so tell me! What do you know about \n
-termites, bzz? 
+//\nフン！君は白アリについて、\nどれほど知っていますか、フン！
+\n
+Bzz, so tell me! What do you know about\n
+termites, bzz?
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \n白アリというのは実に不思議な生き物です、 \nフンフン！
- \n
-Termites are strange little creatures \n
-for sure, bzzbzz! 
+//\n白アリというのは実に不思議な生き物です、\nフンフン！
+\n
+Termites are strange little creatures\n
+for sure, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \n彼らは何万四という全体でひとつの個性を \n作っています。
- \n
-They're hiveminded. Their tens of \n
+//\n彼らは何万四という全体でひとつの個性を\n作っています。
+\n
+They're hiveminded. Their tens of\n
 thousands of little minds all act under
 <$0C>
-one collective conscience! 
+one collective conscience!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \nつまりです、一四ずつではなく、 \n全体でひとつなのです、フンフン。
- \n
-As the saying goes, bzzbzz, "It's all for \n
-one, and one for all...or else!" 
+//\nつまりです、一四ずつではなく、\n全体でひとつなのです、フンフン。
+\n
+As the saying goes, bzzbzz, "It's all for\n
+one, and one for all...or else!"
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \n私の白アリ説を用いると、火星人が絶滅した \nそのわけもはっきりしてきます、フンフン！
- \n
-Assuming Martians were hiveminded \n
+//\n私の白アリ説を用いると、火星人が絶滅した\nそのわけもはっきりしてきます、フンフン！
+\n
+Assuming Martians were hiveminded\n
 too, their extinction starts to make
 <$0C>
-sense, bzzbzz! 
+sense, bzzbzz!
 <$00>
 
 // Pos: 00001575
@@ -174,59 +174,59 @@ sense, bzzbzz!
 //昆虫学者：
 Entomologist:
 <$0D>
-// \nかねがね火星人というもの、白アリのような生態 \nではなかったかと考えます、フン。
- \n
-You didn't see yourself comparing \n
+//\nかねがね火星人というもの、白アリのような生態\nではなかったかと考えます、フン。
+\n
+You didn't see yourself comparing\n
 Martian politics to insect politics
 <$0C>
-today, now did you, bzz? 
+today, now did you, bzz?
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \n火星人がその昔に地球にやってきて \n人間の顔を求めた…
- \n
-Anyways, long ago, the Martians came \n
+//\n火星人がその昔に地球にやってきて\n人間の顔を求めた…
+\n
+Anyways, long ago, the Martians came\n
 to earth and asked us humans for our
 <$0C>
-faces. 
+faces.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \nそう伝えられていますが、彼らに人間の顔は \n合わなかったのです、フンフン。
- \n
-As we've since come to find out, the \n
+//\nそう伝えられていますが、彼らに人間の顔は\n合わなかったのです、フンフン。
+\n
+As we've since come to find out, the\n
 faces didn't stick onto the Martians so
 <$0C>
-well, bzzbzz. 
+well, bzzbzz.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \n顔の個性が邪魔をした、それで火星人社会の \nルールがおかしくなった、
- \n
-The individuality in every face \n
+//\n顔の個性が邪魔をした、それで火星人社会の\nルールがおかしくなった、
+\n
+The individuality in every face\n
 disturbed the order of the Martian
 <$0C>
-hivemind. 
+hivemind.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \nそう考えられます、フンフン。
- \n
-At least, that's what I think, bzzbzz! 
+//\nそう考えられます、フンフン。
+\n
+At least, that's what I think, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
-// \n人間の顔がなんと火星人の絶滅をまねいたのです \nフンフンフン！
- \n
-And THAT'S how the human face wiped \n
+//\n人間の顔がなんと火星人の絶滅をまねいたのです\nフンフンフン！
+\n
+And THAT'S how the human face wiped\n
 all Martian life off the map,
 <$0C>
-bzzbzzbzz! 
+bzzbzzbzz!
 <$00>
 
 // Pos: 00001699
@@ -239,22 +239,22 @@ bzzbzzbzz!
 
 #WHB(PTR, $00000C5D)
 
- 
+
 <$00><$13>
-// 坑道を閉鎖します。 \n閉鎖まで、あと少しです。 \n直ちに坑道から退出してください。
- THE MINESHAFT IS CLOSING SOON. \n
-REPEAT: THE MINESHAFT IS CLOSING \n
+// 坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
+ THE MINESHAFT IS CLOSING SOON.\n
+REPEAT: THE MINESHAFT IS CLOSING\n
 SOON.
 <$0C>
-PLEASE EVACUATE IMMEDIATELY. 
+PLEASE EVACUATE IMMEDIATELY.
 <$0C>
-//繰り返します。坑道を閉鎖します。 \n閉鎖まで、あと少し。 \n直ちに坑道から退出してください。
-REPEAT: THE MINESHAFT IS CLOSING \n
-SOON. \n
-PLEASE EVACUATE IMMEDIATELY. 
+//繰り返します。坑道を閉鎖します。\n閉鎖まで、あと少し。\n直ちに坑道から退出してください。
+REPEAT: THE MINESHAFT IS CLOSING\n
+SOON.\n
+PLEASE EVACUATE IMMEDIATELY.
 <$0C>
 //これは訓練ではありません。
-THIS IS NOT A DRILL. 
+THIS IS NOT A DRILL.
 <$00>
 
 // Pos: 0000171B
@@ -263,11 +263,11 @@ THIS IS NOT A DRILL.
 
 #WHB(PTR, $00000D11)
 
- 
+
 <$00><$13>
-// アラートを解除します。 \n繰り返します。 アラートを解除します。
- THE ALARM WILL SHUT DOWN. \n
-REPAT: THE ALARM WILL SHUT DOWN. 
+// アラートを解除します。\n繰り返します。 アラートを解除します。
+ THE ALARM WILL SHUT DOWN.\n
+REPAT: THE ALARM WILL SHUT DOWN.
 <$00>
 
 // Pos: 00001744
@@ -276,9 +276,9 @@ REPAT: THE ALARM WILL SHUT DOWN.
 
 #WHB(PTR, $00000D91)
 
- 
+
 <$00>
 //メッセージはありません…
-THERE ARE NO MESSAGES. 
+THERE ARE NO MESSAGES.
 <$00>
 

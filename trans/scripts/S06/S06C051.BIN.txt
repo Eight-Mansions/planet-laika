@@ -15,9 +15,9 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何もないじゃない！
- \n
-There's nothing here. 
+//\n何もないじゃない！
+\n
+There's nothing here.
 <$00>
 
 // Pos: 00000D6E
@@ -30,10 +30,10 @@ There's nothing here.
 //エイプリル：
 April:
 <$0D>
-// \nここの人たちにたずねてみない？
- \n
-Maybe we should ask more people in \n
-the area. 
+//\nここの人たちにたずねてみない？
+\n
+Maybe we should ask more people in\n
+the area.
 <$00>
 
 // Pos: 00000D88
@@ -46,9 +46,9 @@ the area.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそうね。乗り気しないけど…
- \n
-We might have to, not that I'm at all \n
-enthusiastic... 
+//\nそうね。乗り気しないけど…
+\n
+We might have to, not that I'm at all\n
+enthusiastic...
 <$00>
 

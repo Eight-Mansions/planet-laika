@@ -12,31 +12,31 @@
 #WHB(PTR, $00001325)
 
 //デフォルト
-Default 
+Default
 <$00><$00><$00>
 //不
-不 
+不
 <$00>
-//ストーリーを楽しみたい方は最初から！ \nすぐに遊びたい方はコロニーからはじめて下さい \nどこからはじめますか
- \n
-Will you watch the full story, \n
+//ストーリーを楽しみたい方は最初から！\nすぐに遊びたい方はコロニーからはじめて下さい\nどこからはじめますか
+\n
+Will you watch the full story,\n
 or jump straight into gameplay?
 <$0C>
 It's all up to you!
 <$1B>
-//、最初 \nコロニー
-、Prologue \n
-Colony 
+//、最初\nコロニー
+、Prologue\n
+Colony
 <$00><$17><$00>
 //不
-不 
+不
 <$00>
 //でばっぐめにゅーへようこそ
 Welcome to the debug menu!
 <$1B>
-//９むーびーてすと \nキャラへんこう \nちゃぷたーじゃんぷ
-９Movie Test \n
-Character Swap \n
-Chapter Jump 
+//９むーびーてすと\nキャラへんこう\nちゃぷたーじゃんぷ
+９Movie Test\n
+Character Swap\n
+Chapter Jump
 <$00><$17><$00>
 

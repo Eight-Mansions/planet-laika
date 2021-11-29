@@ -15,18 +15,18 @@
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nあらイヤだ、あなたも鏡、気になるの？
- \n
-Dear, you've seen the mirror, haven' \n
-you? It's ginormous! 
+//\nあらイヤだ、あなたも鏡、気になるの？
+\n
+Dear, you've seen the mirror, haven'\n
+you? It's ginormous!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n大きな鏡があるのよ… 鏡なんてと思いながら、 \nでもやっぱり見てみたいの… 自分のお顔。
- \n
-Who knows what it's really for, but are \n
-you sure you want to see yourself in it? 
+//\n大きな鏡があるのよ… 鏡なんてと思いながら、\nでもやっぱり見てみたいの… 自分のお顔。
+\n
+Who knows what it's really for, but are\n
+you sure you want to see yourself in it?
 <$00>
 
 // Pos: 00001F32
@@ -39,16 +39,16 @@ you sure you want to see yourself in it?
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nいじらしいと思わない、ねぇ、思わない？ \n
- \n
-By the way, do you think spirits live in \n
+//\nいじらしいと思わない、ねぇ、思わない？\n
+\n
+By the way, do you think spirits live in\n
 mirrors?
 <$0C>
 
 <$1B>
-//。思う \n思わない
-。Yes \n
-No 
+//。思う\n思わない
+。Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00001F60
@@ -61,38 +61,38 @@ No
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nそうよね、 \n見たくないけど見てみたい、そんな惑じよ。
- \n
-Thought so! See it or not, you just sense \n
-these these. 
+//\nそうよね、\n見たくないけど見てみたい、そんな惑じよ。
+\n
+Thought so! See it or not, you just sense\n
+these these.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nでも出るのよ、夜になるとオバケが出るの。
- \n
-But I don't want Bloody Mary ghosts \n
-popping out to grab me! 
+//\nでも出るのよ、夜になるとオバケが出るの。
+\n
+But I don't want Bloody Mary ghosts\n
+popping out to grab me!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n鏡がオレンジ色になって、 \nいやな女の笑い声が開こえるの…
- \n
-You know that one? Where the mirror \n
+//\n鏡がオレンジ色になって、\nいやな女の笑い声が開こえるの…
+\n
+You know that one? Where the mirror\n
 turns orange and some woman's all
 <$0C>
-laughing? 
+laughing?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nビジュアル系の人は要注意よ。
- \n
+//\nビジュアル系の人は要注意よ。
+\n
 If you're a Visual type, be careful!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00001FF2
@@ -105,32 +105,32 @@ If you're a Visual type, be careful!
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n冷たいのね、そんな制服着てさ。 \nせいぜいオバケには気を付けることよ。
- \n
-Ah, you uniformed folk are usually \n
+//\n冷たいのね、そんな制服着てさ。\nせいぜいオバケには気を付けることよ。
+\n
+Ah, you uniformed folk are usually\n
 pretty cold to that stuff. Still, watch
 <$0C>
-out for ghosts. 
+out for ghosts.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \n夜の鏡はやばいのよ。 \nいやな女の笑い声が開こえたりするんだから。
- \n
-I'm serious! For one, if you hang \n
+//\n夜の鏡はやばいのよ。\nいやな女の笑い声が開こえたりするんだから。
+\n
+I'm serious! For one, if you hang\n
 around mirrors at night, you might
 <$0C>
-hear a woman laughing. 
+hear a woman laughing.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nビジュアル系の人は特にね。
- \n
+//\nビジュアル系の人は特にね。
+\n
 If you're a Visual type, be careful!
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 00002070
@@ -143,13 +143,13 @@ If you're a Visual type, be careful!
 //マラケシュ：
 Marrakech:
 <$0D>
-// \nアタシはごめんだけど、鏡の部屋ならこの先よ。 \n黒いカベの手前にあるわよ。
- \n
-Dear, the mirror room is up ahead. It's \n
+//\nアタシはごめんだけど、鏡の部屋ならこの先よ。\n黒いカベの手前にあるわよ。
+\n
+Dear, the mirror room is up ahead. It's\n
 before the black wall.
 <$1E>
 //〇
-〇 
+〇
 <$00>
 
 // Pos: 000020A8
@@ -165,38 +165,38 @@ before the black wall.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nワタシはココロがミダれたのでしょうか。
- \n
-I SUSPECT MY HEART IS ON THE FRITZ. 
+//\nワタシはココロがミダれたのでしょうか。
+\n
+I SUSPECT MY HEART IS ON THE FRITZ.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nあなたをオいかけてサンソヤのマエを \nトオりかかったとき、
- \n
-WHEN I PASSED BY THE OXYGEN \n
-DISPENSARY AFTER YOU... 
+//\nあなたをオいかけてサンソヤのマエを\nトオりかかったとき、
+\n
+WHEN I PASSED BY THE OXYGEN\n
+DISPENSARY AFTER YOU...
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nキュウにヘンなコトバがやってきました。 \nワタシのココロがウけとめました。
- \n
-...I HEARD A STRANGE DIALOGUE, AND MY \n
-HEART STOPPED. 
+//\nキュウにヘンなコトバがやってきました。\nワタシのココロがウけとめました。
+\n
+...I HEARD A STRANGE DIALOGUE, AND MY\n
+HEART STOPPED.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nそのコトバをあなたもキいてみますか？
- \n
-WOULD YOU LIKE TO HEAR WHAT THAT \n
+//\nそのコトバをあなたもキいてみますか？
+\n
+WOULD YOU LIKE TO HEAR WHAT THAT\n
 DIALOGUE WAS?
 <$1B>
-//。開いてみる \n開かない
+//。開いてみる\n開かない
 。Yes
 <$0C>
-No 
+No
 <$00><$17><$00>
 
 // Pos: 00002154
@@ -209,12 +209,12 @@ No
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nエイプリル、だめよ、 \nそれはカジロボットよ、 \nテがヨゴれるからサワっちゃだめ。
- \n
-"APRIL, DON'T TALK TO THAT! THE \n
+//\nエイプリル、だめよ、\nそれはカジロボットよ、\nテがヨゴれるからサワっちゃだめ。
+\n
+"APRIL, DON'T TALK TO THAT! THE\n
 ROBOT'S MADE FOR HOUSEWORK! DON'T
 <$0C>
-GET YOURSELF DIRTY." 
+GET YOURSELF DIRTY."
 <$00>
 
 // Pos: 00002189
@@ -230,34 +230,34 @@ GET YOURSELF DIRTY."
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nカジとはスイジとかセンタクとかでしょうか。 \nなんにしても、くたびれていますね。
- \n
-HOUSEWORK... DOES THAT MEAN \n
+//\nカジとはスイジとかセンタクとかでしょうか。\nなんにしても、くたびれていますね。
+\n
+HOUSEWORK... DOES THAT MEAN\n
 COOKING, OR LAUNDRY? EITHER OR, IT IS
 <$0C>
-EXHAUSTING. 
+EXHAUSTING.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nコエにトゲがありますよ。
- \n
-THEIR VOICE CUT ME TO MY CORE. 
+//\nコエにトゲがありますよ。
+\n
+THEIR VOICE CUT ME TO MY CORE.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nジンセイとはこんなものですか、 \nままならないものですか。
- \n
-IS THAT ALL I AM GOOD FOR? IS THAT THE \n
-PURPOSE I WAS CREATED TO SERVE? 
+//\nジンセイとはこんなものですか、\nままならないものですか。
+\n
+IS THAT ALL I AM GOOD FOR? IS THAT THE\n
+PURPOSE I WAS CREATED TO SERVE?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nそれにしてもこのコエのヒトは、ダレですか。
- \n
-WHO COULD SAY SUCH A THING? 
+//\nそれにしてもこのコエのヒトは、ダレですか。
+\n
+WHO COULD SAY SUCH A THING?
 <$00>
 
 // Pos: 00002224
@@ -273,34 +273,34 @@ WHO COULD SAY SUCH A THING?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nトツゼンです、サンソヤのマエで… \nこんなこと、はじめてです、
- \n
-THE FIRST TIME I EVER FELT THIS WAY \n
-WAS IN FRONT OF THE DISPENSARY. 
+//\nトツゼンです、サンソヤのマエで…\nこんなこと、はじめてです、
+\n
+THE FIRST TIME I EVER FELT THIS WAY\n
+WAS IN FRONT OF THE DISPENSARY.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nフシギなことです。 \nサンソヤにはナニかあるのでしょうか。
- \n
-IT IS A MYSTERIOUS THING. WHAT GOES \n
-ON INSIDE OF THE DISPENSARY? 
+//\nフシギなことです。\nサンソヤにはナニかあるのでしょうか。
+\n
+IT IS A MYSTERIOUS THING. WHAT GOES\n
+ON INSIDE OF THE DISPENSARY?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nワタシはずっとカセイにおります。 \nいろんなゴシュジンサマにツカえましたが、
- \n
-I HAVE ALWAYS BEEN ON MARS. I HAVE \n
-SERVED MANY MASTERS. 
+//\nワタシはずっとカセイにおります。\nいろんなゴシュジンサマにツカえましたが、
+\n
+I HAVE ALWAYS BEEN ON MARS. I HAVE\n
+SERVED MANY MASTERS.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nあんなコエはシりません。 \nそれともワスれたのでしょうか。
- \n
-EITHER I NEVER KNEW THAT VOICE, OR I \n
-DID, AND HAD FORGOTTEN IT LONG AGO. 
+//\nあんなコエはシりません。\nそれともワスれたのでしょうか。
+\n
+EITHER I NEVER KNEW THAT VOICE, OR I\n
+DID, AND HAD FORGOTTEN IT LONG AGO.
 <$00>
 
 // Pos: 000022D6
@@ -316,17 +316,17 @@ DID, AND HAD FORGOTTEN IT LONG AGO.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nナニか、あなたにしてあげられることが \nあるのです。
- \n
-STILL, THERE IS SOMETHING I CAN DO FOR \n
-YOU. 
+//\nナニか、あなたにしてあげられることが\nあるのです。
+\n
+STILL, THERE IS SOMETHING I CAN DO FOR\n
+YOU.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nもうスコし、おマチください。 \nもうスコしです。
- \n
-PLEASE WAIT, JUST A LITTLE LONGER. 
+//\nもうスコし、おマチください。\nもうスコしです。
+\n
+PLEASE WAIT, JUST A LITTLE LONGER.
 <$00>
 
 // Pos: 00002323
@@ -342,18 +342,18 @@ PLEASE WAIT, JUST A LITTLE LONGER.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nあーら、なんて、こんなコトバ、 \nツカってみたいわ。
- \n
-I WANT TO TRY TALKING LIKE YOU. SEE? \n
-"####!" 
+//\nあーら、なんて、こんなコトバ、\nツカってみたいわ。
+\n
+I WANT TO TRY TALKING LIKE YOU. SEE?\n
+"####!"
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n使えばいいじゃない、 \nあーらあなたとかなんとかね。
- \n
-Hey, I don't sound like that! Try \n
-something cute, like, "Oh-lala!" 
+//\n使えばいいじゃない、\nあーらあなたとかなんとかね。
+\n
+Hey, I don't sound like that! Try\n
+something cute, like, "Oh-lala!"
 <$0C><$13>
 //（
 （
@@ -361,31 +361,31 @@ something cute, like, "Oh-lala!"
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nたまにはね、おケショウ、してみたいわよ。
- \n
-OH-LALA, LET US TRY ON SOME \n
-####ING MAKE-UP! 
+//\nたまにはね、おケショウ、してみたいわよ。
+\n
+OH-LALA, LET US TRY ON SOME ####ING\n
+MAKE-UP!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nしゅうまつはガイショクよ、なんてセイカツ、 \nいいわよね！
- \n
-WE CAN EAT OUT ON THE \n
-MOTHER####ING WEEKEND!
+//\nしゅうまつはガイショクよ、なんてセイカツ、\nいいわよね！
+\n
+WE CAN EAT OUT ON THE\n
+MOTHER####ING WEEKEND! ####
 <$0C>
-#### YEAH, LADIES, WE ARE LIVING \n
-THE GOOD LIFE! 
+YEAH, LADIES, WE ARE LIVING THE GOOD\n
+LIFE!
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねぇ、欲求不満なの。 \nだからって、アタシにぶつけないでよ。
- \n
-Listen fucker, if you're on one or \n
+//\nねぇ、欲求不満なの。\nだからって、アタシにぶつけないでよ。
+\n
+Listen fucker, if you're on one or\n
 something, don't take it out on me. Tsk,
 <$0C>
-tsk. 
+tsk.
 <$0C><$13>
 //（
 （
@@ -393,34 +393,34 @@ tsk.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nふん！ イエのことばかりでトシトルのよ、 \nこのままオンナをワスれて、トシトルのよ、
- \n
-BUT I AM NOT! IT IS USE IT OR LOSE IT! WE \n
+//\nふん！ イエのことばかりでトシトルのよ、\nこのままオンナをワスれて、トシトルのよ、
+\n
+BUT I AM NOT! IT IS USE IT OR LOSE IT! WE\n
 HAVE TO USE FEMININITY OR WE WILL
 <$0C>
-LOSE IT! 
+LOSE IT!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nいまいましいわ！
- \n
-FOR ####'S SAKE, YOLANDA. 
+//\nいまいましいわ！
+\n
+FOR ####'S SAKE, YOLANDA.
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nイヤだ、そんなの…
- \n
-Woah, hang on a second! 
+//\nイヤだ、そんなの…
+\n
+Woah, hang on a second!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシはね、死ぬまで女でいるのよ、 \n忘れないのよ。
- \n
-I'm a woman, from now until the day I \n
-die! And I'll make sure NO ONE forgets it! 
+//\nアタシはね、死ぬまで女でいるのよ、\n忘れないのよ。
+\n
+I'm a woman, from now until the day I\n
+die! And I'll make sure NO ONE forgets it!
 <$0C><$13>
 //（
 （
@@ -428,18 +428,18 @@ die! And I'll make sure NO ONE forgets it!
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nよかったわ。 \nあなたはツヨい、ワタシよりね。
- \n
-I AM GLAD! YOU ARE HEAD-STRONG, YOU \n
-KNOW? FAR HEAD-STRONGER THAN ME. 
+//\nよかったわ。\nあなたはツヨい、ワタシよりね。
+\n
+I AM GLAD! YOU ARE HEAD-STRONG, YOU\n
+KNOW? FAR HEAD-STRONGER THAN ME.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nもっとツヨくなってね、 \nこれでツヨくなってね。
- \n
-AFTER THIS CONVERSATION, I WILL GET \n
-HEAD-STRONGER TOO. 
+//\nもっとツヨくなってね、\nこれでツヨくなってね。
+\n
+AFTER THIS CONVERSATION, I WILL GET\n
+HEAD-STRONGER TOO.
 <$00>
 
 // Pos: 000024B8
@@ -455,17 +455,17 @@ HEAD-STRONGER TOO.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nあなたはオンナをワスれない、 \nワタシはスコしアンシンしたわ。
- \n
-YOU WILL NOT FORGET THAT YOU ARE A \n
-WOMAN. I AM RELIEVED TO HEAR THAT. 
+//\nあなたはオンナをワスれない、\nワタシはスコしアンシンしたわ。
+\n
+YOU WILL NOT FORGET THAT YOU ARE A\n
+WOMAN. I AM RELIEVED TO HEAR THAT.
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねぇ、もうないの？ \nもっともらえないの？
- \n
-Good! So, do I win a prize or something? 
+//\nねぇ、もうないの？\nもっともらえないの？
+\n
+Good! So, do I win a prize or something?
 <$0C><$13>
 //（
 （
@@ -473,10 +473,10 @@ Good! So, do I win a prize or something?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nワタシ、アンシン、 \nあなた、オンナ、オンナ、オンナ。
- \n
-I, RELIEVED... YOU, WOMAN... WOMAN, \n
-WOMAN, WOMAN... 
+//\nワタシ、アンシン、\nあなた、オンナ、オンナ、オンナ。
+\n
+I, RELIEVED... YOU, WOMAN... WOMAN,\n
+WOMAN, WOMAN...
 <$00>
 
 // Pos: 0000252E
@@ -492,20 +492,20 @@ WOMAN, WOMAN...
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nワタシはジブンをワタシとヨびますが、 \nオレと言うのはヘンですか？
- \n
-I AM REFERRED TO AS "IT". WOULD IT BE \n
+//\nワタシはジブンをワタシとヨびますが、\nオレと言うのはヘンですか？
+\n
+I AM REFERRED TO AS "IT". WOULD IT BE\n
 WEIRD IF I CHOSE TO SPEAK WITH A
 <$0C>
-MASCULINE TONE? 
+MASCULINE TONE?
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \n何ごちゃごちゃ言ってるんだ、 \nどっちでもいいじゃねぇか。
- \n
-What are you talking about? Talk \n
-however you want to talk. 
+//\n何ごちゃごちゃ言ってるんだ、\nどっちでもいいじゃねぇか。
+\n
+What are you talking about? Talk\n
+however you want to talk.
 <$0C><$13>
 //（
 （
@@ -513,32 +513,32 @@ however you want to talk.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nタイクツだぜ、こんなところでよ、 \nおい、おマエ、なんでオレをミるんだ？
- \n
-IT SURE IS BORING DOWN HERE. WHY ARE \n
-YOU STARING ME DOWN LIKE THAT, HUH? 
+//\nタイクツだぜ、こんなところでよ、\nおい、おマエ、なんでオレをミるんだ？
+\n
+IT SURE IS BORING DOWN HERE. WHY ARE\n
+YOU STARING ME DOWN LIKE THAT, HUH?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nじろじろミるな！
- \n
-ARE YOU TRYING TO SIZE A GUY UP, PUNK? 
+//\nじろじろミるな！
+\n
+ARE YOU TRYING TO SIZE A GUY UP, PUNK?
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nな、なんだと、おい！
- \n
-Woah. Slow down, buddy. 
+//\nな、なんだと、おい！
+\n
+Woah. Slow down, buddy.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \n変なかっこうしやがって、 \nロボットか、ガラクタか？
- \n
-Who's sizing up who here? You on the \n
-fritz or something, little guy? 
+//\n変なかっこうしやがって、\nロボットか、ガラクタか？
+\n
+Who's sizing up who here? You on the\n
+fritz or something, little guy?
 <$0C><$13>
 //（
 （
@@ -546,24 +546,24 @@ fritz or something, little guy?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nちくしょう！ \nわけもなくハラがタつぜ、いらつくぜ！
- \n
-FRITZ?! I WILL SHOW YOU FRITZ! 
+//\nちくしょう！\nわけもなくハラがタつぜ、いらつくぜ！
+\n
+FRITZ?! I WILL SHOW YOU FRITZ!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nなんだ、テメエは！
- \n
-YOU BETTER STOP DOGGING ME! 
+//\nなんだ、テメエは！
+\n
+YOU BETTER STOP DOGGING ME!
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nおおおお、 \n俺にケンカふっかけようってのか、ああ？
- \n
-Ahh, I get it. You ARE sizing me up! \n
-Wanna fight, buddy? 
+//\nおおおお、\n俺にケンカふっかけようってのか、ああ？
+\n
+Ahh, I get it. You ARE sizing me up!\n
+Wanna fight, buddy?
 <$0C><$13>
 //（
 （
@@ -571,17 +571,17 @@ Wanna fight, buddy?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nケンカはウっても、カっても、ソンするぜ。 \nおマエはどうだ、ソンするタイプか、
- \n
-FIGHTS CAN EITHER SAVE TIME OR WASTE \n
-TIME. WHAT DOES FIGHTING DO FOR YOU? 
+//\nケンカはウっても、カっても、ソンするぜ。\nおマエはどうだ、ソンするタイプか、
+\n
+FIGHTS CAN EITHER SAVE TIME OR WASTE\n
+TIME. WHAT DOES FIGHTING DO FOR YOU?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nこれでスコしはトクしてみろ。
- \n
-HERE. SIZE THIS UP INSTEAD. 
+//\nこれでスコしはトクしてみろ。
+\n
+HERE. SIZE THIS UP INSTEAD.
 <$00>
 
 // Pos: 000026BA
@@ -597,20 +597,20 @@ HERE. SIZE THIS UP INSTEAD.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nオマえはソンしない、ケンカでソンしない、 \nそういうことだ。
- \n
-IF YOU DO NOT WASTE TIME, YOUR FIGHTS \n
+//\nオマえはソンしない、ケンカでソンしない、\nそういうことだ。
+\n
+IF YOU DO NOT WASTE TIME, YOUR FIGHTS\n
 WILL NOT WASTE TIME. THAT IS HOW I SEE
 <$0C>
-IT. 
+IT.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nおい、他にないのか、もっとくれねぇのか。
- \n
-I'll say. Got anything else for me, \n
-champ? 
+//\nおい、他にないのか、もっとくれねぇのか。
+\n
+I'll say. Got anything else for me,\n
+champ?
 <$0C><$13>
 //（
 （
@@ -618,10 +618,10 @@ champ?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nソン、トク、ソン、トク、ケンカ。
- \n
-TO SAVE, OR TO WASTE... TO SAVE, OR TO \n
-WASTE... 
+//\nソン、トク、ソン、トク、ケンカ。
+\n
+TO SAVE, OR TO WASTE... TO SAVE, OR TO\n
+WASTE...
 <$00>
 
 // Pos: 00002727
@@ -637,20 +637,20 @@ WASTE...
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nカンガえてもみたまえ、 \nキミたちニンゲンは、いやよしましょう。
- \n
-I WAS THINKING ABOUT YOU HUMANS, \n
+//\nカンガえてもみたまえ、\nキミたちニンゲンは、いやよしましょう。
+\n
+I WAS THINKING ABOUT YOU HUMANS,\n
 AND I HAD TO STOP MYSELF BEFORE I WENT
 <$0C>
-CRAZY. 
+CRAZY.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nどうした、なぜやめた？ \n話してくれ。人間は何だ？
- \n
-Before you went crazy? How come? \n
-Tell me, what's wrong with humans? 
+//\nどうした、なぜやめた？\n話してくれ。人間は何だ？
+\n
+Before you went crazy? How come?\n
+Tell me, what's wrong with humans?
 <$0C><$13>
 //（
 （
@@ -658,38 +658,38 @@ Tell me, what's wrong with humans?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nロボットにカンジョウがないというのは、 \nムチにすぎる。
- \n
-ROBOTS DO NOT HAVE SENTIMENTS. \n
+//\nロボットにカンジョウがないというのは、\nムチにすぎる。
+\n
+ROBOTS DO NOT HAVE SENTIMENTS.\n
 THINKING ABOUT HUMANS WAS A WASTE
 <$0C>
-OF TIME. 
+OF TIME.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nモノにはスベてイシキがあるのだから。
- \n
-ALL BEINGS HAVE A SENSE OF \n
-SELF-AWARENESS. THAT IS WHY. 
+//\nモノにはスベてイシキがあるのだから。
+\n
+ALL BEINGS HAVE A SENSE OF\n
+SELF-AWARENESS. THAT IS WHY.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n物に心が宿るというのか。 \nそしてロボットにも…
- \n
-Makes sense. Everyone's got \n
+//\n物に心が宿るというのか。\nそしてロボットにも…
+\n
+Makes sense. Everyone's got\n
 something on their minds, even you
 <$0C>
-robots. 
+robots.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nいやそれはむつかしい問顆をはらんでいる。
- \n
-...No, I imagine it's a tougher nut to \n
-crack than that. 
+//\nいやそれはむつかしい問顆をはらんでいる。
+\n
+...No, I imagine it's a tougher nut to\n
+crack than that.
 <$0C><$13>
 //（
 （
@@ -697,28 +697,28 @@ crack than that.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nキンセイどころではない、 \nメイオウセイからもコエがキこえる、
- \n
-THIS IS NO TIME FOR NUTS. RECENTLY, I \n
-HAVE BEEN HEARING VOICES FROM PLUTO. 
+//\nキンセイどころではない、\nメイオウセイからもコエがキこえる、
+\n
+THIS IS NO TIME FOR NUTS. RECENTLY, I\n
+HAVE BEEN HEARING VOICES FROM PLUTO.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nキュウサイのトキがきたのだ！
- \n
-THEY SAY THE HOUR OF SALVATION HAS \n
-COME! 
+//\nキュウサイのトキがきたのだ！
+\n
+THEY SAY THE HOUR OF SALVATION HAS\n
+COME!
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n金星…君もサイコ系なのか、そうなのか？ \nおかしくなったのか？
- \n
-Oh, like the Venusians? You must be a \n
+//\n金星…君もサイコ系なのか、そうなのか？\nおかしくなったのか？
+\n
+Oh, like the Venusians? You must be a\n
 Psycho type too then. Crazy how that
 <$0C>
-works. 
+works.
 <$0C><$13>
 //（
 （
@@ -726,10 +726,10 @@ works.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nおかしいのはキミではないか、これでモトに \nモドれるか、ショウキになれるか。
- \n
-ARE YOU NOT CRAZY? HERE, MAYBE THIS \n
-WILL HELP YOU RETURN TO YOUR SENSES. 
+//\nおかしいのはキミではないか、これでモトに\nモドれるか、ショウキになれるか。
+\n
+ARE YOU NOT CRAZY? HERE, MAYBE THIS\n
+WILL HELP YOU RETURN TO YOUR SENSES.
 <$00>
 
 // Pos: 000028B4
@@ -745,18 +745,18 @@ WILL HELP YOU RETURN TO YOUR SENSES.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nキンセイジンをシンじているのか、それなら \nキミのタイプはサイコにチガいない。
- \n
-IF YOU BELIEVE IN THE VENUSIANS, YOU \n
-ARE, WITHOUT A DOUBT, A PSYCHO TYPE. 
+//\nキンセイジンをシンじているのか、それなら\nキミのタイプはサイコにチガいない。
+\n
+IF YOU BELIEVE IN THE VENUSIANS, YOU\n
+ARE, WITHOUT A DOUBT, A PSYCHO TYPE.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nこれで終わりか、 \nまだ何か持っているだろう。
- \n
-Is that it? You don't have anything else \n
-for me? 
+//\nこれで終わりか、\nまだ何か持っているだろう。
+\n
+Is that it? You don't have anything else\n
+for me?
 <$0C><$13>
 //（
 （
@@ -764,10 +764,10 @@ for me?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nキンセイ、サイコ、 \nおかしなこと、キンセイ、サイコ。
- \n
-VENUS, PSYCHO, CRAZY... VENUS, \n
-PSYCHO, CRAZY... 
+//\nキンセイ、サイコ、\nおかしなこと、キンセイ、サイコ。
+\n
+VENUS, PSYCHO, CRAZY... VENUS,\n
+PSYCHO, CRAZY...
 <$00>
 
 // Pos: 00002937
@@ -780,10 +780,10 @@ PSYCHO, CRAZY...
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねぇ、なんかちょうだいよ。 \nくれるんでしょ？
- \n
-Hey, do you have anything for me? A \n
-little souvenir, perhaps? 
+//\nねぇ、なんかちょうだいよ。\nくれるんでしょ？
+\n
+Hey, do you have anything for me? A\n
+little souvenir, perhaps?
 <$0C><$13>
 //（
 （
@@ -791,9 +791,9 @@ little souvenir, perhaps?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nそうね、あなたには、 \nこんなのはどうかしら。
- \n
-FOR YOU? I AM NOT SO SURE I DO. 
+//\nそうね、あなたには、\nこんなのはどうかしら。
+\n
+FOR YOU? I AM NOT SO SURE I DO.
 <$00>
 
 // Pos: 0000297E
@@ -806,9 +806,9 @@ FOR YOU? I AM NOT SO SURE I DO.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nもうないの、まだあるでしょ。ねぇ！
- \n
-Really? Nothing at all? Damn! 
+//\nもうないの、まだあるでしょ。ねぇ！
+\n
+Really? Nothing at all? Damn!
 <$0C><$13>
 //（
 （
@@ -816,9 +816,9 @@ Really? Nothing at all? Damn!
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nまたね、アトでね。
- \n
-YES, VERY DAMN. TRY AGAIN LATER. 
+//\nまたね、アトでね。
+\n
+YES, VERY DAMN. TRY AGAIN LATER.
 <$00>
 
 // Pos: 000029B3
@@ -831,9 +831,9 @@ YES, VERY DAMN. TRY AGAIN LATER.
 //アーネスト：
 Ernest:
 <$0D>
-// \nおいオンボロ！ なんかよこせ。
- \n
-Hey, robot. Give me something. 
+//\nおいオンボロ！ なんかよこせ。
+\n
+Hey, robot. Give me something.
 <$0C><$13>
 //（
 （
@@ -841,12 +841,12 @@ Hey, robot. Give me something.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nキサマにくれてやっても、ブタにシンジュだろ \nウマのミミになんとかだろ！
- \n
-ANYTHING I GIVE YOU IS A PEARL HORSE \n
+//\nキサマにくれてやっても、ブタにシンジュだろ\nウマのミミになんとかだろ！
+\n
+ANYTHING I GIVE YOU IS A PEARL HORSE\n
 BEFORE A SWINE THAT WILL STILL LOOK
 <$0C>
-IT IN THE MOUTH! 
+IT IN THE MOUTH!
 <$00>
 
 // Pos: 00002A01
@@ -859,9 +859,9 @@ IT IN THE MOUTH!
 //アーネスト：
 Ernest:
 <$0D>
-// \nこれだけか。まだあるだろ、もっとよこせ！
- \n
-That's it? Come on, give me more. 
+//\nこれだけか。まだあるだろ、もっとよこせ！
+\n
+That's it? Come on, give me more.
 <$0C><$13>
 //（
 （
@@ -869,9 +869,9 @@ That's it? Come on, give me more.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nこれでオワりだ、アトでコい。
- \n
-THAT IS IT, I AM DONE! 
+//\nこれでオワりだ、アトでコい。
+\n
+THAT IS IT, I AM DONE!
 <$00>
 
 // Pos: 00002A3F
@@ -884,10 +884,10 @@ THAT IS IT, I AM DONE!
 //スペーサー：
 Spacer:
 <$0D>
-// \n何か、持っているだろう。 \n私の役に立つ物を。
- \n
-Hey, do you have anything useful for \n
-me? 
+//\n何か、持っているだろう。\n私の役に立つ物を。
+\n
+Hey, do you have anything useful for\n
+me?
 <$0C><$13>
 //（
 （
@@ -895,12 +895,12 @@ me?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nあらゆるケンチからカンガえて、 \nキミにはこれがいいだろう。
- \n
-NO, BUT YOU CAN TAKE THIS \n
+//\nあらゆるケンチからカンガえて、\nキミにはこれがいいだろう。
+\n
+NO, BUT YOU CAN TAKE THIS\n
 OPPORTUNITY TO SEE THE WORLD
 <$0C>
-THROUGH ANOTHER SET OF EYES. 
+THROUGH ANOTHER SET OF EYES.
 <$00>
 
 // Pos: 00002A92
@@ -913,10 +913,10 @@ THROUGH ANOTHER SET OF EYES.
 //スペーサー：
 Spacer:
 <$0D>
-// \n他にはないのか…別の組み合わせは。
- \n
-You really don't have anything else? \n
-Nothing worth my while? 
+//\n他にはないのか…別の組み合わせは。
+\n
+You really don't have anything else?\n
+Nothing worth my while?
 <$0C><$13>
 //（
 （
@@ -924,10 +924,10 @@ Nothing worth my while?
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nイマはこれだけ、ノチほどのタイミングを \nノがさないことだね。
- \n
-MY WHILE IS ALL I HAVE! I CANNOT \n
-AFFORD TO SHARE IT ALL THE DAMN TIME. 
+//\nイマはこれだけ、ノチほどのタイミングを\nノがさないことだね。
+\n
+MY WHILE IS ALL I HAVE! I CANNOT\n
+AFFORD TO SHARE IT ALL THE DAMN TIME.
 <$00>
 
 // Pos: 00002AE1
@@ -943,10 +943,10 @@ AFFORD TO SHARE IT ALL THE DAMN TIME.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nワタシにヨウですか。ワタシはあなたには \nトクにヨウはありませんよ。
- \n
-IS THIS WHAT I THINK IT IS? SORRY, I DO \n
-NOT HAVE ANYTHING FOR YOU. 
+//\nワタシにヨウですか。ワタシはあなたには\nトクにヨウはありませんよ。
+\n
+IS THIS WHAT I THINK IT IS? SORRY, I DO\n
+NOT HAVE ANYTHING FOR YOU.
 <$00>
 
 // Pos: 00002B12
@@ -962,20 +962,20 @@ NOT HAVE ANYTHING FOR YOU.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nワタシはときどきココロがミダれますが、 \nナオるのもハヤいです。
- \n
-SOMETIMES, MY HEART STOPS, AND NEEDS \n
-A LITTLE TIME TO REPAIR. 
+//\nワタシはときどきココロがミダれますが、\nナオるのもハヤいです。
+\n
+SOMETIMES, MY HEART STOPS, AND NEEDS\n
+A LITTLE TIME TO REPAIR.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nそれにくらべてニンゲンのヒトはタイヘンです \nみなさん、コワれていきますね。
- \n
-IN COMPARISON, HUMANS MAKE A MUCH \n
+//\nそれにくらべてニンゲンのヒトはタイヘンです\nみなさん、コワれていきますね。
+\n
+IN COMPARISON, HUMANS MAKE A MUCH\n
 HARDER TIME OF THIS. HUMANS BREAK
 <$0C>
-EASILY. 
+EASILY.
 <$00>
 
 // Pos: 00002B73
@@ -991,18 +991,18 @@ EASILY.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nこのホシにはアクイがミちているとイわれて \nいます。でもアクイだけなのでしょうか。
- \n
-THEY SAY THIS PLANET IS FULL OF ILL \n
-WILL, BUT IS ILL WILL ALL IT IS? 
+//\nこのホシにはアクイがミちているとイわれて\nいます。でもアクイだけなのでしょうか。
+\n
+THEY SAY THIS PLANET IS FULL OF ILL\n
+WILL, BUT IS ILL WILL ALL IT IS?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nどこかにゼンイがカタマリになっていると \nキきますが。
- \n
-I DON'T KNOW WHAT ELSE THERE WOULD \n
-BE, BUT I DOUBT IT IS ILL WILL ALONE. 
+//\nどこかにゼンイがカタマリになっていると\nキきますが。
+\n
+I DON'T KNOW WHAT ELSE THERE WOULD\n
+BE, BUT I DOUBT IT IS ILL WILL ALONE.
 <$00>
 
 // Pos: 00002BD2
@@ -1018,18 +1018,18 @@ BE, BUT I DOUBT IT IS ILL WILL ALONE.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nあなたたちはチキュウから \nやってきたのですね。
- \n
-YOU ARE THE MOSQUITOS WHO CAME FROM \n
-EARTH, ARE YOU NOT? 
+//\nあなたたちはチキュウから\nやってきたのですね。
+\n
+YOU ARE THE MOSQUITOS WHO CAME FROM\n
+EARTH, ARE YOU NOT?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nそんなカんじです、ここのヒトとはフンイキが \nチがいますから。
- \n
-WE KNOW WHY YOU ARE HERE: TO SUCK THE \n
-LIFE OUT OF EVERYTHING! 
+//\nそんなカんじです、ここのヒトとはフンイキが\nチがいますから。
+\n
+WE KNOW WHY YOU ARE HERE: TO SUCK THE\n
+LIFE OUT OF EVERYTHING!
 <$00>
 
 // Pos: 00002C24
@@ -1045,17 +1045,17 @@ LIFE OUT OF EVERYTHING!
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nあなたはあなたですか。ニオイがチがいますね \nあなたはアーモンドのニおいがしています。
- \n
-ARE YOU "YOU"? YOUR SCENT IS \n
-DIFFERENT. YOU SMELL LIKE ALMONDS. 
+//\nあなたはあなたですか。ニオイがチがいますね\nあなたはアーモンドのニおいがしています。
+\n
+ARE YOU "YOU"? YOUR SCENT IS\n
+DIFFERENT. YOU SMELL LIKE ALMONDS.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nワタシはハナもキくのです。
- \n
-I AM ALSO GETTING HINTS OF TEETH. 
+//\nワタシはハナもキくのです。
+\n
+I AM ALSO GETTING HINTS OF TEETH.
 <$00>
 
 // Pos: 00002C78
@@ -1071,18 +1071,18 @@ I AM ALSO GETTING HINTS OF TEETH.
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nアタラしいテンカイになってきましたね。 \nワタシはここでケンブツです。
- \n
-THIS IS A PLOT TWIST, IF I HAVE EVER \n
-HEARD ONE. 
+//\nアタラしいテンカイになってきましたね。\nワタシはここでケンブツです。
+\n
+THIS IS A PLOT TWIST, IF I HAVE EVER\n
+HEARD ONE.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
-// \nこれがノゾみです。
- \n
-I THINK IT IS FOR THE BEST THAT I \n
-SPECTATE FROM OUT HERE. 
+//\nこれがノゾみです。
+\n
+I THINK IT IS FOR THE BEST THAT I\n
+SPECTATE FROM OUT HERE.
 <$00>
 
 // Pos: 00002CC0
@@ -1092,9 +1092,9 @@ SPECTATE FROM OUT HERE.
 #WHB(PTR, $00001E65)
 
 <$10>
-// \n   ユニバーサルキットを手に入れた。
- \n
-   Universal Kit acquired. 
+//\n   ユニバーサルキットを手に入れた。
+\n
+   Universal Kit acquired.
 <$0E><$1E><$17><$00>
 
 // Pos: 00002CDB
@@ -1104,9 +1104,9 @@ SPECTATE FROM OUT HERE.
 #WHB(PTR, $00001E69)
 
 <$10>
-// \n     マーズキットを手に入れた。
- \n
-     Mars Kit acquired. 
+//\n     マーズキットを手に入れた。
+\n
+     Mars Kit acquired.
 <$0E><$1E><$17><$00>
 
 // Pos: 00002CF5
@@ -1116,9 +1116,9 @@ SPECTATE FROM OUT HERE.
 #WHB(PTR, $00001E6D)
 
 <$10>
-// \n    アストロキットを手に入れた。
- \n
-     Astro Kit acquired. 
+//\n    アストロキットを手に入れた。
+\n
+     Astro Kit acquired.
 <$0E><$1E><$17><$00>
 
 // Pos: 00002D0F
@@ -1128,9 +1128,9 @@ SPECTATE FROM OUT HERE.
 #WHB(PTR, $00001E71)
 
 <$10>
-// \n    プラネットキットを手に入れた。
- \n
-     Planet Kit acquired. 
+//\n    プラネットキットを手に入れた。
+\n
+     Planet Kit acquired.
 <$0E><$1E><$17><$00>
 
 // Pos: 00002D2A
@@ -1140,9 +1140,9 @@ SPECTATE FROM OUT HERE.
 #WHB(PTR, $00000631)
 
 <$10>
-// \nアイテムがいっぱいです。
- \n
-The item bag is full! 
+//\nアイテムがいっぱいです。
+\n
+The item bag is full!
 <$0E><$1E><$17><$00>
 
 // Pos: 00002D3C
@@ -1152,7 +1152,7 @@ The item bag is full!
 #WHB(PTR, $000013CD)
 
 //場Pしくないのか、アーネスト。
-場PHumiliating, isn't it, Ernest? 
+場PHumiliating, isn't it, Ernest?
 <$00>
 
 // Pos: 00002D4D
@@ -1161,10 +1161,10 @@ The item bag is full!
 
 #WHB(PTR, $0000140D)
 
-//広前は負けたんだ、野良犬のようにいたぶられ、 \nそしてはいつくばった。 そうだろ。
-広You lost. You got licked, and were \n
-forced to run with your tail between \n
-your legs. 
+//広前は負けたんだ、野良犬のようにいたぶられ、\nそしてはいつくばった。 そうだろ。
+広You lost. You got licked, and were\n
+forced to run with your tail between\n
+your legs.
 <$00>
 
 // Pos: 00002D7B
@@ -1173,9 +1173,9 @@ your legs.
 
 #WHB(PTR, $0000141D)
 
-//案ょい出せ、 \nお前はどこでうちのめされたんだ？
-案ょDo you remember where you \n
-were beaten to a pulp? 
+//案ょい出せ、\nお前はどこでうちのめされたんだ？
+案ょDo you remember where you were\n
+beaten to a pulp?
 <$00>
 
 // Pos: 00002D95
@@ -1185,8 +1185,8 @@ were beaten to a pulp?
 #WHB(PTR, $0000142D)
 
 //興れともやつの居場所を突き止めたいのか？
-興Or, would you rather find out where \n
-the winner is now? 
+興Or, would you rather find out where\n
+the winner is now?
 <$00>
 
 // Pos: 00002DB0
@@ -1195,9 +1195,9 @@ the winner is now?
 
 #WHB(PTR, $0000143D)
 
-//血あ、行くんだ、アーネスト。 \n３倍返しだ、お前の力を見せてやるんだ。 \n本当のお前を、お前の怖ろしさを！
-血Get going, Ernest. Pay him back \n
-three times over. Show me your \n
-power! Show me your horror! 
+//血あ、行くんだ、アーネスト。\n３倍返しだ、お前の力を見せてやるんだ。\n本当のお前を、お前の怖ろしさを！
+血Get going, Ernest. Pay him back three\n
+times over. Show me your power!\n
+Show me your horror!
 <$00>
 

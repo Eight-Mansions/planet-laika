@@ -11,32 +11,32 @@
 
 #WHB(PTR, $00000189)
 
- 
+
 <$00><$13><$13><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nあのバスルーム… \nあのとき僕は遠くにいたんだ。
- \n
-That bathroom... I was nowhere near \n
-the place at the time. 
+//\nあのバスルーム…\nあのとき僕は遠くにいたんだ。
+\n
+That bathroom... I was nowhere near\n
+the place at the time.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \n何があったのか、僕は見なかった。
- \n
-I didn't see anything that transpired \n
-there. 
+//\n何があったのか、僕は見なかった。
+\n
+I didn't see anything that transpired\n
+there.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nああ、そうだ、僕の知らないところで \nいろんなことが進んでいたんだ。
- \n
-It...it happened without my \n
+//\nああ、そうだ、僕の知らないところで\nいろんなことが進んでいたんだ。
+\n
+It...it happened without my\n
 knowledge. I never saw what was
 <$0C>
-going on. 
+going on.
 <$00>
 

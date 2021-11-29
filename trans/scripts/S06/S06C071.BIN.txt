@@ -11,15 +11,15 @@
 
 #WHB(PTR, $0000095D)
 
- 
+
 <$00><$0B>
 //ジュディ母さん：
 Judy:
 <$0D>
-// \nパパは病気なんだよ、ヌーン、 \nパパは可哀想な人なんだよ。
- \n
-Papa was sick, Noon. Papa was a \n
-pathetic little man. 
+//\nパパは病気なんだよ、ヌーン、\nパパは可哀想な人なんだよ。
+\n
+Papa was sick, Noon. Papa was a\n
+pathetic little man.
 <$00>
 
 // Pos: 00001DDE
@@ -28,23 +28,23 @@ pathetic little man.
 
 #WHB(PTR, $000009E5)
 
- 
+
 <$00><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nいやだ、ママ… \nこっちに来ないで…ママ。
- \n
-No, Mummy... Mummy, don't come near \n
-me! 
+//\nいやだ、ママ…\nこっちに来ないで…ママ。
+\n
+No, Mummy... Mummy, don't come near\n
+me!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nそんな目で僕を見ないで、 \n怖いよう、ママ！
- \n
-Don't look at me with those eyes! You're \n
-scaring me, Mummy! 
+//\nそんな目で僕を見ないで、\n怖いよう、ママ！
+\n
+Don't look at me with those eyes! You're\n
+scaring me, Mummy!
 <$00>
 
 // Pos: 00001E1C
@@ -56,9 +56,9 @@ scaring me, Mummy!
 //離
 離
 <$13>
-//       病気なのさ、 \n   そうだよ、パパは病気なんだよ！
-       He was a sick man. \n
-   That's right, Papa was sick! 
+//       病気なのさ、\n   そうだよ、パパは病気なんだよ！
+       He was a sick man.\n
+   That's right, Papa was sick!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001E45
@@ -71,6 +71,6 @@ scaring me, Mummy!
 離
 <$13>
 //      ママ！やめて！
-      Mummy! STOP! 
+      Mummy! STOP!
 <$0E><$3C><$17><$00>
 

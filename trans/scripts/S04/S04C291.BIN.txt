@@ -15,9 +15,9 @@
 //トミー：
 Tommy:
 <$0D>
-// \nようよう、兄ちゃん…兄ちゃんよう…
- \n
-Hey. Hey, comrade... 
+//\nようよう、兄ちゃん…兄ちゃんよう…
+\n
+Hey. Hey, comrade...
 <$00>
 
 // Pos: 00002145
@@ -30,46 +30,46 @@ Hey. Hey, comrade...
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃん… ああん？ \n会ったことあるか、俺と？
- \n
-Have we met before? You and me? 
+//\n兄ちゃん… ああん？\n会ったことあるか、俺と？
+\n
+Have we met before? You and me?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n
- \n
+//\n
+\n
 
 <$12>
-//つくそっ、気分が悪い、吐きそうだぜ… \nおぇっ、うぐぐぐ、おえっ…
-Ick, I feel sick. Totally about to puke... \n
-This sucks! 
+//つくそっ、気分が悪い、吐きそうだぜ…\nおぇっ、うぐぐぐ、おえっ…
+Ick, I feel sick. Totally about to puke...\n
+This sucks!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nなあ、酸索屋になんか用か？
- \n
-So, you're looking for the oxygen \n
-dispensary? For what? 
+//\nなあ、酸索屋になんか用か？
+\n
+So, you're looking for the oxygen\n
+dispensary? For what?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nリトルのやつ、さっきナイトプラネットの側に \nいやがったぜ…
- \n
-If you need to speak to an employee, I \n
+//\nリトルのやつ、さっきナイトプラネットの側に\nいやがったぜ…
+\n
+If you need to speak to an employee, I\n
 saw Little outside of NIGHT PLANET
 <$0C>
-just now. 
+just now.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n何やってんだ、あんなところで。
- \n
-(What the heck was he doing, \n
-anyways?) 
+//\n何やってんだ、あんなところで。
+\n
+(What the heck was he doing,\n
+anyways?)
 <$00>
 
 // Pos: 000021E7
@@ -82,18 +82,18 @@ anyways?)
 //トミー：
 Tommy:
 <$0D>
-// \nナイトプラネットは \nここまっすぐ行ったところだ、
- \n
-If you wanna check out NIGHT PLANET, \n
-it's just up the road, a-yup. 
+//\nナイトプラネットは\nここまっすぐ行ったところだ、
+\n
+If you wanna check out NIGHT PLANET,\n
+it's just up the road, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nぐげげ、ケチな酒場だぜ。
- \n
-Brrrp...! I'm warning you, the place is \n
-highway robbery. 
+//\nぐげげ、ケチな酒場だぜ。
+\n
+Brrrp...! I'm warning you, the place is\n
+highway robbery.
 <$00>
 
 // Pos: 0000221F
@@ -106,21 +106,21 @@ highway robbery.
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんよう、地球から来たんだな、 \nそうだろ、
- \n
-You're from Earth, arent'cha, \n
-comrade? I thought so. 
+//\n兄ちゃんよう、地球から来たんだな、\nそうだろ、
+\n
+You're from Earth, arent'cha,\n
+comrade? I thought so.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nそれでヘロデんとこにあいさつに来た… \nぐげげげ、吐きそうだぜ、気分が悪いぜ…
- \n
-That's why you want Herod, a-yup... \n
+//\nそれでヘロデんとこにあいさつに来た…\nぐげげげ、吐きそうだぜ、気分が悪いぜ…
+\n
+That's why you want Herod, a-yup...\n
 Brrrp! Ick, don't mind me. I'm just...
 <$1E>
 //双
-双 
+双
 <$00>
 
 // Pos: 00002276
@@ -133,13 +133,13 @@ Brrrp! Ick, don't mind me. I'm just...
 //トミー：
 Tommy:
 <$0D>
-// \nこんな早い時間から飲み過ぎたぜ、 \nくそっ、気分が悪い…
- \n
-Ick, I feel sick. I drank too much this \n
+//\nこんな早い時間から飲み過ぎたぜ、\nくそっ、気分が悪い…
+\n
+Ick, I feel sick. I drank too much this\n
 time around. 
 <$1E>
 //双
-双 
+双
 <$00>
 
 // Pos: 000022A2
@@ -152,10 +152,10 @@ time around.
 //トミー：
 Tommy:
 <$0D>
-// \nようよう、兄ちゃんよう、 \nあいつらに何たのまれたんだ？ え？
- \n
-Hey, comrade. Did those nuts want \n
-something from you? 
+//\nようよう、兄ちゃんよう、\nあいつらに何たのまれたんだ？ え？
+\n
+Hey, comrade. Did those nuts want\n
+something from you?
 <$00>
 
 // Pos: 000022CA
@@ -168,18 +168,18 @@ something from you?
 //トミー：
 Tommy:
 <$0D>
-// \nおお？ 兄ちゃんの顔、やっぱり \n見たことあるぜ…
- \n
-Wait, I'm right, ain't I? I can see it on \n
-your face. 
+//\nおお？ 兄ちゃんの顔、やっぱり\n見たことあるぜ…
+\n
+Wait, I'm right, ain't I? I can see it on\n
+your face.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nさっき会ったか、へー、 \n何たのまれたんだよ、言いなよ。
- \n
-So, what'd they want? All right, don't \n
-tell me... 
+//\nさっき会ったか、へー、\n何たのまれたんだよ、言いなよ。
+\n
+So, what'd they want? All right, don't\n
+tell me...
 <$00>
 
 // Pos: 00002311
@@ -192,26 +192,26 @@ tell me...
 //トミー：
 Tommy:
 <$0D>
-// \n何だよ、水くせぇじゃねぇか、 \nよう、赤い石だろ、図星！
- \n
-Something slippery, I bet... YEAH! They \n
-want the red stone! 
+//\n何だよ、水くせぇじゃねぇか、\nよう、赤い石だろ、図星！
+\n
+Something slippery, I bet... YEAH! They\n
+want the red stone!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nひーひひひ、あいつら欲しがってる… \nへへへー、
- \n
-Hehe, that's what they want you to \n
-get? I knew it! 
+//\nひーひひひ、あいつら欲しがってる…\nへへへー、
+\n
+Hehe, that's what they want you to\n
+get? I knew it!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nでもな、赤い石なんて誰も見たことねえんだ！ \nなんでか分かるか？ ああん？
- \n
-Too bad, no one has actually laid eyes \n
-on the red stone. Wanna know why? 
+//\nでもな、赤い石なんて誰も見たことねえんだ！\nなんでか分かるか？ ああん？
+\n
+Too bad, no one has actually laid eyes\n
+on the red stone. Wanna know why?
 <$00>
 
 // Pos: 00002389
@@ -224,27 +224,27 @@ on the red stone. Wanna know why?
 //トミー：
 Tommy:
 <$0D>
-// \n石のとこに行けねぇんだ！ 扉が開かねぇ… \nブーマーのやつが力任せにやっても開かねぇ…
- \n
-The door that leads to the stone won't \n
-open! Even Boomer can't break it down. 
+//\n石のとこに行けねぇんだ！ 扉が開かねぇ…\nブーマーのやつが力任せにやっても開かねぇ…
+\n
+The door that leads to the stone won't\n
+open! Even Boomer can't break it down.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nハウスにいるヤングやクロウに言わせりゃ \n火星人の扉だと。
- \n
-That's a Martian door. You'll have to ask \n
+//\nハウスにいるヤングやクロウに言わせりゃ\n火星人の扉だと。
+\n
+That's a Martian door. You'll have to ask\n
 Yang or Crow over at Psycho Lab about
 <$0C>
-it. 
+it.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nへん！ あるか、そんなもん！
- \n
-Oh, but about that! 
+//\nへん！ あるか、そんなもん！
+\n
+Oh, but about that!
 <$00>
 
 // Pos: 00002400
@@ -257,36 +257,36 @@ Oh, but about that!
 //トミー：
 Tommy:
 <$0D>
-// \nやつらにゃ目ん玉が見えるんだとよ、 \n人の頭ほどのでっけえ目ん玉がよ！
- \n
-You know those big booby-sized \n
+//\nやつらにゃ目ん玉が見えるんだとよ、\n人の頭ほどのでっけえ目ん玉がよ！
+\n
+You know those big booby-sized\n
 eyeballs some people can see on
 <$0C>
-doors? 
+doors?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nその目ん玉とお話ししないと、扉は開かねぇ… \nひゃー！ でっけぇ目ん玉だとよ！
- \n
-You'll have to talk to one of those giant \n
-honkers to get inside, a-yup. 
+//\nその目ん玉とお話ししないと、扉は開かねぇ…\nひゃー！ でっけぇ目ん玉だとよ！
+\n
+You'll have to talk to one of those giant\n
+honkers to get inside, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n恐々行ってみたぜ、俺もよ、見えねぇ… \n俺には目ん玉なんて、見えねえ… \nくそったれ…
- \n
-I'd love to help, but I...I can't see 'em. I \n
-can't see the honkers, dangit! 
+//\n恐々行ってみたぜ、俺もよ、見えねぇ…\n俺には目ん玉なんて、見えねえ…\nくそったれ…
+\n
+I'd love to help, but I...I can't see 'em. I\n
+can't see the honkers, dangit!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nううう、また気分が悪くなってきた… \n吐きそうだ…おぇっおぇっおぇっ… \nいつ会ったんだ…おえっ！
- \n
-Ick, I feel sick. Totally about to puke \n
-again. Brrrp! I've gotta run! 
+//\nううう、また気分が悪くなってきた…\n吐きそうだ…おぇっおぇっおぇっ…\nいつ会ったんだ…おえっ！
+\n
+Ick, I feel sick. Totally about to puke\n
+again. Brrrp! I've gotta run!
 <$00>
 
 // Pos: 000024D4
@@ -299,23 +299,23 @@ again. Brrrp! I've gotta run!
 //トミー：
 Tommy:
 <$0D>
-// \nよよ、兄ちゃんよう、 \n赤い石、手に入れたのか？
- \n
-Hey, comrade! You find that red stone \n
-in one piece? 
+//\nよよ、兄ちゃんよう、\n赤い石、手に入れたのか？
+\n
+Hey, comrade! You find that red stone\n
+in one piece?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nすげぇな、そりゃすげぇ。 \n目ん玉はどうした？ ほんとにあるのか？
- \n
-Hehe, nice! So, what about the talking \n
+//\nすげぇな、そりゃすげぇ。\n目ん玉はどうした？ ほんとにあるのか？
+\n
+Hehe, nice! So, what about the talking\n
 eyeballs? Are they real?
 <$1B>
-//」ある \nない
+//」ある\nない
 」Yes
 <$0C>
-No 
+No
 <$00><$17><$00>
 
 // Pos: 0000252C
@@ -328,23 +328,23 @@ No
 //トミー：
 Tommy:
 <$0D>
-// \nほんとかよ、へへ、 \nどうせ俺たちには見えねぇんだ。
- \n
-So, they're real! Hehe, too bad we can't \n
-see 'em, you know? 
+//\nほんとかよ、へへ、\nどうせ俺たちには見えねぇんだ。
+\n
+So, they're real! Hehe, too bad we can't\n
+see 'em, you know?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんもハウスの野郎と一緒だ、 \n電波の実験してるやつと一緒だ。
- \n
-That reminds me. Go check out Psycho \n
+//\n兄ちゃんもハウスの野郎と一緒だ、\n電波の実験してるやつと一緒だ。
+\n
+That reminds me. Go check out Psycho\n
 Lab. The guys there experiment with
 <$0C>
 radio waves.
 <$1E>
 //双
-双 
+双
 <$00>
 
 // Pos: 00002584
@@ -357,23 +357,23 @@ radio waves.
 //トミー：
 Tommy:
 <$0D>
-// \nねぇよな、そりゃそうだ、 \nハウスのやつらはおかしいぜ。
- \n
-Yeah, figures. Those Psycho Lab guys \n
+//\nねぇよな、そりゃそうだ、\nハウスのやつらはおかしいぜ。
+\n
+Yeah, figures. Those Psycho Lab guys\n
 love that hocusy-pocusy stuff too,
 <$0C>
-a-yup. 
+a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n電波の実験なんてよ、ありゃいかれてる。
- \n
-Must be why they like experimenting \n
+//\n電波の実験なんてよ、ありゃいかれてる。
+\n
+Must be why they like experimenting\n
 with radio waves.
 <$1E>
 //双
-双 
+双
 <$00>
 
 // Pos: 000025CA
@@ -386,28 +386,28 @@ with radio waves.
 //トミー：
 Tommy:
 <$0D>
-// \n知ってるか、兄ちゃん。
- \n
-Have you ever checked out the monitor \n
-in Psycho Lab? 
+//\n知ってるか、兄ちゃん。
+\n
+Have you ever checked out the monitor\n
+in Psycho Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nハウスの無線テレビな、 \nとっくに放送なんかやってねぇのによ、 \nときどき妙なもんが映ったりするんだ、
- \n
-It's a wireless monitor that \n
-broadcasts some creepy stuff. 
+//\nハウスの無線テレビな、\nとっくに放送なんかやってねぇのによ、\nときどき妙なもんが映ったりするんだ、
+\n
+It's a wireless monitor that\n
+broadcasts some creepy stuff.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n気味悪いぜ、なあ兄ちゃんよう。
- \n
+//\n気味悪いぜ、なあ兄ちゃんよう。
+\n
 Give it a good look sometime, comrade.
 <$1E>
 //双
-双 
+双
 <$00>
 
 // Pos: 0000263B
@@ -417,56 +417,56 @@ Give it a good look sometime, comrade.
 #WHB(PTR, $00000FC5)
 
 <$10>
-//あなたね… \nエイプリルと一緒だったのは。
- \n
-It's you... \n
-You were the one with April. 
+//あなたね…\nエイプリルと一緒だったのは。
+\n
+It's you...\n
+You were the one with April.
 <$0C>
-//行ってあげて、 \n彼女、あなたのこと待ってるわ。
-You should go. \n
-She's waiting for you. 
+//行ってあげて、\n彼女、あなたのこと待ってるわ。
+You should go.\n
+She's waiting for you.
 <$00><$10><$0B>
 //イースト：
 East:
 <$0D>
-// \nさあ、リトルさんは中だ。
- \n
-See Little inside? 
+//\nさあ、リトルさんは中だ。
+\n
+See Little inside?
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-// \n俺たちはここで見張ってる。
- \n
-We will wait outside! 
+//\n俺たちはここで見張ってる。
+\n
+We will wait outside!
 <$00><$10><$0B>
 //イースト：
 East:
 <$0D>
-// \nお前たち、明日帰る。
- \n
-You're leaving tomorrow? 
+//\nお前たち、明日帰る。
+\n
+You're leaving tomorrow?
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-// \nいいこと。今夜、寝る。
- \n
-You're sleeping tonight! 
+//\nいいこと。今夜、寝る。
+\n
+You're sleeping tonight!
 <$00><$10><$0B>
 //イースト：
 East:
 <$0D>
-// \n俺たち、寝ずの番。
- \n
-Shall we watch through the night? 
+//\n俺たち、寝ずの番。
+\n
+Shall we watch through the night?
 <$00><$10><$0B>
 //ウェスト：
 West:
 <$0D>
-// \n見張る。
- \n
-We're the nightwatch! 
+//\n見張る。
+\n
+We're the nightwatch!
 <$00>
 
 // Pos: 000026F1
@@ -479,20 +479,20 @@ We're the nightwatch!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n気を確かに持つのよ、 \n記憶の谷で何が起きても動じないでね。
- \n
-Keep your mind sharp. Don't succumb \n
-to the wiles of Valles Memoriae. 
+//\n気を確かに持つのよ、\n記憶の谷で何が起きても動じないでね。
+\n
+Keep your mind sharp. Don't succumb\n
+to the wiles of Valles Memoriae.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nこの星のよこしまな力に \nとらわれたりしないでね。
- \n
-Mars possesses a vile power. Don't let \n
+//\nこの星のよこしまな力に\nとらわれたりしないでね。
+\n
+Mars possesses a vile power. Don't let\n
 that power swallow you whole.
 <$1E>
 //理
-理 
+理
 <$00>
 

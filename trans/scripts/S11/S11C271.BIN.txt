@@ -15,9 +15,9 @@
 //コスマス：
 Cosmas:
 <$0D>
-// \n行かないで！ダークマン…
- \n
-Don't go, Dark Man! 
+//\n行かないで！ダークマン…
+\n
+Don't go, Dark Man!
 <$00>
 
 // Pos: 000007B0
@@ -30,10 +30,10 @@ Don't go, Dark Man!
 //コスマス：
 Cosmas:
 <$0D>
-// \nお客さん…そこにいるの、お客さんだよね。 \n分かるんだよ、気配で。
- \n
-Oh...a customer. Sorry, I didn't see \n
-you. But, maybe this is a... 
+//\nお客さん…そこにいるの、お客さんだよね。\n分かるんだよ、気配で。
+\n
+Oh...a customer. Sorry, I didn't see\n
+you. But, maybe this is a...
 <$00>
 
 // Pos: 000007DD
@@ -46,15 +46,15 @@ you. But, maybe this is a...
 //コスマス：
 Cosmas:
 <$0D>
-// \nねぇ、ひとつお願いしていい？ \n僕を自由にしてくれる？
- \n
-Say, can I ask one favor? Can \n
+//\nねぇ、ひとつお願いしていい？\n僕を自由にしてくれる？
+\n
+Say, can I ask one favor? Can\n
 you...free me?
 <$1B>
-//、もちろん \nどうやって？
+//、もちろん\nどうやって？
 、Yes
 <$0C>
-How? 
+How?
 <$00><$17><$00>
 
 // Pos: 00000814
@@ -67,17 +67,17 @@ How?
 //コスマス：
 Cosmas:
 <$0D>
-// \nありがとう。きっとだよ。約束だよ。
- \n
-Thank you! Remember, it's a promise. 
+//\nありがとう。きっとだよ。約束だよ。
+\n
+Thank you! Remember, it's a promise.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nダークマンの言ったこと、 \n本当だったんだね。今に救われるって。
- \n
-Wow, it's just like Dark Man said! I \n
-really will be saved! 
+//\nダークマンの言ったこと、\n本当だったんだね。今に救われるって。
+\n
+Wow, it's just like Dark Man said! I\n
+really will be saved!
 <$00>
 
 // Pos: 0000085D
@@ -90,17 +90,17 @@ really will be saved!
 //コスマス：
 Cosmas:
 <$0D>
-// \n簡単なことさ。
- \n
-It's simple. 
+//\n簡単なことさ。
+\n
+It's simple.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n僕はこの顔で不幸になったんだ、 \n元に戻したいんだよ。
- \n
-I want to reverse the misfortune \n
-brought on my face. 
+//\n僕はこの顔で不幸になったんだ、\n元に戻したいんだよ。
+\n
+I want to reverse the misfortune\n
+brought on my face.
 <$00>
 
 // Pos: 00000899
@@ -113,26 +113,26 @@ brought on my face.
 //コスマス：
 Cosmas:
 <$0D>
-// \nダークマンを呼び戻すからね、 \n助けてくれるのはそれからでいいよ。
- \n
-Next time I call out to Dark Man, he'll \n
-surely answer and help me. 
+//\nダークマンを呼び戻すからね、\n助けてくれるのはそれからでいいよ。
+\n
+Next time I call out to Dark Man, he'll\n
+surely answer and help me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nあんたはリバーをさがさなきゃ。 \n彼、あんたのこと待ってるよ。
- \n
-In the meantime, I need you to meet \n
-Liever. He'll be expecting you. 
+//\nあんたはリバーをさがさなきゃ。\n彼、あんたのこと待ってるよ。
+\n
+In the meantime, I need you to meet\n
+Liever. He'll be expecting you.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nイースト、ウェストに見つからないように… \nコロニーの中じゃないけど。どこかな…
- \n
-He's outside of the colony, somewhere \n
-where East and West can't find him. 
+//\nイースト、ウェストに見つからないように…\nコロニーの中じゃないけど。どこかな…
+\n
+He's outside of the colony, somewhere\n
+where East and West can't find him.
 <$00>
 
 // Pos: 00000920
@@ -145,34 +145,34 @@ where East and West can't find him.
 //コスマス：
 Cosmas:
 <$0D>
-// \nねぇ、あんたはケンカする人でしょ、
- \n
-You. You're a combative person, aren't \n
-you? 
+//\nねぇ、あんたはケンカする人でしょ、
+\n
+You. You're a combative person, aren't\n
+you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n分かるんだ。ダークマンはお見通しだよ。 \n教えてあげるよ。
- \n
-I know, because Dark Man peered into \n
-you and told me. 
+//\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark Man peered into\n
+you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n火事…リバー…導いてくれる… \n預言の場所にだよ。
- \n
-Through fire...Liever will show you to \n
-the place of prophecy. 
+//\n火事…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+Through fire...Liever will show you to\n
+the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nうん、火事って言葉が浮かんできたよ。
- \n
-Yes, the word "fire" is floating about in \n
-my head. 
+//\nうん、火事って言葉が浮かんできたよ。
+\n
+Yes, the word "fire" is floating about in\n
+my head.
 <$00>
 
 // Pos: 000009A8
@@ -185,34 +185,34 @@ my head.
 //コスマス：
 Cosmas:
 <$0D>
-// \nねぇ、あんたはあの目玉が見える人でしょ、
- \n
-You. You can see the eyeballs, can't \n
-you? 
+//\nねぇ、あんたはあの目玉が見える人でしょ、
+\n
+You. You can see the eyeballs, can't\n
+you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n分かるんだ。ダークマンはお見通しだよ。 \n教えてあげるよ。
- \n
-I know, because Dark Man peered into \n
-you and told me. 
+//\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark Man peered into\n
+you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nロケット…リバー…導いてくれる… \n預言の場所にだよ。
- \n
-From a rocket...Liever will show you to \n
-the place of prophecy. 
+//\nロケット…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+From a rocket...Liever will show you to\n
+the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nうん、ロケットって言葉が浮かんできたよ。
- \n
-Yes, the word "rocket" is floating \n
-about in my head. 
+//\nうん、ロケットって言葉が浮かんできたよ。
+\n
+Yes, the word "rocket" is floating\n
+about in my head.
 <$00>
 
 // Pos: 00000A35
@@ -225,34 +225,34 @@ about in my head.
 //コスマス：
 Cosmas:
 <$0D>
-// \nねぇ、あんたは顔作りに来た人でしょ、
- \n
-You. You like to doll up your face, don't \n
-you? 
+//\nねぇ、あんたは顔作りに来た人でしょ、
+\n
+You. You like to doll up your face, don't\n
+you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n分かるんだ。ダークマンはお見通しだよ。 \n教えてあげるよ。
- \n
-I know, because Dark Man peered into \n
-you and told me. 
+//\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
+\n
+I know, because Dark Man peered into\n
+you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n避難小屋…リバー…導いてくれる… \n預言の場所にだよ。
- \n
-Through a shelter...Liever will show \n
-you to the place of prophecy. 
+//\n避難小屋…リバー…導いてくれる…\n預言の場所にだよ。
+\n
+Through a shelter...Liever will show\n
+you to the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nうん、避難小屋って言葉が \n浮かんできたよ。
- \n
-Yes, the word "shelter" is floating \n
-about in my head. 
+//\nうん、避難小屋って言葉が\n浮かんできたよ。
+\n
+Yes, the word "shelter" is floating\n
+about in my head.
 <$00>
 
 // Pos: 00000ACA
@@ -265,40 +265,40 @@ about in my head.
 //コスマス：
 Cosmas:
 <$0D>
-// \nうーんと、あんたはねぇ… \nよく見えてこないなぁ。
- \n
-Hmmm... How odd. I can't seem to tell. 
+//\nうーんと、あんたはねぇ…\nよく見えてこないなぁ。
+\n
+Hmmm... How odd. I can't seem to tell.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nどんなタイプなのかなぁ…
- \n
-Which type are you? 
+//\nどんなタイプなのかなぁ…
+\n
+Which type are you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n力持ちなら火事、 \n頭がいいとロケット、欲ばりだと避難小屋…
- \n
-If you have power, seek fire. If you \n
-have knowledge, seek the rocket. 
+//\n力持ちなら火事、\n頭がいいとロケット、欲ばりだと避難小屋…
+\n
+If you have power, seek fire. If you\n
+have knowledge, seek the rocket.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nそこまではわかるんだけど。
- \n
-If you have desire, seek the shelter. \n
-That's all I can tell you, but... 
+//\nそこまではわかるんだけど。
+\n
+If you have desire, seek the shelter.\n
+That's all I can tell you, but...
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nタイプをはっきりさせないと、 \nリバーは見つからないよ。
- \n
-...if you don't have a type, you'll never \n
-find Liever. 
+//\nタイプをはっきりさせないと、\nリバーは見つからないよ。
+\n
+...if you don't have a type, you'll never\n
+find Liever.
 <$00>
 
 // Pos: 00000B6B
@@ -311,27 +311,27 @@ find Liever.
 //コスマス：
 Cosmas:
 <$0D>
-// \nリバーが待ってるよ。
- \n
-Liever is waiting. 
+//\nリバーが待ってるよ。
+\n
+Liever is waiting.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \n待ってるのはあんたのことじゃないよ、 \nあんたの中の誰かさ。
- \n
-He's not waiting for "you" per se, but \n
-someone inside of you. 
+//\n待ってるのはあんたのことじゃないよ、\nあんたの中の誰かさ。
+\n
+He's not waiting for "you" per se, but\n
+someone inside of you.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nきっといろいろ話したいんだろうね。
- \n
-I suppose Liever and that someone \n
+//\nきっといろいろ話したいんだろうね。
+\n
+I suppose Liever and that someone\n
 have much to discuss.
 <$1E>
 //炎
-炎 
+炎
 <$00>
 

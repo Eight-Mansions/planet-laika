@@ -15,10 +15,10 @@
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、どうした、アーネスト。 \nどこに行こうというのだ。
- \n
-Hyohyo! Tell me, Ernest. Where are you \n
-going? 
+//\nひょひょ、どうした、アーネスト。\nどこに行こうというのだ。
+\n
+Hyohyo! Tell me, Ernest. Where are you\n
+going?
 <$00>
 
 // Pos: 000015B3
@@ -31,10 +31,10 @@ going?
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、どうした、スペーサー。 \n何を求めているのだ。
- \n
-Hyohyo! Tell me, Spacer. What are you \n
-searching for? 
+//\nひょひょ、どうした、スペーサー。\n何を求めているのだ。
+\n
+Hyohyo! Tell me, Spacer. What are you\n
+searching for?
 <$00>
 
 // Pos: 000015DE
@@ -47,9 +47,9 @@ searching for?
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、どうした、ヨランダ。 \nひとりになるのが好きなのか。
- \n
-Hyohyo! Tell me, Yolanda. Do you like \n
-being alone? 
+//\nひょひょ、どうした、ヨランダ。\nひとりになるのが好きなのか。
+\n
+Hyohyo! Tell me, Yolanda. Do you like\n
+being alone?
 <$00>
 

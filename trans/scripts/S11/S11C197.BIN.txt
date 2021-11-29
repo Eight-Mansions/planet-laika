@@ -15,10 +15,10 @@
 //レッド：
 Red:
 <$0D>
-// \nへへへ、可愛い子犬ちゃん。 \nさあ、教えるんだ、コスマスをどこへやった？
- \n
-Hehehe, tell me, my darling puppy. \n
-Where did Cosmas go? 
+//\nへへへ、可愛い子犬ちゃん。\nさあ、教えるんだ、コスマスをどこへやった？
+\n
+Hehehe, tell me, my darling puppy.\n
+Where did Cosmas go?
 <$00>
 
 // Pos: 000023AA
@@ -31,41 +31,41 @@ Where did Cosmas go?
 //レッド：
 Red:
 <$0D>
-// \nどうした、びくついてるのか、ええ？
- \n
-What's the matter. You scared of me? 
+//\nどうした、びくついてるのか、ええ？
+\n
+What's the matter. You scared of me?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n俺が怖いのか？ \nふん、小汚ねぇツラさらしやがって！
- \n
-Am I scary looking? Hmph, a little \n
-rough around the edges, maybe. 
+//\n俺が怖いのか？\nふん、小汚ねぇツラさらしやがって！
+\n
+Am I scary looking? Hmph, a little\n
+rough around the edges, maybe.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nあああ、どいつもこいつも、 \nいまいましい野郎ばかりだ！
- \n
-Grr, but that's not MY problem! It's \n
-yours, you dumb, little bitch! 
+//\nあああ、どいつもこいつも、\nいまいましい野郎ばかりだ！
+\n
+Grr, but that's not MY problem! It's\n
+yours, you dumb, little bitch!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nコスマスをあの顔にするのに \nどれだけ時間かかったか分かるか！
- \n
-Do you have ANY idea how long it took \n
-me to get Cosmas that face? 
+//\nコスマスをあの顔にするのに\nどれだけ時間かかったか分かるか！
+\n
+Do you have ANY idea how long it took\n
+me to get Cosmas that face?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nあいつの顔はカンペキだ、 \nあれは俺の作品なんだ、そうだ作品だ！
- \n
-His face was PERFECT! THAT was my \n
-beauty work! It was! 
+//\nあいつの顔はカンペキだ、\nあれは俺の作品なんだ、そうだ作品だ！
+\n
+His face was PERFECT! THAT was my\n
+beauty work! It was!
 <$00>
 
 // Pos: 00002462
@@ -86,30 +86,30 @@ beauty work! It was!
 //レッド：
 Red:
 <$0D>
-// \nあいつはカンペキだ、 \nお前らが寄ってたかってもかなわねぇ。
- \n
-We'd nearly groomed him to \n
+//\nあいつはカンペキだ、\nお前らが寄ってたかってもかなわねぇ。
+\n
+We'd nearly groomed him to\n
 perfection before your filthy lot
 <$0C>
-showed up. 
+showed up.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nへへへ、コスマスはなぁ、 \n俺なしじゃ生きていけねぇんだ。
- \n
-Hehe, but Cosmas... He can't live \n
-without me. 
+//\nへへへ、コスマスはなぁ、\n俺なしじゃ生きていけねぇんだ。
+\n
+Hehe, but Cosmas... He can't live\n
+without me.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nあいつは俺の体の一部なんだ、 \nそれが分からねぇのか、作品で、一部なんだ。
- \n
-He's a part of my body. He doesn't know \n
+//\nあいつは俺の体の一部なんだ、\nそれが分からねぇのか、作品で、一部なんだ。
+\n
+He's a part of my body. He doesn't know\n
 it, but he makes up only a fraction of my
 <$0C>
-work. 
+work.
 <$00>
 
 // Pos: 000024E1
@@ -122,46 +122,46 @@ work.
 //レッド：
 Red:
 <$0D>
-// \nうはははは、どうだ！ \n見ろ、そのくそみたいなツラを！
- \n
-Hahaha, how's that! Take a look! Am I \n
-rough around the edges now? 
+//\nうはははは、どうだ！\n見ろ、そのくそみたいなツラを！
+\n
+Hahaha, how's that! Take a look! Am I\n
+rough around the edges now?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nどうだ、みじめな思いがするか？ \nええ？ なさけないか、涙が出そうか。
- \n
-Tell me, who looks sad now? \n
-Miserable? Who's about to cry now? 
+//\nどうだ、みじめな思いがするか？\nええ？ なさけないか、涙が出そうか。
+\n
+Tell me, who looks sad now?\n
+Miserable? Who's about to cry now?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nそうだろ、そうだろ、そうだろ、 \nフユカイでたまらないだろ。
- \n
-Yeah, yeah, that's what I thought. \n
+//\nそうだろ、そうだろ、そうだろ、\nフユカイでたまらないだろ。
+\n
+Yeah, yeah, that's what I thought.\n
 You're the one with your tail between
 <$0C>
-your legs. 
+your legs.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nお前は犬だ、ただの犬だ、ははははは、 \n犬だ犬だ、クソ犬め。
- \n
-And why's that? Because you're a dog! \n
+//\nお前は犬だ、ただの犬だ、ははははは、\n犬だ犬だ、クソ犬め。
+\n
+And why's that? Because you're a dog!\n
 Just a dog, hahaha! A dog! A dirty
 <$0C>
-fucking dog! 
+fucking dog!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nおじさんの泡で死んでしまえ！
- \n
-Just wait until Uncle kills you with his \n
-bubbles! 
+//\nおじさんの泡で死んでしまえ！
+\n
+Just wait until Uncle kills you with his\n
+bubbles!
 <$00>
 
 // Pos: 00002598
@@ -174,28 +174,28 @@ bubbles!
 //レッド：
 Red:
 <$0D>
-// \n泡だと？ お前、何て言った？ \n泡が来るのか？
- \n
-...What? Bubbles? Did YOU say \n
-"bubbles"? Is Uncle Bubbles coming? 
+//\n泡だと？ お前、何て言った？\n泡が来るのか？
+\n
+...What? Bubbles? Did YOU say\n
+"bubbles"? Is Uncle Bubbles coming?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nおおお、泡のおじさんのことか、 \nお前知ってるんだな、泡のおじさんだ。
- \n
-Oh, You know Uncle Bubbles right? \n
-Good old Uncle Bubbles is on his way! 
+//\nおおお、泡のおじさんのことか、\nお前知ってるんだな、泡のおじさんだ。
+\n
+Oh, You know Uncle Bubbles right?\n
+Good old Uncle Bubbles is on his way!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nひー、俺じゃない、このクソガキだよ、 \nお仕置きならこいつにだよ、ひー！
- \n
-Hehehe, but not for me. It's for the \n
+//\nひー、俺じゃない、このクソガキだよ、\nお仕置きならこいつにだよ、ひー！
+\n
+Hehehe, but not for me. It's for the\n
 shitbag kid here. He needs to be
 <$0C>
-punished! 
+punished!
 <$00>
 
 // Pos: 00002614
@@ -208,35 +208,35 @@ punished!
 //レッド：
 Red:
 <$0D>
-// \nまだ間に合うぞ、絶対だ。
- \n
-I've still got time. Definitely. 
+//\nまだ間に合うぞ、絶対だ。
+\n
+I've still got time. Definitely.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nコスマスをひっ捕らえて \nあの布をかぶせてやる、
- \n
-I'll nab Cosmas and cover him with the \n
-cloth! 
+//\nコスマスをひっ捕らえて\nあの布をかぶせてやる、
+\n
+I'll nab Cosmas and cover him with the\n
+cloth!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nはははー、知ってるぜ、あいつは隠れ家だ、 \n地下水道にあるんだ、馬鹿野郎！
- \n
-Hahaha, and I know his hideout! That \n
-stupid kid's in the underground canal! 
+//\nはははー、知ってるぜ、あいつは隠れ家だ、\n地下水道にあるんだ、馬鹿野郎！
+\n
+Hahaha, and I know his hideout! That\n
+stupid kid's in the underground canal!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n俺の眼はごまかせねぇ、 \nあそこには電波も届かねぇしな！ はは！
- \n
-He won't get past me! Those radio \n
+//\n俺の眼はごまかせねぇ、\nあそこには電波も届かねぇしな！ はは！
+\n
+He won't get past me! Those radio\n
 waves can't touch me down there
 <$0C>
-either, haha! 
+either, haha!
 <$00>
 
 // Pos: 000026B0
@@ -249,14 +249,14 @@ either, haha!
 //レッド：
 Red:
 <$0D>
-// \n俺は守られてる、攻撃は効かないんだ、 \n出し抜こうなんて考えは捨てた方がいいぜ！
- \n
-I'm protected! Attacking won't work, \n
+//\n俺は守られてる、攻撃は効かないんだ、\n出し抜こうなんて考えは捨てた方がいいぜ！
+\n
+I'm protected! Attacking won't work,\n
 so just forget the idea that you'll
 <$0C>
 escape!
 <$1E>
 //中
-中 
+中
 <$00>
 

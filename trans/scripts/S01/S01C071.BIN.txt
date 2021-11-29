@@ -14,10 +14,10 @@
 //歪子タトラー船長：
 歪子Captain Tatler:
 <$0D>
-// \nあああ…君は…あああ…まさか！ \n生きていたのか…いや、そんなはずはないぞ！
- \n
-A-are you...? No! There's no way! How \n
-are you alive?! 
+//\nあああ…君は…あああ…まさか！\n生きていたのか…いや、そんなはずはないぞ！
+\n
+A-are you...? No! There's no way! How\n
+are you alive?!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001BB5
@@ -29,10 +29,10 @@ are you alive?!
 //歪子エイプリル：
 歪子April:
 <$0D>
-// \nここは…私の…どうして？ \nもうなくなったはずなのに…
- \n
-This is my...but why? I thought it was \n
-gone! 
+//\nここは…私の…どうして？\nもうなくなったはずなのに…
+\n
+This is my...but why? I thought it was\n
+gone!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001BDF
@@ -44,12 +44,12 @@ gone!
 //歪子ヌーン：
 歪子Noon:
 <$0D>
-// \nママ…ママなの、僕が悪かったの… \nあああ、建う！ ママじゃない、うそだ！
- \n
-Mummy? Mummy, was I bad again? \n
+//\nママ…ママなの、僕が悪かったの…\nあああ、建う！ ママじゃない、うそだ！
+\n
+Mummy? Mummy, was I bad again?\n
 Wait, no! You're not Mummy! You can't
 <$0C>
-be! 
+be!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001C13
@@ -62,10 +62,10 @@ be!
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-// \nみんな、惑わされるんじゃない！ \n何かの…その…幻覚だ。
- \n
-Don't be fooled, everyone...! \n
-These are...hallucinations! 
+//\nみんな、惑わされるんじゃない！\n何かの…その…幻覚だ。
+\n
+Don't be fooled, everyone...!\n
+These are...hallucinations!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001C44
@@ -78,10 +78,10 @@ These are...hallucinations!
 //子ヌーン：
 子Noon:
 <$0D>
-// \n見えたんだ！ 確かに。 \nあれは俺の、俺の…
- \n
-But I saw 'er! I know I did! That was... \n
-That was my...! 
+//\n見えたんだ！ 確かに。\nあれは俺の、俺の…
+\n
+But I saw 'er! I know I did! That was...\n
+That was my...!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001C68
@@ -94,10 +94,10 @@ That was my...!
 //子タトラー船長：
 子Captain Tatler:
 <$0D>
-// \nヌーン、よさないか！ これは幻覚だ、 \nこの星の邪悪な力が作用しているんだ。
- \n
-Get a grip, Noon! It's fake! This is the \n
-planet's wicked power at work! 
+//\nヌーン、よさないか！ これは幻覚だ、\nこの星の邪悪な力が作用しているんだ。
+\n
+Get a grip, Noon! It's fake! This is the\n
+planet's wicked power at work!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001CA7
@@ -106,9 +106,9 @@ planet's wicked power at work!
 
 #WHB(PTR, $00000B15)
 
-//葉顔 \n \n      怪物は心の中にいる。
-The monsters \n
- \n
-      are in the mind. 
+//葉顔\n\n      怪物は心の中にいる。
+The monsters\n
+\n
+      are in the mind.
 <$0E><$FF><$17><$00>
 

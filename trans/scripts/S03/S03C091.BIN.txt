@@ -15,18 +15,18 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあれは… バスルーム… タニアが、
- \n
-It's a bathroom. It's just like the one \n
-Tanya... 
+//\nあれは… バスルーム… タニアが、
+\n
+It's a bathroom. It's just like the one\n
+Tanya...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそうよ、タニアはバスルームで自殺したのよ！
- \n
-That's right. Tanya committed suicide \n
-in that bathroom! 
+//\nそうよ、タニアはバスルームで自殺したのよ！
+\n
+That's right. Tanya committed suicide\n
+in that bathroom!
 <$00>
 
 // Pos: 00001A4D
@@ -35,27 +35,27 @@ in that bathroom!
 
 #WHB(PTR, $00000545)
 
- 
+
 <$00><$0B>
 //        
         
 <$0D>
-//大丈夫かい？ \n
-Are you okay there? \n
+//大丈夫かい？\n
+Are you okay there?\n
 
 <$0B>
 //     
      
 <$0D>
-//何かを見たんだろうけど、 \n
-You must have seen something \n
+//何かを見たんだろうけど、\n
+You must have seen something\n
 
 <$0B>
 //  
   
 <$0D>
 //それがあんたの本質にかかわることだよ。
-that hit too close to home. 
+that hit too close to home.
 <$00>
 
 // Pos: 00001A90
@@ -68,10 +68,10 @@ that hit too close to home.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nどこにいるの？ あなたは？ \nなんでアタシをつらくさせるの？
- \n
-Where are you? WHO are you? \n
-Stay the FUCK out of my head! 
+//\nどこにいるの？ あなたは？\nなんでアタシをつらくさせるの？
+\n
+Where are you? WHO are you?\n
+Stay the FUCK out of my head!
 <$00>
 
 // Pos: 00001AB9
@@ -83,25 +83,25 @@ Stay the FUCK out of my head!
 //子    
 子    
 <$0D>
-//リバーだよ、一緒に来ただろ。 \nあんたはヨランダだね。分かるかい、ヨランダ。 \n
-Please calm down, it's me, Liever. \n
-I came with, Yolanda. \n
+//リバーだよ、一緒に来ただろ。\nあんたはヨランダだね。分かるかい、ヨランダ。\n
+Please calm down, it's me, Liever.\n
+I came with, Yolanda.\n
 It IS Yolanda, right?
 <$0B>
 //   
    
 <$0D>
-//この部屋に苦しみの権化がいるんだ、 \n
+//この部屋に苦しみの権化がいるんだ、\n
 The incarnation of
 <$0C>
-suffering is in this room. \n
+suffering is in this room.\n
 
 <$0B>
 //     
      
 <$0D>
 //そいつを取り除くんだ。
-You have to remove it. 
+You have to remove it.
 <$00>
 
 // Pos: 00001B1A
@@ -114,9 +114,9 @@ You have to remove it.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nうそよ、何も見あたらないわ。
- \n
-I don't see anything! 
+//\nうそよ、何も見あたらないわ。
+\n
+I don't see anything!
 <$00>
 
 // Pos: 00001B34
@@ -125,26 +125,26 @@ I don't see anything!
 
 #WHB(PTR, $00000631)
 
- 
+
 <$00><$0B>
 //    
     
 <$0D>
-//いるんだよ、この部屋に。 \n
-There is a disturbance. \n
+//いるんだよ、この部屋に。\n
+There is a disturbance.\n
 
 <$0B>
 //     
      
 <$0D>
-//どっかそのへんだよ、 \n
-It is here in this room, \n
+//どっかそのへんだよ、\n
+It is here in this room,\n
 
 <$0B>
 //     
      
 <$0D>
 //あんたの近くだよ。
-and it's coming closer. 
+and it's coming closer.
 <$00>
 

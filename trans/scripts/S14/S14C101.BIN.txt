@@ -15,26 +15,26 @@
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nこまったわ。 \n悪夢に入っていけないの。
- \n
-I'm in trouble. I can't enter the \n
-nightmares. 
+//\nこまったわ。\n悪夢に入っていけないの。
+\n
+I'm in trouble. I can't enter the\n
+nightmares.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nどうやらヘロデは \n別な場所にはまりこんだみたいなの。
- \n
-It seems Herod is trapped in some \n
-other location. 
+//\nどうやらヘロデは\n別な場所にはまりこんだみたいなの。
+\n
+It seems Herod is trapped in some\n
+other location.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nそこから声だけが開こえてくるの。 \nこんな内容だった…
- \n
-Wherever that is, I can only hear \n
-voices coming from it. As in... 
+//\nそこから声だけが開こえてくるの。\nこんな内容だった…
+\n
+Wherever that is, I can only hear\n
+voices coming from it. As in...
 <$00>
 
 // Pos: 00002A4F
@@ -47,40 +47,40 @@ voices coming from it. As in...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n今こそ終わりがお前の上に来る…
- \n
-"The end is upon you..." 
+//\n今こそ終わりがお前の上に来る…
+\n
+"The end is upon you..."
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nああ、その後は分からない。 \n開き取れないの。
- \n
-I...wish I could figure out the rest. I \n
-can't hear it. 
+//\nああ、その後は分からない。\n開き取れないの。
+\n
+I...wish I could figure out the rest. I\n
+can't hear it.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nこれは預言じゃない？ \nみんながうわさしてる預言…
- \n
-That's not a prophecy, is it? Like the \n
-ones everyone's talking about? 
+//\nこれは預言じゃない？\nみんながうわさしてる預言…
+\n
+That's not a prophecy, is it? Like the\n
+ones everyone's talking about?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nでもどうして？
- \n
-But why? 
+//\nでもどうして？
+\n
+But why?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nヘロデに預言が分かるとは思えないのに、 \nなぜ？
- \n
-I can't imagine Herod would know the \n
-prophecies, so why? 
+//\nヘロデに預言が分かるとは思えないのに、\nなぜ？
+\n
+I can't imagine Herod would know the\n
+prophecies, so why?
 <$00>
 
 // Pos: 00002AF2
@@ -93,10 +93,10 @@ prophecies, so why?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n預言はその言葉を待つ人のところに \n降りてくるのよ。
- \n
-The words of prophecy come to those \n
-who open themselves to them. 
+//\n預言はその言葉を待つ人のところに\n降りてくるのよ。
+\n
+The words of prophecy come to those\n
+who open themselves to them.
 <$00>
 
 // Pos: 00002B1C
@@ -109,22 +109,22 @@ who open themselves to them.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nなんとか悪夢につなげなきゃ。 \nもう一度、試してみるわ。
- \n
-For now, I have to access the \n
+//\nなんとか悪夢につなげなきゃ。\nもう一度、試してみるわ。
+\n
+For now, I have to access the\n
 nightmares any way I can. I'll try
 <$0C>
-again. 
+again.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nとても集中力がいるから、あなたの持ち物を \n見てあげられなくなるわ。
- \n
-I'll have to concentrate, so I won't be \n
+//\nとても集中力がいるから、あなたの持ち物を\n見てあげられなくなるわ。
+\n
+I'll have to concentrate, so I won't be\n
 able to look at anything else for you
 <$0C>
-meanwhile. 
+meanwhile.
 <$00>
 
 // Pos: 00002B7A
@@ -137,15 +137,15 @@ meanwhile.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nもし、まだ見ていない物があったら \n言ってみて。
- \n
-Before I start, are there any last \n
+//\nもし、まだ見ていない物があったら\n言ってみて。
+\n
+Before I start, are there any last\n
 things you'd like me to look at for you?
 <$1B>
-//？まだある \nもういい
+//？まだある\nもういい
 ？Yes
 <$0C>
-No 
+No
 <$00><$17><$00>
 
 // Pos: 00002BAC
@@ -158,9 +158,9 @@ No
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nじゃあクリスタルボールのところに行ってね。
- \n
-All right, step over to the crystal ball. 
+//\nじゃあクリスタルボールのところに行ってね。
+\n
+All right, step over to the crystal ball.
 <$00>
 
 // Pos: 00002BCF
@@ -173,9 +173,9 @@ All right, step over to the crystal ball.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n分かったわ。
- \n
-I understand. 
+//\n分かったわ。
+\n
+I understand.
 <$00>
 
 // Pos: 00002BE2
@@ -188,37 +188,37 @@ I understand.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nヘロデは迷子になっているのよ。 \n建う次元にはまりこんだみたいなの。
- \n
-I lost Herod. It's almost like he's \n
-trapped in another dimension. 
+//\nヘロデは迷子になっているのよ。\n建う次元にはまりこんだみたいなの。
+\n
+I lost Herod. It's almost like he's\n
+trapped in another dimension.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nきっとあのエネルギーのせいね。 \n大きなエネルギー…
- \n
-I'm sure it's that massive energy I \n
-sense coming from the Face. 
+//\nきっとあのエネルギーのせいね。\n大きなエネルギー…
+\n
+I'm sure it's that massive energy I\n
+sense coming from the Face.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nザ・フェイスの近くに惑じるの。 \nいよいよなのね、この星が…
- \n
-The time's come for the planet to \n
-finally... Tch, time's too short. 
+//\nザ・フェイスの近くに惑じるの。\nいよいよなのね、この星が…
+\n
+The time's come for the planet to\n
+finally... Tch, time's too short.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nああ、ぐずぐずしてはいられない、 \nもう一度つなげてみるわ。悪夢の世界に。
- \n
-For now, I must try connecting to the \n
+//\nああ、ぐずぐずしてはいられない、\nもう一度つなげてみるわ。悪夢の世界に。
+\n
+For now, I must try connecting to the\n
 world of nightmares again.
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00002C9F
@@ -231,18 +231,18 @@ world of nightmares again.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n何かを持ってきたのね。 \nそれを読んであげるわ。
- \n
-I see you have something for me to \n
-read. Shall I read it for you? 
+//\n何かを持ってきたのね。\nそれを読んであげるわ。
+\n
+I see you have something for me to\n
+read. Shall I read it for you?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n夢の中で手に入れたものは、 \nそれを読み終わったら消えてなくなるのよ。
- \n
-The things you find in your dreams will \n
-disappear the moment I read them. 
+//\n夢の中で手に入れたものは、\nそれを読み終わったら消えてなくなるのよ。
+\n
+The things you find in your dreams will\n
+disappear the moment I read them.
 <$00>
 
 // Pos: 00002CFA
@@ -255,12 +255,12 @@ disappear the moment I read them.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nわかったわね、夢の中で手に入れたのものは \nはかないのよ。 消えてしまうわ。
- \n
-You understand, don't you? The things \n
+//\nわかったわね、夢の中で手に入れたのものは\nはかないのよ。 消えてしまうわ。
+\n
+You understand, don't you? The things\n
 you find in your dreams only fleet until
 <$0C>
-they are gone. 
+they are gone.
 <$00>
 
 // Pos: 00002D31
@@ -273,12 +273,12 @@ they are gone.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあら、これも同じね。 \n夢の中で手に入れたものとおなじ… \nはかないわ、消えてしまうわ。
- \n
-The things you find in your dreams, \n
+//\nあら、これも同じね。\n夢の中で手に入れたものとおなじ…\nはかないわ、消えてしまうわ。
+\n
+The things you find in your dreams,\n
 even this, only fleet until they are
 <$0C>
-gone. 
+gone.
 <$00>
 
 // Pos: 00002D6E
@@ -291,20 +291,20 @@ gone.
 //スペーサー：
 Spacer:
 <$0D>
-// \n物の記憶… はたして本当に物なのか？
- \n
-The things we remember... I suppose \n
-they do count as "things", don't they. 
+//\n物の記憶… はたして本当に物なのか？
+\n
+The things we remember... I suppose\n
+they do count as "things", don't they.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nそれとも
- \n
+//\nそれとも
+\n
 Otherwise, how would 
 <$0F>
-//が落とした \n記憶のかけらなのか？
- be able to lose touch with them? 
+//が落とした\n記憶のかけらなのか？
+ be able to lose touch with them?
 <$00>
 
 // Pos: 00002DB5
@@ -317,22 +317,22 @@ Otherwise, how would
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nこれは… ありふれたものなのかしら… \nあなたの役には立ちそうね。
- \n
-This is trite, perhaps, but I wonder if \n
+//\nこれは… ありふれたものなのかしら…\nあなたの役には立ちそうね。
+\n
+This is trite, perhaps, but I wonder if\n
 this came into your possession in order
 <$0C>
-to help you. 
+to help you.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n夢の中で何かを手に入れることもあるのよ。 \nそういったものは、多くのことを \n教えてくれるのよ。
- \n
-The things you find in your dreams are \n
+//\n夢の中で何かを手に入れることもあるのよ。\nそういったものは、多くのことを\n教えてくれるのよ。
+\n
+The things you find in your dreams are\n
 often there to teach you powerful
 <$0C>
-lessons. 
+lessons.
 <$00>
 
 // Pos: 00002E24
@@ -344,52 +344,52 @@ lessons.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n見えてきたわ… 白い部屋よ…
- \n
-I see it now... A white room... 
+//\n見えてきたわ… 白い部屋よ…
+\n
+I see it now... A white room...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n少女が見えるわ… かわいい少女…
- \n
-I see a young girl. A darling young girl... 
+//\n少女が見えるわ… かわいい少女…
+\n
+I see a young girl. A darling young girl...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあの子、そうよ、あの子は \nエイプリルじゃないの、すごく似ている、 \nそっくりよ。とても美しいわ。
- \n
-Is this...April? ...No, but she's \n
+//\nあの子、そうよ、あの子は\nエイプリルじゃないの、すごく似ている、\nそっくりよ。とても美しいわ。
+\n
+Is this...April? ...No, but she's\n
 remarkably similar, and remarkably
 <$0C>
-beautiful. 
+beautiful.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n歪んで見える… ここはどこかしら… \n何かが光ってるわ…
- \n
-The image contorts... Did something \n
+//\n歪んで見える… ここはどこかしら…\n何かが光ってるわ…
+\n
+The image contorts... Did something\n
 happen? A strange light shines into the
 <$0C>
-room. 
+room.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n氷ね、まわりに氷がいっぱいのところに \n埋まってたのね。
- \n
-And now, there is ice. We are buried in a \n
-room full of ice. 
+//\n氷ね、まわりに氷がいっぱいのところに\n埋まってたのね。
+\n
+And now, there is ice. We are buried in a\n
+room full of ice.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n人が動く様子も見えるけど… \nよく分からないわ。 氷の中よ。
- \n
-I can see people moving, but I'm not \n
-sure. Everyone is in the ice. 
+//\n人が動く様子も見えるけど…\nよく分からないわ。 氷の中よ。
+\n
+I can see people moving, but I'm not\n
+sure. Everyone is in the ice.
 <$00>
 
 // Pos: 00002F22
@@ -401,10 +401,10 @@ sure. Everyone is in the ice.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nディセンバー、春のような１２月よ。 \n１台のバスが見えるわ。
- \n
-December, the window to new spring. \n
-I see a bus in the distance. 
+//\nディセンバー、春のような１２月よ。\n１台のバスが見えるわ。
+\n
+December, the window to new spring.\n
+I see a bus in the distance.
 <$00>
 
 // Pos: 00002F4E
@@ -416,30 +416,30 @@ I see a bus in the distance.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n小さな男の子の手を引いた… \n男の子はあなたね、あなたとお母さんよ、 \nふたりがバスから降りてくる。
- \n
-A little boy's hand is pulled. \n
+//\n小さな男の子の手を引いた…\n男の子はあなたね、あなたとお母さんよ、\nふたりがバスから降りてくる。
+\n
+A little boy's hand is pulled.\n
 The boy is you, with your mother.
 <$0C>
-You two are getting off a bus. 
+You two are getting off a bus.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nポーチでむかえているのは… お父さん… \nウラジミールよ、あなたの新しいお父さん。 \n赤ら顔なのね。
- \n
-Waiting on the porch is Vladimir...your \n
+//\nポーチでむかえているのは… お父さん…\nウラジミールよ、あなたの新しいお父さん。\n赤ら顔なのね。
+\n
+Waiting on the porch is Vladimir...your\n
 new father. His face is flushed when
 <$0C>
-you meet him. 
+you meet him.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n離れた窓にもうひとり… これがセルゲイね。 \nじっとあなたたちをうかがってるわ。 \n彼はとても暗い目をしているわ。
- \n
-Watching you all from the window is \n
-Sergei. His eyes are so, so dark. 
+//\n離れた窓にもうひとり… これがセルゲイね。\nじっとあなたたちをうかがってるわ。\n彼はとても暗い目をしているわ。
+\n
+Watching you all from the window is\n
+Sergei. His eyes are so, so dark.
 <$00>
 
 // Pos: 0000301D
@@ -451,29 +451,29 @@ Sergei. His eyes are so, so dark.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nフェブラリー、凍える２月ね。
- \n
-February, freezing February. 
+//\nフェブラリー、凍える２月ね。
+\n
+February, freezing February.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n地下室よ、あなたはどうしてかしら、 \nびしょぬれになってふるえているわ。
- \n
-We're in a basement. I don't know why, \n
+//\n地下室よ、あなたはどうしてかしら、\nびしょぬれになってふるえているわ。
+\n
+We're in a basement. I don't know why,\n
 but you're soaking wet, and you're
 <$0C>
-shaking. 
+shaking.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n階段の上に誰かが立っている… \n声よ… 声がするわ…
- \n
-Someone stands at the top of the \n
+//\n階段の上に誰かが立っている…\n声よ… 声がするわ…
+\n
+Someone stands at the top of the\n
 basement stairs. They speak, and the
 <$0C>
-voice is... 
+voice is...
 <$00>
 
 // Pos: 00003098
@@ -485,9 +485,9 @@ voice is...
 //X（いだろ、
 X（It's cold, isn't it, 
 <$0F>
-//、 \n俺があたためてやるぜ…
-? \n
-Here, I'll warm you up! 
+//、\n俺があたためてやるぜ…
+?\n
+Here, I'll warm you up!
 <$00>
 
 // Pos: 000030AE
@@ -499,9 +499,9 @@ Here, I'll warm you up!
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nこの声の主はセルゲイね。
- \n
-The voice is Sergei's. 
+//\nこの声の主はセルゲイね。
+\n
+The voice is Sergei's.
 <$00>
 
 // Pos: 000030C9
@@ -513,27 +513,27 @@ The voice is Sergei's.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n煙、白い煙が見える… \n火？ 建うわ、あれは火じゃない、 \n真っ赤になった火かき棒よ。
- \n
-Smoke. I see a white smoke. Is it fire? \n
+//\n煙、白い煙が見える…\n火？ 建うわ、あれは火じゃない、\n真っ赤になった火かき棒よ。
+\n
+Smoke. I see a white smoke. Is it fire?\n
 No...it's the bright, searing end of a
 <$0C>
-fire hook. 
+fire hook.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nああ、おそろしいこと、セルゲイはあなたに \nその火かき棒を押し当てているの。
- \n
-Oh, how horrid! Sergei is jabbing the \n
-end of the fire hook into your flesh! 
+//\nああ、おそろしいこと、セルゲイはあなたに\nその火かき棒を押し当てているの。
+\n
+Oh, how horrid! Sergei is jabbing the\n
+end of the fire hook into your flesh!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたは気を失ってる… \nなんてことなの…
- \n
-You faint... The pain is too much. 
+//\nあなたは気を失ってる…\nなんてことなの…
+\n
+You faint... The pain is too much.
 <$00>
 
 // Pos: 0000315F
@@ -545,20 +545,20 @@ You faint... The pain is too much.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nオーガスト、寝付けない８月の夜よ。 \n見えているのはキッチンね…
- \n
-Another sleepless night in August, I \n
-see. We're in the kitchen this time. 
+//\nオーガスト、寝付けない８月の夜よ。\n見えているのはキッチンね…
+\n
+Another sleepless night in August, I\n
+see. We're in the kitchen this time.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nフライパンやなべがぶつかりあう音がするわ… \nいやな惑じよ。
- \n
-I can hear the sound of pots and pans \n
+//\nフライパンやなべがぶつかりあう音がするわ…\nいやな惑じよ。
+\n
+I can hear the sound of pots and pans\n
 banging together. It's a revolting
 <$0C>
-scene. 
+scene.
 <$00>
 
 // Pos: 000031BA
@@ -570,28 +570,28 @@ scene.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nウラジミールよ、わめきながら暴れてる… \nいろんな物を壊している、
- \n
-Vladimir is there, screaming and \n
+//\nウラジミールよ、わめきながら暴れてる…\nいろんな物を壊している、
+\n
+Vladimir is there, screaming and\n
 raging. He's breaking everything in
 <$0C>
-sight. 
+sight.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nああ、あれはお母さん、タニアって名前ね… \nテーブルのわきにしゃがみ込んでる。
- \n
-And there's your mother, Tanya. She's \n
-crouching behind the table. 
+//\nああ、あれはお母さん、タニアって名前ね…\nテーブルのわきにしゃがみ込んでる。
+\n
+And there's your mother, Tanya. She's\n
+crouching behind the table.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nなぐられたのね、顔に青いあざができてるわ。
- \n
-She must have been struck. I see a dark \n
-bruise on her face. 
+//\nなぐられたのね、顔に青いあざができてるわ。
+\n
+She must have been struck. I see a dark\n
+bruise on her face.
 <$00>
 
 // Pos: 00003242
@@ -603,38 +603,38 @@ bruise on her face.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nジュン、悲しみの６月よ。 \nまたキッチンね… 今度は夜じゃないわね、
- \n
-June is the month of grief. We are in the \n
+//\nジュン、悲しみの６月よ。\nまたキッチンね… 今度は夜じゃないわね、
+\n
+June is the month of grief. We are in the\n
 kitchen, but in this visiom, it is not
 <$0C>
-nighttime. 
+nighttime.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nタニア母さんがひとり… \nなんだか考えごとの最中みたいね…
- \n
-Your mother, Tanya, is alone. She \n
-appears lost in thought. 
+//\nタニア母さんがひとり…\nなんだか考えごとの最中みたいね…
+\n
+Your mother, Tanya, is alone. She\n
+appears lost in thought.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n独り言よ、何か言ってるわ… \n口が動いてる…
- \n
-She is talking to herself. As she \n
+//\n独り言よ、何か言ってるわ…\n口が動いてる…
+\n
+She is talking to herself. As she\n
 mumbles, words come out from under
 <$0C>
-her breath. 
+her breath.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nああ、これ以上は伝わってこないわ。
- \n
-Alas, that's all I can make of the \n
-situation. 
+//\nああ、これ以上は伝わってこないわ。
+\n
+Alas, that's all I can make of the\n
+situation.
 <$00>
 
 // Pos: 000032E5
@@ -646,10 +646,10 @@ situation.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nセプテンバーは９月、実りのときね。 \n今までとは建う惑じね… うまく見えないわ。 \nちょっと待ってね…
- \n
-September is a month of harvest. This \n
-makes it ripe with uncertainty. Wait... 
+//\nセプテンバーは９月、実りのときね。\n今までとは建う惑じね… うまく見えないわ。\nちょっと待ってね…
+\n
+September is a month of harvest. This\n
+makes it ripe with uncertainty. Wait...
 <$00>
 
 // Pos: 00003329
@@ -661,19 +661,19 @@ makes it ripe with uncertainty. Wait...
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n夜のキッチンね。 でも今度は静かね… \nあなたとタニア母さんが見えるわ、 \n何かひそひそ話し合ってる…
- \n
-I see a kitchen on a quiet night. Both you \n
+//\n夜のキッチンね。 でも今度は静かね…\nあなたとタニア母さんが見えるわ、\n何かひそひそ話し合ってる…
+\n
+I see a kitchen on a quiet night. Both you\n
 and Tanya there. You meet to in secret
 <$0C>
-to discuss something. 
+to discuss something.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n何か恐ろしいことが起きそうよ。
- \n
-Something scary is about to happen. 
+//\n何か恐ろしいことが起きそうよ。
+\n
+Something scary is about to happen.
 <$00>
 
 // Pos: 0000338B
@@ -685,12 +685,12 @@ Something scary is about to happen.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nマーチは３月、芽吹く春ね。 \nでもやっぱり様子が変よ、 \nこんな風になったことはなかった…
- \n
-March is the budding of spring, no? \n
+//\nマーチは３月、芽吹く春ね。\nでもやっぱり様子が変よ、\nこんな風になったことはなかった…
+\n
+March is the budding of spring, no?\n
 Still, I feel strange about this in a way I
 <$0C>
-haven't before. 
+haven't before.
 <$00>
 
 // Pos: 000033CA
@@ -702,28 +702,28 @@ haven't before.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nあああ、真っ赤な炎よ、夜を染める炎… \n火事みたいね。 誰かが叫んでる…
- \n
-Gasp! The deep night sky is stained by a \n
+//\nあああ、真っ赤な炎よ、夜を染める炎…\n火事みたいね。 誰かが叫んでる…
+\n
+Gasp! The deep night sky is stained by a\n
 red flame. It's a fire. Someone
 <$0C>
-screams. 
+screams.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあれは、ウラジミールね、 \nよほどあわててるみたい…
- \n
-Ah, that's Vladimir's voice I hear. He is \n
-panicked to the core. 
+//\nあれは、ウラジミールね、\nよほどあわててるみたい…
+\n
+Ah, that's Vladimir's voice I hear. He is\n
+panicked to the core.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nでもごめんなさい、 \nここまでしか分からないわ。
- \n
-...I'm sorry. That's all I can make sense \n
-of. 
+//\nでもごめんなさい、\nここまでしか分からないわ。
+\n
+...I'm sorry. That's all I can make sense\n
+of.
 <$00>
 
 // Pos: 0000344C
@@ -735,12 +735,12 @@ of.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n冷たい霧の朝、１１月… \n制服を着た男がふたり、ポーチにいるわ。 \nはげしくドアをノックしてる…
- \n
-A cold, foggy November morning. Two \n
+//\n冷たい霧の朝、１１月…\n制服を着た男がふたり、ポーチにいるわ。\nはげしくドアをノックしてる…
+\n
+A cold, foggy November morning. Two\n
 policemen stand on the porch, banging
 <$0C>
-the door. 
+the door.
 <$00>
 
 // Pos: 0000348F
@@ -752,18 +752,18 @@ the door.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n出てきたのはセルゲイよ。 \n左右の手が後ろに…
- \n
-The one to answer is Sergei. His hands \n
-are placed behind his back. 
+//\n出てきたのはセルゲイよ。\n左右の手が後ろに…
+\n
+The one to answer is Sergei. His hands\n
+are placed behind his back.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nさっきの制服の男は警官だったのね、 \nセルゲイが連行されて行くわ。 \nそして霧のカーテンが降りる…
- \n
-The men here to take Sergei away. The \n
-foggy curtain is lifted. 
+//\nさっきの制服の男は警官だったのね、\nセルゲイが連行されて行くわ。\nそして霧のカーテンが降りる…
+\n
+The men here to take Sergei away. The\n
+foggy curtain is lifted.
 <$00>
 
 // Pos: 000034FC
@@ -775,20 +775,20 @@ foggy curtain is lifted.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nジャニュアリー、始まりの１月よ。 \n見えるのは…
- \n
-January, the month of new \n
-beginnings. What will I find here...? 
+//\nジャニュアリー、始まりの１月よ。\n見えるのは…
+\n
+January, the month of new\n
+beginnings. What will I find here...?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあああ、なまなましい暴力のあと… \nイスやスタンドがひっくり返されているわ、 \n知らない家よ。
- \n
-Ah, the fresh aftermath of a skirmish. \n
+//\nあああ、なまなましい暴力のあと…\nイスやスタンドがひっくり返されているわ、\n知らない家よ。
+\n
+Ah, the fresh aftermath of a skirmish.\n
 Chairs and floor lamps are turned over
 <$0C>
-in a strange home. 
+in a strange home.
 <$00>
 
 // Pos: 00003560
@@ -800,28 +800,28 @@ in a strange home.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n誰か… 人がうつぶせになっている…
- \n
-Someone...lies face-down on the \n
-floor. 
+//\n誰か… 人がうつぶせになっている…
+\n
+Someone...lies face-down on the\n
+floor.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n変ね、頭から血を流しているわ… \n老人のようね、死んでいるの…
- \n
-Blood seeps from his head. This old man \n
-is dying. 
+//\n変ね、頭から血を流しているわ…\n老人のようね、死んでいるの…
+\n
+Blood seeps from his head. This old man\n
+is dying.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n部屋はひどいありさまだわ、 \n強盗が入ったあとみたいね、恐ろしいわ。
- \n
-The room lies with him in a terrible \n
+//\n部屋はひどいありさまだわ、\n強盗が入ったあとみたいね、恐ろしいわ。
+\n
+The room lies with him in a terrible\n
 state. This is the aftermath of a
 <$0C>
-robbery. Truly upsetting. 
+robbery. Truly upsetting.
 <$00>
 
 // Pos: 000035E2
@@ -833,28 +833,28 @@ robbery. Truly upsetting.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nメイは５月、光の月ね。 \n見えているのは…
- \n
-May is the month of bright light. Now, \n
-what do I see here... 
+//\nメイは５月、光の月ね。\n見えているのは…
+\n
+May is the month of bright light. Now,\n
+what do I see here...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nさっきと同じ、なんだか様子が変ね。 \nあそこにいるのは…
- \n
-Like before, something feels, in ways, \n
+//\nさっきと同じ、なんだか様子が変ね。\nあそこにいるのは…
+\n
+Like before, something feels, in ways,\n
 unusual. Across from me are two
 <$0C>
-people... 
+people...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nたぶんあなたとタニア母さんね。 \nとっても遠い惑じよ。
- \n
-It could be you and Tanya, but you're \n
-very far away. 
+//\nたぶんあなたとタニア母さんね。\nとっても遠い惑じよ。
+\n
+It could be you and Tanya, but you're\n
+very far away.
 <$00>
 
 // Pos: 0000365A
@@ -866,21 +866,21 @@ very far away.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n部屋の中みたいね… \nクロゼットの前であなたとお母さん、誰の…
- \n
-It appears we're in a bedroom. You and \n
+//\n部屋の中みたいね…\nクロゼットの前であなたとお母さん、誰の…
+\n
+It appears we're in a bedroom. You and\n
 your mother stand in front of a closet.
 <$0C>
-Is it yours, or... 
+Is it yours, or...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nああ、セルゲイよ、セルゲイの部屋、 \nクロゼットを開いて… 分かるのはここまでよ。 \n
- \n
-...no, it's Sergei's. This is his closet. His \n
+//\nああ、セルゲイよ、セルゲイの部屋、\nクロゼットを開いて… 分かるのはここまでよ。\n
+\n
+...no, it's Sergei's. This is his closet. His\n
 closet is open. That's all I can tell.
-<$0C> 
+<$0C>
 <$00>
 
 // Pos: 000036C2
@@ -892,10 +892,10 @@ closet is open. That's all I can tell.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n風が心地よい朝、７月… なのに、光はないわ。 \nうっすらと人の影、あれはウラジミールね。
- \n
-I feel the soft breeze of a crisp July \n
-morning, but there is no light. 
+//\n風が心地よい朝、７月… なのに、光はないわ。\nうっすらと人の影、あれはウラジミールね。
+\n
+I feel the soft breeze of a crisp July\n
+morning, but there is no light.
 <$00>
 
 // Pos: 00003701
@@ -907,18 +907,18 @@ morning, but there is no light.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nウラジミールがキッチンにいるわ、 \nしゃがみ込んでる。
- \n
-I see only the faint shadow of Vladimir, \n
-slouched down on the kitchen floor. 
+//\nウラジミールがキッチンにいるわ、\nしゃがみ込んでる。
+\n
+I see only the faint shadow of Vladimir,\n
+slouched down on the kitchen floor.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n顔色がさえないわね、土気色よ。 \nそれになんだか苦しそうよ、 \n今にも死にそうよ。
- \n
-His complexion rides a deathly pale. \n
-He's in pain, as if about to die. 
+//\n顔色がさえないわね、土気色よ。\nそれになんだか苦しそうよ、\n今にも死にそうよ。
+\n
+His complexion rides a deathly pale.\n
+He's in pain, as if about to die.
 <$00>
 
 // Pos: 00003763
@@ -930,9 +930,9 @@ He's in pain, as if about to die.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nあら、これは… マラケシュのアレね…
- \n
-Oh? This is...Marrakech's, is it? 
+//\nあら、これは… マラケシュのアレね…
+\n
+Oh? This is...Marrakech's, is it?
 <$00>
 
 // Pos: 00003782
@@ -944,18 +944,18 @@ Oh? This is...Marrakech's, is it?
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nちょっと待って… \n見えるわ、マラケシュよ、誰かのあとを…
- \n
-Give me a moment to look. There. I see \n
-Marrakech. She is following someone. 
+//\nちょっと待って…\n見えるわ、マラケシュよ、誰かのあとを…
+\n
+Give me a moment to look. There. I see\n
+Marrakech. She is following someone.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n見つからないようにしながら… \nなにしてるのかしらね。
- \n
-I can't get a good look, I think. What is \n
-she doing? 
+//\n見つからないようにしながら…\nなにしてるのかしらね。
+\n
+I can't get a good look, I think. What is\n
+she doing?
 <$00>
 
 // Pos: 000037D3
@@ -971,30 +971,30 @@ she doing?
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nリンダよ、 \nマラケシュはリンダをさぐってるのよ…
- \n
-It's Linda. Marrakech is following \n
-Linda. 
+//\nリンダよ、\nマラケシュはリンダをさぐってるのよ…
+\n
+It's Linda. Marrakech is following\n
+Linda.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n待って… \nリンダが鏡の部屋から出てきて、 \nカベの前でなにかやってるわ。
- \n
-Wait, Linda stepped out of the mirror \n
+//\n待って…\nリンダが鏡の部屋から出てきて、\nカベの前でなにかやってるわ。
+\n
+Wait, Linda stepped out of the mirror\n
 room, and is doing something in front
 <$0C>
-of a wall. 
+of a wall.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n口が動いてる、カベに話しかけてる、 \n何かとなえてるのかしら。
- \n
-Her mouth is moving. She's mumbling, \n
+//\n口が動いてる、カベに話しかけてる、\n何かとなえてるのかしら。
+\n
+Her mouth is moving. She's mumbling,\n
 talking to the wall, but I don't know
 <$0C>
-what she's saying. 
+what she's saying.
 <$00>
 
 // Pos: 00003859
@@ -1006,26 +1006,26 @@ what she's saying.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nあら、ブーマーのアレよね…
- \n
-Oh? This is...Boomer's, I see. 
+//\nあら、ブーマーのアレよね…
+\n
+Oh? This is...Boomer's, I see.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n少し見えてきたわ… \n変ね、しゃっくりでもしてるみたいに、 \n体が小きざみに動いてる。
- \n
-I can see a little. It's strange, but his \n
+//\n少し見えてきたわ…\n変ね、しゃっくりでもしてるみたいに、\n体が小きざみに動いてる。
+\n
+I can see a little. It's strange, but his\n
 body is making small twitches. It's like
 <$0C>
-he's hiccupping. 
+he's hiccupping.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nどうしたのかしらね。
- \n
-I wonder what the matter is. 
+//\nどうしたのかしらね。
+\n
+I wonder what the matter is.
 <$00>
 
 // Pos: 000038C3
@@ -1041,20 +1041,20 @@ I wonder what the matter is.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nブリックロードよ… \n赤い家の中にブーマーがいるわ。
- \n
-Boomer is inside...of the red house on \n
-Brick Road. 
+//\nブリックロードよ…\n赤い家の中にブーマーがいるわ。
+\n
+Boomer is inside...of the red house on\n
+Brick Road.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nなにやらしきりに頭を動かしてる… \n体は相変わらず小きざみに上下してるわ。 \nいつものブーマーじゃないみたいね。
- \n
-His body is heaving in the tiniest \n
+//\nなにやらしきりに頭を動かしてる…\n体は相変わらず小きざみに上下してるわ。\nいつものブーマーじゃないみたいね。
+\n
+His body is heaving in the tiniest\n
 convulsions. This isn't the Boomer I
 <$0C>
-know. 
+know.
 <$00>
 
 // Pos: 00003936
@@ -1066,30 +1066,30 @@ know.
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \nこれは… \nクロウのアレだわ、ずいぶんと古そうね。
- \n
-Is that...Crow? It's Crow, as a child. \n
-This must be very old. 
+//\nこれは…\nクロウのアレだわ、ずいぶんと古そうね。
+\n
+Is that...Crow? It's Crow, as a child.\n
+This must be very old.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nさて何が見えるかしら… \n穴の中に何かあるわ、白っぽいもの…
- \n
-There's a hole in the ground. Crow is \n
+//\nさて何が見えるかしら…\n穴の中に何かあるわ、白っぽいもの…
+\n
+There's a hole in the ground. Crow is\n
 looking down the hole, at something
 <$0C>
-whitish... 
+whitish...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nいやだ、あれは子猫よ、死んでるみたいね。 \n生き埋めにしたのね、それを掘り返してる。 \nあれはクロウよ、子供のころのクロウよ…
- \n
-Oh no, it's a kitten! And it's dead! It was \n
+//\nいやだ、あれは子猫よ、死んでるみたいね。\n生き埋めにしたのね、それを掘り返してる。\nあれはクロウよ、子供のころのクロウよ…
+\n
+Oh no, it's a kitten! And it's dead! It was\n
 buried alive, but Crow is digging the
 <$0C>
-corpse back up...! 
+corpse back up...!
 <$00>
 
 // Pos: 000039DA
@@ -1105,28 +1105,28 @@ corpse back up...!
 //子マダム・アガタ：
 子Madam Agatha:
 <$0D>
-// \n地下室みたいなところよ、 \n古びたコンロが見えるわ、 \n上にナベが乗ってる、
- \n
-He's in some sort of cellar. I see an old \n
-gas burner with a saucepan on top. 
+//\n地下室みたいなところよ、\n古びたコンロが見えるわ、\n上にナベが乗ってる、
+\n
+He's in some sort of cellar. I see an old\n
+gas burner with a saucepan on top.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nああ、猫よ、さっきの死体がナベの中に… \nああ、コンロに火がついて…
- \n
-No, it's the cat! The corpse from before \n
+//\nああ、猫よ、さっきの死体がナベの中に…\nああ、コンロに火がついて…
+\n
+No, it's the cat! The corpse from before\n
 is in the saucepan! The fire on the stove
 <$0C>
-is on! 
+is on!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあああ、いやよ、怖ろしいこと… \nなんてこと…
- \n
-No, no, no, what is happening?! I can't \n
-look anymore! 
+//\nあああ、いやよ、怖ろしいこと…\nなんてこと…
+\n
+No, no, no, what is happening?! I can't\n
+look anymore!
 <$00>
 
 // Pos: 00003A66
@@ -1135,7 +1135,7 @@ look anymore!
 
 #WHB(PTR, $000027B9)
 
- 
+
 <$00><$00>
 
 // Pos: 00003A68
@@ -1144,7 +1144,7 @@ look anymore!
 
 #WHB(PTR, $000027BD)
 
- 
+
 <$00><$00>
 
 // Pos: 00003A6A
@@ -1154,7 +1154,7 @@ look anymore!
 #WHB(PTR, $000027C1)
 
 //マラケシュフラワー
-Marrakech Flower 
+Marrakech Flower
 <$00>
 
 // Pos: 00003A74
@@ -1164,7 +1164,7 @@ Marrakech Flower
 #WHB(PTR, $000027C5)
 
 //花の命ははかない？
-A flower, wilted? 
+A flower, wilted?
 <$00>
 
 // Pos: 00003A80
@@ -1174,7 +1174,7 @@ A flower, wilted?
 #WHB(PTR, $000027C9)
 
 //ブーマーズナイト
-Boomer Night 
+Boomer Night
 <$00><$00>
 
 // Pos: 00003A8A
@@ -1184,7 +1184,7 @@ Boomer Night
 #WHB(PTR, $000027CD)
 
 //怖い夜って？
-A scary evening? 
+A scary evening?
 <$00><$00>
 
 // Pos: 00003A94
@@ -1194,7 +1194,7 @@ A scary evening?
 #WHB(PTR, $000027D1)
 
 //クロウドリーム
-Crow Dream 
+Crow Dream
 <$00>
 
 // Pos: 00003A9C
@@ -1204,7 +1204,7 @@ Crow Dream
 #WHB(PTR, $000027D5)
 
 //夢の散歩者？
-A strolling dream? 
+A strolling dream?
 <$00><$00>
 
 // Pos: 00003AA8
@@ -1214,7 +1214,7 @@ A strolling dream?
 #WHB(PTR, $000027D9)
 
 //ジャニュアリー
-January 
+January
 <$00>
 
 // Pos: 00003AB0
@@ -1224,7 +1224,7 @@ January
 #WHB(PTR, $000027DD)
 
 //始まりの１月
-When solemnity began? 
+When solemnity began?
 <$00><$00>
 
 // Pos: 00003ABA
@@ -1234,7 +1234,7 @@ When solemnity began?
 #WHB(PTR, $000027E1)
 
 //フェブラリー
-February 
+February
 <$00><$00>
 
 // Pos: 00003AC2
@@ -1244,7 +1244,7 @@ February
 #WHB(PTR, $000027E5)
 
 //凍える２月
-When everything froze? 
+When everything froze?
 <$00>
 
 // Pos: 00003ACA
@@ -1254,7 +1254,7 @@ When everything froze?
 #WHB(PTR, $000027E9)
 
 //マーチ
-March 
+March
 <$00>
 
 // Pos: 00003ACE
@@ -1264,7 +1264,7 @@ March
 #WHB(PTR, $000027ED)
 
 //３月、芽吹く春
-When new life budded? 
+When new life budded?
 <$00><$00>
 
 // Pos: 00003ADA
@@ -1274,7 +1274,7 @@ When new life budded?
 #WHB(PTR, $000027F1)
 
 //メイ
-May 
+May
 <$00><$00>
 
 // Pos: 00003ADE
@@ -1284,7 +1284,7 @@ May
 #WHB(PTR, $000027F5)
 
 //５月、光のシーズン
-When light came down? 
+When light came down?
 <$00>
 
 // Pos: 00003AEA
@@ -1294,7 +1294,7 @@ When light came down?
 #WHB(PTR, $000027F9)
 
 //ジュン
-June 
+June
 <$00>
 
 // Pos: 00003AEE
@@ -1304,7 +1304,7 @@ June
 #WHB(PTR, $000027FD)
 
 //悲しみの６月
-When sadness deepened? 
+When sadness deepened?
 <$00><$00>
 
 // Pos: 00003AF8
@@ -1314,7 +1314,7 @@ When sadness deepened?
 #WHB(PTR, $00002801)
 
 //ジュライ
-July 
+July
 <$00><$00>
 
 // Pos: 00003AFE
@@ -1324,7 +1324,7 @@ July
 #WHB(PTR, $00002805)
 
 //風の７月
-When breezes soothed? 
+When breezes soothed?
 <$00><$00>
 
 // Pos: 00003B06
@@ -1334,7 +1334,7 @@ When breezes soothed?
 #WHB(PTR, $00002809)
 
 //オーガスト
-August 
+August
 <$00>
 
 // Pos: 00003B0C
@@ -1344,7 +1344,7 @@ August
 #WHB(PTR, $0000280D)
 
 //寝付けない８月の夜
-When nights were longest? 
+When nights were longest?
 <$00>
 
 // Pos: 00003B1A
@@ -1354,7 +1354,7 @@ When nights were longest?
 #WHB(PTR, $00002811)
 
 //セプテンバー
-September 
+September
 <$00><$00>
 
 // Pos: 00003B22
@@ -1364,7 +1364,7 @@ September
 #WHB(PTR, $00002815)
 
 //９月、実り
-When miracles were due? 
+When miracles were due?
 <$00>
 
 // Pos: 00003B2A
@@ -1374,7 +1374,7 @@ When miracles were due?
 #WHB(PTR, $00002819)
 
 //ノベンバー
-November 
+November
 <$00>
 
 // Pos: 00003B30
@@ -1384,7 +1384,7 @@ November
 #WHB(PTR, $0000281D)
 
 //冷たい朝、１１月
-When fog closed in? 
+When fog closed in?
 <$00>
 
 // Pos: 00003B3C
@@ -1394,7 +1394,7 @@ When fog closed in?
 #WHB(PTR, $00002821)
 
 //ディセンバー
-December 
+December
 <$00><$00>
 
 // Pos: 00003B44
@@ -1404,7 +1404,7 @@ December
 #WHB(PTR, $00002825)
 
 //春のような１２月
-When omens were realized? 
+When omens were realized?
 <$00>
 
 // Pos: 00003B4E
@@ -1415,7 +1415,7 @@ When omens were realized?
 
 <$08>
 //砂のシンパシー
-Sand Sympathy 
+Sand Sympathy
 <$05><$00><$00>
 
 // Pos: 00003B5A
@@ -1425,7 +1425,7 @@ Sand Sympathy
 #WHB(PTR, $0000282D)
 
 //ダミアヌスを呼び出す
-Calls for Damian 
+Calls for Damian
 <$00><$00>
 
 // Pos: 00003B68
@@ -1436,7 +1436,7 @@ Calls for Damian
 
 <$08>
 //銀のカプセル
-Silver Capsule 
+Silver Capsule
 <$05><$00>
 
 // Pos: 00003B72
@@ -1446,7 +1446,7 @@ Silver Capsule
 #WHB(PTR, $00002835)
 
 //５つの預言をしまう
-Stores the five propechies 
+Stores the five propechies
 <$00><$00>
 
 // Pos: 00003B7E
@@ -1457,7 +1457,7 @@ Stores the five propechies
 
 <$08>
 //赤い石
-Red Stone 
+Red Stone
 <$05><$00>
 
 // Pos: 00003B86
@@ -1467,7 +1467,7 @@ Red Stone
 #WHB(PTR, $0000283D)
 
 //赤い石
-Red Stone 
+Red Stone
 <$00>
 
 // Pos: 00003B8C
@@ -1478,7 +1478,7 @@ Red Stone
 
 <$08>
 //青い石
-Blue Stone 
+Blue Stone
 <$05><$00>
 
 // Pos: 00003B94
@@ -1488,7 +1488,7 @@ Blue Stone
 #WHB(PTR, $00002845)
 
 //青い石
-Blue Stone 
+Blue Stone
 <$00>
 
 // Pos: 00003B9A
@@ -1499,7 +1499,7 @@ Blue Stone
 
 <$08>
 //白い石
-White Stone 
+White Stone
 <$05><$00>
 
 // Pos: 00003BA2
@@ -1509,7 +1509,7 @@ White Stone
 #WHB(PTR, $0000284D)
 
 //白い石
-White Stone 
+White Stone
 <$00>
 
 // Pos: 00003BA8
@@ -1524,7 +1524,7 @@ White Stone
 
 <$08>
 //黄色い石
-Yellow Stone 
+Yellow Stone
 <$05><$00>
 
 // Pos: 00003BB2
@@ -1534,7 +1534,7 @@ Yellow Stone
 #WHB(PTR, $00002855)
 
 //黄色い石
-Yellow Stone 
+Yellow Stone
 <$00>
 
 // Pos: 00003BBA
@@ -1545,7 +1545,7 @@ Yellow Stone
 
 <$08>
 //綠の石
-Green Stone 
+Green Stone
 <$05><$00>
 
 // Pos: 00003BC2
@@ -1555,7 +1555,7 @@ Green Stone
 #WHB(PTR, $0000285D)
 
 //綠の石
-Green Stone 
+Green Stone
 <$00>
 
 // Pos: 00003BC8
@@ -1565,7 +1565,7 @@ Green Stone
 #WHB(PTR, $00002861)
 
 //Pカプセル
-P Capsule 
+P Capsule
 <$00>
 
 // Pos: 00003BCE
@@ -1575,7 +1575,7 @@ P Capsule
 #WHB(PTR, $00002865)
 
 //知悪を増やすクスリ
-Boosts wisdom 
+Boosts wisdom
 <$00>
 
 // Pos: 00003BDA
@@ -1585,7 +1585,7 @@ Boosts wisdom
 #WHB(PTR, $00002869)
 
 //Aカプセル
-A Capsule 
+A Capsule
 <$00>
 
 // Pos: 00003BE0
@@ -1595,7 +1595,7 @@ A Capsule
 #WHB(PTR, $0000286D)
 
 //力悪を増やすクスリ
-Boosts power 
+Boosts power
 <$00>
 
 // Pos: 00003BEC
@@ -1605,7 +1605,7 @@ Boosts power
 #WHB(PTR, $00002871)
 
 //Vカプセル
-V Capsule 
+V Capsule
 <$00>
 
 // Pos: 00003BF2
@@ -1615,7 +1615,7 @@ V Capsule
 #WHB(PTR, $00002875)
 
 //欲悪を増やすクスリ
-Boosts greed 
+Boosts greed
 <$00>
 
 // Pos: 00003BFE
@@ -1625,7 +1625,7 @@ Boosts greed
 #WHB(PTR, $00002879)
 
 //ペキン
-Peking 
+Peking
 <$00>
 
 // Pos: 00003C02
@@ -1635,7 +1635,7 @@ Peking
 #WHB(PTR, $0000287D)
 
 //知悪をかなり増やせる
-Greatly boosts wisdom 
+Greatly boosts wisdom
 <$00><$00>
 
 // Pos: 00003C10
@@ -1645,7 +1645,7 @@ Greatly boosts wisdom
 #WHB(PTR, $00002881)
 
 //マルセイユ
-Marseille 
+Marseille
 <$00>
 
 // Pos: 00003C16
@@ -1655,7 +1655,7 @@ Marseille
 #WHB(PTR, $00002885)
 
 //力悪をかなり増やせる
-Greatly boosts power 
+Greatly boosts power
 <$00><$00>
 
 // Pos: 00003C24
@@ -1665,7 +1665,7 @@ Greatly boosts power
 #WHB(PTR, $00002889)
 
 //サイゴン
-Saigon 
+Saigon
 <$00><$00>
 
 // Pos: 00003C2A
@@ -1675,7 +1675,7 @@ Saigon
 #WHB(PTR, $0000288D)
 
 //欲悪をかなり増やせる
-Greatly boosts greed 
+Greatly boosts greed
 <$00><$00>
 
 // Pos: 00003C38
@@ -1685,7 +1685,7 @@ Greatly boosts greed
 #WHB(PTR, $00002891)
 
 //フラッシュ
-Flash 
+Flash
 <$00>
 
 // Pos: 00003C3E
@@ -1695,7 +1695,7 @@ Flash
 #WHB(PTR, $00002895)
 
 //マインドスコープを中和
-Wipes the Mind Scope 
+Wipes the Mind Scope
 <$00>
 
 // Pos: 00003C4C
@@ -1705,7 +1705,7 @@ Wipes the Mind Scope
 #WHB(PTR, $00002899)
 
 //４９
-49 
+49
 <$00><$00>
 
 // Pos: 00003C50
@@ -1715,7 +1715,7 @@ Wipes the Mind Scope
 #WHB(PTR, $0000289D)
 
 //惑応中の悪を増やす
-Boosts evil reception 
+Boosts evil reception
 <$00>
 
 // Pos: 00003C5E
@@ -1725,7 +1725,7 @@ Boosts evil reception
 #WHB(PTR, $000028A1)
 
 //マジックライト
-Magic Light 
+Magic Light
 <$00>
 
 // Pos: 00003C66
@@ -1735,7 +1735,7 @@ Magic Light
 #WHB(PTR, $000028A5)
 
 //３悪いずれかを増やす
-Boosts one evil 
+Boosts one evil
 <$00>
 
 // Pos: 00003C72
@@ -1745,7 +1745,7 @@ Boosts one evil
 #WHB(PTR, $000028A9)
 
 //ブルースモーク
-Blue Smoke 
+Blue Smoke
 <$00>
 
 // Pos: 00003C7A
@@ -1755,7 +1755,7 @@ Blue Smoke
 #WHB(PTR, $000028AD)
 
 //スペーサーのEM回復
-Restores Spacer's EM 
+Restores Spacer's EM
 <$00><$00>
 
 // Pos: 00003C88
@@ -1765,7 +1765,7 @@ Restores Spacer's EM
 #WHB(PTR, $000028B1)
 
 //レッドスモーク
-Red Smoke 
+Red Smoke
 <$00>
 
 // Pos: 00003C90
@@ -1775,7 +1775,7 @@ Red Smoke
 #WHB(PTR, $000028B5)
 
 //アーネストのEM回復
-Restores Ernest's EM 
+Restores Ernest's EM
 <$00><$00>
 
 // Pos: 00003C9E
@@ -1785,7 +1785,7 @@ Restores Ernest's EM
 #WHB(PTR, $000028B9)
 
 //イエロースモーク
-Yellow Smoke 
+Yellow Smoke
 <$00><$00>
 
 // Pos: 00003CA8
@@ -1795,7 +1795,7 @@ Yellow Smoke
 #WHB(PTR, $000028BD)
 
 //ヨランダのEM回復
-Restores Yolanda's EM 
+Restores Yolanda's EM
 <$00>
 
 // Pos: 00003CB4
@@ -1805,7 +1805,7 @@ Restores Yolanda's EM
 #WHB(PTR, $000028C1)
 
 //タオゴールド
-Tao Gold 
+Tao Gold
 <$00><$00>
 
 // Pos: 00003CBC
@@ -1815,6 +1815,6 @@ Tao Gold
 #WHB(PTR, $000028C5)
 
 //全てのEMを回復する
-Restores all EMs 
+Restores all EMs
 <$00><$00><$00>
 

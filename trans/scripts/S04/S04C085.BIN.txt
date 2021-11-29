@@ -15,10 +15,10 @@
 //コスマス：
 Cosmas:
 <$0D>
-// \nダークマン、さっき呼んだとき、 \nどうして来てくれなかったの？
- \n
-Dark Man, why didn't you come when I \n
-called for you earlier? 
+//\nダークマン、さっき呼んだとき、\nどうして来てくれなかったの？
+\n
+Dark Man, why didn't you come when I\n
+called for you earlier?
 <$00>
 
 // Pos: 00001FCF
@@ -27,11 +27,11 @@ called for you earlier?
 
 #WHB(PTR, $00000CC1)
 
- 
+
 <$00><$12>
-//にお前の声はかき消されてしまったのだ、 \nコスマス。
-にYour voice was drowned out by \n
-others, Cosmas. 
+//にお前の声はかき消されてしまったのだ、\nコスマス。
+にYour voice was drowned out by\n
+others, Cosmas.
 <$00>
 
 // Pos: 00001FED
@@ -44,10 +44,10 @@ others, Cosmas.
 //コスマス：
 Cosmas:
 <$0D>
-// \n僕だけのダークマンじゃなかったの。
- \n
-But Darkman, I thought you could hear \n
-only me. 
+//\n僕だけのダークマンじゃなかったの。
+\n
+But Darkman, I thought you could hear\n
+only me.
 <$00>
 
 // Pos: 00002009
@@ -56,12 +56,12 @@ only me.
 
 #WHB(PTR, $00000E29)
 
- 
+
 <$00><$12>
-//に苦しみが育っているのだ、コスマス。 \nお前の声では小さすぎるのだ。
- \n
-Your suffering grows, Cosmas. \n
-Your voice is too quiet. 
+//に苦しみが育っているのだ、コスマス。\nお前の声では小さすぎるのだ。
+\n
+Your suffering grows, Cosmas.\n
+Your voice is too quiet.
 <$00>
 
 // Pos: 00002031
@@ -74,9 +74,9 @@ Your voice is too quiet.
 //コスマス：
 Cosmas:
 <$0D>
-// \nもっと苦しまなきゃならないの？
- \n
-How much suffering must I endure? 
+//\nもっと苦しまなきゃならないの？
+\n
+How much suffering must I endure?
 <$00>
 
 // Pos: 0000204B
@@ -85,10 +85,10 @@ How much suffering must I endure?
 
 #WHB(PTR, $00000F91)
 
- 
+
 <$00><$12>
-//にいずれ私は限界をむかえるだろう。 \nこの星は苦しみの王国となるだろう。
-にIn time, We will reach Our limit, and \n
-Mars will become a planet of suffering. 
+//にいずれ私は限界をむかえるだろう。\nこの星は苦しみの王国となるだろう。
+にIn time, We will reach Our limit, and\n
+Mars will become a planet of suffering.
 <$00>
 

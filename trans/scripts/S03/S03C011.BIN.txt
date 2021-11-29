@@ -15,10 +15,10 @@
 //スペーサー：
 Spacer:
 <$0D>
-// \n…おかしい…私の中に… \n言葉が開こえる…
- \n
-This is weird. I can hear...words in my \n
-head...! 
+//\n…おかしい…私の中に…\n言葉が開こえる…
+\n
+This is weird. I can hear...words in my\n
+head...!
 <$00>
 
 // Pos: 00002FBE
@@ -35,28 +35,28 @@ head...!
 //スペーサー：
 Spacer:
 <$0D>
-// \n一粒の砂にも世界を見て \n一輪の野花にも天国を見る
- \n
-"To see a world in a Grain of Sand. And a \n
-Heaven in a Wild Flower." 
+//\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
+\n
+"To see a world in a Grain of Sand. And a\n
+Heaven in a Wild Flower."
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nたなごころの中に無限をつかみ \nひとときのうちに永遠を捉える…
- \n
-"Hold Infinity in the palm of your hand. \n
-And Eternity in an hour." 
+//\nたなごころの中に無限をつかみ\nひとときのうちに永遠を捉える…
+\n
+"Hold Infinity in the palm of your hand.\n
+And Eternity in an hour."
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n古い詩の一節だ…預言者的な洞察を惑じる… \nそれにしても、この詩は…
- \n
-...Lines from an old poem. Interesting. \n
+//\n古い詩の一節だ…預言者的な洞察を惑じる…\nそれにしても、この詩は…
+\n
+...Lines from an old poem. Interesting.\n
 I'm sensing some prophetic insight
 <$0C>
-here! 
+here!
 <$00>
 
 // Pos: 00003052
@@ -69,14 +69,14 @@ here!
 //スペーサー：
 Spacer:
 <$0D>
-// \n…小さいな…まるでささやくようだ…
- \n
-It sounds so feeble, like a whisper, \n
-but... 
+//\n…小さいな…まるでささやくようだ…
+\n
+It sounds so feeble, like a whisper,\n
+but...
 <$0C>
-//一粒の…花？ \n無限を… \n分からない、何のことだ？
-"Grain", "flower", "eternity"... What \n
-does it all mean? 
+//一粒の…花？\n無限を…\n分からない、何のことだ？
+"Grain", "flower", "eternity"... What\n
+does it all mean?
 <$00>
 
 // Pos: 0000308F
@@ -89,10 +89,10 @@ does it all mean?
 //スペーサー：
 Spacer:
 <$0D>
-// \nどうしたというのだ… \nか細い声しか開こえない…
- \n
-Oh, that's weird. I don't hear that \n
-feeble voice anymore. 
+//\nどうしたというのだ…\nか細い声しか開こえない…
+\n
+Oh, that's weird. I don't hear that\n
+feeble voice anymore.
 <$00>
 
 // Pos: 000030B6
@@ -105,9 +105,9 @@ feeble voice anymore.
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だこりゃ…鍵がかかってるぜ。
- \n
-What the hell? It's locked. 
+//\n何だこりゃ…鍵がかかってるぜ。
+\n
+What the hell? It's locked.
 <$00>
 
 // Pos: 000030D3
@@ -120,10 +120,10 @@ What the hell? It's locked.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nなんか大事な物でも \nしまってあるのかしらねぇ…
- \n
-I wonder if something important's \n
-hidden in there... 
+//\nなんか大事な物でも\nしまってあるのかしらねぇ…
+\n
+I wonder if something important's\n
+hidden in there...
 <$00>
 
 // Pos: 000030F9
@@ -134,15 +134,15 @@ hidden in there...
 
 <$10>
 //まだだめなのね。
-No luck yet, a-nope. 
+No luck yet, a-nope.
 <$0C>
-//アタシには見えない。 \nサイコちゃんには簡単なことなのに。
-This'd be simple for the little \n
-Psycho, but I can't see a thing. 
+//アタシには見えない。\nサイコちゃんには簡単なことなのに。
+This'd be simple for the little\n
+Psycho, but I can't see a thing.
 <$0C>
-//ふん、ラミーのやつ… \nまだ何かアタシに隠してるのね。
-Rummy, Rummy, Rummy... \n
-Always hiding things from me. 
+//ふん、ラミーのやつ…\nまだ何かアタシに隠してるのね。
+Rummy, Rummy, Rummy...\n
+Always hiding things from me.
 <$00>
 
 // Pos: 0000313E
@@ -155,17 +155,17 @@ Always hiding things from me.
 //サミー：
 Sammy:
 <$0D>
-// \nあら、あなたは… ふふふ、新顔ね。
- \n
-Ohoho, what's this? You're a new face. 
+//\nあら、あなたは… ふふふ、新顔ね。
+\n
+Ohoho, what's this? You're a new face.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nあなたは…どのタイプなの？ \nねぇ、サイコちゃんなの？
- \n
-So, what's your type? Might you be \n
-another little Psycho? 
+//\nあなたは…どのタイプなの？\nねぇ、サイコちゃんなの？
+\n
+So, what's your type? Might you be\n
+another little Psycho?
 <$00>
 
 // Pos: 0000317C
@@ -178,10 +178,10 @@ another little Psycho?
 //サミー：
 Sammy:
 <$0D>
-// \nだったらそこの目玉、扉の前にある \nでっかい目玉が見えるはずよ…どう？見える？
- \n
-A Psycho type will be able to see a large \n
-eyeball on that door. Do you see it? 
+//\nだったらそこの目玉、扉の前にある\nでっかい目玉が見えるはずよ…どう？見える？
+\n
+A Psycho type will be able to see a large\n
+eyeball on that door. Do you see it?
 <$00>
 
 // Pos: 000031B0
@@ -194,53 +194,53 @@ eyeball on that door. Do you see it?
 //サミー：
 Sammy:
 <$0D>
-// \n見えないのね、そうよね。 \nだったらアニマルちゃんかしら…
- \n
-Ah, I take it you don't. Are you an Animal \n
-type, then? 
+//\n見えないのね、そうよね。\nだったらアニマルちゃんかしら…
+\n
+Ah, I take it you don't. Are you an Animal\n
+type, then?
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nそれにしちゃ弱そうね。
- \n
-But you look so frail! 
+//\nそれにしちゃ弱そうね。
+\n
+But you look so frail!
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nまさかビジュアルちゃんじゃないわよね、 \n犬顔だものね。
- \n
-Don't tell me you're a Visual type! I \n
-mean, you're a dogface! 
+//\nまさかビジュアルちゃんじゃないわよね、\n犬顔だものね。
+\n
+Don't tell me you're a Visual type! I\n
+mean, you're a dogface!
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \n地球から、でしょ。
- \n
-You must be from Earth. 
+//\n地球から、でしょ。
+\n
+You must be from Earth.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \n何しに来たの、ここはサイテーよ、 \nどいつもこいつも、うそつきばっかで。
- \n
-What brings you to this garbage heap? \n
-I mean it-even the people are garbage! 
+//\n何しに来たの、ここはサイテーよ、\nどいつもこいつも、うそつきばっかで。
+\n
+What brings you to this garbage heap?\n
+I mean it-even the people are garbage!
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nあなたも気を付けてね、 \n変なことに巻き込まれないように。
- \n
-You'd best steer clear. You don't want \n
+//\nあなたも気を付けてね、\n変なことに巻き込まれないように。
+\n
+You'd best steer clear. You don't want\n
 to get caught up in anyone's trash,
 <$0C>
 a-nope.
 <$1E>
 //夜
-夜 
+夜
 <$00>
 
 // Pos: 00003278
@@ -253,33 +253,33 @@ a-nope.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、 \nあいつは見かけにこだわるビジュアル系…
- \n
-Hyohyo! That's one Visual type who \n
-cares too much about appearances. 
+//\nひょひょ、\nあいつは見かけにこだわるビジュアル系…
+\n
+Hyohyo! That's one Visual type who\n
+cares too much about appearances.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n火星の住人はみな悪を秘めてるぞ。
- \n
-All dwellers of Mars carry a hidden evil. 
+//\n火星の住人はみな悪を秘めてるぞ。
+\n
+All dwellers of Mars carry a hidden evil.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n話をすると、お前の心に悪がたまる、 \nどんどんたまる。
- \n
-As you speak with them, their evil will \n
-gradually accumulate in your mind. 
+//\n話をすると、お前の心に悪がたまる、\nどんどんたまる。
+\n
+As you speak with them, their evil will\n
+gradually accumulate in your mind.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nその悪がお前を変えるぞ、 \nひょひょひょ。
- \n
-That evil will eventually change you, \n
-hyohyo! 
+//\nその悪がお前を変えるぞ、\nひょひょひょ。
+\n
+That evil will eventually change you,\n
+hyohyo!
 <$00>
 
 // Pos: 0000330A
@@ -292,26 +292,26 @@ hyohyo!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、アーネストや、 \n何をそんなに急いでいるのだ。
- \n
-Hyohyo, where are you going in such \n
-earnest, Ernest? 
+//\nひょひょ、アーネストや、\n何をそんなに急いでいるのだ。
+\n
+Hyohyo, where are you going in such\n
+earnest, Ernest?
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこの先に何かあるとでも…
- \n
-Even if there were something up ahead \n
-for you... 
+//\nこの先に何かあるとでも…
+\n
+Even if there were something up ahead\n
+for you...
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょ、まだお前はいろいろを \n知らなさすぎるぞ。
- \n
-...there's still much you don't know, \n
-hyohyo. 
+//\nひょ、まだお前はいろいろを\n知らなさすぎるぞ。
+\n
+...there's still much you don't know,\n
+hyohyo.
 <$00>
 
 // Pos: 00003372
@@ -324,10 +324,10 @@ hyohyo.
 //アーネスト：
 Ernest:
 <$0D>
-// \nちょろちょろしやがって、 \nうるせぇやつだ。 先に行かせろ！
- \n
-You're the last person I need scolding \n
-me about buzzing around. 
+//\nちょろちょろしやがって、\nうるせぇやつだ。 先に行かせろ！
+\n
+You're the last person I need scolding\n
+me about buzzing around.
 <$00>
 
 // Pos: 0000339E
@@ -340,9 +340,9 @@ me about buzzing around.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょ、今はならんぞ、アーネスト。
- \n
-I can't help it, Ernest, hyohyo! 
+//\nひょ、今はならんぞ、アーネスト。
+\n
+I can't help it, Ernest, hyohyo!
 <$00>
 
 // Pos: 000033BE
@@ -355,9 +355,9 @@ I can't help it, Ernest, hyohyo!
 //アーネスト：
 Ernest:
 <$0D>
-// \nなんでだ？ 後ならいいのか？
- \n
-Why? Is something going to happen? 
+//\nなんでだ？ 後ならいいのか？
+\n
+Why? Is something going to happen?
 <$00>
 
 // Pos: 000033DA
@@ -370,12 +370,12 @@ Why? Is something going to happen?
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこの先はまだ早い、もう少し学んでからだ。 \nさあ、アーネスト、お勉強の時間だ、 \nひょひょひょ。
- \n
-It's too soon, so you'll have to find out \n
+//\nこの先はまだ早い、もう少し学んでからだ。\nさあ、アーネスト、お勉強の時間だ、\nひょひょひょ。
+\n
+It's too soon, so you'll have to find out\n
 on your own. Take this time to study,
 <$0C>
-hyohyo! 
+hyohyo!
 <$00>
 
 // Pos: 0000341F
@@ -388,9 +388,9 @@ hyohyo!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、アーネストや、 \nお前にできることは何だ？
- \n
-Hyohyo, Ernest! What ever can you do? 
+//\nひょひょ、アーネストや、\nお前にできることは何だ？
+\n
+Hyohyo, Ernest! What ever can you do?
 <$00>
 
 // Pos: 00003447
@@ -403,10 +403,10 @@ Hyohyo, Ernest! What ever can you do?
 //アーネスト：
 Ernest:
 <$0D>
-// \n俺にできること… \nへん！ 力には自信があるぜ。
- \n
-What can I do? Well, I'm proud of my \n
-physical strength, that's for sure! 
+//\n俺にできること…\nへん！ 力には自信があるぜ。
+\n
+What can I do? Well, I'm proud of my\n
+physical strength, that's for sure!
 <$00>
 
 // Pos: 0000346E
@@ -419,21 +419,21 @@ physical strength, that's for sure!
 //トミー：
 Tommy:
 <$0D>
-// \nへへ、そうだよ兄ちゃん、そこの扉だ。 \nどうだ、目ん玉なんて見えねぇだろ。
- \n
-Hehe, this is one of those doors. You \n
-can't see the eyeball though, can you? 
+//\nへへ、そうだよ兄ちゃん、そこの扉だ。\nどうだ、目ん玉なんて見えねぇだろ。
+\n
+Hehe, this is one of those doors. You\n
+can't see the eyeball though, can you?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n見えねぇ、見えねぇ、そんなもんだ世間は。 \nちょいとな、がっかりだ。
- \n
-Sorry, comrade, but I can't see them. \n
+//\n見えねぇ、見えねぇ、そんなもんだ世間は。\nちょいとな、がっかりだ。
+\n
+Sorry, comrade, but I can't see them.\n
 Disappointing, ain't it?
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 000034CD
@@ -446,19 +446,19 @@ Disappointing, ain't it?
 //トミー：
 Tommy:
 <$0D>
-// \nに…兄ちゃんだろ、そうだよな。
- \n
-Hey, check this out, comrade. 
+//\nに…兄ちゃんだろ、そうだよな。
+\n
+Hey, check this out, comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n目ん玉、さがしにきたんだろ… \nそこの扉だ、どうだ、なんにも見えねぇだろ。
- \n
-If you're looking for one of those \n
+//\n目ん玉、さがしにきたんだろ…\nそこの扉だ、どうだ、なんにも見えねぇだろ。
+\n
+If you're looking for one of those\n
 eyeballs, this door has one. Can you see
 <$0C>
-it? 
+it?
 <$00>
 
 // Pos: 00003515
@@ -471,12 +471,12 @@ it?
 //アーネスト：
 Ernest:
 <$0D>
-// \n目ん玉だと？ おい、ウスノロ！ \nいいかげんなこと言うんじゃねぇぞ。
- \n
-Eyeball? Sorry, boozehound. Don't \n
+//\n目ん玉だと？ おい、ウスノロ！\nいいかげんなこと言うんじゃねぇぞ。
+\n
+Eyeball? Sorry, boozehound. Don't\n
 know what in blazes you're talking
 <$0C>
-about. 
+about.
 <$00>
 
 // Pos: 00003543
@@ -489,12 +489,12 @@ about.
 //トミー：
 Tommy:
 <$0D>
-// \nあー、はあはあ、吐きそうだ、 \n悪く言わないでくれ。 \nそんなふうに言われるのはイヤだ。
- \n
-Very funny, asshole. Okay, maybe I am \n
+//\nあー、はあはあ、吐きそうだ、\n悪く言わないでくれ。\nそんなふうに言われるのはイヤだ。
+\n
+Very funny, asshole. Okay, maybe I am\n
 sick, but you didn't need to put me on
 <$0C>
-blast! 
+blast!
 <$00>
 
 // Pos: 00003577
@@ -507,19 +507,19 @@ blast!
 //トミー：
 Tommy:
 <$0D>
-// \nに…兄ちゃんか？そうだよな。
- \n
-Hey, check this out, comrade. 
+//\nに…兄ちゃんか？そうだよな。
+\n
+Hey, check this out, comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n目ん玉、見にきたんだろ…そこの扉だ。 \nどうだ、そんなもんないだろう。
- \n
-If you're looking for one of those \n
+//\n目ん玉、見にきたんだろ…そこの扉だ。\nどうだ、そんなもんないだろう。
+\n
+If you're looking for one of those\n
 eyeballs, this door has one. Can you see
 <$0C>
-it? 
+it?
 <$00>
 
 // Pos: 000035BC
@@ -532,12 +532,12 @@ it?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n目ん玉？ 見にきた？ \nちょっと、ワケわかんないわね。 \nあんた、人のこと、からかってない？
- \n
-Am I looking for an eyeball? The fuck \n
+//\n目ん玉？ 見にきた？\nちょっと、ワケわかんないわね。\nあんた、人のこと、からかってない？
+\n
+Am I looking for an eyeball? The fuck\n
 are you talking about? I don't have
 <$0C>
-time for this! 
+time for this!
 <$00>
 
 // Pos: 000035F4
@@ -550,9 +550,9 @@ time for this!
 //トミー：
 Tommy:
 <$0D>
-// \nあー、マゴコロ持たずに歩くと \n風に吹かれたときにヤバイんだ。 \nどうだ、俺はまじめだ、兄ちゃんよう…
- \n
-Hey, I'm just as busy as you, but if there \n
-ain't time for this, what is time for? 
+//\nあー、マゴコロ持たずに歩くと\n風に吹かれたときにヤバイんだ。\nどうだ、俺はまじめだ、兄ちゃんよう…
+\n
+Hey, I'm just as busy as you, but if there\n
+ain't time for this, what is time for?
 <$00>
 

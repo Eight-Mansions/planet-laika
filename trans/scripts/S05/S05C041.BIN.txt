@@ -15,7 +15,7 @@
 所     
 <$0D>
 //地球から来たのか？
-You came from Earth? 
+You came from Earth?
 <$00>
 
 // Pos: 00003C33
@@ -28,10 +28,10 @@ You came from Earth?
 //エイプリル：
 April:
 <$0D>
-// \nそうです。 \nでも仲間とはぐれてしまったんです…
- \n
-That's right. But our travel \n
-companions are missing... 
+//\nそうです。\nでも仲間とはぐれてしまったんです…
+\n
+That's right. But our travel\n
+companions are missing...
 <$00>
 
 // Pos: 00003C57
@@ -44,10 +44,10 @@ companions are missing...
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nお仲間も \nこの星の悪意に憑かれたのじゃな。
- \n
-Then, mayhaps, they are bewitched by \n
-the ill will of the planet. 
+//\nお仲間も\nこの星の悪意に憑かれたのじゃな。
+\n
+Then, mayhaps, they are bewitched by\n
+the ill will of the planet.
 <$00>
 
 // Pos: 00003C7F
@@ -60,9 +60,9 @@ the ill will of the planet.
 //エイプリル：
 April:
 <$0D>
-// \n星の悪意？
- \n
-The ill will of the planet? 
+//\n星の悪意？
+\n
+The ill will of the planet?
 <$00>
 
 // Pos: 00003C91
@@ -75,18 +75,18 @@ The ill will of the planet?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふほほ、この星は悪意を持っておるのう。 \nわしらはイーブルマインドと呼んでおる。
- \n
-Haww, this planet is rife with ill will! We \n
-call its miasma "Evil Mind". 
+//\nふほほ、この星は悪意を持っておるのう。\nわしらはイーブルマインドと呼んでおる。
+\n
+Haww, this planet is rife with ill will! We\n
+call its miasma "Evil Mind".
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n星の邪気と言ってもいいじゃろう。
- \n
-It's a fitting name for Mars's malice, \n
-no? 
+//\n星の邪気と言ってもいいじゃろう。
+\n
+It's a fitting name for Mars's malice,\n
+no?
 <$00>
 
 // Pos: 00003CE9
@@ -99,18 +99,18 @@ no?
 //エイプリル：
 April:
 <$0D>
-// \nイーブルマインド… \n土が原因だったわけじゃないのね。
- \n
-Evil Mind... It's not so simple as "toxic \n
-topsoil", I see. 
+//\nイーブルマインド…\n土が原因だったわけじゃないのね。
+\n
+Evil Mind... It's not so simple as "toxic\n
+topsoil", I see.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nガリル大佐もそのイーブルマインドに…
- \n
-Maybe this Evil Mind is what got to Col. \n
-Galil as well. 
+//\nガリル大佐もそのイーブルマインドに…
+\n
+Maybe this Evil Mind is what got to Col.\n
+Galil as well.
 <$00>
 
 // Pos: 00003D2F
@@ -123,18 +123,18 @@ Galil as well.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nガリル！ ふほ！ \nやつを追うのはあきらめろ、不可能じゃ。
- \n
-Galil?! Haww, you can give up on ever \n
-finding him. 
+//\nガリル！ ふほ！\nやつを追うのはあきらめろ、不可能じゃ。
+\n
+Galil?! Haww, you can give up on ever\n
+finding him.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nやつは最後のピースじゃった、 \nそういうことじゃ。
- \n
-That man was the final piece, you \n
-understand. 
+//\nやつは最後のピースじゃった、\nそういうことじゃ。
+\n
+That man was the final piece, you\n
+understand.
 <$00>
 
 // Pos: 00003D84
@@ -147,10 +147,10 @@ understand.
 //エイプリル：
 April:
 <$0D>
-// \nどういう意味？ \n最後のピースって？
- \n
-Understand what? What's the \n
-significance of this "final piece"? 
+//\nどういう意味？\n最後のピースって？
+\n
+Understand what? What's the\n
+significance of this "final piece"?
 <$00>
 
 // Pos: 00003DA4
@@ -163,9 +163,9 @@ significance of this "final piece"?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n黒い騎士の話は知っておるか？
- \n
-Do you know the tale of the Black Rider? 
+//\n黒い騎士の話は知っておるか？
+\n
+Do you know the tale of the Black Rider?
 <$00>
 
 // Pos: 00003DC5
@@ -178,17 +178,17 @@ Do you know the tale of the Black Rider?
 //エイプリル：
 April:
 <$0D>
-// \n黒い騎士…
- \n
-The Black Rider...from Revelations? 
+//\n黒い騎士…
+\n
+The Black Rider...from Revelations?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n世界に死をもたらし、破滅に導く黒い騎士… \nそれがどうかしたの？
- \n
-He was a black-clad horseman who \n
-beckoned death and ruin to the world. 
+//\n世界に死をもたらし、破滅に導く黒い騎士…\nそれがどうかしたの？
+\n
+He was a black-clad horseman who\n
+beckoned death and ruin to the world.
 <$00>
 
 // Pos: 00003E0A
@@ -203,15 +203,15 @@ beckoned death and ruin to the world.
 //   
    
 <$0D>
-//現れたのじゃ、ここ火星にな。 \n
-And he has since crossed Mars, \n
+//現れたのじゃ、ここ火星にな。\n
+And he has since crossed Mars,\n
 
 <$0B>
 // 
  
 <$0D>
-//黒い騎士がほうぼうで悪を吸い集めておる。 \n
-calling on ghastly evils to join him. \n 
+//黒い騎士がほうぼうで悪を吸い集めておる。\n
+calling on ghastly evils to join him.\n
 <$0E><$5A><$17><$00>
 
 // Pos: 00003E47
@@ -223,15 +223,15 @@ calling on ghastly evils to join him. \n
 //葉子   
 葉子 
 <$0D>
-//黒い騎士が完全な悪になったその時、 \n
-When he becomes wholly evil, \n
+//黒い騎士が完全な悪になったその時、\n
+When he becomes wholly evil,\n
 
 <$0B>
 //      
       
 <$0D>
 //世界は終わるのじゃ。
-the world will meet its end. 
+the world will meet its end.
 <$0E><$5A><$17><$00>
 
 // Pos: 00003E80
@@ -243,14 +243,14 @@ the world will meet its end.
 //葉子      
 葉子 
 <$0D>
-//蕃判の時じゃのう、 \n
-The hour of Judgement is near. \n
+//蕃判の時じゃのう、\n
+The hour of Judgement is near.\n
 
 <$0B>
 //   
 <$0D>
 //ふほ、この星の宿命なのじゃのう。
-This is the planet's destiny! 
+This is the planet's destiny!
 <$0E><$5A><$17><$00>
 
 // Pos: 00003EB4
@@ -262,10 +262,10 @@ This is the planet's destiny!
 //歪子エイプリル：
 歪子April:
 <$0D>
-// \n宿命… 蕃判… なんだか預言みたいね。
- \n
-Destiny? Judgement? \n
-How...prophetic. 
+//\n宿命… 蕃判… なんだか預言みたいね。
+\n
+Destiny? Judgement?\n
+How...prophetic.
 <$0E><$5A><$17><$00>
 
 // Pos: 00003EDC
@@ -278,10 +278,10 @@ How...prophetic.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nほう！ 預言！ お前さん、 \n預言については、何か開いておるのか？
- \n
-Why, yes, because it is! Do you know \n
-about the prophecies?! 
+//\nほう！ 預言！ お前さん、\n預言については、何か開いておるのか？
+\n
+Why, yes, because it is! Do you know\n
+about the prophecies?!
 <$00>
 
 // Pos: 00003F0D
@@ -294,22 +294,22 @@ about the prophecies?!
 //エイプリル：
 April:
 <$0D>
-// \nいいえ、何にも。私たちの任務は、 \n火星に妙なウワサがあると \n地球化計画が進まない…
- \n
-No, not a thing! Earth received strange \n
+//\nいいえ、何にも。私たちの任務は、\n火星に妙なウワサがあると\n地球化計画が進まない…
+\n
+No, not a thing! Earth received strange\n
 rumors halting the terraformation
 <$0C>
-project. 
+project.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nだからウワサの出所を突きとめることなの。 \nガリル大佐が何か関係してる、 \nそこまではつかんでいるのよ。
- \n
-Our unit's mission is to investigate, and \n
+//\nだからウワサの出所を突きとめることなの。\nガリル大佐が何か関係してる、\nそこまではつかんでいるのよ。
+\n
+Our unit's mission is to investigate, and\n
 maybe find out what happened to
 <$0C>
-Colonel Galil. 
+Colonel Galil.
 <$00>
 
 // Pos: 00003F8F
@@ -322,20 +322,20 @@ Colonel Galil.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふほふほふほ！ 地球化計画とな… \nまたぞろぞろ人がやってくるのか…
- \n
-Haww, haww, haww! \n
+//\nふほふほふほ！ 地球化計画とな…\nまたぞろぞろ人がやってくるのか…
+\n
+Haww, haww, haww!\n
 Terraformation... Yes, I see. Is this to
 <$0C>
-bring MORE people back to Mars? 
+bring MORE people back to Mars?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nいかん！ それはいかん！ \nますますいかん！
- \n
-No! I won't have it! We cannot, will not \n
-absolutely should not have it! 
+//\nいかん！ それはいかん！\nますますいかん！
+\n
+No! I won't have it! We cannot, will not\n
+absolutely should not have it!
 <$00>
 
 // Pos: 00003FE5
@@ -348,10 +348,10 @@ absolutely should not have it!
 //エイプリル：
 April:
 <$0D>
-// \nどうして？人がやってくるのが良くないの？ \n洽安が乱れるから？
- \n
-But why? Won't it be a good thing? Or \n
-are you scared for the public order? 
+//\nどうして？人がやってくるのが良くないの？\n洽安が乱れるから？
+\n
+But why? Won't it be a good thing? Or\n
+are you scared for the public order?
 <$00>
 
 // Pos: 00004012
@@ -364,12 +364,12 @@ are you scared for the public order?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n人というのは必ず心のスミに \n悪をはびこらせておるのじゃ。 \nその悪がいかん。
- \n
-All people carry evil in their hearts. It is \n
+//\n人というのは必ず心のスミに\n悪をはびこらせておるのじゃ。\nその悪がいかん。
+\n
+All people carry evil in their hearts. It is\n
 that evil we cannot afford to come
 <$0C>
-here. 
+here.
 <$00>
 
 // Pos: 00004047
@@ -382,9 +382,9 @@ here.
 //エイプリル：
 April:
 <$0D>
-// \nでも中には善人もいるのよ。
- \n
-But there are good people too, sir! 
+//\nでも中には善人もいるのよ。
+\n
+But there are good people too, sir!
 <$00>
 
 // Pos: 00004061
@@ -397,18 +397,18 @@ But there are good people too, sir!
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n善人！ \n久しぶりに開いたのう！
- \n
-"Good people"? How long has it been \n
-since I heard that phrase? 
+//\n善人！\n久しぶりに開いたのう！
+\n
+"Good people"? How long has it been\n
+since I heard that phrase?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nいいか、忘れるでない、完全な善などあり得ん。 \n善と悪、それでバランスが保たれておる。
- \n
-Listen, child. No one is wholly good. \n
-Good and evil exist in a strict balance. 
+//\nいいか、忘れるでない、完全な善などあり得ん。\n善と悪、それでバランスが保たれておる。
+\n
+Listen, child. No one is wholly good.\n
+Good and evil exist in a strict balance.
 <$00>
 
 // Pos: 000040BF
@@ -421,10 +421,10 @@ Good and evil exist in a strict balance.
 //エイプリル：
 April:
 <$0D>
-// \nそう…善人なんてあてにならない… \nそういうことね。
- \n
-I see. What you're saying is, you don't \n
-trust anyone to be good. 
+//\nそう…善人なんてあてにならない…\nそういうことね。
+\n
+I see. What you're saying is, you don't\n
+trust anyone to be good.
 <$00>
 
 // Pos: 000040E4
@@ -437,12 +437,12 @@ trust anyone to be good.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n少なくともこの星ではな。お仲間はどうじゃ？ \n善人なのか？それとも…
- \n
-No, not on this planet. Look at your \n
+//\n少なくともこの星ではな。お仲間はどうじゃ？\n善人なのか？それとも…
+\n
+No, not on this planet. Look at your\n
 companions. Are they good, or are
 <$0C>
-they evil? 
+they evil?
 <$00>
 
 // Pos: 00004118
@@ -455,10 +455,10 @@ they evil?
 //エイプリル：
 April:
 <$0D>
-// \n悪い人じゃない、それしか言えないわ。 \nまだ見込みはありますか？
- \n
-They're not evil, I can say that much. Is \n
-that enough for you?! 
+//\n悪い人じゃない、それしか言えないわ。\nまだ見込みはありますか？
+\n
+They're not evil, I can say that much. Is\n
+that enough for you?!
 <$00>
 
 // Pos: 00004143
@@ -471,10 +471,10 @@ that enough for you?!
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n悪い人じゃない…そういうことなら、ふほ、 \nあそこに行くがよい。
- \n
-Not evil, eh? If you're so sure, go now, \n
-and bear witness with your own eyes. 
+//\n悪い人じゃない…そういうことなら、ふほ、\nあそこに行くがよい。
+\n
+Not evil, eh? If you're so sure, go now,\n
+and bear witness with your own eyes.
 <$00>
 
 // Pos: 00004171
@@ -487,9 +487,9 @@ and bear witness with your own eyes.
 //エイプリル：
 April:
 <$0D>
-// \nあそこって？
- \n
-Go now? But where? 
+//\nあそこって？
+\n
+Go now? But where?
 <$00>
 
 // Pos: 00004182
@@ -502,9 +502,9 @@ Go now? But where?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n記憶の谷じゃ。
- \n
-To Valles Memoriae. 
+//\n記憶の谷じゃ。
+\n
+To Valles Memoriae.
 <$00>
 
 // Pos: 0000419A
@@ -517,9 +517,9 @@ To Valles Memoriae.
 //エイプリル：
 April:
 <$0D>
-// \nそれはどこなの？
- \n
-Where is that? 
+//\nそれはどこなの？
+\n
+Where is that?
 <$00>
 
 // Pos: 000041AD
@@ -532,10 +532,10 @@ Where is that?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nブリックロードの途中に、 \n黒いカベがあったのう。 \nそこに扉があるのう。記憶の谷へ入る扉じゃ。
- \n
-In the middle of Brick Road is a black \n
-wall that opens to the valley. 
+//\nブリックロードの途中に、\n黒いカベがあったのう。\nそこに扉があるのう。記憶の谷へ入る扉じゃ。
+\n
+In the middle of Brick Road is a black\n
+wall that opens to the valley.
 <$00>
 
 // Pos: 000041F2
@@ -548,10 +548,10 @@ wall that opens to the valley.
 //エイプリル：
 April:
 <$0D>
-// \nブリックロードの黒いカベね。 \nありがとう。
- \n
-A black wall in Brick Road? All right. \n
-Thank you very much. 
+//\nブリックロードの黒いカベね。\nありがとう。
+\n
+A black wall in Brick Road? All right.\n
+Thank you very much.
 <$00>
 
 // Pos: 00004213
@@ -564,9 +564,9 @@ Thank you very much.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nおお、ばらよ！お前は病んでいる！
- \n
-O, Rose! Thou art sick! 
+//\nおお、ばらよ！お前は病んでいる！
+\n
+O, Rose! Thou art sick!
 <$00>
 
 // Pos: 00004232
@@ -579,9 +579,9 @@ O, Rose! Thou art sick!
 //エイプリル：
 April:
 <$0D>
-// \n…
- \n
-...? 
+//\n…
+\n
+...?
 <$00>
 
 // Pos: 0000423E
@@ -594,10 +594,10 @@ April:
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nこれが合い言葉じゃ。それで扉は開く。
- \n
-That is the password. It will open the \n
-door through the black wall. 
+//\nこれが合い言葉じゃ。それで扉は開く。
+\n
+That is the password. It will open the\n
+door through the black wall.
 <$00>
 
 // Pos: 00004262
@@ -610,10 +610,10 @@ door through the black wall.
 //エイプリル：
 April:
 <$0D>
-// \nおお、ばらよ！お前は病んでいる！ \n…これでいいのね。
- \n
-"O, Rose! Thou art sick!" \n
-I'll try to remember. 
+//\nおお、ばらよ！お前は病んでいる！\n…これでいいのね。
+\n
+"O, Rose! Thou art sick!"\n
+I'll try to remember.
 <$00>
 
 // Pos: 00004288
@@ -626,9 +626,9 @@ I'll try to remember.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふーほー…
- \n
-Haww... 
+//\nふーほー…
+\n
+Haww...
 <$00>
 
 // Pos: 0000429B
@@ -641,10 +641,10 @@ Haww...
 //エイプリル：
 April:
 <$0D>
-// \n行きましょ、 \nブリックロードの黒いカベのところよ。
- \n
-All right, Laika. Let's go to the black wall \n
-on Brick Road. 
+//\n行きましょ、\nブリックロードの黒いカベのところよ。
+\n
+All right, Laika. Let's go to the black wall\n
+on Brick Road.
 <$00>
 
 // Pos: 000042C1
@@ -661,10 +661,10 @@ on Brick Road.
 //エイプリル：
 April:
 <$0D>
-// \n行きましょ、 \nブリックロードの黒いカベのところよ。
- \n
-All right, Laika. Let's go to the black wall \n
-on Brick Road. 
+//\n行きましょ、\nブリックロードの黒いカベのところよ。
+\n
+All right, Laika. Let's go to the black wall\n
+on Brick Road.
 <$00>
 
 // Pos: 000042E7
@@ -677,10 +677,10 @@ on Brick Road.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、スペーサーや、 \n統合されるのが怖いのかひょひょ。
- \n
-Hyohyo, Spacer. Personality \n
-integration can be a scary thing. 
+//\nひょひょ、スペーサーや、\n統合されるのが怖いのかひょひょ。
+\n
+Hyohyo, Spacer. Personality\n
+integration can be a scary thing.
 <$00>
 
 // Pos: 00004314
@@ -693,12 +693,12 @@ integration can be a scary thing.
 //スペーサー：
 Spacer:
 <$0D>
-// \nおお！ ちょうどよかった、教えてくれ、 \n人格が統合されるとどうなるんだ。
- \n
-How reassuring. So tell me, what \n
+//\nおお！ ちょうどよかった、教えてくれ、\n人格が統合されるとどうなるんだ。
+\n
+How reassuring. So tell me, what\n
 happens to personalities after they
 <$0C>
-integrate. 
+integrate.
 <$00>
 
 // Pos: 00004349
@@ -711,9 +711,9 @@ integrate.
 //スペーサー：
 Spacer:
 <$0D>
-// \n私は… なくなるのか？
- \n
-Would I...disappear? 
+//\n私は… なくなるのか？
+\n
+Would I...disappear?
 <$00>
 
 // Pos: 00004361
@@ -726,9 +726,9 @@ Would I...disappear?
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょひょ、そもそもお前たちは \n存在しているのか、どうなのか、ひょひょ。
- \n
-That depends on whether you exist in \n
-the first place, hyohyohyo! 
+//\nひょひょひょ、そもそもお前たちは\n存在しているのか、どうなのか、ひょひょ。
+\n
+That depends on whether you exist in\n
+the first place, hyohyohyo!
 <$00>
 

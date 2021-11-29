@@ -15,9 +15,9 @@
 //レッド：
 Red:
 <$0D>
-// \nお前か！ \nおい、コスマスにちょっかい出したのは？
- \n
-Hey, you! What did you do with Cosmas? 
+//\nお前か！\nおい、コスマスにちょっかい出したのは？
+\n
+Hey, you! What did you do with Cosmas?
 <$00>
 
 // Pos: 00000FCA
@@ -30,28 +30,28 @@ Hey, you! What did you do with Cosmas?
 //レッド：
 Red:
 <$0D>
-// \nコスマスをどこに連れて行った？ \nさっきまで部屋にいたんだ。
- \n
-Where is he, huh? He was in his room \n
-just a moment ago! 
+//\nコスマスをどこに連れて行った？\nさっきまで部屋にいたんだ。
+\n
+Where is he, huh? He was in his room\n
+just a moment ago!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nマラケシュに開いたら \nお前がうろちょろしてたってよ。
- \n
-When I checked and didn't see him, \n
+//\nマラケシュに開いたら\nお前がうろちょろしてたってよ。
+\n
+When I checked and didn't see him,\n
 Marrakech told me you've been
 <$0C>
-creeping around. 
+creeping around.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n余計なことしやがったら、 \n俺が許さねぇ。
- \n
-Grr, if you had anything to do with this, \n
-I'll end you right here! 
+//\n余計なことしやがったら、\n俺が許さねぇ。
+\n
+Grr, if you had anything to do with this,\n
+I'll end you right here!
 <$00>
 
 // Pos: 00001036
@@ -64,14 +64,14 @@ I'll end you right here!
 //レッド：
 Red:
 <$0D>
-// \nコスマスはあと一歩で完成するんだ、 \n分かったか、くそ！
- \n
-Whatever. I'm hot on his tail, \n
+//\nコスマスはあと一歩で完成するんだ、\n分かったか、くそ！
+\n
+Whatever. I'm hot on his tail,\n
 understand? You'd BETTER
 <$0C>
 understand.
 <$1E>
 //中
-中 
+中
 <$00>
 

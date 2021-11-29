@@ -15,9 +15,9 @@
 //リバー：
 Liever:
 <$0D>
-// \nほら、トールボーイだよ。
- \n
-Behold! This is Tall Boy! 
+//\nほら、トールボーイだよ。
+\n
+Behold! This is Tall Boy!
 <$00>
 
 // Pos: 00002130
@@ -30,10 +30,10 @@ Behold! This is Tall Boy!
 //リバー：
 Liever:
 <$0D>
-// \nこれが神様。 \nこれから目を入れるんだ。見ててよ！
- \n
-This is God! Look into the eyes of God! \n
-Look at them all! 
+//\nこれが神様。\nこれから目を入れるんだ。見ててよ！
+\n
+This is God! Look into the eyes of God!\n
+Look at them all!
 <$00>
 
 // Pos: 00002157
@@ -46,10 +46,10 @@ Look at them all!
 //スペーサー：
 Spacer:
 <$0D>
-// \nや、やめるんだ！ \nリバー、私は強い建和惑を惑じる！
- \n
-L-Liever, stop! I've got a real bad \n
-feeling about this! 
+//\nや、やめるんだ！\nリバー、私は強い建和惑を惑じる！
+\n
+L-Liever, stop! I've got a real bad\n
+feeling about this!
 <$00>
 
 // Pos: 00002182
@@ -62,10 +62,10 @@ feeling about this!
 //リバー：
 Liever:
 <$0D>
-// \n神様、神様、今すぐです、 \nこれは左目、左目。
- \n
-God! God is nearly upon us! Check the \n
-left eye! The left eye! 
+//\n神様、神様、今すぐです、\nこれは左目、左目。
+\n
+God! God is nearly upon us! Check the\n
+left eye! The left eye!
 <$00>
 
 // Pos: 000021AC
@@ -78,10 +78,10 @@ left eye! The left eye!
 //スペーサー：
 Spacer:
 <$0D>
-// \nよせ、そいつは神様なんかじゃない！ \n邪悪な力がみなぎっている！
- \n
-Uh-oh, this is NOT God! This thing is \n
-amped up on wicked energy! 
+//\nよせ、そいつは神様なんかじゃない！\n邪悪な力がみなぎっている！
+\n
+Uh-oh, this is NOT God! This thing is\n
+amped up on wicked energy!
 <$00>
 
 // Pos: 000021DC
@@ -94,10 +94,10 @@ amped up on wicked energy!
 //リバー：
 Liever:
 <$0D>
-// \n神様、神様、次は右目、右目です。
- \n
-God wants the right eye now! The right \n
-eye! 
+//\n神様、神様、次は右目、右目です。
+\n
+God wants the right eye now! The right\n
+eye!
 <$00>
 
 // Pos: 00002200
@@ -110,10 +110,10 @@ eye!
 //リバー：
 Liever:
 <$0D>
-// \nさあ、あんたの出番だよ。あんたが持ってる \nその赤い石を右目にはめるんだ
- \n
-Now, it's your turn. Put that red stone \n
-you have into the right eye! 
+//\nさあ、あんたの出番だよ。あんたが持ってる\nその赤い石を右目にはめるんだ
+\n
+Now, it's your turn. Put that red stone\n
+you have into the right eye!
 <$00>
 
 // Pos: 00002235
@@ -126,10 +126,10 @@ you have into the right eye!
 //スペーサー：
 Spacer:
 <$0D>
-// \nこいつは悪の化身だ、 \nイーブルマインドのかたまりだ！
- \n
-This thing IS evil incarnate! It's a giant \n
-mass of Evil Mind! 
+//\nこいつは悪の化身だ、\nイーブルマインドのかたまりだ！
+\n
+This thing IS evil incarnate! It's a giant\n
+mass of Evil Mind!
 <$00>
 
 // Pos: 0000225E
@@ -146,10 +146,10 @@ mass of Evil Mind!
 //リバー：
 Liever:
 <$0D>
-// \nあんたが持ってる赤い石だよ、 \nそれを右目にはめるんだ。
- \n
-You have the red stone, don't you? Put \n
-it into the right eye NOW! 
+//\nあんたが持ってる赤い石だよ、\nそれを右目にはめるんだ。
+\n
+You have the red stone, don't you? Put\n
+it into the right eye NOW!
 <$00>
 
 // Pos: 00002289
@@ -162,10 +162,10 @@ it into the right eye NOW!
 //リバー：
 Liever:
 <$0D>
-// \nうわぁぁぁ、神様！ \n神様神様神様、ですよね？
- \n
-YES! God! God! God! GOD, IT'S YOU, ISN'T \n
-IT?! 
+//\nうわぁぁぁ、神様！\n神様神様神様、ですよね？
+\n
+YES! God! God! God! GOD, IT'S YOU, ISN'T\n
+IT?!
 <$00>
 
 // Pos: 000022B2
@@ -175,21 +175,21 @@ IT?!
 #WHB(PTR, $000003E5)
 
 <$12><$12>
-//こようやく目覚めの時がきたようだ。 \nリバーよ、よく開くがいい。
-At last, it seems We are ready to \n
-awaken. Liever, listen to Us carefully. 
+//こようやく目覚めの時がきたようだ。\nリバーよ、よく開くがいい。
+At last, it seems We are ready to\n
+awaken. Liever, listen to Us carefully.
 <$0C>
 //お前は影の存在だ。
-You are a lowly shadowed. 
+You are a lowly shadowed.
 <$0C>
-//お前を生み出したのは、リトルの小さな良心だ。 \n塩のかけらほどのみすぼらしい良心だ。
-It was Little's tiny conscience that \n
-created you. A conscience no larger \n
-than a grain of salt. 
+//お前を生み出したのは、リトルの小さな良心だ。\n塩のかけらほどのみすぼらしい良心だ。
+It was Little's tiny conscience that\n
+created you. A conscience no larger\n
+than a grain of salt.
 <$0C>
-//今からお前は私のしもべとなり、 \nこの星を再生するのだ。
-Henceforth, you will be My servant in \n
-bringing this planet its due rebirth. 
+//今からお前は私のしもべとなり、\nこの星を再生するのだ。
+Henceforth, you will be My servant in\n
+bringing this planet its due rebirth.
 <$00>
 
 // Pos: 00002337
@@ -202,10 +202,10 @@ bringing this planet its due rebirth.
 //リバー：
 Liever:
 <$0D>
-// \n神様…そんな… \n僕はずっと僕なんです…
- \n
-B-but God, that can't be! I...I've always \n
-been me! 
+//\n神様…そんな…\n僕はずっと僕なんです…
+\n
+B-but God, that can't be! I...I've always\n
+been me!
 <$00>
 
 // Pos: 00002359
@@ -215,18 +215,18 @@ been me!
 #WHB(PTR, $00000419)
 
 <$12><$12>
-//こ多くの双子に手をかけたのは、お前だ。 \nお前が生き埋めにしたのだ。
-YOU stole countless twins away! \n
-YOU buried them alive! 
+//こ多くの双子に手をかけたのは、お前だ。\nお前が生き埋めにしたのだ。
+YOU stole countless twins away!\n
+YOU buried them alive!
 <$0C>
-//お前はその罪にさいなまれ、消えることのない \n染みのような悪を心に宿している。
-YOU are guilty of sins beyond \n
-recompense! A staining evil bleeds \n
-from YOUR heart and soul! 
+//お前はその罪にさいなまれ、消えることのない\n染みのような悪を心に宿している。
+YOU are guilty of sins beyond\n
+recompense! A staining evil bleeds\n
+from YOUR heart and soul!
 <$0C>
-//その悪を育て、私にそそぐのだ。 \nそれでお前は永遠の存在となる。
-Now, pour that evil unto Me, that you \n
-may become an eternal existence. 
+//その悪を育て、私にそそぐのだ。\nそれでお前は永遠の存在となる。
+Now, pour that evil unto Me, that you\n
+may become an eternal existence.
 <$00>
 
 // Pos: 000023D4
@@ -239,17 +239,17 @@ may become an eternal existence.
 //リバー：
 Liever:
 <$0D>
-// \n建う！建う！ イヤだ！
- \n
-No! No, I've worked so hard, God! 
+//\n建う！建う！ イヤだ！
+\n
+No! No, I've worked so hard, God!
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \n…僕は…罪をつぐなうために… \n心をきれいにするために…
- \n
-To...to make up for my sins... To purify \n
-my mind...! 
+//\n…僕は…罪をつぐなうために…\n心をきれいにするために…
+\n
+To...to make up for my sins... To purify\n
+my mind...!
 <$00>
 
 // Pos: 00002412
@@ -259,13 +259,13 @@ my mind...!
 #WHB(PTR, $0000044D)
 
 <$12><$12>
-//こむだなことはやめろ。お前は生来の罪人だ。 \nさあ、私とひとつになるのだ。
-Do not waste your breath. You are a \n
-sinner by nature. Come now, and we \n
-will become one. 
+//こむだなことはやめろ。お前は生来の罪人だ。\nさあ、私とひとつになるのだ。
+Do not waste your breath. You are a\n
+sinner by nature. Come now, and we\n
+will become one.
 <$0C>
-//悪に染まったお前のタマシイを、 \n私によこすのだ。
-Offer your tainted spirit to me. 
+//悪に染まったお前のタマシイを、\n私によこすのだ。
+Offer your tainted spirit to me.
 <$00>
 
 // Pos: 00002456
@@ -278,10 +278,10 @@ Offer your tainted spirit to me.
 //リバー：
 Liever:
 <$0D>
-// \nうううう、やめてくれ！ \n僕はただつぐないたいだけなのに！
- \n
-No! Stop this, God! All I wanted was to \n
-right my wrongs! 
+//\nうううう、やめてくれ！\n僕はただつぐないたいだけなのに！
+\n
+No! Stop this, God! All I wanted was to\n
+right my wrongs!
 <$00>
 
 // Pos: 0000247E
@@ -291,19 +291,19 @@ right my wrongs!
 #WHB(PTR, $000004C1)
 
 <$12><$12>
-//こお前の罪などたかが知れてる。 \n私はぶよぶよふくらんだお前のみにくい心に \n興味があるのだ。
-I know your every wrong, and your \n
-bloated, swollen, evil little mind \n
-piques my interest. 
+//こお前の罪などたかが知れてる。\n私はぶよぶよふくらんだお前のみにくい心に\n興味があるのだ。
+I know your every wrong, and your\n
+bloated, swollen, evil little mind\n
+piques my interest.
 <$0C>
-//見るがいい、私の身体を。 \nお前が殺した双子の顔だ。 \n苦しみに歪んだ顔だ。
-Look well at my body. These faces, \n
-twisted by suffering, are those of the \n
-twins you killed. 
+//見るがいい、私の身体を。\nお前が殺した双子の顔だ。\n苦しみに歪んだ顔だ。
+Look well at my body. These faces,\n
+twisted by suffering, are those of the\n
+twins you killed.
 <$0C>
-//さあ、見ろ、お前が殺したのだ、 \n生き埋めにしたのだ！
-Yes, look at the children you killed! At \n
-the children you buried alive! 
+//さあ、見ろ、お前が殺したのだ、\n生き埋めにしたのだ！
+Yes, look at the children you killed! At\n
+the children you buried alive!
 <$00>
 
 // Pos: 000024FF
@@ -316,10 +316,10 @@ the children you buried alive!
 //リバー：
 Liever:
 <$0D>
-// \nやめてくれ！ \nこれ以上僕に近づくな、眼を抜いてやる！
- \n
-STOP THIS! Don't come near me! I'll \n
-gauge your eyes back out! 
+//\nやめてくれ！\nこれ以上僕に近づくな、眼を抜いてやる！
+\n
+STOP THIS! Don't come near me! I'll\n
+gauge your eyes back out!
 <$00>
 
 // Pos: 0000252A
@@ -329,10 +329,10 @@ gauge your eyes back out!
 #WHB(PTR, $000004F5)
 
 <$12><$12>
-//こ私をてこずらせるな。 \nしたがわないのなら、お前の薄汚い心を \n苦しみの炎で焼きつくしてやる！
-Do not challenge me. Obey, or I shall \n
-burn your fleck of a mind in the flames \n
-of suffering! 
+//こ私をてこずらせるな。\nしたがわないのなら、お前の薄汚い心を\n苦しみの炎で焼きつくしてやる！
+Do not challenge me. Obey, or I shall\n
+burn your fleck of a mind in the flames\n
+of suffering!
 <$00>
 
 // Pos: 00002561
@@ -343,8 +343,8 @@ of suffering!
 
 <$12><$12>
 //こもうひとりいたのか、おびえた子犬が。
-Ah, yes, the other frightened little \n
-puppy in my midst. 
+Ah, yes, the other frightened little\n
+puppy in my midst.
 <$00>
 
 // Pos: 00002579
@@ -357,10 +357,10 @@ puppy in my midst.
 //スペーサー：
 Spacer:
 <$0D>
-// \nお前はイーブルマインドのカスだ、 \nカスが積もってできた代物だ。
- \n
-Let me guess, you're a huge \n
-accumulation Evil Mind sediment. 
+//\nお前はイーブルマインドのカスだ、\nカスが積もってできた代物だ。
+\n
+Let me guess, you're a huge\n
+accumulation Evil Mind sediment.
 <$00>
 
 // Pos: 000025A8
@@ -370,10 +370,10 @@ accumulation Evil Mind sediment.
 #WHB(PTR, $000006FD)
 
 <$12><$12>
-//こいいことを教えてやろう。 \nどんな犬にも出番があるものだ。 \nさあ、その出番とやらを見せてもらおうか。
-I will tell you once: every dog has his \n
-hour. Yes, allow me to give you a whiff \n
-of one such moment. 
+//こいいことを教えてやろう。\nどんな犬にも出番があるものだ。\nさあ、その出番とやらを見せてもらおうか。
+I will tell you once: every dog has his\n
+hour. Yes, allow me to give you a whiff\n
+of one such moment.
 <$00>
 
 // Pos: 000025E3
@@ -384,12 +384,12 @@ of one such moment.
 
 <$12><$12>
 //こどうした子犬。
-What's the matter, puppy? 
+What's the matter, puppy?
 <$0C>
-//白ブタのママは腐った臭いをまき散らしながら、 \nお前を産んだのだ。
-Don't you miss the filthy, rotten stench \n
-of that swine you called a mother \n
-giving birth to you? 
+//白ブタのママは腐った臭いをまき散らしながら、\nお前を産んだのだ。
+Don't you miss the filthy, rotten stench\n
+of that swine you called a mother\n
+giving birth to you?
 <$00>
 
 // Pos: 00002616
@@ -402,10 +402,10 @@ giving birth to you?
 //スペーサー：
 Spacer:
 <$0D>
-// \nその手には乗らない！ \nお前の挑発にはな！
- \n
-I'm not falling for that, not for your \n
-enjoyment! 
+//\nその手には乗らない！\nお前の挑発にはな！
+\n
+I'm not falling for that, not for your\n
+enjoyment!
 <$00>
 
 // Pos: 0000263B
@@ -415,8 +415,8 @@ enjoyment!
 #WHB(PTR, $00000741)
 
 <$12><$12>
-//こはははは、もう十分だ、 \nお前の憎しみはどうやら底なしのようだ。
-Hahaha, then I digress. I see how \n
-deeply and endlessly your hatred runs. 
+//こはははは、もう十分だ、\nお前の憎しみはどうやら底なしのようだ。
+Hahaha, then I digress. I see how\n
+deeply and endlessly your hatred runs.
 <$00>
 

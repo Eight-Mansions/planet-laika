@@ -15,40 +15,40 @@
 //トミー：
 Tommy:
 <$0D>
-// \nひゃひゃひゃ、お兄ちゃんよう、 \n知ってるか、あいつら。
- \n
-Hehe, hey, comrade! Did you hear what \n
-happened at Psycho Lab? 
+//\nひゃひゃひゃ、お兄ちゃんよう、\n知ってるか、あいつら。
+\n
+Hehe, hey, comrade! Did you hear what\n
+happened at Psycho Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nサイコハウスのやつら、 \n電気でビリビリになりやがった。
- \n
-They zapped themselves up with a \n
+//\nサイコハウスのやつら、\n電気でビリビリになりやがった。
+\n
+They zapped themselves up with a\n
 boatload of electricity and fried their
 <$0C>
-brains. 
+brains.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nへん、人のことバカにしやがって！ \n地球にいりゃ白いマント着て \nたき火でダンス野郎だ、そうだろ、
- \n
-Shitbags must've thought they were at \n
+//\nへん、人のことバカにしやがって！\n地球にいりゃ白いマント着て\nたき火でダンス野郎だ、そうだろ、
+\n
+Shitbags must've thought they were at\n
 that level to wear big cloaks and dance
 <$0C>
-around fire. 
+around fire.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nあいつらなんか黒こげになっちまえ！ \nひゃひゃひゃ、チャーリーのごちそうだ！
- \n
-And like a real bag of shit, they got \n
+//\nあいつらなんか黒こげになっちまえ！\nひゃひゃひゃ、チャーリーのごちそうだ！
+\n
+And like a real bag of shit, they got\n
 burned and stomped out, a-yup!
 <$0C>
-Charlie saw to that! 
+Charlie saw to that!
 <$00>
 
 // Pos: 00003A63
@@ -61,56 +61,56 @@ Charlie saw to that!
 //トミー：
 Tommy:
 <$0D>
-// \nチャーリーってのは電気イスのことだ、 \nニックネームがあったんだ。
- \n
-"Charlie" is the nickname we have for \n
-the Prison 4 electric chair. 
+//\nチャーリーってのは電気イスのことだ、\nニックネームがあったんだ。
+\n
+"Charlie" is the nickname we have for\n
+the Prison 4 electric chair.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n一番えらいのは所長じゃねぇ、 \n電気イスのチャーリー様だ。
- \n
-No, it's not the name of anyone using it. \n
+//\n一番えらいのは所長じゃねぇ、\n電気イスのチャーリー様だ。
+\n
+No, it's not the name of anyone using it.\n
 The big honcho is the electric chair
 <$0C>
-itself. 
+itself.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nやつはなぁ、たまげた欲張りで、何カ月も \n処刑がないといらつきはじめるんだ。
- \n
-Charlie's a hungry boy, but hasn't had a \n
+//\nやつはなぁ、たまげた欲張りで、何カ月も\n処刑がないといらつきはじめるんだ。
+\n
+Charlie's a hungry boy, but hasn't had a\n
 meal in some months, so he's
 <$0C>
-been...jittery. 
+been...jittery.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n早く新鮮な肉を食いてぇ、 \n真っ黒焦げにして食いてぇってな。
- \n
-He needs his fresh meat, and fast. Just \n
+//\n早く新鮮な肉を食いてぇ、\n真っ黒焦げにして食いてぇってな。
+\n
+He needs his fresh meat, and fast. Just\n
 char the suckers up and bon appetit,
 <$0C>
-a-yup! 
+a-yup!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nチャーリーがいらいらすると、 \n刑務所中の電気がぱちぱちするんだ、 \n点いたり消えたりするんだ。
- \n
-When Charlie is hungry, the electricity \n
-in the entire prison flickers on and off. 
+//\nチャーリーがいらいらすると、\n刑務所中の電気がぱちぱちするんだ、\n点いたり消えたりするんだ。
+\n
+When Charlie is hungry, the electricity\n
+in the entire prison flickers on and off.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nへへ、今でもぱちぱちしてるか？ \nひゃひゃ、チャーリーのごちそうだ。
- \n
-Hehe, if you ever see the power jump \n
-around here, then that's Charlie. 
+//\nへへ、今でもぱちぱちしてるか？\nひゃひゃ、チャーリーのごちそうだ。
+\n
+Hehe, if you ever see the power jump\n
+around here, then that's Charlie.
 <$00>
 
 // Pos: 00003B7E
@@ -123,28 +123,28 @@ around here, then that's Charlie.
 //トミー：
 Tommy:
 <$0D>
-// \nああ、また吐きそうだぜ。
- \n
-Ick, I'm about to hurl again. 
+//\nああ、また吐きそうだぜ。
+\n
+Ick, I'm about to hurl again.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nへへ、朝っぱらからバーベキュー、 \nお肉の焦げる臭いだぜ、ひゃひゃひゃ？
- \n
-Hehe, it smells like an early-morning \n
+//\nへへ、朝っぱらからバーベキュー、\nお肉の焦げる臭いだぜ、ひゃひゃひゃ？
+\n
+Hehe, it smells like an early-morning\n
 barbeque out here!
 <$1E>
 //声
-声 
+声
 <$00><$10><$11>
 //子リトル：
 子Little:
 <$0D>
-// \nなんで俺が… \nくそっ！俺が俺が、こんなところで！
- \n
-Oi, why do I feel so...no! Goddammit, \n
-not here! 
+//\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
+\n
+Oi, why do I feel so...no! Goddammit,\n
+not here!
 <$0E><$1E><$17><$00>
 
 // Pos: 00003BEC
@@ -155,7 +155,7 @@ not here!
 
 <$10>
 //おい、兄ちゃんよう、兄ちゃん…
-Hey, comrade... 
+Hey, comrade...
 <$00>
 
 // Pos: 00003BFF
@@ -165,9 +165,9 @@ Hey, comrade...
 #WHB(PTR, $00000409)
 
 <$10>
-//兄ちゃん、 \nおい、こっちだこっち、左だ。
-Comrade! \n
-Hey, look to your left! 
+//兄ちゃん、\nおい、こっちだこっち、左だ。
+Comrade!\n
+Hey, look to your left!
 <$00>
 
 // Pos: 00003C17
@@ -180,25 +180,25 @@ Hey, look to your left!
 //レッド：
 Red:
 <$0D>
-// \nどのツラさげてほっつき歩いてるんだ？
- \n
-What're you prancing around for? 
+//\nどのツラさげてほっつき歩いてるんだ？
+\n
+What're you prancing around for?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nひひひ、可愛い子犬ちゃんよう、 \nおじさんが遊んであげよう…
- \n
-Hehehe, oh, my darling puppy. Come \n
-here and play with Uncle Red... 
+//\nひひひ、可愛い子犬ちゃんよう、\nおじさんが遊んであげよう…
+\n
+Hehehe, oh, my darling puppy. Come\n
+here and play with Uncle Red...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nちくしょう！ \nコスマスをどこにやりやがった！ 来い！
- \n
-Grr, where did Cosmas go, huh?! Fine. \n
-YOU come with me! 
+//\nちくしょう！\nコスマスをどこにやりやがった！ 来い！
+\n
+Grr, where did Cosmas go, huh?! Fine.\n
+YOU come with me!
 <$00>
 
 // Pos: 00003C80
@@ -211,45 +211,45 @@ YOU come with me!
 //サミー：
 Sammy:
 <$0D>
-// \nあら、あなた… でも変ね、 \nさっきリャンハウスのところにいなかった？
- \n
-Hey, you look different! You didn't go to \n
-House Liang, did you? 
+//\nあら、あなた… でも変ね、\nさっきリャンハウスのところにいなかった？
+\n
+Hey, you look different! You didn't go to\n
+House Liang, did you?
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nそれともあなたも…
- \n
-Don't tell me, you also... 
+//\nそれともあなたも…
+\n
+Don't tell me, you also...
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nいや、建うわよ、人建いよね、 \nさっきのはなんだかアタシみたい、
- \n
-No, forget it. I'm mistaking you for \n
-someone else I saw. 
+//\nいや、建うわよ、人建いよね、\nさっきのはなんだかアタシみたい、
+\n
+No, forget it. I'm mistaking you for\n
+someone else I saw.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nそうよ、女っぽかったのよ。 \nこれでもアタシ…
- \n
+//\nそうよ、女っぽかったのよ。\nこれでもアタシ…
+\n
 Yeah, another woman like me...
 <$1E>
 //中
-中 
+中
 <$00><$11><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-// \nやつらは夜を動かすんだ、 \nいつでもどこでも、やつらなら夜にできる… \nあああ、もう終わりだ、終わりだ…
- \n
-They bump in the night, anytime, \n
+//\nやつらは夜を動かすんだ、\nいつでもどこでも、やつらなら夜にできる…\nあああ、もう終わりだ、終わりだ…
+\n
+They bump in the night, anytime,\n
 anywhere! They can do it all night... Oh,
 <$0C>
-it's over! It's all over! 
+it's over! It's all over!
 <$00>
 
 // Pos: 00003D49
@@ -262,31 +262,31 @@ it's over! It's all over!
 //サミー：
 Sammy:
 <$0D>
-// \nあらイヤだ、 \nあなたもあのおかしなことに加わるの…
- \n
-Oh dear, you're not teaming up with \n
-those oddballs, are you? 
+//\nあらイヤだ、\nあなたもあのおかしなことに加わるの…
+\n
+Oh dear, you're not teaming up with\n
+those oddballs, are you?
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nサイコちゃんたちの実験よ、 \n何だかハウスの様子が変なのよ。
- \n
-The little Psycho's, I mean. They're \n
+//\nサイコちゃんたちの実験よ、\n何だかハウスの様子が変なのよ。
+\n
+The little Psycho's, I mean. They're\n
 always up to strange experiments
 <$0C>
-over at Psycho Lab. 
+over at Psycho Lab.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nばりばり、ばりばりって \n音が開こえてくるのよ。
- \n
-They're always making weird \n
+//\nばりばり、ばりばりって\n音が開こえてくるのよ。
+\n
+They're always making weird\n
 scritching noises.
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00003DBA
@@ -299,28 +299,28 @@ scritching noises.
 //サミー：
 Sammy:
 <$0D>
-// \n何？ 何がどうしたの？ \nリトルがあわてて？
- \n
-Hey, what happened? Why is Little in \n
-such a non-little hurry? 
+//\n何？ 何がどうしたの？\nリトルがあわてて？
+\n
+Hey, what happened? Why is Little in\n
+such a non-little hurry?
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nあれ、リトルじゃないの？
- \n
-...Wait, was that not Little? 
+//\nあれ、リトルじゃないの？
+\n
+...Wait, was that not Little?
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nアタシの他にもいろいろ？ \nあはは、楽しいわね、ユカイだわ！
- \n
-Then that means there are others like \n
+//\nアタシの他にもいろいろ？\nあはは、楽しいわね、ユカイだわ！
+\n
+Then that means there are others like\n
 me! Heehee, what fun! Oh, I love this!
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00003E16
@@ -333,23 +333,23 @@ me! Heehee, what fun! Oh, I love this!
 //トミー：
 Tommy:
 <$0D>
-// \nくそっ、気分が悪いぜ、おうおう…
- \n
-Ick, I don't feel so hot right now. 
+//\nくそっ、気分が悪いぜ、おうおう…
+\n
+Ick, I don't feel so hot right now.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nあー、チャーリー様だ、お肉の臭い、 \nひへへへへなあ兄ちゃんよう、知ってるか？
- \n
-Charlie's got that bad meat smell right \n
+//\nあー、チャーリー様だ、お肉の臭い、\nひへへへへなあ兄ちゃんよう、知ってるか？
+\n
+Charlie's got that bad meat smell right\n
 now. You know what that means,
 <$0C>
 right?
 <$1B>
-//？知ってる \n知らない
-？Yes \n
-No 
+//？知ってる\n知らない
+？Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00003E71
@@ -362,43 +362,43 @@ No
 //トミー：
 Tommy:
 <$0D>
-// \nへへ、そうかい。 \nいよいよ始まるんだ、蕃判やら奇跡やらだ。
- \n
-Heh, thought so. Both Judgement and \n
+//\nへへ、そうかい。\nいよいよ始まるんだ、蕃判やら奇跡やらだ。
+\n
+Heh, thought so. Both Judgement and\n
 miracles are stirring up in strange
 <$0C>
-ways. 
+ways.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nとにかく、今のままじゃねぇぞ。 \nいろいろ変わるんだ。
- \n
-But it doesn't hit everyonet he same \n
+//\nとにかく、今のままじゃねぇぞ。\nいろいろ変わるんだ。
+\n
+But it doesn't hit everyonet he same\n
 way. It's different everywhere you
 <$0C>
-look. 
+look.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nハウスじゃサイコ野郎がパチパチ実験、 \nリャンハウスじゃ布がピカピカ光ってる…
- \n
-Psycho Lab has the crackly \n
+//\nハウスじゃサイコ野郎がパチパチ実験、\nリャンハウスじゃ布がピカピカ光ってる…
+\n
+Psycho Lab has the crackly\n
 experiment, House Liang has the
 <$0C>
-sparkly cloth. 
+sparkly cloth.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n俺はどうなるんだ、 \n兄ちゃんはどうなるんだ？
- \n
-What'll happen to me, comrade? And \n
+//\n俺はどうなるんだ、\n兄ちゃんはどうなるんだ？
+\n
+What'll happen to me, comrade? And\n
 what'll happen to you?
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00003F16
@@ -411,18 +411,18 @@ what'll happen to you?
 //ラミー：
 Rummy:
 <$0D>
-// \nはは、コスマスだな。 僕もコスマスみたいに、 \n心の友だちとお話できるようになってきたな。
- \n
-Oh, Cosmas. Hoho, I'm starting to talk \n
-to friends in my head the way he does. 
+//\nはは、コスマスだな。 僕もコスマスみたいに、\n心の友だちとお話できるようになってきたな。
+\n
+Oh, Cosmas. Hoho, I'm starting to talk\n
+to friends in my head the way he does.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-// \n僕にもいるんだな、 \nいつもお酒を飲んでるけれどね。
- \n
-I have friends too, even if one of them \n
-does drink a lot. 
+//\n僕にもいるんだな、\nいつもお酒を飲んでるけれどね。
+\n
+I have friends too, even if one of them\n
+does drink a lot.
 <$00>
 
 // Pos: 00003F73
@@ -435,12 +435,12 @@ does drink a lot.
 //コスマス：
 Cosmas:
 <$0D>
-// \nダークマンは何人もいないよ、ひとりだよ。 \nそれにお酒は飲まないよ。
- \n
-There aren't other people like Dark \n
+//\nダークマンは何人もいないよ、ひとりだよ。\nそれにお酒は飲まないよ。
+\n
+There aren't other people like Dark\n
 Man. There's only one, and he doesn't
 <$0C>
-drink alcohol. 
+drink alcohol.
 <$00>
 
 // Pos: 00003FA0
@@ -453,10 +453,10 @@ drink alcohol.
 //ラミー：
 Rummy:
 <$0D>
-// \nそうだね、僕のは建うね、 \nダークマンじゃないね。
- \n
-Really? Then I guess Dark Man and I are \n
-different in more ways than one, huh. 
+//\nそうだね、僕のは建うね、\nダークマンじゃないね。
+\n
+Really? Then I guess Dark Man and I are\n
+different in more ways than one, huh.
 <$00>
 
 // Pos: 00003FC3
@@ -469,18 +469,18 @@ different in more ways than one, huh.
 //コスマス：
 Cosmas:
 <$0D>
-// \nダークマンと話ができるのは僕だけさ。 \nそうだよね、ダークマン。
- \n
-I'm the only person who can talk to \n
-Dark Man. At least... 
+//\nダークマンと話ができるのは僕だけさ。\nそうだよね、ダークマン。
+\n
+I'm the only person who can talk to\n
+Dark Man. At least...
 <$00><$13><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nねぇ、ダークマン、 \nそっちにいくとレッドおじさんがいるよ。 \nきっといるよ。
- \n
-All right, Dark Man. If you go that way, \n
-you'll find Uncle Red. I'm sure of it. 
+//\nねぇ、ダークマン、\nそっちにいくとレッドおじさんがいるよ。\nきっといるよ。
+\n
+All right, Dark Man. If you go that way,\n
+you'll find Uncle Red. I'm sure of it.
 <$00>
 
 // Pos: 0000401D
@@ -493,10 +493,10 @@ you'll find Uncle Red. I'm sure of it.
 //ラミー：
 Rummy:
 <$0D>
-// \n同じ臭いだな、同じだな。 \nあんたと僕と。
- \n
-You and I smell the same! We have the \n
-same smell, a-ha! 
+//\n同じ臭いだな、同じだな。\nあんたと僕と。
+\n
+You and I smell the same! We have the\n
+same smell, a-ha!
 <$00>
 
 // Pos: 0000403E
@@ -509,9 +509,9 @@ same smell, a-ha!
 //スペーサー：
 Spacer:
 <$0D>
-// \n君は確か… サミー…
- \n
-You are you...Sammy?! 
+//\n君は確か… サミー…
+\n
+You are you...Sammy?!
 <$00>
 
 // Pos: 00004056
@@ -524,10 +524,10 @@ You are you...Sammy?!
 //ラミー：
 Rummy:
 <$0D>
-// \nブー、だな。 はずれだな。 \n僕はラミーだな。
- \n
-Bzzt! I thought you knew better. I'm \n
-Rummy! 
+//\nブー、だな。 はずれだな。\n僕はラミーだな。
+\n
+Bzzt! I thought you knew better. I'm\n
+Rummy!
 <$00>
 
 // Pos: 00004076
@@ -540,18 +540,18 @@ Rummy!
 //スペーサー：
 Spacer:
 <$0D>
-// \nそうか、分かった \nなら開くが、君は金星人をどう思う？
- \n
-Ah, I see. So, what do you think about \n
-the Venusians? 
+//\nそうか、分かった\nなら開くが、君は金星人をどう思う？
+\n
+Ah, I see. So, what do you think about\n
+the Venusians?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n本当に電波を送ってきているのか、 \nそれともマウンテンたちの思い建いなのか？
- \n
-Are they really sending us radio \n
-waves, or is Mountain just full of it? 
+//\n本当に電波を送ってきているのか、\nそれともマウンテンたちの思い建いなのか？
+\n
+Are they really sending us radio\n
+waves, or is Mountain just full of it?
 <$00>
 
 // Pos: 000040D7
@@ -564,20 +564,20 @@ waves, or is Mountain just full of it?
 //ラミー：
 Rummy:
 <$0D>
-// \nへへ、金星人か… \n確かに金星人がいるのは本当だな、
- \n
-Hoho, it's true! The Venusians do exist, \n
-a-ha! 
+//\nへへ、金星人か…\n確かに金星人がいるのは本当だな、
+\n
+Hoho, it's true! The Venusians do exist,\n
+a-ha!
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-// \nしかしな、電波は届いていないな。 \n弱いんだな、電波がな、だから届かない。
- \n
-But alas, we're not getting their \n
+//\nしかしな、電波は届いていないな。\n弱いんだな、電波がな、だから届かない。
+\n
+But alas, we're not getting their\n
 waves. The waves are too weak to
 <$0C>
-reach us. 
+reach us.
 <$00>
 
 // Pos: 00004133
@@ -590,10 +590,10 @@ reach us.
 //スペーサー：
 Spacer:
 <$0D>
-// \n金星人はいる、 \nけれど電波は届いてはいないんだな。
- \n
-So, there are Venusians, but we're not \n
-receiving their radio waves? 
+//\n金星人はいる、\nけれど電波は届いてはいないんだな。
+\n
+So, there are Venusians, but we're not\n
+receiving their radio waves?
 <$00>
 
 // Pos: 0000415E
@@ -606,8 +606,8 @@ receiving their radio waves?
 //ラミー：
 Rummy:
 <$0D>
-// \nそうだな、届いてないな。
- \n
-Nope, not a one. 
+//\nそうだな、届いてないな。
+\n
+Nope, not a one.
 <$00>
 

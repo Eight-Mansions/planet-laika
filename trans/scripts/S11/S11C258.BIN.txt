@@ -12,19 +12,19 @@
 #WHB(PTR, $00000145)
 
 <$12><$13><$13>
-//痛みはすぐに引く。 \nお前はこれで、苦しみから解き放たれたのだ。 \nもう、なにも思い悩むことはない。
-The pain will fade, for you are now free \n
-from suffering. Your fears are no \n
-more. 
+//痛みはすぐに引く。\nお前はこれで、苦しみから解き放たれたのだ。\nもう、なにも思い悩むことはない。
+The pain will fade, for you are now free\n
+from suffering. Your fears are no\n
+more.
 <$0C>
-//お前は我々と同じ中立だ。 \n善き人間も悪しき人間も、 \nともに弱い存在だ。
-Your kind and Ours are at balance. \n
-Whether good or evil, the human \n
-existence too is frail... 
+//お前は我々と同じ中立だ。\n善き人間も悪しき人間も、\nともに弱い存在だ。
+Your kind and Ours are at balance.\n
+Whether good or evil, the human\n
+existence too is frail...
 <$0C>
-//善悪を乗り越えるのだ。 \nお前には、それができる。
-...but you, at least, can overcome good \n
-and evil. 
+//善悪を乗り越えるのだ。\nお前には、それができる。
+...but you, at least, can overcome good\n
+and evil.
 <$00>
 
 // Pos: 0000126B
@@ -37,10 +37,10 @@ and evil.
 //コスマス：
 Cosmas:
 <$0D>
-// \n顔… 僕の顔がそこにある…僕は…
- \n
-You have my face on... \n
-Does that mean, I'm... 
+//\n顔… 僕の顔がそこにある…僕は…
+\n
+You have my face on...\n
+Does that mean, I'm...
 <$00>
 
 // Pos: 00001289
@@ -51,7 +51,7 @@ Does that mean, I'm...
 
 <$12><$13><$13>
 //お前は解放されたのだ。
-You are free. 
+You are free.
 <$00>
 
 // Pos: 0000129A
@@ -64,20 +64,20 @@ You are free.
 //コスマス：
 Cosmas:
 <$0D>
-// \nもう変な夢を見ることもないんだね。 \n砂の中に隠れてるような、変な夢…
- \n
-I won't have have those strange \n
+//\nもう変な夢を見ることもないんだね。\n砂の中に隠れてるような、変な夢…
+\n
+I won't have have those strange\n
 dreams anymore? Like the one where
 <$0C>
-I disappear in the sand? 
+I disappear in the sand?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nふふふ、僕は、自由なんだ！ \nそう、自由！
- \n
-Hehehe, I'm free! \n
-I'm really free! 
+//\nふふふ、僕は、自由なんだ！\nそう、自由！
+\n
+Hehehe, I'm free!\n
+I'm really free!
 <$00>
 
 // Pos: 000012EF
@@ -90,41 +90,41 @@ I'm really free!
 //コスマス：
 Cosmas:
 <$0D>
-// \nあれ？ あんた、昨日の…お客さん…
- \n
-Hmm? Oh, a guest. \n
-Were you...here yesterday? 
+//\nあれ？ あんた、昨日の…お客さん…
+\n
+Hmm? Oh, a guest.\n
+Were you...here yesterday?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nそうか！ \nあんたが、ここに連れてきてくれたんだね！
- \n
-Yeah, that's right! You're the one who \n
-brought me here! 
+//\nそうか！\nあんたが、ここに連れてきてくれたんだね！
+\n
+Yeah, that's right! You're the one who\n
+brought me here!
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nじゃあ、何かお返ししなくちゃ…
- \n
-I'd better thank you somehow. 
+//\nじゃあ、何かお返ししなくちゃ…
+\n
+I'd better thank you somehow.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nあとで寄ってよ。 僕の隠れ家。 \nサイコハウスの中にあるんだ。
- \n
-Stop by my hiding place inside of \n
-Psycho Lab, okay? 
+//\nあとで寄ってよ。 僕の隠れ家。\nサイコハウスの中にあるんだ。
+\n
+Stop by my hiding place inside of\n
+Psycho Lab, okay?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nもう、レッドおじさんの家には戻らない。 \n決めたから！
- \n
-I'll never go back to Uncle Red's! Never \n
-ever! 
+//\nもう、レッドおじさんの家には戻らない。\n決めたから！
+\n
+I'll never go back to Uncle Red's! Never\n
+ever!
 <$00>
 
 // Pos: 0000139B
@@ -137,19 +137,19 @@ ever!
 //コスマス：
 Cosmas:
 <$0D>
-// \nおそくなったね、 \n僕はコスマス。 風の子コスマスだよ！
- \n
-And before I forget, I'm Cosmas, the \n
-kid who runs like the wind! 
+//\nおそくなったね、\n僕はコスマス。 風の子コスマスだよ！
+\n
+And before I forget, I'm Cosmas, the\n
+kid who runs like the wind!
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
-// \nじゃあ、後でね！
- \n
+//\nじゃあ、後でね！
+\n
 Well, so long!
 <$1E>
 //理
-理 
+理
 <$00>
 

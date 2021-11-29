@@ -15,10 +15,10 @@
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nホワイトイーグルに会わなかったか、 \nお前をさがしてた。
- \n
-Did you meet with White Eagle? He was \n
-looking for you. 
+//\nホワイトイーグルに会わなかったか、\nお前をさがしてた。
+\n
+Did you meet with White Eagle? He was\n
+looking for you.
 <$00>
 
 // Pos: 000029B2
@@ -31,17 +31,17 @@ looking for you.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nお前だろ？ お前のお前だろ？
- \n
-It is you, right? You, as in, "you"? 
+//\nお前だろ？ お前のお前だろ？
+\n
+It is you, right? You, as in, "you"?
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n教えてやろう、またドールダンスが起きたんだ。 \nあれはハプニングか？
- \n
-So, tell me. Did another doll dance \n
-commence? Is that the surprise? 
+//\n教えてやろう、またドールダンスが起きたんだ。\nあれはハプニングか？
+\n
+So, tell me. Did another doll dance\n
+commence? Is that the surprise?
 <$00>
 
 // Pos: 000029FC
@@ -54,34 +54,34 @@ commence? Is that the surprise?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nユニバーサルマンが起こしたのなら命がけだ。
- \n
-Universal Man's wake means life or \n
-death. 
+//\nユニバーサルマンが起こしたのなら命がけだ。
+\n
+Universal Man's wake means life or\n
+death.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nドールダンスによって、 \n死の分身であるアイスマンが戻ってきた。
- \n
-Due to the doll dance, death's alter ego, \n
-Ice Man, has returned. 
+//\nドールダンスによって、\n死の分身であるアイスマンが戻ってきた。
+\n
+Due to the doll dance, death's alter ego,\n
+Ice Man, has returned.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nこれでユニバーサルマンは \n死の動機に憑かれることになる。
- \n
-Now, Universal Man is driven by his \n
-"reason" for dying. 
+//\nこれでユニバーサルマンは\n死の動機に憑かれることになる。
+\n
+Now, Universal Man is driven by his\n
+"reason" for dying.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n生きながらにして本物の死者となるのだ。
- \n
-That reason being, to become truly \n
-deceased while still alive. 
+//\n生きながらにして本物の死者となるのだ。
+\n
+That reason being, to become truly\n
+deceased while still alive.
 <$00>
 
 // Pos: 00002A9E
@@ -94,19 +94,19 @@ deceased while still alive.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nああ、さっき見つかったお前のお仲間だがな、 \nロッジは危ないので、避難させた。
- \n
-Ah! About "your" companion from \n
+//\nああ、さっき見つかったお前のお仲間だがな、\nロッジは危ないので、避難させた。
+\n
+Ah! About "your" companion from\n
 earlier. The lodge was dangerous, so
 <$0C>
-we evacuated them. 
+we evacuated them.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nロケットの中だ、あそこなら安心だ。
- \n
-They are safe, out in the rocket. 
+//\nロケットの中だ、あそこなら安心だ。
+\n
+They are safe, out in the rocket.
 <$00>
 
 // Pos: 00002AF6
@@ -119,17 +119,17 @@ They are safe, out in the rocket.
 //ウィリアム：
 William:
 <$0D>
-// \n確かにこの近くにあるんです、僕には分かる。
- \n
-We're certainly close. I know it. 
+//\n確かにこの近くにあるんです、僕には分かる。
+\n
+We're certainly close. I know it.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
-// \n預言を集めると実行者になれる、 \nそうなんですね。
- \n
-He who collects the prophecies \n
-becomes the leading star. That's right. 
+//\n預言を集めると実行者になれる、\nそうなんですね。
+\n
+He who collects the prophecies\n
+becomes the leading star. That's right.
 <$00>
 
 // Pos: 00002B40
@@ -142,18 +142,18 @@ becomes the leading star. That's right.
 //ブーマー：
 Boomer:
 <$0D>
-// \nどこかがつながってるんだ。 \n死の世界につながってるんだ。
- \n
-Ohhh, we must be connected to the \n
-Land of the Dead from somewhere. 
+//\nどこかがつながってるんだ。\n死の世界につながってるんだ。
+\n
+Ohhh, we must be connected to the\n
+Land of the Dead from somewhere.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-// \nあああ、死がにじみだしてくる。
- \n
-Ahhh, Death trickles in from every \n
-corner! 
+//\nあああ、死がにじみだしてくる。
+\n
+Ahhh, Death trickles in from every\n
+corner!
 <$00>
 
 // Pos: 00002B82
@@ -166,23 +166,23 @@ corner!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n何だ、このはねるような音は。
- \n
-What is that thumping noise? 
+//\n何だ、このはねるような音は。
+\n
+What is that thumping noise?
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nまあいい、それよりだ、ついに現れたぞ、 \n生ける死者の誕生だ！
- \n
-Well, more importantly, it is finally \n
-upon us: the birth of the living dead! 
+//\nまあいい、それよりだ、ついに現れたぞ、\n生ける死者の誕生だ！
+\n
+Well, more importantly, it is finally\n
+upon us: the birth of the living dead!
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nコロニーに来てくれ、早く！
- \n
-Come with me to the colony, hurry! 
+//\nコロニーに来てくれ、早く！
+\n
+Come with me to the colony, hurry!
 <$00>
 

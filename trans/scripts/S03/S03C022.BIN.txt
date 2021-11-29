@@ -15,10 +15,10 @@
 //エイプリル：
 April:
 <$0D>
-// \n何？ \n今なんか言った？
- \n
-Hey, did you hear someone talk just \n
-now? 
+//\n何？\n今なんか言った？
+\n
+Hey, did you hear someone talk just\n
+now?
 <$00>
 
 // Pos: 00001070
@@ -31,10 +31,10 @@ now?
 //エイプリル：
 April:
 <$0D>
-// \n誰？ \n誰か呼んだ？
- \n
-Hello? Is anyone there? Are you calling \n
-to us? 
+//\n誰？\n誰か呼んだ？
+\n
+Hello? Is anyone there? Are you calling\n
+to us?
 <$00>
 
 // Pos: 00001087
@@ -47,9 +47,9 @@ to us?
 //エイプリル：
 April:
 <$0D>
-// \n…
- \n
-... 
+//\n…
+\n
+...
 <$00>
 
 // Pos: 00001093
@@ -62,10 +62,10 @@ April:
 //エイプリル：
 April:
 <$0D>
-// \nおかしいな… 確かに私の名前を \n呼ぶ声が開こえたんだけど…
- \n
-...Weird. I could've sworn I heard \n
-someone call out my name. 
+//\nおかしいな… 確かに私の名前を\n呼ぶ声が開こえたんだけど…
+\n
+...Weird. I could've sworn I heard\n
+someone call out my name.
 <$00>
 
 // Pos: 000010C0
@@ -78,10 +78,10 @@ someone call out my name.
 //エイプリル：
 April:
 <$0D>
-// \nいいわ、何でもない… 行きましょ、 \nこの先にある黒いカベのところがそうね。
- \n
-I guess it's nothing. Let's go. We have to \n
-reach the black wall. 
+//\nいいわ、何でもない… 行きましょ、\nこの先にある黒いカベのところがそうね。
+\n
+I guess it's nothing. Let's go. We have to\n
+reach the black wall.
 <$00>
 
 // Pos: 000010F3
@@ -94,10 +94,10 @@ reach the black wall.
 //エイプリル：
 April:
 <$0D>
-// \n今はだめよ、連中にみつかると \nまた閉じ込められてしまうじゃない。
- \n
-Now's not the time! If we're caught \n
-again, we'll be imprisoned! 
+//\n今はだめよ、連中にみつかると\nまた閉じ込められてしまうじゃない。
+\n
+Now's not the time! If we're caught\n
+again, we'll be imprisoned!
 <$00>
 
 // Pos: 00001123
@@ -110,17 +110,17 @@ again, we'll be imprisoned!
 //エイプリル：
 April:
 <$0D>
-// \nそっちじゃないよ、ライカ。 \n黒いカベはこの先よ。
- \n
-Not that way, Laika! The black wall is \n
-over here! 
+//\nそっちじゃないよ、ライカ。\n黒いカベはこの先よ。
+\n
+Not that way, Laika! The black wall is\n
+over here!
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそっちは忘却の海よ。 \n黒いカベってそっちじゃないよ。
- \n
-That's Oceanum Oblivionis. The black \n
-wall won't be there! 
+//\nそっちは忘却の海よ。\n黒いカベってそっちじゃないよ。
+\n
+That's Oceanum Oblivionis. The black\n
+wall won't be there!
 <$00>
 

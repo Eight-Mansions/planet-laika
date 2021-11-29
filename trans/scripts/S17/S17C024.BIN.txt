@@ -15,22 +15,22 @@
 //ガリル：
 Galil:
 <$0D>
-// \nわれらがヒーロー、アーネストのご登場か！ \nこの星で自分を実惑したか、どうなんだ？
- \n
-And Ernest the Hero takes the stage! \n
+//\nわれらがヒーロー、アーネストのご登場か！\nこの星で自分を実惑したか、どうなんだ？
+\n
+And Ernest the Hero takes the stage!\n
 Did you like grasping for a sense of self
 <$0C>
-here? 
+here?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nだがもうおしまいだ、アーネスト！ \nお前をミーシャのもとに送り込んでやろう。
- \n
-Alas, your powerless escapades on \n
+//\nだがもうおしまいだ、アーネスト！\nお前をミーシャのもとに送り込んでやろう。
+\n
+Alas, your powerless escapades on\n
 this planet end here! I'm sending you
 <$0C>
-home to Masha! 
+home to Masha!
 <$00>
 
 // Pos: 0000104F
@@ -43,8 +43,8 @@ home to Masha!
 //アーネスト：
 Ernest:
 <$0D>
-// \nうるせぇ！ 俺はどこにも行きやしない！
- \n
-Shut up, you! I'm not going anywhere! 
+//\nうるせぇ！ 俺はどこにも行きやしない！
+\n
+Shut up, you! I'm not going anywhere!
 <$00>
 

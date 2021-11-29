@@ -11,29 +11,29 @@
 
 #WHB(PTR, $000002D5)
 
-//権の星はひどいよ、いろいろとね。 \n悪さをしかけてくるよ。
-This planet is horrible in more ways \n
-than one, and evil in more ways than \n
-one. 
+//権の星はひどいよ、いろいろとね。\n悪さをしかけてくるよ。
+This planet is horrible in more ways\n
+than one, and evil in more ways than\n
+one.
 <$0C>
 //あんた、大丈夫なの？ 耐えられるの？
 Do you think you can handle it?
 <$1E>
 //炎
-炎 
+炎
 <$00>
 //案ウが弱いとダメさ。 あんたは…
-案ウYou can't afford to be weak. 
+案ウYou can't afford to be weak.
 <$0C>
-//うーん、読めないな。 \n強いのか、弱いのか、わからないよ。
-Oddly, even I can't tell whether you're \n
-strong or weak! 
+//うーん、読めないな。\n強いのか、弱いのか、わからないよ。
+Oddly, even I can't tell whether you're\n
+strong or weak!
 <$0C>
-//さっきの人は読めたよ、ひどくおびえてるよ。 \n弱いんだね、きっと。
-The person I saw earlier was so \n
+//さっきの人は読めたよ、ひどくおびえてるよ。\n弱いんだね、きっと。
+The person I saw earlier was so\n
 scared, so they must have been weak.
 <$1E>
 //炎
-炎 
+炎
 <$00>
 

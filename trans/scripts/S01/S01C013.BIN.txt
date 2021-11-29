@@ -15,10 +15,10 @@
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nおっ！ 見えてきたぞ。 \nザ・フェイスだ！
- \n
-I can see it! \n
-That's the Face! 
+//\nおっ！ 見えてきたぞ。\nザ・フェイスだ！
+\n
+I can see it!\n
+That's the Face!
 <$00>
 
 // Pos: 0000281F
@@ -31,9 +31,9 @@ That's the Face!
 //エイプリル：
 April:
 <$0D>
-// \nあれが…顔…
- \n
-It...really does looks like a face. 
+//\nあれが…顔…
+\n
+It...really does looks like a face.
 <$00>
 
 // Pos: 00002831
@@ -46,10 +46,10 @@ It...really does looks like a face.
 //ヌーン：
 Noon:
 <$0D>
-// \nどれどれ… \n人類あこがれのお顔様ってワケか…
- \n
-Aye, a face only a human mother could \n
-love! 
+//\nどれどれ…\n人類あこがれのお顔様ってワケか…
+\n
+Aye, a face only a human mother could\n
+love!
 <$00>
 
 // Pos: 00002853
@@ -62,10 +62,10 @@ love!
 //エイプリル：
 April:
 <$0D>
-// \n火星人が残したのよ、 \n顔を忘れないように。
- \n
-What if the Martians left this for us, so \n
-we wouldn't forget the faces we had? 
+//\n火星人が残したのよ、\n顔を忘れないように。
+\n
+What if the Martians left this for us, so\n
+we wouldn't forget the faces we had?
 <$00>
 
 // Pos: 00002878
@@ -78,10 +78,10 @@ we wouldn't forget the faces we had?
 //ヌーン：
 Noon:
 <$0D>
-// \nへん、おかげで俺たちはこのざまだ。
- \n
-OUR faces, remember. It's their fault \n
-we're in this mess! 
+//\nへん、おかげで俺たちはこのざまだ。
+\n
+OUR faces, remember. It's their fault\n
+we're in this mess!
 <$00>
 
 // Pos: 00002892
@@ -94,10 +94,10 @@ we're in this mess!
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nさあ、みんな、着陸態勢に入るぞ！
- \n
-All right, everyone. \n
-Get ready to land! 
+//\nさあ、みんな、着陸態勢に入るぞ！
+\n
+All right, everyone.\n
+Get ready to land!
 <$00>
 
 // Pos: 000028B5
@@ -110,10 +110,10 @@ Get ready to land!
 //ヌーン：
 Noon:
 <$0D>
-// \n何だ！この紫色のは何だ！ 煙か？
- \n
-What's all this purple fluff? \n
-Is it...smoke?! 
+//\n何だ！この紫色のは何だ！ 煙か？
+\n
+What's all this purple fluff?\n
+Is it...smoke?!
 <$00>
 
 // Pos: 000028D1
@@ -126,10 +126,10 @@ Is it...smoke?!
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nヌーン、もういちど着陸目標を確認してくれ！ \nたのむ！
- \n
-Noon, you mind checking that landing \n
-point one more time? 
+//\nヌーン、もういちど着陸目標を確認してくれ！\nたのむ！
+\n
+Noon, you mind checking that landing\n
+point one more time?
 <$00>
 
 // Pos: 000028FF
@@ -142,24 +142,24 @@ point one more time?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nヌーン！ どうした、
- \n
-Noon! What happened?! 
+//\nヌーン！ どうした、
+\n
+Noon! What happened?!
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \n着陸目標からずれたんじゃないのか。 \nヌーン、答えろ、進入角が深すぎるぞ、
- \n
-Answer me, Noon! \n
-This landing angle's too steep! 
+//\n着陸目標からずれたんじゃないのか。\nヌーン、答えろ、進入角が深すぎるぞ、
+\n
+Answer me, Noon!\n
+This landing angle's too steep!
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nこのままでは火星にぶつかるぞ。 \n手動でなんとかするんだ！
- \n
-We'll crash into the surface at this \n
-rate! Switch it off auto! 
+//\nこのままでは火星にぶつかるぞ。\n手動でなんとかするんだ！
+\n
+We'll crash into the surface at this\n
+rate! Switch it off auto!
 <$00>
 

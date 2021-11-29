@@ -15,13 +15,13 @@
 //ゴールドマン：
 Goldman:
 <$0D>
-// \nなんかすげぇ音してたな？ \n俺には関係ないけどな。
- \n
-Not that it concerns me, but what's all \n
+//\nなんかすげぇ音してたな？\n俺には関係ないけどな。
+\n
+Not that it concerns me, but what's all\n
 the racket for?
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00000E02
@@ -50,12 +50,12 @@ the racket for?
 //ゴールドマン：
 Goldman:
 <$0D>
-// \n人のことは気にしねぇ、それが俺だ。
- \n
-I don't get wrapped up in other \n
+//\n人のことは気にしねぇ、それが俺だ。
+\n
+I don't get wrapped up in other\n
 peoples' business. Shit ain't me.
 <$1E>
 //家
-家 
+家
 <$00>
 

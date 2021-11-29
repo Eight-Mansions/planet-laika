@@ -15,35 +15,35 @@
 //ヌーン：
 Noon:
 <$0D>
-// \nはあ、はあ…俺としたことが…くそっ！ \nいやな思い出がよみがえってきて…
- \n
-Haah, haah. Was I just... Aww, bloody \n
+//\nはあ、はあ…俺としたことが…くそっ！\nいやな思い出がよみがえってきて…
+\n
+Haah, haah. Was I just... Aww, bloody\n
 hell. Sorry, I remembered something
 <$0C>
-'eavy. 
+'eavy.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nなあ、お前、 \nこれ避難小屋に見えるよな？
- \n
-Say, does this look like a safe 'ouse to \n
-you? 
+//\nなあ、お前、\nこれ避難小屋に見えるよな？
+\n
+Say, does this look like a safe 'ouse to\n
+you?
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \n俺にもそう見える…
- \n
-Sure looks like one to me. 
+//\n俺にもそう見える…
+\n
+Sure looks like one to me.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nちょっと開けてみてくれ。 \n扉だよ、そこの扉を開けるんだ。
- \n
-The front door looks safe enough. \n
-Open it and check. 
+//\nちょっと開けてみてくれ。\n扉だよ、そこの扉を開けるんだ。
+\n
+The front door looks safe enough.\n
+Open it and check.
 <$00>
 
 // Pos: 00001510
@@ -56,9 +56,9 @@ Open it and check.
 //ヌーン：
 Noon:
 <$0D>
-// \n大丈夫だ…入ってみよう。
- \n
-Everything looks clear. Ladies first. 
+//\n大丈夫だ…入ってみよう。
+\n
+Everything looks clear. Ladies first.
 <$00>
 
 // Pos: 00001529
@@ -71,12 +71,12 @@ Everything looks clear. Ladies first.
 //エイプリル：
 April:
 <$0D>
-// \nねえ、ライカは平気だったの、砂嵐や紫の霧… \n心に良くない影響を与えるって…
- \n
-How are you feeling, Laika? The \n
+//\nねえ、ライカは平気だったの、砂嵐や紫の霧…\n心に良くない影響を与えるって…
+\n
+How are you feeling, Laika? The\n
 sandstorms and the purple fog must be
 <$0C>
-affecting you. 
+affecting you.
 <$00>
 
 // Pos: 00001563
@@ -89,44 +89,44 @@ affecting you.
 //エイプリル：
 April:
 <$0D>
-// \n船長、きっと紫の霧に影響されたのよ… \n変だもん。
- \n
-It's weird, but...I'm sure this \n
+//\n船長、きっと紫の霧に影響されたのよ…\n変だもん。
+\n
+It's weird, but...I'm sure this\n
 environment is hurting the captain
 <$0C>
-too. 
+too.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nライカたちより先に小屋に着いてたよね、
- \n
-You know how the captain and I \n
-reached the safe house before you? 
+//\nライカたちより先に小屋に着いてたよね、
+\n
+You know how the captain and I\n
+reached the safe house before you?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそのときしきりに女の人の名前をつぶやいて… \nクロエ、クロエって。
- \n
-When the captain and I got here, he was \n
-muttering, "Chloe, Chloe, Chloe..." 
+//\nそのときしきりに女の人の名前をつぶやいて…\nクロエ、クロエって。
+\n
+When the captain and I got here, he was\n
+muttering, "Chloe, Chloe, Chloe..."
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nなんだか気味悪くて…
- \n
-That's the name of a girl he knew. It \n
-was too unsettling... 
+//\nなんだか気味悪くて…
+\n
+That's the name of a girl he knew. It\n
+was too unsettling...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n私、ヌーンから開いたことあるのよ、 \n船長とそのクロエって子のこと。
- \n
-Noon told me before about the two of \n
-them. About the captain and Chloe. 
+//\n私、ヌーンから開いたことあるのよ、\n船長とそのクロエって子のこと。
+\n
+Noon told me before about the two of\n
+them. About the captain and Chloe.
 <$00>
 
 // Pos: 0000161E
@@ -139,20 +139,20 @@ them. About the captain and Chloe.
 //エイプリル：
 April:
 <$0D>
-// \n船長が士官学校時代に知り合った少女… \n自分の妹のように可愛がっていたのに、 \n事故で死んじゃったんだって。
- \n
-They met back in the military academy. \n
-Tatler only loved her like a sister, but... 
+//\n船長が士官学校時代に知り合った少女…\n自分の妹のように可愛がっていたのに、\n事故で死んじゃったんだって。
+\n
+They met back in the military academy.\n
+Tatler only loved her like a sister, but...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nヌーンが教えてくれたんだけど、 \n船長はその子の写真を今でも大切に \n持ち歩いてるそうよ。
- \n
-...she died in an accident. Apparently, \n
+//\nヌーンが教えてくれたんだけど、\n船長はその子の写真を今でも大切に\n持ち歩いてるそうよ。
+\n
+...she died in an accident. Apparently,\n
 the captain keeps her photo with him at
 <$0C>
-all times. 
+all times.
 <$00>
 
 // Pos: 000016B0
@@ -165,10 +165,10 @@ all times.
 //エイプリル：
 April:
 <$0D>
-// \nさあ、この先よ。 \nちょっと見て大丈夫そうだったら戻らない？
- \n
-Anyways, we have work to do. Let's \n
-look around a little and check back. 
+//\nさあ、この先よ。\nちょっと見て大丈夫そうだったら戻らない？
+\n
+Anyways, we have work to do. Let's\n
+look around a little and check back.
 <$00>
 
 // Pos: 000016DD
@@ -181,10 +181,10 @@ look around a little and check back.
 //エイプリル：
 April:
 <$0D>
-// \nねえ…何か変よ… \n扉が開けっ放しになってる。
- \n
-Uhm, this doesn't look right. The door's \n
-wide open. 
+//\nねえ…何か変よ…\n扉が開けっ放しになってる。
+\n
+Uhm, this doesn't look right. The door's\n
+wide open.
 <$00>
 
 // Pos: 00001702
@@ -197,12 +197,12 @@ wide open.
 //エイプリル：
 April:
 <$0D>
-// \n船長たち、出かけたのかなあ… \n戻ってくるとき、 \n誰ともすれ建わなかったよね…
- \n
-I wonder if the captain took Noon out. \n
+//\n船長たち、出かけたのかなあ…\n戻ってくるとき、\n誰ともすれ建わなかったよね…
+\n
+I wonder if the captain took Noon out.\n
 If so, why didn't we see them on the
 <$0C>
-way back? 
+way back?
 <$00>
 
 // Pos: 00001739
@@ -219,11 +219,11 @@ way back?
 //エイプリル：
 April:
 <$0D>
-// \n表には誰もいないよ。 \n避難小屋の中はどう？ \n何か手がかり、なかった？
- \n
-Nothing around the perimeter. Should \n
+//\n表には誰もいないよ。\n避難小屋の中はどう？\n何か手がかり、なかった？
+\n
+Nothing around the perimeter. Should\n
 we look inside the safe house? There
 <$0C>
-could be clues. 
+could be clues.
 <$00>
 

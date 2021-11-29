@@ -15,12 +15,12 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n今の開いた？ \nウラジミールとセルゲイの声よ。何でまた？
- \n
-Did you hear that? Those were \n
+//\n今の開いた？\nウラジミールとセルゲイの声よ。何でまた？
+\n
+Did you hear that? Those were\n
 Vladimir and Sergei's voices,
 <$0C>
-but...why now? 
+but...why now?
 <$00>
 
 // Pos: 0000477B
@@ -33,12 +33,12 @@ but...why now?
 //アーネスト：
 Ernest:
 <$0D>
-// \nへん！ 俺には見えてたぜ。 \nぴかっと光るお宝、俺のお宝だ。
- \n
-Who knows. I did see my treasure \n
+//\nへん！ 俺には見えてたぜ。\nぴかっと光るお宝、俺のお宝だ。
+\n
+Who knows. I did see my treasure\n
 though. My brightly glowing
 <$0C>
-treasure... 
+treasure...
 <$00>
 
 // Pos: 000047A8
@@ -51,25 +51,25 @@ treasure...
 //スペーサー：
 Spacer:
 <$0D>
-// \n着陸地点に何かあったな。
- \n
-Back at the landing site? 
+//\n着陸地点に何かあったな。
+\n
+Back at the landing site?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nお宝かどうかは分からないが、 \n岩にうずもれていた。
- \n
-I doubt it was treasure, but I saw it too: \n
-something lodged in the rock. 
+//\nお宝かどうかは分からないが、\n岩にうずもれていた。
+\n
+I doubt it was treasure, but I saw it too:\n
+something lodged in the rock.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nアーネスト、あれには君のパワーが必要だな。
- \n
-Your power could come in handy for \n
-yanking it out, Ernest. 
+//\nアーネスト、あれには君のパワーが必要だな。
+\n
+Your power could come in handy for\n
+yanking it out, Ernest.
 <$00>
 
 // Pos: 0000480B
@@ -82,18 +82,18 @@ yanking it out, Ernest.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねぇ、どこなの、ここは？ \nやけにすさんだ場所ね。
- \n
-Where are we, anyways? \n
-This place is a shithole. 
+//\nねぇ、どこなの、ここは？\nやけにすさんだ場所ね。
+\n
+Where are we, anyways?\n
+This place is a shithole.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nせっかくのクリスマスよ、 \nここはさびしいわ。
- \n
-I'm not feeling the Xmas cheer here. \n
-Not with things this desolate. 
+//\nせっかくのクリスマスよ、\nここはさびしいわ。
+\n
+I'm not feeling the Xmas cheer here.\n
+Not with things this desolate.
 <$00>
 
 // Pos: 00004850
@@ -106,35 +106,35 @@ Not with things this desolate.
 //スペーサー：
 Spacer:
 <$0D>
-// \n火星だ。
- \n
-We're on Mars. \n
+//\n火星だ。
+\n
+We're on Mars.\n
 
 <$0F>
-//は \n任務で火星にやってきている。
- is on a mission to Mars. 
+//は\n任務で火星にやってきている。
+ is on a mission to Mars.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nこの星の何かが
- \n
-Something on the planet's surface is \n
+//\nこの星の何かが
+\n
+Something on the planet's surface is\n
 affecting 
 <$0F>
-//に作用して、 \nあんな声が開こえたんだ。
-'s mind. That's why we heard voices. 
+//に作用して、\nあんな声が開こえたんだ。
+'s mind. That's why we heard voices.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nつらかった子供の頃を思い出した… \n
- \n
-But those voices came from deep, dark \n
+//\nつらかった子供の頃を思い出した…\n
+\n
+But those voices came from deep, dark\n
 childhood memories. I thought 
 <$0F>
 //は、忘れてなかったんだ。
- forgot them. 
+ forgot them.
 <$00>
 
 // Pos: 000048D0
@@ -147,30 +147,30 @@ childhood memories. I thought
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあーら、作用だなんて、 \nいやな惑じね。
- \n
-Oh, we're getting the side effects? \n
-Aren't we lucky. 
+//\nあーら、作用だなんて、\nいやな惑じね。
+\n
+Oh, we're getting the side effects?\n
+Aren't we lucky.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nこれからアタシたちの出番、増えるのかしら。 \nそれにしてもクリスマス返上なのよ。
- \n
-Whatever it is, the three of us may \n
+//\nこれからアタシたちの出番、増えるのかしら。\nそれにしてもクリスマス返上なのよ。
+\n
+Whatever it is, the three of us may\n
 have more shifts soon, and none of us'll
 <$0C>
-be home for Xmas. 
+be home for Xmas.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n宇宙航空隊の無線技師って、 \nえらく大変なお仕事なのね。
- \n
-Honestly, who accepts a radio \n
+//\n宇宙航空隊の無線技師って、\nえらく大変なお仕事なのね。
+\n
+Honestly, who accepts a radio\n
 engineering job from the ISF at this
 <$0C>
-time of year? 
+time of year?
 <$00>
 
 // Pos: 00004958
@@ -183,17 +183,17 @@ time of year?
 //アーネスト：
 Ernest:
 <$0D>
-// \nへっ、結構なことだ。
- \n
-Eh, let the kid have their fun. 
+//\nへっ、結構なことだ。
+\n
+Eh, let the kid have their fun.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nちょっとばかしタイクツしてたところだ、 \nせいぜい楽しませてもらうぜ。
- \n
-Sounds boring to me, but if that's what \n
-decks their halls, so be it. 
+//\nちょっとばかしタイクツしてたところだ、\nせいぜい楽しませてもらうぜ。
+\n
+Sounds boring to me, but if that's what\n
+decks their halls, so be it.
 <$00>
 
 // Pos: 0000499E
@@ -206,12 +206,12 @@ decks their halls, so be it.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nじゃあ、ロケットから見えたのは、本物なのね。 \n火星の顔、あれがそうなのね？
- \n
-Yeah, they always wanted to see Mars \n
+//\nじゃあ、ロケットから見えたのは、本物なのね。\n火星の顔、あれがそうなのね？
+\n
+Yeah, they always wanted to see Mars\n
 from inside a rocket. I mean, shit, who
 <$0C>
-knew Mars had a face? 
+knew Mars had a face?
 <$00>
 
 // Pos: 000049D4
@@ -224,20 +224,20 @@ knew Mars had a face?
 //スペーサー：
 Spacer:
 <$0D>
-// \n本物だ。 ザ・フェイスと呼ばれている、 \n火星人のイセキだ。
- \n
-Literally everyone, Jo. We're near a \n
+//\n本物だ。 ザ・フェイスと呼ばれている、\n火星人のイセキだ。
+\n
+Literally everyone, Jo. We're near a\n
 Martian archeological site called the
 <$0C>
-Face. 
+Face.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n今回の任務となにやら関係がありそうだ。
- \n
-I take it the site is related to the survey \n
-unit's mission somehow. 
+//\n今回の任務となにやら関係がありそうだ。
+\n
+I take it the site is related to the survey\n
+unit's mission somehow.
 <$00>
 
 // Pos: 00004A26
@@ -250,12 +250,12 @@ unit's mission somehow.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねぇ、ここで顔、作るの？ \n私たちも人間の顔になるの？
- \n
-Oh, that's right! Aren't human faces \n
+//\nねぇ、ここで顔、作るの？\n私たちも人間の顔になるの？
+\n
+Oh, that's right! Aren't human faces\n
 made here? Can we all get the surgery
 <$0C>
-too? 
+too?
 <$00>
 
 // Pos: 00004A50
@@ -268,10 +268,10 @@ too?
 //アーネスト：
 Ernest:
 <$0D>
-// \n私たちだと？ おい、お前と一緒にするな、 \n俺はアーネストだ、分かったか！
- \n
-"We"? Don't lump me with you two. "I" \n
-am Ernest, understand? 
+//\n私たちだと？ おい、お前と一緒にするな、\n俺はアーネストだ、分かったか！
+\n
+"We"? Don't lump me with you two. "I"\n
+am Ernest, understand?
 <$00>
 
 // Pos: 00004A83
@@ -284,10 +284,10 @@ am Ernest, understand?
 //スペーサー：
 Spacer:
 <$0D>
-// \nあらそいはやめるんだ、アーネスト。 \nどうする、君が表に出るのか？
- \n
-Simmer down, Ernie. Are you TRYING to \n
-surface right now? 
+//\nあらそいはやめるんだ、アーネスト。\nどうする、君が表に出るのか？
+\n
+Simmer down, Ernie. Are you TRYING to\n
+surface right now?
 <$00>
 
 // Pos: 00004AB2
@@ -300,10 +300,10 @@ surface right now?
 //アーネスト：
 Ernest:
 <$0D>
-// \nああ、そうだな。 \n何が起こるか、分からねぇからな。
- \n
-Yeah, why not? Who knows what'd \n
-happen with me on the loose. 
+//\nああ、そうだな。\n何が起こるか、分からねぇからな。
+\n
+Yeah, why not? Who knows what'd\n
+happen with me on the loose.
 <$00>
 
 // Pos: 00004AD9
@@ -316,10 +316,10 @@ happen with me on the loose.
 //スペーサー：
 Spacer:
 <$0D>
-// \n誰か来る。 \nアーネスト、君の出番はなくなったようだ。
- \n
-We'll have to find out later. Someone's \n
-coming. 
+//\n誰か来る。\nアーネスト、君の出番はなくなったようだ。
+\n
+We'll have to find out later. Someone's\n
+coming.
 <$00>
 
 // Pos: 00004B04
@@ -332,21 +332,21 @@ coming.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、
- \n
+//\nひょひょ、
+\n
 Hyohyo, 
 <$0F>
-//や、 \nお前はひとりではないな。
-! \n
-You were not alone after all! 
+//や、\nお前はひとりではないな。
+!\n
+You were not alone after all!
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nやはりそうだ、 \nお前はフクザツだ、ひょひょ。
- \n
-Yes, you are more complex than you \n
-look, hyohyo! 
+//\nやはりそうだ、\nお前はフクザツだ、ひょひょ。
+\n
+Yes, you are more complex than you\n
+look, hyohyo!
 <$00>
 
 // Pos: 00004B4A
@@ -359,20 +359,20 @@ look, hyohyo!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこの星には悪がはびこっている。
- \n
-This planet is brimming with evil. \n
+//\nこの星には悪がはびこっている。
+\n
+This planet is brimming with evil.\n
 Exposure to this evil will steadily
 <$0C>
-affect you. 
+affect you.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nその影響を受けて、お前はどんどん変わるぞ。 \n人格変容するぞ、ひょひょひょ！
- \n
-When that happens, you'll undergo a \n
-personality shift, hyohyoh! 
+//\nその影響を受けて、お前はどんどん変わるぞ。\n人格変容するぞ、ひょひょひょ！
+\n
+When that happens, you'll undergo a\n
+personality shift, hyohyoh!
 <$00>
 
 // Pos: 00004BA1
@@ -385,28 +385,28 @@ personality shift, hyohyoh!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nオーラだ、悪に触れたらお前の体から \nオーラが現れるぞ。
- \n
-When you make contact with an \n
+//\nオーラだ、悪に触れたらお前の体から\nオーラが現れるぞ。
+\n
+When you make contact with an\n
 influence, a colorful aura will leave
 <$0C>
-that influence and enter you. 
+that influence and enter you.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nオーラの色で悪の種類が分かる、 \nひょひょ。
- \n
-The color of that aura designates what \n
-type of evil the influence is. 
+//\nオーラの色で悪の種類が分かる、\nひょひょ。
+\n
+The color of that aura designates what\n
+type of evil the influence is.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nさあ、心の状態を見えるようにしてやろう。 \nマインドスコープだ、
- \n
-Now, let's check the condition of your \n
-mind via the mind scope. 
+//\nさあ、心の状態を見えるようにしてやろう。\nマインドスコープだ、
+\n
+Now, let's check the condition of your\n
+mind via the mind scope.
 <$00>
 
 // Pos: 00004C20
@@ -419,10 +419,10 @@ mind via the mind scope.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nこれでお前の心が見えるぞ、のぞけるぞ。
- \n
-With this, you can keep a close eye on \n
-your mind. 
+//\nこれでお前の心が見えるぞ、のぞけるぞ。
+\n
+With this, you can keep a close eye on\n
+your mind.
 <$00>
 
 // Pos: 00004C43
@@ -431,9 +431,9 @@ your mind.
 
 #WHB(PTR, $00001C81)
 
-//歪僕、 \nまたお星さまとお話ししてるのか？
-歪僕、 \n
-Are you talking to the stars again? 
+//歪僕、\nまたお星さまとお話ししてるのか？
+歪僕、\n
+Are you talking to the stars again?
 <$0E><$3C><$17><$00>
 
 // Pos: 00004C5F
@@ -443,8 +443,7 @@ Are you talking to the stars again?
 #WHB(PTR, $00001C91)
 
 //歪験ゃひゃひゃ、ケッサクだこりゃ！
-歪験Hyahyahya! Get a life, space \n
-brain! 
+歪験Hyahyahya! Get a life, space brain!
 <$0E><$3C><$17><$00>
 
 // Pos: 00004C76
@@ -454,8 +453,8 @@ brain!
 #WHB(PTR, $00001CA9)
 
 //歪坑つまでいい子でいたいんだ、お前は？
-歪坑You always were a boring Goody \n
-Two Shoes. 
+歪坑You always were a boring Goody\n
+Two Shoes.
 <$0E><$3C><$17><$00>
 
 // Pos: 00004C90
@@ -465,12 +464,12 @@ Two Shoes.
 #WHB(PTR, $00001CB9)
 
 //歪的んな目で私を見るな！
-歪的Don't look at me with those eyes! 
+歪的Don't look at me with those eyes!
 <$0E><$3C><$17><$00><$00>
 //えへへ、見つかった？ まだ？
 Heehee, found them yet?
 <$1E>
 //炎
-炎 
+炎
 <$00>
 

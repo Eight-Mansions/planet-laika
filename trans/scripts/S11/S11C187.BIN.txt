@@ -15,12 +15,12 @@
 //レッド：
 Red:
 <$0D>
-// \n人の家で何やってるんだ？ \n誰だお前は？ 見たことない野郎だ。
- \n
-What are you doing, creeping around \n
+//\n人の家で何やってるんだ？\n誰だお前は？ 見たことない野郎だ。
+\n
+What are you doing, creeping around\n
 the neighborhood? I haven't seen your
 <$0C>
-ugly mug before. 
+ugly mug before.
 <$00>
 
 // Pos: 00001D90
@@ -33,17 +33,17 @@ ugly mug before.
 //レッド：
 Red:
 <$0D>
-// \n落ちてなかったか？ \n俺のアレだ、ウデだ。
- \n
-Did I...fail? Am I unclean? 
+//\n落ちてなかったか？\n俺のアレだ、ウデだ。
+\n
+Did I...fail? Am I unclean?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nお前いつまでぼーっと突っ立ってるんだ、 \nこの野郎！
- \n
-H-how long have you been standing \n
-there, BASTARD?! 
+//\nお前いつまでぼーっと突っ立ってるんだ、\nこの野郎！
+\n
+H-how long have you been standing\n
+there, BASTARD?!
 <$00>
 
 // Pos: 00001DD3
@@ -56,18 +56,18 @@ there, BASTARD?!
 //レッド：
 Red:
 <$0D>
-// \n俺のウデは泡だ、真っ白な泡だよ、
- \n
-I'm good with bubbles. Pure, white, \n
-foamy bubbles... 
+//\n俺のウデは泡だ、真っ白な泡だよ、
+\n
+I'm good with bubbles. Pure, white,\n
+foamy bubbles...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n見たことあるだろ。忘れて出たんだ、 \n泡を残しちゃいけないんだ。 あわてて…
- \n
-First they're there, and poof! They're \n
-gone. Don't leave me, Bubbles. Don't... 
+//\n見たことあるだろ。忘れて出たんだ、\n泡を残しちゃいけないんだ。 あわてて…
+\n
+First they're there, and poof! They're\n
+gone. Don't leave me, Bubbles. Don't...
 <$00>
 
 // Pos: 00001E21
@@ -80,49 +80,49 @@ gone. Don't leave me, Bubbles. Don't...
 //レッド：
 Red:
 <$0D>
-// \nどこへやった、お前！
- \n
-Where did you run off to?! 
+//\nどこへやった、お前！
+\n
+Where did you run off to?!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nぐずぐずしてると泡のおじさんに \n捕まってしまう。
- \n
-If you hang around too long, you'll be \n
-caught by Uncle Bubbles. 
+//\nぐずぐずしてると泡のおじさんに\n捕まってしまう。
+\n
+If you hang around too long, you'll be\n
+caught by Uncle Bubbles.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nひとりで家にいるときは危ねぇんだ。 \nおじさんは俺のことをずっと見てるんだ、
- \n
-I didn't feel safe home alone. Uncle was \n
-watching me the entire time. 
+//\nひとりで家にいるときは危ねぇんだ。\nおじさんは俺のことをずっと見てるんだ、
+\n
+I didn't feel safe home alone. Uncle was\n
+watching me the entire time.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nその時のおじさんのくちびるは 濡れてる…
- \n
-His lips were so slick... 
+//\nその時のおじさんのくちびるは 濡れてる…
+\n
+His lips were so slick...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nあああ、お前もか！ \n見るな、俺を見るんじゃない！
- \n
-Grr, what do you want?! Don't...don't \n
-look at me! 
+//\nあああ、お前もか！\n見るな、俺を見るんじゃない！
+\n
+Grr, what do you want?! Don't...don't\n
+look at me!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n見るな見るな！
- \n
+//\n見るな見るな！
+\n
 I SAID DON'T LOOK!
 <$1E>
 //中
-中 
+中
 <$00>
 

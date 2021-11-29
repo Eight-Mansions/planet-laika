@@ -11,9 +11,9 @@
 
 #WHB(PTR, $00000BD1)
 
-//広い、そこにいるの… あんただろ？ \nさっきのあんただろ？
-広Hey, you there! Weren't you here \n
-before? 
+//広い、そこにいるの… あんただろ？\nさっきのあんただろ？
+広Hey, you there! Weren't you here\n
+before?
 <$00>
 
 // Pos: 00003AFD
@@ -23,7 +23,7 @@ before?
 #WHB(PTR, $00000D15)
 
 //話っていうんだろ？
-話, is it? 
+話, is it?
 <$00>
 
 // Pos: 00003B08
@@ -36,10 +36,10 @@ before?
 //ダミアヌス：
 Damian:
 <$0D>
-// \n不思議だなぁ… \nあんたって…つかみどころないんだよ。 \nなかなか読めないからね。
- \n
-You're so...shifty! I had an especially \n
-hard time getting a good look at you. 
+//\n不思議だなぁ…\nあんたって…つかみどころないんだよ。\nなかなか読めないからね。
+\n
+You're so...shifty! I had an especially\n
+hard time getting a good look at you.
 <$00>
 
 // Pos: 00003B3E
@@ -52,35 +52,35 @@ hard time getting a good look at you.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nライカ… \nそれがあんたのニックネームなんだろ。
- \n
-Laika... That's only a nickname, I see. 
+//\nライカ…\nそれがあんたのニックネームなんだろ。
+\n
+Laika... That's only a nickname, I see.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n僕はダミアヌス… \nへへ、砂の子ダミアヌスさ。
- \n
-I'm Damian, heehee! Damian, the kid \n
-who shifts like the sand! 
+//\n僕はダミアヌス…\nへへ、砂の子ダミアヌスさ。
+\n
+I'm Damian, heehee! Damian, the kid\n
+who shifts like the sand!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nあのふたり、どこに行ったか知りたいかい？
- \n
-So, Laika, would you like to know \n
-where your two friends went? 
+//\nあのふたり、どこに行ったか知りたいかい？
+\n
+So, Laika, would you like to know\n
+where your two friends went?
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n僕が誘導したんだ、 \nでも途中で勝手に抜け出したんだよ、ふふふ。
- \n
-I offered to show them around, but, \n
+//\n僕が誘導したんだ、\nでも途中で勝手に抜け出したんだよ、ふふふ。
+\n
+I offered to show them around, but,\n
 heehee, they wandered off on their
 <$0C>
-own along the way. 
+own along the way.
 <$00>
 
 // Pos: 00003BD5
@@ -93,50 +93,50 @@ own along the way.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nあのふたりはね、 \nこの星に呼ばれたってこと。
- \n
-The planet called out to those two, and \n
-they answered. 
+//\nあのふたりはね、\nこの星に呼ばれたってこと。
+\n
+The planet called out to those two, and\n
+they answered.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nふたりとも弱いんだね。
- \n
-Your friends sure are weak, huh! 
+//\nふたりとも弱いんだね。
+\n
+Your friends sure are weak, huh!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nふふふ、女の子だけ帰納の丘に誘導したよ…
- \n
-Hehee, the girl was led to the Inductive \n
-Hills. 
+//\nふふふ、女の子だけ帰納の丘に誘導したよ…
+\n
+Hehee, the girl was led to the Inductive\n
+Hills.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nそれにしても不思議だなぁ、あんただけは \n誘導できなかったよ。
- \n
-Still, it's strange that you of all people \n
-were not called there. 
+//\nそれにしても不思議だなぁ、あんただけは\n誘導できなかったよ。
+\n
+Still, it's strange that you of all people\n
+were not called there.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nなんでかな…最大のナゾだね。
- \n
-And why is that? That's the real puzzle. 
+//\nなんでかな…最大のナゾだね。
+\n
+And why is that? That's the real puzzle.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n女の子はこの先、帰納の丘にいるよ。 \nちょっと疲れたみたいだったよ。
- \n
-Anyways, the girl seemed a little tired. \n
+//\n女の子はこの先、帰納の丘にいるよ。\nちょっと疲れたみたいだったよ。
+\n
+Anyways, the girl seemed a little tired.\n
 She's through the Inductive Hills just
 <$0C>
-ahead. 
+ahead.
 <$00>
 
 // Pos: 00003CAC
@@ -149,33 +149,33 @@ ahead.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nそうそう、あんたにあげるよ、砂のシンパシー。 \nいい名前だろ。
- \n
-Here, you can have this. It's called \n
+//\nそうそう、あんたにあげるよ、砂のシンパシー。\nいい名前だろ。
+\n
+Here, you can have this. It's called\n
 "Sand's Sympathy". It's a good name,
 <$0C>
-no? 
+no?
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n僕に用があるときには \nそれで呼んでくれるといいよ。
- \n
-If you feel you need me for anything, \n
-use this. I will answer. 
+//\n僕に用があるときには\nそれで呼んでくれるといいよ。
+\n
+If you feel you need me for anything,\n
+use this. I will answer.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nもっとも、この場所じゃなきゃ、 \nだめだけどね。
- \n
-You need to do so out here in the sands, \n
+//\nもっとも、この場所じゃなきゃ、\nだめだけどね。
+\n
+You need to do so out here in the sands,\n
 of course. If not, how am I supposed to
 <$0C>
 hear?
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 00003D23
@@ -185,15 +185,15 @@ hear?
 #WHB(PTR, $000014E9)
 
 <$10>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //    
     
 <$0D>
 //砂のシンパシーを手に入れた。
-Sand Sympathy acquired. 
+Sand Sympathy acquired.
 <$00>
 
 // Pos: 00003D3D
@@ -206,10 +206,10 @@ Sand Sympathy acquired.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nえへへ、さっそくだね。 \nあんた、気がみじかいの？
- \n
-Hmm, that was fast! Are you feeling \n
-out of your element? 
+//\nえへへ、さっそくだね。\nあんた、気がみじかいの？
+\n
+Hmm, that was fast! Are you feeling\n
+out of your element?
 <$00>
 
 // Pos: 00003D60
@@ -222,48 +222,48 @@ out of your element?
 //ダミアヌス：
 Damian:
 <$0D>
-// \n僕が誰かってことだよね。 僕は砂の子、 \nえへへへへへ、でもオバケじゃないよ。
- \n
-I'm in my element, see? I'm the kid who \n
+//\n僕が誰かってことだよね。 僕は砂の子、\nえへへへへへ、でもオバケじゃないよ。
+\n
+I'm in my element, see? I'm the kid who\n
 shifts like the sand, remember? But
 <$0C>
-I'm not a ghost! 
+I'm not a ghost!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nそんな僕にも分からないことがあるんだ。 \nどうしてだろう、あんたを誘導できなかった。
- \n
-The one thing I'll never understand is \n
+//\nそんな僕にも分からないことがあるんだ。\nどうしてだろう、あんたを誘導できなかった。
+\n
+The one thing I'll never understand is\n
 how Planet Mars couldn't lead you
 <$0C>
-anywhere. 
+anywhere.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n誘導っていうのは、その人を導くことなんだ。
- \n
-To lead someone is to show that person \n
-their way. 
+//\n誘導っていうのは、その人を導くことなんだ。
+\n
+To lead someone is to show that person\n
+their way.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nちょっとした遊びだけど、 \nあんたにはムリみたいだ。
- \n
-I'm only having fun here, but I'd say \n
-you're impossible! 
+//\nちょっとした遊びだけど、\nあんたにはムリみたいだ。
+\n
+I'm only having fun here, but I'd say\n
+you're impossible!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nさて、帰らなきゃ、またね。
- \n
+//\nさて、帰らなきゃ、またね。
+\n
 Anyways, I guess I'd better head back.
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 00003E2D
@@ -276,19 +276,19 @@ Anyways, I guess I'd better head back.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nえへへへ、あんた、さびしがり屋さんなの。
- \n
-Heehee, you are one lonely customer! 
+//\nえへへへ、あんた、さびしがり屋さんなの。
+\n
+Heehee, you are one lonely customer!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n僕に会いたいってことは、 \nなにか開きたいことができたんだね。
- \n
-Looking for me like this means there's \n
+//\n僕に会いたいってことは、\nなにか開きたいことができたんだね。
+\n
+Looking for me like this means there's\n
 something you wish you could open up
 <$0C>
-about. 
+about.
 <$00>
 
 // Pos: 00003E78
@@ -305,50 +305,50 @@ about.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nイーブルマインドのことだろ、 \n顔に書いてあるさ。
- \n
-Evil Mind is sprawled all over your face. 
+//\nイーブルマインドのことだろ、\n顔に書いてあるさ。
+\n
+Evil Mind is sprawled all over your face.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nあんた、地球にマグマってあるの知ってるよね。 \n火星のイーブルマインドは \nそれと同じようなものだよ。
- \n
-Evil Mind runs through Planet Mars the \n
+//\nあんた、地球にマグマってあるの知ってるよね。\n火星のイーブルマインドは\nそれと同じようなものだよ。
+\n
+Evil Mind runs through Planet Mars the\n
 way magma courses through Planet
 <$0C>
-Earth. 
+Earth.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nときどき地上に吹き出してくるんだ。 \nイーブルマインドって、簡単にいうと悪い気さ。 \n心が弱いとね、すぐに影響される…
- \n
-And, like magma, sometimes it erupts. \n
+//\nときどき地上に吹き出してくるんだ。\nイーブルマインドって、簡単にいうと悪い気さ。\n心が弱いとね、すぐに影響される…
+\n
+And, like magma, sometimes it erupts.\n
 Its wickedness absorbs and devours
 <$0C>
-the weak-hearted. 
+the weak-hearted.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nえへへ、おかしなことになっちゃうんだ。 \nイーブルマインドは紫色だよ。
- \n
-Heehee, you can even see Evil Mind's \n
+//\nえへへ、おかしなことになっちゃうんだ。\nイーブルマインドは紫色だよ。
+\n
+Heehee, you can even see Evil Mind's\n
 eeriness. Remember, Evil Mind is
 <$0C>
-purple in color. 
+purple in color.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nじゃあ、もう帰るよ。 \nあんたも気をつけてね。
- \n
-Anyways, I have to go now. Until next \n
+//\nじゃあ、もう帰るよ。\nあんたも気をつけてね。
+\n
+Anyways, I have to go now. Until next\n
 time!
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 00003F7D
@@ -361,10 +361,10 @@ time!
 //ダミアヌス：
 Damian:
 <$0D>
-// \nまたまた僕だよ、で、今度はなんだい？
- \n
-It's me again! So, what will we talk \n
-about this time? 
+//\nまたまた僕だよ、で、今度はなんだい？
+\n
+It's me again! So, what will we talk\n
+about this time?
 <$00>
 
 // Pos: 00003F9D
@@ -377,56 +377,56 @@ about this time?
 //ダミアヌス：
 Damian:
 <$0D>
-// \nあはー、そんな目で僕のこと見て…
- \n
-Well, well! Look at you, looking at me \n
-with those eyes... 
+//\nあはー、そんな目で僕のこと見て…
+\n
+Well, well! Look at you, looking at me\n
+with those eyes...
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n分かったよ、 \nあんたの体から出てるビヨビヨのことだね。
- \n
-It's as if you're looking at me from \n
+//\n分かったよ、\nあんたの体から出てるビヨビヨのことだね。
+\n
+It's as if you're looking at me from\n
 outside of your own body. You're
 <$0C>
-looking with your "aura". 
+looking with your "aura".
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nそれはオーラだよ。 \nそうさ、あんたは火星の人間と話すだけで \n悪の影響を受けてるのさ。
- \n
-See, if you so much as talk to humans on \n
+//\nそれはオーラだよ。\nそうさ、あんたは火星の人間と話すだけで\n悪の影響を受けてるのさ。
+\n
+See, if you so much as talk to humans on\n
 Mars, you'll be touched by their evil
 <$0C>
-aura. 
+aura.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n火星の住人はみんな、いや、ほとんどが \nイーブルマインドによって悪人になって \nしまってるのさ。
- \n
-Most every dweller of Planet Mars is \n
-under the influence of Evil Mind. 
+//\n火星の住人はみんな、いや、ほとんどが\nイーブルマインドによって悪人になって\nしまってるのさ。
+\n
+Most every dweller of Planet Mars is\n
+under the influence of Evil Mind.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n悪人だよ、すごいね。 \n僕だって例外じゃないってこと。
- \n
-That means most everyone evil. \n
-Amazing, right? And I'm no exception! 
+//\n悪人だよ、すごいね。\n僕だって例外じゃないってこと。
+\n
+That means most everyone evil.\n
+Amazing, right? And I'm no exception!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nさ、じゃあ、もう帰るね。
- \n
+//\nさ、じゃあ、もう帰るね。
+\n
 And with that, I'm off!
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 00004098
@@ -439,17 +439,17 @@ And with that, I'm off!
 //ダミアヌス：
 Damian:
 <$0D>
-// \nあんた、僕のこと気に入ったの？ \nそんなワケないよね。
- \n
-Do you like me? You don't see why you \n
-would. 
+//\nあんた、僕のこと気に入ったの？\nそんなワケないよね。
+\n
+Do you like me? You don't see why you\n
+would.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nで、あんたが知りたいことは…
- \n
-Now, what would you like to know... 
+//\nで、あんたが知りたいことは…
+\n
+Now, what would you like to know...
 <$00>
 
 // Pos: 000040D8
@@ -462,47 +462,47 @@ Now, what would you like to know...
 //ダミアヌス：
 Damian:
 <$0D>
-// \nわりと当たり前のことだね… 悪の種類でしょ。 \n３つあるって、そんなこともういいじゃない。
- \n
-I bet you want to know about the many \n
+//\nわりと当たり前のことだね… 悪の種類でしょ。\n３つあるって、そんなこともういいじゃない。
+\n
+I bet you want to know about the many\n
 traits of evil. There are three types,
 <$0C>
-but... 
+but...
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nそれよりさ、欲悪がビジュアル系っていうのは、 \nなんだか建わない？
- \n
-...their traits aren't so simple! You see, \n
-greed is a Visual type trait. 
+//\nそれよりさ、欲悪がビジュアル系っていうのは、\nなんだか建わない？
+\n
+...their traits aren't so simple! You see,\n
+greed is a Visual type trait.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n力悪がアニマル系っていうのはよく分かるし、 \n知悪がサイコ系っていうのも \nその通りだけどさ。
- \n
-Power is Animal type, and wisdom is \n
-Psycho type. Do you see now? 
+//\n力悪がアニマル系っていうのはよく分かるし、\n知悪がサイコ系っていうのも\nその通りだけどさ。
+\n
+Power is Animal type, and wisdom is\n
+Psycho type. Do you see now?
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nねぇ、欲悪ってコロニーには \nリンダとマラケシュしかいないけど、 \n他にもいるって知ってる？
- \n
-Linda and Marrakech won't be the only \n
-greedy people you meet in the colony. 
+//\nねぇ、欲悪ってコロニーには\nリンダとマラケシュしかいないけど、\n他にもいるって知ってる？
+\n
+Linda and Marrakech won't be the only\n
+greedy people you meet in the colony.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nえへへ、ほんとだよ。 \nじゃあね、帰るから。
- \n
-Heehee, I'm serious! Anyways, I'd \n
+//\nえへへ、ほんとだよ。\nじゃあね、帰るから。
+\n
+Heehee, I'm serious! Anyways, I'd\n
 better go now!
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 000041D7
@@ -515,10 +515,10 @@ better go now!
 //ダミアヌス：
 Damian:
 <$0D>
-// \nさあて、なにを話そうかな… \nコロニーの不思議っていうのはどう？
- \n
-What shall we talk about this time? \n
-How about...a mystery of the colony! 
+//\nさあて、なにを話そうかな…\nコロニーの不思議っていうのはどう？
+\n
+What shall we talk about this time?\n
+How about...a mystery of the colony!
 <$00>
 
 // Pos: 00004205
@@ -531,48 +531,48 @@ How about...a mystery of the colony!
 //ダミアヌス：
 Damian:
 <$0D>
-// \n消灯時間って知ってる？ \nコロニーの不思議さ。
- \n
-"What mystery", you ask? Well, do you \n
-know what "lights-out" time is? 
+//\n消灯時間って知ってる？\nコロニーの不思議さ。
+\n
+"What mystery", you ask? Well, do you\n
+know what "lights-out" time is?
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n消灯って夜のことだろ… \nだから夜なら分かるんだけど、 \nそれだけじゃないんだ、消灯時間は。
- \n
-Sure, we all turn the lights out at night, \n
-but the colony all does so at a set time. 
+//\n消灯って夜のことだろ…\nだから夜なら分かるんだけど、\nそれだけじゃないんだ、消灯時間は。
+\n
+Sure, we all turn the lights out at night,\n
+but the colony all does so at a set time.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nね、不思議だろ… \n昔あそこはとびっきりの悪人を \n閉じ込めておく部屋だったんだ。
- \n
-In the old days, they used to have a \n
+//\nね、不思議だろ…\n昔あそこはとびっきりの悪人を\n閉じ込めておく部屋だったんだ。
+\n
+In the old days, they used to have a\n
 room with a bed, where they
 <$0C>
-imprisoned the worst of the worst. 
+imprisoned the worst of the worst.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nあそこって、知ってるよね、 \nあんたの個室だよ。
- \n
-Do you know where that room is? \n
+//\nあそこって、知ってるよね、\nあんたの個室だよ。
+\n
+Do you know where that room is?\n
 Actually, it's the room you're staying
 <$0C>
-in! 
+in!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nさ、もう行かなきゃ、またね。
- \n
+//\nさ、もう行かなきゃ、またね。
+\n
 And with that, I'm heading out.
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 000042E5
@@ -585,10 +585,10 @@ And with that, I'm heading out.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nいきなりだけど、夢の話なんてどう？
- \n
-I know it's random, but do you want to \n
-talk about dreams? 
+//\nいきなりだけど、夢の話なんてどう？
+\n
+I know it's random, but do you want to\n
+talk about dreams?
 <$00>
 
 // Pos: 00004303
@@ -601,53 +601,53 @@ talk about dreams?
 //ダミアヌス：
 Damian:
 <$0D>
-// \n夢にもいろいろあるけれど、そうだなぁ、 \n遠い夢ってどう？
- \n
-Sure, there are many dreams, but \n
+//\n夢にもいろいろあるけれど、そうだなぁ、\n遠い夢ってどう？
+\n
+Sure, there are many dreams, but\n
 sometimes, we dreams of things we
 <$0C>
-can only see in the distance. 
+can only see in the distance.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nずっと遠くに見えてるんだ… よくあるんだよ、 \n僕は遠くに人形が見えてる。
- \n
-We dream of things well beyond our \n
+//\nずっと遠くに見えてるんだ… よくあるんだよ、\n僕は遠くに人形が見えてる。
+\n
+We dream of things well beyond our\n
 reach. For me, I sometimes see a doll in
 <$0C>
-the far distance. 
+the far distance.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n一抱えもある大きな人形、 \nそれが真っ黒なんだよ。 \n目もなにもなし、とにかく真っ黒さ。
- \n
-It's a large-armed doll that's all black. \n
+//\n一抱えもある大きな人形、\nそれが真っ黒なんだよ。\n目もなにもなし、とにかく真っ黒さ。
+\n
+It's a large-armed doll that's all black.\n
 It doesn't have eyes either. It's pitch
 <$0C>
-black all over. 
+black all over.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nまるで夜がそのまま人形になったみたいなんだ。 \nでも、その人形となにするわけでもなくて、 \nただ僕は遠くから見てるだけなんだけどね…
- \n
-It's as if the night sky became a doll that \n
+//\nまるで夜がそのまま人形になったみたいなんだ。\nでも、その人形となにするわけでもなくて、\nただ僕は遠くから見てるだけなんだけどね…
+\n
+It's as if the night sky became a doll that\n
 does nothing. I can only watch it from
 <$0C>
-afar. 
+afar.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n夢ってそんなもんだよね、おかしいね。 \nさて、そろそろ、帰るね。
- \n
-Dreams are strange like that, aren't \n
+//\n夢ってそんなもんだよね、おかしいね。\nさて、そろそろ、帰るね。
+\n
+Dreams are strange like that, aren't\n
 they. And with that, I'd better go home.
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 00004419
@@ -660,10 +660,10 @@ they. And with that, I'd better go home.
 //ダミアヌス：
 Damian:
 <$0D>
-// \nねぇ、あんたはなにをされるのがイヤなの？
- \n
-Hey, have you ever had to do something \n
-you didn't want to do? 
+//\nねぇ、あんたはなにをされるのがイヤなの？
+\n
+Hey, have you ever had to do something\n
+you didn't want to do?
 <$00>
 
 // Pos: 00004438
@@ -676,36 +676,36 @@ you didn't want to do?
 //ダミアヌス：
 Damian:
 <$0D>
-// \nオトナになっていやなことって、 \n本当はコドモのころにすごくいやな目に \nあってるんだよ…
- \n
-Know what I hate about becoming an \n
+//\nオトナになっていやなことって、\n本当はコドモのころにすごくいやな目に\nあってるんだよ…
+\n
+Know what I hate about becoming an\n
 adult? Having really bad experiences
 <$0C>
-with adults as a kid. 
+with adults as a kid.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n忘れてるだけで。 \nふふふ、おかしいのはそのいやなことを \nまたやってる自分がいるんだ。
- \n
-Only, I don't recall what the \n
+//\n忘れてるだけで。\nふふふ、おかしいのはそのいやなことを\nまたやってる自分がいるんだ。
+\n
+Only, I don't recall what the\n
 experiences were. Sadly, I bet I'm
 <$0C>
-being one of those bad experiences \n
-now. 
+being one of those bad experiences\n
+now.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \n誰かをギセイにしてね。 \n人間ってどうしていつもくり返すんだろ。
- \n
-We all have someone to blame, don't \n
+//\n誰かをギセイにしてね。\n人間ってどうしていつもくり返すんだろ。
+\n
+We all have someone to blame, don't\n
 we? Why do humans doom themselves
 <$0C>
 to repetition so? 
 <$1E>
 //炎
-炎 
+炎
 <$00>
 
 // Pos: 000044D6
@@ -718,19 +718,19 @@ to repetition so?
 //ダミアヌス：
 Damian:
 <$0D>
-// \nなんだよ、あんたもせっかちだな。
- \n
-You're awfully hasty, you know! 
+//\nなんだよ、あんたもせっかちだな。
+\n
+You're awfully hasty, you know!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
-// \nヤツギバヤは止してくれ。分かる？ \nヤツギバヤだよ、それ、きらいなんだ。
- \n
-Stop calling on me back-to-back, over \n
+//\nヤツギバヤは止してくれ。分かる？\nヤツギバヤだよ、それ、きらいなんだ。
+\n
+Stop calling on me back-to-back, over\n
 and over! I hate it!
 <$1E>
 //炎
-炎 
+炎
 <$00>
 

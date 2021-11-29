@@ -15,9 +15,9 @@
 //スペーサー：
 Spacer:
 <$0D>
-// \n君は… リバー！
- \n
-You must be Liever! 
+//\n君は… リバー！
+\n
+You must be Liever!
 <$00>
 
 // Pos: 0000186A
@@ -30,10 +30,10 @@ You must be Liever!
 //リバー：
 Liever:
 <$0D>
-// \nあいつもおびえはじめてるんだ！ \n僕のウラガワにいるやつ、リトルのことだよ。
- \n
-My opposite's starting to freak out too. \n
-Little is, I mean. 
+//\nあいつもおびえはじめてるんだ！\n僕のウラガワにいるやつ、リトルのことだよ。
+\n
+My opposite's starting to freak out too.\n
+Little is, I mean.
 <$00>
 
 // Pos: 0000189B
@@ -46,10 +46,10 @@ Little is, I mean.
 //スペーサー：
 Spacer:
 <$0D>
-// \nリバー、君には見えるんだな、思念の眼が。
- \n
-Can you see anything through the \n
-mind's eye? 
+//\nリバー、君には見えるんだな、思念の眼が。
+\n
+Can you see anything through the\n
+mind's eye?
 <$00>
 
 // Pos: 000018BF
@@ -62,9 +62,9 @@ mind's eye?
 //リバー：
 Liever:
 <$0D>
-// \nもちろんさ、あんたと一緒だよ。
- \n
-Well, of course. I see us here. 
+//\nもちろんさ、あんたと一緒だよ。
+\n
+Well, of course. I see us here.
 <$00>
 
 // Pos: 000018DB
@@ -77,9 +77,9 @@ Well, of course. I see us here.
 //スペーサー：
 Spacer:
 <$0D>
-// \nこの先はどこにつながってるんだ？
- \n
-Okay. So, what are we in for up ahead? 
+//\nこの先はどこにつながってるんだ？
+\n
+Okay. So, what are we in for up ahead?
 <$00>
 
 // Pos: 000018F9
@@ -92,10 +92,10 @@ Okay. So, what are we in for up ahead?
 //リバー：
 Liever:
 <$0D>
-// \n恐いところだよ。 \n自分を見失うかも知れない、そんな場所さ。
- \n
-A scary place, where one might lose \n
-their true self. 
+//\n恐いところだよ。\n自分を見失うかも知れない、そんな場所さ。
+\n
+A scary place, where one might lose\n
+their true self.
 <$00>
 
 // Pos: 00001927
@@ -108,9 +108,9 @@ their true self.
 //スペーサー：
 Spacer:
 <$0D>
-// \n自分を見失う？
- \n
-Lose one's true self? 
+//\n自分を見失う？
+\n
+Lose one's true self?
 <$00>
 
 // Pos: 0000193D
@@ -123,16 +123,16 @@ Lose one's true self?
 //リバー：
 Liever:
 <$0D>
-// \n自分に向き合うんだ、 \nそして本当の自分を見つけるんだ…
- \n
-Face your self, and you will find your \n
-true self. 
+//\n自分に向き合うんだ、\nそして本当の自分を見つけるんだ…
+\n
+Face your self, and you will find your\n
+true self.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \nふふふ、本当の自分がいればの話だけどね。
-Heh, if your "true self" exists in \n
-the first place, that is. 
+//\nふふふ、本当の自分がいればの話だけどね。
+Heh, if your "true self" exists in\n
+the first place, that is.
 <$00>
 

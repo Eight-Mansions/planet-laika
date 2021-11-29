@@ -27,12 +27,12 @@
 //酸索坑夫４号：
 Oxygen Miner 4：
 <$0D>
-// \n俺の家が…シー…家…
- \n
+//\n俺の家が…シー…家…
+\n
 My HouSe...WHooSH... NoT MY HouSe...
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00001463
@@ -45,12 +45,12 @@ My HouSe...WHooSH... NoT MY HouSe...
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-// \nシーシー…燃える…
- \n
+//\nシーシー…燃える…
+\n
 WhOOsh, whOOsh, It's All bUrnIng...
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00001481
@@ -63,12 +63,12 @@ WhOOsh, whOOsh, It's All bUrnIng...
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
-// \n燃えているのは炎なのか、家なのか、 \nどっちなんだ、シー？
- \n
-Is It thE fIrE thAt's bUrnIng, Or Is It thE \n
+//\n燃えているのは炎なのか、家なのか、\nどっちなんだ、シー？
+\n
+Is It thE fIrE thAt's bUrnIng, Or Is It thE\n
 hOUsE, whOOsh?
 <$1E>
 //中
-中 
+中
 <$00>
 

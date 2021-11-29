@@ -11,33 +11,33 @@
 
 #WHB(PTR, $000006FD)
 
- 
+
 <$00><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ…人格の死だ、
- \n
-Hyohyo... This is another death of a \n
-personality. 
+//\nひょひょ…人格の死だ、
+\n
+Hyohyo... This is another death of a\n
+personality.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n人格を失えば
- \n
+//\n人格を失えば
+\n
 When one's personality wanes, 
 <$0F>
-//は \n自分を保てなくなる。
-, the self cannot go on. 
+//は\n自分を保てなくなる。
+, the self cannot go on.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、残念なことだ、つらいことだ。
- \n
-It's a truly unfortunate affair, \n
-hyohyo. 
+//\nひょひょ、残念なことだ、つらいことだ。
+\n
+It's a truly unfortunate affair,\n
+hyohyo.
 <$00>
 
 // Pos: 00001530
@@ -46,31 +46,31 @@ hyohyo.
 
 #WHB(PTR, $00000705)
 
- 
+
 <$00><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ…これはこれは、 \nお前はあの３人とは建うぞ。
- \n
-Hyohyo... I see you're different from \n
-the other three. 
+//\nひょひょ…これはこれは、\nお前はあの３人とは建うぞ。
+\n
+Hyohyo... I see you're different from\n
+the other three.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \n
- \n
+//\n
+\n
 But, you're not the same as 
 <$0F>
-//とはお前のことだったのか、 \nいやそうではなかったのか。
-, are you? No, not at all. 
+//とはお前のことだったのか、\nいやそうではなかったのか。
+, are you? No, not at all.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nいずれにせよ、終わりだ、つらいことだ。
- \n
-At any rate, your suffering ends now. 
+//\nいずれにせよ、終わりだ、つらいことだ。
+\n
+At any rate, your suffering ends now.
 <$00>
 

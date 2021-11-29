@@ -15,18 +15,18 @@
 //ゴールド：
 Gold:
 <$0D>
-// \nなんかバチバチ音がするんだ。 \nロッジの方からだ。
- \n
-There's a crackling noise coming from \n
-the lodge. 
+//\nなんかバチバチ音がするんだ。\nロッジの方からだ。
+\n
+There's a crackling noise coming from\n
+the lodge.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nまた変なまじないでもやってるのか… \nあ、あ、これがそうか？
- \n
-Are they doing that strange ritual \n
-again? Wouldn't doubt it. 
+//\nまた変なまじないでもやってるのか…\nあ、あ、これがそうか？
+\n
+Are they doing that strange ritual\n
+again? Wouldn't doubt it.
 <$00>
 
 // Pos: 0000262F
@@ -39,20 +39,20 @@ again? Wouldn't doubt it.
 //ゴールド：
 Gold:
 <$0D>
-// \nお前らが来てからロクなことがねぇ。 \nまたバチバチしてきたぜ、
- \n
-Nothing good's come out of you \n
+//\nお前らが来てからロクなことがねぇ。\nまたバチバチしてきたぜ、
+\n
+Nothing good's come out of you\n
 Earthlings showin' up. Blowin' sparks
 <$0C>
-wherever you go. 
+wherever you go.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nおい、レッドのやつもいかれちまった、 \nお前らのせいだ。
- \n
-Hmph, I bet it's your fault Red went \n
-crazy too. 
+//\nおい、レッドのやつもいかれちまった、\nお前らのせいだ。
+\n
+Hmph, I bet it's your fault Red went\n
+crazy too.
 <$00>
 
 // Pos: 0000267C
@@ -65,10 +65,10 @@ crazy too.
 //ゴールド：
 Gold:
 <$0D>
-// \nなんでだ？ おい、変だ、 \n俺がもうひとりいるみたいだ…
- \n
-Gulp... I don't feel so good. It's like \n
-there's a...nother me... 
+//\nなんでだ？ おい、変だ、\n俺がもうひとりいるみたいだ…
+\n
+Gulp... I don't feel so good. It's like\n
+there's a...nother me...
 <$00>
 
 // Pos: 000026A2
@@ -93,18 +93,18 @@ there's a...nother me...
 //ゴールドマン：
 Goldman:
 <$0D>
-// \nははは、バカめ。 \n俺はゴールドマン、誰よりも強い。
- \n
-Heyyyy, tweaker! I'm Goldman, and \n
-I'm tougher than every last one of you! 
+//\nははは、バカめ。\n俺はゴールドマン、誰よりも強い。
+\n
+Heyyyy, tweaker! I'm Goldman, and\n
+I'm tougher than every last one of you!
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
-// \n俺に刃向かうなど、もってのほかだ、 \n分かったか。
- \n
-There's no way you can take me on, got \n
-it? 
+//\n俺に刃向かうなど、もってのほかだ、\n分かったか。
+\n
+There's no way you can take me on, got\n
+it?
 <$00>
 
 // Pos: 000026EE
@@ -117,9 +117,9 @@ it?
 //ゴールドマン：
 Goldman:
 <$0D>
-// \n弱いやつほどおしゃべりだ。 \n俺は建うぜ。
- \n
-The less they bite, the more they bark. \n
-I'm not like that. 
+//\n弱いやつほどおしゃべりだ。\n俺は建うぜ。
+\n
+The less they bite, the more they bark.\n
+I'm not like that.
 <$00>
 

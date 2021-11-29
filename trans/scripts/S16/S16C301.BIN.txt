@@ -15,17 +15,17 @@
 //ヘロデ：
 Herod:
 <$0D>
-// \nおお、何だ、生クビ野郎じゃねぇのか…
- \n
-Ohhh, if it isn't you floating head \n
-bastards again... 
+//\nおお、何だ、生クビ野郎じゃねぇのか…
+\n
+Ohhh, if it isn't you floating head\n
+bastards again...
 <$0C><$12><$0B><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nおおお、何だ… あああ、来るな！
- \n
-Ohh, what're you...no! GET AWAY! 
+//\nおおお、何だ… あああ、来るな！
+\n
+Ohh, what're you...no! GET AWAY!
 <$00>
 
 // Pos: 00001C55
@@ -38,18 +38,18 @@ Ohh, what're you...no! GET AWAY!
 //ヘロデ：
 Herod:
 <$0D>
-// \nあああ、やめろ、バケモノめ！ \n来るな！
- \n
-Ohhhh, stop! Get away from me, YOU \n
-MONSTERS! 
+//\nあああ、やめろ、バケモノめ！\n来るな！
+\n
+Ohhhh, stop! Get away from me, YOU\n
+MONSTERS!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nアガタ、どこにいるんだ、ちくしょう、 \n寄るな、バケモノ！
- \n
-Agatha, dammit! Where are you? Get \n
-back! GET BACK! 
+//\nアガタ、どこにいるんだ、ちくしょう、\n寄るな、バケモノ！
+\n
+Agatha, dammit! Where are you? Get\n
+back! GET BACK!
 <$00>
 
 // Pos: 00001C97
@@ -62,21 +62,21 @@ back! GET BACK!
 //ヘロデ：
 Herod:
 <$0D>
-// \nあああ、やめてくれ、お前は？ \nあああ、基場に戻れ！
- \n
-No, stop! Who are you?! No! Go back to \n
-your filthy graves! 
+//\nあああ、やめてくれ、お前は？\nあああ、基場に戻れ！
+\n
+No, stop! Who are you?! No! Go back to\n
+your filthy graves!
 <$00><$10>
 //きゃきゃきゃきゃきゃきゃきゃきゃきゃきゃ
-Heeheeheeheehee! 
+Heeheeheeheehee!
 <$00><$10><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nくそっ、生クビ野郎だけじゃ足りないのか、 \nもうまっぴらだ！
- \n
-Dammit, haven't you floating heads \n
-had enough fun? Leave me alone! 
+//\nくそっ、生クビ野郎だけじゃ足りないのか、\nもうまっぴらだ！
+\n
+Dammit, haven't you floating heads\n
+had enough fun? Leave me alone!
 <$00>
 
 // Pos: 00001CFC
@@ -89,78 +89,78 @@ had enough fun? Leave me alone!
 //ヘロデ：
 Herod:
 <$0D>
-// \nあはははは、お前も暗示にかかったのか？
- \n
-Ahaha, well? Did you get the hint? 
+//\nあはははは、お前も暗示にかかったのか？
+\n
+Ahaha, well? Did you get the hint?
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nあははは、不幸な人間はますます不幸になる、
- \n
-That's right. Unhappy people only \n
-become more unhappy. 
+//\nあははは、不幸な人間はますます不幸になる、
+\n
+That's right. Unhappy people only\n
+become more unhappy.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \n過去をおそれる人間は \nますます恐怖にからめ取られる、
- \n
-People who fear their past only find \n
-more fear of that past in the end. 
+//\n過去をおそれる人間は\nますます恐怖にからめ取られる、
+\n
+People who fear their past only find\n
+more fear of that past in the end.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nそういうことだ。
- \n
-That's all there is to it. 
+//\nそういうことだ。
+\n
+That's all there is to it.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nあははは、お前はどうなんだ。
- \n
-Ahahaha, you're not mad at me, are \n
-you? 
+//\nあははは、お前はどうなんだ。
+\n
+Ahahaha, you're not mad at me, are\n
+you?
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nもうじき終わりだろう。 \n俺は一足早くおさらばだ、
- \n
-Well, I'll be gone before you know it. 
+//\nもうじき終わりだろう。\n俺は一足早くおさらばだ、
+\n
+Well, I'll be gone before you know it.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nあはははは、 \n恐怖が俺の中ではち切れそうになってきた。
- \n
-Ahaha, my fears are going to rip \n
+//\nあはははは、\n恐怖が俺の中ではち切れそうになってきた。
+\n
+Ahaha, my fears are going to rip\n
 through me with their hooks any
 <$0C>
-minute now. 
+minute now.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nあははははは、もうじきだ、もうじき。
- \n
-Ahaha, they're getting closer! Closer! \n
-CLOSER! 
+//\nあははははは、もうじきだ、もうじき。
+\n
+Ahaha, they're getting closer! Closer!\n
+CLOSER!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
-// \nちくしょう…
- \n
-Dammit...! 
+//\nちくしょう…
+\n
+Dammit...!
 <$00><$10>
 //きゃきゃきゃきゃきゃきゃきゃきゃきゃきゃ
-Heeheeheeheehee! 
+Heeheeheeheehee!
 <$00><$10>
 //きゃははははははははは
-Hahahahahahaha! 
+Hahahahahahaha!
 <$00>
 
 // Pos: 00001E20
@@ -169,55 +169,55 @@ Hahahahahahaha!
 
 #WHB(PTR, $00000A0D)
 
- 
+
 <$10><$18><$00>
 //ぁセ。
-ぁセ。 
+ぁセ。
 <$00><$00><$00>
-//チャーリー、ごちそう、ごちそう。 \nもうすぐ、ごちそう、ごちそう。
-FEED CHARLIE. FEED CHARLIE. \n
+//チャーリー、ごちそう、ごちそう。\nもうすぐ、ごちそう、ごちそう。
+FEED CHARLIE. FEED CHARLIE.\n
 NOW. NOW. FEED CHARLIE NOW.
 <$1A>
 //ヒ
-ヒ 
+ヒ
 <$00><$00><$00><$18><$00>
 //ぁば
-ぁば 
+ぁば
 <$1B><$00><$00><$00>
-//チャーリー、見つけた、ごちそう、 \n見つけた。
-CHARLIE SEES YOU. FEED CHARLIE. \n
+//チャーリー、見つけた、ごちそう、\n見つけた。
+CHARLIE SEES YOU. FEED CHARLIE.\n
 CHARLIE SEES YOU.
 <$1A>
 //ぁ
-ぁ 
+ぁ
 <$00><$00><$00><$18><$00>
 //ぁほ
-ぁほ 
+ぁほ
 <$1D><$00><$00><$00>
-//チャーリー、食べたい、ごちそう、 \n食べたい。
-CHARLIE'S HUNGRY. FEED HUNGRY \n
+//チャーリー、食べたい、ごちそう、\n食べたい。
+CHARLIE'S HUNGRY. FEED HUNGRY\n
 CHARLIE.
 <$1A>
 //も
-も 
+も
 <$00><$00><$00><$18><$00>
 //ぽM
-ぽM 
+ぽM
 <$1A><$00><$00><$00>
 //チャーリー、考える、ごちそう、考える。
-FEED CHARLIE. CHARLIE KNOWS. \n
+FEED CHARLIE. CHARLIE KNOWS.\n
 CHARLIE KNOWS.
 <$1A>
 //あ
-あ 
+あ
 <$00><$00><$00><$18><$00>
 //ぽホ
-ぽホ 
+ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS KNEW. 
+CHARLIE KNEW. CHARLIE ALWAYS KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
-CHARLIE'S AWAKE! CHARLIE'S AWAKE! 
+CHARLIE'S AWAKE! CHARLIE'S AWAKE!
 <$00>
 

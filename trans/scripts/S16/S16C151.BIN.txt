@@ -15,29 +15,29 @@
 //ヤング：
 Yang:
 <$0D>
-// \nひゃひゃー、乗ったぞ、 \nひゅーっと電波に乗ったぞ。
- \n
-Wheeeeee, I'm riding! I'm riding on \n
-radio waves! Weee! 
+//\nひゃひゃー、乗ったぞ、\nひゅーっと電波に乗ったぞ。
+\n
+Wheeeeee, I'm riding! I'm riding on\n
+radio waves! Weee!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nあんたもだろ、俺と一緒に電波に乗れるんだろ。 \n見たところそんな惑じだ、俺と一緒だ、
-nYou are too! We're riding \n
-together on radio waves! I see you \n
-sense it too, just like I do! 
+//\nあんたもだろ、俺と一緒に電波に乗れるんだろ。\n見たところそんな惑じだ、俺と一緒だ、
+nYou are too! We're riding\n
+together on radio waves! I see you\n
+sense it too, just like I do!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nあんたはスペーサーっていうんだ。 \n知ってるよ、頭にびんびんくるタイプだ。
- \n
-You, who goes by Spacer. Our type is \n
+//\nあんたはスペーサーっていうんだ。\n知ってるよ、頭にびんびんくるタイプだ。
+\n
+You, who goes by Spacer. Our type is\n
 hard-headed, I know.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00000B84
@@ -50,15 +50,15 @@ hard-headed, I know.
 //ヤング：
 Yang:
 <$0D>
-// \nついに届いたんだな、電波だ！ \nあんたも電波だ、俺と一緒だスペーサー。
- \n
-We're all finally here: you, me and the \n
+//\nついに届いたんだな、電波だ！\nあんたも電波だ、俺と一緒だスペーサー。
+\n
+We're all finally here: you, me and the\n
 radio waves! We're all together now,
 <$0C>
 Spacer!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00000BB9
@@ -71,27 +71,27 @@ Spacer!
 //ヤング：
 Yang:
 <$0D>
-// \n何かがはねてる、ぴょんぴょん… \n開こえないか？
- \n
-It sounds like something's bouncing. \n
-Can't you hear it? 
+//\n何かがはねてる、ぴょんぴょん…\n開こえないか？
+\n
+It sounds like something's bouncing.\n
+Can't you hear it?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nブリックロードの赤い家の中で \n開いたことがある…
- \n
-The red house on Brick Road... It's open! 
+//\nブリックロードの赤い家の中で\n開いたことがある…
+\n
+The red house on Brick Road... It's open!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n俺は、ひゃ！ 中に入れたんだ！
- \n
+//\n俺は、ひゃ！ 中に入れたんだ！
+\n
 Wahoo! I'm going in!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00000C1A
@@ -104,12 +104,12 @@ Wahoo! I'm going in!
 //スペーサー：
 Spacer:
 <$0D>
-// \nはねる音？ここでは開こえない、 \nどこか別の場所だろう。
- \n
-A bouncing sound? I don't hear \n
+//\nはねる音？ここでは開こえない、\nどこか別の場所だろう。
+\n
+A bouncing sound? I don't hear\n
 anything here. It must be somewhere
 <$0C>
-else. 
+else.
 <$00>
 
 // Pos: 00000C47
@@ -122,10 +122,10 @@ else.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nいやね、何がはねてるのよ。 \nそんな音、開こえないわよ。
- \n
-Jesus. Something's reverberating, \n
-but I can't hear the sound. 
+//\nいやね、何がはねてるのよ。\nそんな音、開こえないわよ。
+\n
+Jesus. Something's reverberating,\n
+but I can't hear the sound.
 <$00>
 
 // Pos: 00000C70
@@ -138,10 +138,10 @@ but I can't hear the sound.
 //アーネスト：
 Ernest:
 <$0D>
-// \n何も開こえねぇな。 \nおい、お前の空耳なんじゃねぇのか。
- \n
-I don't hear anything. Maybe you're \n
-just mishearing things. 
+//\n何も開こえねぇな。\nおい、お前の空耳なんじゃねぇのか。
+\n
+I don't hear anything. Maybe you're\n
+just mishearing things.
 <$00>
 
 // Pos: 00000C9B
@@ -154,12 +154,12 @@ just mishearing things.
 //ヤング：
 Yang:
 <$0D>
-// \nはは、はねてるはねてる、いやな音だ。
- \n
+//\nはは、はねてるはねてる、いやな音だ。
+\n
 Haha, that bouncing sound is so bad!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00000CBA
@@ -172,13 +172,13 @@ Haha, that bouncing sound is so bad!
 //ヤング：
 Yang:
 <$0D>
-// \n何か光らなかったか？ありゃ電波じゃない、 \nもっと別ものだ。
- \n
-What was glowing out there? It wasn't \n
+//\n何か光らなかったか？ありゃ電波じゃない、\nもっと別ものだ。
+\n
+What was glowing out there? It wasn't\n
 radio waves, but something else.
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00000CE7
@@ -191,12 +191,12 @@ radio waves, but something else.
 //ヤング：
 Yang:
 <$0D>
-// \nここには電波も届かない、 \nそうだ、そうに建いない。
- \n
-The radio waves can't reach here \n
+//\nここには電波も届かない、\nそうだ、そうに建いない。
+\n
+The radio waves can't reach here\n
 either. Sad, but true...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 

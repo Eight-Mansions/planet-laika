@@ -15,43 +15,43 @@
 //ヤング：
 Yang:
 <$0D>
-// \nへへへ、記憶の谷、そうだろ、 \nあそこはおっかない。
- \n
-Hehehe, Valles Memoriae. That place is \n
-ghastly! 
+//\nへへへ、記憶の谷、そうだろ、\nあそこはおっかない。
+\n
+Hehehe, Valles Memoriae. That place is\n
+ghastly!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nみんな憑かれてるんだ、蕃判の始まりだ。 \n足音を忍ばせて近付いてくる。 どこにだ？
- \n
-Everyone there is possessed, but \n
+//\nみんな憑かれてるんだ、蕃判の始まりだ。\n足音を忍ばせて近付いてくる。 どこにだ？
+\n
+Everyone there is possessed, but\n
 Judgement has begun. It tiptoes ever
 <$0C>
-closer. 
+closer.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nへっ、心の中にだ。
- \n
-Creep where, you ask? Into the mind. 
+//\nへっ、心の中にだ。
+\n
+Creep where, you ask? Into the mind.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nここはそういう星だ、
- \n
-Mars is a dog-eat-dog world, \n
-understand. 
+//\nここはそういう星だ、
+\n
+Mars is a dog-eat-dog world,\n
+understand.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n弱いやつらはみんなやられちまう。 \n俺たちは建う。見ろ！
- \n
-The frail pass when they are called to. \n
-But we? We are different, you see. 
+//\n弱いやつらはみんなやられちまう。\n俺たちは建う。見ろ！
+\n
+The frail pass when they are called to.\n
+But we? We are different, you see.
 <$00>
 
 // Pos: 00001CC6
@@ -64,17 +64,17 @@ But we? We are different, you see.
 //ヤング：
 Yang:
 <$0D>
-// \nあれで集めてるんだ、
- \n
-We collect these. 
+//\nあれで集めてるんだ、
+\n
+We collect these.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n金星人のパルスだ。 \nもうじき角度が合う、金星を向くんだ。
- \n
-That's a Venusian pulse. We're almost \n
-at the right angle to face Venus itself. 
+//\n金星人のパルスだ。\nもうじき角度が合う、金星を向くんだ。
+\n
+That's a Venusian pulse. We're almost\n
+at the right angle to face Venus itself.
 <$00>
 
 // Pos: 00001D06
@@ -87,29 +87,29 @@ at the right angle to face Venus itself.
 //ヤング：
 Yang:
 <$0D>
-// \n心の弱いやつは蕃判を乗り切れないんだ。
- \n
-The frail of mind will answer to \n
-Judgement soon enough. 
+//\n心の弱いやつは蕃判を乗り切れないんだ。
+\n
+The frail of mind will answer to\n
+Judgement soon enough.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nでもな、金星人のパルスがあれば \n大丈夫ってわけよ。
- \n
-But as long we have the Venusian \n
-pulses, we'll be fine. 
+//\nでもな、金星人のパルスがあれば\n大丈夫ってわけよ。
+\n
+But as long we have the Venusian\n
+pulses, we'll be fine.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \nへへ、俺たちが始めたんだ、 \nもうじき実験だ。
- \n
-Hehe, we're about to begin our \n
+//\nへへ、俺たちが始めたんだ、\nもうじき実験だ。
+\n
+Hehe, we're about to begin our\n
 experiment.
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00001D72
@@ -122,29 +122,29 @@ experiment.
 //ヤング：
 Yang:
 <$0D>
-// \n金星人に最初に目を付けたのは \n誰だか分かるか、マウンテンだ。
- \n
-Do you know who first saw the \n
-Venusians? It was Mountain. 
+//\n金星人に最初に目を付けたのは\n誰だか分かるか、マウンテンだ。
+\n
+Do you know who first saw the\n
+Venusians? It was Mountain.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n金星から気づきの波動が放たれているそうだ。
- \n
-Apparently, he was the first to notice \n
-that Venus was releasing waves. 
+//\n金星から気づきの波動が放たれているそうだ。
+\n
+Apparently, he was the first to notice\n
+that Venus was releasing waves.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
-// \n気づきだ、気がつくことだ、 \nピンとくることだ、もうじき実験だ。
- \n
-He, now "we", honed in real good. We're \n
+//\n気づきだ、気がつくことだ、\nピンとくることだ、もうじき実験だ。
+\n
+He, now "we", honed in real good. We're\n
 finally about to start our experiment!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00001DEE
@@ -157,25 +157,25 @@ finally about to start our experiment!
 //マウンテン：
 Mountain:
 <$0D>
-// \nあんたは…そうか！ \nあんたか、新しい使者というのは！ \n喜びが増えるぞ。
- \n
-And, you are...oh! Yes, you're our \n
+//\nあんたは…そうか！\nあんたか、新しい使者というのは！\n喜びが増えるぞ。
+\n
+And, you are...oh! Yes, you're our\n
 messanger, here to bring good news
 <$0C>
-of great joy! 
+of great joy!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nで、どっちなんだ、 \nあんた自身は、分類として、 \n金星なのか？ もう、すでに、そうなのか？
- \n
-Where would you say you're from: \n
+//\nで、どっちなんだ、\nあんた自身は、分類として、\n金星なのか？ もう、すでに、そうなのか？
+\n
+Where would you say you're from:\n
 Venus or Earth?
 <$1B>
-//、金星から来た \n地球から来た
+//、金星から来た\n地球から来た
 、Venus
 <$0C>
-Earth 
+Earth
 <$00><$17><$00>
 
 // Pos: 00001E73
@@ -188,22 +188,22 @@ Earth
 //マウンテン：
 Mountain:
 <$0D>
-// \nあははははは、ユカイだ、いいぞ、そうだ！ \nつまるところ、あんたはむかえに行ったんだ。
- \n
-Ahahaha, brilliant! Brilliant, indeed! \n
+//\nあははははは、ユカイだ、いいぞ、そうだ！\nつまるところ、あんたはむかえに行ったんだ。
+\n
+Ahahaha, brilliant! Brilliant, indeed!\n
 Then you mean to say you've left to
 <$0C>
-meet us. 
+meet us.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nいや、実際にあるぞ、プラズマになれば \n星間飛行などたやすいことだ。
- \n
-Don't worry, I believe you! It's easy to \n
+//\nいや、実際にあるぞ、プラズマになれば\n星間飛行などたやすいことだ。
+\n
+Don't worry, I believe you! It's easy to\n
 travel between planets when you're a
 <$0C>
-plasma. 
+plasma.
 <$00>
 
 // Pos: 00001EDA
@@ -216,18 +216,18 @@ plasma.
 //マウンテン：
 Mountain:
 <$0D>
-// \n誰でもそう思っているだけだ、 \nでも本当は建う、もっと別の現象だ！
- \n
-Everyone may think otherwise, but \n
-life's phenomena are never so simple! 
+//\n誰でもそう思っているだけだ、\nでも本当は建う、もっと別の現象だ！
+\n
+Everyone may think otherwise, but\n
+life's phenomena are never so simple!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nカオスがのしかかっているからな、 \n星の名前があっちこっち動いたりするんだ。
- \n
-As chaos brews, the planets and their \n
-names are always in a stir. 
+//\nカオスがのしかかっているからな、\n星の名前があっちこっち動いたりするんだ。
+\n
+As chaos brews, the planets and their\n
+names are always in a stir.
 <$00>
 
 // Pos: 00001F3F
@@ -236,9 +236,9 @@ names are always in a stir.
 
 #WHB(PTR, $00000F59)
 
- 
+
 <$00><$11>
-//誰 
+//誰
 <$1E><$17><$00>
 
 // Pos: 00001F46
@@ -251,33 +251,33 @@ names are always in a stir.
 //マウンテン：
 Mountain:
 <$0D>
-// \nあんたを見て分かった、やっぱりな。 \nさぐりに行くんだろ、 \nやつらだ、メディスンマンのやつらだ。
- \n
-From that look on your face...yes! \n
+//\nあんたを見て分かった、やっぱりな。\nさぐりに行くんだろ、\nやつらだ、メディスンマンのやつらだ。
+\n
+From that look on your face...yes!\n
 You're sniffing around for medicine
 <$0C>
-men. 
+men.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nあいつらはたぶらかしの天才、そうなのだ！ \n金星人を無視しようとする、いけないことだ。
- \n
-They have their PHDs in screwing \n
+//\nあいつらはたぶらかしの天才、そうなのだ！\n金星人を無視しようとする、いけないことだ。
+\n
+They have their PHDs in screwing\n
 around. They shouldn't
 <$0C>
-underestimate the Venusians, but \n
-they do. 
+underestimate the Venusians, but\n
+they do.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \nよし、やぶさかではないぞ、 \n見つからないようにこっそりとな。 \n教えてやる、オートロックの暗証番号は…
- \n
-If you want to sneak a peek in the \n
+//\nよし、やぶさかではないぞ、\n見つからないようにこっそりとな。\n教えてやる、オートロックの暗証番号は…
+\n
+If you want to sneak a peek in the\n
 lodge, I'll give you the PIN to for the
 <$0C>
-autolock. 
+autolock.
 <$00>
 
 // Pos: 00001FFC
@@ -286,9 +286,9 @@ autolock.
 
 #WHB(PTR, $00000F7D)
 
- 
+
 <$00><$11>
-//誰 
+//誰
 <$1E><$17><$00>
 
 // Pos: 00002003
@@ -301,13 +301,13 @@ autolock.
 //マウンテン：
 Mountain:
 <$0D>
-// \n暗証番号は、６だ、そうだ！ \n６だ！ オートロックだ、はっ！
- \n
-The PIN is..."6"! Yep, just "6"! That'll \n
+//\n暗証番号は、６だ、そうだ！\n６だ！ オートロックだ、はっ！
+\n
+The PIN is..."6"! Yep, just "6"! That'll\n
 disengage the autolock for you!
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00002032
@@ -320,15 +320,15 @@ disengage the autolock for you!
 //マウンテン：
 Mountain:
 <$0D>
-// \n私は何も言わないぞ、 \nただ心をきれいにして信じているだけだ。 \n実験が始まったら声をかけるぞ。
- \n
-No more talk. Until we start the \n
+//\n私は何も言わないぞ、\nただ心をきれいにして信じているだけだ。\n実験が始まったら声をかけるぞ。
+\n
+No more talk. Until we start the\n
 experiment, let's clear our minds and
 <$0C>
 believe.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00002074
@@ -341,23 +341,23 @@ believe.
 //マウンテン：
 Mountain:
 <$0D>
-// \n円周率だ、円周率で増えたり減ったりするんだ。 \n定理を見つけたんだ。
- \n
-I'VE FOUND IT! YES! A constant \n
-circumference to diameter ratio...pi! 
+//\n円周率だ、円周率で増えたり減ったりするんだ。\n定理を見つけたんだ。
+\n
+I'VE FOUND IT! YES! A constant\n
+circumference to diameter ratio...pi!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n小数点以下３０ケタまで覚えているぞ。 \n開きたいか？
- \n
-I've memorized the first 30 digits to \n
+//\n小数点以下３０ケタまで覚えているぞ。\n開きたいか？
+\n
+I've memorized the first 30 digits to\n
 test the theory. Wanna hear it?
 <$1B>
-//？開きたい \n開かない
+//？開きたい\n開かない
 ？Yes
 <$0C>
-No 
+No
 <$00><$17><$00>
 
 // Pos: 000020E3
@@ -370,13 +370,13 @@ No
 //マウンテン：
 Mountain:
 <$0D>
-// \n３．１４１５９２６５３５８９７９３ \n２３８４６２６４３３８３２７９。
- \n
-"Three-point-141 592 653 589 793 \n
+//\n３．１４１５９２６５３５８９７９３\n２３８４６２６４３３８３２７９。
+\n
+"Three-point-141 592 653 589 793\n
 238 462 643 383 279!"
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00002113
@@ -389,13 +389,13 @@ Mountain:
 //マウンテン：
 Mountain:
 <$0D>
-// \nこれは私の問顆なのだ。 \nあんたではなく、私のだ。
- \n
-So be it! Pi was always MY puzzle to \n
+//\nこれは私の問顆なのだ。\nあんたではなく、私のだ。
+\n
+So be it! Pi was always MY puzzle to\n
 solve, not yours!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 0000213B
@@ -408,20 +408,20 @@ solve, not yours!
 //マウンテン：
 Mountain:
 <$0D>
-// \n円周率はいろんな場面で応用が利くからな。 \n役に立つんだ。実験でも使うかも知れん。
- \n
-This "pi" will prove useful in many \n
-situations, even in our experiment! 
+//\n円周率はいろんな場面で応用が利くからな。\n役に立つんだ。実験でも使うかも知れん。
+\n
+This "pi" will prove useful in many\n
+situations, even in our experiment!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
-// \n実験が始まったら声をかける、参加するんだ。
- \n
-I'll call for you when we start the \n
+//\n実験が始まったら声をかける、参加するんだ。
+\n
+I'll call for you when we start the\n
 experiment!
 <$1E>
 //理
-理 
+理
 <$00>
 

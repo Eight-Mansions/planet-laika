@@ -15,7 +15,7 @@
 離か
 <$0E><$0F><$14><$01>
 //メッセージはありません。
-THERE ARE NO MESSAGES. 
+THERE ARE NO MESSAGES.
 <$00>
 
 // Pos: 00003A3D
@@ -24,7 +24,7 @@ THERE ARE NO MESSAGES.
 
 #WHB(PTR, $00000CED)
 
- 
+
 <$00><$13>
 //け
 け
@@ -32,36 +32,36 @@ THERE ARE NO MESSAGES.
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nライカ君…ライカ君だね… \n火星はどんな様子かな？
- \n
-Greetings, Laika. Is that you? How are \n
-Mars's state of affairs? 
+//\nライカ君…ライカ君だね…\n火星はどんな様子かな？
+\n
+Greetings, Laika. Is that you? How are\n
+Mars's state of affairs?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \n実は火星人について、 \n新しいことが分かりそうなんだ。
- \n
-Actually, while you were away, we've \n
+//\n実は火星人について、\n新しいことが分かりそうなんだ。
+\n
+Actually, while you were away, we've\n
 learned something new about the
 <$0C>
-Martians. 
+Martians.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nある昆虫学者が研究を進めていてね、 \nその成果と言うわけだよ。
- \n
-It involves the findings of our \n
-entomologist's latest research. 
+//\nある昆虫学者が研究を進めていてね、\nその成果と言うわけだよ。
+\n
+It involves the findings of our\n
+entomologist's latest research.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
-// \nもう少ししたら \nその昆虫学者から連絡させるよ。
- \n
-I'll get you in touch with our \n
-entomologist shortly. 
+//\nもう少ししたら\nその昆虫学者から連絡させるよ。
+\n
+I'll get you in touch with our\n
+entomologist shortly.
 <$00>
 
 // Pos: 00003B03
@@ -74,12 +74,12 @@ entomologist shortly.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \n悪夢を抜けた先… 生の終わり、死の始まり、 \n君は今、そのすき間にいる。
- \n
-You're in it all. From the end of life, \n
+//\n悪夢を抜けた先… 生の終わり、死の始まり、\n君は今、そのすき間にいる。
+\n
+You're in it all. From the end of life,\n
 through the nightmares, and into the
 <$0C>
-beginning of death. 
+beginning of death.
 <$00>
 
 // Pos: 00003B3D
@@ -92,17 +92,17 @@ beginning of death.
 //ヌーン：
 Noon:
 <$0D>
-// \nよう、ライカ。 \nお前、エレミヤをさがしてんだな、 \nそうだろ。顔見りゃわかるって。
- \n
-That look on your mug says you're \n
-looking for Jeremiah. 
+//\nよう、ライカ。\nお前、エレミヤをさがしてんだな、\nそうだろ。顔見りゃわかるって。
+\n
+That look on your mug says you're\n
+looking for Jeremiah.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nで、どこにいると思うんだ？
- \n
-Well? Where do you think he is? 
+//\nで、どこにいると思うんだ？
+\n
+Well? Where do you think he is?
 <$00>
 
 // Pos: 00003B85
@@ -115,20 +115,20 @@ Well? Where do you think he is?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nエレミヤは私の目の前にいる。 \nそうだよ、ライカ、君がエレミヤだ。
- \n
-Jeremiah's right before my eyes. \n
-That's right, Laika. You're Jeremiah. 
+//\nエレミヤは私の目の前にいる。\nそうだよ、ライカ、君がエレミヤだ。
+\n
+Jeremiah's right before my eyes.\n
+That's right, Laika. You're Jeremiah.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \n君は強い死の動機に付き動かされている。 \n君は死の世界の \nすぐとなりで生きてきたんだよ。
- \n
-Driven powerfully towards death, \n
+//\n君は強い死の動機に付き動かされている。\n君は死の世界の\nすぐとなりで生きてきたんだよ。
+\n
+Driven powerfully towards death,\n
 living on the doorstep to the Land of the
 <$0C>
-Dead. 
+Dead.
 <$00>
 
 // Pos: 00003BF6
@@ -141,18 +141,18 @@ Dead.
 //ヌーン：
 Noon:
 <$0D>
-// \nエレミヤっていうのは、死の象徴なんだ、 \n別に誰ってわけじゃねぇんだ。
- \n
-Jeremiah isn't exactly a person. He's a \n
-symbol of death. 
+//\nエレミヤっていうのは、死の象徴なんだ、\n別に誰ってわけじゃねぇんだ。
+\n
+Jeremiah isn't exactly a person. He's a\n
+symbol of death.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nびっくりだろ、自分がそんなんでよ。
- \n
-Are you surprised? I suppose that \n
-makes sense. 
+//\nびっくりだろ、自分がそんなんでよ。
+\n
+Are you surprised? I suppose that\n
+makes sense.
 <$00>
 
 // Pos: 00003C40
@@ -165,12 +165,12 @@ makes sense.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \n君の半分はすでに死んでいる、 \n死は君自身の問顆なんだ。
- \n
-Your other half is already dead. Only \n
+//\n君の半分はすでに死んでいる、\n死は君自身の問顆なんだ。
+\n
+Your other half is already dead. Only\n
 you can determine what death means
 <$0C>
-to the rest of you. 
+to the rest of you.
 <$00>
 
 // Pos: 00003C70
@@ -183,9 +183,9 @@ to the rest of you.
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \n無線テレビだ、ライカ、頼む。
- \n
-The monitor's all yours, Laika. 
+//\n無線テレビだ、ライカ、頼む。
+\n
+The monitor's all yours, Laika.
 <$00>
 
 // Pos: 00003C8F
@@ -198,10 +198,10 @@ The monitor's all yours, Laika.
 //ヌーン：
 Noon:
 <$0D>
-// \nへへ、死神からお誘いか？
- \n
-Heheh, is that a call from the Grim \n
-Reaper? 
+//\nへへ、死神からお誘いか？
+\n
+Heheh, is that a call from the Grim\n
+Reaper?
 <$00>
 
 // Pos: 00003CA7
@@ -214,130 +214,130 @@ Reaper?
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-// \nエレミヤよ、おおエレミヤ… \n私はついに悪夢を乗り越えた。
- \n
-Jeremiah, O Jeremiah. At last I can \n
-overcome these nightmares. 
+//\nエレミヤよ、おおエレミヤ…\n私はついに悪夢を乗り越えた。
+\n
+Jeremiah, O Jeremiah. At last I can\n
+overcome these nightmares.
 <$0C><$0B>
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-// \n死の谷を駆け抜け、今ここに… \nさあ、最後の預言だ、言葉を放ってくれ。
- \n
-I now walk through the valley of the \n
+//\n死の谷を駆け抜け、今ここに…\nさあ、最後の預言だ、言葉を放ってくれ。
+\n
+I now walk through the valley of the\n
 shadow of death, seeking your final
 <$0C>
-prophecy. 
+prophecy.
 <$00><$12><$13><$13><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \n僕が？死に憑かれているだと？この僕が？
- \n
-What's going on? Have I...been \n
-possessed by death? But, why me?! 
+//\n僕が？死に憑かれているだと？この僕が？
+\n
+What's going on? Have I...been\n
+possessed by death? But, why me?!
 <$00><$12><$13><$13><$08>
-//新しき天と、新しき地とを見たり。 \nこれまでの天とこれまでの地とは過ぎ去り、
-For a new Heaven and a new Earth \n
-await you, may this Heaven and Earth \n
-pass, 
+//新しき天と、新しき地とを見たり。\nこれまでの天とこれまでの地とは過ぎ去り、
+For a new Heaven and a new Earth\n
+await you, may this Heaven and Earth\n
+pass,
 <$0C>
-//海もまた消え失せ、今よりのち、悲しみも喜びも \n苦しみもなく、歓喜の歌にたたえられた \n永遠が続くであろう。
-and may the seas dry, that their \n
-sadness, loneliness and suffering are \n
+//海もまた消え失せ、今よりのち、悲しみも喜びも\n苦しみもなく、歓喜の歌にたたえられた\n永遠が続くであろう。
+and may the seas dry, that their\n
+sadness, loneliness and suffering are\n
 no more. And May eternity move past
 <$0C>
-this moment, chanting in celebration. 
+this moment, chanting in celebration.
 <$05><$00><$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //      
       
 <$0D>
 //第五の預言を得た。
-So sayeth the fifth prophecy. 
+So sayeth the fifth prophecy.
 <$00><$12>
 //先生、
 Doctor, can 
 <$0F>
 //は助かるのですか？
- be saved? 
+ be saved?
 <$00><$12>
-//分からん、とにかく手術室へ。 \n脳のそばに何かがあるんだ、 \n幻覚はその影響だ。
-We'll find out in the operation room. \n
-There's a mass near the brain inciting \n
-hallucinations. 
+//分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
+We'll find out in the operation room.\n
+There's a mass near the brain inciting\n
+hallucinations.
 <$00><$12>
-//先生、オクトーバー先生！ \nお願いします、
+//先生、オクトーバー先生！\nお願いします、
 Doctor! Doctor October, please! Save 
 <$0F>
 //を？
-! 
+!
 <$00><$12>
-//あああ、ダメだ、深すぎる。 \n無理をすれば脳を傷つけてしまう、 \n手術はあきらめるしかない。
-Damn! It's too deep! If we force it out, \n
-we will damage the brain! 
+//あああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
+Damn! It's too deep! If we force it out,\n
+we will damage the brain!
 <$0C>
-//今は小さな肉のかたまり… \nだが、共に成長したとき…
-It's small enough to be extracted, \n
-but...we must give up the operation \n
-for today. 
+//今は小さな肉のかたまり…\nだが、共に成長したとき…
+It's small enough to be extracted,\n
+but...we must give up the operation\n
+for today.
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \n
- \n
+//\n
+\n
 
 <$0F>
-//じゃねぇ、 \nこいつは誰なんだ？
-? No... \n
-What is this thing? 
+//じゃねぇ、\nこいつは誰なんだ？
+? No...\n
+What is this thing?
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nシュヨウだ、脳にできたシュヨウ…
- \n
-It's a teratoma: a rare type of tumor \n
-that's currently lodged in our brain. 
+//\nシュヨウだ、脳にできたシュヨウ…
+\n
+It's a teratoma: a rare type of tumor\n
+that's currently lodged in our brain.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nデキモノってことなの… \nひどいわ、そんなの。
- \n
-That's horrible! \n
-How the hell did it get there? 
+//\nデキモノってことなの…\nひどいわ、そんなの。
+\n
+That's horrible!\n
+How the hell did it get there?
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nシュヨウは、双子として生まれてくるはずの \n一部が取り込まれてたものだ。
- \n
-Phoenix was supposed to be born as a \n
+//\nシュヨウは、双子として生まれてくるはずの\n一部が取り込まれてたものだ。
+\n
+Phoenix was supposed to be born as a\n
 twin, but Phoenix developed into a
 <$0C>
-mass instead. 
+mass instead.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nシュヨウの中には兄弟になるはずだった \n人間の髮の毛がつまっていたりする…
- \n
-That mass was absorbed back into the \n
-other twin. Hair, teeth and all... 
+//\nシュヨウの中には兄弟になるはずだった\n人間の髮の毛がつまっていたりする…
+\n
+That mass was absorbed back into the\n
+other twin. Hair, teeth and all...
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nじゃあ、こいつは何だ？ \nまさか髮の毛じゃねぇだろう… \n
- \n
-Could've fooled me. I've never seen \n
+//\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…\n
+\n
+Could've fooled me. I've never seen\n
 hair like that before.
-<$0C> 
+<$0C>
 <$00>
 
 // Pos: 00003F68
@@ -350,12 +350,12 @@ hair like that before.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nこれは…クルーの仲間だね。善人になったの… \nそれで救われたってことなの？
- \n
-He's from the survey unit. If he's \n
+//\nこれは…クルーの仲間だね。善人になったの…\nそれで救われたってことなの？
+\n
+He's from the survey unit. If he's\n
 become a good person, will this really
 <$0C>
-save him? 
+save him?
 <$00>
 
 // Pos: 00003F9E
@@ -368,11 +368,11 @@ save him?
 //フェニックス：
 Phoenix:
 <$0D>
-// \n善人になって、幸せそうだよ。 \nいいね、そういうのって…
- \n
-Becoming a good person should be a \n
+//\n善人になって、幸せそうだよ。\nいいね、そういうのって…
+\n
+Becoming a good person should be a\n
 happy occasion. At least, that's what
 <$0C>
-I'd want. 
+I'd want.
 <$00>
 

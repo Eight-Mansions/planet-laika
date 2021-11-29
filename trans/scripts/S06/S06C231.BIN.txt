@@ -15,10 +15,10 @@
 //アーネスト：
 Ernest:
 <$0D>
-// \n俺は…アーネスト…ミーシャを守る… \nミーシャ…俺の妹…
- \n
-I, Ernest...will protect... \n
-...my sister, Masha... 
+//\n俺は…アーネスト…ミーシャを守る…\nミーシャ…俺の妹…
+\n
+I, Ernest...will protect...\n
+...my sister, Masha...
 <$00>
 
 // Pos: 000004B3
@@ -27,9 +27,9 @@ I, Ernest...will protect... \n
 
 #WHB(PTR, $00000431)
 
-//老ーネスト…正直者のアーネスト。 \nウソのつけないアーネスト。
-老Ernest... Honest Ernest. \n
-You'd never let anyone down. 
+//老ーネスト…正直者のアーネスト。\nウソのつけないアーネスト。
+老Ernest... Honest Ernest.\n
+You'd never let anyone down.
 <$00>
 
 // Pos: 000004D6
@@ -42,20 +42,20 @@ You'd never let anyone down.
 //アーネスト：
 Ernest:
 <$0D>
-// \n誰だ？俺を呼んだのは、誰だ？
- \n
-Who's there? Who called to me? 
+//\n誰だ？俺を呼んだのは、誰だ？
+\n
+Who's there? Who called to me?
 <$0C><$13>
-//君誰でもない… \nお前が忘れていったお前自身の声だ。
-Maybe it's no one. You just forgot the \n
-sound of my own voice. 
+//君誰でもない…\nお前が忘れていったお前自身の声だ。
+Maybe it's no one. You just forgot the\n
+sound of my own voice.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \n俺が？忘れた？何を言ってやがる！
- \n
-Wait, I forgot? What am I saying? 
+//\n俺が？忘れた？何を言ってやがる！
+\n
+Wait, I forgot? What am I saying?
 <$00>
 
 // Pos: 00000531
@@ -68,17 +68,17 @@ Wait, I forgot? What am I saying?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシは…ヨランダ、そうよ、ヨランダよ。
- \n
-I'm...Yolanda. That's right. Yolanda. 
+//\nアタシは…ヨランダ、そうよ、ヨランダよ。
+\n
+I'm...Yolanda. That's right. Yolanda.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nかわいそうなタニアの話し相手、 \n壊れそうな心の後見人…
- \n
-A protecter of the broken-hearted, \n
-and a shoulder for Tanya to cry on. 
+//\nかわいそうなタニアの話し相手、\n壊れそうな心の後見人…
+\n
+A protecter of the broken-hearted,\n
+and a shoulder for Tanya to cry on.
 <$00>
 
 // Pos: 0000057B
@@ -87,9 +87,9 @@ and a shoulder for Tanya to cry on.
 
 #WHB(PTR, $00000449)
 
-//談ランダ…うぬぼれ屋のヨランダ。 \nいつもひとりのヨランダ。
-談Yolanda... Yolanda, the narcissist. \n
-You will always be alone. 
+//談ランダ…うぬぼれ屋のヨランダ。\nいつもひとりのヨランダ。
+談Yolanda... Yolanda, the narcissist.\n
+You will always be alone.
 <$00>
 
 // Pos: 0000059B
@@ -102,14 +102,14 @@ You will always be alone.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n誰なの？ \nアタシのこと…そんなふうに言うなんて。
- \n
-Who's there? Don't act like you know \n
-me! 
+//\n誰なの？\nアタシのこと…そんなふうに言うなんて。
+\n
+Who's there? Don't act like you know\n
+me!
 <$0C><$13>
-//君さあ、誰だろう。 \nこれはお前自身の声ではないのかな。
-I'm you, that's who! \n
-Don't you know your own inner voice? 
+//君さあ、誰だろう。\nこれはお前自身の声ではないのかな。
+I'm you, that's who!\n
+Don't you know your own inner voice?
 <$00>
 
 // Pos: 000005E1
@@ -122,20 +122,20 @@ Don't you know your own inner voice?
 //スペーサー：
 Spacer:
 <$0D>
-// \n私はスペーサー… \n建いない、確かにスペーサーだ。
- \n
-I'm Spacer... Make no mistake, I'm \n
-Spacer. 
+//\n私はスペーサー…\n建いない、確かにスペーサーだ。
+\n
+I'm Spacer... Make no mistake, I'm\n
+Spacer.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nあのふたりと、そして
- \n
+//\nあのふたりと、そして
+\n
 I'm the control tower over 
 <$0F>
-//にとって \n私が司令塔なのだ。
- and the other two. 
+//にとって\n私が司令塔なのだ。
+ and the other two.
 <$00>
 
 // Pos: 0000062E
@@ -144,11 +144,11 @@ I'm the control tower over
 
 #WHB(PTR, $0000043D)
 
-//面ペーサーか、出すぎたマネが得意の \nようだな。
-面Spacer, ever a slave to hyperbole. 
+//面ペーサーか、出すぎたマネが得意の\nようだな。
+面Spacer, ever a slave to hyperbole.
 <$0C>
-//自分をかいかぶってはいないかな、 \nスペーサー。
-Don't pretend to be larger than life! 
+//自分をかいかぶってはいないかな、\nスペーサー。
+Don't pretend to be larger than life!
 <$00>
 
 // Pos: 00000663
@@ -161,13 +161,13 @@ Don't pretend to be larger than life!
 //スペーサー：
 Spacer:
 <$0D>
-// \n誰だ！ \n私をおとしいれようというつもりか！
- \n
-Who are you? \n
-Are you trying to trick me? 
+//\n誰だ！\n私をおとしいれようというつもりか！
+\n
+Who are you?\n
+Are you trying to trick me?
 <$0C><$13>
-//君この声はお前の声だ、スペーサー。 \n心の声だ。
-I am your voice, Spacer. \n
-The voice in your mind. 
+//君この声はお前の声だ、スペーサー。\n心の声だ。
+I am your voice, Spacer.\n
+The voice in your mind.
 <$00>
 

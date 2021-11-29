@@ -11,11 +11,11 @@
 
 #WHB(PTR, $00000115)
 
- 
+
 <$00><$14><$02><$11>
 //幅ペーサー、お前の存在に意味などないのだ。
-幅Spacer, your existence is \n
-insignificant. 
+幅Spacer, your existence is\n
+insignificant.
 <$0E><$78><$17><$00>
 
 // Pos: 00004DC6
@@ -24,11 +24,10 @@ insignificant.
 
 #WHB(PTR, $00000131)
 
- 
+
 <$00><$14><$02><$11>
 //期を学んだ？ リトルから何を学んだのだ？
-期Well? What did you learn from \n
-Little? 
+期Well? What did you learn from Little?
 <$0E><$78><$17><$00>
 
 // Pos: 00004DE5
@@ -37,10 +36,10 @@ Little?
 
 #WHB(PTR, $00000139)
 
- 
+
 <$00><$14><$02><$11>
 //~ウの闇に目を向けろ。お前の本性が見えるぞ。
-~ウFace the darkness in your mind! \n
-Realize your true nature! 
+~ウFace the darkness in your mind!\n
+Realize your true nature!
 <$0E><$78><$17><$00>
 

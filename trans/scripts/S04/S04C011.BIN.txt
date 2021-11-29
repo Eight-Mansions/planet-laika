@@ -12,13 +12,13 @@
 #WHB(PTR, $00000899)
 
 <$12><$13>
-// ヨウコソ プリズン４ヘ。 \nミスター
- WELCOME TO PRISON! \n
-REGISTRANT NAME: \n
+// ヨウコソ プリズン４ヘ。\nミスター
+ WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
 "
 <$0F>
 //！
-" 
+"
 <$00>
 
 // Pos: 00001B55
@@ -40,10 +40,10 @@ REGISTRANT NAME: \n
 #WHB(PTR, $0000147D)
 
 <$12><$13>
-// アナタハ トウロクサレテイマセン。 \nクワシクハ カンリシャニ \nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR \n
-DETAILS AND ASSISTANCE, SPEAK TO AN \n
-ADMINISTRATOR. 
+// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+ NOT REGISTERED FOR ENTRY. FOR\n
+DETAILS AND ASSISTANCE, SPEAK TO AN\n
+ADMINISTRATOR.
 <$00>
 
 // Pos: 00001B81
@@ -56,10 +56,10 @@ ADMINISTRATOR.
 //アーネスト：
 Ernest:
 <$0D>
-// \nちくしょう！ \nなにが登録だ、くそったれ！
- \n
-Piece of junk. How am I supposed to \n
-register? 
+//\nちくしょう！\nなにが登録だ、くそったれ！
+\n
+Piece of junk. How am I supposed to\n
+register?
 <$00>
 
 // Pos: 00001BA4
@@ -72,10 +72,10 @@ register?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何よこれ？ \n失礼しちゃうわね！
- \n
-The fuck does that mean? \n
-Hello? A little help here?! 
+//\n何よこれ？\n失礼しちゃうわね！
+\n
+The fuck does that mean?\n
+Hello? A little help here?!
 <$00>
 
 // Pos: 00001BC1
@@ -88,9 +88,9 @@ Hello? A little help here?!
 //スペーサー：
 Spacer:
 <$0D>
-// \nやはりな… \n私ではだめなのだ。
- \n
-Hmm... Looks like I'm not getting in. 
+//\nやはりな…\n私ではだめなのだ。
+\n
+Hmm... Looks like I'm not getting in.
 <$00>
 
 // Pos: 00001BDD
@@ -112,8 +112,8 @@ Hmm... Looks like I'm not getting in.
 #WHB(PTR, $0000145D)
 
 <$12><$13>
-// ヤハリ アナタハ \nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY. 
+// ヤハリ アナタハ\nトウロクサレテイマセン。
+ USER NOT REGISTERED FOR ENTRY.
 <$00>
 
 // Pos: 00001BF6
@@ -126,9 +126,9 @@ Hmm... Looks like I'm not getting in.
 //イースト：
 East:
 <$0D>
-// \nお前たち、お呼びだ。
- \n
-Will you come with us? 
+//\nお前たち、お呼びだ。
+\n
+Will you come with us?
 <$00>
 
 // Pos: 00001C0B
@@ -141,9 +141,9 @@ Will you come with us?
 //ウェスト：
 West:
 <$0D>
-// \nリトルさんがな。顔貸してもらおう。
- \n
-Little will borrow a face! 
+//\nリトルさんがな。顔貸してもらおう。
+\n
+Little will borrow a face!
 <$00>
 
 // Pos: 00001C28
@@ -156,9 +156,9 @@ Little will borrow a face!
 //イースト：
 East:
 <$0D>
-// \n顔。
- \n
-A face? 
+//\n顔。
+\n
+A face?
 <$00>
 
 // Pos: 00001C35
@@ -171,10 +171,10 @@ A face?
 //エイプリル：
 April:
 <$0D>
-// \n何よ、今は先を急ぐんだから！ \nそれにリトルさんって？
- \n
-Hey, we're in a hurry, you two! And who \n
-is this "Little" person? 
+//\n何よ、今は先を急ぐんだから！\nそれにリトルさんって？
+\n
+Hey, we're in a hurry, you two! And who\n
+is this "Little" person?
 <$00>
 
 // Pos: 00001C5D
@@ -187,12 +187,12 @@ is this "Little" person?
 //エイプリル：
 April:
 <$0D>
-// \n換気塔ってさっきのところじゃない？ \n手前を右にって言ってたよね、戻ってみない？ \nそれとも何か気になることでもあるの？
- \n
-Gold said it was in front of the \n
+//\n換気塔ってさっきのところじゃない？\n手前を右にって言ってたよね、戻ってみない？\nそれとも何か気になることでもあるの？
+\n
+Gold said it was in front of the\n
 ventilation tower, right? Should we
 <$0C>
-circle back? 
+circle back?
 <$00>
 
 // Pos: 00001CA7
@@ -205,25 +205,25 @@ circle back?
 //エイプリル：
 April:
 <$0D>
-// \n分かった！ \n顔の怪物でしょ、ねぇ、それが気になる…
- \n
-I see! So, that monster was a Phase, \n
-was it? Makes sense. 
+//\n分かった！\n顔の怪物でしょ、ねぇ、それが気になる…
+\n
+I see! So, that monster was a Phase,\n
+was it? Makes sense.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそうじゃない？ \n普通じゃ見えないっていうから、 \n幻覚じゃないかと思うんだけど。
- \n
-I don't know how anyone would see \n
-that if they weren't hallucinating. 
+//\nそうじゃない？\n普通じゃ見えないっていうから、\n幻覚じゃないかと思うんだけど。
+\n
+I don't know how anyone would see\n
+that if they weren't hallucinating.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nどうしてもっていうなら、私はここで待ってる。 \n気を付けてね。
- \n
-I'll wait back here, if that works. Just \n
-be careful, okay? 
+//\nどうしてもっていうなら、私はここで待ってる。\n気を付けてね。
+\n
+I'll wait back here, if that works. Just\n
+be careful, okay?
 <$00>
 

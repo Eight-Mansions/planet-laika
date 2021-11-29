@@ -19,21 +19,21 @@
 //リバー：
 Liever:
 <$0D>
-// \nねぇ、ここから先は行けないよ。 \n信仰がないとダメなんだ。
- \n
-You can't proceed past this point \n
-without faith. 
+//\nねぇ、ここから先は行けないよ。\n信仰がないとダメなんだ。
+\n
+You can't proceed past this point\n
+without faith.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \nあんたには理解できそうもないよ、 \n見るからにね。
- \n
-You looking for it means you don't \n
+//\nあんたには理解できそうもないよ、\n見るからにね。
+\n
+You looking for it means you don't\n
 understand what's going on.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 000016B0
@@ -58,18 +58,18 @@ understand what's going on.
 //リバー：
 Liever:
 <$0D>
-// \nやっぱりダメだよ、ここから先は \n信仰のないあんたじゃ無理さ。
- \n
-Listen, it's as I said before. You can't \n
-proceed without faith. 
+//\nやっぱりダメだよ、ここから先は\n信仰のないあんたじゃ無理さ。
+\n
+Listen, it's as I said before. You can't\n
+proceed without faith.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \n理解できないとね。
- \n
-You understand what I mean, don't \n
-you? 
+//\n理解できないとね。
+\n
+You understand what I mean, don't\n
+you?
 <$00>
 
 // Pos: 000016F1
@@ -86,12 +86,12 @@ you?
 //アーネスト：
 Ernest:
 <$0D>
-// \n俺じゃダメだと？ くそっ、なにが神様だ。
- \n
-Am I not good enough to enter your \n
+//\n俺じゃダメだと？ くそっ、なにが神様だ。
+\n
+Am I not good enough to enter your\n
 god's sewer? Your god sounds like a
 <$0C>
-dick. 
+dick.
 <$00>
 
 // Pos: 00001714
@@ -108,12 +108,12 @@ dick.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシじゃいけないの… \n神様だなんて、ほんとにいるの？
- \n
-God giving me the proverbial boot's no \n
+//\nアタシじゃいけないの…\n神様だなんて、ほんとにいるの？
+\n
+God giving me the proverbial boot's no\n
 surprise, but he's not really here, is
 <$0C>
-he? 
+he?
 <$00>
 
 // Pos: 0000173D
@@ -126,18 +126,18 @@ he?
 //リバー：
 Liever:
 <$0D>
-// \nここだよ、ここを降りるんだ。
- \n
-Here we are. It's time you descended \n
-into the underground canal. 
+//\nここだよ、ここを降りるんだ。
+\n
+Here we are. It's time you descended\n
+into the underground canal.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \n流刑者が作った地下水道さ。 \nそれを通っていくんだ。 神様が待ってるよ！
- \n
-This canal was made by exiles. Go on, go \n
-through! God is waiting for you! 
+//\n流刑者が作った地下水道さ。\nそれを通っていくんだ。 神様が待ってるよ！
+\n
+This canal was made by exiles. Go on, go\n
+through! God is waiting for you!
 <$00>
 
 // Pos: 0000178E
@@ -150,9 +150,9 @@ through! God is waiting for you!
 //スペーサー：
 Spacer:
 <$0D>
-// \n地下水道か。 水があるというのか…
- \n
-An underground canal, huh. So there's \n
-bound to be water down there. 
+//\n地下水道か。 水があるというのか…
+\n
+An underground canal, huh. So there's\n
+bound to be water down there.
 <$00>
 

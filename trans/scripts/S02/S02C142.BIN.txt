@@ -15,10 +15,10 @@
 //リバー：
 Liever:
 <$0D>
-// \n最近、夜でも砂嵐が襲って来るんだ。
- \n
-Lately, you've been assailed by \n
-sandstorms even in the nighttime. 
+//\n最近、夜でも砂嵐が襲って来るんだ。
+\n
+Lately, you've been assailed by\n
+sandstorms even in the nighttime.
 <$00>
 
 // Pos: 00000DC7
@@ -31,9 +31,9 @@ sandstorms even in the nighttime.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n今は大丈夫よ。 \nあら…あなた、アタシの知ってる人？
- \n
-Oh, I'm fine. I... Sorry, do you know me? 
+//\n今は大丈夫よ。\nあら…あなた、アタシの知ってる人？
+\n
+Oh, I'm fine. I... Sorry, do you know me?
 <$00>
 
 // Pos: 00000DF1
@@ -46,9 +46,9 @@ Oh, I'm fine. I... Sorry, do you know me?
 //リバー：
 Liever:
 <$0D>
-// \n全然。僕はリバー。
- \n
-Not at all! I'm Liever. 
+//\n全然。僕はリバー。
+\n
+Not at all! I'm Liever.
 <$00>
 
 // Pos: 00000E08
@@ -61,12 +61,12 @@ Not at all! I'm Liever.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシはヨランダよ。よろしくね。 \n砂嵐が来ないうちに、もう行かなきゃ。
- \n
-I'm Yolanda, thanks. Anyways, I'd \n
+//\nアタシはヨランダよ。よろしくね。\n砂嵐が来ないうちに、もう行かなきゃ。
+\n
+I'm Yolanda, thanks. Anyways, I'd\n
 better go before the sandstorms pick
 <$0C>
-up. 
+up.
 <$00>
 
 // Pos: 00000E3B
@@ -79,10 +79,10 @@ up.
 //リバー：
 Liever:
 <$0D>
-// \nどこ行くのさ。逃げられやしないよ。
- \n
-Where would you possible go? There's \n
-no escape. 
+//\nどこ行くのさ。逃げられやしないよ。
+\n
+Where would you possible go? There's\n
+no escape.
 <$00>
 
 // Pos: 00000E59
@@ -95,10 +95,10 @@ no escape.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n蕃判のこと言ってるの？ \nあんなのでたらめよ、妄想よ。
- \n
-Oh, no. Please don't tell me you're one \n
-of those delusional Judgement fucks. 
+//\n蕃判のこと言ってるの？\nあんなのでたらめよ、妄想よ。
+\n
+Oh, no. Please don't tell me you're one\n
+of those delusional Judgement fucks.
 <$00>
 
 // Pos: 00000E83
@@ -111,12 +111,12 @@ of those delusional Judgement fucks.
 //リバー：
 Liever:
 <$0D>
-// \nあんたには信仰がないんだ。 \nひとりで強がってるんだ。
- \n
-You have no faith. You think you're \n
+//\nあんたには信仰がないんだ。\nひとりで強がってるんだ。
+\n
+You have no faith. You think you're\n
 strong enough to handle it all on your
 <$0C>
-own. 
+own.
 <$00>
 
 // Pos: 00000EAB
@@ -129,9 +129,9 @@ own.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何よ、アタシはただ…
- \n
-H-hey, that's not...! 
+//\n何よ、アタシはただ…
+\n
+H-hey, that's not...!
 <$00>
 
 // Pos: 00000EC1
@@ -144,12 +144,12 @@ H-hey, that's not...!
 //リバー：
 Liever:
 <$0D>
-// \nどうしたの？恐いんじゃないの？ \n僕といれば平気だよ。神様が守ってくれるさ。
- \n
-What's the matter? Are you scared? If \n
+//\nどうしたの？恐いんじゃないの？\n僕といれば平気だよ。神様が守ってくれるさ。
+\n
+What's the matter? Are you scared? If\n
 you follow me to God, God will protect
 <$0C>
-you. 
+you.
 <$00>
 
 // Pos: 00000EF7
@@ -162,9 +162,9 @@ you.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n神様？ここには神様がいるの？
- \n
-God will? You say that like he's here. 
+//\n神様？ここには神様がいるの？
+\n
+God will? You say that like he's here.
 <$00>
 
 // Pos: 00000F15
@@ -177,10 +177,10 @@ God will? You say that like he's here.
 //リバー：
 Liever:
 <$0D>
-// \n自分で確かめなきゃ信じない、そうでしょ。 \n来れば？
- \n
-I'm sure you're the type who has to see \n
-it to believe it. Let's meet up later! 
+//\n自分で確かめなきゃ信じない、そうでしょ。\n来れば？
+\n
+I'm sure you're the type who has to see\n
+it to believe it. Let's meet up later!
 <$00>
 
 // Pos: 00000F3D
@@ -193,11 +193,11 @@ it to believe it. Let's meet up later!
 //リバー：
 Liever:
 <$0D>
-// \n地下水道の入口のところにいるよ。 \nブリックロードのコロニーに入る手前。 \n分かるよね。
- \n
-Down at the Brick Road entrance to the \n
+//\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。\n分かるよね。
+\n
+Down at the Brick Road entrance to the\n
 underground canal. Just before
 <$0C>
-entering the colony. 
+entering the colony.
 <$00>
 

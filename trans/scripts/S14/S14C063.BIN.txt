@@ -15,21 +15,21 @@
 //ゴールドマン：
 Goldman:
 <$0D>
-// \n俺はこっちのほうが落ちつくな、 \n酒場なんかよりな。
- \n
-Not sure why, but I'm even more \n
-relaxed here than I am at the bar. 
+//\n俺はこっちのほうが落ちつくな、\n酒場なんかよりな。
+\n
+Not sure why, but I'm even more\n
+relaxed here than I am at the bar.
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
-// \nちょっと生臭いけどな、 \n寒くなってきたから平気だろうよ。
- \n
-It's a bit questionable here, but it's \n
+//\nちょっと生臭いけどな、\n寒くなってきたから平気だろうよ。
+\n
+It's a bit questionable here, but it's\n
 getting colder, so that's fine.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 0000128E
@@ -42,12 +42,12 @@ getting colder, so that's fine.
 //ゴールドマン：
 Goldman:
 <$0D>
-// \n酒は嫌いだ…
- \n
+//\n酒は嫌いだ…
+\n
 I hate liquor.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 000012A5
@@ -60,13 +60,13 @@ I hate liquor.
 //ゴールド：
 Gold:
 <$0D>
-// \nまだうろついてたのか、お前？ああ？ \nなんで俺はこんなところにいるんだ、 \n気味悪いぜ。
- \n
-Why're you still here, creeping around \n
+//\nまだうろついてたのか、お前？ああ？\nなんで俺はこんなところにいるんだ、\n気味悪いぜ。
+\n
+Why're you still here, creeping around\n
 wherever I am? That's creepy.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 000012DD
@@ -79,10 +79,10 @@ wherever I am? That's creepy.
 //ゴールド：
 Gold:
 <$0D>
-// \nああ、酒が切れてきやがった。
- \n
+//\nああ、酒が切れてきやがった。
+\n
 Ah, guess who's running out of liquor.
 <$1E>
-//家 
+//家
 <$00>
 

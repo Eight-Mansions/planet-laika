@@ -12,13 +12,13 @@
 #WHB(PTR, $0000050D)
 
 <$12><$13>
-// ヨウコソ プリズン４ヘ。 \nミスター、
- WELCOME TO PRISON! \n
-REGISTRANT NAME: \n
+// ヨウコソ プリズン４ヘ。\nミスター、
+ WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
 "
 <$0F>
 //！
-" 
+"
 <$00>
 
 // Pos: 00000EC0
@@ -40,10 +40,10 @@ REGISTRANT NAME: \n
 #WHB(PTR, $00000C39)
 
 <$12><$13>
-// アナタハ トウロクサレテイマセン。 \nクワシクハ カンリシャニ \nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR \n
-DETAILS AND ASSISTANCE, SPEAK TO AN \n
-ADMINISTRATOR. 
+// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+ NOT REGISTERED FOR ENTRY. FOR\n
+DETAILS AND ASSISTANCE, SPEAK TO AN\n
+ADMINISTRATOR.
 <$00>
 
 // Pos: 00000EEC
@@ -56,10 +56,10 @@ ADMINISTRATOR.
 //アーネスト：
 Ernest:
 <$0D>
-// \nちくしょう！ \nなにが登録だ、くそったれ！
- \n
-Piece of junk. How am I supposed to \n
-register? 
+//\nちくしょう！\nなにが登録だ、くそったれ！
+\n
+Piece of junk. How am I supposed to\n
+register?
 <$00>
 
 // Pos: 00000F0F
@@ -72,10 +72,10 @@ register?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何よこれ？ \n失礼しちゃうわね！
- \n
-The fuck does that mean? \n
-Hello? A little help here?! 
+//\n何よこれ？\n失礼しちゃうわね！
+\n
+The fuck does that mean?\n
+Hello? A little help here?!
 <$00>
 
 // Pos: 00000F2C
@@ -88,9 +88,9 @@ Hello? A little help here?!
 //スペーサー：
 Spacer:
 <$0D>
-// \nやはりな… \n私ではだめなのだ。
- \n
-Hmm... Looks like I'm not getting in. 
+//\nやはりな…\n私ではだめなのだ。
+\n
+Hmm... Looks like I'm not getting in.
 <$00>
 
 // Pos: 00000F48
@@ -112,7 +112,7 @@ Hmm... Looks like I'm not getting in.
 #WHB(PTR, $00000C19)
 
 <$12><$13>
-// ヤハリ アナタハ \nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY. 
+// ヤハリ アナタハ\nトウロクサレテイマセン。
+ USER NOT REGISTERED FOR ENTRY.
 <$00>
 

@@ -15,20 +15,20 @@
 //トミー：
 Tommy:
 <$0D>
-// \nようよう、兄ちゃんよう、ブリックロードに \n出る扉、あれ開けられねぇのか。
- \n
-Hey, Buddy. You can open the door to \n
+//\nようよう、兄ちゃんよう、ブリックロードに\n出る扉、あれ開けられねぇのか。
+\n
+Hey, Buddy. You can open the door to\n
 Brick Road, can't you? Thing's shut,
 <$0C>
-a-yup. 
+a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n閉まりやがったんだ。クロウのやつもいたぞ。 \n一緒に来たのか？
- \n
-I saw Crow around here too. Did you \n
-come here with him? 
+//\n閉まりやがったんだ。クロウのやつもいたぞ。\n一緒に来たのか？
+\n
+I saw Crow around here too. Did you\n
+come here with him?
 <$00>
 
 // Pos: 00003A70
@@ -41,26 +41,26 @@ come here with him?
 //トミー：
 Tommy:
 <$0D>
-// \nよう、俺はなぁ、あの赤い家のとこだ、そこで、 \nああ、くそったれ！ 気が遠くなりやがった。
-I was at that red house \n
-before, when...BAM! I fainted! 
+//\nよう、俺はなぁ、あの赤い家のとこだ、そこで、\nああ、くそったれ！ 気が遠くなりやがった。
+I was at that red house\n
+before, when...BAM! I fainted!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nそれで、あのへんてこな \n道しるべのとこにいたんだ。
- \n
-Next thing I know, I'm over by that \n
+//\nそれで、あのへんてこな\n道しるべのとこにいたんだ。
+\n
+Next thing I know, I'm over by that\n
 signpost. The whole thing was
 <$0C>
-bizarre, a-yup. 
+bizarre, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nクロウのやつはどっから入ったんだ？
- \n
-How did that Crow guy get in here? 
+//\nクロウのやつはどっから入ったんだ？
+\n
+How did that Crow guy get in here?
 <$00>
 
 // Pos: 00003AE4
@@ -73,10 +73,10 @@ How did that Crow guy get in here?
 //トミー：
 Tommy:
 <$0D>
-// \nなあ、アイスレイクから古い坑道がのびてる、 \nコロニーにつながってるんだ。
- \n
-Check this out. It's the old mineshaft \n
-that runs from Ice Lake to the colony. 
+//\nなあ、アイスレイクから古い坑道がのびてる、\nコロニーにつながってるんだ。
+\n
+Check this out. It's the old mineshaft\n
+that runs from Ice Lake to the colony.
 <$00>
 
 // Pos: 00003B14
@@ -89,13 +89,13 @@ that runs from Ice Lake to the colony.
 //トミー：
 Tommy:
 <$0D>
-// \nでもよ、ゲートが閉まってちゃ、 \nどうにもならねぇな。
- \n
-But the gate's closed. Just our luck, \n
+//\nでもよ、ゲートが閉まってちゃ、\nどうにもならねぇな。
+\n
+But the gate's closed. Just our luck,\n
 a-yup.
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00003B3B
@@ -108,13 +108,13 @@ a-yup.
 //トミー：
 Tommy:
 <$0D>
-// \n穴ボコでも開いてりゃな、 \nアイスレイクに行けるのにな。
- \n
-If only we could squeeze through this \n
+//\n穴ボコでも開いてりゃな、\nアイスレイクに行けるのにな。
+\n
+If only we could squeeze through this\n
 thing and get to Ice Lake.
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00003B65
@@ -127,10 +127,10 @@ thing and get to Ice Lake.
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんよう… \nお前、さっきの兄ちゃん…だよな。
- \n
-Hey, comrade! Wait. We spoke \n
-earlier...right? 
+//\n兄ちゃんよう…\nお前、さっきの兄ちゃん…だよな。
+\n
+Hey, comrade! Wait. We spoke\n
+earlier...right?
 <$00>
 
 // Pos: 00003B88
@@ -143,18 +143,18 @@ earlier...right?
 //トミー：
 Tommy:
 <$0D>
-// \nおう？ 何だ、この惑じは… おうおう？
- \n
-Hm? Hey, I'm sensing something, \n
-but...what is it? 
+//\nおう？ 何だ、この惑じは… おうおう？
+\n
+Hm? Hey, I'm sensing something,\n
+but...what is it?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nまた気が遠くなるぜ、おい、何のまじないだ、 \n兄ちゃん…
- \n
-I feel like I'm gonna pass out again. \n
-What the heck...? 
+//\nまた気が遠くなるぜ、おい、何のまじないだ、\n兄ちゃん…
+\n
+I feel like I'm gonna pass out again.\n
+What the heck...?
 <$00>
 
 // Pos: 00003BCA
@@ -167,10 +167,10 @@ What the heck...?
 //ラミー：
 Rummy:
 <$0D>
-// \nあーああーあ…僕だな、ラミーだな。 \n君は電波の友だちだな。ここは、どこだな…
- \n
-Aaaaah! I'm...Rummy! YOU! Are you \n
-friend to all the radio waves...? 
+//\nあーああーあ…僕だな、ラミーだな。\n君は電波の友だちだな。ここは、どこだな…
+\n
+Aaaaah! I'm...Rummy! YOU! Are you\n
+friend to all the radio waves...?
 <$00>
 
 // Pos: 00003BFD
@@ -187,18 +187,18 @@ friend to all the radio waves...?
 //ラミー：
 Rummy:
 <$0D>
-// \nリモート操作だな、ゲートは \n緊急事態レベル３のロックがかかってるな。
- \n
-This is remote operated. The gate's \n
-under a Level 3 emergency lock, a-ha. 
+//\nリモート操作だな、ゲートは\n緊急事態レベル３のロックがかかってるな。
+\n
+This is remote operated. The gate's\n
+under a Level 3 emergency lock, a-ha.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-// \n近くに無線テレビはあるか… 無線テレビ…
- \n
-Check around here for a monitor. \n
-There should be one. 
+//\n近くに無線テレビはあるか… 無線テレビ…
+\n
+Check around here for a monitor.\n
+There should be one.
 <$00>
 
 // Pos: 00003C4F
@@ -211,10 +211,10 @@ There should be one.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nエイプリルはどこにいるんだ？ \nまだ見えないのか？
- \n
-Where is April? Have you still not seen \n
-her? 
+//\nエイプリルはどこにいるんだ？\nまだ見えないのか？
+\n
+Where is April? Have you still not seen\n
+her?
 <$00>
 
 // Pos: 00003C75
@@ -227,10 +227,10 @@ her?
 //クロエ：
 Chloe:
 <$0D>
-// \n見えないの…彼女だけは… \nすごく遠いのよ。
- \n
-That woman is the only one I can't... \n
-She's too far... 
+//\n見えないの…彼女だけは…\nすごく遠いのよ。
+\n
+That woman is the only one I can't...\n
+She's too far...
 <$00>
 
 // Pos: 00003C96
@@ -243,10 +243,10 @@ She's too far...
 //フェニックス：
 Phoenix:
 <$0D>
-// \nエイプリルのことが気になるんだ。 \n何か関係ある、この星と関係あるんだ。
- \n
-April makes me curious. She must be \n
-tethered to the planet somehow. 
+//\nエイプリルのことが気になるんだ。\n何か関係ある、この星と関係あるんだ。
+\n
+April makes me curious. She must be\n
+tethered to the planet somehow.
 <$00>
 
 // Pos: 00003CCC
@@ -259,9 +259,9 @@ tethered to the planet somehow.
 //クロエ：
 Chloe:
 <$0D>
-// \n見えないの。 \n彼女のことは見えてこないのよ。
- \n
-I can't see her. I can't see that woman. 
+//\n見えないの。\n彼女のことは見えてこないのよ。
+\n
+I can't see her. I can't see that woman.
 <$00>
 
 // Pos: 00003CED
@@ -274,28 +274,28 @@ I can't see her. I can't see that woman.
 //フェニックス：
 Phoenix:
 <$0D>
-// \n不思議なんだ、この火星には \nエイプリルの思い出が残されている…
- \n
-It's strange to me that Mars has \n
-memories of April. 
+//\n不思議なんだ、この火星には\nエイプリルの思い出が残されている…
+\n
+It's strange to me that Mars has\n
+memories of April.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \n銀のカプセルはエイプリルを記憶していた。 \n土に埋まっていたのに。どういうことなんだ？
- \n
-The silver capsule shared a memory of \n
+//\n銀のカプセルはエイプリルを記憶していた。\n土に埋まっていたのに。どういうことなんだ？
+\n
+The silver capsule shared a memory of\n
 April, even though it was buried in the
 <$0C>
-ground. Why? 
+ground. Why?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nアガタがウソを付いているのか… \n物の記憶だなんて。
- \n
-Was Agatha lying when she said items \n
-carried memories of people? 
+//\nアガタがウソを付いているのか…\n物の記憶だなんて。
+\n
+Was Agatha lying when she said items\n
+carried memories of people?
 <$00>
 
 // Pos: 00003D84
@@ -308,27 +308,27 @@ carried memories of people?
 //クロエ：
 Chloe:
 <$0D>
-// \n分からないわ。 \nとにかくエイプリルは不思議なの、 \n私にはそれしか言えないわ。
- \n
-I don't know. April is a mystery on all \n
-counts. That's all I can say. 
+//\n分からないわ。\nとにかくエイプリルは不思議なの、\n私にはそれしか言えないわ。
+\n
+I don't know. April is a mystery on all\n
+counts. That's all I can say.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nアガタについては… \nそうね、彼女はこの星の意志に \n触れてから人が変わったのよ。
- \n
-As for Agatha... Well, she has changed \n
+//\nアガタについては…\nそうね、彼女はこの星の意志に\n触れてから人が変わったのよ。
+\n
+As for Agatha... Well, she has changed\n
 much since being touched by the will of
 <$0C>
-the planet. 
+the planet.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n憑かれたのね、きっと。
- \n
-She is certainly possessed. 
+//\n憑かれたのね、きっと。
+\n
+She is certainly possessed.
 <$00>
 
 // Pos: 00003E00
@@ -341,26 +341,26 @@ She is certainly possessed.
 //クロエ：
 Chloe:
 <$0D>
-// \n私の目を見て…目を見るのよ…
- \n
-Look into my eyes... I am looking into \n
-your eyes... 
+//\n私の目を見て…目を見るのよ…
+\n
+Look into my eyes... I am looking into\n
+your eyes...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nそう、ほら惑じるでしょ、フェニックス、 \nこれが本当の瞬間よ。
- \n
-Yes, Phoenix, it is just as you sensed. \n
-This is the moment of truth. 
+//\nそう、ほら惑じるでしょ、フェニックス、\nこれが本当の瞬間よ。
+\n
+Yes, Phoenix, it is just as you sensed.\n
+This is the moment of truth.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n体がないと、こんな気分にはなれないのよ。 \n開いてる、フェニックス？
- \n
-Of course, you can't feel it without a \n
-body now, can you, Phoenix? 
+//\n体がないと、こんな気分にはなれないのよ。\n開いてる、フェニックス？
+\n
+Of course, you can't feel it without a\n
+body now, can you, Phoenix?
 <$00>
 
 // Pos: 00003E6F
@@ -373,18 +373,18 @@ body now, can you, Phoenix?
 //クロエ：
 Chloe:
 <$0D>
-// \nどうしたの… フェニックス… \nアーモンドの香りがしない…
- \n
-Ahhh... Phoenix... You smell like \n
-almonds... 
+//\nどうしたの… フェニックス…\nアーモンドの香りがしない…
+\n
+Ahhh... Phoenix... You smell like\n
+almonds...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nあなたは別な人なのね、きっとそうよ。
- \n
-I see, then. You're someone else. I'm \n
-sure of it now. 
+//\nあなたは別な人なのね、きっとそうよ。
+\n
+I see, then. You're someone else. I'm\n
+sure of it now.
 <$00>
 
 // Pos: 00003EB0
@@ -397,18 +397,18 @@ sure of it now.
 //クロエ：
 Chloe:
 <$0D>
-// \nあなたはフェニックスじゃないのね。 \nそっくりだけど…
- \n
-You're not Phoenix at all, are you? \n
-You're more like a... 
+//\nあなたはフェニックスじゃないのね。\nそっくりだけど…
+\n
+You're not Phoenix at all, are you?\n
+You're more like a...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n双子なのね、そうね、双子なのよ。 \nきっとそうよ、あなたたちはそっくりだもん。
- \n
-...a twin, that's it. His twin. That must be \n
-what you are to him. 
+//\n双子なのね、そうね、双子なのよ。\nきっとそうよ、あなたたちはそっくりだもん。
+\n
+...a twin, that's it. His twin. That must be\n
+what you are to him.
 <$00>
 
 // Pos: 00003F05
@@ -421,10 +421,10 @@ what you are to him.
 //スペーサー：
 Spacer:
 <$0D>
-// \n君が…タトラー船長の… \nそんなバカな！
- \n
-Wait, you're Captain Tatler's... No, \n
-that idiot! 
+//\n君が…タトラー船長の…\nそんなバカな！
+\n
+Wait, you're Captain Tatler's... No,\n
+that idiot!
 <$00>
 
 // Pos: 00003F27
@@ -437,10 +437,10 @@ that idiot!
 //クロエ：
 Chloe:
 <$0D>
-// \nフェニックスじゃないのね…ニセモノなのね。 \nあなたとは気が合わないわ。
- \n
-You are not Phoenix. You are an \n
-imposter. We are not on the same level. 
+//\nフェニックスじゃないのね…ニセモノなのね。\nあなたとは気が合わないわ。
+\n
+You are not Phoenix. You are an\n
+imposter. We are not on the same level.
 <$00>
 
 // Pos: 00003F54
@@ -453,9 +453,9 @@ imposter. We are not on the same level.
 //クロエ：
 Chloe:
 <$0D>
-// \n余計なことを… \n私は現実だ、私がオリジナルだ。
- \n
-Listen... I am real. I am the original. 
+//\n余計なことを…\n私は現実だ、私がオリジナルだ。
+\n
+Listen... I am real. I am the original.
 <$00>
 
 // Pos: 00003F78
@@ -468,9 +468,9 @@ Listen... I am real. I am the original.
 //スペーサー：
 Spacer:
 <$0D>
-// \nこれは幻だ、そうに建いない。
- \n
-This is an illusion. It has to be. 
+//\nこれは幻だ、そうに建いない。
+\n
+This is an illusion. It has to be.
 <$00>
 
 // Pos: 00003F95
@@ -483,9 +483,9 @@ This is an illusion. It has to be.
 //クロエ：
 Chloe:
 <$0D>
-// \n余計なことを… \n私は現実だ、私がオリジナルだ。
- \n
-Listen... I am real. I am the original. 
+//\n余計なことを…\n私は現実だ、私がオリジナルだ。
+\n
+Listen... I am real. I am the original.
 <$00>
 
 // Pos: 00003FB9
@@ -498,10 +498,10 @@ Listen... I am real. I am the original.
 //アーネスト：
 Ernest:
 <$0D>
-// \nおお…可愛いじゃねぇか… \nミーシャみたいだぜ。
- \n
-Hmm, this one's cute. Almost reminds \n
-me of Masha. 
+//\nおお…可愛いじゃねぇか…\nミーシャみたいだぜ。
+\n
+Hmm, this one's cute. Almost reminds\n
+me of Masha.
 <$00>
 
 // Pos: 00003FDF
@@ -514,9 +514,9 @@ me of Masha.
 //クロエ：
 Chloe:
 <$0D>
-// \nこんにちは。 \nミーシャじゃないよ、クロエよ。
- \n
-Hello. My name is not Masha. It's Chloe. 
+//\nこんにちは。\nミーシャじゃないよ、クロエよ。
+\n
+Hello. My name is not Masha. It's Chloe.
 <$00>
 
 // Pos: 00003FFE
@@ -529,17 +529,17 @@ Hello. My name is not Masha. It's Chloe.
 //アーネスト：
 Ernest:
 <$0D>
-// \nクロエか…いい名前だ。
- \n
-Chloe, huh... Nice name. 
+//\nクロエか…いい名前だ。
+\n
+Chloe, huh... Nice name.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nなぁ、クロエちゃんよ、 \nそこにある顔は、そりゃ何だ？
- \n
-So, tell me, Chloe. What are those faces \n
-you have there? 
+//\nなぁ、クロエちゃんよ、\nそこにある顔は、そりゃ何だ？
+\n
+So, tell me, Chloe. What are those faces\n
+you have there?
 <$00>
 
 // Pos: 0000403C
@@ -552,28 +552,28 @@ you have there?
 //クロエ：
 Chloe:
 <$0D>
-// \nこれは
- \n
-This is 
+//\nこれは
+\n
+This is
 <$18><$00>
 //ぁこ
-ぁこ 
+ぁこ
 <$08><$00><$00><$00>
 //リバー
-Liever... 
+Liever...
 <$1A><$13><$00><$00><$00><$18><$00>
 //ぁさ
-ぁさ 
+ぁさ
 <$08><$00><$00><$00>
 //リトル
 Little...
 <$1A>
 //黄
-黄 
+黄
 <$00><$00>
-//レッドよ。 \n用済みになったの。
-Red... \n
-They have served their purpose. 
+//レッドよ。\n用済みになったの。
+Red...\n
+They have served their purpose.
 <$00>
 
 // Pos: 00004079
@@ -586,9 +586,9 @@ They have served their purpose.
 //アーネスト：
 Ernest:
 <$0D>
-// \n用済みって、何だ？
- \n
-And what's that? 
+//\n用済みって、何だ？
+\n
+And what's that?
 <$00>
 
 // Pos: 00004091
@@ -601,10 +601,10 @@ And what's that?
 //クロエ：
 Chloe:
 <$0D>
-// \n用済みは用済みよ。 \nあなたもなりたいの？
- \n
-Their reason for living. Would you like \n
-one too? 
+//\n用済みは用済みよ。\nあなたもなりたいの？
+\n
+Their reason for living. Would you like\n
+one too?
 <$00>
 
 // Pos: 000040B2
@@ -617,9 +617,9 @@ one too?
 //アーネスト：
 Ernest:
 <$0D>
-// \nあ…いや、 \nよしとくぜ。
- \n
-Err...no, I'm covered. 
+//\nあ…いや、\nよしとくぜ。
+\n
+Err...no, I'm covered.
 <$00>
 
 // Pos: 000040CB
@@ -632,10 +632,10 @@ Err...no, I'm covered.
 //アーネスト：
 Ernest:
 <$0D>
-// \nなあ、ここは火事だったんじゃねぇのか… \n化かされてるみたいだぜ。
- \n
-If one you burned in the fire before, \n
-this you has to be an illusion. 
+//\nなあ、ここは火事だったんじゃねぇのか…\n化かされてるみたいだぜ。
+\n
+If one you burned in the fire before,\n
+this you has to be an illusion.
 <$00>
 
 // Pos: 000040FB
@@ -648,9 +648,9 @@ this you has to be an illusion.
 //クロエ：
 Chloe:
 <$0D>
-// \n化かされてなんかいないわ、 \nあなたの見たものが現実なのよ。
- \n
-This is no illusion. What you see is real. 
+//\n化かされてなんかいないわ、\nあなたの見たものが現実なのよ。
+\n
+This is no illusion. What you see is real.
 <$00>
 
 // Pos: 00004124
@@ -663,9 +663,9 @@ This is no illusion. What you see is real.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあらクロエちゃん… \nその顔はどうしたの？
- \n
-Oh! Chloe... What's with the faces? 
+//\nあらクロエちゃん…\nその顔はどうしたの？
+\n
+Oh! Chloe... What's with the faces?
 <$00>
 
 // Pos: 00004145
@@ -678,28 +678,28 @@ Oh! Chloe... What's with the faces?
 //クロエ：
 Chloe:
 <$0D>
-// \nこれは
- \n
-This is 
+//\nこれは
+\n
+This is
 <$18><$00>
 //ぁこ
-ぁこ 
+ぁこ
 <$08><$00><$00><$00>
 //リバー
-Liever... 
+Liever...
 <$1A><$13><$00><$00><$00><$18><$00>
 //ぁさ
-ぁさ 
+ぁさ
 <$08><$00><$00><$00>
 //リトル
 Little...
 <$1A>
 //黄
-黄 
+黄
 <$00><$00>
-//レッドよ。 \n用済みになったの。
-Red... \n
-They have served their purpose. 
+//レッドよ。\n用済みになったの。
+Red...\n
+They have served their purpose.
 <$00>
 
 // Pos: 00004182
@@ -712,10 +712,10 @@ They have served their purpose.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそうなの…用済み… \n今はあなたのものなのね。
- \n
-I see... So they're obsolete as soon as \n
-you're done with them. 
+//\nそうなの…用済み…\n今はあなたのものなのね。
+\n
+I see... So they're obsolete as soon as\n
+you're done with them.
 <$00>
 
 // Pos: 000041A7
@@ -728,9 +728,9 @@ you're done with them.
 //クロエ：
 Chloe:
 <$0D>
-// \nそうよ。 \nもらったの。
- \n
-That's right. They are mine. 
+//\nそうよ。\nもらったの。
+\n
+That's right. They are mine.
 <$00>
 
 // Pos: 000041BB
@@ -743,10 +743,10 @@ That's right. They are mine.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nここは何でこんなにメルヘンチックなの… \n誰かの幻覚なのね。
- \n
-It looks like a fairy tale here. Someone \n
-must be hallucinating. 
+//\nここは何でこんなにメルヘンチックなの…\n誰かの幻覚なのね。
+\n
+It looks like a fairy tale here. Someone\n
+must be hallucinating.
 <$00>
 
 // Pos: 000041E7
@@ -759,10 +759,10 @@ must be hallucinating.
 //クロエ：
 Chloe:
 <$0D>
-// \n幻覚なんかじゃないわ、これが本当なの。 \nあなたの見たものが真実なのよ。
- \n
-This is no hallucination. This is the \n
-truth. What you see is real. 
+//\n幻覚なんかじゃないわ、これが本当なの。\nあなたの見たものが真実なのよ。
+\n
+This is no hallucination. This is the\n
+truth. What you see is real.
 <$00>
 
 // Pos: 00004219
@@ -775,12 +775,12 @@ truth. What you see is real.
 //スペーサー：
 Spacer:
 <$0D>
-// \n開いてくれ、さっきのことだ、 \nここで君と話して、
- \n
+//\n開いてくれ、さっきのことだ、\nここで君と話して、
+\n
 Tell me, what was up with that 
 <$0F>
-//は \nどうなったんだ？
- person you were talking to earlier? 
+//は\nどうなったんだ？
+ person you were talking to earlier?
 <$00>
 
 // Pos: 0000424B
@@ -793,12 +793,12 @@ Tell me, what was up with that
 //クロエ：
 Chloe:
 <$0D>
-// \nせめてるの、私のせいなの？ \nあなたはニセモノなのよ。
- \n
-Who wants to know? You're not trying \n
+//\nせめてるの、私のせいなの？\nあなたはニセモノなのよ。
+\n
+Who wants to know? You're not trying\n
 to frame me for anything, are you, you
 <$0C>
-imposter? 
+imposter?
 <$00>
 
 // Pos: 0000426E
@@ -811,10 +811,10 @@ imposter?
 //スペーサー：
 Spacer:
 <$0D>
-// \n私は実体だ、仮でもなんでもない！ \nあああ、さっきは誰と話してたんだ？
- \n
-I'm no imposter. I'm real! Well, come \n
-on! Who were you talking to earlier? 
+//\n私は実体だ、仮でもなんでもない！\nあああ、さっきは誰と話してたんだ？
+\n
+I'm no imposter. I'm real! Well, come\n
+on! Who were you talking to earlier?
 <$00>
 
 // Pos: 000042A2
@@ -827,10 +827,10 @@ on! Who were you talking to earlier?
 //スペーサー：
 Spacer:
 <$0D>
-// \n教えてくれ、 \nさっき君と話してたのは誰なんだ？
- \n
-Tell me, who were you talking to \n
-earlier? 
+//\n教えてくれ、\nさっき君と話してたのは誰なんだ？
+\n
+Tell me, who were you talking to\n
+earlier?
 <$00>
 
 // Pos: 000042C9
@@ -843,9 +843,9 @@ earlier?
 //クロエ：
 Chloe:
 <$0D>
-// \n私は実体だ、仮でもなんでもない。 \nあああ、さっきは誰と話してたんだ？
- \n
-I am real. This is no illusion. So, who \n
-were you speaking to earlier? 
+//\n私は実体だ、仮でもなんでもない。\nあああ、さっきは誰と話してたんだ？
+\n
+I am real. This is no illusion. So, who\n
+were you speaking to earlier?
 <$00>
 

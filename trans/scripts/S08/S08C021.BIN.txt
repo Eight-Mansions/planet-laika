@@ -15,10 +15,10 @@
 //リトル：
 Little:
 <$0D>
-// \nあああ、見たぞ、この先… \nそうだ、鏡だ… ダムだ！
- \n
-Wait! I know I saw it... Up ahead, right? \n
-Yeah, it was a wall, or...a dam. 
+//\nあああ、見たぞ、この先…\nそうだ、鏡だ… ダムだ！
+\n
+Wait! I know I saw it... Up ahead, right?\n
+Yeah, it was a wall, or...a dam.
 <$00>
 
 // Pos: 0000168D
@@ -31,34 +31,34 @@ Yeah, it was a wall, or...a dam.
 //リトル：
 Little:
 <$0D>
-// \n思い出したぞ！トーテムポールみたいなやつだ、 \nそいつが俺を
- \n
-I remember! There was this \n
-totem-like guy, and he... 
+//\n思い出したぞ！トーテムポールみたいなやつだ、\nそいつが俺を
+\n
+I remember! There was this\n
+totem-like guy, and he...
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \nああああ、いやな息を吹きかけられて…
- \n
-Ugh, yeah! His foul breath... It blew me \n
-away! 
+//\nああああ、いやな息を吹きかけられて…
+\n
+Ugh, yeah! His foul breath... It blew me\n
+away!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \nあああ、あれは夢じゃなかったのか、
- \n
-Oi, it's almost like it was...no dream at \n
-all... 
+//\nあああ、あれは夢じゃなかったのか、
+\n
+Oi, it's almost like it was...no dream at\n
+all...
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \nあああ、いやだ、建う、思い出したくない、 \nあれはただの夢だったんだ。そうだそうだ！
- \n
-NO! I don't want to remember! That \n
-was a dream! It HAD to be! 
+//\nあああ、いやだ、建う、思い出したくない、\nあれはただの夢だったんだ。そうだそうだ！
+\n
+NO! I don't want to remember! That\n
+was a dream! It HAD to be!
 <$00>
 
 // Pos: 00001720
@@ -71,9 +71,9 @@ was a dream! It HAD to be!
 //エイプリル：
 April:
 <$0D>
-// \nどうしたの、急におびえはじめて。 \nこの先に何があるの？
- \n
-What's happening up ahead? I'm \n
-getting scared now. 
+//\nどうしたの、急におびえはじめて。\nこの先に何があるの？
+\n
+What's happening up ahead? I'm\n
+getting scared now.
 <$00>
 

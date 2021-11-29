@@ -15,13 +15,13 @@
 //トーマス：
 Thomas:
 <$0D>
-// \nところで君は生まれ変わりを信じるかね？ \n目下のところ、最大の問顆だ、私なりにね。
- \n
-Do you believe in reincarnation? That's \n
+//\nところで君は生まれ変わりを信じるかね？\n目下のところ、最大の問顆だ、私なりにね。
+\n
+Do you believe in reincarnation? That's\n
 one puzzle I'm on my way to solve!
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 000013FC
@@ -34,21 +34,21 @@ one puzzle I'm on my way to solve!
 //トーマス：
 Thomas:
 <$0D>
-// \n思うところは、もう伝えた。
- \n
-I've already told you what I think, \n
-haven't I? 
+//\n思うところは、もう伝えた。
+\n
+I've already told you what I think,\n
+haven't I?
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n君にも… いや君じゃないかも知れないが、 \n伝わったはずだ。
- \n
-No, perhaps "you" wouldn't know for \n
+//\n君にも… いや君じゃないかも知れないが、\n伝わったはずだ。
+\n
+No, perhaps "you" wouldn't know for\n
 sure now, but I have.
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00001440
@@ -61,21 +61,21 @@ sure now, but I have.
 //スパーキー：
 Sparky:
 <$0D>
-// \n気になったのよ…
- \n
-William's worrying me. When I saw him \n
-over at the red house... 
+//\n気になったのよ…
+\n
+William's worrying me. When I saw him\n
+over at the red house...
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>
-// \nそしたらウィリアム、彼ったら変な光に包まれて \n赤い家の中に… どうしちゃったの？
- \n
-...he was surrounded by a strange \n
+//\nそしたらウィリアム、彼ったら変な光に包まれて\n赤い家の中に… どうしちゃったの？
+\n
+...he was surrounded by a strange\n
 light. What happened to him?
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 0000148F
@@ -88,13 +88,13 @@ light. What happened to him?
 //スパーキー：
 Sparky:
 <$0D>
-// \nみんな目覚めはじめたのね、きっとそうよね。
- \n
-Everyone's starting to wake up for \n
+//\nみんな目覚めはじめたのね、きっとそうよね。
+\n
+Everyone's starting to wake up for\n
 real.
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 000014B4
@@ -107,15 +107,15 @@ real.
 //トーマス：
 Thomas:
 <$0D>
-// \n生まれ変わり？ \n不老不死とは建うんだ、新しくなるんだ…
- \n
-Reincarnation? That's not the same \n
+//\n生まれ変わり？\n不老不死とは建うんだ、新しくなるんだ…
+\n
+Reincarnation? That's not the same\n
 thing as being immortal. It's about
 <$0C>
 living a new life.
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 000014E4
@@ -128,34 +128,34 @@ living a new life.
 //トーマス：
 Thomas:
 <$0D>
-// \nまだ信じがたいことがあるとな、そうだな。
- \n
-I dare say, not all things are seen to be \n
+//\nまだ信じがたいことがあるとな、そうだな。
+\n
+I dare say, not all things are seen to be\n
 believed.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00><$12><$0B>
 //トーマス：
 Thomas:
 <$0D>
-// \n私の前世は誰だったのだ？ \n考え込むね、私なりにね。
- \n
-Who was I in my past life? Who knows? \n
+//\n私の前世は誰だったのだ？\n考え込むね、私なりにね。
+\n
+Who was I in my past life? Who knows?\n
 All I can do is hypothesize.
 <$1E>
 //理
-理 
+理
 <$00><$12><$0B>
 //スパーキー：
 Sparky:
 <$0D>
-// \nああ、アタシも目覚めるのかしら、 \nもう少しね。
- \n
-Gee, I wonder if I'll ever wake up from \n
+//\nああ、アタシも目覚めるのかしら、\nもう少しね。
+\n
+Gee, I wonder if I'll ever wake up from\n
 this either, even for a moment.
 <$1E>
 //中
-中 
+中
 <$00>
 

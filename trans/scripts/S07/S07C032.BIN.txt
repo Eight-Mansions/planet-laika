@@ -15,10 +15,10 @@
 //スペーサー：
 Spacer:
 <$0D>
-// \nここは…酸索がたっぷりだ。 \n酸索がみちている…
- \n
-This place is loaded with oxygenite. \n
-Like a mineshaft, perhaps. 
+//\nここは…酸索がたっぷりだ。\n酸索がみちている…
+\n
+This place is loaded with oxygenite.\n
+Like a mineshaft, perhaps.
 <$00>
 
 // Pos: 00003158
@@ -31,10 +31,10 @@ Like a mineshaft, perhaps.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nイヤねぇ、鏡のようよ、アタシが映ってる。
- \n
-How eerie... This thing reflects my \n
-face so cleanly, like a glass mirror. 
+//\nイヤねぇ、鏡のようよ、アタシが映ってる。
+\n
+How eerie... This thing reflects my\n
+face so cleanly, like a glass mirror.
 <$00>
 
 // Pos: 0000317A
@@ -47,10 +47,10 @@ face so cleanly, like a glass mirror.
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だ、ここは…
- \n
-Hmph. What did the kid get us into this \n
-time? 
+//\n何だ、ここは…
+\n
+Hmph. What did the kid get us into this\n
+time?
 <$00>
 
 // Pos: 0000318E
@@ -63,10 +63,10 @@ time?
 //スペーサー：
 Spacer:
 <$0D>
-// \n凍っているのか。 \nまるで生きたまま凍ってしまったかのようだ。
- \n
-Are we freezing? It feels like we're \n
-being frozen alive... 
+//\n凍っているのか。\nまるで生きたまま凍ってしまったかのようだ。
+\n
+Are we freezing? It feels like we're\n
+being frozen alive...
 <$00>
 
 // Pos: 000031BC
@@ -79,20 +79,20 @@ being frozen alive...
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nどうして？ねぇ、どうしてなの… \nアタシの深いところに響いてくる…
- \n
-What's going on? I feel \n
+//\nどうして？ねぇ、どうしてなの…\nアタシの深いところに響いてくる…
+\n
+What's going on? I feel\n
 something...shivering deep inside
 <$0C>
-me... 
+me...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあれ、どうかしてるわ、アタシったら。 \nおばかさん。ただの氷のじゃない、こんなの。
- \n
-The Hell was that? Relax, Yolanda. It's \n
-just ice. Nothing to freak out over. 
+//\nあれ、どうかしてるわ、アタシったら。\nおばかさん。ただの氷のじゃない、こんなの。
+\n
+The Hell was that? Relax, Yolanda. It's\n
+just ice. Nothing to freak out over.
 <$00>
 
 // Pos: 0000321C
@@ -105,10 +105,10 @@ just ice. Nothing to freak out over.
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だ、こいつは…凍ってるぜ…
- \n
-What happened? This big guy's frozen \n
-solid. 
+//\n何だ、こいつは…凍ってるぜ…
+\n
+What happened? This big guy's frozen\n
+solid.
 <$00>
 
 // Pos: 00003238
@@ -121,9 +121,9 @@ solid.
 //アーネスト：
 Ernest:
 <$0D>
-// \nあああ、何だ、イヤな気分だ。 \n俺が…小さくなっていくようだ…ちくしょう！
- \n
-Urk, I...don't feel so good. It's like, \n
-little by little, I'm... Damn! 
+//\nあああ、何だ、イヤな気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
+\n
+Urk, I...don't feel so good. It's like,\n
+little by little, I'm... Damn!
 <$00>
 

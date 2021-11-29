@@ -15,10 +15,10 @@
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふほ！ \nとうとうひとり歩きを始めたのじゃな。
- \n
-Haww! Started walking on your own, \n
-have you? 
+//\nふほ！\nとうとうひとり歩きを始めたのじゃな。
+\n
+Haww! Started walking on your own,\n
+have you?
 <$00>
 
 // Pos: 000033DB
@@ -31,10 +31,10 @@ have you?
 //フェニックス：
 Phoenix:
 <$0D>
-// \nこの体はクロエにもらったんだ。 \n別に欲しいってたのんだわけじゃないさ。
- \n
-I gained this body through Chloe. It \n
-wasn't exactly my choice. 
+//\nこの体はクロエにもらったんだ。\n別に欲しいってたのんだわけじゃないさ。
+\n
+I gained this body through Chloe. It\n
+wasn't exactly my choice.
 <$00>
 
 // Pos: 0000340F
@@ -47,10 +47,10 @@ wasn't exactly my choice.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nシークレットパワーはどうじゃ、 \n試してはみたのか？
- \n
-And what of your secret power? Have \n
-you tried using it yet? 
+//\nシークレットパワーはどうじゃ、\n試してはみたのか？
+\n
+And what of your secret power? Have\n
+you tried using it yet?
 <$00>
 
 // Pos: 00003437
@@ -63,17 +63,17 @@ you tried using it yet?
 //フェニックス：
 Phoenix:
 <$0D>
-// \n試すも何も、 \n僕が話しかけるだけでみんなおかしくなる…
- \n
-It's not worth trying. Everyone I speak \n
-to loses their mind. 
+//\n試すも何も、\n僕が話しかけるだけでみんなおかしくなる…
+\n
+It's not worth trying. Everyone I speak\n
+to loses their mind.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nこれで悪が浄化されるの？
- \n
-Is THAT how I'm to purify the evil? 
+//\nこれで悪が浄化されるの？
+\n
+Is THAT how I'm to purify the evil?
 <$00>
 
 // Pos: 0000347C
@@ -86,17 +86,17 @@ Is THAT how I'm to purify the evil?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふほ… そうなのじゃ…
- \n
-Haww... Who can say? 
+//\nふほ… そうなのじゃ…
+\n
+Haww... Who can say?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nはかり知れないのう、 \nお前の心はどこまでも深いのう。
- \n
-It's immeasurable, see, how deep the \n
-depths of your mind go. 
+//\nはかり知れないのう、\nお前の心はどこまでも深いのう。
+\n
+It's immeasurable, see, how deep the\n
+depths of your mind go.
 <$00>
 
 // Pos: 000034BF
@@ -109,10 +109,10 @@ depths of your mind go.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nねぇ、僕をさがしてるって？ \nロッジであったこと？
- \n
-You were looking for me. Is this about \n
-what happened at the lodge? 
+//\nねぇ、僕をさがしてるって？\nロッジであったこと？
+\n
+You were looking for me. Is this about\n
+what happened at the lodge?
 <$00>
 
 // Pos: 000034E6
@@ -125,27 +125,27 @@ what happened at the lodge?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふほ、そうじゃ、預言じゃ。
- \n
-Haww, yes! And the prophecy! 
+//\nふほ、そうじゃ、預言じゃ。
+\n
+Haww, yes! And the prophecy!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nユニバーサルマンは \nおのれの分身をまねき寄せて、 \n失われた預言を取り戻そうとしておる。
- \n
-Universal Man beckons his alter ego to \n
+//\nユニバーサルマンは\nおのれの分身をまねき寄せて、\n失われた預言を取り戻そうとしておる。
+\n
+Universal Man beckons his alter ego to\n
 come, so that they may seek out the
 <$0C>
-lost prophecy. 
+lost prophecy.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n分身は彼にとっては \n死の世界への入口なのじゃ。
- \n
-He sees his alter ego as his entrance to \n
-the Land of the Dead. 
+//\n分身は彼にとっては\n死の世界への入口なのじゃ。
+\n
+He sees his alter ego as his entrance to\n
+the Land of the Dead.
 <$00>
 
 // Pos: 0000356B
@@ -158,12 +158,12 @@ the Land of the Dead.
 //フェニックス：
 Phoenix:
 <$0D>
-// \n開いたよ、死に向き合って預言を得るんだって。 \nそれってエレミヤと一体になるってことなの？
- \n
-Some prophecies are only heard in \n
+//\n開いたよ、死に向き合って預言を得るんだって。\nそれってエレミヤと一体になるってことなの？
+\n
+Some prophecies are only heard in\n
 death. Does he want to become one
 <$0C>
-with Jeremiah? 
+with Jeremiah?
 <$00>
 
 // Pos: 000035AD
@@ -176,61 +176,61 @@ with Jeremiah?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nそもそもこの星は死の動機を秘めておる。
-Well, for one, this planet \n
-has its own reason for dying. 
+//\nそもそもこの星は死の動機を秘めておる。
+Well, for one, this planet\n
+has its own reason for dying.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n火星人たちは自らの死をもって、 \nその善意と悪意を分けたのじゃ。
- \n
-The Martians used death as a means to \n
+//\n火星人たちは自らの死をもって、\nその善意と悪意を分けたのじゃ。
+\n
+The Martians used death as a means to\n
 separate their good will from their ill
 <$0C>
-will. 
+will.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n善意は光る石となり、 \n悪意はイーブルマインドとなった。
- \n
-Their good will became glowing \n
-stones. Their ill will became Evil Mind. 
+//\n善意は光る石となり、\n悪意はイーブルマインドとなった。
+\n
+Their good will became glowing\n
+stones. Their ill will became Evil Mind.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n流刑者エレミヤはこの星の精神に触れ、 \n死は終わりではなく始まり、
-Jeremiah the Exile was \n
-touched by the soul of the planet. His \n
+//\n流刑者エレミヤはこの星の精神に触れ、\n死は終わりではなく始まり、
+Jeremiah the Exile was\n
+touched by the soul of the planet. His\n
 death was not his end, but his
 <$0C>
-beginning. 
+beginning.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n死に対して心を開くとき \n救われると説いたのじゃ。
- \n
-When one opens their heart to death, \n
-they will be saved. 
+//\n死に対して心を開くとき\n救われると説いたのじゃ。
+\n
+When one opens their heart to death,\n
+they will be saved.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nそして５つの預言を得よった。
- \n
-In that time, the five prophecies will \n
-be realized. 
+//\nそして５つの預言を得よった。
+\n
+In that time, the five prophecies will\n
+be realized.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nそのエレミヤに近づくには、 \n死に向き合うしかないのじゃ。
- \n
-The only way to face Jeremiah now is \n
-to face death first. 
+//\nそのエレミヤに近づくには、\n死に向き合うしかないのじゃ。
+\n
+The only way to face Jeremiah now is\n
+to face death first.
 <$00>
 
 // Pos: 000036DF
@@ -243,25 +243,25 @@ to face death first.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nそうか…
- \n
-So, let's review... 
+//\nそうか…
+\n
+So, let's review...
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nユニバーサルマンはガリルとの闘いに敗れて \n死に向き合ったんだね。 \n分身はその時に誕生したんだ。
- \n
-Universal Man lost his confrontation \n
-with Galil, and met his death. 
+//\nユニバーサルマンはガリルとの闘いに敗れて\n死に向き合ったんだね。\n分身はその時に誕生したんだ。
+\n
+Universal Man lost his confrontation\n
+with Galil, and met his death.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nあるいはいちど死んでよみがえったのかな？
- \n
-In that time, his alter ego was born. Did \n
-Universal Man die and be reborn? 
+//\nあるいはいちど死んでよみがえったのかな？
+\n
+In that time, his alter ego was born. Did\n
+Universal Man die and be reborn?
 <$00>
 
 // Pos: 00003754
@@ -274,22 +274,22 @@ Universal Man die and be reborn?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n分身と合体してユニバーサルマンは新しくなる。 \nおそらく残りの預言は \nそこで得られるじゃろう。
- \n
-Universal Man will be reborn once he \n
+//\n分身と合体してユニバーサルマンは新しくなる。\nおそらく残りの預言は\nそこで得られるじゃろう。
+\n
+Universal Man will be reborn once he\n
 merges with his alter ego. The
 <$0C>
-remaining prophecies may follow. 
+remaining prophecies may follow.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n全ての預言がそろうと \nガリルの妄想は消えてなくなり、 \n預言が現実のものとなるのじゃ。
- \n
-When all prophecies are seen, Galil's \n
+//\n全ての預言がそろうと\nガリルの妄想は消えてなくなり、\n預言が現実のものとなるのじゃ。
+\n
+When all prophecies are seen, Galil's\n
 fantasies too will die, and be reborn as
 <$0C>
-realities. 
+realities.
 <$00>
 
 // Pos: 000037D6
@@ -302,10 +302,10 @@ realities.
 //フェニックス：
 Phoenix:
 <$0D>
-// \n今はそうじゃないの？ \n預言が実現しかけてるんじゃないの？
- \n
-Isn't that already the case? Aren't the \n
-prohpecies coming true right now? 
+//\n今はそうじゃないの？\n預言が実現しかけてるんじゃないの？
+\n
+Isn't that already the case? Aren't the\n
+prohpecies coming true right now?
 <$00>
 
 // Pos: 00003804
@@ -318,12 +318,12 @@ prohpecies coming true right now?
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n今、実現しようとしておるのは \nガリルの妄想じゃ。預言ではないのじゃ。
- \n
-What you see now are Galil's fantasies \n
+//\n今、実現しようとしておるのは\nガリルの妄想じゃ。預言ではないのじゃ。
+\n
+What you see now are Galil's fantasies\n
 being realized, but they are not
 <$0C>
-prophecies. 
+prophecies.
 <$00>
 
 // Pos: 0000383A
@@ -336,9 +336,9 @@ prophecies.
 //エイプリル：
 April:
 <$0D>
-// \nライカ！ \nよかった、無事だったのね。
- \n
-Laika! Thank goodness you're safe! 
+//\nライカ！\nよかった、無事だったのね。
+\n
+Laika! Thank goodness you're safe!
 <$00>
 
 // Pos: 00003859
@@ -351,20 +351,20 @@ Laika! Thank goodness you're safe!
 //エイプリル：
 April:
 <$0D>
-// \n私、ヌーンの思い出に \n引きずり込まれたみたいになって…
- \n
-It felt like I'd been sucked into Noon's \n
-memories. 
+//\n私、ヌーンの思い出に\n引きずり込まれたみたいになって…
+\n
+It felt like I'd been sucked into Noon's\n
+memories.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n気が付くとママの気配やら、子供の頃の家やら、 \nまがまがしい幻覚の中にいたの。
- \n
-I was in these irksome hallucinations \n
+//\n気が付くとママの気配やら、子供の頃の家やら、\nまがまがしい幻覚の中にいたの。
+\n
+I was in these irksome hallucinations\n
 about "cottage" this, and "Mummy"
 <$0C>
-that. 
+that.
 <$00>
 
 // Pos: 000038BC
@@ -377,42 +377,42 @@ that.
 //エイプリル：
 April:
 <$0D>
-// \n見えていたのよ、ライカのこと。 \nでも金しばりにあったみたいになって、 \n体が動かなかったの。
- \n
-But I could see you, Laika. It was like \n
+//\n見えていたのよ、ライカのこと。\nでも金しばりにあったみたいになって、\n体が動かなかったの。
+\n
+But I could see you, Laika. It was like\n
 you were cast in metal, and couldn't
 <$0C>
-move. 
+move.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n夢の中… \n夢の中がどこか別な場所につながってるのよ。
- \n
-Like the inside of that dream...was \n
+//\n夢の中…\n夢の中がどこか別な場所につながってるのよ。
+\n
+Like the inside of that dream...was\n
 connected to another place I don't
 <$0C>
-know. 
+know.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそれなのに思うようにならない… \nそれに夢だって、 \n本当に自分が見ている夢かどうか怪しいよね。
- \n
-For all that, it wasn't as I'd thought, \n
+//\nそれなのに思うようにならない…\nそれに夢だって、\n本当に自分が見ている夢かどうか怪しいよね。
+\n
+For all that, it wasn't as I'd thought,\n
 that dream. It made me doubt I'd
 <$0C>
-dreamt it. 
+dreamt it.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n夢にそっくりなんだけど、 \nきっとまどわされたのよ。
- \n
-I know that is what dreams are \n
+//\n夢にそっくりなんだけど、\nきっとまどわされたのよ。
+\n
+I know that is what dreams are\n
 supposed to do, but I felt totally lost
 <$0C>
-afterwards. 
+afterwards.
 <$00>
 
 // Pos: 00003985
@@ -425,18 +425,18 @@ afterwards.
 //エイプリル：
 April:
 <$0D>
-// \nねえ、これからどうする？ \n私はもうだいじょうぶよ。
- \n
-Well, now that we're situated, where \n
-do we go from here? 
+//\nねえ、これからどうする？\n私はもうだいじょうぶよ。
+\n
+Well, now that we're situated, where\n
+do we go from here?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nコロニーのほかの人たちは平気なのかなぁ。
- \n
-I hope the people in the colony are \n
-doing all right. 
+//\nコロニーのほかの人たちは平気なのかなぁ。
+\n
+I hope the people in the colony are\n
+doing all right.
 <$00>
 
 // Pos: 000039C8
@@ -449,9 +449,9 @@ doing all right.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、アーネストや、どこへ行く。
- \n
-Hyohyo, is that you, Ernest? Where to? 
+//\nひょひょ、アーネストや、どこへ行く。
+\n
+Hyohyo, is that you, Ernest? Where to?
 <$00>
 
 // Pos: 000039EA
@@ -464,9 +464,9 @@ Hyohyo, is that you, Ernest? Where to?
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だ、また現れやがった。俺に用か？
- \n
-You're back again? What for? 
+//\n何だ、また現れやがった。俺に用か？
+\n
+You're back again? What for?
 <$00>
 
 // Pos: 00003A0A
@@ -479,12 +479,12 @@ You're back again? What for?
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nお前は忘れっぽいぞ、ひょひょ。 \n思い出せ…火事、リバー…ひょひょ。
- \n
-You're a forgetful one, hyohyo! \n
+//\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…火事、リバー…ひょひょ。
+\n
+You're a forgetful one, hyohyo!\n
 Remember, if you want to see Liever,
 <$0C>
-seek "fire". 
+seek "fire".
 <$00>
 
 // Pos: 00003A3F
@@ -497,12 +497,12 @@ seek "fire".
 //アーネスト：
 Ernest:
 <$0D>
-// \n火事…燃えた町…いやな惑じだぜ。
- \n
-A fire, huh. That could mean that town \n
+//\n火事…燃えた町…いやな惑じだぜ。
+\n
+A fire, huh. That could mean that town\n
 that burned down. It's a tasteless clue
 <$0C>
-if it does. 
+if it does.
 <$00>
 
 // Pos: 00003A61
@@ -515,9 +515,9 @@ if it does.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、スペーサーや、どこへ行く。
- \n
-Hyohyo, is that you, Spacer? Where to? 
+//\nひょひょ、スペーサーや、どこへ行く。
+\n
+Hyohyo, is that you, Spacer? Where to?
 <$00>
 
 // Pos: 00003A83
@@ -530,10 +530,10 @@ Hyohyo, is that you, Spacer? Where to?
 //スペーサー：
 Spacer:
 <$0D>
-// \n鏡から出てきたのか。 \nイレギュラーなことだ。
- \n
-Coming out of mirrors now? That's not \n
-something you see everyday. 
+//\n鏡から出てきたのか。\nイレギュラーなことだ。
+\n
+Coming out of mirrors now? That's not\n
+something you see everyday.
 <$00>
 
 // Pos: 00003AA8
@@ -546,12 +546,12 @@ something you see everyday.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nお前は忘れっぽいぞ、ひょひょ。 \n思い出せ…ロケット、リバー…ひょひょ。
- \n
-You're a forgetful one, hyohyo! \n
+//\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…ロケット、リバー…ひょひょ。
+\n
+You're a forgetful one, hyohyo!\n
 Remember, if you want to see Liever,
 <$0C>
-seek the "rocket". 
+seek the "rocket".
 <$00>
 
 // Pos: 00003ADD
@@ -564,12 +564,12 @@ seek the "rocket".
 //スペーサー：
 Spacer:
 <$0D>
-// \nロケット… \n私たちが乗って来たロケットのところか。
- \n
-"Rocket"... Of course I'd get the easiest \n
+//\nロケット…\n私たちが乗って来たロケットのところか。
+\n
+"Rocket"... Of course I'd get the easiest\n
 clue. That'd mean the rocket we came
 <$0C>
-to Mars in. 
+to Mars in.
 <$00>
 
 // Pos: 00003B05
@@ -582,10 +582,10 @@ to Mars in.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、ヨランダや、どこへ行く。
- \n
-Hyohyo, is that you, Yolanda? Where \n
-to? 
+//\nひょひょ、ヨランダや、どこへ行く。
+\n
+Hyohyo, is that you, Yolanda? Where\n
+to?
 <$00>
 
 // Pos: 00003B26
@@ -598,10 +598,10 @@ to?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nどうしたっていうのよ。もう疲れたわ。
- \n
-Is this a joke or something? I'm tired \n
-of running around for shit. 
+//\nどうしたっていうのよ。もう疲れたわ。
+\n
+Is this a joke or something? I'm tired\n
+of running around for shit.
 <$00>
 
 // Pos: 00003B45
@@ -614,12 +614,12 @@ of running around for shit.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nお前は忘れっぽいぞ、ひょひょ。 \n思い出せ…避難小屋、リバー…ひょひょ。
- \n
-You're a forgetful one, hyohyo! \n
+//\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…避難小屋、リバー…ひょひょ。
+\n
+You're a forgetful one, hyohyo!\n
 Remember, if you want to see Liever,
 <$0C>
-seek "shelter". 
+seek "shelter".
 <$00>
 
 // Pos: 00003B7E
@@ -632,12 +632,12 @@ seek "shelter".
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n避難小屋… \nたしかにあったわね、そんなところが。
- \n
-"Shelter"... Well, actually, we did have \n
+//\n避難小屋…\nたしかにあったわね、そんなところが。
+\n
+"Shelter"... Well, actually, we did have\n
 to run for cover somewhere shortly
 <$0C>
-after we landed... 
+after we landed...
 <$00>
 
 // Pos: 00003BA6
@@ -650,20 +650,20 @@ after we landed...
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nどうやらここらあたりに入り口がありそうじゃ。 \nだが何かが足りんぞ。
- \n
-It seems there's an entrance \n
+//\nどうやらここらあたりに入り口がありそうじゃ。\nだが何かが足りんぞ。
+\n
+It seems there's an entrance\n
 somewhere around here, but
 <$0C>
-something is missing. 
+something is missing.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n結界のようなものがあってな、 \nそれを抜けねばならんのじゃが…
- \n
-It seems there is a boundary in place \n
-that we must breach. 
+//\n結界のようなものがあってな、\nそれを抜けねばならんのじゃが…
+\n
+It seems there is a boundary in place\n
+that we must breach.
 <$00>
 
 // Pos: 00003C06
@@ -676,36 +676,36 @@ that we must breach.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nおう、そうじゃ、石じゃ。 \n光る石じゃ。 光る石はすべて集めたか？
- \n
-Ah, yes. The stones! Tell me, have you \n
-collected all of the glowing stones? 
+//\nおう、そうじゃ、石じゃ。\n光る石じゃ。 光る石はすべて集めたか？
+\n
+Ah, yes. The stones! Tell me, have you\n
+collected all of the glowing stones?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nいや最後のひとつは悪夢の中じゃ。 \nすると残るは４つ…
- \n
-The last one is inside of the \n
+//\nいや最後のひとつは悪夢の中じゃ。\nすると残るは４つ…
+\n
+The last one is inside of the\n
 nightmares. That just leaves the
 <$0C>
-other four... 
+other four...
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nどうじゃ、足りないじゃろう。 \nさがすのじゃ、あまり時間はないぞ。
- \n
-This won't do. I fear we don't have \n
-much time to look for them. 
+//\nどうじゃ、足りないじゃろう。\nさがすのじゃ、あまり時間はないぞ。
+\n
+This won't do. I fear we don't have\n
+much time to look for them.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nせっかく開きかけた入り口が閉じてしまうぞ。
- \n
-If the path is opened so narrowly, it \n
-may stay closed. 
+//\nせっかく開きかけた入り口が閉じてしまうぞ。
+\n
+If the path is opened so narrowly, it\n
+may stay closed.
 <$00>
 
 // Pos: 00003CBC
@@ -718,11 +718,11 @@ may stay closed.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n光る石は火星人の善意と言われておる。 \nどこかにあるはずじゃ。
- \n
-The glowing stones are said to be \n
+//\n光る石は火星人の善意と言われておる。\nどこかにあるはずじゃ。
+\n
+The glowing stones are said to be\n
 Martian good will. They must be around
 <$0C>
-here somewhere. 
+here somewhere.
 <$00>
 

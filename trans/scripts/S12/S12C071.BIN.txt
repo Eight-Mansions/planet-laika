@@ -15,28 +15,28 @@
 //クロエ：
 Chloe:
 <$0D>
-// \nここはタトラーの大好きなメルヘン村よ。 \nあとは私が体をもらうだけ。
- \n
-We are here in Tatler's beloved \n
+//\nここはタトラーの大好きなメルヘン村よ。\nあとは私が体をもらうだけ。
+\n
+We are here in Tatler's beloved\n
 Marchen Village. All I need is to acquire
 <$0C>
-a body. 
+a body.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nあなたがくれるのよ、選ぶだけよ。
- \n
-I shall choose from the ones you have \n
-lead to me. 
+//\nあなたがくれるのよ、選ぶだけよ。
+\n
+I shall choose from the ones you have\n
+lead to me.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n欲しいの、体が… ねぇちょうだい。 \nどれかひとつ、選んで。
- \n
-Which body would I like...? Which shall I \n
-choose? 
+//\n欲しいの、体が… ねぇちょうだい。\nどれかひとつ、選んで。
+\n
+Which body would I like...? Which shall I\n
+choose?
 <$00>
 
 // Pos: 00002625
@@ -49,13 +49,13 @@ choose?
 //クロエ：
 Chloe:
 <$0D>
-// \nこれはどうなの？
- \n
+//\nこれはどうなの？
+\n
 Then, is it this one?
 <$1B>
-//、これでいい \nほかのがいい
-、Yes \n
-Not sure 
+//、これでいい\nほかのがいい
+、Yes\n
+Not sure
 <$00><$17><$00>
 
 // Pos: 00002646
@@ -68,24 +68,24 @@ Not sure
 //クロエ：
 Chloe:
 <$0D>
-// \nじゃあ、これは？
- \n
+//\nじゃあ、これは？
+\n
 Is it this one?
 <$1B>
-//、これでいい \nほかのがいい
-、Yes \n
-Not sure 
+//、これでいい\nほかのがいい
+、Yes\n
+Not sure
 <$00><$17><$00><$10><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nねぇ、これなんかは？
- \n
+//\nねぇ、これなんかは？
+\n
 Then, is it this one?
 <$1B>
-//、これでいい \nほかのがいい
-、Yes \n
-Not sure 
+//、これでいい\nほかのがいい
+、Yes\n
+Not sure
 <$00><$17><$00>
 
 // Pos: 0000268A
@@ -98,44 +98,44 @@ Not sure
 //クロエ：
 Chloe:
 <$0D>
-// \nありがとう。 \n私の体、やっと手に入った。
- \n
-Thank you. At last, I have a body. 
+//\nありがとう。\n私の体、やっと手に入った。
+\n
+Thank you. At last, I have a body.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nずっと大切にするからね。
- \n
-I shall cherish this body forever. 
+//\nずっと大切にするからね。
+\n
+I shall cherish this body forever.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nあなたも自分の体、欲しくない？ \n体、本物の体よ。
- \n
-Wouldn't you like a body for your self \n
+//\nあなたも自分の体、欲しくない？\n体、本物の体よ。
+\n
+Wouldn't you like a body for your self\n
 too? A real body? You would, wouldn't
 <$0C>
-you? 
+you?
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n欲しいでしょ、そんな暗闇にいないで、 \n出てくればいいのよ。
- \n
-Of course. You don't want to be trapped \n
+//\n欲しいでしょ、そんな暗闇にいないで、\n出てくればいいのよ。
+\n
+Of course. You don't want to be trapped\n
 in the darkness anymore. This is your
 <$0C>
-chance to escape. 
+chance to escape.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nほら、体があるともうまよわないのよ。
- \n
-See? As soon as you have a body, you \n
-won't have to wander anymore. 
+//\nほら、体があるともうまよわないのよ。
+\n
+See? As soon as you have a body, you\n
+won't have to wander anymore.
 <$00>
 
 // Pos: 0000272B
@@ -148,37 +148,37 @@ won't have to wander anymore.
 //クロエ：
 Chloe:
 <$0D>
-// \n私の目を見て…
- \n
-Look into my eyes... 
+//\n私の目を見て…
+\n
+Look into my eyes...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n目よ、そう… 目を見るのよ。 \n今、あなたは暗闇にいる。
- \n
-Do you see? I am looking into your eyes, \n
-at the darkness deep within them now. 
+//\n目よ、そう… 目を見るのよ。\n今、あなたは暗闇にいる。
+\n
+Do you see? I am looking into your eyes,\n
+at the darkness deep within them now.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n暗闇のなかで一筋の光を見つめてきた… \n光に導かれて、あなたは現れる…
- \n
-From the deepest depths, sole beam of \n
+//\n暗闇のなかで一筋の光を見つめてきた…\n光に導かれて、あなたは現れる…
+\n
+From the deepest depths, sole beam of\n
 light cuts the darkness. Guided by the
 <$0C>
-light, you emerge. 
+light, you emerge.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \n本当の瞬間よ、全てに実際の形と色がある、 \n自分の目で確かめて…
- \n
-This is the moment of truth! Where all \n
+//\n本当の瞬間よ、全てに実際の形と色がある、\n自分の目で確かめて…
+\n
+This is the moment of truth! Where all\n
 have proper color and shape in the
 <$0C>
-eyes of the self! 
+eyes of the self!
 <$00>
 
 // Pos: 000027C8
@@ -191,10 +191,10 @@ eyes of the self!
 //クロエ：
 Chloe:
 <$0D>
-// \nほら、本物の体よ、フェニックス。 \nそう言うんでしょ、あなたのお名前。
- \n
-Behold your true body, Phoenix! Yes, I \n
-knew Phoenix was your name. 
+//\nほら、本物の体よ、フェニックス。\nそう言うんでしょ、あなたのお名前。
+\n
+Behold your true body, Phoenix! Yes, I\n
+knew Phoenix was your name.
 <$00>
 
 // Pos: 000027F7
@@ -207,20 +207,20 @@ knew Phoenix was your name.
 //フェニックス：
 Phoenix:
 <$0D>
-// \n名前はね。 でも体は建うよ。
- \n
-That's my name, but this body isn't \n
-mine. 
+//\n名前はね。 でも体は建うよ。
+\n
+That's my name, but this body isn't\n
+mine.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nこれは
- \n
+//\nこれは
+\n
 This is 
 <$0F>
-//さ、僕じゃない、 \n僕はこんな人間の形をしていない。
-'s body. I don't have a human shape. 
+//さ、僕じゃない、\n僕はこんな人間の形をしていない。
+'s body. I don't have a human shape.
 <$00>
 
 // Pos: 00002842
@@ -233,18 +233,18 @@ This is
 //クロエ：
 Chloe:
 <$0D>
-// \nじゃあどんなの？ どろどろの怪物なの？ \nふわふわの幽霊なの？
- \n
-Then what shape do you have? That of a \n
-mucky monster? A wisping ghost? 
+//\nじゃあどんなの？ どろどろの怪物なの？\nふわふわの幽霊なの？
+\n
+Then what shape do you have? That of a\n
+mucky monster? A wisping ghost?
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nねぇ、気に入らないの、 \nちゃんとしたあなたの体よ。
- \n
-I think the body you're using right now \n
-suits you nicely. 
+//\nねぇ、気に入らないの、\nちゃんとしたあなたの体よ。
+\n
+I think the body you're using right now\n
+suits you nicely.
 <$00>
 
 // Pos: 00002890
@@ -257,12 +257,12 @@ suits you nicely.
 //フェニックス：
 Phoenix:
 <$0D>
-// \n体が手に入って、僕はどうする？ \n死んだママのことを思って泣き続けるのか。
- \n
-But what am I supposed to do with this \n
+//\n体が手に入って、僕はどうする？\n死んだママのことを思って泣き続けるのか。
+\n
+But what am I supposed to do with this\n
 thing? Shed tears of lament for my
 <$0C>
-dead mother? 
+dead mother?
 <$00>
 
 // Pos: 000028CA
@@ -275,18 +275,18 @@ dead mother?
 //クロエ：
 Chloe:
 <$0D>
-// \nそんなふうに言わないでよ。 \nあなたが喜ぶと思ってしたまでよ。
- \n
-Don't say that. I thought this would \n
-make you happy. 
+//\nそんなふうに言わないでよ。\nあなたが喜ぶと思ってしたまでよ。
+\n
+Don't say that. I thought this would\n
+make you happy.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nあなた… 甘い香りがするわ… \nアーモンドの香りよ。
- \n
-You...smell so sweet. You smell like \n
-almonds. 
+//\nあなた… 甘い香りがするわ…\nアーモンドの香りよ。
+\n
+You...smell so sweet. You smell like\n
+almonds.
 <$00>
 
 // Pos: 00002917
@@ -299,35 +299,35 @@ almonds.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nアーモンドの香り？ 僕が？
- \n
-Me? I smell like almonds? 
+//\nアーモンドの香り？ 僕が？
+\n
+Me? I smell like almonds?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nそういえば、ママも同じことを…
- \n
-Now that you mention it, I remember \n
-Mama saying... 
+//\nそういえば、ママも同じことを…
+\n
+Now that you mention it, I remember\n
+Mama saying...
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nアーモンドの香りのする子は兵士になれる、 \nそんなことを…
- \n
-"A child who smells of almonds will \n
-make a good soldier." 
+//\nアーモンドの香りのする子は兵士になれる、\nそんなことを…
+\n
+"A child who smells of almonds will\n
+make a good soldier."
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nママは僕のことを知っていたのか？ \nふん、でももう終わりさ。今さら体なんて！
- \n
-But how would she know that, if I was \n
+//\nママは僕のことを知っていたのか？\nふん、でももう終わりさ。今さら体なんて！
+\n
+But how would she know that, if I was\n
 never... Sorry, this stops here. I don't
 <$0C>
-want this. 
+want this.
 <$00>
 
 // Pos: 000029AF
@@ -340,24 +340,24 @@ want this.
 //クロエ：
 Chloe:
 <$0D>
-// \n悲観的なのね。
- \n
-Tsk. Such a pessimist. 
+//\n悲観的なのね。
+\n
+Tsk. Such a pessimist.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nあなたは生きてることが楽しくないの、 \n生まれてこなかったほうがよかった、
- \n
-You don't enjoy life, and you wish you'd \n
-never been born. 
+//\nあなたは生きてることが楽しくないの、\n生まれてこなかったほうがよかった、
+\n
+You don't enjoy life, and you wish you'd\n
+never been born.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nそう思ってるの？
- \n
-Do you try to think that way? 
+//\nそう思ってるの？
+\n
+Do you try to think that way?
 <$00>
 
 // Pos: 00002A02
@@ -370,18 +370,18 @@ Do you try to think that way?
 //フェニックス：
 Phoenix:
 <$0D>
-// \nそうじゃないさ。 \nただ生きていて楽しいことなんて少ないよ、
- \n
-No, it's not. I never thought being born \n
-sounded very fun, is all. 
+//\nそうじゃないさ。\nただ生きていて楽しいことなんて少ないよ、
+\n
+No, it's not. I never thought being born\n
+sounded very fun, is all.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \n心はこのきゅうくつな体に \n閉じこめられてるんだ。こんな体に！
- \n
-But now, my mind is trapped in some \n
-stuffy body. THIS body! 
+//\n心はこのきゅうくつな体に\n閉じこめられてるんだ。こんな体に！
+\n
+But now, my mind is trapped in some\n
+stuffy body. THIS body!
 <$00>
 
 // Pos: 00002A5D
@@ -394,26 +394,26 @@ stuffy body. THIS body!
 //クロエ：
 Chloe:
 <$0D>
-// \nじゃあ、あなたのその力は？
- \n
-But, what about your power? 
+//\nじゃあ、あなたのその力は？
+\n
+But, what about your power?
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nシークレットパワー、 \nあなたはすごい力の持ち主よ。
- \n
-The secret power? Yes, you are the \n
+//\nシークレットパワー、\nあなたはすごい力の持ち主よ。
+\n
+The secret power? Yes, you are the\n
 possessor of a marvelous power,
 <$0C>
-after all. 
+after all.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nそれでも楽しくないの？
- \n
-And yet, you don't enjoy having it? 
+//\nそれでも楽しくないの？
+\n
+And yet, you don't enjoy having it?
 <$00>
 
 // Pos: 00002AAC
@@ -426,25 +426,25 @@ And yet, you don't enjoy having it?
 //フェニックス：
 Phoenix:
 <$0D>
-// \nシークレットパワー… \n確か、あのロッジで…
- \n
-The secret power...? Ah, from back at \n
-the lodge. 
+//\nシークレットパワー…\n確か、あのロッジで…
+\n
+The secret power...? Ah, from back at\n
+the lodge.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nホワイトイーグル…だったかな、 \n彼にもらったんだ。
- \n
-White Eagle, I think his name was, \n
-passed it on to me. 
+//\nホワイトイーグル…だったかな、\n彼にもらったんだ。
+\n
+White Eagle, I think his name was,\n
+passed it on to me.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nあたたかい… \n体があたたかくなった…
- \n
-I felt warmer. This body felt warmer. 
+//\nあたたかい…\n体があたたかくなった…
+\n
+I felt warmer. This body felt warmer.
 <$00>
 
 // Pos: 00002B13
@@ -457,30 +457,30 @@ I felt warmer. This body felt warmer.
 //クロエ：
 Chloe:
 <$0D>
-// \nシークレットパワーは \n心の悪をきれいにする力よ。
- \n
-That secret power allows you to purify \n
-evil from the minds of others. 
+//\nシークレットパワーは\n心の悪をきれいにする力よ。
+\n
+That secret power allows you to purify\n
+evil from the minds of others.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nあなたの心に秘めた悪が、 \n話す相手に影響を与えるの…
- \n
-But when you absorb that evil from \n
+//\nあなたの心に秘めた悪が、\n話す相手に影響を与えるの…
+\n
+But when you absorb that evil from\n
 those whom you speak too, the gaps
 <$0C>
-remain. 
+remain.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nあなたと話して \nおかしくなってしまう人もいるわよ。
- \n
-Some people could lose their minds \n
+//\nあなたと話して\nおかしくなってしまう人もいるわよ。
+\n
+Some people could lose their minds\n
 over this. People could go insane
 <$0C>
-simply by speaking to you. 
+simply by speaking to you.
 <$00>
 
 // Pos: 00002B82
@@ -493,9 +493,9 @@ simply by speaking to you.
 //クロエ：
 Chloe:
 <$0D>
-// \nううう…
- \n
-O-owwe...! 
+//\nううう…
+\n
+O-owwe...!
 <$00>
 
 // Pos: 00002B8F
@@ -508,10 +508,10 @@ O-owwe...!
 //フェニックス：
 Phoenix:
 <$0D>
-// \nどうした？ \nどうかしたのか？
- \n
-Is something wrong? What's \n
-happening to you? 
+//\nどうした？\nどうかしたのか？
+\n
+Is something wrong? What's\n
+happening to you?
 <$00>
 
 // Pos: 00002BAB
@@ -524,18 +524,18 @@ happening to you?
 //クロエ：
 Chloe:
 <$0D>
-// \nううう…、 \n体が勝手に話しはじめる…
- \n
-O-owwww...! This body is...trying to \n
-speak out of turn...! 
+//\nううう…、\n体が勝手に話しはじめる…
+\n
+O-owwww...! This body is...trying to\n
+speak out of turn...!
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nエイプリルは大丈夫だ、 \nそうだ… うううう
- \n
-The girly's doin' all right, get it? You \n
-bum... Owww! 
+//\nエイプリルは大丈夫だ、\nそうだ… うううう
+\n
+The girly's doin' all right, get it? You\n
+bum... Owww!
 <$00>
 
 // Pos: 00002BEA
@@ -548,18 +548,18 @@ bum... Owww!
 //クロエ：
 Chloe:
 <$0D>
-// \nううう…、 \n体が勝手に話しはじめる…
- \n
-O-owwww...! This body is...trying to \n
-speak out of turn...! 
+//\nううう…、\n体が勝手に話しはじめる…
+\n
+O-owwww...! This body is...trying to\n
+speak out of turn...!
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nエイプリルは平気だよ、 \n全然平気さ… うううう
- \n
-April is all right! Just have faith... \n
-Owww! 
+//\nエイプリルは平気だよ、\n全然平気さ… うううう
+\n
+April is all right! Just have faith...\n
+Owww!
 <$00>
 
 // Pos: 00002C2C
@@ -572,18 +572,18 @@ Owww!
 //クロエ：
 Chloe:
 <$0D>
-// \nううう…、 \n体が勝手に話しはじめる…
- \n
-O-owwww...! This body is...trying to \n
-speak out of turn...! 
+//\nううう…、\n体が勝手に話しはじめる…
+\n
+O-owwww...! This body is...trying to\n
+speak out of turn...!
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
-// \nエイプリルのやつは大丈夫だ、 \nあいつは… ううう
- \n
-That April girl is alive. Grrr, hurry up \n
-and find... Owww! 
+//\nエイプリルのやつは大丈夫だ、\nあいつは… ううう
+\n
+That April girl is alive. Grrr, hurry up\n
+and find... Owww!
 <$00>
 
 // Pos: 00002C6E
@@ -596,10 +596,10 @@ and find... Owww!
 //フェニックス：
 Phoenix:
 <$0D>
-// \nそうなのか！ 彼女はこの星と何か関係がある、 \nそうにらんでいたんだが。
- \n
-April! She must have some connection \n
-to the planet. I'll have to dig further. 
+//\nそうなのか！ 彼女はこの星と何か関係がある、\nそうにらんでいたんだが。
+\n
+April! She must have some connection\n
+to the planet. I'll have to dig further.
 <$00>
 
 // Pos: 00002CA4
@@ -612,12 +612,12 @@ to the planet. I'll have to dig further.
 //クロエ：
 Chloe:
 <$0D>
-// \nううう、まだちゃんとなってないの、 \n私の体。まだ意識があるの、邪魔するの。
- \n
-Owww... I am not one with my body just \n
+//\nううう、まだちゃんとなってないの、\n私の体。まだ意識があるの、邪魔するの。
+\n
+Owww... I am not one with my body just\n
 yet. My consciousness is still feeling
 <$0C>
-the disturbances. 
+the disturbances.
 <$00>
 
 // Pos: 00002CD7
@@ -630,9 +630,9 @@ the disturbances.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nエイプリルはどこにいるんだ？
- \n
-Where is April? 
+//\nエイプリルはどこにいるんだ？
+\n
+Where is April?
 <$00>
 
 // Pos: 00002CF3
@@ -645,9 +645,9 @@ Where is April?
 //クロエ：
 Chloe:
 <$0D>
-// \nエイプリル？ あの女の人のこと？
- \n
-April? You mean that woman? 
+//\nエイプリル？ あの女の人のこと？
+\n
+April? You mean that woman?
 <$00>
 
 // Pos: 00002D0D
@@ -660,10 +660,10 @@ April? You mean that woman?
 //フェニックス：
 Phoenix:
 <$0D>
-// \nエイプリルのことを知りたいんだ。 \nどこに行けば会える？
- \n
-I need to find out who she is. Where can \n
-I find her? 
+//\nエイプリルのことを知りたいんだ。\nどこに行けば会える？
+\n
+I need to find out who she is. Where can\n
+I find her?
 <$00>
 
 // Pos: 00002D39
@@ -676,10 +676,10 @@ I find her?
 //クロエ：
 Chloe:
 <$0D>
-// \n分からないわ。あの女の人のことは… \n見えてこないの、こんなはずないのに。
- \n
-I don't know. I don't understand why, \n
-but...I can't see that woman. 
+//\n分からないわ。あの女の人のことは…\n見えてこないの、こんなはずないのに。
+\n
+I don't know. I don't understand why,\n
+but...I can't see that woman.
 <$00>
 
 // Pos: 00002D67
@@ -688,14 +688,14 @@ but...I can't see that woman.
 
 #WHB(PTR, $00000515)
 
- 
+
 <$00><$11>
 //命船フェニックス：
 命船Phoenix:
 <$0D>
-// \n僕を呼んでるの…
- \n
-What's calling me...? 
+//\n僕を呼んでるの…
+\n
+What's calling me...?
 <$0E><$78><$17><$00>
 
 // Pos: 00002D84
@@ -704,15 +704,15 @@ What's calling me...?
 
 #WHB(PTR, $00000531)
 
- 
+
 <$00><$11>
 //命船フェニックス：
 命船Phoenix:
 <$0D>
-// \nさっきはいきなりだったよ、 \nインディアンみたいな人もおかしくなってたし
- \n
-It feels just like before-when those \n
-shaman-like men had that incident. 
+//\nさっきはいきなりだったよ、\nインディアンみたいな人もおかしくなってたし
+\n
+It feels just like before-when those\n
+shaman-like men had that incident.
 <$0E><$78><$17><$00>
 
 // Pos: 00002DBA
@@ -721,15 +721,15 @@ shaman-like men had that incident.
 
 #WHB(PTR, $0000054D)
 
- 
+
 <$00><$11>
 //命船フェニックス：
 命船Phoenix:
 <$0D>
-// \nでもどうして？ \n表に出ていかなきゃならないの？
- \n
-But what's going on? What's making me \n
-surface like this? 
+//\nでもどうして？\n表に出ていかなきゃならないの？
+\n
+But what's going on? What's making me\n
+surface like this?
 <$0E><$78><$17><$00>
 
 // Pos: 00002DE6
@@ -738,14 +738,14 @@ surface like this?
 
 #WHB(PTR, $0000059D)
 
- 
+
 <$00><$11>
 //命甲フェニックス：
 命船Phoenix:
 <$0D>
-// \nずっと暗闇にいたいのに… \n今さら何もできないと思うよ。
- \n
-I'd wanted to stay in the dark forever, \n
-but I guess...I don't much say. 
+//\nずっと暗闇にいたいのに…\n今さら何もできないと思うよ。
+\n
+I'd wanted to stay in the dark forever,\n
+but I guess...I don't much say.
 <$0E><$78><$17><$00>
 

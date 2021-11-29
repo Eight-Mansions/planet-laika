@@ -15,29 +15,29 @@
 //ラミー：
 Rummy:
 <$0D>
-// \n怖い目で見るんだな。 \nあれはアイスマンだな。
- \n
-The one who looks with scary eyes is \n
-Ice Man. 
+//\n怖い目で見るんだな。\nあれはアイスマンだな。
+\n
+The one who looks with scary eyes is\n
+Ice Man.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-// \nアイス、溶けてるな。 \n僕のこと、怖い目で見るんだな。
- \n
-Even if ice melts, he's looking at me \n
-with scary eyes. 
+//\nアイス、溶けてるな。\n僕のこと、怖い目で見るんだな。
+\n
+Even if ice melts, he's looking at me\n
+with scary eyes.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
-// \nコロニー中、動きまわってたな、 \n誰かをさがしてるみたいだったな。
- \n
-He's lurking around the colony now, \n
+//\nコロニー中、動きまわってたな、\n誰かをさがしてるみたいだったな。
+\n
+He's lurking around the colony now,\n
 supposedly searching for someone.
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00003FEF
@@ -50,19 +50,19 @@ supposedly searching for someone.
 //ラミー：
 Rummy:
 <$0D>
-// \nそうだな、僕がラミーだな、 \nといっても実際は…
- \n
-It's me, Runny...but, actually... 
+//\nそうだな、僕がラミーだな、\nといっても実際は…
+\n
+It's me, Runny...but, actually...
 <$0C><$12><$0B><$0B>
 //ラミー：
 Rummy:
 <$0D>
-// \nああ、実際は…なんだな…変だな…
- \n
+//\nああ、実際は…なんだな…変だな…
+\n
 Actually, I think I'm...changing...
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00004032
@@ -72,35 +72,35 @@ Actually, I think I'm...changing...
 #WHB(PTR, $00000169)
 
 <$10><$08>
-//今こそ終わりがお前の上に来る。 \n私は怒りを送り、お前の行いにしたがって栽き、 \nいまわしい全てのことをお前に報いる。
-The end is upon you now. I shall send my \n
-wrath to reap all you have sewn, that \n
-all deeds may know reward. 
+//今こそ終わりがお前の上に来る。\n私は怒りを送り、お前の行いにしたがって栽き、\nいまわしい全てのことをお前に報いる。
+The end is upon you now. I shall send my\n
+wrath to reap all you have sewn, that\n
+all deeds may know reward.
 <$0C>
-//終わりが来る、終わりが来る、 \n終わりの時がお前のために熱す。 \n今や見よ、この時が来る。
-The end is upon you! The end is upon you! \n
-The end of the world burns for you. \n
-Now, behold! This hour is upon you! 
+//終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
+The end is upon you! The end is upon you!\n
+The end of the world burns for you.\n
+Now, behold! This hour is upon you!
 <$05><$0C>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //      
       
 <$0D>
 //第四の預言を得た。
-So sayeth the fourth prophecy. 
+So sayeth the fourth prophecy.
 <$00><$10>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //      
       
 <$0D>
 //第四の預言を得た。
-So sayeth the fourth prophecy. 
+So sayeth the fourth prophecy.
 <$00>
 
 // Pos: 000040DC
@@ -116,9 +116,9 @@ So sayeth the fourth prophecy.
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-// \nおおお、私を呼ぶ者がある…
- \n
-Oh, someone calls for me... 
+//\nおおお、私を呼ぶ者がある…
+\n
+Oh, someone calls for me...
 <$0C><$12>
 //に
 に
@@ -126,12 +126,12 @@ Oh, someone calls for me...
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
-// \nエレミヤの元へ、純粋な死へ。 \nさらなる死へ、その深みへ。
- \n
-...leading me to Jeremiah. Leading me \n
+//\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
+\n
+...leading me to Jeremiah. Leading me\n
 to sweet Death. To the deepest depths
 <$0C>
-of Death. 
+of Death.
 <$00>
 
 // Pos: 00004132
@@ -144,18 +144,18 @@ of Death.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n最後の預言はエレミヤのミイラとともに \n眠っておる。
- \n
-The final prophecy rests with \n
-Jeremiah's mummy. 
+//\n最後の預言はエレミヤのミイラとともに\n眠っておる。
+\n
+The final prophecy rests with\n
+Jeremiah's mummy.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n悪夢の先じゃ。 \nウソいつわりのない死の世界じゃ。
- \n
-It lays beyond the nightmares, beyond \n
-all falsehood, in the Land of the Dead. 
+//\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
+\n
+It lays beyond the nightmares, beyond\n
+all falsehood, in the Land of the Dead.
 <$00>
 
 // Pos: 00004187
@@ -168,20 +168,20 @@ all falsehood, in the Land of the Dead.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nいよいよじゃな、最後の試練じゃ。 \nそれを乗り越えて、お前たちは…
- \n
-At last, you all must come together to \n
-overcome this final test. 
+//\nいよいよじゃな、最後の試練じゃ。\nそれを乗り越えて、お前たちは…
+\n
+At last, you all must come together to\n
+overcome this final test.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nマコトの双子ならきっと奇跡を \n起こせるはずじゃ。
- \n
-But I believe you will awaken a \n
+//\nマコトの双子ならきっと奇跡を\n起こせるはずじゃ。
+\n
+But I believe you will awaken a\n
 miracle, for you are the Twins of
 <$0C>
-Truth. 
+Truth.
 <$00>
 
 // Pos: 000041E5
@@ -194,10 +194,10 @@ Truth.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nわしは悪夢への入り口をさがしにいってくるぞ。 \nちょっと思うところあってな。
- \n
-I shall look for the entrance to the \n
-nightmares. I may have an idea. 
+//\nわしは悪夢への入り口をさがしにいってくるぞ。\nちょっと思うところあってな。
+\n
+I shall look for the entrance to the\n
+nightmares. I may have an idea.
 <$00>
 
 // Pos: 0000421C
@@ -210,10 +210,10 @@ nightmares. I may have an idea.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n試練はお前を強くしたのか、 \nそれとも傷つけたのか…
- \n
-Did the trials make you stronger, or did \n
-they hurt you? 
+//\n試練はお前を強くしたのか、\nそれとも傷つけたのか…
+\n
+Did the trials make you stronger, or did\n
+they hurt you?
 <$00>
 
 // Pos: 00004247
@@ -226,13 +226,13 @@ they hurt you?
 //ラミー：
 Rummy:
 <$0D>
-// \nあれあれだな、僕を見る目が建うな… \n怖いな。
- \n
-Hey, hey, hey, what was that look for? \n
+//\nあれあれだな、僕を見る目が建うな…\n怖いな。
+\n
+Hey, hey, hey, what was that look for?\n
 It's scary, a-ha!
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 0000426D
@@ -245,13 +245,13 @@ It's scary, a-ha!
 //ラミー：
 Rummy:
 <$0D>
-// \nなんでかな、声がかすめたな。 \nあんたを呼ぶ声がかすめたな。
- \n
-I don't know who or what it is, but I hear \n
+//\nなんでかな、声がかすめたな。\nあんたを呼ぶ声がかすめたな。
+\n
+I don't know who or what it is, but I hear\n
 a faint voice calling for you.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 
 // Pos: 00004299
@@ -264,13 +264,13 @@ a faint voice calling for you.
 //サミー：
 Sammy:
 <$0D>
-// \nだな、だな、だな…建うわ。
- \n
-Change, don't, change...don't... This \n
+//\nだな、だな、だな…建うわ。
+\n
+Change, don't, change...don't... This\n
 doesn't feel right, a-nope.
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 000042B3
@@ -283,39 +283,39 @@ doesn't feel right, a-nope.
 //サミー：
 Sammy:
 <$0D>
-// \nアタシったら言葉忘れちゃって… \nしょうがないわね。
- \n
-There's not much we can do about \n
-words we forget, a-nope. 
+//\nアタシったら言葉忘れちゃって…\nしょうがないわね。
+\n
+There's not much we can do about\n
+words we forget, a-nope.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nだからもう、あれこれかぎ回るの、 \nよそうと思うの。
- \n
-As things are now, I feel it best we go \n
+//\nだからもう、あれこれかぎ回るの、\nよそうと思うの。
+\n
+As things are now, I feel it best we go\n
 and make whatever rounds we have
 <$0C>
-left. 
+left.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \n忘却の海に変な扉があったけど…
- \n
-But you know, I saw a strange door \n
-over at Oceanum oblivionis. 
+//\n忘却の海に変な扉があったけど…
+\n
+But you know, I saw a strange door\n
+over at Oceanum oblivionis.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
-// \nいや、もう怖いから、入らないわ。 \nアタシを見失いそうになるのよ。
- \n
-That stuff is too scary for me now. I'm \n
+//\nいや、もう怖いから、入らないわ。\nアタシを見失いそうになるのよ。
+\n
+That stuff is too scary for me now. I'm\n
 losing enough sight of myself as it is.
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00004344
@@ -328,12 +328,12 @@ losing enough sight of myself as it is.
 //サミー：
 Sammy:
 <$0D>
-// \n関係ないことは関係ない、 \nそう思わなきゃダメなのね。
- \n
-If you think something doesn't \n
+//\n関係ないことは関係ない、\nそう思わなきゃダメなのね。
+\n
+If you think something doesn't\n
 matter, act like it doesn't matter.
 <$1E>
 //中
-中 
+中
 <$00>
 

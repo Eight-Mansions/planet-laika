@@ -15,9 +15,9 @@
 //エイプリル：
 April:
 <$0D>
-// \nアガタ！ \nあのふたりを帰したの？
- \n
-Agatha! Did those two leave? 
+//\nアガタ！\nあのふたりを帰したの？
+\n
+Agatha! Did those two leave?
 <$00>
 
 // Pos: 00001DA1
@@ -30,9 +30,9 @@ Agatha! Did those two leave?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nそうよ。 \nさあ、行って。早く！
- \n
-Yes, for a moment. Now, you must go! 
+//\nそうよ。\nさあ、行って。早く！
+\n
+Yes, for a moment. Now, you must go!
 <$00>
 
 // Pos: 00001DBF
@@ -45,12 +45,12 @@ Yes, for a moment. Now, you must go!
 //エイプリル：
 April:
 <$0D>
-// \n教えて欲しいの。この星には何があるの？ \n黒い騎士とか蕃判とか…
- \n
-Can I ask you something? How are the \n
+//\n教えて欲しいの。この星には何があるの？\n黒い騎士とか蕃判とか…
+\n
+Can I ask you something? How are the\n
 Black Rider and Judgement affecting
 <$0C>
-Mars? 
+Mars?
 <$00>
 
 // Pos: 00001DF1
@@ -63,10 +63,10 @@ Mars?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nエイプリル、今は時間がないのよ。 \nあなたの仲間が捕らえられてしまうわ。
- \n
-April, we must save that for later, or \n
-your companions will be taken. 
+//\nエイプリル、今は時間がないのよ。\nあなたの仲間が捕らえられてしまうわ。
+\n
+April, we must save that for later, or\n
+your companions will be taken.
 <$00>
 
 // Pos: 00001E27
@@ -79,10 +79,10 @@ your companions will be taken.
 //エイプリル：
 April:
 <$0D>
-// \n誰？ \nそんなことする人って？
- \n
-What?! Taken by who?! Who would do \n
-such a thing? 
+//\n誰？\nそんなことする人って？
+\n
+What?! Taken by who?! Who would do\n
+such a thing?
 <$00>
 
 // Pos: 00001E41
@@ -95,10 +95,10 @@ such a thing?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n人？いいえ、人なんかじゃない。 \nさあ、早く、仲間を助けなきゃ。 \n地球に戻れなくなるわ。
- \n
-There is no "who", April. Save your \n
-companions and return to Earth. 
+//\n人？いいえ、人なんかじゃない。\nさあ、早く、仲間を助けなきゃ。\n地球に戻れなくなるわ。
+\n
+There is no "who", April. Save your\n
+companions and return to Earth.
 <$00>
 
 // Pos: 00001E80
@@ -111,10 +111,10 @@ companions and return to Earth.
 //エイプリル：
 April:
 <$0D>
-// \nわかった。 \nありがとう、アガタ。
- \n
-I understand. Thank you for this, \n
-Agatha. 
+//\nわかった。\nありがとう、アガタ。
+\n
+I understand. Thank you for this,\n
+Agatha.
 <$00>
 
 // Pos: 00001E9B
@@ -127,10 +127,10 @@ Agatha.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n記憶の谷はブリックロードから行くのよ。 \n黒いカベのところよ。
- \n
-Take Brick Road down to Valles \n
-Memoriae, and look for the black wall. 
+//\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところよ。
+\n
+Take Brick Road down to Valles\n
+Memoriae, and look for the black wall.
 <$00>
 
 // Pos: 00001ECB
@@ -143,10 +143,10 @@ Memoriae, and look for the black wall.
 //エイプリル：
 April:
 <$0D>
-// \nなんで… \nなんで私たちが記憶の谷に行くって…
- \n
-Valles Memoriae... What a strange \n
-place for us to have to go. 
+//\nなんで…\nなんで私たちが記憶の谷に行くって…
+\n
+Valles Memoriae... What a strange\n
+place for us to have to go.
 <$00>
 
 // Pos: 00001EF0
@@ -159,20 +159,20 @@ place for us to have to go.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nこの星に来て、迷いこむとしたら \nあそこしかないの。
- \n
-When one is lost in the world, that is the \n
-only place for them to go. 
+//\nこの星に来て、迷いこむとしたら\nあそこしかないの。
+\n
+When one is lost in the world, that is the\n
+only place for them to go.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nさ、行って。 \n気を付けてね。
- \n
-There is no time, so please. Be careful \n
+//\nさ、行って。\n気を付けてね。
+\n
+There is no time, so please. Be careful\n
 for me.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 

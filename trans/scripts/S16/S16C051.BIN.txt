@@ -15,9 +15,9 @@
 //クロウ：
 Crow:
 <$0D>
-// \nひゃひゃひゃ、俺の王国へようこそだ。
- \n
-Kekeke... Welcome to my kingdom. 
+//\nひゃひゃひゃ、俺の王国へようこそだ。
+\n
+Kekeke... Welcome to my kingdom.
 <$00>
 
 // Pos: 00002392
@@ -30,10 +30,10 @@ Kekeke... Welcome to my kingdom.
 //クロウ：
 Crow:
 <$0D>
-// \n何だと… 開こえないな、開こえない、 \nお前の声などこの俺には開こえないな。
- \n
-...What, dead cat got your tongue? \n
-Come on, say something! 
+//\n何だと… 開こえないな、開こえない、\nお前の声などこの俺には開こえないな。
+\n
+...What, dead cat got your tongue?\n
+Come on, say something!
 <$00>
 
 // Pos: 000023C4
@@ -46,20 +46,20 @@ Come on, say something!
 //クロウ：
 Crow:
 <$0D>
-// \nやっぱりだ！ 俺のこと、 \nいやな目で見やがって、よそ者のくせに！
- \n
-...Oh, I get it. You're looking down on \n
-me, even though YOU'RE the outsider! 
+//\nやっぱりだ！ 俺のこと、\nいやな目で見やがって、よそ者のくせに！
+\n
+...Oh, I get it. You're looking down on\n
+me, even though YOU'RE the outsider!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
-// \nお前だ、何でそんな目で見る、ちくしょう！ \n悪夢に閉じ込めてやる！
- \n
-Don't look at me with those eyes, you \n
+//\nお前だ、何でそんな目で見る、ちくしょう！\n悪夢に閉じ込めてやる！
+\n
+Don't look at me with those eyes, you\n
 sonnuva...! I'll...I'll lock you up in this
 <$0C>
-nightmare! 
+nightmare!
 <$00>
 
 // Pos: 0000241B
@@ -72,12 +72,12 @@ nightmare!
 //クロウ：
 Crow:
 <$0D>
-// \n兄さん、こいつがうるさいよ。 \nあはは、兄さん、こいつをおどらせてやる！
- \n
-Listen, Bro. He's getting on my nerves. \n
+//\n兄さん、こいつがうるさいよ。\nあはは、兄さん、こいつをおどらせてやる！
+\n
+Listen, Bro. He's getting on my nerves.\n
 ...Kekeke, no worries, Bro. I'll make
 <$0C>
-'em dance. 
+'em dance.
 <$00>
 
 // Pos: 00002449
@@ -90,9 +90,9 @@ Listen, Bro. He's getting on my nerves. \n
 //クロウ：
 Crow:
 <$0D>
-// \nあは、おどれ、おどれ、ヘロデのペットだ、 \n生クビとダンスだ！
- \n
-Dance, Herod's pet! Dance! Dance \n
-around all the floating heads with me! 
+//\nあは、おどれ、おどれ、ヘロデのペットだ、\n生クビとダンスだ！
+\n
+Dance, Herod's pet! Dance! Dance\n
+around all the floating heads with me!
 <$00>
 

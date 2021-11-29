@@ -15,12 +15,12 @@
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nテレポーテーションだな、ホワイトイーグルは \nどこへ行った？ 一緒に来たのか？
- \n
-And THAT iS teleportation! Where did \n
+//\nテレポーテーションだな、ホワイトイーグルは\nどこへ行った？ 一緒に来たのか？
+\n
+And THAT iS teleportation! Where did\n
 White Eagle go? Shall we look
 <$0C>
-together? 
+together?
 <$00>
 
 // Pos: 0000141B
@@ -33,10 +33,10 @@ together?
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \n歳だからな、時間がかかるのだ。 \nこの大事なときに！
- \n
-Walking takes too much time, but time \n
-is of the essence! 
+//\n歳だからな、時間がかかるのだ。\nこの大事なときに！
+\n
+Walking takes too much time, but time\n
+is of the essence!
 <$00>
 
 // Pos: 00001446
@@ -49,10 +49,10 @@ is of the essence!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nああ、いよいよだ、合体の時だ。 \nみだりにここを動くんじゃないぞ。
- \n
-Ah, merging time is here! Now, do not \n
-make any sudden movements. 
+//\nああ、いよいよだ、合体の時だ。\nみだりにここを動くんじゃないぞ。
+\n
+Ah, merging time is here! Now, do not\n
+make any sudden movements.
 <$00>
 
 // Pos: 00001477
@@ -65,10 +65,10 @@ make any sudden movements.
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nまだ早い、今はだめだ、危ないぞ。 \n巻き込まれる、合体してしまうぞ。
- \n
-It is still too early for this. You can't \n
-afford to get caught in the integration! 
+//\nまだ早い、今はだめだ、危ないぞ。\n巻き込まれる、合体してしまうぞ。
+\n
+It is still too early for this. You can't\n
+afford to get caught in the integration!
 <$00>
 
 // Pos: 000014AC
@@ -81,19 +81,19 @@ afford to get caught in the integration!
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nおい、大丈夫なのか？ \nホワイトイーグルは何て言ってたんだ…
- \n
-Hey, are you all right? What did White \n
-Eagle say about this...? 
+//\nおい、大丈夫なのか？\nホワイトイーグルは何て言ってたんだ…
+\n
+Hey, are you all right? What did White\n
+Eagle say about this...?
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
-// \nまだ早いんじゃないのか、建うのか？ \n早くないのか…どうなのだ？ \n本当にだいじょうぶなのか？
- \n
-How is this not too early? Has the \n
+//\nまだ早いんじゃないのか、建うのか？\n早くないのか…どうなのだ？\n本当にだいじょうぶなのか？
+\n
+How is this not too early? Has the\n
 situation changed? And if so, how? Is
 <$0C>
-this truly all right? 
+this truly all right?
 <$00>
 

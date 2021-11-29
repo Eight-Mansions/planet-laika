@@ -15,9 +15,9 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねぇ、あんたたち、いつからここにいるの？
- \n
-Hey, how long have you been here? 
+//\nねぇ、あんたたち、いつからここにいるの？
+\n
+Hey, how long have you been here?
 <$00>
 
 // Pos: 00001BBA
@@ -30,9 +30,9 @@ Hey, how long have you been here?
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
-// \nシー、つながったんだ、シー。
- \n
-Whoosh, they are connected. Whoosh. 
+//\nシー、つながったんだ、シー。
+\n
+Whoosh, they are connected. Whoosh.
 <$00>
 
 // Pos: 00001BD9
@@ -45,10 +45,10 @@ Whoosh, they are connected. Whoosh.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何が？ つながったって、 \n何がつながったのよ？
- \n
-What? "Connected"? What's \n
-connected? 
+//\n何が？ つながったって、\n何がつながったのよ？
+\n
+What? "Connected"? What's\n
+connected?
 <$00>
 
 // Pos: 00001BFC
@@ -61,9 +61,9 @@ connected?
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
-// \n夢と現実がだ、シーシー。
- \n
-Dreams and reality, whoosh, whoosh. 
+//\n夢と現実がだ、シーシー。
+\n
+Dreams and reality, whoosh, whoosh.
 <$00>
 
 // Pos: 00001C1C
@@ -76,10 +76,10 @@ Dreams and reality, whoosh, whoosh.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nじゃあ、この町は夢なの？ それとも現実？
- \n
-Is that what's going on? Are dreams in \n
-this town connected to reality? 
+//\nじゃあ、この町は夢なの？ それとも現実？
+\n
+Is that what's going on? Are dreams in\n
+this town connected to reality?
 <$00>
 
 // Pos: 00001C40
@@ -92,10 +92,10 @@ this town connected to reality?
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
-// \nそれを決めれば、だいなしになる、 \nぜんぶだいなし、シーシー。
- \n
-Choose only one, whoosh. To no avail, \n
-whoosh, whoosh. 
+//\nそれを決めれば、だいなしになる、\nぜんぶだいなし、シーシー。
+\n
+Choose only one, whoosh. To no avail,\n
+whoosh, whoosh.
 <$00>
 
 // Pos: 00001C70
@@ -108,10 +108,10 @@ whoosh, whoosh.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n夢が現実で、現実が夢なの？
- \n
-Wait, but...is the dream the reality? Or \n
-is the reality the dream? 
+//\n夢が現実で、現実が夢なの？
+\n
+Wait, but...is the dream the reality? Or\n
+is the reality the dream?
 <$00>
 
 // Pos: 00001C8F
@@ -124,10 +124,10 @@ is the reality the dream?
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
-// \nシー、それ以上言わない、シー。 \nところで私は５号だ、シー。
- \n
-Whoosh, I'll stop talking. whoosh. \n
-Except for this, whoosh: I'm the fifth. 
+//\nシー、それ以上言わない、シー。\nところで私は５号だ、シー。
+\n
+Whoosh, I'll stop talking. whoosh.\n
+Except for this, whoosh: I'm the fifth.
 <$00>
 
 // Pos: 00001CC0
@@ -140,10 +140,10 @@ Except for this, whoosh: I'm the fifth.
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nひょひょ、こっち、来い来い、ヨランダ。 \nこっちだ、ひょ。
- \n
-Hyohyo! Come with me, Yolanda! This \n
-way, this way! 
+//\nひょひょ、こっち、来い来い、ヨランダ。\nこっちだ、ひょ。
+\n
+Hyohyo! Come with me, Yolanda! This\n
+way, this way!
 <$00>
 
 // Pos: 00001CED
@@ -156,9 +156,9 @@ way, this way!
 //スピリットマン：
 Spirit Man:
 <$0D>
-// \nお前は何を求めているんだ、ヨランダ。 \n欲がお前を滅ぼすぞ、ひょ。
- \n
-What is it you truly seek, Yolanda? Do \n
-not let greed be your undoing. 
+//\nお前は何を求めているんだ、ヨランダ。\n欲がお前を滅ぼすぞ、ひょ。
+\n
+What is it you truly seek, Yolanda? Do\n
+not let greed be your undoing.
 <$00>
 

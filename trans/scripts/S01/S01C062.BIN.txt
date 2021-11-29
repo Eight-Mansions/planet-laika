@@ -15,9 +15,9 @@
 //リバー：
 Liever:
 <$0D>
-// \nこれで来たの？ このロケットで？
- \n
-Is this rocket how you came here? 
+//\nこれで来たの？ このロケットで？
+\n
+Is this rocket how you came here?
 <$00>
 
 // Pos: 00002195
@@ -30,9 +30,9 @@ Is this rocket how you came here?
 //スペーサー：
 Spacer:
 <$0D>
-// \n君は…
- \n
-You must be... 
+//\n君は…
+\n
+You must be...
 <$00>
 
 // Pos: 000021A5
@@ -45,25 +45,25 @@ You must be...
 //リバー：
 Liever:
 <$0D>
-// \nリバーだよ。
- \n
-I'm Liever. 
+//\nリバーだよ。
+\n
+I'm Liever.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \nあんたたちが何のためにやってきたか、 \n当ててみようか…
- \n
-Let me guess: you and your comrades \n
-are here... 
+//\nあんたたちが何のためにやってきたか、\n当ててみようか…
+\n
+Let me guess: you and your comrades\n
+are here...
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
-// \n蕃判のウワサを調べに来た… \nどう？当たりでしょ。
- \n
-...to investigate the rumors about \n
-Mars and Judgement. Well? How'd I do? 
+//\n蕃判のウワサを調べに来た…\nどう？当たりでしょ。
+\n
+...to investigate the rumors about\n
+Mars and Judgement. Well? How'd I do?
 <$00>
 
 // Pos: 000021FF
@@ -76,16 +76,16 @@ Mars and Judgement. Well? How'd I do?
 //スペーサー：
 Spacer:
 <$0D>
-// \nそうだ。
- \n
-Not bad, not bad. 
+//\nそうだ。
+\n
+Not bad, not bad.
 <$0C>
-//そして分かった、 \n蕃判だの奇跡だのは妄想の産物なんだ。
- \n
-Thankfully, any Judgement and \n
+//そして分かった、\n蕃判だの奇跡だのは妄想の産物なんだ。
+\n
+Thankfully, any Judgement and\n
 miracle worries are invalid figments
 <$0C>
-of imagination. 
+of imagination.
 <$00>
 
 // Pos: 00002234
@@ -98,10 +98,10 @@ of imagination.
 //リバー：
 Liever:
 <$0D>
-// \nでも実現するんだよ。 \n黒い騎士もほんとにいるんだよ。
- \n
-But the rumors are valid! Even the \n
-existence of the Black Rider is valid! 
+//\nでも実現するんだよ。\n黒い騎士もほんとにいるんだよ。
+\n
+But the rumors are valid! Even the\n
+existence of the Black Rider is valid!
 <$00>
 
 // Pos: 0000225E
@@ -114,12 +114,12 @@ existence of the Black Rider is valid!
 //スペーサー：
 Spacer:
 <$0D>
-// \nふ…君は平気なのか、コロニーの連中みたいに \n蕃判から逃れようとはしないのか。
- \n
-Hmph, then why are you so calm? Why \n
+//\nふ…君は平気なのか、コロニーの連中みたいに\n蕃判から逃れようとはしないのか。
+\n
+Hmph, then why are you so calm? Why\n
 not run from Judgement like the
 <$0C>
-others in the colony are? 
+others in the colony are?
 <$00>
 
 // Pos: 00002297
@@ -132,9 +132,9 @@ others in the colony are?
 //リバー：
 Liever:
 <$0D>
-// \n僕には信仰があるからね、神様がいるからね。
- \n
-Because, I have faith in God. 
+//\n僕には信仰があるからね、神様がいるからね。
+\n
+Because, I have faith in God.
 <$00>
 
 // Pos: 000022BC
@@ -147,9 +147,9 @@ Because, I have faith in God.
 //スペーサー：
 Spacer:
 <$0D>
-// \n神様…
- \n
-God... 
+//\n神様…
+\n
+God...
 <$00>
 
 // Pos: 000022CE
@@ -162,10 +162,10 @@ God...
 //リバー：
 Liever:
 <$0D>
-// \n神様に眼を入れるんだ。 \nそれで神様が僕を守ってくれる。
- \n
-If I raise myself up to God, God will \n
-protect me. 
+//\n神様に眼を入れるんだ。\nそれで神様が僕を守ってくれる。
+\n
+If I raise myself up to God, God will\n
+protect me.
 <$00>
 
 // Pos: 000022FC
@@ -178,10 +178,10 @@ protect me.
 //スペーサー：
 Spacer:
 <$0D>
-// \n開眼か…神様というのは？
- \n
-And this "God" is the source of your \n
-enlightenment? 
+//\n開眼か…神様というのは？
+\n
+And this "God" is the source of your\n
+enlightenment?
 <$00>
 
 // Pos: 00002319
@@ -194,10 +194,10 @@ enlightenment?
 //リバー：
 Liever:
 <$0D>
-// \n興味あるの？来なよ、一緒に。 \n奇跡が起きるんだよ。
- \n
-Are you curious? Then come with me, \n
-and wake up to His miracle! 
+//\n興味あるの？来なよ、一緒に。\n奇跡が起きるんだよ。
+\n
+Are you curious? Then come with me,\n
+and wake up to His miracle!
 <$00>
 
 // Pos: 00002345
@@ -210,9 +210,9 @@ and wake up to His miracle!
 //スペーサー：
 Spacer:
 <$0D>
-// \n奇跡？君にも奇跡が起こせるのか。
- \n
-His miracle? Where would we see that? 
+//\n奇跡？君にも奇跡が起こせるのか。
+\n
+His miracle? Where would we see that?
 <$00>
 
 // Pos: 00002367
@@ -225,12 +225,12 @@ His miracle? Where would we see that?
 //リバー：
 Liever:
 <$0D>
-// \n地下水道の入口のところにいるよ。 \nブリックロードのコロニーに入る手前。
- \n
-Down at the Brick Road entrance to the \n
-underground canal. 
+//\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。
+\n
+Down at the Brick Road entrance to the\n
+underground canal.
 <$0C>
 //分かるよね。
-Just before entering the colony. 
+Just before entering the colony.
 <$00>
 

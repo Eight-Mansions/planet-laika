@@ -15,12 +15,12 @@
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nどうじゃ、心当たりはあるのかのう。 \n預言を受け止めることのできる誰かじゃ。 \nサイコなやつじゃ、どこにおる？
- \n
-Haww, we'll need to use a Psycho type \n
+//\nどうじゃ、心当たりはあるのかのう。\n預言を受け止めることのできる誰かじゃ。\nサイコなやつじゃ、どこにおる？
+\n
+Haww, we'll need to use a Psycho type\n
 whom can withstand the prophecy. Do
 <$0C>
-you know where any are? 
+you know where any are?
 <$00>
 
 // Pos: 00001101
@@ -30,13 +30,13 @@ you know where any are?
 #WHB(PTR, $0000056D)
 
 <$12><$13>
-// ヨウコソ プリズン４ヘ。 \nミスター、
- WELCOME TO PRISON! \n
-REGISTRANT NAME: \n
+// ヨウコソ プリズン４ヘ。\nミスター、
+ WELCOME TO PRISON!\n
+REGISTRANT NAME:\n
 "
 <$0F>
 //！
-" 
+"
 <$00>
 
 // Pos: 00001119
@@ -58,10 +58,10 @@ REGISTRANT NAME: \n
 #WHB(PTR, $00000E45)
 
 <$12><$13>
-// アナタハ トウロクサレテイマセン。 \nクワシクハ カンリシャニ \nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR \n
-DETAILS AND ASSISTANCE, SPEAK TO AN \n
-ADMINISTRATOR. 
+// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+ NOT REGISTERED FOR ENTRY. FOR\n
+DETAILS AND ASSISTANCE, SPEAK TO AN\n
+ADMINISTRATOR.
 <$00>
 
 // Pos: 00001145
@@ -74,10 +74,10 @@ ADMINISTRATOR.
 //アーネスト：
 Ernest:
 <$0D>
-// \nちくしょう！ \nなにが登録だ、くそったれ！
- \n
-Piece of junk. How am I supposed to \n
-register? 
+//\nちくしょう！\nなにが登録だ、くそったれ！
+\n
+Piece of junk. How am I supposed to\n
+register?
 <$00>
 
 // Pos: 00001168
@@ -90,10 +90,10 @@ register?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n何よこれ？ \n失礼しちゃうわね！
- \n
-The fuck does that mean? \n
-Hello? A little help here?! 
+//\n何よこれ？\n失礼しちゃうわね！
+\n
+The fuck does that mean?\n
+Hello? A little help here?!
 <$00>
 
 // Pos: 00001185
@@ -106,9 +106,9 @@ Hello? A little help here?!
 //スペーサー：
 Spacer:
 <$0D>
-// \nやはりな… \n私ではだめなのだ。
- \n
-Hmm... Looks like I'm not getting in. 
+//\nやはりな…\n私ではだめなのだ。
+\n
+Hmm... Looks like I'm not getting in.
 <$00>
 
 // Pos: 000011A1
@@ -130,7 +130,7 @@ Hmm... Looks like I'm not getting in.
 #WHB(PTR, $00000E25)
 
 <$12><$13>
-// ヤハリ アナタハ \nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY. 
+// ヤハリ アナタハ\nトウロクサレテイマセン。
+ USER NOT REGISTERED FOR ENTRY.
 <$00>
 

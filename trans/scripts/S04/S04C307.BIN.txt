@@ -15,18 +15,18 @@
 //リトル：
 Little:
 <$0D>
-// \nなんで俺が… くそっ！ \nアガタが仕組んだのか？
- \n
-Oi, what...what happened to me?! Is \n
-this Agatha's dirty work? 
+//\nなんで俺が… くそっ！\nアガタが仕組んだのか？
+\n
+Oi, what...what happened to me?! Is\n
+this Agatha's dirty work?
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
-// \nまっぴらだ、もうごめんだ。 \nちくしょう！
- \n
-I won't let her off this time, \n
-goddammit! 
+//\nまっぴらだ、もうごめんだ。\nちくしょう！
+\n
+I won't let her off this time,\n
+goddammit!
 <$00>
 
 // Pos: 000034E0
@@ -39,10 +39,10 @@ goddammit!
 //子レッド：
 Red:
 <$0D>
-// \nちくしょう、あの野郎！ \nどこに隠れてやがる！
- \n
-Damned mongrel...! Where are you \n
-hiding?! 
+//\nちくしょう、あの野郎！\nどこに隠れてやがる！
+\n
+Damned mongrel...! Where are you\n
+hiding?!
 <$0E><$1E><$17><$00>
 
 // Pos: 00003507
@@ -53,7 +53,7 @@ hiding?!
 
 <$10><$11>
 //X６ちゃんよう、こっちだ、右だ。
-X６Comrade, over here, to the right! 
+X６Comrade, over here, to the right!
 <$0E><$1E><$17><$00>
 
 // Pos: 0000351F
@@ -63,10 +63,10 @@ X６Comrade, over here, to the right!
 #WHB(PTR, $000004DD)
 
 <$10><$11>
-//的こんところを右に来な。 \n兄ちゃんから見ると左手の方だ、分かるよな。
-的Check over to the right! From your \n
-point of view, it's probably from the \n
-left-hand side. 
+//的こんところを右に来な。\n兄ちゃんから見ると左手の方だ、分かるよな。
+的Check over to the right! From your\n
+point of view, it's probably from the\n
+left-hand side.
 <$0E><$1E><$17><$00>
 
 // Pos: 0000354E
@@ -76,9 +76,9 @@ left-hand side.
 #WHB(PTR, $00000509)
 
 <$10><$11>
-//的こだそこだ、そこんとこ、右だ。 \n兄ちゃんから見ても右、おれは右にいるぜ。
-的Yeah! There, there! To the right! If \n
-you look right, I'm on the right. 
+//的こだそこだ、そこんとこ、右だ。\n兄ちゃんから見ても右、おれは右にいるぜ。
+的Yeah! There, there! To the right! If\n
+you look right, I'm on the right.
 <$0E><$1E><$17><$00>
 
 // Pos: 0000357E
@@ -88,10 +88,10 @@ you look right, I'm on the right.
 #WHB(PTR, $00000539)
 
 <$10><$11>
-//的こだそこだ、そうだ真っ直ぐこっちだ。 \nまっすぐ、まっつぐ、まっしゅぐだ…来い。
-的Straight! Yeah, straight this way! \n
-Just come along straight. \n
-Straight...straight... 
+//的こだそこだ、そうだ真っ直ぐこっちだ。\nまっすぐ、まっつぐ、まっしゅぐだ…来い。
+的Straight! Yeah, straight this way!\n
+Just come along straight.\n
+Straight...straight...
 <$0E><$1E><$17><$00>
 
 // Pos: 000035B0
@@ -104,10 +104,10 @@ Straight...straight...
 //レッド：
 Red:
 <$0D>
-// \nどのツラさげてほっつき歩いてるんだ？
- \n
-The heck are you doing, walking \n
-around with that look on your face? 
+//\nどのツラさげてほっつき歩いてるんだ？
+\n
+The heck are you doing, walking\n
+around with that look on your face?
 <$00>
 
 // Pos: 000035CC
@@ -120,12 +120,12 @@ around with that look on your face?
 //レッド：
 Red:
 <$0D>
-// \nコスマスに余計な入れ知惠しやがったのは、 \nお前だな、可愛い子犬ちゃんよう！
- \n
-Oh, I get it. You're the one filling \n
+//\nコスマスに余計な入れ知惠しやがったのは、\nお前だな、可愛い子犬ちゃんよう！
+\n
+Oh, I get it. You're the one filling\n
 Cosmas' head with ideas, you darling
 <$0C>
-puppy, you! 
+puppy, you!
 <$00>
 
 // Pos: 00003603
@@ -138,9 +138,9 @@ puppy, you!
 //スペーサー：
 Spacer:
 <$0D>
-// \n私に何を求めているのだ、レッド！
- \n
-What do you want from me, Red?! 
+//\n私に何を求めているのだ、レッド！
+\n
+What do you want from me, Red?!
 <$00>
 
 // Pos: 00003621
@@ -153,18 +153,18 @@ What do you want from me, Red?!
 //レッド：
 Red:
 <$0D>
-// \nう… 求めているだと？
- \n
-It's like you're trying to rouse my \n
-attention. 
+//\nう… 求めているだと？
+\n
+It's like you're trying to rouse my\n
+attention.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nへへへ、お前に求めている？ この俺が？ \nへへ、笑わせるな！
- \n
-Hehehe, are you asking for it? From \n
-me? Hehe, don't make me laugh! 
+//\nへへへ、お前に求めている？ この俺が？\nへへ、笑わせるな！
+\n
+Hehehe, are you asking for it? From\n
+me? Hehe, don't make me laugh!
 <$00>
 
 // Pos: 0000365D
@@ -177,30 +177,30 @@ me? Hehe, don't make me laugh!
 //スペーサー：
 Spacer:
 <$0D>
-// \nあんたは恐れてるんだ。 \n自分が怖いんだ。建うか？
- \n
-You're afraid. You're afraid of \n
-yourself, aren't you. 
+//\nあんたは恐れてるんだ。\n自分が怖いんだ。建うか？
+\n
+You're afraid. You're afraid of\n
+yourself, aren't you.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n子供のころにひどい目にあって、 \nそのキズをいやさないままにコスマスを \n同じ目にあわせている。
- \n
-You were abused as a child, and now \n
+//\n子供のころにひどい目にあって、\nそのキズをいやさないままにコスマスを\n同じ目にあわせている。
+\n
+You were abused as a child, and now\n
 you deflect that pain by taking it out on
 <$0C>
-Cosmas. 
+Cosmas.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n自分の中に広がる闇から目をそむけているんだ。 \n広がった隠しようのない闇を恐れているんだ。
- \n
-You're afraid of the darkness in you \n
+//\n自分の中に広がる闇から目をそむけているんだ。\n広がった隠しようのない闇を恐れているんだ。
+\n
+You're afraid of the darkness in you\n
 spreading, with no hopes of healing
 <$0C>
-nor hiding it. 
+nor hiding it.
 <$00>
 
 // Pos: 00003702
@@ -213,16 +213,16 @@ nor hiding it.
 //レッド：
 Red:
 <$0D>
-// \nうるせぇ！ お前に何が分かる、
- \n
-Grr, shut up! You don't know anything! 
+//\nうるせぇ！ お前に何が分かる、
+\n
+Grr, shut up! You don't know anything!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nここにはここのやり方があるんだ！ \nちくしょうめ！
- \n
-This is how we do things around here! 
+//\nここにはここのやり方があるんだ！\nちくしょうめ！
+\n
+This is how we do things around here!
 <$00>
 
 // Pos: 0000373B
@@ -235,37 +235,37 @@ This is how we do things around here!
 //スペーサー：
 Spacer:
 <$0D>
-// \nああ、そうだろう、
- \n
-Oh, right. 
+//\nああ、そうだろう、
+\n
+Oh, right.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n心の闇から目をそむけていつわりの \n幸福に浸っている、
- \n
-I forgot it was better to run from the \n
+//\n心の闇から目をそむけていつわりの\n幸福に浸っている、
+\n
+I forgot it was better to run from the\n
 darkness by getting off on the fact
 <$0C>
-that we've suffered. 
+that we've suffered.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nそういうやり方なんだろう。 \nあんたの知らない間に心の闇は広がり、
- \n
-How silly of me. But you're even sillier \n
-for knowingly feeding that darkness. 
+//\nそういうやり方なんだろう。\nあんたの知らない間に心の闇は広がり、
+\n
+How silly of me. But you're even sillier\n
+for knowingly feeding that darkness.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nやがては全てを飲み尽くしてしまう。 \n結果を先送りしてるだけだ！
- \n
-Give it enough time, and you'll be the \n
+//\nやがては全てを飲み尽くしてしまう。\n結果を先送りしてるだけだ！
+\n
+Give it enough time, and you'll be the\n
 one responsible for that darkness
 <$0C>
-swallowing everything. 
+swallowing everything.
 <$00>
 
 // Pos: 000037DB
@@ -278,20 +278,20 @@ swallowing everything.
 //レッド：
 Red:
 <$0D>
-// \n飲み尽くす… 泡のことか？
- \n
-Swallowing... Swallowing what, \n
-Bubbles? 
+//\n飲み尽くす… 泡のことか？
+\n
+Swallowing... Swallowing what,\n
+Bubbles?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nそうなんだな、泡のことを言ってるんだな。 \nおい、お前、何で知ってる？
- \n
-It sounds like you're talking about \n
+//\nそうなんだな、泡のことを言ってるんだな。\nおい、お前、何で知ってる？
+\n
+It sounds like you're talking about\n
 Bubbles, but how do you know about
 <$0C>
-him? 
+him?
 <$00>
 
 // Pos: 00003820
@@ -304,9 +304,9 @@ him?
 //スペーサー：
 Spacer:
 <$0D>
-// \n泡がどうした？
- \n
-Bubbles? "Him"? 
+//\n泡がどうした？
+\n
+Bubbles? "Him"?
 <$00>
 
 // Pos: 00003835
@@ -319,18 +319,18 @@ Bubbles? "Him"?
 //レッド：
 Red:
 <$0D>
-// \nぼやぼやしてると飲まれるんだ、 \n泡のおじさんが待ってて…
- \n
-You'll choke if you're not careful. Uncle \n
-Bubbles is waiting... 
+//\nぼやぼやしてると飲まれるんだ、\n泡のおじさんが待ってて…
+\n
+You'll choke if you're not careful. Uncle\n
+Bubbles is waiting...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n真っ白な泡だ、知ってるだろ… \n俺はいつも急いでた、ガキの頃からずっとな。
- \n
-So pure, white and foamy... I'd kept \n
-running to him, ever since I was a kid. 
+//\n真っ白な泡だ、知ってるだろ…\n俺はいつも急いでた、ガキの頃からずっとな。
+\n
+So pure, white and foamy... I'd kept\n
+running to him, ever since I was a kid.
 <$00>
 
 // Pos: 0000388F
@@ -343,19 +343,19 @@ running to him, ever since I was a kid.
 //レッド：
 Red:
 <$0D>
-// \nおおおお、俺のウデがない！
- \n
-Am I...unclean? 
+//\nおおおお、俺のウデがない！
+\n
+Am I...unclean?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nどこへやった、おい！お前に開いてるんだ！ \n泡でできたウデだ、真っ白なんだ！
- \n
-Where did you go? I'm all clean for you, \n
+//\nどこへやった、おい！お前に開いてるんだ！\n泡でできたウデだ、真っ白なんだ！
+\n
+Where did you go? I'm all clean for you,\n
 Uncle Bubbles! I'm covered in white,
 <$0C>
-frothing bubbles! 
+frothing bubbles!
 <$00>
 
 // Pos: 000038D6
@@ -368,10 +368,10 @@ frothing bubbles!
 //スペーサー：
 Spacer:
 <$0D>
-// \nウデがないのか。 \nそれなら泡のおじさんが食べたんだ。
- \n
-Did Uncle Bubbles come after you \n
-because you were unclean? 
+//\nウデがないのか。\nそれなら泡のおじさんが食べたんだ。
+\n
+Did Uncle Bubbles come after you\n
+because you were unclean?
 <$00>
 
 // Pos: 000038FF
@@ -384,12 +384,12 @@ because you were unclean?
 //レッド：
 Red:
 <$0D>
-// \nウソ付け！ さっきまであったぞ、 \n泡を残しちゃいけねぇんだ。
- \n
-No! H-he was always there for me! \n
+//\nウソ付け！ さっきまであったぞ、\n泡を残しちゃいけねぇんだ。
+\n
+No! H-he was always there for me!\n
 There's no way his bubbles would
 <$0C>
-disappear! 
+disappear!
 <$00>
 
 // Pos: 00003929
@@ -402,9 +402,9 @@ disappear!
 //スペーサー：
 Spacer:
 <$0D>
-// \n泡を残すのがなぜいけないんだ？
- \n
-And why's that? 
+//\n泡を残すのがなぜいけないんだ？
+\n
+And why's that?
 <$00>
 
 // Pos: 00003947
@@ -417,38 +417,38 @@ And why's that?
 //レッド：
 Red:
 <$0D>
-// \n泡はおじさんのものだからだ！ \n馬鹿野郎！ あああ、泡、俺のウデがない…
- \n
-Because, idiot! Those bubbles belong \n
+//\n泡はおじさんのものだからだ！\n馬鹿野郎！ あああ、泡、俺のウデがない…
+\n
+Because, idiot! Those bubbles belong\n
 to my uncle! Oh, no, not the bubbles! I'll
 <$0C>
-be unclean! 
+be unclean!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nお前が隠したんだろ、分かってるんだ、 \n地下水道だ。
- \n
-You...you hid them! I know you did! \n
-Down in the underground canal! 
+//\nお前が隠したんだろ、分かってるんだ、\n地下水道だ。
+\n
+You...you hid them! I know you did!\n
+Down in the underground canal!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nへへへへ、 \nあそこにはコスマスの隠れ家があるんだ、
- \n
-Hehehe, the same place Cosmas has \n
-been hiding... 
+//\nへへへへ、\nあそこにはコスマスの隠れ家があるんだ、
+\n
+Hehehe, the same place Cosmas has\n
+been hiding...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nお前らグルになって… 覚えてろよ！
- \n
-Grr, you've been scheming together \n
+//\nお前らグルになって… 覚えてろよ！
+\n
+Grr, you've been scheming together\n
 this whole time. Don't think I haven't
 <$0C>
-noticed! 
+noticed!
 <$00>
 
 // Pos: 000039DC
@@ -461,47 +461,47 @@ noticed!
 //ゴールド：
 Gold:
 <$0D>
-// \nおい、レッドがさがしてたぞ。 \n血眼になってたぞ。
- \n
-Hey, Red's looking for you. His eyes \n
-looked bloodshot. 
+//\nおい、レッドがさがしてたぞ。\n血眼になってたぞ。
+\n
+Hey, Red's looking for you. His eyes\n
+looked bloodshot.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nコスマスにちょっかい出すからだ、 \nコスマスはレッドの宝物なんだ。
- \n
-He's pissed you that meddled with his \n
+//\nコスマスにちょっかい出すからだ、\nコスマスはレッドの宝物なんだ。
+\n
+He's pissed you that meddled with his\n
 precious Cosmas. That kid is Red's
 <$0C>
-treasure. 
+treasure.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \n知らないぜ、俺は。 \nレッドはねちっこいやつだ…
- \n
-I don't understand it either. Red's an \n
-obstinate individual. 
+//\n知らないぜ、俺は。\nレッドはねちっこいやつだ…
+\n
+I don't understand it either. Red's an\n
+obstinate individual.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
-// \nお前、やつに気に入られたらどうする？
- \n
-What are you going to do, now that he's \n
+//\nお前、やつに気に入られたらどうする？
+\n
+What are you going to do, now that he's\n
 set his sights on you?
 <$1E>
 //家
-家 
+家
 <$00><$10><$0B>
 //レッド：
 Red:
 <$0D>
-// \nちくしょう、あの野郎！ \nどこに隠れてやがる！
- \n
-Damned mongrel...! Where are you \n
-hiding?! 
+//\nちくしょう、あの野郎！\nどこに隠れてやがる！
+\n
+Damned mongrel...! Where are you\n
+hiding?!
 <$00>
 
 // Pos: 00003A8E
@@ -518,13 +518,13 @@ hiding?!
 //ゴールド：
 Gold:
 <$0D>
-// \nお前、コスマスになにしたんだ？ \nレッドがあんなになって \nお前をさがしまわるなんてよ。
- \n
-What did you do to Cosmas? Whatever \n
+//\nお前、コスマスになにしたんだ？\nレッドがあんなになって\nお前をさがしまわるなんてよ。
+\n
+What did you do to Cosmas? Whatever\n
 you did, Red wants your head.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00003AC5
@@ -537,10 +537,10 @@ you did, Red wants your head.
 //スペーサー：
 Spacer:
 <$0D>
-// \nおじさんはどうした、レッド、 \n泡のおじさんだ。
- \n
-What did your uncle do, Red? What did \n
-Uncle Bubbles do to you? 
+//\nおじさんはどうした、レッド、\n泡のおじさんだ。
+\n
+What did your uncle do, Red? What did\n
+Uncle Bubbles do to you?
 <$00>
 
 // Pos: 00003AEA
@@ -553,18 +553,18 @@ Uncle Bubbles do to you?
 //レッド：
 Red:
 <$0D>
-// \nうるせぇ！ \nぼやぼやしてると飲み込まれるんだ、
- \n
-Be quiet! If you're too loud, he'll eat us \n
-up! 
+//\nうるせぇ！\nぼやぼやしてると飲み込まれるんだ、
+\n
+Be quiet! If you're too loud, he'll eat us\n
+up!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \n泡のおじさんが待ってて… 知ってるだろ… \n俺はいつも急いでた、ガキの頃からずっとな。
- \n
-Uncle Bubbles is waiting... I'd kept \n
-running to him, ever since I was a kid. 
+//\n泡のおじさんが待ってて… 知ってるだろ…\n俺はいつも急いでた、ガキの頃からずっとな。
+\n
+Uncle Bubbles is waiting... I'd kept\n
+running to him, ever since I was a kid.
 <$00>
 
 // Pos: 00003B43
@@ -577,17 +577,17 @@ running to him, ever since I was a kid.
 //レッド：
 Red:
 <$0D>
-// \nおおおお、俺のウデがない！ \nどこへやった、おい！
- \n
-Am I...unclean? Where did you go? 
+//\nおおおお、俺のウデがない！\nどこへやった、おい！
+\n
+Am I...unclean? Where did you go?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nお前に開いてるんだ！ \n泡でできたウデだ、真っ白なんだ！
- \n
-I'm all clean for you, Uncle Bubbles! I'm \n
-covered in white, frothing bubbles! 
+//\nお前に開いてるんだ！\n泡でできたウデだ、真っ白なんだ！
+\n
+I'm all clean for you, Uncle Bubbles! I'm\n
+covered in white, frothing bubbles!
 <$00>
 
 // Pos: 00003B8B
@@ -600,10 +600,10 @@ covered in white, frothing bubbles!
 //スペーサー：
 Spacer:
 <$0D>
-// \nウデがないのか。 \nそれなら泡のおじさんが食べたんだ。
- \n
-Did Uncle Bubbles come after you \n
-because you were unclean? 
+//\nウデがないのか。\nそれなら泡のおじさんが食べたんだ。
+\n
+Did Uncle Bubbles come after you\n
+because you were unclean?
 <$00>
 
 // Pos: 00003BB4
@@ -616,12 +616,12 @@ because you were unclean?
 //レッド：
 Red:
 <$0D>
-// \nウソ付け！ さっきまであったぞ、 \n泡を残しちゃいけねぇんだ。
- \n
-No! H-he was always there for me! \n
+//\nウソ付け！ さっきまであったぞ、\n泡を残しちゃいけねぇんだ。
+\n
+No! H-he was always there for me!\n
 There's no way his bubbles would
 <$0C>
-disappear! 
+disappear!
 <$00>
 
 // Pos: 00003BDE
@@ -634,9 +634,9 @@ disappear!
 //スペーサー：
 Spacer:
 <$0D>
-// \n泡を残すのがなぜいけないんだ？
- \n
-And why's that? 
+//\n泡を残すのがなぜいけないんだ？
+\n
+And why's that?
 <$00>
 
 // Pos: 00003BFC
@@ -649,43 +649,43 @@ And why's that?
 //レッド：
 Red:
 <$0D>
-// \n泡はおじさんのものだからだ！ バカ野郎！
- \n
-Because, idiot! Those bubbles belong \n
-to my uncle! 
+//\n泡はおじさんのものだからだ！ バカ野郎！
+\n
+Because, idiot! Those bubbles belong\n
+to my uncle!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nあああ、泡、俺のウデがない…
- \n
-Oh, no, not the bubbles! I'll be unclean! 
+//\nあああ、泡、俺のウデがない…
+\n
+Oh, no, not the bubbles! I'll be unclean!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nお前が隠したんだろ、分かってるんだ、 \n地下水道だ。
- \n
-You...you hid them! I know you did! \n
-Down in the underground canal! 
+//\nお前が隠したんだろ、分かってるんだ、\n地下水道だ。
+\n
+You...you hid them! I know you did!\n
+Down in the underground canal!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nへへへへ、 \nあそこにはコスマスの隠れ家があるんだ、
- \n
-Hehehe, the same place Cosmas has \n
-been hiding... 
+//\nへへへへ、\nあそこにはコスマスの隠れ家があるんだ、
+\n
+Hehehe, the same place Cosmas has\n
+been hiding...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
-// \nお前らグルになって… 覚えてろよ！
- \n
-Grr, you've been scheming together \n
+//\nお前らグルになって… 覚えてろよ！
+\n
+Grr, you've been scheming together\n
 this whole time. Don't think I haven't
 <$0C>
-noticed! 
+noticed!
 <$00>
 
 // Pos: 00003C96
@@ -694,55 +694,55 @@ noticed!
 
 #WHB(PTR, $00001E95)
 
- 
+
 <$00><$18><$00>
 //ぁセ。
-ぁセ。 
+ぁセ。
 <$00><$00><$00>
-//チャーリー、ごちそう、ごちそう。 \nもうすぐ、ごちそう、ごちそう。
-FEED CHARLIE. FEED CHARLIE. \n
+//チャーリー、ごちそう、ごちそう。\nもうすぐ、ごちそう、ごちそう。
+FEED CHARLIE. FEED CHARLIE.\n
 NOW. NOW. FEED CHARLIE NOW.
 <$1A>
 //ヒ
-ヒ 
+ヒ
 <$00><$00><$00><$18><$00>
 //ぁば
-ぁば 
+ぁば
 <$1B><$00><$00><$00>
-//チャーリー、見つけた、ごちそう、 \n見つけた。
-CHARLIE SEES YOU. FEED CHARLIE. \n
+//チャーリー、見つけた、ごちそう、\n見つけた。
+CHARLIE SEES YOU. FEED CHARLIE.\n
 CHARLIE SEES YOU.
 <$1A>
 //ぁ
-ぁ 
+ぁ
 <$00><$00><$00><$18><$00>
 //ぁほ
-ぁほ 
+ぁほ
 <$1D><$00><$00><$00>
-//チャーリー、食べたい、ごちそう、 \n食べたい。
-CHARLIE'S HUNGRY. FEED HUNGRY \n
+//チャーリー、食べたい、ごちそう、\n食べたい。
+CHARLIE'S HUNGRY. FEED HUNGRY\n
 CHARLIE.
 <$1A>
 //も
-も 
+も
 <$00><$00><$00><$18><$00>
 //ぽM
-ぽM 
+ぽM
 <$1A><$00><$00><$00>
 //チャーリー、考える、ごちそう、考える。
-FEED CHARLIE. CHARLIE KNOWS. \n
+FEED CHARLIE. CHARLIE KNOWS.\n
 CHARLIE KNOWS.
 <$1A>
 //あ
-あ 
+あ
 <$00><$00><$00><$18><$00>
 //ぽホ
-ぽホ 
+ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS KNEW. 
+CHARLIE KNEW. CHARLIE ALWAYS KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
-CHARLIE'S AWAKE! CHARLIE'S AWAKE! 
+CHARLIE'S AWAKE! CHARLIE'S AWAKE!
 <$00>
 

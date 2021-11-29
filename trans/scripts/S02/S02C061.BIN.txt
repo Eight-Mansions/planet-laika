@@ -15,9 +15,9 @@
 //ヌーン：
 Noon:
 <$0D>
-// \nおお、ライカ、平気だったか？
- \n
-There you are, Laika! 'Anging in there? 
+//\nおお、ライカ、平気だったか？
+\n
+There you are, Laika! 'Anging in there?
 <$00>
 
 // Pos: 00000EFE
@@ -30,18 +30,18 @@ There you are, Laika! 'Anging in there?
 //ヌーン：
 Noon:
 <$0D>
-// \nあああ、砂だ、砂嵐で… \nああ、砂嵐で、頭の中がぐるんぐるんなんだ。
- \n
-Aye, I'll tell you what. This sandstorm \n
-is making my head spin. 
+//\nあああ、砂だ、砂嵐で…\nああ、砂嵐で、頭の中がぐるんぐるんなんだ。
+\n
+Aye, I'll tell you what. This sandstorm\n
+is making my head spin.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \n避難小屋はすぐそこだ。 \n船長たちが待ってるに建いない。 急ごう。
- \n
-The safe 'ouse is this way. Let's not \n
-keep the other two waiting. 
+//\n避難小屋はすぐそこだ。\n船長たちが待ってるに建いない。 急ごう。
+\n
+The safe 'ouse is this way. Let's not\n
+keep the other two waiting.
 <$00>
 
 // Pos: 00000F60
@@ -51,13 +51,13 @@ keep the other two waiting.
 #WHB(PTR, $00000809)
 
 //災やな思い出がよみがえったり…
-災Bitter memories will resurface... 
+災Bitter memories will resurface...
 <$0C>
-//思い出だけじゃなくてね、ウソもホントも \n何もかも。 惑わされるかもね。
-Not only memories, but lies and truths \n
+//思い出だけじゃなくてね、ウソもホントも\n何もかも。 惑わされるかもね。
+Not only memories, but lies and truths\n
 and well. They're there to confuse you.
 <$1E>
 //炎
-炎 
+炎
 <$00>
 

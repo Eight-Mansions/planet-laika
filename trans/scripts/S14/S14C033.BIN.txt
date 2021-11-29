@@ -15,13 +15,13 @@
 //スパーキー：
 Sparky:
 <$0D>
-// \nなんか寒いの、すごく寒いの。 \n広場の方から冷気が来るの、どうして？
- \n
-It got so much colder somehow. I think \n
+//\nなんか寒いの、すごく寒いの。\n広場の方から冷気が来るの、どうして？
+\n
+It got so much colder somehow. I think\n
 the chill is coming from the plaza.
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 00001538
@@ -34,15 +34,15 @@ the chill is coming from the plaza.
 //スパーキー：
 Sparky:
 <$0D>
-// \nときどきビリってくるのよ、電気よ。 \n寝てるときにね、ビリビリ… \nベッドに電気なんか来てないのに。
- \n
-Sometimes, I get hit with this jolt \n
+//\nときどきビリってくるのよ、電気よ。\n寝てるときにね、ビリビリ…\nベッドに電気なんか来てないのに。
+\n
+Sometimes, I get hit with this jolt\n
 when I'm asleep. But...my bed's not
 <$0C>
 static!
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 0000157A
@@ -55,15 +55,15 @@ static!
 //スパーキー：
 Sparky:
 <$0D>
-// \n電気だわ？それから？ \nああ、ハエの憎しみだ、そうだ！ \n波動がゆらぎはじめたんだ！
- \n
-What happens next, huh? A spark of \n
+//\n電気だわ？それから？\nああ、ハエの憎しみだ、そうだ！\n波動がゆらぎはじめたんだ！
+\n
+What happens next, huh? A spark of\n
 hatred, probably. The waves are on
 <$0C>
 the fritz enough as is!
 <$1E>
 //行
-行 
+行
 <$00>
 
 // Pos: 000015B4
@@ -76,12 +76,12 @@ the fritz enough as is!
 //スパーキー：
 Sparky:
 <$0D>
-// \n波動の中で私は変わる？
- \n
+//\n波動の中で私は変わる？
+\n
 Will being in the waves change me?
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 000015D1
@@ -94,22 +94,22 @@ Will being in the waves change me?
 //スパーキー：
 Sparky:
 <$0D>
-// \nぼわんぼわんって、何？ 催眠術の音？
- \n
-What's that wub-wub-wub sound? Is \n
-that what hypnotherapy sounds like? 
+//\nぼわんぼわんって、何？ 催眠術の音？
+\n
+What's that wub-wub-wub sound? Is\n
+that what hypnotherapy sounds like?
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>
-// \n建うのね、 \nアガタが何か始めたんじゃないのね。
- \n
-That doesn't make sense, though. \n
+//\n建うのね、\nアガタが何か始めたんじゃないのね。
+\n
+That doesn't make sense, though.\n
 Agatha isn't in a session right now, is
 <$0C>
 she?
 <$1E>
 //行
-行 
+行
 <$00>
 

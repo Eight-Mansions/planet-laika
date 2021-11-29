@@ -15,10 +15,10 @@
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nここね… 町長屋敷って… \n何だかイヤな惑じね…
- \n
-This is it, the elder's cottage. Another \n
-fishy one for the books. 
+//\nここね… 町長屋敷って…\n何だかイヤな惑じね…
+\n
+This is it, the elder's cottage. Another\n
+fishy one for the books.
 <$00>
 
 // Pos: 000033B1
@@ -31,9 +31,9 @@ fishy one for the books.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねえ… エイプリル…
- \n
-Hey, April... 
+//\nねえ… エイプリル…
+\n
+Hey, April...
 <$00>
 
 // Pos: 000033C7
@@ -46,10 +46,10 @@ Hey, April...
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nイヤだ… エイプリル… あなた、まさか… \nちょっと、どういうこと？
- \n
-Sorry... April, I'm not so sure about... \n
-Sorry, where was I? 
+//\nイヤだ… エイプリル… あなた、まさか…\nちょっと、どういうこと？
+\n
+Sorry... April, I'm not so sure about...\n
+Sorry, where was I?
 <$00>
 
 // Pos: 000033F4
@@ -62,9 +62,9 @@ Sorry, where was I?
 //エイプリル：
 April:
 <$0D>
-// \nあっ、ヨランダ。
- \n
-Hey, Yolanda. 
+//\nあっ、ヨランダ。
+\n
+Hey, Yolanda.
 <$00>
 
 // Pos: 00003407
@@ -77,9 +77,9 @@ Hey, Yolanda.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n…ねえ、あなた、なんともないの？
- \n
-...Hey, you get through all right? 
+//\n…ねえ、あなた、なんともないの？
+\n
+...Hey, you get through all right?
 <$00>
 
 // Pos: 00003423
@@ -92,10 +92,10 @@ Yolanda:
 //エイプリル：
 April:
 <$0D>
-// \n平気よ。 私はまっすぐここに来たの。 \n別に… なんともないよ…
- \n
-I was fine. I walked straight here \n
-with...no problems... 
+//\n平気よ。 私はまっすぐここに来たの。\n別に… なんともないよ…
+\n
+I was fine. I walked straight here\n
+with...no problems...
 <$00>
 
 // Pos: 00003450
@@ -108,10 +108,10 @@ with...no problems...
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそう… ならよかった。 \nここが町長さんのお屋敷ね。
- \n
-This it? I take it this is the elder's \n
-cottage. 
+//\nそう… ならよかった。\nここが町長さんのお屋敷ね。
+\n
+This it? I take it this is the elder's\n
+cottage.
 <$00>
 
 // Pos: 00003479
@@ -124,10 +124,10 @@ cottage.
 //エイプリル：
 April:
 <$0D>
-// \nここには誰もいない… 他に部屋はない…
- \n
-There's no one here, and there's no \n
-other rooms. 
+//\nここには誰もいない… 他に部屋はない…
+\n
+There's no one here, and there's no\n
+other rooms.
 <$00>
 
 // Pos: 0000349B
@@ -140,12 +140,12 @@ other rooms.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nねえ、ほんとに大丈夫？ \nシーシーなんて言わないでね
- \n
-Hey, are you sure you're all right? \n
+//\nねえ、ほんとに大丈夫？\nシーシーなんて言わないでね
+\n
+Hey, are you sure you're all right?\n
 You're not whoosh-whooshed out, are
 <$0C>
-you? 
+you?
 <$00>
 
 // Pos: 000034C3
@@ -158,9 +158,9 @@ you?
 //エイプリル：
 April:
 <$0D>
-// \n大丈夫よ…
- \n
-It's all right. 
+//\n大丈夫よ…
+\n
+It's all right.
 <$00>
 
 // Pos: 000034D6
@@ -173,9 +173,9 @@ It's all right.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nならいいけど… \nちょっとさがしてみましょう。
- \n
-If you say so. Let's take a look around. 
+//\nならいいけど…\nちょっとさがしてみましょう。
+\n
+If you say so. Let's take a look around.
 <$00>
 
 // Pos: 000034F8
@@ -188,9 +188,9 @@ If you say so. Let's take a look around.
 //エイプリル：
 April:
 <$0D>
-// \nあっ、ヨランダ。
- \n
-Hey, Yolanda. 
+//\nあっ、ヨランダ。
+\n
+Hey, Yolanda.
 <$00>
 
 // Pos: 0000350B
@@ -203,9 +203,9 @@ Hey, Yolanda.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nここが町長さんのお屋敷ね。
- \n
-I take it this is the elder's cottage. 
+//\nここが町長さんのお屋敷ね。
+\n
+I take it this is the elder's cottage.
 <$00>
 
 // Pos: 00003528
@@ -218,10 +218,10 @@ I take it this is the elder's cottage.
 //エイプリル：
 April:
 <$0D>
-// \nでも、誰もいないよ。 \n他に部屋はないみたいだし…
- \n
-There's no one here, and there's no \n
-other rooms. 
+//\nでも、誰もいないよ。\n他に部屋はないみたいだし…
+\n
+There's no one here, and there's no\n
+other rooms.
 <$00>
 
 // Pos: 0000354F
@@ -234,9 +234,9 @@ other rooms.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nちょっとさがしてみましょう。
- \n
-Let's take a look around. 
+//\nちょっとさがしてみましょう。
+\n
+Let's take a look around.
 <$00>
 
 // Pos: 00003569
@@ -249,9 +249,9 @@ Let's take a look around.
 //エイプリル：
 April:
 <$0D>
-// \n町長屋敷をさがしてみない？
- \n
-Should we search the mansion? 
+//\n町長屋敷をさがしてみない？
+\n
+Should we search the mansion?
 <$00>
 
 // Pos: 00003585
@@ -264,10 +264,10 @@ Should we search the mansion?
 //エイプリル：
 April:
 <$0D>
-// \nねえ、ヨランダ、 \nあなたならヌーンをどんなふうにしかる？
- \n
-Hey, Yolanda? How do you intend to call \n
-to Noon? 
+//\nねえ、ヨランダ、\nあなたならヌーンをどんなふうにしかる？
+\n
+Hey, Yolanda? How do you intend to call\n
+to Noon?
 <$00>
 
 // Pos: 000035AC
@@ -280,9 +280,9 @@ to Noon?
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nしかる？ \nアタシが…ヌーンを？
- \n
-How will I...call to Noon? 
+//\nしかる？\nアタシが…ヌーンを？
+\n
+How will I...call to Noon?
 <$00>
 
 // Pos: 000035C7
@@ -295,24 +295,24 @@ How will I...call to Noon?
 //エイプリル：
 April:
 <$0D>
-// \n例えばよ。
- \n
-Yeah! I mean while we're looking! 
+//\n例えばよ。
+\n
+Yeah! I mean while we're looking!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nふざけてヌーンがどこかに隠れてる。 \n早く出てきなさい！
- \n
-You know, he might respond to \n
-something loud and motherly, like... 
+//\nふざけてヌーンがどこかに隠れてる。\n早く出てきなさい！
+\n
+You know, he might respond to\n
+something loud and motherly, like...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそんなふうに大声で呼んで…
- \n
-Noon, come out here this instant! 
+//\nそんなふうに大声で呼んで…
+\n
+Noon, come out here this instant!
 <$00>
 
 // Pos: 0000361A
@@ -325,17 +325,17 @@ Noon, come out here this instant!
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあなたがグズだから、せっかくのスープが \nさめちゃうじゃない、何してんのよ！
- \n
-I spent all day on this soup, and you'll \n
-either eat it warm or NOT AT ALL! 
+//\nあなたがグズだから、せっかくのスープが\nさめちゃうじゃない、何してんのよ！
+\n
+I spent all day on this soup, and you'll\n
+either eat it warm or NOT AT ALL!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n…こんな惑じ？
- \n
-...Like that. 
+//\n…こんな惑じ？
+\n
+...Like that.
 <$00>
 
 // Pos: 0000365C
@@ -348,18 +348,18 @@ Yolanda:
 //エイプリル：
 April:
 <$0D>
-// \nそう。 お母さんみたいに。
- \n
-Yeah, that sounds as motherly as it \n
-gets! 
+//\nそう。 お母さんみたいに。
+\n
+Yeah, that sounds as motherly as it\n
+gets!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nヌーンはちょっとマザコンで、 \nすぐにホームシックにかかっちゃう人なの。
- \n
-Noon's a bit of a mommy's boy, so I'm \n
-betting he's homesick by now. 
+//\nヌーンはちょっとマザコンで、\nすぐにホームシックにかかっちゃう人なの。
+\n
+Noon's a bit of a mommy's boy, so I'm\n
+betting he's homesick by now.
 <$00>
 
 // Pos: 000036A2
@@ -372,9 +372,9 @@ betting he's homesick by now.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nそうね…
- \n
-Ah, I see. 
+//\nそうね…
+\n
+Ah, I see.
 <$00>
 
 // Pos: 000036B2
@@ -387,44 +387,44 @@ Ah, I see.
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nヌーン！ 隠れてないで… \nいるのはわかってるのよ！ ヌーン！
- \n
-Noon! You can run, and you can hide, but \n
-I know where you are! Noooon! 
+//\nヌーン！ 隠れてないで…\nいるのはわかってるのよ！ ヌーン！
+\n
+Noon! You can run, and you can hide, but\n
+I know where you are! Noooon!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあなた、ママのことキライになったの？ \nママは悲しいわ。
- \n
-Don't tell me you hate Mommy now! \n
-You'll make Mommy cryyyy! 
+//\nあなた、ママのことキライになったの？\nママは悲しいわ。
+\n
+Don't tell me you hate Mommy now!\n
+You'll make Mommy cryyyy!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nヌーン、あなたのためにパンケーキ焼いたのよ、 \nねえいいにおいでしょ、ママもお腹ぺこぺこ、
- \n
-Guess who baked all these pancakes, \n
-just for you! Don't they smell niiiice? 
+//\nヌーン、あなたのためにパンケーキ焼いたのよ、\nねえいいにおいでしょ、ママもお腹ぺこぺこ、
+\n
+Guess who baked all these pancakes,\n
+just for you! Don't they smell niiiice?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nあなたと一緒に食べようと思って…
- \n
-If we're both feeling peckish, why not \n
+//\nあなたと一緒に食べようと思って…
+\n
+If we're both feeling peckish, why not\n
 come down and eat breakfast with
 <$0C>
-Mommy? 
+Mommy?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nいつまでも隠れてると \nママお腹すかして死んじゃうかも。
- \n
-If you let me starve for long, Mommy's \n
-gonna die alone down here! 
+//\nいつまでも隠れてると\nママお腹すかして死んじゃうかも。
+\n
+If you let me starve for long, Mommy's\n
+gonna die alone down here!
 <$00>
 
 // Pos: 0000377D
@@ -436,9 +436,9 @@ gonna die alone down here!
 //所ヌーン：
 所Noon:
 <$0D>
-// \nママ、やめて… お願い… ママ…
- \n
-Mummy, stop... Please... Mummy...! 
+//\nママ、やめて… お願い… ママ…
+\n
+Mummy, stop... Please... Mummy...!
 <$0E><$3C><$17><$00>
 
 // Pos: 0000379A
@@ -450,9 +450,9 @@ Mummy, stop... Please... Mummy...!
 //所ヌーン：
 所Noon:
 <$0D>
-// \nママ！ ママ！ もういやだ！
- \n
-No more, Mummy, no more! 
+//\nママ！ ママ！ もういやだ！
+\n
+No more, Mummy, no more!
 <$0E><$3C><$17><$00>
 
 // Pos: 000037B4
@@ -465,9 +465,9 @@ No more, Mummy, no more!
 //エイプリル：
 April:
 <$0D>
-// \nヌーン！ \n私よ、エイプリルよ、分かる？
- \n
-Noon, it's me! April! Are you listening? 
+//\nヌーン！\n私よ、エイプリルよ、分かる？
+\n
+Noon, it's me! April! Are you listening?
 <$00>
 
 // Pos: 000037D2
@@ -480,10 +480,10 @@ Noon, it's me! April! Are you listening?
 //エイプリル：
 April:
 <$0D>
-// \nママを呼び出したって… \nヌーンの他に誰もいないじゃない。
- \n
-They said Noon was calling for his \n
-mom, but Noon's the only one here. 
+//\nママを呼び出したって…\nヌーンの他に誰もいないじゃない。
+\n
+They said Noon was calling for his\n
+mom, but Noon's the only one here.
 <$00>
 
 // Pos: 000037FD
@@ -496,9 +496,9 @@ mom, but Noon's the only one here.
 //ヌーン：
 Noon:
 <$0D>
-// \n僕のせいなんだよね、ママ…
- \n
-I was bad again, wasn't I, Mummy... 
+//\n僕のせいなんだよね、ママ…
+\n
+I was bad again, wasn't I, Mummy...
 <$00>
 
 // Pos: 00003814
@@ -511,10 +511,10 @@ I was bad again, wasn't I, Mummy...
 //エイプリル：
 April:
 <$0D>
-// \nあそこ！ ライカ、あの窓よ！ \n中に誰かいる！
- \n
-Laika, over there! I see someone in the \n
-window! 
+//\nあそこ！ ライカ、あの窓よ！\n中に誰かいる！
+\n
+Laika, over there! I see someone in the\n
+window!
 <$00>
 
 // Pos: 00003838
@@ -527,10 +527,10 @@ window!
 //エイプリル：
 April:
 <$0D>
-// \n誰なの？ \nいやよ、離して、手を離して、お願い！
- \n
-Who are you? ...No! Get off! Please! Get \n
-your hands of me! 
+//\n誰なの？\nいやよ、離して、手を離して、お願い！
+\n
+Who are you? ...No! Get off! Please! Get\n
+your hands of me!
 <$00>
 
 // Pos: 0000385F
@@ -543,25 +543,25 @@ your hands of me!
 //ヌーン：
 Noon:
 <$0D>
-// \nははははははは！
- \n
-You're right! Hahahahaha! 
+//\nははははははは！
+\n
+You're right! Hahahahaha!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nそうだ、病気だ、パパは病気、ママも病気、 \nみんな病気、みんな死ぬんだ！
- \n
-Papa's sick, Mummy's sick, we're all \n
-sick! We're all going to die! 
+//\nそうだ、病気だ、パパは病気、ママも病気、\nみんな病気、みんな死ぬんだ！
+\n
+Papa's sick, Mummy's sick, we're all\n
+sick! We're all going to die!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
-// \nははははは、僕も病気さ、 \n病気病気病気病気病気病気、あははははは…
- \n
-Hahaha, I'm sick too! SICK, SICK, SICK, \n
-SICK, SICK! AHAHAHAHA! 
+//\nははははは、僕も病気さ、\n病気病気病気病気病気病気、あははははは…
+\n
+Hahaha, I'm sick too! SICK, SICK, SICK,\n
+SICK, SICK! AHAHAHAHA!
 <$00>
 
 // Pos: 000038D1
@@ -574,8 +574,8 @@ SICK, SICK! AHAHAHAHA!
 //ヌーン：
 Noon:
 <$0D>
-// \nみんな病気なんだ！
- \n
-WE'RE ALL SICK! 
+//\nみんな病気なんだ！
+\n
+WE'RE ALL SICK!
 <$00>
 

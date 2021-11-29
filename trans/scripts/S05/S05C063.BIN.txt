@@ -15,10 +15,10 @@
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-// \nあああ、これが死の惑触…
- \n
-Ahhhh, the sweeeeet kiss of \n
-deaaaath... 
+//\nあああ、これが死の惑触…
+\n
+Ahhhh, the sweeeeet kiss of\n
+deaaaath...
 <$00>
 
 // Pos: 0000262F
@@ -31,19 +31,19 @@ deaaaath...
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-// \n闇の中を光が…
- \n
-My candle in the daaaark... 
+//\n闇の中を光が…
+\n
+My candle in the daaaark...
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
-// \nああ、言葉だ、言葉が光を放ってやってくる… \n私へ、来い！
- \n
-Ahhh, sweet words. Sweet, \n
+//\nああ、言葉だ、言葉が光を放ってやってくる…\n私へ、来い！
+\n
+Ahhh, sweet words. Sweet,\n
 illuminating woooords...!
 <$0C>
-Commme...to me! 
+Commme...to me!
 <$00>
 
 // Pos: 00002675
@@ -56,31 +56,31 @@ Commme...to me!
 //フェニックス：
 Phoenix:
 <$0D>
-// \n僕でも平気なのか…
- \n
-I'm not sure I can handle it... 
+//\n僕でも平気なのか…
+\n
+I'm not sure I can handle it...
 <$0C><$08>
-//罪を背負う子羊たちが暗闇に解き放たれ、 \n時の中でつながる双子を目覚めさせるだろう。
-May the sinful lambs be set loose in the \n
-dark, and awaken the Twins of Truth in \n
-time. 
+//罪を背負う子羊たちが暗闇に解き放たれ、\n時の中でつながる双子を目覚めさせるだろう。
+May the sinful lambs be set loose in the\n
+dark, and awaken the Twins of Truth in\n
+time.
 <$0C>
-//マコトの双子がはじめの一歩を記し、 \n光の夢におどる。 \n新たなる人間として歩み始めるであろう。
-May the Twins of Truth take the first \n
-step, and dance in the shining dream. \n
+//マコトの双子がはじめの一歩を記し、\n光の夢におどる。\n新たなる人間として歩み始めるであろう。
+May the Twins of Truth take the first\n
+step, and dance in the shining dream.\n
 That they swalk away as new human
 <$0C>
-beings. 
+beings.
 <$05><$0C>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //      
       
 <$0D>
 //第三の預言を得た。
-So sayeth the third prophecy. 
+So sayeth the third prophecy.
 <$00>
 
 // Pos: 0000271A
@@ -93,43 +93,43 @@ So sayeth the third prophecy.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふほ、第三の預言じゃな…
- \n
-Haww, that was the third prophecy! 
+//\nふほ、第三の預言じゃな…
+\n
+Haww, that was the third prophecy!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \n意味をなすのは、 \nこの第三の預言といわれておるのう。
- \n
-The significance of that being that it's \n
-known as the third prophecy. 
+//\n意味をなすのは、\nこの第三の預言といわれておるのう。
+\n
+The significance of that being that it's\n
+known as the third prophecy.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nマコトの双子とは… お前がそうなのか… \nほっほう、光の夢におどるのか。
- \n
-The Twins of Truth, those might be \n
+//\nマコトの双子とは… お前がそうなのか…\nほっほう、光の夢におどるのか。
+\n
+The Twins of Truth, those might be\n
 you, haww, haww! Now, do you dream
 <$0C>
-of the light? 
+of the light?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nマコトの双子、マコトの双子、 \nどうじゃ、お前がそうなのか！
- \n
-Twins of Truth! Twins of Truth! Don't \n
-you think that might mean you? 
+//\nマコトの双子、マコトの双子、\nどうじゃ、お前がそうなのか！
+\n
+Twins of Truth! Twins of Truth! Don't\n
+you think that might mean you?
 <$00><$10><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nなんだか気分が悪いよ。 \nやっぱり僕じゃダメなんじゃないの？
- \n
-I don't feel too good. I doubt I'm up to \n
-the task. 
+//\nなんだか気分が悪いよ。\nやっぱり僕じゃダメなんじゃないの？
+\n
+I don't feel too good. I doubt I'm up to\n
+the task.
 <$00>
 
 // Pos: 000027EF
@@ -142,11 +142,11 @@ the task.
 //ホワイトイーグル：
 White Eagle:
 <$0D>
-// \nふほほほほ、 \nお前という人間は深刻な存在じゃのう… \n恐ろしく深刻じゃ…
- \n
-Haww, haww, haww! You humans live \n
+//\nふほほほほ、\nお前という人間は深刻な存在じゃのう…\n恐ろしく深刻じゃ…
+\n
+Haww, haww, haww! You humans live\n
 such disorderly existences,
 <$0C>
-dreadfully brimming with disorder... 
+dreadfully brimming with disorder...
 <$00>
 

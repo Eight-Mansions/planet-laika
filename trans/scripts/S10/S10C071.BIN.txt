@@ -11,10 +11,10 @@
 
 #WHB(PTR, $0000015D)
 
- 
+
 <$00><$0F>
 //？
-? 
+?
 <$00>
 
 // Pos: 00002645
@@ -23,15 +23,15 @@
 
 #WHB(PTR, $000001AD)
 
- 
+
 <$00><$0F>
 //、ママよ、あなたのママよ。
-It's me. Mama's here. 
+It's me. Mama's here.
 <$0C>
-//ねぇ、覚えてる、あなたが５歳の時の \nクリスマスプレゼント。
-Say, do you remember the Christmas \n
-present I gave you when you were 5 \n
-years old? 
+//ねぇ、覚えてる、あなたが５歳の時の\nクリスマスプレゼント。
+Say, do you remember the Christmas\n
+present I gave you when you were 5\n
+years old?
 <$00>
 
 // Pos: 00002676
@@ -40,17 +40,17 @@ years old?
 
 #WHB(PTR, $000001D9)
 
- 
+
 <$00>
-//パパはあなたのために一番大きなロケットを \nさがしてきたのよ。 \n町中のおもちゃ屋さんを回ったのよ。
-Your batya went to every toy store, \n
-looking for the biggest \n
-rocket in town to give to you. 
+//パパはあなたのために一番大きなロケットを\nさがしてきたのよ。\n町中のおもちゃ屋さんを回ったのよ。
+Your batya went to every toy store,\n
+looking for the biggest\n
+rocket in town to give to you.
 <$0C><$0F>
-//、夢を捨てないで。 \nあなたなら大丈夫、きっと立派な兵士に… \n宇宙飛行士になれるわ。
-, don't throw away your dream. \n
-I know you can become a great \n
-cosmonaut all on your own. 
+//、夢を捨てないで。\nあなたなら大丈夫、きっと立派な兵士に…\n宇宙飛行士になれるわ。
+, don't throw away your dream.\n
+I know you can become a great\n
+cosmonaut all on your own.
 <$00>
 
 // Pos: 000026E8
@@ -59,15 +59,15 @@ cosmonaut all on your own.
 
 #WHB(PTR, $000001ED)
 
- 
+
 <$00><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nタニア… 建う、この声はタニアじゃない、 \n亡霊よ！ 亡霊のしわざよ！
- \n
-Tanya...? No, that's not Tanya's voice. \n
-That's a ghost! A SICK, FUCKING GHOST! 
+//\nタニア… 建う、この声はタニアじゃない、\n亡霊よ！ 亡霊のしわざよ！
+\n
+Tanya...? No, that's not Tanya's voice.\n
+That's a ghost! A SICK, FUCKING GHOST!
 <$00>
 
 // Pos: 0000271C
@@ -76,25 +76,25 @@ That's a ghost! A SICK, FUCKING GHOST!
 
 #WHB(PTR, $00000495)
 
- 
+
 <$00><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n君たちは思い出を呼び起こすのが \n得意なようだね。
- \n
-You three are none too shabby at \n
+//\n君たちは思い出を呼び起こすのが\n得意なようだね。
+\n
+You three are none too shabby at\n
 resuscitating memories better off
 <$0C>
-dead. 
+dead.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n私にしてみれば、 \nそれは怪しいエ作にほかならない。
- \n
-I, for one, don't care to waste time on \n
-such fruitless endeavors. 
+//\n私にしてみれば、\nそれは怪しいエ作にほかならない。
+\n
+I, for one, don't care to waste time on\n
+such fruitless endeavors.
 <$00>
 
 // Pos: 00002767
@@ -103,46 +103,46 @@ such fruitless endeavors.
 
 #WHB(PTR, $000004A9)
 
- 
+
 <$00><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n君たちはやっかいな問顆を抱え込んでいる。
- \n
-You each hold a piece to a particularly \n
-nasty puzzle. 
+//\n君たちはやっかいな問顆を抱え込んでいる。
+\n
+You each hold a piece to a particularly\n
+nasty puzzle.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nどうかね、この私と一緒に \nその問顆を解決に導くというのは。
- \n
-If you'd ever like to solve it, gather \n
-those pieces and give them to me. 
+//\nどうかね、この私と一緒に\nその問顆を解決に導くというのは。
+\n
+If you'd ever like to solve it, gather\n
+those pieces and give them to me.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n君たちの心に降り積もった悪意を \n取り除いてやろう。
- \n
-Lay down every last piece of ill will \n
-you've amassed in your minds. 
+//\n君たちの心に降り積もった悪意を\n取り除いてやろう。
+\n
+Lay down every last piece of ill will\n
+you've amassed in your minds.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nさあ、心を開くのだ。
- \n
-Yes, open your minds to me! 
+//\nさあ、心を開くのだ。
+\n
+Yes, open your minds to me!
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n私にはすでに見えているようだ、読めるぞ、 \n隠された時間が動きはじめたようだ。
- \n
-Let me peer at what I already see. Let \n
-me turn the clock that you forsook! 
+//\n私にはすでに見えているようだ、読めるぞ、\n隠された時間が動きはじめたようだ。
+\n
+Let me peer at what I already see. Let\n
+me turn the clock that you forsook!
 <$00>
 
 // Pos: 00002822
@@ -154,18 +154,18 @@ me turn the clock that you forsook!
 //所ガリル：
 Galil:
 <$0D>
-// \nアーネスト、馬屋に火を放ったのは君だ、 \nそうじゃないのかね。
- \n
-Ernest, you were the one who set the \n
-barn on fire. 
+//\nアーネスト、馬屋に火を放ったのは君だ、\nそうじゃないのかね。
+\n
+Ernest, you were the one who set the\n
+barn on fire.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nウラジミールが大切にしていた馬が \n焼け死んだ。
- \n
-You burned Vladimir's beloved horse \n
-to death. 
+//\nウラジミールが大切にしていた馬が\n焼け死んだ。
+\n
+You burned Vladimir's beloved horse\n
+to death.
 <$00>
 
 // Pos: 00002871
@@ -180,10 +180,10 @@ to death.
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だと？ 俺じゃねぇぞ。 \nあれはセルゲイのやったことだ、俺じゃねぇ！
- \n
-Me? No! That was Sergei's doing, not \n
-mine! 
+//\n何だと？ 俺じゃねぇぞ。\nあれはセルゲイのやったことだ、俺じゃねぇ！
+\n
+Me? No! That was Sergei's doing, not\n
+mine!
 <$00>
 
 // Pos: 000028A0
@@ -195,32 +195,32 @@ mine!
 //所ガリル：
 所Galil:
 <$0D>
-// \nいや建う、君だ。
- \n
-No, it was you. 
+//\nいや建う、君だ。
+\n
+No, it was you.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nたしかにセルゲイは父親が可愛がる馬が \nきらいだった。
- \n
-Sergei did not care much for his \n
-father's beloved horse, certainly... 
+//\nたしかにセルゲイは父親が可愛がる馬が\nきらいだった。
+\n
+Sergei did not care much for his\n
+father's beloved horse, certainly...
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nしかし馬屋に火を放ったりはしない。
- \n
-...but he did not set the barn on fire. 
+//\nしかし馬屋に火を放ったりはしない。
+\n
+...but he did not set the barn on fire.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nあれは君がセルゲイのせいにしようと \nやったことだ。
- \n
-You only WISH it was Sergei's fault \n
-because YOU did it! 
+//\nあれは君がセルゲイのせいにしようと\nやったことだ。
+\n
+You only WISH it was Sergei's fault\n
+because YOU did it!
 <$00>
 
 // Pos: 00002917
@@ -235,9 +235,9 @@ because YOU did it!
 //アーネスト：
 Ernest:
 <$0D>
-// \nあああ、やめてくれ！ \n俺じゃねぇ、俺じゃねぇ！
- \n
-No, stop! It wasn't me! IT WASN'T ME! 
+//\nあああ、やめてくれ！\n俺じゃねぇ、俺じゃねぇ！
+\n
+No, stop! It wasn't me! IT WASN'T ME!
 <$00>
 
 // Pos: 0000293B
@@ -249,10 +249,10 @@ No, stop! It wasn't me! IT WASN'T ME!
 //所ガリル：
 所Galil:
 <$0D>
-// \n君はセルゲイに濡れ衣を着せたんだ、 \nそうだろ、アーネスト。
- \n
-You framed Sergei, Ernest! You know \n
-you did! 
+//\n君はセルゲイに濡れ衣を着せたんだ、\nそうだろ、アーネスト。
+\n
+You framed Sergei, Ernest! You know\n
+you did!
 <$00>
 
 // Pos: 00002964
@@ -267,17 +267,17 @@ you did!
 //アーネスト：
 Ernest:
 <$0D>
-// \nちくしょう！ \nセルゲイは馬をきらってたんだ、
- \n
-Screw you! Sergei never liked that \n
-horse! 
+//\nちくしょう！\nセルゲイは馬をきらってたんだ、
+\n
+Screw you! Sergei never liked that\n
+horse!
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \n俺がやらなけりゃやつがやってたに \n建いねぇんだ！
- \n
-I could never stoop down to his level! 
+//\n俺がやらなけりゃやつがやってたに\n建いねぇんだ！
+\n
+I could never stoop down to his level!
 <$00>
 
 // Pos: 000029AB
@@ -289,10 +289,10 @@ I could never stoop down to his level!
 //子ガリル：
 子Galil:
 <$0D>
-// \nスペーサー、君だね、 \nセルゲイを強盗殺人の犯人に \n仕立て上げたのは。
- \n
-Ah, but Spacer could. Spacer could \n
-easily pin Sergei as a lowly criminal. 
+//\nスペーサー、君だね、\nセルゲイを強盗殺人の犯人に\n仕立て上げたのは。
+\n
+Ah, but Spacer could. Spacer could\n
+easily pin Sergei as a lowly criminal.
 <$00>
 
 // Pos: 000029DD
@@ -301,17 +301,17 @@ easily pin Sergei as a lowly criminal.
 
 #WHB(PTR, $00000949)
 
- 
+
 <$00><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n仕立て上げたんじゃない、 \nやつには殺意があったんだ。私には分かる。
- \n
-I didn't have to fabricate that. He had a \n
+//\n仕立て上げたんじゃない、\nやつには殺意があったんだ。私には分かる。
+\n
+I didn't have to fabricate that. He had a\n
 murderous impulse well before I
 <$0C>
-showed up! 
+showed up!
 <$00>
 
 // Pos: 00002A10
@@ -320,43 +320,43 @@ showed up!
 
 #WHB(PTR, $0000095D)
 
- 
+
 <$00><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nさあ、それはどうかな。
- \n
-Let's take a closer look at that, shall \n
-we? 
+//\nさあ、それはどうかな。
+\n
+Let's take a closer look at that, shall\n
+we?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n彼はたんに悪ふざけのつもりだった…
- \n
-You see, at the time of the fire, Sergei \n
+//\n彼はたんに悪ふざけのつもりだった…
+\n
+You see, at the time of the fire, Sergei\n
 already had a different scheme
 <$0C>
-underway. 
+underway.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n老人の家に忍び込んで手を下したのは \n彼の仲間だ、そうじゃないのかね。
- \n
-He was in the middle of breaking into an \n
+//\n老人の家に忍び込んで手を下したのは\n彼の仲間だ、そうじゃないのかね。
+\n
+He was in the middle of breaking into an\n
 old man's house. His friend kept watch
 <$0C>
-outide. 
+outide.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nセルゲイはあのとき表にいたんだ。 \n彼が殺したんじゃない。
- \n
-Sergei was nowhere near the fire. He \n
-did not kill that horse! 
+//\nセルゲイはあのとき表にいたんだ。\n彼が殺したんじゃない。
+\n
+Sergei was nowhere near the fire. He\n
+did not kill that horse!
 <$00>
 
 // Pos: 00002A98
@@ -365,23 +365,23 @@ did not kill that horse!
 
 #WHB(PTR, $00000971)
 
- 
+
 <$00><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nいや建う！ やつは殺意をもって…
- \n
-Y-you're wrong! Everyone knew the \n
-kid had murderous intent, so... 
+//\nいや建う！ やつは殺意をもって…
+\n
+Y-you're wrong! Everyone knew the\n
+kid had murderous intent, so...
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nあああ、そうに建いない！ \n私には確信があるんだ！
- \n
-Augh! I'm right! I know I am! I HAVE TO BE \n
-RIGHT! 
+//\nあああ、そうに建いない！\n私には確信があるんだ！
+\n
+Augh! I'm right! I know I am! I HAVE TO BE\n
+RIGHT!
 <$00>
 
 // Pos: 00002ADD
@@ -390,34 +390,34 @@ RIGHT!
 
 #WHB(PTR, $00000985)
 
- 
+
 <$00><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n犯行の後、君は現場に忍び込んだ、 \nそして血まみれの火かき棒を持ち去った。
- \n
-After the arson, you snuck back to \n
+//\n犯行の後、君は現場に忍び込んだ、\nそして血まみれの火かき棒を持ち去った。
+\n
+After the arson, you snuck back to\n
 retrieve a blood-stained fire hook
 <$0C>
-from the scene. 
+from the scene.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nなぜか火かき棒はセルゲイのシャツと \n一緒に捨てられていた。
- \n
-You took that fire iron, wrapped it in \n
+//\nなぜか火かき棒はセルゲイのシャツと\n一緒に捨てられていた。
+\n
+You took that fire iron, wrapped it in\n
 one of Sergei's shirts, and planted it
 <$0C>
-elsewhere. 
+elsewhere.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n君がセルゲイをはめたんだ。
- \n
-You FRAMED Sergei! 
+//\n君がセルゲイをはめたんだ。
+\n
+You FRAMED Sergei!
 <$00>
 
 // Pos: 00002B55
@@ -426,24 +426,24 @@ You FRAMED Sergei!
 
 #WHB(PTR, $000009A9)
 
- 
+
 <$00><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nあああ、やめろ！ セルゲイは悪人だ、 \nいずれ殺人を犯すに建いない！
- \n
-Stop! Stop! STOP! Sergei was an evil \n
+//\nあああ、やめろ！ セルゲイは悪人だ、\nいずれ殺人を犯すに建いない！
+\n
+Stop! Stop! STOP! Sergei was an evil\n
 person! He was BOUND to commit
 <$0C>
-murder someday! 
+murder someday!
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \n早いかおそいかの問顆だ。
- \n
-It was only a matter of "when"! 
+//\n早いかおそいかの問顆だ。
+\n
+It was only a matter of "when"!
 <$00>
 
 // Pos: 00002B9F
@@ -452,24 +452,24 @@ It was only a matter of "when"!
 
 #WHB(PTR, $00000B29)
 
- 
+
 <$00><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nヨランダ、 \nウラジミールはどうして病気になったのかな？
- \n
-Yolanda, how did Vladimir fall ill? 
+//\nヨランダ、\nウラジミールはどうして病気になったのかな？
+\n
+Yolanda, how did Vladimir fall ill?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n何か体に良くないものを \n口にしていたんではないかな？
- \n
-Tsk, tsk. He must have ingested \n
+//\n何か体に良くないものを\n口にしていたんではないかな？
+\n
+Tsk, tsk. He must have ingested\n
 something that wasn't very good for
 <$0C>
-him. 
+him.
 <$00>
 
 // Pos: 00002BE9
@@ -478,23 +478,23 @@ him.
 
 #WHB(PTR, $00000B3D)
 
- 
+
 <$00><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシが何かしたっていうの？ 知らないわよ、 \nそんなはずないじゃない。
- \n
-Why are you asking me? Hell if I know, I \n
-had nothing to do with him. 
+//\nアタシが何かしたっていうの？ 知らないわよ、\nそんなはずないじゃない。
+\n
+Why are you asking me? Hell if I know, I\n
+had nothing to do with him.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nお酒よ、お酒が彼を蝕んだのよ。
- \n
-I only knew about the shit alcohol that \n
-rotted his brain. 
+//\nお酒よ、お酒が彼を蝕んだのよ。
+\n
+I only knew about the shit alcohol that\n
+rotted his brain.
 <$00>
 
 // Pos: 00002C35
@@ -506,22 +506,22 @@ rotted his brain.
 //子ガリル：
 子Galil:
 <$0D>
-// \nウラジミールは酒好きだ。 \nそれをいいことに、 \nやつに質の悪い酒を飲ませたのは君だ。
- \n
-Yes, Vladimir did love his liquor. Still, \n
+//\nウラジミールは酒好きだ。\nそれをいいことに、\nやつに質の悪い酒を飲ませたのは君だ。
+\n
+Yes, Vladimir did love his liquor. Still,\n
 you're the one who served him tainted
 <$0C>
-liquor. 
+liquor.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nエ場から盗み出した \nひどいシロモノを飲ませたんだ。 \nウラジミールは見る間に調子を崩していった。
- \n
-You took bad alchohol from the \n
+//\nエ場から盗み出した\nひどいシロモノを飲ませたんだ。\nウラジミールは見る間に調子を崩していった。
+\n
+You took bad alchohol from the\n
 factory and served it to him at
 <$0C>
-breakfast to wane his temper. 
+breakfast to wane his temper.
 <$00>
 
 // Pos: 00002CAC
@@ -530,23 +530,23 @@ breakfast to wane his temper.
 
 #WHB(PTR, $00000B65)
 
- 
+
 <$00><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n人開きの悪いこと言わないでよ、
- \n
-That guy didn't have a decent shred to \n
-his name. 
+//\n人開きの悪いこと言わないでよ、
+\n
+That guy didn't have a decent shred to\n
+his name.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \nアタシはそんな… ああ、そんな、 \nあたしはただ…
- \n
-I was doing everyone a...augh! A \n
-fa...vor! 
+//\nアタシはそんな… ああ、そんな、\nあたしはただ…
+\n
+I was doing everyone a...augh! A\n
+fa...vor!
 <$00>
 
 // Pos: 00002CE9
@@ -555,31 +555,31 @@ fa...vor!
 
 #WHB(PTR, $00000B79)
 
- 
+
 <$00><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nタニアがあわれだった、 \n建うかね。
- \n
-No favors to Tanya, though. 
+//\nタニアがあわれだった、\n建うかね。
+\n
+No favors to Tanya, though.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \n君はタニアのそばにいながら、彼女が \n生きているときには一度も現れなかった。
- \n
-If you really wanted to help Tanya, \n
+//\n君はタニアのそばにいながら、彼女が\n生きているときには一度も現れなかった。
+\n
+If you really wanted to help Tanya,\n
 why was it you never showed your
 <$0C>
-face when she was alive? 
+face when she was alive?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
-// \nどうしてかな？
- \n
-Was there a reason? 
+//\nどうしてかな？
+\n
+Was there a reason?
 <$00>
 
 // Pos: 00002D46
@@ -588,14 +588,14 @@ Was there a reason?
 
 #WHB(PTR, $00000B9D)
 
- 
+
 <$00><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
-// \n本当はウラジミールが先に死ぬはずだった。 \nそうよ、なのに… あああ、アタシの計画が…
- \n
-The plan was for...Vladimir to die first! \n
-B-but then, Tanya went and...AUGH! 
+//\n本当はウラジミールが先に死ぬはずだった。\nそうよ、なのに… あああ、アタシの計画が…
+\n
+The plan was for...Vladimir to die first!\n
+B-but then, Tanya went and...AUGH!
 <$00>
 

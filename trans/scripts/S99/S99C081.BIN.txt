@@ -11,15 +11,15 @@
 
 #WHB(PTR, $0000034D)
 
-//興うか、この１月のできごとが先にあったんだ。 \nそれからさっきの３月になって、 \n１１月でケリがついたんだ。
-興All begins in the this first month. \n
-Then passed the third month, and \n
-finally, the eleventh month. 
+//興うか、この１月のできごとが先にあったんだ。\nそれからさっきの３月になって、\n１１月でケリがついたんだ。
+興All begins in the this first month. Then\n
+passed the third month, and finally,\n
+the eleventh month.
 <$0C>
-//なんでこの１月が後回しになったのかなぁ？ \nねぇ、あんたが思い出したくなかったの？
-Which begs the question, why did \n
-January come later? Are you \n
-forgetting something? 
+//なんでこの１月が後回しになったのかなぁ？\nねぇ、あんたが思い出したくなかったの？
+Which begs the question, why did\n
+January come later? Are you\n
+forgetting something?
 <$00>
 
 // Pos: 00000EC1
@@ -29,15 +29,15 @@ forgetting something?
 #WHB(PTR, $0000016D)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //   
    
 <$0D>
 //フェブラリーを手に入れた。
-February acquired. 
+February acquired.
 <$00>
 
 // Pos: 00000ED8
@@ -47,15 +47,15 @@ February acquired.
 #WHB(PTR, $000002AD)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //    
     
 <$0D>
 //マーチを手に入れた。
-March acquired. 
+March acquired.
 <$00>
 
 // Pos: 00000EED
@@ -65,15 +65,15 @@ March acquired.
 #WHB(PTR, $0000038D)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //     
      
 <$0D>
 //メイを手に入れた。
-May acquired. 
+May acquired.
 <$00>
 
 // Pos: 00000F02
@@ -83,15 +83,15 @@ May acquired.
 #WHB(PTR, $0000020D)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //    
     
 <$0D>
 //ジュンを手に入れた。
-June acquired. 
+June acquired.
 <$00>
 
 // Pos: 00000F17
@@ -101,15 +101,15 @@ June acquired.
 #WHB(PTR, $000003E1)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //    
     
 <$0D>
 //ジュライを手に入れた。
-July acquired. 
+July acquired.
 <$00>
 
 // Pos: 00000F2D
@@ -119,15 +119,15 @@ July acquired.
 #WHB(PTR, $000001BD)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //   
    
 <$0D>
 //オーガストを手に入れた。
-August acquired. 
+August acquired.
 <$00>
 
 // Pos: 00000F43
@@ -137,15 +137,15 @@ August acquired.
 #WHB(PTR, $0000025D)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //   
    
 <$0D>
 //セプテンバーを手に入れた。
-September acquired. 
+September acquired.
 <$00>
 
 // Pos: 00000F5A
@@ -155,15 +155,15 @@ September acquired.
 #WHB(PTR, $000002FD)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //   
    
 <$0D>
 //ノベンバーを手に入れた。
-November acquired. 
+November acquired.
 <$00>
 
 // Pos: 00000F70
@@ -173,19 +173,19 @@ November acquired.
 #WHB(PTR, $0000011D)
 
 <$12>
-// \n
- \n
+//\n
+\n
 
 <$0B>
 //   
    
 <$0D>
 //ディセンバーを手に入れた。
-December acquired. 
+December acquired.
 <$00>
-//快からないな、 \nあんたがどんな夢を見てるのか。
-What a curious dream you must be \n
-having. 
+//快からないな、\nあんたがどんな夢を見てるのか。
+What a curious dream you must be\n
+having.
 <$00>
 
 // Pos: 00000FA1
@@ -194,21 +194,21 @@ having.
 
 #WHB(PTR, $0000012D)
 
-//広客さんだね、そこにいるの。 \nわかるんだ、 \nここは僕の夢とつながってるからね。
-I know you're there, young one. This is \n
-where our dreams connect. 
+//広客さんだね、そこにいるの。\nわかるんだ、\nここは僕の夢とつながってるからね。
+I know you're there, young one. This is\n
+where our dreams connect.
 <$0C>
 //それで何を見つけたの？
-So, what have you found? 
+So, what have you found?
 <$0C>
-//１２月って… \nそうか、いろんなことが始まったときだね。
-The twelfth month... \n
-I see. A month when many gears began \n
-to turn. 
+//１２月って…\nそうか、いろんなことが始まったときだね。
+The twelfth month...\n
+I see. A month when many gears began\n
+to turn.
 <$0C>
-//何があったの？ \nアガタに読んでもらうといいよ。
-What happened, I wonder? \n
-Let Agatha have a read. 
+//何があったの？\nアガタに読んでもらうといいよ。
+What happened, I wonder?\n
+Let Agatha have a read.
 <$00>
 
 // Pos: 00001010
@@ -217,12 +217,10 @@ Let Agatha have a read.
 
 #WHB(PTR, $0000017D)
 
-//振月は寒い、遊ぶには向いてないね。 \nもっとも、あんたにしちゃ、 \n遊ぶどころじゃなかったみたいだけど。
-振The second month is too cold for \n
-play. \n
-Of course, your home was always
-<$0C>
-too "cold" for playtime. 
+//振月は寒い、遊ぶには向いてないね。\nもっとも、あんたにしちゃ、\n遊ぶどころじゃなかったみたいだけど。
+振The second month is too cold for play.\n
+Of course, your home was always\n
+too "cold" for playtime.
 <$00>
 
 // Pos: 00001049
@@ -231,12 +229,12 @@ too "cold" for playtime.
 
 #WHB(PTR, $000001CD)
 
-//立う８月かぁ… 寝付けない夜だね。 \nなんだか騒ぎが起きてるみたいだけど、 \nだいじょうぶなの？
-立うAugust's long nights welcome \n
-sleep, but \n
+//立う８月かぁ… 寝付けない夜だね。\nなんだか騒ぎが起きてるみたいだけど、\nだいじょうぶなの？
+立うAugust's long nights welcome\n
+sleep, but\n
 a commotion keeps you up one night.
 <$0C>
-Is everything all right? 
+Is everything all right?
 <$00>
 
 // Pos: 0000107F
@@ -245,13 +243,13 @@ Is everything all right?
 
 #WHB(PTR, $0000021D)
 
-//捨れから１年近くたったね。 \nやけに静かな夜… ６月だよ。
-捨Almost a year has passed. \n
-It's a very quiet night in June. 
+//捨れから１年近くたったね。\nやけに静かな夜… ６月だよ。
+捨Almost a year has passed.\n
+It's a very quiet night in June.
 <$0C>
-//でもこれからのことを考えると、 \n嵐の前の静けさだね、きっと。
-However, knowing what's to come, \n
-this is the calm before the storm. 
+//でもこれからのことを考えると、\n嵐の前の静けさだね、きっと。
+However, knowing what's to come,\n
+this is the calm before the storm.
 <$00>
 
 // Pos: 000010C4
@@ -260,10 +258,10 @@ this is the calm before the storm.
 
 #WHB(PTR, $0000026D)
 
-//場９いよ… なんだかとても。 \n９月、何かが計画されているみたいだよ。 \nあんた、平気なの？
-場The ninth month. Nine. Something \n
-was to be delivered after nine months. \n
-Was it peace? 
+//場９いよ… なんだかとても。\n９月、何かが計画されているみたいだよ。\nあんた、平気なの？
+場The ninth month. Nine. Something\n
+was to be delivered after nine months.\n
+Was it peace?
 <$00>
 
 // Pos: 000010F6
@@ -272,9 +270,9 @@ Was it peace?
 
 #WHB(PTR, $000002BD)
 
-//状月！ あああ、イヤな惑じだよ。 \nフキツな惑じだよ。
-状What an ominous mess of a month \n
-this is! 
+//状月！ あああ、イヤな惑じだよ。\nフキツな惑じだよ。
+状What an ominous mess of a month\n
+this is!
 <$00>
 
 // Pos: 00001115
@@ -283,20 +281,20 @@ this is!
 
 #WHB(PTR, $0000030D)
 
-//捨れ？ １１月だ… \nそうか、これが最後なんだ。 \nいろんなことが終りかけているよ。
-捨Oh? the eleventh month... I see, this \n
-is the last. Many gears stop turning \n
-here. 
+//捨れ？ １１月だ…\nそうか、これが最後なんだ。\nいろんなことが終りかけているよ。
+捨Oh? the eleventh month... I see, this\n
+is the last. Many gears stop turning\n
+here.
 <$0C>
-//でも、あんたがここで見つけなきゃ \nいけないもの、まだ残ってるんだけどなぁ…
-But you must still search through \n
-them. There are still things you must \n
-find. 
+//でも、あんたがここで見つけなきゃ\nいけないもの、まだ残ってるんだけどなぁ…
+But you must still search through\n
+them. There are still things you must\n
+find.
 <$00>
-//親月！ じゅんばんが逆になってたんだね… \nうん！ すごくイヤな惑じだよ。
-Interestingly, I think this month was \n
-switched the other way around. It's \n
-worth a look. 
+//親月！ じゅんばんが逆になってたんだね…\nうん！ すごくイヤな惑じだよ。
+Interestingly, I think this month was\n
+switched the other way around. It's\n
+worth a look.
 <$00>
 
 // Pos: 00001193
@@ -305,9 +303,9 @@ worth a look.
 
 #WHB(PTR, $0000039D)
 
-//詳月か… たくらみのにおいがするよ、 \nほんとだよ。
-詳This is a busy month. A good month \n
-for planning ahead. 
+//詳月か… たくらみのにおいがするよ、\nほんとだよ。
+詳This is a busy month. A good month for\n
+planning ahead.
 <$00>
 
 // Pos: 000011AF
@@ -316,9 +314,9 @@ for planning ahead.
 
 #WHB(PTR, $000003F1)
 
-//諸月！ 静かだよ、とっても。 \nそれでいてやっぱりイヤな惑じだ。 \nねぇ、これが最後だよ、もうないよ。
-諸This is a quiet month. Still \n
-unpleasant, but... Oh! There's nothing \n
-after this. 
+//諸月！ 静かだよ、とっても。\nそれでいてやっぱりイヤな惑じだ。\nねぇ、これが最後だよ、もうないよ。
+諸This is a quiet month. Still\n
+unpleasant, but... Oh! There's nothing\n
+after this.
 <$00>
 

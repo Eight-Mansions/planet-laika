@@ -15,15 +15,15 @@
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんよう、 \nレッドのやつに追われてるんだって？
- \n
-I think Red's after you, comrade. 
+//\n兄ちゃんよう、\nレッドのやつに追われてるんだって？
+\n
+I think Red's after you, comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nひゃー、そりゃ大変だ。
-nYeesh, talk about bad. 
+//\nひゃー、そりゃ大変だ。
+nYeesh, talk about bad.
 <$00>
 
 // Pos: 000019CB
@@ -36,10 +36,10 @@ nYeesh, talk about bad.
 //トミー：
 Tommy:
 <$0D>
-// \nやつはスモーキーとは建う、 \nいきなり殴ったりはしねぇよ。
- \n
-Red's not like Smokey, you \n
-understand. That guy isn't so quick. 
+//\nやつはスモーキーとは建う、\nいきなり殴ったりはしねぇよ。
+\n
+Red's not like Smokey, you\n
+understand. That guy isn't so quick.
 <$00>
 
 // Pos: 000019F1
@@ -52,41 +52,41 @@ understand. That guy isn't so quick.
 //トミー：
 Tommy:
 <$0D>
-// \n女はどうだか分からねぇけどな、 \n男は殴らねぇ。
- \n
-I'm not sure how he is around women \n
+//\n女はどうだか分からねぇけどな、\n男は殴らねぇ。
+\n
+I'm not sure how he is around women\n
 normally, but guys try not to mess with
 <$0C>
-him. 
+him.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nそれよりやっかいなのは、兄ちゃんよう、 \nやつに気に入られることだ。
- \n
-Still, it looks like he's taken a particular \n
-liking to you, comrade. 
+//\nそれよりやっかいなのは、兄ちゃんよう、\nやつに気に入られることだ。
+\n
+Still, it looks like he's taken a particular\n
+liking to you, comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんみたいなの、 \n好みのタイプだったりしてな、ひゃひゃひゃ。
- \n
-Strapping young'ns like you are his \n
-favorite type, hehe. 
+//\n兄ちゃんみたいなの、\n好みのタイプだったりしてな、ひゃひゃひゃ。
+\n
+Strapping young'ns like you are his\n
+favorite type, hehe.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんよう、このへんはヤバイぜ、 \nさっきレッドのやつを見かけたぜ。
- \n
-I'm serious! This is dangerous. I saw \n
+//\n兄ちゃんよう、このへんはヤバイぜ、\nさっきレッドのやつを見かけたぜ。
+\n
+I'm serious! This is dangerous. I saw\n
 Red earlier and he's on the prowl for
 <$0C>
 YOU!
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00001A96
@@ -99,15 +99,15 @@ YOU!
 //トミー：
 Tommy:
 <$0D>
-// \n兄ちゃんよう、このへんでレッドのやつ見たぜ。 \n見つかんないようにしねぇとな、 \n気に入られちまうぜ。
- \n
-This is dangerous. I saw Red earlier \n
+//\n兄ちゃんよう、このへんでレッドのやつ見たぜ。\n見つかんないようにしねぇとな、\n気に入られちまうぜ。
+\n
+This is dangerous. I saw Red earlier\n
 and he's on the prowl for YOU! You'd
 <$0C>
 better steer clear!
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00001AD5
@@ -120,26 +120,26 @@ better steer clear!
 //トミー：
 Tommy:
 <$0D>
-// \nよう、ブーマーのやつ見たかい？ \nへへ！ またコーカイが始まったぜ。
- \n
-Have you seen Boomer? Hehe, he \n
+//\nよう、ブーマーのやつ見たかい？\nへへ！ またコーカイが始まったぜ。
+\n
+Have you seen Boomer? Hehe, he\n
 started another one of his little
 <$0C>
-soliloqueys. 
+soliloqueys.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nあいつはコーカイして生きてんだ、 \nどんなコーカイか、開きてぇか？
- \n
-That guy lives for making a production \n
+//\nあいつはコーカイして生きてんだ、\nどんなコーカイか、開きてぇか？
+\n
+That guy lives for making a production\n
 out of everything. Wanna hear an
 <$0C>
 example?
 <$1B>
-//、開きたい \n開きたくない
-、Yes \n
-No 
+//、開きたい\n開きたくない
+、Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00001B3B
@@ -152,88 +152,88 @@ No
 //トミー：
 Tommy:
 <$0D>
-// \nあいつにはじいさんがいた。
- \n
-The guy had a grandpa. 
+//\nあいつにはじいさんがいた。
+\n
+The guy had a grandpa.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nそのじいさんってのが、ビックリだ、 \n６９年間もしゃっくりが止まらねぇじいさんだ。 \n６９年だぜ。
- \n
-The grandpa got spooked by \n
+//\nそのじいさんってのが、ビックリだ、\n６９年間もしゃっくりが止まらねぇじいさんだ。\n６９年だぜ。
+\n
+The grandpa got spooked by\n
 something, and he hiccuped non-stop
 <$0C>
-for 69 years. 
+for 69 years.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nある日、ブーマーのやつはひらめいたんだ。 \nそれでカンオケこしらえた。
- \n
-One day, Boomer got an idea, and he \n
-made a coffin. 
+//\nある日、ブーマーのやつはひらめいたんだ。\nそれでカンオケこしらえた。
+\n
+One day, Boomer got an idea, and he\n
+made a coffin.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nじいさんがしゃっくりにアンディって \n名前まで付けてたもんだから、
- \n
-The grandpa then decided to call the \n
+//\nじいさんがしゃっくりにアンディって\n名前まで付けてたもんだから、
+\n
+The grandpa then decided to call the\n
 hiccups "Andy", and they pretended
 <$0C>
-that Andy died. 
+that Andy died.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nアンディが死んだことにすりゃ \nしゃっくりは収まる、 \nそう考えたんだな。
- \n
-The logic was, "If Andy dies, the \n
-hiccups die with him!" 
+//\nアンディが死んだことにすりゃ\nしゃっくりは収まる、\nそう考えたんだな。
+\n
+The logic was, "If Andy dies, the\n
+hiccups die with him!"
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nじいさんが寝てる間にカンオケに入れて、まるで \n本当に死んだみたいに花まで用意したんだ。
- \n
-Boomer put his grandpa into the \n
+//\nじいさんが寝てる間にカンオケに入れて、まるで\n本当に死んだみたいに花まで用意したんだ。
+\n
+Boomer put his grandpa into the\n
 casket, and even arranged flowers
 <$0C>
-for him. The whole shpeal. 
+for him. The whole shpeal.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n朝になって、じいさんはたまげた。 \n確かにしゃっくりは収まったそうだ。
- \n
-That next morning, his grandpa was \n
+//\n朝になって、じいさんはたまげた。\n確かにしゃっくりは収まったそうだ。
+\n
+That next morning, his grandpa was\n
 elated, shouting, "The hiccups have
 <$0C>
-stopped!" 
+stopped!"
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nけどよ、じいさんはみるみる弱ってしまい、 \n２日後にぽっくりだ。
- \n
-But then, the old man suddenly grew \n
+//\nけどよ、じいさんはみるみる弱ってしまい、\n２日後にぽっくりだ。
+\n
+But then, the old man suddenly grew\n
 weaker, and weaker. He died two days
 <$0C>
-later. 
+later.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nブーマーは、じいさんは自分のせいで \n死んだと思ってる… まぁ建いねぇな。
- \n
-Boomer thinks the old man died \n
+//\nブーマーは、じいさんは自分のせいで\n死んだと思ってる… まぁ建いねぇな。
+\n
+Boomer thinks the old man died\n
 because of him, a-yup. And he might
 <$0C>
 just be right.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00001CD5
@@ -246,20 +246,20 @@ just be right.
 //トミー：
 Tommy:
 <$0D>
-// \nそうかい…
- \n
-Really? Okay... 
+//\nそうかい…
+\n
+Really? Okay...
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nへへ、コーカイは先にはなんとかだ、 \n兄ちゃんも気を付けな。
- \n
-Hehe, gotta be careful around people \n
+//\nへへ、コーカイは先にはなんとかだ、\n兄ちゃんも気を付けな。
+\n
+Hehe, gotta be careful around people\n
 who put themselves out like that.
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 00001D0E
@@ -272,20 +272,20 @@ who put themselves out like that.
 //トミー：
 Tommy:
 <$0D>
-// \nブーマーはコーカイの男だ。
- \n
-Boomer's an attention whore. 
+//\nブーマーはコーカイの男だ。
+\n
+Boomer's an attention whore.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nしゃっくりじいさんのこと、 \nずっとコーカイしてるんだ。
- \n
-He's always talking about his \n
+//\nしゃっくりじいさんのこと、\nずっとコーカイしてるんだ。
+\n
+He's always talking about his\n
 hiccupping grandpa.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00001D4B
@@ -298,10 +298,10 @@ hiccupping grandpa.
 //レッド：
 Red:
 <$0D>
-// \n臭うぜ、可愛い子犬ちゃんの臭いだ。
- \n
-You smell so good. That's a good scent \n
-for my darling puppy. 
+//\n臭うぜ、可愛い子犬ちゃんの臭いだ。
+\n
+You smell so good. That's a good scent\n
+for my darling puppy.
 <$0E><$1E><$17><$00>
 
 // Pos: 00001D6E
@@ -314,15 +314,15 @@ for my darling puppy.
 //トミー：
 Tommy:
 <$0D>
-// \nへへへ、ブーマーのやつ、 \nとうとういかれちまった。 \n頭ん中で、バケモノが鋭動会してるんだ。
- \n
-Hehe, that Boomer guy finally lost it. \n
+//\nへへへ、ブーマーのやつ、\nとうとういかれちまった。\n頭ん中で、バケモノが鋭動会してるんだ。
+\n
+Hehe, that Boomer guy finally lost it.\n
 The monsters in his mind are having a
 <$0C>
 ball.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00001DAC
@@ -335,10 +335,10 @@ ball.
 //スペーサー：
 Spacer:
 <$0D>
-// \nまただ… 強い思念だ。 \n頭の中にひびいてくる。
- \n
-That strong feeling I had... It's back. \n
-Makes my head want to split...! 
+//\nまただ… 強い思念だ。\n頭の中にひびいてくる。
+\n
+That strong feeling I had... It's back.\n
+Makes my head want to split...!
 <$00>
 
 // Pos: 00001DD5
@@ -347,39 +347,39 @@ Makes my head want to split...!
 
 #WHB(PTR, $00000CBD)
 
- 
+
 <$00>
 //      第１７日 タムズの月
-    The Seventeenth of Tammuz 
+    The Seventeenth of Tammuz
 <$0C>
-//さて、このヨセミテ、死線をさまようこと３日。 \n英気の岩から抜け出せなくなるアクシデント！
-For three days and three nights, I, \n
-Yosemite, was trapped within the \n
-rock of wisdom after an incident. 
+//さて、このヨセミテ、死線をさまようこと３日。\n英気の岩から抜け出せなくなるアクシデント！
+For three days and three nights, I,\n
+Yosemite, was trapped within the\n
+rock of wisdom after an incident.
 <$0C>
-//岩にうずもれ、せまり来る死に向き合ったのだ。 \n死の扉を開いた時に、ウワサのエレミヤが \n私に憑いた。
-Stuck in that rock, I faced Death's door. \n
-That is when the infamous Jeremiah \n
-haunted me. 
+//岩にうずもれ、せまり来る死に向き合ったのだ。\n死の扉を開いた時に、ウワサのエレミヤが\n私に憑いた。
+Stuck in that rock, I faced Death's door.\n
+That is when the infamous Jeremiah\n
+haunted me.
 <$0C>
-//私はエレミヤそのものとなり、 \nいくつかの言葉を得た。
-In the time I was possessed by \n
-Jeremiah, I remember he spoke a few \n
-words into me. 
+//私はエレミヤそのものとなり、\nいくつかの言葉を得た。
+In the time I was possessed by\n
+Jeremiah, I remember he spoke a few\n
+words into me.
 <$0C>
-//しかしその直後に、私は岩から解放された。 \n生気を取り戻した私は、 \nエレミヤの言葉を忘れた。
-Shortly after the haunting, I was \n
-freed from the rock. When I sprang \n
-back to life, I forgot his words. 
+//しかしその直後に、私は岩から解放された。\n生気を取り戻した私は、\nエレミヤの言葉を忘れた。
+Shortly after the haunting, I was\n
+freed from the rock. When I sprang\n
+back to life, I forgot his words.
 <$0C>
-//エレミヤとは実在しない、 \nいわば死のシンボルなのだ。
-Jeremiah is not real. He is, so to speak, \n
-a symbol of death. 
+//エレミヤとは実在しない、\nいわば死のシンボルなのだ。
+Jeremiah is not real. He is, so to speak,\n
+a symbol of death.
 <$0C>
-//それを私は身をもって知った。 \n深く記憶にきざもう。
-I witnessed this with my own soul, so I \n
-know it is true. I will remember this \n
-experience deeply. 
+//それを私は身をもって知った。\n深く記憶にきざもう。
+I witnessed this with my own soul, so I\n
+know it is true. I will remember this\n
+experience deeply.
 <$00>
 
 // Pos: 00001EEC
@@ -392,9 +392,9 @@ experience deeply.
 //スペーサー：
 Spacer:
 <$0D>
-// \nこのこよみは… ヘブライのこよみなのか。
- \n
-Tammuz, Tammuz... Is this from a \n
-Hewbrew calander? 
+//\nこのこよみは… ヘブライのこよみなのか。
+\n
+Tammuz, Tammuz... Is this from a\n
+Hewbrew calander?
 <$00>
 

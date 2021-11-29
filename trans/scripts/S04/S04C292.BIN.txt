@@ -19,9 +19,9 @@
 //イースト：
 East:
 <$0D>
-// \nさあ、リトルさんは中だ。
- \n
-See Little inside? 
+//\nさあ、リトルさんは中だ。
+\n
+See Little inside?
 <$00>
 
 // Pos: 00000D03
@@ -38,12 +38,12 @@ See Little inside?
 //ウェスト：
 West:
 <$0D>
-// \n俺たちはここで見張ってる。
- \n
+//\n俺たちはここで見張ってる。
+\n
 We will wait outside!
 <$1E>
 //中
-中 
+中
 <$00>
 
 // Pos: 00000D1E
@@ -56,9 +56,9 @@ We will wait outside!
 //イースト：
 East:
 <$0D>
-// \nお前たち、明日帰る。
- \n
-You're leaving tomorrow? 
+//\nお前たち、明日帰る。
+\n
+You're leaving tomorrow?
 <$00>
 
 // Pos: 00000D35
@@ -71,9 +71,9 @@ You're leaving tomorrow?
 //ウェスト：
 West:
 <$0D>
-// \nいいこと。今夜、寝る。
- \n
-You're sleeping tonight! 
+//\nいいこと。今夜、寝る。
+\n
+You're sleeping tonight!
 <$00>
 
 // Pos: 00000D4D
@@ -86,9 +86,9 @@ You're sleeping tonight!
 //イースト：
 East:
 <$0D>
-// \n俺たち、寝ずの番。
- \n
-Shall we watch through the night? 
+//\n俺たち、寝ずの番。
+\n
+Shall we watch through the night?
 <$00>
 
 // Pos: 00000D62
@@ -101,11 +101,11 @@ Shall we watch through the night?
 //ウェスト：
 West:
 <$0D>
-// \n見張る。
- \n
+//\n見張る。
+\n
 We're the nightwatch!
 <$1E>
 //中
-中 
+中
 <$00>
 

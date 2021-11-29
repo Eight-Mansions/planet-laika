@@ -15,20 +15,20 @@
 //エイプリル：
 April:
 <$0D>
-// \nああよかった、はぐれちゃったかと思った。 \nコロニーはこの先よ。 \nイーブルマインドは現れていないみたいね。
- \n
-Ah, good! I thought I'd lost you. The \n
+//\nああよかった、はぐれちゃったかと思った。\nコロニーはこの先よ。\nイーブルマインドは現れていないみたいね。
+\n
+Ah, good! I thought I'd lost you. The\n
 colony is straight ahead, and I don't
 <$0C>
-see any Evil Mind. 
+see any Evil Mind.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n砂嵐の気配もない… \nねえ、小屋に戻りましょうよ。
- \n
-No sign of sandstorms either. Let's \n
-head back, shall we? 
+//\n砂嵐の気配もない…\nねえ、小屋に戻りましょうよ。
+\n
+No sign of sandstorms either. Let's\n
+head back, shall we?
 <$00>
 
 // Pos: 00001E3F
@@ -41,20 +41,20 @@ head back, shall we?
 //エイプリル：
 April:
 <$0D>
-// \n船長は何がなんでも今日中にコロニーに \n着くつもりよ。
- \n
-The captain has his heart set on \n
-reaching the colony today. 
+//\n船長は何がなんでも今日中にコロニーに\n着くつもりよ。
+\n
+The captain has his heart set on\n
+reaching the colony today.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nだったら日が暮れないうちに出発しなきゃ。 \nそれに…なんだか気分がすぐれないの。
- \n
-I'm not so keen on the idea, but if we're \n
+//\nだったら日が暮れないうちに出発しなきゃ。\nそれに…なんだか気分がすぐれないの。
+\n
+I'm not so keen on the idea, but if we're\n
 going to do it, we'd better regroup
 <$0C>
-now. 
+now.
 <$00>
 
 // Pos: 00001E9F
@@ -67,16 +67,16 @@ now.
 //フェニックス：
 Phoenix:
 <$0D>
-// \nシークレットパワー… \nフェイスを消滅させることもできるのか。
- \n
-The secret power... Can it be used to \n
-eliminate the Phase? 
+//\nシークレットパワー…\nフェイスを消滅させることもできるのか。
+\n
+The secret power... Can it be used to\n
+eliminate the Phase?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
-// \nこれが僕の力…
- \n
-Is THAT my power is for? 
+//\nこれが僕の力…
+\n
+Is THAT my power is for?
 <$00>
 

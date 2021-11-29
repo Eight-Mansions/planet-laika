@@ -15,12 +15,12 @@
 //フェイ：
 Feng:
 <$0D>
-// \n私に何かできるかしら。 \n今は何もしたくないわ。 眠いだけよ。
- \n
-I wonder what I could do. For now, I \n
+//\n私に何かできるかしら。\n今は何もしたくないわ。 眠いだけよ。
+\n
+I wonder what I could do. For now, I\n
 don't want to do anything. I'm simply
 <$0C>
-too tired! 
+too tired!
 <$00>
 
 // Pos: 000035A3
@@ -33,10 +33,10 @@ too tired!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたは何だってできるのよ。 \n何だってよ。
- \n
-Whatever do you mean? Did something \n
-happen to you? 
+//\nあなたは何だってできるのよ。\n何だってよ。
+\n
+Whatever do you mean? Did something\n
+happen to you?
 <$00>
 
 // Pos: 000035C5
@@ -49,10 +49,10 @@ happen to you?
 //フェイ：
 Feng:
 <$0D>
-// \nそう… 私に？ どんなこと？ \n私なんかに構ってないで、 \nヘロデのところに戻りなさいよ。
- \n
-To me? What does it matter? Don't \n
-worry about me. Go back to your Herod. 
+//\nそう… 私に？ どんなこと？\n私なんかに構ってないで、\nヘロデのところに戻りなさいよ。
+\n
+To me? What does it matter? Don't\n
+worry about me. Go back to your Herod.
 <$00>
 
 // Pos: 000035FD
@@ -65,10 +65,10 @@ worry about me. Go back to your Herod.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n時間はとらせないわ。 本当よ… \nあなたの時間はなくならないの。
- \n
-This will take no time at all. For either of \n
-us. 
+//\n時間はとらせないわ。 本当よ…\nあなたの時間はなくならないの。
+\n
+This will take no time at all. For either of\n
+us.
 <$00>
 
 // Pos: 0000362F
@@ -81,9 +81,9 @@ us.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nフェイ、私の声が開こえる？
- \n
-Feng, do you hear my voice? 
+//\nフェイ、私の声が開こえる？
+\n
+Feng, do you hear my voice?
 <$00>
 
 // Pos: 0000364B
@@ -96,9 +96,9 @@ Feng, do you hear my voice?
 //フェイ：
 Feng:
 <$0D>
-// \n開こえてるわ、もちろんよ。
- \n
-Of course I can! 
+//\n開こえてるわ、もちろんよ。
+\n
+Of course I can!
 <$00>
 
 // Pos: 00003664
@@ -111,10 +111,10 @@ Of course I can!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n私の目を見て。 \n呼吸を合わせましょう。
- \n
-Look into my eyes. \n
-Breathe in time with me. 
+//\n私の目を見て。\n呼吸を合わせましょう。
+\n
+Look into my eyes.\n
+Breathe in time with me.
 <$00>
 
 // Pos: 00003688
@@ -127,9 +127,9 @@ Breathe in time with me.
 //フェイ：
 Feng:
 <$0D>
-// \n目を見てるわ…
- \n
-I am looking into your eyes... 
+//\n目を見てるわ…
+\n
+I am looking into your eyes...
 <$00>
 
 // Pos: 0000369B
@@ -142,12 +142,12 @@ I am looking into your eyes...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたは浮かんでいるのよ、フェイ。 \n宇宙の無重力の中で、 \n誰にも邪魔されずに浮かんでいる…
- \n
-You are floating, Feng, weightlessly \n
+//\nあなたは浮かんでいるのよ、フェイ。\n宇宙の無重力の中で、\n誰にも邪魔されずに浮かんでいる…
+\n
+You are floating, Feng, weightlessly\n
 through space, where no one can
 <$0C>
-disturb you. 
+disturb you.
 <$00>
 
 // Pos: 000036E0
@@ -160,10 +160,10 @@ disturb you.
 //フェイ：
 Feng:
 <$0D>
-// \n浮かんでいる… \n無重力…
- \n
-I am floating... \n
-I am weightless... 
+//\n浮かんでいる…\n無重力…
+\n
+I am floating...\n
+I am weightless...
 <$00>
 
 // Pos: 000036FB
@@ -176,10 +176,10 @@ I am weightless...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n鏡よ、鏡が見えるわ。 鏡は入口よ。 \nあなたは鏡に近づいていくの。
- \n
-A mirror. You see a mirror. Is it an \n
-entrance? You approach the mirror. 
+//\n鏡よ、鏡が見えるわ。 鏡は入口よ。\nあなたは鏡に近づいていくの。
+\n
+A mirror. You see a mirror. Is it an\n
+entrance? You approach the mirror.
 <$00>
 
 // Pos: 0000372F
@@ -192,9 +192,9 @@ entrance? You approach the mirror.
 //フェイ：
 Feng:
 <$0D>
-// \n入口…
- \n
-I approach the entrance... 
+//\n入口…
+\n
+I approach the entrance...
 <$00>
 
 // Pos: 0000373F
@@ -207,20 +207,20 @@ I approach the entrance...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nそうよ、入口よ。 鏡はもう目の前。 \nあなたはその中に入っていく。
- \n
-Yes, you're at the entrance. The mirror \n
-before you welcomes you inside. 
+//\nそうよ、入口よ。 鏡はもう目の前。\nあなたはその中に入っていく。
+\n
+Yes, you're at the entrance. The mirror\n
+before you welcomes you inside.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n何もためらったりはしないの。 \n予定通りなのよ。
- \n
-You move with no hesitation. \n
+//\n何もためらったりはしないの。\n予定通りなのよ。
+\n
+You move with no hesitation.\n
 Everything you do is going exactly as
 <$0C>
-you planned. 
+you planned.
 <$00>
 
 // Pos: 00003798
@@ -233,12 +233,12 @@ you planned.
 //フェイ：
 Feng:
 <$0D>
-// \n入口に入るわ… 真っ白な入口… \nああ、全てが真っ白よ… きれい…
- \n
-It's a snow white entrance. I'm \n
+//\n入口に入るわ… 真っ白な入口…\nああ、全てが真っ白よ… きれい…
+\n
+It's a snow white entrance. I'm\n
 inside... Ah, all is snow white here. It's
 <$0C>
-lovely... 
+lovely...
 <$00>
 
 // Pos: 000037CD
@@ -251,10 +251,10 @@ lovely...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nあなたは？ ヴェロニカね。 \n今晩は、ヴェロニカ。
- \n
-Is that you, Veronica? \n
-Good evening. 
+//\nあなたは？ ヴェロニカね。\n今晩は、ヴェロニカ。
+\n
+Is that you, Veronica?\n
+Good evening.
 <$00>
 
 // Pos: 000037F4
@@ -267,10 +267,10 @@ Good evening.
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nおなかすいたよ。 \n今日、何も食べてないんだ。
- \n
-I'm feeling peckish. I haven't eaten \n
-anything today. 
+//\nおなかすいたよ。\n今日、何も食べてないんだ。
+\n
+I'm feeling peckish. I haven't eaten\n
+anything today.
 <$00>
 
 // Pos: 0000381A
@@ -283,10 +283,10 @@ anything today.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nヴェロニカ、 \nあなたに開きたいことがあるの。
- \n
-Veronica, there's something I wanted \n
-to ask you. 
+//\nヴェロニカ、\nあなたに開きたいことがあるの。
+\n
+Veronica, there's something I wanted\n
+to ask you.
 <$00>
 
 // Pos: 0000383E
@@ -299,9 +299,9 @@ to ask you.
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nもうかなりたまったよ。
- \n
-That's fine. I've already saved a lot... 
+//\nもうかなりたまったよ。
+\n
+That's fine. I've already saved a lot...
 <$00>
 
 // Pos: 00003856
@@ -314,9 +314,9 @@ That's fine. I've already saved a lot...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n何がたまったの？
- \n
-Hmm? Saved a lot of what? 
+//\n何がたまったの？
+\n
+Hmm? Saved a lot of what?
 <$00>
 
 // Pos: 0000386B
@@ -329,9 +329,9 @@ Hmm? Saved a lot of what?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n命令よ。 言ったでしょ。
- \n
-Lucky rolls. "Chances" works too. 
+//\n命令よ。 言ったでしょ。
+\n
+Lucky rolls. "Chances" works too.
 <$00>
 
 // Pos: 00003886
@@ -344,10 +344,10 @@ Lucky rolls. "Chances" works too.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nええ、知ってるわ。 命令がたまったのね。 \nせっかくためたのに、使わないの？
- \n
-Yes, I see. If you've saved up so many \n
-thus far, why haven't you used any? 
+//\nええ、知ってるわ。 命令がたまったのね。\nせっかくためたのに、使わないの？
+\n
+Yes, I see. If you've saved up so many\n
+thus far, why haven't you used any?
 <$00>
 
 // Pos: 000038BC
@@ -360,13 +360,13 @@ thus far, why haven't you used any?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nさっき使ったよ。 \n
- \n
-I did so earlier, \n
+//\nさっき使ったよ。\n
+\n
+I did so earlier,\n
 for 
 <$0F>
 //を出してあげたの。
-. 
+.
 <$00>
 
 // Pos: 000038DE
@@ -379,13 +379,13 @@ for
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nそうなの？ \n
- \n
-Is that so? \n
+//\nそうなの？\n
+\n
+Is that so?\n
 Do you like 
 <$0F>
 //は… 気に入りそう？
-? 
+?
 <$00>
 
 // Pos: 000038FD
@@ -398,10 +398,10 @@ Do you like
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n分からないよ。 \nアタシはお酒はきらいだよ。
- \n
-I'm not sure. What I don't like is liquor, \n
-you know. 
+//\n分からないよ。\nアタシはお酒はきらいだよ。
+\n
+I'm not sure. What I don't like is liquor,\n
+you know.
 <$00>
 
 // Pos: 00003920
@@ -414,10 +414,10 @@ you know.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nねぇヴェロニカ、 \nフェイのこと話してくれない？ \n彼女は何かをたくらんでいるの？
- \n
-So, Veronica, can I ask you about Feng? \n
-Is she plotting something? 
+//\nねぇヴェロニカ、\nフェイのこと話してくれない？\n彼女は何かをたくらんでいるの？
+\n
+So, Veronica, can I ask you about Feng?\n
+Is she plotting something?
 <$00>
 
 // Pos: 00003957
@@ -430,12 +430,12 @@ Is she plotting something?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nあの女は欲のカタマリなのよ。 \nなんでもかんでも、 \n手に入れなきゃ気が済まないのよ。
- \n
-That woman is a real tangle of greed. \n
+//\nあの女は欲のカタマリなのよ。\nなんでもかんでも、\n手に入れなきゃ気が済まないのよ。
+\n
+That woman is a real tangle of greed.\n
 She'd do anything to get what she
 <$0C>
-wants. 
+wants.
 <$00>
 
 // Pos: 00003992
@@ -448,10 +448,10 @@ wants.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n何を手に入れるの？ \nあなたも手伝っているの？
- \n
-What does she want? Is it something \n
-you want too? 
+//\n何を手に入れるの？\nあなたも手伝っているの？
+\n
+What does she want? Is it something\n
+you want too?
 <$00>
 
 // Pos: 000039B9
@@ -464,26 +464,26 @@ you want too?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nなんでアタシがフェイを手伝うのよ。
- \n
-Are you asking if I'm helping her? Why \n
-would I help Feng? 
+//\nなんでアタシがフェイを手伝うのよ。
+\n
+Are you asking if I'm helping her? Why\n
+would I help Feng?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nあの女はアタシのことをいなくていいと \n思ってるのよ。
- \n
-That woman doesn't give a damn about \n
-me! 
+//\nあの女はアタシのことをいなくていいと\n思ってるのよ。
+\n
+That woman doesn't give a damn about\n
+me!
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nそんなこと思われて、 \n平気でいられる？
- \n
-I'm shocked. What made you ask that \n
-so frankly? 
+//\nそんなこと思われて、\n平気でいられる？
+\n
+I'm shocked. What made you ask that\n
+so frankly?
 <$00>
 
 // Pos: 00003A1E
@@ -496,12 +496,12 @@ so frankly?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nフェイは美の権化になりたい、 \nそう願っているんじゃないの？
- \n
-Feng wants to become the \n
+//\nフェイは美の権化になりたい、\nそう願っているんじゃないの？
+\n
+Feng wants to become the\n
 personification of beauty. We both
 <$0C>
-know that's all she desires. 
+know that's all she desires.
 <$00>
 
 // Pos: 00003A4C
@@ -514,12 +514,12 @@ know that's all she desires.
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nそうだよ、鏡の精に自分の体を差し出すの。 \nそれでずっときれいでいられる、 \nあの女はそう考えてるのよ。
- \n
-Right. She thinks offering her body to \n
+//\nそうだよ、鏡の精に自分の体を差し出すの。\nそれでずっときれいでいられる、\nあの女はそう考えてるのよ。
+\n
+Right. She thinks offering her body to\n
 the mirror spirit will keep her
 <$0C>
-beautiful. 
+beautiful.
 <$00>
 
 // Pos: 00003A93
@@ -532,10 +532,10 @@ beautiful.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n鏡の精ね… 前に開いたことあるわ。 \nたしか名前は…
- \n
-This mirror spirit? I think I've heard of \n
-her before. People call her... 
+//\n鏡の精ね… 前に開いたことあるわ。\nたしか名前は…
+\n
+This mirror spirit? I think I've heard of\n
+her before. People call her...
 <$00>
 
 // Pos: 00003ABD
@@ -548,22 +548,22 @@ her before. People call her...
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nアマンダよ。整形してすごい美人になったんだ。 \nそれで、ずっと鏡ばかり見続けていて、 \nそのうち鏡の中に吸い込まれたのよ。
- \n
-Amanda. Cosmetic surgery made her \n
+//\nアマンダよ。整形してすごい美人になったんだ。\nそれで、ずっと鏡ばかり見続けていて、\nそのうち鏡の中に吸い込まれたのよ。
+\n
+Amanda. Cosmetic surgery made her\n
 into an amazing beauty. She looked
 <$0C>
-into mirrors constantly. 
+into mirrors constantly.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nフェイは会ったことないみたいだけど、 \nヴァニティフェイスの仕事を始めてから、 \nアマンダの声が開こえるようになったんだよ。
- \n
-Feng never met Amanda, but ever \n
+//\nフェイは会ったことないみたいだけど、\nヴァニティフェイスの仕事を始めてから、\nアマンダの声が開こえるようになったんだよ。
+\n
+Feng never met Amanda, but ever\n
 since she started with Vanity Face, she
 <$0C>
-could hear Amanda's voice. 
+could hear Amanda's voice.
 <$00>
 
 // Pos: 00003B5A
@@ -576,10 +576,10 @@ could hear Amanda's voice.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nアマンダはフェイになんて言うのかしら。 \n鏡の中へ来いって誘ってるの？
- \n
-What does Amanda say to Feng? Did she \n
-invite Feng to enter the mirror? 
+//\nアマンダはフェイになんて言うのかしら。\n鏡の中へ来いって誘ってるの？
+\n
+What does Amanda say to Feng? Did she\n
+invite Feng to enter the mirror?
 <$00>
 
 // Pos: 00003B8D
@@ -592,28 +592,28 @@ invite Feng to enter the mirror?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n新しい鏡を作れ、 \nアマンダはフェイにそう言ってるの。
- \n
-Amanda told Feng to create a new \n
-mirror. 
+//\n新しい鏡を作れ、\nアマンダはフェイにそう言ってるの。
+\n
+Amanda told Feng to create a new\n
+mirror.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n世界のすべてを照らし出す鏡だよ。 \nそしたら、あっちこっちで悪が生まれるんだ。
- \n
-She wants a mirror that illuminates all \n
-the world, and births evil in its corners. 
+//\n世界のすべてを照らし出す鏡だよ。\nそしたら、あっちこっちで悪が生まれるんだ。
+\n
+She wants a mirror that illuminates all\n
+the world, and births evil in its corners.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nみんな悪に飲み込まれるんだよ。消えるんだよ。 \n蕃判の鏡だって、エッジが教えてくれたんだ。
- \n
-All who are swallowed by that evil will \n
+//\nみんな悪に飲み込まれるんだよ。消えるんだよ。\n蕃判の鏡だって、エッジが教えてくれたんだ。
+\n
+All who are swallowed by that evil will\n
 vanish. Edge called it the Mirror of
 <$0C>
-Judgement. 
+Judgement.
 <$00>
 
 // Pos: 00003C2A
@@ -626,12 +626,12 @@ Judgement.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n蕃判の鏡… \nエッジってあなたの大の親友よね。 \n他にはどんなこと教えてくれたの？
- \n
-The Mirror of Judgement? Well, Edge is \n
+//\n蕃判の鏡…\nエッジってあなたの大の親友よね。\n他にはどんなこと教えてくれたの？
+\n
+The Mirror of Judgement? Well, Edge is\n
 your closest friend, right? What else
 <$0C>
-did they say? 
+did they say?
 <$00>
 
 // Pos: 00003C66
@@ -644,28 +644,28 @@ did they say?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n蕃判の鏡が、心の悪をみんなみんな照らすんだ。 \nそれで黒い騎士が完全になって奇跡が起きる。
- \n
-The Mirror of Judgement feeds on the \n
+//\n蕃判の鏡が、心の悪をみんなみんな照らすんだ。\nそれで黒い騎士が完全になって奇跡が起きる。
+\n
+The Mirror of Judgement feeds on the\n
 evil in the mind, and when the Black
 <$0C>
-Rider is whole... 
+Rider is whole...
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nよくわからないけど、 \nそんなことよ。
- \n
-I'm not entirely sure, but I've got an \n
-idea that a new world will be born. 
+//\nよくわからないけど、\nそんなことよ。
+\n
+I'm not entirely sure, but I've got an\n
+idea that a new world will be born.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n新しい世界が生まれるんだって、 \n誰も残れないんだって。消えてなくなるのよ。
- \n
-No one can remain in this world at that \n
-point. Everyone all disappear. 
+//\n新しい世界が生まれるんだって、\n誰も残れないんだって。消えてなくなるのよ。
+\n
+No one can remain in this world at that\n
+point. Everyone all disappear.
 <$00>
 
 // Pos: 00003CFE
@@ -678,10 +678,10 @@ point. Everyone all disappear.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nフェイは美の権化になって残るのね。 \nあなたはどうなるの？
- \n
-Feng will go down as beauty incarnate, \n
-but what will happen to you? 
+//\nフェイは美の権化になって残るのね。\nあなたはどうなるの？
+\n
+Feng will go down as beauty incarnate,\n
+but what will happen to you?
 <$00>
 
 // Pos: 00003D2B
@@ -694,10 +694,10 @@ but what will happen to you?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nわからないよ！ \nそんなことになる前に合わさるんだ。 \nアタシひとりになるんだよ！
- \n
-I don't know! I'll have to integrate \n
-before that happens, or I'll be all alone! 
+//\nわからないよ！\nそんなことになる前に合わさるんだ。\nアタシひとりになるんだよ！
+\n
+I don't know! I'll have to integrate\n
+before that happens, or I'll be all alone!
 <$00>
 
 // Pos: 00003D60
@@ -710,10 +710,10 @@ before that happens, or I'll be all alone!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nヴェロニカ… もう帰るの？
- \n
-Veronica...did you want to go back \n
-down soon? 
+//\nヴェロニカ… もう帰るの？
+\n
+Veronica...did you want to go back\n
+down soon?
 <$00>
 
 // Pos: 00003D7B
@@ -726,10 +726,10 @@ down soon?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n帰りたくない… \n真っ暗なんだよ…
- \n
-I don't want to go back... Everything's \n
-so dark... 
+//\n帰りたくない…\n真っ暗なんだよ…
+\n
+I don't want to go back... Everything's\n
+so dark...
 <$00>
 
 // Pos: 00003D9B
@@ -742,9 +742,9 @@ so dark...
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nヴェロニカ、 \nちょっとわからないわ。
- \n
-Veronica, are you sure you mean that? 
+//\nヴェロニカ、\nちょっとわからないわ。
+\n
+Veronica, are you sure you mean that?
 <$00>
 
 // Pos: 00003DBA
@@ -757,9 +757,9 @@ Veronica, are you sure you mean that?
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \n帰るのイヤだ。
- \n
-I don't want to go back! 
+//\n帰るのイヤだ。
+\n
+I don't want to go back!
 <$00>
 
 // Pos: 00003DCF
@@ -772,10 +772,10 @@ I don't want to go back!
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nさっきの話、合わさるって、 \nどうやって合わさるの？
- \n
-All right. So, you mentioned the word \n
-"integrate". What did you mean? 
+//\nさっきの話、合わさるって、\nどうやって合わさるの？
+\n
+All right. So, you mentioned the word\n
+"integrate". What did you mean?
 <$00>
 
 // Pos: 00003DF8
@@ -788,10 +788,10 @@ All right. So, you mentioned the word \n
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nいいこと思いついたんだ。 \nでも教えないよ。
- \n
-Oh, it was only a fun little musing, but I \n
-can't tell you more than that. 
+//\nいいこと思いついたんだ。\nでも教えないよ。
+\n
+Oh, it was only a fun little musing, but I\n
+can't tell you more than that.
 <$00>
 
 // Pos: 00003E1C
@@ -804,10 +804,10 @@ can't tell you more than that.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nそのこと、フェイは知ってるのかしら。 \nあなたが合わさるって思ってること。
- \n
-I wonder if Feng has found out about \n
-your thoughts to integrate with her. 
+//\nそのこと、フェイは知ってるのかしら。\nあなたが合わさるって思ってること。
+\n
+I wonder if Feng has found out about\n
+your thoughts to integrate with her.
 <$00>
 
 // Pos: 00003E50
@@ -820,12 +820,12 @@ your thoughts to integrate with her.
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nまだ気付いてないよ。 \nあの女が変なことになる前に合わさるんだよ。
- \n
-If she did find out, I failed to notice. I \n
+//\nまだ気付いてないよ。\nあの女が変なことになる前に合わさるんだよ。
+\n
+If she did find out, I failed to notice. I\n
 should integrate before she crosses
 <$0C>
-the line. 
+the line.
 <$00>
 
 // Pos: 00003E81
@@ -838,10 +838,10 @@ the line.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nねぇ、 \nそんなことが本当にできるのかしら。
- \n
-Hmm, I wonder if such an option can \n
-truly be taken. 
+//\nねぇ、\nそんなことが本当にできるのかしら。
+\n
+Hmm, I wonder if such an option can\n
+truly be taken.
 <$00>
 
 // Pos: 00003EA5
@@ -854,10 +854,10 @@ truly be taken.
 //ヴェロニカ：
 Veronica:
 <$0D>
-// \nできるよ、できるんだ、 \n絶対できるんだ！
- \n
-If anyone can do it, it's me. I'll make her \n
-see eye-to-eye! 
+//\nできるよ、できるんだ、\n絶対できるんだ！
+\n
+If anyone can do it, it's me. I'll make her\n
+see eye-to-eye!
 <$00>
 
 // Pos: 00003EC8
@@ -870,12 +870,12 @@ see eye-to-eye!
 //フェイ：
 Feng:
 <$0D>
-// \n蕃判の議準なんてないのよ。 \n自分が納得できればそれでいいの、分かった？
- \n
-Judgement has no standards! If your \n
+//\n蕃判の議準なんてないのよ。\n自分が納得できればそれでいいの、分かった？
+\n
+Judgement has no standards! If your\n
 self is satisfactory, you're fine.
 <$0C>
-Understand? 
+Understand?
 <$00>
 
 // Pos: 00003EFB
@@ -888,10 +888,10 @@ Understand?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nそうね。 \nあなたは自分の顔に納得してるの？
- \n
-Oh, I understand. And is your face \n
-satisfactory? 
+//\nそうね。\nあなたは自分の顔に納得してるの？
+\n
+Oh, I understand. And is your face\n
+satisfactory?
 <$00>
 
 // Pos: 00003F21
@@ -904,10 +904,10 @@ satisfactory?
 //フェイ：
 Feng:
 <$0D>
-// \nもちろんよ。アマンダほどじゃないけど。 \nとにかく私は大丈夫よ。
- \n
-Of course! Not as much as Amanda's is, \n
-but it's fine. 
+//\nもちろんよ。アマンダほどじゃないけど。\nとにかく私は大丈夫よ。
+\n
+Of course! Not as much as Amanda's is,\n
+but it's fine.
 <$00>
 
 // Pos: 00003F4C
@@ -920,12 +920,12 @@ but it's fine.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n他の人たちはどうなの？ 人間の顔に似せて、 \nそれで蕃判を乗り切れると思う？
- \n
-And what about other people with \n
+//\n他の人たちはどうなの？ 人間の顔に似せて、\nそれで蕃判を乗り切れると思う？
+\n
+And what about other people with\n
 similarly human faces? Will they
 <$0C>
-survive Judgement? 
+survive Judgement?
 <$00>
 
 // Pos: 00003F87
@@ -938,20 +938,20 @@ survive Judgement?
 //フェイ：
 Feng:
 <$0D>
-// \nさあね… ヴァニティフェイスを信じることよ。 \nそれは自分を信じること… そうでしょ？
- \n
-Come now, faith in one's Vanity Face is \n
-faith in one's self! 
+//\nさあね… ヴァニティフェイスを信じることよ。\nそれは自分を信じること… そうでしょ？
+\n
+Come now, faith in one's Vanity Face is\n
+faith in one's self!
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \n顔がきれいになって、心がおだやかになれば \nそれでいいのよ、そうでしょ？
- \n
-An un-cluttered face is an \n
+//\n顔がきれいになって、心がおだやかになれば\nそれでいいのよ、そうでしょ？
+\n
+An un-cluttered face is an\n
 un-cluttered mind. That makes sense,
 <$0C>
-doesn't it? 
+doesn't it?
 <$00>
 
 // Pos: 00003FEA
@@ -964,10 +964,10 @@ doesn't it?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nありがとうフェイ。 \n今夜はもう帰るわ。
- \n
-...Thank you, Feng. Let's each turn in \n
-for the night. 
+//\nありがとうフェイ。\n今夜はもう帰るわ。
+\n
+...Thank you, Feng. Let's each turn in\n
+for the night.
 <$00>
 
 // Pos: 0000400D
@@ -980,20 +980,20 @@ for the night.
 //フェイ：
 Feng:
 <$0D>
-// \nアガタ。ヘロデをこれ以上苦しめないで。 \n彼が悪夢の世界から離れられないのは \nあなたのせいじゃないの？
- \n
-Agatha. Do not torment Herod any \n
+//\nアガタ。ヘロデをこれ以上苦しめないで。\n彼が悪夢の世界から離れられないのは\nあなたのせいじゃないの？
+\n
+Agatha. Do not torment Herod any\n
 longer. It's your fault he can't leave
 <$0C>
-the Land of Nightmares. 
+the Land of Nightmares.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
-// \nあなたが催眠術で \nよけいなことしてるからじゃないの？
- \n
-Must you really go so far as to play God \n
-with your hypnotherapy? 
+//\nあなたが催眠術で\nよけいなことしてるからじゃないの？
+\n
+Must you really go so far as to play God\n
+with your hypnotherapy?
 <$00>
 
 // Pos: 00004075
@@ -1006,10 +1006,10 @@ with your hypnotherapy?
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \n彼には眠りが必要なのよ。 \nすべては彼のためを思ってのことよ。
- \n
-The man needs his sleep. Every ounce \n
-of my work is done for his sake. 
+//\n彼には眠りが必要なのよ。\nすべては彼のためを思ってのことよ。
+\n
+The man needs his sleep. Every ounce\n
+of my work is done for his sake.
 <$00>
 
 // Pos: 000040A6
@@ -1022,10 +1022,10 @@ of my work is done for his sake.
 //フェイ：
 Feng:
 <$0D>
-// \nだといいけどね。 \nおやすみなさい、マダム・アガタ。 \nそれから地球の人もよ。
- \n
-It better be. Goodnight, Madam \n
-Agatha. And you too, Earthling. 
+//\nだといいけどね。\nおやすみなさい、マダム・アガタ。\nそれから地球の人もよ。
+\n
+It better be. Goodnight, Madam\n
+Agatha. And you too, Earthling.
 <$00>
 
 // Pos: 000040D6
@@ -1038,9 +1038,9 @@ Agatha. And you too, Earthling.
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
-// \nライカよ。
- \n
-It's Laika. 
+//\nライカよ。
+\n
+It's Laika.
 <$00>
 
 // Pos: 000040E8
@@ -1053,8 +1053,8 @@ It's Laika.
 //フェイ：
 Feng:
 <$0D>
-// \nおやすみ、ライカ。
- \n
-Goodnight, Laika. 
+//\nおやすみ、ライカ。
+\n
+Goodnight, Laika.
 <$00>
 

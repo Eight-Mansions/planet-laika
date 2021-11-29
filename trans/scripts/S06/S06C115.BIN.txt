@@ -15,17 +15,17 @@
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nおおおおお！ ライカ君！
- \n
-OH MY GOD! LAIKA! 
+//\nおおおおお！ ライカ君！
+\n
+OH MY GOD! LAIKA!
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nよかった、ちょうどよかった！ \n助けてくれ！
- \n
-Laika, am I glad to see you! You've gotta \n
-help me! 
+//\nよかった、ちょうどよかった！\n助けてくれ！
+\n
+Laika, am I glad to see you! You've gotta\n
+help me!
 <$00>
 
 // Pos: 00001C84
@@ -38,9 +38,9 @@ help me!
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だよおっさん。 \n俺はアーネストだぜ！
- \n
-Who're you calling Laika? I'm Ernest! 
+//\n何だよおっさん。\n俺はアーネストだぜ！
+\n
+Who're you calling Laika? I'm Ernest!
 <$00>
 
 // Pos: 00001CA4
@@ -53,17 +53,17 @@ Who're you calling Laika? I'm Ernest!
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nああ、ライカ君だか、アーネストだか、 \n誰でもいい、とにかく急いでくれ。
- \n
-Ernest, Laika, I don't care! There's no \n
-time! 
+//\nああ、ライカ君だか、アーネストだか、\n誰でもいい、とにかく急いでくれ。
+\n
+Ernest, Laika, I don't care! There's no\n
+time!
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nクロエちゃんが… \nあああ、クロエちゃんが…
- \n
-It's Chloe! She's... Oh my God, Chloe! 
+//\nクロエちゃんが…\nあああ、クロエちゃんが…
+\n
+It's Chloe! She's... Oh my God, Chloe!
 <$00>
 
 // Pos: 00001CF9
@@ -76,9 +76,9 @@ It's Chloe! She's... Oh my God, Chloe!
 //アーネスト：
 Ernest:
 <$0D>
-// \nどうしたんだ？
- \n
-She okay? 
+//\nどうしたんだ？
+\n
+She okay?
 <$00>
 
 // Pos: 00001D0D
@@ -91,9 +91,9 @@ She okay?
 //タトラー船長：
 Captain Tatler:
 <$0D>
-// \nううううう… \n燃えてしまうぅぅぅぅぅ~
- \n
-Nooooo, she's buuurniiing! 
+//\nううううう…\n燃えてしまうぅぅぅぅぅ~
+\n
+Nooooo, she's buuurniiing!
 <$00>
 
 // Pos: 00001D30
@@ -106,10 +106,10 @@ Nooooo, she's buuurniiing!
 //アーネスト：
 Ernest:
 <$0D>
-// \nちくしょう！ \nどうなってんだ、ここは！
- \n
-Dammit, what do you think you're \n
-doing here?! 
+//\nちくしょう！\nどうなってんだ、ここは！
+\n
+Dammit, what do you think you're\n
+doing here?!
 <$00>
 
 // Pos: 00001D50
@@ -122,10 +122,10 @@ doing here?!
 //アーネスト：
 Ernest:
 <$0D>
-// \nおっさんよう、何やってんだ？ ひとりで？
- \n
-Are you kidding, old man?! You can't go \n
-in by yourself! 
+//\nおっさんよう、何やってんだ？ ひとりで？
+\n
+Are you kidding, old man?! You can't go\n
+in by yourself!
 <$00>
 
 // Pos: 00001D71
@@ -138,23 +138,23 @@ in by yourself!
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
-// \n燃える燃える、みんな燃える。
- \n
-We will burn! We will burn! Everyone \n
-will burn! 
+//\n燃える燃える、みんな燃える。
+\n
+We will burn! We will burn! Everyone\n
+will burn!
 <$0C><$0B>
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
-// \n夢も希望も妄想も、心から現れたもの、 \n全てが燃える、シー。
- \n
-Dreams, hopes, delusions! All will rish, \n
+//\n夢も希望も妄想も、心から現れたもの、\n全てが燃える、シー。
+\n
+Dreams, hopes, delusions! All will rish,\n
 whoosh! From the heart, whoosh! All
 <$0C>
 will burn!
 <$1E>
 //理
-理 
+理
 <$00>
 
 // Pos: 00001DCC
@@ -167,12 +167,12 @@ will burn!
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
-// \n家が燃える、町が燃える、氷も燃える、 \nシーシーシー！
- \n
-Houses burn... Towns burn... \n
+//\n家が燃える、町が燃える、氷も燃える、\nシーシーシー！
+\n
+Houses burn... Towns burn...\n
 Ice...melts, whoosh-whoosh.
 <$1E>
 //鋭
-鋭 
+鋭
 <$00>
 

@@ -15,19 +15,19 @@
 //エイプリル：
 April:
 <$0D>
-// \nあっ…ヨランダ…
- \n
-Oh! It's you, Yolanda. 
+//\nあっ…ヨランダ…
+\n
+Oh! It's you, Yolanda.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nここで私を呼んでいるの…誰かが…最初は \n無線テレビ…だんだん声が大きくなって…
- \n
-Someone was calling me here. I \n
+//\nここで私を呼んでいるの…誰かが…最初は\n無線テレビ…だんだん声が大きくなって…
+\n
+Someone was calling me here. I\n
 thought it was the monitor at first,
 <$0C>
-but... 
+but...
 <$00>
 
 // Pos: 00001442
@@ -40,16 +40,16 @@ but...
 //エイプリル：
 April:
 <$0D>
-// \nほら…また開こえる…
- \n
-There! I heard it again! 
+//\nほら…また開こえる…
+\n
+There! I heard it again!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n私のこと、なつかしいって…
- \n
-They told me they missed me! 
+//\n私のこと、なつかしいって…
+\n
+They told me they missed me!
 <$00>
 
 // Pos: 0000146F
@@ -62,9 +62,9 @@ They told me they missed me!
 //エイプリル：
 April:
 <$0D>
-// \nねえ、ライカ…ライカなんでしょ…
- \n
-Wait...Laika? You're Laika again? 
+//\nねえ、ライカ…ライカなんでしょ…
+\n
+Wait...Laika? You're Laika again?
 <$00>
 
 // Pos: 0000148A
@@ -77,9 +77,9 @@ Wait...Laika? You're Laika again?
 //エイプリル：
 April:
 <$0D>
-// \nああ、よかった…
- \n
-I'm glad you're okay. 
+//\nああ、よかった…
+\n
+I'm glad you're okay.
 <$00>
 
 // Pos: 0000149D
@@ -88,10 +88,10 @@ I'm glad you're okay.
 
 #WHB(PTR, $00000B69)
 
-//離 坑道閉鎖まで、あとちょっとです。 \n繰り返します、あとちょっと。 \nこれは訓練ではありません。
-離 THE MINESHAFT IS CLOSING SOON. \n
-PLEASE EVACUATE IMMEDIATELY. \n
-THIS IS NOT A DRILL. 
+//離 坑道閉鎖まで、あとちょっとです。\n繰り返します、あとちょっと。\nこれは訓練ではありません。
+離 THE MINESHAFT IS CLOSING SOON.\n
+PLEASE EVACUATE IMMEDIATELY.\n
+THIS IS NOT A DRILL.
 <$00>
 
 // Pos: 000014D6
@@ -104,9 +104,9 @@ THIS IS NOT A DRILL.
 //エイプリル：
 April:
 <$0D>
-// \nここを出なきゃ！
- \n
-We have to get out of here! 
+//\nここを出なきゃ！
+\n
+We have to get out of here!
 <$00>
 
 // Pos: 000014EA
@@ -119,10 +119,10 @@ We have to get out of here!
 //エイプリル：
 April:
 <$0D>
-// \n人が凍ってるの？ イヤな惑じよ…
- \n
-I don't like the idea of us freezing \n
-where we stand. 
+//\n人が凍ってるの？ イヤな惑じよ…
+\n
+I don't like the idea of us freezing\n
+where we stand.
 <$00>
 
 // Pos: 00001507
@@ -135,34 +135,34 @@ where we stand.
 //エイプリル：
 April:
 <$0D>
-// \n出口はこっちよ、ライカ！
- \n
-The exit's this way, Laika! 
+//\n出口はこっちよ、ライカ！
+\n
+The exit's this way, Laika!
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だ、ここは…
- \n
-Hmph. What did the kid get us into this \n
-time? 
+//\n何だ、ここは…
+\n
+Hmph. What did the kid get us into this\n
+time?
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \n何だ、こいつは…こおってるぜ…
- \n
-What happened? This big guy's frozen \n
-solid. 
+//\n何だ、こいつは…こおってるぜ…
+\n
+What happened? This big guy's frozen\n
+solid.
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
-// \nあああ、何だ、嫌な気分だ。 \n俺が…小さくなっていくようだ…ちくしょう！
- \n
-Urk, I...don't feel so good. It's like my \n
+//\nあああ、何だ、嫌な気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
+\n
+Urk, I...don't feel so good. It's like my\n
 head's getting smaller and smaller...
 <$0C>
-Damn! 
+Damn!
 <$00>
 

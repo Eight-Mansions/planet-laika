@@ -15,13 +15,13 @@
 //トミー：
 Tommy:
 <$0D>
-// \nようよう、レッドのやつのこと、開きてぇか？
- \n
+//\nようよう、レッドのやつのこと、開きてぇか？
+\n
 Hey, do you want to hear about Red?
 <$1B>
-//、開きたい \n開きたくない
-、Yes \n
-No 
+//、開きたい\n開きたくない
+、Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00000C9D
@@ -34,77 +34,77 @@ No
 //トミー：
 Tommy:
 <$0D>
-// \nへへへ、そうかい。
- \n
-Hehe, I get ya. 
+//\nへへへ、そうかい。
+\n
+Hehe, I get ya.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nレッドのやつはなぁ、 \nガキの頃に一緒に住んでたおじさんに \n可愛がられ過ぎたんだ。
- \n
-Back when Red was a kid, he used to live \n
+//\nレッドのやつはなぁ、\nガキの頃に一緒に住んでたおじさんに\n可愛がられ過ぎたんだ。
+\n
+Back when Red was a kid, he used to live\n
 with an old guy who like,
 <$0C>
-love-love-loved him. 
+love-love-loved him.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \n本当だ、やつはガキの頃は別人みたいに \n美少年だったんだ、へっ、信じられねぇだろ？
- \n
-Believe it or not, but Red was a real \n
+//\n本当だ、やつはガキの頃は別人みたいに\n美少年だったんだ、へっ、信じられねぇだろ？
+\n
+Believe it or not, but Red was a real\n
 pretty boy back in his day. Like, a whole
 <$0C>
-other person. 
+other person.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nその美少年顔が災いの元だったんだ。
- \n
-But that pretty face he had before is \n
+//\nその美少年顔が災いの元だったんだ。
+\n
+But that pretty face he had before is\n
 the cause of what he's doing to that
 <$0C>
-Cosmas kid now. 
+Cosmas kid now.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nやつはなんとか顔を変えようとしたんだ。 \nそこんとこが、まだ知惠あるよな、 \nコスマスのやつと建ってな。
- \n
-Red keeps changing Cosmas's face, but \n
+//\nやつはなんとか顔を変えようとしたんだ。\nそこんとこが、まだ知惠あるよな、\nコスマスのやつと建ってな。
+\n
+Red keeps changing Cosmas's face, but\n
 there was a problem: the new face
 <$0C>
-wasn't Cosmas's. 
+wasn't Cosmas's.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nで、レッドはこっそり整形屋に \n忍び込んで顔を切り刻んだんだ。 \nそしたらどうなったと思う？
- \n
-But Red kept taking Cosmas in secret to \n
+//\nで、レッドはこっそり整形屋に\n忍び込んで顔を切り刻んだんだ。\nそしたらどうなったと思う？
+\n
+But Red kept taking Cosmas in secret to\n
 get worked on anyways. Can you guess
 <$0C>
-why? 
+why?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nへへ、やつの顔は張りぼてだったんだよ。 \nぼろぼろ崩れて、元の犬顔に戻っちまった。 \n美少年なんてウソっぱちだったってわけさ。
- \n
-Because the human face was so \n
+//\nへへ、やつの顔は張りぼてだったんだよ。\nぼろぼろ崩れて、元の犬顔に戻っちまった。\n美少年なんてウソっぱちだったってわけさ。
+\n
+Because the human face was so\n
 superficial, the lie fell apart, and the
 <$0C>
-dog face re-emerged. 
+dog face re-emerged.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nそれ以来、やつは頭の中に \nなにか電波みたいなもんを惑じるように \nなりやがったんだ。
- \n
-And after that, the guy started getting \n
-weird radio waves in his head. 
+//\nそれ以来、やつは頭の中に\nなにか電波みたいなもんを惑じるように\nなりやがったんだ。
+\n
+And after that, the guy started getting\n
+weird radio waves in his head.
 <$00>
 
 // Pos: 00000E40
@@ -117,10 +117,10 @@ weird radio waves in his head.
 //トミー：
 Tommy:
 <$0D>
-// \nそうかい、 \nとにかくレッドのやつには気を付けな。
- \n
-Gotcha. Either way, make sure you \n
-steer clear of him, a-yup. 
+//\nそうかい、\nとにかくレッドのやつには気を付けな。
+\n
+Gotcha. Either way, make sure you\n
+steer clear of him, a-yup.
 <$00>
 
 // Pos: 00000E62
@@ -133,27 +133,27 @@ steer clear of him, a-yup.
 //トミー：
 Tommy:
 <$0D>
-// \nひぇー、ウワサをすればレッドだ。
- \n
-Heh, speak of the devil. 
+//\nひぇー、ウワサをすればレッドだ。
+\n
+Heh, speak of the devil.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nはっ、兄ちゃんよう、 \nこのへんもヤバイ惑じだな、
- \n
-My Tommy senses are tingling, \n
-comrade, and that's not a good thing. 
+//\nはっ、兄ちゃんよう、\nこのへんもヤバイ惑じだな、
+\n
+My Tommy senses are tingling,\n
+comrade, and that's not a good thing.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
-// \nヤバイヤバイってな。
- \n
+//\nヤバイヤバイってな。
+\n
 This is real bad, a-yup.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00000EB2
@@ -166,12 +166,12 @@ This is real bad, a-yup.
 //トミー：
 Tommy:
 <$0D>
-// \nへっ、レッドは向こうへ行ったぜ。 \n向こうっていうのは向こうだ。
- \n
-Hehe, Red went the other way. You'll \n
+//\nへっ、レッドは向こうへ行ったぜ。\n向こうっていうのは向こうだ。
+\n
+Hehe, Red went the other way. You'll\n
 want to do go the OTHER-other way.
 <$1E>
 //家
-家 
+家
 <$00>
 

@@ -15,23 +15,23 @@
 //ブーマー：
 Boomer:
 <$0D>
-// \nハウスのやつらが… \nああなるのは分かってたんだ。
- \n
-I see men at Psycho Lab...have moved \n
-on. 
+//\nハウスのやつらが…\nああなるのは分かってたんだ。
+\n
+I see men at Psycho Lab...have moved\n
+on.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-// \n見えねぇ目玉やら日記やら、 \nおかしな話だらけだ。
- \n
-Ohhh, what I cannot see are the \n
+//\n見えねぇ目玉やら日記やら、\nおかしな話だらけだ。
+\n
+Ohhh, what I cannot see are the\n
 eyeballs or the visual oddities etched
 <$0C>
 on the walls.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 000013A8
@@ -44,21 +44,21 @@ on the walls.
 //ブーマー：
 Boomer:
 <$0D>
-// \n俺には見えねぇ、 \n見えねぇもんは見えねぇんだ。
- \n
-Ohhh, I can't see it. I can't see it, I can't \n
+//\n俺には見えねぇ、\n見えねぇもんは見えねぇんだ。
+\n
+Ohhh, I can't see it. I can't see it, I can't\n
 see it...
 <$1E>
 //家
-家 
+家
 <$00><$10><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-// \nレッドのやつ、もうじき戻ってくるぜ… \n気を付けな…
- \n
-Red will be back soon. Ahhh, you should \n
-be careful... 
+//\nレッドのやつ、もうじき戻ってくるぜ…\n気を付けな…
+\n
+Red will be back soon. Ahhh, you should\n
+be careful...
 <$00>
 
 // Pos: 000013F1
@@ -71,12 +71,12 @@ be careful...
 //ブーマー：
 Boomer:
 <$0D>
-// \nまだ収まらねぇ… どうなっちまうんだ？
- \n
+//\nまだ収まらねぇ… どうなっちまうんだ？
+\n
 It still doesn't fit... What's going on?
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00001412
@@ -89,12 +89,12 @@ It still doesn't fit... What's going on?
 //ブーマー：
 Boomer:
 <$0D>
-// \nレッドのやつだ、 \nさがしてたぜ、あんたのこと。
- \n
+//\nレッドのやつだ、\nさがしてたぜ、あんたのこと。
+\n
 Red's out there looking for you.
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00001436
@@ -111,15 +111,15 @@ Red's out there looking for you.
 //ブーマー：
 Boomer:
 <$0D>
-// \nあああ、ここにいても何か変な惑じがするぜ。 \nパチパチ、パチパチ。
- \n
-Ohhh, there's a strange crackle \n
+//\nあああ、ここにいても何か変な惑じがするぜ。\nパチパチ、パチパチ。
+\n
+Ohhh, there's a strange crackle\n
 crackling around here. Crackle,
 <$0C>
 crackle...
 <$1E>
 //声
-声 
+声
 <$00>
 
 // Pos: 00001465
@@ -132,13 +132,13 @@ crackle...
 //ブーマー：
 Boomer:
 <$0D>
-// \n脳ミソパチパチ、まだ続くのか？ \nもう終わりなのか？
- \n
-Is the brain crackling still underway? \n
+//\n脳ミソパチパチ、まだ続くのか？\nもう終わりなのか？
+\n
+Is the brain crackling still underway?\n
 Will it be over soon?
 <$1E>
 //家
-家 
+家
 <$00>
 
 // Pos: 0000148E
@@ -151,10 +151,10 @@ Will it be over soon?
 //ブーマー：
 Boomer:
 <$0D>
-// \nもう夜は来ねぇんじゃねえか、 \n白い光が見えたぜ。
- \n
-Ahhh, I don't think night will return. I \n
-saw the white light. 
+//\nもう夜は来ねぇんじゃねえか、\n白い光が見えたぜ。
+\n
+Ahhh, I don't think night will return. I\n
+saw the white light.
 <$00>
 
 // Pos: 000014B4
@@ -167,9 +167,9 @@ saw the white light.
 //ブーマー：
 Boomer:
 <$0D>
-// \nあんた… 夜を抜けてきたのか。
- \n
-Did you...break the night? 
+//\nあんた… 夜を抜けてきたのか。
+\n
+Did you...break the night?
 <$00>
 
 // Pos: 000014CF
@@ -182,10 +182,10 @@ Did you...break the night?
 //スペーサー：
 Spacer:
 <$0D>
-// \nそこの様子が変だぞ。 \nあそこは何て言ったか…
- \n
-That's a wild thing to ask. What "break" \n
-are you talking about? 
+//\nそこの様子が変だぞ。\nあそこは何て言ったか…
+\n
+That's a wild thing to ask. What "break"\n
+are you talking about?
 <$00>
 
 // Pos: 000014F5
@@ -198,20 +198,20 @@ are you talking about?
 //ブーマー：
 Boomer:
 <$0D>
-// \nハウスだろ、サイコハウスだ。 \n連中は夜を壊そうとしやがったんだ。 \nそれでおかしくなりやがった。
- \n
-Psycho Lab. The guys there broke the \n
-night. That was how they went mad. 
+//\nハウスだろ、サイコハウスだ。\n連中は夜を壊そうとしやがったんだ。\nそれでおかしくなりやがった。
+\n
+Psycho Lab. The guys there broke the\n
+night. That was how they went mad.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
-// \nパチパチだ、デンパでパチパチ。 \nあんたも仲間か？
- \n
-Ohhh, with a boom and a crackle, \n
+//\nパチパチだ、デンパでパチパチ。\nあんたも仲間か？
+\n
+Ohhh, with a boom and a crackle,\n
 crackle, crackle. Didn't you go see
 <$0C>
-them? 
+them?
 <$00>
 
 // Pos: 00001555
@@ -224,10 +224,10 @@ them?
 //スペーサー：
 Spacer:
 <$0D>
-// \nああ、いや、私は見るだけだ。 \n金星人のデンパなど、私は信じない。
- \n
-Oh, uh, just to look. I don't believe in \n
-that Venusian radio wave stuff. 
+//\nああ、いや、私は見るだけだ。\n金星人のデンパなど、私は信じない。
+\n
+Oh, uh, just to look. I don't believe in\n
+that Venusian radio wave stuff.
 <$00>
 
 // Pos: 00001585
@@ -240,10 +240,10 @@ that Venusian radio wave stuff.
 //ブーマー：
 Boomer:
 <$0D>
-// \nそうかい。でもよ、 \nガツンといきたいって顔に書いてあるぜ。
- \n
-I see, and yet, it's written on your face \n
-that you're ready to pop too. 
+//\nそうかい。でもよ、\nガツンといきたいって顔に書いてあるぜ。
+\n
+I see, and yet, it's written on your face\n
+that you're ready to pop too.
 <$00>
 
 // Pos: 000015AE
@@ -256,16 +256,16 @@ that you're ready to pop too.
 //ブーマー：
 Boomer:
 <$0D>
-// \nやつらにケチつけられたんじゃねぇのか？
- \n
-Ahhh, you're not out to rain on their \n
-parades, are you? 
+//\nやつらにケチつけられたんじゃねぇのか？
+\n
+Ahhh, you're not out to rain on their\n
+parades, are you?
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
-// \nいや、私に限ってそんなことはない。
- \n
-No, it just isn't for me. 
+//\nいや、私に限ってそんなことはない。
+\n
+No, it just isn't for me.
 <$00>
 

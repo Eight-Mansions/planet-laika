@@ -13,7 +13,7 @@
 
 <$10>
 //今日は店じまいか？
-Closing up for the day? 
+Closing up for the day?
 <$00>
 
 // Pos: 00002A5B
@@ -23,8 +23,8 @@ Closing up for the day?
 #WHB(PTR, $000007BD)
 
 <$10>
-//犬顔が来たぞ。 \nいい客だろ。
-We found a dogface you can fix! 
+//犬顔が来たぞ。\nいい客だろ。
+We found a dogface you can fix!
 <$00>
 
 // Pos: 00002A6F
@@ -35,9 +35,9 @@ We found a dogface you can fix!
 
 <$10><$13><$19>
 //ねぇ、ヘロデが呼んでたよ。
-Oh, how exciting! Actually, I came \n
-because I heard Herod calling for you \n
-two. 
+Oh, how exciting! Actually, I came\n
+because I heard Herod calling for you\n
+two.
 <$00>
 
 // Pos: 00002A81
@@ -47,8 +47,8 @@ two.
 #WHB(PTR, $000007DD)
 
 <$10>
-//呼んでた？ \n俺たちを？
-Calling so soon? 
+//呼んでた？\n俺たちを？
+Calling so soon?
 <$00>
 
 // Pos: 00002A8F
@@ -59,7 +59,7 @@ Calling so soon?
 
 <$10>
 //さっきまで一緒だった。
-We were just there! 
+We were just there!
 <$00>
 
 // Pos: 00002A9E
@@ -69,10 +69,10 @@ We were just there!
 #WHB(PTR, $000007FD)
 
 <$10><$13><$19>
-//アガタをさがして欲しいんだって。 \nもう眠いんだって。
-Herod must want to sleep now, but you \n
-two need to fetch Agatha for him \n
-before he can. 
+//アガタをさがして欲しいんだって。\nもう眠いんだって。
+Herod must want to sleep now, but you\n
+two need to fetch Agatha for him\n
+before he can.
 <$00>
 
 // Pos: 00002ABE
@@ -83,7 +83,7 @@ before he can.
 
 <$10>
 //ヘロデさんにはアガタが必要。
-Does Herod need Agatha? 
+Does Herod need Agatha?
 <$00>
 
 // Pos: 00002AD0
@@ -94,7 +94,7 @@ Does Herod need Agatha?
 
 <$10>
 //いないと眠れない。
-He can't sleep without Agatha! 
+He can't sleep without Agatha!
 <$00>
 
 // Pos: 00002ADC
@@ -105,7 +105,7 @@ He can't sleep without Agatha!
 
 <$10>
 //俺たちじゃ務まらない。
-Can we not stop the nightmares? 
+Can we not stop the nightmares?
 <$00>
 
 // Pos: 00002AEA
@@ -116,7 +116,7 @@ Can we not stop the nightmares?
 
 <$10>
 //悪夢だ、悪夢だ、悪夢はごめんだ。
-We can't, but Agatha will help! 
+We can't, but Agatha will help!
 <$00>
 
 // Pos: 00002AFF
@@ -129,12 +129,12 @@ We can't, but Agatha will help!
 //エイプリル：
 April:
 <$0D>
-// \nどうしよう… \nこれじゃ記憶の谷へ行けなくなる。
- \n
-If they won't let us go to Valles \n
+//\nどうしよう…\nこれじゃ記憶の谷へ行けなくなる。
+\n
+If they won't let us go to Valles\n
 Memoriae, what are we supposed to
 <$0C>
-do?! 
+do?!
 <$00>
 
 // Pos: 00002B25
@@ -147,12 +147,12 @@ do?!
 //エイプリル：
 April:
 <$0D>
-// \n黒い騎士…蕃判…まるで黙示録ね。 \n黙示録では本当は青ざめた馬なの。
- \n
-The Black Rider...is from Revelations, \n
+//\n黒い騎士…蕃判…まるで黙示録ね。\n黙示録では本当は青ざめた馬なの。
+\n
+The Black Rider...is from Revelations,\n
 and Judgement is mentioned
 <$0C>
-alongside the Pale Rider. 
+alongside the Pale Rider.
 <$00>
 
 // Pos: 00002B60
@@ -161,37 +161,37 @@ alongside the Pale Rider.
 
 #WHB(PTR, $00000A75)
 
- 
+
 <$00><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n青ざめた馬を見よ。 \nこれに乗る騎士の名を死と呼ぶ。
- \n
-"And I looked, and behold a pale horse: \n
+//\n青ざめた馬を見よ。\nこれに乗る騎士の名を死と呼ぶ。
+\n
+"And I looked, and behold a pale horse:\n
 and his name that sat on him was
 <$0C>
-Death." 
+Death."
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n死の騎士が駆け抜けた後、 \n世界のほとんどは死によって支配される。
- \n
-"And power was given unto them the \n
+//\n死の騎士が駆け抜けた後、\n世界のほとんどは死によって支配される。
+\n
+"And power was given unto them the\n
 fourth part of the earth, to kill with
 <$0C>
-sword, and with hunger," 
+sword, and with hunger,"
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \n飢えとおそろしい獣たちによって、 \n全ての人間は神のさばきを受けるだろう。
- \n
-"And with death, and with the beasts of \n
+//\n飢えとおそろしい獣たちによって、\n全ての人間は神のさばきを受けるだろう。
+\n
+"And with death, and with the beasts of\n
 the earth." Ultimately, all humans
 <$0C>
-were judged by God. 
+were judged by God.
 <$00>
 
 // Pos: 00002BF4
@@ -204,37 +204,37 @@ were judged by God.
 //エイプリル：
 April:
 <$0D>
-// \n黙示録のことは子供のころ本で読んだの。 \n全てがなくなる、世界が終わる…
- \n
-I remember looking at Revelations as a \n
+//\n黙示録のことは子供のころ本で読んだの。\n全てがなくなる、世界が終わる…
+\n
+I remember looking at Revelations as a\n
 kid. It was a prophetic account of the
 <$0C>
-End Times. 
+End Times.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nママに開いたらそんなのウソだって。 \n世界は絶対になくなったりしない、
- \n
-When I asked my mom about it, she \n
+//\nママに開いたらそんなのウソだって。\n世界は絶対になくなったりしない、
+\n
+When I asked my mom about it, she\n
 brushed it off, and said the world
 <$0C>
-would never truly end. 
+would never truly end.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nそんな心配より自分のことや \n私のことが心配なんだって。
- \n
-She said the book was lying, and all we \n
-had to do was worry about ourselves. 
+//\nそんな心配より自分のことや\n私のことが心配なんだって。
+\n
+She said the book was lying, and all we\n
+had to do was worry about ourselves.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-// \nママはいつも心配してたの。
- \n
-And oh, did my mom worry! 
+//\nママはいつも心配してたの。
+\n
+And oh, did my mom worry!
 <$00>
 
 // Pos: 00002CA1
@@ -243,12 +243,12 @@ And oh, did my mom worry!
 
 #WHB(PTR, $00001375)
 
-//離 まもなく消灯の時間です \n
-離 IT IS ALMOST LIGHTS-OUT TIME. \n
+//離 まもなく消灯の時間です\n
+離 IT IS ALMOST LIGHTS-OUT TIME.\n
 
 <$0E><$1E>
 //照明を落とします、照明を落とします。
-THE LIGHTS ARE TURNING OFF. 
+THE LIGHTS ARE TURNING OFF.
 <$0E><$3C><$17><$00>
 
 // Pos: 00002CD2
@@ -261,30 +261,30 @@ THE LIGHTS ARE TURNING OFF.
 //ウラジミール：
 Vladimir:
 <$0D>
-// \nなんだ、もう帰ってたのか、 \n
- \n
-What are you doing, home from school \n
+//\nなんだ、もう帰ってたのか、\n
+\n
+What are you doing, home from school\n
 so early,
 <$0C>
 
 <$0F>
 //。
-? 
+?
 <$0C><$0B>
 //ウラジミール：
 Vladimir:
 <$0D>
-// \nお前が早く帰ってきたからといって、 \nこの私が喜ぶとでも？
- \n
-What, am I supposed to congratulate \n
-you or something? 
+//\nお前が早く帰ってきたからといって、\nこの私が喜ぶとでも？
+\n
+What, am I supposed to congratulate\n
+you or something?
 <$0C><$0B>
 //ウラジミール：
 Vladimir:
 <$0D>
-// \nセルゲイ兄さんに遊んでもらえ。
- \n
-I don't have time for anyone's shit. Get \n
-Sergei to play with you. 
+//\nセルゲイ兄さんに遊んでもらえ。
+\n
+I don't have time for anyone's shit. Get\n
+Sergei to play with you.
 <$00>
 
