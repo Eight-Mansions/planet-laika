@@ -50,6 +50,21 @@
 	
 .org 0x8001c784
 	addiu t3, t3, 0xFF90
+	
+	
+; --------------------------- CLEAN UP FLAGS FOR DISPLAYING TEXT -------------
+; For cleaning up our flags
+.org 0x8001cf6c
+	;SLL     00000075 (a0), 00000075 (a0), 01 (1),
+	nop
+
+; Gets how many bytes to clean up yet its a unique instruction so...
+.org 0x8001cf50
+	;LH      60000000 (a2), 0004 (8010a1d4 (s1)) [8010a1d8]
+	addiu a2, r0, 0xC5 ; Add a bit more than our actual length so i can cheat and don't need to fix the calculation...
+					   ; This could bite us in the ass.. so maybe todo? fix it properly
+					   
+; ----------------------------------------------------------------------------
 
 .org 0x80063640
 ; TODO: Cleanup but im lazy...
