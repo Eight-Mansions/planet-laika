@@ -6,7 +6,10 @@ copy exe\orig\SLPM_862.64 exe\SLPM_862.64
 tools\armips.exe code\code.asm
 copy exe\SLPM_862.64 cd\laika\SLPM_862.64
 
-tools\planet_laika_scene_compress.exe ins cd\laika *.BIN
+del ins\S01\S01C01I4.IMG
+copy graphics\S01C01I4.IMG ins\S01\S01C01I4.IMG
+
+tools\planet_laika_scene_compress.exe ins cd\laika *
 
 tools\planet_laika_font_in.exe graphics\font.bmp cd\laika\SYS\LAIKA.FNZ
 
