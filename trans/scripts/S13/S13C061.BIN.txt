@@ -17,8 +17,8 @@ Crow:
 <$0D>
 //\n上で凍ってたやつだ、\nあいつが動いたんだ。
 \n
-That cold guy's up now, and he's on the\n
-move.
+That cold guy's up now, and he's on\n
+the move.
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -34,9 +34,9 @@ Crow:
 //\nやや？ 何か変だ…俺が変…やや？\nお前、何者だ、超能力者か？俺を上回るのか？
 \n
 ...Huh? Something feels...different.\n
-Hey, are you some kinda psychic? You
+Hey, are you some kinda psychic?
 <$0C>
-tweaking my brain?
+You tweaking my brain?
 <$00>
 
 // Pos: 00001B33
@@ -69,8 +69,10 @@ Crow:
 <$0D>
 //\nビニールにつつんで土に埋めて、\nゆっくり死ぬのを待つ、\nそう教えてくれたの兄さんだよ！
 \n
-I wrapped it in vinyl, buried it in the dirt\n
-and waited, just like YOU told me to!
+I wrapped it in vinyl, buried it in the\n
+dirt and waited, just like YOU told me
+<$0C>
+to!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -122,8 +124,8 @@ Crow:
 //\n夢の中じゃ俺が一番さ、\nもしかしたら兄さんより上かもな！
 \n
 In my dreams, I'm king of the hill.\n
-Shoot, I'm probably even better than
+Shoot, I'm probably even better
 <$0C>
-my bro, kek!
+than my bro, kek!
 <$00>
 

@@ -24,8 +24,8 @@ Little:
 <$0D>
 //\nお前もいたぞ、ええ？\n何でお前が俺の夢に現れるんだ、ええ？
 \n
-But you're here too, huh. What are you\n
-appearin' in my dreams for, huh?
+But you're here too, huh. What are\n
+you appearin' in my dreams for, huh?
 <$00>
 
 // Pos: 00002E0D
@@ -40,7 +40,8 @@ Little:
 <$0D>
 //\nああああ、トーテムポールみたいな怪物が…
 \n
-Brr, that great, totem-like monster...
+Brr, that great, totem-like\n
+monster...
 <$0C><$0B>
 //リトル：
 Little:
@@ -63,8 +64,8 @@ Madam Agatha:
 <$0D>
 //\nどうしたのリトル。 大声を出さないで。
 \n
-What's the matter, Little? Please don't\n
-shout.
+What's the matter, Little? Please\n
+don't shout.
 <$00>
 
 // Pos: 00002E6C
@@ -102,7 +103,8 @@ Little:
 <$0D>
 //\n俺をどうするつもりなんだ、ええ？
 \n
-What are you trying to do to me, girly?
+What are you trying to do to me,\n
+girly?
 <$00>
 
 // Pos: 00002EE2
@@ -125,8 +127,10 @@ Madam Agatha:
 <$0D>
 //\nうまくいかないとすぐに人のせいにする、\nそれはよくないわ。 索直にならなくちゃ。
 \n
-It's also impolite to blame your results\n
-on me, just because you dislike them.
+It's also impolite to blame your\n
+results on me, just because you
+<$0C>
+dislike them.
 <$00>
 
 // Pos: 00002F45
@@ -141,8 +145,8 @@ Little:
 <$0D>
 //\nちくしょう、俺だ、俺だ、\nここにいるのが俺だ…
 \n
-Goddammit! Why me, why me?! Why am\n
-I here?!
+Goddammit! Why me, why me?! Why\n
+am I here?!
 <$0C><$0B>
 //リトル：
 Little:
@@ -165,8 +169,8 @@ Madam Agatha:
 <$0D>
 //\nどうしたの？\nリトル…あなた…まさか…
 \n
-What's wrong, Little?! You're...you're\n
-turning...
+What's wrong, Little?!\n
+You're...you're turning...
 <$00>
 
 // Pos: 00002FA3
@@ -181,7 +185,8 @@ No... I can't stop now...!
 <$0C>
 //ねぇ…早く、急いで…\nでなきゃ手おくれになっちゃうよ…\n用済みにすらなれないよう…
 If I don't hurry... I'll be wiped\n
-out...before ever serving my purpose!
+out...before ever serving my\n
+purpose!
 <$00>
 
 // Pos: 00002FE6
@@ -225,8 +230,8 @@ Madam Agatha:
 <$0D>
 //\n約束の場所？\n誰と約束したの、ガリルとなの？
 \n
-The Promised Land? Who told you to go\n
-there? Was it Galil?
+The Promised Land? Who told you to\n
+go there? Was it Galil?
 <$00>
 
 // Pos: 00003063
@@ -259,9 +264,9 @@ lifelong journey.
 
 <$10><$13><$19>
 //この人も知ってるよ、約束の場所のこと。\nそこに行けば僕は用済みになれるんだ。
-This person knows about the Promised\n
-Land too. If we go, I will be able to serve\n
-my purpose.
+This person knows about the\n
+Promised Land too. If we go, I will be\n
+able to serve my purpose.
 <$0C>
 //やっとね、ちゃんとね。
 Finally, finally, finally...
@@ -279,8 +284,8 @@ Madam Agatha:
 <$0D>
 //\nそう… 星と意志を交わしたのね。\nそして記憶を与えられたのね。
 \n
-I see. You have crossed paths with the\n
-planet, and in return, the planet
+I see. You have crossed paths with\n
+the planet, and in return, the planet
 <$0C>
 granted you recollection.
 <$0C><$0B>
@@ -297,10 +302,10 @@ Madam Agatha:
 <$0D>
 //\nリトルは罪の意識に\nつぶされそうになっているのね。
 \n
-Little realizes he that, despite this, he\n
-is about to be crushed by the weight of
+Little realizes he that, despite this,\n
+he is about to be crushed by the
 <$0C>
-that sin.
+weight of that sin.
 <$00>
 
 // Pos: 00003196
@@ -312,8 +317,8 @@ that sin.
 <$10><$13><$19>
 //僕は見たよ、ぼんやりとだけど。 リトルが\n双子たちに靴下を配るのを。 ぼんやりと。
 I saw it only vaguely. It was a hazy\n
-image, but Little handed out stockings\n
-to various twins.
+image, but Little handed out\n
+stockings to various twins.
 <$0C>
 //あああ、もう行くんだ、でなきゃリトルが\nなくなってしまう。そうなるとこの僕も…
 I have to go to the Promised Land. If I\n
@@ -449,10 +454,10 @@ Madam Agatha:
 <$0D>
 //\nそれでこの星の使者になれるのよ。
 \n
-That realization you have then will be\n
-key to you becoming a messenger of
+That realization you have then will\n
+be key to you becoming a messenger
 <$0C>
-this planet.
+of this planet.
 <$00>
 
 // Pos: 000033DF
@@ -483,23 +488,24 @@ Madam Agatha:
 <$0D>
 //\nあなた次第で、\nその穴を埋めることができるのよ。
 \n
-The possibility of ever filling that hole\n
-depends entirely on you.
+The possibility of ever filling that\n
+hole depends entirely on you.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n恐がることはないわ、心に向き合うの。
 \n
-Do not be afraid to face your own mind.
+Do not be afraid to face your own\n
+mind.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n心の奥にしまい込んだ\n小さな声に耳をかたむけるのよ。
 \n
-Listen to the little voices laced deep in\n
-your mind.
+Listen to the little voices laced deep\n
+in your mind.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

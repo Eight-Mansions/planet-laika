@@ -36,8 +36,8 @@ We found a dogface you can fix!
 <$10><$13><$19>
 //ねぇ、ヘロデが呼んでたよ。
 Oh, how exciting! Actually, I came\n
-because I heard Herod calling for you\n
-two.
+because I heard Herod calling for\n
+you two.
 <$00>
 
 // Pos: 00002A81
@@ -70,8 +70,8 @@ We were just there!
 
 <$10><$13><$19>
 //アガタをさがして欲しいんだって。\nもう眠いんだって。
-Herod must want to sleep now, but you\n
-two need to fetch Agatha for him\n
+Herod must want to sleep now, but\n
+you two need to fetch Agatha for him\n
 before he can.
 <$00>
 
@@ -149,10 +149,10 @@ April:
 <$0D>
 //\n黒い騎士…蕃判…まるで黙示録ね。\n黙示録では本当は青ざめた馬なの。
 \n
-The Black Rider...is from Revelations,\n
-and Judgement is mentioned
+The Black Rider...is from\n
+Revelations, and Judgement is
 <$0C>
-alongside the Pale Rider.
+mentioned alongside the Pale Rider.
 <$00>
 
 // Pos: 00002B60
@@ -168,10 +168,10 @@ April:
 <$0D>
 //\n青ざめた馬を見よ。\nこれに乗る騎士の名を死と呼ぶ。
 \n
-"And I looked, and behold a pale horse:\n
-and his name that sat on him was
+"And I looked, and behold a pale\n
+horse: and his name that sat on him
 <$0C>
-Death."
+was Death."
 <$0C><$0B>
 //エイプリル：
 April:
@@ -188,8 +188,8 @@ April:
 <$0D>
 //\n飢えとおそろしい獣たちによって、\n全ての人間は神のさばきを受けるだろう。
 \n
-"And with death, and with the beasts of\n
-the earth." Ultimately, all humans
+"And with death, and with the beasts\n
+of the earth." Ultimately, all humans
 <$0C>
 were judged by God.
 <$00>
@@ -206,10 +206,10 @@ April:
 <$0D>
 //\n黙示録のことは子供のころ本で読んだの。\n全てがなくなる、世界が終わる…
 \n
-I remember looking at Revelations as a\n
-kid. It was a prophetic account of the
+I remember looking at Revelations\n
+as a kid. It was a prophetic account of
 <$0C>
-End Times.
+the End Times.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -226,8 +226,10 @@ April:
 <$0D>
 //\nそんな心配より自分のことや\n私のことが心配なんだって。
 \n
-She said the book was lying, and all we\n
-had to do was worry about ourselves.
+She said the book was lying, and all\n
+we had to do was worry about
+<$0C>
+ourselves.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -263,8 +265,8 @@ Vladimir:
 <$0D>
 //\nなんだ、もう帰ってたのか、\n
 \n
-What are you doing, home from school\n
-so early,
+What are you doing, home from\n
+school so early,
 <$0C>
 
 <$0F>
@@ -276,15 +278,15 @@ Vladimir:
 <$0D>
 //\nお前が早く帰ってきたからといって、\nこの私が喜ぶとでも？
 \n
-What, am I supposed to congratulate\n
-you or something?
+What, am I supposed to\n
+congratulate you or something?
 <$0C><$0B>
 //ウラジミール：
 Vladimir:
 <$0D>
 //\nセルゲイ兄さんに遊んでもらえ。
 \n
-I don't have time for anyone's shit. Get\n
-Sergei to play with you.
+I don't have time for anyone's shit.\n
+Get Sergei to play with you.
 <$00>
 

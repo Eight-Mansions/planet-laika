@@ -32,8 +32,8 @@ Liever:
 <$0D>
 //\nあいつもおびえはじめてるんだ！\n僕のウラガワにいるやつ、リトルのことだよ。
 \n
-My opposite's starting to freak out too.\n
-Little is, I mean.
+My opposite's starting to freak out\n
+too. Little is, I mean.
 <$00>
 
 // Pos: 0000189B
@@ -79,7 +79,8 @@ Spacer:
 <$0D>
 //\nこの先はどこにつながってるんだ？
 \n
-Okay. So, what are we in for up ahead?
+Okay. So, what are we in for up\n
+ahead?
 <$00>
 
 // Pos: 000018F9
@@ -132,7 +133,7 @@ true self.
 Liever:
 <$0D>
 //\nふふふ、本当の自分がいればの話だけどね。
-Heh, if your "true self" exists in\n
-the first place, that is.
+Heh, if your "true self" exists\n
+in the first place, that is.
 <$00>
 

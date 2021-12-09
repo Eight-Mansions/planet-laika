@@ -42,8 +42,8 @@ Tommy:
 
 <$12>
 //つくそっ、気分が悪い、吐きそうだぜ…\nおぇっ、うぐぐぐ、おえっ…
-Ick, I feel sick. Totally about to puke...\n
-This sucks!
+Ick, I feel sick. Totally about to\n
+puke... This sucks!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -58,8 +58,8 @@ Tommy:
 <$0D>
 //\nリトルのやつ、さっきナイトプラネットの側に\nいやがったぜ…
 \n
-If you need to speak to an employee, I\n
-saw Little outside of NIGHT PLANET
+If you need to speak to an employee,\n
+I saw Little outside of NIGHT PLANET
 <$0C>
 just now.
 <$0C><$0B>
@@ -84,8 +84,8 @@ Tommy:
 <$0D>
 //\nナイトプラネットは\nここまっすぐ行ったところだ、
 \n
-If you wanna check out NIGHT PLANET,\n
-it's just up the road, a-yup.
+If you wanna check out NIGHT\n
+PLANET, it's just up the road, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -194,8 +194,8 @@ Tommy:
 <$0D>
 //\n何だよ、水くせぇじゃねぇか、\nよう、赤い石だろ、図星！
 \n
-Something slippery, I bet... YEAH! They\n
-want the red stone!
+Something slippery, I bet... YEAH!\n
+They want the red stone!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -226,18 +226,20 @@ Tommy:
 <$0D>
 //\n石のとこに行けねぇんだ！ 扉が開かねぇ…\nブーマーのやつが力任せにやっても開かねぇ…
 \n
-The door that leads to the stone won't\n
-open! Even Boomer can't break it down.
+The door that leads to the stone\n
+won't open! Even Boomer can't break
+<$0C>
+it down.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nハウスにいるヤングやクロウに言わせりゃ\n火星人の扉だと。
 \n
-That's a Martian door. You'll have to ask\n
-Yang or Crow over at Psycho Lab about
+That's a Martian door. You'll have to\n
+ask Yang or Crow over at Psycho Lab
 <$0C>
-it.
+about it.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -269,16 +271,16 @@ Tommy:
 <$0D>
 //\nその目ん玉とお話ししないと、扉は開かねぇ…\nひゃー！ でっけぇ目ん玉だとよ！
 \n
-You'll have to talk to one of those giant\n
-honkers to get inside, a-yup.
+You'll have to talk to one of those\n
+giant honkers to get inside, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n恐々行ってみたぜ、俺もよ、見えねぇ…\n俺には目ん玉なんて、見えねえ…\nくそったれ…
 \n
-I'd love to help, but I...I can't see 'em. I\n
-can't see the honkers, dangit!
+I'd love to help, but I...I can't see 'em.\n
+I can't see the honkers, dangit!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -301,16 +303,16 @@ Tommy:
 <$0D>
 //\nよよ、兄ちゃんよう、\n赤い石、手に入れたのか？
 \n
-Hey, comrade! You find that red stone\n
-in one piece?
+Hey, comrade! You find that red\n
+stone in one piece?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nすげぇな、そりゃすげぇ。\n目ん玉はどうした？ ほんとにあるのか？
 \n
-Hehe, nice! So, what about the talking\n
-eyeballs? Are they real?
+Hehe, nice! So, what about the\n
+talking eyeballs? Are they real?
 <$1B>
 //」ある\nない
 」Yes
@@ -330,18 +332,18 @@ Tommy:
 <$0D>
 //\nほんとかよ、へへ、\nどうせ俺たちには見えねぇんだ。
 \n
-So, they're real! Hehe, too bad we can't\n
-see 'em, you know?
+So, they're real! Hehe, too bad we\n
+can't see 'em, you know?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n兄ちゃんもハウスの野郎と一緒だ、\n電波の実験してるやつと一緒だ。
 \n
-That reminds me. Go check out Psycho\n
-Lab. The guys there experiment with
+That reminds me. Go check out\n
+Psycho Lab. The guys there
 <$0C>
-radio waves.
+experiment with radio waves.
 <$1E>
 //双
 双
@@ -359,10 +361,10 @@ Tommy:
 <$0D>
 //\nねぇよな、そりゃそうだ、\nハウスのやつらはおかしいぜ。
 \n
-Yeah, figures. Those Psycho Lab guys\n
-love that hocusy-pocusy stuff too,
+Yeah, figures. Those Psycho Lab\n
+guys love that hocusy-pocusy stuff
 <$0C>
-a-yup.
+too, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -388,8 +390,8 @@ Tommy:
 <$0D>
 //\n知ってるか、兄ちゃん。
 \n
-Have you ever checked out the monitor\n
-in Psycho Lab?
+Have you ever checked out the\n
+monitor in Psycho Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -404,7 +406,8 @@ Tommy:
 <$0D>
 //\n気味悪いぜ、なあ兄ちゃんよう。
 \n
-Give it a good look sometime, comrade.
+Give it a good look sometime,\n
+comrade.
 <$1E>
 //双
 双
@@ -481,16 +484,18 @@ Madam Agatha:
 <$0D>
 //\n気を確かに持つのよ、\n記憶の谷で何が起きても動じないでね。
 \n
-Keep your mind sharp. Don't succumb\n
-to the wiles of Valles Memoriae.
+Keep your mind sharp. Don't\n
+succumb to the wiles of Valles
+<$0C>
+Memoriae.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこの星のよこしまな力に\nとらわれたりしないでね。
 \n
-Mars possesses a vile power. Don't let\n
-that power swallow you whole.
+Mars possesses a vile power. Don't\n
+let that power swallow you whole.
 <$1E>
 //理
 理

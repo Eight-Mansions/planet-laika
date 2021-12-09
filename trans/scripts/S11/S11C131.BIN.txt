@@ -54,8 +54,8 @@ Crow:
 <$0D>
 //\nあのマシンか！ あれは、スペースアンプだ。\n集めてんだよう、力を！
 \n
-That machine? Oh, the Space A.M.P.! We\n
-use that to gather energy.
+That machine? Oh, the Space A.M.P.!\n
+We use that to gather energy.
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -72,8 +72,8 @@ Crow:
 <$0D>
 //\nへへ！ それともなにか、使えもしねえ\n無線テレビで遊ぼうってのか…へへ！
 \n
-We can't use it any other way. What do\n
-we look like, wireless TVs? Kek!
+We can't use it any other way. What\n
+do we look like, wireless TVs? Kek!
 <$1E>
 //炎
 炎
@@ -112,6 +112,7 @@ Yang:
 <$0D>
 //\nおっかないだろ、\nやっぱりおっかないことになってるだろ。
 \n
-This is ghastly! This is ghastly after all!
+This is ghastly! This is ghastly after\n
+all!
 <$00>
 

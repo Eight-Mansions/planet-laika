@@ -57,7 +57,7 @@ Captain Tatler:
 Captain Tatler:
 <$0D>
 //\n自分を見失ってしまうというぞ。
-\nWithout considerable mental fortitude, on can easily lose themself to the delusion.
+\nWithout considerable mental fortitude, one can easily lose themself to the delusion.
 <$00>
 
 //F:orig\S01\S01C011.BIN
@@ -166,7 +166,7 @@ Noon:
 離 THE PHOENIX IS NOW IN MARS'S ORBIT.\n
 <$0E><$0F>
 //ただいま火星の軌道に入りました。
-THE PHOENIX IS NOW IN MARS' ORBIT.
+THE PHOENIX IS NOW IN MARS'S ORBIT.
 <$00>
 
 //F:orig\S01\S01C011.BIN
@@ -182,7 +182,7 @@ Noon:
 Noon:
 <$0D>
 //\nルーキーの無線技師に学者のタマゴの\nおネエさん…たのもしいかぎりだぜ。
-\nCan we count on a rookie radio engineer and a geology boffin out here in space?
+\nCan we count on a rookie radio tech and a geology boffin out here in space?
 <$00>
 
 //F:orig\S01\S01C011.BIN
@@ -819,7 +819,7 @@ Captain Tatler:
 April:
 <$0D>
 //\nあれが…顔…
-\nIt...really does looks like a face.
+\nIt...really does look like a face.
 <$00>
 
 //F:orig\S01\S01C013.BIN
@@ -915,7 +915,7 @@ AUTO LANDING SYSTEM, CHECK.
 //P:000039B5
 <$10>
 //装置、オン！\n目標、シドニアエリア。顔のそば！
-NOW APPROACHING PARAMETER OF THE FACE, CYDONIA REGION.
+NOW APPROACHING PARAMETER OF THE FACE IN THE CYDONIA REGION.
 <$00>
 
 //F:orig\S01\S01C031.BIN
@@ -969,7 +969,7 @@ Noon:
 Captain Tatler:
 <$0D>
 //\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
-\nOnly if Martian life suffered mass a rejection to "filthy" bacteria from said faces.
+\nOnly if Martian life suffered a mass rejection to "filthy" bacteria from said faces.
 <$00>
 
 //F:orig\S01\S01C031.BIN
@@ -1176,13 +1176,13 @@ Captain Tatler:
 Captain Tatler:
 <$0D>
 //\nいつまでそこにいる？
-\nHow long have you been dawdling there?
+\nAnyways, what are you waiting for?
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n私をいらいらさせないでくれ。\n着陸準備にかかるんだ。
-\nDon't bust my chops now.\nGo prepare for landing.
+\nDon't just stand there!\nPrepare for landing!
 <$00>
 
 //F:orig\S01\S01C031.BIN
@@ -1567,7 +1567,7 @@ Ernest:
 Phoenix:
 <$0D>
 //\n僕が… 死に憑かれているだと…\nこの僕が… エレミヤだと言うのか。
-\nI'm...being haunted...by death itself... Jeremiah is...talking to me...
+\nI am...haunted...by Death itself. Jeremiah is...talking to me...
 <$00>
 
 //F:orig\S01\S01C033.BIN
@@ -1994,7 +1994,7 @@ Just before entering the colony.
 //F:orig\S01\S01C071.BIN
 //P:00001CA7
 //葉顔\n\n      怪物は心の中にいる。
-The monsters\n\n      are in the mind.
+葉The monsters\n\n      are in the mind.
 <$0E><$FF><$17><$00>
 
 //F:orig\S02\S02C021.BIN
@@ -2521,7 +2521,7 @@ Spacer:
 子Captain Tatler:
 <$0D>
 //\nヌーン、どこかに待避場所はないのか？
-\nNoon, were there any shelters marked in the area?
+\nNoon, were there any safe houses marked for the area?
 <$0E><$14><$17><$00>
 
 //F:orig\S02\S02C031.BIN
@@ -2619,7 +2619,7 @@ Spacer:
 //F:orig\S02\S02C041.BIN
 //P:00004C76
 //歪坑つまでいい子でいたいんだ、お前は？
-歪坑You always were a boring Goody Two Shoes.
+歪坑You always were a boring goody two-shoes.
 <$0E><$3C><$17><$00>
 
 //F:orig\S02\S02C041.BIN
@@ -2742,7 +2742,7 @@ Yolanda:
 Yolanda:
 <$0D>
 //\n宇宙航空隊の無線技師って、\nえらく大変なお仕事なのね。
-\nHonestly, who accepts a radio engineering job from the ISF at this time of year?
+\nHonestly, who accepts a radio tech job from the ISF at this time of year?
 <$00>
 
 //F:orig\S02\S02C041.BIN
@@ -4490,7 +4490,7 @@ Noon:
 Noon:
 <$0D>
 //\nコロニー…コロニー…早くおうちに帰りたい。\nママが待ってるんだ！
-\nQuick...! Take me to...the colony... Take me 'ome! Mummy's waiting for me!
+\nQuick...! Take me...to the colony! Take me 'ome! Mummy's waiting for me!
 <$00>
 
 //F:orig\S02\S02C141.BIN
@@ -4538,7 +4538,7 @@ Captain Tatler:
 Noon:
 <$0D>
 //\nコ、コロニー…
-\nThe...colony...?
+\nThe...colony?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -5257,7 +5257,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -5953,6 +5953,7 @@ Yang:
 <$0D>
 //\nいきなり何だよ。
 \nYou scared me, doing that! How did you open the door?!
+
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -6902,7 +6903,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -7537,7 +7538,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -7849,7 +7850,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -10386,7 +10387,7 @@ William:
 William:
 <$0D>
 //\n僕は、僕は、\nあいつらが滅びるところを見たかったんだ。
-\nWilliam...William only wanted to watch those philistines get their just desserts.
+\nWilliam... All William wanted was to see those philistines get their just desserts.
 <$0C><$0B>
 //ウィリアム：
 William:
@@ -10640,7 +10641,7 @@ Herod:
 Herod:
 <$0D>
 //\n俺は お、お、何だ、この気分は
-\nI don't...oh! Oh, no! W-what's this feeling?!
+\nI don't...oh! Oh, no!\nW-what's this feeling?!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -11397,7 +11398,7 @@ Oxygen Miner 3：
 Oxygen Miner 3：
 <$0D>
 //\n確かめたいのよ、さっきの惑じ…\nあんなの初めてだったから。
-\nYOU rEmInd mE Of sOmEOnE frOm bEfOre...bUt thIs Is OUr fIrst tImE...
+\nYOU rEmInd mE Of sOmEOnE I'vE mEt bEfOre...bUt thIs Is thE fIrst I'vE sEEn yOU.
 <$1E>
 //中
 中
@@ -13312,7 +13313,7 @@ Boomer:
 Boomer:
 <$0D>
 //\nハウスのやつらが…\nああなるのは分かってたんだ。
-\nI see men at Psycho Lab...have moved on.
+\nI see the men at Psycho Lab...have moved on.
 <$0C><$0B>
 //ブーマー：
 Boomer:
@@ -14221,7 +14222,7 @@ Tommy:
 Tommy:
 <$0D>
 //\nやつはなぁ、たまげた欲張りで、何カ月も\n処刑がないといらつきはじめるんだ。
-\nCharlie's a hungry boy, but hasn't had a meal in some months, so he's been...jittery.
+\nCharlie's a hungry boy, but hasn't had a meal in some months. He's been...jittery.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -14264,7 +14265,7 @@ Tommy:
 子Little:
 <$0D>
 //\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
-\nOi, why do I feel so...no! Goddammit, not here!
+\nOi, why do I feel so...\nNo! Goddammit, not here!
 <$0E><$1E><$17><$00>
 
 //F:orig\S04\S04C037.BIN
@@ -15900,7 +15901,7 @@ Marrakech:
 Marrakech:
 <$0D>
 //\n変ねぇ…どっかで会った気がするのよ…\n気のせい？
-\nDear...have we met before, or did I imagine it?
+\nDear... Have we met before, or did I imagine it?
 <$00>
 
 //F:orig\S04\S04C061.BIN
@@ -16072,7 +16073,7 @@ East:
 West:
 <$0D>
 //\n火星で人気の整形屋。
-\nMars' popular plastic surgery office!
+\nMars's popular plastic surgery office!
 <$00>
 
 //F:orig\S04\S04C062.BIN
@@ -17139,7 +17140,7 @@ Marrakech:
 Marrakech:
 <$0D>
 //\nコスマスの犬顔、レッドが見たら怒り狂うわよ。\nあなた、見つからないようにしなきゃ。
-\nIf Red sees Cosmas' face, he'll riot.\nYou'd both better keep away from Red.
+\nIf Red sees Cosmas's face, he'll riot.\nYou'd both better keep away from Red.
 <$1E>
 //中
 中
@@ -18041,7 +18042,7 @@ Gold:
 Gold:
 <$0D>
 //\nクロウのやつは人の夢の中がのぞけるんだ。
-\nI should mention: Crow has the ability to peer into peoples' dreams.
+\nI should mention: Crow has the ability to peer into people's dreams.
 <$1E>
 //声
 声
@@ -18866,7 +18867,7 @@ Cosmas:
 Cosmas:
 <$0D>
 //\n火事…リバー…導いてくれる…\n預言の場所にだよ。
-\nThrough fire...Liever will show you to the place of prophecy.
+\nThrough a fire...Liever will show you to the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -19769,7 +19770,7 @@ Little:
 April:
 <$0D>
 //\n知ってるの？ ライカのこと。
-\nDo you know Laika?
+nDo you know Laika?
 <$00>
 
 //F:orig\S04\S04C092.BIN
@@ -19831,7 +19832,7 @@ Little:
 Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-\nPROVING, see, that you are NOT so indispensible, got it?
+nPROVING, see, that you are NOT so indispensible, got it?
 <$0C><$0B>
 //リトル：
 Little:
@@ -20531,7 +20532,7 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nあの子、そうよ、あの子は\nエイプリルじゃないの、すごく似ている、\nそっくりよ。とても美しいわ。
-\nIs this...April? ...No, but she's remarkably similar, and remarkably beautiful.
+\nIs this April...? No, but she's remarkably similar. Remarkably beautiful.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -20633,7 +20634,7 @@ X（It's cold, isn't it,
 子Madam Agatha:
 <$0D>
 //\n煙、白い煙が見える…\n火？ 建うわ、あれは火じゃない、\n真っ赤になった火かき棒よ。
-\nSmoke. I see a white smoke. Is it fire? No...it's the bright, searing end of a fire hook.
+\nSmoke. I see a white smoke. Is it fire? No... It's the bright, searing end of a fire hook.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -20870,7 +20871,7 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nポーチでむかえているのは… お父さん…\nウラジミールよ、あなたの新しいお父さん。\n赤ら顔なのね。
-\nWaiting on the porch is Vladimir...your new father. His face is flushed when you meet him.
+\nWaiting on the porch is Vladimir, your new father. His face is flushed when you meet him.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -22251,7 +22252,7 @@ Marrakech:
 Little:
 <$0D>
 //\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
-\nOi, why do I feel so...no! Goddammit, not here!
+\nOi, why do I feel so...\nNo! Goddammit, not here!
 <$0E><$1E><$17><$00>
 
 //F:orig\S04\S04C297.BIN
@@ -23028,7 +23029,7 @@ X６Comrade, over here, to the right!
 //P:0000357E
 <$10><$11>
 //的こだそこだ、そうだ真っ直ぐこっちだ。\nまっすぐ、まっつぐ、まっしゅぐだ…来い。
-的Straight! Yeah, straight this way! Just come along straight. Straight...straight...
+的Straight! Yeah, straight this way! Come along straight. Straight...straight...
 <$0E><$1E><$17><$00>
 
 //F:orig\S04\S04C307.BIN
@@ -23064,7 +23065,7 @@ Red:
 Red:
 <$0D>
 //\nコスマスに余計な入れ知惠しやがったのは、\nお前だな、可愛い子犬ちゃんよう！
-\nOh, I get it. You're the one filling Cosmas' head with ideas, you darling puppy, you!
+\nOh, I get it. You're the one filling Cosmas's head with ideas, you darling puppy, you!
 <$00>
 
 //F:orig\S04\S04C307.BIN
@@ -25689,7 +25690,7 @@ Yolanda:
 Oxygen Miner 1：
 <$0D>
 //\n町長は町長屋敷だ。
-\nElder lives in elder's cottage.
+\nElder lives in Elder's cottage.
 <$00>
 
 //F:orig\S06\S06C031.BIN
@@ -25699,7 +25700,7 @@ Oxygen Miner 1：
 Yolanda:
 <$0D>
 //\nその町長屋敷はどこなの？
-\nOh. Right. And where is the elder's residence, exactly?
+\nOh. Right. And where is the that, exactly?
 <$00>
 
 //F:orig\S06\S06C031.BIN
@@ -28313,7 +28314,7 @@ Yolanda:
 April:
 <$0D>
 //\nあのー…ヌーン…町長に会いたいの…
-\nUhm...we only came here to find Noo...! I mean, Elder Noon.
+\nUhm... We only came here to find Noon...! I mean, Elder Noon.
 <$00>
 
 //F:orig\S06\S06C111.BIN
@@ -28373,7 +28374,7 @@ Oxygen Miner 2：
 April:
 <$0D>
 //\nあ、あの…\n私たちはヌーンに会いに来たんです。
-\nUhm, well...we only came here to find Noon.
+\nUhm, well... We only came here to find Noon.
 <$00>
 
 //F:orig\S06\S06C111.BIN
@@ -28594,7 +28595,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -28773,7 +28774,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -29702,7 +29703,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -32284,7 +32285,7 @@ Spacer:
 Universal Man:
 <$0D>
 //\nあああ…\n呪いの火に焼きつくされてもいいのか…\nあああ…
-\nAhhh...yes, I can burn in the flames of...maledictionnnn....
+\nAhhh... Let me burn in the flames of...maledictionnnn....
 <$00>
 
 //F:orig\S09\S09C061.BIN
@@ -34619,7 +34620,7 @@ Commander October:
 Commander October:
 <$0D>
 //\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
-\nI think Earth finally got a taste of Mars' uproar. The Face went aglow!
+\nI think Earth finally got a taste of Mars's uproar. The Face went aglow!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -34746,7 +34747,7 @@ Yang:
 Mountain:
 <$0D>
 //\nロックバースは火星の宿命だ。
-\nRock birth is Mars' very destiny. That Galil idiot never had the right idea.
+\nRock birth is Mars's very destiny. That Galil idiot never had the right idea.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -35225,7 +35226,7 @@ Yang:
 How goes it, my little husk?
 <$0C>
 //君は、いや君たちは実に哀れだ。
-You...all of you, are so pathetic.
+You... All of you are pathetic.
 <$0C>
 //ひとつ忠告しておこう。
 Here's a piece of advice.
@@ -35281,7 +35282,7 @@ Mountain:
 Mountain:
 <$0D>
 //\nそれなら知ってるぞ、見たことあるぞ、\nお… 青虫になるのか？
-\nOh, yes, I'm aware. I'd seen it. Does...does it become a cabbageworm?
+\nOh, yes, I'm aware. I'd seen it. Does...it become a cabbageworm?
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -35293,7 +35294,7 @@ Mountain:
 Mountain:
 <$0D>
 //\n母の悲しみ… そういえば俺は悲しい、\n最も悲しい… ああ… ああ… あああ…
-\nMother's disappointed. Well, so am I, by the by. As sad as they get, too. Ohh, ohh...!
+\nMother's disappointed. Well, so am I, by the by. We're as sad as they get, too. Ohh, ohh...!
 <$00>
 
 //F:orig\S11\S11C147.BIN
@@ -35405,7 +35406,7 @@ Commander October:
 Commander October:
 <$0D>
 //\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
-\nI think Earth finally got a taste of Mars' uproar. The Face went aglow!
+\nI think Earth finally got a taste of Mars's uproar. The Face went aglow!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -35539,7 +35540,7 @@ Mountain:
 How goes it, my little husk?
 <$0C>
 //君は、いや君たちは実に哀れだ。
-You...all of you, are so pathetic.
+You... All of you are pathetic.
 <$0C>
 //ひとつ忠告をさずけよう。\nこの星の意志に逆らおうとしても\n無駄というものだ。
 Here's a piece of advice. It's useless to try to defy the will of this planet.
@@ -35557,7 +35558,7 @@ I will see you soon. I'm looking forward to it.
 How goes it, my little husk?
 <$0C>
 //君は、いや君たちは実に哀れだ。
-You...all of you, are so pathetic.
+You... All of you are pathetic.
 <$0C>
 //ひとつ忠告をさずけよう。\nこの星の意志に逆らおうとしても\nムダというものだ。
 Here's a piece of advice. It's useless to try to defy the will of this planet.
@@ -35594,7 +35595,7 @@ Spacer:
 \nYou're not Ernest! Who are you?!
 <$0C><$13><$13>
 //そういう先生こそ誰なのでしょう？\n深い憎しみを抱いた先生。
-Let's say I'm...a doctor. A doctor who embracing his deep hatred towards you parasites.
+Let's say I'm...a doctor. A doctor embracing his deep hatred towards you parasites.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -35691,7 +35692,7 @@ Spacer:
 \nAll right, who's in there?!
 <$0C><$13><$13>
 //そういう先生こそ誰なのでしょう？\n深い憎しみを抱いた先生。
-Let's say I'm...a doctor. A doctor who embracing his deep hatred towards you parasites.
+Let's say I'm...a doctor. A doctor embracing his deep hatred towards you parasites.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -36318,7 +36319,7 @@ It's nothing to get angry about. We can discuss this in person very soon. I'm lo
 How goes it, my little husk?
 <$0C>
 //君は、いや君たちは実に哀れだ。
-You...all of you, are so pathetic.
+You... All of you are pathetic.
 <$0C>
 //ひとつ忠告をさずけよう。\nこの星の意志に逆らおうとしても\n無駄というものだ。
 Here's a piece of advice. It's useless to try to defy the will of this planet.
@@ -39247,7 +39248,7 @@ Cosmas:
 Cosmas:
 <$0D>
 //\n神様…なの？\nみんなが騒いでる、蕃判の神様なの？
-\nAre you...God? Are you the God of that "Judgement" everyone is talking about?
+\nAre you...God? Are you the god of that "Judgement" everyone is talking about?
 <$00>
 
 //F:orig\S11\S11C237.BIN
@@ -39284,7 +39285,7 @@ We are an existence created from Our face and destroyed by Our face.
 Cosmas:
 <$0D>
 //\n顔！ 僕は…僕のこの顔が、嫌いだ。\nこの顔のおかげで、僕は…
-\nI...I hate my face! Thanks to this face, all I do is...
+\nI... I hate my face! Thanks to this face, all I do is...
 <$00>
 
 //F:orig\S11\S11C237.BIN
@@ -39451,7 +39452,7 @@ Spacer:
 True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
-\n"Roles"..."structure"...hah! Then We ask you, why do you kill each other? 
+\n"Roles"... "Structure"... Hah! Then We ask you, why do you kill each other? 
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -39486,7 +39487,7 @@ Spacer:
 True Faiths:
 <$0D>
 //\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
-\n"Personal"...another convenience word. Now, imagine organs in the human body were "personal".
+\n"Personal"... Another convenient word. Now, imagine organs in the human body were "personal".
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -39768,7 +39769,7 @@ Spacer:
 True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
-\n"Roles"..."structure"...hah! Then We ask you, why do you kill each other? 
+\n"Roles"... "Structure"... Hah! Then We ask you, why do you kill each other? 
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -39803,7 +39804,7 @@ Spacer:
 True Faiths:
 <$0D>
 //\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
-\n"Personal"...another convenience word. Now, imagine organs in the human body were "personal".
+\n"Personal"... Another convenient word. Now, imagine organs in the human body were "personal".
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -40192,7 +40193,7 @@ Cosmas:
 Cosmas:
 <$0D>
 //\n火事…リバー…導いてくれる…\n預言の場所にだよ。
-\nThrough fire...Liever will show you to the place of prophecy.
+\nThrough a fire...Liever will show you to the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -40389,13 +40390,13 @@ Yang:
 Mountain:
 <$0D>
 //\n円周率だ、円周率で増えたり減ったりするんだ。\n定理を見つけたんだ。
-\nI'VE FOUND IT! YES! A constant circumference to diameter ratio...pi!
+\nI'VE FOUND IT! YES! A constant circumference to diameter ratio: Pi!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\n小数点以下３０ケタまで覚えているぞ。\n開きたいか？
-\nI've memorized the first 30 digits to test the theory. Wanna hear it?
+\nI've memorized the first 30 digits for testing. Wanna hear?
 <$1B>
 //？開きたい\n開かない
 ？Yes\nNo
@@ -40491,7 +40492,7 @@ Mountain:
 Mountain:
 <$0D>
 //\nあんたを見て分かった、やっぱりな。\nさぐりに行くんだろ、\nやつらだ、メディスンマンのやつらだ。
-\nFrom that look on your face...yes! You're sniffing around for medicine men.
+\nFrom that look on your face... Yes! You're sniffing around for medicine men.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -40688,7 +40689,7 @@ Little:
 Crow:
 <$0D>
 //\nえらいことになった、フェイだ、\nあいつがよう、メディスンマンのドームから\n気味悪い人形を盗もうとしたんだ。
-\nKekeke, Feng's done it now. She tried swiping that creepy doll from the medicine mens' dome.
+\nKekeke, Feng's done it now. She tried swiping that creepy doll from the medicine men's dome.
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -41501,7 +41502,7 @@ Rummy:
 Rummy:
 <$0D>
 //\nでもダメだな、あいつのだな、\n他人のは勝手に触っちゃだめだな。
-\nIt isn't right to touch other peoples' things without permission.
+\nIt isn't right to touch other people's things without permission.
 <$00>
 
 //F:orig\S12\S12C051.BIN
@@ -41608,7 +41609,7 @@ Oxygen Miner 6：
 Oxygen Miner 3：
 <$0D>
 //\n何よ…何、この惑じは？\nあら、そんな、アタシの時間が…
-\nWhAt Is thIs...thAt I'm sEnsIng? Is...Is It my tImE tO...
+\nWhAt Is thIs...thAt I'm sEnsIng? Is... Is It my tImE tO...
 <$00>
 
 //F:orig\S12\S12C051.BIN
@@ -42294,7 +42295,7 @@ Chloe:
 命船Phoenix:
 <$0D>
 //\nずっと暗闇にいたいのに…\n今さら何もできないと思うよ。
-\nI'd wanted to stay in the dark forever, but I guess...I don't much say.
+\nI'd wanted to stay in the dark forever, but I guess...I don't have much say.
 <$0E><$78><$17><$00>
 
 //F:orig\S12\S12C071.BIN
@@ -43294,7 +43295,7 @@ Veronica:
 Veronica:
 <$0D>
 //\nどうしたの？ ねぇ、あんた、誰よ？\nさっきの人じゃないね。
-\nWhat's the matter...wait. Who are you? You're not the Earthling I met earlier.
+\nWhat's the matter... Wait. Who are you? You're not the Earthling I met earlier.
 <$00>
 
 //F:orig\S14\S14C022.BIN
@@ -43505,7 +43506,7 @@ So sayeth the fourth prophecy.
 Rummy:
 <$0D>
 //\nそうだな、僕がラミーだな、\nといっても実際は…
-\nIt's me, Runny...but, actually...
+\nIt's me, Rummy...but, actually...
 <$0C><$12><$0B><$0B>
 //ラミー：
 Rummy:
@@ -44797,7 +44798,7 @@ Thomas:
 Thomas:
 <$0D>
 //\n何だ、本格的だな、\nおおお、来る来る、来るぞ！
-\nWhatever it is, it's the real...oh! It's coming! Something's coming!
+\nWhatever it is, it's the real... Oh! It's coming! Something's coming!
 <$00>
 
 //F:orig\S14\S14C073.BIN
@@ -44935,7 +44936,7 @@ Thomas:
 Goldman:
 <$0D>
 //\n人のことは気にしねぇ、それが俺だ。
-\nI don't get wrapped up in other peoples' business. Shit ain't me.
+\nI don't get wrapped up in other people's business. Shit ain't me.
 <$1E>
 //家
 家
@@ -45029,7 +45030,7 @@ Goldman:
 Oxygen Miner 3：
 <$0D>
 //\n家が燃えて…どうしたの、それから、そうよ…\nトミーって名前を思い出して…
-\nHOUsEs wErE on fIrE, bUt thEn...yEAh... I rEmEmbEr thE nAmE "TOmmy".
+\nHOUsEs wErE on fIrE, bUt thEn... YEAh... I rEmEmbEr thE nAmE "TOmmy".
 <$0C><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：
@@ -45289,7 +45290,7 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nあの子、そうよ、あの子は\nエイプリルじゃないの、すごく似ている、\nそっくりよ。とても美しいわ。
-\nIs this...April? ...No, but she's remarkably similar, and remarkably beautiful.
+\nIs this April...? No, but she's remarkably similar. Remarkably beautiful.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -45391,7 +45392,7 @@ X（It's cold, isn't it,
 子Madam Agatha:
 <$0D>
 //\n煙、白い煙が見える…\n火？ 建うわ、あれは火じゃない、\n真っ赤になった火かき棒よ。
-\nSmoke. I see a white smoke. Is it fire? No...it's the bright, searing end of a fire hook.
+\nSmoke. I see a white smoke. Is it fire? No... It's the bright, searing end of a fire hook.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -45628,7 +45629,7 @@ Madam Agatha:
 Madam Agatha:
 <$0D>
 //\nポーチでむかえているのは… お父さん…\nウラジミールよ、あなたの新しいお父さん。\n赤ら顔なのね。
-\nWaiting on the porch is Vladimir...your new father. His face is flushed when you meet him.
+\nWaiting on the porch is Vladimir, your new father. His face is flushed when you meet him.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -46344,7 +46345,7 @@ Phoenix:
 Phoenix:
 <$0D>
 //\nああ、そうだ、僕の知らないところで\nいろんなことが進んでいたんだ。
-\nIt...it happened without my knowledge. I never saw what was going on.
+\nIt... It happened without my knowledge. I never saw what was going on.
 <$00>
 
 //F:orig\S14\S14C221.BIN
@@ -47183,7 +47184,7 @@ Crow:
 Crow:
 <$0D>
 //\nお前だ、何でそんな目で見る、ちくしょう！\n悪夢に閉じ込めてやる！
-\nDon't look at me with those eyes, you sonnuva...! I'll...I'll lock you up in this nightmare!
+\nDon't look at me with those eyes, you sonnuva...! I'll lock you up in this nightmare!
 <$00>
 
 //F:orig\S16\S16C051.BIN
@@ -47494,7 +47495,7 @@ Thomas:
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
-\nIt all happened so fast, I almost didn't notice, but...even then, it's all so hazy...
+\nIt all happened so fast, I almost didn't notice. But...even then, everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -47547,7 +47548,7 @@ Tommy:
 Tommy:
 <$0D>
 //\nああ、クロウのやつみたいに\n人の夢に出入りしてるのか。
-\nI take it you can go in and out of peoples' dreams like that Crow guy does.
+\nI take it you can go in and out of people's dreams like that Crow guy does.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -48034,7 +48035,7 @@ Spacer:
 Yolanda:
 <$0D>
 //\n夢よね、\nそうよ、アタシは悪い夢の中にいるのよ。
-\nI'm in a dream, aren't I. That's right...this is only a bad dream.
+\nI'm in a dream, aren't I. That's right... This is only a bad dream.
 <$00>
 
 //F:orig\S16\S16C221.BIN
@@ -48270,7 +48271,7 @@ Herod:
 Herod:
 <$0D>
 //\nおおお、何だ… あああ、来るな！
-\nOhh, what're you...no! GET AWAY!
+\nOhh, what're you... No! GET AWAY!
 <$00>
 
 //F:orig\S16\S16C301.BIN
@@ -48776,7 +48777,7 @@ Phoenix:
 Phoenix:
 <$0D>
 //\nそうだよ、ママ、僕にはなにもないんだ！\nやっぱりだ、僕はただの影なんだ！
-\nI know now! I'm...I'm nothing to Mama! I never was! I'm only a shadow!
+\nI know now! I'm... I'm nothing to Mama! I never was! I'm only a shadow!
 <$00>
 
 //F:orig\S17\S17C021.BIN
@@ -49417,7 +49418,7 @@ Galil:
 Galil:
 <$0D>
 //\nこの光がそうだというのか。\nすると私は… あああ、私の光はどこだ！
-\nBut, if this light is yours, where is...no! Where is MY light?!
+\nBut, if this light is yours, where is... No! Where is MY light?!
 <$00>
 
 //F:orig\S17\S17C022.BIN
@@ -50463,7 +50464,7 @@ Who knows. You couldn't tell just by looking at them.
 Yolanda:
 <$0D>
 //\n顔！そうよ、コスマスの顔…ぼんやり覚えてる…\n美少年ね、彼は。
-\nOh, right! I vaguely remember Cosmas' face. Stunning, that one.
+\nOh, right! I vaguely remember Cosmas's face. Stunning, that one.
 <$00>
 
 //F:orig\S99\S99C051.BIN

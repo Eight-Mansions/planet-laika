@@ -55,17 +55,17 @@ Tommy:
 //\n女はどうだか分からねぇけどな、\n男は殴らねぇ。
 \n
 I'm not sure how he is around women\n
-normally, but guys try not to mess with
+normally, but guys try not to mess
 <$0C>
-him.
+with him.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nそれよりやっかいなのは、兄ちゃんよう、\nやつに気に入られることだ。
 \n
-Still, it looks like he's taken a particular\n
-liking to you, comrade.
+Still, it looks like he's taken a\n
+particular liking to you, comrade.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -132,10 +132,10 @@ Tommy:
 <$0D>
 //\nあいつはコーカイして生きてんだ、\nどんなコーカイか、開きてぇか？
 \n
-That guy lives for making a production\n
-out of everything. Wanna hear an
+That guy lives for making a\n
+production out of everything.
 <$0C>
-example?
+Wanna hear an example?
 <$1B>
 //、開きたい\n開きたくない
 、Yes\n
@@ -162,9 +162,9 @@ Tommy:
 //\nそのじいさんってのが、ビックリだ、\n６９年間もしゃっくりが止まらねぇじいさんだ。\n６９年だぜ。
 \n
 The grandpa got spooked by\n
-something, and he hiccuped non-stop
+something, and he hiccuped
 <$0C>
-for 69 years.
+non-stop for 69 years.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -218,9 +218,9 @@ Tommy:
 //\nけどよ、じいさんはみるみる弱ってしまい、\n２日後にぽっくりだ。
 \n
 But then, the old man suddenly grew\n
-weaker, and weaker. He died two days
+weaker, and weaker. He died two
 <$0C>
-later.
+days later.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -255,8 +255,10 @@ Tommy:
 <$0D>
 //\nへへ、コーカイは先にはなんとかだ、\n兄ちゃんも気を付けな。
 \n
-Hehe, gotta be careful around people\n
-who put themselves out like that.
+Hehe, gotta be careful around\n
+people who put themselves out like
+<$0C>
+that.
 <$1E>
 //家
 家
@@ -358,14 +360,14 @@ Yosemite, was trapped within the\n
 rock of wisdom after an incident.
 <$0C>
 //岩にうずもれ、せまり来る死に向き合ったのだ。\n死の扉を開いた時に、ウワサのエレミヤが\n私に憑いた。
-Stuck in that rock, I faced Death's door.\n
-That is when the infamous Jeremiah\n
-haunted me.
+Stuck in that rock, I faced Death's\n
+door. That is when the infamous\n
+Jeremiah haunted me.
 <$0C>
 //私はエレミヤそのものとなり、\nいくつかの言葉を得た。
 In the time I was possessed by\n
-Jeremiah, I remember he spoke a few\n
-words into me.
+Jeremiah, I remember he spoke a\n
+few words into me.
 <$0C>
 //しかしその直後に、私は岩から解放された。\n生気を取り戻した私は、\nエレミヤの言葉を忘れた。
 Shortly after the haunting, I was\n
@@ -373,12 +375,12 @@ freed from the rock. When I sprang\n
 back to life, I forgot his words.
 <$0C>
 //エレミヤとは実在しない、\nいわば死のシンボルなのだ。
-Jeremiah is not real. He is, so to speak,\n
-a symbol of death.
+Jeremiah is not real. He is, so to\n
+speak, a symbol of death.
 <$0C>
 //それを私は身をもって知った。\n深く記憶にきざもう。
-I witnessed this with my own soul, so I\n
-know it is true. I will remember this\n
+I witnessed this with my own soul, so\n
+I know it is true. I will remember this\n
 experience deeply.
 <$00>
 

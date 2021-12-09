@@ -17,8 +17,8 @@ Yolanda:
 <$0D>
 //\n何これ… ガラクタのロケット…\nいったいどうしたって言うの？
 \n
-What is this trashed rocket? What does\n
-this toy have to do with me?
+What is this trashed rocket? What\n
+does this toy have to do with me?
 <$00>
 
 // Pos: 00000CF6
@@ -57,9 +57,9 @@ Yolanda:
 //\n誰がこんなふうにしたの？\nどれもこれも壊れてるじゃない。
 \n
 I mean, maybe, but who the hell\n
-trashed it? I never broke a thing in my
+trashed it? I never broke a thing in
 <$0C>
-life!
+my life!
 <$00>
 
 // Pos: 00000D58
@@ -77,10 +77,10 @@ Liever:
 
 <$0F>
 //が壊したんだよ、\nヤケになって、手当たり次第に。
- broke it apart. In a fit of despair, they\n
-took whatever they could get their
+ broke it apart. In a fit of despair,\n
+they took whatever they could get
 <$0C>
-hands on, and...
+their hands on, and...
 <$00>
 
 // Pos: 00000D81
@@ -98,15 +98,16 @@ Yolanda:
 Bullshit. 
 <$0F>
 //は\n何もできないのよ。
- couldn't accomplish that on their own..
+ couldn't accomplish that on\n
+their own..
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n彼は刃向かえないのよ。
 \n
-They couldn't accomplish anything on\n
-their own.
+They couldn't accomplish anything\n
+on their own.
 <$00>
 
 // Pos: 00000DB4
@@ -125,9 +126,9 @@ Are you sure?
 <$0F>
 //なんじゃないの？
  did a smashing job\n
-breaking apart their own memories,
+breaking apart their own
 <$0C>
-after all.
+memories, after all.
 <$00>
 
 // Pos: 00000DE5
@@ -153,9 +154,9 @@ Yolanda:
 
 <$0F>
 //は善でも悪でもないわ、\n無なのよ。 なにもないの、心もないのよ。
- never accomplished anything! Never\n
-had anything! They never had a mind of
+ never accomplished anything!\n
+Never had anything! They never had
 <$0C>
-their own!
+a mind of their own!
 <$00>
 

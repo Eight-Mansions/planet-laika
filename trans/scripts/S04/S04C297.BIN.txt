@@ -47,8 +47,8 @@ Marrakech:
 <$0D>
 //\n隠してもダメヨ、\nアタシ、見抜く、ミヌク。
 \n
-You can't hide from me, now. I can see\n
-right through you.
+You can't hide from me, now. I can\n
+see right through you.
 <$00>
 
 // Pos: 00002661
@@ -70,24 +70,24 @@ Marrakech:
 <$0D>
 //\nでしょ、やっぱりね、\n顔見りゃ分かるって…
 \n
-I'm right about that too, huh. I can tell\n
-just by looking at your face.
+I'm right about that too, huh. I can\n
+tell just by looking at your face.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nあら嫌だ、顔だなんて、\n顔ねらってるの顔で分かる、
 \n
-Well, not just your face, but the face of\n
-the face that you're facing.
+Well, not just your face, but the face\n
+of the face that you're facing.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\n変なしゃれできちゃった。\nあははははは、バカねアタシ、朝から陽気ね
 \n
-I'm only joking, ahaha! Don't mind me.\n
-I'm just playful in the mornings.
+I'm only joking, ahaha! Don't mind\n
+me. I'm just playful in the mornings.
 <$00>
 
 // Pos: 000026E7
@@ -109,8 +109,8 @@ Marrakech:
 <$0D>
 //\nおう、人の顔見てニヤついてんじゃねぇ！\nくそ野郎！
 \n
-Then why don't you smile when you see\n
-people, you rude little...!
+Then why don't you smile when you\n
+see people, you rude little...!
 <$00>
 
 // Pos: 00002724
@@ -221,8 +221,8 @@ Marrakech:
 <$0D>
 //\nなのにアタシまで手を貸したみたいに\n言われたの。
 \n
-I thought I could diffuse the situation,\n
-but nooo!
+I thought I could diffuse the\n
+situation, but nooo!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -245,9 +245,9 @@ Marrakech:
 //\nあああ、もう、こんなの！ お顔が何よ！\nどうでもよくなってきちゃった。
 \n
 What are you going to do NOW huh?\n
-Keep acting like you give a damn about
+Keep acting like you give a damn
 <$0C>
-us?!
+about us?!
 <$1E>
 //行
 行
@@ -292,8 +292,8 @@ Marrakech:
 <$0D>
 //\n地球じゃああいうお顔がはやってるの、\nみんなあんなお顔してるの？
 \n
-Do people down on Earth like that face\n
-of hers?
+Do people down on Earth like that\n
+face of hers?
 <$1E>
 //行
 行
@@ -311,8 +311,8 @@ Marrakech:
 <$0D>
 //\nあのコ、アガタに気に入られたの？\nねぇ、そうなの？ なら気を付けなきゃね。
 \n
-Your lassie friend fancies Agatha, no?\n
-She'd better be careful.
+Your lassie friend fancies Agatha,\n
+no? She'd better be careful.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -345,8 +345,10 @@ Marrakech:
 <$0D>
 //\nあのコ、自分のこと、かわいいって\n思ってるのかしらね。きっとそうよね。
 \n
-That lass is very charming in your eyes,\n
-isn't she? Yes, I was sure you'd agree.
+That lass is very charming in your\n
+eyes, isn't she? Yes, I was sure you'd
+<$0C>
+agree.
 <$1E>
 //行
 行
@@ -364,8 +366,10 @@ Marrakech:
 <$0D>
 //\nレッドのやつ、あのサイテー野郎、\nあわてて出ていったよ。
 \n
-I saw that bastard, Red, walk out here\n
-acting like he got really fucked up.
+I saw that bastard, Red, walk out\n
+here acting like he got really fucked
+<$0C>
+up.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -418,7 +422,7 @@ Little:
 <$0D>
 //\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
 \n
-Oi, why do I feel so...no! Goddammit,\n
-not here!
+Oi, why do I feel so...\n
+No! Goddammit, not here!
 <$0E><$1E><$17><$00>
 

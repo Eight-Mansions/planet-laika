@@ -49,8 +49,8 @@ White Eagle:
 <$0D>
 //\nシークレットパワーはどうじゃ、\n試してはみたのか？
 \n
-And what of your secret power? Have\n
-you tried using it yet?
+And what of your secret power?\n
+Have you tried using it yet?
 <$00>
 
 // Pos: 00003437
@@ -65,8 +65,8 @@ Phoenix:
 <$0D>
 //\n試すも何も、\n僕が話しかけるだけでみんなおかしくなる…
 \n
-It's not worth trying. Everyone I speak\n
-to loses their mind.
+It's not worth trying. Everyone I\n
+speak to loses their mind.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -95,8 +95,8 @@ White Eagle:
 <$0D>
 //\nはかり知れないのう、\nお前の心はどこまでも深いのう。
 \n
-It's immeasurable, see, how deep the\n
-depths of your mind go.
+It's immeasurable, see, how deep\n
+the depths of your mind go.
 <$00>
 
 // Pos: 000034BF
@@ -111,8 +111,8 @@ Phoenix:
 <$0D>
 //\nねぇ、僕をさがしてるって？\nロッジであったこと？
 \n
-You were looking for me. Is this about\n
-what happened at the lodge?
+You were looking for me. Is this\n
+about what happened at the lodge?
 <$00>
 
 // Pos: 000034E6
@@ -134,18 +134,18 @@ White Eagle:
 <$0D>
 //\nユニバーサルマンは\nおのれの分身をまねき寄せて、\n失われた預言を取り戻そうとしておる。
 \n
-Universal Man beckons his alter ego to\n
-come, so that they may seek out the
+Universal Man beckons his alter ego\n
+to come, so that they may seek out
 <$0C>
-lost prophecy.
+the lost prophecy.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n分身は彼にとっては\n死の世界への入口なのじゃ。
 \n
-He sees his alter ego as his entrance to\n
-the Land of the Dead.
+He sees his alter ego as his entrance\n
+to the Land of the Dead.
 <$00>
 
 // Pos: 0000356B
@@ -177,18 +177,18 @@ with Jeremiah?
 White Eagle:
 <$0D>
 //\nそもそもこの星は死の動機を秘めておる。
-Well, for one, this planet\n
-has its own reason for dying.
+Well, for one, this\n
+planet has its own reason for dying.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n火星人たちは自らの死をもって、\nその善意と悪意を分けたのじゃ。
 \n
-The Martians used death as a means to\n
-separate their good will from their ill
+The Martians used death as a means\n
+to separate their good will from
 <$0C>
-will.
+their ill will.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -260,8 +260,8 @@ Phoenix:
 <$0D>
 //\nあるいはいちど死んでよみがえったのかな？
 \n
-In that time, his alter ego was born. Did\n
-Universal Man die and be reborn?
+In that time, his alter ego was born.\n
+Did Universal Man die and be reborn?
 <$00>
 
 // Pos: 00003754
@@ -287,9 +287,9 @@ White Eagle:
 //\n全ての預言がそろうと\nガリルの妄想は消えてなくなり、\n預言が現実のものとなるのじゃ。
 \n
 When all prophecies are seen, Galil's\n
-fantasies too will die, and be reborn as
+fantasies too will die, and be reborn
 <$0C>
-realities.
+as realities.
 <$00>
 
 // Pos: 000037D6
@@ -304,8 +304,10 @@ Phoenix:
 <$0D>
 //\n今はそうじゃないの？\n預言が実現しかけてるんじゃないの？
 \n
-Isn't that already the case? Aren't the\n
-prohpecies coming true right now?
+Isn't that already the case? Aren't\n
+the prohpecies coming true right
+<$0C>
+now?
 <$00>
 
 // Pos: 00003804
@@ -320,10 +322,10 @@ White Eagle:
 <$0D>
 //\n今、実現しようとしておるのは\nガリルの妄想じゃ。預言ではないのじゃ。
 \n
-What you see now are Galil's fantasies\n
-being realized, but they are not
+What you see now are Galil's\n
+fantasies being realized, but they
 <$0C>
-prophecies.
+are not prophecies.
 <$00>
 
 // Pos: 0000383A
@@ -361,10 +363,10 @@ April:
 <$0D>
 //\n気が付くとママの気配やら、子供の頃の家やら、\nまがまがしい幻覚の中にいたの。
 \n
-I was in these irksome hallucinations\n
-about "cottage" this, and "Mummy"
+I was in these irksome\n
+hallucinations about "cottage" this,
 <$0C>
-that.
+and "Mummy" that.
 <$00>
 
 // Pos: 000038BC
@@ -427,8 +429,8 @@ April:
 <$0D>
 //\nねえ、これからどうする？\n私はもうだいじょうぶよ。
 \n
-Well, now that we're situated, where\n
-do we go from here?
+Well, now that we're situated,\n
+where do we go from here?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -451,7 +453,8 @@ Spirit Man:
 <$0D>
 //\nひょひょ、アーネストや、どこへ行く。
 \n
-Hyohyo, is that you, Ernest? Where to?
+Hyohyo, is that you, Ernest? Where\n
+to?
 <$00>
 
 // Pos: 000039EA
@@ -482,9 +485,9 @@ Spirit Man:
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…火事、リバー…ひょひょ。
 \n
 You're a forgetful one, hyohyo!\n
-Remember, if you want to see Liever,
+Remember, if you want to see
 <$0C>
-seek "fire".
+Liever, seek "fire".
 <$00>
 
 // Pos: 00003A3F
@@ -499,10 +502,10 @@ Ernest:
 <$0D>
 //\n火事…燃えた町…いやな惑じだぜ。
 \n
-A fire, huh. That could mean that town\n
-that burned down. It's a tasteless clue
+A fire, huh. That could mean that\n
+town that burned down. It's a
 <$0C>
-if it does.
+tasteless clue if it does.
 <$00>
 
 // Pos: 00003A61
@@ -517,7 +520,8 @@ Spirit Man:
 <$0D>
 //\nひょひょ、スペーサーや、どこへ行く。
 \n
-Hyohyo, is that you, Spacer? Where to?
+Hyohyo, is that you, Spacer? Where\n
+to?
 <$00>
 
 // Pos: 00003A83
@@ -532,8 +536,8 @@ Spacer:
 <$0D>
 //\n鏡から出てきたのか。\nイレギュラーなことだ。
 \n
-Coming out of mirrors now? That's not\n
-something you see everyday.
+Coming out of mirrors now? That's\n
+not something you see everyday.
 <$00>
 
 // Pos: 00003AA8
@@ -549,9 +553,9 @@ Spirit Man:
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…ロケット、リバー…ひょひょ。
 \n
 You're a forgetful one, hyohyo!\n
-Remember, if you want to see Liever,
+Remember, if you want to see
 <$0C>
-seek the "rocket".
+Liever, seek the "rocket".
 <$00>
 
 // Pos: 00003ADD
@@ -566,10 +570,10 @@ Spacer:
 <$0D>
 //\nロケット…\n私たちが乗って来たロケットのところか。
 \n
-"Rocket"... Of course I'd get the easiest\n
-clue. That'd mean the rocket we came
+"Rocket"... Of course I'd get the\n
+easiest clue. That'd mean the rocket
 <$0C>
-to Mars in.
+we came to Mars in.
 <$00>
 
 // Pos: 00003B05
@@ -617,9 +621,9 @@ Spirit Man:
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…避難小屋、リバー…ひょひょ。
 \n
 You're a forgetful one, hyohyo!\n
-Remember, if you want to see Liever,
+Remember, if you want to see
 <$0C>
-seek "shelter".
+Liever, seek "shelter".
 <$00>
 
 // Pos: 00003B7E
@@ -634,10 +638,10 @@ Yolanda:
 <$0D>
 //\n避難小屋…\nたしかにあったわね、そんなところが。
 \n
-"Shelter"... Well, actually, we did have\n
-to run for cover somewhere shortly
+"Shelter"... Well, actually, we did\n
+have to run for cover somewhere
 <$0C>
-after we landed...
+shortly after we landed...
 <$00>
 
 // Pos: 00003BA6
@@ -721,8 +725,8 @@ White Eagle:
 //\n光る石は火星人の善意と言われておる。\nどこかにあるはずじゃ。
 \n
 The glowing stones are said to be\n
-Martian good will. They must be around
+Martian good will. They must be
 <$0C>
-here somewhere.
+around here somewhere.
 <$00>
 

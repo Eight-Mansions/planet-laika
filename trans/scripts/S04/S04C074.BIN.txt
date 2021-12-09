@@ -153,9 +153,9 @@ Marrakech:
 //\nねぇ、また始まったよ、コスマスの独り言。\nあの子、おかしいのよ、変よ、
 \n
 Cosmas is talking to himself again\n
-through the back alley window. What
+through the back alley window.
 <$0C>
-an odd kid.
+What an odd kid.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -163,9 +163,9 @@ Marrakech:
 //\nダークマンがどうしたこうしたって…\nいじめられすぎたのね。\n窓のところに回ってみれば？開こえるから。
 \n
 "Dark Man" this, "Dark Man" that. The\n
-others will make fun of him if he keeps
+others will make fun of him if he
 <$0C>
-up.
+keeps up.
 <$1E>
 //行
 行
@@ -211,8 +211,8 @@ Marrakech:
 <$0D>
 //\nコスマスってどこか人の心を見通してるような\nところがあるのよね。
 \n
-There's something about Cosmas. It's\n
-like he can read people's minds.
+There's something about Cosmas.\n
+It's like he can read people's minds.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -238,18 +238,18 @@ Marrakech:
 <$0D>
 //\n鏡のところには行ったの？\n鏡はね、人をまどわすのよ…
 \n
-Did you find the mirror? I think mirrors\n
-are untrustworthy.
+Did you find the mirror? I think\n
+mirrors are untrustworthy.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\n昔ね、リャンハウス始まって以来の\n美人がいたの、アマンダって名前の女よ。
 \n
-Long ago, ever since House Liang first\n
-came to be, there was a gorgeous
+Long ago, ever since House Liang\n
+first came to be, there was a
 <$0C>
-woman named Amanda.
+gorgeous woman named Amanda.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -257,17 +257,19 @@ Marrakech:
 //\n最高にキレイなお顔を手に入れて、\nいつも鏡に見入っていたの。
 \n
 She had the most beautiful face, and\n
-she was always looking at it through a
+she was always looking at it through
 <$0C>
-mirror.
+a mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nそしたらどうなったと思う？
 \n
-And then...something happened, you\n
-know? It's a strange story, really.
+And then...something happened,\n
+you know? It's a strange story,
+<$0C>
+really.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -303,8 +305,8 @@ Marrakech:
 <$0D>
 //\n鏡の精よ、そんなのいるの…\nだったらオバケのことじゃないの？
 \n
-Mirror spirits do exist, but...if they're\n
-not ghosts, what are they?
+Mirror spirits do exist, but...if\n
+they're not ghosts, what are they?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -338,10 +340,10 @@ Marrakech:
 <$0D>
 //\nそうよね、鏡の精なんてね。\n案外オバケの正体だったりしてね…
 \n
-That's right, she's a mirror spirit! You\n
-learn some strange things once you
+That's right, she's a mirror spirit!\n
+You learn some strange things once
 <$0C>
-pull off the mask.
+you pull off the mask.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -349,7 +351,9 @@ Marrakech:
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
 \n
 That reminds me... Recently, I saw\n
-Linda mumbling in front of the mirror.
+Linda mumbling in front of the
+<$0C>
+mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -375,10 +379,10 @@ Marrakech:
 <$0D>
 //\nあのときのリンダ、\nリンダじゃないみたいだった…\n鏡って怖いのよ、人をおかしくさせるから。
 \n
-When I saw Linda that time, she looked\n
-so different. Mirrors scare me
+When I saw Linda that time, she\n
+looked so different. Mirrors scare
 <$0C>
-because they make people crazy.
+me because they make people crazy.
 <$1E>
 //中
 中

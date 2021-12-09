@@ -17,8 +17,8 @@ Little:
 <$0D>
 //\nさあ、これからお前は\n自分に向き合う旅を始める、
 \n
-Come on. It's time for you to start your\n
-journey to face the self.
+Come on. It's time for you to start\n
+your journey to face the self.
 <$0C><$0B>
 //リトル：
 Little:
@@ -41,23 +41,26 @@ Little:
 <$0D>
 //\n俺の頭の中で呼ぶ声が開こえるんだ…
 \n
-I can hear the voices callin' in my head.
+I can hear the voices callin' in my\n
+head.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n早く来い、約束の場所が待っているぞ、\n早く来いリトルってな。
 \n
-They're sayin', "Hurry, Little. We await\n
-you in the Promised Land."
+They're sayin', "Hurry, Little. We\n
+await you in the Promised Land."
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
 \n
-Goddammit, the voices only got worse\n
-and worse after you came here.
+Goddammit, the voices only got\n
+worse and worse after you came
+<$0C>
+here.
 <$0C><$0B>
 //リトル：
 Little:
@@ -164,8 +167,8 @@ Little:
 <$0D>
 //\n逃げようたって無理なんだ、\nこの星にいる限りはな。
 \n
-At the end of the day, no one livin' on this\n
-planet can run from its ruin.
+At the end of the day, no one livin' on\n
+this planet can run from its ruin.
 <$00>
 
 // Pos: 00002257

@@ -279,7 +279,8 @@ keep them safe for now.
 Noble Rock:
 <$0D>
 //\nコロニーは外出禁止、\nロッジも立入禁止だ。
-The colony is off limits, as is the lodge.
+The colony is off limits,\n
+as is the lodge.
 <$00>
 
 // Pos: 00003038
@@ -340,8 +341,8 @@ Ernest:
 <$0D>
 //\n善人だと…\nお前らは善人が苦手なんだ、そうなんだな。
 \n
-You guys don't seem to like good people\n
-very much.
+You guys don't seem to like good\n
+people very much.
 <$00>
 
 // Pos: 000030C6
@@ -356,7 +357,8 @@ Ernest:
 <$0D>
 //\nそうかい、\nどうせ俺はここには入れねぇんだ。
 \n
-Got it. Either way, I'd kill to get in here.
+Got it. Either way, I'd kill to get in\n
+here.
 <$00>
 
 // Pos: 000030EA
@@ -419,9 +421,9 @@ Yolanda:
 //\nふん、養生ねぇ…\n休んでるうちに悪人に\nなったりするんじゃないの。
 \n
 Whew. Shit's rough. If there's no rest\n
-for the wicked, there's even less rest
+for the wicked, there's even less
 <$0C>
-for the good.
+rest for the good.
 <$00>
 
 // Pos: 00003187
@@ -454,8 +456,8 @@ April:
 <$0D>
 //\nごめん、さがした？\nアガタに読んでもらったんだ。
 \n
-I'm sorry, were you looking for me? I\n
-went to Agatha for a reading over a
+I'm sorry, were you looking for me?\n
+I went to Agatha for a reading over a
 <$0C>
 dream.
 <$00>
@@ -506,8 +508,8 @@ April:
 <$0D>
 //\n鏡は私の物じゃなかったみたい。\n変ね、夢の中で見つけたのに…
 \n
-The mirror shard wasn't something of\n
-mine. I'd only found it in a dream.
+The mirror shard wasn't something\n
+of mine. I'd only found it in a dream.
 <$00>
 
 // Pos: 0000327F
@@ -532,8 +534,8 @@ April:
 <$0D>
 //\nリトルって酸索屋のリトルでしょ。\n彼、どこへ行ったの？ 心当たりないの？
 \n
-If he's not there, do you have any idea\n
-where he went?
+If he's not there, do you have any\n
+idea where he went?
 <$00>
 
 // Pos: 000032D7
@@ -547,10 +549,10 @@ where he went?
 <$0D>
 //\nエイプリル！ 無事だったのね、\n変な記憶にさいなまれたりしなかったのね、\nよかった、よかったわエイプリル。
 \n
-April! Are you well? You're not getting\n
-caught up in strange recollections, are
+April! Are you well? You're not\n
+getting caught up in strange
 <$0C>
-you?
+recollections, are you?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -558,7 +560,9 @@ Madam Agatha:
 //\nそれは何？ 鏡の破片ね… めずらしいわ。
 \n
 I would hope not. So, what have we\n
-here...a mirror fragment? How rare.
+here...a mirror fragment? How
+<$0C>
+rare.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -581,10 +585,10 @@ Madam Agatha:
 <$0D>
 //\n髮の毛が抜け落ちて… 女の人が消えたわ。\nどうしたのかしら、\n鏡に小さな女の子が映ってる、
 \n
-Her hair all falls out, onto the floor, and\n
-she vanishes. But now, in the mirror's
+Her hair all falls out, onto the floor,\n
+and she vanishes. But now, in the
 <$0C>
-reflection...
+mirror's reflection...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -592,15 +596,17 @@ Madam Agatha:
 //\nこっちに歩いてくる、ああ、鏡から出てきたわ。\nかわいい女の子よ まさか！
 \n
 I see a charming young girl? Yes, and\n
-she's steps forward, out of the mirror!
+she's steps forward, out of the
+<$0C>
+mirror!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nああ、にじんで何も見えなくなったわ。
 \n
-...Oh, dear. I wish I could see more, but\n
-the vision is fading.
+...Oh, dear. I wish I could see more,\n
+but the vision is fading.
 <$00>
 
 // Pos: 0000344B
@@ -640,8 +646,8 @@ REGISTRANT NAME:\n
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
  NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO AN\n
-ADMINISTRATOR.
+DETAILS AND ASSISTANCE, SPEAK TO\n
+AN ADMINISTRATOR.
 <$00>
 
 // Pos: 0000348E

@@ -33,8 +33,10 @@ Tommy:
 <$0D>
 //\nああ、クロウのやつみたいに\n人の夢に出入りしてるのか。
 \n
-I take it you can go in and out of peoples'\n
-dreams like that Crow guy does.
+I take it you can go in and out of\n
+people's dreams like that Crow guy
+<$0C>
+does.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -57,8 +59,8 @@ Tommy:
 <$0D>
 //\nここは俺の夢だ、\n兄ちゃんはアーネストっていうんだ。
 \n
-Well, this here is my dream, Ernest, my\n
-comrade.
+Well, this here is my dream, Ernest,\n
+my comrade.
 <$1E>
 //家
 家
@@ -105,8 +107,10 @@ Tommy:
 <$0D>
 //\nおえっ…眠くなってきやがった、\n昨日から飲んでねぇのにな、おえっおえっ…
 \n
-Whew, I'm getting so sleepy. I don't get\n
-it, I didn't drink anything yet. Whew...
+Whew, I'm getting so sleepy. I don't\n
+get it, I didn't drink anything yet.
+<$0C>
+Whew...
 <$1E>
 //家
 家
@@ -143,8 +147,8 @@ Tommy:
 <$0D>
 //\nおえっ、誰かいるよな、この奥に。\n気分悪いぜ、俺はアーモンドがキライだ、\n臭ってきそうだ…
 \n
-Someone's back here, huh. It reeks like\n
-almonds in here. Ick, I hate it!
+Someone's back here, huh. It reeks\n
+like almonds in here. Ick, I hate it!
 <$1E>
 //声
 声
@@ -162,8 +166,8 @@ Spacer:
 <$0D>
 //\nアーモンド？アーモンドの臭いがするのか、\nおい、どうなんだ？
 \n
-Almonds? Hey, what do you mean, you\n
-smell almonds?
+Almonds? Hey, what do you mean,\n
+you smell almonds?
 <$00>
 
 // Pos: 00000CE9
@@ -230,8 +234,8 @@ Tommy:
 <$0D>
 //\nやっぱりだ、アーモンドの臭い？\nさっきより強くなってきやがったぜ。
 \n
-It sure smells like almonds, don't it. It's\n
-even stronger than before.
+It sure smells like almonds, don't it.\n
+It's even stronger than before.
 <$1E>
 //家
 家

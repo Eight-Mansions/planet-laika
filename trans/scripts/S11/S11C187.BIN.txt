@@ -18,9 +18,9 @@ Red:
 //\n人の家で何やってるんだ？\n誰だお前は？ 見たことない野郎だ。
 \n
 What are you doing, creeping around\n
-the neighborhood? I haven't seen your
+the neighborhood? I haven't seen
 <$0C>
-ugly mug before.
+your ugly mug before.
 <$00>
 
 // Pos: 00001D90
@@ -66,8 +66,10 @@ Red:
 <$0D>
 //\n見たことあるだろ。忘れて出たんだ、\n泡を残しちゃいけないんだ。 あわてて…
 \n
-First they're there, and poof! They're\n
-gone. Don't leave me, Bubbles. Don't...
+First they're there, and poof!\n
+They're gone. Don't leave me,
+<$0C>
+Bubbles. Don't...
 <$00>
 
 // Pos: 00001E21
@@ -97,8 +99,8 @@ Red:
 <$0D>
 //\nひとりで家にいるときは危ねぇんだ。\nおじさんは俺のことをずっと見てるんだ、
 \n
-I didn't feel safe home alone. Uncle was\n
-watching me the entire time.
+I didn't feel safe home alone. Uncle\n
+was watching me the entire time.
 <$0C><$0B>
 //レッド：
 Red:

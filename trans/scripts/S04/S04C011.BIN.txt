@@ -42,8 +42,8 @@ REGISTRANT NAME:\n
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
  NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO AN\n
-ADMINISTRATOR.
+DETAILS AND ASSISTANCE, SPEAK TO\n
+AN ADMINISTRATOR.
 <$00>
 
 // Pos: 00001B81
@@ -173,8 +173,8 @@ April:
 <$0D>
 //\n何よ、今は先を急ぐんだから！\nそれにリトルさんって？
 \n
-Hey, we're in a hurry, you two! And who\n
-is this "Little" person?
+Hey, we're in a hurry, you two! And\n
+who is this "Little" person?
 <$00>
 
 // Pos: 00001C5D
@@ -223,7 +223,7 @@ April:
 <$0D>
 //\nどうしてもっていうなら、私はここで待ってる。\n気を付けてね。
 \n
-I'll wait back here, if that works. Just\n
-be careful, okay?
+I'll wait back here, if that works.\n
+Just be careful, okay?
 <$00>
 

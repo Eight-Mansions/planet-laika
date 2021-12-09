@@ -21,8 +21,8 @@ Noble Rock:
 <$0D>
 //\n長老はロッジの中だ。私はここで待つ。
 \n
-Our elder is inside the lodge. I shall wait\n
-here.
+Our elder is inside the lodge. I shall\n
+wait here.
 <$00>
 
 // Pos: 00001A9C
@@ -36,6 +36,7 @@ This cannot be!\n
 Where is that damned doll?!
 <$0C>
 //フェイの野郎か、やっぱりあの女が…
-Feng, that witch...! This was her doing!
+Feng, that witch...! This was her\n
+doing!
 <$00>
 

@@ -57,8 +57,10 @@ Noon:
 <$0D>
 //\n戻ってもだめだ、何も残ってないぜ。\nみんな消えて無くなっちまうんだ。
 \n
-There's no going back. There's nothing\n
-left. When we're gone, we're gone.
+There's no going back. There's\n
+nothing left. When we're gone,
+<$0C>
+we're gone.
 <$00>
 
 // Pos: 0000113F
@@ -85,8 +87,8 @@ April:
 <$0D>
 //\n光をあびるほどに、あなたの闇は深くなるの。\nその闇を照らすことはできない…
 \n
-The more light you receive, the deeper\n
-your darkness becomes.
+The more light you receive, the\n
+deeper your darkness becomes.
 <$0C>
 I can't outshine that darkness.
 <$00>

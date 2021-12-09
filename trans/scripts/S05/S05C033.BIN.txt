@@ -35,8 +35,8 @@ Noble Rock:
 <$0D>
 //\n歳だからな、時間がかかるのだ。\nこの大事なときに！
 \n
-Walking takes too much time, but time\n
-is of the essence!
+Walking takes too much time, but\n
+time is of the essence!
 <$00>
 
 // Pos: 00001446
@@ -68,7 +68,9 @@ Noble Rock:
 //\nまだ早い、今はだめだ、危ないぞ。\n巻き込まれる、合体してしまうぞ。
 \n
 It is still too early for this. You can't\n
-afford to get caught in the integration!
+afford to get caught in the
+<$0C>
+integration!
 <$00>
 
 // Pos: 000014AC

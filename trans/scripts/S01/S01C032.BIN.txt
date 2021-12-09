@@ -34,18 +34,18 @@ Commander October:
 <$0D>
 //\nライカ君…ライカ君だね…\n火星はどんな様子かな？
 \n
-Greetings, Laika. Is that you? How are\n
-Mars's state of affairs?
+Greetings, Laika. Is that you? How\n
+are Mars's state of affairs?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\n実は火星人について、\n新しいことが分かりそうなんだ。
 \n
-Actually, while you were away, we've\n
-learned something new about the
+Actually, while you were away,\n
+we've learned something new about
 <$0C>
-Martians.
+the Martians.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -77,9 +77,9 @@ Captain Tatler:
 //\n悪夢を抜けた先… 生の終わり、死の始まり、\n君は今、そのすき間にいる。
 \n
 You're in it all. From the end of life,\n
-through the nightmares, and into the
+through the nightmares, and into
 <$0C>
-beginning of death.
+the beginning of death.
 <$00>
 
 // Pos: 00003B3D
@@ -126,9 +126,9 @@ Captain Tatler:
 //\n君は強い死の動機に付き動かされている。\n君は死の世界の\nすぐとなりで生きてきたんだよ。
 \n
 Driven powerfully towards death,\n
-living on the doorstep to the Land of the
+living on the doorstep to the Land of
 <$0C>
-Dead.
+the Dead.
 <$00>
 
 // Pos: 00003BF6
@@ -143,8 +143,8 @@ Noon:
 <$0D>
 //\nエレミヤっていうのは、死の象徴なんだ、\n別に誰ってわけじゃねぇんだ。
 \n
-Jeremiah isn't exactly a person. He's a\n
-symbol of death.
+Jeremiah isn't exactly a person. He's\n
+a symbol of death.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -168,9 +168,9 @@ Captain Tatler:
 //\n君の半分はすでに死んでいる、\n死は君自身の問顆なんだ。
 \n
 Your other half is already dead. Only\n
-you can determine what death means
+you can determine what death
 <$0C>
-to the rest of you.
+means to the rest of you.
 <$00>
 
 // Pos: 00003C70
@@ -239,15 +239,16 @@ possessed by death? But, why me?!
 <$00><$12><$13><$13><$08>
 //新しき天と、新しき地とを見たり。\nこれまでの天とこれまでの地とは過ぎ去り、
 For a new Heaven and a new Earth\n
-await you, may this Heaven and Earth\n
-pass,
+await you, may this Heaven and\n
+Earth pass,
 <$0C>
 //海もまた消え失せ、今よりのち、悲しみも喜びも\n苦しみもなく、歓喜の歌にたたえられた\n永遠が続くであろう。
 and may the seas dry, that their\n
-sadness, loneliness and suffering are\n
-no more. And May eternity move past
+sadness, loneliness and suffering\n
+are no more. And May eternity move
 <$0C>
-this moment, chanting in celebration.
+past this moment, chanting in\n
+celebration.
 <$05><$00><$12>
 //\n
 \n
@@ -267,8 +268,8 @@ Doctor, can
 <$00><$12>
 //分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
 We'll find out in the operation room.\n
-There's a mass near the brain inciting\n
-hallucinations.
+There's a mass near the brain\n
+inciting hallucinations.
 <$00><$12>
 //先生、オクトーバー先生！\nお願いします、
 Doctor! Doctor October, please! Save 
@@ -277,8 +278,8 @@ Doctor! Doctor October, please! Save
 !
 <$00><$12>
 //あああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
-Damn! It's too deep! If we force it out,\n
-we will damage the brain!
+Damn! It's too deep! If we force it\n
+out, we will damage the brain!
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…
 It's small enough to be extracted,\n
@@ -327,8 +328,8 @@ Spacer:
 <$0D>
 //\nシュヨウの中には兄弟になるはずだった\n人間の髮の毛がつまっていたりする…
 \n
-That mass was absorbed back into the\n
-other twin. Hair, teeth and all...
+That mass was absorbed back into\n
+the other twin. Hair, teeth and all...
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -353,9 +354,9 @@ Phoenix:
 //\nこれは…クルーの仲間だね。善人になったの…\nそれで救われたってことなの？
 \n
 He's from the survey unit. If he's\n
-become a good person, will this really
+become a good person, will this
 <$0C>
-save him?
+really save him?
 <$00>
 
 // Pos: 00003F9E

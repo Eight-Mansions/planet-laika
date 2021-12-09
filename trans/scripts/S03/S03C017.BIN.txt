@@ -47,8 +47,8 @@ Little:
 <$0D>
 //\nなら俺はここで待ってる。早くしてくれよ。
 \n
-If you want, I'll wait here. Just make it\n
-quick.
+If you want, I'll wait here. Just make\n
+it quick.
 <$0C><$0B>
 //リトル：
 Little:
@@ -95,20 +95,20 @@ Little:
 <$0D>
 //\n記憶の谷で善人が見つかったそうだ。善人だ。\nもうじき戻ってくるだろう。
 \n
-Must mean a "good person" was seen in\n
-Valles Memoriae. Let's hope they make
+Must mean a "good person" was seen\n
+in Valles Memoriae. Let's hope they
 <$0C>
-it back soon.
+make it back soon.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n善人は危ないんだ、\nそうだ、すぐ悪にころんでしまうからな。
 \n
-Good people are dangerous, got it? The\n
-gooder they are, the harder they fall
+Good people are dangerous, got it?\n
+The gooder they are, the harder they
 <$0C>
-before evil.
+fall before evil.
 <$0C><$0B>
 //リトル：
 Little:
@@ -158,15 +158,16 @@ April:
 <$0D>
 //\n何か開こえたような気がしたけど…
 \n
-I thought I'd heard something...break.
+I thought I'd heard\n
+something...break.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n何かがはねるような音よ。\nでももう開こえない、気のせいね。
 \n
-I don't hear it anymore, so it must be my\n
-mind playing games.
+I don't hear it anymore, so it must be\n
+my mind playing games.
 <$00>
 
 // Pos: 00002B57
@@ -181,8 +182,10 @@ April:
 <$0D>
 //\n同じような惑じね、ママの声も急に、\nふっと開こえては遠ざかるの。
 \n
-I heard my mom's voice all of a sudden,\n
-and just as suddenly, it faded away.
+I heard my mom's voice all of a\n
+sudden, and just as suddenly, it
+<$0C>
+faded away.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -313,8 +316,10 @@ Tommy:
 <$0D>
 //\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
 \n
-That's the kind of stuff you hear about\n
-in those eyeball rumors, a-yup.
+That's the kind of stuff you hear\n
+about in those eyeball rumors,
+<$0C>
+a-yup.
 <$00>
 
 // Pos: 00002CF7
@@ -360,8 +365,8 @@ Tommy:
 <$0D>
 //\nリトルには見えるんだ、\nようよう、おかしな話だ。
 \n
-Anyways, Little can see them, a-yup! It\n
-was so weird.
+Anyways, Little can see them, a-yup!\n
+It was so weird.
 <$00>
 
 // Pos: 00002D42
@@ -438,8 +443,10 @@ Tommy:
 <$0D>
 //\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
 \n
-That's the kind of stuff you hear about\n
-in those eyeball rumors, a-yup.
+That's the kind of stuff you hear\n
+about in those eyeball rumors,
+<$0C>
+a-yup.
 <$00>
 
 // Pos: 00002E13
@@ -500,16 +507,16 @@ Ernest:
 <$0D>
 //\n目ん玉だな…頭いいと見える…\n思い出したぜ。
 \n
-Apparently...only really smart people\n
-can see the eyeballs.
+Apparently...only really smart\n
+people can see the eyeballs.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nここは…あの眼のある場所？
 \n
-Is this where I'm supposed to see that\n
-eyeball?
+Is this where I'm supposed to see\n
+that eyeball?
 <$00>
 
 // Pos: 00002EBC

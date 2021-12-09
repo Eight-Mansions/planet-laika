@@ -52,7 +52,7 @@ Rummy:
 <$0D>
 //\nそうだな、僕がラミーだな、\nといっても実際は…
 \n
-It's me, Runny...but, actually...
+It's me, Rummy...but, actually...
 <$0C><$12><$0B><$0B>
 //ラミー：
 Rummy:
@@ -73,14 +73,16 @@ Actually, I think I'm...changing...
 
 <$10><$08>
 //今こそ終わりがお前の上に来る。\n私は怒りを送り、お前の行いにしたがって栽き、\nいまわしい全てのことをお前に報いる。
-The end is upon you now. I shall send my\n
-wrath to reap all you have sewn, that\n
-all deeds may know reward.
+The end is upon you now. I shall send\n
+my wrath to reap all you have sewn,\n
+that all deeds may know reward.
 <$0C>
 //終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
-The end is upon you! The end is upon you!\n
-The end of the world burns for you.\n
-Now, behold! This hour is upon you!
+The end is upon you! The end is upon\n
+you! The end of the world burns for\n
+you. Now, behold! This hour is upon
+<$0C>
+you!
 <$05><$0C>
 //\n
 \n
@@ -128,10 +130,10 @@ Neo-Universal Man:
 <$0D>
 //\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
 \n
-...leading me to Jeremiah. Leading me\n
-to sweet Death. To the deepest depths
+...leading me to Jeremiah. Leading\n
+me to sweet Death. To the deepest
 <$0C>
-of Death.
+depths of Death.
 <$00>
 
 // Pos: 00004132
@@ -154,8 +156,10 @@ White Eagle:
 <$0D>
 //\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
 \n
-It lays beyond the nightmares, beyond\n
-all falsehood, in the Land of the Dead.
+It lays beyond the nightmares,\n
+beyond all falsehood, in the Land of
+<$0C>
+the Dead.
 <$00>
 
 // Pos: 00004187
@@ -212,8 +216,8 @@ White Eagle:
 <$0D>
 //\n試練はお前を強くしたのか、\nそれとも傷つけたのか…
 \n
-Did the trials make you stronger, or did\n
-they hurt you?
+Did the trials make you stronger, or\n
+did they hurt you?
 <$00>
 
 // Pos: 00004247
@@ -228,8 +232,8 @@ Rummy:
 <$0D>
 //\nあれあれだな、僕を見る目が建うな…\n怖いな。
 \n
-Hey, hey, hey, what was that look for?\n
-It's scary, a-ha!
+Hey, hey, hey, what was that look\n
+for? It's scary, a-ha!
 <$1E>
 //理
 理
@@ -247,8 +251,8 @@ Rummy:
 <$0D>
 //\nなんでかな、声がかすめたな。\nあんたを呼ぶ声がかすめたな。
 \n
-I don't know who or what it is, but I hear\n
-a faint voice calling for you.
+I don't know who or what it is, but I\n
+hear a faint voice calling for you.
 <$1E>
 //鋭
 鋭
@@ -311,8 +315,10 @@ Sammy:
 <$0D>
 //\nいや、もう怖いから、入らないわ。\nアタシを見失いそうになるのよ。
 \n
-That stuff is too scary for me now. I'm\n
-losing enough sight of myself as it is.
+That stuff is too scary for me now.\n
+I'm losing enough sight of myself as
+<$0C>
+it is.
 <$1E>
 //中
 中

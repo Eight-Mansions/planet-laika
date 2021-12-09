@@ -18,7 +18,9 @@ Mountain:
 //\nあ… あ…\nす、すごい考えが来る、止まらないんだ！
 \n
 Ohh! Ohh! Wh-what wonderful\n
-thoughts are coming to me! I can't stop!
+thoughts are coming to me! I can't
+<$0C>
+stop!
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -48,9 +50,7 @@ Mountain:
 //\nそれなら知ってるぞ、見たことあるぞ、\nお… 青虫になるのか？
 \n
 Oh, yes, I'm aware. I'd seen it.\n
-Does...does it become a
-<$0C>
-cabbageworm?
+Does...it become a cabbageworm?
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -58,7 +58,9 @@ Mountain:
 //\nウソだ、それはウソだ、\n黄金虫が青虫になるはずない、いいいい、
 \n
 No, that's wrong! The gold-bug does\n
-NOT become a cabbageworm! Eeeyah!
+NOT become a cabbageworm!
+<$0C>
+Eeeyah!
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -66,9 +68,9 @@ Mountain:
 //\n母の悲しみ… そういえば俺は悲しい、\n最も悲しい… ああ… ああ… あああ…
 \n
 Mother's disappointed. Well, so am I,\n
-by the by. As sad as they get, too. Ohh,
+by the by. We're as sad as they get,
 <$0C>
-ohh...!
+too. Ohh, ohh...!
 <$00>
 
 // Pos: 00002C4C
@@ -84,17 +86,19 @@ Yang:
 //\nガキだ！\n…建う、悪ガキだ、そいつが殺したんだ、\n夜は嫌なものだね、諸君。
 \n
 It was the kid! No, that devil! He killed\n
-them! I HATE the night! I HATE the cycle!
+them! I HATE the night! I HATE the
+<$0C>
+cycle!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nちくしょう！ 羽根をもぎってやる、\n蝶の羽根をもぎって、青虫に戻してやれば\nいいんだ！ それがサイクルだ！
 \n
-...Forget it! I-I'll tear off those green\n
-butterfly wings and turn back into a
+...Forget it! I-I'll tear off those\n
+green butterfly wings and turn back
 <$0C>
-worm!
+into a worm!
 <$00>
 
 // Pos: 00002CC4
@@ -117,17 +121,17 @@ Mountain:
 //\n何を？ 夜のふくろうに言ってるのさ、\n不信者のおそれ…小さなみそさざい…はは！
 \n
 Know what a night owl told me? Fear\n
-the non-believers... The Troglodytes
+the non-believers... The
 <$0C>
-troglodytes.
+Troglodytes troglodytes.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nみそさざい、食え食え、\n烏のグリルだ、小烏のだ。
 \n
-The wrens! Eat them! Grill them and eat\n
-the little wrens!
+The wrens! Eat them! Grill them and\n
+eat the little wrens!
 <$00>
 
 // Pos: 00002D3F
@@ -227,10 +231,10 @@ Yang:
 <$0D>
 //\n飛んでるぞ。\nいったい蝶とガの建いは何だ、諸君？
 \n
-They're flying. What's the difference\n
-between butterflies and moths, do
+They're flying. What's the\n
+difference between butterflies and
 <$0C>
-you know?
+moths, do you know?
 <$1E>
 //鋭
 鋭
@@ -284,8 +288,8 @@ Mountain:
 <$0D>
 //\n３４四 ３５四 ３６四 ３７四
 \n
-...thirty-four, thirty-five, thirty-six,\n
-thirty-seven...
+...thirty-four, thirty-five,\n
+thirty-six, thirty-seven...
 <$1E>
 //鋭
 鋭
@@ -335,11 +339,11 @@ Mountain:
 <$0D>
 //\n３７２四 ３７３四 ３７５四 ３７７四
 \n
-...three hundred seventy-two, three\n
-hundred seventy-three, three
+...three hundred seventy-two,\n
+three hundred seventy-three,
 <$0C>
-hundred seventy-five, three hundred\n
-seventy-seven...
+three hundred seventy-five, three\n
+hundred seventy-seven...
 <$1E>
 //鋭
 鋭
@@ -357,8 +361,8 @@ Mountain:
 <$0D>
 //\n数が足りない、数が足りない、\nハエは増えるのに、数が足りない。
 \n
-Not enough. IT's not enough! There are\n
-MORE flies! BUT IT'S NOT ENOUGH!
+Not enough. IT's not enough! There\n
+are MORE flies! BUT IT'S NOT ENOUGH!
 <$1E>
 //鋭
 鋭
@@ -399,8 +403,8 @@ Commander October:
 <$0D>
 //\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
 \n
-I think Earth finally got a taste of Mars'\n
-uproar. The Face went aglow!
+I think Earth finally got a taste of\n
+Mars's uproar. The Face went aglow!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -453,22 +457,23 @@ update.
 How goes it, my little husk?
 <$0C>
 //君は、いや君たちは実に哀れだ。
-You...all of you, are so pathetic.
+You... All of you are pathetic.
 <$0C>
 //ひとつ忠告しておこう。
 Here's a piece of advice.
 <$0C>
 //星の意志に逆らおうとしても\nムダというものだ。
-It's useless to try to defy the will of this\n
-planet.
+It's useless to try to defy the will of\n
+this planet.
 <$0C>
 //世界の再生、\nそれはこの星が決めたことなのだ。
-This planet has chosen world rebirth.
+This planet has chosen world\n
+rebirth.
 <$0C>
 //私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
 I touched the planet's will and found\n
-life. Rebirth is not my purpose. It is the\n
-planet's purpose.
+life. Rebirth is not my purpose. It is\n
+the planet's purpose.
 <$0C>
 //もうすぐ君に会えるだろう。\n楽しみに待っているよ。
 I will see you soon. I'm looking\n

@@ -110,10 +110,10 @@ Yolanda:
 <$0D>
 //\nアタシじゃいけないの…\n神様だなんて、ほんとにいるの？
 \n
-God giving me the proverbial boot's no\n
-surprise, but he's not really here, is
+God giving me the proverbial boot's\n
+no surprise, but he's not really here,
 <$0C>
-he?
+is he?
 <$00>
 
 // Pos: 0000173D
@@ -136,8 +136,8 @@ Liever:
 <$0D>
 //\n流刑者が作った地下水道さ。\nそれを通っていくんだ。 神様が待ってるよ！
 \n
-This canal was made by exiles. Go on, go\n
-through! God is waiting for you!
+This canal was made by exiles. Go on,\n
+go through! God is waiting for you!
 <$00>
 
 // Pos: 0000178E
@@ -152,7 +152,9 @@ Spacer:
 <$0D>
 //\n地下水道か。 水があるというのか…
 \n
-An underground canal, huh. So there's\n
-bound to be water down there.
+An underground canal, huh. So\n
+there's bound to be water down
+<$0C>
+there.
 <$00>
 

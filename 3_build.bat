@@ -10,7 +10,7 @@ del ins\S01\S01C01I4.IMG
 copy graphics\S01C01I4.IMG ins\S01\S01C01I4.IMG
 
 del ins\S01\S01C06I2.IMG
-copy graphics\S01C01I4.IMG ins\S01\S01C06I2.IMG
+copy graphics\S01C06I2.IMG ins\S01\S01C06I2.IMG
 
 tools\planet_laika_scene_compress.exe ins cd\laika *
 

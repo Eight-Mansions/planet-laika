@@ -72,8 +72,8 @@ Universal Man:
 <$0D>
 //\nお前にも惑じるぞ、同じだ、私と同じだ。
 \n
-You and I, we are the saaaaame... You\n
-feeeel this toooo...
+You and I, we are the saaaaame...\n
+You feeeel this toooo...
 <$00>
 
 // Pos: 000021E5
@@ -88,8 +88,10 @@ Spacer:
 <$0D>
 //\n死の世界に入ろうとしているのか？\nまだすぐには無理そうだな。
 \n
-Do you want into the Land of the Dead? I\n
-didn't think that was possible yet.
+Do you want into the Land of the\n
+Dead? I didn't think that was possible
+<$0C>
+yet.
 <$00>
 
 // Pos: 00002216
@@ -131,7 +133,9 @@ Veronica:
 <$0F>
 //じゃない、あんたは誰？
 \n
-...? No, that's not it. What's your name?
+...? No, that's not it. What's your
+<$0C>
+name?
 <$00>
 
 // Pos: 00002271
@@ -185,7 +189,9 @@ Spacer:
 //\n私だけ… もしそうだとしたら？\n私が全てだとしたら…
 \n
 Expecting someone...? Uhm, no. It's\n
-just me, myself and this...wall here...
+just me, myself and this...wall
+<$0C>
+here...
 <$00>
 
 // Pos: 00002300
@@ -201,9 +207,9 @@ Veronica:
 //\nじゃあ、合わさったの？\nそれともはじめからひとりなの？\nねえ、どっち？
 \n
 Well, either you were you talking to\n
-someone, or were you were scheming
+someone, or were you were
 <$0C>
-here alone.
+scheming here alone.
 <$00>
 
 // Pos: 00002331
@@ -218,8 +224,8 @@ Spacer:
 <$0D>
 //\n合わさる…\nどういうことだ、合わさるとは。\n私たちが合わさる…
 \n
-What? There's no scheming, we were\n
-just...
+What? There's no scheming, we\n
+were just...
 <$00>
 
 // Pos: 00002360
@@ -250,8 +256,8 @@ Spacer:
 <$0D>
 //\n君は…\n君にも誰かいるのか…
 \n
-W-well, what about you, huh? What's\n
-your deal?
+W-well, what about you, huh?\n
+What's your deal?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -308,9 +314,9 @@ How would that work, huh? Tell me.
 Veronica:
 <$0D>
 //\nアタシ、決めたの。\n吸収するのよ、あの女を、フェイを。\nアタシが見つけたやり方で！
-Simple, really. I've decided\n
-I'll absorb that woman. Feng. It's the\n
-most realistic option.
+Simple, really. I've\n
+decided I'll absorb that woman.\n
+Feng. It's the most realistic option.
 <$00>
 
 // Pos: 00002484
@@ -325,17 +331,18 @@ Spacer:
 <$0D>
 //\nドールダンスか…
 \n
-Using the doll dance? That's it, isn't it?
+Using the doll dance? That's it, isn't\n
+it?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nそうなのか、メディスンマンたちのまじないで\n人格を統合させようとしているのか…\n人格統合…
 \n
-Veronica wants to use shamanic magic\n
-to integrate with Feng, and consume
+Veronica wants to use shamanic\n
+magic to integrate with Feng, and
 <$0C>
-her personality.
+consume her personality.
 <$00>
 
 // Pos: 000024D6
@@ -350,8 +357,8 @@ Spacer:
 <$0D>
 //\n開こえるか…私の声が。\nヨランダ、アーネスト…どうなんだ？
 \n
-Hey, can you two hear my voice? Ernie?\n
-Jo? ...Hello!
+Hey, can you two hear my voice?\n
+Ernie? Jo? ...Hello!
 <$00>
 
 // Pos: 00002502
@@ -374,8 +381,10 @@ Spacer:
 <$0D>
 //\nまだ眠っているのか。\n人格統合だ、その時はどうなる？
 \n
-Are you two still sleeping? Guys, what\n
-happens in personality integration?
+Are you two still sleeping? Guys,\n
+what happens in personality
+<$0C>
+integration?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -383,8 +392,8 @@ Spacer:
 //\n誰が残るんだ。\nそれとも誰も残れないのか、どうなんだ？
 \n
 Who remains, huh? Does everyone\n
-remain, or does everyone disappear?
+remain, or does everyone
 <$0C>
-Which is it?
+disappear? Which is it?
 <$00>
 

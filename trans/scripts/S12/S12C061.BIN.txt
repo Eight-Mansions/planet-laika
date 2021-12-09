@@ -27,8 +27,10 @@ Signpost:
 <$0D>
 //\nクロエちゃんに体をあげに来たのか？\nそうなのか？
 \n
-Have you come to offer your body to my\n
-Chloe? Why else would you be here?
+Have you come to offer your body to\n
+my Chloe? Why else would you be
+<$0C>
+here?
 <$00>
 
 // Pos: 000021AC
@@ -65,10 +67,10 @@ Signpost:
 <$0D>
 //\nクロエちゃんはキノコのおうちに住んでるんだ。\n用済みの体を分けてあげるんだ。
 \n
-My Chloe lives in the mushroom house.\n
-Give her your body and serve your
+My Chloe lives in the mushroom\n
+house. Give her your body and serve
 <$0C>
-purpose.
+your purpose.
 <$00>
 
 // Pos: 00002211
@@ -101,8 +103,8 @@ Signpost:
 <$0D>
 //\n元気ならよかった、\nクロエちゃんがよかったならよかった。
 \n
-Is Chloe doing all right? Oh, I hope she's\n
-happy. I hope she's so happy.
+Is Chloe doing all right? Oh, I hope\n
+she's happy. I hope she's so happy.
 <$00>
 
 // Pos: 00002277
@@ -120,8 +122,10 @@ Signpost:
 <$0D>
 //\n右目の痛いのが収まったら平気。\n左目の涙が乾いたら通れる。
 \n
-If the pain in my right eye goes, it stops.\n
-If the tears in my left eye stop, they go.
+If the pain in my right eye goes, it\n
+stops. If the tears in my left eye stop,
+<$0C>
+they go.
 <$00>
 
 // Pos: 000022AB
@@ -147,8 +151,10 @@ Signpost:
 <$0D>
 //\nこれで平気、戻れる戻れる。\n左目の涙はまだ乾かない。まだ行けない。
 \n
-But it'll be back. The tears in my left eye\n
-haven't stopped, so there's no going.
+But it'll be back. The tears in my left\n
+eye haven't stopped, so there's no
+<$0C>
+going.
 <$00>
 
 // Pos: 000022FB
@@ -167,9 +173,9 @@ Signpost:
 //\n涙、たくさん。左目、涙、まだ乾かない。\n乾いたら戻れる、時間を戻れる。
 \n
 There's so many tears. My left eye is\n
-tearful. Only when I can turn back the
+tearful. Only when I can turn back
 <$0C>
-tears, can I turn back time.
+the tears, can I turn back time.
 <$00>
 
 // Pos: 00002335
@@ -195,8 +201,8 @@ Signpost:
 <$0D>
 //\n私がどうしてここにいるか、\nお前はまだ知らない、知らない。
 \n
-Why am I here? You don't know yet. You\n
-still don't know.
+Why am I here? You don't know yet.\n
+You still don't know.
 <$0C><$0B>
 //道しるべ：
 Signpost:
@@ -226,8 +232,8 @@ Signpost:
 <$0D>
 //\nやっと涙が乾いた、\nこれで戻れる、スペーサー。
 \n
-My tears have dried up. It's time to turn\n
-back, Spacer.
+My tears have dried up. It's time to\n
+turn back, Spacer.
 <$00>
 
 // Pos: 000023DD
@@ -279,9 +285,9 @@ Signpost:
 //\n考えたら、泣けてきた。\nああん、涙、また涙があふれてきた。
 \n
 When I thought long and hard, I\n
-started to cry again. Oh, the tears are
+started to cry again. Oh, the tears
 <$0C>
-welling up again...
+are welling up again...
 <$0C><$0B>
 //道しるべ：
 Signpost:
@@ -351,8 +357,8 @@ Signpost:
 <$0D>
 //\n少し昔だ、そこに戻れる。用意はいいぞ。
 /\n
-It's been a while. Let's prepare to turn\n
-back.
+It's been a while. Let's prepare to\n
+turn back.
 <$00>
 
 // Pos: 000024D7
@@ -402,8 +408,8 @@ Yolanda:
 <$0D>
 //\n戻るって？ 帰れるの？\nあのお利口さんだけ？
 \n
-Turn back? Like, go home? Do I need the\n
-smartass for this?
+Turn back? Like, go home? Do I need\n
+the smartass for this?
 <$00>
 
 // Pos: 0000254B
@@ -440,8 +446,8 @@ Signpost:
 <$0D>
 //\nまた泣けてきた、\n涙がいっぱい、悲しくて。
 \n
-I started to cry again. The tears won't\n
-stop. It's too sad.
+I started to cry again. The tears\n
+won't stop. It's too sad.
 <$00>
 
 // Pos: 00002596
@@ -549,8 +555,8 @@ Spacer:
 But, if 
 <$0F>
 //ではなかった、\n別な誰かだ！
- doesn't smell like almonds, who\n
-was she talking about?
+ doesn't smell like almonds,\n
+who was she talking about?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -577,9 +583,9 @@ Signpost:
 //\n戻るの終わり、もう終わり。\n戻るの終わり、戻れない。
 \n
 We're done with turning back. It's\n
-already over. We're done with turning
+already over. We're done with
 <$0C>
-back.
+turning back.
 <$00>
 
 // Pos: 000026EA
@@ -594,8 +600,8 @@ Spacer:
 <$0D>
 //\nもう一度あのときに戻れないのか？
 \n
-You wouldn't want to go back one more\n
-time?
+You wouldn't want to go back one\n
+more time?
 <$00>
 
 // Pos: 0000270A

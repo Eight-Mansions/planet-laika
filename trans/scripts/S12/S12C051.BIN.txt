@@ -82,8 +82,8 @@ Oxygen Miner 3：
 <$0D>
 //\n何よ…何、この惑じは？\nあら、そんな、アタシの時間が…
 \n
-WhAt Is thIs...thAt I'm sEnsIng? Is...Is\n
-It my tImE tO...
+WhAt Is thIs...thAt I'm sEnsIng? Is...\n
+Is It my tImE tO...
 <$00>
 
 // Pos: 0000340D
@@ -98,8 +98,8 @@ Oxygen Miner 6：
 <$0D>
 //\nてなワケだ… ああ？\n何だ、お前は？
 \n
-...time to...huh? Hey, what did you do,\n
-huh? Oh, great!
+...time to...huh? Hey, what did you\n
+do, huh? Oh, great!
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
@@ -138,8 +138,8 @@ Oxygen Miner 6：
 <$0D>
 //\n俺は… １、２、３、４、\nえーっと、６号だ、覚えとけ！
 \n
-I'm Oxygen Minder 1...2...no...3? No, 6!\n
-I'm 6, and don't you forget it!
+I'm Oxygen Minder 1...2...no...3? No,\n
+6! I'm 6, and don't you forget it!
 <$00>
 
 // Pos: 000034EA
@@ -190,8 +190,10 @@ Oxygen Miner 6：
 <$0D>
 //\nおい、お前にじゃないのか。無線テレビだ。\nどっからか、送ってきてるんだ。
 \n
-It wasn't you who set off the monitor,\n
-right? Maybe the job was remote.
+It wasn't you who set off the\n
+monitor, right? Maybe the job was
+<$0C>
+remote.
 <$00>
 
 // Pos: 00003574
@@ -222,15 +224,15 @@ Rummy:
 <$0D>
 //\nあっ、無線テレビ。
 \n
-Hoho, there's the monitor! But...it's not\n
-ours.
+Hoho, there's the monitor! But...it's\n
+not ours.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nでもダメだな、あいつのだな、\n他人のは勝手に触っちゃだめだな。
 \n
-It isn't right to touch other peoples'\n
+It isn't right to touch other people's\n
 things without permission.
 <$00>
 
@@ -276,15 +278,16 @@ Rummy:
 <$0D>
 //\nやはりだな、緊急事態レベル３だな。
 \n
-Hoho, this is a Level 3 emergency, a-ha.
+Hoho, this is a Level 3 emergency,\n
+a-ha.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nこれを解除するには…\n思い出すことがたくさんあるな…
 \n
-Shutting this off might take a trip down\n
-memory lane, a-ha!
+Shutting this off might take a trip\n
+down memory lane, a-ha!
 <$00>
 
 // Pos: 0000368F
@@ -299,8 +302,10 @@ Rummy:
 <$0D>
 //\n緊急事態レベル３のロックは解除したな。\nこれで酸索坑道のゲートが開くな、\n古い坑道に入れるな。
 \n
-The lock is shut off. We can get into the\n
-oxygen mineshaft through the gate.
+The lock is shut off. We can get into\n
+the oxygen mineshaft through the
+<$0C>
+gate.
 <$0C><$0B>
 //ラミー：
 Rummy:

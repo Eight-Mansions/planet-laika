@@ -57,7 +57,7 @@ Crow:
 //\nお前だ、何でそんな目で見る、ちくしょう！\n悪夢に閉じ込めてやる！
 \n
 Don't look at me with those eyes, you\n
-sonnuva...! I'll...I'll lock you up in this
+sonnuva...! I'll lock you up in this
 <$0C>
 nightmare!
 <$00>
@@ -74,10 +74,10 @@ Crow:
 <$0D>
 //\n兄さん、こいつがうるさいよ。\nあはは、兄さん、こいつをおどらせてやる！
 \n
-Listen, Bro. He's getting on my nerves.\n
-...Kekeke, no worries, Bro. I'll make
+Listen, Bro. He's getting on my\n
+nerves. ...Kekeke, no worries, Bro.
 <$0C>
-'em dance.
+I'll make 'em dance.
 <$00>
 
 // Pos: 00002449
@@ -93,6 +93,8 @@ Crow:
 //\nあは、おどれ、おどれ、ヘロデのペットだ、\n生クビとダンスだ！
 \n
 Dance, Herod's pet! Dance! Dance\n
-around all the floating heads with me!
+around all the floating heads with
+<$0C>
+me!
 <$00>
 

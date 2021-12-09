@@ -17,16 +17,18 @@ Galil:
 <$0D>
 //\n君は死の動機につき動かされてここに来た、
 \n
-You are here because you had a reason\n
-for dying.
+You are here because you had a\n
+reason for dying.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nフェニックス。君こそが最後のピースなのだ、\n待ち望まれていた最後のな。
 \n
-Phoenix. You are the last piece of that\n
-puzzle I have long waited to solve.
+Phoenix. You are the last piece of\n
+that puzzle I have long waited to
+<$0C>
+solve.
 <$00>
 
 // Pos: 00004291
@@ -49,8 +51,8 @@ Galil:
 <$0D>
 //\n見よ、この輝く光を！\n善のオーラを！
 \n
-Behold this glorious light! This aura of\n
-good!
+Behold this glorious light! This aura\n
+of good!
 <$00>
 
 // Pos: 000042E0
@@ -81,7 +83,8 @@ Galil:
 <$0D>
 //\n死こそがタマシイの救済にほかならない\nということを。
 \n
-Death is only the salvation of the spirit.
+Death is only the salvation of the\n
+spirit.
 <$00>
 
 // Pos: 0000435D
@@ -96,8 +99,8 @@ Galil:
 <$0D>
 //\nさあ、見せてくれ、お前の暗い憎しみを。
 \n
-Now, show me your hatred, that anger\n
-swirling in your dark heart...
+Now, show me your hatred, that\n
+anger swirling in your dark heart...
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -120,8 +123,8 @@ Galil:
 <$0D>
 //\n私には見えるぞ、フェニックス。
 \n
-I can see you, Phoenix. I see that black,\n
-seething ill will in your heart.
+I can see you, Phoenix. I see that\n
+black, seething ill will in your heart.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -144,8 +147,8 @@ Phoenix:
 <$0D>
 //\nふふふ… あははははは、\n僕がどうしたというんだ！
 \n
-Pffft! Ahahaha! What does that have to\n
-do with me?!
+Pffft! Ahahaha! What does that have\n
+to do with me?!
 <$00>
 
 // Pos: 00004425
@@ -160,8 +163,8 @@ Phoenix:
 <$0D>
 //\n僕は影だ、影に善も悪もない！
 \n
-I'm only a shadow, remember? There\n
-is no good nor evil in shadows!
+I'm only a shadow, remember?\n
+There is no good nor evil in shadows!
 <$00>
 
 // Pos: 00004445
@@ -188,19 +191,19 @@ Galil:
 //\n君は手を汚さずにいた、君はただ\n笑っているだけでよかった。
 \n
 You laugh because you burdened\n
-others with your sin before you could
+others with your sin before you
 <$0C>
-even know its weight.
+could even know its weight.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nフェニックス、君は本当は双子として\n生まれてくるはずだったのだ。
 \n
-You know better than anyone that you\n
-were supposed to be born for your
+You know better than anyone that\n
+you were supposed to be born for
 <$0C>
-twin.
+your twin.
 <$00>
 
 // Pos: 000044C2
@@ -253,8 +256,8 @@ Galil:
 <$0D>
 //\n脳に寄生する肉のかたまりが、\n
 \n
-You became a tumor, a cranial parasite\n
-that ate at 
+You became a tumor, a cranial\n
+parasite that ate at 
 <$0F>
 //の心と体をうばったのだ。
 's mind and body.
@@ -272,8 +275,8 @@ Phoenix:
 <$0D>
 //\nそうだよ！\n僕は愛だけが欲しかったのさ！
 \n
-I did! Because I wanted all the love they\n
-were receiving as well!
+I did! Because I wanted all the love\n
+they were receiving as well!
 <$00>
 
 // Pos: 0000457F
@@ -298,7 +301,8 @@ Galil:
 <$0D>
 //\n本当の憎しみは
 \n
-The real source of the hatred I seek is in 
+The real source of the hatred I seek is\n
+in 
 <$0F>
 //が宿しているのだ\n君ではない。
 , not you.
@@ -327,8 +331,8 @@ Galil:
 <$0D>
 //\nさあ、黒い騎士がお待ちかねだ、\n憎しみを解き放つんだ！
 \n
-But now, the Black Rider waits for that\n
-hatred to be unleashed!
+But now, the Black Rider waits for\n
+that hatred to be unleashed!
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -362,8 +366,8 @@ Galil:
 <$0D>
 //\nおおお、アマンダ。\nついに望みをかなえたのだな、アマンダ。
 \n
-Well, well, Amanda! I see you've finally\n
-gotten your wish.
+Well, well, Amanda! I see you've\n
+finally gotten your wish.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -379,7 +383,9 @@ Galil:
 //\nアマンダ、お前は鏡の中から小さな光を放った、\nそれが一人の女として生を得たのだ。
 \n
 That flicker came to life as a woman,\n
-and now you have integrated with her.
+and now you have integrated with
+<$0C>
+her.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -394,8 +400,10 @@ Galil:
 <$0D>
 //\n体と心を得て、美の権化として\nよみがえろうというのだな。
 \n
-You have claimed your rites as holder\n
-of beauty in both body and in mind.
+You have claimed your rites as\n
+holder of beauty in both body and in
+<$0C>
+mind.
 <$00>
 
 // Pos: 00004744
@@ -410,8 +418,8 @@ Galil:
 <$0D>
 //\nどうした、まだ求めているのか。
 \n
-And to that end, I ask, what brings you\n
-here?
+And to that end, I ask, what brings\n
+you here?
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -486,7 +494,8 @@ April:
 <$0D>
 //\n子供のころになくしたのに…
 \n
-I thought I had lost it when I was a child.
+I thought I had lost it when I was a\n
+child.
 <$00>
 
 // Pos: 00004864
@@ -508,8 +517,8 @@ Galil:
 <$0D>
 //\nアマンダ、\n私に従うのなら永遠の時を与えよう。
 \n
-If you set your eyes on me and follow, I\n
-shall grant you eternity.
+If you set your eyes on me and\n
+follow, I shall grant you eternity.
 <$00>
 
 // Pos: 000048A4
@@ -557,9 +566,9 @@ April:
 //\n言葉よ… 預言ね、預言者に会ったのね…\n心のうちから響いてくるみたいよ…
 \n
 You must have been touched by a\n
-prophet. Their words are pouring out
+prophet. Their words are pouring
 <$0C>
-from within you!
+out from within you!
 <$00>
 
 // Pos: 0000492E
@@ -651,8 +660,10 @@ April:
 <$0D>
 //\nすべての預言がそろったのね…\n奇跡は起きるの？
 \n
-We've found all of the prophecies. Does\n
-that mean a miracle will happen?
+We've found all of the prophecies.\n
+Does that mean a miracle will
+<$0C>
+happen?
 <$00>
 
 // Pos: 000049E3
@@ -667,8 +678,8 @@ Galil:
 <$0D>
 //\nどうしたアマンダ、\nさあ、お前のその光で真実を照らすのだ。
 \n
-What's wrong, Amanda? Go, illuminate\n
-the truth with your light!
+What's wrong, Amanda? Go,\n
+illuminate the truth with your light!
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -715,16 +726,16 @@ Galil:
 <$0D>
 //\nアマンダ！ なぜだ！ 私の中に悪はない、\nすべて浄化したはずだ！
 \n
-Amanda! Why? There should be no evil\n
-in my to purify!
+Amanda! Why? There should be no\n
+evil in my to purify!
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nなぜ光を私に向けるのだ！\nいくら照らし出してもムダだ。
 \n
-Why direct your light over me, if not to\n
-burn in vain?
+Why direct your light over me, if not\n
+to burn in vain?
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -773,8 +784,8 @@ Galil:
 <$0D>
 //\n憎々しい朝が来る、生者の朝だ。
 \n
-A hateful dawn is upon us. It is the dawn\n
-of the living.
+A hateful dawn is upon us. It is the\n
+dawn of the living.
 <$00><$10><$0B>
 //ガリル：
 Galil:
@@ -860,18 +871,18 @@ Galil:
 <$0D>
 //\n君の心によどむ憎しみで、\n黒い騎士を完全な存在に仕上げてくれないか。
 \n
-Can you fully bring the Black Rider into\n
-existence with such hatred clouding
+Can you fully bring the Black Rider\n
+into existence with such hatred
 <$0C>
-your mind?
+clouding your mind?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nそれで世界の再生がはじまるのだよ。
 \n
-...Then let me help you. Let the rebirth\n
-of the world begin.
+...Then let me help you. Let the\n
+rebirth of the world begin.
 <$00>
 
 // Pos: 00004CB5
@@ -886,16 +897,16 @@ Galil:
 <$0D>
 //\n本当なのか…\n火星人の善意が、本当に残されていたのか…
 \n
-Then it's true... You Martian's really did\n
-leave your good will behind.
+Then it's true... You Martian's really\n
+did leave your good will behind.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nこの光がそうだというのか。\nすると私は… あああ、私の光はどこだ！
 \n
-But, if this light is yours, where is...no!\n
-Where is MY light?!
+But, if this light is yours, where is...\n
+No! Where is MY light?!
 <$00>
 
 // Pos: 00004D0D
@@ -929,10 +940,10 @@ Galil:
 <$0D>
 //\n君のことは誰も気が付かないでいた、\nあのあわれなタニアでさえ君でなく、\nもうひとりを愛していたのだ。
 \n
-Your mind was shrouded in darkness,\n
-bu no one noticed. Not even pitiful
+Your mind was shrouded in\n
+darkness, bu no one noticed. Not
 <$0C>
-Tanya.
+even pitiful Tanya.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -942,8 +953,8 @@ Galil:
 You were always alone, 
 <$0F>
 //、\n君こそが影だ。
-. You were the\n
-lone shadow I came to free.
+. You were\n
+the lone shadow I came to free.
 <$0C><$0B>
 //ガリル：
 Galil:

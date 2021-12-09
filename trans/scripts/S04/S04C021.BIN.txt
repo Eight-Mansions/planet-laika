@@ -64,8 +64,8 @@ Boomer:
 <$0D>
 //\nヘロデなら酸索屋だ。\nハウスならそこの扉だ。
 \n
-Herod's at the oxygen dispensary. This\n
-door leads to Psycho Lab.
+Herod's at the oxygen dispensary.\n
+This door leads to Psycho Lab.
 <$0C><$0B>
 //ブーマー：
 Boomer:
@@ -98,7 +98,9 @@ Boomer:
 //\n見えねぇんだ、どうやってもな。\n目ん玉なんざ、うそなんじゃねぇのか？
 \n
 Ahhh, I can't see the eyeballs, no\n
-matter what I do. Are they not a hoax?
+matter what I do. Are they not a
+<$0C>
+hoax?
 <$1E>
 //双
 双
@@ -181,8 +183,10 @@ Boomer:
 <$0D>
 //\n夢見た…\n陽は赤く燃え、その焼け跡に町を残した…
 \n
-Ohh, I had a dream that the sun burned\n
-so red, it razed the town to ash.
+Ohh, I had a dream that the sun\n
+burned so red, it razed the town to
+<$0C>
+ash.
 <$1E>
 //双
 双

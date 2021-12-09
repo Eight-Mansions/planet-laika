@@ -17,8 +17,8 @@ Noble Rock:
 <$0D>
 //\n記憶の谷へ行くんだな。
 \n
-You are leaving for Valles Memoriae, I\n
-see.
+You are leaving for Valles Memoriae,\n
+I see.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -117,9 +117,9 @@ April:
 //\nでも、すごい美少年がいたのよ。\nあんなにきれいになれるなんて…\n大した技術ね。
 \n
 Oh, but we saw a young boy with a\n
-beautiful face. Technology has come
+beautiful face. Technology has
 <$0C>
-so far!
+come so far!
 <$00>
 
 // Pos: 000018EB
@@ -168,8 +168,8 @@ Noble Rock:
 <$0D>
 //\nそうだ。見かけにこだわる欲悪だ。\nビジュアル系と呼ばれている。
 \n
-The evil, specifically, is greed. That is\n
-what we call a Visual type evil.
+The evil, specifically, is greed. That\n
+is what we call a Visual type evil.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -226,10 +226,10 @@ Noble Rock:
 <$0D>
 //\n酒場にたむろする連中は力悪だ。\nアニマル系だ。\nなんでも暴力で解決しようとする。
 \n
-The answer is "power". Like those, for\n
-example, who puff their chests in
+The answer is "power". Like those,\n
+for example, who puff their chests
 <$0C>
-taverns.
+in taverns.
 <$00>
 
 // Pos: 00001A3F
@@ -310,10 +310,10 @@ Noble Rock:
 <$0D>
 //\n今度は正しいドールダンスだ、\nそれで抜け出したタマシイを戻すのだ。
 \n
-We will do the doll dance properly this\n
-time, so that what is missing of your
+We will do the doll dance properly\n
+this time, so that what is missing of
 <$0C>
-spirit will return.
+your spirit will return.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -337,9 +337,9 @@ Noble Rock:
 //\nタンキー人形はタマシイを操る。\n人から出したり入れたりできるんだ。
 \n
 Turn-key dolls control spirits. They\n
-can be used to direct spirits inward and
+can be used to direct spirits inward
 <$0C>
-out from a person.
+and out from a person.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -354,7 +354,7 @@ Noble Rock:
 <$0D>
 //\nさあ、コロニーに戻れ。\n今はタマシイを入れてる最中だ。
 \n
-Now, return to the colony. We are in the\n
-middle of reinserting the spirit.
+Now, return to the colony. We are in\n
+the middle of reinserting the spirit.
 <$00>
 

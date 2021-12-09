@@ -70,8 +70,8 @@ Noon:
 <$0D>
 //\nおい、小屋はそっちじゃない。\nここにひとりにしないでくれ。
 \n
-Hey, don't run off by yourself! The safe\n
-'ouse isn't that way!
+Hey, don't run off by yourself! The\n
+safe 'ouse isn't that way!
 <$00>
 
 // Pos: 00002226
@@ -94,10 +94,10 @@ Noon:
 <$0D>
 //\nあんまりいい惑じしねぇんだ、今度の任務はよ。\nそれに船長のやつも。
 \n
-I don't sense any good coming from the\n
-mission. I'm 'oping the captain doesn't
+I don't sense any good coming from\n
+the mission. I'm 'oping the captain
 <$0C>
-either.
+doesn't either.
 <$00>
 
 // Pos: 00002277

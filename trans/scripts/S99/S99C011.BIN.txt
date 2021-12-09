@@ -24,8 +24,8 @@ Vladimir is your new father.\n
 Sergei is your new brother.
 <$0C>
 //あなた、兄弟が欲しいって言ってたじゃない。
-Didn't you say you always wanted a big\n
-brother?
+Didn't you say you always wanted a\n
+big brother?
 <$0C>
 //セルゲイ兄さんとは仲良くしてね。
 Try to get along with Sergei, okay?
@@ -47,8 +47,8 @@ Try to get along with Sergei, okay?
 
 <$0F>
 //！ 何度言ったら分かるんだ！\nロケット遊びばかりしてるんじゃない！
-! What did I say about playing with that\n
-toy rocket?!
+! What did I say about playing with\n
+that toy rocket?!
 <$0E><$3C><$17><$00>
 
 // Pos: 000012B6
@@ -99,8 +99,8 @@ Sergei?!
 <$0D>
 //\nよう、宇宙飛行士殿、へへへ、\nまたヘマをやらかしたのか？
 \n
-Aww, what's the matter, space brain?\n
-Did you trip again? Hehehe!
+Aww, what's the matter, space\n
+brain? Did you trip again? Hehehe!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001338

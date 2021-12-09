@@ -25,9 +25,9 @@ Sammy:
 //\n今夜はトミー、おかしいみたい。\nすぐアタシになっちゃうの。
 \n
 Tommy sure was antsy tonight.\n
-Heehee, he's turning into me more and
+Heehee, he's turning into me more
 <$0C>
-more.
+and more.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -115,18 +115,18 @@ Rummy:
 <$0D>
 //\nなんだな、僕だな、ラミーだな。\n今度はふたりだな、あと何人だな…
 \n
-Hey. It's me, Rummy! So, we make two,\n
-and I guess...that person's number
+Hey. It's me, Rummy! So, we make\n
+two, and I guess...that person's
 <$0C>
-three?
+number three?
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n仲間、はぐれたんだな。\n記憶の谷だな、あそこだな。
 \n
-You're friend's lost, isn't she. Yeah, she\n
-must be in Valles Memoriae, a-ha!
+You're friend's lost, isn't she. Yeah,\n
+she must be in Valles Memoriae, a-ha!
 <$1E>
 //鋭
 鋭

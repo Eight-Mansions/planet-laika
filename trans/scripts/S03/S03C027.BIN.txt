@@ -49,7 +49,8 @@ Little:
 <$0D>
 //\nレッドのやつ、\nあんなところで何やってるんだ？
 \n
-Oi, what in blazes is Red doin' out here?!
+Oi, what in blazes is Red doin' out\n
+here?!
 <$0C><$0B>
 //リトル：
 Little:
@@ -295,7 +296,8 @@ Red:
 <$0D>
 //\nくそったれ！\nあの女は誰なんだ、あうあうあうあう…
 \n
-Hmph! Who was that woman? Grr, grr...
+Hmph! Who was that woman? Grr,\n
+grr...
 <$0C><$0B>
 //レッド：
 Red:
@@ -328,8 +330,8 @@ Little:
 <$0D>
 //\n変な扉… 消えた…\nおじさんって誰だ、俺は知らないぞ。
 \n
-The strange door...disappeared? And\n
-who's this "Uncle"? Beats me...
+The strange door...disappeared?\n
+And who's this "Uncle"? Beats me...
 <$00>
 
 // Pos: 00003084
@@ -376,8 +378,8 @@ Little:
 <$0D>
 //\nさあ、急いでくれ。\n俺もああはなりたくないんだ。
 \n
-Come on, let's hurry. I don't want to end\n
-up like that either.
+Come on, let's hurry. I don't want to\n
+end up like that either.
 <$00>
 
 // Pos: 00003118
@@ -430,16 +432,18 @@ Little:
 <$0D>
 //\nもうひとりの俺がやったんだ。\nそうだそうだ…
 \n
-It was another me who did that stuff,\n
-get it?
+It was another me who did that\n
+stuff, get it?
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nお前もだろ、お前の中にも誰かがいるんだ、\nそうだそうだ！
 \n
-Oi, you're just like me! There's another\n
-you in there too. I just know it!
+Oi, you're just like me! There's\n
+another you in there too. I just know
+<$0C>
+it!
 <$1E>
 //裂
 裂
@@ -490,9 +494,10 @@ Noble Rock:
 //\n大変なことだ、完全な善人になったやつがいる。\nホワイトイーグルが保護した。
 \n
 The greatest of happenings! One has\n
-become a wholly "good person" under
+become a wholly "good person"
 <$0C>
-the watchful eye of White Eagle!
+under the watchful eye of White\n
+Eagle!
 <$00>
 
 // Pos: 00003259
@@ -580,8 +585,8 @@ Noble Rock:
 <$0D>
 //\n安定させるまでコロニーは立入禁止、\nロッジも立入禁止だ。
 \n
-Until things are stable, the colony is off\n
-limits, as is the lodge.
+Until things are stable, the colony is\n
+off limits, as is the lodge.
 <$00>
 
 // Pos: 00003354
@@ -604,8 +609,8 @@ Spacer:
 <$0D>
 //\n呪術でどうする？\nバリアを張るのか。
 \n
-How, exactly? I don't see any barriers\n
-around the parameter.
+How, exactly? I don't see any\n
+barriers around the parameter.
 <$00>
 
 // Pos: 00003396
@@ -664,9 +669,9 @@ Yes, with bottles.
 Spacer:
 <$0D>
 //\nびんでイーブルマインドを\nシャットアウトするということか。
-\Oh. Shit, umm...do you mean\n
-you're putting Evil Mind inside of\n
-bottles? Or something?
+\Oh. Shit, umm...do you\n
+mean you're putting Evil Mind inside\n
+of bottles? Or something?
 <$00>
 
 // Pos: 000033FC
@@ -730,7 +735,9 @@ April:
 //\n彼女は何かすごく重いものを\n背負ってるようだけど…
 \n
 From the way she carries herself,\n
-you'd think she'd be full of it, and yet...
+you'd think she'd be full of it, and
+<$0C>
+yet...
 <$0C><$0B>
 //エイプリル：
 April:
@@ -776,19 +783,19 @@ engraving on the wall. Let me see...
 //\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
 \n
 There are tales of a woman who\n
-appears in mirrors at night. I dare say,
+appears in mirrors at night. I dare
 <$0C>
-I've never seen her.
+say, I've never seen her.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-If this woman lives in a mirror, I'd call\n
-her a mirror spirit, no different than
+If this woman lives in a mirror, I'd\n
+call her a mirror spirit, no different
 <$0C>
-Amanda.
+than Amanda.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -814,9 +821,9 @@ April:
 //\nどうしたの、カベに向かって…\nブツブツやってたけど…
 \n
 What are you doing? Mumbling at the\n
-wall like that isn't very attractive, you
+wall like that isn't very attractive,
 <$0C>
-know.
+you know.
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -852,28 +859,30 @@ Thomas:
 <$0D>
 //\nアマンダは\n鏡の精で満足するような女ではないからだ。
 \n
-Amanda is not a woman who is satisfied\n
-with living as a mirror spirit.
+Amanda is not a woman who is\n
+satisfied with living as a mirror
+<$0C>
+spirit.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
 \n
-She wants to create a perfect mirror.\n
-One so perfect, it could reflect her
+She wants to create a perfect\n
+mirror. One so perfect, it could
 <$0C>
-face for everything it is.
+reflect her face for everything it is.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
 \n
-With such a mirror, the seas and lands\n
-of Mars might be reborn in her wicked
+With such a mirror, the seas and\n
+lands of Mars might be reborn in her
 <$0C>
-image.
+wicked image.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -881,7 +890,9 @@ Thomas:
 //\n私なりに、黙示録的な例えだ！
 \n
 (I dare say, I've come up with a sound\n
-little metaphor from Revelations too!)
+little metaphor from Revelations
+<$0C>
+too!)
 <$00>
 
 // Pos: 000036CD
@@ -924,19 +935,19 @@ Thomas:
 //\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
 \n
 There was a woman who looked\n
-precisely like Amanda. She faded in and
+precisely like Amanda. She faded in
 <$0C>
-out of my dream.
+and out of my dream.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
 \n
-It all happened so fast, I almost didn't\n
-notice, but...even then, it's all so
+It all happened so fast, I almost\n
+didn't notice. But...even then,
 <$0C>
-hazy...
+everything's hazy...
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -944,9 +955,9 @@ Thomas:
 //\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
 \n
 Was she an alter ego, or a hint at\n
-Amanda's reincarnation? I dare say, I
+Amanda's reincarnation? I dare say,
 <$0C>
-am confused.
+I am confused.
 <$00>
 
 // Pos: 000037B3
@@ -961,8 +972,8 @@ Yolanda:
 <$0D>
 //\n分身… 誰がよ。\nアタシたちとは建うってことね。
 \n
-Alter ego? That sounds different from\n
-what me and the guys are.
+Alter ego? That sounds different\n
+from what me and the guys are.
 <$00>
 
 // Pos: 000037DA
@@ -985,9 +996,9 @@ Thomas:
 //\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
 
 <$0C>
-I dare say, Feng would have no qualms\n
-offering her body to Amanda. Feng is\n
-her disciple.
+I dare say, Feng would have no\n
+qualms offering her body to\n
+Amanda. Feng is her disciple.
 <$0C><$0B>
 //トーマス：
 Thomas:

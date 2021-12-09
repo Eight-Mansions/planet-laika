@@ -32,7 +32,8 @@ Oxygen Miner 5：
 <$0D>
 //\nシー、つながったんだ、シー。
 \n
-Whoosh, they are connected. Whoosh.
+Whoosh, they are connected.\n
+Whoosh.
 <$00>
 
 // Pos: 00001BD9
@@ -63,7 +64,8 @@ Oxygen Miner 5：
 <$0D>
 //\n夢と現実がだ、シーシー。
 \n
-Dreams and reality, whoosh, whoosh.
+Dreams and reality, whoosh,\n
+whoosh.
 <$00>
 
 // Pos: 00001C1C
@@ -78,8 +80,8 @@ Yolanda:
 <$0D>
 //\nじゃあ、この町は夢なの？ それとも現実？
 \n
-Is that what's going on? Are dreams in\n
-this town connected to reality?
+Is that what's going on? Are dreams\n
+in this town connected to reality?
 <$00>
 
 // Pos: 00001C40
@@ -94,8 +96,8 @@ Oxygen Miner 5：
 <$0D>
 //\nそれを決めれば、だいなしになる、\nぜんぶだいなし、シーシー。
 \n
-Choose only one, whoosh. To no avail,\n
-whoosh, whoosh.
+Choose only one, whoosh. To no\n
+avail, whoosh, whoosh.
 <$00>
 
 // Pos: 00001C70
@@ -110,8 +112,8 @@ Yolanda:
 <$0D>
 //\n夢が現実で、現実が夢なの？
 \n
-Wait, but...is the dream the reality? Or\n
-is the reality the dream?
+Wait, but...is the dream the reality?\n
+Or is the reality the dream?
 <$00>
 
 // Pos: 00001C8F
@@ -127,7 +129,9 @@ Oxygen Miner 5：
 //\nシー、それ以上言わない、シー。\nところで私は５号だ、シー。
 \n
 Whoosh, I'll stop talking. whoosh.\n
-Except for this, whoosh: I'm the fifth.
+Except for this, whoosh: I'm the
+<$0C>
+fifth.
 <$00>
 
 // Pos: 00001CC0

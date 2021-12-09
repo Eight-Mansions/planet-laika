@@ -17,7 +17,8 @@ Spacer:
 <$0D>
 //\nユニバーサルマン…\nあなたがユニバーサルマン…
 \n
-Universal Man... You're Universal Man.
+Universal Man... You're Universal\n
+Man.
 <$00>
 
 // Pos: 000024B2
@@ -79,8 +80,8 @@ Universal Man:
 <$0D>
 //\nあああ… ガリルのやつ…\n完全なる善となるべく… あああ…
 \n
-Gaaa...Galiiiil...seeks to become pure\n
-gooooood...
+Gaaa...Galiiiil...seeks to become\n
+pure gooooood...
 <$00>
 
 // Pos: 0000256C
@@ -160,7 +161,7 @@ Universal Man:
 <$0D>
 //\nあああ…\n呪いの火に焼きつくされてもいいのか…\nあああ…
 \n
-Ahhh...yes, I can burn in the flames\n
+Ahhh... Let me burn in the flames\n
 of...maledictionnnn....
 <$00>
 
@@ -190,13 +191,13 @@ prophecy?
 
 <$10><$13><$18><$08>
 //カオスの中にマコトに\n主体的な者が現れるであろう。
-May there be one who boldly siezes the\n
-truth within the chaos.
+May there be one who boldly siezes\n
+the truth within the chaos.
 <$0C>
 //自らのタマシイを浄化して、\nいかり、おごり、さげすみなど、\n闇の諸力から解放された存在として、
 May he purify his own spirit, and free\n
-himself from the dark hooks of anger,\n
-pride and envy.
+himself from the dark hooks of\n
+anger, pride and envy.
 <$0C>
 //光の中に輝くであろう。
 That he may shine in that light.

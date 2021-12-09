@@ -36,13 +36,14 @@ But I'm sleepy...
 
 <$10>
 //コスマス、忘れちゃいかんなぁ…\n誰がお前をこの可愛い顔に仕上げんだ？\nふうん？
-Shhh, Cosmas. Don't forget, who made\n
-this darling face for you? Hmm?
+Shhh, Cosmas. Don't forget, who\n
+made this darling face for you?\n
+Hmm?
 <$0C>
 //俺はなぁ…今夜は気分が乗ってるんだ、\nさあ、こっちへおいで。\nおじさんが塗ってあげよう。
-That's right, me. Now, come over here\n
-and let Uncle doll up your face. It'll\n
-make you feel good.
+That's right, me. Now, come over\n
+here and let Uncle doll up your face.\n
+It'll make you feel good.
 <$00>
 
 // Pos: 00001EDA
@@ -64,8 +65,8 @@ make you feel good.
 
 <$10>
 //なにをぐずぐずしてる。\nさあ、おいで。
-What are you waiting for? Get your ass\n
-over here!
+What are you waiting for? Get your\n
+ass over here!
 <$00>
 
 // Pos: 00001EF2
@@ -80,8 +81,10 @@ April:
 <$0D>
 //\nさっきの子ね。\n無理に整形させられたのね…
 \n
-That's the little boy we saw! Is that man\n
-forcing cosmetic surgery on him?!
+That's the little boy we saw! Is that\n
+man forcing cosmetic surgery on
+<$0C>
+him?!
 <$00>
 
 // Pos: 00001F17
@@ -103,11 +106,12 @@ It's time to dance!
 
 <$10>
 //もう寝るよ、\nおじさん、僕、眠いんだ。
-I'm going to bed now, Uncle. I'm sleepy.
+I'm going to bed now, Uncle. I'm\n
+sleepy.
 <$0C>
 //気分が乗ってるんだ、コスマス、\nおじさんは気分だぞ。
-Uncle's in the mood, Cosmas. Uncle's in\n
-the mood.
+Uncle's in the mood, Cosmas. Uncle's\n
+in the mood.
 <$00>
 
 // Pos: 00001F57
@@ -122,8 +126,8 @@ the mood.
 
 <$10>
 //ひひひ、コスマス、お前は可愛い、\nほんとに可愛いぞ。
-Hehehe. Cosmas, you're so cute. You're\n
-so damn cute.
+Hehehe. Cosmas, you're so cute.\n
+You're so damn cute.
 <$0C>
 //おじさん、眠いよ、眠い…
 Uncle. I'm sleepy. Let me sleep...
@@ -153,8 +157,10 @@ April:
 <$0D>
 //\nなのにみんな見て見ぬふりしてる…\nイヤなところね。
 \n
-Everyone seems to know what's going\n
-on too, but they all turn a blind eye to it.
+Everyone seems to know what's\n
+going on too, but they all turn a blind
+<$0C>
+eye to it.
 <$00>
 
 // Pos: 00001FCB
@@ -169,8 +175,10 @@ April:
 <$0D>
 //\nダンスの時間って？\nなんだかあの子、かわいそうね。
 \n
-"It's time to dance"? What's happening\n
-to the boy in there? I feel so bad...
+"It's time to dance"? What's\n
+happening to the boy in there? I feel
+<$0C>
+so bad...
 <$00>
 
 // Pos: 00001FF2
@@ -185,8 +193,8 @@ April:
 <$0D>
 //\n先にマウンテンに暗証番号を\n教えてもらうのよ。ハウスよ。
 \n
-We have to get the PIN from Mountain.\n
-He's over at Psycho Lab.
+We have to get the PIN from\n
+Mountain. He's over at Psycho Lab.
 <$00>
 
 // Pos: 0000201F
@@ -205,8 +213,8 @@ April:
 <$0D>
 //\nオートロックよ…さっきの暗証番号、\n覚えてる？ 入力してみない？
 \n
-That's the autolock to the lodge. Do you\n
-remember what PIN we were
+That's the autolock to the lodge. Do\n
+you remember what PIN we were
 <$0C>
 supposed to enter?
 <$00>
@@ -223,8 +231,8 @@ April:
 <$0D>
 //\nえ？ ひとケタなの、暗証番号って。
 \n
-What in the...?! THEY USE A SINGLE DIGIT\n
-NUMBER FOR THEIR PIN?!
+What in the...?! THEY USE A SINGLE\n
+DIGIT NUMBER FOR THEIR PIN?!
 <$00>
 
 // Pos: 00002071
@@ -279,8 +287,8 @@ April:
 <$0D>
 //\nメディスンマンの方にお会いしたくて…
 \n
-We're here to speak with the medicine\n
-men.
+We're here to speak with the\n
+medicine men.
 <$00>
 
 // Pos: 000020CD
@@ -307,8 +315,10 @@ April:
 <$0D>
 //\n私たちは不時着して、\nそれでこのコロニーに来る途中で\n仲間とはぐれたんです。
 \n
-We had to make an emergency landing,\n
-but lost touch with our companions.
+We had to make an emergency\n
+landing, but lost touch with our
+<$0C>
+companions.
 <$00>
 
 // Pos: 00002109
@@ -335,8 +345,8 @@ April:
 <$0D>
 //\n…マウンテンって人から開いたの、
 \n
-...A man named Mountain told us about\n
-you.
+...A man named Mountain told us\n
+about you.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -358,8 +368,8 @@ disappeared to.
 
 <$00>
 //マウンテン！？ あいつはインチキだ。\nあんなやつにたよってはいけない。
-Mountain?! That imposter! Don't listen\n
-to anything he says!
+Mountain?! That imposter! Don't\n
+listen to anything he says!
 <$00>
 
 // Pos: 0000217F
@@ -374,8 +384,8 @@ April:
 <$0D>
 //\nじゃあ、お願いします。
 \n
-Then you're the only ones we can count\n
-on!
+Then you're the only ones we can\n
+count on!
 <$00>
 
 // Pos: 00002196
@@ -402,7 +412,9 @@ April:
 <$0D>
 //\nこの扉から入るのね。\nホワイトイーグルってどんな人かなぁ？
 \n
-Let's go in through this door. I wonder\n
-what kind of person White Eagle is.
+Let's go in through this door. I\n
+wonder what kind of person White
+<$0C>
+Eagle is.
 <$00>
 

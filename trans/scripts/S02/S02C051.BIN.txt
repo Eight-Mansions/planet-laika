@@ -26,12 +26,13 @@ Do you think you can handle it?
 案ウYou can't afford to be weak.
 <$0C>
 //うーん、読めないな。\n強いのか、弱いのか、わからないよ。
-Oddly, even I can't tell whether you're\n
-strong or weak!
+Oddly, even I can't tell whether\n
+you're strong or weak!
 <$0C>
 //さっきの人は読めたよ、ひどくおびえてるよ。\n弱いんだね、きっと。
 The person I saw earlier was so\n
-scared, so they must have been weak.
+scared, so they must have been\n
+weak.
 <$1E>
 //炎
 炎

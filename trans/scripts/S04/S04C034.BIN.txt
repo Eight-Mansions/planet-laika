@@ -25,18 +25,18 @@ Feng:
 <$0D>
 //\n悪口言う人もあるけど、そんな人は\n無理してるだけなのよ。
 \n
-Some people speak ill of them, yes, but\n
-such folks don't want to be reasoned
+Some people speak ill of them, yes,\n
+but such folks don't want to be
 <$0C>
-with.
+reasoned with.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n人間の顔になりたいのは誰でもそうよ。
 \n
-We happily welcome anyone looking to\n
-get a human face.
+We happily welcome anyone looking\n
+to get a human face.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -80,8 +80,10 @@ Sammy:
 <$0D>
 //\nイヤね、まったく。\nどうかしてるのよ… 特に今夜は変よ。
 \n
-People these days... All out here, acting\n
-like it's a full moon so they can go crazy.
+People these days... All out here,\n
+acting like it's a full moon so they can
+<$0C>
+go crazy.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -117,9 +119,9 @@ Sammy:
 //\n前からね、気にはなっていたのよ。\nさっき走って行ったのは、どうみても建った。\n何が建うかって…
 \n
 The way he was walking early was\n
-totally off! Something's not right with
+totally off! Something's not right
 <$0C>
-him, a-nope.
+with him, a-nope.
 <$00>
 
 // Pos: 00002002
@@ -155,8 +157,10 @@ Sammy:
 <$0D>
 //\nリトルにも誰か別な人がいる、そう思うのよ。\n目が建うの、ときどき入れ替わってるんじゃ\nないかしら。
 \n
-I think there's someone else inside of\n
-Little, because his eyes keep changing.
+I think there's someone else inside\n
+of Little, because his eyes keep
+<$0C>
+changing.
 <$1E>
 //中
 中
@@ -174,8 +178,8 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう、\nまた酒が入ってくらくらきたぜ…
 \n
-Hey, comrade. Guess who had another\n
-drink...
+Hey, comrade. Guess who had\n
+another drink...
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -190,10 +194,10 @@ Tommy:
 <$0D>
 //\nあの女は催眠術を使う、危ねぇんだ、\nようよう、頭ん中、ぐらぐらにされるぞ。
 \n
-Her hypnotherapy will mess with you\n
-just as good, a-yup. You'll wanna be
+Her hypnotherapy will mess with\n
+you just as good, a-yup. You'll wanna
 <$0C>
-careful.
+be careful.
 <$1E>
 //声
 声
@@ -211,8 +215,8 @@ Yang:
 <$0D>
 //\nお前、おっかないの、好きなのか？\nあの女は魔女だ、催眠術使いだ。
 \n
-You like ghastly people, don't you? Like\n
-that hypnotherapist?
+You like ghastly people, don't you?\n
+Like that hypnotherapist?
 <$00>
 
 // Pos: 0000212B
@@ -228,9 +232,9 @@ Yang:
 //\nあの女にかかると、誰でもいいなりだ、\nなされるがままだ、ひゃ！おっかないぞ。
 \n
 It's like the second she walks in,\n
-everyone's doing what she tells them
+everyone's doing what she tells
 <$0C>
-to!
+them to!
 <$00>
 
 // Pos: 0000215C
@@ -246,9 +250,9 @@ Yang:
 //\nさっきから無線テレビが点いたり消えたり、\nそれもアガタの魔術だろ。
 \n
 Our monitor's blinking on and off\n
-again. I bet that's from her witchcraft
+again. I bet that's from her
 <$0C>
-too.
+witchcraft too.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -282,8 +286,8 @@ Yang:
 <$0D>
 //\n魔術なんかにはたよらない。宇宙の波動だ。
 \n
-As long as I'm in these waves, that's all\n
-I'll ever need.
+As long as I'm in these waves, that's\n
+all I'll ever need.
 <$1E>
 //鋭
 鋭

@@ -35,8 +35,10 @@ Feng:
 <$0D>
 //\nねえ、私のお店をご案内するわ。\nあっ、私はフェイ、リャンハウスのフェイよ。
 \n
-Say, why don't I show you to my store?\n
-I'm Feng, owner of House Liang.
+Say, why don't I show you to my\n
+store? I'm Feng, owner of House
+<$0C>
+Liang.
 <$00>
 
 // Pos: 000020F6
@@ -78,9 +80,9 @@ Feng:
 //\nもっときれいになりたい。みんな同じなのよ。\n整形は心をきれいにする手段なのよ。分かる？
 \n
 ...everyone desires beauty. So, why\n
-not let cosmetic surgery cleanse your
+not let cosmetic surgery cleanse
 <$0C>
-mind?
+your mind?
 <$1E>
 //中
 中
@@ -106,8 +108,8 @@ Madam Agatha:
 <$0D>
 //\nヴェロニカは苦しみの世界に通じている…\n彼女の言うことには一貫性がないけど、
 \n
-Veronica is well-versed in the world of\n
-suffering, but what she says is
+Veronica is well-versed in the world\n
+of suffering, but what she says is
 <$0C>
 inconsistent.
 <$0C><$0B>
@@ -117,16 +119,17 @@ Madam Agatha:
 //\nフェイよりも深くこの世界に参加しているの。\nこの星で起きていること、彼女が詳しいのよ。
 \n
 She wanders the land more than Feng\n
-does, and knows what is happening on
+does, and knows what is happening
 <$0C>
-Mars.
+on Mars.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nそれにフェイと建ってウソはないわ。
 \n
-And, unlike Feng, Veronica does not lie.
+And, unlike Feng, Veronica does not\n
+lie.
 <$1E>
 //鋭
 鋭

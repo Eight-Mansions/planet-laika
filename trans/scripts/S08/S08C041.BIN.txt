@@ -67,17 +67,19 @@ Little:
 //\n何が神様だ、あれはイーブルマインドのカス\nみたいなもんだ。\nあれが神様だと…笑わせやがる。
 \n
 What is God, if not a disgustin' mass of\n
-Evil Mind? Please, don't make me laugh!
+Evil Mind? Please, don't make me
+<$0C>
+laugh!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n俺をおとしいれようっていうんだ。\n俺は何もしちゃいねぇ、そうだろ、悪夢の世界は\nヘロデが作り出したんだ、俺じゃない！
 \n
-HE tricked you, not me! HEROD created\n
-the Land of Nightmares, not me! I
+HE tricked you, not me! HEROD\n
+created the Land of Nightmares, not
 <$0C>
-never did anythin'!
+me! I never did anythin'!
 <$0C><$0B>
 //リトル：
 Little:
@@ -85,9 +87,9 @@ Little:
 //\nちくしょう、帰るぞ、\nどっちだ、帰り道は…こっちか？
 \n
 Oi, forget this. I'm gettin' out of here!\n
-Now, which way's the exit...? Is it over
+Now, which way's the exit...? Is it
 <$0C>
-here?
+over here?
 <$00>
 
 // Pos: 0000299C
@@ -110,7 +112,8 @@ Little:
 <$0D>
 //\n何が来ようと俺は大丈夫だ、くそったれ！
 \n
-I've got nothing to answer for, get it?!
+I've got nothing to answer for, get\n
+it?!
 <$0C><$0B>
 //リトル：
 Little:
@@ -167,8 +170,8 @@ Please, no... The twins are getting\n
 closer...
 <$0C>
 //早くしないと、追いかけてくる…\nそんなの嫌だよう、僕は、僕は…
-If I don't hurry, they're going to catch\n
-me.
+If I don't hurry, they're going to\n
+catch me.
 <$00>
 
 // Pos: 00002AE2
@@ -208,8 +211,8 @@ Little:
 <$0D>
 //\nそれで…お前は何してるんだ、\nこんなところで？ 俺を連れてきたのか…
 \n
-What are you doin' in a place like this?!\n
-Did YOU drag me here?
+What are you doin' in a place like\n
+this?! Did YOU drag me here?
 <$00>
 
 // Pos: 00002B53
@@ -243,9 +246,9 @@ Little:
 //\n何をのんきなこと言ってやがる。\nくそっ、まただ、ええ？
 \n
 Why are you strayin' off-topic huh?\n
-Who cares about what's on the damned
+Who cares about what's on the
 <$0C>
-walls?!
+damned walls?!
 <$0C><$0B>
 //リトル：
 Little:
@@ -305,8 +308,10 @@ Spacer:
 <$0D>
 //\nそ、そうだ、神様だ。\n神様に眼を入れるという。\nしかし…君では無理なのではないか。
 \n
-R-right. God. Liever said we'd meet God\n
-here... That wasn't a prank, was it?
+R-right. God. Liever said we'd meet\n
+God here... That wasn't a prank, was
+<$0C>
+it?
 <$00>
 
 // Pos: 00002C89
@@ -328,8 +333,8 @@ Evil Mind?
 Little:
 <$0D>
 //\nあれが神様だと…笑わせやがる。\n俺をおとしいれようっていうんだ。\n俺は何もしちゃいねぇ、そうだろ、
-Please, don't make me laugh! HE\n
-tricked you, not me!
+Please, don't make me laugh!\n
+HE tricked you, not me!
 <$0C><$0B>
 //リトル：
 Little:
@@ -347,9 +352,9 @@ Little:
 //\nちくしょう、帰るぞ、どっちだ、帰り道は…\nこっちか？
 \n
 Oi, forget this. I'm gettin' out of here!\n
-Now, which way's the exit...? Is it over
+Now, which way's the exit...? Is it
 <$0C>
-here?
+over here?
 <$00>
 
 // Pos: 00002D38

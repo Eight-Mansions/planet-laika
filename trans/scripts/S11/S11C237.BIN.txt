@@ -17,7 +17,8 @@ Cosmas:
 <$0D>
 //\nやっぱり嫌だ、帰ろうよ、ダークマン！
 \n
-I hate this, Dark Man! I want to go home!
+I hate this, Dark Man! I want to go\n
+home!
 <$00>
 
 // Pos: 0000233F
@@ -55,8 +56,8 @@ Captain? Captain Galil, is that you?
 
 <$10><$12>
 //にお前を苦悩から救えるのは、\n我々しかいない。
-にWe are the only one who can save you\n
-from your suffering.
+にWe are the only one who can save\n
+you from your suffering.
 <$00>
 
 // Pos: 00002394
@@ -109,7 +110,7 @@ Cosmas:
 <$0D>
 //\n神様…なの？\nみんなが騒いでる、蕃判の神様なの？
 \n
-Are you...God? Are you the God of that\n
+Are you...God? Are you the god of that\n
 "Judgement" everyone is talking
 <$0C>
 about?
@@ -123,9 +124,9 @@ about?
 
 <$10><$12>
 //に我々は神ではない。存在なのだ。\n存在に形を与えて、顔となった。\n存在は、善でも悪でもない。
-にWe are no God. We are one existence,\n
-given facely shape. We are neither\n
-good nor evil.
+にWe are no God. We are one\n
+existence, given facely shape. We\n
+are neither good nor evil.
 <$00>
 
 // Pos: 0000243F
@@ -156,8 +157,8 @@ mean. Can you show me?
 the question.
 <$0C>
 //存在としての我々は、\n顔を得たことで実体化した。\nしかし、顔によって崩壊したのだ。
-We are an existence created from Our\n
-face and destroyed by Our face.
+We are an existence created from\n
+Our face and destroyed by Our face.
 <$00>
 
 // Pos: 000024B2
@@ -172,8 +173,8 @@ Cosmas:
 <$0D>
 //\n顔！ 僕は…僕のこの顔が、嫌いだ。\nこの顔のおかげで、僕は…
 \n
-I...I hate my face! Thanks to this face,\n
-all I do is...
+I... I hate my face! Thanks to this\n
+face, all I do is...
 <$00>
 
 // Pos: 000024E1
@@ -184,8 +185,8 @@ all I do is...
 
 <$10><$12>
 //にその顔が災いをもたらしたのだな。\n戻すのはたやすい。\nさあ、来るのだ。
-にThat faces harkens disaster, but you\n
-can turn it back.\n
+にThat faces harkens disaster, but\n
+you can turn it back.\n
 Yes, it comes.
 <$00>
 
@@ -287,7 +288,9 @@ True Faiths:
 //\n人間の顔！ ばかばかしい！\n顔に意味を与えているのは、お前たち人間だ。
 \n
 Human faces?! Foolish! You humans\n
-alone give your faces any significance.
+alone give your faces any
+<$0C>
+significance.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -341,8 +344,10 @@ True Faiths:
 <$0D>
 //\nしかし、我々は火星人でも宇宙人でもない。\n我々なのだ。 お前は、自分をなんだと\n思っているのか？
 \n
-However, We are neither Martian nor\n
-Alien. And what would you say you are?
+However, We are neither Martian\n
+nor Alien. And what would you say
+<$0C>
+you are?
 <$00>
 
 // Pos: 000026AA
@@ -357,8 +362,8 @@ Spacer:
 <$0D>
 //\n私は地球人…地球から来た…
 \n
-I came here from Earth, so that would\n
-make me an Earthling.
+I came here from Earth, so that\n
+would make me an Earthling.
 <$00>
 
 // Pos: 000026C9
@@ -376,28 +381,30 @@ True Faiths:
 <$0D>
 //\nおろかな！ 地球に住むから地球人か！\nロケットに乗るから宇宙飛行士か！
 \n
-Because you come from Earth, you're\n
-an Earthling? Because you ride a
+Because you come from Earth,\n
+you're an Earthling? Because you
 <$0C>
-rocket, you're a cosmonaut?!
+ride a rocket, you're a cosmonaut?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n子をもうければ父親か、盗みを働けば犯罪者か、\n闘いの場では兵士か、お前達はいつも\n都合のいい自分を用意している。
 \n
-If you have a child, you're a father? If\n
-you take, you're a thief? If you fight,
+If you have a child, you're a father?\n
+If you take, you're a thief? If you
 <$0C>
-you're a soldier?
+fight, you're a soldier?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n真の自分を隠し、目をそらせ、\n何色にでも染まろうとする。
 \n
-You are foolish to hide your true selves\n
-under countless titles of convenience!
+You are foolish to hide your true\n
+selves under countless titles of
+<$0C>
+convenience!
 <$00>
 
 // Pos: 0000278D
@@ -412,10 +419,11 @@ Spacer:
 <$0D>
 //\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
 \n
-Listen, in our social structure, humans\n
-are given roles: fathers, teachers,
+Listen, in our social structure,\n
+humans are given roles: fathers,
 <$0C>
-mothers, children, et cetera.
+teachers, mothers, children, et\n
+cetera.
 <$00>
 
 // Pos: 000027EB
@@ -433,7 +441,7 @@ True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
 \n
-"Roles"..."structure"...hah! Then We\n
+"Roles"... "Structure"... Hah! Then We\n
 ask you, why do you kill each other?
 <$0C><$0B>
 //トゥルーフェイス：
@@ -469,8 +477,8 @@ Spacer:
 <$0D>
 //\nひとりひとりが、個性を持ち、\n生きているからだ。
 \n
-Because each and every one of us has a\n
-personal story to tell.
+Because each and every one of us has\n
+a personal story to tell.
 <$00>
 
 // Pos: 000028C5
@@ -488,7 +496,7 @@ True Faiths:
 <$0D>
 //\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
 \n
-"Personal"...another convenience\n
+"Personal"... Another convenient\n
 word. Now, imagine organs in the
 <$0C>
 human body were "personal".
@@ -498,10 +506,10 @@ True Faiths:
 <$0D>
 //\nひとつひとつの器官には、決まった役割が与えら\nれている。それは個性などではない。\n心臓は脳にはなれない、口は耳にはなれない。
 \n
-Each and every organ is fixed to serve\n
-the whole. A heart cannot be a brain.
+Each and every organ is fixed to\n
+serve the whole. A heart cannot be a
 <$0C>
-Nor a mouth, an ear.
+brain. Nor a mouth, an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -526,10 +534,10 @@ Spacer:
 <$0D>
 //\n火星人…いや、あなたたちは、全体でひとつの個\n性を持つ。そう開いたが。
 \n
-I heard the Martians...I mean, you, are\n
-a collective consciousness devoid of
+I heard the Martians...I mean, you,\n
+are a collective consciousness
 <$0C>
-individuality.
+devoid of individuality.
 <$00>
 
 // Pos: 000029C3
@@ -547,10 +555,10 @@ True Faiths:
 <$0D>
 //\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない\nそこにお前たちの顔が災いをもたらせたのだ。
 \n
-Indeed, We do not see "individuality".\n
-Your faces ignited Our destruction in
+Indeed, We do not see\n
+"individuality". Your faces ignited
 <$0C>
-its entirety.
+Our destruction in its entirety.
 <$00>
 
 // Pos: 00002A13
@@ -639,9 +647,11 @@ Wisdom...
 True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る\nこれのどこが英知なのだ。
-To "see the world in a grain\n
-of said? See heaven in a single\n
-wildflower"? What "wisdom" is this?!
+To "see the world in a\n
+grain of said? See heaven in a single\n
+wildflower"? What "wisdom" is
+<$0C>
+this?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -656,8 +666,8 @@ True Faiths:
 <$0D>
 //\n神の言葉なのか、それとも妄想なのか。\nお前たちは間建っている！
 \n
-Can you not differentiate the Word of\n
-God and delusion, you insects?!
+Can you not differentiate the Word\n
+of God and delusion, you insects?!
 <$00>
 
 // Pos: 00002BA6

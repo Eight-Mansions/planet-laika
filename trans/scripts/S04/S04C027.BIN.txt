@@ -17,8 +17,8 @@ Boomer:
 <$0D>
 //\nハウスのやつらが…\nああなるのは分かってたんだ。
 \n
-I see men at Psycho Lab...have moved\n
-on.
+I see the men at Psycho Lab...have\n
+moved on.
 <$0C><$0B>
 //ブーマー：
 Boomer:
@@ -26,9 +26,9 @@ Boomer:
 //\n見えねぇ目玉やら日記やら、\nおかしな話だらけだ。
 \n
 Ohhh, what I cannot see are the\n
-eyeballs or the visual oddities etched
+eyeballs or the visual oddities
 <$0C>
-on the walls.
+etched on the walls.
 <$1E>
 //声
 声
@@ -46,8 +46,8 @@ Boomer:
 <$0D>
 //\n俺には見えねぇ、\n見えねぇもんは見えねぇんだ。
 \n
-Ohhh, I can't see it. I can't see it, I can't\n
-see it...
+Ohhh, I can't see it. I can't see it, I\n
+can't see it...
 <$1E>
 //家
 家
@@ -57,8 +57,8 @@ Boomer:
 <$0D>
 //\nレッドのやつ、もうじき戻ってくるぜ…\n気を付けな…
 \n
-Red will be back soon. Ahhh, you should\n
-be careful...
+Red will be back soon. Ahhh, you\n
+should be careful...
 <$00>
 
 // Pos: 000013F1
@@ -134,8 +134,8 @@ Boomer:
 <$0D>
 //\n脳ミソパチパチ、まだ続くのか？\nもう終わりなのか？
 \n
-Is the brain crackling still underway?\n
-Will it be over soon?
+Is the brain crackling still\n
+underway? Will it be over soon?
 <$1E>
 //家
 家
@@ -184,8 +184,8 @@ Spacer:
 <$0D>
 //\nそこの様子が変だぞ。\nあそこは何て言ったか…
 \n
-That's a wild thing to ask. What "break"\n
-are you talking about?
+That's a wild thing to ask. What\n
+"break" are you talking about?
 <$00>
 
 // Pos: 000014F5
@@ -242,8 +242,8 @@ Boomer:
 <$0D>
 //\nそうかい。でもよ、\nガツンといきたいって顔に書いてあるぜ。
 \n
-I see, and yet, it's written on your face\n
-that you're ready to pop too.
+I see, and yet, it's written on your\n
+face that you're ready to pop too.
 <$00>
 
 // Pos: 000015AE

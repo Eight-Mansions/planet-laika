@@ -63,7 +63,9 @@ Liever:
 //\n蕃判のウワサを調べに来た…\nどう？当たりでしょ。
 \n
 ...to investigate the rumors about\n
-Mars and Judgement. Well? How'd I do?
+Mars and Judgement. Well? How'd I
+<$0C>
+do?
 <$00>
 
 // Pos: 000021FF
@@ -83,9 +85,9 @@ Not bad, not bad.
 //そして分かった、\n蕃判だの奇跡だのは妄想の産物なんだ。
 \n
 Thankfully, any Judgement and\n
-miracle worries are invalid figments
+miracle worries are invalid
 <$0C>
-of imagination.
+figments of imagination.
 <$00>
 
 // Pos: 00002234
@@ -116,8 +118,8 @@ Spacer:
 <$0D>
 //\nふ…君は平気なのか、コロニーの連中みたいに\n蕃判から逃れようとはしないのか。
 \n
-Hmph, then why are you so calm? Why\n
-not run from Judgement like the
+Hmph, then why are you so calm?\n
+Why not run from Judgement like the
 <$0C>
 others in the colony are?
 <$00>
@@ -212,7 +214,8 @@ Spacer:
 <$0D>
 //\n奇跡？君にも奇跡が起こせるのか。
 \n
-His miracle? Where would we see that?
+His miracle? Where would we see\n
+that?
 <$00>
 
 // Pos: 00002367
@@ -227,8 +230,8 @@ Liever:
 <$0D>
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。
 \n
-Down at the Brick Road entrance to the\n
-underground canal.
+Down at the Brick Road entrance to\n
+the underground canal.
 <$0C>
 //分かるよね。
 Just before entering the colony.

@@ -41,16 +41,16 @@ Oxygen Miner 1：
 <$0D>
 //\nなんだ、お前は？ シー、それでどうする？\nシー。なさそうだ、力、
 \n
-Where do you look, whoosh? Help me,\n
-whoosh? Need power!
+Where do you look, whoosh? Help\n
+me, whoosh? Need power!
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
 //\nお前、ダメだ、力、あるのか、ないのか、\nあるのか、ないんだないんだ！ 力、シー。
 \n
-Not YOU, whoosh! Don't have power! We\n
-need power, whoosh!
+Not YOU, whoosh! Don't have power!\n
+We need power, whoosh!
 <$1E>
 //星
 星
@@ -76,8 +76,8 @@ Oxygen Miner 1：
 <$0D>
 //\n力、力、力だ、\n力のためには協力をおしまないぞ、シー。
 \n
-Work together! Find power and use it,\n
-whoosh@
+Work together! Find power and use\n
+it, whoosh@
 <$1E>
 //中
 中
@@ -284,8 +284,8 @@ Ernest:
 <$0D>
 //\n何だこりゃ？ 銀のカプセル…まあいい、\nもらっておくぜ。\nそれにしてもどうなっちまったんだ、ここは？
 \n
-What's this silver capsule? I'll take it,\n
-but...more importantly, what
+What's this silver capsule? I'll take\n
+it, but...more importantly, what
 <$0C>
 happened here?
 <$00>
@@ -302,8 +302,8 @@ Oxygen Miner 1：
 <$0D>
 //\nヌーン町長が町を作った、\nその町が火事になった、\n燃えてる、シーシー。
 \n
-Elder Noon made town. Caught fire and\n
-burned, whoosh, whoosh.
+Elder Noon made town. Caught fire\n
+and burned, whoosh, whoosh.
 <$00>
 
 // Pos: 00001E1C
@@ -336,10 +336,10 @@ Oxygen Miner 1：
 <$0D>
 //\nアイスマンだ、ユニバーサルマンの分身、\n死の動機に憑かれてる、シーシー。
 \n
-Ice Man, whoosh. Universal Man's alter\n
-ego, whoosh, whoosh. Had reason for
+Ice Man, whoosh. Universal Man's\n
+alter ego, whoosh, whoosh. Had
 <$0C>
-dying.
+reason for dying.
 <$00>
 
 // Pos: 00001E7A
@@ -430,8 +430,8 @@ Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。\nお前…ダメだ、力ない、シー、全然ない！
 \n
-Gate open, whoosh! Not you, whoosh!\n
-Need...power!
+Gate open, whoosh! Not you,\n
+whoosh! Need...power!
 <$00>
 
 // Pos: 00001F47
@@ -491,8 +491,8 @@ Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。お前…ダメだ、\n見たところあまり力ない、シー、あまりない！
 \n
-Gate open, whoosh! Not you, whoosh!\n
-Must go find...power!
+Gate open, whoosh! Not you,\n
+whoosh! Must go find...power!
 <$00>
 
 // Pos: 00001FDA
@@ -523,8 +523,8 @@ Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。\nお前…ダメだ、力ない、シー、あんまりない！
 \n
-Gate open, whoosh! Not you, whoosh!\n
-Need...POWER!
+Gate open, whoosh! Not you,\n
+whoosh! Need...POWER!
 <$00>
 
 // Pos: 00002032
@@ -539,8 +539,8 @@ Yolanda:
 <$0D>
 //\nゲート開けるのね、アタシじゃ無理ね。
 \n
-We need to open the gate, but...I'm not\n
-built for this.
+We need to open the gate, but...I'm\n
+not built for this.
 <$00>
 
 // Pos: 00002053

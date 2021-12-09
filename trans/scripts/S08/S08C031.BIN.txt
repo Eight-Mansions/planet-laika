@@ -17,8 +17,8 @@ Liever:
 <$0D>
 //\nこれはマジックミラーさ。\n砂嵐が起きると、この鏡は使えなくなる。
 \n
-This is a magic mirror. It doesn't work\n
-during sandstorms.
+This is a magic mirror. It doesn't\n
+work during sandstorms.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -32,10 +32,10 @@ Liever:
 <$0D>
 //\n中に実際にはない入口がうつってるだろ。\nそこから向こうへ抜けるんだ。
 \n
-When you do, you might see entrances\n
-in its reflection you wouldn't see
+When you do, you might see\n
+entrances in its reflection you
 <$0C>
-otherwise.
+wouldn't see otherwise.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -73,8 +73,10 @@ April:
 <$0D>
 //\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
 \n
-What is a mirror doing here? And...why\n
-won't it show my reflection?!
+What is a mirror doing here?\n
+And...why won't it show my
+<$0C>
+reflection?!
 <$0E><$1E><$17><$00>
 
 // Pos: 00002934
@@ -89,8 +91,10 @@ April:
 <$0D>
 //\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
 \n
-What is a mirror doing here? And...why\n
-won't it show my reflection?!
+What is a mirror doing here?\n
+And...why won't it show my
+<$0C>
+reflection?!
 <$00>
 
 // Pos: 0000295B

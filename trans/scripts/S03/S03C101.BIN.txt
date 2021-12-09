@@ -68,9 +68,9 @@ S-screw you! Drop dead!
 #WHB(PTR, $000004F1)
 
 //仮い言葉はいけないよ。\nさあ、一緒に遊ぼう、青少年の家で遊ぼう。
-Watch your mouth! Come on, let's play\n
-together. That's right, we're going\n
-back in the dog house.
+Watch your mouth! Come on, let's\n
+play together. That's right, we're\n
+going back in the dog house.
 <$00>
 
 // Pos: 00001428
@@ -135,8 +135,8 @@ Red:
 <$0D>
 //\nへへ… 俺はどうなるんだ…\nこれが用済みってことなのか？
 \n
-Hehe, what will happen to me now? Will\n
-I have...served my purpose?
+Hehe, what will happen to me now?\n
+Will I have...served my purpose?
 <$0C><$0B>
 //レッド：
 Red:

@@ -81,10 +81,10 @@ White Eagle:
 <$0D>
 //\nお前を呼んでる場所があるぞ、\n眠りの場所だ、ふほ。
 \n
-And now, haww, you will be beckoned\n
-somewhere to lay. Your resting place
+And now, haww, you will be\n
+beckoned somewhere to lay. Your
 <$0C>
-calls you.
+resting place calls you.
 <$00>
 
 // Pos: 0000070C
@@ -107,8 +107,8 @@ White Eagle:
 <$0D>
 //\n用心せねばならんぞ、\nここではうかつなことは許されんからのう。
 \n
-You must be alert! We can't wander this\n
-place so carelessly.
+You must be alert! We can't wander\n
+this place so carelessly.
 <$00>
 
 // Pos: 00000760
@@ -131,7 +131,7 @@ White Eagle:
 <$0D>
 //\n用心せねばならんぞ、\nここではうかつなことは許されんからのう。
 \n
-You must be alert! We can't wander this\n
-place so carelessly.
+You must be alert! We can't wander\n
+this place so carelessly.
 <$00>
 

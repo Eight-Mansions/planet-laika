@@ -24,8 +24,8 @@ Linda:
 <$0D>
 //\nアタシだったら、そうねー、\nどっかそのへんに隠れるー。
 \n
-I'm right there with you. I often prefer\n
-staying a little out of the way.
+I'm right there with you. I often\n
+prefer staying a little out of the way.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -53,16 +53,16 @@ Linda:
 <$0D>
 //\nアタシだったらさー、どっかそのへん、\nそのへんよー。
 \n
-If I were you, I'd want to check a little\n
-over here, a little over there.
+If I were you, I'd want to check a\n
+little over here, a little over there.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n家が並んでるところとかー。
 \n
-Maybe you'll find a spot around where\n
-the houses are all lined up.
+Maybe you'll find a spot around\n
+where the houses are all lined up.
 <$1E>
 //行
 行
@@ -85,9 +85,9 @@ Linda:
 //\nあんた、建うのー、布使ったの。\nじゃあ誰の顔なのー…布に顔が浮き出てたわ。
 \n
 Is something different? Did you use\n
-the cloth? Well, who'se face was on the
+the cloth? Well, who'se face was on
 <$0C>
-cloth then?
+the cloth then?
 <$0C>
 //あの布はね、完全な顔にかぶせると、その顔を\nはぎ取ることができるのよー、\n怖いわ、嫌だわ、汚いわ。
 I heard that putting that cloth on a\n
@@ -96,8 +96,8 @@ Yikes! That's terrifying!
 <$0C>
 //欲張りすぎると顔が元に戻っちゃうのよー、\nほどほどで満足しないとね。
 It's a good warning to not get too\n
-greedy. Be happy with your progress\n
-or go back to square one.
+greedy. Be happy with your\n
+progress or go back to square one.
 <$00><$10><$0B>
 //リンダ：
 Linda:
@@ -157,15 +157,17 @@ Linda:
 //\nあー、もー、嫌よ、嫌。\nサイコちゃんに付き合ってたらひどいのよ、
 \n
 Ugh! Enough! I'm disgusted! I can't\n
-stand being around that little Psycho.
+stand being around that little
+<$0C>
+Psycho.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n頭の中に変な言葉が？れてきてさ。
 \n
-And what are these voices in my head?\n
-So obnoxious.
+And what are these voices in my\n
+head? So obnoxious.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -231,10 +233,10 @@ Linda:
 <$0D>
 //\n名前なんてどうでもいいの。\n大切なのは顔よ、ねぇ、さっきと同じ顔なの？
 \n
-Pfft, I'm not talking about your name,\n
-I'm talking about your face! Did you
+Pfft, I'm not talking about your\n
+name, I'm talking about your face!
 <$0C>
-change?
+Did you change?
 <$00>
 
 // Pos: 000020AB
@@ -265,17 +267,19 @@ Linda:
 //\nビミョーな問顆ね、すっごくビミョーよー\nでも、あんた頭良さそうねー、\n顔はそうでもないけどさ。
 \n
 That's a loaded question, yes. Very\n
-loaded, but you seem smarter than you
+loaded, but you seem smarter than
 <$0C>
-look, so...
+you look, so...
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあいつらといい勝負？サイコハウスのやつらさ、\nいばってるよー、\n自分たちは特別だと思ってるしさー。
 \n
-Oh, who do you sound like? I'd say you'd\n
-fit in with those guys at Psycho Lab.
+Oh, who do you sound like? I'd say\n
+you'd fit in with those guys at Psycho
+<$0C>
+Lab.
 <$00>
 
 // Pos: 0000213F
@@ -290,8 +294,8 @@ Spacer:
 <$0D>
 //\nサイコな連中はまだ実験を\n続けるつもりなのか？
 \n
-Is their posse still going through with\n
-their experiments?
+Is their posse still going through\n
+with their experiments?
 <$00>
 
 // Pos: 00002168
@@ -338,7 +342,8 @@ Linda:
 <$0D>
 //\nねー、あんたー、隠れんぼはおしまい？
 \n
-Done playing hide-and-seek, are you?
+Done playing hide-and-seek, are\n
+you?
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -355,10 +360,10 @@ Linda:
 <$0D>
 //\n建うよねー、犬顔だものねー。\n汚い布が変なのー、光ってるのー。
 \n
-No, you still have a dogface. That dirty\n
-cloth had changed, though. It was
+No, you still have a dogface. That\n
+dirty cloth had changed, though. It
 <$0C>
-shining.
+was shining.
 <$1E>
 //行
 行
@@ -405,8 +410,8 @@ Linda:
 <$0D>
 //\nそうなのねー。アタシさー、思い出したよ、\nアマンダよ。
 \n
-But I remember. It's like when Amanda\n
-was alive.
+But I remember. It's like when\n
+Amanda was alive.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -421,8 +426,8 @@ Linda:
 <$0D>
 //\nおっかしいねー、\n会ったこともないのにねー。
 \n
-That's perhaps the strangest part of it.\n
-In reality, I've never met her!
+That's perhaps the strangest part of\n
+it. In reality, I've never met her!
 <$1E>
 //行
 行
@@ -440,8 +445,10 @@ Linda:
 <$0D>
 //\n頭の中でもやもやー、\nあんたもそんなことあるのー。\nねぇ、あんた、頭いい人なのー。
 \n
-You're head's probably fuzzy too, no?\n
-Then again, you're pretty bright...
+You're head's probably fuzzy too,\n
+no? Then again, you're pretty
+<$0C>
+bright...
 <$1E>
 //中
 中
@@ -459,8 +466,8 @@ Linda:
 <$0D>
 //\nなんかさー、あんたもー、同じ惑じよねー、\nサイコちゃんたちと。
 \n
-Then again, I suppose that's why you'd\n
-fit in with Psycho types.
+Then again, I suppose that's why\n
+you'd fit in with Psycho types.
 <$00>
 
 // Pos: 00002384
@@ -546,8 +553,10 @@ Linda:
 <$0D>
 //\nおネンネしたからなのー、そこでよー。\n消灯時間なんてねー、朝なのにー。
 \n
-That's what beddy-byes do for us. Even\n
-in the daytime, it's still, "LIGHTS-OUT!"
+That's what beddy-byes do for us.\n
+Even in the daytime, it's still,
+<$0C>
+"LIGHTS-OUT!"
 <$1E>
 //行
 行

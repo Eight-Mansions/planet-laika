@@ -13,9 +13,9 @@
 
 <$12><$13><$13>
 //痛みはすぐに引く。\nお前はこれで、苦しみから解き放たれたのだ。\nもう、なにも思い悩むことはない。
-The pain will fade, for you are now free\n
-from suffering. Your fears are no\n
-more.
+The pain will fade, for you are now\n
+free from suffering. Your fears are\n
+no more.
 <$0C>
 //お前は我々と同じ中立だ。\n善き人間も悪しき人間も、\nともに弱い存在だ。
 Your kind and Ours are at balance.\n
@@ -23,8 +23,8 @@ Whether good or evil, the human\n
 existence too is frail...
 <$0C>
 //善悪を乗り越えるのだ。\nお前には、それができる。
-...but you, at least, can overcome good\n
-and evil.
+...but you, at least, can overcome\n
+good and evil.
 <$00>
 
 // Pos: 0000126B
@@ -67,9 +67,9 @@ Cosmas:
 //\nもう変な夢を見ることもないんだね。\n砂の中に隠れてるような、変な夢…
 \n
 I won't have have those strange\n
-dreams anymore? Like the one where
+dreams anymore? Like the one
 <$0C>
-I disappear in the sand?
+where I disappear in the sand?
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -100,8 +100,8 @@ Cosmas:
 <$0D>
 //\nそうか！\nあんたが、ここに連れてきてくれたんだね！
 \n
-Yeah, that's right! You're the one who\n
-brought me here!
+Yeah, that's right! You're the one\n
+who brought me here!
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -123,8 +123,8 @@ Cosmas:
 <$0D>
 //\nもう、レッドおじさんの家には戻らない。\n決めたから！
 \n
-I'll never go back to Uncle Red's! Never\n
-ever!
+I'll never go back to Uncle Red's!\n
+Never ever!
 <$00>
 
 // Pos: 0000139B

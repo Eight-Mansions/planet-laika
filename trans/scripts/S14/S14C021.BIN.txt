@@ -17,8 +17,10 @@ Thomas:
 <$0D>
 //\nところで君は生まれ変わりを信じるかね？\n目下のところ、最大の問顆だ、私なりにね。
 \n
-Do you believe in reincarnation? That's\n
-one puzzle I'm on my way to solve!
+Do you believe in reincarnation?\n
+That's one puzzle I'm on my way to
+<$0C>
+solve!
 <$1E>
 //鋭
 鋭
@@ -63,8 +65,8 @@ Sparky:
 <$0D>
 //\n気になったのよ…
 \n
-William's worrying me. When I saw him\n
-over at the red house...
+William's worrying me. When I saw\n
+him over at the red house...
 <$0C><$0B>
 //スパーキー：
 Sparky:
@@ -130,8 +132,8 @@ Thomas:
 <$0D>
 //\nまだ信じがたいことがあるとな、そうだな。
 \n
-I dare say, not all things are seen to be\n
-believed.
+I dare say, not all things are seen to\n
+be believed.
 <$1E>
 //鋭
 鋭
@@ -141,8 +143,8 @@ Thomas:
 <$0D>
 //\n私の前世は誰だったのだ？\n考え込むね、私なりにね。
 \n
-Who was I in my past life? Who knows?\n
-All I can do is hypothesize.
+Who was I in my past life? Who\n
+knows? All I can do is hypothesize.
 <$1E>
 //理
 理
@@ -152,8 +154,8 @@ Sparky:
 <$0D>
 //\nああ、アタシも目覚めるのかしら、\nもう少しね。
 \n
-Gee, I wonder if I'll ever wake up from\n
-this either, even for a moment.
+Gee, I wonder if I'll ever wake up\n
+from this either, even for a moment.
 <$1E>
 //中
 中

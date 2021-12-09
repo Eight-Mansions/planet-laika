@@ -17,8 +17,8 @@ Yolanda:
 <$0D>
 //\nここね… 町長屋敷って…\n何だかイヤな惑じね…
 \n
-This is it, the elder's cottage. Another\n
-fishy one for the books.
+This is it, the elder's cottage.\n
+Another fishy one for the books.
 <$00>
 
 // Pos: 000033B1
@@ -143,9 +143,9 @@ Yolanda:
 //\nねえ、ほんとに大丈夫？\nシーシーなんて言わないでね
 \n
 Hey, are you sure you're all right?\n
-You're not whoosh-whooshed out, are
+You're not whoosh-whooshed out,
 <$0C>
-you?
+are you?
 <$00>
 
 // Pos: 000034C3
@@ -266,8 +266,8 @@ April:
 <$0D>
 //\nねえ、ヨランダ、\nあなたならヌーンをどんなふうにしかる？
 \n
-Hey, Yolanda? How do you intend to call\n
-to Noon?
+Hey, Yolanda? How do you intend to\n
+call to Noon?
 <$00>
 
 // Pos: 000035AC
@@ -389,8 +389,8 @@ Yolanda:
 <$0D>
 //\nヌーン！ 隠れてないで…\nいるのはわかってるのよ！ ヌーン！
 \n
-Noon! You can run, and you can hide, but\n
-I know where you are! Noooon!
+Noon! You can run, and you can hide,\n
+but I know where you are! Noooon!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -413,18 +413,18 @@ Yolanda:
 <$0D>
 //\nあなたと一緒に食べようと思って…
 \n
-If we're both feeling peckish, why not\n
-come down and eat breakfast with
+If we're both feeling peckish, why\n
+not come down and eat breakfast
 <$0C>
-Mommy?
+with Mommy?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nいつまでも隠れてると\nママお腹すかして死んじゃうかも。
 \n
-If you let me starve for long, Mommy's\n
-gonna die alone down here!
+If you let me starve for long,\n
+Mommy's gonna die alone down here!
 <$00>
 
 // Pos: 0000377D
@@ -467,7 +467,8 @@ April:
 <$0D>
 //\nヌーン！\n私よ、エイプリルよ、分かる？
 \n
-Noon, it's me! April! Are you listening?
+Noon, it's me! April! Are you\n
+listening?
 <$00>
 
 // Pos: 000037D2
@@ -513,8 +514,8 @@ April:
 <$0D>
 //\nあそこ！ ライカ、あの窓よ！\n中に誰かいる！
 \n
-Laika, over there! I see someone in the\n
-window!
+Laika, over there! I see someone in\n
+the window!
 <$00>
 
 // Pos: 00003838
@@ -529,8 +530,8 @@ April:
 <$0D>
 //\n誰なの？\nいやよ、離して、手を離して、お願い！
 \n
-Who are you? ...No! Get off! Please! Get\n
-your hands of me!
+Who are you? ...No! Get off! Please!\n
+Get your hands of me!
 <$00>
 
 // Pos: 0000385F
@@ -560,8 +561,8 @@ Noon:
 <$0D>
 //\nははははは、僕も病気さ、\n病気病気病気病気病気病気、あははははは…
 \n
-Hahaha, I'm sick too! SICK, SICK, SICK,\n
-SICK, SICK! AHAHAHAHA!
+Hahaha, I'm sick too! SICK, SICK,\n
+SICK, SICK, SICK! AHAHAHAHA!
 <$00>
 
 // Pos: 000038D1

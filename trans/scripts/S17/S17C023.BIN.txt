@@ -17,20 +17,20 @@ Galil:
 <$0D>
 //\nこれはこれは、ヨランダではないか！\nもう十分に旅を楽しんだことだろう。
 \n
-My, oh my! Yolanda, is that you? I hope\n
-this outing of yours was everything
+My, oh my! Yolanda, is that you? I\n
+hope this outing of yours was
 <$0C>
-you desired.
+everything you desired.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nお前にはもう何も残ってはいない。\nそろそろタニアとともに眠りにつくときだ。
 \n
-There's nothing for you here now. It's\n
-high time I laid you to rest with your
+There's nothing for you here now.\n
+It's high time I laid you to rest with
 <$0C>
-Tanya.
+your Tanya.
 <$00>
 
 // Pos: 000014DF
@@ -45,8 +45,8 @@ Yolanda:
 <$0D>
 //\nアタシはどこにもいかない、そうよ\nここにいるのよ、残るのよ！
 \n
-That's right. There's no place for me to\n
-go. But I'm here, aren't I? So here I
+That's right. There's no place for me\n
+to go. But I'm here, aren't I? So here I
 <$0C>
 stay!
 <$00>

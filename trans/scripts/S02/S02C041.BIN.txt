@@ -60,8 +60,8 @@ Spacer:
 <$0D>
 //\nお宝かどうかは分からないが、\n岩にうずもれていた。
 \n
-I doubt it was treasure, but I saw it too:\n
-something lodged in the rock.
+I doubt it was treasure, but I saw it\n
+too: something lodged in the rock.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -130,8 +130,8 @@ Spacer:
 <$0D>
 //\nつらかった子供の頃を思い出した…\n
 \n
-But those voices came from deep, dark\n
-childhood memories. I thought 
+But those voices came from deep,\n
+dark childhood memories. I thought 
 <$0F>
 //は、忘れてなかったんだ。
  forgot them.
@@ -158,19 +158,17 @@ Yolanda:
 //\nこれからアタシたちの出番、増えるのかしら。\nそれにしてもクリスマス返上なのよ。
 \n
 Whatever it is, the three of us may\n
-have more shifts soon, and none of us'll
+have more shifts soon, and none of
 <$0C>
-be home for Xmas.
+us'll be home for Xmas.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n宇宙航空隊の無線技師って、\nえらく大変なお仕事なのね。
 \n
-Honestly, who accepts a radio\n
-engineering job from the ISF at this
-<$0C>
-time of year?
+Honestly, who accepts a radio tech\n
+job from the ISF at this time of year?
 <$00>
 
 // Pos: 00004958
@@ -192,8 +190,8 @@ Ernest:
 <$0D>
 //\nちょっとばかしタイクツしてたところだ、\nせいぜい楽しませてもらうぜ。
 \n
-Sounds boring to me, but if that's what\n
-decks their halls, so be it.
+Sounds boring to me, but if that's\n
+what decks their halls, so be it.
 <$00>
 
 // Pos: 0000499E
@@ -208,10 +206,10 @@ Yolanda:
 <$0D>
 //\nじゃあ、ロケットから見えたのは、本物なのね。\n火星の顔、あれがそうなのね？
 \n
-Yeah, they always wanted to see Mars\n
-from inside a rocket. I mean, shit, who
+Yeah, they always wanted to see\n
+Mars from inside a rocket. I mean,
 <$0C>
-knew Mars had a face?
+shit, who knew Mars had a face?
 <$00>
 
 // Pos: 000049D4
@@ -236,8 +234,8 @@ Spacer:
 <$0D>
 //\n今回の任務となにやら関係がありそうだ。
 \n
-I take it the site is related to the survey\n
-unit's mission somehow.
+I take it the site is related to the\n
+survey unit's mission somehow.
 <$00>
 
 // Pos: 00004A26
@@ -253,9 +251,9 @@ Yolanda:
 //\nねぇ、ここで顔、作るの？\n私たちも人間の顔になるの？
 \n
 Oh, that's right! Aren't human faces\n
-made here? Can we all get the surgery
+made here? Can we all get the
 <$0C>
-too?
+surgery too?
 <$00>
 
 // Pos: 00004A50
@@ -286,8 +284,8 @@ Spacer:
 <$0D>
 //\nあらそいはやめるんだ、アーネスト。\nどうする、君が表に出るのか？
 \n
-Simmer down, Ernie. Are you TRYING to\n
-surface right now?
+Simmer down, Ernie. Are you TRYING\n
+to surface right now?
 <$00>
 
 // Pos: 00004AB2
@@ -318,8 +316,8 @@ Spacer:
 <$0D>
 //\n誰か来る。\nアーネスト、君の出番はなくなったようだ。
 \n
-We'll have to find out later. Someone's\n
-coming.
+We'll have to find out later.\n
+Someone's coming.
 <$00>
 
 // Pos: 00004B04
@@ -397,16 +395,16 @@ Spirit Man:
 <$0D>
 //\nオーラの色で悪の種類が分かる、\nひょひょ。
 \n
-The color of that aura designates what\n
-type of evil the influence is.
+The color of that aura designates\n
+what type of evil the influence is.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
 //\nさあ、心の状態を見えるようにしてやろう。\nマインドスコープだ、
 \n
-Now, let's check the condition of your\n
-mind via the mind scope.
+Now, let's check the condition of\n
+your mind via the mind scope.
 <$00>
 
 // Pos: 00004C20
@@ -443,7 +441,8 @@ Are you talking to the stars again?
 #WHB(PTR, $00001C91)
 
 //歪験ゃひゃひゃ、ケッサクだこりゃ！
-歪験Hyahyahya! Get a life, space brain!
+歪験Hyahyahya! Get a life, space\n
+brain!
 <$0E><$3C><$17><$00>
 
 // Pos: 00004C76
@@ -453,8 +452,8 @@ Are you talking to the stars again?
 #WHB(PTR, $00001CA9)
 
 //歪坑つまでいい子でいたいんだ、お前は？
-歪坑You always were a boring Goody\n
-Two Shoes.
+歪坑You always were a boring goody\n
+two-shoes.
 <$0E><$3C><$17><$00>
 
 // Pos: 00004C90

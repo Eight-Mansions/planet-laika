@@ -54,8 +54,8 @@ Cosmas:
 <$0D>
 //\nねぇ、なんか僕に\n開きたいことあるんじゃないの？
 \n
-Was there anything you wanted to ask\n
-me?
+Was there anything you wanted to\n
+ask me?
 <$00>
 
 // Pos: 0000188F
@@ -188,9 +188,9 @@ Spacer:
 //\n仮の姿…どういう意味だ、\n私はこうして実際にいるではないか。
 \n
 What shape would I take? Well, what\n
-you see is what you get. I mean, I exist
+you see is what you get. I mean, I
 <$0C>
-already, don't I?
+exist already, don't I?
 <$00>
 
 // Pos: 00001A2D
@@ -213,16 +213,16 @@ Cosmas:
 <$0D>
 //\n僕は顔のことでいやな目にあったけど、\nこうやって元に戻せばもう平気だよ。
 \n
-I suffered a lot because of my face, but\n
-I'm glad it have it back like this.
+I suffered a lot because of my face,\n
+but I'm glad it have it back like this.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n結局、見た目なんだ…
 \n
-At the end of the day, this is what I look\n
-like.
+At the end of the day, this is what I\n
+look like.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -238,9 +238,9 @@ Cosmas:
 //\n深くないなぁ、そんなこと気にするなんて\nレッドおじさん並だよ。
 \n
 That sounds awfully surface-level,\n
-but I don't look it things as deeply as Red
+but I don't look it things as deeply as
 <$0C>
-does.
+Red does.
 <$00>
 
 // Pos: 00001AF0
@@ -256,7 +256,9 @@ Spacer:
 //\nしかし、存在するかしないかは、\n生と死と同じことではないのか。
 \n
 But, existing and not existing are the\n
-same as living and dying, aren't they?
+same as living and dying, aren't
+<$0C>
+they?
 <$00>
 
 // Pos: 00001B21
@@ -295,7 +297,9 @@ Spacer:
 //\nやつは歪んだ死生観の持ち主だ。\n死から始まるものなどない。
 \n
 Galil's views of life and death are\n
-distorted. Nothing begins with death.
+distorted. Nothing begins with
+<$0C>
+death.
 <$00>
 
 // Pos: 00001B9C
@@ -356,7 +360,9 @@ Cosmas:
 //\nあんたも寝るといいよ、\n夢の中で会えるって本当だよ。
 \n
 You should go to sleep too. We can\n
-always meet inside of another dream.
+always meet inside of another
+<$0C>
+dream.
 <$00>
 
 // Pos: 00001C2D
@@ -387,9 +393,9 @@ Cosmas:
 //\n今なら眠れるよ、\n僕が眠ってるときが消灯時間さ。
 \n
 I'm going to sleep for now, but when\n
-I'm sleeping-sleeping, it's lights-off
+I'm sleeping-sleeping, it's
 <$0C>
-time, okay?
+lights-off time, okay?
 <$00>
 
 // Pos: 00001C6A

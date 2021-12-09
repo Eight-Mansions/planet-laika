@@ -32,8 +32,10 @@ Cosmas:
 <$0D>
 //\nレッドおじさんは\n地下水道にあると思い込んでるけどね。
 \n
-Uncle Red still thinks my hiding place is\n
-in the underground canal, doesn't he?
+Uncle Red still thinks my hiding place\n
+is in the underground canal, doesn't
+<$0C>
+he?
 <$00>
 
 // Pos: 000018D3
@@ -64,8 +66,8 @@ Cosmas:
 <$0D>
 //\nねぇ、なんか僕に\n開きたいことあるんじゃないの？
 \n
-Was there anything you wanted to ask\n
-me?
+Was there anything you wanted to\n
+ask me?
 <$00>
 
 // Pos: 00001919
@@ -129,8 +131,10 @@ Cosmas:
 <$0D>
 //\nときどきね。ときどき人形の体を借りに来る…\nでもいつもは別のところにいるんだ。
 \n
-On and off. He doesn't come around, but\n
-he usually borrows the body of my doll.
+On and off. He doesn't come around,\n
+but he usually borrows the body of
+<$0C>
+my doll.
 <$00>
 
 // Pos: 000019FC
@@ -145,16 +149,16 @@ Cosmas:
 <$0D>
 //\nレッドおじさんが子供の頃に\n一緒に暮らしてたひとだよ。
 \n
-That's the old man Uncle Red used to live\n
-with when he was a kid.
+That's the old man Uncle Red used to\n
+live with when he was a kid.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nいつも泡まみれになってるんだって。
 \n
-Apparently, he was always covered in\n
-soap bubbles.
+Apparently, he was always covered\n
+in soap bubbles.
 <$00>
 
 // Pos: 00001A42
@@ -193,8 +197,10 @@ Spacer:
 <$0D>
 //\n君はひどい目にあったんだな… 無理に\nヴァニティフェイスにさせられて、しかも…
 \n
-What you went through was horrible!\n
-He forced you to get vanity face, and...
+What you went through was\n
+horrible! He forced you to get vanity
+<$0C>
+face, and...
 <$00>
 
 // Pos: 00001ABE
@@ -209,8 +215,8 @@ Cosmas:
 <$0D>
 //\n本当のところ、僕がどれだけひどい目にあったか\nあまり覚えていないんだ…
 \n
-The truth is, I don't actually remember\n
-how terrible it all was.
+The truth is, I don't actually\n
+remember how terrible it all was.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -218,9 +224,9 @@ Cosmas:
 //\nなんでか分からないけど、おじさんが\n僕のクビ筋に息を吹きかけたりしはじめると、\nいつも眠っちゃうんだよ。
 \n
 I don't know why, but whenever my\n
-uncle breathed on the back of my neck,
+uncle breathed on the back of my
 <$0C>
-I always fell asleep.
+neck, I always fell asleep.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -228,10 +234,10 @@ Cosmas:
 //\nそして夢の中で砂嵐の中を歩いてる。\nぴゅうぴゅう風が吹いて寒いんだ…
 \n
 And when I walked through the\n
-sandstorms in my dreams, a whistling
+sandstorms in my dreams, a
 <$0C>
-howl blows it back, and I start to\n
-freeze.
+whistling howl blows it back, and I\n
+start to freeze.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -300,12 +306,13 @@ Spacer:
 <$0D>
 //\nしかし、それによって君が\n心に悪をためないすべを身に付けたのだから…
 \n
-...but I felt it helped me rid the evil in my\n
-heart, could I forgive my oppressor?
+...but I felt it helped me rid the evil in\n
+my heart, could I forgive my
+<$0C>
+oppressor?
 <$1B>
 //※許してもかまわない\n許すことはできない
-※Possibly
-<$0C>
+※Possibly\n
 Never
 <$00><$17><$00>
 
@@ -367,7 +374,9 @@ Cosmas:
 //\nあんたも寝るといいよ、\n夢の中で会えるって本当だよ。
 \n
 You should go to sleep too. We can\n
-always meet inside of another dream.
+always meet inside of another
+<$0C>
+dream.
 <$00>
 
 // Pos: 00001CF0
@@ -398,9 +407,9 @@ Cosmas:
 //\n今なら眠れるよ、\n僕が眠ってるときが消灯時間さ。
 \n
 I'm going to sleep for now, but when\n
-I'm sleeping-sleeping, it's lights-off
+I'm sleeping-sleeping, it's
 <$0C>
-time, okay?
+lights-off time, okay?
 <$00>
 
 // Pos: 00001D2D
@@ -415,10 +424,10 @@ Cosmas:
 <$0D>
 //\nよくは覚えてないんだね、さっきも会ったのに。\nもう石はないよ、\nでも光る石のことなら教えてあげられるよ。
 \n
-You might not remember well, but we\n
-met before. I can tell you about the
+You might not remember well, but\n
+we met before. I can tell you about
 <$0C>
-glowing stones, at least.
+the glowing stones, at least.
 <$00>
 
 // Pos: 00001D71

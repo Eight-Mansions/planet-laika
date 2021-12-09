@@ -17,8 +17,8 @@ Feng:
 <$0D>
 //\nあははははは、\nアマンダは体を得たわ、私の体を。
 \n
-Ahaha! Amanda has claimed this body.\n
-MY body!
+Ahaha! Amanda has claimed this\n
+body. MY body!
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -62,7 +62,9 @@ Feng:
 //\n体の次は何かしら。アマンダは欲が深いのよ。\nそうよね、アマンダ。
 \n
 Amanda, what next do you crave so\n
-deeply? ...Ah, yes. Of course, Amanda.
+deeply? ...Ah, yes. Of course,
+<$0C>
+Amanda.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -85,8 +87,8 @@ Phoenix:
 <$0D>
 //\nエイプリル！\n君も鏡に取り込まれていたのか！
 \n
-April! You were absorbed by the mirror\n
-too?!
+April! You were absorbed by the\n
+mirror too?!
 <$00>
 
 // Pos: 00002BD5
@@ -119,10 +121,10 @@ Feng:
 <$0D>
 //\nこの女の心を手に入れて、\nアマンダは完成するのよ、\nそして私は永遠の存在になれるのよ。
 \n
-In taking this woman's mind, Amanda\n
-will be complete, and I shall become an
+In taking this woman's mind,\n
+Amanda will be complete, and I shall
 <$0C>
-eternal existence.
+become an eternal existence.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -207,7 +209,8 @@ Phoenix:
 <$0D>
 //\n早く！ 早く、そこから出るんだ、\nこっちだ！
 \n
-Hurry! Get our of there now! This way!
+Hurry! Get our of there now! This\n
+way!
 <$00>
 
 // Pos: 00002D73
@@ -260,8 +263,8 @@ Phoenix:
 <$0D>
 //\n鏡から生まれたというのは君なんだな。
 \n
-You forced yourself be born from the\n
-mirror.
+You forced yourself be born from\n
+the mirror.
 <$00>
 
 // Pos: 00002DF1
@@ -277,9 +280,9 @@ April:
 //\n私は心のどこかでママがいなくなればいいと\n思っていたのよ、
 \n
 But the thing is, I was hoping my mom\n
-would leave me. I wished it with all my
+would leave me. I wished it with all
 <$0C>
-heart.
+my heart.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -358,8 +361,8 @@ April:
 <$0D>
 //\nでもあの声は建う、ママじゃない、\n誰か別の人よ！
 \n
-No, that's a different voice, not mom's!\n
-It's someone else!
+No, that's a different voice, not\n
+mom's! It's someone else!
 <$00>
 
 // Pos: 00002EDD
@@ -416,8 +419,8 @@ Phoenix:
 <$0D>
 //\nあああ、この声は…ママだね！\n僕だよ！ 僕はここにいるよ！
 \n
-T-that voice...! Mama?! Mama, it's me!\n
-I'm here!
+T-that voice...! Mama?! Mama, it's\n
+me! I'm here!
 <$00>
 
 // Pos: 00002F63
@@ -457,7 +460,9 @@ April:
 //\nアマンダ… まだいるのね、そこに。\nずっと私に語りかけていたのはあなたね。
 \n
 Amanda, you're still there. So, you\n
-were the one talking to me all this time.
+were the one talking to me all this
+<$0C>
+time.
 <$00>
 
 // Pos: 00002FF1
@@ -519,7 +524,9 @@ Phoenix:
 <$0D>
 //\nそうだよ、ママ、僕にはなにもないんだ！\nやっぱりだ、僕はただの影なんだ！
 \n
-I know now! I'm...I'm nothing to Mama!\n
-I never was! I'm only a shadow!
+I know now! I'm... I'm nothing to\n
+Mama! I never was! I'm only a
+<$0C>
+shadow!
 <$00>
 

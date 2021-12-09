@@ -25,7 +25,7 @@ AUTO LANDING SYSTEM, CHECK.
 <$10>
 //装置、オン！\n目標、シドニアエリア。顔のそば！
 NOW APPROACHING PARAMETER OF THE\n
-FACE, CYDONIA REGION.
+FACE IN THE CYDONIA REGION.
 <$00>
 
 // Pos: 000039D3
@@ -49,8 +49,8 @@ taunt us.
 
 <$10>
 //ヌーン、よしてよ。\n火星人なんてもう滅んだのよ…
-Noon, you know full-well Martians are\n
-extinct.
+Noon, you know full-well Martians\n
+are extinct.
 <$00>
 
 // Pos: 00003A11
@@ -65,10 +65,10 @@ April:
 <$0D>
 //\n人間の顔を手に入れて、それで火星人は滅んだ…\nなんか妙な惑じね。
 \n
-It's eerie to think they died off so soon\n
-after acquiring our faces in the face
+It's eerie to think they died off so\n
+soon after acquiring our faces in the
 <$0C>
-pact.
+face pact.
 <$00>
 
 // Pos: 00003A45
@@ -117,7 +117,7 @@ Captain Tatler:
 <$0D>
 //\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
 \n
-Only if Martian life suffered mass a\n
+Only if Martian life suffered a mass\n
 rejection to "filthy" bacteria from
 <$0C>
 said faces.
@@ -135,8 +135,8 @@ Noon:
 <$0D>
 //\nけっ、大きなお世話って惑じだな。
 \n
-I don't care, Cap'n. Blame our bacteria\n
-all you want.
+I don't care, Cap'n. Blame our\n
+bacteria all you want.
 <$00>
 
 // Pos: 00003AF0
@@ -207,8 +207,8 @@ and planet of deception.
 <$0D>
 //\nふん、イヤな惑じだぜ、\nとりわけ今度の任務はな。
 \n
-Hmph. Forget this planet and this lousy\n
-mission.
+Hmph. Forget this planet and this\n
+lousy mission.
 <$0E><$78><$17><$00>
 
 // Pos: 00003BB8
@@ -254,8 +254,8 @@ April:
 <$0D>
 //\n無線テレビよ！ 地球からね。
 \n
-We've got a stream on the monitor! It's\n
-from Earth!
+We've got a stream on the monitor!\n
+It's from Earth!
 <$00>
 
 // Pos: 00003D68
@@ -270,16 +270,15 @@ Captain Tatler:
 <$0D>
 //\nいつまでそこにいる？
 \n
-How long have you been dawdling\n
-there?
+Anyways, what are you waiting for?
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n私をいらいらさせないでくれ。\n着陸準備にかかるんだ。
 \n
-Don't bust my chops now.\n
-Go prepare for landing.
+Don't just stand there!\n
+Prepare for landing!
 <$00>
 
 // Pos: 00003DAB
@@ -322,8 +321,8 @@ Laika, do you recognize this man?
 
 <$10>
 //ガリル大佐、先遣隊のリーダーだ。
-That's Colonel Galil, former leader of\n
-the vanguard unit from Earth's\n
+That's Colonel Galil, former leader\n
+of the vanguard unit from Earth's\n
 previous mission to Mars.
 <$00>
 
@@ -336,8 +335,8 @@ previous mission to Mars.
 
 <$00><$13><$16><$0E><$0F>
 //ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
-Hyohyo, I can feel you! You're so close\n
-already! Its so potent, hyo!
+Hyohyo, I can feel you! You're so\n
+close already! Its so potent, hyo!
 <$00>
 
 // Pos: 00003FC0
@@ -369,26 +368,27 @@ Commander October:
 //\n君を調査隊にすすめたのは実は私なんだ。\n君の働きには期待しているからね。
 \n
 I personally recommended you for\n
-this survey unit. Thank you for coming
+this survey unit. Thank you for
 <$0C>
-aboard.
+coming aboard.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\nさて、君たちが向かう火星だが、\nどうも様子がおかしいんだ。
 \n
-Actually, I have a small errand for you.
+Actually, I have a small errand for\n
+you.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
 \n
-See, "face-shaped creatures" on Mars\n
-have those on the planet fearing the
+See, "face-shaped creatures" on\n
+Mars have those on the planet
 <$0C>
-supposed End Times.
+fearing the supposed End Times.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -405,8 +405,8 @@ Commander October:
 <$0D>
 //\n君たちの任務はうわさの真相を\n突き止めることなんだ。
 \n
-but I formally ask that you help find the\n
-source of the rumors.
+but I formally ask that you help find\n
+the source of the rumors.
 <$00>
 
 // Pos: 00003C25
@@ -442,9 +442,9 @@ Captain Tatler:
 //\n神は死んだ、光の私…
 \n
 Last time, Colonel Galil, the leader of\n
-that vanguard unit, left a bizarre final
+that vanguard unit, left a bizarre
 <$0C>
-message.
+final message.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:

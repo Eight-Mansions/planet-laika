@@ -41,26 +41,28 @@ April:
 <$0D>
 //\n知らない間にここまで歩いてきた…\n変な気分ね。
 \n
-I found myself walking here before I\n
-knew what was happening. It felt so
+I found myself walking here before\n
+I knew what was happening. It felt
 <$0C>
-weird.
+so weird.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n気をつけなきゃ。\nこの星に心をうばわれたりしないように。
 \n
-We have to be careful. We can't let this\n
-planet get inside our heads.
+We have to be careful. We can't let\n
+this planet get inside our heads.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n…ねぇライカ、\nライカはこの任務に志願したの？
 \n
-This might seem off topic, but...did you\n
-volunteer for this mission, Laika?
+This might seem off topic, but...did\n
+you volunteer for this mission,
+<$0C>
+Laika?
 <$00>
 
 // Pos: 00003E77
@@ -111,8 +113,8 @@ April:
 <$0D>
 //\nはじめは乗り気がしなかったけど、\nライカと一緒って開いて引き受けたんだ。
 \n
-...I wasn't so interested in joining until\n
-I heard you were coming.
+...I wasn't so interested in joining\n
+until I heard you were coming.
 <$00>
 
 // Pos: 00003F6E
@@ -142,8 +144,8 @@ April:
 <$0D>
 //\nまだ気分がすぐれないから、\nちょっとここで休んでいくね。
 \n
-I wish I was feeling better for this. Do\n
-you mind if I take a break here?
+I wish I was feeling better for this.\n
+Do you mind if I take a break here?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -170,8 +172,8 @@ April:
 <$0D>
 //\n船長たち、もう到着してるかも知れない。
 \n
-If you go see him, you might catch Noon\n
-and the captain.
+If you go see him, you might catch\n
+Noon and the captain.
 <$00>
 
 // Pos: 00004050
@@ -190,10 +192,10 @@ April:
 <$0D>
 //\nここでちょっと休んだらすぐに追いつく。\nだから先にコロニーに行ってて。
 \n
-I'll be right behind you, soon as I catch\n
-my breath. You should make for the
+I'll be right behind you, soon as I\n
+catch my breath. You should make
 <$0C>
-colony.
+for the colony.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -224,8 +226,8 @@ April:
 <$0D>
 //\nちゃんとライカ…じゃなかった\n
 \n
-I don't think "Laika" is in their registry,\n
-though, since "
+I don't think "Laika" is in their\n
+registry, though, since "
 <$0F>
 //って名前で\n登録されてるはずよ。
 "'s on your paperwork.
@@ -235,8 +237,8 @@ April:
 <$0D>
 //\nもう少ししたら私も行くから。
 \n
-Go on without me, and I'll join you once\n
-I catch my breath.
+Go on without me, and I'll join you\n
+once I catch my breath.
 <$00>
 
 // Pos: 00004112
@@ -301,8 +303,10 @@ April:
 <$0D>
 //\nママのせいよ。\nママは私をかわいがってくれたけど、\nそれはママがそうしたかったからなの。
 \n
-It's my mom's fault. She took good care\n
-of me, but only because it served her.
+It's my mom's fault. She took good\n
+care of me, but only because it
+<$0C>
+served her.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -327,8 +331,8 @@ April:
 <$0D>
 //\nライカのママはきっと\nすてきな人なんでしょうね…
 \n
-Something tells me your mom was very\n
-good to you.
+Something tells me your mom was\n
+very good to you.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -352,9 +356,9 @@ April:
 //\nこの星は忘れたい昔を思い起こさせるのね…\nすごく意地悪なおじいさんみたいに。
 \n
 I feel like an old man saying this, but\n
-being here reminds me days I'd rather
+being here reminds me days I'd
 <$0C>
-forget.
+rather forget.
 <$00>
 
 // Pos: 000042B6
@@ -401,17 +405,17 @@ April:
 <$0D>
 //\n早くなんとかしないと\n取り返しのつかないことになりそうよ…
 \n
-If we don't wrap this up soon, I worry\n
-the wounds we open here won't close
+If we don't wrap this up soon, I\n
+worry the wounds we open here
 <$0C>
-again.
+won't close again.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nとにかくコロニーでようすをさぐってみない？
 \n
-Don't mind me though. Why don't you go\n
-look for the colony?
+Don't mind me though. Why don't you\n
+go look for the colony?
 <$00>
 

@@ -30,8 +30,8 @@ Olympia #2:
 <$0D>
 //\nキュウにヘンなコトバがやってきました。\nワタシのココロがウけとめました。
 \n
-...I HEARD A STRANGE DIALOGUE, AND MY\n
-HEART STOPPED.
+...I HEARD A STRANGE DIALOGUE, AND\n
+MY HEART STOPPED.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -84,9 +84,9 @@ Olympia #2:
 //\nカジとはスイジとかセンタクとかでしょうか。\nなんにしても、くたびれていますね。
 \n
 HOUSEWORK... DOES THAT MEAN\n
-COOKING, OR LAUNDRY? EITHER OR, IT IS
+COOKING, OR LAUNDRY? EITHER OR, IT
 <$0C>
-EXHAUSTING.
+IS EXHAUSTING.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -101,9 +101,9 @@ Olympia #2:
 //\nままならないものですか。\nそれにしてもこのコエのヒトは、ダレですか。
 \n
 IS THAT ALL I AM GOOD FOR? IS THAT THE\n
-PURPOSE I WAS CREATED TO SERVE? WHO
+PURPOSE I WAS CREATED TO SERVE?
 <$0C>
-COULD SAY SUCH A THING?
+WHO COULD SAY SUCH A THING?
 <$00>
 
 // Pos: 00001628
@@ -164,8 +164,8 @@ Olympia #2:
 <$0D>
 //\nナニか、あなたにしてあげられることが\nあるのです。
 \n
-STILL, THERE IS SOMETHING I CAN DO FOR\n
-YOU.
+STILL, THERE IS SOMETHING I CAN DO\n
+FOR YOU.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -209,8 +209,8 @@ Olympia #2:
 <$0D>
 //\nたまにはね、おケショウ、してみたいわよ。
 \n
-OH-LALA, LET US TRY ON SOME ####ING\n
-MAKE-UP!
+OH-LALA, LET US TRY ON SOME\n
+####ING MAKE-UP!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -218,10 +218,10 @@ Olympia #2:
 //\nしゅうまつはガイショクよ、なんてセイカツ、\nいいわよね！
 \n
 WE CAN EAT OUT ON THE\n
-MOTHER####ING WEEKEND! ####
+MOTHER####ING WEEKEND!
 <$0C>
-YEAH, LADIES, WE ARE LIVING THE GOOD\n
-LIFE!
+#### YEAH, LADIES, WE ARE LIVING\n
+THE GOOD LIFE!
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -229,9 +229,9 @@ Yolanda:
 //\nねぇ、欲求不満なの。\nだからって、アタシにぶつけないでよ。
 \n
 Listen fucker, if you're on one or\n
-something, don't take it out on me. Tsk,
+something, don't take it out on me.
 <$0C>
-tsk.
+Tsk, tsk.
 <$0C><$13>
 //（
 （
@@ -265,8 +265,10 @@ Yolanda:
 <$0D>
 //\nアタシはね、死ぬまで女でいるのよ、\n忘れないのよ。
 \n
-I'm a woman, from now until the day I\n
-die! And I'll make sure NO ONE forgets it!
+I'm a woman, from now until the day\n
+I die! And I'll make sure NO ONE
+<$0C>
+forgets it!
 <$0C><$13>
 //（
 （
@@ -284,8 +286,8 @@ Olympia #2:
 <$0D>
 //\nもっとツヨくなってね、\nこれでツヨくなってね。
 \n
-AFTER THIS CONVERSATION, I WILL GET\n
-HEAD-STRONGER TOO.
+AFTER THIS CONVERSATION, I WILL\n
+GET HEAD-STRONGER TOO.
 <$00>
 
 // Pos: 000018BC
@@ -311,7 +313,8 @@ Yolanda:
 <$0D>
 //\nねぇ、もうないの？\nもっともらえないの？
 \n
-Good! So, do I win a prize or something?
+Good! So, do I win a prize or\n
+something?
 <$0C><$13>
 //（
 （
@@ -361,15 +364,18 @@ Olympia #2:
 <$0D>
 //\nタイクツだぜ、こんなところでよ、\nおい、おマエ、なんでオレをミるんだ？
 \n
-IT SURE IS BORING DOWN HERE. WHY ARE\n
-YOU STARING ME DOWN LIKE THAT, HUH?
+IT SURE IS BORING DOWN HERE. WHY\n
+ARE YOU STARING ME DOWN LIKE THAT,
+<$0C>
+HUH?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nじろじろミるな！
 \n
-ARE YOU TRYING TO SIZE A GUY UP, PUNK?
+ARE YOU TRYING TO SIZE A GUY UP,\n
+PUNK?
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -419,8 +425,10 @@ Olympia #2:
 <$0D>
 //\nケンカはウっても、カっても、ソンするぜ。\nおマエはどうだ、ソンするタイプか、
 \n
-FIGHTS CAN EITHER SAVE TIME OR WASTE\n
-TIME. WHAT DOES FIGHTING DO FOR YOU?
+FIGHTS CAN EITHER SAVE TIME OR\n
+WASTE TIME. WHAT DOES FIGHTING DO
+<$0C>
+FOR YOU?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -445,10 +453,10 @@ Olympia #2:
 <$0D>
 //\nオマえはソンしない、ケンカでソンしない、\nそういうことだ。
 \n
-IF YOU DO NOT WASTE TIME, YOUR FIGHTS\n
-WILL NOT WASTE TIME. THAT IS HOW I SEE
+IF YOU DO NOT WASTE TIME, YOUR\n
+FIGHTS WILL NOT WASTE TIME. THAT IS
 <$0C>
-IT.
+HOW I SEE IT.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -486,9 +494,9 @@ Olympia #2:
 //\nカンガえてもみたまえ、\nキミたちニンゲンは、いやよしましょう。
 \n
 I WAS THINKING ABOUT YOU HUMANS,\n
-AND I HAD TO STOP MYSELF BEFORE I WENT
+AND I HAD TO STOP MYSELF BEFORE I
 <$0C>
-CRAZY.
+WENT CRAZY.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -507,9 +515,9 @@ Olympia #2:
 //\nロボットにカンジョウがないというのは、\nムチにすぎる。
 \n
 ROBOTS DO NOT HAVE SENTIMENTS.\n
-THINKING ABOUT HUMANS WAS A WASTE
+THINKING ABOUT HUMANS WAS A
 <$0C>
-OF TIME.
+WASTE OF TIME.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -546,7 +554,9 @@ Olympia #2:
 //\nキンセイどころではない、\nメイオウセイからもコエがキこえる、
 \n
 THIS IS NO TIME FOR NUTS. RECENTLY, I\n
-HAVE BEEN HEARING VOICES FROM PLUTO.
+HAVE BEEN HEARING VOICES FROM
+<$0C>
+PLUTO.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -575,7 +585,9 @@ Olympia #2:
 //\nおかしいのはキミではないか、これでモトに\nモドれるか、ショウキになれるか。
 \n
 ARE YOU NOT CRAZY? HERE, MAYBE THIS\n
-WILL HELP YOU RETURN TO YOUR SENSES.
+WILL HELP YOU RETURN TO YOUR
+<$0C>
+SENSES.
 <$00>
 
 // Pos: 00001CB8
@@ -594,15 +606,17 @@ Olympia #2:
 //\nキンセイジンをシンじているのか、それなら\nキミのタイプはサイコにチガいない。
 \n
 IF YOU BELIEVE IN THE VENUSIANS, YOU\n
-ARE, WITHOUT A DOUBT, A PSYCHO TYPE.
+ARE, WITHOUT A DOUBT, A PSYCHO
+<$0C>
+TYPE.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nこれで終わりか、\nまだ何か持っているだろう。
 \n
-Is that it? You don't have anything else\n
-for me?
+Is that it? You don't have anything\n
+else for me?
 <$0C><$13>
 //（
 （
@@ -690,9 +704,9 @@ Olympia #2:
 //\nキサマにくれてやっても、ブタにシンジュだろ\nウマのミミになんとかだろ！
 \n
 ANYTHING I GIVE YOU IS A PEARL HORSE\n
-BEFORE A SWINE THAT WILL STILL LOOK
+BEFORE A SWINE THAT WILL STILL
 <$0C>
-IT IN THE MOUTH!
+LOOK IT IN THE MOUTH!
 <$00>
 
 // Pos: 00001E05
@@ -773,7 +787,9 @@ Olympia #2:
 //\nイマはこれだけ、ノチほどのタイミングを\nノがさないことだね。
 \n
 MY WHILE IS ALL I HAVE! I CANNOT\n
-AFFORD TO SHARE IT ALL THE DAMN TIME.
+AFFORD TO SHARE IT ALL THE DAMN
+<$0C>
+TIME.
 <$00>
 
 // Pos: 00001EE5
@@ -791,8 +807,8 @@ Olympia #2:
 <$0D>
 //\nワタシにヨウですか。ワタシはあなたには\nトクにヨウはありませんよ。
 \n
-IS THIS WHAT I THINK IT IS? SORRY, I DO\n
-NOT HAVE ANYTHING FOR YOU.
+IS THIS WHAT I THINK IT IS? SORRY, I\n
+DO NOT HAVE ANYTHING FOR YOU.
 <$00>
 
 // Pos: 00001F16
@@ -810,18 +826,18 @@ Olympia #2:
 <$0D>
 //\nワタシはときどきココロがミダれますが、\nナオるのもハヤいです。
 \n
-SOMETIMES, MY HEART STOPS, AND NEEDS\n
-A LITTLE TIME TO REPAIR.
+SOMETIMES, MY HEART STOPS, AND\n
+NEEDS A LITTLE TIME TO REPAIR.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nそれにくらべてニンゲンのヒトはタイヘンです\nみなさん、コワれていきますね。
 \n
-IN COMPARISON, HUMANS MAKE A MUCH\n
-HARDER TIME OF THIS. HUMANS BREAK
+IN COMPARISON, HUMANS MAKE A\n
+MUCH HARDER TIME OF THIS. HUMANS
 <$0C>
-EASILY.
+BREAK EASILY.
 <$00>
 
 // Pos: 00001F77
@@ -866,16 +882,16 @@ Olympia #2:
 <$0D>
 //\nあなたたちはチキュウから\nやってきたのですね。
 \n
-YOU ARE THE MOSQUITOS WHO CAME FROM\n
-EARTH, ARE YOU NOT?
+YOU ARE THE MOSQUITOS WHO CAME\n
+FROM EARTH, ARE YOU NOT?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nそんなカんじです、ここのヒトとはフンイキが\nチがいますから。
 \n
-WE KNOW WHY YOU ARE HERE: TO SUCK THE\n
-LIFE OUT OF EVERYTHING!
+WE KNOW WHY YOU ARE HERE: TO SUCK\n
+THE LIFE OUT OF EVERYTHING!
 <$00>
 
 // Pos: 00002028

@@ -17,8 +17,8 @@ Liever:
 <$0D>
 //\nふふ、どうしたのさ。\nけげんな顔して。
 \n
-Hmm, what's the matter? Why the long\n
-face?
+Hmm, what's the matter? Why the\n
+long face?
 <$0C><$0B>
 //リバー：
 Liever:
@@ -101,10 +101,10 @@ Liever:
 <$0D>
 //\n最初に見つけたときは、つららを逆さにした\nみたいな柱だったんだ。
 \n
-When I first found this place, an icicle\n
-came down like a great pillar before
+When I first found this place, an\n
+icicle came down like a great pillar
 <$0C>
-me.
+before me.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -120,9 +120,9 @@ Liever:
 //\nその次は、どうなってたと思う？\n３つも顔ができてたんだよ。\n見に来るたんびに顔が増えていくんだ。
 \n
 And what happened the next time?\n
-Three faces appeared! The number of
+Three faces appeared! The number
 <$0C>
-faces goes up each time.
+of faces goes up each time.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -138,17 +138,17 @@ Liever:
 //\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
 \n
 There are sockets in the eyes of the\n
-first face that appeared. Surely they
+first face that appeared. Surely
 <$0C>
-can fit something.
+they can fit something.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nそれで家にあった光る石を\n思いついたってわけだよ。
 \n
-I've come to the conclusion that two of\n
-those glowing stones would do the
+I've come to the conclusion that two\n
+of those glowing stones would do the
 <$0C>
 trick.
 <$00>
@@ -165,7 +165,8 @@ Spacer:
 <$0D>
 //\nここはイーブルマインドのダムではないのか。
 \n
-This place isn't a dam for Evil Mind at all!
+This place isn't a dam for Evil Mind at\n
+all!
 <$00>
 
 // Pos: 00000E1F
@@ -180,8 +181,8 @@ Liever:
 <$0D>
 //\nトールボーイがイーブルマインドを\n吐き出すところに現れたってこと、\n意味あると思わない？
 \n
-But, doesn't it tell you something that\n
-Tall Boy appeared in an Evil Mind
+But, doesn't it tell you something\n
+that Tall Boy appeared in an Evil Mind
 <$0C>
 deposit like so?
 <$0C><$0B>
@@ -191,9 +192,9 @@ Liever:
 //\nトールボーイは悪を食べるんだよ。\n食べてきれいにしてくれるんだ。\nでも、眼を入れないと本物にはならない。
 \n
 Tall Boy devours evil, and keeps Mars\n
-clean. Of course, I know you'll want to
+clean. Of course, I know you'll want
 <$0C>
-see it to believe it.
+to see it to believe it.
 <$00>
 
 // Pos: 00000E9E
@@ -209,8 +210,8 @@ Liever:
 //\nいよいよなんだよ、ドキドキさ、そりゃ。\nあんたもでしょ。\nでも恐くないよ、神様だもん。
 \n
 That's why you're here! Aren't you\n
-excited? I know I am! It's time to face
+excited? I know I am! It's time to
 <$0C>
-God!
+face God!
 <$00>
 

@@ -215,9 +215,9 @@ Tommy:
 //\nひゅんひゅん、飛んで来るんだ、へへー。\n綠の光、あれに触れると、ひひひ、\nバラバラになるぜ。
 \n
 I'm flying, I'm flying! Hehe, only\n
-touching the green flash will break the
+touching the green flash will break
 <$0C>
-spell!
+the spell!
 <$1E>
 //声
 声
@@ -276,8 +276,8 @@ Tommy:
 <$0D>
 //\nメディスンマンのやつらだよ、\nまじないダンス。
 \n
-I'm talking about the medicine men and\n
-their magic dance.
+I'm talking about the medicine men\n
+and their magic dance.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -285,7 +285,9 @@ Tommy:
 //\nそうだ、前にもあった、まじないダンス。
 \n
 A-yup, they've started dancing and\n
-chanting and stuff again, like before.
+chanting and stuff again, like
+<$0C>
+before.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -311,8 +313,8 @@ Tommy:
 <$0D>
 //\nきっとそうだぜ、まじないダンスのせいだ。
 \n
-This flashing's gotta be because of the\n
-magic dance, a-yup.
+This flashing's gotta be because of\n
+the magic dance, a-yup.
 <$1E>
 //家
 家
@@ -330,32 +332,32 @@ Cosmas:
 <$0D>
 //\nねぇ、あんたはケンカする人でしょ、
 \n
-You. You're a combative person, aren't\n
-you?
+You. You're a combative person,\n
+aren't you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
 \n
-I know, because Dark Man peered into\n
-you and told me.
+I know, because Dark Man peered\n
+into you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n火事…リバー…導いてくれる…\n預言の場所にだよ。
 \n
-Through fire...Liever will show you to\n
-the place of prophecy.
+Through a fire...Liever will show you\n
+to the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nうん、火事って言葉が浮かんできたよ。
 \n
-Yes, the word "fire" is floating about in\n
-my head.
+Yes, the word "fire" is floating about\n
+in my head.
 <$00>
 
 // Pos: 00002793
@@ -378,16 +380,16 @@ Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
 \n
-I know, because Dark Man peered into\n
-you and told me.
+I know, because Dark Man peered\n
+into you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nロケット…リバー…導いてくれる…\n預言の場所にだよ。
 \n
-From a rocket...Liever will show you to\n
-the place of prophecy.
+From a rocket...Liever will show you\n
+to the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -410,16 +412,16 @@ Cosmas:
 <$0D>
 //\nねぇ、あんたは顔作りに来た人でしょ、
 \n
-You. You like to doll up your face, don't\n
-you?
+You. You like to doll up your face,\n
+don't you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
 \n
-I know, because Dark Man peered into\n
-you and told me.
+I know, because Dark Man peered\n
+into you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -457,15 +459,18 @@ Cosmas:
 <$0D>
 //\nよく見えてこないなぁ。\nどんなタイプなのかなぁ…
 \n
-I can't seem to tell. Which type are you?
+I can't seem to tell. Which type are\n
+you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n力持ちなら火事、頭がいいとロケット、\n欲ばりだと避難小屋…
 \n
-If you have strength, seek fire. If you\n
-have knowledge, seek the rocket.
+If you have strength, seek fire. If\n
+you have knowledge, seek the
+<$0C>
+rocket.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -480,8 +485,8 @@ Cosmas:
 <$0D>
 //\nタイプをはっきりさせないと、\nリバーは見つからないよ。
 \n
-...if you don't have a type, you'll never\n
-find Liever.
+...if you don't have a type, you'll\n
+never find Liever.
 <$00>
 
 // Pos: 00002956

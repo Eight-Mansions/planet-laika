@@ -46,7 +46,7 @@ Thomas:
 <$0D>
 //\n何だ、本格的だな、\nおおお、来る来る、来るぞ！
 \n
-Whatever it is, it's the real...oh! It's\n
+Whatever it is, it's the real... Oh! It's\n
 coming! Something's coming!
 <$00>
 
@@ -58,14 +58,16 @@ coming! Something's coming!
 
 <$10><$08>
 //今こそ終わりがお前の上に来る。\n私は怒りを送り、お前の行いにしたがって栽き、\nいまわしい全てのことをお前に報いる。
-The end is upon you now. I shall send my\n
-wrath to reap all you have sewn, that\n
-all deeds may know reward.
+The end is upon you now. I shall send\n
+my wrath to reap all you have sewn,\n
+that all deeds may know reward.
 <$0C>
 //終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
-The end is upon you! The end is upon you!\n
-The end of the world burns for you.\n
-Now, behold! This hour is upon you!
+The end is upon you! The end is upon\n
+you! The end of the world burns for\n
+you. Now, behold! This hour is upon
+<$0C>
+you!
 <$05><$0C>
 //\n
 \n
@@ -112,10 +114,10 @@ Neo-Universal Man:
 <$0D>
 //\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
 \n
-...leading me to Jeremiah. Leading me\n
-to sweet Death. To the deepest depths
+...leading me to Jeremiah. Leading\n
+me to sweet Death. To the deepest
 <$0C>
-of Death.
+depths of Death.
 <$00>
 
 // Pos: 000046D8
@@ -138,8 +140,10 @@ White Eagle:
 <$0D>
 //\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
 \n
-It lays beyond the nightmares, beyond\n
-all falsehood in the Land of the Dead.
+It lays beyond the nightmares,\n
+beyond all falsehood in the Land of
+<$0C>
+the Dead.
 <$00>
 
 // Pos: 0000472D
@@ -237,9 +241,9 @@ Thomas:
 //\n私なりに、私に近いことしか考えられなくなって\nきたんだ…近いこと、近く…よねー、\n近いことー、それだけでいいのよねー。
 \n
 I dare say, the more I think about\n
-things closer to me...all that matters is
+things closer to me...all that matters
 <$0C>
-that they're close.
+is that they're close.
 <$1E>
 //理
 理

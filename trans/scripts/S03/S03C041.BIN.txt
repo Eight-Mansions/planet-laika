@@ -47,8 +47,8 @@ Spacer:
 <$0D>
 //\nこの石は…これが酸索石なのか…\nいや建う…他にもどこかで見たようだが…
 \n
-This stone. Is it oxygenite...? No, but I\n
-have seen it somewhere before.
+This stone. Is it oxygenite...? No, but\n
+I have seen it somewhere before.
 <$00>
 
 // Pos: 0000425A
@@ -104,8 +104,8 @@ Herod:
 <$0D>
 //\n悪夢の中だったら、くそっ、本当だったら\nアガタがむかえに来ているはずだ。
 \n
-If this WAS a nightmare, if that WAS the\n
-case, Agatha've come for me.
+If this WAS a nightmare, if that WAS\n
+the case, Agatha've come for me.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -159,8 +159,8 @@ Herod:
 <$0D>
 //\nそいつが邪魔してる限り、\n俺は夢の中に入れないんだ。
 \n
-As long their disturbance exists, I will\n
-not make it into dreaming.
+As long their disturbance exists, I\n
+will not make it into dreaming.
 <$00>
 
 // Pos: 000043D1
@@ -205,8 +205,8 @@ Herod:
 <$0D>
 //\n俺は お、お、何だ、この気分は
 \n
-I don't...oh! Oh, no! W-what's this\n
-feeling?!
+I don't...oh! Oh, no!\n
+W-what's this feeling?!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -280,7 +280,9 @@ Spacer:
 //\nヘロデが預言を…\n彼は死の世界にいるのか？
 \n
 Herod recited a prophecy. Does that\n
-mean he's in the Land of the Dead now?
+mean he's in the Land of the Dead
+<$0C>
+now?
 <$00>
 
 // Pos: 000044FF
@@ -342,8 +344,8 @@ William:
 <$0D>
 //\n僕は、僕は、\nあいつらが滅びるところを見たかったんだ。
 \n
-William...William only wanted to\n
-watch those philistines get their just
+William... All William wanted was to\n
+see those philistines get their just
 <$0C>
 desserts.
 <$0C><$0B>
@@ -383,17 +385,18 @@ William:
 <$0D>
 //\n… あ… う…\n夜が追いかけて来るんだ…
 \n
-Oh...ohhh... The night is upon William...
+Oh...ohhh... The night is upon\n
+William...
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nあ、見ねぇ顔だな…\n脳ミソがパチパチだ… あうううう…
 \n
-Oh, why doesn't William recognize this\n
-face... William's brain is crackling...
+Oh, why doesn't William recognize\n
+this face... William's brain is
 <$0C>
-Hic!
+crackling... Hic!
 <$00>
 
 // Pos: 0000463B
@@ -408,8 +411,8 @@ Herod:
 <$0D>
 //\n暗闇の中を歩いて光にぶつかった…
 \n
-"The people who walk in darkness will\n
-see a great light."
+"The people who walk in darkness\n
+will see a great light."
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -424,8 +427,8 @@ Herod:
 <$0D>
 //\n俺にはそんな言葉なんざいらない、\nこの中途半端な場所から出たいんだ。
 \n
-I don't have time for such crazy talk. I\n
-need out of this crazy place!
+I don't have time for such crazy talk.\n
+I need out of this crazy place!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -448,8 +451,8 @@ Herod:
 <$0D>
 //\nあああ、また光だ！\n光が見えるぞ、あれか！ 出口か！
 \n
-Ohhh, it's another light! I see the light!\n
-I'm on my way out!
+Ohhh, it's another light! I see the\n
+light! I'm on my way out!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -464,8 +467,8 @@ Herod:
 <$0D>
 //\n誰かの思い出なのか？\n俺でも平気なのか…真っ白な部屋だ。
 \n
-Is it someone's memory? I don't know\n
-if this pure white room is safe.
+Is it someone's memory? I don't\n
+know if this pure white room is safe.
 <$00>
 
 // Pos: 0000474B
@@ -480,8 +483,10 @@ Herod:
 <$0D>
 //\nやっと白い部屋を抜けたぞ、\nはは、いつもの悪夢だ。
 \n
-I finally made it out of the white room\n
-in these everlasting nightmares.
+I finally made it out of the white\n
+room in these everlasting
+<$0C>
+nightmares.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -498,24 +503,24 @@ Herod:
 <$0D>
 //\nあああ、俺を追いかけてきやがる、\nいつもと建うじゃねぇか！
 \n
-Augh, but it's different from usual! Get\n
-it away!
+Augh, but it's different from usual!\n
+Get it away!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nどうなってんだ、生クビ野郎！\nくそぉ、来るんじゃない！
 \n
-What do you want from me, you filthy\n
-heads?! No! Get away!
+What do you want from me, you\n
+filthy heads?! No! Get away!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nああああ、イヤだ、俺を見るな！\n助けてくれー。
 \n
-Don't look at me! GOD, DON'T LOOK AT ME!\n
-SAVE MEEE!
+Don't look at me! GOD, DON'T LOOK AT\n
+ME! SAVE MEEE!
 <$00>
 
 // Pos: 0000480F
@@ -546,7 +551,8 @@ Yolanda:
 <$0D>
 //\n何？\n何がいるのよ、気味悪いわね。
 \n
-What's out here? Talk about creepy...
+What's out here? Talk about\n
+creepy...
 <$00>
 
 // Pos: 00004852
@@ -561,7 +567,7 @@ Ernest:
 <$0D>
 //\n何だ？\nはねていやがる？
 \n
-What's going on? Are people bouncing\n
-around?
+What's going on? Are people\n
+bouncing around?
 <$00>
 

@@ -17,8 +17,8 @@ Marrakech:
 <$0D>
 //\nあああ、アタシがここにいるのは\nなんでかってことよね…
 \n
-Ah, how'd I get myself into this. Hell if I\n
-know...
+Ah, how'd I get myself into this. Hell if\n
+I know...
 <$00>
 
 // Pos: 00002678
@@ -64,16 +64,18 @@ Bull:
 <$0D>
 //\n俺はあんたがきらいだ…\nあー、何て言うか、きらいなんだ。
 \n
-I don't like you, or anything you have to\n
-say.
+I don't like you, or anything you have\n
+to say.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\nはじめて会うやつなのにな…\n俺はブルだ。
 \n
-The name's Bull. I don't exactly care if\n
-this is the first time we've met or not.
+The name's Bull. I don't exactly care\n
+if this is the first time we've met or
+<$0C>
+not.
 <$0C><$0B>
 //ブル：
 Bull:
@@ -87,10 +89,10 @@ Bull:
 <$0D>
 //\n俺は落ち込むとすぐにここに来るんだ、\n催眠術で何もかも忘れることができるんだ。
 \n
-I come here the minute I start feeling\n
-depressed. The hypnotherapy helps
+I come here the minute I start\n
+feeling depressed. The
 <$0C>
-me forget.
+hypnotherapy helps me forget.
 <$00>
 
 // Pos: 00002755

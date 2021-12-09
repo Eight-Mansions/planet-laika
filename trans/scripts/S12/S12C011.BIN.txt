@@ -20,17 +20,17 @@ Crow:
 Kekeke, Feng's done it now. She tried\n
 swiping that creepy doll from the
 <$0C>
-medicine mens' dome.
+medicine men's dome.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nそしたら人形から変な光が出てよう、\nカベに埋まってるやつを照らし出した…
 \n
-Then, a light shot out from the doll, and\n
-some mangled dude in the wall there
+Then, a light shot out from the doll,\n
+and some mangled dude in the wall
 <$0C>
-started glowing.
+there started glowing.
 <$00>
 
 // Pos: 0000109D
@@ -54,9 +54,9 @@ Crow:
 //\n氷の野郎は、カベに埋まったやつと\n合体しやがった！ あー、いやだ！
 \n
 If he melted, ice mongrel must've\n
-become one with the guy buried in the
+become one with the guy buried in
 <$0C>
-wall. This can't be good!
+the wall. This can't be good!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -89,8 +89,10 @@ Crow:
 <$0D>
 //\n俺の頭の中にも声が響きはじめてよう、\nエレミヤ、エレミヤ、エレミヤ…
 \n
-I started hearing the voice in my head.\n
-"Jeremiah, Jeremiah, Jeremiah."
+I started hearing the voice in my\n
+head. "Jeremiah, Jeremiah,
+<$0C>
+Jeremiah."
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -107,8 +109,8 @@ Crow:
 <$0D>
 //\n力のもとだ、英知のもとだ！
 \n
-It's the source of power! The source of\n
-wisdom!
+It's the source of power! The source\n
+of wisdom!
 <$00>
 
 // Pos: 000011B5
@@ -152,8 +154,8 @@ Crow:
 <$0D>
 //\nでもな、怖くない。\n光る石が守ってくれるからな。
 \n
-But I'm not scared. I've got the glowing\n
-stone to protect me.
+But I'm not scared. I've got the\n
+glowing stone to protect me.
 <$1E>
 //鋭
 鋭

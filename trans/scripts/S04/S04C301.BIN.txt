@@ -67,8 +67,8 @@ Who are you, somebody from Earth?
 <$10>
 //俺は…俺は…\nリ、ト、ル…リトルだ、\nそうだそうだ、俺は酸索屋のリトルだ。
 \n
-I'm Little. L-I-T-T-L-E, got it? I work at\n
-the oxygen dispensary.
+I'm Little. L-I-T-T-L-E, got it? I work\n
+at the oxygen dispensary.
 <$0E><$32><$17><$00>
 
 // Pos: 00003611
@@ -104,8 +104,8 @@ books or somethin'? All you smart\n
 people do.
 <$0C>
 //問顆が起きないようにするのが\nあんたの役目なんだよね。
-It's your job to get out there and solve\n
-the big puzzles for us.
+It's your job to get out there and\n
+solve the big puzzles for us.
 <$1E>
 //早
 早
@@ -120,12 +120,13 @@ the big puzzles for us.
 <$10><$13><$19>
 //あんたは…何だろう、\nきっとケンカが好きなんだね。
 \n
-Oi, I bet you're the kinda punk who gets\n
-off on pickin' fights!
+Oi, I bet you're the kinda punk who\n
+gets off on pickin' fights!
 <$0C>
 //分かるんだ、僕には分かる、\nちょっと怖いよ。
-...Sure, sure. Whatever you want. But I\n
-know how you scare-bear types are.
+...Sure, sure. Whatever you want.\n
+But I know how you scare-bear\n
+types are.
 <$0C>
 //でも本当はやさしい人なんだよね、\n誰かを守るために生まれてきたんだね。
 Deep down, you're a softie too, with\n
@@ -144,13 +145,14 @@ protect.
 
 <$10><$13><$19>
 //あんたは顔のこと、気にしたりしてるんでしょ。\n分かるんだ、僕にはお見通しだよ。
-You put a lot of focus on your face, huh.\n
-I understand. I see right through you!
+You put a lot of focus on your face,\n
+huh. I understand. I see right\n
+through you!
 <$0C>
 //顔とか見かけにこだわるんだよね、\nでも本当はすごく寂しがり屋さん。
 You worry about your face and\n
-appearance for others, but while you\n
-put others first, you're lonely.
+appearance for others, but while\n
+you put others first, you're lonely.
 <$0C>
 //あんたは誰かの相談相手だったんでしょ。
 That tells me you vied to be a shoulder\n
@@ -273,7 +275,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS KNEW.
+CHARLIE KNEW. CHARLIE ALWAYS\n
+KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

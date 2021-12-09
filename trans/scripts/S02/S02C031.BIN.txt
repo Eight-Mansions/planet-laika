@@ -32,8 +32,8 @@ I can't see a damned thing.
 <$0D>
 //\nこのままではまずいな。
 \n
-I'm not sure how much farther we can\n
-wade through this.
+I'm not sure how much farther we\n
+can wade through this.
 <$0E><$14><$17><$00>
 
 // Pos: 00000F2B
@@ -48,8 +48,8 @@ wade through this.
 <$0D>
 //\nヌーン、どこかに待避場所はないのか？
 \n
-Noon, were there any shelters\n
-marked in the area?
+Noon, were there any safe houses\n
+marked for the area?
 <$0E><$14><$17><$00>
 
 // Pos: 00000F54
@@ -127,8 +127,8 @@ and went blissfully to sleep..."
 <$0D>
 //\n目が覚めたらおウチでした。
 \n
-"...and when they woke up, they were\n
-already 'ome on Earth!"
+"...and when they woke up, they\n
+were already 'ome on Earth!"
 <$0E><$14><$17><$00>
 
 // Pos: 00001020
@@ -143,8 +143,10 @@ already 'ome on Earth!"
 <$0D>
 //\n火星は平和でした、報告書はそう書けばいいんだ\nそうじゃねぇのか？
 \n
-"Mars was declared peaceful, and they\n
-all lived 'appily ever after. THE END!"
+"Mars was declared peaceful, and\n
+they all lived 'appily ever after. THE
+<$0C>
+END!"
 <$0E><$1E><$17><$00>
 
 // Pos: 00001056

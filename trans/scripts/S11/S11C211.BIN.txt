@@ -17,10 +17,10 @@ Gold:
 <$0D>
 //\n酸索屋さがしてるんなら、見当建いだ。\nこっちじゃねぇ。
 \n
-Smokey's wandering about, only wish\n
-I knew where. At any rate, sorry about
+Smokey's wandering about, only\n
+wish I knew where. At any rate,
 <$0C>
-earlier.
+sorry about earlier.
 <$1E>
 //双
 双
@@ -38,8 +38,8 @@ Gold:
 <$0D>
 //\n何の用だ？まだ客は入れねぇ…\nお前が客だとしてもな。
 \n
-Sorry. I'm not taking orders right now,\n
-even if you came a long way.
+Sorry. I'm not taking orders right\n
+now, even if you came a long way.
 <$1E>
 //双
 双
@@ -90,9 +90,9 @@ Gold:
 //\nうろちょろするのが好きなのか？\nこのコロニーのこと、\n何にも知らねぇみたいだな…
 \n
 You like this place or something? You\n
-don't know much about this colony, do
+don't know much about this colony,
 <$0C>
-you?
+do you?
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -135,8 +135,8 @@ Smokey:
 <$0D>
 //\nへへっ、おまわり！\nおまわりが何の用だ！
 \n
-Hehe, hey there, scout! How goes your\n
-little patrol?
+Hehe, hey there, scout! How goes\n
+your little patrol?
 <$00>
 
 // Pos: 00002720
@@ -151,7 +151,8 @@ Gold:
 <$0D>
 //\nおい、ここがどういう場所か分かってんのか？
 \n
-Hey, where do you think you're going?
+Hey, where do you think you're\n
+going?
 <$00>
 
 // Pos: 00002741
@@ -245,8 +246,8 @@ Smokey:
 <$0D>
 //\nひひひ、とびっきりのやつを\nごちそうしてやる！
 \n
-Well, you do now, hehehe! I'll treat you\n
-to the reeeal good stuff!
+Well, you do now, hehehe! I'll treat\n
+you to the reeeal good stuff!
 <$00>
 
 // Pos: 00002816
@@ -285,10 +286,10 @@ Smokey:
 <$0D>
 //\nふざけたマネしやがって、くそ！\n吐くまで飲ませてやる！
 \n
-I know! I'll force so many drinks down\n
-your throat, you puke out some
+I know! I'll force so many drinks\n
+down your throat, you puke out
 <$0C>
-manners!
+some manners!
 <$00>
 
 // Pos: 0000287F
@@ -335,8 +336,8 @@ Smokey:
 <$0D>
 //\nおい！ 気取り屋！\n強いんだろ？\nかかってこいや。
 \n
-Grr... All right, snob. You think you're so\n
-tough? Prove it!
+Grr... All right, snob. You think you're\n
+so tough? Prove it!
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -344,7 +345,9 @@ Smokey:
 //\nてめぇなんか、ハイハイしながら\nママのミルクでも飲んでりゃいいんだ、\nくそったれ！
 \n
 Not sure why you came to a bar when\n
-you're clearly stuck on your mom's tit!
+you're clearly stuck on your mom's
+<$0C>
+tit!
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -352,9 +355,9 @@ Smokey:
 //\nひぇへへへへ、どうした、\nおっかなくて泣きだしそうか？\nママに抱っこしてもらいてぇんだろ、マヌケ！
 \n
 Hehehe, what's wrong? You scared?\n
-You wanna cry for mommy? Then cry,
+You wanna cry for mommy? Then
 <$0C>
-bitch!
+cry, bitch!
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -424,15 +427,16 @@ April:
 <$0D>
 //\nあなたたちとケンカするために\n火星に来たんじゃないの。
 \n
-We didn't come to Mars to start a fight.
+We didn't come to Mars to start a\n
+fight.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
 \n
-We heard troubling reports about the\n
-environment, and came only to
+We heard troubling reports about\n
+the environment, and came only to
 <$0C>
 inspect.
 <$0C><$0B>
@@ -451,18 +455,20 @@ Gold:
 <$0D>
 //\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
 \n
-Galil? The guy's a legend after all that "I\n
-am the light" good boy bullshit years
+Galil? The guy's a legend after all that\n
+"I am the light" good boy bullshit
 <$0C>
-back.
+years back.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
 \n
-He sounds like any other weirdo to me.\n
-Is he really what you came here for?
+He sounds like any other weirdo to\n
+me. Is he really what you came here
+<$0C>
+for?
 <$00><$11><$0B>
 //スモーキー：
 Smokey:
@@ -470,7 +476,9 @@ Smokey:
 //\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
 \n
 Nah, she's here to drink! Here at SNOB\n
-PLANET, we keep it going all night long!
+PLANET, we keep it going all night
+<$0C>
+long!
 <$00><$10><$0B>
 //エイプリル：
 April:
@@ -561,16 +569,16 @@ April:
 <$0D>
 //\n仲間のふたりが行方不明なのよ。
 \n
-Sorry. It's just, two of our teammates\n
-are missing.
+Sorry. It's just, two of our\n
+teammates are missing.
 <$00><$11><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nここにはいねぇ。見りゃ分かるだろ。
 \n
-They're not here. Anyone with eyes can\n
-see that.
+They're not here. Anyone with eyes\n
+can see that.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -587,23 +595,26 @@ Gold:
 <$0D>
 //\nいい気がしねぇんだ。くそったれ！
 \n
-Bad shit happens to hunky-dory idiots\n
-like you. Hence the word, "snob".
+Bad shit happens to hunky-dory\n
+idiots like you. Hence the word,
+<$0C>
+"snob".
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私たちはあなたたちの言う\nおまわりじゃないのよ。
 \n
-But you're all wrong! We're not snobs!
+But you're all wrong! We're not\n
+snobs!
 <$00><$10><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\n似たようなもんだ。人さがしなら\nメディスンマンのやつらにでも開いてみな。
 \n
-Sure... Anyways, if you're looking for\n
-people, go ask the medicine men.
+Sure... Anyways, if you're looking\n
+for people, go ask the medicine men.
 <$00><$10><$0B>
 //エイプリル：
 April:
@@ -633,8 +644,8 @@ Gold:
 <$0D>
 //\nへん！ 生きてたんだ！？生きてても\n死んでるようなもんだぜ、あいつらは。
 \n
-Hmph, "alive" is not the word I'd use for\n
-that braindead bunch.
+Hmph, "alive" is not the word I'd use\n
+for that braindead bunch.
 <$00><$10><$0B>
 //エイプリル：
 April:
@@ -648,16 +659,16 @@ Gold:
 <$0D>
 //\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
 \n
-At the lodge, in front of the ventilation\n
-tower in the piazza.
+At the lodge, in front of the\n
+ventilation tower in the piazza.
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n換気塔の手前ね。ありがとう。
 \n
-In front of the ventilation tower? Got\n
-it. Thank you so much!
+In front of the ventilation tower?\n
+Got it. Thank you so much!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -680,16 +691,18 @@ Gold:
 <$0D>
 //\nどこ行ってたんだ…\nスモーキーのやつがお前をさがしてたぞ。
 \n
-Where did you go? Your friend Smokey\n
-was looking for you.
+Where did you go? Your friend\n
+Smokey was looking for you.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\n監房にもいねぇし、\n俺がかくまってるんじゃねぇかって\n疑いやがって、あの野郎！
 \n
-I doubt the mongrel got himself a cell,\n
-so he'll be hiding around, I'm sure.
+I doubt the mongrel got himself a\n
+cell, so he'll be hiding around, I'm
+<$0C>
+sure.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -717,8 +730,8 @@ Gold:
 <$0D>
 //\n何だ、もう店じまいなんだよ、\n出てくれ、さ、早く。
 \n
-What are you still doing here? Hurry on\n
-out!
+What are you still doing here? Hurry\n
+on out!
 <$1E>
 //家
 家
@@ -737,9 +750,9 @@ Gold:
 //\nおい、あんまりうろちょろしてると、\nスモーキーのやつに見つかるぜ。\n騒ぎはごめんだ、ケンカもな。
 \n
 Don't stick your neck out too much, or\n
-Smokey'll waste no time giving it a good
+Smokey'll waste no time giving it a
 <$0C>
-chop.
+good chop.
 <$1E>
 //声
 声

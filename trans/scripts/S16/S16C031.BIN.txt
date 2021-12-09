@@ -24,10 +24,10 @@ Crow:
 <$0D>
 //\n死んだ猫みたいに眠ってね。\n俺は寝付きがいいんだ。
 \n
-They're all sleeping like dead cats, huh.\n
-Speaking of, I could use a nap myself,
+They're all sleeping like dead cats,\n
+huh. Speaking of, I could use a nap
 <$0C>
-kek!
+myself, kek!
 <$00>
 
 // Pos: 00001444
@@ -58,8 +58,10 @@ Crow:
 <$0D>
 //\nもうえらそうなことは言わさない、\nヘロデのやつもおびえきってたぞ。
 \n
-Bet they won't talk like that anymore.\n
-Even old Herod was shakin' in his boots!
+Bet they won't talk like that\n
+anymore. Even old Herod was shakin'
+<$0C>
+in his boots!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -100,8 +102,8 @@ Neo-Universal Man:
 <$0D>
 //\nああ、言葉が届かない…\n死への道が開かない…
 \n
-Ah, my words won't reach. The road to\n
-Death won't open.
+Ah, my words won't reach. The road\n
+to Death won't open.
 <$00>
 
 // Pos: 00001540
@@ -119,8 +121,8 @@ Ernest:
 <$0D>
 //\n何だと？ 死への道？ 俺は死んじゃいねぇ、\n巻きぞえにするな、おい！
 \n
-What is this, the road to death? But I'm\n
-not dead! This is wrong! Hey!
+What is this, the road to death? But\n
+I'm not dead! This is wrong! Hey!
 <$1A>
 //ろ
 ろ
@@ -133,8 +135,8 @@ Spacer:
 <$0D>
 //\nユニバーサルマン…\nここは死の世界に通じているのか！
 \n
-Universal Man... This is the way he took\n
-to the Land of the Dead!
+Universal Man... This is the way he\n
+took to the Land of the Dead!
 <$1A>
 //：
 <$00><$00><$00><$13><$1D><$0B>

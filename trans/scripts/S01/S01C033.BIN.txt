@@ -17,7 +17,7 @@ Phoenix:
 <$0D>
 //\n僕が… 死に憑かれているだと…\nこの僕が… エレミヤだと言うのか。
 \n
-I'm...being haunted...by death itself...\n
+I am...haunted...by Death itself.\n
 Jeremiah is...talking to me...
 <$00>
 
@@ -35,7 +35,9 @@ await you,
 //これまでの天とこれまでの地とは過ぎ去り、\n海もまた消え失せ、\n今よりのち、悲しみもさけびも苦しみもなく、
 may this Heaven and Earth pass, and\n
 may the seas dry, that their sadness,\n
-loneliness and suffering are no more.
+loneliness and suffering are no
+<$0C>
+more.
 <$0C>
 //歓喜の歌にたたえられた永遠が続くであろう。
 And May eternity move past this\n
@@ -84,8 +86,8 @@ Doctor, can
 
 //快からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
 We'll find out in the operation room.\n
-There's a mass near the brain inciting\n
-hallucinations.
+There's a mass near the brain\n
+inciting hallucinations.
 <$00>
 
 // Pos: 00002E40
@@ -125,8 +127,9 @@ force it too hard, we will damage the\n
 brain.
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…
-Even though the mass is small, we must\n
-give up on the operation for now.
+Even though the mass is small, we\n
+must give up on the operation for\n
+now.
 <$00>
 
 // Pos: 00002EB3
@@ -202,8 +205,8 @@ Spacer:
 <$0D>
 //\nシュヨウの中には兄弟になるはずだった\n人間の髮の毛がつまっていたりする…
 \n
-That mass was absorbed back into the\n
-other twin. Hair, teeth and all...
+That mass was absorbed back into\n
+the other twin. Hair, teeth and all...
 <$00>
 
 // Pos: 00002F79
@@ -295,9 +298,9 @@ Phoenix:
 //\nこれは…クルーの仲間だね。\n善人になったの？\nそれで救われたってことなの？
 \n
 He's from the survey unit. If he's\n
-become a good person, will this really
+become a good person, will this
 <$0C>
-save him?
+really save him?
 <$00><$13><$13><$13><$0B>
 //フェニックス：
 Phoenix:

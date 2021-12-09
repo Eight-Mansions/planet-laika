@@ -73,8 +73,10 @@ Yolanda:
 <$0D>
 //\n何よ！ シーシーの次は、あーあーなの！
 \n
-People, am I right? First it's, "Whoosh,\n
-whoosh," and then it's "Ayyye, ayyye!"
+People, am I right? First it's,\n
+"Whoosh, whoosh," and then it's
+<$0C>
+"Ayyye, ayyye!"
 <$00>
 
 // Pos: 000013BD
@@ -89,10 +91,10 @@ Commander October:
 <$0D>
 //\nあー、ライカ君だね、騒ぎは収まりそうもない。\nそこで少し見方を変えて、火星人について、\n掘り下げようと思う。
 \n
-Greetings, Laika! Is that you? I'd like to\n
-take your attention from your task for
+Greetings, Laika! Is that you? I'd like\n
+to take your attention from your
 <$0C>
-a moment.
+task for a moment.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -100,9 +102,9 @@ Commander October:
 //\n長年、火星人と昆虫との類似点を研究している\n学者がいる。彼の意見を開いてみて欲しい。
 \n
 This is our entomologist. He has\n
-studied both Martian and insect life for
+studied both Martian and insect life
 <$0C>
-many years.
+for many years.
 <$00>
 
 // Pos: 0000145B
@@ -124,16 +126,16 @@ Entomologist:
 <$0D>
 //\nフン！君は白アリについて、\nどれほど知っていますか、フン！
 \n
-Bzz, so tell me! What do you know about\n
-termites, bzz?
+Bzz, so tell me! What do you know\n
+about termites, bzz?
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\n白アリというのは実に不思議な生き物です、\nフンフン！
 \n
-Termites are strange little creatures\n
-for sure, bzzbzz!
+Termites are strange little\n
+creatures for sure, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -141,27 +143,27 @@ Entomologist:
 //\n彼らは何万四という全体でひとつの個性を\n作っています。
 \n
 They're hiveminded. Their tens of\n
-thousands of little minds all act under
+thousands of little minds all act
 <$0C>
-one collective conscience!
+under one collective conscience!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nつまりです、一四ずつではなく、\n全体でひとつなのです、フンフン。
 \n
-As the saying goes, bzzbzz, "It's all for\n
-one, and one for all...or else!"
+As the saying goes, bzzbzz, "It's all\n
+for one, and one for all...or else!"
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\n私の白アリ説を用いると、火星人が絶滅した\nそのわけもはっきりしてきます、フンフン！
 \n
-Assuming Martians were hiveminded\n
-too, their extinction starts to make
+Assuming Martians were\n
+hiveminded too, their extinction
 <$0C>
-sense, bzzbzz!
+starts to make sense, bzzbzz!
 <$00>
 
 // Pos: 00001575
@@ -186,10 +188,10 @@ Entomologist:
 <$0D>
 //\n火星人がその昔に地球にやってきて\n人間の顔を求めた…
 \n
-Anyways, long ago, the Martians came\n
-to earth and asked us humans for our
+Anyways, long ago, the Martians\n
+came to earth and asked us humans
 <$0C>
-faces.
+for our faces.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -197,9 +199,9 @@ Entomologist:
 //\nそう伝えられていますが、彼らに人間の顔は\n合わなかったのです、フンフン。
 \n
 As we've since come to find out, the\n
-faces didn't stick onto the Martians so
+faces didn't stick onto the Martians
 <$0C>
-well, bzzbzz.
+so well, bzzbzz.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -223,8 +225,8 @@ Entomologist:
 <$0D>
 //\n人間の顔がなんと火星人の絶滅をまねいたのです\nフンフンフン！
 \n
-And THAT'S how the human face wiped\n
-all Martian life off the map,
+And THAT'S how the human face\n
+wiped all Martian life off the map,
 <$0C>
 bzzbzzbzz!
 <$00>

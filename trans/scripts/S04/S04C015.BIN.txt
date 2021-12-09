@@ -25,8 +25,8 @@ Boomer:
 <$0D>
 //\n広場でスモーキーが待ってるんだ、来てくれ。\n広場だ。
 \n
-Ahhh, come. Smokey is waiting for you\n
-in the plaza.
+Ahhh, come. Smokey is waiting for\n
+you in the plaza.
 <$1E>
 //家
 家
@@ -75,10 +75,10 @@ Feng:
 <$0D>
 //\nときどき自分がどこにいるのか\n分からなくなることがあって、それはきまって\nアガタに会った後なのよ。
 \n
-Sometimes, I wonder where my "self"\n
-is, but that only started once I met
+Sometimes, I wonder where my\n
+"self" is, but that only started once I
 <$0C>
-Agatha.
+met Agatha.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -128,9 +128,9 @@ Feng:
 //\n本当にそう思うの？…私はね、アガタが私の心を\n乗っ取るんじゃないかって、それが心配なの。
 \n
 You really think so? Then maybe\n
-Agatha does have it in her to hijack my
+Agatha does have it in her to hijack
 <$0C>
-mind.
+my mind.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -158,8 +158,10 @@ Feng:
 <$0D>
 //\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
 \n
-Agatha is so deep into hypnotherapy, I\n
-wouldn't dream of stopping her!
+Agatha is so deep into\n
+hypnotherapy, I wouldn't dream of
+<$0C>
+stopping her!
 <$1E>
 //〇
 〇
@@ -193,7 +195,9 @@ Ernest:
 //\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
 \n
 Does that matter? The people here\n
-just seem easily spooked by mirrors.
+just seem easily spooked by
+<$0C>
+mirrors.
 <$0C><$0B>
 //アーネスト：
 Ernest:
@@ -216,8 +220,10 @@ Feng:
 <$0D>
 //\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
 \n
-Hoho, you've heard about the Mirror of\n
-Judgement. From where, pray tell?
+Hoho, you've heard about the Mirror\n
+of Judgement. From where, pray
+<$0C>
+tell?
 <$00>
 
 // Pos: 000020B9
@@ -271,8 +277,8 @@ Ernest:
 <$0D>
 //\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
 \n
-Heh, so mirrors cultivate evil? Is that\n
-why you made yours?
+Heh, so mirrors cultivate evil? Is\n
+that why you made yours?
 <$00>
 
 // Pos: 0000217E
@@ -318,10 +324,10 @@ Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit, and beauty incarnate.\n
-You can say she and I are...kindred
+A mirror spirit, and beauty\n
+incarnate. You can say she and I
 <$0C>
-spirits, hoho.
+are...kindred spirits, hoho.
 <$00>
 
 // Pos: 000021EC
@@ -382,8 +388,8 @@ Spacer:
 <$0D>
 //\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
 \n
-Looking into the mirror only seems to\n
-stir hate. Was that mirror made to
+Looking into the mirror only seems\n
+to stir hate. Was that mirror made to
 <$0C>
 nurture evil?
 <$00>
@@ -400,10 +406,10 @@ Feng:
 <$0D>
 //\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
 \n
-My, my! So, you do know. Indeed, when\n
-we let our inner evils destroy the
+My, my! So, you do know. Indeed,\n
+when we let our inner evils destroy
 <$0C>
-outer, we find Judgement.
+the outer, we find Judgement.
 <$00>
 
 // Pos: 000022C6
@@ -418,8 +424,8 @@ Spacer:
 <$0D>
 //\nフェイ、なぜあなたがそんな鏡を作る？\nなぜだ。
 \n
-But Feng, why would you make a mirror\n
-capable of doing that?
+But Feng, why would you make a\n
+mirror capable of doing that?
 <$00>
 
 // Pos: 000022EC
@@ -466,7 +472,8 @@ Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。\n美の権化…
 \n
-A mirror spirit, and beauty incarnate.
+A mirror spirit, and beauty\n
+incarnate.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -504,8 +511,8 @@ Yolanda:
 <$0D>
 //\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
 \n
-Maybe. Say, I heard you were making a\n
-mirror or something.
+Maybe. Say, I heard you were making\n
+a mirror or something.
 <$00>
 
 // Pos: 000023A8
@@ -521,9 +528,9 @@ Feng:
 //\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
 \n
 Oh, the Mirror of Judgement? So, you\n
-heard. But please, don't let that scare
+heard. But please, don't let that
 <$0C>
-you.
+scare you.
 <$00>
 
 // Pos: 000023D7
@@ -539,9 +546,9 @@ Yolanda:
 //\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
 \n
 Aww, you worry to much. It's just a\n
-trick mirror anyways, right? One that
+trick mirror anyways, right? One
 <$0C>
-makes people prettier?
+that makes people prettier?
 <$00>
 
 // Pos: 00002417
@@ -566,10 +573,10 @@ Feng:
 <$0D>
 //\nでもどうしようもないのよ。\nみんなみんな、自分の悪につぶされる、\nそれが蕃判よ。
 \n
-Think of it like Dorian Gray, where our\n
-inner evils are what destroy us. That is
+Think of it like Dorian Gray, where\n
+our inner evils are what destroy us.
 <$0C>
-Judgement.
+That is Judgement.
 <$00>
 
 // Pos: 0000247D
@@ -616,8 +623,8 @@ Yolanda:
 <$0D>
 //\nアマンダ！ 知ってるわよ、その名前。\n確か…
 \n
-Amanda? I know I've heard the name,\n
-but who is she?
+Amanda? I know I've heard the\n
+name, but who is she?
 <$00>
 
 // Pos: 000024EA
@@ -632,10 +639,10 @@ Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit, and beauty incarnate.\n
-You can say she and I are...kindred
+A mirror spirit, and beauty\n
+incarnate. You can say she and I
 <$0C>
-spirits, hoho.
+are...kindred spirits, hoho.
 <$00>
 
 // Pos: 0000251A
@@ -675,8 +682,8 @@ REGISTRANT NAME:\n
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
  NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO AN\n
-ADMINISTRATOR.
+DETAILS AND ASSISTANCE, SPEAK TO\n
+AN ADMINISTRATOR.
 <$00>
 
 // Pos: 0000255D

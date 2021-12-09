@@ -175,16 +175,16 @@ Yang:
 <$0D>
 //\nいきなり何だよ。
 \n
-You scared me, doing that! How did you\n
-open the door?!
+You scared me, doing that! How did\n
+you open the door?!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nそんな古くさい合言葉なんてもういらないんだ、\n普通に開いただろ、開かなかったか？
 \n
-Clearly, I need to do something about\n
-that old password.
+Clearly, I need to do something\n
+about that old password.
 <$00>
 
 // Pos: 00002682
@@ -215,8 +215,8 @@ Yang:
 <$0D>
 //\nおかしいな、まあいいや、\nお前たちこんな時間にどこ行くんだ、
 \n
-Delightful. Anyways, what brings you\n
-here at this hour?
+Delightful. Anyways, what brings\n
+you here at this hour?
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -231,8 +231,8 @@ Yang:
 <$0D>
 //\nおっかないよ、\nあそこはおっかないことになってる、
 \n
-How ghastly! What a ghastly place that\n
-is right now.
+How ghastly! What a ghastly place\n
+that is right now.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -277,8 +277,8 @@ Yang:
 <$0D>
 //\nもうみんなコロニーには戻らない、\n行ってしまったんだよ！
 \n
-No one comes back to the colony, not if\n
-they go you-know-where!
+No one comes back to the colony, not\n
+if they go you-know-where!
 <$00>
 
 // Pos: 00002790
@@ -334,10 +334,10 @@ April:
 <$0D>
 //\nロボット？ ねぇ、ロボットって…\nお手伝いロボットか何かいるの？
 \n
-Robots? Like, actual robots? Does that\n
-mean there are helper robots there,
+Robots? Like, actual robots? Does\n
+that mean there are helper robots
 <$0C>
-or...
+there, or...
 <$00>
 
 // Pos: 00002802
@@ -352,8 +352,8 @@ Yang:
 <$0D>
 //\nうははは、\nマウンテンが言ってた奇跡が起きたんだ！
 \n
-But! The miracle Mountain spoke of has\n
-come true!
+But! The miracle Mountain spoke of\n
+has come true!
 <$0C><$0B>
 //ヤング：
 Yang:

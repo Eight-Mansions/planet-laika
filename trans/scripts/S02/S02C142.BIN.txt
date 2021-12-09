@@ -33,7 +33,8 @@ Yolanda:
 <$0D>
 //\n今は大丈夫よ。\nあら…あなた、アタシの知ってる人？
 \n
-Oh, I'm fine. I... Sorry, do you know me?
+Oh, I'm fine. I... Sorry, do you know\n
+me?
 <$00>
 
 // Pos: 00000DF1
@@ -64,9 +65,9 @@ Yolanda:
 //\nアタシはヨランダよ。よろしくね。\n砂嵐が来ないうちに、もう行かなきゃ。
 \n
 I'm Yolanda, thanks. Anyways, I'd\n
-better go before the sandstorms pick
+better go before the sandstorms
 <$0C>
-up.
+pick up.
 <$00>
 
 // Pos: 00000E3B
@@ -81,8 +82,8 @@ Liever:
 <$0D>
 //\nどこ行くのさ。逃げられやしないよ。
 \n
-Where would you possible go? There's\n
-no escape.
+Where would you possible go?\n
+There's no escape.
 <$00>
 
 // Pos: 00000E59
@@ -98,7 +99,9 @@ Yolanda:
 //\n蕃判のこと言ってるの？\nあんなのでたらめよ、妄想よ。
 \n
 Oh, no. Please don't tell me you're one\n
-of those delusional Judgement fucks.
+of those delusional Judgement
+<$0C>
+fucks.
 <$00>
 
 // Pos: 00000E83
@@ -146,10 +149,10 @@ Liever:
 <$0D>
 //\nどうしたの？恐いんじゃないの？\n僕といれば平気だよ。神様が守ってくれるさ。
 \n
-What's the matter? Are you scared? If\n
-you follow me to God, God will protect
+What's the matter? Are you scared?\n
+If you follow me to God, God will
 <$0C>
-you.
+protect you.
 <$00>
 
 // Pos: 00000EF7
@@ -179,8 +182,8 @@ Liever:
 <$0D>
 //\n自分で確かめなきゃ信じない、そうでしょ。\n来れば？
 \n
-I'm sure you're the type who has to see\n
-it to believe it. Let's meet up later!
+I'm sure you're the type who has to\n
+see it to believe it. Let's meet up later!
 <$00>
 
 // Pos: 00000F3D
@@ -195,8 +198,8 @@ Liever:
 <$0D>
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。\n分かるよね。
 \n
-Down at the Brick Road entrance to the\n
-underground canal. Just before
+Down at the Brick Road entrance to\n
+the underground canal. Just before
 <$0C>
 entering the colony.
 <$00>

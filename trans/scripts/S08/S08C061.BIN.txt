@@ -49,8 +49,8 @@ Damian:
 <$0D>
 //\nガリルがどうかしたって？\n教えてやろうか、やつのこと。
 \n
-Did you say "Galil"? Shall I tell you about\n
-him?
+Did you say "Galil"? Shall I tell you\n
+about him?
 <$00>
 
 // Pos: 00002AA6
@@ -113,7 +113,8 @@ Damian:
 <$0D>
 //\nそう、よかったね。ふふふ、よかった。
 \n
-Yes, good! I thought as much, heehee!
+Yes, good! I thought as much,\n
+heehee!
 <$00>
 
 // Pos: 00002AF4
@@ -143,8 +144,8 @@ Damian:
 <$0D>
 //\nやつだよ、ヴェロニカに汚い布をわたして\nヴァニティフェイスをはびこらせたの。
 \n
-Well, Galil gave Veronica a filthy cloth\n
-before Vanity Face picked up.
+Well, Galil gave Veronica a filthy\n
+cloth before Vanity Face picked up.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -251,8 +252,8 @@ Spacer:
 <$0D>
 //\nあのレッドが眼を光らせてる。\nそれに…君はコスマスとどういう関係なのだ？
 \n
-Which begs the question: what is your\n
-relationship to Cosmas?
+Which begs the question: what is\n
+your relationship to Cosmas?
 <$00>
 
 // Pos: 00002C72

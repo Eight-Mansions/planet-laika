@@ -59,10 +59,10 @@ Spirit Man:
 <$0D>
 //\nたまった悪でお前は人格変容するぞ。\n自分を映して自分でなくなる、ひょひょひょ。
 \n
-It won't reflect your current self, but\n
-the self of the evil you've harbored,
+It won't reflect your current self,\n
+but the self of the evil you've
 <$0C>
-hyohyo!
+harbored, hyohyo!
 <$00>
 
 // Pos: 00002DE0
@@ -95,8 +95,8 @@ Spirit Man:
 <$0D>
 //\n全てが止まり、色を失っているぞ…
 \n
-Everything is frozen in place. Its color\n
-is all gone.
+Everything is frozen in place. Its\n
+color is all gone.
 <$00>
 
 // Pos: 00002E45
@@ -145,8 +145,8 @@ Spirit Man:
 <$0D>
 //\nひょひょひょ！ アーネストか、\n見るからにお前はアニマル系だな。
 \n
-Hyoyohyo! Ernest, is it? I see you're an\n
-Animal type.
+Hyoyohyo! Ernest, is it? I see you're\n
+an Animal type.
 <$00>
 
 // Pos: 00002EB8
@@ -265,8 +265,8 @@ Spirit Man:
 
 <$0F>
 //に戻るのはたやすいぞ。\n戻るか、どうするか？\n戻るのなら鏡に触れてみろ
- can shift back easily here. If you'd like\n
-to rest, touch the mirror.
+ can shift back easily here. If you'd\n
+like to rest, touch the mirror.
 <$00>
 
 // Pos: 00003027

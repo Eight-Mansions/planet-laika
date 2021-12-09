@@ -61,10 +61,10 @@ Entomologist:
 <$0D>
 //\nあー、えー、フンフン、\n君は石を見たことがあるかね？\n普通の石じゃない、光る石だ、フン。
 \n
-Tell me, bzzbzz. Have you seen a stone\n
-before? Not a regular stone, but a
+Tell me, bzzbzz. Have you seen a\n
+stone before? Not a regular stone,
 <$0C>
-glowing stone, bzz?
+but a glowing stone, bzz?
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -82,9 +82,9 @@ Entomologist:
 //\n光る石とは、滅んでしまった火星人の\n良心なんだ、フンフンフン。
 \n
 Those glowing stones are masses of\n
-the conscience left behind by the now
+the conscience left behind by the
 <$0C>
-fell Martians.
+now fell Martians.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -120,25 +120,25 @@ Entomologist:
 //\nおそらく今も火星のどこかにあるはず。\nさがしてみてはくれないか。
 \n
 The Martians made the stones on the\n
-brink of their extinction. I suggest you
+brink of their extinction. I suggest
 <$0C>
-look for them.
+you look for them.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nフンフン、光る石は全部で５つあるようだ。\n全ての石が集まれば…
-Bzzbzz! There are five\n
-of them in total, but when all five are\n
-gathered...
+Bzzbzz! There are\n
+five of them in total, but when all five\n
+are gathered...
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nフンフンフン、そうなれば火星人が\nよみがえるかも知れない。\nフンフン、そうだ！
 ...hehe, who knows?\n
-Maybe the Martians will spring back to\n
-life, bzzbzz!
+Maybe the Martians will spring back\n
+to life, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -146,9 +146,9 @@ Entomologist:
 //\n君は歴史のヒストリーが\n生まれるその瞬間に立ち会えるのだ！\nフン！ あああ！ フン！
 \n
 You could bear witness history of\n
-HISTORY in the making! Yes, bzz! It'll be
+HISTORY in the making! Yes, bzz! It'll
 <$0C>
-brilliant!
+be brilliant!
 <$00>
 
 // Pos: 00001BB4
@@ -163,10 +163,10 @@ Rummy:
 <$0D>
 //\nあああ、思い出してきたな…\nあああ、開こえるんだな、先生の声だな
 \n
-Hey, I remember that voice! That was\n
-my favorite doctor from once upon a
+Hey, I remember that voice! That\n
+was my favorite doctor from once
 <$0C>
-time!
+upon a time!
 <$00>
 
 // Pos: 00001BE3
@@ -213,10 +213,10 @@ Rummy:
 <$0D>
 //\nラミー君、\nその女の子と手をつないで歩いたんだね
 \n
-But I'm Rummy! You think I was the one\n
-walking hand in hand with that little
+But I'm Rummy! You think I was the\n
+one walking hand in hand with that
 <$0C>
-girl?!
+little girl?!
 <$00>
 
 // Pos: 00001C45
@@ -247,10 +247,10 @@ Rummy:
 <$0D>
 //\nラミー君、\nおなかのアザをその子に見せたんだね？
 \n
-I'M RUMMY! And you think IT WAS ME who\n
-showed that little girl the birthmark
+I'M RUMMY! And you think IT WAS ME\n
+who showed that little girl the
 <$0C>
-on my stomach?!
+birthmark on my stomach?!
 <$00>
 
 // Pos: 00001C90
@@ -272,7 +272,7 @@ Rummy:
 <$0D>
 //\n僕は眠っていました、\n少しもウソではありません！
 \n
-I was asleep at the time! I WOULDN'T LIE\n
-ABOUT THIS!
+I was asleep at the time! I WOULDN'T\n
+LIE ABOUT THIS!
 <$00>
 

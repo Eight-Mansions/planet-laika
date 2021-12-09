@@ -32,8 +32,8 @@ Little:
 <$0D>
 //\nそして俺の目の前で、土の中にうずもれていく…\nまるで俺が埋めてるみたいな惑じだ。\n俺は…利用されたんだ。
 \n
-They crawled out from the dirt, like I'd\n
-buried 'em,. But I was used, get it?
+They crawled out from the dirt, like\n
+I'd buried 'em,. But I was used, get it?
 <$00>
 
 // Pos: 000024B7
@@ -77,8 +77,8 @@ Little:
 <$0D>
 //\n双子を生き埋めにするためだ。\n預言に出てくるんだ、
 \n
-We buried twins alive in order to fulfill\n
-the prophecy.
+We buried twins alive in order to\n
+fulfill the prophecy.
 <$0C><$0B>
 //リトル：
 Little:
@@ -86,25 +86,27 @@ Little:
 //\nマコトの双子が新しい人間になるってな。\nだから双子は…
 \n
 The Twins of Truth will become the\n
-new humans, but to do that, the twins
+new humans, but to do that, the
 <$0C>
-must first...
+twins must first...
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nあああ、マコトの双子だの何だの、\n俺にはどうでもいいんだ。
 \n
-...I don't exactly care about the Twins\n
-of Truth. They don't matter to me.
+...I don't exactly care about the\n
+Twins of Truth. They don't matter to
+<$0C>
+me.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nただ自分を失いたくなかった、それだけだ。
 \n
-I just didn't want my existence wiped\n
-out, is all.
+I just didn't want my existence\n
+wiped out, is all.
 <$00>
 
 // Pos: 000025A7
@@ -136,10 +138,10 @@ Little:
 <$0D>
 //\nヘロデは生まれたときから悪夢をさまよってる…\nそうだ、そうだ、恐怖を育ててるんだ。
 \n
-Herod was cursed to have nightmares\n
-since his birth. His fears have only
+Herod was cursed to have\n
+nightmares since his birth. His fears
 <$0C>
-grown since.
+have only grown since.
 <$0C><$0B>
 //リトル：
 Little:
@@ -170,18 +172,20 @@ Little:
 <$0D>
 //\nとっくにこの星の悪意に憑かれて、\n今頃は苦しみにおぼれてる…
 \n
-The will of the planet would've lead her\n
-astray long ago. Yeah, she must be
+The will of the planet would've lead\n
+her astray long ago. Yeah, she must
 <$0C>
-sufferin' now.
+be sufferin' now.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nそうだ、苦しむんだ、\n自分の心にさいなまれるんだ。
 \n
-That's right. Her entire sense of self is\n
-sufferin'. Sufferin' in her own mind.
+That's right. Her entire sense of self\n
+is sufferin'. Sufferin' in her own
+<$0C>
+mind.
 <$00>
 
 // Pos: 000026C5
@@ -196,8 +200,8 @@ Little:
 <$0D>
 //\nあああ、早く忘れてしまいたい！\nさあ、連れてってくれ。
 \n
-Man, I can't wait to put this behind me!\n
-Come on, show the way.
+Man, I can't wait to put this behind\n
+me! Come on, show the way.
 <$0C><$0B>
 //リトル：
 Little:
@@ -212,8 +216,8 @@ Little:
 <$0D>
 //\nひどくなったんだ。\n俺の中で、あああ、くそっ！
 \n
-...Oi, the voices in my head are getting\n
-worse! Goddammit, stop!
+...Oi, the voices in my head are\n
+getting worse! Goddammit, stop!
 <$00>
 
 // Pos: 00002735
@@ -241,8 +245,8 @@ Olympia #2:
 <$0D>
 //\nキュウにヘンなコトバがやってきました。\nワタシのココロがウけとめました。
 \n
-...I HEARD A STRANGE DIALOGUE, AND MY\n
-HEART STOPPED.
+...I HEARD A STRANGE DIALOGUE, AND\n
+MY HEART STOPPED.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -295,9 +299,9 @@ Olympia #2:
 //\nカジとはスイジとかセンタクとかでしょうか。\nなんにしても、くたびれていますね。
 \n
 HOUSEWORK... DOES THAT MEAN\n
-COOKING, OR LAUNDRY? EITHER OR, IT IS
+COOKING, OR LAUNDRY? EITHER OR, IT
 <$0C>
-EXHAUSTING.
+IS EXHAUSTING.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -312,9 +316,9 @@ Olympia #2:
 //\nままならないものですか。\nそれにしてもこのコエのヒトは、ダレですか。
 \n
 IS THAT ALL I AM GOOD FOR? IS THAT THE\n
-PURPOSE I WAS CREATED TO SERVE? WHO
+PURPOSE I WAS CREATED TO SERVE?
 <$0C>
-COULD SAY SUCH A THING?
+WHO COULD SAY SUCH A THING?
 <$00>
 
 // Pos: 00002891
@@ -375,8 +379,8 @@ Olympia #2:
 <$0D>
 //\nナニか、あなたにしてあげられることが\nあるのです。
 \n
-STILL, THERE IS SOMETHING I CAN DO FOR\n
-YOU.
+STILL, THERE IS SOMETHING I CAN DO\n
+FOR YOU.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -420,8 +424,8 @@ Olympia #2:
 <$0D>
 //\nたまにはね、おケショウ、してみたいわよ。
 \n
-OH-LALA, LET US TRY ON SOME ####ING\n
-MAKE-UP!
+OH-LALA, LET US TRY ON SOME\n
+####ING MAKE-UP!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -429,10 +433,10 @@ Olympia #2:
 //\nしゅうまつはガイショクよ、なんてセイカツ、\nいいわよね！
 \n
 WE CAN EAT OUT ON THE\n
-MOTHER####ING WEEKEND! ####
+MOTHER####ING WEEKEND!
 <$0C>
-YEAH, LADIES, WE ARE LIVING THE GOOD\n
-LIFE!
+#### YEAH, LADIES, WE ARE LIVING\n
+THE GOOD LIFE!
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -440,9 +444,9 @@ Yolanda:
 //\nねぇ、欲求不満なの。\nだからって、アタシにぶつけないでよ。
 \n
 Listen fucker, if you're on one or\n
-something, don't take it out on me. Tsk,
+something, don't take it out on me.
 <$0C>
-tsk.
+Tsk, tsk.
 <$0C><$13>
 //（
 （
@@ -476,8 +480,10 @@ Yolanda:
 <$0D>
 //\nアタシはね、死ぬまで女でいるのよ、\n忘れないのよ。
 \n
-I'm a woman, from now until the day I\n
-die! And I'll make sure NO ONE forgets it!
+I'm a woman, from now until the day\n
+I die! And I'll make sure NO ONE
+<$0C>
+forgets it!
 <$0C><$13>
 //（
 （
@@ -495,8 +501,8 @@ Olympia #2:
 <$0D>
 //\nもっとツヨくなってね、\nこれでツヨくなってね。
 \n
-AFTER THIS CONVERSATION, I WILL GET\n
-HEAD-STRONGER TOO.
+AFTER THIS CONVERSATION, I WILL\n
+GET HEAD-STRONGER TOO.
 <$00>
 
 // Pos: 00002B25
@@ -522,7 +528,8 @@ Yolanda:
 <$0D>
 //\nねぇ、もうないの？\nもっともらえないの？
 \n
-Good! So, do I win a prize or something?
+Good! So, do I win a prize or\n
+something?
 <$0C><$13>
 //（
 （
@@ -572,15 +579,18 @@ Olympia #2:
 <$0D>
 //\nタイクツだぜ、こんなところでよ、\nおい、おマエ、なんでオレをミるんだ？
 \n
-IT SURE IS BORING DOWN HERE. WHY ARE\n
-YOU STARING ME DOWN LIKE THAT, HUH?
+IT SURE IS BORING DOWN HERE. WHY\n
+ARE YOU STARING ME DOWN LIKE THAT,
+<$0C>
+HUH?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nじろじろミるな！
 \n
-ARE YOU TRYING TO SIZE A GUY UP, PUNK?
+ARE YOU TRYING TO SIZE A GUY UP,\n
+PUNK?
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -630,8 +640,10 @@ Olympia #2:
 <$0D>
 //\nケンカはウっても、カっても、ソンするぜ。\nおマエはどうだ、ソンするタイプか、
 \n
-FIGHTS CAN EITHER SAVE TIME OR WASTE\n
-TIME. WHAT DOES FIGHTING DO FOR YOU?
+FIGHTS CAN EITHER SAVE TIME OR\n
+WASTE TIME. WHAT DOES FIGHTING DO
+<$0C>
+FOR YOU?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -656,10 +668,10 @@ Olympia #2:
 <$0D>
 //\nオマえはソンしない、ケンカでソンしない、\nそういうことだ。
 \n
-IF YOU DO NOT WASTE TIME, YOUR FIGHTS\n
-WILL NOT WASTE TIME. THAT IS HOW I SEE
+IF YOU DO NOT WASTE TIME, YOUR\n
+FIGHTS WILL NOT WASTE TIME. THAT IS
 <$0C>
-IT.
+HOW I SEE IT.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -697,9 +709,9 @@ Olympia #2:
 //\nカンガえてもみたまえ、\nキミたちニンゲンは、いやよしましょう。
 \n
 I WAS THINKING ABOUT YOU HUMANS,\n
-AND I HAD TO STOP MYSELF BEFORE I WENT
+AND I HAD TO STOP MYSELF BEFORE I
 <$0C>
-CRAZY.
+WENT CRAZY.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -718,9 +730,9 @@ Olympia #2:
 //\nロボットにカンジョウがないというのは、\nムチにすぎる。
 \n
 ROBOTS DO NOT HAVE SENTIMENTS.\n
-THINKING ABOUT HUMANS WAS A WASTE
+THINKING ABOUT HUMANS WAS A
 <$0C>
-OF TIME.
+WASTE OF TIME.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -757,7 +769,9 @@ Olympia #2:
 //\nキンセイどころではない、\nメイオウセイからもコエがキこえる、
 \n
 THIS IS NO TIME FOR NUTS. RECENTLY, I\n
-HAVE BEEN HEARING VOICES FROM PLUTO.
+HAVE BEEN HEARING VOICES FROM
+<$0C>
+PLUTO.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -786,7 +800,9 @@ Olympia #2:
 //\nおかしいのはキミではないか、これでモトに\nモドれるか、ショウキになれるか。
 \n
 ARE YOU NOT CRAZY? HERE, MAYBE THIS\n
-WILL HELP YOU RETURN TO YOUR SENSES.
+WILL HELP YOU RETURN TO YOUR
+<$0C>
+SENSES.
 <$00>
 
 // Pos: 00002F21
@@ -805,15 +821,17 @@ Olympia #2:
 //\nキンセイジンをシンじているのか、それなら\nキミのタイプはサイコにチガいない。
 \n
 IF YOU BELIEVE IN THE VENUSIANS, YOU\n
-ARE, WITHOUT A DOUBT, A PSYCHO TYPE.
+ARE, WITHOUT A DOUBT, A PSYCHO
+<$0C>
+TYPE.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nこれで終わりか、\nまだ何か持っているだろう。
 \n
-Is that it? You don't have anything else\n
-for me?
+Is that it? You don't have anything\n
+else for me?
 <$0C><$13>
 //（
 （
@@ -909,9 +927,9 @@ Olympia #2:
 //\nキサマにくれてやっても、ブタにシンジュだろ\nウマのミミになんとかだろ！
 \n
 ANYTHING I GIVE YOU IS A PEARL HORSE\n
-BEFORE A SWINE THAT WILL STILL LOOK
+BEFORE A SWINE THAT WILL STILL
 <$0C>
-IT IN THE MOUTH!
+LOOK IT IN THE MOUTH!
 <$00>
 
 // Pos: 0000306E
@@ -992,7 +1010,9 @@ Olympia #2:
 //\nイマはこれだけ、ノチほどのタイミングを\nノがさないことだね。
 \n
 MY WHILE IS ALL I HAVE! I CANNOT\n
-AFFORD TO SHARE IT ALL THE DAMN TIME.
+AFFORD TO SHARE IT ALL THE DAMN
+<$0C>
+TIME.
 <$00>
 
 // Pos: 0000314E
@@ -1010,8 +1030,8 @@ Olympia #2:
 <$0D>
 //\nワタシにヨウですか。ワタシはあなたには\nトクにヨウはありませんよ。
 \n
-IS THIS WHAT I THINK IT IS? SORRY, I DO\n
-NOT HAVE ANYTHING FOR YOU.
+IS THIS WHAT I THINK IT IS? SORRY, I\n
+DO NOT HAVE ANYTHING FOR YOU.
 <$00>
 
 // Pos: 0000317F
@@ -1029,18 +1049,18 @@ Olympia #2:
 <$0D>
 //\nワタシはときどきココロがミダれますが、\nナオるのもハヤいです。
 \n
-SOMETIMES, MY HEART STOPS, AND NEEDS\n
-A LITTLE TIME TO REPAIR.
+SOMETIMES, MY HEART STOPS, AND\n
+NEEDS A LITTLE TIME TO REPAIR.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nそれにくらべてニンゲンのヒトはタイヘンです\nみなさん、コワれていきますね。
 \n
-IN COMPARISON, HUMANS MAKE A MUCH\n
-HARDER TIME OF THIS. HUMANS BREAK
+IN COMPARISON, HUMANS MAKE A\n
+MUCH HARDER TIME OF THIS. HUMANS
 <$0C>
-EASILY.
+BREAK EASILY.
 <$00>
 
 // Pos: 000031E0
@@ -1085,16 +1105,16 @@ Olympia #2:
 <$0D>
 //\nあなたたちはチキュウから\nやってきたのですね。
 \n
-YOU ARE THE MOSQUITOS WHO CAME FROM\n
-EARTH, ARE YOU NOT?
+YOU ARE THE MOSQUITOS WHO CAME\n
+FROM EARTH, ARE YOU NOT?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nそんなカんじです、ここのヒトとはフンイキが\nチがいますから。
 \n
-WE KNOW WHY YOU ARE HERE: TO SUCK THE\n
-LIFE OUT OF EVERYTHING!
+WE KNOW WHY YOU ARE HERE: TO SUCK\n
+THE LIFE OUT OF EVERYTHING!
 <$00>
 
 // Pos: 00003291
@@ -1239,8 +1259,8 @@ your legs.
 #WHB(PTR, $00001761)
 
 //案ょい出せ、\nお前はどこでうちのめされたんだ？
-案ょDo you remember where you were\n
-beaten to a pulp?
+案ょDo you remember where you\n
+were beaten to a pulp?
 <$00>
 
 // Pos: 00003402
@@ -1250,8 +1270,8 @@ beaten to a pulp?
 #WHB(PTR, $00001771)
 
 //興れともやつの居場所を突き止めたいのか？
-興Or, would you rather find out where\n
-the winner is now?
+興Or, would you rather find out\n
+where the winner is now?
 <$00>
 
 // Pos: 0000341D
@@ -1261,8 +1281,8 @@ the winner is now?
 #WHB(PTR, $00001781)
 
 //血あ、行くんだ、アーネスト。\n３倍返しだ、お前の力を見せてやるんだ。\n本当のお前を、お前の怖ろしさを！
-血Get going, Ernest. Pay him back three\n
-times over. Show me your power!\n
-Show me your horror!
+血Get going, Ernest. Pay him back\n
+three times over. Show me your\n
+power! Show me your horror!
 <$00>
 

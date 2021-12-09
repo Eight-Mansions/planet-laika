@@ -48,7 +48,9 @@ Liever:
 //\nなんだかあんたをだましたみたいで…\n僕はやっぱり中途ハンパな存在なんだね…
 \n
 Ah, seems I lead you on a red herring.\n
-I'm just a made up existence, after all.
+I'm just a made up existence, after
+<$0C>
+all.
 <$00>
 
 // Pos: 00001678
@@ -63,7 +65,8 @@ Spacer:
 <$0D>
 //\nリバー、君の罪とは、本当なのか？
 \n
-Liever, were your "sins" made up too?
+Liever, were your "sins" made up\n
+too?
 <$00>
 
 // Pos: 00001698
@@ -78,10 +81,10 @@ Liever:
 <$0D>
 //\nたぶん… いや、僕のもう一人… リトルが\n双子の子どもたちに靴下を配ったんだ…
 \n
-Maybe...? No, it was the other me. Little\n
-would give out stockings to twin
+Maybe...? No, it was the other me.\n
+Little would give out stockings to
 <$0C>
-children.
+twin children.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -120,10 +123,10 @@ Liever:
 <$0D>
 //\nプレゼントは、悪夢だよ。\n双子たちは眠ってる間に… 姿を消した。
 \n
-The presents? Nightmares. When the\n
-twins fell asleep, they would both
+The presents? Nightmares. When\n
+the twins fell asleep, they would
 <$0C>
-disappear.
+both disappear.
 <$00>
 
 // Pos: 00001743
@@ -138,16 +141,18 @@ Spacer:
 <$0D>
 //\nしかし、なぜ双子なんだ？\n双子に何かいわれでもあるのか？
 \n
-But why twins? Surely you had a reason\n
-to target twins.
+But why twins? Surely you had a\n
+reason to target twins.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nここに子供がいるなんて…\nそんな話は開いていないぞ。
 \n
-I know I've seen children around, but\n
-I've never heard about a twin-napper.
+I know I've seen children around,\n
+but I've never heard about a
+<$0C>
+twin-napper.
 <$00>
 
 // Pos: 00001798
@@ -162,10 +167,10 @@ Liever:
 <$0D>
 //\n預言だよ！ 預言にあるんだ、\nマコトの双子が完全な人間になれるって。
 \n
-It was the prophecy! In the prophecy,\n
-the Twins of Truth become wholly
+It was the prophecy! In the\n
+prophecy, the Twins of Truth
 <$0C>
-human.
+become wholly human.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -214,8 +219,8 @@ Liever:
 <$0D>
 //\n分からないよ。\nあの人は悪夢の中で生まれてきたんだ。
 \n
-That, I don't know. Herod was born into\n
-nightmares.
+That, I don't know. Herod was born\n
+into nightmares.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -285,7 +290,8 @@ Little:
 <$0D>
 //\nうううう、何だ？…お前は…
 \n
-Oww, what happened? What're you...
+Oww, what happened? What're\n
+you...
 <$0C><$0B>
 //リトル：
 Little:
@@ -307,8 +313,8 @@ Spacer:
 <$0D>
 //\nリトル…リトルなのか？\nもう少し、リバーと話させてくれ！
 \n
-Little? Why are you here?! Quick, let me\n
-talk to Liever just a little longer!
+Little? Why are you here?! Quick, let\n
+me talk to Liever just a little longer!
 <$00>
 
 // Pos: 00001966
@@ -323,8 +329,8 @@ Little:
 <$0D>
 //\nううう、うるさい！\n何をしてるんだ、お前は、また俺を…くそっ！
 \n
-Oi, don't yell at me! Why're you always\n
-buttin' in, huh? You bum!
+Oi, don't yell at me! Why're you\n
+always buttin' in, huh? You bum!
 <$00>
 
 // Pos: 0000198E

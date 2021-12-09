@@ -33,7 +33,8 @@ Red:
 <$0D>
 //\nどうした、びくついてるのか、ええ？
 \n
-What's the matter. You scared of me?
+What's the matter. You scared of\n
+me?
 <$0C><$0B>
 //レッド：
 Red:
@@ -106,10 +107,10 @@ Red:
 <$0D>
 //\nあいつは俺の体の一部なんだ、\nそれが分からねぇのか、作品で、一部なんだ。
 \n
-He's a part of my body. He doesn't know\n
-it, but he makes up only a fraction of my
+He's a part of my body. He doesn't\n
+know it, but he makes up only a
 <$0C>
-work.
+fraction of my work.
 <$00>
 
 // Pos: 000024E1
@@ -141,17 +142,17 @@ Red:
 //\nそうだろ、そうだろ、そうだろ、\nフユカイでたまらないだろ。
 \n
 Yeah, yeah, that's what I thought.\n
-You're the one with your tail between
+You're the one with your tail
 <$0C>
-your legs.
+between your legs.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nお前は犬だ、ただの犬だ、ははははは、\n犬だ犬だ、クソ犬め。
 \n
-And why's that? Because you're a dog!\n
-Just a dog, hahaha! A dog! A dirty
+And why's that? Because you're a\n
+dog! Just a dog, hahaha! A dog! A dirty
 <$0C>
 fucking dog!
 <$0C><$0B>
@@ -217,8 +218,8 @@ Red:
 <$0D>
 //\nコスマスをひっ捕らえて\nあの布をかぶせてやる、
 \n
-I'll nab Cosmas and cover him with the\n
-cloth!
+I'll nab Cosmas and cover him with\n
+the cloth!
 <$0C><$0B>
 //レッド：
 Red:
@@ -226,7 +227,9 @@ Red:
 //\nはははー、知ってるぜ、あいつは隠れ家だ、\n地下水道にあるんだ、馬鹿野郎！
 \n
 Hahaha, and I know his hideout! That\n
-stupid kid's in the underground canal!
+stupid kid's in the underground
+<$0C>
+canal!
 <$0C><$0B>
 //レッド：
 Red:
@@ -251,10 +254,10 @@ Red:
 <$0D>
 //\n俺は守られてる、攻撃は効かないんだ、\n出し抜こうなんて考えは捨てた方がいいぜ！
 \n
-I'm protected! Attacking won't work,\n
-so just forget the idea that you'll
+I'm protected! Attacking won't\n
+work, so just forget the idea that
 <$0C>
-escape!
+you'll escape!
 <$1E>
 //中
 中

@@ -17,8 +17,8 @@ Little:
 <$0D>
 //\nお前だったのか…\nふん、こそこそ何をかぎ回ってるんだ！
 \n
-Ah, there you are! What are you doing,\n
-snoopin' around?!
+Ah, there you are! What are you\n
+doing, snoopin' around?!
 <$00>
 
 // Pos: 00001F3E
@@ -32,8 +32,7 @@ snoopin' around?!
 April:
 <$0D>
 //\n知ってるの？ ライカのこと。
-\n
-Do you know Laika?
+nDo you know Laika?
 <$00>
 
 // Pos: 00001F58
@@ -64,8 +63,10 @@ April:
 <$0D>
 //\nねぇ、どうしてここの人たちは、\nみんなぴりぴりしてるの？\n何かよくないことでもあるの？
 \n
-Why is everyone here so on edge then?\n
-You can't ALL be hiding something!
+Why is everyone here so on edge\n
+then? You can't ALL be hiding
+<$0C>
+something!
 <$00>
 
 // Pos: 00001FB0
@@ -117,9 +118,10 @@ Little:
 //\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
 \n
 How lovely. Then, you totally don't\n
-care about what the warehouse next
+care about what the warehouse
 <$0C>
-door stores, right? Our oxygenite?
+next door stores, right? Our\n
+oxygenite?
 <$0C><$0B>
 //リトル：
 Little:
@@ -135,9 +137,8 @@ abandoned!
 Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-\n
-PROVING, see, that you are NOT so\n
-indispensible, got it?
+nPROVING, see, that you are\n
+NOT so indispensible, got it?
 <$0C><$0B>
 //リトル：
 Little:
@@ -161,8 +162,10 @@ April:
 <$0D>
 //\n分からない…\n迷信なら迷信でいいの。
 \n
-I don't understand. I mean, if all it was\n
-were superstition, that'd be fine.
+I don't understand. I mean, if all it\n
+was were superstition, that'd be
+<$0C>
+fine.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -186,19 +189,19 @@ Little:
 //\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
 \n
 Nothing happened to the Face. That\n
-thing's only a dumb souvenir left by the
+thing's only a dumb souvenir left by
 <$0C>
-Martians.
+the Martians.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nご希望とあらば、ザ・フェイスまで\n酸索パイプラインを敷いて観光名所にしたって\n構わないんだ、ええ、そうだそうだ。
 \n
-We laid out an oxygenite pipeline up to\n
-the Face. It's now a tourist spot for you
+We laid out an oxygenite pipeline up\n
+to the Face. It's now a tourist spot for
 <$0C>
-Earthlings.
+you Earthlings.
 <$0C><$0B>
 //リトル：
 Little:
@@ -206,9 +209,9 @@ Little:
 //\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
 \n
 You all obsess over human faces so\n
-bad, you come out here, see it and then
+bad, you come out here, see it and
 <$0C>
-pay us for cosmetic surgery!
+then pay us for cosmetic surgery!
 <$00>
 
 // Pos: 00002205
@@ -264,8 +267,8 @@ April:
 <$0D>
 //\nザ・フェイスに何も異変が見あたらなかったら\nさっさと引き揚げる、これでどう？
 \n
-and if nothing else happens to the Face,\n
-we'll leave first thing. Fair?
+and if nothing else happens to the\n
+Face, we'll leave first thing. Fair?
 <$00>
 
 // Pos: 000022A2
@@ -314,8 +317,8 @@ Little:
 <$0D>
 //\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
 \n
-Oi, if it speeds things up, I'll dispatch a\n
-search party the mornin'.
+Oi, if it speeds things up, I'll dispatch\n
+a search party the mornin'.
 <$00>
 
 // Pos: 00002332
@@ -345,8 +348,8 @@ Little:
 <$0D>
 //\nあのふたりに送らせよう。
 \n
-...Hmph. Excuse me while I speak to the\n
-pair outside.
+...Hmph. Excuse me while I speak to\n
+the pair outside.
 <$1E>
 //家
 家
@@ -372,9 +375,9 @@ April:
 <$0D>
 //\nヒガシとニシからやってきて、\nコロニーに居着いたんだって。
 \n
-It's like they came from pure opposite\n
-sides of the world and came together
+It's like they came from pure\n
+opposite sides of the world and came
 <$0C>
-in the colony.
+together in the colony.
 <$00>
 

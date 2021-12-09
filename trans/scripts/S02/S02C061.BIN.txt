@@ -17,7 +17,8 @@ Noon:
 <$0D>
 //\nおお、ライカ、平気だったか？
 \n
-There you are, Laika! 'Anging in there?
+There you are, Laika! 'Anging in\n
+there?
 <$00>
 
 // Pos: 00000EFE
@@ -32,8 +33,8 @@ Noon:
 <$0D>
 //\nあああ、砂だ、砂嵐で…\nああ、砂嵐で、頭の中がぐるんぐるんなんだ。
 \n
-Aye, I'll tell you what. This sandstorm\n
-is making my head spin.
+Aye, I'll tell you what. This\n
+sandstorm is making my head spin.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -54,8 +55,9 @@ keep the other two waiting.
 災Bitter memories will resurface...
 <$0C>
 //思い出だけじゃなくてね、ウソもホントも\n何もかも。 惑わされるかもね。
-Not only memories, but lies and truths\n
-and well. They're there to confuse you.
+Not only memories, but lies and\n
+truths and well. They're there to\n
+confuse you.
 <$1E>
 //炎
 炎

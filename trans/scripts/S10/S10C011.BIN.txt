@@ -82,8 +82,8 @@ Yolanda:
 <$0D>
 //\nすっかり性格が変わって、\nすぐにふさぎ込むようになって…
 \n
-Her disposition changed entirely. Her\n
-spirits had hit rock bottom.
+Her disposition changed entirely.\n
+Her spirits had hit rock bottom.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -129,8 +129,8 @@ Yolanda:
 <$0D>
 //\n可哀想に… もっと早く\nアタシが話し相手になってあげれば…
 \n
-I'm pathetic... If only I'd talked to her\n
-sooner.
+I'm pathetic... If only I'd talked to\n
+her sooner.
 <$00>
 
 // Pos: 00004178
@@ -148,8 +148,10 @@ Liever:
 Tanya is 
 <$0F>
 //のママだよね、\nあんたのママってこと？\nどう思ってたの？
-'s mother. Does that make her\n
-your mother as well? Or am I wrong?
+'s mother. Does that make\n
+her your mother as well? Or am I
+<$0C>
+wrong?
 <$00>
 
 // Pos: 000041A5
@@ -182,8 +184,8 @@ Yolanda:
 <$0D>
 //\nタニアの相談相手は、アタシをおいて\n他にいないわ。
 \n
-I was Tanya's shoulder to lean on! I was\n
-the only one there for her!
+I was Tanya's shoulder to lean on! I\n
+was the only one there for her!
 <$00>
 
 // Pos: 00004212
@@ -198,7 +200,8 @@ Liever:
 <$0D>
 //\nアーネストは？\n彼はなぜ存在するの？
 \n
-What about Ernest? Why does he exist?
+What about Ernest? Why does he\n
+exist?
 <$00>
 
 // Pos: 00004232
@@ -213,8 +216,8 @@ Yolanda:
 <$0D>
 //\n守るためよ。\n生まれてくるはずだった妹…
 \n
-To protect. He came to protect his little\n
-sister...
+To protect. He came to protect his\n
+little sister...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -269,8 +272,8 @@ Yolanda:
 <$0D>
 //\nアーネストにしてみれば、\n生まれたことになってるの。
 \n
-...but in Ernest's eyes, she's out there,\n
-somewhere.
+...but in Ernest's eyes, she's out\n
+there, somewhere.
 <$00>
 
 // Pos: 000042F4
@@ -301,9 +304,9 @@ Yolanda:
 //\nどうやらそのようね。\n詳しいことは分からない、本人じゃなきゃね。
 \n
 Apparently, he did it to fill that gap. I\n
-don't know the details, so you'd have to
+don't know the details, so you'd have
 <$0C>
-ask him.
+to ask him.
 <$00>
 
 // Pos: 00004336
@@ -318,10 +321,10 @@ Liever:
 <$0D>
 //\n本当は生まれたときには死んでたんだよね、\nミーシャって名前まで用意してたのに。
 \n
-So, she was born dead. Was "Masha" the\n
-name that Tanya and Vladimir planned
+So, she was born dead. Was "Masha"\n
+the name that Tanya and Vladimir
 <$0C>
-to give her?
+planned to give her?
 <$00>
 
 // Pos: 0000436F
@@ -418,8 +421,10 @@ Yolanda:
 <$0D>
 //\n妹を消されたことでアーネストは\n彼をうらんでるわ。
 \n
-And Ernest resents Spacer for letting\n
-that idea, his sister, slip away.
+And Ernest resents Spacer for\n
+letting that idea, his sister, slip
+<$0C>
+away.
 <$00>
 
 // Pos: 0000445E
@@ -434,8 +439,8 @@ Liever:
 <$0D>
 //\nスペーサーは大の勉強家だよね。
 \n
-But Spacer is a largely studios person,\n
-isn't he.
+But Spacer is a largely studios\n
+person, isn't he.
 <$00>
 
 // Pos: 0000447C
@@ -520,9 +525,9 @@ Galil:
 //\n私は君よりもっとあやふやな存在だった。\nせまり来る不安の中で自信を失っていた。
 \n
 Once, I was more uncertain an \n
-existance than you. I knew no ease, no
+existance than you. I knew no ease,
 <$0C>
-confidence.
+no confidence.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -537,24 +542,28 @@ Galil:
 <$0D>
 //\n全てはこの星の意志に\n触れたからに他ならない。
 \n
-All because I was touched by the will of\n
-the planet.
+All because I was touched by the will\n
+of the planet.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nもう恐れは去ったのだ、冷たい触手に\nからめ取られることもない。
 \n
-My fears are gone. Their cold tentacles\n
-can tear me through no longer.
+My fears are gone. Their cold\n
+tentacles can tear me through no
+<$0C>
+longer.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nどうだね、\n私と共に世界の再生に立ち会わないか。
 \n
-What do you say, Laika? Would you like\n
-to witness world rebirth at my side?
+What do you say, Laika? Would you\n
+like to witness world rebirth at my
+<$0C>
+side?
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -604,9 +613,9 @@ Galil:
 //\n立役者のご登場というわけか。\nお前の神様はどうした？
 \n
 Ah, the "leading star" makes his\n
-appearance. Where is your god to rear
+appearance. Where is your god to
 <$0C>
-you in?
+rear you in?
 <$00>
 
 // Pos: 00004690
@@ -621,8 +630,8 @@ Liever:
 <$0D>
 //\nあれは神様なんかじゃない！\nイーブルマインドのカスだ！
 \n
-That wasn't God! That was just a mass\n
-of Evil Mind!
+That wasn't God! That was just a\n
+mass of Evil Mind!
 <$00>
 
 // Pos: 000046B8
@@ -719,8 +728,10 @@ Yolanda:
 <$0D>
 //\nあの日…アタシ、妙に胸騒ぎを覚えて\n学校を抜け出したのよ。
 \n
-I...remember ditching class, because\n
-of a bad feeling I got that day.
+I...remember ditching class,\n
+because of a bad feeling I got that
+<$0C>
+day.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:

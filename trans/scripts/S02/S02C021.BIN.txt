@@ -58,8 +58,10 @@ Captain Tatler:
 <$0D>
 //\n実は先遣隊が隠れ住んでいるというウワサも\nあるんだ。
 \n
-Monsters aside, there's a rumor some\n
-ex-vanguard units live there in hiding.
+Monsters aside, there's a rumor\n
+some ex-vanguard units live there in
+<$0C>
+hiding.
 <$00>
 
 // Pos: 00002B7F
@@ -74,15 +76,16 @@ April:
 <$0D>
 //\nヌーン、コロニーまでは遠いの？
 \n
-Noon, how far are we from the colony?
+Noon, how far are we from the\n
+colony?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nたしかコロニーは、\nヨセミテ台地の上にあるはずよ。
 \n
-If I remember correctly, shouldn't we\n
-be up on Yosemite Plateau?
+If I remember correctly, shouldn't\n
+we be up on Yosemite Plateau?
 <$00>
 
 // Pos: 00002BC0
@@ -180,8 +183,8 @@ Captain Tatler:
 <$0D>
 //\nうんちくはいらないぞ、\nセンセイ… あ、いや、エイプリル。
 \n
-Sorry, April. We might have to save the\n
-lesson for later.
+Sorry, April. We might have to save\n
+the lesson for later.
 <$00>
 
 // Pos: 00002CC7
@@ -196,8 +199,8 @@ Captain Tatler:
 <$0D>
 //\nとにかくその帰納の丘を通れば\nコロニーに着くんだな？
 \n
-But once we get through the Inductive\n
-Hills, we'll find the colony?
+But once we get through the\n
+Inductive Hills, we'll find the colony?
 <$00>
 
 // Pos: 00002CF4
@@ -291,8 +294,8 @@ Captain Tatler:
 <$0D>
 //\nぐずぐずしてはおれん、急ぐぞ！\n暗くなるまでには着きたい。
 \n
-We can't dawdle if we want to reach the\n
-colony before dark.
+We can't dawdle if we want to reach\n
+the colony before dark.
 <$00>
 
 // Pos: 00002DF8
@@ -402,7 +405,8 @@ April:
 <$0D>
 //\nヌーン、コロニーまでは遠いの？
 \n
-Noon, how far are we from the colony?
+Noon, how far are we from the\n
+colony?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -456,16 +460,16 @@ Noon:
 <$0D>
 //\nこの先には…ママの待つ立派な屋敷がある。
 \n
-Beyond this is Mummy's lovely cottage.\n
-She's expecting us!
+Beyond this is Mummy's lovely\n
+cottage. She's expecting us!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nそこに行けばママに会えるし、おいしい\nパンケーキにもありつけるんだ。
 \n
-Once you meet Mummy, you'll get to try\n
-'er delicious pancakes!
+Once you meet Mummy, you'll get to\n
+try 'er delicious pancakes!
 <$00>
 
 // Pos: 00002FDC
@@ -487,15 +491,16 @@ April:
 <$0D>
 //\nあんたのママはとっくに死んだのよ、\n刑務所の中で。
 \n
-Your mom died in prison a long time ago.
+Your mom died in prison a long time\n
+ago.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私のママも死んだし、ライカのママもよ、\nみんな死んだのよ。
 \n
-My mom and Laika's mom are gone too.\n
-They're all dead, silly!
+My mom and Laika's mom are gone\n
+too. They're all dead, silly!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -517,18 +522,18 @@ Captain Tatler:
 <$0D>
 //\nでもクロエちゃんは生きてるぞ。\n名前を呼んだら、ハーイって答えるんだぞ。
 \n
-Oh, but my Chloe's still alive! When I call\n
-her up, she goes, "Hiii!"
+Oh, but my Chloe's still alive! When I\n
+call her up, she goes, "Hiii!"
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n私の後ろを着いてきて、３回振り返ったら\n笑ってるんだぞ。
 \n
-She'll sneak up behind me, and if I look\n
-back three times and don't catch her,
+She'll sneak up behind me, and if I\n
+look back three times and don't catch
 <$0C>
-she giggles.
+her, she giggles.
 <$00>
 
 // Pos: 000030C0

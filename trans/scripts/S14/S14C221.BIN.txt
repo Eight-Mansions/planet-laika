@@ -47,8 +47,8 @@ stone.
 <$0D>
 //\n光る石だろ、それはね、火星人の心なんだよ。\n心は心でも、いい方の心さ。
 \n
-The glowing stones contain the mind of\n
-the Martians. Their good will had
+The glowing stones contain the mind\n
+of the Martians. Their good will had
 <$0C>
 hardened like rocks.
 <$0C><$0B>
@@ -82,7 +82,9 @@ SHORTLY.\n
 
 <$0E><$1E>
 //消灯時間まであとわずかです。
-LIGHTS-OUT TIME WILL COME SHORTLY.
+LIGHTS-OUT TIME WILL COME
+<$0C>
+SHORTLY.
 <$0E><$3C><$17><$00>
 
 // Pos: 00003544

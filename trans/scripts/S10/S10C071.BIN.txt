@@ -66,8 +66,10 @@ Yolanda:
 <$0D>
 //\nタニア… 建う、この声はタニアじゃない、\n亡霊よ！ 亡霊のしわざよ！
 \n
-Tanya...? No, that's not Tanya's voice.\n
-That's a ghost! A SICK, FUCKING GHOST!
+Tanya...? No, that's not Tanya's\n
+voice. That's a ghost! A SICK,
+<$0C>
+FUCKING GHOST!
 <$00>
 
 // Pos: 0000271C
@@ -251,8 +253,8 @@ No, stop! It wasn't me! IT WASN'T ME!
 <$0D>
 //\n君はセルゲイに濡れ衣を着せたんだ、\nそうだろ、アーネスト。
 \n
-You framed Sergei, Ernest! You know\n
-you did!
+You framed Sergei, Ernest! You\n
+know you did!
 <$00>
 
 // Pos: 00002964
@@ -308,8 +310,8 @@ Spacer:
 <$0D>
 //\n仕立て上げたんじゃない、\nやつには殺意があったんだ。私には分かる。
 \n
-I didn't have to fabricate that. He had a\n
-murderous impulse well before I
+I didn't have to fabricate that. He had\n
+a murderous impulse well before I
 <$0C>
 showed up!
 <$00>
@@ -335,20 +337,20 @@ Galil:
 <$0D>
 //\n彼はたんに悪ふざけのつもりだった…
 \n
-You see, at the time of the fire, Sergei\n
-already had a different scheme
+You see, at the time of the fire,\n
+Sergei already had a different
 <$0C>
-underway.
+scheme underway.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n老人の家に忍び込んで手を下したのは\n彼の仲間だ、そうじゃないのかね。
 \n
-He was in the middle of breaking into an\n
-old man's house. His friend kept watch
+He was in the middle of breaking into\n
+an old man's house. His friend kept
 <$0C>
-outide.
+watch outide.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -380,8 +382,8 @@ Spacer:
 <$0D>
 //\nあああ、そうに建いない！\n私には確信があるんだ！
 \n
-Augh! I'm right! I know I am! I HAVE TO BE\n
-RIGHT!
+Augh! I'm right! I know I am! I HAVE TO\n
+BE RIGHT!
 <$00>
 
 // Pos: 00002ADD
@@ -485,16 +487,16 @@ Yolanda:
 <$0D>
 //\nアタシが何かしたっていうの？ 知らないわよ、\nそんなはずないじゃない。
 \n
-Why are you asking me? Hell if I know, I\n
-had nothing to do with him.
+Why are you asking me? Hell if I\n
+know, I had nothing to do with him.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nお酒よ、お酒が彼を蝕んだのよ。
 \n
-I only knew about the shit alcohol that\n
-rotted his brain.
+I only knew about the shit alcohol\n
+that rotted his brain.
 <$00>
 
 // Pos: 00002C35
@@ -509,9 +511,9 @@ rotted his brain.
 //\nウラジミールは酒好きだ。\nそれをいいことに、\nやつに質の悪い酒を飲ませたのは君だ。
 \n
 Yes, Vladimir did love his liquor. Still,\n
-you're the one who served him tainted
+you're the one who served him
 <$0C>
-liquor.
+tainted liquor.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -537,8 +539,8 @@ Yolanda:
 <$0D>
 //\n人開きの悪いこと言わないでよ、
 \n
-That guy didn't have a decent shred to\n
-his name.
+That guy didn't have a decent shred\n
+to his name.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -595,7 +597,9 @@ Yolanda:
 <$0D>
 //\n本当はウラジミールが先に死ぬはずだった。\nそうよ、なのに… あああ、アタシの計画が…
 \n
-The plan was for...Vladimir to die first!\n
-B-but then, Tanya went and...AUGH!
+The plan was for...Vladimir to die\n
+first! B-but then, Tanya went
+<$0C>
+and...AUGH!
 <$00>
 

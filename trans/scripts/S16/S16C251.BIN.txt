@@ -33,16 +33,16 @@ Marrakech:
 <$0D>
 //\n同じこと考えてるのよね、\nそうよね、ヨランダ。
 \n
-Great minds think alike, so surely you\n
-agree. Right Yolanda?
+Great minds think alike, so surely\n
+you agree. Right Yolanda?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nあら、そういうんじゃないの、\nあなたは…ヨランダ。
 \n
-Oh? I'm not wrong, am I? Certainly not,\n
-because you're...Yolanda.
+Oh? I'm not wrong, am I? Certainly\n
+not, because you're...Yolanda.
 <$1E>
 //行
 行
@@ -60,10 +60,10 @@ Marrakech:
 <$0D>
 //\nお顔がなにより、見かけの人よ。\nアタシもあなたも、そうでしょ、ヨランダ。
 \n
-It doesn't matter who, Yolanda: faces\n
-are the centerpiece of one's outward
+It doesn't matter who, Yolanda:\n
+faces are the centerpiece of one's
 <$0C>
-appearance.
+outward appearance.
 <$1E>
 //中
 中
@@ -88,8 +88,10 @@ Marrakech:
 <$0D>
 //\nでもいつもと建う惑じよ、\nどこがとはいえないけど。
 \n
-Dear, I'm always so confused. I doubt\n
-understanding will help anyways.
+Dear, I'm always so confused. I\n
+doubt understanding will help
+<$0C>
+anyways.
 <$1E>
 //中
 中
@@ -123,8 +125,10 @@ Yolanda:
 <$0D>
 //\nそうよ、ただの夢よ。\nアタシがいつも見る夢じゃないけどね。
 \n
-Yes... While this isn't the kind of dream I\n
-usually have, it's still only a dream.
+Yes... While this isn't the kind of\n
+dream I usually have, it's still only a
+<$0C>
+dream.
 <$00>
 
 // Pos: 00000C64
@@ -139,8 +143,8 @@ Ernest:
 <$0D>
 //\n夢見るオトメかよ、へん、\nもう夢なんかあきあきだぜ。
 \n
-The woman's dreaming. She's gotta be\n
-getting sick of it by now.
+The woman's dreaming. She's gotta\n
+be getting sick of it by now.
 <$00>
 
 // Pos: 00000C8D
@@ -174,8 +178,8 @@ Marrakech:
 <$0D>
 //\nなかなか眠れないのよ、ぜんぜんダメ！\nこれじゃ戻れないわ！
 \n
-I can't rest like this! Not at all! I can't ho\n
-home yet!
+I can't rest like this! Not at all! I can't\n
+ho home yet!
 <$1E>
 //中
 中
@@ -193,7 +197,8 @@ Marrakech:
 <$0D>
 //\nねぇ、ここから出して、連れ出してよ。
 \n
-Dear, get out of here. Come on, let's go.
+Dear, get out of here. Come on, let's\n
+go.
 <$1E>
 //中
 中

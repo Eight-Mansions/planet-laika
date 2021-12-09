@@ -110,8 +110,8 @@ Tommy:
 <$0D>
 //\n穴ボコでも開いてりゃな、\nアイスレイクに行けるのにな。
 \n
-If only we could squeeze through this\n
-thing and get to Ice Lake.
+If only we could squeeze through\n
+this thing and get to Ice Lake.
 <$1E>
 //家
 家
@@ -190,7 +190,9 @@ Rummy:
 //\nリモート操作だな、ゲートは\n緊急事態レベル３のロックがかかってるな。
 \n
 This is remote operated. The gate's\n
-under a Level 3 emergency lock, a-ha.
+under a Level 3 emergency lock,
+<$0C>
+a-ha.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -261,7 +263,8 @@ Chloe:
 <$0D>
 //\n見えないの。\n彼女のことは見えてこないのよ。
 \n
-I can't see her. I can't see that woman.
+I can't see her. I can't see that\n
+woman.
 <$00>
 
 // Pos: 00003CED
@@ -284,18 +287,18 @@ Phoenix:
 <$0D>
 //\n銀のカプセルはエイプリルを記憶していた。\n土に埋まっていたのに。どういうことなんだ？
 \n
-The silver capsule shared a memory of\n
-April, even though it was buried in the
+The silver capsule shared a memory\n
+of April, even though it was buried in
 <$0C>
-ground. Why?
+the ground. Why?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nアガタがウソを付いているのか…\n物の記憶だなんて。
 \n
-Was Agatha lying when she said items\n
-carried memories of people?
+Was Agatha lying when she said\n
+items carried memories of people?
 <$00>
 
 // Pos: 00003D84
@@ -318,10 +321,10 @@ Chloe:
 <$0D>
 //\nアガタについては…\nそうね、彼女はこの星の意志に\n触れてから人が変わったのよ。
 \n
-As for Agatha... Well, she has changed\n
-much since being touched by the will of
+As for Agatha... Well, she has\n
+changed much since being touched
 <$0C>
-the planet.
+by the will of the planet.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -407,8 +410,8 @@ Chloe:
 <$0D>
 //\n双子なのね、そうね、双子なのよ。\nきっとそうよ、あなたたちはそっくりだもん。
 \n
-...a twin, that's it. His twin. That must be\n
-what you are to him.
+...a twin, that's it. His twin. That must\n
+be what you are to him.
 <$00>
 
 // Pos: 00003F05
@@ -440,7 +443,9 @@ Chloe:
 //\nフェニックスじゃないのね…ニセモノなのね。\nあなたとは気が合わないわ。
 \n
 You are not Phoenix. You are an\n
-imposter. We are not on the same level.
+imposter. We are not on the same
+<$0C>
+level.
 <$00>
 
 // Pos: 00003F54
@@ -500,8 +505,8 @@ Ernest:
 <$0D>
 //\nおお…可愛いじゃねぇか…\nミーシャみたいだぜ。
 \n
-Hmm, this one's cute. Almost reminds\n
-me of Masha.
+Hmm, this one's cute. Almost\n
+reminds me of Masha.
 <$00>
 
 // Pos: 00003FDF
@@ -516,7 +521,8 @@ Chloe:
 <$0D>
 //\nこんにちは。\nミーシャじゃないよ、クロエよ。
 \n
-Hello. My name is not Masha. It's Chloe.
+Hello. My name is not Masha. It's\n
+Chloe.
 <$00>
 
 // Pos: 00003FFE
@@ -538,8 +544,8 @@ Ernest:
 <$0D>
 //\nなぁ、クロエちゃんよ、\nそこにある顔は、そりゃ何だ？
 \n
-So, tell me, Chloe. What are those faces\n
-you have there?
+So, tell me, Chloe. What are those\n
+faces you have there?
 <$00>
 
 // Pos: 0000403C
@@ -603,8 +609,8 @@ Chloe:
 <$0D>
 //\n用済みは用済みよ。\nあなたもなりたいの？
 \n
-Their reason for living. Would you like\n
-one too?
+Their reason for living. Would you\n
+like one too?
 <$00>
 
 // Pos: 000040B2
@@ -745,8 +751,8 @@ Yolanda:
 <$0D>
 //\nここは何でこんなにメルヘンチックなの…\n誰かの幻覚なのね。
 \n
-It looks like a fairy tale here. Someone\n
-must be hallucinating.
+It looks like a fairy tale here.\n
+Someone must be hallucinating.
 <$00>
 
 // Pos: 000041E7
@@ -795,10 +801,10 @@ Chloe:
 <$0D>
 //\nせめてるの、私のせいなの？\nあなたはニセモノなのよ。
 \n
-Who wants to know? You're not trying\n
-to frame me for anything, are you, you
+Who wants to know? You're not\n
+trying to frame me for anything, are
 <$0C>
-imposter?
+you, you imposter?
 <$00>
 
 // Pos: 0000426E

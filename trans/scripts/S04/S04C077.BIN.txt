@@ -21,7 +21,8 @@ Gold:
 <$0D>
 //\nレッドのやつ、\n朝っぱらからどこか行きやがったぜ。
 \n
-Red ran off somewhere this morning.
+Red ran off somewhere this\n
+morning.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -67,8 +68,8 @@ Gold:
 <$0D>
 //\nガキの頃に一緒に住んでたおじさんで、\nそいつに妙な可愛がられ方したんだそうだ
 \n
-The guy's real, though. Lived with Red\n
-when he was a kid. They had some
+The guy's real, though. Lived with\n
+Red when he was a kid. They had some
 <$0C>
 "thing" going on.
 <$0C><$0B>
@@ -87,8 +88,8 @@ Gold:
 <$0D>
 //\nクロウのやつは人の夢の中がのぞけるんだ。
 \n
-I should mention: Crow has the ability\n
-to peer into peoples' dreams.
+I should mention: Crow has the\n
+ability to peer into people's dreams.
 <$1E>
 //声
 声
@@ -110,7 +111,8 @@ Gold:
 <$0D>
 //\nそうかい、お前もやけに早耳だな。
 \n
-Really, now? Guess you're pretty keen.
+Really, now? Guess you're pretty\n
+keen.
 <$1E>
 //声
 声
@@ -151,8 +153,10 @@ Gold:
 <$0D>
 //\n何だ、お前、コスマスのことお気に入りか？\nやばいぜ、レッドのやつに見つかると。
 \n
-Why are you so invested in Cosmas? If\n
-Red catches onto you, you're done for.
+Why are you so invested in Cosmas?\n
+If Red catches onto you, you're done
+<$0C>
+for.
 <$00><$12><$0B>
 //ゴールド：
 Gold:
@@ -196,8 +200,8 @@ Gold:
 <$0D>
 //\nレッドのやつがさがしてるってよ。\n気に入られたのか？
 \n
-You're the one Red's looking for, right?\n
-Must've caught his fancy.
+You're the one Red's looking for,\n
+right? Must've caught his fancy.
 <$1E>
 //家
 家
@@ -215,10 +219,10 @@ Gold:
 <$0D>
 //\nただこれ以上、\n騒ぎを起こしてほしくねぇんだ、分かるか。
 \n
-I don't want the noise seeping into my\n
-bar, got it? That's why they say, "Get a
+I don't want the noise seeping into\n
+my bar, got it? That's why they say,
 <$0C>
-room".
+"Get a room".
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -240,18 +244,20 @@ Gold:
 <$0D>
 //\nどっかそのへんに身を隠すところ、ないか？\nあるだろ、ちょっと隠れればいいんだ。
 \n
-You don't need to lay low, do you? There\n
-are places to hide, if you need 'em.
+You don't need to lay low, do you?\n
+There are places to hide, if you need
+<$0C>
+'em.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\n部屋の中とかじゃねぇぞ、\nちょっと隠れるんだ。
 \n
-Even if they aren't permanent, you can\n
-tuck away in some of the different
+Even if they aren't permanent, you\n
+can tuck away in some of the
 <$0C>
-flats.
+different flats.
 <$00>
 
 // Pos: 00002E0F
@@ -289,9 +295,9 @@ Gold:
 //\nおう… コスマスはどうした…\nレッドのやつが戻るとうるせぇぞ。
 \n
 The heck happened to Cosmas?\n
-There'll be a shitstorm once Red comes
+There'll be a shitstorm once Red
 <$0C>
-back and sees him.
+comes back and sees him.
 <$1E>
 //声
 声
@@ -366,16 +372,18 @@ Gold:
 <$0D>
 //\nおう、お前、レッドに何したんだ？\n変なこと口走りながら出て行きやがったぜ。
 \n
-What did you do to Red? He just walked\n
-out mumbling something weird.
+What did you do to Red? He just\n
+walked out mumbling something
+<$0C>
+weird.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nありゃ戻らねぇな、もう無理だ。\n壊れちまってる。
 \n
-There's no saving him now. That guy's\n
-capital F-A-R-gone.
+There's no saving him now. That\n
+guy's capital F-A-R-gone.
 <$1E>
 //声
 声
@@ -446,8 +454,8 @@ Spacer:
 <$0D>
 //\n今度はひときわ強いぞ…\nああ、気が変になりそうだ。
 \n
-It's especially strong this time. Ugh, I\n
-feel like I'm going crazy.
+It's especially strong this time. Ugh,\n
+I feel like I'm going crazy.
 <$00>
 
 // Pos: 00002FF6
@@ -463,8 +471,10 @@ feel like I'm going crazy.
 <$0C>
 //この歳になって、ヨセミテ、悪夢にうなされた。\nなんと、悪夢は\n全ての人に通じていることを発見。
 At this age I, Yosemite, had a\n
-nightmare. I learned that nightmares\n
-are common for everyone.
+nightmare. I learned that\n
+nightmares are common for
+<$0C>
+everyone.
 <$0C>
 //いろんな人間のおこないが\n手に取るように見えた。
 It seems I'm picking up all sorts of\n
@@ -485,9 +495,9 @@ Wish I may, and wish I might, will a\n
 friend appear before my sight?
 <$0C>
 //苦しみから逃れるだけではいけない。\n私はまた学んだ。
-Try as I might, it is not so easy to escape\n
-one's suffering. That, I have learned\n
-too.
+Try as I might, it is not so easy to\n
+escape one's suffering. That, I have\n
+learned too.
 <$00>
 
 // Pos: 00003109
@@ -502,7 +512,7 @@ Spacer:
 <$0D>
 //\nダークマンは実体を持たないのか？\nそれとも…
 \n
-Does Dark Man not have a true form??\n
-Then, that only means...
+Does Dark Man not have a true\n
+form?? Then, that only means...
 <$00>
 

@@ -17,10 +17,10 @@ Noon:
 <$0D>
 //\nはあ、はあ…俺としたことが…くそっ！\nいやな思い出がよみがえってきて…
 \n
-Haah, haah. Was I just... Aww, bloody\n
-hell. Sorry, I remembered something
+Haah, haah. Was I just... Aww,\n
+bloody hell. Sorry, I remembered
 <$0C>
-'eavy.
+something 'eavy.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -74,9 +74,9 @@ April:
 //\nねえ、ライカは平気だったの、砂嵐や紫の霧…\n心に良くない影響を与えるって…
 \n
 How are you feeling, Laika? The\n
-sandstorms and the purple fog must be
+sandstorms and the purple fog must
 <$0C>
-affecting you.
+be affecting you.
 <$00>
 
 // Pos: 00001563
@@ -109,8 +109,10 @@ April:
 <$0D>
 //\nそのときしきりに女の人の名前をつぶやいて…\nクロエ、クロエって。
 \n
-When the captain and I got here, he was\n
-muttering, "Chloe, Chloe, Chloe..."
+When the captain and I got here, he\n
+was muttering, "Chloe, Chloe,
+<$0C>
+Chloe..."
 <$0C><$0B>
 //エイプリル：
 April:
@@ -141,18 +143,20 @@ April:
 <$0D>
 //\n船長が士官学校時代に知り合った少女…\n自分の妹のように可愛がっていたのに、\n事故で死んじゃったんだって。
 \n
-They met back in the military academy.\n
-Tatler only loved her like a sister, but...
+They met back in the military\n
+academy. Tatler only loved her like a
+<$0C>
+sister, but...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nヌーンが教えてくれたんだけど、\n船長はその子の写真を今でも大切に\n持ち歩いてるそうよ。
 \n
-...she died in an accident. Apparently,\n
-the captain keeps her photo with him at
+...she died in an accident.\n
+Apparently, the captain keeps her
 <$0C>
-all times.
+photo with him at all times.
 <$00>
 
 // Pos: 000016B0
@@ -183,8 +187,8 @@ April:
 <$0D>
 //\nねえ…何か変よ…\n扉が開けっ放しになってる。
 \n
-Uhm, this doesn't look right. The door's\n
-wide open.
+Uhm, this doesn't look right. The\n
+door's wide open.
 <$00>
 
 // Pos: 00001702
@@ -199,10 +203,10 @@ April:
 <$0D>
 //\n船長たち、出かけたのかなあ…\n戻ってくるとき、\n誰ともすれ建わなかったよね…
 \n
-I wonder if the captain took Noon out.\n
-If so, why didn't we see them on the
+I wonder if the captain took Noon\n
+out. If so, why didn't we see them on
 <$0C>
-way back?
+the way back?
 <$00>
 
 // Pos: 00001739
@@ -221,9 +225,9 @@ April:
 <$0D>
 //\n表には誰もいないよ。\n避難小屋の中はどう？\n何か手がかり、なかった？
 \n
-Nothing around the perimeter. Should\n
-we look inside the safe house? There
+Nothing around the perimeter.\n
+Should we look inside the safe
 <$0C>
-could be clues.
+house? There could be clues.
 <$00>
 

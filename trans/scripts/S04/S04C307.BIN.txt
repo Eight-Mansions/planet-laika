@@ -90,7 +90,7 @@ you look right, I'm on the right.
 <$10><$11>
 //的こだそこだ、そうだ真っ直ぐこっちだ。\nまっすぐ、まっつぐ、まっしゅぐだ…来い。
 的Straight! Yeah, straight this way!\n
-Just come along straight.\n
+Come along straight.\n
 Straight...straight...
 <$0E><$1E><$17><$00>
 
@@ -123,9 +123,9 @@ Red:
 //\nコスマスに余計な入れ知惠しやがったのは、\nお前だな、可愛い子犬ちゃんよう！
 \n
 Oh, I get it. You're the one filling\n
-Cosmas' head with ideas, you darling
+Cosmas's head with ideas, you
 <$0C>
-puppy, you!
+darling puppy, you!
 <$00>
 
 // Pos: 00003603
@@ -188,9 +188,9 @@ Spacer:
 //\n子供のころにひどい目にあって、\nそのキズをいやさないままにコスマスを\n同じ目にあわせている。
 \n
 You were abused as a child, and now\n
-you deflect that pain by taking it out on
+you deflect that pain by taking it out
 <$0C>
-Cosmas.
+on Cosmas.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -215,7 +215,8 @@ Red:
 <$0D>
 //\nうるせぇ！ お前に何が分かる、
 \n
-Grr, shut up! You don't know anything!
+Grr, shut up! You don't know\n
+anything!
 <$0C><$0B>
 //レッド：
 Red:
@@ -254,8 +255,10 @@ Spacer:
 <$0D>
 //\nそういうやり方なんだろう。\nあんたの知らない間に心の闇は広がり、
 \n
-How silly of me. But you're even sillier\n
-for knowingly feeding that darkness.
+How silly of me. But you're even\n
+sillier for knowingly feeding that
+<$0C>
+darkness.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -321,8 +324,8 @@ Red:
 <$0D>
 //\nぼやぼやしてると飲まれるんだ、\n泡のおじさんが待ってて…
 \n
-You'll choke if you're not careful. Uncle\n
-Bubbles is waiting...
+You'll choke if you're not careful.\n
+Uncle Bubbles is waiting...
 <$0C><$0B>
 //レッド：
 Red:
@@ -352,10 +355,10 @@ Red:
 <$0D>
 //\nどこへやった、おい！お前に開いてるんだ！\n泡でできたウデだ、真っ白なんだ！
 \n
-Where did you go? I'm all clean for you,\n
-Uncle Bubbles! I'm covered in white,
+Where did you go? I'm all clean for\n
+you, Uncle Bubbles! I'm covered in
 <$0C>
-frothing bubbles!
+white, frothing bubbles!
 <$00>
 
 // Pos: 000038D6
@@ -420,9 +423,9 @@ Red:
 //\n泡はおじさんのものだからだ！\n馬鹿野郎！ あああ、泡、俺のウデがない…
 \n
 Because, idiot! Those bubbles belong\n
-to my uncle! Oh, no, not the bubbles! I'll
+to my uncle! Oh, no, not the bubbles!
 <$0C>
-be unclean!
+I'll be unclean!
 <$0C><$0B>
 //レッド：
 Red:
@@ -489,8 +492,8 @@ Gold:
 <$0D>
 //\nお前、やつに気に入られたらどうする？
 \n
-What are you going to do, now that he's\n
-set his sights on you?
+What are you going to do, now that\n
+he's set his sights on you?
 <$1E>
 //家
 家
@@ -520,8 +523,10 @@ Gold:
 <$0D>
 //\nお前、コスマスになにしたんだ？\nレッドがあんなになって\nお前をさがしまわるなんてよ。
 \n
-What did you do to Cosmas? Whatever\n
-you did, Red wants your head.
+What did you do to Cosmas?\n
+Whatever you did, Red wants your
+<$0C>
+head.
 <$1E>
 //声
 声
@@ -555,8 +560,8 @@ Red:
 <$0D>
 //\nうるせぇ！\nぼやぼやしてると飲み込まれるんだ、
 \n
-Be quiet! If you're too loud, he'll eat us\n
-up!
+Be quiet! If you're too loud, he'll eat\n
+us up!
 <$0C><$0B>
 //レッド：
 Red:
@@ -586,8 +591,10 @@ Red:
 <$0D>
 //\nお前に開いてるんだ！\n泡でできたウデだ、真っ白なんだ！
 \n
-I'm all clean for you, Uncle Bubbles! I'm\n
-covered in white, frothing bubbles!
+I'm all clean for you, Uncle Bubbles!\n
+I'm covered in white, frothing
+<$0C>
+bubbles!
 <$00>
 
 // Pos: 00003B8B
@@ -659,7 +666,8 @@ Red:
 <$0D>
 //\nあああ、泡、俺のウデがない…
 \n
-Oh, no, not the bubbles! I'll be unclean!
+Oh, no, not the bubbles! I'll be\n
+unclean!
 <$0C><$0B>
 //レッド：
 Red:
@@ -740,7 +748,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS KNEW.
+CHARLIE KNEW. CHARLIE ALWAYS\n
+KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

@@ -66,8 +66,10 @@ Yolanda:
 <$0D>
 //\nどうでもいいけど、\nそのシーシーってどういう意味？
 \n
-That's not important. So tell me, why do\n
-you say, "Whoosh, whoosh," so much?
+That's not important. So tell me, why\n
+do you say, "Whoosh, whoosh," so
+<$0C>
+much?
 <$00>
 
 // Pos: 00003732
@@ -82,8 +84,8 @@ Oxygen Miner 3：
 <$0D>
 //\nそんなこと、言ってない、シー。
 \n
-"WhOOsh, whOOsh?" I nEvEr sAId thAt,\n
-whOOsh.
+"WhOOsh, whOOsh?" I nEvEr sAId\n
+thAt, whOOsh.
 <$00>
 
 // Pos: 00003752
@@ -114,7 +116,8 @@ Oxygen Miner 3：
 <$0D>
 //\nシー、シーシーシー、シー…
 \n
-WhOOsh, whOOsh, whOOsh, whOOsh...
+WhOOsh, whOOsh, whOOsh,\n
+whOOsh...
 <$00>
 
 // Pos: 00003795
@@ -267,7 +270,8 @@ Yolanda:
 <$0D>
 //\nなめられたもんね、あたしも。
 \n
-I'm getting a little carried away here.
+I'm getting a little carried away\n
+here.
 <$00>
 
 // Pos: 000038C6
@@ -282,8 +286,8 @@ Oxygen Miner 3：
 <$0D>
 //\n何だ、シーシー、人の家に勝手に…\nそっとしておいてくれ。
 \n
-WhOOsh. WhAt thE hEck, lAdy? YOU cAn't\n
-jUst wAltz IntO pEOplE's hOUsEs!
+WhOOsh. WhAt thE hEck, lAdy? YOU\n
+cAn't jUst wAltz IntO pEOplE's hOUsEs!
 <$00>
 
 // Pos: 000038F6
@@ -360,8 +364,10 @@ Yolanda:
 <$0D>
 //\nどうでもいいけど、\nそのシーシーってどういう意味？
 \n
-That's not important. So tell me, why do\n
-you say, "Whoosh, whoosh," so much?
+That's not important. So tell me, why\n
+do you say, "Whoosh, whoosh," so
+<$0C>
+much?
 <$00>
 
 // Pos: 0000399F
@@ -376,8 +382,8 @@ Oxygen Miner 3：
 <$0D>
 //\nそんなこと、言ってない、シー。
 \n
-"WhOOsh, whOOsh?" I nEvEr sAId thAt,\n
-whOOsh.
+"WhOOsh, whOOsh?" I nEvEr sAId\n
+thAt, whOOsh.
 <$00>
 
 // Pos: 000039BF
@@ -408,7 +414,8 @@ Oxygen Miner 3：
 <$0D>
 //\nシー、シーシーシー、シー…
 \n
-WhOOsh, whOOsh, whOOsh, whOOsh...
+WhOOsh, whOOsh, whOOsh,\n
+whOOsh...
 <$00>
 
 // Pos: 00003A02
@@ -552,8 +559,8 @@ Yolanda:
 <$0D>
 //\nだって、取って食うわけじゃないのに…
 \n
-You said it. The, "We come in peace," bit\n
-isn't working so hot.
+You said it. The, "We come in peace,"\n
+bit isn't working so hot.
 <$00>
 
 // Pos: 00003B27
@@ -584,8 +591,10 @@ Yolanda:
 <$0D>
 //\nいいわよそれでも。\n迷わないでね。 町長屋敷よ。
 \n
-That's a good plan, but let's not mosey.\n
-It's the elder's cottage we want.
+That's a good plan, but let's not\n
+mosey. It's the elder's cottage we
+<$0C>
+want.
 <$00>
 
 // Pos: 00003B7B
@@ -616,8 +625,10 @@ Yolanda:
 <$0D>
 //\nそうね。ノックしてみる。\nレディな雰囲気でね。
 \n
-Oh, that's a good idea! That would be the\n
-most lady-like way to go about this!
+Oh, that's a good idea! That would be\n
+the most lady-like way to go about
+<$0C>
+this!
 <$00>
 
 // Pos: 00003BC0
@@ -632,8 +643,8 @@ Yolanda:
 <$0D>
 //\nねぇ、ホントに分からないの？\nアタシのこと…分からないのね、そうなのね。
 \n
-You don't get what's going on, do you?\n
-You don't know what I'm about.
+You don't get what's going on, do\n
+you? You don't know what I'm about.
 <$00>
 
 // Pos: 00003BF0
@@ -679,8 +690,8 @@ Oxygen Miner 4：
 <$0D>
 //\nシーシー…すぐに出ていくのか？
 \n
-WHooSH, WHooSH... Do You PRoMiSe To\n
-LeaVe RiGHT aFTeR?
+WHooSH, WHooSH... Do You PRoMiSe\n
+To LeaVe RiGHT aFTeR?
 <$00>
 
 // Pos: 00003C5B
@@ -936,8 +947,8 @@ Oxygen Miner 3：
 <$0D>
 //\n来てるが、勝手に入らないでくれ。
 \n
-OnE dId, bUt thAt dOEsn't mEAn yOU cAn\n
-wAltz OvEr hErE!
+OnE dId, bUt thAt dOEsn't mEAn yOU\n
+cAn wAltz OvEr hErE!
 <$00>
 
 // Pos: 00003E56
@@ -1028,8 +1039,8 @@ April:
 <$0D>
 //\n気が付いていないみたいね。\n無線テレビはどう？
 \n
-If no one's using the monitor, why not\n
-give it a look?
+If no one's using the monitor, why\n
+not give it a look?
 <$00><$12><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：
@@ -1088,10 +1099,10 @@ Yolanda:
 <$0D>
 //\nあーあーよ。新しい事実がどうのこうの…\nまたあの名前で呼んでたわ…アタシのこと…
 \n
-Ayyye, guess I'm a "new reality" now!\n
-Because NO ONE cares that I might have
+Ayyye, guess I'm a "new reality"\n
+now! Because NO ONE cares that I
 <$0C>
-a name already!
+might have a name already!
 <$00>
 
 // Pos: 00003FCD
@@ -1121,8 +1132,8 @@ Yolanda:
 <$0D>
 //\nどう？うまくいきそう？\n町長さんのこと、報告してみれば。
 \n
-How's it going over here? We'd better\n
-report this to the elder.
+How's it going over here? We'd\n
+better report this to the elder.
 <$00>
 
 // Pos: 00004010
@@ -1153,7 +1164,7 @@ April:
 <$0D>
 //\nああ、ダメ、もう少しでつながるのに。
 \n
-Drats. Right when I thought we had an\n
-in.
+Drats. Right when I thought we had\n
+an in.
 <$00>
 

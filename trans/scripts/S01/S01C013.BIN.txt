@@ -33,7 +33,7 @@ April:
 <$0D>
 //\nあれが…顔…
 \n
-It...really does looks like a face.
+It...really does look like a face.
 <$00>
 
 // Pos: 00002831
@@ -48,8 +48,8 @@ Noon:
 <$0D>
 //\nどれどれ…\n人類あこがれのお顔様ってワケか…
 \n
-Aye, a face only a human mother could\n
-love!
+Aye, a face only a human mother\n
+could love!
 <$00>
 
 // Pos: 00002853
@@ -64,8 +64,10 @@ April:
 <$0D>
 //\n火星人が残したのよ、\n顔を忘れないように。
 \n
-What if the Martians left this for us, so\n
-we wouldn't forget the faces we had?
+What if the Martians left this for us,\n
+so we wouldn't forget the faces we
+<$0C>
+had?
 <$00>
 
 // Pos: 00002878
@@ -80,8 +82,8 @@ Noon:
 <$0D>
 //\nへん、おかげで俺たちはこのざまだ。
 \n
-OUR faces, remember. It's their fault\n
-we're in this mess!
+OUR faces, remember. It's their\n
+fault we're in this mess!
 <$00>
 
 // Pos: 00002892
@@ -128,8 +130,8 @@ Captain Tatler:
 <$0D>
 //\nヌーン、もういちど着陸目標を確認してくれ！\nたのむ！
 \n
-Noon, you mind checking that landing\n
-point one more time?
+Noon, you mind checking that\n
+landing point one more time?
 <$00>
 
 // Pos: 000028FF

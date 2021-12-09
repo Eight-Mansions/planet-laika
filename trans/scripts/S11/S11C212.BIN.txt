@@ -47,15 +47,16 @@ April:
 <$0D>
 //\nあなたたちとケンカするために\n火星に来たんじゃないの。
 \n
-We didn't come to Mars to start a fight.
+We didn't come to Mars to start a\n
+fight.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
 \n
-We heard troubling reports about the\n
-environment, and came only to
+We heard troubling reports about\n
+the environment, and came only to
 <$0C>
 inspect.
 <$0C><$0B>
@@ -82,18 +83,20 @@ Gold:
 <$0D>
 //\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
 \n
-Galil? The guy's a legend after all that "I\n
-am the light" good boy bullshit years
+Galil? The guy's a legend after all that\n
+"I am the light" good boy bullshit
 <$0C>
-back.
+years back.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
 \n
-He sounds like any other weirdo to me.\n
-Is he really what you came here for?
+He sounds like any other weirdo to\n
+me. Is he really what you came here
+<$0C>
+for?
 <$00>
 
 // Pos: 00001E4C
@@ -109,7 +112,9 @@ Smokey:
 //\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
 \n
 Nah, she's here to drink! Here at SNOB\n
-PLANET, we keep it going all night long!
+PLANET, we keep it going all night
+<$0C>
+long!
 <$00>
 
 // Pos: 00001E89
@@ -277,8 +282,8 @@ April:
 <$0D>
 //\n仲間のふたりが行方不明なのよ。
 \n
-Sorry. It's just, two of our teammates\n
-are missing.
+Sorry. It's just, two of our\n
+teammates are missing.
 <$00>
 
 // Pos: 0000200C
@@ -293,8 +298,8 @@ Gold:
 <$0D>
 //\nここにはいねぇ。見りゃ分かるだろ。
 \n
-They're not here. Anyone with eyes can\n
-see that.
+They're not here. Anyone with eyes\n
+can see that.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -311,8 +316,10 @@ Gold:
 <$0D>
 //\nいい気がしねぇんだ。くそったれ！
 \n
-Bad shit happens to hunky-dory idiots\n
-like you. Hence the word, "snob".
+Bad shit happens to hunky-dory\n
+idiots like you. Hence the word,
+<$0C>
+"snob".
 <$00>
 
 // Pos: 00002071
@@ -327,7 +334,8 @@ April:
 <$0D>
 //\n私たちはあなたたちの言う\nおまわりじゃないのよ。
 \n
-But you're all wrong! We're not snobs!
+But you're all wrong! We're not\n
+snobs!
 <$00>
 
 // Pos: 00002094
@@ -342,8 +350,8 @@ Gold:
 <$0D>
 //\n似たようなもんだ。人さがしなら\nメディスンマンのやつらにでも開いてみな。
 \n
-Sure... Anyways, if you're looking for\n
-people, go ask the medicine men.
+Sure... Anyways, if you're looking\n
+for people, go ask the medicine men.
 <$00>
 
 // Pos: 000020C4
@@ -405,8 +413,8 @@ Gold:
 <$0D>
 //\nへん！ 生きてたんだ！？生きてても\n死んでるようなもんだぜ、あいつらは。
 \n
-Hmph, "alive" is not the word I'd use for\n
-that braindead bunch.
+Hmph, "alive" is not the word I'd use\n
+for that braindead bunch.
 <$00>
 
 // Pos: 0000214D
@@ -436,8 +444,8 @@ Gold:
 <$0D>
 //\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
 \n
-At the lodge, in front of the ventilation\n
-tower in the piazza.
+At the lodge, in front of the\n
+ventilation tower in the piazza.
 <$00>
 
 // Pos: 0000218B
@@ -452,8 +460,8 @@ April:
 <$0D>
 //\n換気塔の手前ね。ありがとう。
 \n
-In front of the ventilation tower? Got\n
-it. Thank you so much!
+In front of the ventilation tower?\n
+Got it. Thank you so much!
 <$0C><$0B>
 //エイプリル：
 April:

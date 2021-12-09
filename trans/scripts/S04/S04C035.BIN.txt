@@ -17,7 +17,8 @@ Red:
 <$0D>
 //\nお前か！\nおい、コスマスにちょっかい出したのは？
 \n
-Hey, you! What did you do with Cosmas?
+Hey, you! What did you do with\n
+Cosmas?
 <$00>
 
 // Pos: 00000FCA
@@ -50,8 +51,8 @@ Red:
 <$0D>
 //\n余計なことしやがったら、\n俺が許さねぇ。
 \n
-Grr, if you had anything to do with this,\n
-I'll end you right here!
+Grr, if you had anything to do with\n
+this, I'll end you right here!
 <$00>
 
 // Pos: 00001036

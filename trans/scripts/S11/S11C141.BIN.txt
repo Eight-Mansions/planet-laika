@@ -33,12 +33,13 @@ Mountain:
 <$0D>
 //\nいろんなことが関連づいてる。\nおい、ロックバースの奇跡を知ってるか？
 \n
-Everything is connected! Why, you've\n
-heard of rock birth, haven't you?
+Everything is connected! Why,\n
+you've heard of rock birth, haven't
+<$0C>
+you?
 <$1B>
 //。知っている\n知らない
-。Yes
-<$0C>
+。Yes\n
 No
 <$00><$17><$00>
 
@@ -54,8 +55,8 @@ Yang:
 <$0D>
 //\nロックバースだ、岩から世界が生まれるんだ。\nふん！預言なんてインチキだ。流刑者だぞ、
 \n
-"Rock birth" means the world was born\n
-from rocks, unlike what those
+"Rock birth" means the world was\n
+born from rocks, unlike what those
 <$0C>
 prophecies say.
 <$0C><$0B>
@@ -64,10 +65,10 @@ Yang:
 <$0D>
 //\nエレミヤとかいうやつはただの流刑者だ、\nしかも今は腐れミイラだ、ははっ！
 \n
-Spouting that bull is what got Jeremiah\n
-exiled. And now, his mummy is rotting
+Spouting that bull is what got\n
+Jeremiah exiled. And now, his
 <$0C>
-away.
+mummy is rotting away.
 <$00>
 
 // Pos: 00003569
@@ -82,8 +83,10 @@ Mountain:
 <$0D>
 //\nロックバースは火星の宿命だ。
 \n
-Rock birth is Mars' very destiny. That\n
-Galil idiot never had the right idea.
+Rock birth is Mars's very destiny.\n
+That Galil idiot never had the right
+<$0C>
+idea.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -173,8 +176,8 @@ Yang:
 <$0D>
 //\nマウンテンはな、どんなことでも\n関係に目が行くんだ。
 \n
-As Mountain said, we're all connected\n
-in crazy ways.
+As Mountain said, we're all\n
+connected in crazy ways.
 <$00>
 
 // Pos: 000036BD
@@ -209,18 +212,20 @@ Mountain:
 <$0D>
 //\n見ろ！ あそこに書いてあるAとMの後ろに\nピリオドはいらない、そう思ってるだろ。
 \n
-Look, I know we don't need the periods\n
-between the letters, but do you think I
+Look, I know we don't need the\n
+periods between the letters, but do
 <$0C>
-care?!
+you think I care?!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nこれでいいんだ。このアンプがエナジーを\n増やしてくれる、すばらしい体験だ。
 \n
-Once you see this baby amplify energy\n
-first-hand, you'll understand!
+Once you see this baby amplify\n
+energy first-hand, you'll
+<$0C>
+understand!
 <$00>
 
 // Pos: 00003789
@@ -289,8 +294,8 @@ Mountain:
 <$0D>
 //\n金星からの波動が全ての議準になった。\nあと少しで幅が決定される。
 \n
-Venusian waves have a standard, so all\n
-we have to do is determine range.
+Venusian waves have a standard, so\n
+all we have to do is determine range.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -305,8 +310,8 @@ Mountain:
 <$0D>
 //\nお前はどうだ？見落としてこなかったか
 \n
-Be honest. You overlooked it too, didn't\n
-you?
+Be honest. You overlooked it too,\n
+didn't you?
 <$1B>
 //,見落としてきた\n見落とさなかった
 ,Yes
@@ -356,18 +361,18 @@ Mountain:
 <$0D>
 //\n星の鋭行が少し変わったのも\nそのシグナルだと思う。
 \n
-It's possible the minute abnormalities\n
-in Mars's revolutionary cycle let out a
+It's possible the minute\n
+abnormalities in Mars's
 <$0C>
-signal.
+revolutionary cycle let out a signal.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\n彼らもチャネリングしたい、\n私にはそう思えるのだ。
 \n
-We think they're trying to channeling\n
-us in return.
+We think they're trying to\n
+channeling us in return.
 <$00>
 
 // Pos: 00003978
@@ -398,8 +403,8 @@ closely.
 <$0D>
 //\nただやっかいなことが起きた。
 \n
-Unfortunately, these revelations are\n
-not without hangups.
+Unfortunately, these revelations\n
+are not without hangups.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -458,8 +463,8 @@ Mountain:
 <$0D>
 //\nこいつと思念をかわしてみてくれ。\n言葉があふれ出てくるだろう…
 \n
-Cross your thoughts with it, and let its\n
-words flow into you...
+Cross your thoughts with it, and let\n
+its words flow into you...
 <$00>
 
 // Pos: 00003A87
@@ -499,7 +504,9 @@ Mountain:
 //\nどうだ？ 何か分かるか？\n見えてるんだろ、思念の眼だ。
 \n
 Well? Do you understand now? What\n
-you see is what we call "the mind's eye".
+you see is what we call "the mind's
+<$0C>
+eye".
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -553,7 +560,9 @@ Yang:
 //\n何とか言え！俺たちをなめてるのか、お前！\nさっき助けてやったろ。
 \n
 You better prove you're not mocking\n
-us after we helped you earlier. Tell us!
+us after we helped you earlier. Tell
+<$0C>
+us!
 <$00>
 
 // Pos: 00003B57
@@ -583,16 +592,16 @@ Mountain:
 <$0D>
 //\nこいつの頭の中にはいろいろ現れてるんだ。\n私たちと同じように。
 \n
-If he's anything like us, he's got a lot on\n
-his mind as is.
+If he's anything like us, he's got a lot\n
+on his mind as is.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nそうだろ、後でたっぷり開かせてもらう、\nお前の頭の良さを見せてもらう。
 \n
-We can make a good, long show and tell\n
-out of this later.
+We can make a good, long show and\n
+tell out of this later.
 <$00>
 
 // Pos: 00003BCB
@@ -608,7 +617,9 @@ Yang:
 //\nおい、お前、このサイコハウスの中にある\nヨセミテの日記、見えるか？ああん？
 \n
 Ugh, fine. Well, did you ever see\n
-Yosemites journal here in Psycho Lab?
+Yosemites journal here in Psycho
+<$0C>
+Lab?
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -660,8 +671,8 @@ Yang:
 <$0D>
 //\n日記が見えなきゃ、ただのボケだ、\nそうだろ、マウンテン！
 \n
-Aww, you'd have to be an idiot to not be\n
-able to see it!
+Aww, you'd have to be an idiot to not\n
+be able to see it!
 <$1E>
 //鋭
 鋭
@@ -721,8 +732,8 @@ Yang:
 <$0D>
 //\nもう放送なんかしてねぇ。映りっこねぇ！
 \n
-That thing doesn't broadcast or show\n
-anything anymore.
+That thing doesn't broadcast or\n
+show anything anymore.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -797,7 +808,9 @@ Yang:
 //\nこいつ！おい、お前、\nあの魔女に変な魔法でも\nかけられたんじゃねぇのか、ひゃ！
 \n
 A-are you serious?! Hey, kid. Did that\n
-witch cast any weird hexes on you? No?
+witch cast any weird hexes on you?
+<$0C>
+No?
 <$00>
 
 // Pos: 00003DD7
@@ -820,8 +833,8 @@ Mountain:
 <$0D>
 //\nふふ、今に分かる。\nこいつが本物かどうかな。
 \n
-We can test that right now. Let's see if\n
-this kid can really find the journal.
+We can test that right now. Let's see\n
+if this kid can really find the journal.
 <$1E>
 //鋭
 鋭
@@ -873,8 +886,8 @@ Commander October:
 <$0D>
 //\nいやあ大変だ、地球では火星がおかしなことに\nなったと大騒ぎなんだ。
 \n
-I think Earth finally got a taste of Mars'\n
-uproar. The Face went aglow!
+I think Earth finally got a taste of\n
+Mars's uproar. The Face went aglow!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -926,10 +939,10 @@ update.
 <$0D>
 //\nああ、ライカ君、私にも見えたよ。\n火星の顔の付近は、確かに妙な輝きに\n包まれている。
 \n
-Greetings, Laika. I saw it too now, the\n
-glow enveloping that human face on
+Greetings, Laika. I saw it too now,\n
+the glow enveloping that human
 <$0C>
-Mars.
+face on Mars.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -964,8 +977,10 @@ Commander October:
 <$0D>
 //\nそれが本当なら、\nイーブルマインドが今回の騒ぎに\n何か関係しているはずだ。
 \n
-If that is true, Evil Mind's disturbance\n
-must bear some relationship in all this.
+If that is true, Evil Mind's\n
+disturbance must bear some
+<$0C>
+relationship in all this.
 <$00>
 
 // Pos: 00004094
@@ -979,8 +994,8 @@ must bear some relationship in all this.
 <$0D>
 //\nところでクルーのメンバーは\nみんな無事かな。
 \n
-By the way, how is the rest of the crew?\n
-Is everyone safe and sound?
+By the way, how is the rest of the\n
+crew? Is everyone safe and sound?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:

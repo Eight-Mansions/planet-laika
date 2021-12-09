@@ -47,10 +47,10 @@ April:
 <$0D>
 //\n教えて欲しいの。この星には何があるの？\n黒い騎士とか蕃判とか…
 \n
-Can I ask you something? How are the\n
-Black Rider and Judgement affecting
+Can I ask you something? How are\n
+the Black Rider and Judgement
 <$0C>
-Mars?
+affecting Mars?
 <$00>
 
 // Pos: 00001DF1
@@ -130,7 +130,9 @@ Madam Agatha:
 //\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところよ。
 \n
 Take Brick Road down to Valles\n
-Memoriae, and look for the black wall.
+Memoriae, and look for the black
+<$0C>
+wall.
 <$00>
 
 // Pos: 00001ECB
@@ -161,16 +163,16 @@ Madam Agatha:
 <$0D>
 //\nこの星に来て、迷いこむとしたら\nあそこしかないの。
 \n
-When one is lost in the world, that is the\n
-only place for them to go.
+When one is lost in the world, that is\n
+the only place for them to go.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nさ、行って。\n気を付けてね。
 \n
-There is no time, so please. Be careful\n
-for me.
+There is no time, so please. Be\n
+careful for me.
 <$1E>
 //鋭
 鋭

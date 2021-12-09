@@ -96,8 +96,8 @@ Liever:
 <$0D>
 //\n神様、神様、次は右目、右目です。
 \n
-God wants the right eye now! The right\n
-eye!
+God wants the right eye now! The\n
+right eye!
 <$00>
 
 // Pos: 00002200
@@ -112,8 +112,8 @@ Liever:
 <$0D>
 //\nさあ、あんたの出番だよ。あんたが持ってる\nその赤い石を右目にはめるんだ
 \n
-Now, it's your turn. Put that red stone\n
-you have into the right eye!
+Now, it's your turn. Put that red\n
+stone you have into the right eye!
 <$00>
 
 // Pos: 00002235
@@ -128,8 +128,8 @@ Spacer:
 <$0D>
 //\nこいつは悪の化身だ、\nイーブルマインドのかたまりだ！
 \n
-This thing IS evil incarnate! It's a giant\n
-mass of Evil Mind!
+This thing IS evil incarnate! It's a\n
+giant mass of Evil Mind!
 <$00>
 
 // Pos: 0000225E
@@ -148,8 +148,8 @@ Liever:
 <$0D>
 //\nあんたが持ってる赤い石だよ、\nそれを右目にはめるんだ。
 \n
-You have the red stone, don't you? Put\n
-it into the right eye NOW!
+You have the red stone, don't you?\n
+Put it into the right eye NOW!
 <$00>
 
 // Pos: 00002289
@@ -177,7 +177,8 @@ IT?!
 <$12><$12>
 //こようやく目覚めの時がきたようだ。\nリバーよ、よく開くがいい。
 At last, it seems We are ready to\n
-awaken. Liever, listen to Us carefully.
+awaken. Liever, listen to Us\n
+carefully.
 <$0C>
 //お前は影の存在だ。
 You are a lowly shadowed.
@@ -204,8 +205,8 @@ Liever:
 <$0D>
 //\n神様…そんな…\n僕はずっと僕なんです…
 \n
-B-but God, that can't be! I...I've always\n
-been me!
+B-but God, that can't be! I...I've\n
+always been me!
 <$00>
 
 // Pos: 00002359
@@ -248,8 +249,8 @@ Liever:
 <$0D>
 //\n…僕は…罪をつぐなうために…\n心をきれいにするために…
 \n
-To...to make up for my sins... To purify\n
-my mind...!
+To...to make up for my sins... To\n
+purify my mind...!
 <$00>
 
 // Pos: 00002412
@@ -298,8 +299,8 @@ piques my interest.
 <$0C>
 //見るがいい、私の身体を。\nお前が殺した双子の顔だ。\n苦しみに歪んだ顔だ。
 Look well at my body. These faces,\n
-twisted by suffering, are those of the\n
-twins you killed.
+twisted by suffering, are those of\n
+the twins you killed.
 <$0C>
 //さあ、見ろ、お前が殺したのだ、\n生き埋めにしたのだ！
 Yes, look at the children you killed! At\n
@@ -331,8 +332,8 @@ gauge your eyes back out!
 <$12><$12>
 //こ私をてこずらせるな。\nしたがわないのなら、お前の薄汚い心を\n苦しみの炎で焼きつくしてやる！
 Do not challenge me. Obey, or I shall\n
-burn your fleck of a mind in the flames\n
-of suffering!
+burn your fleck of a mind in the\n
+flames of suffering!
 <$00>
 
 // Pos: 00002561
@@ -372,8 +373,8 @@ accumulation Evil Mind sediment.
 <$12><$12>
 //こいいことを教えてやろう。\nどんな犬にも出番があるものだ。\nさあ、その出番とやらを見せてもらおうか。
 I will tell you once: every dog has his\n
-hour. Yes, allow me to give you a whiff\n
-of one such moment.
+hour. Yes, allow me to give you a\n
+whiff of one such moment.
 <$00>
 
 // Pos: 000025E3
@@ -387,9 +388,9 @@ of one such moment.
 What's the matter, puppy?
 <$0C>
 //白ブタのママは腐った臭いをまき散らしながら、\nお前を産んだのだ。
-Don't you miss the filthy, rotten stench\n
-of that swine you called a mother\n
-giving birth to you?
+Don't you miss the filthy, rotten\n
+stench of that swine you called a\n
+mother giving birth to you?
 <$00>
 
 // Pos: 00002616
@@ -417,6 +418,7 @@ enjoyment!
 <$12><$12>
 //こはははは、もう十分だ、\nお前の憎しみはどうやら底なしのようだ。
 Hahaha, then I digress. I see how\n
-deeply and endlessly your hatred runs.
+deeply and endlessly your hatred\n
+runs.
 <$00>
 

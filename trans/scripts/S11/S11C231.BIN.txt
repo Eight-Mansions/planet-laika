@@ -17,8 +17,8 @@ Feng:
 <$0D>
 //\nここがお店。\n整形って呼ばれてもかまわないわ。
 \n
-What others call "cosmetic surgery", I\n
-call Vanity Face.
+What others call "cosmetic\n
+surgery", I call Vanity Face.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -33,8 +33,8 @@ Feng:
 <$0D>
 //\n誰だって自分以上の自分になりたい、\nそう願ってるのよ。
 \n
-"I want everyone to surpass their true\n
-self!" That's my desire.
+"I want everyone to surpass their\n
+true self!" That's my desire.
 <$00>
 
 // Pos: 000021E0
@@ -49,32 +49,34 @@ Feng:
 <$0D>
 //\nヴァニティフェイスはね、\n一度じゃ済まないのよ。\n本人が気に入るまで何度でも試すの。
 \n
-You don't have to do it only once. You can\n
-try it as many times as you'd like.
+You don't have to do it only once. You\n
+can try it as many times as you'd like.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nけれど、中には最初の一回でカンペキな顔に\nなれる人もいるわ…アマンダみたいにね
 \n
-But you know, some people start with\n
-the perfect face, like Amanda did.
+But you know, some people start\n
+with the perfect face, like Amanda
+<$0C>
+did.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n今となっては彼女は伝説よ。\n美しい自分の顔を愛し、鏡を愛したの。
 \n
-She was a legendary beauty who loved\n
-to look at her self in the mirror.
+She was a legendary beauty who\n
+loved to look at her self in the mirror.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n彼女がいなくなってもう何年にもなる…\n私は決めたのよ、彼女に仕える、\nアマンダに仕えようって。そしたら
 \n
-Amanda passed many years ago, but I\n
-strive to work in her honor.
+Amanda passed many years ago, but\n
+I strive to work in her honor.
 <$00>
 
 // Pos: 000022C5
@@ -89,8 +91,8 @@ Red:
 <$0D>
 //\nフェイ、薬だ、薬をくれ。
 \n
-Feng, I need medicine. Give me the the\n
-medicine!
+Feng, I need medicine. Give me the\n
+the medicine!
 <$00>
 
 // Pos: 000022DC
@@ -120,8 +122,8 @@ Red:
 <$0D>
 //\n早くしてくれ。あいつが寝てる間に塗るんだ。
 \n
-Just hurry. I want to apply it while he's\n
-sleeping.
+Just hurry. I want to apply it while\n
+he's sleeping.
 <$00>
 
 // Pos: 00002316
@@ -166,18 +168,18 @@ Red:
 <$0D>
 //\nで、こそこそかぎ回って何が分かった？\nここは万事うまくいってる、そうだろ？
 \n
-What've you found out after creeping\n
-around like you have been?
+What've you found out after\n
+creeping around like you have been?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nみんな妙なウワサにふりまわされてるが、\n俺はそんなことはない。
 \n
-I'm sure everyone's telling you about\n
-the "Judgement Day" rumors, but I'm
+I'm sure everyone's telling you\n
+about the "Judgement Day" rumors,
 <$0C>
-not minding it.
+but I'm not minding it.
 <$0C><$0B>
 //レッド：
 Red:
@@ -233,8 +235,8 @@ Red:
 <$0D>
 //\nまだだ。もっとよくなるはずだ、そうだろ？
 /\n
-Then he's wrong. His face deserves to\n
-be better, doesn't it?
+Then he's wrong. His face deserves\n
+to be better, doesn't it?
 <$00>
 
 // Pos: 00002429
@@ -315,10 +317,10 @@ Feng:
 <$0D>
 //\nヘロデは見かけほど悪い人じゃない、本当よ。\n子どもみたいに純真なの。それをあの女が…
 \n
-Herod isn't as negative as he looks. His\n
-nightmares are those of an innocent
+Herod isn't as negative as he looks.\n
+His nightmares are those of an
 <$0C>
-child.
+innocent child.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -335,8 +337,10 @@ Feng:
 <$0D>
 //\n今でも半分は悪夢の世界に生きているのよ。\nあの女はそこに付け入って…やりたい放顆よ。
 \n
-That witch takes advantage of this and\n
-manipulates Herod to do her bidding!
+That witch takes advantage of this\n
+and manipulates Herod to do her
+<$0C>
+bidding!
 <$00>
 
 // Pos: 00002590
@@ -360,9 +364,9 @@ Feng:
 //\n誰も彼女の美しさを超えられなかった、\n伝説の美女。そして今じゃ鏡の精よ。
 \n
 She once lived as a legendary beauty\n
-without peer. And now, she is a mirror
+without peer. And now, she is a
 <$0C>
-spirit.
+mirror spirit.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -398,9 +402,9 @@ April:
 <$0D>
 //\nなんだか変な臭いがする…生臭いよ。\nねぇ、気味悪いから行こうよ。
 \n
-It...smells like rotten meat. Actually,\n
-can we leave? I don't want to be around
+It...smells like rotten meat.\n
+Actually, can we leave? I don't want
 <$0C>
-this.
+to be around this.
 <$00>
 

@@ -36,8 +36,8 @@ Linda:
 <$0D>
 //\nあたしもよー、アガタとお話してからー、\nおかしくなったのー。
 \n
-...I went to Agatha about it myself. And\n
-yeah, she's weird in general.
+...I went to Agatha about it myself.\n
+And yeah, she's weird in general.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -64,7 +64,9 @@ Rummy:
 //\nびっくりしたな、綠の光だな、\n頭に入ってきたな、僕はラミーだな。
 \n
 The green flashing in my head caught\n
-me by surprise... Ah, right. I'm Rummy!
+me by surprise... Ah, right. I'm
+<$0C>
+Rummy!
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -78,10 +80,10 @@ Rummy:
 <$0D>
 //\n僕はこの世界のからくりを考えてるな。\nふたつのことが、どこかでつながってるな。
 \n
-I'm trying to figure out how the world\n
-works, but maybe those two are
+I'm trying to figure out how the\n
+world works, but maybe those two
 <$0C>
-connected...
+are connected...
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -124,8 +126,10 @@ Rummy:
 <$0D>
 //\n窓のわきにいると開こえてくるな、\n声だな、お話の声だな。
 \n
-If you ever peek through the back alley\n
-window, no one hides anything there.
+If you ever peek through the back\n
+alley window, no one hides anything
+<$0C>
+there.
 <$1E>
 //理
 理
@@ -248,8 +252,10 @@ Tommy:
 <$0D>
 //\nやっぱりあいつにも、別な誰かがいるんだ。\nきっとな。\n心の中に用意してるんだ。建いないぜ。
 \n
-It just doesn't sound like him. No way.\n
-It's like someone else is in his brain.
+It just doesn't sound like him. No\n
+way. It's like someone else is in his
+<$0C>
+brain.
 <$1E>
 //家
 家
@@ -307,7 +313,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS KNEW.
+CHARLIE KNEW. CHARLIE ALWAYS\n
+KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

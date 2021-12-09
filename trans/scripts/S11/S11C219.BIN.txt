@@ -48,8 +48,8 @@ Ernest:
 <$0D>
 //\n用があると言ったんだ、マヌケ！
 \n
-You and I've got unfinished business,\n
-don't we?
+You and I've got unfinished\n
+business, don't we?
 <$00>
 
 // Pos: 000029A3
@@ -64,8 +64,8 @@ Smokey:
 <$0D>
 //\n用があるだと… てめぇ、\nいい度胸してるじゃねぇか、ああん？
 \n
-Unfinished business? Heh, you've got\n
-some nerve.
+Unfinished business? Heh, you've\n
+got some nerve.
 <$00>
 
 // Pos: 000029CF
@@ -80,8 +80,10 @@ Smokey:
 <$0D>
 //\nさっきのショータイムじゃ物足りねぇと、\nへん！ 手加減しねぇぜ！ 白ブタ野郎！
 \n
-If the little show earlier didn't get the\n
-message across, I came with encores.
+If the little show earlier didn't get\n
+the message across, I came with
+<$0C>
+encores.
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -121,7 +123,8 @@ Smokey:
 <$0D>
 //\nうううう、くそっ、白ブタ…\nぶっ殺してやる！
 \n
-Grrr, I've had it! Get ready to die, piggy!
+Grrr, I've had it! Get ready to die,\n
+piggy!
 <$00>
 
 // Pos: 00002A6D
@@ -136,8 +139,8 @@ Ernest:
 <$0D>
 //\nそれはお前だ、スモーキー。\n白ブタから産まれたのはお前だ！
 \n
-Sorry, Smokey. The piglet that's about\n
-to get smoked is you!
+Sorry, Smokey. The piglet that's\n
+about to get smoked is you!
 <$00>
 
 // Pos: 00002A99
@@ -180,8 +183,8 @@ Ernest:
 <$0D>
 //\n誰だ！ 出てこい！\nいい加減なことぬかすな！
 \n
-Who said that? Stop messing with me,\n
-and show yourself!
+Who said that? Stop messing with\n
+me, and show yourself!
 <$00>
 
 // Pos: 00002AFB
@@ -206,11 +209,12 @@ Isn't it a lovely day to stab someone?
 
 <$00>
 //そのナイフをやつのみぞおちに\n突き立てるのだ。
-Thrust the knife straight into the belly.
+Thrust the knife straight into the\n
+belly.
 <$0C>
 //腹を切り裂け！\n内臓を引きずり出してやつの口に\n突っ込んでやれ！
-And then, slit! Pull out the innards, and\n
-stuff it all down his throat!
+And then, slit! Pull out the innards,\n
+and stuff it all down his throat!
 <$00>
 
 // Pos: 00002B65
@@ -238,10 +242,10 @@ Ernest:
 <$0D>
 //\n何だと、くそ野郎！ 俺が… 臆病だと？\nもう一度言ってみろ！
 \n
-What do you want from me, asshole...\n
-What sort of coward do you take me
+What do you want from me,\n
+asshole... What sort of coward do
 <$0C>
-for?!
+you take me for?!
 <$00>
 
 // Pos: 00002BB9
@@ -256,6 +260,7 @@ Ernest:
 <$0D>
 //\n臆病だと？\nこの俺が… 俺は弱くねぇぜ。
 \n
-Am I a coward? No...I'm not that weak.
+Am I a coward? No...I'm not that\n
+weak.
 <$00>
 

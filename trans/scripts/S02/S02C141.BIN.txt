@@ -33,8 +33,8 @@ Captain Tatler:
 <$0D>
 //\nやっと全員そろったな。\nひとまずここで待機だ。
 \n
-Now that everyone's here, I'm calling\n
-for a time-out.
+Now that everyone's here, I'm\n
+calling for a time-out.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -57,7 +57,8 @@ Captain Tatler:
 <$0D>
 //\nヌーン、コロニーまではどのくらいだ？
 \n
-Noon, how far are we from the colony?
+Noon, how far are we from the\n
+colony?
 <$00>
 
 // Pos: 000020E6
@@ -72,15 +73,17 @@ Noon:
 <$0D>
 //\nコ、コロニー…
 \n
-The...colony...?
+The...colony?
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nふふふ、コロニーには誰がいるんだ？\n誰かが待ってるのか？
 \n
-Pffthaha! What, is someone expecting\n
-us? Is someone waiting to tuck us in?
+Pffthaha! What, is someone\n
+expecting us? Is someone waiting to
+<$0C>
+tuck us in?
 <$00>
 
 // Pos: 0000211D
@@ -102,8 +105,10 @@ Captain Tatler:
 <$0D>
 //\nここで夜を明かすわけにはいかないんだ。
 \n
-Listen, genius, you know we can't bum\n
-it out here in the middle of nowhere!
+Listen, genius, you know we can't\n
+bum it out here in the middle of
+<$0C>
+nowhere!
 <$00>
 
 // Pos: 00002160
@@ -142,8 +147,8 @@ Captain Tatler:
 <$0D>
 //\nヌーン、コロニーまではどのくらいなんだ？
 \n
-Answer me, Noon. How far are we from\n
-the colony?
+Answer me, Noon. How far are we\n
+from the colony?
 <$00>
 
 // Pos: 000021D4
@@ -169,8 +174,10 @@ Noon:
 <$0D>
 //\nコロニー…コロニー…早くおうちに帰りたい。\nママが待ってるんだ！
 \n
-Quick...! Take me to...the colony... Take\n
-me 'ome! Mummy's waiting for me!
+Quick...! Take me...to the colony!\n
+Take me 'ome! Mummy's waiting for
+<$0C>
+me!
 <$00>
 
 // Pos: 00002210
@@ -209,9 +216,9 @@ April:
 //\n船長！ 隊員の命を守るのも、\n船長の役割じゃないの！
 \n
 Captain, please! It's your duty to\n
-safeguard the lives of your crew, isn't
+safeguard the lives of your crew,
 <$0C>
-it?!
+isn't it?!
 <$00>
 
 // Pos: 0000228D
@@ -291,9 +298,9 @@ Captain Tatler:
 //\nどうやら酸索はうまく供給されているようだ、\nもうヘルメットはいらないぞ。
 \n
 The environment itself provides\n
-enough oxygen. We don't need helmets
+enough oxygen. We don't need
 <$0C>
-anymore.
+helmets anymore.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -330,15 +337,15 @@ Captain Tatler:
 <$0D>
 //\nどうした、ライカ？\n怖じ気付いたのか…
 \n
-What's wrong, Laika? Is Mars making\n
-your skin crawl?
+What's wrong, Laika? Is Mars\n
+making your skin crawl?
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\nもうここは地球のようなものだ、\n恐がることはないぞ。
 \n
-Sure, maybe we're far from home, but\n
-don't let it get to you!
+Sure, maybe we're far from home,\n
+but don't let it get to you!
 <$00>
 

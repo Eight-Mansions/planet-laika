@@ -17,8 +17,8 @@ Yang:
 <$0D>
 //\nへへへ、記憶の谷、そうだろ、\nあそこはおっかない。
 \n
-Hehehe, Valles Memoriae. That place is\n
-ghastly!
+Hehehe, Valles Memoriae. That place\n
+is ghastly!
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -26,16 +26,17 @@ Yang:
 //\nみんな憑かれてるんだ、蕃判の始まりだ。\n足音を忍ばせて近付いてくる。 どこにだ？
 \n
 Everyone there is possessed, but\n
-Judgement has begun. It tiptoes ever
+Judgement has begun. It tiptoes
 <$0C>
-closer.
+ever closer.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nへっ、心の中にだ。
 \n
-Creep where, you ask? Into the mind.
+Creep where, you ask? Into the\n
+mind.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -50,8 +51,10 @@ Yang:
 <$0D>
 //\n弱いやつらはみんなやられちまう。\n俺たちは建う。見ろ！
 \n
-The frail pass when they are called to.\n
-But we? We are different, you see.
+The frail pass when they are called\n
+to. But we? We are different, you
+<$0C>
+see.
 <$00>
 
 // Pos: 00001CC6
@@ -73,8 +76,10 @@ Yang:
 <$0D>
 //\n金星人のパルスだ。\nもうじき角度が合う、金星を向くんだ。
 \n
-That's a Venusian pulse. We're almost\n
-at the right angle to face Venus itself.
+That's a Venusian pulse. We're\n
+almost at the right angle to face
+<$0C>
+Venus itself.
 <$00>
 
 // Pos: 00001D06
@@ -132,16 +137,20 @@ Yang:
 <$0D>
 //\n金星から気づきの波動が放たれているそうだ。
 \n
-Apparently, he was the first to notice\n
-that Venus was releasing waves.
+Apparently, he was the first to\n
+notice that Venus was releasing
+<$0C>
+waves.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\n気づきだ、気がつくことだ、\nピンとくることだ、もうじき実験だ。
 \n
-He, now "we", honed in real good. We're\n
-finally about to start our experiment!
+He, now "we", honed in real good.\n
+We're finally about to start our
+<$0C>
+experiment!
 <$1E>
 //鋭
 鋭
@@ -200,10 +209,10 @@ Mountain:
 <$0D>
 //\nいや、実際にあるぞ、プラズマになれば\n星間飛行などたやすいことだ。
 \n
-Don't worry, I believe you! It's easy to\n
-travel between planets when you're a
+Don't worry, I believe you! It's easy\n
+to travel between planets when
 <$0C>
-plasma.
+you're a plasma.
 <$00>
 
 // Pos: 00001EDA
@@ -219,15 +228,17 @@ Mountain:
 //\n誰でもそう思っているだけだ、\nでも本当は建う、もっと別の現象だ！
 \n
 Everyone may think otherwise, but\n
-life's phenomena are never so simple!
+life's phenomena are never so
+<$0C>
+simple!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nカオスがのしかかっているからな、\n星の名前があっちこっち動いたりするんだ。
 \n
-As chaos brews, the planets and their\n
-names are always in a stir.
+As chaos brews, the planets and\n
+their names are always in a stir.
 <$00>
 
 // Pos: 00001F3F
@@ -253,7 +264,7 @@ Mountain:
 <$0D>
 //\nあんたを見て分かった、やっぱりな。\nさぐりに行くんだろ、\nやつらだ、メディスンマンのやつらだ。
 \n
-From that look on your face...yes!\n
+From that look on your face... Yes!\n
 You're sniffing around for medicine
 <$0C>
 men.
@@ -323,9 +334,9 @@ Mountain:
 //\n私は何も言わないぞ、\nただ心をきれいにして信じているだけだ。\n実験が始まったら声をかけるぞ。
 \n
 No more talk. Until we start the\n
-experiment, let's clear our minds and
+experiment, let's clear our minds
 <$0C>
-believe.
+and believe.
 <$1E>
 //鋭
 鋭
@@ -344,15 +355,15 @@ Mountain:
 //\n円周率だ、円周率で増えたり減ったりするんだ。\n定理を見つけたんだ。
 \n
 I'VE FOUND IT! YES! A constant\n
-circumference to diameter ratio...pi!
+circumference to diameter ratio: Pi!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\n小数点以下３０ケタまで覚えているぞ。\n開きたいか？
 \n
-I've memorized the first 30 digits to\n
-test the theory. Wanna hear it?
+I've memorized the first 30 digits\n
+for testing. Wanna hear?
 <$1B>
 //？開きたい\n開かない
 ？Yes

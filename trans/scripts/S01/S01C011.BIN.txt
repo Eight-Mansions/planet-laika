@@ -17,16 +17,16 @@ Noon:
 <$0D>
 //\nでもなんで、ガリルって野郎は姿を\nくらませたんだ？
 \n
-What would drive Galil to vanish like 'e\n
-did?
+What would drive Galil to vanish like\n
+'e did?
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\n１０年になるんだろ、もうとっくに\nくたばってるんじゃねぇのか。
 \n
-It's been a decade. That mad dog could\n
-be dead for all we know.
+It's been a decade. That mad dog\n
+could be dead for all we know.
 <$00>
 
 // Pos: 00003371
@@ -42,9 +42,9 @@ Captain Tatler:
 //\nガリル大佐は火星が秘めている\nよこしまな力に憑かれたのだ。
 \n
 Officials suspect Colonel Galil\n
-succumbed to a wicked power hidden
+succumbed to a wicked power
 <$0C>
-on Mars.
+hidden on Mars.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -62,9 +62,9 @@ Captain Tatler:
 //\n自分を見失ってしまうというぞ。
 \n
 Without considerable mental\n
-fortitude, on can easily lose themself
+fortitude, one can easily lose
 <$0C>
-to the delusion.
+themself to the delusion.
 <$00>
 
 // Pos: 000033FB
@@ -94,17 +94,18 @@ Noon:
 <$0D>
 //\nクリスマスだっていうのに、\n妄想野郎のお相手か。
 \n
-Hell, I need fantasy now, if I'm to think\n
-this job and the Galil business isn't a
+Hell, I need fantasy now, if I'm to\n
+think this job and the Galil business
 <$0C>
-waste o' me damn time.
+isn't a waste o' me damn time.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nこんなところで！\nちくしょう！
 \n
-This is a sorry way to spend Christmas!
+This is a sorry way to spend\n
+Christmas!
 <$00>
 
 // Pos: 00003481
@@ -128,9 +129,9 @@ April:
 //\n土が人の心に悪い影響を与える…\nだから私が呼ばれたの。
 \n
 Surface exposure can have negative\n
-effects on the human mind. That's why
+effects on the human mind. That's
 <$0C>
-I'm here.
+why I'm here.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -164,9 +165,9 @@ Captain Tatler:
 //\n星全体が悪意を秘めているんだ。\nガリル大佐はその悪意に触れたに建いない。
 \n
 If Mars is topped with contaminated\n
-soil, maybe that's what made Colonel
+soil, maybe that's what made
 <$0C>
-Galil sick...
+Colonel Galil sick...
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -233,11 +234,12 @@ lights now?
 #WHB(PTR, $00000649)
 
 //離 ただいま火星の軌道に入りました。\n
-離 THE PHOENIX IS NOW IN MARS'S ORBIT.\n
+離 THE PHOENIX IS NOW IN MARS'S\n
+ORBIT.\n
 
 <$0E><$0F>
 //ただいま火星の軌道に入りました。
-THE PHOENIX IS NOW IN MARS' ORBIT.
+THE PHOENIX IS NOW IN MARS'S ORBIT.
 <$00>
 
 // Pos: 0000360E
@@ -253,17 +255,19 @@ Noon:
 //\nいよいよだ、火星だ。\nそこのふたり、用意はいいのか？
 \n
 We're finally on Mars.\n
-Are you two sure you're up to the task?
+Are you two sure you're up to the
+<$0C>
+task?
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nルーキーの無線技師に学者のタマゴの\nおネエさん…たのもしいかぎりだぜ。
 \n
-Can we count on a rookie radio\n
-engineer and a geology boffin out here
+Can we count on a rookie radio tech\n
+and a geology boffin out here in
 <$0C>
-in space?
+space?
 <$00>
 
 // Pos: 00003666
@@ -301,8 +305,8 @@ April:
 <$0D>
 //\n２度目よ。 前は人エ衛星の修理。\n私とはその時以来。
 \n
-No, Laika's done one artificial satellite\n
-repair prior. I was there.
+No, Laika's done one artificial\n
+satellite repair prior. I was there.
 <$00>
 
 // Pos: 000036DE

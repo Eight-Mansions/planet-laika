@@ -36,8 +36,8 @@ Madam Agatha:
 <$0D>
 //\n彼はひどくおびえてる…ここからじゃ無理ね。\n入り口を見つけて。お願い。
 \n
-Please, you must find the entrance to\n
-the Land of Nightmares.
+Please, you must find the entrance\n
+to the Land of Nightmares.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -60,8 +60,8 @@ Madam Agatha:
 <$0D>
 //\n悪夢の先に道が開ける…\nその道は奇跡に続く道…\n星が教えてくれたのよ。
 \n
-"Beyond the Land of Nightmares is path\n
-that opens into miracles."
+"Beyond the Land of Nightmares is\n
+path that opens into miracles."
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -78,8 +78,8 @@ Madam Agatha:
 <$0D>
 //\n野心や欲では星の望みを\nかなえることはできないわ。\nなのに…
 \n
-We cannot fight the planet, nor can we\n
-expect it to side with our selfish
+We cannot fight the planet, nor can\n
+we expect it to side with our selfish
 <$0C>
 ambitions.
 <$0C><$0B>
@@ -91,8 +91,8 @@ Madam Agatha:
 Despite that, 
 <$0F>
 //。\nこの星の声に耳をかたむけるのよ。
-, you must open yourself\n
-to the planet, and listen.
+, you must open\n
+yourself to the planet, and listen.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -123,16 +123,16 @@ Madam Agatha:
 <$0D>
 //\nエイプリルがいるのなら\nどこか他に入口があるはず。
 \n
-If April is in there, she must have found\n
-an entrance.
+If April is in there, she must have\n
+found an entrance.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nここからは入れないわ、\n何も見えなくなったの。
 \n
-I can't get to her from here. I can't see\n
-anything.
+I can't get to her from here. I can't\n
+see anything.
 <$00>
 
 // Pos: 000012D0

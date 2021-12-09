@@ -32,8 +32,8 @@ Oxygen Miner 1：
 <$0D>
 //\nだめだ。\n町には入れない、シーシー。
 \n
-Turn away. Can't enter town, whoosh,\n
-whoosh.
+Turn away. Can't enter town,\n
+whoosh, whoosh.
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
@@ -165,7 +165,7 @@ Oxygen Miner 1：
 <$0D>
 //\n町長は町長屋敷だ。
 \n
-Elder lives in elder's cottage.
+Elder lives in Elder's cottage.
 <$00>
 
 // Pos: 000018FC
@@ -180,8 +180,8 @@ Yolanda:
 <$0D>
 //\nその町長屋敷はどこなの？
 \n
-Oh. Right. And where is the elder's\n
-residence, exactly?
+Oh. Right. And where is the that,\n
+exactly?
 <$00>
 
 // Pos: 00001918
@@ -259,7 +259,8 @@ Yolanda:
 <$0D>
 //\nねえちょっと、いい加減にしてよ。
 \n
-Jesus Lord, can we get this over with?!
+Jesus Lord, can we get this over\n
+with?!
 <$00>
 
 // Pos: 000019B7
@@ -290,8 +291,8 @@ April:
 <$0D>
 //\nその話があるから来たの。これでいい？
 \n
-THAT'S why we're here! Are you happy\n
-now?!
+THAT'S why we're here! Are you\n
+happy now?!
 <$00>
 
 // Pos: 00001A2E
@@ -360,7 +361,8 @@ Oxygen Miner 1：
 <$0D>
 //\nシー、シー、やっぱりあやしい、シー。
 \n
-Whoosh, whoosh. Suspicious, whoosh!
+Whoosh, whoosh. Suspicious,\n
+whoosh!
 <$00>
 
 // Pos: 00001ACA
@@ -437,6 +439,8 @@ Yolanda:
 //\nいいの。 あんたたちは幸せそうね。\n誰も邪魔しようなんて思っちゃいないから。\n安心して。
 \n
 Listen, I'm sure you guys are happy\n
-here. No one's trying to dick with that.
+here. No one's trying to dick with
+<$0C>
+that.
 <$00>
 

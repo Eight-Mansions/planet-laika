@@ -25,7 +25,7 @@ Herod:
 <$0D>
 //\nおおお、何だ… あああ、来るな！
 \n
-Ohh, what're you...no! GET AWAY!
+Ohh, what're you... No! GET AWAY!
 <$00>
 
 // Pos: 00001C55
@@ -146,8 +146,8 @@ Herod:
 <$0D>
 //\nあははははは、もうじきだ、もうじき。
 \n
-Ahaha, they're getting closer! Closer!\n
-CLOSER!
+Ahaha, they're getting closer!\n
+Closer! CLOSER!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -215,7 +215,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS KNEW.
+CHARLIE KNEW. CHARLIE ALWAYS\n
+KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

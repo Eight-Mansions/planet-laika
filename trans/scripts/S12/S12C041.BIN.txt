@@ -25,7 +25,8 @@ Oxygen Miner 1：
 <$0D>
 //\nダメだ、いくらやっても！\nやりくりしても！
 \n
-Drats! Can't do it! Must work SOMEHOW!
+Drats! Can't do it! Must work\n
+SOMEHOW!
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
@@ -132,7 +133,8 @@ Rummy:
 <$0D>
 //\n緊急事態レベル３だな、これだな。
 \n
-I take it this is a Level 3 emergency lock.
+I take it this is a Level 3 emergency\n
+lock.
 <$00>
 
 // Pos: 0000160C
@@ -170,8 +172,8 @@ Oxygen Miner 1：
 <$0D>
 //\n双子は白い、見たのさ。
 \n
-"Twins are pale, it's such a sight! Such a\n
-sight! Such a sight!"
+"Twins are pale, it's such a sight! Such\n
+a sight! Such a sight!"
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：

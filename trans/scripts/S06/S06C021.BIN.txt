@@ -229,7 +229,9 @@ Yolanda:
 //\nそういうところもそっくりねー。\n今はじゃあ誰と一緒なの？
 \n
 Oh, pssh-shah! A cute girl like you?\n
-Surely there was SOMEONE in your life.
+Surely there was SOMEONE in your
+<$0C>
+life.
 <$00>
 
 // Pos: 00002DF9
@@ -400,10 +402,10 @@ Yolanda:
 <$0D>
 //\nせっかくのクリスマスだっていうのに、\n誰かのせいでこんなところでうろうろ…さ、
 \n
-Shame we can't have one Xmas without\n
-having to patch up someone's old
+Shame we can't have one Xmas\n
+without having to patch up
 <$0C>
-drama, but duty calls.
+someone's old drama, but duty calls.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -442,7 +444,8 @@ Yolanda:
 <$0D>
 //\nよろしくエイプリル。
 \n
-The pleasure was already mine, April.
+The pleasure was already mine,\n
+April.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -470,8 +473,8 @@ Yolanda:
 <$0D>
 //\n人のせいにしないでちょうだい！ 階段よ。
 \n
-D-don't point fingers at me! Point at the\n
-stairs!
+D-don't point fingers at me! Point at\n
+the stairs!
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -486,8 +489,8 @@ April:
 <$0D>
 //\nこっちに来たのはあなたじゃない…
 \n
-You're the one who walked over here,\n
-ma'am...
+You're the one who walked over\n
+here, ma'am...
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:

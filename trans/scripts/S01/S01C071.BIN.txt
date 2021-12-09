@@ -47,9 +47,9 @@ gone!
 //\nママ…ママなの、僕が悪かったの…\nあああ、建う！ ママじゃない、うそだ！
 \n
 Mummy? Mummy, was I bad again?\n
-Wait, no! You're not Mummy! You can't
+Wait, no! You're not Mummy! You
 <$0C>
-be!
+can't be!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001C13
@@ -107,7 +107,7 @@ planet's wicked power at work!
 #WHB(PTR, $00000B15)
 
 //葉顔\n\n      怪物は心の中にいる。
-The monsters\n
+葉The monsters\n
 \n
       are in the mind.
 <$0E><$FF><$17><$00>

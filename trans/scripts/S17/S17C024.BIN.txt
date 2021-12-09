@@ -18,9 +18,9 @@ Galil:
 //\nわれらがヒーロー、アーネストのご登場か！\nこの星で自分を実惑したか、どうなんだ？
 \n
 And Ernest the Hero takes the stage!\n
-Did you like grasping for a sense of self
+Did you like grasping for a sense of
 <$0C>
-here?
+self here?
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -45,6 +45,7 @@ Ernest:
 <$0D>
 //\nうるせぇ！ 俺はどこにも行きやしない！
 \n
-Shut up, you! I'm not going anywhere!
+Shut up, you! I'm not going\n
+anywhere!
 <$00>
 

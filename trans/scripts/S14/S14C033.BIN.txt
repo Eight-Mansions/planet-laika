@@ -17,8 +17,10 @@ Sparky:
 <$0D>
 //\nなんか寒いの、すごく寒いの。\n広場の方から冷気が来るの、どうして？
 \n
-It got so much colder somehow. I think\n
-the chill is coming from the plaza.
+It got so much colder somehow. I\n
+think the chill is coming from the
+<$0C>
+plaza.
 <$1E>
 //行
 行
@@ -96,8 +98,10 @@ Sparky:
 <$0D>
 //\nぼわんぼわんって、何？ 催眠術の音？
 \n
-What's that wub-wub-wub sound? Is\n
-that what hypnotherapy sounds like?
+What's that wub-wub-wub sound?\n
+Is that what hypnotherapy sounds
+<$0C>
+like?
 <$0C><$0B>
 //スパーキー：
 Sparky:

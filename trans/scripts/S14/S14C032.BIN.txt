@@ -17,15 +17,18 @@ Linda:
 <$0D>
 //\nさっきさー、変なのがここ通ったよー。
 \n
-A while ago, a stranger passed through\n
-here. He looked like a mangled corpse.
+A while ago, a stranger passed\n
+through here. He looked like a
+<$0C>
+mangled corpse.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n死人みたいな変なのがー、ロッジの方に\n行ったけど、途中で消えたのー。
-The stranger went towards the\n
-lodge, but disappeared along the way.
+The stranger went towards\n
+the lodge, but disappeared along the\n
+way.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -90,10 +93,10 @@ Thomas:
 <$0D>
 //\nヤングも同じだろう、\nなかよし広場の手前でふるえていたぞ。
 \n
-Everyone in the plaza is shaking. We're\n
-all going through the same thing Yang
+Everyone in the plaza is shaking.\n
+We're all going through the same
 <$0C>
-is.
+thing Yang is.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -116,7 +119,9 @@ Thomas:
 <$0D>
 //\n私なりにね、\nからくりを理解してるわけだよ、うんうん。
 \n
-I dare say, I've come to understand the\n
-modus operendi at play here, yes.
+I dare say, I've come to understand\n
+the modus operendi at play here,
+<$0C>
+yes.
 <$00>
 

@@ -69,7 +69,8 @@ Cosmas:
 <$0D>
 //\nありがとう。きっとだよ。約束だよ。
 \n
-Thank you! Remember, it's a promise.
+Thank you! Remember, it's a\n
+promise.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -131,8 +132,10 @@ Cosmas:
 <$0D>
 //\nイースト、ウェストに見つからないように…\nコロニーの中じゃないけど。どこかな…
 \n
-He's outside of the colony, somewhere\n
-where East and West can't find him.
+He's outside of the colony,\n
+somewhere where East and West
+<$0C>
+can't find him.
 <$00>
 
 // Pos: 00000920
@@ -147,32 +150,32 @@ Cosmas:
 <$0D>
 //\nねぇ、あんたはケンカする人でしょ、
 \n
-You. You're a combative person, aren't\n
-you?
+You. You're a combative person,\n
+aren't you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
 \n
-I know, because Dark Man peered into\n
-you and told me.
+I know, because Dark Man peered\n
+into you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n火事…リバー…導いてくれる…\n預言の場所にだよ。
 \n
-Through fire...Liever will show you to\n
-the place of prophecy.
+Through a fire...Liever will show you\n
+to the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nうん、火事って言葉が浮かんできたよ。
 \n
-Yes, the word "fire" is floating about in\n
-my head.
+Yes, the word "fire" is floating about\n
+in my head.
 <$00>
 
 // Pos: 000009A8
@@ -195,16 +198,16 @@ Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
 \n
-I know, because Dark Man peered into\n
-you and told me.
+I know, because Dark Man peered\n
+into you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nロケット…リバー…導いてくれる…\n預言の場所にだよ。
 \n
-From a rocket...Liever will show you to\n
-the place of prophecy.
+From a rocket...Liever will show you\n
+to the place of prophecy.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -227,16 +230,16 @@ Cosmas:
 <$0D>
 //\nねぇ、あんたは顔作りに来た人でしょ、
 \n
-You. You like to doll up your face, don't\n
-you?
+You. You like to doll up your face,\n
+don't you?
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n分かるんだ。ダークマンはお見通しだよ。\n教えてあげるよ。
 \n
-I know, because Dark Man peered into\n
-you and told me.
+I know, because Dark Man peered\n
+into you and told me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -297,8 +300,8 @@ Cosmas:
 <$0D>
 //\nタイプをはっきりさせないと、\nリバーは見つからないよ。
 \n
-...if you don't have a type, you'll never\n
-find Liever.
+...if you don't have a type, you'll\n
+never find Liever.
 <$00>
 
 // Pos: 00000B6B

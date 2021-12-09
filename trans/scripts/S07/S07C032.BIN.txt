@@ -91,8 +91,10 @@ Yolanda:
 <$0D>
 //\nあれ、どうかしてるわ、アタシったら。\nおばかさん。ただの氷のじゃない、こんなの。
 \n
-The Hell was that? Relax, Yolanda. It's\n
-just ice. Nothing to freak out over.
+The Hell was that? Relax, Yolanda.\n
+It's just ice. Nothing to freak out
+<$0C>
+over.
 <$00>
 
 // Pos: 0000321C
@@ -107,8 +109,8 @@ Ernest:
 <$0D>
 //\n何だ、こいつは…凍ってるぜ…
 \n
-What happened? This big guy's frozen\n
-solid.
+What happened? This big guy's\n
+frozen solid.
 <$00>
 
 // Pos: 00003238

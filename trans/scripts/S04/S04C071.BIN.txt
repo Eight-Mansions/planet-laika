@@ -60,7 +60,9 @@ Cosmas:
 //\n僕、コスマスだよ。 うとうとしてたんだ。\nもう寝ようと思って。消灯時間さ。
 \n
 I was nodding off, and was about to\n
-head home. It's almost lights-out time.
+head home. It's almost lights-out
+<$0C>
+time.
 <$00>
 
 // Pos: 0000301B
@@ -76,9 +78,9 @@ April:
 //\nそう…今晩は、コスマス。\nねぇ、メディスンマンってどんな人なの？
 \n
 Well, it's okay if you go now, but\n
-otherwise, do you know the medicine
+otherwise, do you know the
 <$0C>
-men?
+medicine men?
 <$00>
 
 // Pos: 00003048
@@ -128,7 +130,9 @@ Cosmas:
 //\n彼らは特別なんだよ。超能力があるんだ。\nでも、マウンテンはインチキだって言ってる。
 \n
 The medicine men have ESP, but\n
-Mountain says their powers are fake.
+Mountain says their powers are
+<$0C>
+fake.
 <$00>
 
 // Pos: 000030F1
@@ -158,10 +162,10 @@ Cosmas:
 <$0D>
 //\nハウスでいろいろ研究してる。\nメディスンマンのロッジに入る暗証番号を\n教えてくれるよ。
 \n
-He's a researcher at Psycho Lab, but he\n
-knows the PIN to enter the medicine
+He's a researcher at Psycho Lab, but\n
+he knows the PIN to enter the
 <$0C>
-men's lodge.
+medicine men's lodge.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -201,8 +205,8 @@ Cosmas:
 <$0D>
 //\nマウンテンたちと\nメディスンマンは仲が悪いんだ。
 \n
-Mountain and the medicine men are not\n
-on good terms.
+Mountain and the medicine men are\n
+not on good terms.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -243,10 +247,10 @@ Cosmas:
 <$0D>
 //\nここにはいないさ。\n力がやって来るんだ、宇宙からね。
 \n
-Not people from Venus, no. Venusians\n
-are the energy being sent out through
+Not people from Venus, no.\n
+Venusians are the energy being sent
 <$0C>
-space from Venus.
+out through space from Venus.
 <$00>
 
 // Pos: 0000320E
@@ -288,8 +292,8 @@ Cosmas:
 <$0D>
 //\nレッドおじさんだ…もう行くね、じゃあね。
 \n
-That was Uncle Red... I have to go now,\n
-but good luck on your trip!
+That was Uncle Red... I have to go\n
+now, but good luck on your trip!
 <$1E>
 //鋭
 鋭

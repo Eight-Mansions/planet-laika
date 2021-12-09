@@ -48,8 +48,10 @@ Noon:
 <$0D>
 //\nうまく着陸できた、機関も異常なしだ。
 \n
-Listen, I landed this ship too damn well\n
-to be talked down to like I'm some kid.
+Listen, I landed this ship too damn\n
+well to be talked down to like I'm
+<$0C>
+some kid.
 <$00>
 
 // Pos: 00003509
@@ -102,8 +104,8 @@ Captain Tatler:
 <$0D>
 //\nこの船にアクシデントなどなかったのだ。\nわからんのか…
 \n
-I don't care about accidents. If we dent\n
-something, we fix it later.
+I don't care about accidents. If we\n
+dent something, we fix it later.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -135,8 +137,10 @@ Noon:
 <$0D>
 //\nこの星には頭がおかしくなった\n密航者ばかりだ。
 \n
-I hate this planet. Anyone who chooses\n
-to live 'ere clearly lost their mind.
+I hate this planet. Anyone who\n
+chooses to live 'ere clearly lost their
+<$0C>
+mind.
 <$00>
 
 // Pos: 00003620
@@ -169,8 +173,8 @@ April:
 <$0D>
 //\n彼らの協力が得られないと、\nちょっとやっかいよ。
 \n
-If we can't get residents to cooperate,\n
-this won't be an easy job.
+If we can't get residents to\n
+cooperate, this won't be an easy job.
 <$00>
 
 // Pos: 0000367B
@@ -207,8 +211,8 @@ Captain Tatler:
 <$0D>
 //\nライカ、なにをぐずぐずしてる？\n君が最初に降り立つんだ。
 \n
-What're you waiting for, Laika? You go\n
-first.
+What're you waiting for, Laika? You\n
+go first.
 <$00>
 
 // Pos: 000036DE
@@ -293,7 +297,9 @@ April:
 <$0D>
 //\n前の任務もうまくいったじゃない。\n今度もきっと平気よ。
 \n
-So, maybe the previous mission failed,\n
-but our unit will nail it this time!
+So, maybe the previous mission\n
+failed, but our unit will nail it this
+<$0C>
+time!
 <$00>
 

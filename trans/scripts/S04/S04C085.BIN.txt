@@ -17,8 +17,8 @@ Cosmas:
 <$0D>
 //\nダークマン、さっき呼んだとき、\nどうして来てくれなかったの？
 \n
-Dark Man, why didn't you come when I\n
-called for you earlier?
+Dark Man, why didn't you come when\n
+I called for you earlier?
 <$00>
 
 // Pos: 00001FCF
@@ -46,8 +46,8 @@ Cosmas:
 <$0D>
 //\n僕だけのダークマンじゃなかったの。
 \n
-But Darkman, I thought you could hear\n
-only me.
+But Darkman, I thought you could\n
+hear only me.
 <$00>
 
 // Pos: 00002009
@@ -89,6 +89,7 @@ How much suffering must I endure?
 <$00><$12>
 //にいずれ私は限界をむかえるだろう。\nこの星は苦しみの王国となるだろう。
 にIn time, We will reach Our limit, and\n
-Mars will become a planet of suffering.
+Mars will become a planet of\n
+suffering.
 <$00>
 

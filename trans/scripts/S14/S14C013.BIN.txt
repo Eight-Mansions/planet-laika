@@ -17,10 +17,11 @@ White Eagle:
 <$0D>
 //\nどうじゃ、心当たりはあるのかのう。\n預言を受け止めることのできる誰かじゃ。\nサイコなやつじゃ、どこにおる？
 \n
-Haww, we'll need to use a Psycho type\n
-whom can withstand the prophecy. Do
+Haww, we'll need to use a Psycho\n
+type whom can withstand the
 <$0C>
-you know where any are?
+prophecy. Do you know where any\n
+are?
 <$00>
 
 // Pos: 00001101
@@ -60,8 +61,8 @@ REGISTRANT NAME:\n
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
  NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO AN\n
-ADMINISTRATOR.
+DETAILS AND ASSISTANCE, SPEAK TO\n
+AN ADMINISTRATOR.
 <$00>
 
 // Pos: 00001145

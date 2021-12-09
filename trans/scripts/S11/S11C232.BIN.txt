@@ -35,8 +35,8 @@ Madam Agatha:
 <$0D>
 //\nあなたは何だってできるのよ。\n何だってよ。
 \n
-Whatever do you mean? Did something\n
-happen to you?
+Whatever do you mean? Did\n
+something happen to you?
 <$00>
 
 // Pos: 000035C5
@@ -52,7 +52,9 @@ Feng:
 //\nそう… 私に？ どんなこと？\n私なんかに構ってないで、\nヘロデのところに戻りなさいよ。
 \n
 To me? What does it matter? Don't\n
-worry about me. Go back to your Herod.
+worry about me. Go back to your
+<$0C>
+Herod.
 <$00>
 
 // Pos: 000035FD
@@ -67,8 +69,8 @@ Madam Agatha:
 <$0D>
 //\n時間はとらせないわ。 本当よ…\nあなたの時間はなくならないの。
 \n
-This will take no time at all. For either of\n
-us.
+This will take no time at all. For either\n
+of us.
 <$00>
 
 // Pos: 0000362F
@@ -209,8 +211,10 @@ Madam Agatha:
 <$0D>
 //\nそうよ、入口よ。 鏡はもう目の前。\nあなたはその中に入っていく。
 \n
-Yes, you're at the entrance. The mirror\n
-before you welcomes you inside.
+Yes, you're at the entrance. The\n
+mirror before you welcomes you
+<$0C>
+inside.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -236,9 +240,9 @@ Feng:
 //\n入口に入るわ… 真っ白な入口…\nああ、全てが真っ白よ… きれい…
 \n
 It's a snow white entrance. I'm\n
-inside... Ah, all is snow white here. It's
+inside... Ah, all is snow white here.
 <$0C>
-lovely...
+It's lovely...
 <$00>
 
 // Pos: 000037CD
@@ -285,8 +289,8 @@ Madam Agatha:
 <$0D>
 //\nヴェロニカ、\nあなたに開きたいことがあるの。
 \n
-Veronica, there's something I wanted\n
-to ask you.
+Veronica, there's something I\n
+wanted to ask you.
 <$00>
 
 // Pos: 0000383E
@@ -400,8 +404,8 @@ Veronica:
 <$0D>
 //\n分からないよ。\nアタシはお酒はきらいだよ。
 \n
-I'm not sure. What I don't like is liquor,\n
-you know.
+I'm not sure. What I don't like is\n
+liquor, you know.
 <$00>
 
 // Pos: 00003920
@@ -416,8 +420,8 @@ Madam Agatha:
 <$0D>
 //\nねぇヴェロニカ、\nフェイのこと話してくれない？\n彼女は何かをたくらんでいるの？
 \n
-So, Veronica, can I ask you about Feng?\n
-Is she plotting something?
+So, Veronica, can I ask you about\n
+Feng? Is she plotting something?
 <$00>
 
 // Pos: 00003957
@@ -466,16 +470,16 @@ Veronica:
 <$0D>
 //\nなんでアタシがフェイを手伝うのよ。
 \n
-Are you asking if I'm helping her? Why\n
-would I help Feng?
+Are you asking if I'm helping her?\n
+Why would I help Feng?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nあの女はアタシのことをいなくていいと\n思ってるのよ。
 \n
-That woman doesn't give a damn about\n
-me!
+That woman doesn't give a damn\n
+about me!
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -516,8 +520,8 @@ Veronica:
 <$0D>
 //\nそうだよ、鏡の精に自分の体を差し出すの。\nそれでずっときれいでいられる、\nあの女はそう考えてるのよ。
 \n
-Right. She thinks offering her body to\n
-the mirror spirit will keep her
+Right. She thinks offering her body\n
+to the mirror spirit will keep her
 <$0C>
 beautiful.
 <$00>
@@ -534,8 +538,8 @@ Madam Agatha:
 <$0D>
 //\n鏡の精ね… 前に開いたことあるわ。\nたしか名前は…
 \n
-This mirror spirit? I think I've heard of\n
-her before. People call her...
+This mirror spirit? I think I've heard\n
+of her before. People call her...
 <$00>
 
 // Pos: 00003ABD
@@ -550,10 +554,10 @@ Veronica:
 <$0D>
 //\nアマンダよ。整形してすごい美人になったんだ。\nそれで、ずっと鏡ばかり見続けていて、\nそのうち鏡の中に吸い込まれたのよ。
 \n
-Amanda. Cosmetic surgery made her\n
-into an amazing beauty. She looked
+Amanda. Cosmetic surgery made\n
+her into an amazing beauty. She
 <$0C>
-into mirrors constantly.
+looked into mirrors constantly.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -561,9 +565,9 @@ Veronica:
 //\nフェイは会ったことないみたいだけど、\nヴァニティフェイスの仕事を始めてから、\nアマンダの声が開こえるようになったんだよ。
 \n
 Feng never met Amanda, but ever\n
-since she started with Vanity Face, she
+since she started with Vanity Face,
 <$0C>
-could hear Amanda's voice.
+she could hear Amanda's voice.
 <$00>
 
 // Pos: 00003B5A
@@ -578,8 +582,8 @@ Madam Agatha:
 <$0D>
 //\nアマンダはフェイになんて言うのかしら。\n鏡の中へ来いって誘ってるの？
 \n
-What does Amanda say to Feng? Did she\n
-invite Feng to enter the mirror?
+What does Amanda say to Feng? Did\n
+she invite Feng to enter the mirror?
 <$00>
 
 // Pos: 00003B8D
@@ -602,18 +606,20 @@ Veronica:
 <$0D>
 //\n世界のすべてを照らし出す鏡だよ。\nそしたら、あっちこっちで悪が生まれるんだ。
 \n
-She wants a mirror that illuminates all\n
-the world, and births evil in its corners.
+She wants a mirror that illuminates\n
+all the world, and births evil in its
+<$0C>
+corners.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nみんな悪に飲み込まれるんだよ。消えるんだよ。\n蕃判の鏡だって、エッジが教えてくれたんだ。
 \n
-All who are swallowed by that evil will\n
-vanish. Edge called it the Mirror of
+All who are swallowed by that evil\n
+will vanish. Edge called it the Mirror
 <$0C>
-Judgement.
+of Judgement.
 <$00>
 
 // Pos: 00003C2A
@@ -628,10 +634,10 @@ Madam Agatha:
 <$0D>
 //\n蕃判の鏡…\nエッジってあなたの大の親友よね。\n他にはどんなこと教えてくれたの？
 \n
-The Mirror of Judgement? Well, Edge is\n
-your closest friend, right? What else
+The Mirror of Judgement? Well,\n
+Edge is your closest friend, right?
 <$0C>
-did they say?
+What else did they say?
 <$00>
 
 // Pos: 00003C66
@@ -646,10 +652,10 @@ Veronica:
 <$0D>
 //\n蕃判の鏡が、心の悪をみんなみんな照らすんだ。\nそれで黒い騎士が完全になって奇跡が起きる。
 \n
-The Mirror of Judgement feeds on the\n
-evil in the mind, and when the Black
+The Mirror of Judgement feeds on\n
+the evil in the mind, and when the
 <$0C>
-Rider is whole...
+Black Rider is whole...
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -664,8 +670,8 @@ Veronica:
 <$0D>
 //\n新しい世界が生まれるんだって、\n誰も残れないんだって。消えてなくなるのよ。
 \n
-No one can remain in this world at that\n
-point. Everyone all disappear.
+No one can remain in this world at\n
+that point. Everyone all disappear.
 <$00>
 
 // Pos: 00003CFE
@@ -680,8 +686,10 @@ Madam Agatha:
 <$0D>
 //\nフェイは美の権化になって残るのね。\nあなたはどうなるの？
 \n
-Feng will go down as beauty incarnate,\n
-but what will happen to you?
+Feng will go down as beauty\n
+incarnate, but what will happen to
+<$0C>
+you?
 <$00>
 
 // Pos: 00003D2B
@@ -697,7 +705,9 @@ Veronica:
 //\nわからないよ！\nそんなことになる前に合わさるんだ。\nアタシひとりになるんだよ！
 \n
 I don't know! I'll have to integrate\n
-before that happens, or I'll be all alone!
+before that happens, or I'll be all
+<$0C>
+alone!
 <$00>
 
 // Pos: 00003D60
@@ -728,8 +738,8 @@ Veronica:
 <$0D>
 //\n帰りたくない…\n真っ暗なんだよ…
 \n
-I don't want to go back... Everything's\n
-so dark...
+I don't want to go back...\n
+Everything's so dark...
 <$00>
 
 // Pos: 00003D9B
@@ -744,7 +754,8 @@ Madam Agatha:
 <$0D>
 //\nヴェロニカ、\nちょっとわからないわ。
 \n
-Veronica, are you sure you mean that?
+Veronica, are you sure you mean\n
+that?
 <$00>
 
 // Pos: 00003DBA
@@ -790,8 +801,8 @@ Veronica:
 <$0D>
 //\nいいこと思いついたんだ。\nでも教えないよ。
 \n
-Oh, it was only a fun little musing, but I\n
-can't tell you more than that.
+Oh, it was only a fun little musing, but\n
+I can't tell you more than that.
 <$00>
 
 // Pos: 00003E1C
@@ -856,8 +867,8 @@ Veronica:
 <$0D>
 //\nできるよ、できるんだ、\n絶対できるんだ！
 \n
-If anyone can do it, it's me. I'll make her\n
-see eye-to-eye!
+If anyone can do it, it's me. I'll make\n
+her see eye-to-eye!
 <$00>
 
 // Pos: 00003EC8
@@ -872,10 +883,10 @@ Feng:
 <$0D>
 //\n蕃判の議準なんてないのよ。\n自分が納得できればそれでいいの、分かった？
 \n
-Judgement has no standards! If your\n
-self is satisfactory, you're fine.
+Judgement has no standards! If\n
+your self is satisfactory, you're
 <$0C>
-Understand?
+fine. Understand?
 <$00>
 
 // Pos: 00003EFB
@@ -906,8 +917,8 @@ Feng:
 <$0D>
 //\nもちろんよ。アマンダほどじゃないけど。\nとにかく私は大丈夫よ。
 \n
-Of course! Not as much as Amanda's is,\n
-but it's fine.
+Of course! Not as much as Amanda's\n
+is, but it's fine.
 <$00>
 
 // Pos: 00003F4C
@@ -940,8 +951,8 @@ Feng:
 <$0D>
 //\nさあね… ヴァニティフェイスを信じることよ。\nそれは自分を信じること… そうでしょ？
 \n
-Come now, faith in one's Vanity Face is\n
-faith in one's self!
+Come now, faith in one's Vanity Face\n
+is faith in one's self!
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -949,9 +960,9 @@ Feng:
 //\n顔がきれいになって、心がおだやかになれば\nそれでいいのよ、そうでしょ？
 \n
 An un-cluttered face is an\n
-un-cluttered mind. That makes sense,
+un-cluttered mind. That makes
 <$0C>
-doesn't it?
+sense, doesn't it?
 <$00>
 
 // Pos: 00003FEA
@@ -992,8 +1003,8 @@ Feng:
 <$0D>
 //\nあなたが催眠術で\nよけいなことしてるからじゃないの？
 \n
-Must you really go so far as to play God\n
-with your hypnotherapy?
+Must you really go so far as to play\n
+God with your hypnotherapy?
 <$00>
 
 // Pos: 00004075

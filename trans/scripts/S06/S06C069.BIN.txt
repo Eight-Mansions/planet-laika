@@ -14,8 +14,8 @@
 
 <$00>
 //   ママはそんなことじゃ死なないよ。
- No, Mummy! I won't let that 'appen. Not\n
-on Christmas!
+ No, Mummy! I won't let that 'appen.\n
+Not on Christmas!
 <$00>
 
 // Pos: 0000205F
@@ -137,16 +137,16 @@ April:
 <$0D>
 //\nヌーン… ここは屋敷なんかじゃない、\nそれにあなたは町長じゃない、
 \n
-Noon... This isn't your house, and your\n
-not this town's elder.
+Noon... This isn't your house, and\n
+your not this town's elder.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私たちと一緒に来て。任務よ。
 \n
-You need to come back with us. We have\n
-a mission to complete.
+You need to come back with us. We\n
+have a mission to complete.
 <$00>
 
 // Pos: 000021AC
@@ -169,9 +169,9 @@ Noon:
 //\n生憎だが今は書き物の最中でね、自伝だよ、\n歴史が私の名を求めているのだよ。
 \n
 I'm in the middle of penning my\n
-autobiography. My name'll go down in
+autobiography. My name'll go down
 <$0C>
-history.
+in history.
 <$00>
 
 // Pos: 00002202
@@ -230,7 +230,9 @@ Noon:
 //\nううう、ママ！ ママと一緒なんだよう！\nママ、もう僕のことせめたりしないで！
 \n
 Aww, Mummy! But Mummy's right\n
-here! Mummy isn't mad at me anymore!
+here! Mummy isn't mad at me
+<$0C>
+anymore!
 <$00>
 
 // Pos: 0000229C
@@ -245,8 +247,8 @@ Yolanda:
 <$0D>
 //\nあなたが言うこと開かないと、\nママ怒っちゃうわよ！
 \n
-Didn't you hear what I said? You'll make\n
-Mommy angryyy!
+Didn't you hear what I said? You'll\n
+make Mommy angryyy!
 <$00>
 
 // Pos: 000022C3
@@ -314,8 +316,8 @@ Yolanda:
 <$0D>
 //\nガリル！\nアタシたちがさがしている人ね！
 \n
-Galil?! That's that colonel guy we were\n
-looking for!
+Galil?! That's that colonel guy we\n
+were looking for!
 <$00>
 
 // Pos: 00002355
@@ -404,9 +406,9 @@ April:
 //\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
 \n
 Before that, it was just another\n
-deserted planet where exiles and the
+deserted planet where exiles and
 <$0C>
-like lived.
+the like lived.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -414,9 +416,9 @@ April:
 //\nこの星とガリルがつながっている…\n光の私…船長はそんな言葉を口にしていたね。
 \n
 If Galil is "the light" like the captain\n
-said, Galil must think he's bound to the
+said, Galil must think he's bound to
 <$0C>
-planet.
+the planet.
 <$00><$11><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -424,9 +426,9 @@ Yolanda:
 //\n船長たちねぇ…そう言えばクロエちゃんの\nいい人ってタトラー船長のことでしょ。\nどこにいるの？ さがしてみない？
 \n
 The captain... Chloe did say she got\n
-along well with him. Shouldn't we track
+along well with him. Shouldn't we
 <$0C>
-him down?
+track him down?
 <$00><$10><$0B>
 //エイプリル：
 April:

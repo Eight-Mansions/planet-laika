@@ -17,8 +17,8 @@ Tommy:
 <$0D>
 //\nひゃひゃひゃ、お兄ちゃんよう、\n知ってるか、あいつら。
 \n
-Hehe, hey, comrade! Did you hear what\n
-happened at Psycho Lab?
+Hehe, hey, comrade! Did you hear\n
+what happened at Psycho Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -26,19 +26,19 @@ Tommy:
 //\nサイコハウスのやつら、\n電気でビリビリになりやがった。
 \n
 They zapped themselves up with a\n
-boatload of electricity and fried their
+boatload of electricity and fried
 <$0C>
-brains.
+their brains.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nへん、人のことバカにしやがって！\n地球にいりゃ白いマント着て\nたき火でダンス野郎だ、そうだろ、
 \n
-Shitbags must've thought they were at\n
-that level to wear big cloaks and dance
+Shitbags must've thought they were\n
+at that level to wear big cloaks and
 <$0C>
-around fire.
+dance around fire.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -71,8 +71,8 @@ Tommy:
 <$0D>
 //\n一番えらいのは所長じゃねぇ、\n電気イスのチャーリー様だ。
 \n
-No, it's not the name of anyone using it.\n
-The big honcho is the electric chair
+No, it's not the name of anyone using\n
+it. The big honcho is the electric chair
 <$0C>
 itself.
 <$0C><$0B>
@@ -81,8 +81,8 @@ Tommy:
 <$0D>
 //\nやつはなぁ、たまげた欲張りで、何カ月も\n処刑がないといらつきはじめるんだ。
 \n
-Charlie's a hungry boy, but hasn't had a\n
-meal in some months, so he's
+Charlie's a hungry boy, but hasn't had\n
+a meal in some months. He's
 <$0C>
 been...jittery.
 <$0C><$0B>
@@ -91,18 +91,20 @@ Tommy:
 <$0D>
 //\n早く新鮮な肉を食いてぇ、\n真っ黒焦げにして食いてぇってな。
 \n
-He needs his fresh meat, and fast. Just\n
-char the suckers up and bon appetit,
+He needs his fresh meat, and fast.\n
+Just char the suckers up and bon
 <$0C>
-a-yup!
+appetit, a-yup!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nチャーリーがいらいらすると、\n刑務所中の電気がぱちぱちするんだ、\n点いたり消えたりするんだ。
 \n
-When Charlie is hungry, the electricity\n
-in the entire prison flickers on and off.
+When Charlie is hungry, the\n
+electricity in the entire prison
+<$0C>
+flickers on and off.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -143,8 +145,8 @@ barbeque out here!
 <$0D>
 //\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
 \n
-Oi, why do I feel so...no! Goddammit,\n
-not here!
+Oi, why do I feel so...\n
+No! Goddammit, not here!
 <$0E><$1E><$17><$00>
 
 // Pos: 00003BEC
@@ -197,8 +199,8 @@ Red:
 <$0D>
 //\nちくしょう！\nコスマスをどこにやりやがった！ 来い！
 \n
-Grr, where did Cosmas go, huh?! Fine.\n
-YOU come with me!
+Grr, where did Cosmas go, huh?!\n
+Fine. YOU come with me!
 <$00>
 
 // Pos: 00003C80
@@ -213,8 +215,8 @@ Sammy:
 <$0D>
 //\nあら、あなた… でも変ね、\nさっきリャンハウスのところにいなかった？
 \n
-Hey, you look different! You didn't go to\n
-House Liang, did you?
+Hey, you look different! You didn't go\n
+to House Liang, did you?
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -247,9 +249,9 @@ Boomer:
 //\nやつらは夜を動かすんだ、\nいつでもどこでも、やつらなら夜にできる…\nあああ、もう終わりだ、終わりだ…
 \n
 They bump in the night, anytime,\n
-anywhere! They can do it all night... Oh,
+anywhere! They can do it all night...
 <$0C>
-it's over! It's all over!
+Oh, it's over! It's all over!
 <$00>
 
 // Pos: 00003D49
@@ -316,8 +318,10 @@ Sammy:
 <$0D>
 //\nアタシの他にもいろいろ？\nあはは、楽しいわね、ユカイだわ！
 \n
-Then that means there are others like\n
-me! Heehee, what fun! Oh, I love this!
+Then that means there are others\n
+like me! Heehee, what fun! Oh, I love
+<$0C>
+this!
 <$1E>
 //中
 中
@@ -342,10 +346,10 @@ Tommy:
 <$0D>
 //\nあー、チャーリー様だ、お肉の臭い、\nひへへへへなあ兄ちゃんよう、知ってるか？
 \n
-Charlie's got that bad meat smell right\n
-now. You know what that means,
+Charlie's got that bad meat smell\n
+right now. You know what that
 <$0C>
-right?
+means, right?
 <$1B>
 //？知ってる\n知らない
 ？Yes\n
@@ -364,10 +368,10 @@ Tommy:
 <$0D>
 //\nへへ、そうかい。\nいよいよ始まるんだ、蕃判やら奇跡やらだ。
 \n
-Heh, thought so. Both Judgement and\n
-miracles are stirring up in strange
+Heh, thought so. Both Judgement\n
+and miracles are stirring up in
 <$0C>
-ways.
+strange ways.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -413,16 +417,18 @@ Rummy:
 <$0D>
 //\nはは、コスマスだな。 僕もコスマスみたいに、\n心の友だちとお話できるようになってきたな。
 \n
-Oh, Cosmas. Hoho, I'm starting to talk\n
-to friends in my head the way he does.
+Oh, Cosmas. Hoho, I'm starting to\n
+talk to friends in my head the way he
+<$0C>
+does.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n僕にもいるんだな、\nいつもお酒を飲んでるけれどね。
 \n
-I have friends too, even if one of them\n
-does drink a lot.
+I have friends too, even if one of\n
+them does drink a lot.
 <$00>
 
 // Pos: 00003F73
@@ -455,8 +461,10 @@ Rummy:
 <$0D>
 //\nそうだね、僕のは建うね、\nダークマンじゃないね。
 \n
-Really? Then I guess Dark Man and I are\n
-different in more ways than one, huh.
+Really? Then I guess Dark Man and I\n
+are different in more ways than one,
+<$0C>
+huh.
 <$00>
 
 // Pos: 00003FC3
@@ -479,8 +487,10 @@ Cosmas:
 <$0D>
 //\nねぇ、ダークマン、\nそっちにいくとレッドおじさんがいるよ。\nきっといるよ。
 \n
-All right, Dark Man. If you go that way,\n
-you'll find Uncle Red. I'm sure of it.
+All right, Dark Man. If you go that\n
+way, you'll find Uncle Red. I'm sure of
+<$0C>
+it.
 <$00>
 
 // Pos: 0000401D
@@ -566,8 +576,8 @@ Rummy:
 <$0D>
 //\nへへ、金星人か…\n確かに金星人がいるのは本当だな、
 \n
-Hoho, it's true! The Venusians do exist,\n
-a-ha!
+Hoho, it's true! The Venusians do\n
+exist, a-ha!
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -592,8 +602,8 @@ Spacer:
 <$0D>
 //\n金星人はいる、\nけれど電波は届いてはいないんだな。
 \n
-So, there are Venusians, but we're not\n
-receiving their radio waves?
+So, there are Venusians, but we're\n
+not receiving their radio waves?
 <$00>
 
 // Pos: 0000415E

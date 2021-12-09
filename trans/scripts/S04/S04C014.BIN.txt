@@ -334,8 +334,8 @@ REGISTRANT NAME:\n
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
  NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO AN\n
-ADMINISTRATOR.
+DETAILS AND ASSISTANCE, SPEAK TO\n
+AN ADMINISTRATOR.
 <$00>
 
 // Pos: 00002375
@@ -426,8 +426,8 @@ Ernest:
 <$0D>
 //\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
 \n
-Can I ask you about mirrors? I've got a\n
-question about mirrors.
+Can I ask you about mirrors? I've got\n
+a question about mirrors.
 <$0C><$0B>
 //アーネスト：
 Ernest:
@@ -451,7 +451,9 @@ Ernest:
 //\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
 \n
 Does that matter? The people here\n
-just seem easily spooked by mirrors.
+just seem easily spooked by
+<$0C>
+mirrors.
 <$00><$13><$0B>
 //フェイ：
 Feng:
@@ -476,8 +478,8 @@ Ernest:
 <$0D>
 //\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
 \n
-Heh, so mirrors cultivate evil? Is that\n
-why you made yours?
+Heh, so mirrors cultivate evil? Is\n
+that why you made yours?
 <$00><$12><$0B>
 //フェイ：
 Feng:
@@ -499,10 +501,10 @@ Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit, and beauty incarnate.\n
-You can say she and I are...kindred
+A mirror spirit, and beauty\n
+incarnate. You can say she and I
 <$0C>
-spirits, hoho.
+are...kindred spirits, hoho.
 <$00><$12><$0B>
 //フェイ：
 Feng:
@@ -531,8 +533,8 @@ Spacer:
 <$0D>
 //\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
 \n
-Looking into the mirror only seems to\n
-stir hate. Was that mirror made to
+Looking into the mirror only seems\n
+to stir hate. Was that mirror made to
 <$0C>
 nurture evil?
 <$00><$13><$0B>
@@ -541,18 +543,18 @@ Feng:
 <$0D>
 //\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
 \n
-My, my! So, you do know. Indeed, when\n
-we let our inner evils destroy the
+My, my! So, you do know. Indeed,\n
+when we let our inner evils destroy
 <$0C>
-outer, we find Judgement.
+the outer, we find Judgement.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nフェイ、なぜあなたがそんな鏡を作る？\nなぜだ。
 \n
-But Feng, why would you make a mirror\n
-capable of doing that?
+But Feng, why would you make a\n
+mirror capable of doing that?
 <$00><$12><$0B>
 //フェイ：
 Feng:
@@ -575,7 +577,8 @@ Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。\n美の権化…
 \n
-A mirror spirit, and beauty incarnate.
+A mirror spirit, and beauty\n
+incarnate.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -597,8 +600,8 @@ Yolanda:
 <$0D>
 //\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
 \n
-Maybe. Say, I heard you were making a\n
-mirror or something.
+Maybe. Say, I heard you were making\n
+a mirror or something.
 <$00><$13><$0B>
 //フェイ：
 Feng:
@@ -606,9 +609,9 @@ Feng:
 //\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
 \n
 Oh, the Mirror of Judgement? So, you\n
-heard. But please, don't let that scare
+heard. But please, don't let that
 <$0C>
-you.
+scare you.
 <$00><$13><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -616,9 +619,9 @@ Yolanda:
 //\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
 \n
 Aww, you worry to much. It's just a\n
-trick mirror anyways, right? One that
+trick mirror anyways, right? One
 <$0C>
-makes people prettier?
+that makes people prettier?
 <$00><$13><$0B>
 //フェイ：
 Feng:
@@ -635,10 +638,10 @@ Feng:
 <$0D>
 //\nでもどうしようもないのよ。\nみんなみんな、自分の悪につぶされる、\nそれが蕃判よ。
 \n
-Think of it like Dorian Gray, where our\n
-inner evils are what destroy us. That is
+Think of it like Dorian Gray, where\n
+our inner evils are what destroy us.
 <$0C>
-Judgement.
+That is Judgement.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -661,26 +664,28 @@ Yolanda:
 <$0D>
 //\nアマンダ！ 知ってるわよ、その名前。\n確か…
 \n
-Amanda? I know I've heard the name,\n
-but who is she?
+Amanda? I know I've heard the\n
+name, but who is she?
 <$00><$12><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit, and beauty incarnate.\n
-You can say she and I are...kindred
+A mirror spirit, and beauty\n
+incarnate. You can say she and I
 <$0C>
-spirits, hoho.
+are...kindred spirits, hoho.
 <$00><$12><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
 \n
-Agatha is so deep into hypnotherapy, I\n
-wouldn't dream of stopping her!
+Agatha is so deep into\n
+hypnotherapy, I wouldn't dream of
+<$0C>
+stopping her!
 <$1E>
 //〇
 〇

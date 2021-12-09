@@ -95,8 +95,8 @@ Damian:
 <$0D>
 //\nあのふたりはね、\nこの星に呼ばれたってこと。
 \n
-The planet called out to those two, and\n
-they answered.
+The planet called out to those two,\n
+and they answered.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -110,33 +110,34 @@ Damian:
 <$0D>
 //\nふふふ、女の子だけ帰納の丘に誘導したよ…
 \n
-Hehee, the girl was led to the Inductive\n
-Hills.
+Hehee, the girl was led to the\n
+Inductive Hills.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nそれにしても不思議だなぁ、あんただけは\n誘導できなかったよ。
 \n
-Still, it's strange that you of all people\n
-were not called there.
+Still, it's strange that you of all\n
+people were not called there.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nなんでかな…最大のナゾだね。
 \n
-And why is that? That's the real puzzle.
+And why is that? That's the real\n
+puzzle.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\n女の子はこの先、帰納の丘にいるよ。\nちょっと疲れたみたいだったよ。
 \n
-Anyways, the girl seemed a little tired.\n
-She's through the Inductive Hills just
+Anyways, the girl seemed a little\n
+tired. She's through the Inductive
 <$0C>
-ahead.
+Hills just ahead.
 <$00>
 
 // Pos: 00003CAC
@@ -169,10 +170,10 @@ Damian:
 <$0D>
 //\nもっとも、この場所じゃなきゃ、\nだめだけどね。
 \n
-You need to do so out here in the sands,\n
-of course. If not, how am I supposed to
+You need to do so out here in the\n
+sands, of course. If not, how am I
 <$0C>
-hear?
+supposed to hear?
 <$1E>
 //炎
 炎
@@ -224,10 +225,10 @@ Damian:
 <$0D>
 //\n僕が誰かってことだよね。 僕は砂の子、\nえへへへへへ、でもオバケじゃないよ。
 \n
-I'm in my element, see? I'm the kid who\n
-shifts like the sand, remember? But
+I'm in my element, see? I'm the kid\n
+who shifts like the sand, remember?
 <$0C>
-I'm not a ghost!
+But I'm not a ghost!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -244,8 +245,8 @@ Damian:
 <$0D>
 //\n誘導っていうのは、その人を導くことなんだ。
 \n
-To lead someone is to show that person\n
-their way.
+To lead someone is to show that\n
+person their way.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -260,7 +261,8 @@ Damian:
 <$0D>
 //\nさて、帰らなきゃ、またね。
 \n
-Anyways, I guess I'd better head back.
+Anyways, I guess I'd better head\n
+back.
 <$1E>
 //炎
 炎
@@ -278,17 +280,18 @@ Damian:
 <$0D>
 //\nえへへへ、あんた、さびしがり屋さんなの。
 \n
-Heehee, you are one lonely customer!
+Heehee, you are one lonely\n
+customer!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\n僕に会いたいってことは、\nなにか開きたいことができたんだね。
 \n
-Looking for me like this means there's\n
-something you wish you could open up
+Looking for me like this means\n
+there's something you wish you
 <$0C>
-about.
+could open up about.
 <$00>
 
 // Pos: 00003E78
@@ -307,27 +310,28 @@ Damian:
 <$0D>
 //\nイーブルマインドのことだろ、\n顔に書いてあるさ。
 \n
-Evil Mind is sprawled all over your face.
+Evil Mind is sprawled all over your\n
+face.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nあんた、地球にマグマってあるの知ってるよね。\n火星のイーブルマインドは\nそれと同じようなものだよ。
 \n
-Evil Mind runs through Planet Mars the\n
-way magma courses through Planet
+Evil Mind runs through Planet Mars\n
+the way magma courses through
 <$0C>
-Earth.
+Planet Earth.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nときどき地上に吹き出してくるんだ。\nイーブルマインドって、簡単にいうと悪い気さ。\n心が弱いとね、すぐに影響される…
 \n
-And, like magma, sometimes it erupts.\n
-Its wickedness absorbs and devours
+And, like magma, sometimes it\n
+erupts. Its wickedness absorbs and
 <$0C>
-the weak-hearted.
+devours the weak-hearted.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -397,10 +401,10 @@ Damian:
 <$0D>
 //\nそれはオーラだよ。\nそうさ、あんたは火星の人間と話すだけで\n悪の影響を受けてるのさ。
 \n
-See, if you so much as talk to humans on\n
-Mars, you'll be touched by their evil
+See, if you so much as talk to humans\n
+on Mars, you'll be touched by their
 <$0C>
-aura.
+evil aura.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -416,7 +420,9 @@ Damian:
 //\n悪人だよ、すごいね。\n僕だって例外じゃないってこと。
 \n
 That means most everyone evil.\n
-Amazing, right? And I'm no exception!
+Amazing, right? And I'm no
+<$0C>
+exception!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -464,18 +470,18 @@ Damian:
 <$0D>
 //\nわりと当たり前のことだね… 悪の種類でしょ。\n３つあるって、そんなこともういいじゃない。
 \n
-I bet you want to know about the many\n
-traits of evil. There are three types,
+I bet you want to know about the\n
+many traits of evil. There are three
 <$0C>
-but...
+types, but...
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nそれよりさ、欲悪がビジュアル系っていうのは、\nなんだか建わない？
 \n
-...their traits aren't so simple! You see,\n
-greed is a Visual type trait.
+...their traits aren't so simple! You\n
+see, greed is a Visual type trait.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -490,8 +496,10 @@ Damian:
 <$0D>
 //\nねぇ、欲悪ってコロニーには\nリンダとマラケシュしかいないけど、\n他にもいるって知ってる？
 \n
-Linda and Marrakech won't be the only\n
-greedy people you meet in the colony.
+Linda and Marrakech won't be the\n
+only greedy people you meet in the
+<$0C>
+colony.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -533,16 +541,18 @@ Damian:
 <$0D>
 //\n消灯時間って知ってる？\nコロニーの不思議さ。
 \n
-"What mystery", you ask? Well, do you\n
-know what "lights-out" time is?
+"What mystery", you ask? Well, do\n
+you know what "lights-out" time is?
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\n消灯って夜のことだろ…\nだから夜なら分かるんだけど、\nそれだけじゃないんだ、消灯時間は。
 \n
-Sure, we all turn the lights out at night,\n
-but the colony all does so at a set time.
+Sure, we all turn the lights out at\n
+night, but the colony all does so at a
+<$0C>
+set time.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -587,8 +597,8 @@ Damian:
 <$0D>
 //\nいきなりだけど、夢の話なんてどう？
 \n
-I know it's random, but do you want to\n
-talk about dreams?
+I know it's random, but do you want\n
+to talk about dreams?
 <$00>
 
 // Pos: 00004303
@@ -614,29 +624,29 @@ Damian:
 //\nずっと遠くに見えてるんだ… よくあるんだよ、\n僕は遠くに人形が見えてる。
 \n
 We dream of things well beyond our\n
-reach. For me, I sometimes see a doll in
+reach. For me, I sometimes see a doll
 <$0C>
-the far distance.
+in the far distance.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\n一抱えもある大きな人形、\nそれが真っ黒なんだよ。\n目もなにもなし、とにかく真っ黒さ。
 \n
-It's a large-armed doll that's all black.\n
-It doesn't have eyes either. It's pitch
+It's a large-armed doll that's all\n
+black. It doesn't have eyes either.
 <$0C>
-black all over.
+It's pitch black all over.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nまるで夜がそのまま人形になったみたいなんだ。\nでも、その人形となにするわけでもなくて、\nただ僕は遠くから見てるだけなんだけどね…
 \n
-It's as if the night sky became a doll that\n
-does nothing. I can only watch it from
+It's as if the night sky became a doll\n
+that does nothing. I can only watch it
 <$0C>
-afar.
+from afar.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -644,7 +654,9 @@ Damian:
 //\n夢ってそんなもんだよね、おかしいね。\nさて、そろそろ、帰るね。
 \n
 Dreams are strange like that, aren't\n
-they. And with that, I'd better go home.
+they. And with that, I'd better go
+<$0C>
+home.
 <$1E>
 //炎
 炎
@@ -662,8 +674,8 @@ Damian:
 <$0D>
 //\nねぇ、あんたはなにをされるのがイヤなの？
 \n
-Hey, have you ever had to do something\n
-you didn't want to do?
+Hey, have you ever had to do\n
+something you didn't want to do?
 <$00>
 
 // Pos: 00004438
@@ -679,9 +691,9 @@ Damian:
 //\nオトナになっていやなことって、\n本当はコドモのころにすごくいやな目に\nあってるんだよ…
 \n
 Know what I hate about becoming an\n
-adult? Having really bad experiences
+adult? Having really bad
 <$0C>
-with adults as a kid.
+experiences with adults as a kid.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -700,9 +712,9 @@ Damian:
 //\n誰かをギセイにしてね。\n人間ってどうしていつもくり返すんだろ。
 \n
 We all have someone to blame, don't\n
-we? Why do humans doom themselves
+we? Why do humans doom
 <$0C>
-to repetition so? 
+themselves to repetition so? 
 <$1E>
 //炎
 炎
@@ -727,8 +739,8 @@ Damian:
 <$0D>
 //\nヤツギバヤは止してくれ。分かる？\nヤツギバヤだよ、それ、きらいなんだ。
 \n
-Stop calling on me back-to-back, over\n
-and over! I hate it!
+Stop calling on me back-to-back,\n
+over and over! I hate it!
 <$1E>
 //炎
 炎

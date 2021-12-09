@@ -103,7 +103,9 @@ True Faiths:
 //\n人間の顔！ばかばかしい！\n顔に意味を与えているのは、お前たち人間だ。
 \n
 Human faces?! Foolish! You humans\n
-alone give your faces any significance.
+alone give your faces any
+<$0C>
+significance.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -148,9 +150,9 @@ True Faiths:
 //\n人間はそう呼ぶ。\nしかし、我々は火星人でも宇宙人でもない。
 \n
 Humans may call Us by that name.\n
-However, We are neither Martian nor
+However, We are neither Martian
 <$0C>
-Alien.
+nor Alien.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -173,8 +175,8 @@ Spacer:
 <$0D>
 //\n私は地球人…地球から来た…
 \n
-I came here from Earth, so that would\n
-make me an Earthling.
+I came here from Earth, so that\n
+would make me an Earthling.
 <$00>
 
 // Pos: 00003934
@@ -192,28 +194,30 @@ True Faiths:
 <$0D>
 //\nおろかな！地球に住むから地球人か！\nロケットに乗るから宇宙飛行士か！
 \n
-Because you come from Earth, you're\n
-an Earthling? Because you ride a
+Because you come from Earth,\n
+you're an Earthling? Because you
 <$0C>
-rocket, you're a cosmonaut?!
+ride a rocket, you're a cosmonaut?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n子をもうければ父親か、盗みを働けば犯罪者か、\n闘いの場では兵士か、お前達はいつも\n都合のいい自分を用意している。
 \n
-If you have a child, you're a father? If\n
-you take, you're a thief? If you fight,
+If you have a child, you're a father?\n
+If you take, you're a thief? If you
 <$0C>
-you're a soldier?
+fight, you're a soldier?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n真の自分を隠し、目をそらせ、\n何色にでも染まろうとする。
 \n
-You are foolish to hide your true selves\n
-under countless titles of convenience!
+You are foolish to hide your true\n
+selves under countless titles of
+<$0C>
+convenience!
 <$00>
 
 // Pos: 000039F7
@@ -228,10 +232,11 @@ Spacer:
 <$0D>
 //\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
 \n
-Listen, in our social structure, humans\n
-are given roles: fathers, teachers,
+Listen, in our social structure,\n
+humans are given roles: fathers,
 <$0C>
-mothers, children, et cetera.
+teachers, mothers, children, et\n
+cetera.
 <$00>
 
 // Pos: 00003A55
@@ -249,7 +254,7 @@ True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
 \n
-"Roles"..."structure"...hah! Then We\n
+"Roles"... "Structure"... Hah! Then We\n
 ask you, why do you kill each other?
 <$0C><$0B>
 //トゥルーフェイス：
@@ -285,8 +290,8 @@ Spacer:
 <$0D>
 //\nひとりひとりが、個性を持ち、\n生きているからだ。
 \n
-Because each and every one of us has a\n
-personal story to tell.
+Because each and every one of us has\n
+a personal story to tell.
 <$00>
 
 // Pos: 00003B2F
@@ -304,7 +309,7 @@ True Faiths:
 <$0D>
 //\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
 \n
-"Personal"...another convenience\n
+"Personal"... Another convenient\n
 word. Now, imagine organs in the
 <$0C>
 human body were "personal".
@@ -314,15 +319,15 @@ True Faiths:
 <$0D>
 //\nひとつひとつの器官には、\n決まった役割が与えられている。
 \n
-Each and every organ is fixed to serve\n
-the whole.
+Each and every organ is fixed to\n
+serve the whole.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nそれは個性などではない。\n心臓は脳にはなれない、\n口は耳にはなれない。
-A heart cannot be a brain.\n
-Nor a mouth, an ear.
+A heart cannot be a\n
+brain. Nor a mouth, an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -347,10 +352,10 @@ Spacer:
 <$0D>
 //\n火星人… いや、あなたたちは、\n全体でひとつの個性を持つ。そう開いたが。
 \n
-I heard the Martians...I mean, you, are\n
-a collective consciousness devoid of
+I heard the Martians...I mean, you,\n
+are a collective consciousness
 <$0C>
-individuality.
+devoid of individuality.
 <$00>
 
 // Pos: 00003C3C
@@ -368,10 +373,10 @@ True Faiths:
 <$0D>
 //\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない。\nそこにお前たちの顔が災いをもたらせたのだ。
 \n
-Indeed, We do not see "individuality".\n
-Your faces ignited Our destruction in
+Indeed, We do not see\n
+"individuality". Your faces ignited
 <$0C>
-its entirety.
+Our destruction in its entirety.
 <$00>
 
 // Pos: 00003C8D
@@ -460,8 +465,8 @@ Wisdom...
 True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
-To "see the world in a grain\n
-of said? See heaven in a single\n
+To "see the world in a\n
+grain of said? See heaven in a single\n
 wildflower"?
 <$0C><$0B>
 //トゥルーフェイス：
@@ -483,8 +488,8 @@ True Faiths:
 <$0D>
 //\n神の言葉なのか、それとも妄想なのか。\nお前たちは間建っている！
 \n
-Can you not differentiate the Word of\n
-God and delusion, you insects?!
+Can you not differentiate the Word\n
+of God and delusion, you insects?!
 <$00>
 
 // Pos: 00003E2C

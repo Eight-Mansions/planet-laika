@@ -24,8 +24,8 @@ Captain Tatler:
 <$0D>
 //\nよかった、ちょうどよかった！\n助けてくれ！
 \n
-Laika, am I glad to see you! You've gotta\n
-help me!
+Laika, am I glad to see you! You've\n
+gotta help me!
 <$00>
 
 // Pos: 00001C84
@@ -124,8 +124,8 @@ Ernest:
 <$0D>
 //\nおっさんよう、何やってんだ？ ひとりで？
 \n
-Are you kidding, old man?! You can't go\n
-in by yourself!
+Are you kidding, old man?! You can't\n
+go in by yourself!
 <$00>
 
 // Pos: 00001D71
@@ -148,10 +148,10 @@ Oxygen Miner 5：
 <$0D>
 //\n夢も希望も妄想も、心から現れたもの、\n全てが燃える、シー。
 \n
-Dreams, hopes, delusions! All will rish,\n
-whoosh! From the heart, whoosh! All
+Dreams, hopes, delusions! All will\n
+rish, whoosh! From the heart,
 <$0C>
-will burn!
+whoosh! All will burn!
 <$1E>
 //理
 理

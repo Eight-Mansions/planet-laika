@@ -46,8 +46,8 @@ White Eagle:
 <$0D>
 //\nお仲間も\nこの星の悪意に憑かれたのじゃな。
 \n
-Then, mayhaps, they are bewitched by\n
-the ill will of the planet.
+Then, mayhaps, they are bewitched\n
+by the ill will of the planet.
 <$00>
 
 // Pos: 00003C7F
@@ -77,8 +77,8 @@ White Eagle:
 <$0D>
 //\nふほほ、この星は悪意を持っておるのう。\nわしらはイーブルマインドと呼んでおる。
 \n
-Haww, this planet is rife with ill will! We\n
-call its miasma "Evil Mind".
+Haww, this planet is rife with ill will!\n
+We call its miasma "Evil Mind".
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -165,7 +165,8 @@ White Eagle:
 <$0D>
 //\n黒い騎士の話は知っておるか？
 \n
-Do you know the tale of the Black Rider?
+Do you know the tale of the Black\n
+Rider?
 <$00>
 
 // Pos: 00003DC5
@@ -188,7 +189,9 @@ April:
 //\n世界に死をもたらし、破滅に導く黒い騎士…\nそれがどうかしたの？
 \n
 He was a black-clad horseman who\n
-beckoned death and ruin to the world.
+beckoned death and ruin to the
+<$0C>
+world.
 <$00>
 
 // Pos: 00003E0A
@@ -296,20 +299,20 @@ April:
 <$0D>
 //\nいいえ、何にも。私たちの任務は、\n火星に妙なウワサがあると\n地球化計画が進まない…
 \n
-No, not a thing! Earth received strange\n
-rumors halting the terraformation
+No, not a thing! Earth received\n
+strange rumors halting the
 <$0C>
-project.
+terraformation project.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nだからウワサの出所を突きとめることなの。\nガリル大佐が何か関係してる、\nそこまではつかんでいるのよ。
 \n
-Our unit's mission is to investigate, and\n
-maybe find out what happened to
+Our unit's mission is to investigate,\n
+and maybe find out what happened
 <$0C>
-Colonel Galil.
+to Colonel Galil.
 <$00>
 
 // Pos: 00003F8F
@@ -325,9 +328,9 @@ White Eagle:
 //\nふほふほふほ！ 地球化計画とな…\nまたぞろぞろ人がやってくるのか…
 \n
 Haww, haww, haww!\n
-Terraformation... Yes, I see. Is this to
+Terraformation... Yes, I see. Is this
 <$0C>
-bring MORE people back to Mars?
+to bring MORE people back to Mars?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -366,8 +369,8 @@ White Eagle:
 <$0D>
 //\n人というのは必ず心のスミに\n悪をはびこらせておるのじゃ。\nその悪がいかん。
 \n
-All people carry evil in their hearts. It is\n
-that evil we cannot afford to come
+All people carry evil in their hearts. It\n
+is that evil we cannot afford to come
 <$0C>
 here.
 <$00>
@@ -457,8 +460,8 @@ April:
 <$0D>
 //\n悪い人じゃない、それしか言えないわ。\nまだ見込みはありますか？
 \n
-They're not evil, I can say that much. Is\n
-that enough for you?!
+They're not evil, I can say that much.\n
+Is that enough for you?!
 <$00>
 
 // Pos: 00004143
@@ -473,8 +476,10 @@ White Eagle:
 <$0D>
 //\n悪い人じゃない…そういうことなら、ふほ、\nあそこに行くがよい。
 \n
-Not evil, eh? If you're so sure, go now,\n
-and bear witness with your own eyes.
+Not evil, eh? If you're so sure, go\n
+now, and bear witness with your
+<$0C>
+own eyes.
 <$00>
 
 // Pos: 00004171
@@ -643,8 +648,8 @@ April:
 <$0D>
 //\n行きましょ、\nブリックロードの黒いカベのところよ。
 \n
-All right, Laika. Let's go to the black wall\n
-on Brick Road.
+All right, Laika. Let's go to the black\n
+wall on Brick Road.
 <$00>
 
 // Pos: 000042C1
@@ -663,8 +668,8 @@ April:
 <$0D>
 //\n行きましょ、\nブリックロードの黒いカベのところよ。
 \n
-All right, Laika. Let's go to the black wall\n
-on Brick Road.
+All right, Laika. Let's go to the black\n
+wall on Brick Road.
 <$00>
 
 // Pos: 000042E7

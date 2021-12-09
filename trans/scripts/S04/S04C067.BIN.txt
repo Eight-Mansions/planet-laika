@@ -25,8 +25,8 @@ Marrakech:
 <$0D>
 //\nまさかあなたも…建うでしょうね、そうよね、\nレッドのやつはフケツよ、\nすこぶるつきのフケツ野郎。
 \n
-...Sorry. I guess you're different. Red\n
-is the fuck up, not you. Fucking
+...Sorry. I guess you're different.\n
+Red is the fuck up, not you. Fucking
 <$0C>
 mongrel.
 <$0C><$0B>
@@ -157,7 +157,8 @@ I don't like it here.
 <$0B><$0D>
 //約束だコスマス。\nお前を苦悩から解き放ってやる、\n今がその時だ。
 Rest assured, Cosmas. Now is the\n
-time we free you from your suffering.
+time we free you from your\n
+suffering.
 <$00>
 
 // Pos: 00003685
@@ -172,8 +173,8 @@ Cosmas:
 <$0D>
 //\nどうやって？\nまたあの布をかぶせるの？
 \n
-But how is covering me with that cloth\n
-again going to do that?
+But how is covering me with that\n
+cloth again going to do that?
 <$00>
 
 // Pos: 000036A3
@@ -222,8 +223,8 @@ Marrakech:
 <$0D>
 //\nコスマスはどんどんきれいになって、\nアタシは置いてけぼり。 いっつもそう。
 \n
-Cosmas is always getting prettier and\n
-prettier while I'm out in the dirt.
+Cosmas is always getting prettier\n
+and prettier while I'm out in the dirt.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -239,7 +240,9 @@ Marrakech:
 //\nふふふ、人生だって、\nみんなの後を追いかけてるようなもの。
 \n
 But, c'est la vie. We chase after\n
-everyone we feel is miles ahead of us.
+everyone we feel is miles ahead of
+<$0C>
+us.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -280,8 +283,8 @@ Marrakech:
 <$0D>
 //\n元が良くないなんて、言わせないから…\nねぇそうよね？
 \n
-I'm not acting like my original face was\n
-that bad...am I?
+I'm not acting like my original face\n
+was that bad...am I?
 <$00>
 
 // Pos: 00003803
@@ -342,8 +345,10 @@ Marrakech:
 <$0D>
 //\nあああ、また憎しみが深くなるのね…\nもうおしまいよ。
 \n
-If he sees Cosmas now, his hatred will\n
-take over. There'd be no turning back.
+If he sees Cosmas now, his hatred\n
+will take over. There'd be no turning
+<$0C>
+back.
 <$1E>
 //行
 行
@@ -361,8 +366,10 @@ Marrakech:
 <$0D>
 //\nコスマスの犬顔、レッドが見たら怒り狂うわよ。\nあなた、見つからないようにしなきゃ。
 \n
-If Red sees Cosmas' face, he'll riot.\n
-You'd both better keep away from Red.
+If Red sees Cosmas's face, he'll riot.\n
+You'd both better keep away from
+<$0C>
+Red.
 <$1E>
 //中
 中
@@ -399,9 +406,9 @@ Linda:
 //\nすごい集中してるんだけどー、\nなんかアタシじゃないみたいなのー。\n他人みたいなのー。
 \n
 It's like I'm really focused on\n
-something, but not as myself. It's like
+something, but not as myself. It's
 <$0C>
-I'm someone else.
+like I'm someone else.
 <$1E>
 //行
 行
@@ -448,10 +455,10 @@ Linda:
 <$0D>
 //\nなんだかねー、あんたが来てから\nおかしなことばっかよー。
 \n
-I don't know how to explain it, but I've\n
-had the strangest feeling ever since
+I don't know how to explain it, but\n
+I've had the strangest feeling ever
 <$0C>
-you came here.
+since you came here.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -533,19 +540,19 @@ Linda:
 //\nそれであんたがやってきて…
 \n
 That must be how you were able to\n
-book a free ride here. Hehe, I'm right,
+book a free ride here. Hehe, I'm
 <$0C>
-aren't I?
+right, aren't I?
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
 \n
-You probably accepted whatever job\n
-Earth gave you, so that you could get
+You probably accepted whatever\n
+job Earth gave you, so that you could
 <$0C>
-your face done on the side!
+get your face done on the side!
 <$1E>
 //行
 行
@@ -573,20 +580,20 @@ Linda:
 <$0D>
 //\nフェイが手に入れたの、その布。\nかぶせると、布の表面に顔が現れて、\nしばらくするとその顔になれるの。
 \n
-Once your face is covered, a face rises\n
-up to the surface of the cloth, and it
+Once your face is covered, a face\n
+rises up to the surface of the cloth,
 <$0C>
-sticks.
+and it sticks.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあの布は火星にしかないんだから。
 \n
-Give it more time, and it becomes your\n
-face. The cloth that does this exists
+Give it more time, and it becomes\n
+your face. The cloth that does this
 <$0C>
-only on Mars.
+exists only on Mars.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -603,10 +610,10 @@ Linda:
 <$0D>
 //\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
 \n
-You probably accepted whatever job\n
-Earth gave you, so that you could get
+You probably accepted whatever\n
+job Earth gave you, so that you could
 <$0C>
-your face done on the side!
+get your face done on the side!
 <$1E>
 //行
 行
@@ -635,8 +642,10 @@ Cosmas:
 <$0D>
 //\n僕、ときどき夢見るんだ、\n裏側からこの部屋、見てるんだ。
 \n
-Sometimes, when I dream, I'm looking\n
-into this room from the other side...
+Sometimes, when I dream, I'm\n
+looking into this room from the other
+<$0C>
+side...
 <$0C><$0B>
 //コスマス：
 Cosmas:

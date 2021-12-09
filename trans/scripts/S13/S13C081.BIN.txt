@@ -21,7 +21,9 @@ Is this my...no! I didn't see this!\n
 
 <$0F>
 //だ、あいつだ！\nここが憎しみの原点なのか！
- did! Was this the origin of their hatred?
+ did! Was this the origin of their
+<$0C>
+hatred?
 <$0E><$5A><$17><$00>
 
 // Pos: 00001D82

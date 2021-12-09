@@ -17,8 +17,8 @@ Gold:
 <$0D>
 //\nなんかバチバチ音がするんだ。\nロッジの方からだ。
 \n
-There's a crackling noise coming from\n
-the lodge.
+There's a crackling noise coming\n
+from the lodge.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -42,9 +42,9 @@ Gold:
 //\nお前らが来てからロクなことがねぇ。\nまたバチバチしてきたぜ、
 \n
 Nothing good's come out of you\n
-Earthlings showin' up. Blowin' sparks
+Earthlings showin' up. Blowin'
 <$0C>
-wherever you go.
+sparks wherever you go.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -96,15 +96,17 @@ Goldman:
 //\nははは、バカめ。\n俺はゴールドマン、誰よりも強い。
 \n
 Heyyyy, tweaker! I'm Goldman, and\n
-I'm tougher than every last one of you!
+I'm tougher than every last one of
+<$0C>
+you!
 <$0C><$0B>
 //ゴールドマン：
 Goldman:
 <$0D>
 //\n俺に刃向かうなど、もってのほかだ、\n分かったか。
 \n
-There's no way you can take me on, got\n
-it?
+There's no way you can take me on,\n
+got it?
 <$00>
 
 // Pos: 000026EE
@@ -119,7 +121,7 @@ Goldman:
 <$0D>
 //\n弱いやつほどおしゃべりだ。\n俺は建うぜ。
 \n
-The less they bite, the more they bark.\n
-I'm not like that.
+The less they bite, the more they\n
+bark. I'm not like that.
 <$00>
 

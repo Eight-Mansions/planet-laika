@@ -29,8 +29,8 @@ Yolanda:
 <$0D>
 //\nその声は… タニアね！ ちょっと、\nアタシの声、開こえる？ タニア！
 \n
-That voice...! Tanya! Wait, can you hear\n
-me, Tanya?! Tanya!
+That voice...! Tanya! Wait, can you\n
+hear me, Tanya?! Tanya!
 <$00>
 
 // Pos: 0000093F
@@ -60,16 +60,18 @@ Yolanda:
 <$0D>
 //\n何の話なの… ロケットって…\nあたしはそんなオモチャはいらないわよ。
 \n
-What are you talking about, "rocket"...\n
-I don't want that damn toy.
+What are you talking about,\n
+"rocket"... I don't want that damn
+<$0C>
+toy.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nねぇタニア、いるのなら出てきて…
 \n
-...Hey, Tanya. If you're really here, can\n
-I...see you?
+...Hey, Tanya. If you're really here,\n
+can I...see you?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:

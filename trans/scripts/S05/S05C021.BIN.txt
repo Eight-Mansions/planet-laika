@@ -17,8 +17,8 @@ April:
 <$0D>
 //\nバーにいた連中、イヤな惑じね。
 \n
-Those two back at the bar gave me the\n
-worst vibes, you know?
+Those two back at the bar gave me\n
+the worst vibes, you know?
 <$00>
 
 // Pos: 00002A36
@@ -33,8 +33,10 @@ April:
 <$0D>
 //\n火星には３種類の悪人がいるんだって…\nアガタっていう人が教えてくれたの。
 \n
-A person named Agatha told me, "There\n
-are 3 types of evil on Mars," but...
+A person named Agatha told me,\n
+"There are 3 types of evil on Mars,"
+<$0C>
+but...
 <$0C><$0B>
 //エイプリル：
 April:
@@ -42,7 +44,9 @@ April:
 //\nバーのふたりと、金星人を信じてるマウンテンは\nきっと建う種類の悪人よね。
 \n
 ...they and that Venusian guy,\n
-Mountain, seem evil in different ways.
+Mountain, seem evil in different
+<$0C>
+ways.
 <$00>
 
 // Pos: 00002A9E
@@ -167,7 +171,9 @@ Noble Rock:
 //\nタンキー人形がひっくり返ったのだ！\n逆ドールダンスだ！
 \n
 The turn-key doll capsized itself! It\n
-began the REVERSE doll dance instead!
+began the REVERSE doll dance
+<$0C>
+instead!
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -240,7 +246,8 @@ Crow:
 <$0D>
 //\nメディスンマンのやつらは出かけたぜ。
 \n
-Those medicine men-people went out.
+Those medicine men-people went\n
+out.
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -248,9 +255,9 @@ Crow:
 //\n善人が見つかったそうだ。\n善人だとよ、そりゃお宝だぁ、ひゃ！
 \n
 It seems they finally found a good\n
-person. A good person, kek! Their new
+person. A good person, kek! Their
 <$0C>
-treasure!
+new treasure!
 <$1E>
 //理
 理
@@ -268,8 +275,8 @@ Crow:
 <$0D>
 //\n善人って誰のことだ、ひゃ！
 \n
-Who do you think this "good person" is,\n
-kek!
+Who do you think this "good person"\n
+is, kek!
 <$1E>
 //鋭
 鋭

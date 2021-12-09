@@ -48,8 +48,8 @@ Marrakech:
 <$0D>
 //\nアタシは洗顔に来たのよ、\n寝る前のお洗顔よ。
 \n
-I came for a face-wash. I like to get my\n
-face washed up before bed.
+I came for a face-wash. I like to get\n
+my face washed up before bed.
 <$00>
 
 // Pos: 00001F9F
@@ -64,8 +64,8 @@ Marrakech:
 <$0D>
 //\n地球じゃご法度よね、お顔なんて。
 \n
-Human faces are still banned on Earth,\n
-right?
+Human faces are still banned on\n
+Earth, right?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -73,9 +73,9 @@ Marrakech:
 //\n犬の顔で人類が平和になった、\nそう教えられてきたものね。
 \n
 I remember being taught that the\n
-trade for our dog faces ensured peace
+trade for our dog faces ensured
 <$0C>
-for mankind.
+peace for mankind.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -83,15 +83,17 @@ Marrakech:
 //\nでもガマンすることないのよ。\n火星人は人間の顔の記憶を残して滅んだの。
 \n
 Peace from what, huh? The Martians\n
-died off and took our faces with them!
+died off and took our faces with
+<$0C>
+them!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nそれがあの人面岩、ザ・フェイスよ。
 \n
-At least they left us that mountain, the\n
-Face. Talk about a sick momento.
+At least they left us that mountain,\n
+the Face. Talk about a sick momento.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -145,7 +147,7 @@ Marrakech:
 <$0D>
 //\n変ねぇ…どっかで会った気がするのよ…\n気のせい？
 \n
-Dear...have we met before, or did I\n
+Dear... Have we met before, or did I\n
 imagine it?
 <$00>
 
@@ -161,8 +163,8 @@ Veronica:
 <$0D>
 //\nあんたも仲間なの？\nあいつらと一緒なの？
 \n
-Where those two your friends? Did you\n
-come here with them?
+Where those two your friends? Did\n
+you come here with them?
 <$00>
 
 // Pos: 00002106
@@ -177,8 +179,10 @@ Veronica:
 <$0D>
 //\n簡単よ、あいつら動かすの。\nあんたもあいつらみたいに簡単なの？
 \n
-What a couple of knucklebones. You're\n
-not a pushover like they are, I hope,
+What a couple of knucklebones.\n
+You're not a pushover like they are, I
+<$0C>
+hope,
 <$00>
 
 // Pos: 00002137
@@ -201,18 +205,20 @@ Veronica:
 <$0D>
 //\nサイコロに命令するようなものよ。\n何回かに一回、必ず命令通りになるの。
 \n
-That's an old dice game. You take turns\n
-until someone rolls a Venus and wins
+That's an old dice game. You take\n
+turns until someone rolls a Venus and
 <$0C>
-the pot.
+wins the pot.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nだから私、命令をためてる。\nいざっていう時に使うのよ。
 \n
-Figuratively speaking, I'd rather save\n
-my lucky rolls for the perfect moment.
+Figuratively speaking, I'd rather\n
+save my lucky rolls for the perfect
+<$0C>
+moment.
 <$00>
 
 // Pos: 000021B9
@@ -228,9 +234,9 @@ Veronica:
 //\n今は…そうでもないよ。\n今がいざっていう時じゃないってこと。
 \n
 Getting those two out of your hair\n
-was...an exception, so you're the lucky
+was...an exception, so you're the
 <$0C>
-roller here.
+lucky roller here.
 <$00>
 
 // Pos: 000021E7
@@ -292,7 +298,9 @@ Veronica:
 //\nあいつ、大キライ。スモーキー…\n死んでしまえばいいのよ。\nあんたもきっとそう思うから。
 \n
 I hate that guy, Smokey. I'd rather he\n
-died. If you ever met him, you'd agree.
+died. If you ever met him, you'd
+<$0C>
+agree.
 <$1E>
 //鋭
 鋭
@@ -312,10 +320,10 @@ Veronica:
 <$0D>
 //\n鏡ができたら、エッジは戻ってくる。\nみんないなくなってから、戻ってくるのよ。
 \n
-When the mirror is complete, Edge will\n
-appear.  When everyone disappears,
+When the mirror is complete, Edge\n
+will appear.  When everyone
 <$0C>
-they will apper.
+disappears, they will apper.
 <$1E>
 //鋭
 鋭
@@ -333,7 +341,8 @@ Linda:
 <$0D>
 //\nあらー、マラケシュに用なのー。
 \n
-Gosh, Marrakech is such a worrywart.
+Gosh, Marrakech is such a\n
+worrywart.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -355,8 +364,10 @@ Linda:
 <$0D>
 //\nあんたー、カタブツ？\nヴァニティフェイスに興味ないのー？
 \n
-You look spick-and-span, though. So,\n
-are you here to get your Vanity Face?
+You look spick-and-span, though.\n
+So, are you here to get your Vanity
+<$0C>
+Face?
 <$1E>
 //〇
 〇
@@ -401,10 +412,10 @@ Linda:
 <$0D>
 //\nどっちがイケてるかって、\n開きたいけどやめるー。
 \n
-I'd ask which of you is better-looking,\n
-but I don't want to open that can of
+I'd ask which of you is\n
+better-looking, but I don't want to
 <$0C>
-worms.
+open that can of worms.
 <$1E>
 //〇
 〇
@@ -422,8 +433,10 @@ Linda:
 <$0D>
 //\nねえ、ちょっと、あんたずるいよー。\nあんな可愛いコと一緒だなんてー。
 \n
-Wow, I can't believe you were walking\n
-around with such a pretty woman!
+Wow, I can't believe you were\n
+walking around with such a pretty
+<$0C>
+woman!
 <$0C><$0B>
 //リンダ：
 Linda:

@@ -42,8 +42,8 @@ White Eagle(?):
 <$0D>
 //\n神はいつもおいでじゃ。\nだがやつは、ガリルは神ではない！
 \n
-God was always here. However, Galil,\n
-is no god!
+God was always here. However,\n
+Galil, is no god!
 <$00>
 
 // Pos: 00002F90
@@ -58,10 +58,10 @@ Laika(?):
 <$0D>
 //\nガリルが神？\nすごいことになってるんだね。
 \n
-Indeed. Galil really did go off the deep\n
-end, if he thought he could achieve
+Indeed. Galil really did go off the\n
+deep end, if he thought he could
 <$0C>
-godhood.
+achieve godhood.
 <$00>
 
 // Pos: 00002FB3
@@ -143,10 +143,10 @@ stairway to God as we speak.
 <$0D>
 //\n得体の知れない死の情熱で、\n肉体を超えた存在になろうとしておるのじゃ。
 \n
-He means to embracing his reason for\n
-dying to become that which exceeds
+He means to embracing his reason\n
+for dying to become that which
 <$0C>
-the flesh.
+exceeds the flesh.
 <$00>
 
 // Pos: 00003022
@@ -161,10 +161,10 @@ Laika(?):
 <$0D>
 //\n死の情熱？\nまるで自殺願望だね、それじゃ。
 \n
-And to that end, that was his reason for\n
-dying? It sounds like he had a suicidal
+And to that end, that was his reason\n
+for dying? It sounds like he had a
 <$0C>
-ideation.
+suicidal ideation.
 <$00>
 
 // Pos: 0000304B
@@ -187,9 +187,9 @@ White Eagle(?):
 //\n心の悪のそのすべてを浄化したとき、\n永遠の存在になるというのじゃ。
 \n
 It is said that when one purifies their\n
-mind of all evil, they become an eternal
+mind of all evil, they become an
 <$0C>
-existence.
+eternal existence.
 <$00>
 
 // Pos: 000030A4
@@ -297,8 +297,8 @@ White Eagle(?):
 <$0D>
 //\nお前の心に積もった悪をな。
 \n
-The evil that has accumulated in one's\n
-mind, that is.
+The evil that has accumulated in\n
+one's mind, that is.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -306,9 +306,9 @@ White Eagle(?):
 //\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
 \n
 But you cannot use it on yourself.\n
-There needs to be someone into whom
+There needs to be someone into
 <$0C>
-that evil is transferred
+whom that evil is transferred
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -333,8 +333,10 @@ Laika(?):
 <$0D>
 //\n人をギセイにするんだ…\nその人はおかしくなるの？
 \n
-So, I'd be pushing my evil onto someone\n
-else? And making them sick?
+So, I'd be pushing my evil onto\n
+someone else? And making them
+<$0C>
+sick?
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -364,18 +366,18 @@ White Eagle(?):
 <$0D>
 //\nその力はやがて役に立つじゃろうて。\nふほふほ。
 \n
-But, even if that is a risk, you will need\n
-to use this power soon enough.
+But, even if that is a risk, you will\n
+need to use this power soon enough.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nお前には資質があるということじゃなぁ。\nまことにそういうことじゃ。
 \n
-This conversation proves you have the\n
-qualities we need. This is the moment
+This conversation proves you have\n
+the qualities we need. This is the
 <$0C>
-of truth.
+moment of truth.
 <$00>
 
 // Pos: 00003314
@@ -390,8 +392,8 @@ Laika(?):
 <$0D>
 //\n資質って？僕は特別なの？
 \n
-What qualities do I have? What makes\n
-me so special?
+What qualities do I have? What\n
+makes me so special?
 <$00>
 
 // Pos: 00003332
@@ -407,17 +409,17 @@ White Eagle(?):
 //\nふほ、お前とそれからもうひとりの…\nふほ、もしや預言にあるマコトの双子…
 \n
 Haww, that you are part of another,\n
-like the Twins of Truth spoken of in the
+like the Twins of Truth spoken of in
 <$0C>
-prophecies.
+the prophecies.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nいやわからんのう。\nわしにはそれ以上は見えんのじゃ。
 \n
-Beyond that, who can say? I cannot see\n
-anything beyond that.
+Beyond that, who can say? I cannot\n
+see anything beyond that.
 <$00>
 
 // Pos: 00003396
@@ -456,8 +458,10 @@ White Eagle(?):
 <$0D>
 //\n完全なる善と、完全なる悪、このふたつが\n出会うときに世界は再生されると\n言われておるのじゃ。
 \n
-"May pure good and pure evil entwine,\n
-so the world can be reborn."
+"May pure good and pure evil\n
+entwine, so the world can be
+<$0C>
+reborn."
 <$00>
 
 // Pos: 00003432
@@ -473,9 +477,9 @@ Laika(?):
 //\nじゃあガリルは…\nもしかして完全なる善になろうってことなの。
 \n
 If that's the case...I suppose Galil\n
-perceives himself the "pure good" one
+perceives himself the "pure good"
 <$0C>
-of the two.
+one of the two.
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -500,8 +504,8 @@ White Eagle(?):
 <$0D>
 //\n全ては妄想のなせるワザじゃ。
 \n
-Fantasies can fool most anyone in any\n
-which way the fooled desires.
+Fantasies can fool most anyone in\n
+any which way the fooled desires.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -518,10 +522,10 @@ White Eagle(?):
 <$0D>
 //\nとうの昔に死んだ流刑者が残したもので、\nエレミヤの預言と呼ばれておる。
 \n
-These prophecies were left behind by\n
-an exile who died long ago. That was
+These prophecies were left behind\n
+by an exile who died long ago. That
 <$0C>
-Jeremiah the Exile.
+was Jeremiah the Exile.
 <$00>
 
 // Pos: 0000351C
@@ -536,10 +540,10 @@ Laika(?):
 <$0D>
 //\nそうだったのか…さっき見た黒い騎士も\nその預言から現れたんだな。
 \n
-I see... So, the rising Black Rider we saw\n
-earlier must be a participant of this
+I see... So, the rising Black Rider we\n
+saw earlier must be a participant of
 <$0C>
-prophecy.
+this prophecy.
 <$00>
 
 // Pos: 0000354E
@@ -562,15 +566,16 @@ White Eagle(?):
 <$0D>
 //\n５つの預言全てを銀のカプセルに\n閉じ込めるのじゃ。
 \n
-You can lock all five prophecies inside\n
-of a silver capsule.
+You can lock all five prophecies\n
+inside of a silver capsule.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nやつはまだ全てを手に入れたわけではない。\n今のうちじゃ。
 \n
-Galil has not found all five of them yet.
+Galil has not found all five of them\n
+yet.
 <$00>
 
 // Pos: 000035DD

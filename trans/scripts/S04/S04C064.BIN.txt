@@ -26,9 +26,9 @@ Feng:
 //\nそれでもう安心。 蕃判だの奇跡だの、\n何が起きても変なふうにならずに済むのよ。\n強くなれるのよ。
 \n
 This miracle of Judgement will make\n
-you strong. It'll keep you from feeling
+you strong. It'll keep you from
 <$0C>
-not like your self.
+feeling not like your self.
 <$00>
 
 // Pos: 00002172
@@ -124,16 +124,18 @@ Madam Agatha:
 <$0D>
 //\nいけない… ヘロデが目を覚ましたの。\n悪夢の世界で眠れなくなると大変…
 \n
-Damn! Herod woke up... He cannot rest\n
-when in the Land of Nightmares.
+Damn! Herod woke up... He cannot\n
+rest when in the Land of Nightmares.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこっちに戻れなくなるのよ。\n彼は悪夢の住人なの。もう行かなきゃ。
 \n
-But, he cannot stay here. He is a dweller\n
-of the Land of Nightmares. I must go.
+But, he cannot stay here. He is a\n
+dweller of the Land of Nightmares. I
+<$0C>
+must go.
 <$00>
 
 // Pos: 000022C2
@@ -164,8 +166,10 @@ Madam Agatha:
 <$0D>
 //\nそう… 私、物の記憶が読めるの…。
 \n
-You see, I can peer into a person simply\n
-by looking at their personal effects.
+You see, I can peer into a person\n
+simply by looking at their personal
+<$0C>
+effects.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -180,18 +184,18 @@ Madam Agatha:
 <$0D>
 //\nでもここじゃダメね、集中できないから。
 \n
-It demands my full concentration, so\n
-it's not a skill I can use out here in the
+It demands my full concentration,\n
+so it's not a skill I can use out here in
 <$0C>
-street.
+the street.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何か私に見せたい物があるときは、\n私の部屋に来て。 テレビのそばにある\nクリスタルボールに触れてみて。
 \n
-If you wish to see me, come to my room.\n
-Touch the crystal ball near the
+If you wish to see me, come to my\n
+room. Touch the crystal ball near the
 <$0C>
 television.
 <$1E>
@@ -252,8 +256,8 @@ Linda:
 <$0D>
 //\nあんたも変なやつらと\n付き合わない方がいいよー。
 \n
-For your own sake, I suggest you avoid\n
-his ilk like the plague.
+For your own sake, I suggest you\n
+avoid his ilk like the plague.
 <$1E>
 //行
 行
@@ -271,10 +275,10 @@ Linda:
 <$0D>
 //\nあさって、あさって…\nあさってが来なかったら、ねー、どうしよう…
 \n
-Tomorrow, the day after, and the day\n
-after that... If they don't come, what'll
+Tomorrow, the day after, and the\n
+day after that... If they don't come,
 <$0C>
-we do...?
+what'll we do...?
 <$1E>
 //中
 中
@@ -309,9 +313,9 @@ Linda:
 //\nねぇー、ここー、寝る時間でもないのに\n消灯時間ですーっていうのよー。
 \n
 You know, those beds likes to say,\n
-"LIGHTS-OUT!" even when it's not time
+"LIGHTS-OUT!" even when it's not
 <$0C>
-for bed.
+time for bed.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -338,9 +342,9 @@ Linda:
 //\n変ねー、いつでも消灯時間だなんてねー、\nあのベッドがこわれてるのよー。
 \n
 How weird. It's always lights-out\n
-time, feels like. Maybe those beds are
+time, feels like. Maybe those beds
 <$0C>
-busted.
+are busted.
 <$1E>
 //中
 中
@@ -366,10 +370,12 @@ Linda:
 <$0D>
 //\nどうやって作るか、知ってる？
 \n
-Do you know how a Vanity Face is made?
+Do you know how a Vanity Face is\n
+made?
 <$1B>
 //？知ってる\n知らない
-？Yes\n
+？Yes
+<$0C>
 No
 <$00><$17><$00>
 
@@ -385,10 +391,10 @@ Linda:
 <$0D>
 //\nうそばっかー。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
 \n
-You wouldn't believe it, but it's a cloth!\n
-Veronica uses a cloth to create a Vanity
+You wouldn't believe it, but it's a\n
+cloth! Veronica uses a cloth to create
 <$0C>
-Face.
+a Vanity Face.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -396,7 +402,9 @@ Linda:
 //\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
 \n
 I'd tell you more, but Marrakech is on\n
-my ass, and it's kind of killing my mood.
+my ass, and it's kind of killing my
+<$0C>
+mood.
 <$1E>
 //中
 中
@@ -414,8 +422,10 @@ Linda:
 <$0D>
 //\nすごいんだからー、すごいの。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
 \n
-It's amazing! The things Veronica can\n
-do with that cloth of hers is stunning!
+It's amazing! The things Veronica\n
+can do with that cloth of hers is
+<$0C>
+stunning!
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -423,7 +433,9 @@ Linda:
 //\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
 \n
 I'd tell you more, but Marrakech is on\n
-my ass, and it's kind of killing my mood.
+my ass, and it's kind of killing my
+<$0C>
+mood.
 <$1E>
 //中
 中
@@ -469,8 +481,8 @@ Linda:
 <$0D>
 //\nみんな自信ないのよー、\nそれでおかしくなるのよー
 \n
-Everyone thinks their so helpless! Sad,\n
-don't you think?
+Everyone thinks their so helpless!\n
+Sad, don't you think?
 <$1E>
 //中
 中

@@ -17,8 +17,8 @@ Spacer:
 <$0D>
 //\n…おかしい…私の中に…\n言葉が開こえる…
 \n
-This is weird. I can hear...words in my\n
-head...!
+This is weird. I can hear...words in\n
+my head...!
 <$00>
 
 // Pos: 00002FBE
@@ -37,26 +37,26 @@ Spacer:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
 \n
-"To see a world in a Grain of Sand. And a\n
-Heaven in a Wild Flower."
+"To see a world in a Grain of Sand. And\n
+a Heaven in a Wild Flower."
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nたなごころの中に無限をつかみ\nひとときのうちに永遠を捉える…
 \n
-"Hold Infinity in the palm of your hand.\n
-And Eternity in an hour."
+"Hold Infinity in the palm of your\n
+hand. And Eternity in an hour."
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n古い詩の一節だ…預言者的な洞察を惑じる…\nそれにしても、この詩は…
 \n
-...Lines from an old poem. Interesting.\n
-I'm sensing some prophetic insight
+...Lines from an old poem.\n
+Interesting. I'm sensing some
 <$0C>
-here!
+prophetic insight here!
 <$00>
 
 // Pos: 00003052
@@ -157,7 +157,8 @@ Sammy:
 <$0D>
 //\nあら、あなたは… ふふふ、新顔ね。
 \n
-Ohoho, what's this? You're a new face.
+Ohoho, what's this? You're a new\n
+face.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -180,8 +181,10 @@ Sammy:
 <$0D>
 //\nだったらそこの目玉、扉の前にある\nでっかい目玉が見えるはずよ…どう？見える？
 \n
-A Psycho type will be able to see a large\n
-eyeball on that door. Do you see it?
+A Psycho type will be able to see a\n
+large eyeball on that door. Do you see
+<$0C>
+it?
 <$00>
 
 // Pos: 000031B0
@@ -196,8 +199,8 @@ Sammy:
 <$0D>
 //\n見えないのね、そうよね。\nだったらアニマルちゃんかしら…
 \n
-Ah, I take it you don't. Are you an Animal\n
-type, then?
+Ah, I take it you don't. Are you an\n
+Animal type, then?
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -226,18 +229,20 @@ Sammy:
 <$0D>
 //\n何しに来たの、ここはサイテーよ、\nどいつもこいつも、うそつきばっかで。
 \n
-What brings you to this garbage heap?\n
-I mean it-even the people are garbage!
+What brings you to this garbage\n
+heap? I mean it-even the people are
+<$0C>
+garbage!
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nあなたも気を付けてね、\n変なことに巻き込まれないように。
 \n
-You'd best steer clear. You don't want\n
-to get caught up in anyone's trash,
+You'd best steer clear. You don't\n
+want to get caught up in anyone's
 <$0C>
-a-nope.
+trash, a-nope.
 <$1E>
 //夜
 夜
@@ -263,15 +268,18 @@ Spirit Man:
 <$0D>
 //\n火星の住人はみな悪を秘めてるぞ。
 \n
-All dwellers of Mars carry a hidden evil.
+All dwellers of Mars carry a hidden\n
+evil.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
 //\n話をすると、お前の心に悪がたまる、\nどんどんたまる。
 \n
-As you speak with them, their evil will\n
-gradually accumulate in your mind.
+As you speak with them, their evil\n
+will gradually accumulate in your
+<$0C>
+mind.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -302,8 +310,8 @@ Spirit Man:
 <$0D>
 //\nこの先に何かあるとでも…
 \n
-Even if there were something up ahead\n
-for you...
+Even if there were something up\n
+ahead for you...
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -326,8 +334,8 @@ Ernest:
 <$0D>
 //\nちょろちょろしやがって、\nうるせぇやつだ。 先に行かせろ！
 \n
-You're the last person I need scolding\n
-me about buzzing around.
+You're the last person I need\n
+scolding me about buzzing around.
 <$00>
 
 // Pos: 0000339E
@@ -390,7 +398,8 @@ Spirit Man:
 <$0D>
 //\nひょひょ、アーネストや、\nお前にできることは何だ？
 \n
-Hyohyo, Ernest! What ever can you do?
+Hyohyo, Ernest! What ever can you\n
+do?
 <$00>
 
 // Pos: 00003447
@@ -422,7 +431,9 @@ Tommy:
 //\nへへ、そうだよ兄ちゃん、そこの扉だ。\nどうだ、目ん玉なんて見えねぇだろ。
 \n
 Hehe, this is one of those doors. You\n
-can't see the eyeball though, can you?
+can't see the eyeball though, can
+<$0C>
+you?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -456,9 +467,9 @@ Tommy:
 //\n目ん玉、さがしにきたんだろ…\nそこの扉だ、どうだ、なんにも見えねぇだろ。
 \n
 If you're looking for one of those\n
-eyeballs, this door has one. Can you see
+eyeballs, this door has one. Can you
 <$0C>
-it?
+see it?
 <$00>
 
 // Pos: 00003515
@@ -491,10 +502,10 @@ Tommy:
 <$0D>
 //\nあー、はあはあ、吐きそうだ、\n悪く言わないでくれ。\nそんなふうに言われるのはイヤだ。
 \n
-Very funny, asshole. Okay, maybe I am\n
-sick, but you didn't need to put me on
+Very funny, asshole. Okay, maybe I\n
+am sick, but you didn't need to put me
 <$0C>
-blast!
+on blast!
 <$00>
 
 // Pos: 00003577
@@ -517,9 +528,9 @@ Tommy:
 //\n目ん玉、見にきたんだろ…そこの扉だ。\nどうだ、そんなもんないだろう。
 \n
 If you're looking for one of those\n
-eyeballs, this door has one. Can you see
+eyeballs, this door has one. Can you
 <$0C>
-it?
+see it?
 <$00>
 
 // Pos: 000035BC
@@ -552,7 +563,9 @@ Tommy:
 <$0D>
 //\nあー、マゴコロ持たずに歩くと\n風に吹かれたときにヤバイんだ。\nどうだ、俺はまじめだ、兄ちゃんよう…
 \n
-Hey, I'm just as busy as you, but if there\n
-ain't time for this, what is time for?
+Hey, I'm just as busy as you, but if\n
+there ain't time for this, what is time
+<$0C>
+for?
 <$00>
 

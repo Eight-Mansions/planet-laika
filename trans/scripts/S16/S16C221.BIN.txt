@@ -17,8 +17,8 @@ Spacer:
 <$0D>
 //\nここは…なにもかもが逆の世界。\n悪夢の世界なのか。
 \n
-Everything in this world is reversed. Is\n
-this the Land of Nightmares?
+Everything in this world is reversed.\n
+Is this the Land of Nightmares?
 <$00>
 
 // Pos: 00002DF9
@@ -84,8 +84,10 @@ Ernest:
 <$0D>
 //\nウラジミールにインチキな酒飲ませることなど、\nヨランダにしちゃ朝メシ前だ、建いねぇ。
 \n
-But Yolanda? I suppose I can't wag my\n
-finger, but she'd absolutely do that.
+But Yolanda? I suppose I can't wag\n
+my finger, but she'd absolutely do
+<$0C>
+that.
 <$00>
 
 // Pos: 00002EC4
@@ -100,8 +102,8 @@ Yolanda:
 <$0D>
 //\n夢よね、\nそうよ、アタシは悪い夢の中にいるのよ。
 \n
-I'm in a dream, aren't I. That's\n
-right...this is only a bad dream.
+I'm in a dream, aren't I. That's right...\n
+This is only a bad dream.
 <$00>
 
 // Pos: 00002EEB
@@ -123,9 +125,9 @@ Yolanda:
 <$0D>
 //\nそうよ、おろかなセルゲイに\n濡れ衣を着せるくらい簡単なこと…
 \n
-He'd have zero difficulty framing that\n
-shit-for-brains Sergei for a serious
+He'd have zero difficulty framing\n
+that shit-for-brains Sergei for a
 <$0C>
-crime.
+serious crime.
 <$00>
 

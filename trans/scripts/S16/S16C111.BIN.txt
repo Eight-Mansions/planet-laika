@@ -54,8 +54,8 @@ Madam Agatha:
 <$0D>
 //\nあなたのことが… 読めそうよ…\nあなたの過去が。
 \n
-Let me take a closer look, and peer into\n
-your past.
+Let me take a closer look, and peer\n
+into your past.
 <$00>
 
 // Pos: 00002BE4
@@ -70,8 +70,8 @@ Madam Agatha:
 <$0D>
 //\nふたり… あなたと…\nあっ、あれはお母さんね、
 \n
-I see two people, you and...ah. It's you\n
-and your mother.
+I see two people, you and...ah. It's\n
+you and your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -112,8 +112,8 @@ Madam Agatha:
 <$0D>
 //\nあなたのことがわからないと、\n問顆を解くことはできないわ。
 \n
-Unless we can understand you, we can\n
-never fully solve the puzzle.
+Unless we can understand you, we\n
+can never fully solve the puzzle.
 <$00>
 
 // Pos: 00002CB2
@@ -128,8 +128,8 @@ Madam Agatha:
 <$0D>
 //\nあやふやだけど、\nなんとか読めたわ。
 \n
-It's a little hazey, but I managed to see\n
-something when I was peering.
+It's a little hazey, but I managed to\n
+see something when I was peering.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -160,8 +160,8 @@ Madam Agatha:
 <$0D>
 //\n何かのびんよ…\nお酒でも入っているのかしら。
 \n
-It's some sort of bottle. I wonder, does\n
-it contain liquor?
+It's some sort of bottle. I wonder,\n
+does it contain liquor?
 <$00>
 
 // Pos: 00002D4A
@@ -176,10 +176,10 @@ Madam Agatha:
 <$0D>
 //\n今度は夜… またふたりでいるわ…\n馬小屋ね、月明かりに照らされて…\nふたりで馬小屋を見ているところね。
 \n
-Evening comes. You two are together\n
-again, looking at the stables in the
+Evening comes. You two are\n
+together again, looking at the
 <$0C>
-moonlight.
+stables in the moonlight.
 <$00>
 
 // Pos: 00002D96

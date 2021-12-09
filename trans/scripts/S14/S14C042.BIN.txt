@@ -73,8 +73,10 @@ Yang:
 <$0D>
 //\n頭ん中を一押しだ、そうだ、\nあああ、その調子でやってくれ。
 \n
-You're forcing yourself into my head,\n
-huh! Yeah, yeah, YEAH! Keep it up!
+You're forcing yourself into my\n
+head, huh! Yeah, yeah, YEAH! Keep it
+<$0C>
+up!
 <$00>
 
 // Pos: 00001C7C
@@ -89,25 +91,27 @@ Yang:
 <$0D>
 //\nへへ、来た来た、\nこれで乗れるか、電波に乗れるか？
 \n
-Hehe, it's here! It's here! Can I hope on\n
-now? Can I ride the radio waves?
+Hehe, it's here! It's here! Can I hope\n
+on now? Can I ride the radio waves?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nおおお、俺が…これが電波ってことなのか。\nおおお、存在がうすくなっていく。
 \n
-Ohh, could I...could I be a radio wave?!\n
-Ahh, my existence is fading away!
+Ohh, could I...could I be a radio\n
+wave?! Ahh, my existence is fading
+<$0C>
+away!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nああ、はじめて意味が分かったぞ、\nマウンテン！ 意味が分かったぞ！
 \n
-For the first time ever, I understand!\n
-Mountain! I understand my own
+For the first time ever, I\n
+understand! Mountain! I understand
 <$0C>
-significance!
+my own significance!
 <$00>
 

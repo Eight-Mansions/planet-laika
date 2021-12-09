@@ -31,8 +31,10 @@ Veronica:
 <$0D>
 //\nそしたらカベに埋まってる人のウデが\nのびてきて、人形を持っていったのよ。
 \n
-...the guy buried in the cave wall reach\n
-out his arm and took the doll away!
+...the guy buried in the cave wall\n
+reach out his arm and took the doll
+<$0C>
+away!
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -47,8 +49,10 @@ Veronica:
 <$0D>
 //\n死の動機、死の動機って…\nねぇ、開いてる？
 \n
-They say, "Reason for dying...reason\n
-for dying..." Tell me, do you hear it?
+They say, "Reason for\n
+dying...reason for dying..." Tell me,
+<$0C>
+do you hear it?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -86,7 +90,7 @@ Veronica:
 <$0D>
 //\nどうしたの？ ねぇ、あんた、誰よ？\nさっきの人じゃないね。
 \n
-What's the matter...wait. Who are\n
+What's the matter... Wait. Who are\n
 you? You're not the Earthling I met
 <$0C>
 earlier.
@@ -104,24 +108,26 @@ Veronica:
 <$0D>
 //\n何よ、またあの女がしゃしゃり出てきたの？
 \n
-Wh-what's this?! Is this another one of\n
-that woman's tricks?!
+Wh-what's this?! Is this another one\n
+of that woman's tricks?!
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nねぇ、ウソつき鏡はできたの？
 \n
-Oh no, did she complete that lousy trick\n
-mirror?
+Oh no, did she complete that lousy\n
+trick mirror?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nいやよ！ 入れ替わらないで！\n勝手に持っていかないで、アタシの時間よ！
 \n
-NO! I don't want to change places! This\n
-is MY time! Don't take it away from me!
+NO! I don't want to change places!\n
+This is MY time! Don't take it away
+<$0C>
+from me!
 <$00>
 
 // Pos: 00003D2C
@@ -182,8 +188,8 @@ Veronica:
 <$0D>
 //\nあんたもそうでしょ、\nさっきの人より、今のほうがいいのよね。
 \n
-It is also your time. You're adept. More\n
-than the one I met earlier.
+It is also your time. You're adept.\n
+More than the one I met earlier.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -191,9 +197,9 @@ Veronica:
 //\n分かるわ、強い力を惑じるもの。\nふふふ、試してみれば？
 \n
 I sense a strong power in you,\n
-understand. Hohoho, why don't you try
+understand. Hohoho, why don't you
 <$0C>
-it out?
+try it out?
 <$00>
 
 // Pos: 00003E37
@@ -208,15 +214,18 @@ Veronica:
 <$0D>
 //\nここの連中、すごくビンカンになってるの。
 \n
-The lot here are especially vulnerable.
+The lot here are especially\n
+vulnerable.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nおもしろいよ、思い通りだよ。\n命令するの、なんでもできるわ。
 \n
-It's funny. Precisely what I invisioned.\n
-I didn't have to pull any strings.
+It's funny. Precisely what I\n
+invisioned. I didn't have to pull any
+<$0C>
+strings.
 <$00>
 
 // Pos: 00003E86
@@ -231,7 +240,8 @@ Phoenix:
 <$0D>
 //\nこれが力なのか…\nシークレットパワー。
 \n
-Is this the work...of the secret power?
+Is this the work...of the secret\n
+power?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -246,8 +256,8 @@ Phoenix:
 <$0D>
 //\n僕はもう影ではないのか…\nいや、そんなはずはない、そんなはずは…
 \n
-Am I not a mere shadow anymore? No,\n
-that shouldn't be. That can't be.
+Am I not a mere shadow anymore?\n
+No, that shouldn't be. That can't be.
 <$00>
 
 // Pos: 00003EFF
@@ -309,8 +319,8 @@ Sparky:
 <$0D>
 //\n何か寒いわね…あら、初めての方？\n私はスパーキー、ちょっと派手ないいやつよ。
 nIt's kind of cold here. Oh,\n
-oops. Have we met? I'm Sparky. I don't\n
-bite.
+oops. Have we met? I'm Sparky. I\n
+don't bite.
 <$00>
 
 // Pos: 00003FCA
@@ -333,8 +343,8 @@ Sparky:
 <$0D>
 //\nいつもこのあたりに立っていたのよ。\n大きな体のウィリアム。
 \n
-William is the really well-built guy who\n
-likes to stand around this spot.
+William is the really well-built guy\n
+who likes to stand around this spot.
 <$00>
 
 // Pos: 0000402B
@@ -350,8 +360,8 @@ Sparky:
 //\nくんくん、ニオう、ウィリアムのニオい…\nどこ行ったのかしらウィリアムったら、\nいつもここがお気に入りなのにね。
 \n
 Sniff, sniff... I can smell William.\n
-Where would he have gone? I thought
+Where would he have gone? I
 <$0C>
-he liked this spot.
+thought he liked this spot.
 <$00>
 
