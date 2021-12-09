@@ -25,10 +25,8 @@ Feng:
 <$0D>
 //\nそして私はアマンダを手に入れたの、\n美の全てを！ 私は美の権化となるの！
 \n
-Now that I have attained all of\n
-Amanda's beauty, I have become
-<$0C>
-beauty incarnate!
+Now that I have attained all of Amanda's\n
+beauty, I have become beauty incarnate!
 <$00>
 
 // Pos: 00002B15
@@ -44,9 +42,9 @@ Phoenix:
 //\nこれが…鏡…蕃判の鏡なのか。\nこの鏡が映すのは真実なのか、\nそれともまやかしか…
 \n
 Is this...the Mirror of Judgement?\n
-Does it reflect absolute truth...or
 <$0C>
-deception?
+Does it reflect absolute\n
+truth...or deception?
 <$00>
 
 // Pos: 00002B53
@@ -62,9 +60,7 @@ Feng:
 //\n体の次は何かしら。アマンダは欲が深いのよ。\nそうよね、アマンダ。
 \n
 Amanda, what next do you crave so\n
-deeply? ...Ah, yes. Of course,
-<$0C>
-Amanda.
+deeply? ...Ah, yes. Of course, Amanda.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -111,10 +107,8 @@ Feng:
 <$0D>
 //\n最初から、目を付けていた…\n体はもういい、欲しいのは心よ。
 \n
-Amanda watched from the very\n
-beginning. Amanda has a body, but
-<$0C>
-desires a mind.
+Amanda watched from the very beginning.\n
+Amanda has a body, but desires a mind.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -122,9 +116,10 @@ Feng:
 //\nこの女の心を手に入れて、\nアマンダは完成するのよ、\nそして私は永遠の存在になれるのよ。
 \n
 In taking this woman's mind,\n
-Amanda will be complete, and I shall
+Amanda will be complete.
 <$0C>
-become an eternal existence.
+And with that, I shall become\n
+an eternal existence.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -209,8 +204,8 @@ Phoenix:
 <$0D>
 //\n早く！ 早く、そこから出るんだ、\nこっちだ！
 \n
-Hurry! Get our of there now! This\n
-way!
+Hurry! Get our of there now!\n
+This way!
 <$00>
 
 // Pos: 00002D73
@@ -240,7 +235,7 @@ April:
 <$0D>
 //\nママが死んだとき、私は解放された…
 \n
-When my mom died, I was set free.
+If my mom died, I'd be free.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -263,8 +258,8 @@ Phoenix:
 <$0D>
 //\n鏡から生まれたというのは君なんだな。
 \n
-You forced yourself be born from\n
-the mirror.
+You forced yourself out from the\n
+mirror.
 <$00>
 
 // Pos: 00002DF1
@@ -279,10 +274,10 @@ April:
 <$0D>
 //\n私は心のどこかでママがいなくなればいいと\n思っていたのよ、
 \n
-But the thing is, I was hoping my mom\n
-would leave me. I wished it with all
+The thing is, I was hoping my mom\n
+would disappear.
 <$0C>
-my heart.
+I wished it with all my heart.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -304,7 +299,7 @@ Phoenix:
 <$0D>
 //\nアマンダは鏡の精となり、\n君は鏡から生まれた…
 \n
-Amanda was a mirror spirit, but you\n
+Amanda was a mirror spirit, so you\n
 pushed yourself out in her place.
 <$0C>
 That's how you were born.
@@ -329,8 +324,8 @@ April:
 <$0D>
 //\nママが死んで、私は深い罪悪惑に\nさいなまれ続けたの。でも…
 \n
-My mom was dead, and still I was\n
-overcome with a deep sense of guilt.
+My mom died, and I was overcome\n
+with a deep sense of guilt.
 <$00>
 
 // Pos: 00002EA0
@@ -346,7 +341,7 @@ Phoenix:
 //\n君はアマンダの…
 \n
 Because you still heard Amanda's\n
-voice.
+voice all this time?
 <$00>
 
 // Pos: 00002EB6
@@ -361,8 +356,8 @@ April:
 <$0D>
 //\nでもあの声は建う、ママじゃない、\n誰か別の人よ！
 \n
-No, that's a different voice, not\n
-mom's! It's someone else!
+No, that's a different voice,\n
+not mom's! It's someone else!
 <$00>
 
 // Pos: 00002EDD
@@ -419,8 +414,8 @@ Phoenix:
 <$0D>
 //\nあああ、この声は…ママだね！\n僕だよ！ 僕はここにいるよ！
 \n
-T-that voice...! Mama?! Mama, it's\n
-me! I'm here!
+T-that voice...! Mama?!\n
+Mama, it's me! I'm here!
 <$00>
 
 // Pos: 00002F63
@@ -435,8 +430,8 @@ April:
 <$0D>
 //\nまどわされないで！\nその声は誰のママでもないのよ！
 \n
-Don't fall for the planet's tricks! That\n
-voice isn't anyone's mom!
+Don't fall for the planet's tricks!\n
+That voice isn't anyone's mom!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -460,9 +455,7 @@ April:
 //\nアマンダ… まだいるのね、そこに。\nずっと私に語りかけていたのはあなたね。
 \n
 Amanda, you're still there. So, you\n
-were the one talking to me all this
-<$0C>
-time.
+were the one talking to me all along!
 <$00>
 
 // Pos: 00002FF1
@@ -478,9 +471,9 @@ April:
 //\nアマンダ… あなたの思い通りにはさせない。\n私は自分を乗り越えるの、そうよ！
 \n
 Amanda, I won't let you do what you\n
-want. I'll overcome my self, right
+want.
 <$0C>
-here, right now!
+I'll overcome my self,\nright here, right now!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -525,8 +518,6 @@ Phoenix:
 //\nそうだよ、ママ、僕にはなにもないんだ！\nやっぱりだ、僕はただの影なんだ！
 \n
 I know now! I'm... I'm nothing to\n
-Mama! I never was! I'm only a
-<$0C>
-shadow!
+Mama! I never was! I'm only a shadow!
 <$00>
 

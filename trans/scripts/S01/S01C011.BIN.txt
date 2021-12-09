@@ -17,8 +17,8 @@ Noon:
 <$0D>
 //\nでもなんで、ガリルって野郎は姿を\nくらませたんだ？
 \n
-What would drive Galil to vanish like\n
-'e did?
+What would drive Galil to vanish the\n
+way 'e did?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -42,29 +42,30 @@ Captain Tatler:
 //\nガリル大佐は火星が秘めている\nよこしまな力に憑かれたのだ。
 \n
 Officials suspect Colonel Galil\n
-succumbed to a wicked power
+succumbed to something on Mars.
 <$0C>
-hidden on Mars.
+Some kind of vile energy.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\nよほど強い意志の持ち主でない限り、\nあらぬ妄想にとらわれてしまうというぞ。
 \n
-When on Mars, we humans risk\n
-exposing ourselves to strange
+When on Mars, we risk exposing\n
+ourselves to said energy.
 <$0C>
-hallucinations.
+And with that miasma, we're\n
+likely to see hallucinations.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n自分を見失ってしまうというぞ。
-\n
-Without considerable mental\n
-fortitude, one can easily lose
+Supposing Colonel Galil lacked\n
+a certain mental fortitude...
 <$0C>
-themself to the delusion.
+...it's no wonder he fell for
+such a bizarre fantasy.
 <$00>
 
 // Pos: 000033FB
@@ -86,18 +87,18 @@ Noon:
 <$0D>
 //\nまさか滅んだ火星人をよみがえらそうって、\nそんな計画とかじゃないだろうな。
 \n
-We NEEDED fantasy to think those\n
-Martians were trustworthy.
+It was fantasy to think those\n
+Martians were EVER trustworthy.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nクリスマスだっていうのに、\n妄想野郎のお相手か。
 \n
-Hell, I need fantasy now, if I'm to\n
-think this job and the Galil business
+Hell, I need fantasy too.
 <$0C>
-isn't a waste o' me damn time.
+If I'm to believe this job's\n
+not a waste o' me damn time!
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -105,7 +106,7 @@ Noon:
 //\nこんなところで！\nちくしょう！
 \n
 This is a sorry way to spend\n
-Christmas!
+Christmas, and you know it!
 <$00>
 
 // Pos: 00003481
@@ -129,9 +130,9 @@ April:
 //\n土が人の心に悪い影響を与える…\nだから私が呼ばれたの。
 \n
 Surface exposure can have negative\n
-effects on the human mind. That's
+effects on the human psyche.
 <$0C>
-why I'm here.
+That's why I'm here.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -139,9 +140,7 @@ April:
 //\nサンプルを持ち帰って調べるのよ。\n地質学的な問顆だそうよ。
 \n
 I was called to extract and review\n
-samples to solve this geological
-<$0C>
-puzzle.
+samples in order to find out why.
 <$00>
 
 // Pos: 0000350A
@@ -156,7 +155,7 @@ Captain Tatler:
 <$0D>
 //\nふふ、地質学的問顆？ モノは言いようだな。\n土だと…ふふふ…
 \n
-A geological puzzle...?\n
+Solving the big puzzles, are you?\n
 Hehehe, interesting!
 <$0C><$0B>
 //タトラー船長：
@@ -165,9 +164,7 @@ Captain Tatler:
 //\n星全体が悪意を秘めているんだ。\nガリル大佐はその悪意に触れたに建いない。
 \n
 If Mars is topped with contaminated\n
-soil, maybe that's what made
-<$0C>
-Colonel Galil sick...
+soil, maybe that's what got Galil.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -197,10 +194,10 @@ Noon:
 <$0D>
 //\n輝いてるのか？\n火星で、輝いてるってのか。
 \n
-What's he mean, Christmas lights? Is\n
-Mars covered in bloomin' Christmas
+Hah! Does Mars light up now?\n
 <$0C>
-lights now?
+Think Mars covered in bloomin'\n
+Christmas lights?
 <$00>
 
 <$00><$00><$00><$00><$00><$00><$00><$00><$00><$00><$00><$00><$00><$00><$00><$00>
@@ -255,9 +252,7 @@ Noon:
 //\nいよいよだ、火星だ。\nそこのふたり、用意はいいのか？
 \n
 We're finally on Mars.\n
-Are you two sure you're up to the
-<$0C>
-task?
+Are you two up to the task?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -265,9 +260,7 @@ Noon:
 //\nルーキーの無線技師に学者のタマゴの\nおネエさん…たのもしいかぎりだぜ。
 \n
 Can we count on a rookie radio tech\n
-and a geology boffin out here in
-<$0C>
-space?
+and a geology boffin up in space?
 <$00>
 
 // Pos: 00003666
@@ -329,7 +322,7 @@ Captain Tatler:
 <$0D>
 //\nライカか… ニックネームだな。\n本当はなんて言うんだ？
 \n
-Laika's a nickname, right?\n
+"Laika" is a nickname, right?\n
 What's on your paperwork?
 <$00>
 
@@ -364,7 +357,7 @@ Noon:
 <$0D>
 //\nでもよう、\nずっとずっとライカって呼んできたからな、
 \n
-Maybe, but I'm too used to calling you\n
+Maybe, but I'm used to calling you\n
 "Laika".
 <$0C><$0B>
 //ヌーン：

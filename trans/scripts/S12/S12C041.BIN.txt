@@ -25,8 +25,8 @@ Oxygen Miner 1：
 <$0D>
 //\nダメだ、いくらやっても！\nやりくりしても！
 \n
-Drats! Can't do it! Must work\n
-SOMEHOW!
+Drats! Can't do it!\n
+Must work SOMEHOW!
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
@@ -58,8 +58,8 @@ Oxygen Miner 1：
 <$0D>
 //\nあああ、力を惑じるな。\nこれで歌えればいいのにな。
 \n
-Argh, power worthless. Can't sing\n
-with it.
+Argh, power worthless.\n
+Can't sing with it.
 <$1E>
 //中
 <$00>
@@ -100,9 +100,9 @@ Oxygen Miner 1：
 //\nお空は青い、お肉は赤い、\nだから僕は不幸の子…\nああ、だめだ、やっぱり歌にならないよ。
 \n
 "Skies are blue, meats are red, that's\n
-why I am an unhappy kid..." Damn!
+why I am an unhappy kid..."
 <$0C>
-Rhymes bad!
+Damn! Rhymes bad!
 <$00>
 
 // Pos: 000015BE
@@ -117,8 +117,8 @@ Oxygen Miner 1：
 <$0D>
 //\n僕はあたりまえなんだ、\nきっとこれ以上は変われないんだ。
 \n
-I'm ordinary, whoosh. No changing\n
-that.
+I'm ordinary, whoosh.\n
+No changing that.
 <$00>
 
 // Pos: 000015EF
@@ -172,16 +172,16 @@ Oxygen Miner 1：
 <$0D>
 //\n双子は白い、見たのさ。
 \n
-"Twins are pale, it's such a sight! Such\n
-a sight! Such a sight!"
+"Twins are pale, it's such a sight!\n
+Such a sight! Such a sight!"
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
 //\n色が抜けて白くなってた、\n土の中でふやけてた、
 \n
-"All their bodies turn to white, in the\n
-soil!"
+"All their bodies turn to white,\n
+in the soil!"
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：

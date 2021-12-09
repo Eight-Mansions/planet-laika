@@ -17,18 +17,16 @@ Noon:
 <$0D>
 //\nはあ、はあ…俺としたことが…くそっ！\nいやな思い出がよみがえってきて…
 \n
-Haah, haah. Was I just... Aww,\n
-bloody hell. Sorry, I remembered
-<$0C>
-something 'eavy.
+Haah, haah... Aww, bloody hell.\n
+Sorry, I remembered something 'eavy.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nなあ、お前、\nこれ避難小屋に見えるよな？
 \n
-Say, does this look like a safe 'ouse to\n
-you?
+Say, does this look like a safe 'ouse\n
+to you?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -58,7 +56,7 @@ Noon:
 <$0D>
 //\n大丈夫だ…入ってみよう。
 \n
-Everything looks clear. Ladies first.
+Everything looks clear? In we go, then!
 <$00>
 
 // Pos: 00001529
@@ -73,10 +71,8 @@ April:
 <$0D>
 //\nねえ、ライカは平気だったの、砂嵐や紫の霧…\n心に良くない影響を与えるって…
 \n
-How are you feeling, Laika? The\n
-sandstorms and the purple fog must
-<$0C>
-be affecting you.
+How are you feeling, Laika? Are the\n
+sands and purple fog affecting you?
 <$00>
 
 // Pos: 00001563
@@ -91,10 +87,8 @@ April:
 <$0D>
 //\n船長、きっと紫の霧に影響されたのよ…\n変だもん。
 \n
-It's weird, but...I'm sure this\n
-environment is hurting the captain
-<$0C>
-too.
+I know that purple fog got to the\n
+captain. He's acting strange too.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -110,25 +104,23 @@ April:
 //\nそのときしきりに女の人の名前をつぶやいて…\nクロエ、クロエって。
 \n
 When the captain and I got here, he\n
-was muttering, "Chloe, Chloe,
-<$0C>
-Chloe..."
+was muttering, "Chloe, Chloe, Chloe."
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nなんだか気味悪くて…
 \n
-That's the name of a girl he knew. It\n
-was too unsettling...
+That's the name of a girl he knew.\n
+It was so unsettling.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私、ヌーンから開いたことあるのよ、\n船長とそのクロエって子のこと。
 \n
-Noon told me before about the two of\n
-them. About the captain and Chloe.
+Noon told me once about the captain\n
+and his relationship with Chloe.
 <$00>
 
 // Pos: 0000161E
@@ -144,19 +136,18 @@ April:
 //\n船長が士官学校時代に知り合った少女…\n自分の妹のように可愛がっていたのに、\n事故で死んじゃったんだって。
 \n
 They met back in the military\n
-academy. Tatler only loved her like a
+academy.
 <$0C>
-sister, but...
+Tatler only loved her like a sister,\n
+but then she died in an accident.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nヌーンが教えてくれたんだけど、\n船長はその子の写真を今でも大切に\n持ち歩いてるそうよ。
 \n
-...she died in an accident.\n
-Apparently, the captain keeps her
-<$0C>
-photo with him at all times.
+Noon says the captain still\n
+keeps her photo on him.
 <$00>
 
 // Pos: 000016B0
@@ -187,8 +178,8 @@ April:
 <$0D>
 //\nねえ…何か変よ…\n扉が開けっ放しになってる。
 \n
-Uhm, this doesn't look right. The\n
-door's wide open.
+Uhm, this doesn't look right.\n
+The door's wide open.
 <$00>
 
 // Pos: 00001702
@@ -204,9 +195,7 @@ April:
 //\n船長たち、出かけたのかなあ…\n戻ってくるとき、\n誰ともすれ建わなかったよね…
 \n
 I wonder if the captain took Noon\n
-out. If so, why didn't we see them on
-<$0C>
-the way back?
+out. We would've seen them, right?
 <$00>
 
 // Pos: 00001739
@@ -226,8 +215,6 @@ April:
 //\n表には誰もいないよ。\n避難小屋の中はどう？\n何か手がかり、なかった？
 \n
 Nothing around the perimeter.\n
-Should we look inside the safe
-<$0C>
-house? There could be clues.
+Should we look inside for clues?
 <$00>
 

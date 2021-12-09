@@ -16,8 +16,8 @@
 <$0D>
 //\nあああ…君は…あああ…まさか！\n生きていたのか…いや、そんなはずはないぞ！
 \n
-A-are you...? No! There's no way! How\n
-are you alive?!
+A-are you...? No! There's no way!\n
+How are you alive?!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001BB5
@@ -31,8 +31,8 @@ are you alive?!
 <$0D>
 //\nここは…私の…どうして？\nもうなくなったはずなのに…
 \n
-This is my...but why? I thought it was\n
-gone!
+Is this my room? But, how?\n
+I thought it was gone forever!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001BDF
@@ -47,9 +47,7 @@ gone!
 //\nママ…ママなの、僕が悪かったの…\nあああ、建う！ ママじゃない、うそだ！
 \n
 Mummy? Mummy, was I bad again?\n
-Wait, no! You're not Mummy! You
-<$0C>
-can't be!
+Wait, no! You can't be Mummy!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001C13
@@ -64,7 +62,7 @@ can't be!
 <$0D>
 //\nみんな、惑わされるんじゃない！\n何かの…その…幻覚だ。
 \n
-Don't be fooled, everyone...!\n
+Don't be fooled, everyone!\n
 These are...hallucinations!
 <$0E><$3C><$17><$00>
 
@@ -80,8 +78,8 @@ These are...hallucinations!
 <$0D>
 //\n見えたんだ！ 確かに。\nあれは俺の、俺の…
 \n
-But I saw 'er! I know I did! That was...\n
-That was my...!
+But I saw 'er! I know I did!\n
+That was... That was my...!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001C68
@@ -96,8 +94,8 @@ That was my...!
 <$0D>
 //\nヌーン、よさないか！ これは幻覚だ、\nこの星の邪悪な力が作用しているんだ。
 \n
-Get a grip, Noon! It's fake! This is the\n
-planet's wicked power at work!
+Get a grip, Noon! It's fake! This\n
+is the planet's sick power at work!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001CA7

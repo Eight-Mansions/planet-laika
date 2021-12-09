@@ -17,20 +17,17 @@ Noon:
 <$0D>
 //\nはあ、はあ…俺としたことが…くそっ！\nいやな思い出がよみがえってきて…
 \n
-Haah, haah. Was I just... Aww,\n
-bloody hell. Sorry, I remembered
-<$0C>
-something 'eavy.
+Haah, haah... Aww, bloody hell.\n
+Sorry, I remembered something 'eavy.
 <$0C>
 //なあ、お前、\nこれ避難小屋に見えるよな？
 \n
-Say, does this look like a safe 'ouse to\n
-you?
+Say, does this look like a safe 'ouse\n
+to you?
 <$0C>
 //俺にもそう見える…\nちょっと開けてみてくれ。\n扉だよ、そこの扉を開けるんだ。
 \n
-Say, does this look like a safe 'ouse to\n
-you? 
+Sure looks like one to me.
 <$0C>
 The front door looks safe enough.\n
 Open it and check.
@@ -48,7 +45,7 @@ Noon:
 <$0D>
 //\n大丈夫だ…入ってみよう。
 \n
-Everything looks clear. Ladies first.
+Everything looks clear? In we go, then!
 <$00>
 
 // Pos: 00002840
@@ -63,8 +60,8 @@ April:
 <$0D>
 //\nねえ、ライカは平気だったの、\nイーブルマインド…\n心に良くない影響を与えるって…
 \n
-How are you feeling, Laika? The Evil\n
-Mind must be affecting you.
+How are you feeling, Laika?\n
+Is Evil Mind affecting you?
 <$00>
 
 // Pos: 00002879
@@ -79,8 +76,8 @@ April:
 <$0D>
 //\n船長、きっとイーブルマインドに\n影響されたのよ…変だもん。
 \n
-It's weird, but...I'm sure Evil Mind is\n
-hurting the captain too.
+I know Evil Mind got to the captain.\n
+He's acting strange too.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -96,25 +93,23 @@ April:
 //\nそのときしきりに女の人の名前をつぶやいて。\nクロエ、クロエって。
 \n
 When the captain and I got here, he\n
-was muttering, "Chloe, Chloe,
-<$0C>
-Chloe..."
+was muttering, "Chloe, Chloe, Chloe."
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nなんだか気味悪くて…
 \n
-That's the name of a girl he knew. It\n
-was too unsettling...
+That's the name of a girl he knew.\n
+It was so unsettling.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n前にヌーンから開いたことあるのよ、\n船長とそのクロエって子のこと。
 \n
-Noon told me before about the two of\n
-them. About the captain and Chloe.
+Noon told me once about the captain\n
+and his relationship with Chloe.
 <$00>
 
 // Pos: 00002937
@@ -132,17 +127,16 @@ April:
 They met back in the military\n
 academy. Tatler only loved her like a
 <$0C>
-sister, but...
+Tatler only loved her like a sister,\n
+but then she died in an accident.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nヌーンが教えてくれたんだけど、\n船長はその子の写真を今でも大切に\n持ち歩いてるそうよ。
 \n
-...she died in an accident.\n
-Apparently, the captain keeps her
-<$0C>
-photo with him at all times.
+Noon says the captain still\n
+keeps her photo on him.
 <$00>
 
 // Pos: 000029C9
@@ -173,8 +167,8 @@ April:
 <$0D>
 //\nねえ…何か変よ…\n扉が開けっ放しになってる。
 \n
-Uhm, this doesn't look right. The\n
-door's wide open.
+Uhm, this doesn't look right.\n
+The door's wide open.
 <$00>
 
 // Pos: 00002A1B
@@ -197,8 +191,7 @@ April:
 <$0D>
 //\n戻ってくるとき、\n誰ともすれ建わなかったよね…
 \n
-If so, why didn't we see them on the\n
-way back?
+We would've seen them, right?
 <$00>
 
 // Pos: 00002A5B
@@ -261,8 +254,7 @@ April:
 <$0D>
 //\n避難小屋の中はどう？\n何か手がかり、なかった？
 \n
-Should we look inside the safe\n
-house? There could be clues.
+Should we look inside for clues?
 <$00>
 
 // Pos: 00002ADA
@@ -309,29 +301,31 @@ engraving on the wall. Let me see...
 //\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
 \n
 There are tales of a woman who\n
-appears in mirrors at night. I dare
+appears in mirrors at night.
 <$0C>
-say, I've never seen her.
+I dare say, I've never seen her.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-If this woman lives in a mirror, I'd\n
-call her a mirror spirit, no different
+If this woman lives in a mirror,\n
+I'd call her a mirror spirit.
 <$0C>
-than Amanda.
+That means she's the same\n
+as Amanda.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
 \n
-I'd stay up to see if she too had the\n
-ability to travel from mirror to
+I'd stay up at night just to see her,\n
+but my memory of this is hazy.
 <$0C>
-mirror, but it gets hazy.
+Does she too have the ability to\n
+travel from mirror to mirror?
 <$00>
 
 // Pos: 00002BD4
@@ -347,9 +341,7 @@ April:
 //\nどうしたの、カベに向かって…\nブツブツやってたけど…
 \n
 What are you doing? Mumbling at the\n
-wall like that isn't very attractive,
-<$0C>
-you know.
+wall like that isn't very attractive.
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -385,10 +377,8 @@ Thomas:
 <$0D>
 //\nアマンダは\n鏡の精で満足するような女ではないからだ。
 \n
-Amanda is not a woman who is\n
-satisfied with living as a mirror
-<$0C>
-spirit.
+Amanda is not a woman satisfied\n
+with living as a mirror spirit.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -396,19 +386,20 @@ Thomas:
 //\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
 \n
 She wants to create a perfect\n
-mirror. One so perfect, it could
+mirror.
 <$0C>
-reflect her face for everything it is.
+A mirror so perfect, it will reflect\n
+her face for everything it really is.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
 \n
-With such a mirror, the seas and\n
-lands of Mars might be reborn in her
+With such a mirror...
 <$0C>
-wicked image.
+...the seas and lands of Planet Mars
+might be reborn in her wicked image.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -416,9 +407,7 @@ Thomas:
 //\n私なりに、黙示録的な例えだ！
 \n
 (I dare say, I've come up with a sound\n
-little metaphor from Revelations
-<$0C>
-too!)
+little metaphor from Revelations too!)
 <$00>
 
 // Pos: 00002CF6
@@ -433,10 +422,10 @@ Yolanda:
 <$0D>
 //\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
 \n
-No wonder everyone here's\n
-piss-scared of mirrors. They don't
+No wonder everyone else here's\n
+piss-scared of mirrors.
 <$0C>
-want to see the truth.
+They don't want to see the truth.
 <$00>
 
 // Pos: 00002D2A
@@ -450,10 +439,8 @@ want to see the truth.
 <$0D>
 //\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
 \n
-I thought I saw someone, although, I\n
-don't know how to describe it with
-<$0C>
-certainty.
+I thought I saw someone, although,\n
+I don't know how to describe them.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -461,9 +448,9 @@ Thomas:
 //\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
 \n
 There was a woman who looked\n
-precisely like Amanda. She faded in
+precisely like Amanda.
 <$0C>
-and out of my dream.
+She faded in and out of my dream.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -471,19 +458,17 @@ Thomas:
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
 \n
 It all happened so fast, I almost\n
-didn't notice. But...even then,
-<$0C>
-everything's hazy...
+didn't notice. Everything is hazy.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
 \n
-Was she an alter ego, or a hint at\n
-Amanda's reincarnation? I dare say,
+Was she an alter ego, or a hint\n
+at Amanda's reincarnation?
 <$0C>
-I am confused.
+I dare say, I am confused.
 <$00>
 
 // Pos: 00002DDC
@@ -511,17 +496,15 @@ from what me and the guys are.
 //子トーマス：
 子Thomas:
 <$0D>
-//\n問顆は心も欲しがるかということだ。\n
+//\n問顆は心も欲しがるかということだ
 \n
-What is Amanda searching for?\n
-
+What is Amanda searching for?
 <$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
-
-<$0C>
+\n
 I dare say, Feng would have no\n
 qualms offering her body to\n
 Amanda. Feng is her disciple.
@@ -559,17 +542,17 @@ Yolanda:
 <$0D>
 //\n体は…\nあれ？ なんて言ったっけ、用済み…
 \n
-A body? I understand that much, but\n
-what's this other bit...
+A body? I understand that much,\n
+but what's with this other bit...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
 \n
-How do you take someone's mind? I\n
-don't care what someone says, you
+How do you take someone's mind?
 <$0C>
-can't take a mind.
+I don't care what anyone says, you\n
+can't steal someone else's mind.
 <$00>
 

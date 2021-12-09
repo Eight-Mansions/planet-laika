@@ -17,7 +17,7 @@ Liever:
 <$0D>
 //\nこれで来たの？ このロケットで？
 \n
-Is this rocket how you came here?
+Did this rocket bring you here?
 <$00>
 
 // Pos: 00002195
@@ -47,7 +47,7 @@ Liever:
 <$0D>
 //\nリバーだよ。
 \n
-I'm Liever.
+Liever.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -55,17 +55,15 @@ Liever:
 //\nあんたたちが何のためにやってきたか、\n当ててみようか…
 \n
 Let me guess: you and your comrades\n
-are here...
+are here investigate all the rumors.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\n蕃判のウワサを調べに来た…\nどう？当たりでしょ。
 \n
-...to investigate the rumors about\n
-Mars and Judgement. Well? How'd I
-<$0C>
-do?
+The ones about Mars and Judgement.\n
+...Well? How'd I do?
 <$00>
 
 // Pos: 000021FF
@@ -85,9 +83,10 @@ Not bad, not bad.
 //そして分かった、\n蕃判だの奇跡だのは妄想の産物なんだ。
 \n
 Thankfully, any Judgement and\n
-miracle worries are invalid
+miracle worries are invalid.
 <$0C>
-figments of imagination.
+They're nothing but figments\n
+of everyone's imaginations.
 <$00>
 
 // Pos: 00002234
@@ -102,7 +101,7 @@ Liever:
 <$0D>
 //\nでも実現するんだよ。\n黒い騎士もほんとにいるんだよ。
 \n
-But the rumors are valid! Even the\n
+But the rumors ARE valid! Even the\n
 existence of the Black Rider is valid!
 <$00>
 
@@ -119,9 +118,9 @@ Spacer:
 //\nふ…君は平気なのか、コロニーの連中みたいに\n蕃判から逃れようとはしないのか。
 \n
 Hmph, then why are you so calm?\n
-Why not run from Judgement like the
+Why not run from Judgement?
 <$0C>
-others in the colony are?
+Everyone else in the colony is.
 <$00>
 
 // Pos: 00002297
@@ -166,8 +165,8 @@ Liever:
 <$0D>
 //\n神様に眼を入れるんだ。\nそれで神様が僕を守ってくれる。
 \n
-If I raise myself up to God, God will\n
-protect me.
+If I raise myself up to God,\n
+God will protect me.
 <$00>
 
 // Pos: 000022FC
@@ -214,8 +213,8 @@ Spacer:
 <$0D>
 //\n奇跡？君にも奇跡が起こせるのか。
 \n
-His miracle? Where would we see\n
-that?
+His miracle?\n 
+Where would we find that?
 <$00>
 
 // Pos: 00002367
@@ -230,10 +229,10 @@ Liever:
 <$0D>
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。
 \n
-Down at the Brick Road entrance to\n
-the underground canal.
+Meet me down in the underground canal.
 <$0C>
 //分かるよね。
-Just before entering the colony.
+Take the entrance on Brick Road,\n
+just before entering the colony.
 <$00>
 

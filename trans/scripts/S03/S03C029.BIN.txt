@@ -17,10 +17,11 @@ Boomer:
 <$0D>
 //\nああ、死の世界から使いがやって来るんだ。\n鋭いカギ爪でひと裂きだ。もう逃げられない…
 \n
-Ohhh, the Land of the Dead sends its\n
-messenger to tear us through with
+Ohhh, the Land of the Dead sends\n
+its messenger.
 <$0C>
-sharp hooks.
+That messenger will tear us\n
+through with sharp hooks.
 <$00>
 
 // Pos: 00003C3E
@@ -59,9 +60,7 @@ William:
 //\n誰もが不親切、そう思っていることでしょう。\nあなたはこのウィリアムとお話になるといい。
 \n
 Indeed, you must think, "Everyone is\n
-unkind", but! You can always talk to
-<$0C>
-William!
+unkind", but you can talk to William!
 <$00>
 
 // Pos: 00003CB9
@@ -76,9 +75,10 @@ William:
 <$0D>
 //\n僕について言っておくと、僕には預言が分かる、\n理解しているということです。
 \n
-As for William, William understands\n
-prophecies. That means William can
+As for William, William\n
+understands prophecies.
 <$0C>
+That means William can\n
 withstand them!
 <$0C><$0B>
 //ウィリアム：

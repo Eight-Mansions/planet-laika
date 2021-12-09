@@ -81,10 +81,8 @@ Liever:
 <$0D>
 //\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
 \n
-The underground canal is an\n
-aqueduct that leads to a dam of Evil
-<$0C>
-Mind.
+The underground canal's an aqueduct\n
+that leads to a dam of Evil Mind.
 <$00>
 
 // Pos: 00001963
@@ -114,8 +112,8 @@ Spacer:
 <$0D>
 //\nダム！ ダムがあるのか、\nイーブルマインドのダムが。
 \n
-Ah, a dam! So, there's a dam. A dam for\n
-Evil Mind.
+Ah, a dam! So, there's a dam.\n
+A dam for Evil Mind!
 <$00>
 
 // Pos: 000019A5
@@ -146,9 +144,7 @@ Liever:
 //\n先に行くよ。\n砂嵐が来る前に通り抜けなきゃ。
 \n
 If you want to see it, we'll have to\n
-move before another sandstorm
-<$0C>
-hits.
+move before another sandstorm hits.
 <$00>
 
 // Pos: 000019E5
@@ -186,10 +182,8 @@ Little:
 <$0D>
 //\nおい、お前も悪夢に出入りしてるのか、\nええ、アガタと組んだのか？
 \n
-Can you move in and out of the\n
-nightmares too? Are you workin'
-<$0C>
-with Agatha?
+Can you enter and exit nightmares\n
+too? Are you workin' with Agatha?
 <$00>
 
 // Pos: 00001A4A
@@ -220,9 +214,10 @@ April:
 <$0D>
 //\nねぇ、この星では\n夢と現実が入れ替わったりするの？
 \n
-Still, all this dream talk makes me\n
-wonder: are dreams and reality
+Still, all this dream talk\n
+makes me wonder.
 <$0C>
+Are "dreams" and "reality"\n
 swapped on this planet?
 <$00>
 
@@ -246,10 +241,8 @@ Little:
 <$0D>
 //\nそれなのに、しらばっくれてやがる。\nまるではじめてみたいに
 \n
-And yet, she played dumb, and acted\n
-like it was her first time seein'
-<$0C>
-anythin'.
+But she played dumb, and acted like\n
+it was her first time seein' anythin.
 <$00>
 
 // Pos: 00001B09
@@ -275,10 +268,8 @@ Little:
 <$0D>
 //\nおかしいじゃないか。 何か隠してる惑じだ。
 \n
-Shouldn't we be? Isn't it strange to\n
-think she hides things without
-<$0C>
-reason?
+Of course! Isn't it strange that\n
+she hides things without reason?
 <$0C><$0B>
 //リトル：
 Little:
@@ -286,9 +277,7 @@ Little:
 //\nへっ、催眠術で何かまずいことでも\nあったんじゃないのか。
 \n
 What'll she do when somethin' DOES\n
-go wrong during hypnotherapy,
-<$0C>
-huh?
+go wrong during hypnotherapy, huh?
 <$00>
 
 // Pos: 00001B63
@@ -344,9 +333,7 @@ Little:
 //\nちくしょう！ さっきのはひどかった…\nお前が俺に話しかけてたぞ。
 \n
 Goddammit, that was all so awful!\n
-Yeah, I remember you talkin' to me
-<$0C>
-before.
+I remember you talkin' before.
 <$0C><$0B>
 //リトル：
 Little:
@@ -354,9 +341,7 @@ Little:
 //\n俺は、イヤな場所で宙に浮かんでた…\nあああ、思い出してきたぞ。
 \n
 Right, I was floatin' in the air\n
-somewhere awful. I remember
-<$0C>
-now!
+somewhere awful. I remember now!
 <$0C><$0B>
 //リトル：
 Little:
@@ -364,9 +349,9 @@ Little:
 //\n頭の中で声がするんだ、双子の苦しみ、\n生き埋めの双子の苦しみってな。
 \n
 The voice in my head's talkin' about\n
-"twin suffering" and things being
+"twin suffering" and...
 <$0C>
-"buried alive".
+...and  things being "buried alive"!
 <$0C><$0B>
 //リトル：
 Little:
@@ -391,30 +376,29 @@ April:
 <$0D>
 //\n今のリトルの話、知ってる？\n生き埋めの双子って…
 \n
-Have you ever heard the story Little\n
-just mentioned? The one about the
+Have you ever heard the story\n
+Little just mentioned?
 <$0C>
-buried twins?
+The one about the buried twins?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nずいぶん昔の話で、そう、\n火星がまだ流刑地だったころのことよ。
 \n
-The incident happened a long time\n
-ago, back when Mars was still a penal
-<$0C>
-colony.
+The incident happened way back\n
+when Mars was a penal colony.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n自分こそ選ばれた人間だって思い込んだ\nひとりの流刑者が、双子だった男の子を\n生き埋めにしたの。
 \n
-An exile who thought he was "the\n
-chosen one" was caught burying
+There was an exile who claimed\n
+he was "the chosen one".
 <$0C>
-twin boys alive.
+He was caught burying twin boys\n
+alive.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -422,19 +406,18 @@ April:
 //\n自分に向いた鋭命が双子に\n取られないように…
 \n
 He thought it was wrong for two\n
-twins to share a fate belonging to
+twins to share a fate.
 <$0C>
-one self.
+In his mind, those two fates\n
+belonged to one self.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそんな話が今頃になって\nよみがえるなんて… 幽霊みたいに…
 \n
-To be honest, it's weird to hear that\n
-story spring back to life like some
-<$0C>
-ghost.
+It's weird hearing that story\n
+spring back to life like some ghost.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -478,8 +461,8 @@ April:
 <$0D>
 //\nどうしたの、急におびえはじめて。\nこの先に何があるの？
 \n
-What's happening up ahead? I'm\n
-getting scared now.
+What's happening up ahead?\n
+I'm getting scared now.
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
@@ -502,10 +485,8 @@ Liever:
 <$0D>
 //\nこれは地下水道…\nイーブルマインドのダムにつながってるんだ。
 \n
-The underground canal is an\n
-aqueduct that leads to a dam of Evil
-<$0C>
-Mind.
+The underground canal's an aqueduct\n
+that leads to a dam of Evil Mind.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -520,8 +501,6 @@ Liever:
 //\n先に行くよ。砂嵐が来る前に通り抜けなきゃ。
 \n
 If you want to see it, we'll have to\n
-move before another sandstorm
-<$0C>
-hits.
+move before another sandstorm hits.
 <$00>
 

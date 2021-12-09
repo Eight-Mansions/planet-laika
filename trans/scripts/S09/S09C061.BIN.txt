@@ -17,8 +17,8 @@ Spacer:
 <$0D>
 //\nユニバーサルマン…\nあなたがユニバーサルマン…
 \n
-Universal Man... You're Universal\n
-Man.
+Universal Man...\n
+You're Universal Man.
 <$00>
 
 // Pos: 000024B2
@@ -97,9 +97,9 @@ Spacer:
 //\nどこに行けば全ての預言を得ることが\nできるのだ？
 \n
 Where can we go to find all the\n
-prophecies? Is finding them all even
+prophecies?
 <$0C>
-possible?
+Is finding them all even possible?
 <$00>
 
 // Pos: 00002595
@@ -115,7 +115,7 @@ Universal Man:
 //\nひとつはここに、私のうちに。\n残るは死者に…
 \n
 Onnne is here, in me... The rest are in\n
-the deaaaad...
+deaaath...
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
@@ -130,8 +130,8 @@ Universal Man:
 <$0D>
 //\n生ではなく、死に！
 \n
-I'm not even\n
-alive...I'mmmm...dyiiiiing!
+I'm not even alive...\n
+I ammmm...dyiiiiing!
 <$00>
 
 // Pos: 000025FF
@@ -177,10 +177,8 @@ Spacer:
 <$0D>
 //\nなんと、心の中から開こえてくるようだ…\nこれがエレミヤの預言か。
 \n
-It...feels like my mind's being pulled\n
-open in some way. Is this Jeremiah's
-<$0C>
-prophecy?
+It feels like my mind's being pulled open\n
+in some way. Is this Jeremiah's prophecy?
 <$00>
 
 // Pos: 00002676
@@ -242,9 +240,7 @@ Universal Man:
 //\n死と向き合うために英気を養わねばならぬとは…\n皮肉なことよ。
 \n
 How ironiiic...I thought a hearrrt of\n
-stone...wouuuuld keep me from
-<$0C>
-deaaath...
+stone...wouuuuld keep me from deaaath...
 <$00>
 
 // Pos: 00002753
@@ -260,8 +256,6 @@ Spacer:
 //\n死の動機… 死の動機… イヤな言葉だ。
 \n
 A reason for dying... He didn't have a\n
-lust for death, did he? That's
-<$0C>
-unsettling.
+lust for death, did he? That's eerie.
 <$00>
 

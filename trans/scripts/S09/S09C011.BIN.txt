@@ -17,8 +17,8 @@ Liever:
 <$0D>
 //\nふふ、どうしたのさ。\nけげんな顔して。
 \n
-Hmm, what's the matter? Why the\n
-long face?
+Hmm, what's the matter?\n
+Why the long face?
 <$0C><$0B>
 //リバー：
 Liever:
@@ -40,8 +40,8 @@ Spacer:
 <$0D>
 //\n私だけだ。 心配はいらない。
 \n
-No one besides me. Nothing to worry\n
-about...
+No one besides me.\n
+Nothing to worry about.
 <$00>
 
 // Pos: 00000C61
@@ -101,10 +101,8 @@ Liever:
 <$0D>
 //\n最初に見つけたときは、つららを逆さにした\nみたいな柱だったんだ。
 \n
-When I first found this place, an\n
-icicle came down like a great pillar
-<$0C>
-before me.
+When I first found this place, an icicle\n
+came down like a great pillar before me.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -120,9 +118,10 @@ Liever:
 //\nその次は、どうなってたと思う？\n３つも顔ができてたんだよ。\n見に来るたんびに顔が増えていくんだ。
 \n
 And what happened the next time?\n
-Three faces appeared! The number
+Three faces appeared!
 <$0C>
-of faces goes up each time.
+The number of faces goes up\n
+each time.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -138,17 +137,17 @@ Liever:
 //\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
 \n
 There are sockets in the eyes of the\n
-first face that appeared. Surely
+first face that appeared.
 <$0C>
-they can fit something.
+Surely they can fit something.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nそれで家にあった光る石を\n思いついたってわけだよ。
 \n
-I've come to the conclusion that two\n
-of those glowing stones would do the
+I imagine two of those glowing stones\n
+would do the
 <$0C>
 trick.
 <$00>
@@ -181,10 +180,8 @@ Liever:
 <$0D>
 //\nトールボーイがイーブルマインドを\n吐き出すところに現れたってこと、\n意味あると思わない？
 \n
-But, doesn't it tell you something\n
-that Tall Boy appeared in an Evil Mind
-<$0C>
-deposit like so?
+But, isn't it telling that Tall Boy\n
+appeared in an Evil Mind deposit?
 <$0C><$0B>
 //リバー：
 Liever:
@@ -192,8 +189,9 @@ Liever:
 //\nトールボーイは悪を食べるんだよ。\n食べてきれいにしてくれるんだ。\nでも、眼を入れないと本物にはならない。
 \n
 Tall Boy devours evil, and keeps Mars\n
-clean. Of course, I know you'll want
+clean.
 <$0C>
+Of course, I know you'll want\n
 to see it to believe it.
 <$00>
 
@@ -210,8 +208,6 @@ Liever:
 //\nいよいよなんだよ、ドキドキさ、そりゃ。\nあんたもでしょ。\nでも恐くないよ、神様だもん。
 \n
 That's why you're here! Aren't you\n
-excited? I know I am! It's time to
-<$0C>
-face God!
+excited? It's time to face God!
 <$00>
 

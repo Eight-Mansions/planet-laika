@@ -56,10 +56,8 @@ Crow:
 <$0D>
 //\nお前だ、何でそんな目で見る、ちくしょう！\n悪夢に閉じ込めてやる！
 \n
-Don't look at me with those eyes, you\n
-sonnuva...! I'll lock you up in this
-<$0C>
-nightmare!
+Don't look at me with those eyes, you!\n
+I'll lock you up in this nightmare!
 <$00>
 
 // Pos: 0000241B
@@ -93,8 +91,6 @@ Crow:
 //\nあは、おどれ、おどれ、ヘロデのペットだ、\n生クビとダンスだ！
 \n
 Dance, Herod's pet! Dance! Dance\n
-around all the floating heads with
-<$0C>
-me!
+around all the floating heads with me!
 <$00>
 

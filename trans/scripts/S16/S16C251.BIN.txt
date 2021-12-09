@@ -60,9 +60,9 @@ Marrakech:
 <$0D>
 //\nお顔がなにより、見かけの人よ。\nアタシもあなたも、そうでしょ、ヨランダ。
 \n
-It doesn't matter who, Yolanda:\n
-faces are the centerpiece of one's
+It's the same for everyone, Yolanda.\n
 <$0C>
+Faces are the centerpiece of one's
 outward appearance.
 <$1E>
 //中
@@ -88,10 +88,8 @@ Marrakech:
 <$0D>
 //\nでもいつもと建う惑じよ、\nどこがとはいえないけど。
 \n
-Dear, I'm always so confused. I\n
-doubt understanding will help
-<$0C>
-anyways.
+Dear, I'm always so confused. I doubt\n
+understanding will help anyways.
 <$1E>
 //中
 中
@@ -125,10 +123,8 @@ Yolanda:
 <$0D>
 //\nそうよ、ただの夢よ。\nアタシがいつも見る夢じゃないけどね。
 \n
-Yes... While this isn't the kind of\n
-dream I usually have, it's still only a
-<$0C>
-dream.
+Yes. While this isn't a dream I'd normally\n
+have, it's still only a dream.
 <$00>
 
 // Pos: 00000C64
@@ -197,8 +193,8 @@ Marrakech:
 <$0D>
 //\nねぇ、ここから出して、連れ出してよ。
 \n
-Dear, get out of here. Come on, let's\n
-go.
+Dear, get out of here.\n
+Come on, let's go.
 <$1E>
 //中
 中

@@ -18,9 +18,9 @@ Yolanda:
 //\n今の開いた？\nウラジミールとセルゲイの声よ。何でまた？
 \n
 Did you hear that? Those were\n
-Vladimir and Sergei's voices,
+Vladimir and Sergei's voices.
 <$0C>
-but...why now?
+But...why now?
 <$00>
 
 // Pos: 0000477B
@@ -36,9 +36,9 @@ Ernest:
 //\nへん！ 俺には見えてたぜ。\nぴかっと光るお宝、俺のお宝だ。
 \n
 Who knows. I did see my treasure\n
-though. My brightly glowing
+though.
 <$0C>
-treasure...
+My brightly glowing treasure...
 <$00>
 
 // Pos: 000047A8
@@ -92,7 +92,7 @@ Yolanda:
 <$0D>
 //\nせっかくのクリスマスよ、\nここはさびしいわ。
 \n
-I'm not feeling the Xmas cheer here.\n
+I'm not feeling any Xmas cheer here.\n
 Not with things this desolate.
 <$00>
 
@@ -123,7 +123,9 @@ Something on the planet's surface is\n
 affecting 
 <$0F>
 //に作用して、\nあんな声が開こえたんだ。
-'s mind. That's why we heard voices.
+'s mind.
+<$0C>
+That's why we heard voices.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -131,10 +133,13 @@ Spacer:
 //\nつらかった子供の頃を思い出した…\n
 \n
 But those voices came from deep,\n
-dark childhood memories. I thought 
+dark childhood memories.
+<$0C>
+Honestly, I thought 
 <$0F>
 //は、忘れてなかったんだ。
- forgot them.
+\n
+forgot all that.
 <$00>
 
 // Pos: 000048D0
@@ -149,7 +154,7 @@ Yolanda:
 <$0D>
 //\nあーら、作用だなんて、\nいやな惑じね。
 \n
-Oh, we're getting the side effects?\n
+Oh, so we're getting a contact high?\n
 Aren't we lucky.
 <$0C><$0B>
 //ヨランダ：
@@ -158,9 +163,9 @@ Yolanda:
 //\nこれからアタシたちの出番、増えるのかしら。\nそれにしてもクリスマス返上なのよ。
 \n
 Whatever it is, the three of us may\n
-have more shifts soon, and none of
+have more shifts soon.
 <$0C>
-us'll be home for Xmas.
+And none of us'll be home for Xmas.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -190,7 +195,7 @@ Ernest:
 <$0D>
 //\nちょっとばかしタイクツしてたところだ、\nせいぜい楽しませてもらうぜ。
 \n
-Sounds boring to me, but if that's\n
+Bores me to tears, but if that's\n
 what decks their halls, so be it.
 <$00>
 
@@ -207,9 +212,9 @@ Yolanda:
 //\nじゃあ、ロケットから見えたのは、本物なのね。\n火星の顔、あれがそうなのね？
 \n
 Yeah, they always wanted to see\n
-Mars from inside a rocket. I mean,
+Mars from inside a rocket. 
 <$0C>
-shit, who knew Mars had a face?
+I mean, shit, who knew Mars had a face?
 <$00>
 
 // Pos: 000049D4
@@ -224,17 +229,15 @@ Spacer:
 <$0D>
 //\n本物だ。 ザ・フェイスと呼ばれている、\n火星人のイセキだ。
 \n
-Literally everyone, Jo. We're near a\n
-Martian archeological site called the
-<$0C>
-Face.
+Literally everyone, Jo. We're near the\n
+Face, a major Martian archeological site.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n今回の任務となにやら関係がありそうだ。
 \n
-I take it the site is related to the\n
+I assume the site is related to the\n
 survey unit's mission somehow.
 <$00>
 
@@ -251,9 +254,9 @@ Yolanda:
 //\nねぇ、ここで顔、作るの？\n私たちも人間の顔になるの？
 \n
 Oh, that's right! Aren't human faces\n
-made here? Can we all get the
+made here?
 <$0C>
-surgery too?
+Can we all get the surgery too?
 <$00>
 
 // Pos: 00004A50
@@ -268,8 +271,8 @@ Ernest:
 <$0D>
 //\n私たちだと？ おい、お前と一緒にするな、\n俺はアーネストだ、分かったか！
 \n
-"We"? Don't lump me with you two. "I"\n
-am Ernest, understand?
+"We"? Don't lump me with you two.\n
+"I" am Ernest, understand?
 <$00>
 
 // Pos: 00004A83
@@ -360,9 +363,7 @@ Spirit Man:
 //\nこの星には悪がはびこっている。
 \n
 This planet is brimming with evil.\n
-Exposure to this evil will steadily
-<$0C>
-affect you.
+Exposure to it will steadily affect you.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -386,8 +387,9 @@ Spirit Man:
 //\nオーラだ、悪に触れたらお前の体から\nオーラが現れるぞ。
 \n
 When you make contact with an\n
-influence, a colorful aura will leave
+influence, as in, another person,
 <$0C>
+a colorful aura will leave
 that influence and enter you.
 <$0C><$0B>
 //スピリットマン：
@@ -419,8 +421,8 @@ Spirit Man:
 <$0D>
 //\nこれでお前の心が見えるぞ、のぞけるぞ。
 \n
-With this, you can keep a close eye on\n
-your mind.
+With this, you can keep a close eye\n
+on your mind.
 <$00>
 
 // Pos: 00004C43

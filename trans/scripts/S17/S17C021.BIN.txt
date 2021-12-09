@@ -25,10 +25,8 @@ Galil:
 <$0D>
 //\nフェニックス。君こそが最後のピースなのだ、\n待ち望まれていた最後のな。
 \n
-Phoenix. You are the last piece of\n
-that puzzle I have long waited to
-<$0C>
-solve.
+Phoenix. You are the last piece of a\n
+puzzle I have long waited to solve.
 <$00>
 
 // Pos: 00004291
@@ -191,19 +189,18 @@ Galil:
 //\n君は手を汚さずにいた、君はただ\n笑っているだけでよかった。
 \n
 You laugh because you burdened\n
-others with your sin before you
+others.
 <$0C>
-could even know its weight.
+You gave other your sin before\n
+you could learn its weight.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nフェニックス、君は本当は双子として\n生まれてくるはずだったのだ。
 \n
-You know better than anyone that\n
-you were supposed to be born for
-<$0C>
-your twin.
+You know better than anyone that you\n
+were meant to be born for your twin.
 <$00>
 
 // Pos: 000044C2
@@ -216,8 +213,7 @@ your twin.
 <$00>
 //小さな肉のかたまりだ。\nともに成長するしかないだろう…
 And what are you now, a chunk of\n
-meat?\n
-Now, you two are stuck together.
+meat? You're both stuck together.
 <$00>
 
 // Pos: 000044E3
@@ -248,16 +244,16 @@ Galil:
 <$0D>
 //\n都合のいいときだけ入れ替わった。
 \n
-You betrayed your twin as soon as it\n
-was convenient for you.
+You betrayed your twin as soon as\n
+it rang convenient to do so.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n脳に寄生する肉のかたまりが、\n
 \n
-You became a tumor, a cranial\n
-parasite that ate at 
+You became a tumor, a parasite\n
+that ate at 
 <$0F>
 //の心と体をうばったのだ。
 's mind and body.
@@ -315,8 +311,8 @@ Galil:
 In my eyes, you and 
 <$0F>
 //にこそ用があるのだ。
- are better suited\n
-to be called the twins of hatred.
+ are\n
+better off being the Twins of Hatred.
 <$00>
 
 // Pos: 000045E0
@@ -339,15 +335,15 @@ Galil:
 <$0D>
 //\nフェニックス、君はもう用済みだ、\n眠りにつくがいい。
 \n
-You're time is over, you cancer. It's\n
-time you went back to sleep.
+Your hour is over, you cancer.\n
+It's time you went back to sleep.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n
 \n
-Return to the world of nothingness in\n
+Return to the voids of nothingness in\n
 the back of 
 <$0F>
 //の脳にとどまる\n小さな肉のかたまりとして、\n無の世界に戻るのだ。
@@ -383,9 +379,7 @@ Galil:
 //\nアマンダ、お前は鏡の中から小さな光を放った、\nそれが一人の女として生を得たのだ。
 \n
 That flicker came to life as a woman,\n
-and now you have integrated with
-<$0C>
-her.
+and now you have integrated with her.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -400,10 +394,8 @@ Galil:
 <$0D>
 //\n体と心を得て、美の権化として\nよみがえろうというのだな。
 \n
-You have claimed your rites as\n
-holder of beauty in both body and in
-<$0C>
-mind.
+You have claimed your rites as holder\n
+of beauty in both body and in mind.
 <$00>
 
 // Pos: 00004744
@@ -442,10 +434,10 @@ Galil:
 <$0D>
 //\nそういうことだったのか、アマンダ。\nお前たちが主役だと？ 宿命の子だと？
 \n
-Then why, Amanda? Do you fancy\n
-yourself the leading starlet of this
+Then why? Do you fancy yourself the\n
+leading starlet of this show?
 <$0C>
-show? A Destined Child?
+A Destined Child?
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -453,9 +445,7 @@ Galil:
 //\nだがもう手おくれだ。\n今や私は預言を越えた存在となった。
 \n
 Then I cannot help you. I have long\n
-rendered the prophecies
-<$0C>
-insignificant.
+found the prophecies insignificant.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -470,8 +460,8 @@ Galil:
 <$0D>
 //\n私は死を越えて、永遠となるのだ。
 \n
-I am already beyond death! I AM\n
-ETERNAL!
+I am already beyond death!\n
+I AM ETERNAL!
 <$00>
 
 // Pos: 00004824
@@ -557,8 +547,8 @@ April:
 <$0D>
 //\nこれがそうなの？
 \n
-What is this? These words... It's a\n
-prophecy!
+What is this? These words...\n
+It's a prophecy!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -566,8 +556,9 @@ April:
 //\n言葉よ… 預言ね、預言者に会ったのね…\n心のうちから響いてくるみたいよ…
 \n
 You must have been touched by a\n
-prophet. Their words are pouring
+prophet.
 <$0C>
+Let their words pour\n
 out from within you!
 <$00>
 
@@ -661,9 +652,8 @@ April:
 //\nすべての預言がそろったのね…\n奇跡は起きるの？
 \n
 We've found all of the prophecies.\n
-Does that mean a miracle will
 <$0C>
-happen?
+Does that mean a miracle will come?
 <$00>
 
 // Pos: 000049E3
@@ -694,8 +684,8 @@ Galil:
 <$0D>
 //\nそれで悪は完成する。\n完全なる善と悪が出会うときだ。
 \n
-When their evils rise, I, pure good,\n
-shall face them!
+When their evils rise,\n
+I, pure good, shall face them!
 <$00>
 
 // Pos: 00004A53
@@ -734,8 +724,8 @@ Galil:
 <$0D>
 //\nなぜ光を私に向けるのだ！\nいくら照らし出してもムダだ。
 \n
-Why direct your light over me, if not\n
-to burn in vain?
+Why direct your light over me,\n
+if not to burn in vain?
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -784,8 +774,8 @@ Galil:
 <$0D>
 //\n憎々しい朝が来る、生者の朝だ。
 \n
-A hateful dawn is upon us. It is the\n
-dawn of the living.
+A hateful dawn is upon us.\n
+It is the dawn of the living.
 <$00><$10><$0B>
 //ガリル：
 Galil:
@@ -805,8 +795,8 @@ Galil:
 <$0D>
 //\n何も存在などしない。\nまやかしの他は、何もないのだ。
 \n
-Nothing "exists". There is only\n
-delusion.
+Nothing "exists".\n
+There is only delusion.
 <$00>
 
 // Pos: 00004BE3
@@ -821,8 +811,8 @@ Galil:
 <$0D>
 //\nこの光は… 私の光ではない！
 \n
-What is this light...? This light isn't\n
-mine!
+What is this light...?\n
+This light isn't mine!
 <$0E><$1E><$17><$00>
 
 // Pos: 00004BFF
@@ -837,8 +827,8 @@ Galil:
 <$0D>
 //\n火星人… 死を超えてよみがえったのか！
 \n
-It's you...the Martians! You have\n
-crossed over from death!
+It's you...the Martians!\n
+You have crossed over from death!
 <$0E><$1E><$17><$00>
 
 // Pos: 00004C22
@@ -856,7 +846,7 @@ Galil:
 Your senses are sharp, little 
 <$0F>
 //君。\n君は実にいい惑じだ。
-. Very sharp.
+.\nVery sharp.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -881,8 +871,8 @@ Galil:
 <$0D>
 //\nそれで世界の再生がはじまるのだよ。
 \n
-...Then let me help you. Let the\n
-rebirth of the world begin.
+...Then let me help you.\n
+Let the rebirth of the world begin.
 <$00>
 
 // Pos: 00004CB5
@@ -941,9 +931,9 @@ Galil:
 //\n君のことは誰も気が付かないでいた、\nあのあわれなタニアでさえ君でなく、\nもうひとりを愛していたのだ。
 \n
 Your mind was shrouded in\n
-darkness, bu no one noticed. Not
+darkness, bu no one noticed.
 <$0C>
-even pitiful Tanya.
+Not even pitiful Tanya.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -953,8 +943,8 @@ Galil:
 You were always alone, 
 <$0F>
 //、\n君こそが影だ。
-. You were\n
-the lone shadow I came to free.
+.\n
+You were the lone shadow I came to free.
 <$0C><$0B>
 //ガリル：
 Galil:

@@ -17,8 +17,8 @@ Little:
 <$0D>
 //\nおい、ここなのか？\n約束の場所はここなのか？
 \n
-Oi, what's this place? Is this...the\n
-Promised Land?
+Oi, what's this place?\n
+Is this...the Promised Land?
 <$00>
 
 // Pos: 00002C51
@@ -150,8 +150,8 @@ surface with nowhere to go.
 You did that to all of us, Little!
 <$0C>
 //この星は待っていたんだよ、\n罪のすべてを背負う人間を！
-The planet's waiting for a human\n
-who will carry your sins.
+The planet is still waiting for a\n
+human who will carry your sins.
 <$00>
 
 // Pos: 00002D9F
@@ -565,7 +565,7 @@ Silver Capsule
 #WHB(PTR, $00002ACD)
 
 //５つの預言をしまう
-Stores the five propechies
+Stores the propechies
 <$00><$00>
 
 // Pos: 00002F4A

@@ -89,9 +89,7 @@ Spacer:
 //\n死の世界に入ろうとしているのか？\nまだすぐには無理そうだな。
 \n
 Do you want into the Land of the\n
-Dead? I didn't think that was possible
-<$0C>
-yet.
+Dead? Is that possible yet?
 <$00>
 
 // Pos: 00002216
@@ -189,9 +187,7 @@ Spacer:
 //\n私だけ… もしそうだとしたら？\n私が全てだとしたら…
 \n
 Expecting someone...? Uhm, no. It's\n
-just me, myself and this...wall
-<$0C>
-here...
+just me, myself and this wall here...
 <$00>
 
 // Pos: 00002300
@@ -207,9 +203,7 @@ Veronica:
 //\nじゃあ、合わさったの？\nそれともはじめからひとりなの？\nねえ、どっち？
 \n
 Well, either you were you talking to\n
-someone, or were you were
-<$0C>
-scheming here alone.
+someone, or were you were scheming alone.
 <$00>
 
 // Pos: 00002331
@@ -224,8 +218,8 @@ Spacer:
 <$0D>
 //\n合わさる…\nどういうことだ、合わさるとは。\n私たちが合わさる…
 \n
-What? There's no scheming, we\n
-were just...
+What? There's no scheming,\n
+we were just...
 <$00>
 
 // Pos: 00002360
@@ -240,8 +234,8 @@ Veronica:
 <$0D>
 //\nほら、やっぱり。\nひとりじゃないんだよ。\n私たちだなんて言って…ばれてるよ。
 \n
-Gotcha! You weren't alone after all! I\n
-caught you when you said "we"!
+Gotcha! You weren't alone after all!\n
+I caught you when you said "we"!
 <$00>
 
 // Pos: 00002393
@@ -264,10 +258,8 @@ Spacer:
 <$0D>
 //\nそうか！ 思い出したぞ、フェイだ、\n君はフェイのことをきらってる、\nそして取り込もうとしているんだな！
 \n
-Oh, now I remember! You don't like\n
-Feng. You're the half that's trying to
-<$0C>
-subdue her.
+Oh, now I remember! You don't like Feng.\n
+You're the half trying to subdue her.
 <$00>
 
 // Pos: 000023F0
@@ -282,10 +274,8 @@ Veronica:
 <$0D>
 //\nふふふ、アタシはいいこと思いついたのよ、\nふたりがひとりになれる特別の方法を。
 \n
-Hohoho! I thought long and hard, you\n
-know. I've got a plan now to become
-<$0C>
-one with her.
+Hohoho! I thought long and hard, and\n
+now, I plan to become one with her.
 <$00>
 
 // Pos: 00002429
@@ -314,9 +304,9 @@ How would that work, huh? Tell me.
 Veronica:
 <$0D>
 //\nアタシ、決めたの。\n吸収するのよ、あの女を、フェイを。\nアタシが見つけたやり方で！
-Simple, really. I've\n
-decided I'll absorb that woman.\n
-Feng. It's the most realistic option.
+Simple, really. I've decided\n
+I'll absorb Feng, that woman.\n
+It's the most realistic solution.
 <$00>
 
 // Pos: 00002484
@@ -331,8 +321,8 @@ Spacer:
 <$0D>
 //\nドールダンスか…
 \n
-Using the doll dance? That's it, isn't\n
-it?
+Using the doll dance?\n
+That's it, isn't it?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -340,9 +330,10 @@ Spacer:
 //\nそうなのか、メディスンマンたちのまじないで\n人格を統合させようとしているのか…\n人格統合…
 \n
 Veronica wants to use shamanic\n
-magic to integrate with Feng, and
+magic to integrate with Feng.
 <$0C>
-consume her personality.
+If the two integrate, Veronica can\n
+easily consume Feng's personality.
 <$00>
 
 // Pos: 000024D6
@@ -391,9 +382,7 @@ Spacer:
 <$0D>
 //\n誰が残るんだ。\nそれとも誰も残れないのか、どうなんだ？
 \n
-Who remains, huh? Does everyone\n
-remain, or does everyone
-<$0C>
-disappear? Which is it?
+Who remains, huh? Does everyone remain,\n
+or does everyone disappear? Which is it?
 <$00>
 

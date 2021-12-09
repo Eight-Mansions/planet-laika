@@ -81,10 +81,8 @@ Yolanda:
 <$0D>
 //\nどうして？ねぇ、どうしてなの…\nアタシの深いところに響いてくる…
 \n
-What's going on? I feel\n
-something...shivering deep inside
-<$0C>
-me...
+What's going on? I feel something\n
+shivering deep, deep inside me...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -92,9 +90,7 @@ Yolanda:
 //\nあれ、どうかしてるわ、アタシったら。\nおばかさん。ただの氷のじゃない、こんなの。
 \n
 The Hell was that? Relax, Yolanda.\n
-It's just ice. Nothing to freak out
-<$0C>
-over.
+It's just ice. Nothing to freak over.
 <$00>
 
 // Pos: 0000321C
@@ -109,8 +105,8 @@ Ernest:
 <$0D>
 //\n何だ、こいつは…凍ってるぜ…
 \n
-What happened? This big guy's\n
-frozen solid.
+What happened?\n
+This big guy's frozen solid.
 <$00>
 
 // Pos: 00003238
@@ -125,7 +121,7 @@ Ernest:
 <$0D>
 //\nあああ、何だ、イヤな気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
 \n
-Urk, I...don't feel so good. It's like,\n
-little by little, I'm... Damn!
+Urk, I...don't feel so good. Damn!\n
+It's like my head is shrinking...!
 <$00>
 

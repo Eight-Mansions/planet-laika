@@ -47,8 +47,8 @@ Spacer:
 <$0D>
 //\nこの石は…これが酸索石なのか…\nいや建う…他にもどこかで見たようだが…
 \n
-This stone. Is it oxygenite...? No, but\n
-I have seen it somewhere before.
+This stone. Is it oxygenite...? No,\n
+but I have seen it somewhere before.
 <$00>
 
 // Pos: 0000425A
@@ -64,9 +64,9 @@ Spacer:
 //\nヘロデ、悪夢の中にいるんじゃなかったのか…\n向こうで目覚めて戻ってきたのか？
 \n
 Herod? I thought you were in one of\n
-your nightmares right now. Did you
+your nightmares right now.
 <$0C>
-wake up?
+Did you wake up?
 <$00>
 
 // Pos: 00004293
@@ -151,16 +151,16 @@ Herod:
 <$0D>
 //\nでかいやつだ…\nああ、そうだ、深い苦しみの権化みたいな…。
 \n
-Yes, a great being... They are deep\n
-suffering incarnate.
+Yes, a great being...\n
+Deep suffering incarnate.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nそいつが邪魔してる限り、\n俺は夢の中に入れないんだ。
 \n
-As long their disturbance exists, I\n
-will not make it into dreaming.
+As long their disturbance exists,\n
+I will not make it into dreaming.
 <$00>
 
 // Pos: 000043D1
@@ -175,15 +175,15 @@ Spacer:
 <$0D>
 //\nそいつを取り除けばいいんだな。
 \n
-Then they to be given the boot.
+Then they're to be given the boot.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n私にできるか、\nどうなんだヘロデ。
 \n
-Maybe I can help. Where do I start,\n
-Herod?
+Maybe I can help.\n
+Where do I start, Herod?
 <$00>
 
 // Pos: 0000440A
@@ -280,9 +280,7 @@ Spacer:
 //\nヘロデが預言を…\n彼は死の世界にいるのか？
 \n
 Herod recited a prophecy. Does that\n
-mean he's in the Land of the Dead
-<$0C>
-now?
+mean he's in the Land of the Dead?
 <$00>
 
 // Pos: 000044FF
@@ -328,8 +326,8 @@ William:
 <$0D>
 //\n僕には無理なんだ、\nやっぱり、何か足りないんだ！
 \n
-This isn't right for William! No,\n
-something's missing!
+This isn't right for William!\n
+No, something's missing!
 <$00>
 
 // Pos: 00004591
@@ -344,18 +342,16 @@ William:
 <$0D>
 //\n僕は、僕は、\nあいつらが滅びるところを見たかったんだ。
 \n
-William... All William wanted was to\n
-see those philistines get their just
-<$0C>
-desserts.
+All William wanted was to see those\n
+philistines get their just desserts.
 <$0C><$0B>
 //ウィリアム：
 William:
 <$0D>
 //\nコロニーのやつらさ、\nみんな死んでしまえ！
 \n
-William wanted every last fucker in\n
-this colony to die!
+William wanted every last fucker\n
+in this colony to die!
 <$00>
 
 // Pos: 000045DA
@@ -394,9 +390,10 @@ William:
 //\nあ、見ねぇ顔だな…\n脳ミソがパチパチだ… あうううう…
 \n
 Oh, why doesn't William recognize\n
-this face... William's brain is
+this face...
 <$0C>
-crackling... Hic!
+William's brain is crackling...\n
+Hic!
 <$00>
 
 // Pos: 0000463B
@@ -494,9 +491,9 @@ Herod:
 //\nさあ、アガタ、早くむかえに来るんだ…\nあのいまいましい生クビ野郎め！
 \n
 Come on, Agatha, come for me soon.\n
-The floating heads are chasing me
 <$0C>
-again!
+The floating heads are\n
+chasing me again!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -504,7 +501,7 @@ Herod:
 //\nあああ、俺を追いかけてきやがる、\nいつもと建うじゃねぇか！
 \n
 Augh, but it's different from usual!\n
-Get it away!
+Get them away!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -551,8 +548,8 @@ Yolanda:
 <$0D>
 //\n何？\n何がいるのよ、気味悪いわね。
 \n
-What's out here? Talk about\n
-creepy...
+What's out here?\n
+Talk about creepy...
 <$00>
 
 // Pos: 00004852

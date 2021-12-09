@@ -17,18 +17,16 @@ Tommy:
 <$0D>
 //\nようよう、兄ちゃんよう、ブリックロードに\n出る扉、あれ開けられねぇのか。
 \n
-Hey, Buddy. You can open the door to\n
-Brick Road, can't you? Thing's shut,
-<$0C>
-a-yup.
+Hey, Buddy. You can't open the door to\n
+Brick Road, right? Thing's shut, a-yup.  
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n閉まりやがったんだ。クロウのやつもいたぞ。\n一緒に来たのか？
 \n
-I saw Crow around here too. Did you\n
-come here with him?
+I saw Crow around here too.\n
+Did you come here with him?
 <$00>
 
 // Pos: 00003A70
@@ -42,8 +40,8 @@ come here with him?
 Tommy:
 <$0D>
 //\nよう、俺はなぁ、あの赤い家のとこだ、そこで、\nああ、くそったれ！ 気が遠くなりやがった。
-I was at that red house\n
-before, when...BAM! I fainted!
+I was at that red house before,\n
+when...BAM! I fainted!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -51,9 +49,7 @@ Tommy:
 //\nそれで、あのへんてこな\n道しるべのとこにいたんだ。
 \n
 Next thing I know, I'm over by that\n
-signpost. The whole thing was
-<$0C>
-bizarre, a-yup.
+signpost. It was bizarre, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -91,8 +87,8 @@ Tommy:
 <$0D>
 //\nでもよ、ゲートが閉まってちゃ、\nどうにもならねぇな。
 \n
-But the gate's closed. Just our luck,\n
-a-yup.
+But the gate's closed.\n
+Just our luck, a-yup.
 <$1E>
 //家
 家
@@ -129,8 +125,8 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう…\nお前、さっきの兄ちゃん…だよな。
 \n
-Hey, comrade! Wait. We spoke\n
-earlier...right?
+Hey, comrade! Wait.\n
+We spoke earlier...right?
 <$00>
 
 // Pos: 00003B88
@@ -154,7 +150,7 @@ Tommy:
 //\nまた気が遠くなるぜ、おい、何のまじないだ、\n兄ちゃん…
 \n
 I feel like I'm gonna pass out again.\n
-What the heck...?
+What the heck...
 <$00>
 
 // Pos: 00003BCA
@@ -170,7 +166,7 @@ Rummy:
 //\nあーああーあ…僕だな、ラミーだな。\n君は電波の友だちだな。ここは、どこだな…
 \n
 Aaaaah! I'm...Rummy! YOU! Are you\n
-friend to all the radio waves...?
+friend to all the radio waves?
 <$00>
 
 // Pos: 00003BFD
@@ -189,10 +185,8 @@ Rummy:
 <$0D>
 //\nリモート操作だな、ゲートは\n緊急事態レベル３のロックがかかってるな。
 \n
-This is remote operated. The gate's\n
-under a Level 3 emergency lock,
-<$0C>
-a-ha.
+The gate's remote operated. We're\n
+under a Level 3 emergency lock, a-ha.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -231,8 +225,8 @@ Chloe:
 <$0D>
 //\n見えないの…彼女だけは…\nすごく遠いのよ。
 \n
-That woman is the only one I can't...\n
-She's too far...
+That woman is the only one I can't.\n
+She's out of my reach...
 <$00>
 
 // Pos: 00003C96
@@ -263,8 +257,8 @@ Chloe:
 <$0D>
 //\n見えないの。\n彼女のことは見えてこないのよ。
 \n
-I can't see her. I can't see that\n
-woman.
+I can't see her.\n
+I can't see that woman.
 <$00>
 
 // Pos: 00003CED
@@ -287,10 +281,8 @@ Phoenix:
 <$0D>
 //\n銀のカプセルはエイプリルを記憶していた。\n土に埋まっていたのに。どういうことなんだ？
 \n
-The silver capsule shared a memory\n
-of April, even though it was buried in
-<$0C>
-the ground. Why?
+The silver capsule buried underground\n
+held a memory of April. Why was that?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -321,17 +313,17 @@ Chloe:
 <$0D>
 //\nアガタについては…\nそうね、彼女はこの星の意志に\n触れてから人が変わったのよ。
 \n
-As for Agatha... Well, she has\n
-changed much since being touched
+As for Agatha...\n
 <$0C>
-by the will of the planet.
+She changed greatly after being\n
+touched by the will of the planet.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\n憑かれたのね、きっと。
 \n
-She is certainly possessed.
+I fear she is possessed.
 <$00>
 
 // Pos: 00003E00
@@ -346,8 +338,8 @@ Chloe:
 <$0D>
 //\n私の目を見て…目を見るのよ…
 \n
-Look into my eyes... I am looking into\n
-your eyes...
+Look into my eyes...\n
+I am looking into your eyes...
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -378,16 +370,16 @@ Chloe:
 <$0D>
 //\nどうしたの… フェニックス…\nアーモンドの香りがしない…
 \n
-Ahhh... Phoenix... You smell like\n
-almonds...
+Ahhh... Phoenix...\n
+You smell like almonds...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nあなたは別な人なのね、きっとそうよ。
 \n
-I see, then. You're someone else. I'm\n
-sure of it now.
+I see, then. You're someone else.\n
+I'm sure of it now.
 <$00>
 
 // Pos: 00003EB0
@@ -410,8 +402,8 @@ Chloe:
 <$0D>
 //\n双子なのね、そうね、双子なのよ。\nきっとそうよ、あなたたちはそっくりだもん。
 \n
-...a twin, that's it. His twin. That must\n
-be what you are to him.
+...a twin, that's it. His twin.\n
+That must be what you are to him.
 <$00>
 
 // Pos: 00003F05
@@ -426,8 +418,8 @@ Spacer:
 <$0D>
 //\n君が…タトラー船長の…\nそんなバカな！
 \n
-Wait, you're Captain Tatler's... No,\n
-that idiot!
+Wait, you're Captain Tatler's...\n
+No, that idiot!
 <$00>
 
 // Pos: 00003F27
@@ -443,9 +435,7 @@ Chloe:
 //\nフェニックスじゃないのね…ニセモノなのね。\nあなたとは気が合わないわ。
 \n
 You are not Phoenix. You are an\n
-imposter. We are not on the same
-<$0C>
-level.
+imposter. Someone not on my level.
 <$00>
 
 // Pos: 00003F54
@@ -460,7 +450,8 @@ Chloe:
 <$0D>
 //\n余計なことを…\n私は現実だ、私がオリジナルだ。
 \n
-Listen... I am real. I am the original.
+Listen... I am real.\n
+I am the original.
 <$00>
 
 // Pos: 00003F78
@@ -475,7 +466,8 @@ Spacer:
 <$0D>
 //\nこれは幻だ、そうに建いない。
 \n
-This is an illusion. It has to be.
+This is an illusion.\n
+It has to be.
 <$00>
 
 // Pos: 00003F95
@@ -490,7 +482,8 @@ Chloe:
 <$0D>
 //\n余計なことを…\n私は現実だ、私がオリジナルだ。
 \n
-Listen... I am real. I am the original.
+Listen... I am real.
+\nI am the original.
 <$00>
 
 // Pos: 00003FB9
@@ -505,8 +498,8 @@ Ernest:
 <$0D>
 //\nおお…可愛いじゃねぇか…\nミーシャみたいだぜ。
 \n
-Hmm, this one's cute. Almost\n
-reminds me of Masha.
+Hmm, this one's cute.\n
+Almost reminds me of Masha.
 <$00>
 
 // Pos: 00003FDF
@@ -521,8 +514,8 @@ Chloe:
 <$0D>
 //\nこんにちは。\nミーシャじゃないよ、クロエよ。
 \n
-Hello. My name is not Masha. It's\n
-Chloe.
+Hello. My name is not Masha.\n
+It's Chloe.
 <$00>
 
 // Pos: 00003FFE
@@ -594,7 +587,7 @@ Ernest:
 <$0D>
 //\n用済みって、何だ？
 \n
-And what's that?
+And what was that purpose?
 <$00>
 
 // Pos: 00004091
@@ -609,8 +602,8 @@ Chloe:
 <$0D>
 //\n用済みは用済みよ。\nあなたもなりたいの？
 \n
-Their reason for living. Would you\n
-like one too?
+Becoming obsolete.\n
+Would you like to join them?
 <$00>
 
 // Pos: 000040B2
@@ -720,8 +713,8 @@ Yolanda:
 <$0D>
 //\nそうなの…用済み…\n今はあなたのものなのね。
 \n
-I see... So they're obsolete as soon as\n
-you're done with them.
+I see... So, they became obsolete\n
+the moment you felt done with them.
 <$00>
 
 // Pos: 000041A7
@@ -736,7 +729,7 @@ Chloe:
 <$0D>
 //\nそうよ。\nもらったの。
 \n
-That's right. They are mine.
+That's right.\nThey are mine.
 <$00>
 
 // Pos: 000041BB
@@ -783,10 +776,11 @@ Spacer:
 <$0D>
 //\n開いてくれ、さっきのことだ、\nここで君と話して、
 \n
-Tell me, what was up with that 
+What was with that 
 <$0F>
 //は\nどうなったんだ？
- person you were talking to earlier?
+ person\n
+you were talking to earlier?
 <$00>
 
 // Pos: 0000424B
@@ -801,10 +795,10 @@ Chloe:
 <$0D>
 //\nせめてるの、私のせいなの？\nあなたはニセモノなのよ。
 \n
-Who wants to know? You're not\n
-trying to frame me for anything, are
+Who wants to know?
 <$0C>
-you, you imposter?
+You're not trying to frame me for\n
+anything, are you, you imposter?
 <$00>
 
 // Pos: 0000426E
@@ -851,7 +845,7 @@ Chloe:
 <$0D>
 //\n私は実体だ、仮でもなんでもない。\nあああ、さっきは誰と話してたんだ？
 \n
-I am real. This is no illusion. So, who\n
-were you speaking to earlier?
+I'm no imposter. I'm real! Well, come\n
+on! Who were you talking to earlier?
 <$00>
 

@@ -32,10 +32,8 @@ Liever:
 <$0D>
 //\n中に実際にはない入口がうつってるだろ。\nそこから向こうへ抜けるんだ。
 \n
-When you do, you might see\n
-entrances in its reflection you
-<$0C>
-wouldn't see otherwise.
+You might catch entrances in its\n
+reflection you wouldn't see otherwise.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -74,9 +72,7 @@ April:
 //\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
 \n
 What is a mirror doing here?\n
-And...why won't it show my
-<$0C>
-reflection?!
+And why won't it show my reflection?!
 <$0E><$1E><$17><$00>
 
 // Pos: 00002934
@@ -92,7 +88,7 @@ April:
 //\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
 \n
 What is a mirror doing here?\n
-And...why won't it show my
+And why won't it show my reflection?!
 <$0C>
 reflection?!
 <$00>

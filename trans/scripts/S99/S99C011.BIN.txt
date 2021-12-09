@@ -14,7 +14,7 @@
 
 <$00><$0F>
 //、開こえる？ ママの声が…
-, can you hear me? Listen to Mama...
+, can you hear me?\nListen to Mama...
 <$0C>
 //お願い、自分を見失わないで。
 Please, keep yourself together.
@@ -24,8 +24,8 @@ Vladimir is your new father.\n
 Sergei is your new brother.
 <$0C>
 //あなた、兄弟が欲しいって言ってたじゃない。
-Didn't you say you always wanted a\n
-big brother?
+Didn't you say you always wanted\n
+a big brother?
 <$0C>
 //セルゲイ兄さんとは仲良くしてね。
 Try to get along with Sergei, okay?
@@ -47,8 +47,8 @@ Try to get along with Sergei, okay?
 
 <$0F>
 //！ 何度言ったら分かるんだ！\nロケット遊びばかりしてるんじゃない！
-! What did I say about playing with\n
-that toy rocket?!
+! What did I say about\n
+playing with that toy rocket?!
 <$0E><$3C><$17><$00>
 
 // Pos: 000012B6
@@ -81,9 +81,7 @@ Give it here!
 //\nセルゲイ兄さんを見習え！\nええ？ 見習うんだ、できそこないめが！
 \n
 Where you dropped on the fucking\n
-head?! Why can't you be more like
-<$0C>
-Sergei?!
+head?! Why can't you be like Sergei?!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001305
@@ -99,8 +97,8 @@ Sergei?!
 <$0D>
 //\nよう、宇宙飛行士殿、へへへ、\nまたヘマをやらかしたのか？
 \n
-Aww, what's the matter, space\n
-brain? Did you trip again? Hehehe!
+Aww, what's wrong, space brain?\n
+Did you "fall" again? Hahaha!
 <$0E><$3C><$17><$00>
 
 // Pos: 00001338

@@ -18,9 +18,9 @@ Chloe:
 //\nここはタトラーの大好きなメルヘン村よ。\nあとは私が体をもらうだけ。
 \n
 We are here in Tatler's beloved\n
-Marchen Village. All I need is to
+Marchen Village.
 <$0C>
-acquire a body.
+All I need is to acquire a body.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -35,8 +35,8 @@ Chloe:
 <$0D>
 //\n欲しいの、体が… ねぇちょうだい。\nどれかひとつ、選んで。
 \n
-Which body would I like...? Which\n
-shall I choose?
+Which body would I like...?\n
+Which shall I choose?
 <$00>
 
 // Pos: 00002625
@@ -114,10 +114,8 @@ Chloe:
 <$0D>
 //\nあなたも自分の体、欲しくない？\n体、本物の体よ。
 \n
-Wouldn't you like a body for your self\n
-too? A real body? You would,
-<$0C>
-wouldn't you?
+Wouldn't you like a body for your self?\n
+A real body? You want one, don't you?
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -134,8 +132,8 @@ Chloe:
 <$0D>
 //\nほら、体があるともうまよわないのよ。
 \n
-See? As soon as you have a body, you\n
-won't have to wander anymore.
+See? As soon as you have a body,\n
+you won't have to wander anymore.
 <$00>
 
 // Pos: 0000272B
@@ -158,9 +156,7 @@ Chloe:
 //\n目よ、そう… 目を見るのよ。\n今、あなたは暗闇にいる。
 \n
 Do you see? I am looking into your\n
-eyes, at the darkness deep within
-<$0C>
-them now.
+eyes, at the darkness deep within.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -168,19 +164,19 @@ Chloe:
 //\n暗闇のなかで一筋の光を見つめてきた…\n光に導かれて、あなたは現れる…
 \n
 From the deepest depths, sole beam\n
-of light cuts the darkness. Guided by
+of light cuts the darkness.
 <$0C>
-the light, you emerge.
+Guided by the light, you emerge.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\n本当の瞬間よ、全てに実際の形と色がある、\n自分の目で確かめて…
 \n
-This is the moment of truth! Where all\n
-have proper color and shape in the
+This is the moment of truth!
 <$0C>
-eyes of the self!
+Where all have proper color and\n
+shape in the eyes of the self!
 <$00>
 
 // Pos: 000027C8
@@ -195,8 +191,8 @@ Chloe:
 <$0D>
 //\nほら、本物の体よ、フェニックス。\nそう言うんでしょ、あなたのお名前。
 \n
-Behold your true body, Phoenix! Yes,\n
-I knew Phoenix was your name.
+Behold your true body, Phoenix!\n
+Yes, I knew Phoenix was your name.
 <$00>
 
 // Pos: 000027F7
@@ -222,7 +218,7 @@ Phoenix:
 This is 
 <$0F>
 //さ、僕じゃない、\n僕はこんな人間の形をしていない。
-'s body. I don't have a human shape.
+'s body.\nI don't have a human shape.
 <$00>
 
 // Pos: 00002842
@@ -238,9 +234,7 @@ Chloe:
 //\nじゃあどんなの？ どろどろの怪物なの？\nふわふわの幽霊なの？
 \n
 Then what shape do you have? That\n
-of a mucky monster? A wisping
-<$0C>
-ghost?
+of a mucky monster? A wisping ghost?
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -264,9 +258,10 @@ Phoenix:
 //\n体が手に入って、僕はどうする？\n死んだママのことを思って泣き続けるのか。
 \n
 But what am I supposed to do with\n
-this thing? Shed tears of lament for
+this thing?
 <$0C>
-my dead mother?
+Shed tears of lament for my dead\n
+mother?
 <$00>
 
 // Pos: 000028CA
@@ -289,8 +284,8 @@ Chloe:
 <$0D>
 //\nあなた… 甘い香りがするわ…\nアーモンドの香りよ。
 \n
-You...smell so sweet. You smell like\n
-almonds.
+You...smell so sweet.\n
+You smell like almonds.
 <$00>
 
 // Pos: 00002917
@@ -312,26 +307,26 @@ Phoenix:
 <$0D>
 //\nそういえば、ママも同じことを…
 \n
-Now that you mention it, I remember\n
-Mama saying...
+Now that you mention it,\n
+I remember Mama saying...
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nアーモンドの香りのする子は兵士になれる、\nそんなことを…
 \n
-"A child who smells of almonds will\n
-make a good soldier."
+"A child born smelling of almonds\n
+will make a good soldier."
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nママは僕のことを知っていたのか？\nふん、でももう終わりさ。今さら体なんて！
 \n
-But how would she know that, if I was\n
-never... Sorry, this stops here. I
+But how would she know that,\n
+if I was never...
 <$0C>
-don't want this.
+Sorry, this stops here.\nI don't want this.
 <$00>
 
 // Pos: 000029AF
@@ -361,7 +356,7 @@ Chloe:
 <$0D>
 //\nそう思ってるの？
 \n
-Do you try to think that way?
+Is that what you think??
 <$00>
 
 // Pos: 00002A02
@@ -385,7 +380,7 @@ Phoenix:
 //\n心はこのきゅうくつな体に\n閉じこめられてるんだ。こんな体に！
 \n
 But now, my mind is trapped in some\n
-stuffy body. THIS body!
+stuffy body that isn't mine.
 <$00>
 
 // Pos: 00002A5D
@@ -408,9 +403,9 @@ Chloe:
 //\nシークレットパワー、\nあなたはすごい力の持ち主よ。
 \n
 The secret power? Yes, you are the\n
-possessor of a marvelous power,
+possessor of a marvelous power.
 <$0C>
-after all.
+That much IS yours.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -432,8 +427,8 @@ Phoenix:
 <$0D>
 //\nシークレットパワー…\n確か、あのロッジで…
 \n
-The secret power...? Ah, from back\n
-at the lodge.
+The secret power...?\n
+Ah, from back at the lodge.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -448,8 +443,8 @@ Phoenix:
 <$0D>
 //\nあたたかい…\n体があたたかくなった…
 \n
-I felt warmer. This body felt\n
-warmer.
+I did feel warmer.\n
+This body felt warmer.
 <$00>
 
 // Pos: 00002B13
@@ -473,9 +468,7 @@ Chloe:
 //\nあなたの心に秘めた悪が、\n話す相手に影響を与えるの…
 \n
 But when you absorb that evil from\n
-those whom you speak too, the gaps
-<$0C>
-remain.
+those people, new gaps remain.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -483,9 +476,10 @@ Chloe:
 //\nあなたと話して\nおかしくなってしまう人もいるわよ。
 \n
 Some people could lose their minds\n
-over this. People could go insane
+over this.
 <$0C>
-simply by speaking to you.
+People could go insane simply\n
+by speaking to you.
 <$00>
 
 // Pos: 00002B82
@@ -515,8 +509,8 @@ Phoenix:
 <$0D>
 //\nどうした？\nどうかしたのか？
 \n
-Is something wrong? What's\n
-happening to you?
+Is something wrong?\n
+What's happening to you?
 <$00>
 
 // Pos: 00002BAB
@@ -539,8 +533,8 @@ Chloe:
 <$0D>
 //\nエイプリルは大丈夫だ、\nそうだ… うううう
 \n
-The girly's doin' all right, get it? You\n
-bum... Owww!
+The girly's doin' all right, get it?\n
+You bum... Owww!
 <$00>
 
 // Pos: 00002BEA
@@ -604,9 +598,9 @@ Phoenix:
 //\nそうなのか！ 彼女はこの星と何か関係がある、\nそうにらんでいたんだが。
 \n
 April! She must have some\n
-connection to the planet. I'll have to
+connection to the planet.
 <$0C>
-dig further.
+I'll have to dig further.
 <$00>
 
 // Pos: 00002CA4
@@ -622,9 +616,10 @@ Chloe:
 //\nううう、まだちゃんとなってないの、\n私の体。まだ意識があるの、邪魔するの。
 \n
 Owww... I am not one with my body\n
-just yet. My consciousness is still
+just yet.
 <$0C>
-feeling the disturbances.
+My consciousness is still\n
+facing a little resistance.
 <$00>
 
 // Pos: 00002CD7
@@ -669,8 +664,8 @@ Phoenix:
 <$0D>
 //\nエイプリルのことを知りたいんだ。\nどこに行けば会える？
 \n
-I need to find out who she is. Where\n
-can I find her?
+I need to find out who she is.\n
+Where can I find her?
 <$00>
 
 // Pos: 00002D39
@@ -718,7 +713,7 @@ What's calling me...?
 <$0D>
 //\nさっきはいきなりだったよ、\nインディアンみたいな人もおかしくなってたし
 \n
-It feels just like before-when those\n
+It feels like before, when those\n
 shaman-like men had that incident.
 <$0E><$78><$17><$00>
 
@@ -753,8 +748,8 @@ me surface like this?
 //\nずっと暗闇にいたいのに…\n今さら何もできないと思うよ。
 \n
 I'd wanted to stay in the dark\n
-forever, but I guess...I don't have
+forever, but I guess...
 <$0C>
-much say.
+I don't have much say.
 <$0E><$78><$17><$00>
 

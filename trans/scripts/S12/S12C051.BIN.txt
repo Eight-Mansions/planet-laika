@@ -18,9 +18,10 @@ Oxygen Miner 3：
 //\nあたしたち、変な夢でも見てたのね、きっと。\n町長さんとか、燃える家とか、シー…
 \n
 WhAt wE All sAw mUst hAvE bEEn A bAd\n
-drEAm. EldEr NOOn's And EvEryOnE's
+drEAm.
 <$0C>
-hOUsEs bUrnEd, whOOsh.
+EldEr NOOn's And EvEryOnE's hOUsEs\n
+bUrnEd, whOOsh.
 <$0C><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：
@@ -34,10 +35,8 @@ Oxygen Miner 3：
 <$0D>
 //\nさっきね、無線テレビから変な音がして、\nゲートが閉まったの。
 \n
-RIght bEfOrE, thE mOnItOr mAdE A\n
-strAngE nOIsE, And thEn thE gAtE
-<$0C>
-clOsEd.
+ThE mOnItOr mAdE A strAngE nOIsE,\n
+And thEn thE gAtE clOsEd.
 <$0C><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：
@@ -82,8 +81,8 @@ Oxygen Miner 3：
 <$0D>
 //\n何よ…何、この惑じは？\nあら、そんな、アタシの時間が…
 \n
-WhAt Is thIs...thAt I'm sEnsIng? Is...\n
-Is It my tImE tO...
+WhAt Is thIs...thAt I'm sEnsIng?\n
+Is... Is It my tImE tO...
 <$00>
 
 // Pos: 0000340D
@@ -98,8 +97,8 @@ Oxygen Miner 6：
 <$0D>
 //\nてなワケだ… ああ？\n何だ、お前は？
 \n
-...time to...huh? Hey, what did you\n
-do, huh? Oh, great!
+Time to...huh? Hey, what did you\n
+do, huh? Well, isn't this great!
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
@@ -122,8 +121,8 @@ Oxygen Miner 6：
 <$0D>
 //\nおいおい、何じろじろ見てんだ。\nこのカッコウか、ああん？
 \n
-Hey, what are you staring at, huh? My\n
-devilish good looks?
+Hey, what are you staring at, huh?\n
+My devilish good looks?
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
@@ -138,8 +137,8 @@ Oxygen Miner 6：
 <$0D>
 //\n俺は… １、２、３、４、\nえーっと、６号だ、覚えとけ！
 \n
-I'm Oxygen Minder 1...2...no...3? No,\n
-6! I'm 6, and don't you forget it!
+I'm Oxygen Minder 1...2...no...3?\n
+No, 6! I'm 6, and don't you forget it!
 <$00>
 
 // Pos: 000034EA
@@ -154,8 +153,8 @@ Oxygen Miner 6：
 <$0D>
 //\nああん？ 無線テレビだ…\n何でだ、つかないはずなのに…
 \n
-What's that noise, the monitor? Who\n
-the hell set it off?
+What's that noise, the monitor?\n
+Who the hell set it off?
 <$00>
 
 // Pos: 00003518
@@ -170,8 +169,8 @@ Oxygen Miner 6：
 <$0D>
 //\n建うぜ、俺じゃないぜ、\n人建いだ。
 \n
-Don't look at me like THAT now. It\n
-wasn't me!
+Don't look at me like THAT now.\n
+It wasn't me!
 <$00>
 
 // Pos: 0000353C
@@ -191,9 +190,9 @@ Oxygen Miner 6：
 //\nおい、お前にじゃないのか。無線テレビだ。\nどっからか、送ってきてるんだ。
 \n
 It wasn't you who set off the\n
-monitor, right? Maybe the job was
+monitor, right?
 <$0C>
-remote.
+Maybe the job was remote?
 <$00>
 
 // Pos: 00003574
@@ -224,8 +223,8 @@ Rummy:
 <$0D>
 //\nあっ、無線テレビ。
 \n
-Hoho, there's the monitor! But...it's\n
-not ours.
+Hoho, there's the monitor!\n
+But...it's not ours.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -248,8 +247,8 @@ Oxygen Miner 6：
 <$0D>
 //\n何だあいつは…トミーじゃないか。
 \n
-What's with that guy... Isn't that\n
-Tommy?
+What's with that guy...\n
+Isn't that Tommy?
 <$0C><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
@@ -286,8 +285,8 @@ Rummy:
 <$0D>
 //\nこれを解除するには…\n思い出すことがたくさんあるな…
 \n
-Shutting this off might take a trip\n
-down memory lane, a-ha!
+Shutting this off might call for a\n
+a down memory lane, a-ha!
 <$00>
 
 // Pos: 0000368F
@@ -303,9 +302,7 @@ Rummy:
 //\n緊急事態レベル３のロックは解除したな。\nこれで酸索坑道のゲートが開くな、\n古い坑道に入れるな。
 \n
 The lock is shut off. We can get into\n
-the oxygen mineshaft through the
-<$0C>
-gate.
+the oxygen mineshaft through the gate.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -328,10 +325,8 @@ Rummy:
 <$0D>
 //\nデスロックの前に立つと、\n死にたくなるんだな。僕はイヤだな。
 \n
-The deathrock makes people who\n
-stand in front of it want to die. I don't
-<$0C>
-like it.
+I hate the deathrock. It makes people\n
+who stand in front of it want to die.
 <$00>
 
 // Pos: 00003728
@@ -355,9 +350,7 @@ Oxygen Miner 6：
 //\nあんまりじろじろ見ないほうがいいよな、\n気があるみたいだもんな。
 \n
 Maybe it's not in my best interest to\n
-keep staring him down like I've been
-<$0C>
-doing.
+stare him down like I've been doing.
 <$00>
 
 // Pos: 00003789
@@ -388,7 +381,7 @@ Rummy:
 <$0D>
 //\nデスロック、僕はイヤだな。\n僕は生きていたいんだな。
 \n
-I don't like the deathrock. I want to\n
-live, a-ha!
+I don't like the deathrock.\n
+I'd rather live, a-ha!
 <$00>
 

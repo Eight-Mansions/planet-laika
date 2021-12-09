@@ -37,8 +37,8 @@ Spacer:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
 \n
-"To see a world in a Grain of Sand. And\n
-a Heaven in a Wild Flower."
+"To see a world in a Grain of Sand.\n
+And a Heaven in a Wild Flower."
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -54,9 +54,10 @@ Spacer:
 //\n古い詩の一節だ…預言者的な洞察を惑じる…\nそれにしても、この詩は…
 \n
 ...Lines from an old poem.\n
-Interesting. I'm sensing some
+Interesting.
 <$0C>
-prophetic insight here!
+I'm sensing some prophetic\n
+insight here!
 <$00>
 
 // Pos: 00003052
@@ -75,8 +76,8 @@ It sounds so feeble, like a whisper,\n
 but...
 <$0C>
 //一粒の…花？\n無限を…\n分からない、何のことだ？
-"Grain", "flower", "eternity"... What\n
-does it all mean?
+"Grain", "flower", "eternity"...\n
+What does it all mean?
 <$00>
 
 // Pos: 0000308F
@@ -181,10 +182,8 @@ Sammy:
 <$0D>
 //\nだったらそこの目玉、扉の前にある\nでっかい目玉が見えるはずよ…どう？見える？
 \n
-A Psycho type will be able to see a\n
-large eyeball on that door. Do you see
-<$0C>
-it?
+A Psycho type is able to see a large\n
+eyeball on that door. Do you see it?
 <$00>
 
 // Pos: 000031B0
@@ -214,8 +213,8 @@ Sammy:
 <$0D>
 //\nまさかビジュアルちゃんじゃないわよね、\n犬顔だものね。
 \n
-Don't tell me you're a Visual type! I\n
-mean, you're a dogface!
+Don't tell me you're a Visual type!\n
+I mean, you're a dogface!
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -230,19 +229,15 @@ Sammy:
 //\n何しに来たの、ここはサイテーよ、\nどいつもこいつも、うそつきばっかで。
 \n
 What brings you to this garbage\n
-heap? I mean it-even the people are
-<$0C>
-garbage!
+heap? Even the people are trash!
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nあなたも気を付けてね、\n変なことに巻き込まれないように。
 \n
-You'd best steer clear. You don't\n
-want to get caught up in anyone's
-<$0C>
-trash, a-nope.
+You don't want to get caught\n
+up in anyone's junk, a-nope.
 <$1E>
 //夜
 夜
@@ -277,9 +272,7 @@ Spirit Man:
 //\n話をすると、お前の心に悪がたまる、\nどんどんたまる。
 \n
 As you speak with them, their evil\n
-will gradually accumulate in your
-<$0C>
-mind.
+will accumulate in your mind.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -380,10 +373,8 @@ Spirit Man:
 <$0D>
 //\nこの先はまだ早い、もう少し学んでからだ。\nさあ、アーネスト、お勉強の時間だ、\nひょひょひょ。
 \n
-It's too soon, so you'll have to find out\n
-on your own. Take this time to study,
-<$0C>
-hyohyo!
+It's too soon. You'll have to find out on\n
+your own. Take this time to study, hyohyo!
 <$00>
 
 // Pos: 0000341F
@@ -431,9 +422,7 @@ Tommy:
 //\nへへ、そうだよ兄ちゃん、そこの扉だ。\nどうだ、目ん玉なんて見えねぇだろ。
 \n
 Hehe, this is one of those doors. You\n
-can't see the eyeball though, can
-<$0C>
-you?
+can't see the eyeball, can you?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -467,9 +456,7 @@ Tommy:
 //\n目ん玉、さがしにきたんだろ…\nそこの扉だ、どうだ、なんにも見えねぇだろ。
 \n
 If you're looking for one of those\n
-eyeballs, this door has one. Can you
-<$0C>
-see it?
+eyeballs, this door has one.
 <$00>
 
 // Pos: 00003515
@@ -484,10 +471,8 @@ Ernest:
 <$0D>
 //\n目ん玉だと？ おい、ウスノロ！\nいいかげんなこと言うんじゃねぇぞ。
 \n
-Eyeball? Sorry, boozehound. Don't\n
-know what in blazes you're talking
-<$0C>
-about.
+Eyeball? Sorry, boozehound. Don't know\n
+what in blazes you're talking about.
 <$00>
 
 // Pos: 00003543
@@ -502,10 +487,8 @@ Tommy:
 <$0D>
 //\nあー、はあはあ、吐きそうだ、\n悪く言わないでくれ。\nそんなふうに言われるのはイヤだ。
 \n
-Very funny, asshole. Okay, maybe I\n
-am sick, but you didn't need to put me
-<$0C>
-on blast!
+Very funny. So what if I'm sick,\n
+you didn't need to put me on blast!
 <$00>
 
 // Pos: 00003577
@@ -528,9 +511,7 @@ Tommy:
 //\n目ん玉、見にきたんだろ…そこの扉だ。\nどうだ、そんなもんないだろう。
 \n
 If you're looking for one of those\n
-eyeballs, this door has one. Can you
-<$0C>
-see it?
+eyeballs, this door has one.
 <$00>
 
 // Pos: 000035BC
@@ -545,10 +526,10 @@ Yolanda:
 <$0D>
 //\n目ん玉？ 見にきた？\nちょっと、ワケわかんないわね。\nあんた、人のこと、からかってない？
 \n
-Am I looking for an eyeball? The fuck\n
-are you talking about? I don't have
+Am I looking for an eyeball?\n
+The fuck are you talking about?
 <$0C>
-time for this!
+I don't have time for this!
 <$00>
 
 // Pos: 000035F4
@@ -563,9 +544,7 @@ Tommy:
 <$0D>
 //\nあー、マゴコロ持たずに歩くと\n風に吹かれたときにヤバイんだ。\nどうだ、俺はまじめだ、兄ちゃんよう…
 \n
-Hey, I'm just as busy as you, but if\n
-there ain't time for this, what is time
-<$0C>
-for?
+I'm just as busy as you, but if there\n
+ain't time for this, what is time for?
 <$00>
 

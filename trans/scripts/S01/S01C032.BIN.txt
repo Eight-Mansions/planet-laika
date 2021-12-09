@@ -34,8 +34,8 @@ Commander October:
 <$0D>
 //\nライカ君…ライカ君だね…\n火星はどんな様子かな？
 \n
-Greetings, Laika. Is that you? How\n
-are Mars's state of affairs?
+Greetings, Laika. Is that you?\n
+How are Mars's state of affairs?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -43,9 +43,7 @@ Commander October:
 //\n実は火星人について、\n新しいことが分かりそうなんだ。
 \n
 Actually, while you were away,\n
-we've learned something new about
-<$0C>
-the Martians.
+we've learned something new.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -76,10 +74,11 @@ Captain Tatler:
 <$0D>
 //\n悪夢を抜けた先… 生の終わり、死の始まり、\n君は今、そのすき間にいる。
 \n
-You're in it all. From the end of life,\n
-through the nightmares, and into
+Between the end of life and the\n
+advent of death lies a gap.
 <$0C>
-the beginning of death.
+You are in that gap now, in a\n
+world beyond all nightmare.
 <$00>
 
 // Pos: 00003B3D
@@ -125,10 +124,10 @@ Captain Tatler:
 <$0D>
 //\n君は強い死の動機に付き動かされている。\n君は死の世界の\nすぐとなりで生きてきたんだよ。
 \n
-Driven powerfully towards death,\n
-living on the doorstep to the Land of
+Driven powerfully towards death...
 <$0C>
-the Dead.
+You were living on the doorstep to\n
+the Land of the Dead all this time.
 <$00>
 
 // Pos: 00003BF6
@@ -143,16 +142,16 @@ Noon:
 <$0D>
 //\nエレミヤっていうのは、死の象徴なんだ、\n別に誰ってわけじゃねぇんだ。
 \n
-Jeremiah isn't exactly a person. He's\n
-a symbol of death.
+Jeremiah isn't exactly a person.\n
+He's a symbol of death.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nびっくりだろ、自分がそんなんでよ。
 \n
-Are you surprised? I suppose that\n
-makes sense.
+Are you surprised?\n
+I knew you would be.
 <$00>
 
 // Pos: 00003C40
@@ -167,9 +166,9 @@ Captain Tatler:
 <$0D>
 //\n君の半分はすでに死んでいる、\n死は君自身の問顆なんだ。
 \n
-Your other half is already dead. Only\n
-you can determine what death
+One half of you is already dead.
 <$0C>
+Only you can determine what death\n
 means to the rest of you.
 <$00>
 
@@ -200,8 +199,8 @@ Noon:
 <$0D>
 //\nへへ、死神からお誘いか？
 \n
-Heheh, is that a call from the Grim\n
-Reaper?
+Heheh, is that a call from\n
+the Grim Reaper?
 <$00>
 
 // Pos: 00003CA7
@@ -224,10 +223,10 @@ Neo-Universal Man:
 <$0D>
 //\n死の谷を駆け抜け、今ここに…\nさあ、最後の預言だ、言葉を放ってくれ。
 \n
-I now walk through the valley of the\n
-shadow of death, seeking your final
+I now walk through the valley of\n
+the shadow of death.
 <$0C>
-prophecy.
+I seek your final prophecy.
 <$00><$12><$13><$13><$0B>
 //フェニックス：
 Phoenix:
@@ -244,11 +243,11 @@ Earth pass,
 <$0C>
 //海もまた消え失せ、今よりのち、悲しみも喜びも\n苦しみもなく、歓喜の歌にたたえられた\n永遠が続くであろう。
 and may the seas dry, that their\n
-sadness, loneliness and suffering\n
-are no more. And May eternity move
+sad and lonely suffering\n
+are no more.
 <$0C>
-past this moment, chanting in\n
-celebration.
+And may eternity move past this\n
+moment, chanting in celebration.
 <$05><$00><$12>
 //\n
 \n
@@ -269,22 +268,22 @@ Doctor, can
 //分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
 We'll find out in the operation room.\n
 There's a mass near the brain\n
-inciting hallucinations.
+triggering these hallucinations.
 <$00><$12>
 //先生、オクトーバー先生！\nお願いします、
-Doctor! Doctor October, please! Save 
+Doctor! Doctor October, please!\nSave 
 <$0F>
 //を？
 !
 <$00><$12>
 //あああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
-Damn! It's too deep! If we force it\n
-out, we will damage the brain!
+捨Damn! It's too deep! If we force\n
+it out, we'll damage the brain!
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…
-It's small enough to be extracted,\n
-but...we must give up the operation\n
-for today.
+Even though the mass is so small,\n
+we must give up on the operation\n
+for now.
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -319,9 +318,7 @@ Spacer:
 //\nシュヨウは、双子として生まれてくるはずの\n一部が取り込まれてたものだ。
 \n
 Phoenix was supposed to be born as a\n
-twin, but Phoenix developed into a
-<$0C>
-mass instead.
+twin, but grew into a mass instead.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -353,10 +350,11 @@ Phoenix:
 <$0D>
 //\nこれは…クルーの仲間だね。善人になったの…\nそれで救われたってことなの？
 \n
-He's from the survey unit. If he's\n
-become a good person, will this
+He's from the survey unit.\n
+Did he become "a good person"?
 <$0C>
-really save him?
+Is trapping him in a bottle the\n
+only way to save him from evil?
 <$00>
 
 // Pos: 00003F9E
@@ -371,9 +369,9 @@ Phoenix:
 <$0D>
 //\n善人になって、幸せそうだよ。\nいいね、そういうのって…
 \n
-Becoming a good person should be a\n
-happy occasion. At least, that's what
+Becoming a good person should lead\n
+to a happier ending than this.
 <$0C>
-I'd want.
+At least, that's what I'd want.
 <$00>
 

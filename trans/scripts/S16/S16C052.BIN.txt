@@ -50,9 +50,7 @@ Crow:
 //\n女だ、汚ねぇ女だ。ホレてるのか。ひゃ！\n女は汚れてるぜ、純粋じゃない！
 \n
 Look at this filthy woman. Shameful,\n
-isn't she? Kekeke! She's dirty, not
-<$0C>
-pure!
+isn't she? Kekeke! She's dirty, not pure!
 <$00>
 
 // Pos: 00002EA5
@@ -91,9 +89,10 @@ Crow:
 <$0D>
 //\n今度は左手、左手だ。\n汚れた左手は見たくねぇ！
 \n
-And now, for the left hand, over\n
-here...uggh! It's so filthy, I don't
+And now, for the left hand,\n
+over here...uggh!
 <$0C>
+It's so filthy, I don't\n
 even want to look!
 <$00>
 
@@ -181,9 +180,7 @@ Crow:
 //\nイヤだ、戻りたくない！\n俺はここがいいんだ、とめろ、この光を！
 \n
 STOP! I DON'T WANT TO GO BACK! I LIKE\n
-THIS PLACE! STOP! DON'T MAKE ME SEE
-<$0C>
-THE LIGHT!
+THIS PLACE! DON'T MAKE ME SEE THE LIGHT!
 <$0C><$0B>
 //クロウ：
 Crow:

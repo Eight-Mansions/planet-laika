@@ -26,9 +26,9 @@ Oxygen Miner 1：
 //\n開けたらリフト降ろしてやる。\nお前、アラート止めた、礼を言うつもりだ、\n閉じ込められるところだった、
 \n
 I'll ride first. If alarm didn't stop,\n
-whoosh, I'd be trapped. Ankh you,
+whoosh, I'd be trapped.
 <$0C>
-whoosh, whoosh.
+Ankh you, whoosh, whoosh.
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
@@ -44,9 +44,7 @@ Oxygen Miner 1：
 //\nシー…\n早くしないと氷がとけてあいつが動き出す、\nシー！
 \n
 Whoosh... Let's hurry. If ice melts,\n
-whoosh, area floods! Whoosh,
-<$0C>
-whoosh!
+whoosh, area floods! Whoosh, whoosh!
 <$1E>
 //行
 行

@@ -41,10 +41,8 @@ Ernest:
 <$0D>
 //\n俺じゃダメだと？ くそっ、なにが神様だ。
 \n
-Am I not good enough to enter your\n
-god's sewer? Your god sounds like a
-<$0C>
-dick.
+Am I not good enough to enter God's\n
+sewer? Your man sounds like a dick.
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
@@ -59,45 +57,43 @@ Yolanda:
 <$0D>
 //\nアタシじゃいけないの？\n神様だなんて、ほんとにいるの？
 \n
-God giving me the proverbial boot's\n
-no surprise, but he's not really here,
+God giving me the proverbial\n
+boot's no surprise.
 <$0C>
-is he?
+But he's not really here, is he?
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nここだよ、ここを降りるんだ。\n流刑者が作った地下水道さ。\nそれを通っていくんだ。神様が待ってるよ！
 \n
-This canal was made by exiles. It's\n
-time you descended. God is waiting
+This canal was made by exiles.\n
+It's time you descended.
 <$0C>
-for you!
+God is waiting for you!
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n地下水道か。水があるというのか…
 \n
-An underground canal, huh. So\n
-there's bound to be water down
-<$0C>
-there.
+An underground canal, huh.\n
+There's bound to be water.
 <$00><$12><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nねぇ、ここ、階段がある。降りてみない？
 \n
-Hey, there are stairs here. Why don't\n
-we take them?
+Hey, there are stairs here.\n
+Why don't we take them?
 <$00><$12><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nライカ、階段よ。\nリトルはこの先にいるんじゃない？
 \n
-Let's take the stairs, Laika. Little's\n
-this way, isn't he?
+Let's take the stairs, Laika.\n
+Little's this way, isn't he?
 <$00>
 

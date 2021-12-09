@@ -17,8 +17,8 @@ Spirit Man:
 <$0D>
 //\nひょひょ、どうした、アーネスト。\nどこに行こうというのだ。
 \n
-Hyohyo! Tell me, Ernest. Where are\n
-you going?
+Hyohyo! Tell me, Ernest.\n
+What are you fighting for?
 <$00>
 
 // Pos: 000015B3
@@ -33,8 +33,8 @@ Spirit Man:
 <$0D>
 //\nひょひょ、どうした、スペーサー。\n何を求めているのだ。
 \n
-Hyohyo! Tell me, Spacer. What are\n
-you searching for?
+Hyohyo! Tell me, Spacer.\n
+What are you searching for?
 <$00>
 
 // Pos: 000015DE
@@ -49,7 +49,7 @@ Spirit Man:
 <$0D>
 //\nひょひょ、どうした、ヨランダ。\nひとりになるのが好きなのか。
 \n
-Hyohyo! Tell me, Yolanda. Do you like\n
-being alone?
+Hyohyo! Tell me, Yolanda.\n
+Do you like being alone?
 <$00>
 

@@ -165,8 +165,8 @@ White Eagle:
 <$0D>
 //\n黒い騎士の話は知っておるか？
 \n
-Do you know the tale of the Black\n
-Rider?
+Do you know the tale of\n
+the Black Rider?
 <$00>
 
 // Pos: 00003DC5
@@ -189,9 +189,7 @@ April:
 //\n世界に死をもたらし、破滅に導く黒い騎士…\nそれがどうかしたの？
 \n
 He was a black-clad horseman who\n
-beckoned death and ruin to the
-<$0C>
-world.
+brought death and ruin to the world.
 <$00>
 
 // Pos: 00003E0A
@@ -299,20 +297,18 @@ April:
 <$0D>
 //\nいいえ、何にも。私たちの任務は、\n火星に妙なウワサがあると\n地球化計画が進まない…
 \n
-No, not a thing! Earth received\n
-strange rumors halting the
+No, not a thing!
 <$0C>
-terraformation project.
+Earth was concerned about rumors that\n
+threatened the terraformation project.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nだからウワサの出所を突きとめることなの。\nガリル大佐が何か関係してる、\nそこまではつかんでいるのよ。
 \n
-Our unit's mission is to investigate,\n
-and maybe find out what happened
-<$0C>
-to Colonel Galil.
+Our unit's mission is to investigate\n
+them, plus learn the fate of Colonel Galil.
 <$00>
 
 // Pos: 00003F8F
@@ -328,9 +324,10 @@ White Eagle:
 //\nふほふほふほ！ 地球化計画とな…\nまたぞろぞろ人がやってくるのか…
 \n
 Haww, haww, haww!\n
-Terraformation... Yes, I see. Is this
+Terraformation...
 <$0C>
-to bring MORE people back to Mars?
+Yes, I see. Is this to bring\n
+MORE people back to Mars?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -369,10 +366,8 @@ White Eagle:
 <$0D>
 //\n人というのは必ず心のスミに\n悪をはびこらせておるのじゃ。\nその悪がいかん。
 \n
-All people carry evil in their hearts. It\n
-is that evil we cannot afford to come
-<$0C>
-here.
+All people carry evil in their hearts.\n
+It is that extra evil we cannot afford.
 <$00>
 
 // Pos: 00004047
@@ -443,9 +438,7 @@ White Eagle:
 //\n少なくともこの星ではな。お仲間はどうじゃ？\n善人なのか？それとも…
 \n
 No, not on this planet. Look at your\n
-companions. Are they good, or are
-<$0C>
-they evil?
+companions. Are they good, or evil?
 <$00>
 
 // Pos: 00004118
@@ -476,10 +469,8 @@ White Eagle:
 <$0D>
 //\n悪い人じゃない…そういうことなら、ふほ、\nあそこに行くがよい。
 \n
-Not evil, eh? If you're so sure, go\n
-now, and bear witness with your
-<$0C>
-own eyes.
+Not evil, eh? If you're so sure, go now,\n
+and bear witness with your own eyes.
 <$00>
 
 // Pos: 00004171
@@ -700,10 +691,8 @@ Spacer:
 <$0D>
 //\nおお！ ちょうどよかった、教えてくれ、\n人格が統合されるとどうなるんだ。
 \n
-How reassuring. So tell me, what\n
-happens to personalities after they
-<$0C>
-integrate.
+How reassuring. Tell me, what happens\n
+to personalities after they integrate?
 <$00>
 
 // Pos: 00004349

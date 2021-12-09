@@ -12,9 +12,9 @@
 #WHB(PTR, $0000089D)
 
 //話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the biggest toy rocket in\n
-town, just for you! We hope you like\n
-your Christmas present!
+話, we found the biggest\n
+toy rocket town, just for you!\n
+Do you like your Christmas present?
 <$00>
 
 // Pos: 0000090E
@@ -29,8 +29,8 @@ Yolanda:
 <$0D>
 //\nその声は… タニアね！ ちょっと、\nアタシの声、開こえる？ タニア！
 \n
-That voice...! Tanya! Wait, can you\n
-hear me, Tanya?! Tanya!
+That voice...! Tanya, wait!\n
+Can you hear me, Tanya?! TANYA!
 <$00>
 
 // Pos: 0000093F
@@ -43,9 +43,8 @@ hear me, Tanya?! Tanya!
 想Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-? Your batya drove all\n
-over town for it. Mama's so happy for\n
-you!
+?\nYour batya drove all over town\n
+for it. Mama's so happy for you!
 <$00>
 
 // Pos: 00000970
@@ -60,18 +59,16 @@ Yolanda:
 <$0D>
 //\n何の話なの… ロケットって…\nあたしはそんなオモチャはいらないわよ。
 \n
-What are you talking about,\n
-"rocket"... I don't want that damn
-<$0C>
-toy.
+Who cares about rockets?\n
+I don't want that damn toy.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nねぇタニア、いるのなら出てきて…
 \n
-...Hey, Tanya. If you're really here,\n
-can I...see you?
+...Hey, Tanya. If you're...\n
+really here, can I...see you?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -79,23 +76,23 @@ Yolanda:
 //\nなんてね。 死んじゃったんだもの…\n無理よね。
 \n
 I guess not, huh. There's no way.\n
-...You're dead, remember?
+You're dead, remember?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nあのバスルーム… 血で真っ赤になってた…
 \n
-The bathroom... You stained it all red\n
-with your blood.
+The bathroom... You stained\n
+it all red with your blood.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nもっと早くアタシに相談してくれれば、\nあんなことにならずに済んだ。
 \n
-If only you talked to me sooner, none\n
-of this would have happened!
+If only you talked to me sooner,\n
+none of this would have happened!
 <$00>
 
 // Pos: 00000A2A
@@ -105,9 +102,9 @@ of this would have happened!
 #WHB(PTR, $0000087D)
 
 //話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the biggest toy rocket in\n
-town, just for you! We hope you like\n
-your Christmas present!
+話, we found the biggest\n
+toy rocket town, just for you!\n
+Do you like your Christmas present?
 <$00>
 
 // Pos: 00000A53
@@ -122,8 +119,8 @@ Ernest:
 <$0D>
 //\n誰だ… この声は？ 開いたことがあるぜ。\nぼんやり覚えてるぜ。
 \n
-Who...who said that? I swear I've\n
-heard that voice before.
+Who... Who said that? I know\n
+I've heard that voice before.
 <$00>
 
 // Pos: 00000A83
@@ -136,9 +133,8 @@ heard that voice before.
 想Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-? Your batya drove all\n
-over town for it. Mama's so happy for\n
-you!
+?\nYour batya drove all over town\n
+for it. Mama's so happy for you!
 <$00>
 
 // Pos: 00000AB4
@@ -161,8 +157,8 @@ Ernest:
 <$0D>
 //\n大きなロケットだと？\nクリスマスプレゼントだと？
 \n
-...The big rocket, right? That was a\n
-Christmas present?
+...Oh, the big rocket?\n
+That was a Christmas present?
 <$00>
 
 // Pos: 00000B0B
@@ -172,9 +168,9 @@ Christmas present?
 #WHB(PTR, $0000088D)
 
 //話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the biggest toy rocket in\n
-town, just for you! We hope you like\n
-your Christmas present!
+話, we found the biggest\n
+toy rocket town, just for you!\n
+Do you like your Christmas present?
 <$00>
 
 // Pos: 00000B34
@@ -189,8 +185,8 @@ Spacer:
 <$0D>
 //\n誰かいるのか？ この部屋に誰かいるのか？
 \n
-Hello? Is there anyone else in this\n
-room?
+Hello? Is there anyone else\n
+in this room?
 <$00>
 
 // Pos: 00000B59
@@ -203,9 +199,8 @@ room?
 想Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
-? Your batya drove all\n
-over town for it. Mama's so happy for\n
-you!
+?\nYour batya drove all over town\n
+for it. Mama's so happy for you!
 <$00>
 
 // Pos: 00000B8A
@@ -227,22 +222,22 @@ Spacer:
 <$0D>
 //\n大きなロケットのおもちゃだ。\n見たことがあるぞ。
 \n
-I've seen a big toy rocket before.
+I'd seen a big toy rocket before.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nたしかまだ引っ越す前の家にあったはずだ。
 \n
-I think it was still in the house before\n
-we moved.
+I think it was still in the house\n
+before the big move, but...
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nしかし… その後のことは思い出せない。\nああ、くそ！
 \n
-But... Dangit, I can't remember what\n
-became of it after.
+Oh, dangit, I can't remember\n
+what became of it after.
 <$00>
 

@@ -17,8 +17,8 @@ Spacer:
 <$0D>
 //\nこの星は予想を超えて\nひどいことになっている。
 \n
-This planet's more messed up than\n
-we thought.
+Planet Mars is more messed up\n
+than we thought.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -40,10 +40,11 @@ Yolanda:
 <$0D>
 //\n用済みねぇ…リバーは用済み、\nリトルは健在、そういうことなのね。
 \n
-"Obsolete"... Once Liever's "served\n
-his purpose", Little wasted no time
+Once Liever "served his purpose",\n
+he became obsolete...
 <$0C>
-coming back.
+And once he did, Little wasted no time\n
+taking over.
 <$00>
 
 // Pos: 00001A18
@@ -66,10 +67,8 @@ Spacer:
 <$0D>
 //\nリトルも決して健在という状態ではない。
 \n
-In all likelihood, Liever only existed\n
-because that weight was more than
-<$0C>
-Little could bear.
+Liever only existed because the weight\n
+was more than Little could bear alone.
 <$00>
 
 // Pos: 00001A63
@@ -84,8 +83,8 @@ Yolanda:
 <$0D>
 //\nねぇそこの人、アーネスト、\nあんたは何を見てきたの？
 \n
-Most of us aren't... Hey, Ernest. What\n
-are you looking at over there?
+Sounds like someone we... Hey, Ernest.\n
+What are you looking at over there?
 <$00>
 
 // Pos: 00001A89
@@ -100,8 +99,8 @@ Ernest:
 <$0D>
 //\n火事だ、燃えてる。\nあああ、俺じゃないぜ、
 \n
-Hmph. A fire's burning... Wasn't me,\n
-though.
+Hmph. A fire's burning...\n
+Wasn't me, though.
 <$0C><$0B>
 //アーネスト：
 Ernest:
@@ -109,9 +108,7 @@ Ernest:
 //\n火を付けたのは俺じゃない、\n勝手に燃えてたんだ。
 \n
 UNDERSTAND, Yolanda? I didn't start\n
-any damn fires! It was burning on its
-<$0C>
-OWN!
+any damn fires! It burned on its OWN!
 <$00>
 
 // Pos: 00001AD5
@@ -126,10 +123,8 @@ Yolanda:
 <$0D>
 //\nあきれた…あんた、\n放火したことあるみたいな口振りね。
 \n
-You know, that could've gone\n
-without saying if you didn't go out of
-<$0C>
-your way to get defensive.
+You know, that could've gone without\n
+saying if you didn't play defensive.
 <$00>
 
 // Pos: 00001B00
@@ -145,9 +140,7 @@ Yolanda:
 //\n今じゃヌーン機関士もタトラー船長も、\nあっち側の住人よ。
 \n
 Over here, it looks like Noon and\n
-Captain Tatler made it to the
-<$0C>
-residents.
+Captain Tatler made it to the colony.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -155,10 +148,12 @@ Yolanda:
 //\n我らがクルーもついにってとこよ。\nなのになんで
 \n
 Guess the crew's back on track for\n
-now. Why did 
+now.
+<$0D>
+How did 
 <$0F>
 //は平気なの？
- get by without a meltdown?
+ get this far\nwithout having a meltdown?
 <$00>
 
 // Pos: 00001B59
@@ -218,8 +213,8 @@ Yolanda:
 <$0D>
 //\nということは、ガリルはこの近くに\nいるってことでいいのかしら。
 \n
-That means Galil is nearby. Are we\n
-truly safe here?
+That means Galil is nearby.\n
+Are we truly safe here?
 <$00>
 
 // Pos: 00001BFA
@@ -265,8 +260,8 @@ Yolanda:
 <$0D>
 //\nアーネストはお疲れのようだし。
 \n
-Or trio, if Ernest chooses to stay\n
-asleep at the wheel.
+Or trio, if Ernest chooses to stare\n
+at the damn sun till kingdom come.
 <$00>
 
 // Pos: 00001C85
@@ -282,16 +277,15 @@ Spacer:
 //\nこの星のよこしまな力で、\nガリルの妄想が実現しようとしている。
 \n
 Galil's on his way to actualizing his\n
-sick fantasy by using the vile powers
-<$0C>
-of the planet.
+sick fantasy.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nこのまま放ってはおけないだろう。
 \n
-We can't exactly leave, knowing that
+He's using Mars's vile powers to do it.\n
+We can't exactly leave, knowing that.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -299,9 +293,7 @@ Spacer:
 //\n私の見たところ、やつは住人の心を利用して\n悪を育てている…
 \n
 From my guess, he manipulates the\n
-minds of the residents to brew and
-<$0C>
-spread evil.
+minds of the residents to spread evil.
 <$00>
 
 // Pos: 00001CFE
@@ -316,8 +308,8 @@ Yolanda:
 <$0D>
 //\nそして自分は善人になる…
 \n
-And make thy self a good person, or\n
-something...
+And make thy self a good person,\n
+or something...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -325,9 +317,7 @@ Yolanda:
 //\nねぇ、この話、\nどっか別なところで開かなかった？
 \n
 Say, am I wrong, or did we hear\n
-something of that nature
-<$0C>
-elsewhere?
+something of that nature elsewhere?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -367,26 +357,23 @@ Spacer:
 //\nいや…私ではない。
 \n
 No, it wasn't me either.
+My senses were strained, but...
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nしかし、ああ、ぼんやりと覚えてるぞ…\nアーモンドの香りがしていた…
 \n
-But, although my senses were\n
-strained, I can vaguely remember
-<$0C>
-the smell of almonds.
+I vaguely remember smelling almonds\n
+around the time of the ceremony.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nそれに、いつもより開きづらい惑じだった…\n黒い騎士が悪を集めている、そんな話だった。
 \n
-Beyond that, their conversation\n
-was about the Black Rider gathering
-<$0C>
-evil.
+Whoever was out, they were told about\n
+the Black Rider was gathering evil.
 <$00>
 
 // Pos: 00001E34
@@ -425,18 +412,16 @@ Yolanda:
 <$0D>
 //\nそれから…そうよ！\n預言、預言を集めるの！
 \n
-And that we... Oh, shit, the\n
-prophecies! We have to collect the
-<$0C>
-prophecies!
+And that we...\n
+Oh shit, the prophecies! 
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n死んだ流刑者が残した預言よ。
 \n
-The prophecies left behind by the\n
-late exile!
+We have to collect the prophecies\n
+left behind by the late exile!
 <$00>
 
 // Pos: 00001EC1
@@ -451,8 +436,8 @@ Ernest:
 <$0D>
 //\n死の情熱、肉体を超えた存在…
 \n
-A reason for dying... An existence\n
-beyond the flesh...
+A reason for dying...\n
+An existence beyond the flesh...
 <$00>
 
 // Pos: 00001EE4
@@ -468,9 +453,7 @@ Spacer:
 //\nアーネスト、君だったのか？\nあのとき表に出ていたのは…
 \n
 Ernie, was it you? Were you were the\n
-one who was out during the
-<$0C>
-conversation?
+one who spoke with the medicine man?
 <$00>
 
 // Pos: 00001F0E
@@ -486,7 +469,7 @@ Ernest:
 //\nいや、俺じゃないぜ。\n俺は疲れてうとうとしてた。
 \n
 No, it wasn't me. I was too exhausted\n
-to play ball.
+to come out.
 <$0C><$0B>
 //アーネスト：
 Ernest:
@@ -508,8 +491,8 @@ Ernest:
 <$0D>
 //\nそれからロックバース…\n開いたことねぇ言葉だ。
 \n
-"Rock birth" being another. Doesn't\n
-make sense.
+"Rock birth" being another.\n
+Doesn't make sense.
 <$00>
 
 // Pos: 00001F97
@@ -581,7 +564,7 @@ Spacer:
 //\nまるでガリルの妄想が邪悪な意志を得て\n一人歩きしているようだ。
 \n
 ...it's like Galil's delusions and ill will\n
-have taken a tangible form.
+have steadily taken tangible forms.
 <$00>
 
 // Pos: 00002060
@@ -676,7 +659,7 @@ Yolanda:
 //\n顔！そうよ、コスマスの顔…ぼんやり覚えてる…\n美少年ね、彼は。
 \n
 Oh, right! I vaguely remember\n
-Cosmas's face. Stunning, that one.
+Cosmas's face. Darling, that one.
 <$00>
 
 // Pos: 00002143
@@ -691,8 +674,8 @@ Spacer:
 <$0D>
 //\nコスマスを助けるとは…\n地球に連れて帰るとでも？
 \n
-How are we supposed to help him? By\n
-taking him back to Earth?
+How are we supposed to help him?\n
+By taking him back to Earth?
 <$00>
 
 // Pos: 0000216D
@@ -755,8 +738,8 @@ Spacer:
 <$0D>
 //\nアーネスト、君はどうだ？
 \n
-Need a nap, huh? Ernie, how about\n
-you?
+Need a nap, huh?\n
+Ernie, how about you?
 <$00>
 
 // Pos: 000021FF
@@ -786,8 +769,8 @@ Yolanda:
 <$0D>
 //\nどのみち砂嵐で戻れそうもないのよ。
 \n
-I'd love to see you kick the shit out of a\n
-sandstorm.
+Would be neat to see you kick the shit\n
+out of a sandstorm.
 <$00>
 
 // Pos: 00002236
@@ -802,10 +785,8 @@ Spacer:
 <$0D>
 //\n人格によって体力も建うのか…\nよしひと休みしよう。
 \n
-Gotta wonder if personality\n
-determines strength. Anyways,
-<$0C>
-let's rest.
+Gotta wonder if personality determines\n
+strength sometimes. Anyways, let's rest.
 <$00>
 
 // Pos: 00002261
@@ -821,9 +802,7 @@ Yolanda:
 //\nリャンハウス… 入れなかった…\n誰かが先に… ふん、ついてないね。
 \n
 I couldn't get into House Liang.\n
-Someone got there first, so...that
-<$0C>
-sucks ass.
+Someone beat me to it, the little fuck.
 <$00>
 
 // Pos: 00002291
@@ -838,8 +817,8 @@ Yolanda:
 <$0D>
 //\nあら、そこのあんた…\n疲れた顔してどうしたの？
 \n
-Oh! There you are. What's with the\n
-long face?
+Oh! There you are.\n
+Why the long face?
 <$00>
 
 // Pos: 000022B6
@@ -854,7 +833,7 @@ Ernest:
 <$0D>
 //\n臆病じゃねぇぜ、俺は臆病じゃねぇ。
 \n
-I'm not a coward... I'm not a coward!
+I'm not a coward...\nI'm not a coward!
 <$00>
 
 // Pos: 000022D8
@@ -869,8 +848,8 @@ Yolanda:
 <$0D>
 //\nそう、よかったわね。\nあのお利口さんはどこなの？
 \n
-Oh, thank goodness! Now, where's\n
-the smartass?
+Oh, thank goodness I asked!\n
+Now, where's the smart one?
 <$00>
 
 // Pos: 000022FE
@@ -886,9 +865,7 @@ Yolanda:
 //\nリャンハウス… 入れなかった…\n誰かが先に… ふん、ついてないね。
 \n
 I couldn't get into House Liang.\n
-Someone got there first, so...that
-<$0C>
-sucks ass.
+Someone beat me to it, the little fuck.
 <$00>
 
 // Pos: 0000232E
@@ -903,8 +880,8 @@ Yolanda:
 <$0D>
 //\nあら、おどろいた。\nあなたもお出かけだったの？
 \n
-Oh! You spooked me. Were you itching\n
-to head out too?
+Oh! You spooked me.\n
+Were you looking to head out too?
 <$00>
 
 // Pos: 00002352
@@ -919,8 +896,8 @@ Ernest:
 <$0D>
 //\n誰かが俺の中に入ってきやがった。\n頭ん中に…
 \n
-Someone's been inside of me. Inside\n
-of my head...
+Someone's been inside of me.\n
+Inside of my head...
 <$00>
 
 // Pos: 0000237A
@@ -950,14 +927,14 @@ Ernest:
 <$0D>
 //\n建う！ 俺はあの野郎を…\nナイトプラネットの前まで行ったんだ。
 \n
-No, I tried to go to NIGHT PLANET, but\n
-that mongrel was in the way.
+No, I tried to go to NIGHT PLANET,\n
+but that mongrel was in the way.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n中に入れなくて… そん時だ、誰かが…
-nHe wouldn't let me in, and\n
+He wouldn't let me in, and\n
 then, someone came and...
 <$00>
 
@@ -1003,7 +980,8 @@ Ernest:
 <$0D>
 //\n出かけてるんだ、そうに建いねぇ。
 \n
-He must be out. Only explanation.
+He must be out.\n
+Only possibility.
 <$00>
 
 // Pos: 0000243B
@@ -1018,8 +996,8 @@ Yolanda:
 <$0D>
 //\nあの赤い家のとこ？\n目の玉のあるって言うとこ？
 \n
-To that red building? The one with the\n
-eyeballs, you're saying?
+You think he went to the red building?\n
+The one with the eyeballs.
 <$00>
 
 // Pos: 00002462
@@ -1058,10 +1036,10 @@ Yolanda:
 <$0D>
 //\nどうもアタシに関係してるのよ、\nあの扉の中にあるものが。
 \n
-I have the strangest feeling that,\n
-whatever's behind that yonder
+I have the strangest feeling.\n
 <$0C>
-door, is somehow related to me.
+Like, whatever's behind that yonder\n
+door is somehow related to me.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -1069,7 +1047,7 @@ Yolanda:
 //\nカンよ、カンが教えてくれるの。
 \n
 It's just a hunch, but a woman's\n
-intuition is no joke.
+intuition is rarely wrong.
 <$00>
 
 // Pos: 000024C5
@@ -1084,7 +1062,7 @@ Yolanda:
 <$0D>
 //\nまたアタシを呼んでる…\n誰なの… 声がするのよ… か細い声…
 \n
-Someone's...calling me again. I hear\n
-their voice. That...feeble voice...
+Someone's...calling me again. \n
+I hear their...feeble little voice...
 <$00>
 

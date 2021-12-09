@@ -48,8 +48,8 @@ looking for the biggest\n
 rocket in town to give to you.
 <$0C><$0F>
 //、夢を捨てないで。\nあなたなら大丈夫、きっと立派な兵士に…\n宇宙飛行士になれるわ。
-, don't throw away your dream.\n
-I know you can become a great\n
+, don't give away your dream.\n
+I know you'll become a great\n
 cosmonaut all on your own.
 <$00>
 
@@ -66,10 +66,8 @@ Yolanda:
 <$0D>
 //\nタニア… 建う、この声はタニアじゃない、\n亡霊よ！ 亡霊のしわざよ！
 \n
-Tanya...? No, that's not Tanya's\n
-voice. That's a ghost! A SICK,
-<$0C>
-FUCKING GHOST!
+Tanya...? No, that's not Tanya's voice.\n
+That's a ghost! A SICK FUCKING GHOST!
 <$00>
 
 // Pos: 0000271C
@@ -86,9 +84,7 @@ Galil:
 //\n君たちは思い出を呼び起こすのが\n得意なようだね。
 \n
 You three are none too shabby at\n
-resuscitating memories better off
-<$0C>
-dead.
+reviving memories better left dead.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -184,8 +180,8 @@ Ernest:
 <$0D>
 //\n何だと？ 俺じゃねぇぞ。\nあれはセルゲイのやったことだ、俺じゃねぇ！
 \n
-Me? No! That was Sergei's doing, not\n
-mine!
+Me? No! That was Sergei's doing,\n
+not mine!
 <$00>
 
 // Pos: 000028A0
@@ -253,8 +249,8 @@ No, stop! It wasn't me! IT WASN'T ME!
 <$0D>
 //\n君はセルゲイに濡れ衣を着せたんだ、\nそうだろ、アーネスト。
 \n
-You framed Sergei, Ernest! You\n
-know you did!
+You framed Sergei, Ernest!\n
+You know you did!
 <$00>
 
 // Pos: 00002964
@@ -310,10 +306,8 @@ Spacer:
 <$0D>
 //\n仕立て上げたんじゃない、\nやつには殺意があったんだ。私には分かる。
 \n
-I didn't have to fabricate that. He had\n
-a murderous impulse well before I
-<$0C>
-showed up!
+I didn't have to pin that. He had a\n
+murderous impulse well before I moved in!
 <$00>
 
 // Pos: 00002A10
@@ -329,36 +323,34 @@ Galil:
 <$0D>
 //\nさあ、それはどうかな。
 \n
-Let's take a closer look at that, shall\n
-we?
+Let's take a closer look at that,\n
+shall we?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n彼はたんに悪ふざけのつもりだった…
 \n
-You see, at the time of the fire,\n
-Sergei already had a different
+You see, at the time of the fire...\n
 <$0C>
-scheme underway.
+Sergei was already in the middle of\n
+committing different crime that night.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n老人の家に忍び込んで手を下したのは\n彼の仲間だ、そうじゃないのかね。
 \n
-He was in the middle of breaking into\n
-an old man's house. His friend kept
-<$0C>
-watch outide.
+While his friend kept watch from outside,\n
+Sergei broke into an old man's house, see?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nセルゲイはあのとき表にいたんだ。\n彼が殺したんじゃない。
 \n
-Sergei was nowhere near the fire. He\n
-did not kill that horse!
+Sergei was nowhere near the fire.\n
+He did not kill that horse!
 <$00>
 
 // Pos: 00002A98
@@ -374,16 +366,16 @@ Spacer:
 <$0D>
 //\nいや建う！ やつは殺意をもって…
 \n
-Y-you're wrong! Everyone knew the\n
-kid had murderous intent, so...
+Y-you're wrong! Everyone knew\n
+the kid was a killer, so...
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nあああ、そうに建いない！\n私には確信があるんだ！
 \n
-Augh! I'm right! I know I am! I HAVE TO\n
-BE RIGHT!
+Augh! I'm right! I know I am!\n
+I HAVE TO BE RIGHT!
 <$00>
 
 // Pos: 00002ADD
@@ -400,19 +392,18 @@ Galil:
 //\n犯行の後、君は現場に忍び込んだ、\nそして血まみれの火かき棒を持ち去った。
 \n
 After the arson, you snuck back to\n
-retrieve a blood-stained fire hook
+the scene.
 <$0C>
-from the scene.
+You wanted to retrieve a blood-stained\n
+fire hook.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nなぜか火かき棒はセルゲイのシャツと\n一緒に捨てられていた。
 \n
-You took that fire iron, wrapped it in\n
-one of Sergei's shirts, and planted it
-<$0C>
-elsewhere.
+Then, you wrapped it in one of Sergei's\n
+old shirts, and planted it elsewhere.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -436,9 +427,7 @@ Spacer:
 //\nあああ、やめろ！ セルゲイは悪人だ、\nいずれ殺人を犯すに建いない！
 \n
 Stop! Stop! STOP! Sergei was an evil\n
-person! He was BOUND to commit
-<$0C>
-murder someday!
+person! He was BOUND to murder someday!
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -468,10 +457,8 @@ Galil:
 <$0D>
 //\n何か体に良くないものを\n口にしていたんではないかな？
 \n
-Tsk, tsk. He must have ingested\n
-something that wasn't very good for
-<$0C>
-him.
+Tsk. He must have ingested something\n
+that wasn't very good for him.
 <$00>
 
 // Pos: 00002BE9
@@ -510,20 +497,18 @@ that rotted his brain.
 <$0D>
 //\nウラジミールは酒好きだ。\nそれをいいことに、\nやつに質の悪い酒を飲ませたのは君だ。
 \n
-Yes, Vladimir did love his liquor. Still,\n
-you're the one who served him
-<$0C>
-tainted liquor.
+Yes, Vladimir did love his liquor, but you\n
+deliberately gave him tainted liquor.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nエ場から盗み出した\nひどいシロモノを飲ませたんだ。\nウラジミールは見る間に調子を崩していった。
 \n
-You took bad alchohol from the\n
-factory and served it to him at
+You stole bad alchohol from the distillery\n
+and served it to him at breakfast.
 <$0C>
-breakfast to wane his temper.
+Someone had to wane his temper.
 <$00>
 
 // Pos: 00002CAC
@@ -547,8 +532,8 @@ Yolanda:
 <$0D>
 //\nアタシはそんな… ああ、そんな、\nあたしはただ…
 \n
-I was doing everyone a...augh! A\n
-fa...vor!
+I was doing everyone a...augh!\n
+A fa...vor!
 <$00>
 
 // Pos: 00002CE9
@@ -571,17 +556,15 @@ Galil:
 <$0D>
 //\n君はタニアのそばにいながら、彼女が\n生きているときには一度も現れなかった。
 \n
-If you really wanted to help Tanya,\n
-why was it you never showed your
-<$0C>
-face when she was alive?
+If you really wanted to help Tanya...
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nどうしてかな？
 \n
-Was there a reason?
+...what reason did you have to never show\n
+your face to her when she was alive?
 <$00>
 
 // Pos: 00002D46
@@ -598,8 +581,8 @@ Yolanda:
 //\n本当はウラジミールが先に死ぬはずだった。\nそうよ、なのに… あああ、アタシの計画が…
 \n
 The plan was for...Vladimir to die\n
-first! B-but then, Tanya went
+first, b-but then, Tanya went and...
 <$0C>
-and...AUGH!
+AUUUUUUGH!
 <$00>
 

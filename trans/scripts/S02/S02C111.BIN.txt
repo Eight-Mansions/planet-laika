@@ -54,8 +54,8 @@ Noon:
 <$0D>
 //\nきっと砂嵐のせいだ、\n砂が頭の中にまで入ってきたみたいだ…
 \n
-Must be the sandstorm's fault. The\n
-sand's getting in my 'ead.
+Must be the sandstorm's fault.\n
+The sand's getting in my 'ead.
 <$00>
 
 // Pos: 000021FE
@@ -70,8 +70,8 @@ Noon:
 <$0D>
 //\nおい、小屋はそっちじゃない。\nここにひとりにしないでくれ。
 \n
-Hey, don't run off by yourself! The\n
-safe 'ouse isn't that way!
+Hey, don't run off by yourself!\n
+The safe 'ouse isn't that way!
 <$00>
 
 // Pos: 00002226
@@ -95,9 +95,9 @@ Noon:
 //\nあんまりいい惑じしねぇんだ、今度の任務はよ。\nそれに船長のやつも。
 \n
 I don't sense any good coming from\n
-the mission. I'm 'oping the captain
+the mission.
 <$0C>
-doesn't either.
+I'm 'oping the captain doesn't\neither.
 <$00>
 
 // Pos: 00002277

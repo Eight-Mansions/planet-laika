@@ -33,20 +33,19 @@ April:
 <$0D>
 //\n火星には３種類の悪人がいるんだって…\nアガタっていう人が教えてくれたの。
 \n
-A person named Agatha told me,\n
-"There are 3 types of evil on Mars,"
-<$0C>
-but...
+A woman named Agatha told me,\n
+"There are 3 types of evil on Mars."
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nバーのふたりと、金星人を信じてるマウンテンは\nきっと建う種類の悪人よね。
 \n
-...they and that Venusian guy,\n
-Mountain, seem evil in different
+But those two creeps from the bar and\n
+that Venus nerd, Mountain, got me thinking.
 <$0C>
-ways.
+They're not the same types of evil at all,\n
+are they?
 <$00>
 
 // Pos: 00002A9E
@@ -61,10 +60,8 @@ Noble Rock:
 <$0D>
 //\nサイコ系だ。金星人野郎はサイコ系、\n我々はそう呼んでいる。
 \n
-He is Psycho type. That\n
-Venusian-obsessed mongrel is a
-<$0C>
-Psycho type.
+One is Psycho type. That Venusian-\n
+obsessed mongrel is a Psycho type.
 <$00>
 
 // Pos: 00002AD1
@@ -171,9 +168,7 @@ Noble Rock:
 //\nタンキー人形がひっくり返ったのだ！\n逆ドールダンスだ！
 \n
 The turn-key doll capsized itself! It\n
-began the REVERSE doll dance
-<$0C>
-instead!
+began the REVERSE doll dance instead!
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -181,7 +176,7 @@ Noble Rock:
 //\nタマシイが体から抜け出している、\n巻き込まれるぞ！
 \n
 That dance EXPELS a spirit from its\n
-body! You musn't get interfere!
+body! You must NOT interfere!
 <$00>
 
 // Pos: 00002BDC
@@ -211,10 +206,8 @@ Crow:
 <$0D>
 //\nハウスの実験は失敗だ、ありゃダメだ、\n俺は手を引くんだ、マウンテンたちからな。
 \n
-The Psycho Lab experiment was a\n
-shitshow, so I left Mountain and the
-<$0C>
-group.
+The Psycho Lab experiment was a shit-\n
+show, so I left Mountain and the group.
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -229,9 +222,7 @@ Crow:
 //\nへっへ、別に賢くなる方法があるんだ、\n金星人なんかあてになるか。
 \n
 There's gotta be other ways to get\n
-smarter without relying on the
-<$0C>
-Venusians, kek.
+smarter without zapping ourselves, kek.
 <$00>
 
 // Pos: 00002C74
@@ -255,9 +246,7 @@ Crow:
 //\n善人が見つかったそうだ。\n善人だとよ、そりゃお宝だぁ、ひゃ！
 \n
 It seems they finally found a good\n
-person. A good person, kek! Their
-<$0C>
-new treasure!
+person, kek! Their new treasure!
 <$1E>
 //理
 理

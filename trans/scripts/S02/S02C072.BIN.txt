@@ -17,18 +17,18 @@ April:
 <$0D>
 //\nああよかった、はぐれちゃったかと思った。\nコロニーはこの先よ。\nイーブルマインドは現れていないみたいね。
 \n
-Ah, good! I thought I'd lost you. The\n
-colony is straight ahead, and I don't
+Ah, good! I thought I'd lost you. 
 <$0C>
-see any Evil Mind.
+The colony is straight ahead,\n
+and I don't see any Evil Mind.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n砂嵐の気配もない…\nねえ、小屋に戻りましょうよ。
 \n
-No sign of sandstorms either. Let's\n
-head back, shall we?
+No sign of sandstorms either.\n
+Let's head back, shall we?
 <$00>
 
 // Pos: 00001E3F
@@ -51,10 +51,8 @@ April:
 <$0D>
 //\nだったら日が暮れないうちに出発しなきゃ。\nそれに…なんだか気分がすぐれないの。
 \n
-I'm not so keen on the idea, but if\n
-we're going to do it, we'd better
-<$0C>
-regroup now.
+I'm not keen on that idea, but\n
+still, we'd better regroup.
 <$00>
 
 // Pos: 00001E9F
@@ -69,14 +67,14 @@ Phoenix:
 <$0D>
 //\nシークレットパワー…\nフェイスを消滅させることもできるのか。
 \n
-The secret power... Can it be used to\n
-eliminate the Phase?
+Can the secret power be used\n
+to eliminate the Phase?
 <$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nこれが僕の力…
 \n
-Is THAT my power is for?
+Is THAT what my power is for?
 <$00>
 

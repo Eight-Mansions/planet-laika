@@ -17,7 +17,7 @@
 Doctor, can 
 <$0F>
 //は助かるのですか？\n
- be saved through surgery?
+ be saved?
 <$0E><$78><$17><$00>
 
 // Pos: 00002083
@@ -33,6 +33,7 @@ Doctor, can
 <$0D>
 //\nあああ、僕を殺さないで！\n僕はここにいるよ！
 \n
-NO, STOP! Don't kill me! I'm in here!
+NO, STOP! Don't kill me!\n
+I'm still in here!
 <$0E><$78><$17><$00>
 

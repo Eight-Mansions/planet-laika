@@ -33,18 +33,16 @@ Tommy:
 <$0D>
 //\nああ、クロウのやつみたいに\n人の夢に出入りしてるのか。
 \n
-I take it you can go in and out of\n
-people's dreams like that Crow guy
-<$0C>
-does.
+I take it you can enter people's\n
+dreams like that Crow guy does.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nなぁ、兄ちゃんよう、俺とおんなじだろ、\nなあ、おんなじだろ。
 \n
-Nah, you're just like me huh? Aren't\n
-you, a-yup!
+Nah, you're just like me huh?\n
+Aren't you, a-yup!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -78,8 +76,8 @@ Tommy:
 <$0D>
 //\n兄ちゃんはアーネストっていうんだ、\n俺とおんなじタイプだ。
 \n
-Ernest, my comrade. We're the same\n
-type.
+Ernest, my comrade.\n
+We're the same type.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -87,9 +85,7 @@ Tommy:
 //\n力がわいてくるんだろ。\n俺の夢のなかじゃウソはつけないぜ。
 \n
 We're getting stronger. Lies aren't\n
-powerful enough to take on MY
-<$0C>
-dreams!
+powerful enough to ruin MY dreams!
 <$1E>
 //家
 家
@@ -182,10 +178,10 @@ Yolanda:
 <$0D>
 //\n何よ、アーモンドって。誰かが言ってたわね？\nあのお利口さんが？
 \n
-Almonds, almonds... I swear I heard\n
-someone say that. Must've been the
+Almonds, almonds...\n
+I swear I heard someone say that.
 <$0C>
-smartass
+Must've been the smartass.
 <$00>
 
 // Pos: 00000D17
@@ -200,8 +196,8 @@ Ernest:
 <$0D>
 //\nアーモンドなら、俺もきらいだぜ。\nそれより、誰がいるんだ、奥に？
 \n
-I don't care for almonds either. More\n
-importantly, who's back there?
+I don't care for almonds either.\n
+More importantly, who's back there?
 <$00>
 
 // Pos: 00000D46

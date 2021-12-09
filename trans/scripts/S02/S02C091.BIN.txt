@@ -59,10 +59,8 @@ April:
 <$0D>
 //\n…ねぇライカ、\nライカはこの任務に志願したの？
 \n
-This might seem off topic, but...did\n
-you volunteer for this mission,
-<$0C>
-Laika?
+This may seem off topic, but did you\n
+volunteer for this operation, Laika?
 <$00>
 
 // Pos: 00003E77
@@ -77,8 +75,8 @@ April:
 <$0D>
 //\n私、この任務のこと\nほとんど知らされてなかったの。
 \n
-I didn't know too much about this\n
-mission when I joined.
+I didn't know too much about the\n
+survey unit's missions when I joined.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -86,35 +84,33 @@ April:
 //\nただ火星の土のサンプルを持ち帰る…\nなんでもいいってわけじゃないけど、\n急にそういう話になって…
 \n
 All I had to do was collect samples of\n
-Martian topsoil, but now, that feels
+Martian topsoil, but now...
 <$0C>
-irrelevant.
+...that feels like a goose chase.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nオクトーバー司令官は、\n火星の土に含まれてる成分が人に\n幻覚をもたらす、そう考えてるみたいなの。
 \n
-Commander October was already\n
-aware that Martian topsoil contains
-<$0C>
-hallucinogenic agents.
+Commander October already knew that\n
+Martian topsoil contained toxic agents.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nほんとに急だったのよ。
 \n
-And it's effective against humans?\n
-That might've been news to me, but...
+Maybe its efficacy against humans\n
+would be news to me, but...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nはじめは乗り気がしなかったけど、\nライカと一緒って開いて引き受けたんだ。
 \n
-...I wasn't so interested in joining\n
-until I heard you were coming.
+...I wasn't truly interested in coming\n
+until I heard you'd be here.
 <$00>
 
 // Pos: 00003F6E
@@ -145,27 +141,22 @@ April:
 //\nまだ気分がすぐれないから、\nちょっとここで休んでいくね。
 \n
 I wish I was feeling better for this.\n
-Do you mind if I take a break here?
+Do you mind if I still rest here a bit?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nライカ、先にコロニーに行って。\nヘロデっていう人をたずねるの。
 \n
-The colony's just up ahead. We're\n
-supposed to ask for a man named
-<$0C>
-Herod.
+The colony's just up ahead.\n
+We're to ask for a man named Herod.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n酸索屋のヘロデ。\nその人がコロニーを仕切ってるの。
 \n
-He runs the oxygen dispensary, but\n
-more importantly, he directs the
-<$0C>
-entire colony.
+He runs not only the oxygen dispensary,\n but the entire colony.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -193,9 +184,7 @@ April:
 //\nここでちょっと休んだらすぐに追いつく。\nだから先にコロニーに行ってて。
 \n
 I'll be right behind you, soon as I\n
-catch my breath. You should make
-<$0C>
-for the colony.
+catch my breath. Make for the colony.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -226,11 +215,13 @@ April:
 <$0D>
 //\nちゃんとライカ…じゃなかった\n
 \n
-I don't think "Laika" is in their\n
-registry, though, since "
+I don't think the name "Laika" will be
+in their registry, though.
+<$0D>
+Sorry, but if "
 <$0F>
 //って名前で\n登録されてるはずよ。
-"'s on your paperwork.
+" is on your\npaperwork, you'll have to enter that.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -270,9 +261,9 @@ April:
 //\nねぇ… ライカは誰かに愛されてるって\n惑じたことある？
 \n
 Hey, does the thought of someone\n
-loving you ever, I don't know...weird
+loving you ever, I don't know...
 <$0C>
-you out?
+...weird you out?
 <$00>
 
 // Pos: 00004169
@@ -287,36 +278,30 @@ April:
 <$0D>
 //\n愛されるって、ホントはすごく幸せなこと…
 \n
-Being loved is a truly happy thing to\n
-have happen...
+I know being loved is a truly happy\n thing to have happen, but...it hurts me.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nなのに私にとってはつらいことなの。\n愛されるのが怖いの…
 \n
-...but it hurts me. I'm scared of being\n
-loved.
+I'm scared of being loved.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nママのせいよ。\nママは私をかわいがってくれたけど、\nそれはママがそうしたかったからなの。
 \n
-It's my mom's fault. She took good\n
-care of me, but only because it
-<$0C>
-served her.
+It's my mom's fault. She took care of\n
+me, but only for her own image.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私のためじゃなく、ママのため、\n自分のために私を愛したの。\n私にはそれがきゅうくつだった。
 \n
-It wasn't for me, but for her. Mom\n
-loved me only to suit her self. It
-<$0C>
-was...choking.
+Mom loved me, but not for me. It was\n
+all to suit her self. It was choking.
 <$00>
 
 // Pos: 00004221
@@ -355,10 +340,8 @@ April:
 <$0D>
 //\nこの星は忘れたい昔を思い起こさせるのね…\nすごく意地悪なおじいさんみたいに。
 \n
-I feel like an old man saying this, but\n
-being here reminds me days I'd
-<$0C>
-rather forget.
+I feel old saying this, but being here\n
+reminds me days I'd rather forget.
 <$00>
 
 // Pos: 000042B6
@@ -373,10 +356,10 @@ April:
 <$0D>
 //\nごめんね、急に。なんだかママが\nすごく近くにいるようで怖いの。
 \n
-Sorry, I need to recoup. I had the\n
-sudden sensation my mom was
+Sorry, I need to recoup. 
 <$0C>
-breathing down my neck.
+I got wound up in this feeling that\n
+my mom was breathing down my neck.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -405,10 +388,8 @@ April:
 <$0D>
 //\n早くなんとかしないと\n取り返しのつかないことになりそうよ…
 \n
-If we don't wrap this up soon, I\n
-worry the wounds we open here
-<$0C>
-won't close again.
+If we don't wrap this up soon, I worry\n
+the wounds we open here won't close up.
 <$0C><$0B>
 //エイプリル：
 April:

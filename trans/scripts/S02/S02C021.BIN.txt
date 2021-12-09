@@ -18,9 +18,7 @@ Noon:
 //\nやけに静かだなあ。顔の怪物とやらは\nでっち上げなんじゃねぇのか？
 \n
 Awfully quiet 'ere. You'd think the\n
-monster rumors were made up,
-<$0C>
-looking at all this.
+monster rumors were made up.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -28,7 +26,7 @@ Noon:
 //\n火星のやつら、地球から人が来ないように\nウソ言ってやがる… そうじゃねぇのか？
 \n
 You don't think the residents on Mars\n
-were lying to keep us out, do you?
+were lying to scare us off, do you?
 <$00>
 
 // Pos: 00002B0B
@@ -58,10 +56,8 @@ Captain Tatler:
 <$0D>
 //\n実は先遣隊が隠れ住んでいるというウワサも\nあるんだ。
 \n
-Monsters aside, there's a rumor\n
-some ex-vanguard units live there in
-<$0C>
-hiding.
+Monsters aside, there's a rumor that\n
+some ex-vanguard units live out there.
 <$00>
 
 // Pos: 00002B7F
@@ -140,9 +136,7 @@ Noon:
 //\n帰納の丘っていう場所を抜ければコロニーだ…\n帰納って、なんだ？
 \n
 From there, we pass through the\n
-Inductive Hills... "Inductive," what a
-<$0C>
-crock.
+Inductive Hills... Name's a crock, innit?
 <$00>
 
 // Pos: 00002C57
@@ -157,18 +151,14 @@ April:
 <$0D>
 //\n哲学用語よ。
 \n
-Well, "inductive" is a philosophical\n
-term.
+Well, "inductive reasoning" is a philosophical term that pertains to
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nひとつひとつの事実を集めて、\n共通することがらを見つけだすという。
 \n
-It pertains to making generalized\n
-facts based on overlaps of varied
-<$0C>
-observations.
+making generalized facts based on overlaps of varied observations, and...
 <$00>
 
 // Pos: 00002C9C
@@ -263,8 +253,8 @@ Noon:
 <$0D>
 //\nへん、ちゃんとタンクも背負ってるし、\nヘルメットも着けてるぜ。
 \n
-All right. There's a tank on their back,\n
-and an 'elmet on their dome.
+All right. There's a tank on the back,\n
+and an 'elmet on the dome.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -372,9 +362,7 @@ touch. It's the malice of Mars.
 //\nイーブルマインドは妄想をかき立てるぞ、\nあらぬことを考えてしまうぞ。
 \n
 Evil Mind stirs up fantasies in the\n
-victim's brain and makes them do the
-<$0C>
-unthinkable.
+victim's brain and makes them go a wol.
 <$0E><$0F><$17><$00>
 
 // Pos: 00002EBF
@@ -530,10 +518,10 @@ Captain Tatler:
 <$0D>
 //\n私の後ろを着いてきて、３回振り返ったら\n笑ってるんだぞ。
 \n
-She'll sneak up behind me, and if I\n
-look back three times and don't catch
+She'll sneak up behind me.
 <$0C>
-her, she giggles.
+If I look back three times and don't\n
+catch her, she giggles like a baby.
 <$00>
 
 // Pos: 000030C0
@@ -597,8 +585,8 @@ Noon:
 <$0D>
 //\nへん、ちゃんとタンクも背負ってるし、\nヘルメットも着けてるぜ。 でもよ、
 \n
-All right. There's a tank on their back,\n
-and an 'elmet on their dome.
+All right. There's a tank on the back,\n
+and an 'elmet on the dome.
 <$00>
 
 // Pos: 00003180

@@ -49,8 +49,8 @@ taunt us.
 
 <$10>
 //ヌーン、よしてよ。\n火星人なんてもう滅んだのよ…
-Noon, you know full-well Martians\n
-are extinct.
+Noon, you know full-well that\n
+the Martians are long extinct.
 <$00>
 
 // Pos: 00003A11
@@ -65,10 +65,11 @@ April:
 <$0D>
 //\n人間の顔を手に入れて、それで火星人は滅んだ…\nなんか妙な惑じね。
 \n
-It's eerie to think they died off so\n
-soon after acquiring our faces in the
+To think, they all died the moment\n
+they tried to wear human faces.
 <$0C>
-face pact.
+Who knew the face pact would lead\n
+to such an unhappy end.
 <$00>
 
 // Pos: 00003A45
@@ -83,10 +84,8 @@ Captain Tatler:
 <$0D>
 //\n人間の顔が、彼らに災いをもたらした。\n今ではそう考えられている。
 \n
-Theory says our human faces were\n
-what triggered the Martian
-<$0C>
-extinction.
+Theory says our faces were what\n
+triggered the mass extinction.
 <$00>
 
 // Pos: 00003A79
@@ -102,7 +101,7 @@ Noon:
 //\n火星人のやつら、ハダに合わなかったんだよ、\n人間の顔が。
 \n
 Oh, so it's OUR fault those filthy\n
-Martians took our faces?
+Martians got what they deserved?
 <$00>
 
 // Pos: 00003AA3
@@ -117,10 +116,8 @@ Captain Tatler:
 <$0D>
 //\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
 \n
-Only if Martian life suffered a mass\n
-rejection to "filthy" bacteria from
-<$0C>
-said faces.
+If their bodies rejected the "filthy"\n
+bacteria littered on our faces, yes.
 <$00>
 
 // Pos: 00003AD3
@@ -135,8 +132,8 @@ Noon:
 <$0D>
 //\nけっ、大きなお世話って惑じだな。
 \n
-I don't care, Cap'n. Blame our\n
-bacteria all you want.
+I don't care, Cap'n.\n
+Blame our bacteria all you want.
 <$00>
 
 // Pos: 00003AF0
@@ -192,7 +189,7 @@ See that crazy glow? That's Mars!
 //\nあれが火星だ！\n災いの星、闘いの象徴…まやかしの惑星だ。
 \n
 Star of disaster, symbol of conflict\n
-and planet of deception.
+and planet of deception!
 <$0E><$78><$17><$00>
 
 // Pos: 00003B8B
@@ -367,10 +364,10 @@ Commander October:
 <$0D>
 //\n君を調査隊にすすめたのは実は私なんだ。\n君の働きには期待しているからね。
 \n
-I personally recommended you for\n
-this survey unit. Thank you for
+I personally recommended you\n
+for this survey unit.
 <$0C>
-coming aboard.
+Thank you for coming aboard.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -386,8 +383,9 @@ Commander October:
 //\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
 \n
 See, "face-shaped creatures" on\n
-Mars have those on the planet
+have reportedly appeared on Mars.
 <$0C>
+It has those currently living there\n
 fearing the supposed End Times.
 <$0C><$0B>
 //オクトーバー司令官：
@@ -395,18 +393,19 @@ Commander October:
 <$0D>
 //\nこれから地球化計画を再開するにあたって、\nそんなブッソウなことではいかん。
 \n
-Obviously, we won't allow baseless\n
-conjecture to interrupt our
+Obviously, this is all\n
+baseless conjecture.
 <$0C>
-terraformation plans,
+...but it threatens to halt our\n
+terraformation plans just the same.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\n君たちの任務はうわさの真相を\n突き止めることなんだ。
 \n
-but I formally ask that you help find\n
-the source of the rumors.
+I formally ask that you identify\n
+the source of the rumor.
 <$00>
 
 // Pos: 00003C25
@@ -421,10 +420,10 @@ Captain Tatler:
 <$0D>
 //\n先遣隊が火星に送られたのは\n１０年前のことだ。
 \n
-Ten years ago, we sent his vanguard\n
-unit to Mars, but then...something
+Ten years ago, we sent a vanguard\n
+unit to Mars, led by Colonel Galil.
 <$0C>
-went wrong.
+But then...something went wrong.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -432,8 +431,9 @@ Captain Tatler:
 //\n地球化計画の再開で、\n火星に調査のためにやってきた。\nガリル大佐はそのときのリーダーだった。
 \n
 Now that colonization plans have\n
-resumed, we want to find out what
+resumed, we have one more job.
 <$0C>
+And that job is to find out what\n
 that "something" was.
 <$0C><$0B>
 //タトラー船長：
@@ -441,10 +441,8 @@ Captain Tatler:
 <$0D>
 //\n神は死んだ、光の私…
 \n
-Last time, Colonel Galil, the leader of\n
-that vanguard unit, left a bizarre
-<$0C>
-final message.
+In the last mission, the colonel\n
+wired in a bizarre final message.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -461,27 +459,26 @@ Captain Tatler:
 <$0D>
 //\n火星に妙なウワサがはびこるようになったのは\nそれからのことだ。
 \n
-And THEN, shortly after all that, we\n
-caught word of a new, terrifying
+And THEN, shortly after all that,\n
+we got even more bad news.
 <$0C>
-infestation on Mars.
+Word started spreading that Mars\n
+is infested with monsters.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n我々はウワサの出所をさぐって、\n火星はなんでもない、
 \n
-We'd searched in vain for a source to\n
-the rumor ever since,
+The ISF has searched in vain for a\n
+soure to the rumor ever since. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n平和で友好的だと報告しなければならない。\nそれが任務だ。
 \n
-so the job now is just to make sure\n
-everything's as safe enough to
-<$0C>
-terraform, and report back.
+We, the survey unit, are here to\n
+prove that Mars is safe to terraform.
 <$00>
 

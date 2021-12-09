@@ -18,8 +18,8 @@ Galil:
 //\nわれらがヒーロー、アーネストのご登場か！\nこの星で自分を実惑したか、どうなんだ？
 \n
 And Ernest the Hero takes the stage!\n
-Did you like grasping for a sense of
 <$0C>
+Did you like grasping for a sense of\n
 self here?
 <$0C><$0B>
 //ガリル：
@@ -28,9 +28,9 @@ Galil:
 //\nだがもうおしまいだ、アーネスト！\nお前をミーシャのもとに送り込んでやろう。
 \n
 Alas, your powerless escapades on\n
-this planet end here! I'm sending you
+this planet end here.
 <$0C>
-home to Masha!
+I'm sending you home to Masha!
 <$00>
 
 // Pos: 0000104F
@@ -45,7 +45,7 @@ Ernest:
 <$0D>
 //\nうるせぇ！ 俺はどこにも行きやしない！
 \n
-Shut up, you! I'm not going\n
-anywhere!
+Shut up, you!\n
+I'm not going anywhere!
 <$00>
 

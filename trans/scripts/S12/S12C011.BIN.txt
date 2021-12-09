@@ -17,19 +17,19 @@ Crow:
 <$0D>
 //\nえらいことになった、フェイだ、\nあいつがよう、メディスンマンのドームから\n気味悪い人形を盗もうとしたんだ。
 \n
-Kekeke, Feng's done it now. She tried\n
-swiping that creepy doll from the
+Kekeke, Feng's done it now.
 <$0C>
-medicine men's dome.
+She tried swiping that creepy doll\n
+from the medicine men's dome.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nそしたら人形から変な光が出てよう、\nカベに埋まってるやつを照らし出した…
 \n
-Then, a light shot out from the doll,\n
-and some mangled dude in the wall
+Then, a light shot out from the doll,
 <$0C>
+and some mangled dude in the wall\n
 there started glowing.
 <$00>
 
@@ -53,10 +53,10 @@ Crow:
 <$0D>
 //\n氷の野郎は、カベに埋まったやつと\n合体しやがった！ あー、いやだ！
 \n
-If he melted, ice mongrel must've\n
-become one with the guy buried in
+If he melted, he must've merged\n
+one with the guy in the wall!
 <$0C>
-the wall. This can't be good!
+This can't be good!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -71,10 +71,8 @@ Crow:
 <$0D>
 //\nエレミヤ、死の動機、エレミヤって\nくり返すんだ。
 \n
-"Jeremiah...reason for\n
-dying...Jeremiah," over and over
-<$0C>
-again!
+"Jeremiah! Reason for dying!\n
+blah, blah, blah," over and over!
 <$00>
 
 // Pos: 0000113B
@@ -90,27 +88,26 @@ Crow:
 //\n俺の頭の中にも声が響きはじめてよう、\nエレミヤ、エレミヤ、エレミヤ…
 \n
 I started hearing the voice in my\n
-head. "Jeremiah, Jeremiah,
-<$0C>
-Jeremiah."
+head repeat, "Jeremiah, Jeremiah."
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nあはー、頭が変になりそうだ、数を忘れそうだ！\n俺は光る石をにぎりしめたさ！
 \n
-I started losing count! I was going\n
-crazy! So, I'd kept squeezing the
+I lost count how many times!\n
+I was going crazy! 
 <$0C>
-glowing stone.
+All I could do was keep squeezing\n
+the glowing stone.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n力のもとだ、英知のもとだ！
 \n
-It's the source of power! The source\n
-of wisdom!
+It's the source of power!\n
+The source of wisdom!
 <$00>
 
 // Pos: 000011B5
@@ -126,16 +123,14 @@ Crow:
 //\nだんだん光が強くなって…\nな、やばい惑じがするだろ？ 走って走って…
 \n
 The light got stronger. I'd sensed\n
-something bad, right? So I ran, and I
-<$0C>
-ran.
+something bad, right? So I ran.
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nあの目玉の家まできたときに急に\n気を失ったんだ。
 \n
-And just when I made it to that house\n
+And right when I made it to that house\n
 with the eyeball, I fainted.
 <$1E>
 //理

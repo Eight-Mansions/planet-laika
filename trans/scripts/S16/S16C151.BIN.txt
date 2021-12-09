@@ -24,9 +24,10 @@ radio waves! Weee!
 Yang:
 <$0D>
 //\nあんたもだろ、俺と一緒に電波に乗れるんだろ。\n見たところそんな惑じだ、俺と一緒だ、
-nYou are too! We're riding\n
-together on radio waves! I see you\n
-sense it too, just like I do!
+\n
+You are too! We're riding\n
+together on radio waves!\n
+You sense it too, just like I do!
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -52,10 +53,10 @@ Yang:
 <$0D>
 //\nついに届いたんだな、電波だ！\nあんたも電波だ、俺と一緒だスペーサー。
 \n
-We're all finally here: you, me and the\n
-radio waves! We're all together
+We're all finally here:\n
+you, me and the radio waves!
 <$0C>
-now, Spacer!
+We're all together now, Spacer!
 <$1E>
 //鋭
 鋭
@@ -81,8 +82,8 @@ Yang:
 <$0D>
 //\nブリックロードの赤い家の中で\n開いたことがある…
 \n
-The red house on Brick Road... It's\n
-open!
+The red house on Brick Road...\n
+It's open!
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -107,10 +108,8 @@ Spacer:
 <$0D>
 //\nはねる音？ここでは開こえない、\nどこか別の場所だろう。
 \n
-A bouncing sound? I don't hear\n
-anything here. It must be
-<$0C>
-somewhere else.
+A bouncing sound? I don't hear that.\n
+It must be coming from somewhere else.
 <$00>
 
 // Pos: 00000C47
@@ -126,7 +125,7 @@ Yolanda:
 //\nいやね、何がはねてるのよ。\nそんな音、開こえないわよ。
 \n
 Jesus. Something's reverberating,\n
-but I can't hear the sound.
+but I can't make out a sound.
 <$00>
 
 // Pos: 00000C70
@@ -175,10 +174,8 @@ Yang:
 <$0D>
 //\n何か光らなかったか？ありゃ電波じゃない、\nもっと別ものだ。
 \n
-What was glowing out there? It\n
-wasn't radio waves, but something
-<$0C>
-else.
+What was glowing out there? It wasn't\n
+radio waves, but something else.
 <$1E>
 //理
 理

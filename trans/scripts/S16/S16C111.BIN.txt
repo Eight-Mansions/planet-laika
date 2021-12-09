@@ -48,6 +48,7 @@ Oh, wait. I see... Yes, this pertains to\n
 you, 
 <$0F>
 //…
+.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -70,8 +71,8 @@ Madam Agatha:
 <$0D>
 //\nふたり… あなたと…\nあっ、あれはお母さんね、
 \n
-I see two people, you and...ah. It's\n
-you and your mother.
+I see two people, you and... Ah.\n
+It's you and your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -79,9 +80,7 @@ Madam Agatha:
 //\n一緒にいるのはあなたのお母さん…\n何か恐ろしいことが起こりそう…
 \n
 A mother and child who were always\n
-together until something tragic
-<$0C>
-happened.
+together until tragedy befell them.
 <$00>
 
 // Pos: 00002C3A
@@ -128,7 +127,7 @@ Madam Agatha:
 <$0D>
 //\nあやふやだけど、\nなんとか読めたわ。
 \n
-It's a little hazey, but I managed to\n
+It's a little hazy, but I managed to\n
 see something when I was peering.
 <$0C><$0B>
 //マダム・アガタ：
@@ -144,8 +143,8 @@ Madam Agatha:
 <$0D>
 //\nお母さんはあなたの手を取って…\n何か渡そうとしている…
 /\n
-Your mother takes your hand. She's\n
-trying to give you something.
+Your mother takes your hand.\n
+She's trying to give you something.
 <$00>
 
 // Pos: 00002D25
@@ -176,10 +175,10 @@ Madam Agatha:
 <$0D>
 //\n今度は夜… またふたりでいるわ…\n馬小屋ね、月明かりに照らされて…\nふたりで馬小屋を見ているところね。
 \n
-Evening comes. You two are\n
-together again, looking at the
+Evening comes.
 <$0C>
-stables in the moonlight.
+You two are together again, looking\n
+at the stables in the moonlight.
 <$00>
 
 // Pos: 00002D96
@@ -195,9 +194,7 @@ Madam Agatha:
 //\nここは… 誰の部屋かしら…\nセルゲイよ、ね、あなたのお義兄さんの部屋…
 \n
 What room are you in...? Sergei's...\n
-Yes, you are in your step-brother's
-<$0C>
-room.
+You are in your step-brother's room.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

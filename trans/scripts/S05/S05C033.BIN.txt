@@ -17,10 +17,8 @@ Noble Rock:
 <$0D>
 //\nテレポーテーションだな、ホワイトイーグルは\nどこへ行った？ 一緒に来たのか？
 \n
-And THAT iS teleportation! Where did\n
-White Eagle go? Shall we look
-<$0C>
-together?
+And THAT iS teleportation! Where is White\n
+Eagle? Shall we look together?
 <$00>
 
 // Pos: 0000141B
@@ -68,9 +66,7 @@ Noble Rock:
 //\nまだ早い、今はだめだ、危ないぞ。\n巻き込まれる、合体してしまうぞ。
 \n
 It is still too early for this. You can't\n
-afford to get caught in the
-<$0C>
-integration!
+afford to get caught in the integration!
 <$00>
 
 // Pos: 000014AC
@@ -94,8 +90,6 @@ Noble Rock:
 //\nまだ早いんじゃないのか、建うのか？\n早くないのか…どうなのだ？\n本当にだいじょうぶなのか？
 \n
 How is this not too early? Has the\n
-situation changed? And if so, how? Is
-<$0C>
-this truly all right?
+situation changed? And if so, how?
 <$00>
 

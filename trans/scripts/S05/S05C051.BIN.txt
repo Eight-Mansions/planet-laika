@@ -18,9 +18,7 @@ Laika(?):
 //\nねぇ、教えてよ、\n神のさばきがくだる、それが蕃判なんだろ？
 \n
 All right, tell me. This "Judgement"\n
-business. It comes across like God's
-<$0C>
-will, no?
+business. It sounds like God's will.
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -42,8 +40,8 @@ White Eagle(?):
 <$0D>
 //\n神はいつもおいでじゃ。\nだがやつは、ガリルは神ではない！
 \n
-God was always here. However,\n
-Galil, is no god!
+God was always here.\n
+However, Galil, is no god!
 <$00>
 
 // Pos: 00002F90
@@ -58,10 +56,8 @@ Laika(?):
 <$0D>
 //\nガリルが神？\nすごいことになってるんだね。
 \n
-Indeed. Galil really did go off the\n
-deep end, if he thought he could
-<$0C>
-achieve godhood.
+Galil really did go off the deep end,\n
+if he thought he could attain godhood.
 <$00>
 
 // Pos: 00002FB3
@@ -143,10 +139,8 @@ stairway to God as we speak.
 <$0D>
 //\n得体の知れない死の情熱で、\n肉体を超えた存在になろうとしておるのじゃ。
 \n
-He means to embracing his reason\n
-for dying to become that which
-<$0C>
-exceeds the flesh.
+He means to embrace his reason for dying,\n
+and become that which exceeds the flesh.
 <$00>
 
 // Pos: 00003022
@@ -162,9 +156,9 @@ Laika(?):
 //\n死の情熱？\nまるで自殺願望だね、それじゃ。
 \n
 And to that end, that was his reason\n
-for dying? It sounds like he had a
+for dying?
 <$0C>
-suicidal ideation.
+It sounds like he had a suicidal ideation.
 <$00>
 
 // Pos: 0000304B
@@ -186,10 +180,8 @@ White Eagle(?):
 <$0D>
 //\n心の悪のそのすべてを浄化したとき、\n永遠の存在になるというのじゃ。
 \n
-It is said that when one purifies their\n
-mind of all evil, they become an
-<$0C>
-eternal existence.
+When one purifies their mind of all evil,\n
+some say he becomes an eternal existence.
 <$00>
 
 // Pos: 000030A4
@@ -274,8 +266,8 @@ Laika(?):
 <$0D>
 //\nあたたかいよ… これがシークレットパワー…
 \n
-Is this...the secret power? It feels\n
-warm.
+Is this...the secret power?\n
+It feels warm.
 <$00>
 
 // Pos: 000031A9
@@ -290,7 +282,7 @@ White Eagle(?):
 <$0D>
 //\nシークレットパワーは、\n心の悪を浄化する力じゃ。
 \n
-The secret power purifies evil
+The secret power purifies evil.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -306,8 +298,8 @@ White Eagle(?):
 //\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
 \n
 But you cannot use it on yourself.\n
-There needs to be someone into
 <$0C>
+There needs to be someone into\n
 whom that evil is transferred
 <$0C><$0B>
 //ホワイトイーグル…？：
@@ -316,8 +308,9 @@ White Eagle(?):
 //\n心が弱い相手じゃと、ふほ…\nおかしくなってしまうかも知れないのう。
 \n
 It takes someone of strong mind to\n
-withstand it. You don't want to make
+withstand it.
 <$0C>
+You don't want to make\n
 people sick, do you?
 <$00>
 
@@ -334,9 +327,7 @@ Laika(?):
 //\n人をギセイにするんだ…\nその人はおかしくなるの？
 \n
 So, I'd be pushing my evil onto\n
-someone else? And making them
-<$0C>
-sick?
+someone else? And making them sick?
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -374,10 +365,8 @@ White Eagle(?):
 <$0D>
 //\nお前には資質があるということじゃなぁ。\nまことにそういうことじゃ。
 \n
-This conversation proves you have\n
-the qualities we need. This is the
-<$0C>
-moment of truth.
+This conversation proves you have the\n
+qualities we need in the moment of truth.
 <$00>
 
 // Pos: 00003314
@@ -392,8 +381,8 @@ Laika(?):
 <$0D>
 //\n資質って？僕は特別なの？
 \n
-What qualities do I have? What\n
-makes me so special?
+What qualities do I have?\n
+What makes me so special?
 <$00>
 
 // Pos: 00003332
@@ -408,18 +397,18 @@ White Eagle(?):
 <$0D>
 //\nふほ、お前とそれからもうひとりの…\nふほ、もしや預言にあるマコトの双子…
 \n
-Haww, that you are part of another,\n
-like the Twins of Truth spoken of in
+Haww, that you are part of another.
 <$0C>
-the prophecies.
+You are a Twin of Truth spoken of\n
+in the prophecies.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nいやわからんのう。\nわしにはそれ以上は見えんのじゃ。
 \n
-Beyond that, who can say? I cannot\n
-see anything beyond that.
+Beyond that, who can say?\n
+I cannot see anything.
 <$00>
 
 // Pos: 00003396
@@ -458,10 +447,8 @@ White Eagle(?):
 <$0D>
 //\n完全なる善と、完全なる悪、このふたつが\n出会うときに世界は再生されると\n言われておるのじゃ。
 \n
-"May pure good and pure evil\n
-entwine, so the world can be
-<$0C>
-reborn."
+"May pure good and pure evil entwine,\n
+so the world can be reborn."
 <$00>
 
 // Pos: 00003432
@@ -476,10 +463,10 @@ Laika(?):
 <$0D>
 //\nじゃあガリルは…\nもしかして完全なる善になろうってことなの。
 \n
-If that's the case...I suppose Galil\n
-perceives himself the "pure good"
+If that's the case...
 <$0C>
-one of the two.
+I suppose Galil perceives himself\n
+as the "pure good" one of the two.
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -487,9 +474,7 @@ Laika(?):
 //\nすごいや、それで光の私なんだ。\n輝いてるんだ。
 \n
 That explains his, "I am the light,"\n
-statement and the light show around
-<$0C>
-the Face.
+statement and the bursts around the Face.
 <$00>
 
 // Pos: 00003483
@@ -513,9 +498,7 @@ White Eagle(?):
 //\nガリルはイーブルマインドをさぐるうちに\n世界の再生に触れた預言と出会った。
 \n
 In Galil's search for Evil Mind, he\n
-uncovered the prophecies detailing
-<$0C>
-world rebirth.
+uncovered prophecies of world rebirth.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -523,9 +506,9 @@ White Eagle(?):
 //\nとうの昔に死んだ流刑者が残したもので、\nエレミヤの預言と呼ばれておる。
 \n
 These prophecies were left behind\n
-by an exile who died long ago. That
+by an exile who died long ago.
 <$0C>
-was Jeremiah the Exile.
+That was Jeremiah the Exile.
 <$00>
 
 // Pos: 0000351C
@@ -540,10 +523,10 @@ Laika(?):
 <$0D>
 //\nそうだったのか…さっき見た黒い騎士も\nその預言から現れたんだな。
 \n
-I see... So, the rising Black Rider we\n
-saw earlier must be a participant of
+I see...
 <$0C>
-this prophecy.
+The rising Black Rider we saw earlier\n
+must be another pawn in the prophecy.
 <$00>
 
 // Pos: 0000354E
@@ -590,8 +573,8 @@ Laika(?):
 <$0D>
 //\n銀のカプセル… 確か記憶の谷で…
 \n
-A silver capsule, got it. I found one in\n
-Memory Valley.
+A silver capsule, got it.\n
+I found one in Memory Valley.
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -599,8 +582,9 @@ Laika(?):
 //\nねぇ、預言はどこなの？\nユニバーサルマンに会えばいいの？
 \n
 ...Speaking of which, where are the\n
-prophecies? Is it possible for me to
+prophecies?
 <$0C>
+Is it possible for me to\n
 speak with Universal Man?
 <$00>
 

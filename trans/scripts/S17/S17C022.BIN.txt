@@ -30,8 +30,8 @@ Captain Tatler:
 <$0D>
 //\n失った時間を取り戻そうなんて考えるな。\n間建ったよこしまな考えだ。
 \n
-There's no regaining lost time. It's a\n
-vile thing to romanticize.
+There's no regaining lost time.\n
+It's a vile thing to romanticize.
 <$00>
 
 // Pos: 000010FE
@@ -57,10 +57,10 @@ Noon:
 <$0D>
 //\n戻ってもだめだ、何も残ってないぜ。\nみんな消えて無くなっちまうんだ。
 \n
-There's no going back. There's\n
-nothing left. When we're gone,
+There's no going back.\n
+There's nothing left.
 <$0C>
-we're gone.
+When we're gone, we're gone.
 <$00>
 
 // Pos: 0000113F
@@ -71,8 +71,8 @@ we're gone.
 
 <$12><$0F>
 //、ここはあなたの場所よ。\nでももうすぐ消える…
-, this may be your place, but it too will\n
-soon disappear.
+, this may be your place,\n
+but it too will soon disappear.
 <$00>
 
 // Pos: 0000115C

@@ -68,8 +68,8 @@ Liever:
 <$0D>
 //\n理解できないとね。
 \n
-You understand what I mean, don't\n
-you?
+You understand what I mean,\n
+don't you?
 <$00>
 
 // Pos: 000016F1
@@ -88,10 +88,8 @@ Ernest:
 <$0D>
 //\n俺じゃダメだと？ くそっ、なにが神様だ。
 \n
-Am I not good enough to enter your\n
-god's sewer? Your god sounds like a
-<$0C>
-dick.
+Am I not good enough to enter God's\n
+sewer? Your man sounds like a dick.
 <$00>
 
 // Pos: 00001714
@@ -110,10 +108,10 @@ Yolanda:
 <$0D>
 //\nアタシじゃいけないの…\n神様だなんて、ほんとにいるの？
 \n
-God giving me the proverbial boot's\n
-no surprise, but he's not really here,
+God giving me the proverbial\n
+boot's no surprise.
 <$0C>
-is he?
+But he's not really here, is he?
 <$00>
 
 // Pos: 0000173D
@@ -152,9 +150,7 @@ Spacer:
 <$0D>
 //\n地下水道か。 水があるというのか…
 \n
-An underground canal, huh. So\n
-there's bound to be water down
-<$0C>
-there.
+An underground canal, huh.\n
+There's bound to be water.
 <$00>
 

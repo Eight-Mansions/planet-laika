@@ -32,16 +32,16 @@ Where are you going?
 <$0D>
 //\nねぇ、だめだよ、勝手に出歩いちゃ。\nこんなの、はじめてだよ。
 \n
-Hey, don't run off like that! You've\n
-never done that before.
+Hey, don't run off like that!\n
+You've never done that before.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nうふふ、くすぐったいよ、ダークマン、\n僕の手はキライになったの？
 \n
-Hey! That tickles, Dark Man! Do you\n
-not like my hand?
+Hey! That tickles, Dark Man!\n
+Do you not like my hand?
 <$1E>
 //鋭
 鋭
@@ -59,8 +59,8 @@ not like my hand?
 <$0D>
 //\nねぇ、どうしたの、ダークマン。\n僕の手から離れちゃだめじゃないか。
 \n
-Hey, what's wrong, Dark Man? Why\n
-won't you free my hand?
+Hey, what's wrong, Dark Man?\n
+Why won't you free my hand?
 <$0C><$0B>
 //コスマス：
 Cosmas:

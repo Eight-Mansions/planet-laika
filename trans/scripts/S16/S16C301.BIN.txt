@@ -48,8 +48,8 @@ Herod:
 <$0D>
 //\nアガタ、どこにいるんだ、ちくしょう、\n寄るな、バケモノ！
 \n
-Agatha, dammit! Where are you? Get\n
-back! GET BACK!
+Agatha, dammit! Where are you?\n
+Get back! GET BACK!
 <$00>
 
 // Pos: 00001C97
@@ -64,8 +64,8 @@ Herod:
 <$0D>
 //\nあああ、やめてくれ、お前は？\nあああ、基場に戻れ！
 \n
-No, stop! Who are you?! No! Go back to\n
-your filthy graves!
+No, stop! Who are you?! No!\n
+Go back to your filthy graves!
 <$00><$10>
 //きゃきゃきゃきゃきゃきゃきゃきゃきゃきゃ
 Heeheeheeheehee!
@@ -121,8 +121,8 @@ Herod:
 <$0D>
 //\nあははは、お前はどうなんだ。
 \n
-Ahahaha, you're not mad at me, are\n
-you?
+Ahahaha, you're not mad at me,\n
+are you?
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -136,10 +136,8 @@ Herod:
 <$0D>
 //\nあはははは、\n恐怖が俺の中ではち切れそうになってきた。
 \n
-Ahaha, my fears are going to rip\n
-through me with their hooks any
-<$0C>
-minute now.
+Ahaha, my fears are going to rip through\n
+me with their hooks any minute now.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -195,8 +193,8 @@ CHARLIE SEES YOU.
 ぁほ
 <$1D><$00><$00><$00>
 //チャーリー、食べたい、ごちそう、\n食べたい。
-CHARLIE'S HUNGRY. FEED HUNGRY\n
-CHARLIE.
+CHARLIE'S HUNGRY.\n
+FEED HUNGRY CHARLIE.
 <$1A>
 //も
 も
@@ -215,8 +213,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS\n
-KNEW.
+CHARLIE KNEW.\n
+CHARLIE ALWAYS KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

@@ -25,8 +25,8 @@ Liever:
 <$0D>
 //\nイーブルマインドが下がって\n通れるようになったんだ。
 \n
-With Evil Mind now out of the way, you\n
-can get through.
+With Evil Mind now out of the way,\n
+you can get through.
 <$00>
 
 // Pos: 00001CF1
@@ -58,9 +58,7 @@ Liever:
 //\nそうだよ。\n彼はこのグランパでずっと眠ってるんだ。\n預言と共に眠ってるのさ。
 \n
 Yes. He's been resting in the ground,\n
-keeping the prophecy safe all this
-<$0C>
-time.
+keeping the prophecy safe all this time.
 <$00>
 
 // Pos: 00001D3E
@@ -108,7 +106,7 @@ Spacer:
 //\nエレミヤ…死んだ流刑者のことだな。\nそれがなぜ私と関係あるんだ…
 \n
 Jeremiah the Exile's the dead guy,\n
-right? What does want?
+right? What does he want?
 <$00>
 
 // Pos: 00001DCE
@@ -123,9 +121,9 @@ Liever:
 <$0D>
 //\n理解できないとダメなのさ。\nそれに銀のカプセルがないと、預言は\n呪いの言葉になってあんたを焼き尽くすよ。
 \n
-Understanding. But be warned,\n
-without the silver capsule,
+Understanding.
 <$0C>
+But be warned, without the silver capsule,\n
 Jeremiah's words will consume you.
 <$00>
 
@@ -161,9 +159,10 @@ Liever:
 //\nもう行くよ。付き合ってくれてありがとう。\nこれ、もういらないからお礼にあげるよ、\n赤い石。
 \n
 I'm going now. Thank you for seeing\n
-me. I don't need this red stone
+me.
 <$0C>
-anymore, so take it.
+I don't need this red stone anymore,\n
+so take it.
 <$00>
 
 // Pos: 00001E85
@@ -197,9 +196,9 @@ Spacer:
 //\nもうひとつの青い石はどうした？ リトルか？\nリトルに渡したんだな。\nおい、リバー、リトルを呼び出してくれ。
 \n
 What happened to the blue stone?\n
-Does Little have it?! Quick, Liever,
+Does Little have it?!
 <$0C>
-call Little back!
+Quick, Liever, call Little back!
 <$00>
 
 // Pos: 00001EE5
@@ -229,8 +228,8 @@ Spacer:
 <$0D>
 //\nいなくなった…\n用済み…
 \n
-He's gone... I guess he "served his\n
-purpose".
+He's gone...\n
+I guess he "served his purpose".
 <$00>
 
 // Pos: 00001F1E
@@ -550,7 +549,7 @@ Silver Capsule
 #WHB(PTR, $00001AE1)
 
 //５つの預言をしまう
-Stores the five propechies
+Stores the propechies
 <$00><$00>
 
 // Pos: 00002036

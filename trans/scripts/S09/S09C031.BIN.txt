@@ -64,8 +64,8 @@ Liever:
 <$0D>
 //\n神様、神様、今すぐです、\nこれは左目、左目。
 \n
-God! God is nearly upon us! Check the\n
-left eye! The left eye!
+God! God is nearly upon us!\n
+Check the left eye! The left eye!
 <$00>
 
 // Pos: 000021AC
@@ -96,8 +96,8 @@ Liever:
 <$0D>
 //\n神様、神様、次は右目、右目です。
 \n
-God wants the right eye now! The\n
-right eye!
+God wants the right eye now!\n
+The right eye!
 <$00>
 
 // Pos: 00002200
@@ -128,8 +128,8 @@ Spacer:
 <$0D>
 //\nこいつは悪の化身だ、\nイーブルマインドのかたまりだ！
 \n
-This thing IS evil incarnate! It's a\n
-giant mass of Evil Mind!
+This thing IS evil incarnate!\n
+It's a giant mass of Evil Mind!
 <$00>
 
 // Pos: 0000225E
@@ -164,8 +164,8 @@ Liever:
 <$0D>
 //\nうわぁぁぁ、神様！\n神様神様神様、ですよね？
 \n
-YES! God! God! God! GOD, IT'S YOU, ISN'T\n
-IT?!
+YES! God! God! God!\n
+GOD, IT'S YOU, ISN'T IT?!
 <$00>
 
 // Pos: 000022B2
@@ -205,8 +205,8 @@ Liever:
 <$0D>
 //\n神様…そんな…\n僕はずっと僕なんです…
 \n
-B-but God, that can't be! I...I've\n
-always been me!
+B-but God, that can't be!\n
+I...I've always been me!
 <$00>
 
 // Pos: 00002359
@@ -319,8 +319,8 @@ Liever:
 <$0D>
 //\nやめてくれ！\nこれ以上僕に近づくな、眼を抜いてやる！
 \n
-STOP THIS! Don't come near me! I'll\n
-gauge your eyes back out!
+STOP THIS! Don't come near me!\n
+I'll gauge your eyes back out!
 <$00>
 
 // Pos: 0000252A

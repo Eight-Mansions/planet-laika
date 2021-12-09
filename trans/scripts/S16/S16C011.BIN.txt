@@ -25,17 +25,17 @@ White Eagle:
 //\nほうほう、３人の悪夢がつながっておるのう。\nトミー、マラケシュ、ヤング…
 \n
 Actually, it's three nightmares\n
-tethered into one: Tommy's,
+tethered into one:
 <$0C>
-Marrakech's, and Yang's.
+Tommy's, Marrakech's, and Yang's.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nトミーには会ったのう。\nあとニ人はどこじゃ？
 \n
-You must've seen Tommy by now, but\n
-where are the other two?
+You must've seen Tommy by now,\n
+but where are the other two?
 <$00>
 
 // Pos: 00000665
@@ -50,8 +50,8 @@ White Eagle:
 <$0D>
 //\nトミーには会ったのう。 あとニ人じゃ。\nマラケシュにヤングじゃ。
 \n
-You must've seen Tommy by now, but\n
-where are Marrakech and Yang?
+You must've seen Tommy by now,\n
+but where are Marrakech and Yang?
 <$00>
 
 // Pos: 00000695
@@ -82,9 +82,9 @@ White Eagle:
 //\nお前を呼んでる場所があるぞ、\n眠りの場所だ、ふほ。
 \n
 And now, haww, you will be\n
-beckoned somewhere to lay. Your
+beckoned somewhere to lay.
 <$0C>
-resting place calls you.
+Your resting place calls you.
 <$00>
 
 // Pos: 0000070C

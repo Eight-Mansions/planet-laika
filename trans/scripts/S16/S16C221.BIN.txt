@@ -40,10 +40,8 @@ Spacer:
 <$0D>
 //\nやつは破壊と暴力に憑かれている。\n馬屋に火を放つくらい…
 \n
-With his obssession with power and\n
-conflict, he could easily set fire to a
-<$0C>
-stable.
+With his lust for power and conflict,\n
+he could easily set fire to a stable.
 <$00>
 
 // Pos: 00002E46
@@ -58,8 +56,8 @@ Ernest:
 <$0D>
 //\nあああ、何でゆらゆらしてるんだ。\n夢でも見てるのか？
 \n
-Argh, my head keeps swaying. Was it\n
-from that dream I saw?
+Argh, my head keeps swaying.\n
+Was it from that dream I saw?
 <$00>
 
 // Pos: 00002E6E
@@ -74,20 +72,18 @@ Ernest:
 <$0D>
 //\nふん、あの女ならやりかねないぜ…
 \n
-Hmph. That woman... I can't imagine\n
-her giving Vladimir tainted liquor to
+Hmph. That woman...
 <$0C>
-drink before breakfast.
+I can't imagine her giving Vladimir\n
+tainted liquor for breakfast.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nウラジミールにインチキな酒飲ませることなど、\nヨランダにしちゃ朝メシ前だ、建いねぇ。
 \n
-But Yolanda? I suppose I can't wag\n
-my finger, but she'd absolutely do
-<$0C>
-that.
+But Yolanda? I'm not one to point\n
+fingers, but she'd absolutely do that.
 <$00>
 
 // Pos: 00002EC4
@@ -125,9 +121,7 @@ Yolanda:
 <$0D>
 //\nそうよ、おろかなセルゲイに\n濡れ衣を着せるくらい簡単なこと…
 \n
-He'd have zero difficulty framing\n
-that shit-for-brains Sergei for a
-<$0C>
-serious crime.
+He'd have zero difficulty framing that\n
+shit-for-brains, Sergei, with a crime.\n
 <$00>
 

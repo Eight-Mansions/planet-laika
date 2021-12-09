@@ -48,9 +48,7 @@ Liever:
 //\nなんだかあんたをだましたみたいで…\n僕はやっぱり中途ハンパな存在なんだね…
 \n
 Ah, seems I lead you on a red herring.\n
-I'm just a made up existence, after
-<$0C>
-all.
+I'm a made up existence, after all.
 <$00>
 
 // Pos: 00001678
@@ -82,8 +80,8 @@ Liever:
 //\nたぶん… いや、僕のもう一人… リトルが\n双子の子どもたちに靴下を配ったんだ…
 \n
 Maybe...? No, it was the other me.\n
-Little would give out stockings to
 <$0C>
+Little would give out stockings to\n
 twin children.
 <$0C><$0B>
 //リバー：
@@ -91,7 +89,7 @@ Liever:
 <$0D>
 //\nクリスマスプレゼントを入れる、\n赤い靴下だよ。
 \n
-Little red stockings with Christmas\n
+Cute red stockings with Christmas\n
 presents inside.
 <$00>
 
@@ -123,10 +121,8 @@ Liever:
 <$0D>
 //\nプレゼントは、悪夢だよ。\n双子たちは眠ってる間に… 姿を消した。
 \n
-The presents? Nightmares. When\n
-the twins fell asleep, they would
-<$0C>
-both disappear.
+Nightmares. When both twins fell asleep,\n
+they would both disappear.
 <$00>
 
 // Pos: 00001743
@@ -149,10 +145,8 @@ Spacer:
 <$0D>
 //\nここに子供がいるなんて…\nそんな話は開いていないぞ。
 \n
-I know I've seen children around,\n
-but I've never heard about a
-<$0C>
-twin-napper.
+I know I've seen children around, but\n
+I've never heard about a twin-napper.
 <$00>
 
 // Pos: 00001798
@@ -167,10 +161,8 @@ Liever:
 <$0D>
 //\n預言だよ！ 預言にあるんだ、\nマコトの双子が完全な人間になれるって。
 \n
-It was the prophecy! In the\n
-prophecy, the Twins of Truth
-<$0C>
-become wholly human.
+It was the prophecy! In the prophecy\n
+the Twins of Truth become wholly human.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -186,9 +178,7 @@ Liever:
 //\n僕とおんなじだね…神って…\n本当は建うのかも知れないよ。
 \n
 That's what happened to me also, but\n
-looking back...clearly I had it all
-<$0C>
-wrong.
+looking back...I had it all wrong.
 <$00>
 
 // Pos: 0000181E

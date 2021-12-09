@@ -25,9 +25,7 @@ Crow:
 //\n死んだ猫みたいに眠ってね。\n俺は寝付きがいいんだ。
 \n
 They're all sleeping like dead cats,\n
-huh. Speaking of, I could use a nap
-<$0C>
-myself, kek!
+huh. I could use a nap myself, kek!
 <$00>
 
 // Pos: 00001444
@@ -42,8 +40,8 @@ Crow:
 <$0D>
 //\nあはは、ここじゃ俺が一番。\nそうだろ、俺だろ！
 \n
-Kekeke, I'm the top dog here! That's\n
-right! Me!
+Kekeke, I'm the top dog here!\n
+That's right! Me!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -58,18 +56,16 @@ Crow:
 <$0D>
 //\nもうえらそうなことは言わさない、\nヘロデのやつもおびえきってたぞ。
 \n
-Bet they won't talk like that\n
-anymore. Even old Herod was shakin'
-<$0C>
-in his boots!
+Bet they won't talk like that anymore.\n
+Even old Herod was shakin' in his boots!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n楽しいな、おびえてたぞ、楽しいな！
 \n
-Isn't it great? They're all so scared, I\n
-love it!
+Isn't it great? They're all so scared,\n
+I love it!
 <$1E>
 //理
 理

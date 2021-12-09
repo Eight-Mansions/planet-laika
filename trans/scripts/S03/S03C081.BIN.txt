@@ -59,10 +59,10 @@ Spirit Man:
 <$0D>
 //\nたまった悪でお前は人格変容するぞ。\n自分を映して自分でなくなる、ひょひょひょ。
 \n
-It won't reflect your current self,\n
-but the self of the evil you've
+It won't reflect your current self.
 <$0C>
-harbored, hyohyo!
+Rather, it reflects the self of\n
+the evil you'veharbored, hyohyo!
 <$00>
 
 // Pos: 00002DE0
@@ -87,16 +87,16 @@ Spirit Man:
 
 <$0F>
 //や、\nお前の心は思ったよりうんと寒々しいぞ。
-, your heart is even darker than I\n
-thought!
+, your heart is\n
+even darker than I thought!
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
 //\n全てが止まり、色を失っているぞ…
 \n
-Everything is frozen in place. Its\n
-color is all gone.
+Everything is frozen in place.\n
+Its color is all gone.
 <$00>
 
 // Pos: 00002E45
@@ -145,8 +145,8 @@ Spirit Man:
 <$0D>
 //\nひょひょひょ！ アーネストか、\n見るからにお前はアニマル系だな。
 \n
-Hyoyohyo! Ernest, is it? I see you're\n
-an Animal type.
+Hyoyohyo! Ernest, is it?\n
+I see you're an Animal type.
 <$00>
 
 // Pos: 00002EB8
@@ -213,7 +213,8 @@ Ernest:
 Did you call 
 <$0F>
 //を火星に呼んだのか、\nどうなんだ、答えろ！
- to Mars? Answer me!
+ to Mars?\n
+Answer me!
 <$00>
 
 // Pos: 00002F65
@@ -229,9 +230,7 @@ Spirit Man:
 //\n呼んでなどいないぞ、アーネスト。\n鋭命の輪が回り始めたのだ、ひょひょひょ。
 \n
 I didn't call you. The wheels of fate\n
-have started turning on their own,
-<$0C>
-hyohyo!
+turned all on their own, hyohyo!
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
@@ -265,8 +264,8 @@ Spirit Man:
 
 <$0F>
 //に戻るのはたやすいぞ。\n戻るか、どうするか？\n戻るのなら鏡に触れてみろ
- can shift back easily here. If you'd\n
-like to rest, touch the mirror.
+ can shift back here.\n
+If you need rest, touch the mirror.
 <$00>
 
 // Pos: 00003027
@@ -282,6 +281,6 @@ Yolanda:
 //\n誰なの？ 鏡の中にいるの？\nなんだか気味が悪いわ。
 \n
 Who are you? Are you inside the\n
-mirror? That's...not creepy at all.
+mirror? That's...a little sketchy.
 <$00>
 

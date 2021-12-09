@@ -28,9 +28,9 @@ Signpost:
 //\nクロエちゃんに体をあげに来たのか？\nそうなのか？
 \n
 Have you come to offer your body to\n
-my Chloe? Why else would you be
+my Chloe?
 <$0C>
-here?
+Why else would you be here?
 <$00>
 
 // Pos: 000021AC
@@ -68,8 +68,9 @@ Signpost:
 //\nクロエちゃんはキノコのおうちに住んでるんだ。\n用済みの体を分けてあげるんだ。
 \n
 My Chloe lives in the mushroom\n
-house. Give her your body and serve
+house.
 <$0C>
+Give her your body and serve\n
 your purpose.
 <$00>
 
@@ -88,8 +89,8 @@ Signpost:
 <$0D>
 //\nあああ、右目は痛い…\n左目は涙でいっぱい…
 \n
-Oh, my right eye hurts... My left eye is\n
-welling of tears...
+Oh, my right eye hurts...\n
+My left eye is welling of tears...
 <$0C><$0B>
 //道しるべ：
 Signpost:
@@ -122,9 +123,10 @@ Signpost:
 <$0D>
 //\n右目の痛いのが収まったら平気。\n左目の涙が乾いたら通れる。
 \n
-If the pain in my right eye goes, it\n
-stops. If the tears in my left eye stop,
+If the pain in my right eye goes,\n
+it stops.
 <$0C>
+If the tears in my left eye stop,\n
 they go.
 <$00>
 
@@ -151,10 +153,10 @@ Signpost:
 <$0D>
 //\nこれで平気、戻れる戻れる。\n左目の涙はまだ乾かない。まだ行けない。
 \n
-But it'll be back. The tears in my left\n
-eye haven't stopped, so there's no
+But it'll be back.
 <$0C>
-going.
+The tears in my left eye haven't\n
+stopped, so there's no going.
 <$00>
 
 // Pos: 000022FB
@@ -172,10 +174,11 @@ Signpost:
 <$0D>
 //\n涙、たくさん。左目、涙、まだ乾かない。\n乾いたら戻れる、時間を戻れる。
 \n
-There's so many tears. My left eye is\n
-tearful. Only when I can turn back
+There's so many tears.\n
+My left eye is tearful.
 <$0C>
-the tears, can I turn back time.
+Only when I can turn back\n
+the tears can I turn back time.
 <$00>
 
 // Pos: 00002335
@@ -193,8 +196,8 @@ Signpost:
 <$0D>
 //\nやっと乾いた、涙が乾いた。
 \n
-They've finally dried. My tears have\n
-finally dried.
+They've finally dried.\n
+My tears have finally dried.
 <$0C><$0B>
 //道しるべ：
 Signpost:
@@ -232,8 +235,8 @@ Signpost:
 <$0D>
 //\nやっと涙が乾いた、\nこれで戻れる、スペーサー。
 \n
-My tears have dried up. It's time to\n
-turn back, Spacer.
+My tears have dried up.\n
+It's time to turn back, Spacer.
 <$00>
 
 // Pos: 000023DD
@@ -284,10 +287,11 @@ Signpost:
 <$0D>
 //\n考えたら、泣けてきた。\nああん、涙、また涙があふれてきた。
 \n
-When I thought long and hard, I\n
-started to cry again. Oh, the tears
+When I thought long and hard,\n
+I started to cry again.
 <$0C>
-are welling up again...
+Oh, the tears are welling\n
+up again...
 <$0C><$0B>
 //道しるべ：
 Signpost:
@@ -295,7 +299,7 @@ Signpost:
 //\n戻る必要ない、それは悲しい…\n道しるべ、役立たずで悲しい。
 \n
 I shouldn't need to turn back. It's too\n
-sad. A signpost is useless is it's sad.
+sad. A signpost is useless if it's sad.
 <$00>
 
 // Pos: 00002471
@@ -357,8 +361,8 @@ Signpost:
 <$0D>
 //\n少し昔だ、そこに戻れる。用意はいいぞ。
 /\n
-It's been a while. Let's prepare to\n
-turn back.
+It's been a while.\n
+Let's prepare to turn back.
 <$00>
 
 // Pos: 000024D7
@@ -409,7 +413,7 @@ Yolanda:
 //\n戻るって？ 帰れるの？\nあのお利口さんだけ？
 \n
 Turn back? Like, go home? Do I need\n
-the smartass for this?
+the smartass to interpret this?
 <$00>
 
 // Pos: 0000254B
@@ -555,8 +559,8 @@ Spacer:
 But, if 
 <$0F>
 //ではなかった、\n別な誰かだ！
- doesn't smell like almonds,\n
-who was she talking about?
+ doesn't smell\n
+like almonds, who does?
 <$0C><$0B>
 //スペーサー：
 Spacer:

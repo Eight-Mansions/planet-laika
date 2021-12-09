@@ -224,8 +224,8 @@ Oxygen Miner 1：
 <$0D>
 //\nこれも返してやる、さっきひろったんだ。\nお前かあの若い女が落とした物だ。
 \n
-You or other girl dropped this. Take it\n
-back.
+You or other girl dropped this.\n
+Take it back.
 <$00>
 
 // Pos: 00001D30
@@ -285,9 +285,7 @@ Ernest:
 //\n何だこりゃ？ 銀のカプセル…まあいい、\nもらっておくぜ。\nそれにしてもどうなっちまったんだ、ここは？
 \n
 What's this silver capsule? I'll take\n
-it, but...more importantly, what
-<$0C>
-happened here?
+it, but seriously, what happened here?
 <$00>
 
 // Pos: 00001DE0
@@ -318,10 +316,10 @@ Ernest:
 <$0D>
 //\n火事…おい、あのこおった野郎は誰だ？
 \n
-A fire, huh... Speaking of natural\n
-disasters, who's the big frozen guy
+A fire, huh... 
 <$0C>
-down here?
+Speaking of natural disasters,\n
+who's the big frozen guy down here?
 <$00>
 
 // Pos: 00001E40
@@ -337,9 +335,9 @@ Oxygen Miner 1：
 //\nアイスマンだ、ユニバーサルマンの分身、\n死の動機に憑かれてる、シーシー。
 \n
 Ice Man, whoosh. Universal Man's\n
-alter ego, whoosh, whoosh. Had
+alter ego, whoosh, whoosh.
 <$0C>
-reason for dying.
+Had reason for dying.
 <$00>
 
 // Pos: 00001E7A
@@ -414,8 +412,8 @@ Spacer:
 <$0D>
 //\nここはアイスレイクだな。\n凍った酸索が溶けだしている。
 \n
-The frozen oxygenite is starting to\n
-melt down.
+The frozen oxygenite is starting\n
+to melt down.
 <$00>
 
 // Pos: 00001F13
@@ -430,8 +428,8 @@ Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。\nお前…ダメだ、力ない、シー、全然ない！
 \n
-Gate open, whoosh! Not you,\n
-whoosh! Need...power!
+Gate open, whoosh! Not you, whoosh!\n
+Need...power!
 <$00>
 
 // Pos: 00001F47
@@ -491,8 +489,8 @@ Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。お前…ダメだ、\n見たところあまり力ない、シー、あまりない！
 \n
-Gate open, whoosh! Not you,\n
-whoosh! Must go find...power!
+Gate open, whoosh! Not you, whoosh!\n
+Must go find...power!
 <$00>
 
 // Pos: 00001FDA
@@ -507,8 +505,8 @@ Yolanda:
 <$0D>
 //\nいいから早く出してよ、凍えちゃうじゃない！
 \n
-Just get me out of here. I'm freezing\n
-my ass off!
+Just get me out of here.\n
+I'm freezing my ass off!
 <$00>
 
 // Pos: 00001FFE
@@ -539,8 +537,8 @@ Yolanda:
 <$0D>
 //\nゲート開けるのね、アタシじゃ無理ね。
 \n
-We need to open the gate, but...I'm\n
-not built for this.
+We need to open the gate, but...\n
+I'm not built for this.
 <$00>
 
 // Pos: 00002053
@@ -555,8 +553,8 @@ Oxygen Miner 1：
 <$0D>
 //\nお前、ダメ、力ない、やる気ない、シー！
 \n
-You won't help! No power to help,\n
-whoosh!
+You won't help!\n
+No power to help, whoosh!
 <$00>
 
 // Pos: 00002078
@@ -876,7 +874,7 @@ Silver Capsule
 #WHB(PTR, $00001889)
 
 //５つの預言をしまう
-Stores the five propechies
+Stores the propechies
 <$00><$00>
 
 // Pos: 00002190

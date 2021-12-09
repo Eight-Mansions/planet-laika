@@ -33,7 +33,7 @@ that rocket?
 〇
 <$06>
 //生、
-Doctor, what's wrong with 
+Doctor, what's wrong\nwith 
 <$0F>
 //はどうなんです？
 ?
@@ -51,8 +51,8 @@ Doctor, what's wrong with
 <$0D>
 //\nなぜ私を父さんと呼べない、\nええ、呼んでみろ！できそこないめが！
 \n
-Why don't you call me "batya"? Come\n
-on! Call me "batya"!
+Why don't you call me "batya"?\n
+Come on! Call me "batya"!
 <$0E><$99><$17><$00>
 
 // Pos: 00000AEA
@@ -64,8 +64,8 @@ on! Call me "batya"!
 
 <$00><$11>
 //亡の子は助かるんですか？\n手術すれば、本当に助かるんですか？
-Will it help, Doctor? Will surgery save\n
-that child?
+Will it help, Doctor?\n
+Will surgery save that child?
 <$0E><$78><$17><$00>
 
 // Pos: 00000B16
@@ -80,8 +80,8 @@ that child?
 <$0D>
 //\nどうした宇宙飛行士殿。\n服が泥まみれだぜ、ひゃひゃひゃひゃ
 \n
-What's wrong, space brain? You're\n
-covered in mud, hahaha!
+What's wrong, space brain?\n
+You're covered in mud, hahaha!
 <$0E><$99><$17><$00>
 
 // Pos: 00000B4A
@@ -93,7 +93,7 @@ covered in mud, hahaha!
 
 <$00><$11>
 //僕！しっかりするんだ！\nパパの声が開こえるか？
-僕, focus! Listen to batya's voice, 
+僕, focus!\nListen to batya's voice, 
 <$0F>
 //！
 !
@@ -106,8 +106,8 @@ covered in mud, hahaha!
 #WHB(PTR, $00000121)
 
 //歪~イ術？手術で僕をどうしようっていうんだ？\n僕はどこにも行かないよ。
-歪~イ術？What will this surgery do to\n
-me? I-I don't want to leave!
+歪~イ術？What does surgery mean for me?!\n
+I-I don't want to go!
 <$0F>
 //！
 ！

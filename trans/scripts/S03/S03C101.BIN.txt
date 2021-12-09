@@ -28,8 +28,8 @@ Red:
 <$0D>
 //\n来るな。 消えろ！ 失せろ！
 \n
-Don't come near me! Get lost!\n
-Disappear!
+Don't come near me!\n
+Get lost! Disappear!
 <$00>
 
 // Pos: 000013C0
@@ -39,11 +39,11 @@ Disappear!
 #WHB(PTR, $000004CD)
 
 //広じさんに向かってひどいじゃないか。\n可愛いおしりをひんむいちゃうぞ。
-Isn't that a rude thing to say to your\n
-uncle?\n
-Strip off and show me that cute ass of
+Isn't that a rude thing\n
+to say to your uncle?
 <$0C>
-yours.
+Strip off, and show me that\n
+cute littleass ofyours.
 <$00>
 
 // Pos: 000013E8
@@ -111,9 +111,7 @@ Red:
 //\nへへへ… へへ…ついに来やがった、おじさんだ\n泡のおじさんに捕まった… へへへ…\nへへへへへへへへへへへへへへへ…
 \n
 Hehehe... You're finally here, Uncle.\n
-You caught me, Uncle Bubbles. Hehe,
-<$0C>
-hehehe!
+You caught me, Uncle Bubbles... Hehehe!
 <$00>
 
 // Pos: 00001497
@@ -143,6 +141,6 @@ Red:
 <$0D>
 //\nああ、用済み、あああああああああああ…
 \n
-Ah, guess I'll be obsolete ag... Ahh...
+Ah, guess I'll be obsolete a...gain...
 <$00>
 

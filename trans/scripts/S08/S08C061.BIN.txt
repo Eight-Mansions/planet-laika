@@ -17,8 +17,8 @@ Spacer:
 <$0D>
 //\nちょっと話し合いたいんだ、\n開こえているのか？
 \n
-We need to talk for a minute. Can you\n
-two hear me?
+We need to talk for a minute.\n
+Can you two hear me?
 <$00>
 
 // Pos: 00002A50
@@ -33,8 +33,8 @@ Spacer:
 <$0D>
 //\nどうなんだ？ アーネスト… ヨランダ…\n私の声が開こえているか？
 \n
-Come on, come on... Ernie! Jo! Can you\n
-hear my voice?
+Come on, come on... Ernie! Jo!\n
+Can you hear my voice?
 <$00>
 
 // Pos: 00002A7F
@@ -49,8 +49,8 @@ Damian:
 <$0D>
 //\nガリルがどうかしたって？\n教えてやろうか、やつのこと。
 \n
-Did you say "Galil"? Shall I tell you\n
-about him?
+Did you say "Galil"?\n
+Shall I tell you about him?
 <$00>
 
 // Pos: 00002AA6
@@ -284,8 +284,8 @@ Spacer:
 <$0D>
 //\n答えてくれ。 君たちは兄弟なのか？
 \n
-You dodged my question. Are you two\n
-siblings?
+You dodged my question.\n
+Are you two siblings?
 <$00>
 
 // Pos: 00002CBF

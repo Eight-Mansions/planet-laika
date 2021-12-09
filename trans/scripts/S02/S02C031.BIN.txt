@@ -17,7 +17,7 @@
 <$0D>
 //\nああ、前が見えねぇ。
 \n
-I can't see a damned thing.
+I can't see a damned thing!
 <$0E><$14><$17><$00>
 
 // Pos: 00000F0D
@@ -32,8 +32,8 @@ I can't see a damned thing.
 <$0D>
 //\nこのままではまずいな。
 \n
-I'm not sure how much farther we\n
-can wade through this.
+I'm not sure how much farther\n
+we can wade through this.
 <$0E><$14><$17><$00>
 
 // Pos: 00000F2B
@@ -143,10 +143,8 @@ were already 'ome on Earth!"
 <$0D>
 //\n火星は平和でした、報告書はそう書けばいいんだ\nそうじゃねぇのか？
 \n
-"Mars was declared peaceful, and\n
-they all lived 'appily ever after. THE
-<$0C>
-END!"
+"Mars was deemed safe, and they all\n
+lived 'appily ever after. THE END!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001056
@@ -161,8 +159,8 @@ END!"
 <$0D>
 //\nヌーン、おくれてるぞ。\nライカ、どうした、ペースを上げるんだ！
 \n
-Stop dragging your ass, Noon. And\n
-where's Laika?
+Stop dragging your ass, Noon.\n
+...And where's Laika?!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001089
@@ -177,7 +175,7 @@ where's Laika?
 <$0D>
 //\nライカ！ なにをぐずぐずしてる、\nはぐれてしまうぞ！
 \n
-Laika, don't fall behind! You'll get\n
-yourself lost!
+Laika, don't fall behind!\n
+You'll get yourself lost!
 <$0E><$3C><$17><$00>
 

@@ -33,9 +33,9 @@ Crow:
 <$0D>
 //\nやや？ 何か変だ…俺が変…やや？\nお前、何者だ、超能力者か？俺を上回るのか？
 \n
-...Huh? Something feels...different.\n
-Hey, are you some kinda psychic?
+...Huh? Something feels...different.
 <$0C>
+Hey, are you some kinda psychic?\n
 You tweaking my brain?
 <$00>
 
@@ -59,10 +59,8 @@ Crow:
 <$0D>
 //\nだって生き埋めにしたらどうなるか\n知ってるかって言ったのは兄さんだよ！
 \n
-B-but YOU'RE the one who asked if I\n
-knew what'd happen if I buried one
-<$0C>
-alive!
+B-but YOU'RE the one who asked what'd\n
+happen if I buried one alive!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -70,9 +68,7 @@ Crow:
 //\nビニールにつつんで土に埋めて、\nゆっくり死ぬのを待つ、\nそう教えてくれたの兄さんだよ！
 \n
 I wrapped it in vinyl, buried it in the\n
-dirt and waited, just like YOU told me
-<$0C>
-to!
+dirt and waited like YOU told me to!
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -95,10 +91,9 @@ Crow:
 <$0D>
 //\n兄さん、ひらめいたんだ、すごいこと。\nあいつらを悪夢の中に閉じ込めてやる、
 \n
-...Hey, Bro, I just got a great idea. I'm\n
-going to trap all these losers in
+...Hey, Bro, I just got a great idea. 
 <$0C>
-nightmares.
+I'm going to trap all these losers in your nightmare.
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -106,9 +101,7 @@ Crow:
 //\nえへへへへへ、すごいだろ！\n黄色い石のパワーだ、\n俺にも入ってくるんだよ、兄さん！
 \n
 Kekeke, isn't that great?! The power\n
-of the yellow stone's finally hitting,
-<$0C>
-Bro!
+of the yellow stone's hitting, Bro!
 <$00>
 
 // Pos: 00001C57
@@ -124,8 +117,8 @@ Crow:
 //\n夢の中じゃ俺が一番さ、\nもしかしたら兄さんより上かもな！
 \n
 In my dreams, I'm king of the hill.\n
-Shoot, I'm probably even better
 <$0C>
+Shoot, I must be even better\n
 than my bro, kek!
 <$00>
 

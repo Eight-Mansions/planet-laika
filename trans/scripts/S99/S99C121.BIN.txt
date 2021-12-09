@@ -20,8 +20,8 @@ Commander October:
 
 <$0F>
 //君、君は宿命の子なのかね、\nそれでここにいる？
-, you are a Destined Child, aren't you?\n
-Isn't that why you're here?
+, you are a Destined Child.\n
+That is why you're here.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -67,8 +67,8 @@ Commander October:
 
 <$0F>
 //君、君は幼い頃に\nお父さんを亡くしている。
-, you lost your father at a very young\n
-age.
+, you lost your\n
+father at a very young age.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -91,7 +91,7 @@ Commander October:
 <$0D>
 //\nこれで役者はそろったわけだ。
 \n
-And so, the stage is set...
+And so, the stage was set.
 <$00>
 
 // Pos: 000030DD
@@ -106,10 +106,8 @@ Vladimir:
 <$0D>
 //\nセルゲイ兄さんを見習え！ ええ？\n見習うんだ、できそこないめが！
 \n
-Where you dropped on the fucking\n
-head?! Why can't you be more like
-<$0C>
-Sergei?!
+Were you dropped on the fucking\n
+head?! Why can't you be like Sergei?!
 <$00>
 
 // Pos: 0000310C
@@ -188,17 +186,19 @@ Yolanda:
 <$0D>
 //\nウラジミールは先生にこっそり話を付けて\nタニアのお腹の子供を殺しちゃったの。
 \n
-Vladimir secretly spoke with the\n
-doctor before secretly terminating
+Until Vladimir hatched a plot with\n
+Tanya's doctor behind her back.
 <$0C>
-Tanya's unborn child.
+\n
+The doctor went and killed the baby\n
+when it was still in Tanya's stomach.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nどんな風にしたかって？\n開かないでよアタシに。
 \n
-Don't ask me how he did it.
+How he pulled that off,\ndon't ask me.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -221,7 +221,7 @@ Ernest:
 <$0D>
 //\n死んじゃいねぇ、ミーシャはいるんだ、\n俺が守ってやるぜ！
 \n
-Misha's not dead! She's right here,\n
+Masha's not dead! She's right here,\n
 and I'm going to protect her！
 <$00>
 
@@ -238,17 +238,15 @@ Spacer:
 //\nだめだ！ ミーシャは君が作り出した人格だ。\n勝手にかかわったりしちゃだめだ。
 \n
 Stop it! Masha's personality only\n
-exists because YOU created it! Stop
-<$0C>
-kidding yourself!
+exists because YOU created it!
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nアーネスト、ミーシャはいないんだ、\nあきらめろ。
 \n
-Ernest. Masha isn't with us. Just give\n
-it up.
+Ernest. Masha isn't with us.\n
+Just give it up.
 <$00>
 
 // Pos: 00003305
@@ -317,17 +315,15 @@ Commander October:
 //\n君はずっといい子を演じてきた、建うかな？\n亡きお父さんの期待に応えようと頑張った。
 \n
 You always tried to be a "good child",\n
-no？ You did so to fill the shoes of your
-<$0C>
-late father.
+no？ To fill your late father's shoes?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\nしかし残念なことに、\n君は本当の自分を見失ってしまったのだよ。
 \n
-But unfortunately, that caused you\n
-to you lose sight of your true self.
+Unfortunately, that caused you\n
+to lose sight of your true self.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -335,7 +331,7 @@ Commander October:
 //\n痛みや悲しみすら惑じなくなったのだ。
 \n
 Pain and sadness were no longer\n
-things you even sensed.
+things you even remotely sensed.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -343,9 +339,7 @@ Commander October:
 //\nぽっかり空いた君の心を、\n子羊たちがさまよいはじめた。
 \n
 That void in your mind became a\n
-playground for other children to
-<$0C>
-roam.
+ground for other children to play.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -368,8 +362,8 @@ Commander October:
 <$0D>
 //\n君は生まれ変わりを信じるかね。\nそれとも分身はどうかな…
 \n
-Do you believe in rebirth? What\n
-about alter egoes?
+Do you believe in rebirth?\n
+What about alter egoes?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:

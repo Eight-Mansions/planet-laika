@@ -32,8 +32,8 @@ Captain Tatler:
 <$0D>
 //\n降りたら勝手に動くな、全員で行動する、\n分かったな。
 \n
-Not one of you better run off, am I\n
-clear?
+Not one of you better run off,\n
+am I clear?
 <$00>
 
 // Pos: 000034E8
@@ -49,9 +49,7 @@ Noon:
 //\nうまく着陸できた、機関も異常なしだ。
 \n
 Listen, I landed this ship too damn\n
-well to be talked down to like I'm
-<$0C>
-some kid.
+well to be talked like some kid.
 <$00>
 
 // Pos: 00003509
@@ -89,7 +87,7 @@ April:
 //\n船長、ヌーンのおかげで私たち…
 \n
 Captain, it's only thanks to Noon that\n
-we didn't get into an accident.
+we landed without having an accident.
 <$00>
 
 // Pos: 00003567
@@ -112,7 +110,7 @@ Captain Tatler:
 <$0D>
 //\n報告書はそうまとめる。 さ、準備だ！
 \n
-For now, we prepare to head out!
+For now, we head out!
 <$00>
 
 // Pos: 000035B5
@@ -127,20 +125,16 @@ Noon:
 <$0D>
 //\nけっ、とっととガリルって妄想野郎を\nとっつかまえて地球に戻ろうぜ。\nこんなブッソウな星に長居したくない。
 \n
-Heh, maybe we can drag that mad dog\n
-Galil back to Earth. I only hope we're
-<$0C>
-quick.
+Heh, if we can drag that mad dog\n
+Galil back to Earth, let's be quick.
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nこの星には頭がおかしくなった\n密航者ばかりだ。
 \n
-I hate this planet. Anyone who\n
-chooses to live 'ere clearly lost their
-<$0C>
-mind.
+I hate Mars. Anyone who chooses to\n
+live 'ere clearly lost their mind.
 <$00>
 
 // Pos: 00003620
@@ -155,10 +149,8 @@ Captain Tatler:
 <$0D>
 //\n密航者だけではない。\n流刑者のなれのはても生きながらえている。
 \n
-Not necessarily. Some inhabitants\n
-were exiled, and forced to live out
-<$0C>
-here.
+Some inhabitants were exiled,\n
+and forced to live out here.
 <$00>
 
 // Pos: 00003654
@@ -173,8 +165,8 @@ April:
 <$0D>
 //\n彼らの協力が得られないと、\nちょっとやっかいよ。
 \n
-If we can't get residents to\n
-cooperate, this won't be an easy job.
+If we can't get along with\n
+everyone, this won't be an easy job.
 <$00>
 
 // Pos: 0000367B
@@ -211,8 +203,8 @@ Captain Tatler:
 <$0D>
 //\nライカ、なにをぐずぐずしてる？\n君が最初に降り立つんだ。
 \n
-What're you waiting for, Laika? You\n
-go first.
+What're you waiting for, Laika?\n
+You go first.
 <$00>
 
 // Pos: 000036DE
@@ -236,7 +228,7 @@ April:
 //\n自分のヘルメット、\n確かめてね。
 \n
 Make sure your helmet's on nice and\n
-tight first.
+tight before you do!
 <$00>
 
 // Pos: 0000371E
@@ -251,7 +243,7 @@ Noon:
 <$0D>
 //\nロケットから離れるんじゃないぞ、\n迷子になっても\nママはむかえに来てくれないぜ。
 \n
-If you run off and get lost on the job,\n
+If you run off and get lost,\n
 don't come crying to Mummy.
 <$00>
 
@@ -297,9 +289,7 @@ April:
 <$0D>
 //\n前の任務もうまくいったじゃない。\n今度もきっと平気よ。
 \n
-So, maybe the previous mission\n
-failed, but our unit will nail it this
-<$0C>
-time!
+Maybe the previous mission went\n
+awry, but we're going to nail it!
 <$00>
 
