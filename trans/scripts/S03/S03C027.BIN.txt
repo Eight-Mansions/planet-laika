@@ -17,8 +17,8 @@ Little:
 <$0D>
 //\nさあどこだ…俺の行く場所は。\nああ？ 何だありゃ？
 \n
-All right, where are we goin'? Got any\n
-ideas?
+All right, where are we goin'?\n
+Got any ideas?
 <$00>
 
 // Pos: 00002EFF
@@ -33,8 +33,8 @@ Red:
 <$0D>
 //\nうわわわわ、ここにもいやがった。\n何を企んでるんだ、お前らは！
 \n
-Grr, this place is just as bad! What are\n
-you guys planning?!
+Grr, this place is just as bad!\n
+What are you guys planning?!
 <$00>
 
 // Pos: 00002F27
@@ -49,18 +49,19 @@ Little:
 <$0D>
 //\nレッドのやつ、\nあんなところで何やってるんだ？
 \n
-Oi, what in blazes is Red doin' out\n
-here?!
+Oi, what in blazes is Red\n
+doin' out here?!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nあいつ、メディスンマンの後を追いかけて\n忘却の海に出かけたんだ。
 \n
-Maybe he wants to see the medicine\n
-men, so he's makin' for Oceanum
+Maybe he wants to see\n
+the medicine men?
 <$0C>
-Oblivionis.
+If so, he's makin' for\n
+Oceanum Oblivionis.
 <$00>
 
 // Pos: 00002F75
@@ -296,26 +297,26 @@ Red:
 <$0D>
 //\nくそったれ！\nあの女は誰なんだ、あうあうあうあう…
 \n
-Hmph! Who was that woman? Grr,\n
-grr...
+Hmph! Who was that woman?\n
+Grr, grr...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nいきなり目の前から消えやがった！\n地球から来た女だろ、変な扉だ、\nその中に消えやがった！
 \n
-As soon as our eyes met, she left\n
-through a strange door and
+As soon as our eyes met, she\n
+left through a strange door.
 <$0C>
-disappeared!
+And then, the door disappeared!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nあああ、おじさんだ。\nそうだ、おじさんに建いない！
 \n
-...It was Uncle again! That's right, it\n
-was Uncle!
+...It was Uncle again!\n
+That's right, it was Uncle!
 <$00>
 
 // Pos: 0000305B
@@ -370,16 +371,16 @@ Little:
 <$0D>
 //\n自分の悪に耐えきれなかったんだ。
 \n
-He couldn't stand up to the evil within\n
-himself.
+He couldn't stand up to the\n
+evil within himself.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nさあ、急いでくれ。\n俺もああはなりたくないんだ。
 \n
-Come on, let's hurry. I don't want to\n
-end up like that either.
+Come on, let's hurry. I don't\n
+want to end up like that either.
 <$00>
 
 // Pos: 00003118
@@ -409,8 +410,8 @@ Little:
 <$0D>
 //\n鏡は嫌いだ、そうだ、見たくないぞ。
 \n
-I hate mirrors. I can't bear lookin' at\n
-'em.
+I hate mirrors.\n
+I can't bear lookin' at 'em.
 <$00>
 
 // Pos: 00003157
@@ -440,10 +441,10 @@ Little:
 <$0D>
 //\nお前もだろ、お前の中にも誰かがいるんだ、\nそうだそうだ！
 \n
-Oi, you're just like me! There's\n
-another you in there too. I just know
+Oi, you're just like me!
 <$0C>
-it!
+There's another you in\n
+there too. I just know it!
 <$1E>
 //裂
 裂
@@ -478,7 +479,7 @@ Spacer:
 //\n仲間！ 私の仲間がどうした？\nハプニングに巻き込まれたのか。
 \n
 Our companion? What did they do\n
-that's worth calling a "surprise"?
+that's worth shouting "surprise"?
 <$00>
 
 // Pos: 00003220
@@ -493,11 +494,11 @@ Noble Rock:
 <$0D>
 //\n大変なことだ、完全な善人になったやつがいる。\nホワイトイーグルが保護した。
 \n
-The greatest of happenings! One has\n
-become a wholly "good person"
+The greatest of happenings! Under\n
+the watchful eye of White Eagle...
 <$0C>
-under the watchful eye of White\n
-Eagle!
+...one of your companions has
+become a wholly "good person"!
 <$00>
 
 // Pos: 00003259
@@ -512,8 +513,8 @@ Spacer:
 <$0D>
 //\n善人… どこで見つかったんだ？
 \n
-A good person...? Where did you see\n
-them?
+A good person...?\n
+\nWhere did you see them?
 <$00>
 
 // Pos: 00003276
@@ -536,9 +537,10 @@ Noble Rock:
 //\n完全な善人は恐ろしく不安定だ、\nすぐ悪に憑かれる。
 \n
 But, wholly good people are\n
-dreadfully unstable. None are more
+dreadfully unstable.
 <$0C>
-vulnerable to evil's take.
+None are more vulnerable\n
+to evil's take.
 <$00>
 
 // Pos: 000032B9
@@ -577,16 +579,16 @@ Noble Rock:
 <$0D>
 //\nそうだ。\nそうなればまたハプニングだ。
 \n
-That is right. And we cannot afford\n
-another fall.
+That is right. And we cannot\n
+afford another fall.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
 //\n安定させるまでコロニーは立入禁止、\nロッジも立入禁止だ。
 \n
-Until things are stable, the colony is\n
-off limits, as is the lodge.
+Until things are stable, the colony\n
+is off limits, as is the lodge.
 <$00>
 
 // Pos: 00003354
@@ -601,8 +603,8 @@ Spacer:
 <$0D>
 //\n安定… 君たちの呪術を使うんだな。
 \n
-So, you're all using your magic to\n
-restore balance.
+So, you're all using your\n
+magic to restore balance.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -669,9 +671,8 @@ Yes, with bottles.
 Spacer:
 <$0D>
 //\nびんでイーブルマインドを\nシャットアウトするということか。
-\Oh. Shit, umm...do you\n
-mean you're putting Evil Mind inside\n
-of bottles? Or something?
+\Oh. Shit, umm... Do you mean\n
+you're bottling the purple gas?
 <$00>
 
 // Pos: 000033FC
@@ -686,8 +687,8 @@ Noble Rock:
 <$0D>
 //\nそうだ、びんに入れてな。
 \n
-Yes, we will bottle things up to keep\n
-them safe from Evil Mind.
+No. We will bottle things up to\n
+keep them safe from Evil Mind.
 <$00>
 
 // Pos: 00003416
@@ -726,8 +727,8 @@ April:
 <$0D>
 //\nねえ、ライカ、アガタってどう思う？
 \n
-Hey, Laika. What do you think of\n
-Agatha?
+Hey, Laika. What do\n
+you think of Agatha?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -735,17 +736,15 @@ April:
 //\n彼女は何かすごく重いものを\n背負ってるようだけど…
 \n
 From the way she carries herself,\n
-you'd think she'd be full of it, and
-<$0C>
-yet...
+you'd think she'd be full of it.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nもう少し話してみたいの。\n見てもらいたい物もあるし。
 \n
-I like talking to her. In fact, there's\n
-something I'd like to ask her now.
+But I like talking to her! In fact,\n
+there's something I wanted to ask her.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -783,29 +782,31 @@ engraving on the wall. Let me see...
 //\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
 \n
 There are tales of a woman who\n
-appears in mirrors at night. I dare
+appears in mirrors at night.
 <$0C>
-say, I've never seen her.
+I dare say, I've never seen her.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-If this woman lives in a mirror, I'd\n
-call her a mirror spirit, no different
+If this woman lives in a mirror,\n
+I'd call her a mirror spirit.
 <$0C>
-than Amanda.
+That means she's the same\n
+as Amanda.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n鏡から鏡へ旅を続けている。\nこのことは寝ずの研究ではっきりしたが、\nときに私はぼんやりし始める。
 \n
-I'd stay up to see if she too had the\n
-ability to travel from mirror to
+I'd stay up at night just to see her,\n
+but my memory of this is hazy.
 <$0C>
-mirror, but it gets hazy.
+Does she too have the ability to\n
+travel from mirror to mirror?
 <$00>
 
 // Pos: 000035AB
@@ -821,9 +822,7 @@ April:
 //\nどうしたの、カベに向かって…\nブツブツやってたけど…
 \n
 What are you doing? Mumbling at the\n
-wall like that isn't very attractive,
-<$0C>
-you know.
+wall like that isn't very attractive.
 <$00><$10><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -859,8 +858,8 @@ Thomas:
 <$0D>
 //\nアマンダは\n鏡の精で満足するような女ではないからだ。
 \n
-Amanda is not a woman who is\n
-satisfied with living as a mirror
+Amanda is not a woman satisfied\n
+with living as a mirror spirit.
 <$0C>
 spirit.
 <$0C><$0B>
@@ -870,19 +869,20 @@ Thomas:
 //\n彼女は完全な鏡、みにくい顔をそのまま映す鏡を\n求めている。 その鏡ができれば…
 \n
 She wants to create a perfect\n
-mirror. One so perfect, it could
+mirror.
 <$0C>
-reflect her face for everything it is.
+A mirror so perfect, it will reflect\n
+her face for everything it really is.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
 \n
-With such a mirror, the seas and\n
-lands of Mars might be reborn in her
+With such a mirror...
 <$0C>
-wicked image.
+...the seas and lands of Planet Mars
+might be reborn in her wicked image.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -890,9 +890,7 @@ Thomas:
 //\n私なりに、黙示録的な例えだ！
 \n
 (I dare say, I've come up with a sound\n
-little metaphor from Revelations
-<$0C>
-too!)
+little metaphor from Revelations too!)
 <$00>
 
 // Pos: 000036CD
@@ -907,10 +905,10 @@ Yolanda:
 <$0D>
 //\n道理でねぇ… ここの人たちは鏡が怖いのね。\nありのままを見たくないのね。
 \n
-No wonder everyone here's\n
-piss-scared of mirrors. They don't
+No wonder everyone else here's\n
+piss-scared of mirrors.
 <$0C>
-want to see the truth.
+They don't want to see the truth.
 <$00>
 
 // Pos: 00003701
@@ -924,10 +922,8 @@ want to see the truth.
 <$0D>
 //\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
 \n
-I thought I saw someone, although, I\n
-don't know how to describe it with
-<$0C>
-certainty.
+I thought I saw someone, although,\n
+I don't know how to describe them.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -935,9 +931,9 @@ Thomas:
 //\nアマンダそっくりの女、\n私の夢の中に現れて消えた。
 \n
 There was a woman who looked\n
-precisely like Amanda. She faded in
+precisely like Amanda.
 <$0C>
-and out of my dream.
+She faded in and out of my dream.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -945,19 +941,17 @@ Thomas:
 //\nあっという間だった、あれはなんだったのか…\n私なりにうとうとしていて…
 \n
 It all happened so fast, I almost\n
-didn't notice. But...even then,
-<$0C>
-everything's hazy...
+didn't notice. Everything is hazy.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nあれは分身か、生まれ変わりの暗示なのか。\n私なりに混乱してきた。
 \n
-Was she an alter ego, or a hint at\n
-Amanda's reincarnation? I dare say,
+Was she an alter ego, or a hint\n
+at Amanda's reincarnation?
 <$0C>
-I am confused.
+I dare say, I am confused.
 <$00>
 
 // Pos: 000037B3
@@ -987,7 +981,7 @@ from what me and the guys are.
 <$0D>
 //\n問顆は心も欲しがるかということだ。\n
 \n
-What is Amanda searching for?\n
+What is Amanda searching for?
 
 <$0B>
 //トーマス：
@@ -1033,17 +1027,17 @@ Yolanda:
 <$0D>
 //\n体は…\nあれ？ なんて言ったっけ、用済み…
 \n
-A body? I understand that much, but\n
-what's this other bit...
+A body? I understand that much,\n
+but what's with this other bit...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
 \n
-How do you take someone's mind? I\n
-don't care what someone says, you
+How do you take someone's mind?
 <$0C>
-can't take a mind.
+I don't care what anyone says, you\n
+can't steal someone else's mind.
 <$00>
 

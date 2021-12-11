@@ -17,10 +17,10 @@ Thomas:
 <$0D>
 //\nあああ、あいつ、怖い目で私を見たんだ、\n言わせてもらうとそういうことだ。
 \n
-Oh, what scary eyes he looked at me\n
-with too! I've no words to describe
+Oh, what scary eyes he\n
+looked at me with too!
 <$0C>
-them!
+I've no words to describe them!
 <$1E>
 //理
 理
@@ -39,15 +39,15 @@ Thomas:
 //\nいわゆるあれだ、私なりの… おお？
 \n
 I sare say, I want to explore this\n
-so-called...hmm?
+so-called... Hmm?
 <$0C><$12><$0B><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n何だ、本格的だな、\nおおお、来る来る、来るぞ！
 \n
-Whatever it is, it's the real... Oh! It's\n
-coming! Something's coming!
+Whatever it is, it's the real...\n
+Oh! It's coming! Something's coming!
 <$00>
 
 // Pos: 000045D8
@@ -65,9 +65,9 @@ that all deeds may know reward.
 //終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
 The end is upon you! The end is upon\n
 you! The end of the world burns for\n
-you. Now, behold! This hour is upon
+you. Now, behold!
 <$0C>
-you!
+This hour is upon you!
 <$05><$0C>
 //\n
 \n
@@ -114,10 +114,10 @@ Neo-Universal Man:
 <$0D>
 //\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
 \n
-...leading me to Jeremiah. Leading\n
-me to sweet Death. To the deepest
+...leading me to Jeremiah.\n
+Leading me to sweet Death. 
 <$0C>
-depths of Death.
+To the deepest depths of Death.
 <$00>
 
 // Pos: 000046D8
@@ -140,10 +140,10 @@ White Eagle:
 <$0D>
 //\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
 \n
-It lays beyond the nightmares,\n
-beyond all falsehood in the Land of
+It waits beyond the nightmares,\n
+beyond all falsehood.
 <$0C>
-the Dead.
+It waits in the Land of the Dead.
 <$00>
 
 // Pos: 0000472D
@@ -158,18 +158,16 @@ White Eagle:
 <$0D>
 //\nいよいよじゃな、最後の試練じゃ。\nそれを乗り越えて、お前たちは…
 \n
-At last, you all must come together to\n
-overcome the final test.
+At last, you all must band together\n
+to overcome this final test.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nマコトの双子ならきっと奇跡を\n起こせるはずじゃ。
 \n
-But surely you will awaken this\n
-miracle, for you are the Twins of
-<$0C>
-Truth.
+I believe you will awaken a miracle,\n
+for you are the Twins of Truth.
 <$00>
 
 // Pos: 0000478B
@@ -221,8 +219,8 @@ Thomas:
 <$0D>
 //\nあああ、ここは悪夢なのか？\n私なりに、悪夢なのか。
 \n
-Ohh, is this a nightmare?! I dare say,\n
-I'm living a nightmare!
+Ohh, is this a nightmare?!\n
+I dare say, I'm living a nightmare!
 <$1E>
 //鋭
 鋭
@@ -240,9 +238,10 @@ Thomas:
 <$0D>
 //\n私なりに、私に近いことしか考えられなくなって\nきたんだ…近いこと、近く…よねー、\n近いことー、それだけでいいのよねー。
 \n
-I dare say, the more I think about\n
-things closer to me...all that matters
+I dare say, the more I think\n
+about things closer to me...
 <$0C>
+...all that matters\n
 is that they're close.
 <$1E>
 //理
@@ -264,7 +263,7 @@ Thomas:
 I've come to the conclusion that even\n
 those distant from us are close.
 <$0C>
-Distance is a lie!
+Distance is a construct!
 <$1E>
 //鋭
 鋭

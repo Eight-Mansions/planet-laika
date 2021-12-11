@@ -21,8 +21,8 @@ Olympia #2:
 //\nワタシはココロがミダれたのでしょうか。\nサンソヤのマエをトオりかかったとき、
 \n
 I SUSPECT MY HEART IS ON THE FRITZ.\n
-WHEN I PASSED BY THE OXYGEN
 <$0C>
+WHEN I PASSED BY THE OXYGEN\n
 DISPENSARY AFTER YOU...
 <$0C><$0B>
 //オリンピア２号：
@@ -30,8 +30,8 @@ Olympia #2:
 <$0D>
 //\nキュウにヘンなコトバがやってきました。\nワタシのココロがウけとめました。
 \n
-...I HEARD A STRANGE DIALOGUE, AND\n
-MY HEART STOPPED.
+...I HEARD A STRANGE DIALOGUE,\n
+AND MY HEART STOPPED.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -42,9 +42,7 @@ WOULD YOU LIKE TO HEAR WHAT THAT\n
 DIALOGUE WAS?
 <$1B>
 //。開いてみる\n開かない
-。Yes
-<$0C>
-No
+。Yes\nNo
 <$00><$17><$00>
 
 // Pos: 00001562
@@ -62,10 +60,10 @@ Olympia #2:
 <$0D>
 //\nエイプリル、だめよ、\nそれはカジロボットよ、\nテがヨゴれるからサワっちゃだめ。
 \n
-"APRIL, DON'T TALK TO THAT! THE\n
-ROBOT'S MADE FOR HOUSEWORK! DON'T
+"APRIL, DON'T TALK TO THAT!\n
+THE ROBOT'S MADE FOR HOUSEWORK!"
 <$0C>
-GET YOURSELF DIRTY."
+"DON'T GET YOURSELF DIRTY."
 <$00>
 
 // Pos: 00001599
@@ -84,9 +82,9 @@ Olympia #2:
 //\nカジとはスイジとかセンタクとかでしょうか。\nなんにしても、くたびれていますね。
 \n
 HOUSEWORK... DOES THAT MEAN\n
-COOKING, OR LAUNDRY? EITHER OR, IT
+COOKING, OR LAUNDRY?
 <$0C>
-IS EXHAUSTING.
+EITHER OR, IT IS EXHAUSTING.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -100,8 +98,8 @@ Olympia #2:
 <$0D>
 //\nままならないものですか。\nそれにしてもこのコエのヒトは、ダレですか。
 \n
-IS THAT ALL I AM GOOD FOR? IS THAT THE\n
-PURPOSE I WAS CREATED TO SERVE?
+IS THAT ALL I AM GOOD FOR? IS THAT\n
+THE PURPOSE I WAS CREATED TO SERVE?
 <$0C>
 WHO COULD SAY SUCH A THING?
 <$00>
@@ -137,8 +135,8 @@ Olympia #2:
 <$0D>
 //\nワタシはずっとカセイにおります。\nいろんなゴシュジンサマにツカえましたが、
 \n
-I HAVE ALWAYS BEEN ON MARS. I HAVE\n
-SERVED MANY MASTERS.
+I HAVE ALWAYS BEEN ON MARS.\n
+I HAVE SERVED MANY MASTERS.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -164,8 +162,8 @@ Olympia #2:
 <$0D>
 //\nナニか、あなたにしてあげられることが\nあるのです。
 \n
-STILL, THERE IS SOMETHING I CAN DO\n
-FOR YOU.
+STILL, THERE IS SOMETHING\n
+I CAN DO FOR YOU.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -190,8 +188,8 @@ Olympia #2:
 <$0D>
 //\nあーら、なんて、こんなコトバ、\nツカってみたいわ。
 \n
-I WANT TO TRY TALKING LIKE YOU. SEE?\n
-"####!"
+I WANT TO TRY TALKING LIKE YOU.\n
+SEE? "####!"
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -220,15 +218,15 @@ Olympia #2:
 WE CAN EAT OUT ON THE\n
 MOTHER####ING WEEKEND!
 <$0C>
-#### YEAH, LADIES, WE ARE LIVING\n
-THE GOOD LIFE!
+#### YEAH, LADIES, WE ARE\n
+LIVING THE GOOD LIFE!
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nねぇ、欲求不満なの。\nだからって、アタシにぶつけないでよ。
 \n
-Listen fucker, if you're on one or\n
+Listen dip, if you're on one or\n
 something, don't take it out on me.
 <$0C>
 Tsk, tsk.
@@ -241,17 +239,17 @@ Olympia #2:
 <$0D>
 //\nふん！ イエのことばかりでトシトルのよ、\nこのままオンナをワスれて、トシトルのよ、
 \n
-BUT I AM NOT! IT IS USE IT OR LOSE IT! WE\n
-HAVE TO USE FEMININITY OR WE WILL
+BUT I AM NOT! IT IS USE IT OR LOSE IT!\n
 <$0C>
-LOSE IT!
+WE HAVE TO USE FEMININITY\n
+OR WE WILL LOSE IT!
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nいまいましいわ！
 \n
-FOR ####'S SAKE, YOLANDA.
+TSK, TSK, YOLANDA.
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -265,10 +263,11 @@ Yolanda:
 <$0D>
 //\nアタシはね、死ぬまで女でいるのよ、\n忘れないのよ。
 \n
-I'm a woman, from now until the day\n
-I die! And I'll make sure NO ONE
+I'm a woman, from now\n
+until the day I die!
 <$0C>
-forgets it!
+And I'll make sure\n
+NO ONE forgets it!
 <$0C><$13>
 //（
 （
@@ -278,8 +277,8 @@ Olympia #2:
 <$0D>
 //\nよかったわ。\nあなたはツヨい、ワタシよりね。
 \n
-I AM GLAD! YOU ARE HEAD-STRONG, YOU\n
-KNOW? FAR HEAD-STRONGER THAN ME.
+I AM GLAD! YOU ARE HEAD-STRONG.\n
+FAR HEAD-STRONGER THAN ME.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -324,8 +323,8 @@ Olympia #2:
 <$0D>
 //\nワタシ、アンシン、\nあなた、オンナ、オンナ、オンナ。
 \n
-I, RELIEVED... YOU, WOMAN... WOMAN,\n
-WOMAN, WOMAN...
+I, RELIEVED... YOU, WOMAN...\n
+WOMAN, WOMAN, WOMAN...
 <$00>
 
 // Pos: 00001932
@@ -343,18 +342,18 @@ Olympia #2:
 <$0D>
 //\nワタシはジブンをワタシとヨびますが、\nオレと言うのはヘンですか？
 \n
-I AM REFERRED TO AS "IT". WOULD IT BE\n
-WEIRD IF I CHOSE TO SPEAK WITH A
+I AM REFERRED TO AS "IT". \n
 <$0C>
-MASCULINE TONE?
+WOULD IT BE WEIRD IF I CHOSE TO\n
+SPEAK WITH A MASCULINE TONE?
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n何ごちゃごちゃ言ってるんだ、\nどっちでもいいじゃねぇか。
 \n
-What are you talking about? Talk\n
-however you want to talk.
+What are you talking about?\n
+Talk however you want to talk.
 <$0C><$13>
 //（
 （
@@ -364,10 +363,10 @@ Olympia #2:
 <$0D>
 //\nタイクツだぜ、こんなところでよ、\nおい、おマエ、なんでオレをミるんだ？
 \n
-IT SURE IS BORING DOWN HERE. WHY\n
-ARE YOU STARING ME DOWN LIKE THAT,
+IT SURE IS BORING DOWN HERE.
 <$0C>
-HUH?
+WHY ARE YOU STARING ME DOWN
+LIKE THAT, HUH?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -425,10 +424,10 @@ Olympia #2:
 <$0D>
 //\nケンカはウっても、カっても、ソンするぜ。\nおマエはどうだ、ソンするタイプか、
 \n
-FIGHTS CAN EITHER SAVE TIME OR\n
-WASTE TIME. WHAT DOES FIGHTING DO
+FIGHTS CAN EITHER SAVE\n
+TIME, OR WASTE TIME.
 <$0C>
-FOR YOU?
+WHAT DOES FIGHTING DO FOR YOU?
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -454,9 +453,9 @@ Olympia #2:
 //\nオマえはソンしない、ケンカでソンしない、\nそういうことだ。
 \n
 IF YOU DO NOT WASTE TIME, YOUR\n
-FIGHTS WILL NOT WASTE TIME. THAT IS
+FIGHTS WILL NOT WASTE TIME.
 <$0C>
-HOW I SEE IT.
+THAT IS HOW I SEE IT.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -474,8 +473,8 @@ Olympia #2:
 <$0D>
 //\nソン、トク、ソン、トク、ケンカ。
 \n
-TO SAVE, OR TO WASTE... TO SAVE, OR TO\n
-WASTE...
+TO SAVE, OR TO WASTE...\n
+TO SAVE, OR TO WASTE...
 <$00>
 
 // Pos: 00001B2B
@@ -493,10 +492,10 @@ Olympia #2:
 <$0D>
 //\nカンガえてもみたまえ、\nキミたちニンゲンは、いやよしましょう。
 \n
-I WAS THINKING ABOUT YOU HUMANS,\n
-AND I HAD TO STOP MYSELF BEFORE I
+I WAS THINKING ABOUT YOU HUMANS.
 <$0C>
-WENT CRAZY.
+I HAD TO STOP MYSELF\n
+BEFORE I WENT CRAZY.
 <$0C><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -515,8 +514,8 @@ Olympia #2:
 //\nロボットにカンジョウがないというのは、\nムチにすぎる。
 \n
 ROBOTS DO NOT HAVE SENTIMENTS.\n
-THINKING ABOUT HUMANS WAS A
 <$0C>
+THINKING ABOUT HUMANS WAS A\n
 WASTE OF TIME.
 <$0C><$0B>
 //オリンピア２号：
@@ -532,10 +531,8 @@ Spacer:
 <$0D>
 //\n物に心が宿るというのか。\nそしてロボットにも…
 \n
-Makes sense. Everyone's got\n
-something on their minds, even you
-<$0C>
-robots.
+Makes sense. Everyone's got stuff\n
+on their minds, even you robots.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -553,10 +550,8 @@ Olympia #2:
 <$0D>
 //\nキンセイどころではない、\nメイオウセイからもコエがキこえる、
 \n
-THIS IS NO TIME FOR NUTS. RECENTLY, I\n
-HAVE BEEN HEARING VOICES FROM
-<$0C>
-PLUTO.
+THIS IS NO TIME FOR NUTS. I HAVE\n
+BEEN HEARING VOICES FROM PLUTO.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -571,10 +566,8 @@ Spacer:
 <$0D>
 //\n金星…君もサイコ系なのか、そうなのか？\nおかしくなったのか？
 \n
-Oh, like the Venusians? You must be a\n
-Psycho type too then. Crazy how that
-<$0C>
-works.
+Oh, like the Venusians? You must be\n
+a Psycho type too. Small world!
 <$0C><$13>
 //（
 （
@@ -584,10 +577,10 @@ Olympia #2:
 <$0D>
 //\nおかしいのはキミではないか、これでモトに\nモドれるか、ショウキになれるか。
 \n
-ARE YOU NOT CRAZY? HERE, MAYBE THIS\n
-WILL HELP YOU RETURN TO YOUR
+ARE YOU NOT CRAZY?
 <$0C>
-SENSES.
+HERE, MAYBE THIS WILL HELP\n
+YOU RETURN TO YOUR SENSES.
 <$00>
 
 // Pos: 00001CB8
@@ -605,8 +598,8 @@ Olympia #2:
 <$0D>
 //\nキンセイジンをシンじているのか、それなら\nキミのタイプはサイコにチガいない。
 \n
-IF YOU BELIEVE IN THE VENUSIANS, YOU\n
-ARE, WITHOUT A DOUBT, A PSYCHO
+IF YOU BELIEVE IN THE VENUSIANS,\n
+YOU ARE CERTAINLY A PSYCHO TYPE.
 <$0C>
 TYPE.
 <$0C><$13><$18><$0B>
@@ -626,8 +619,8 @@ Olympia #2:
 <$0D>
 //\nキンセイ、サイコ、\nおかしなこと、キンセイ、サイコ。
 \n
-VENUS, PSYCHO, CRAZY... VENUS,\n
-PSYCHO, CRAZY...
+VENUS, PSYCHO, CRAZY...\n
+VENUS, PSYCHO, CRAZY...
 <$00>
 
 // Pos: 00001D3B
@@ -642,8 +635,8 @@ Yolanda:
 <$0D>
 //\nねぇ、なんかちょうだいよ。\nくれるんでしょ？
 \n
-Hey, do you have anything for me? A\n
-little souvenir, perhaps?
+Hey, do you have anything for me?\n
+A little souvenir, perhaps?
 <$0C><$13>
 //（
 （
@@ -704,8 +697,9 @@ Olympia #2:
 //\nキサマにくれてやっても、ブタにシンジュだろ\nウマのミミになんとかだろ！
 \n
 ANYTHING I GIVE YOU IS A PEARL HORSE\n
-BEFORE A SWINE THAT WILL STILL
+BEFORE A SWINE.
 <$0C>
+AND YOU'RE THE SWINE WHO WOULD\n
 LOOK IT IN THE MOUTH!
 <$00>
 
@@ -746,8 +740,8 @@ Spacer:
 <$0D>
 //\n何か、持っているだろう。\n私の役に立つ物を。
 \n
-Hey, do you have anything useful for\n
-me?
+Hey, do you have anything\n
+useful for me?
 <$0C><$13>
 //（
 （
@@ -757,10 +751,8 @@ Olympia #2:
 <$0D>
 //\nあらゆるケンチからカンガえて、\nキミにはこれがいいだろう。
 \n
-NO, BUT YOU CAN TAKE THIS\n
-OPPORTUNITY TO SEE THE WORLD
-<$0C>
-THROUGH ANOTHER SET OF EYES.
+NO, BUT TAKE THIS OPPORTUNITY TO\n
+SEE THE WORLD THROUGH ANOTHER'S EYES.
 <$00>
 
 // Pos: 00001E96
@@ -786,10 +778,10 @@ Olympia #2:
 <$0D>
 //\nイマはこれだけ、ノチほどのタイミングを\nノがさないことだね。
 \n
-MY WHILE IS ALL I HAVE! I CANNOT\n
-AFFORD TO SHARE IT ALL THE DAMN
+MY WHILE IS ALL I HAVE!
 <$0C>
-TIME.
+I CANNOT AFFORD TO WORRY ABOUT\n
+YOURS ALL THE DAMN TIME.
 <$00>
 
 // Pos: 00001EE5
@@ -807,8 +799,8 @@ Olympia #2:
 <$0D>
 //\nワタシにヨウですか。ワタシはあなたには\nトクにヨウはありませんよ。
 \n
-IS THIS WHAT I THINK IT IS? SORRY, I\n
-DO NOT HAVE ANYTHING FOR YOU.
+IS THIS WHAT I THINK IT IS? SORRY,\n
+I DO NOT HAVE ANYTHING FOR YOU.
 <$00>
 
 // Pos: 00001F16
@@ -835,9 +827,9 @@ Olympia #2:
 //\nそれにくらべてニンゲンのヒトはタイヘンです\nみなさん、コワれていきますね。
 \n
 IN COMPARISON, HUMANS MAKE A\n
-MUCH HARDER TIME OF THIS. HUMANS
+MUCH HARDER TIME OF THIS.
 <$0C>
-BREAK EASILY.
+HUMANS BREAK EASILY.
 <$00>
 
 // Pos: 00001F77

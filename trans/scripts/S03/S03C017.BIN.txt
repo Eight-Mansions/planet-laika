@@ -25,14 +25,11 @@ Little:
 <$0D>
 //\nレッドのやつが見たのは幻覚かもな。\n見に行くのか？
 \n
-Red might've been seeing\n
-hallucinations, but...want to go
-<$0C>
-check?
+Red might've been seeing things,\n
+but... want to go check?
 <$1B>
 //（ちょっと行ってみる。\n今はよしておく。
-（Yes。\n
-No。
+（Yes。\nNo。
 <$00><$17><$00>
 
 // Pos: 000029A7
@@ -47,16 +44,16 @@ Little:
 <$0D>
 //\nなら俺はここで待ってる。早くしてくれよ。
 \n
-If you want, I'll wait here. Just make\n
-it quick.
+If you want, I'll wait here.\n
+Just make it quick.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n俺の行くところは忘却の海じゃない…\n夢に出てこなかったからな。
 \n
-I'm not going to Oceanum Oblivionis. I\n
-don't want my dreams to emerge.
+I'm not going to Oceanum Oblivionis.\n
+I don't want my dreams to emerge.
 <$00>
 
 // Pos: 000029F3
@@ -95,20 +92,20 @@ Little:
 <$0D>
 //\n記憶の谷で善人が見つかったそうだ。善人だ。\nもうじき戻ってくるだろう。
 \n
-Must mean a "good person" was seen\n
-in Valles Memoriae. Let's hope they
+Must mean a "good person"\n
+was seen in Valles Memoriae.
 <$0C>
-make it back soon.
+Let's hope they make it back soon.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n善人は危ないんだ、\nそうだ、すぐ悪にころんでしまうからな。
 \n
-Good people are dangerous, got it?\n
-The gooder they are, the harder they
+Good people are dangerous, got it?
 <$0C>
-fall before evil.
+The gooder they are,\n
+the harder they fall before evil.
 <$0C><$0B>
 //リトル：
 Little:
@@ -123,9 +120,9 @@ Little:
 //\nもういいのか。思い出にヒタれるやつは\nシアワせだ。\n俺にはそれができない。さあ、行こう。
 \n
 Had enough? Anyone who says\n
-memories don't affect 'em is a liar. It
+memories don't affect 'em is a liar.
 <$0C>
-ain't for me either. Come on.
+They ain't for me either. Come on.
 <$00>
 
 // Pos: 00002ADB
@@ -140,10 +137,10 @@ Little:
 <$0D>
 //\nおい、俺はのんびり屋じゃないんだ、\n急いでるんだ、そうだそうだ、\n俺には時間がない！
 \n
-Oi, I'm not some bum like you, got it?\n
-I've got things to do, and no time to do
+Oi, I'm not some bum like you, got it?
 <$0C>
-'em!
+I've got things to do,\n
+and no time to do 'em!
 <$00>
 
 // Pos: 00002B12
@@ -166,8 +163,8 @@ April:
 <$0D>
 //\n何かがはねるような音よ。\nでももう開こえない、気のせいね。
 \n
-I don't hear it anymore, so it must be\n
-my mind playing games.
+I don't hear it anymore,\n
+so it must be my mind playing games.
 <$00>
 
 // Pos: 00002B57
@@ -183,9 +180,7 @@ April:
 //\n同じような惑じね、ママの声も急に、\nふっと開こえては遠ざかるの。
 \n
 I heard my mom's voice all of a\n
-sudden, and just as suddenly, it
-<$0C>
-faded away.
+sudden. It faded just as fast.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -215,10 +210,8 @@ Tommy:
 <$0D>
 //\nおかしなこともあるもんだ。\nぶつぶつ言いながら扉の中に消えたぞ。
 \n
-It was so weird, but he just mumbled\n
-some weird rhyme and disappeared
-<$0C>
-through the door.
+I saw him mumble some weird rhyme,\n
+and disappear through the door.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -233,7 +226,7 @@ Tommy:
 <$0D>
 //\n俺、こんなふうにしゃべったか？
 \n
-Hey, did I saw something weird?
+Hey, did I say something weird?
 <$1E>
 //声
 声
@@ -316,10 +309,8 @@ Tommy:
 <$0D>
 //\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
 \n
-That's the kind of stuff you hear\n
-about in those eyeball rumors,
-<$0C>
-a-yup.
+That's the stuff you hear about\n
+in those eyeball rumors, a-yup.
 <$00>
 
 // Pos: 00002CF7
@@ -435,18 +426,16 @@ Tommy:
 <$0D>
 //\nさっきぶつぶつ言いながら扉の中に消えたぞ。
 \n
-He just mumbled some weird rhyme\n
-and disappeared through the door.
+I saw him mumble some weird rhyme,\n
+and disappear through the door.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nあれは目ん玉とお話してたに建いない。\nそうだろ、あんた…
 \n
-That's the kind of stuff you hear\n
-about in those eyeball rumors,
-<$0C>
-a-yup.
+That's the stuff you hear about\n
+in those eyeball rumors, a-yup.
 <$00>
 
 // Pos: 00002E13
@@ -476,8 +465,8 @@ Tommy:
 <$0D>
 //\n怖いな、にらむんじゃないな…\n俺、こんなふうにしゃべったか？
 \n
-What a scary look... Hey, did I say\n
-something weird?
+What a scary look...\n
+Hey, did I say something weird?
 <$00>
 
 // Pos: 00002E52
@@ -492,7 +481,7 @@ Tommy:
 <$0D>
 //\nリトルはお話ししたんだ、\nようよう、そうだ、お話だ。
 \n
-Little was talking, a-yup. I saw it.
+Little heard talking, a-yup.
 <$00>
 
 // Pos: 00002E77
@@ -515,8 +504,8 @@ Spacer:
 <$0D>
 //\nここは…あの眼のある場所？
 \n
-Is this where I'm supposed to see\n
-that eyeball?
+Is this where I'm supposed\n
+to see that eyeball?
 <$00>
 
 // Pos: 00002EBC
@@ -532,8 +521,9 @@ April:
 //\nリトルは一度も表には出たことないんだって。\nアガタが教えてくれたよ。\n火星のことを憎んでるからなんだって。
 \n
 According to Agatha, Little hasn't\n
-come out even once. She says it's
+come out even once.
 <$0C>
-because he hates Mars.
+She says it's because\n
+he hates Mars.
 <$00>
 

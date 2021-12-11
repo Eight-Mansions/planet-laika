@@ -17,8 +17,8 @@ Marrakech:
 <$0D>
 //\nあああ、アタシがここにいるのは\nなんでかってことよね…
 \n
-Ah, how'd I get myself into this. Hell if\n
-I know...
+Ah, how'd I get myself into this.\n
+Hell if I know...
 <$00>
 
 // Pos: 00002678
@@ -72,10 +72,8 @@ Bull:
 <$0D>
 //\nはじめて会うやつなのにな…\n俺はブルだ。
 \n
-The name's Bull. I don't exactly care\n
-if this is the first time we've met or
-<$0C>
-not.
+The name's Bull. I don't care if\n
+this is the first we've met or not.
 <$0C><$0B>
 //ブル：
 Bull:
@@ -89,10 +87,10 @@ Bull:
 <$0D>
 //\n俺は落ち込むとすぐにここに来るんだ、\n催眠術で何もかも忘れることができるんだ。
 \n
-I come here the minute I start\n
-feeling depressed. The
+I come here the minute I\n
+start feeling depressed. 
 <$0C>
-hypnotherapy helps me forget.
+The hypnotherapy helps me forget.
 <$00>
 
 // Pos: 00002755
@@ -107,10 +105,10 @@ Bull:
 <$0D>
 //\nちくしょう！ 俺は何で俺なんだ？\nもうあきたぜ。アガタ、ここを開けてくれ。\n自分を忘れたいぜ！
 \n
-Why'd I have to be me, huh? Well, I'm\n
-here, Agatha! Open up! Let my forget
+Why'd I have to be me, huh? 
 <$0C>
-myself!
+Well, I'm here, Agatha! Open up!\n 
+Let my forget myself!
 <$00>
 
 // Pos: 0000278F
@@ -156,7 +154,7 @@ Bull:
 <$0D>
 //\n俺を差しおいて、アガタのやつ…\n俺も忘れたいことがあるんだ！
 \n
-I need to see Agatha. I've got stuff I'd\n
-rather forget too!
+I need to see Agatha. I've got stuff\n
+I'd rather forget too!
 <$00>
 

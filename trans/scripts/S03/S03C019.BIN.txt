@@ -17,8 +17,8 @@ Noble Rock:
 <$0D>
 //\nホワイトイーグルに会わなかったか、\nお前をさがしてた。
 \n
-Did you meet with White Eagle? He\n
-was looking for you.
+Did you meet with White Eagle?\n
+He was looking for you.
 <$00>
 
 // Pos: 000029B2
@@ -96,10 +96,11 @@ Noble Rock:
 <$0D>
 //\nああ、さっき見つかったお前のお仲間だがな、\nロッジは危ないので、避難させた。
 \n
-Ah! About "your" companion from\n
-earlier. The lodge was dangerous, so
+Ah! About "your" lost companion\n
+from earlier.
 <$0C>
-we evacuated them.
+The lodge was dangerous,\n
+ao we evacuated them.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -129,9 +130,7 @@ William:
 //\n預言を集めると実行者になれる、\nそうなんですね。
 \n
 He who collects the prophecies\n
-becomes the leading star. That's
-<$0C>
-right.
+becomes the leading star.
 <$00>
 
 // Pos: 00002B40

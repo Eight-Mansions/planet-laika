@@ -17,8 +17,8 @@ Madam Agatha:
 <$0D>
 //\nこまったわ。\n悪夢に入っていけないの。
 \n
-I'm in trouble. I can't enter the\n
-nightmares.
+I'm in trouble.\n
+I can't enter the nightmares.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -56,8 +56,8 @@ Madam Agatha:
 <$0D>
 //\nああ、その後は分からない。\n開き取れないの。
 \n
-I...wish I could figure out the rest. I\n
-can't hear it.
+I...wish I could figure out the rest.\n
+I can't hear it.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -65,7 +65,7 @@ Madam Agatha:
 //\nこれは預言じゃない？\nみんながうわさしてる預言…
 \n
 That's not a prophecy, is it? Like the\n
-ones everyone's talking about?
+ones everyone was talking about?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -121,10 +121,10 @@ Madam Agatha:
 <$0D>
 //\nとても集中力がいるから、あなたの持ち物を\n見てあげられなくなるわ。
 \n
-I'll have to concentrate, so I won't be\n
-able to look at anything else for you
+I'll have to concentrate. 
 <$0C>
-meanwhile.
+I won't be able to look at anything\n
+else for you in the meantime.
 <$00>
 
 // Pos: 00002B7A
@@ -139,10 +139,8 @@ Madam Agatha:
 <$0D>
 //\nもし、まだ見ていない物があったら\n言ってみて。
 \n
-Before I start, are there any last\n
-things you'd like me to look at for
-<$0C>
-you?
+Before I start, is there anything\n
+you'd like me to look at for you?
 <$1B>
 //？まだある\nもういい
 ？Yes\n
@@ -199,8 +197,8 @@ Madam Agatha:
 <$0D>
 //\nきっとあのエネルギーのせいね。\n大きなエネルギー…
 \n
-I'm sure it's that massive energy I\n
-sense coming from the Face.
+I'm sure it's that massive energy\n
+I sense coming from the Face.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -215,8 +213,8 @@ Madam Agatha:
 <$0D>
 //\nああ、ぐずぐずしてはいられない、\nもう一度つなげてみるわ。悪夢の世界に。
 \n
-For now, I must try connecting to the\n
-world of nightmares again.
+For now, I must try connecting to\n
+the world of nightmares again.
 <$1E>
 //理
 理
@@ -242,10 +240,8 @@ Madam Agatha:
 <$0D>
 //\n夢の中で手に入れたものは、\nそれを読み終わったら消えてなくなるのよ。
 \n
-The things you find in your dreams\n
-will disappear the moment I read
-<$0C>
-them.
+Objects you find in dreams will\n
+disappear the moment I read them.
 <$00>
 
 // Pos: 00002CFA
@@ -260,9 +256,9 @@ Madam Agatha:
 <$0D>
 //\nわかったわね、夢の中で手に入れたのものは\nはかないのよ。 消えてしまうわ。
 \n
-You understand, don't you? The\n
-things you find in your dreams only
+You understand, don't you? 
 <$0C>
+Things found in dreaming only\n
 fleet until they are gone.
 <$00>
 
@@ -278,10 +274,10 @@ Madam Agatha:
 <$0D>
 //\nあら、これも同じね。\n夢の中で手に入れたものとおなじ…\nはかないわ、消えてしまうわ。
 \n
-The things you find in your dreams,\n
-even this, only fleet until they are
+Things found in dreaming only\n
+fleet until they are gone.
 <$0C>
-gone.
+This is no exception.
 <$00>
 
 // Pos: 00002D6E
@@ -296,20 +292,18 @@ Spacer:
 <$0D>
 //\n物の記憶… はたして本当に物なのか？
 \n
-The things we remember... I\n
-suppose they do count as "things",
-<$0C>
-don't they.
+Memories? I suppose they do\n
+count as "objects", don't they.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nそれとも
 \n
-Otherwise, how would 
+Otherwise, how could 
 <$0F>
 //が落とした\n記憶のかけらなのか？
- be able to lose touch with them?
+\ndrop his so easily?
 <$00>
 
 // Pos: 00002DB5
@@ -324,20 +318,19 @@ Madam Agatha:
 <$0D>
 //\nこれは… ありふれたものなのかしら…\nあなたの役には立ちそうね。
 \n
-This is trite, perhaps, but I wonder if\n
-this came into your possession in
+This is trite to say, perhaps,\n
+but what if...
 <$0C>
-order to help you.
+... this fell into your hands\n
+because someone wanted to help?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n夢の中で何かを手に入れることもあるのよ。\nそういったものは、多くのことを\n教えてくれるのよ。
 \n
-The things you find in your dreams\n
-are often there to teach you
-<$0C>
-powerful lessons.
+Dreams, and things in them, often\n
+exist to teach us powerful lessons.
 <$00>
 
 // Pos: 00002E24
@@ -358,8 +351,8 @@ Madam Agatha:
 <$0D>
 //\n少女が見えるわ… かわいい少女…
 \n
-I see a young girl. A darling young\n
-girl...
+I see a young girl.\n
+A darling young girl...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

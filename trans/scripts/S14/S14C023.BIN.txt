@@ -80,9 +80,9 @@ that all deeds may know reward.
 //終わりが来る、終わりが来る、\n終わりの時がお前のために熱す。\n今や見よ、この時が来る。
 The end is upon you! The end is upon\n
 you! The end of the world burns for\n
-you. Now, behold! This hour is upon
+you. Now, behold!
 <$0C>
-you!
+This hour is upon you!
 <$05><$0C>
 //\n
 \n
@@ -130,10 +130,10 @@ Neo-Universal Man:
 <$0D>
 //\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
 \n
-...leading me to Jeremiah. Leading\n
-me to sweet Death. To the deepest
+...leading me to Jeremiah.\n
+Leading me to sweet Death. 
 <$0C>
-depths of Death.
+To the deepest depths of Death.
 <$00>
 
 // Pos: 00004132
@@ -156,10 +156,10 @@ White Eagle:
 <$0D>
 //\n悪夢の先じゃ。\nウソいつわりのない死の世界じゃ。
 \n
-It lays beyond the nightmares,\n
-beyond all falsehood, in the Land of
+It waits beyond the nightmares,\n
+beyond all falsehood.
 <$0C>
-the Dead.
+It waits the Land of the Dead.
 <$00>
 
 // Pos: 00004187
@@ -174,18 +174,16 @@ White Eagle:
 <$0D>
 //\nいよいよじゃな、最後の試練じゃ。\nそれを乗り越えて、お前たちは…
 \n
-At last, you all must come together to\n
-overcome this final test.
+At last, you all must band together\n
+to overcome this final test.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nマコトの双子ならきっと奇跡を\n起こせるはずじゃ。
 \n
-But I believe you will awaken a\n
-miracle, for you are the Twins of
-<$0C>
-Truth.
+I believe you will awaken a miracle,\n
+for you are the Twins of Truth.
 <$00>
 
 // Pos: 000041E5
@@ -216,8 +214,8 @@ White Eagle:
 <$0D>
 //\n試練はお前を強くしたのか、\nそれとも傷つけたのか…
 \n
-Did the trials make you stronger, or\n
-did they hurt you?
+Did the trials make you stronger,\n
+or did they break you down?
 <$00>
 
 // Pos: 00004247
@@ -232,8 +230,8 @@ Rummy:
 <$0D>
 //\nあれあれだな、僕を見る目が建うな…\n怖いな。
 \n
-Hey, hey, hey, what was that look\n
-for? It's scary, a-ha!
+Hey, hey, hey, what was that\n
+look for? It's scary, a-ha!
 <$1E>
 //理
 理
@@ -270,8 +268,8 @@ Sammy:
 <$0D>
 //\nだな、だな、だな…建うわ。
 \n
-Change, don't, change...don't... This\n
-doesn't feel right, a-nope.
+Change, don't, change...don't...\n
+This doesn't feel right, a-nope.
 <$1E>
 //行
 行
@@ -298,9 +296,7 @@ Sammy:
 //\nだからもう、あれこれかぎ回るの、\nよそうと思うの。
 \n
 As things are now, I feel it best we go\n
-and make whatever rounds we have
-<$0C>
-left.
+and make whatever rounds we have left.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -316,9 +312,7 @@ Sammy:
 //\nいや、もう怖いから、入らないわ。\nアタシを見失いそうになるのよ。
 \n
 That stuff is too scary for me now.\n
-I'm losing enough sight of myself as
-<$0C>
-it is.
+I've lost sight of myself as it is.
 <$1E>
 //中
 中

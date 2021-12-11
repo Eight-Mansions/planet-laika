@@ -254,8 +254,7 @@ WOULD YOU LIKE TO HEAR WHAT THAT\n
 DIALOGUE WAS?
 <$1B>
 //。開いてみる\n開かない
-。Yes\n
-No
+。Yes\nNo
 <$00><$17><$00>
 
 // Pos: 000027CB

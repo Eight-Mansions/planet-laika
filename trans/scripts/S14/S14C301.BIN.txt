@@ -37,8 +37,8 @@ CHARLIE SEES YOU.
 ぁほ
 <$1D><$00><$00><$00>
 //チャーリー、食べたい、ごちそう、\n食べたい。
-CHARLIE'S HUNGRY. FEED HUNGRY\n
-CHARLIE.
+CHARLIE'S HUNGRY.\n
+FEED HUNGRY CHARLIE.
 <$1A>
 //も
 も
@@ -57,8 +57,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS\n
-KNEW.
+CHARLIE KNEW.\n
+CHARLIE ALWAYS KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

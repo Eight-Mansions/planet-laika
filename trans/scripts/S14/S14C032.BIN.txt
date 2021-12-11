@@ -17,26 +17,25 @@ Linda:
 <$0D>
 //\nさっきさー、変なのがここ通ったよー。
 \n
-A while ago, a stranger passed\n
-through here. He looked like a
+A stranger passed\n
+through here a while ago.
 <$0C>
-mangled corpse.
+He looked like a mangled corpse.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n死人みたいな変なのがー、ロッジの方に\n行ったけど、途中で消えたのー。
-The stranger went towards\n
-the lodge, but disappeared along the\n
-way.
+The man went towards the lodge,\n
+but disappeared along the way.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nアタシ、幽霊でも見たのー？ 変？\n夢見てるみたいねー。
 \n
-Did I see a ghost? It's strange, no? I\n
-must have dreamed it.
+Did I see a ghost? It's strange, no?\n
+I must have dreamed it.
 <$00>
 
 // Pos: 00002B6B
@@ -83,28 +82,27 @@ Thomas:
 <$0D>
 //\nこれでも私なりの理解があってね、\n去来したイメージを思念に変えていたのだ。
 \n
-I dare say, after re-arranging the\n
-images entering my thoughts, I've a
+I dare say! After re-arranging the\n
+images entering my thoughts,
 <$0C>
-new genius discovery:
+I've a new genius discovery:\n
+everyone in the plaza is shaking.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nヤングも同じだろう、\nなかよし広場の手前でふるえていたぞ。
 \n
-Everyone in the plaza is shaking.\n
-We're all going through the same
-<$0C>
-thing Yang is.
+We're all going through the same\n
+thing Yang had.
 <$0C><$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\nあんたも見たか？\nあんな惑じだ。
 \n
-You've seen it too, right? Surely you\n
-sense it.
+You've seen it too, right?\n
+Surely you sense it.
 <$00>
 
 // Pos: 00002C39
@@ -120,8 +118,6 @@ Thomas:
 //\n私なりにね、\nからくりを理解してるわけだよ、うんうん。
 \n
 I dare say, I've come to understand\n
-the modus operendi at play here,
-<$0C>
-yes.
+the deus ex machina at play here.
 <$00>
 

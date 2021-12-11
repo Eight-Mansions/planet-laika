@@ -42,17 +42,17 @@ Gold:
 //\nお前らが来てからロクなことがねぇ。\nまたバチバチしてきたぜ、
 \n
 Nothing good's come out of you\n
-Earthlings showin' up. Blowin'
+Earthlings showin' up.
 <$0C>
-sparks wherever you go.
+Blowin' sparks wherever you go.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nおい、レッドのやつもいかれちまった、\nお前らのせいだ。
 \n
-Hmph, I bet it's your fault Red went\n
-crazy too.
+Hmph, I bet it's your fault\n
+Red blew a fuse too.
 <$00>
 
 // Pos: 0000267C
@@ -67,8 +67,8 @@ Gold:
 <$0D>
 //\nなんでだ？ おい、変だ、\n俺がもうひとりいるみたいだ…
 \n
-Gulp... I don't feel so good. It's like\n
-there's a...nother me...
+Gulp... I don't feel so good.\n
+It's like there's a...nother me...
 <$00>
 
 // Pos: 000026A2
@@ -95,10 +95,10 @@ Goldman:
 <$0D>
 //\nははは、バカめ。\n俺はゴールドマン、誰よりも強い。
 \n
-Heyyyy, tweaker! I'm Goldman, and\n
-I'm tougher than every last one of
+Heyyyy, tweaker! 
 <$0C>
-you!
+I'm Goldman, and I'm tougher\n
+than every last one of you!
 <$0C><$0B>
 //ゴールドマン：
 Goldman:

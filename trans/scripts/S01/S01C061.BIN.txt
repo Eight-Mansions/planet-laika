@@ -166,7 +166,7 @@ April:
 //\n彼らの協力が得られないと、\nちょっとやっかいよ。
 \n
 If we can't get along with\n
-everyone, this won't be an easy job.
+everyone, this won't be easy.
 <$00>
 
 // Pos: 0000367B
@@ -219,16 +219,16 @@ April:
 <$0D>
 //\nライカ、大丈夫よ。\nハッチを抜けて右よ。
 \n
-To your right, Laika. Take that hatch\n
-outside.
+Turn right after the hatch.\n
+That'll take you outside.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n自分のヘルメット、\n確かめてね。
 \n
-Make sure your helmet's on nice and\n
-tight before you do!
+Make sure your helmet's on nice\n
+and tight before you do!
 <$00>
 
 // Pos: 0000371E

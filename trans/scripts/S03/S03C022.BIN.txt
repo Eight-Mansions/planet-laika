@@ -33,8 +33,8 @@ April:
 <$0D>
 //\n誰？\n誰か呼んだ？
 \n
-Hello? Is anyone there? Are you\n
-calling to us?
+Hello? Is anyone there?\n
+Are you calling to us?
 <$00>
 
 // Pos: 00001087
@@ -80,8 +80,8 @@ April:
 <$0D>
 //\nいいわ、何でもない… 行きましょ、\nこの先にある黒いカベのところがそうね。
 \n
-I guess it's nothing. Let's go. We have\n
-to reach the black wall.
+I guess it's nothing. Let's go.\n
+We have to reach the black wall.
 <$00>
 
 // Pos: 000010F3
@@ -112,15 +112,15 @@ April:
 <$0D>
 //\nそっちじゃないよ、ライカ。\n黒いカベはこの先よ。
 \n
-Not that way, Laika! The black wall is\n
-over here!
+Not that way, Laika!\n
+The black wall is over here!
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそっちは忘却の海よ。\n黒いカベってそっちじゃないよ。
 \n
-That's Oceanum Oblivionis. The black\n
-wall won't be there!
+That's Oceanum Oblivionis.\n
+The black wall won't be there!
 <$00>
 

@@ -20,8 +20,8 @@ Madam Agatha:
 Bad news, 
 <$0F>
 //！\nエイプリルよ、彼女も悪夢につかまってるの。
-! It's April. She's trapped in\n
-the nightmares too!
+! It's April.\n
+She's trapped in the nightmares too!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -44,8 +44,8 @@ Madam Agatha:
 <$0D>
 //\nあまり時間はないわ。\n悪夢の世界で何かが起きてるのよ。
 \n
-Something's going on there. We don't\n
-have much time!
+Something's going on there.\n
+We don't have much time!
 <$00>
 
 // Pos: 00001148
@@ -61,34 +61,34 @@ Madam Agatha:
 //\n悪夢の先に道が開ける…\nその道は奇跡に続く道…\n星が教えてくれたのよ。
 \n
 "Beyond the Land of Nightmares is\n
-path that opens into miracles."
+a path that opens into miracles."
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこの星は強い意志を持ち、\n新しい歴史を書き記そうとしているの。\n星には逆らえないのよ…
 \n
-The planet told me that. It has the\n
-willpower, a wish, to write a new
+The planet told me that.
 <$0C>
-history.
+It has the willpower, a wish,\n
+to write a new history.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n野心や欲では星の望みを\nかなえることはできないわ。\nなのに…
 \n
-We cannot fight the planet, nor can\n
-we expect it to side with our selfish
+We cannot fight the planet.
 <$0C>
-ambitions.
+Neither can we expect it to
+side with our selfish ambitions.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nわかって、
 \n
-Despite that, 
+Still, 
 <$0F>
 //。\nこの星の声に耳をかたむけるのよ。
 , you must open\n
@@ -123,16 +123,16 @@ Madam Agatha:
 <$0D>
 //\nエイプリルがいるのなら\nどこか他に入口があるはず。
 \n
-If April is in there, she must have\n
-found an entrance.
+If April is in there, she\n
+must have found an entrance.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nここからは入れないわ、\n何も見えなくなったの。
 \n
-I can't get to her from here. I can't\n
-see anything.
+I can't get to her from here.\n
+I can't see anything.
 <$00>
 
 // Pos: 000012D0

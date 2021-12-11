@@ -42,30 +42,33 @@ Captain Tatler:
 //\nガリル大佐は火星が秘めている\nよこしまな力に憑かれたのだ。
 \n
 Officials suspect Colonel Galil\n
-succumbed to something on Mars.
+fell victim to something on Mars.
 <$0C>
-Some kind of vile energy.
+Some kind of vile substance\n
+floating on the surface.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\nよほど強い意志の持ち主でない限り、\nあらぬ妄想にとらわれてしまうというぞ。
 \n
-When on Mars, we risk exposing\n
+When on Mars, we do risk exposing\n
 ourselves to said energy.
 <$0C>
-And with that miasma, we're\n
-likely to see hallucinations.
+Thanks to it, even we are\n
+subject to hallucinating.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n自分を見失ってしまうというぞ。
+\n
 Supposing Colonel Galil lacked\n
 a certain mental fortitude...
 <$0C>
-...it's no wonder he fell for
-such a bizarre fantasy.
+\n
+...it's no wonder he fell for\n
+whatever bizarre fantasy he saw.
 <$00>
 
 // Pos: 000033FB
@@ -95,7 +98,7 @@ Noon:
 <$0D>
 //\nクリスマスだっていうのに、\n妄想野郎のお相手か。
 \n
-Hell, I need fantasy too.
+Hell, I need fantasy too...
 <$0C>
 If I'm to believe this job's\n
 not a waste o' me damn time!
@@ -140,7 +143,7 @@ April:
 //\nサンプルを持ち帰って調べるのよ。\n地質学的な問顆だそうよ。
 \n
 I was called to extract and review\n
-samples in order to find out why.
+samples for further research.
 <$00>
 
 // Pos: 0000350A
@@ -235,7 +238,7 @@ Noon:
 \n
 Hah! Does Mars light up now?\n
 <$0C>
-Think Mars covered in bloomin'\n
+Think Mars is covered in bloomin'\n
 Christmas lights?
 <$00>
 
@@ -246,8 +249,7 @@ Christmas lights?
 #WHB(PTR, $00000649)
 
 //離 ただいま火星の軌道に入りました。\n
-離 THE PHOENIX IS NOW IN MARS'S\n
-ORBIT.\n
+離 THE PHOENIX IS NOW IN MARS'S ORBIT.\n
 
 <$0E><$0F>
 //ただいま火星の軌道に入りました。
@@ -266,8 +268,8 @@ Noon:
 <$0D>
 //\nいよいよだ、火星だ。\nそこのふたり、用意はいいのか？
 \n
-We're finally on Mars.\n
-Are you two up to the task?
+We're finally on Mars. Are you\n
+greenhorns up to the task?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -313,7 +315,7 @@ April:
 <$0D>
 //\n２度目よ。 前は人エ衛星の修理。\n私とはその時以来。
 \n
-No, Laika's done one artificial\n
+Captain, Laika's done one artificial\n
 satellite repair prior. I was there.
 <$00>
 
@@ -330,7 +332,7 @@ Captain Tatler:
 //\nふっ、人エ衛星の修理とはな。
 \n
 Artificial satellite, got it.\n
-Speaking of "artificial"...
+And speaking of "artificial"...
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -390,7 +392,7 @@ So, I'm sticking with Laika!
 #WHB(PTR, $00002F6D)
 
 //よろしいですか？
-Confirm name?
+Use this name?
 <$00><$00>
 
 // Pos: 0000378E
@@ -400,7 +402,7 @@ Confirm name?
 #WHB(PTR, $00002F71)
 
 //この名前は使えません
-This name won't work!
+Name denied!
 <$00><$00>
 
 // Pos: 0000379C

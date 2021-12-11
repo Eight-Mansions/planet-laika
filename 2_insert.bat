@@ -2,6 +2,8 @@ del error.txt
 del /q /s ins\*
 xcopy /e orig\* ins
 
+echo ins\S00\S00C000.BIN >> error.txt
+tools\atlas ins\S00\S00C000.BIN trans\scripts\S00\S00C000.BIN.txt >> error.txt
 echo ins\S01\S01C011.BIN >> error.txt
 tools\atlas ins\S01\S01C011.BIN trans\scripts\S01\S01C011.BIN.txt >> error.txt
 echo ins\S01\S01C013.BIN >> error.txt

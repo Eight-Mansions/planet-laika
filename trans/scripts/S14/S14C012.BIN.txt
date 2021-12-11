@@ -13,7 +13,7 @@
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター、
- WELCOME TO PRISON!\n
+ WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -41,9 +41,9 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO\n
-AN ADMINISTRATOR.
+ NOT REGISTERED FOR ENTRY.\n
+FOR DETAILS AND ASSISTANCE,\n
+SPEAK TO AN ADMINISTRATOR.
 <$00>
 
 // Pos: 00000EEC
@@ -58,8 +58,8 @@ Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
 \n
-Piece of junk. How am I supposed to\n
-register?
+Piece of junk. How am I\n
+supposed to register?
 <$00>
 
 // Pos: 00000F0F

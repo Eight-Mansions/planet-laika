@@ -17,8 +17,8 @@ Yolanda:
 <$0D>
 //\nあれは… バスルーム… タニアが、
 \n
-It's a bathroom. It's just like the one\n
-Tanya...
+It's a bathroom. It's\n
+just like the one Tanya...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -92,16 +92,15 @@ It IS Yolanda, right?
    
 <$0D>
 //この部屋に苦しみの権化がいるんだ、\n
-The incarnation of
+Expel the incarnation\n
 <$0C>
-suffering is in this room.\n
 
 <$0B>
 //     
      
 <$0D>
 //そいつを取り除くんだ。
-You have to remove it.
+of suffering is in this room.
 <$00>
 
 // Pos: 00001B1A

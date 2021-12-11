@@ -24,7 +24,7 @@ Bull:
 <$0D>
 //\n広場からな、ぴゅーっと冷たいのが来るんだ。\nぴゅーっとな。
 \n
-The cold is coming from the plaza.\n
+The chill is coming from the plaza.\n
 Brrrrrrr!
 <$1E>
 //声
@@ -43,8 +43,8 @@ Bull:
 <$0D>
 //\nああ、また顔がひりひりしてきたぜ。\n何か変なもの、付いてないか、俺の顔に。
 \n
-Is there something on my face? It\n
-has this strange tingle.
+Is there something on my face?\n
+It has this strange tingle.
 <$1E>
 //声
 声
@@ -54,8 +54,8 @@ Bull:
 <$0D>
 //\nくそ、お顔がひりひりだ？お顔だと？\nおい、お前、俺に変なこと言ったか？
 \n
-What, is it my face? What the heck do\n
-you mean by that?
+What, is it my face? What \n
+the heck do you mean by that?
 <$00><$10><$0B>
 //ブル：
 Bull:
@@ -97,8 +97,8 @@ CHARLIE SEES YOU.
 ぁほ
 <$1D><$00><$00><$00>
 //チャーリー、食べたい、ごちそう、\n食べたい。
-CHARLIE'S HUNGRY. FEED HUNGRY\n
-CHARLIE.
+CHARLIE'S HUNGRY.\n
+FEED HUNGRY CHARLIE.
 <$1A>
 //も
 も
@@ -117,8 +117,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS\n
-KNEW.
+CHARLIE KNEW.\n
+CHARLIE ALWAYS KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

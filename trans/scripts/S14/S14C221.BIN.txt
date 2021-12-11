@@ -30,10 +30,8 @@ The item bag is full!
 <$0D>
 //\n分からないな、あんたがどんな夢を見てるのか。\n石ならそこだよ。
 \n
-I don't suppose I know what kind of\n
-dream you're having, but here's a
-<$0C>
-stone.
+I don't know what kind of dream\n
+you're having, but here's a stone.
 <$0E><$3C><$17><$00>
 
 // Pos: 00003483
@@ -47,9 +45,10 @@ stone.
 <$0D>
 //\n光る石だろ、それはね、火星人の心なんだよ。\n心は心でも、いい方の心さ。
 \n
-The glowing stones contain the mind\n
-of the Martians. Their good will had
+The glowing stones contain\n
+the mind of the Martians.
 <$0C>
+Their good will\n
 hardened like rocks.
 <$0C><$0B>
 //コスマス：
@@ -57,10 +56,8 @@ Cosmas:
 <$0D>
 //\n悪い方はイーブルマインドになったらしいから。\nいい心がかたまりになったんだ、\nそれが光る石の正体さ。
 \n
-In opposition to that, their ill will had\n
-since dispersed as the gaseous Evil
-<$0C>
-Mind.
+In opposition to that, their ill will\n
+blew away and became Evil Mind.
 <$00><$00><$11>
 //子コスマス：
 子Cosmas:
@@ -77,14 +74,11 @@ About the one called Galil...
 #WHB(PTR, $00000385)
 
 //離 消灯時間まであとわずかです。\n
-離 LIGHTS-OUT TIME WILL COME\n
-SHORTLY.\n
+離 LIGHTS-OUT TIME WILL COME SHORTLY.\n
 
 <$0E><$1E>
 //消灯時間まであとわずかです。
-LIGHTS-OUT TIME WILL COME
-<$0C>
-SHORTLY.
+LIGHTS-OUT TIME WILL COME SHORTLY.
 <$0E><$3C><$17><$00>
 
 // Pos: 00003544
@@ -133,6 +127,6 @@ It hurts... I can't breath!
 //エイプリル、私のものよ、\nあなたの全てが私のもの…\nさあ、もっと近くに来て。
 You are mine, April.\n
 You are all mine.\n
-That's right, come closer...
+That's right, come closer.
 <$0E><$D2><$17><$00>
 

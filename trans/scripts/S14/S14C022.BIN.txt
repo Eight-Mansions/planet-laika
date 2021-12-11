@@ -32,9 +32,7 @@ Veronica:
 //\nそしたらカベに埋まってる人のウデが\nのびてきて、人形を持っていったのよ。
 \n
 ...the guy buried in the cave wall\n
-reach out his arm and took the doll
-<$0C>
-away!
+reach out and took the doll away!
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -50,25 +48,25 @@ Veronica:
 //\n死の動機、死の動機って…\nねぇ、開いてる？
 \n
 They say, "Reason for\n
-dying...reason for dying..." Tell me,
+dying...reason for dying..."
 <$0C>
-do you hear it?
+Tell me, do you hear them?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\n分かってるの、\nまじない人形がダメだったら、
 \n
-Then you understand, don't you? If\n
-that cursed doll doesn't work,
+Then you understand, don't you?\n
+If that cursed doll doesn't work,
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\n合わされないのよ。\nそんなのイヤだ、絶対イヤだよ。
 \n
-I won't be able to integrate! I won't\n
-have that! I CAN'T have that!
+I won't be able to integrate!\n
+I won't have that! I CAN'T have that!
 <$00>
 
 // Pos: 00003C75
@@ -90,10 +88,11 @@ Veronica:
 <$0D>
 //\nどうしたの？ ねぇ、あんた、誰よ？\nさっきの人じゃないね。
 \n
-What's the matter... Wait. Who are\n
-you? You're not the Earthling I met
+What's the matter?\n
+...Wait.
 <$0C>
-earlier.
+Who are you? You're not the\n
+Earthling I met earlier.
 <$00>
 
 // Pos: 00003CBC
@@ -124,10 +123,10 @@ Veronica:
 <$0D>
 //\nいやよ！ 入れ替わらないで！\n勝手に持っていかないで、アタシの時間よ！
 \n
-NO! I don't want to change places!\n
-This is MY time! Don't take it away
+NO! I don't want to change places!
 <$0C>
-from me!
+This is MY time!\n
+Don't take it away from me!
 <$00>
 
 // Pos: 00003D2C
@@ -138,11 +137,11 @@ from me!
 
 <$12>
 //もうすぐよ、蕃判の鏡、完成は近いわ。\n真実の光でまやかしは消え去るの。
-The Mirror of Judgement is almost\n
-complete.\n
-Deception will burn before absolute
+The Mirror of Judgement\n
+is almost complete.
 <$0C>
-truth!
+Deception will burn before\n
+absolute truth!
 <$0C>
 //ふふふふ、私の勝利よ、
 Hohoho, I have won.
@@ -164,8 +163,8 @@ Veronica:
 <$0D>
 //\n引っ込んでてよ！ 残るのはアタシよ、\nあんたじゃない、アタシなのよ！
 \n
-Get back in there! I'M the one who's\n
-staying, not you! ME!
+Get back in there! I'M the one\n
+who is staying, not you! ME!
 <$00>
 
 // Pos: 00003DBD
@@ -180,8 +179,8 @@ Veronica:
 <$0D>
 //\n絶対にやらないから、\nアタシの時間なんだから。
 \n
-I definitely won't fall for that. This is\n
-MY time!
+I definitely won't fall for that.\n
+This is MY time!
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -197,9 +196,9 @@ Veronica:
 //\n分かるわ、強い力を惑じるもの。\nふふふ、試してみれば？
 \n
 I sense a strong power in you,\n
-understand. Hohoho, why don't you
+understand. 
 <$0C>
-try it out?
+Hohoho, why don't you try it out?
 <$00>
 
 // Pos: 00003E37
@@ -222,10 +221,11 @@ Veronica:
 <$0D>
 //\nおもしろいよ、思い通りだよ。\n命令するの、なんでもできるわ。
 \n
-It's funny. Precisely what I\n
-invisioned. I didn't have to pull any
+It's funny.\n
+Precisely what I invisioned. 
 <$0C>
-strings.
+I didn't have to pull\n
+any strings.
 <$00>
 
 // Pos: 00003E86
@@ -287,8 +287,8 @@ Mountain:
 <$0D>
 //\n超越したその先が見えた、見えた、見えた…
 \n
-I can see beyond the transcendant. I\n
-can see, I can see...
+I can see beyond the transcendant.\n
+I can see, I can see...
 <$00>
 
 // Pos: 00003F5C
@@ -318,9 +318,10 @@ reflecting! This is what I wanted!!
 Sparky:
 <$0D>
 //\n何か寒いわね…あら、初めての方？\n私はスパーキー、ちょっと派手ないいやつよ。
-nIt's kind of cold here. Oh,\n
-oops. Have we met? I'm Sparky. I\n
-don't bite.
+\nIt's kind of cold here...
+<$0C>
+Oops, have we met?\n
+I'm Sparky. Promise I don't bite.
 <$00>
 
 // Pos: 00003FCA
@@ -360,8 +361,8 @@ Sparky:
 //\nくんくん、ニオう、ウィリアムのニオい…\nどこ行ったのかしらウィリアムったら、\nいつもここがお気に入りなのにね。
 \n
 Sniff, sniff... I can smell William.\n
-Where would he have gone? I
+Where would he have gone?
 <$0C>
-thought he liked this spot.
+I thought he liked this spot...
 <$00>
 

@@ -17,8 +17,8 @@ April:
 <$0D>
 //\nそっちは忘却の海よ。\n黒いカベってそっちじゃないよ。
 \n
-That's Oceanum Oblivionis. The black\n
-wall won't be there!
+That's Oceanum Oblivionis.\n
+The black wall won't be there!
 <$00>
 
 // Pos: 00002516
@@ -53,8 +53,8 @@ April:
 <$0D>
 //\nここね。 合い言葉、何だっけ？
 \n
-Here we are! What was the password\n
-again?
+Here we are!\n
+What was the password again?
 <$00>
 
 // Pos: 00002562
@@ -71,10 +71,7 @@ again?
 3. O, Rose! Thou art sick!
 <$1B>
 //３１\n２\n３
-３１
-<$0C>
-２\n
-３
+３1\n2\n3
 <$00><$17><$00>
 
 // Pos: 000025AA
@@ -175,8 +172,8 @@ Yang:
 <$0D>
 //\nいきなり何だよ。
 \n
-You scared me, doing that! How did\n
-you open the door?!
+You scared me, doing that!\n
+How did you open the door?!
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -199,8 +196,8 @@ April:
 <$0D>
 //\n閉まってたわ。\nホワイトイーグルに教えてもらったのよ。
 \n
-We're sorry for scaring you. White\n
-Eagle told us your password.
+We're sorry for scaring you.\n
+White Eagle told us your password.
 <$00>
 
 // Pos: 000026AA
@@ -239,8 +236,8 @@ Yang:
 <$0D>
 //\n本当だ、\nちゃんと見てきたんだ、俺が見たんだ。
 \n
-It's true, I saw it. I saw it with my own\n
-eyes.
+It's true, I saw it.\n
+I saw it with my own eyes.
 <$00>
 
 // Pos: 0000273C
@@ -277,8 +274,8 @@ Yang:
 <$0D>
 //\nもうみんなコロニーには戻らない、\n行ってしまったんだよ！
 \n
-No one comes back to the colony, not\n
-if they go you-know-where!
+No one comes back to the colony,\n
+not if they go you-know-where!
 <$00>
 
 // Pos: 00002790
@@ -316,10 +313,8 @@ Yang:
 <$0D>
 //\nあっちの世界だ、あああ、\nみんなロボットみたいに変な話し方をする。
 \n
-The other world! Augh, everyone\n
-there talks so strangely. They're
-<$0C>
-robots!
+The other world! Everyone there\n
+talks so strangely. Like robots!
 <$00>
 
 // Pos: 000027D5
@@ -334,10 +329,8 @@ April:
 <$0D>
 //\nロボット？ ねぇ、ロボットって…\nお手伝いロボットか何かいるの？
 \n
-Robots? Like, actual robots? Does\n
-that mean there are helper robots
-<$0C>
-there, or...
+Robots, huh. I'm hope they're\n
+the "super helper robot" kind.
 <$00>
 
 // Pos: 00002802

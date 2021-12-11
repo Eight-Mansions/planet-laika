@@ -17,11 +17,10 @@ White Eagle:
 <$0D>
 //\nどうじゃ、心当たりはあるのかのう。\n預言を受け止めることのできる誰かじゃ。\nサイコなやつじゃ、どこにおる？
 \n
-Haww, we'll need to use a Psycho\n
-type whom can withstand the
+Haww, we'll need a Psycho type\n
+whom can withstand the prophecy.
 <$0C>
-prophecy. Do you know where any\n
-are?
+Do you know where any are?
 <$00>
 
 // Pos: 00001101
@@ -32,7 +31,7 @@ are?
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター、
- WELCOME TO PRISON!\n
+ WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -60,9 +59,9 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO\n
-AN ADMINISTRATOR.
+ NOT REGISTERED FOR ENTRY.\n
+FOR DETAILS AND ASSISTANCE,\n
+SPEAK TO AN ADMINISTRATOR.
 <$00>
 
 // Pos: 00001145
@@ -77,8 +76,8 @@ Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
 \n
-Piece of junk. How am I supposed to\n
-register?
+Piece of junk. How am I\n
+supposed to register?
 <$00>
 
 // Pos: 00001168

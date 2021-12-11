@@ -382,7 +382,7 @@ Commander October:
 <$0D>
 //\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
 \n
-See, "face-shaped creatures" on\n
+See, "face-shaped creatures"\n
 have reportedly appeared on Mars.
 <$0C>
 It has those currently living there\n
@@ -431,18 +431,18 @@ Captain Tatler:
 //\n地球化計画の再開で、\n火星に調査のためにやってきた。\nガリル大佐はそのときのリーダーだった。
 \n
 Now that colonization plans have\n
-resumed, we have one more job.
+resumed, that remains a loose end.
 <$0C>
-And that job is to find out what\n
-that "something" was.
+Our secondary job is to find out what\n
+happened to the vanguard unit.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n神は死んだ、光の私…
 \n
-In the last mission, the colonel\n
-wired in a bizarre final message.
+On the last mission, the colonel\n
+wired in a bizarre final message:
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -463,15 +463,15 @@ And THEN, shortly after all that,\n
 we got even more bad news.
 <$0C>
 Word started spreading that Mars\n
-is infested with monsters.
+got infested with monsters.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n我々はウワサの出所をさぐって、\n火星はなんでもない、
 \n
-The ISF has searched in vain for a\n
-soure to the rumor ever since. 
+The ISF searched in vain for a\n
+source to the rumor ever since. 
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:

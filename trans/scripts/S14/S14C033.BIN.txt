@@ -17,10 +17,8 @@ Sparky:
 <$0D>
 //\nなんか寒いの、すごく寒いの。\n広場の方から冷気が来るの、どうして？
 \n
-It got so much colder somehow. I\n
-think the chill is coming from the
-<$0C>
-plaza.
+The chill's much colder somehow.\n
+I think it's coming from the plaza.
 <$1E>
 //行
 行
@@ -39,9 +37,7 @@ Sparky:
 //\nときどきビリってくるのよ、電気よ。\n寝てるときにね、ビリビリ…\nベッドに電気なんか来てないのに。
 \n
 Sometimes, I get hit with this jolt\n
-when I'm asleep. But...my bed's not
-<$0C>
-static!
+when I sleep. My bed's not static!
 <$1E>
 //行
 行
@@ -59,10 +55,11 @@ Sparky:
 <$0D>
 //\n電気だわ？それから？\nああ、ハエの憎しみだ、そうだ！\n波動がゆらぎはじめたんだ！
 \n
-What happens next, huh? A spark of\n
-hatred, probably. The waves are on
+What happens next, huh?\n
+A spark of hatred, probably.
 <$0C>
-the fritz enough as is!
+The waves are on the\n
+fritz enough as is!
 <$1E>
 //行
 行
@@ -99,19 +96,17 @@ Sparky:
 //\nぼわんぼわんって、何？ 催眠術の音？
 \n
 What's that wub-wub-wub sound?\n
-Is that what hypnotherapy sounds
 <$0C>
-like?
+Is that what Agatha's\n
+hypnotherapy sounds like?
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>
 //\n建うのね、\nアガタが何か始めたんじゃないのね。
 \n
-That doesn't make sense, though.\n
-Agatha isn't in a session right now, is
-<$0C>
-she?
+But that doesn't make sense.\n
+She's not in a session now, is she?
 <$1E>
 //行
 行
