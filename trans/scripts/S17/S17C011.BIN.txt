@@ -164,7 +164,7 @@ not...April's mother, are you?
 #WHB(PTR, $00000511)
 
 //捨なたは私なのよ、エイプリル。\n私そのものなのよ。
-捨You are me, April. Me, my self.
+捨 You are me, April. Me, my self.
 <$00>
 
 // Pos: 00002CF5
@@ -258,8 +258,8 @@ Phoenix:
 <$0D>
 //\n鏡から生まれたというのは君なんだな。
 \n
-You forced yourself out from the\n
-mirror.
+You forced your self out from\n
+the mirror.
 <$00>
 
 // Pos: 00002DF1
@@ -300,7 +300,7 @@ Phoenix:
 //\nアマンダは鏡の精となり、\n君は鏡から生まれた…
 \n
 Amanda was a mirror spirit, so you\n
-pushed yourself out in her place.
+pushed your self out in her place.
 <$0C>
 That's how you were born.
 <$0C><$0B>

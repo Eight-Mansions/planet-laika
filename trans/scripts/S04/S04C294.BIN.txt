@@ -17,10 +17,8 @@ Feng:
 <$0D>
 //\nあら、あなたね、酸索屋に出入りしてるのは。
 \n
-Ah, it's you, the one who was poking\n
-their nose around the oxygen
-<$0C>
-dispensary.
+Ah, it's you, the one poking\n
+around the oxygen dispensary.
 <$00>
 
 // Pos: 000020C5
@@ -35,10 +33,10 @@ Feng:
 <$0D>
 //\nねえ、私のお店をご案内するわ。\nあっ、私はフェイ、リャンハウスのフェイよ。
 \n
-Say, why don't I show you to my\n
-store? I'm Feng, owner of House
+Say, why don't I\n
+show you to my store?
 <$0C>
-Liang.
+I'm Feng, owner of House Liang.
 <$00>
 
 // Pos: 000020F6
@@ -70,8 +68,9 @@ Feng:
 //\n心のささやき…誰でもみんな同じよ。\nきれいになりたい、女らしく、男らしく、
 \n
 Everyone has that whisper of the\n
-heart! Whether it be feminine or
+heart!
 <$0C>
+Whether it be feminine or\n
 masculine...
 <$0C><$0B>
 //フェイ：
@@ -79,10 +78,10 @@ Feng:
 <$0D>
 //\nもっときれいになりたい。みんな同じなのよ。\n整形は心をきれいにする手段なのよ。分かる？
 \n
-...everyone desires beauty. So, why\n
-not let cosmetic surgery cleanse
+...everyone desires beauty. 
 <$0C>
-your mind?
+Come and see. Let cosmetic\n
+surgery cleanse your mind.
 <$1E>
 //中
 中
@@ -109,19 +108,18 @@ Madam Agatha:
 //\nヴェロニカは苦しみの世界に通じている…\n彼女の言うことには一貫性がないけど、
 \n
 Veronica is well-versed in the world\n
-of suffering, but what she says is
+of suffering. 
 <$0C>
-inconsistent.
+But, those verses, and everything\n
+else she says, is inconsistent.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nフェイよりも深くこの世界に参加しているの。\nこの星で起きていること、彼女が詳しいのよ。
 \n
-She wanders the land more than Feng\n
-does, and knows what is happening
-<$0C>
-on Mars.
+She wanders Mars more than Feng does,\n
+and knows what is happening here.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -162,8 +160,8 @@ Marrakech:
 <$0D>
 //\n変な人形使って、人のタマシイを\n出したり入れたりするのよ。 怖いのよ。
 \n
-They do it to put human spirits into\n
-strange dolls. Scary stuff!
+They do it to put human spirits\n
+into strange dolls. Scary stuff!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:

@@ -20,8 +20,7 @@ Tommy:
 Hey, do you want to hear about Red?
 <$1B>
 //、開きたい\n開きたくない
-、Yes\n
-No
+、Yes\nNo
 <$00><$17><$00>
 
 // Pos: 00000C9D
@@ -44,9 +43,9 @@ Tommy:
 //\nレッドのやつはなぁ、\nガキの頃に一緒に住んでたおじさんに\n可愛がられ過ぎたんだ。
 \n
 Back when Red was a kid, he used to\n
-live with an old guy who like,
+live with an old guy who like...
 <$0C>
-love-love-loved him.
+...love-love-loved him.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -54,19 +53,19 @@ Tommy:
 //\n本当だ、やつはガキの頃は別人みたいに\n美少年だったんだ、へっ、信じられねぇだろ？
 \n
 Believe it or not, but Red was a real\n
-pretty boy back in his day. Like, a
+pretty boy back in his day.
 <$0C>
-whole other person.
+I mean a whole other person.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nその美少年顔が災いの元だったんだ。
 \n
-But that pretty face he had before is\n
-the cause of what he's doing to that
+But, that pretty face he had before...\n
 <$0C>
-Cosmas kid now.
+...is the cause of what he's\n
+doing to that Cosmas kid now.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -74,39 +73,37 @@ Tommy:
 //\nやつはなんとか顔を変えようとしたんだ。\nそこんとこが、まだ知惠あるよな、\nコスマスのやつと建ってな。
 \n
 Red keeps changing Cosmas's face,\n
-but there was a problem: the new
+but there's always been problems.
 <$0C>
-face wasn't Cosmas's.
+Namely, none of the new\n
+faces are Cosmas's.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nで、レッドはこっそり整形屋に\n忍び込んで顔を切り刻んだんだ。\nそしたらどうなったと思う？
 \n
-But Red kept taking Cosmas in secret\n
-to get worked on anyways. Can you
-<$0C>
-guess why?
+But Red takes Cosmas in secret\n
+to get worked on anyways. Why?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nへへ、やつの顔は張りぼてだったんだよ。\nぼろぼろ崩れて、元の犬顔に戻っちまった。\n美少年なんてウソっぱちだったってわけさ。
 \n
-Because the human face was so\n
-superficial, the lie fell apart, and the
+Because, the new faces aren't\n
+Cosmas's. They're too superficial.
 <$0C>
-dog face re-emerged.
+The lie falls apart, and the\n
+dog face re-emerges every time.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nそれ以来、やつは頭の中に\nなにか電波みたいなもんを惑じるように\nなりやがったんだ。
 \n
-And after that, the guy started\n
-getting weird radio waves in his
-<$0C>
-head.
+That's when the guy started\n
+hearing radio waves in his head.
 <$00>
 
 // Pos: 00000E40
@@ -144,7 +141,7 @@ Tommy:
 <$0D>
 //\nはっ、兄ちゃんよう、\nこのへんもヤバイ惑じだな、
 \n
-My Tommy senses are tingling,\n
+My Tommy senses are Tommy-ing,\n
 comrade, and that's not a good thing.
 <$0C><$0B>
 //トミー：

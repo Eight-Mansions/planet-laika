@@ -17,8 +17,8 @@ Boomer:
 <$0D>
 //\nもう夜は来ねぇんじゃねえか、\n白い光が見えたぜ。
 \n
-Night won't come anymore, will it? I\n
-saw a white light...
+Night won't come anymore, will it?\n
+I saw a white light...
 <$1E>
 //声
 声
@@ -36,17 +36,17 @@ Boomer:
 <$0D>
 //\nやつらがやってくる。\nあああ、もうダメだ、やつらが来る、
 \n
-They're coming. Ohhh, no! No more!\n
-They're coming!
+They're coming. Ohhh, no!\n
+No more! They're coming!
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
 //\n黒い空から舞い降りて、\n鋭いかぎ爪ではらわたを切り裂くんだ、
 \n
-Raining down from the black sky,\n
-tearing through with their
+Raining down from the black sky!
 <$0C>
+Tearing through with their\n
 sword-like hooks!
 <$0C><$0B>
 //ブーマー：
@@ -55,7 +55,7 @@ Boomer:
 //\nあああ、俺が見た夢の通りだ、おんなじだ、\nあああ…
 \n
 This is just like the dreams I saw.\n
-Just like them! Ohhh...!
+Exactly like them! Ohhh...!
 <$1E>
 //声
 声
@@ -73,9 +73,9 @@ Little:
 <$0D>
 //\nいろいろあったな。\nそうだ、俺には分かってる、何もかもな。
 \n
-There's so much amiss, get it?\n
-Luckily, I know just about
+There's so much amiss, get it?
 <$0C>
+Luckily, I know just about\n
 everythin' and anythin'.
 <$0C><$0B>
 //リトル：
@@ -124,9 +124,7 @@ Little:
 //\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
 \n
 Goddammit, the voices only got\n
-worse and worse after you came
-<$0C>
-here.
+worse after you came here.
 <$0C><$0B>
 //リトル：
 Little:
@@ -134,17 +132,15 @@ Little:
 //\nうるさくってしょうがない…\nうるさ… あああ、くそっ！
 \n
 I can't get 'em to stop. They won't\n
-shut up, goddammit! They won't shut
-<$0C>
-up!
+shut up, goddammit! They won't!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n俺の頭の中にあるもの… くそったれ！\nぴょんぴょんしやがる。
 \n
-What's goin' on in my head? Ugh, it's\n
-all jumpin' back and forth...
+What's goin' on in my head? Ugh,\n
+it's all jumpin' back and forth...
 <$0C><$0B>
 //リトル：
 Little:
@@ -162,9 +158,8 @@ I can't shake 'em off.
 
 <$12><$0B><$0D>
 //あああ、用済み、\nそうさ、用済みの場所に行くんだ！
-Yes, I must go!\n
-To the place where I can serve my\n
-purpose!
+Yes, I must go! To the place\n
+where I can serve my purpose!
 <$00>
 
 // Pos: 00003078
@@ -210,8 +205,8 @@ Little:
 <$0D>
 //\n追い立てられるウサギの叫び声が人の脳から\n一本ずつ筋をひきちぎる…
 \n
-"Each outcry of the hunted hare. A\n
-fibre from the Brain does tear."
+"Each outcry of the hunted hare.\n
+A fibre from the Brain does tear."
 <$0C><$0B>
 //リトル：
 Little:
@@ -356,9 +351,7 @@ Little:
 //\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
 \n
 Goddammit, the voices only got\n
-worse and worse after you came
-<$0C>
-here.
+worse after you came here.
 <$0C><$0B>
 //リトル：
 Little:
@@ -366,9 +359,7 @@ Little:
 //\nうるさくってしょうがない…\nうるさ… あああ、くそっ！
 \n
 I can't get 'em to stop. They won't\n
-shut up, goddammit! They won't shut
-<$0C>
-up!
+shut up, goddammit! They won't!
 <$00>
 
 // Pos: 000032DC
@@ -379,9 +370,8 @@ up!
 
 <$12><$0B><$0D>
 //あああ、用済み、そうさ、\n用済みの場所に行くんだ！
-Yes, I must go!\n
-To the place where I can serve my\n
-purpose!
+Yes, I must go! To the place\n
+where I can serve my purpose!
 <$00>
 
 // Pos: 00003300
@@ -411,8 +401,8 @@ Little:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る…
 \n
-"To see a world in a Grain of Sand. And\n
-a Heaven in a Wild Flower."
+"To see a world in a Grain of Sand.\n
+And a Heaven in a Wild Flower."
 <$0C><$0B>
 //リトル：
 Little:
@@ -420,7 +410,7 @@ Little:
 //\n俺にも開こえてるんだ、ちゃんとな。\n終末の暗示を含んだ詩だ。
 \n
 I can hear it so well. It's a poem that\n
-hints of the end of times.
+hints of the End Times.
 <$0C><$0B>
 //リトル：
 Little:
@@ -428,9 +418,7 @@ Little:
 //\nこれで救われるのか？ ええ？ 建うだろ、\n必死になって逃げ場を用意してるだけだ。
 \n
 Will we be saved? Yes, or no? We've\n
-no choice to prepare as best as we
-<$0C>
-can.
+no choice to prepare all we can.
 <$00>
 
 // Pos: 000033AC
@@ -478,17 +466,15 @@ Little:
 //\n約束の場所に行くときれいさっぱり忘れられる、\nそうなんだろ。
 \n
 Once we can make it to the Promised\n
-Land, we can start on a fresh slate,
-<$0C>
-get it?
+Land, we can start fresh, get it?
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n悪夢だかなんだか知らないが、みんな\n昔のことだ、過去なんだ、そうだそうだ！
 \n
-I dunno if this is a nightmare, but our\n
-past selves'll be gone, get it?
+I dunno if this is a nightmare, but\n
+our past selves'll be gone, get it?
 <$0C><$0B>
 //リトル：
 Little:
@@ -496,13 +482,10 @@ Little:
 //\nいつまでも過去をのさばらせてると不幸になる、\nそうだろ。お前、用意はいいか？
 \n
 Keepin' 'em around too long won't\n
-make you any happier. So, are you
-<$0C>
-ready?
+make you any happier. You ready?
 <$1B>
 //。行こう\n待ってくれ
-。Yes\n
-No
+。Yes\nNo
 <$00><$17><$00>
 
 // Pos: 000034A5
@@ -548,8 +531,8 @@ Little:
 <$0D>
 //\n俺が行くのはコロニーの中じゃない、\n分かるだろ、表だ。
 \n
-Oi, I'm not goin' into the colony, got\n
-it? Outside!
+Oi, I'm not goin' into the colony,\n
+got it? Outside!
 <$00>
 
 // Pos: 000034E2
@@ -585,9 +568,7 @@ Little:
 //\n俺はお前ほど時間はないんだ。\n早くしてくれ、ここで待ってるからな。
 \n
 I don't have all the time in the world\n
-like you do! I'll wait here, but hurry
-<$0C>
-up!
+like you do! I'll wait here, so hurry!
 <$1E>
 //家
 家

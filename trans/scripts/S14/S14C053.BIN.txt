@@ -34,7 +34,7 @@ White Eagle:
 //\nいよいよお前の中で死が熟したのじゃな…
 \n
 In the end, Death finally sewed its\n
-seed within him.
+seed into him.
 <$00>
 
 // Pos: 00002933
@@ -74,8 +74,8 @@ White Eagle:
 //\nネオや、預言はどうなったのじゃ…\nここにおる者が受けるのか…
 \n
 What will Neo do with the prophecy?\n
-Is there not someone here who can
 <$0C>
+Is there not someone here who can\n
 withstand its words?
 <$00>
 
@@ -98,8 +98,8 @@ White Eagle:
 <$0D>
 //\nお前は、お前ではないな、\nさっきのお前ではない…
 \n
-It's you, isn't it? While you're not the\n
-you from before, it is you.
+It's you, isn't it? While you're not\n
+the you from before, it is you.
 <$00>
 
 // Pos: 000029F7
@@ -114,26 +114,24 @@ White Eagle:
 <$0D>
 //\nやはりそうじゃったか。 マコトの双子とは\nお前たちのことじゃったのか。
 \n
-I knew it! That means you two ARE the\n
-Twins of Truth!
+I knew it! That means you\n
+two ARE the Twins of Truth!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nひとりはココロとして、\nあとひとりはカラダとして存在しておる…
 \n
-One of you exists in the spirit, and the\n
-other exists in the flesh.
+One of you exists in the spirit,\n
+and the other exists in the flesh.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nココロとカラダが、それぞれに\nはじめの一歩を記すのじゃな。
 \n
-The finding of the spirit and the flesh\n
-marks the first step of this
-<$0C>
-communion.
+This communion will be marked by this\n
+acknowledgement of spirit and flesh.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -156,10 +154,8 @@ White Eagle:
 <$0D>
 //\nところで、お前は預言を理解するのか、\nそれができるのか？
 \n
-By the way, do you understand what\n
-the words of prophecy are capable
-<$0C>
-of?
+By the way, do you know what the\n
+words of prophecy are capable of?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -185,7 +181,7 @@ Neo-Universal Man:
 <$0D>
 //\n言葉を伝える人間をさがせ。\n私はそこに現れる。
 \n
-Find a human who can convey the\n
+Find a human who can bear the\n
 words, and I shall appear to them.
 <$0C><$12>
 //に
@@ -196,10 +192,8 @@ Neo-Universal Man:
 <$0D>
 //\n預言を理解する人間の前に、\nあああ、私は現れる。
 \n
-Only before a human who can\n
-withstand the prophecies shall I
-<$0C>
-appear.
+If there is a human who can bear\n
+the prophecy, and I shall come.
 <$00>
 
 // Pos: 00002B62
@@ -229,14 +223,14 @@ Ah, the darkness in me quickens.
 
 <$00><$13>
 //（お利口な諸君のことだ、\nここがどういう場所かすでに知ってるだろう。\nルールを守る限りにおいて、諸君は自由だ…
-（YOU'VE GOT A BRAIN. YOU KNOW\n
-WHAT TO DO. AS LONG AS YOU OBEY THE\n
-RULES, YOU ARE FREE.
+（YOU HAVE A BRAIN. YOU KNOW\n
+WHAT TO DO. AS LONG AS YOU\n
+OBEY THE RULES, YOU ARE FREE.
 <$0C>
 //あああ、昔を思い出すワン…\nあああ、犬だからといって、\nそんなことにはならない、普通に話すぞ。
-AH, JUST LIKE HOME, BARK... (OKAY,\n
-JUST BECAUSE I'M A "DOG" DOESN'T\n
-MEAN I HAVE TO TALK LIKE ONE.)
+AH, JUST LIKE HOME, BARK...\n
+(JUST BECAUSE I'M A DOG DOESN'T\n
+MEAN I HAVE TO TALK LIKE ONE!)
 <$00>
 
 // Pos: 00002C00
@@ -248,18 +242,18 @@ MEAN I HAVE TO TALK LIKE ONE.)
 
 <$00><$13>
 //（プリズン４、第四惑星の刑務所ということだ。\nしかしそれも昔の話、\n今となってはただのハキダメ…
-（PRISON 4 GOT ITS NAME FROM BEING\n
-A PRISON ON THE FOURTH PLANET. NOW,\n
-IT'S A TRASH HEAP.
+（PRISON 4 EARNED ITS NAME AS\n
+A PRISON ON THE FOURTH PLANET.\n
+NOW, IT'S A TRASH HEAP.
 <$0C>
 //そんなこと見りゃわかる。ここのやつらは\n好きこのんで火星に住み着いてる。\n地球より居心地がいいってわけだ。
-I CAN'T BLAME THE PEOPLE HERE. THEY\n
-SAY PLANET MARS IS MORE\n
-COMFORTABLE THAN PLANET EARTH.
+I CAN'T JUDGE RESIDENTS FOR\n
+SAYING PLANET MARS IS MORE\n
+THEIR HOME THAN PLANET EARTH.
 <$0C>
 //酒場もある、整形屋もある、だがそれだけだ。
-EVEN IF THERE'S LITTLE MORE THAN A\n
-BAR AND A PLASTIC SURGEON.
+(EVEN IF THERE'S LITTLE MORE THAN\n
+A BAR AND A PLASTIC SURGEON.)
 <$00>
 
 // Pos: 00002C97
@@ -271,12 +265,12 @@ BAR AND A PLASTIC SURGEON.
 
 <$00><$13>
 //（死刑がなくなって、お前たちは幸せか…
-（IS EVERYONE HERE HAPPY WITH THE\n
-DEATH PENALTY GONE?
+（DON'T TELL ME YOU'RE HAPPY THE\n
+DEATH PENALTY WAS ERADICATED...
 <$0C>
 //いーや、不幸だ！\nここで生きながらえるほど\n不幸なことはないぞ。
-NO, IT'S A NUISANCE! IT'S PERHAPS THE\n
-WORST PART ABOUT LIVING HERE!
+BUT IT'S AGONY! IT'S PERHAPS THE\n
+CRUELEST PART ABOUT LIVING HERE!
 <$00>
 
 // Pos: 00002CD6
@@ -288,24 +282,24 @@ WORST PART ABOUT LIVING HERE!
 
 <$00><$13>
 //（酒場の手前にある屋根の崩れた部屋あるだろう、\n昔は処刑室だったところだ。
-（IN FRONT OF THE BAR IS A FLAT WITH A\n
-COLLAPSED ROOF. IT USED TO BE AN\n
-EXECUTION CHAMBER.
+（IN FRONT OF THE BAR IS A FLAT\n
+WITH A COLLAPSED ROOF. IT USED\n
+TO BE AN EXECUTION CHAMBER.
 <$0C>
 //プリズン４では\n電気イスのチャーリーって名前だ。\nチャーリーは処刑が大好きなんだ。
-THE ELECTRIC CHAIR ONCE USED IN\n
-PRISON 4 WAS NAMED CHARLIE.\n
-CHARLIE LOVES THE DEATH PENALTHY.
+PRISON 4 USED A LARGE ELECTRIC\n
+CHAIR LOVINGLY NAMED CHARLIE.\n
+CHARLIE LOVED THE DEATH PENALTHY.
 <$0C>
 //処刑のある日にはコロニー中の電気が\nいつもより暗くなる。
-ON JUDGEMENT DAYS, THE COLONY'S\n
-POWER GRID WOULD GO DARKER THAN\n
-USUAL.
+ON EXECUTION DAY, THE\n
+COLONY'S POWER GRID OFTEN\n
+WENT DARKER THAN USUAL.
 <$0C>
 //チャーリーが電気を独り占めしてる、\nそんなウワサが広まったこともあるぞ。
-THERE ARE RUMORS THAT CHARLIE\n
-MONOPOLIZES THE COLONY'S\n
-ELECTRICITY ON PURPOSE.
+SOME RUMORS SAY CHARLIE\n
+MONOPOLIZED THE COLONY'S\n
+ELECTRICITY FOR HIS FUN.
 <$00>
 
 // Pos: 00002D86
@@ -318,8 +312,8 @@ ELECTRICITY ON PURPOSE.
 <$00><$13>
 //（火星は小さな星だ。\nしかしお前たちにとっては\nとてつもなくデカイ星だ、忘れるな。
 （DO NOT FORGET: MARS IS A VAST\n
-PLANET TO YOU, BUT A FLECK IN THE\n
-EYES OF THE UNIVERSE.
+PLANET TO YOU, BUT A FLECK\n
+IN THE EYES OF THE UNIVERSE.
 <$00>
 
 // Pos: 00002DB8
@@ -331,14 +325,14 @@ EYES OF THE UNIVERSE.
 
 <$00><$13>
 //（今は行けなくなったが、\n記憶の谷からさらに下った自我の谷にも\nコロニーがあったぞ。
-（THERE ONCE WAS A COLONY BEYOND\n
-VALLES MEMORIAE. IT IS NOW\n
-INACCESSIBLE.
+（THERE ONCE WAS A COLONY\n
+BEYOND VALLES MEMORIAE.\n
+IT IS NOW INACCESSIBLE.
 <$0C>
 //陰気くさいところだった。\nいつも霧におおわれていて、\nろくに前も見えない。
 IT WAS A GLOOMY PLACE, COATED IN\n
-FOG SO THICK, NONE COULD SEE IN FROM\n
-THE OUTSIDE.
+FOG SO THICK, NONE COULD PEER IN\n
+FROM THE OUTSIDE.
 <$0C>
 //ある朝、コロニー中が紫になってたらしい…\n夜のうちにイーブルマインドに\nのみこまれたんだ。
 THEN, ONE MORNING, ALL WENT\n
@@ -346,9 +340,9 @@ PURPLE, AND EVIL MIND SWALLOWED\n
 THE COLONY IN A SINGLE DAY.
 <$0C>
 //何人かはプリズン４までたどり着いたが…\nおかしくなってしまった。
-BY THE TIME THE FEW SURVIVORS WHO\n
-FLED ARRIVED TO PRISON 4, THEY HAD\n
-ALL GONE MAD.
+BY THE TIME THE FEW SURVIVORS\n
+WHO FLED ARRIVED TO PRISON 4,\n
+THEY HAD ALL GONE MAD.
 <$00>
 
 // Pos: 00002E6A
@@ -360,12 +354,12 @@ ALL GONE MAD.
 
 <$00><$13>
 //（お前たちがなにかを成しとげることなど、\n誰も期待しない。
-（NO ONE EXPECTS YOU TO ACCOMPLISH\n
-ANYTHING.
+（NO ONE EXPECTS YOU TO\n
+ACCOMPLISH ANYTHING. 
 <$0C>
 //この星でゆっくりくたばるだけだ。
-ALL YOU'LL DO ON THIS PLANET IS DIE A\n
-SLOW DEATH.
+ALL YOUR LOT WILL DO ON THIS\n
+PLANET IS DIE YOUR SLOW DEATHS.
 <$00>
 
 // Pos: 00002EA0
@@ -387,9 +381,9 @@ PROJECT OUTPOST. THEN, THE MINERS\n
 BEGAN TO HALLUCINATE.
 <$0C>
 //これはイーブルマインドのせいに建いないと、\n坑夫たちは特注のヘルメットを\nかぶるようになった。
-THAT'S WHEN MINERS BEGAN TO WEAR\n
-SPECIALLY-MADE HELMETS. EVIL MIND\n
-MUST HAVE BEEN TO BLAME.
+THAT'S WHEN MINERS BEGAN TO\n
+WEAR SPECIALLY-MADE HELMETS. \n
+EVIL MIND WAS THE CAUSE.
 <$00>
 
 // Pos: 00002F55
@@ -401,8 +395,8 @@ MUST HAVE BEEN TO BLAME.
 
 <$00><$13>
 //（変化！ 変化こそお前たちにとっては福音だ。\nだがプリズン４にとってはただの災いだ。
-（CHANGE! TO YOU, CHANGE IS GOSPEL,\n
-BUT IT WAS ONLY HELL FOR PRISON 4.
+（CHANGE! TO YOU, CHANGE IS HEAVEN,\n
+BUT TO PRISON 4, IT IS PURE HELL.
 <$00>
 
 // Pos: 00002F89
@@ -414,21 +408,21 @@ BUT IT WAS ONLY HELL FOR PRISON 4.
 
 <$00><$13>
 //（前に調査隊がやってきたのも１０年前だ。\nなんでも１０年前だな。\nそのときの隊長がガリルだ。
-（YOUR VANGUARD UNIT ARRIVED 10\n
-YEARS AGO. THE LEADER AT THE TIME\n
-WAS CAPTAIN GALIL.
+（YOUR VANGUARD UNIT ARRIVED TEN\n
+YEARS AGO. THE LEADER AT THE\n
+TIME WAS CAPTAIN GALIL.
 <$0C>
 //ガリルはイーブルマインドの存在を知り、\n深い興味を持った。\n兵器にでもするつもりだったのか…
-GALIL WAS DEEPLY INVESTED IN THE\n
-EXISTENCE OF EVIL MIND. IN\n
-HINDSIGHT, IT'S AS IF HE INTENDED TO
+GALIL WAS DEEPLY INTRIGUED BY\n
+THE EXISTENCE OF EVIL MIND.
 <$0C>
-WEAPONIZE IT.
+IN HINDSIGHT, IT'S AS IF HE\n
+INTENDED TO WEAPONIZE IT.
 <$0C>
 //イーブルマインドをさぐるうちに、とうに\n死んだ流刑者が残した預言に触れたらしい。\n世界の再生を語る預言だ。
 IN HIS SEARCH FOR EVIL MIND, HE MET\n
-WITH THE DEAD EXILE'S PROPECHY, THE\n
-PROPECHY OF WORLD REBIRTH.
+WITH THE DEAD EXILE'S PROPECHY, AND\n
+HEARD HIS WORDS OF WORLD REBIRTH.
 <$00>
 
 // Pos: 0000303C
@@ -440,13 +434,12 @@ PROPECHY OF WORLD REBIRTH.
 
 <$00><$13>
 //（お前たちは一人前だ…\nなぜなら息をしてるからだ！
-（YOU'RE ALL ONLY HUMAN. YOUR\n
-SHARED ABILITY TO BREATHE PROVES\n
-THAT!
+（YOU ARE ALL ONE IN YOUR FLESH.\n
+YOUR SHARED BREATHS ARE YOUR PROOF.
 <$0C>
 //自分の酸索くらいかせげ、\nさっさと石を集めに行け！
-IF YOU'D LIKE TO EARN THAT KEEP, GET\n
-OUT THERE AND GATHER THE STONES!
+TO EARN YOUR KEEPS, GET OUT\n
+THERE AND GATHER THE STONES!
 <$00>
 
 // Pos: 0000307A
@@ -459,18 +452,18 @@ OUT THERE AND GATHER THE STONES!
 <$00><$13>
 //（火星の酸索は酸索石によって供給されてる。\n酸索石を掘り出してミキサーにかけて、\nそれで酸索を取り出す。 簡単なことだ。
 （STONES, "OXYGENITE", SUPPLY MARS\n
-WITH OXYGEN. THE STONES ARE MINED\n
-SO THAT OXYGEN CAN EXTRACTED.
+WITH AIR. THE STONES ARE MINED,\n
+AND THE OXYGEN IS EXTRACTED.
 <$0C>
 //この１０年のあいだに、\n酸索は火星のほとんどに行き渡ったぞ。
 OVER THE LAST DECADE, THAT\n
-EXTRACTED OXYGEN HAS BLED OUT OVER\n
+EXTRACTED OXYGEN BLED OUT OVER\n
 MOST OF THE PLANET'S SURFACE.
 <$0C>
 //もうヘルメットはいらないんだ、\n星が生まれ変わったんだ。
-HELMETS ARE HARDLY A NECESSITY ANY\n
-MORE. IN THAT ONE WAY, THE PLANET\n
-HAS BEEN REBORN.
+HELMETS ARE NO LONGER NECESSITY.\n
+IN THAT ONE WAY, THE PLANET\n
+WAS REBORN.
 <$00>
 
 // Pos: 00003113
@@ -483,9 +476,8 @@ HAS BEEN REBORN.
 <$00><$13>
 //（迷いは苦悩の母だ。\n迷いから自由になれば真の存在となれるだろう。\n
 （HESITATION IS THE MOTHER OF\n
-SUFFERING. FREE YOURSELF, AND\n
-BECOME A TRUE EXISTENCE.
-<$0C>
+SUFFERING. FREE YOUR SELF,\n
+AND BECOME A TRUE EXISTENCE.
 <$00>
 
 // Pos: 00003142
@@ -499,7 +491,7 @@ BECOME A TRUE EXISTENCE.
 //（お前たちは葉っぱではない。\nただ散る日を待つ身ではない、\n自らの意志の元にあるのだ。
 （YOU ARE NOT LEAVES THAT FALL AT\n
 AUTUMN's BECKON. YOU MUST WILL\n
-YOURSELF TO FALL.
+YOUR SELF TO FALL.
 <$0C>
 //主体的であることこそが、お前たちを救う。\n生も死も、お前たちの手の内にあるのだ。
 INDEPENDENCE WILL SAVE YOU ALL.\n
@@ -507,8 +499,8 @@ YOUR LIVES AND DEATHS ARE IN YOUR\n
 HANDS.
 <$0C>
 //望め、望め、望むことで扉は開かれる。
-DESIRE. YOUR DESIRE. YOUR DESIRE IS\n
-WHAT WILL OPEN THAT DOOR.
+DESIRE. DESIRE.\n
+DESIRE WILL OPEN THAT DOOR.
 <$00>
 
 // Pos: 000031C2
@@ -520,8 +512,8 @@ WHAT WILL OPEN THAT DOOR.
 
 <$00><$13>
 //（肉体と精神は向き合っているのではない、\n肉体が精神を閉じ込めているのだ。
-（FLESH AND SOUL DO NOT REFLECT ONE\n
-ANOTHER. FLESH TRAPS THE SOUL.
+（FLESH AND SPIRIT DO NOT REFLECT ONE\n
+ANOTHER. FLESH TRAPS THE SPIRIT.
 <$00>
 
 // Pos: 000031F6
@@ -544,12 +536,12 @@ SPIRIT FROM EXPERIENCE.
 <$0C>
 //やがてすべては滅び、土に帰る。\nタマシイはそのときようやく解放されるのだ。
 EVENTUALLY, EVERYTHING WILL\n
-PERISH AND RETURN TO THE SOUL. THAT\n
-IS WHEN THE SPIRIT IS FREED.
+PERISH AND RETURN TO THE SOIL.\n
+THAT IS WHEN THE SPIRIT IS FREED.
 <$0C>
 //お前たちが不幸だとするなら、\nそれは何によってもたらされているか、\n考えても見るがいい。
-THINK ABOUT THE MISFORTUNE YOU\n
-BRING TO THE WORLD AND BEHOLD IT.
+REFLECT ON THE MISFORTUNE YOU\n
+BRING TO THE WORLD. BEHOLD IT.
 <$00>
 
 // Pos: 000032BD
@@ -561,9 +553,9 @@ BRING TO THE WORLD AND BEHOLD IT.
 
 <$00><$13>
 //（死は終わりではない、始まりなのだ。\n死を乗り越えた先をめざさねばならない。
-（DEATH IS NOT THE END, BUT THE\n
-BEGINNING. WE MUST ASCEND TO THE\n
-SUMMIT BEYOND DEATH.
+（DEATH IS NOT THE END,\n
+BUT THE MEANS. NOW, ASCEND\n
+TO THE SUMMIT BEYOND DEATH.
 <$00>
 
 // Pos: 000032ED
@@ -575,24 +567,24 @@ SUMMIT BEYOND DEATH.
 
 <$00><$13>
 //（生は始まりか？ そうだとするなら、\n苦悩の始まりといっておこう。
-（IS LIFE THE BEGINNING? IF YES,\n
-THEN IT WOULD BE THE SO-CALLED\n
+（IS LIFE THE BEGINNING?\n
+IF YES, IT IS THE SO-CALLED\n
 BEGINNING OF SUFFERING.
 <$0C>
 //死は終わりか、そうだとするなら、\n苦悩の終わりだ。
-IS DEATH THE END? IF SO, THEN IT\n
-WOULD BE THE END OF SUFFERING.
+IS DEATH THE END? IF YES,\n
+IT IS THE END OF SUFFERING.
 <$0C>
 //冬が終わり、永遠の春が来る、死の向こうに\nすべての始まりが待ちかまえているのだ。
-WINTER ENDS, WELCOMING ETERNAL\n
-SPRING. THE BEGINNING OF\n
-EVERYTHING WAITS ACROSS DEATH'S
+ETERNAL SPRING WAITS\n
+AT WINTER'S END.
 <$0C>
-THRESHOLD.
+THE BEGINNING OF EVERYTHING\n
+WAITS AT DEATH'S DOOR.
 <$0C>
 //そして、ようやく\nお前たちの出番がやってくるのだ。
-YOUR TURNS TO CROSS THAT THRESHOLD\n
-ARE COMING.
+YOUR TURNS TO CROSS THAT\n
+THRESHOLD ARE COMING.
 <$00>
 
 // Pos: 00003383
@@ -604,8 +596,8 @@ ARE COMING.
 
 <$00><$13>
 //（再生だ、再生の時だ。\n世界は喜びにあふれ、光が闇を消すだろう！
-（FIRST HE DIED! TIME AND AGAIN! THE\n
-WORLD WILL SWIM IN HIS JOY, AND\n
+（TIME AND AGAIN FOR REBIRTH!\n
+THE WORLD WILL GLOW IN HIS JOY.\n
 DARKNESS WILL BURN IN HIS LIGHT.
 <$00>
 
@@ -618,15 +610,16 @@ DARKNESS WILL BURN IN HIS LIGHT.
 
 <$00><$13>
 //（肉体をぬぎすてたとき、\nお前たちは自由になれる。
-（BURN THE FLESH, THAT YOU MAY\n
-KNOW FREEDOM.
+（BURN THE FLESH, THAT\n
+YOU MAY KNOW FREEDOM.
 <$0C>
 //死の向こうへ歩むとき、\n再生の喜びにむかえられる。
 CROSS DEATH'S THRESHOLD, THAT YOU\n
 MAY BE MET WITH JOY IN REBIRTH.
 <$0C>
 //光の私の完成は近い。
-I, IN MY LIGHT, FACE COMPLETION YET.
+I, THE LIGHT, FACE\n
+TOO MY OWN COMPLETION.
 <$0C>
 //私の言葉を開かぬ者は、\n再び苦しみの基で眠るがいい。
 THOSE WHO LISTEN NOT TO MY WORDS\n
@@ -643,12 +636,12 @@ WARM CRADLES OF SUFFERING.
 
 <$00><$13>
 //（あああ… 言葉はかなり忘れた。
-（AH, MAYHAPS MY WORDS ARE LONG\n
-FORGOTTEN.
+（AH, I FORGOT WHAT ELSE\n
+I WAS MEANING TO TELL YOU.
 <$0C>
 //昔のことだ、犬だからといって\nそんなことにはならないワン…
-IT WAS VERY LONG AGO, AND I DON'T\n
-MEAN THAT IN JUST DOG YEARS, BARK.
+I'VE BEEN AROUND FOR A LONG TIME,\n
+AND I'M NOT COUNTING DOG YEARS, BARK.
 <$0C>
 //もう話せないワン。
 I'M OUT OF THINGS TO SAY. BARK, BARK.

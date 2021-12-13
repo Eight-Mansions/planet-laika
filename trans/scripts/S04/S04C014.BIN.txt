@@ -317,7 +317,7 @@ There's no time!
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
- WELCOME TO PRISON!\n
+ WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -333,9 +333,9 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO\n
-AN ADMINISTRATOR.
+ NOT REGISTERED FOR ENTRY.\n
+FOR DETAILS AND ASSISTANCE,\n
+SPEAK TO AN ADMINISTRATOR.
 <$00>
 
 // Pos: 00002375
@@ -361,8 +361,8 @@ Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
 \n
-Piece of junk. How am I supposed to\n
-register?
+Piece of junk. How am I\n
+supposed to register?
 <$00>
 
 // Pos: 000023B1
@@ -408,8 +408,8 @@ Boomer:
 <$0D>
 //\n悪いな… だめなんだ。\n言われてるんだ、通せないんだ。
 \n
-Ohhh, I'm so sorry, but...ahhh, I can't\n
-let you through.
+Ohhh, I'm so sorry, but...\n
+Ahhh, I can't let you through.
 <$1E>
 //家
 家
@@ -426,24 +426,24 @@ Ernest:
 <$0D>
 //\nあんたに開きたいことがあるんだ…\n鏡だ、鏡のことだ。
 \n
-Can I ask you about mirrors? I've got\n
-a question about mirrors.
+Can I ask you about mirrors?\n
+I've got a question about yours.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nなんてったっけ、みんなが消える鏡…\n何のことだ？
 \n
-That talk about people vanishing into\n
-mirrors... What's that about?
+That talk about people vanishing\n
+through it... What's that about?
 <$00><$12><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nふふふ、蕃判の鏡のことね。どこで開いたの。\nなんだかうろ覚えのようね。
-nHoho, you've heard about the\n
-Mirror of Judgement? From where,\n
-pray tell?
+\n
+Hoho, you've heard about the\n
+Mirror of Judgement? Where from?\n
 <$00><$13><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -451,19 +451,17 @@ Ernest:
 //\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
 \n
 Does that matter? The people here\n
-just seem easily spooked by
-<$0C>
-mirrors.
+are all spooked by mirrors.
 <$00><$13><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nそうよ。見たくないのよ。\n鏡に自分の顔を映すと憎しみがわいてくるのよ。\n分かったでしょ、鏡は悪をはぐくむの。
 \n
-Indeed. When we show ourselves to\n
-the mirror, our evils reflect what no
+Indeed. Because they don't wish to\n
+see the hatred their faces project.
 <$0C>
-one wants to see.
+You see, mirrors cultivate evil.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -478,8 +476,8 @@ Ernest:
 <$0D>
 //\nへん！悪をはぐくむ鏡…\nそれをあんたが作ってるんだな。
 \n
-Heh, so mirrors cultivate evil? Is\n
-that why you made yours?
+Heh, so mirrors cultivate evil?\n
+Is that why you made yours?
 <$00><$12><$0B>
 //フェイ：
 Feng:
@@ -502,9 +500,10 @@ Feng:
 //\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
 \n
 A mirror spirit, and beauty\n
-incarnate. You can say she and I
+incarnate. 
 <$0C>
-are...kindred spirits, hoho.
+You can say she and I are\n
+kindred spirits, hoho.
 <$00><$12><$0B>
 //フェイ：
 Feng:
@@ -533,20 +532,21 @@ Spacer:
 <$0D>
 //\n鏡に自分を映すとそれだけで憎しみがふくらむ、\nそうじゃないのか。\n鏡が悪をはぐくむんじゃないのか。建うのか。
 \n
-Looking into the mirror only seems\n
-to stir hate. Was that mirror made to
+You know that looking into\n
+the mirror stirs hate.
 <$0C>
-nurture evil?
+Was that mirror made\n
+to harness evil?
 <$00><$13><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
 \n
-My, my! So, you do know. Indeed,\n
-when we let our inner evils destroy
+My, my! So, you knew.
 <$0C>
-the outer, we find Judgement.
+When our inner evils can destroy
+our outer, we find Judgement.
 <$00><$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -585,8 +585,8 @@ Feng:
 <$0D>
 //\nいずれ私のものとなるの、ふふふ。
 \n
-You can say she and I are...kindred\n
-spirits, hoho.
+You can say she and I are\n
+kindred spirits, hoho.
 <$00><$12><$0B>
 //フェイ：
 Feng:
@@ -600,8 +600,8 @@ Yolanda:
 <$0D>
 //\nねぇ、鏡って？\n開こえてたわよ、あんたが作ってるの？
 \n
-Maybe. Say, I heard you were making\n
-a mirror or something.
+Maybe. Say, I heard you were\n
+making some nifty mirror?.
 <$00><$13><$0B>
 //フェイ：
 Feng:
@@ -609,29 +609,27 @@ Feng:
 //\nあら、開こえてた？\nふふふ、蕃判の鏡のことね。\nそれはよかったわね。
 \n
 Oh, the Mirror of Judgement? So, you\n
-heard. But please, don't let that
-<$0C>
-scare you.
+heard, but don't let that scare you.
 <$00><$13><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nちょっと、はぐらかさないでよ。\nどうせインチキ鏡なんでしょ、\n実際よりきれいに見えたりするのよね。
 \n
-Aww, you worry to much. It's just a\n
-trick mirror anyways, right? One
+Aww, I'm not scared. I bet it's\n
+a trick mirror anyways, right?
 <$0C>
-that makes people prettier?
+One that makes people prettier?
 <$00><$13><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nきれいになんて見えないわ、そのままよ、\nそれが憎しみをはぐくむの、悪を育てるの。
 \n
-...It's not for seeing beauty. It's for\n
-nurturing one's hatred. Or rather,
+...It's not for seeing beauty.
 <$0C>
-one's inner evil.
+It's for projecting one's hatred.\n
+Or rather, one's inner evil.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -673,19 +671,18 @@ Feng:
 //\n鏡の精よ、ふふふふふふ。美の権化…\nいずれ私のものとなるの、ふふふ。
 \n
 A mirror spirit, and beauty\n
-incarnate. You can say she and I
+incarnate. 
 <$0C>
-are...kindred spirits, hoho.
+You can say she and I are\n
+kindred spirits, hoho.
 <$00><$12><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nマダム・アガタはまた催眠術の最中よ。\nこりないのよ…ほんとに…
 \n
-Agatha is so deep into\n
-hypnotherapy, I wouldn't dream of
-<$0C>
-stopping her!
+Agatha is so into hypnotherapy,\n
+I wouldn't dream of stopping her!
 <$1E>
 //〇
 〇

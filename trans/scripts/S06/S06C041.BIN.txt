@@ -17,10 +17,10 @@ Oxygen Miner 3：
 <$0D>
 //\n何だ、シーシー、人の家に勝手に…\nそっとしておいてくれないか。
 \n
-WhAt ArE yOU dOIng, ActIng lIkE yOU\n
-Own thE plAce. Why wOn't yOU lEAvE Us
+WhAt ArE yOU dOIng, ActIng\n
+lIkE yOU Own thE plAce?
 <$0C>
-AlOne?
+Why wOn't yOU lEAvE Us AlOne?
 <$00>
 
 // Pos: 000036C5
@@ -66,10 +66,8 @@ Yolanda:
 <$0D>
 //\nどうでもいいけど、\nそのシーシーってどういう意味？
 \n
-That's not important. So tell me, why\n
-do you say, "Whoosh, whoosh," so
-<$0C>
-much?
+That's not important. Why do you\n
+say, "Whoosh, whoosh," so much?
 <$00>
 
 // Pos: 00003732
@@ -84,8 +82,8 @@ Oxygen Miner 3：
 <$0D>
 //\nそんなこと、言ってない、シー。
 \n
-"WhOOsh, whOOsh?" I nEvEr sAId\n
-thAt, whOOsh.
+"WhOOsh, whOOsh?"\n
+I nEvEr sAId thAt, whOOsh.
 <$00>
 
 // Pos: 00003752
@@ -192,8 +190,8 @@ Yolanda:
 <$0D>
 //\nちょっと、人が開いてんのに、答えてよ！
 \n
-...Hey, we're in a pinch here. Can you\n
-give me an answer?
+...Hey, we're in a pinch here.\n
+Can you give me an answer?
 <$00>
 
 // Pos: 0000382B
@@ -364,10 +362,8 @@ Yolanda:
 <$0D>
 //\nどうでもいいけど、\nそのシーシーってどういう意味？
 \n
-That's not important. So tell me, why\n
-do you say, "Whoosh, whoosh," so
-<$0C>
-much?
+That's not important. Why do you\n
+say, "Whoosh, whoosh," so much?
 <$00>
 
 // Pos: 0000399F
@@ -446,9 +442,9 @@ Oxygen Miner 3：
 //\nまたか、人の家に！ 静かにいたいんだ、\nほっといてくれ、シーシーシー…
 \n
 AgAIn?! LEAvE OthEr pEOplE And thEIr\n
-prOpErty bE! SErIOsly, lEAvE Us AlOnE,
+prOpErty bE! SErIOsly, lEAvE Us AlOnE.
 <$0C>
-whOOsh, whOOsh...
+WhOOsh, whOOsh...
 <$00>
 
 // Pos: 00003A55
@@ -479,9 +475,9 @@ Yolanda:
 <$0D>
 //\nちょっとあんた、何やってんの？\nアタシたち、ここにいるよ。
 \n
-Why are you holding your door shut?\n
-It's rude to keep ladies waiting
+Why are you holding your door shut?
 <$0C>
+It's rude to keep ladies waiting\n
 outside!
 <$00>
 
@@ -543,8 +539,8 @@ April:
 <$0D>
 //\nここの人たち、疑っているのよ…\n私たちのことを…
 \n
-The people in this town... I don't think\n
-they trust us.
+The people in this town...\n
+I don't think they trust us.
 <$00>
 
 // Pos: 00003B07
@@ -625,10 +621,8 @@ Yolanda:
 <$0D>
 //\nそうね。ノックしてみる。\nレディな雰囲気でね。
 \n
-Oh, that's a good idea! That would be\n
-the most lady-like way to go about
-<$0C>
-this!
+Oh, that's a good idea! That would\n
+be the most lady-like way to go!
 <$00>
 
 // Pos: 00003BC0
@@ -674,8 +668,8 @@ Yolanda:
 <$0D>
 //\nねえ、そんなに怖がらないで。\nアタシは町長に会いに行くだけよ。
 \n
-Seriously, what's your damage? It's\n
-the elder I want, not you!
+Seriously, what's your damage?\n
+It's the elder I want, not you!
 <$00>
 
 // Pos: 00003C3A
@@ -706,8 +700,8 @@ Yolanda:
 <$0D>
 //\n出ていくわよ。\n町長屋敷にはどうやって行くの？
 \n
-Would it be lady-like if I said "no"?\n
-Which way is it to the elder's cottage?
+Faster than you can imagine. Which\n
+way is it to the elder's cottage?
 <$00>
 
 // Pos: 00003C84
@@ -722,10 +716,10 @@ Oxygen Miner 4：
 <$0D>
 //\nこの扉を抜けてまっすぐだ…\nこの扉を抜けないと着けないんだ。
 \n
-WaLK THRouGH THiS DooR. THe HouSe\n
-WoN'T aPPeaR iF You DoN'T CRoSS THe
+WaLK THRouGH THiS DooR. 
 <$0C>
-THReSHoLD.
+THe HouSe WoN'T aPPeaR iF\n
+You DoN'T CRoSS THe THReSHoLD.
 <$00>
 
 // Pos: 00003CB8
@@ -740,8 +734,8 @@ Yolanda:
 <$0D>
 //\nじゃあ、通してよ。早く！
 \n
-That's weird, but...okay! Now, let me\n
-through.
+That's weird, but...okay!\n
+Now, let me through.
 <$00>
 
 // Pos: 00003CD2
@@ -868,7 +862,8 @@ A mEssAgE?
 Oxygen Miner 3：
 <$0D>
 //\n建う、俺はそんな名前じゃない、シーシー。
-nOh, gUEss It's nOt fOr mE, whOOsh.
+\n
+Oh, gUEss It's nOt fOr mE, whOOsh.
 <$00>
 
 // Pos: 00003DAD
@@ -883,8 +878,8 @@ April:
 <$0D>
 //\n私たちにかな、メッセージ。
 \n
-Wouldn't it be funny if that message\n
-was for us?
+Wouldn't it be funny if that\n
+message was for us?
 <$00>
 
 // Pos: 00003DC5
@@ -931,8 +926,8 @@ Yolanda:
 <$0D>
 //\n何かメッセージ、来てない？
 \n
-Oh, oopsie-me. Didn't a message just\n
-come in?
+Oh, oopsie-me. Didn't a\n
+message just come in?
 <$00>
 
 // Pos: 00003E31
@@ -1099,9 +1094,10 @@ Yolanda:
 <$0D>
 //\nあーあーよ。新しい事実がどうのこうの…\nまたあの名前で呼んでたわ…アタシのこと…
 \n
-Ayyye, guess I'm a "new reality"\n
-now! Because NO ONE cares that I
+Ayyye, guess I'm a\n
+"new reality"...
 <$0C>
+Because NO ONE cares that I\n
 might have a name already!
 <$00>
 
@@ -1156,8 +1152,8 @@ April:
 <$0D>
 //\nここは変よ、\nウソの世界を見せられてるみたい…
 \n
-This place is insane. It's like a circus\n
-show made up of lies...
+This place is mad. It's like a circus\n
+show made up of trick mirrors...
 <$0C><$0B>
 //エイプリル：
 April:

@@ -25,17 +25,15 @@ Linda:
 //\nアタシだったら、そうねー、\nどっかそのへんに隠れるー。
 \n
 I'm right there with you. I often\n
-prefer staying a little out of the way.
+prefer ducking out of the limelight.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nちょっと身を隠すだけー、\nそのほうがおもしろいのよー。
 \n
-But only a little. The chance of getting\n
-caught is what makes hiding so
-<$0C>
-exciting!
+But only a little. It's the chance of\n
+caught that makes hiding such a thrill.
 <$1E>
 //行
 行
@@ -76,8 +74,8 @@ Oh, it's you again, from this morning.
 <$0C>
 //それにしちゃ変わってないじゃん、\nまだ犬じゃん。
 \n
-But you haven't changed a bit! You're\n
-still a dog.
+But you haven't changed a bit!\n
+You're still a dog!
 <$00><$10><$0B>
 //リンダ：
 Linda:
@@ -85,19 +83,18 @@ Linda:
 //\nあんた、建うのー、布使ったの。\nじゃあ誰の顔なのー…布に顔が浮き出てたわ。
 \n
 Is something different? Did you use\n
-the cloth? Well, who'se face was on
-<$0C>
-the cloth then?
+the cloth? Whose face was on it?
 <$0C>
 //あの布はね、完全な顔にかぶせると、その顔を\nはぎ取ることができるのよー、\n怖いわ、嫌だわ、汚いわ。
-I heard that putting that cloth on a\n
-perfect face causes it to tear off.\n
-Yikes! That's terrifying!
+I heard that putting that cloth on\n
+a perfect face causes the face to\n
+tear off. Talk about terrifying!
 <$0C>
 //欲張りすぎると顔が元に戻っちゃうのよー、\nほどほどで満足しないとね。
-It's a good warning to not get too\n
-greedy. Be happy with your\n
-progress or go back to square one.
+It's a good warning to take it slow.
+<$0C>
+Be happy with your progress,\n
+or risk going back to square one.
 <$00><$10><$0B>
 //リンダ：
 Linda:
@@ -105,25 +102,22 @@ Linda:
 //\nアタシもたまに考えるのよ、\nあの布でアマンダとかの顔をはぎ取ったら、
 \n
 At times, I wonder if Amanda's face\n
-was peeled off by that cloth.
+was ever peeled off by that cloth.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nどんな気分だろうかって。\n
 \n
-Do you think that's possible?\n
+I'm not sure if that's possible...\n
 
 <$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nこれって？？なのー？そうよねー、\n？？よねー。
-
-<$0C>
-But it could, right? Don't you think? I\n
-think so.\n
-...Right?
+But it could happen, don't you think?\n
+I mean, maybe...right?
 <$1E>
 //行
 行
@@ -133,8 +127,8 @@ Linda:
 <$0D>
 //\n抜けちゃったのよ、ポンと、\nあははは、音がしてポンと。
 \n
-How does it come off? Like, "Plop"?\n
-Ahahaha, plop!
+How does it come off?\n
+Like, "Plop"? Ahahaha, plop!
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -156,10 +150,8 @@ Linda:
 <$0D>
 //\nあー、もー、嫌よ、嫌。\nサイコちゃんに付き合ってたらひどいのよ、
 \n
-Ugh! Enough! I'm disgusted! I can't\n
-stand being around that little
-<$0C>
-Psycho.
+Ugh! Disgusting! I can't stand\n
+being around that little Psycho!
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -236,7 +228,7 @@ Linda:
 Pfft, I'm not talking about your\n
 name, I'm talking about your face!
 <$0C>
-Did you change?
+Did you change it from last time?
 <$00>
 
 // Pos: 000020AB
@@ -266,20 +258,21 @@ Linda:
 <$0D>
 //\nビミョーな問顆ね、すっごくビミョーよー\nでも、あんた頭良さそうねー、\n顔はそうでもないけどさ。
 \n
-That's a loaded question, yes. Very\n
-loaded, but you seem smarter than
+That's a loaded question.\n
+Yes, very loaded.
 <$0C>
-you look, so...
+But you have a wiser air\n
+about you now.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあいつらといい勝負？サイコハウスのやつらさ、\nいばってるよー、\n自分たちは特別だと思ってるしさー。
 \n
-Oh, who do you sound like? I'd say\n
-you'd fit in with those guys at Psycho
+Oh,  do you sound like... 
 <$0C>
-Lab.
+That's it. I think you'd fit in\n
+with those guys at Psycho Lab.
 <$00>
 
 // Pos: 0000213F
@@ -310,8 +303,8 @@ Linda:
 <$0D>
 //\n分からないねー、多分ねー、\n実験あきらめないねー。
 \n
-I'm not sure, but perhaps. I don't see\n
-why they'd give up now.
+I'm not sure. Probably.\n
+I don't see why they'd stop now.
 <$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -319,14 +312,14 @@ Spacer:
 //\nここの、リャンハウスのあるじはどうした？\n姿が見えないようだが。
 \n
 What happened to the director of\n
-House Liang? I can't seem to find her.
+House Liang? I can't find her.
 <$00><$10><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n出かけてるのよー…\n昨日の夜からいないのよ、変ねぇ。
 \n
-I've no idea. I hadn't been there since\n
+I've no idea. I hadn't gone there since\n
 last night. Very weird.
 <$00>
 
@@ -351,19 +344,20 @@ Linda:
 //\nあんたでしょー、リャンハウスで何やったのー、\nあの布で。 自分の整形？
 \n
 So, what were you doing with that\n
-cloth at House Liang? Were you
+cloth at House Liang?
 <$0C>
-performing surgery on yourself?!
+Were you performing\n
+surgery on your self?!
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n建うよねー、犬顔だものねー。\n汚い布が変なのー、光ってるのー。
 \n
-No, you still have a dogface. That\n
-dirty cloth had changed, though. It
+No, you still have a dogface.\n
+That dirty cloth had changed, though.
 <$0C>
-was shining.
+I remember. It lit up, and was shining.
 <$1E>
 //行
 行
@@ -381,8 +375,8 @@ Linda:
 <$0D>
 //\nあの布、光ってるのー。\n変よー、ぴかぴか光ってるのー。
 \n
-That dirty cloth had changed. It was\n
-shining.
+That dirty cloth had changed.\n
+It lit up, and was shining.
 <$1E>
 //中
 中
@@ -400,18 +394,15 @@ Linda:
 <$0D>
 //\nあの布、まだ変よー、光ってるよー。\nでもあんたには関係ないのね、
 \n
-That dirty cloth changed again. It's\n
-shining. Of course, you wouldn't
-<$0C>
-understand.
+That dirty cloth shined again.\n
+You wouldn't care about this, but...
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nそうなのねー。アタシさー、思い出したよ、\nアマンダよ。
 \n
-But I remember. It's like when\n
-Amanda was alive.
+...but it reminded me of Amanda.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -419,15 +410,15 @@ Linda:
 //\nアタシの頭の中でもやもやしてるの、\nアマンダよー。
 \n
 Perhaps it's a little fuzzy in my head,\n
-but I remember Amanda.
+but I remember Amanda's face.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nおっかしいねー、\n会ったこともないのにねー。
 \n
-That's perhaps the strangest part of\n
-it. In reality, I've never met her!
+That's perhaps the strangest part.\n
+See, in reality, I never met her!
 <$1E>
 //行
 行
@@ -445,10 +436,8 @@ Linda:
 <$0D>
 //\n頭の中でもやもやー、\nあんたもそんなことあるのー。\nねぇ、あんた、頭いい人なのー。
 \n
-You're head's probably fuzzy too,\n
-no? Then again, you're pretty
-<$0C>
-bright...
+I bet your head's hazy too.\n
+Then again, you're pretty bright.
 <$1E>
 //中
 中
@@ -466,8 +455,8 @@ Linda:
 <$0D>
 //\nなんかさー、あんたもー、同じ惑じよねー、\nサイコちゃんたちと。
 \n
-Then again, I suppose that's why\n
-you'd fit in with Psycho types.
+I think that's why you'd fit in\n
+with those other Psycho types.
 <$00>
 
 // Pos: 00002384
@@ -483,7 +472,7 @@ Spacer:
 //\n私に妙な思い込みはない、\n一緒にしないでくれ。
 \n
 D-don't get the wrong idea about me.\n
-I'm not going to join them!
+I'm not going to join Psycho Lab!
 <$00>
 
 // Pos: 000023AD
@@ -545,18 +534,16 @@ Linda:
 <$0D>
 //\nあんたちょっとアカ抜けたー？\nそれとも変わんないー？
 \n
-Spruced up a little, have you? Or have\n
-you not changed at all?
+You lose some of your spark?n
+Or are you still the same?
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nおネンネしたからなのー、そこでよー。\n消灯時間なんてねー、朝なのにー。
 \n
-That's what beddy-byes do for us.\n
-Even in the daytime, it's still,
-<$0C>
-"LIGHTS-OUT!"
+Beddy-byes help with that during\n
+lights-out time, even at daytime!
 <$1E>
 //行
 行
@@ -575,7 +562,7 @@ Linda:
 //\nねー、変ねー、夜じゃないのに\n消灯時間だなんてねー、なんだかねー。
 \n
 How weird. It's always lights-out\n
-time, feels like.
+time, even at daytime, feels like.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -617,9 +604,9 @@ Linda:
 //\n何の話かってー、布よー、布。\nヴェロニカの布、もう光ってないわー。
 \n
 Come on, you know what I'm talking\n
-about! The cloth! Veronica's cloth
+about! The cloth!
 <$0C>
-stopped shining!
+Veronica's cloth stopped shining!
 <$1E>
 //行
 行

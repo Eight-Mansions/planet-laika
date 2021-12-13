@@ -127,8 +127,8 @@ Yolanda:
 <$0D>
 //\nクロエちゃんね。\nねぇ、あなたとアタシは似てる、そう思う？
 \n
-So, Chloe! You and I must have a good\n
-deal in common!
+So, Chloe! You and I must\n
+have a good deal in common!
 <$00>
 
 // Pos: 00002D2B
@@ -229,9 +229,7 @@ Yolanda:
 //\nそういうところもそっくりねー。\n今はじゃあ誰と一緒なの？
 \n
 Oh, pssh-shah! A cute girl like you?\n
-Surely there was SOMEONE in your
-<$0C>
-life.
+Surely you had SOMEONE in your life.
 <$00>
 
 // Pos: 00002DF9
@@ -261,8 +259,8 @@ April:
 <$0D>
 //\nタトラーって… 船長？\nねえ、船長がいるの？
 \n
-Tatler? THE CAPTAIN? Wait, is the\n
-captain HERE?!
+Tatler? THE CAPTAIN?\n
+Wait, is the captain HERE?!
 <$00>
 
 // Pos: 00002E2F
@@ -277,8 +275,8 @@ Yolanda:
 <$0D>
 //\nふふ、いい人なの？\nそのタトラーって、あんたのいい人？
 \n
-Hmm. This Tatler sounds special. Was\n
-he your special someone?
+Hmm. This Tatler sounds special.\n
+Was he your special someone?
 <$00>
 
 // Pos: 00002E56
@@ -309,8 +307,8 @@ Yolanda:
 <$0D>
 //\nうーん、じれったいわね、\nあんたの彼氏なんでしょ？
 \n
-Jesus, this will take all day. Was he\n
-your boyfriend or what?!
+Jesus, this will take all day.\n
+Was he your boyfriend or what?!
 <$00>
 
 // Pos: 00002E90
@@ -341,8 +339,8 @@ Yolanda:
 <$0D>
 //\nなにぐずぐずしてるの。\n階段、のぼるのよ。
 \n
-What's keeping you? Come along, it's\n
-up the stairs with us!
+What's keeping you? Come along,\n
+it's up the stairs with us!
 <$00>
 
 // Pos: 00002EF5
@@ -378,8 +376,8 @@ Yolanda:
 <$0D>
 //\nそう。じゃあ、\nそのお友達のところに案内してよ。
 \n
-There! We! Go! Take us to where your\n
-"friend" is!
+There! We! Go! Take us to\n
+where your "friend" is!
 <$00>
 
 // Pos: 00002F0E
@@ -394,26 +392,26 @@ Yolanda:
 <$0D>
 //\nもう！ いい加減にしてよ。\n何度も名乗らせないで。アタシはヨランダ。
 \n
-Excu-zeh? Laika is NOT my name. It's\n
-Yolanda!
+Excu-zeh? Laika is NOT my name.\n
+It's Yolanda!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nせっかくのクリスマスだっていうのに、\n誰かのせいでこんなところでうろうろ…さ、
 \n
-Shame we can't have one Xmas\n
-without having to patch up
+Shame I can't have one Xmas\n
+without patching up love drama.
 <$0C>
-someone's old drama, but duty calls.
+Buuut duty calls!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n船長さんを連れ戻して帰るのよ。\nそれくらいアタシにだって！
 \n
-Let's rescue the captain. That's why I\n
-came out, after all.
+Let's rescue the captain.\n
+That's why I came out, after all.
 <$00>
 
 // Pos: 00002F9D
@@ -428,8 +426,8 @@ April:
 <$0D>
 //\nわかったわ、ヨランダね。\n私はエイプリル。
 \n
-Thank you, Yolanda. M-my name's\n
-April, by the way.
+Thank you, Yolanda.\n
+My name's April, by the way.
 <$00>
 
 // Pos: 00002FBD
@@ -473,8 +471,8 @@ Yolanda:
 <$0D>
 //\n人のせいにしないでちょうだい！ 階段よ。
 \n
-D-don't point fingers at me! Point at\n
-the stairs!
+D-don't point fingers at me!\n
+Point at the stairs!
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -505,8 +503,8 @@ Yolanda:
 <$0D>
 //\nさ、そこにある階段よ。\n船長さんが待ってるんでしょ。
 \n
-Look, the stairs are over there. The\n
-captain must be waiting for us.
+Look, the stairs are over there.\n
+The captain must be waiting for us.
 <$00><$12><$0B>
 //エイプリル：
 April:

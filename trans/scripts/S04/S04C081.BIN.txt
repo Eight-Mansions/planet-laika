@@ -65,8 +65,8 @@ It'll make you feel good.
 
 <$10>
 //なにをぐずぐずしてる。\nさあ、おいで。
-What are you waiting for? Get your\n
-ass over here!
+What are you waiting for?\n
+Get your ass over here!
 <$00>
 
 // Pos: 00001EF2
@@ -82,9 +82,7 @@ April:
 //\nさっきの子ね。\n無理に整形させられたのね…
 \n
 That's the little boy we saw! Is that\n
-man forcing cosmetic surgery on
-<$0C>
-him?!
+man forcing cosmetic surgery on him?!
 <$00>
 
 // Pos: 00001F17
@@ -106,12 +104,12 @@ It's time to dance!
 
 <$10>
 //もう寝るよ、\nおじさん、僕、眠いんだ。
-I'm going to bed now, Uncle. I'm\n
-sleepy.
+I'm going to bed now, Uncle.\n
+I'm sleepy.
 <$0C>
 //気分が乗ってるんだ、コスマス、\nおじさんは気分だぞ。
-Uncle's in the mood, Cosmas. Uncle's\n
-in the mood.
+But I'm in the mood, Cosmas.\n
+Uncle's in the mood.
 <$00>
 
 // Pos: 00001F57
@@ -149,18 +147,16 @@ April:
 <$0D>
 //\nあの子、なにかひどい目にあわされてるのよ。
 \n
-That poor boy. He's being treated so\n
-horribly. It's sickening.
+That poor boy. He's being treated\n
+so horribly. I feel sick.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nなのにみんな見て見ぬふりしてる…\nイヤなところね。
 \n
-Everyone seems to know what's\n
-going on too, but they all turn a blind
-<$0C>
-eye to it.
+Everyone seems to know what's going\n
+on too, yet they turn a blind eye.
 <$00>
 
 // Pos: 00001FCB
@@ -175,10 +171,8 @@ April:
 <$0D>
 //\nダンスの時間って？\nなんだかあの子、かわいそうね。
 \n
-"It's time to dance"? What's\n
-happening to the boy in there? I feel
-<$0C>
-so bad...
+"It's time to dance"?\n
+What'll happen to that boy?
 <$00>
 
 // Pos: 00001FF2
@@ -213,10 +207,8 @@ April:
 <$0D>
 //\nオートロックよ…さっきの暗証番号、\n覚えてる？ 入力してみない？
 \n
-That's the autolock to the lodge. Do\n
-you remember what PIN we were
-<$0C>
-supposed to enter?
+That's the autolock to the lodge.\n
+Do you remember the PIN?
 <$00>
 
 // Pos: 00002051
@@ -259,8 +251,8 @@ April:
 <$0D>
 //\n地球から来た…その…\n世界連盟の宇宙航空隊です…
 \n
-Eep! This is the International Space\n
-Force. We came here from Earth!
+Eep! Th-this is the International\n
+Space Force. We come from Earth!
 <$00>
 
 // Pos: 000020A6
@@ -287,8 +279,8 @@ April:
 <$0D>
 //\nメディスンマンの方にお会いしたくて…
 \n
-We're here to speak with the\n
-medicine men.
+We're here to speak with\n
+the medicine men.
 <$00>
 
 // Pos: 000020CD
@@ -316,9 +308,8 @@ April:
 //\n私たちは不時着して、\nそれでこのコロニーに来る途中で\n仲間とはぐれたんです。
 \n
 We had to make an emergency\n
-landing, but lost touch with our
-<$0C>
-companions.
+landing, then we lost touch\n
+with the rest of our crew.
 <$00>
 
 // Pos: 00002109
@@ -345,8 +336,8 @@ April:
 <$0D>
 //\n…マウンテンって人から開いたの、
 \n
-...A man named Mountain told us\n
-about you.
+...A man named Mountain told\n
+us about you.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -354,9 +345,7 @@ April:
 //\nあなたたちなら何か心当たりが\nあるんじゃないかって…
 \n
 He said if we met you, you'd possibly\n
-have an idea where our companions
-<$0C>
-disappeared to.
+have an idea where our crew went.
 <$00>
 
 // Pos: 0000215A
@@ -368,8 +357,8 @@ disappeared to.
 
 <$00>
 //マウンテン！？ あいつはインチキだ。\nあんなやつにたよってはいけない。
-Mountain?! That imposter! Don't\n
-listen to anything he says!
+Mountain?! That imposter!\n
+Don't listen to anything he says!
 <$00>
 
 // Pos: 0000217F
@@ -384,8 +373,8 @@ April:
 <$0D>
 //\nじゃあ、お願いします。
 \n
-Then you're the only ones we can\n
-count on!
+Then you're the only people\n
+here we can count on!
 <$00>
 
 // Pos: 00002196
@@ -412,9 +401,7 @@ April:
 <$0D>
 //\nこの扉から入るのね。\nホワイトイーグルってどんな人かなぁ？
 \n
-Let's go in through this door. I\n
-wonder what kind of person White
-<$0C>
-Eagle is.
+Let's go in through this door.\n
+I wonder what White Eagle is like.
 <$00>
 

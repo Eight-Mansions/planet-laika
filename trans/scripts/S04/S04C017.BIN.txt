@@ -21,13 +21,11 @@ Little:
 <$0D>
 //\n何だ、まだコロニーに用があるのか？
 \n
-Do you have any last business in the\n
-colony?
+Do you have any remaining\n
+business in the colony?
 <$1B>
 //※ちょっと戻ってみる\n今はよしておく
-※Yes
-<$0C>
-No
+※Yes\n No
 <$00><$17><$00>
 
 // Pos: 00002E40
@@ -50,8 +48,8 @@ Little:
 <$0D>
 //\nなら早くしてくれ。\n俺はここで待ってる。
 \n
-Just make it quick! I'll wait here for\n
-you.
+Just make it quick!\n
+I'll wait here for you.
 <$00>
 
 // Pos: 00002E5F
@@ -71,8 +69,7 @@ Little:
 //\nもういいだろ。\nふん、コロニーのやつら、蕃判のウワサを\n信じ始めたみたいだ…弱いやつらだ。
 \n
 Good. Everyone in the colony is\n
-crumblin' under the "Judgement"
-<$0C>
+crumblin' under the "Judgement"\n
 rumors, and it shows.
 <$00>
 
@@ -92,8 +89,8 @@ Little:
 <$0D>
 //\nさあ、行こう。\n俺の気が変わらないうちにな。
 \n
-All right, let's go before I change my\n
-mind.
+All right, let's go before\n
+I change my mind.
 <$00>
 
 // Pos: 00002EBB
@@ -108,8 +105,8 @@ Noble Rock:
 <$0D>
 //\nちょっとやっかいなことが起きた、\nここは通せない。
 \n
-Things are a little unstable here. We\n
-cannot let you pass.
+Things are a little unstable here.\n
+We cannot let you pass.
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:
@@ -117,9 +114,8 @@ Noble Rock:
 //\n今、ホワイトイーグルがいろいろやってる\n最中だ。\nお前に話してもムダかも知れないぞ。
 \n
 White Eagle is in the middle of\n
-something now. There is nothing to
-<$0C>
-discuss.
+something now. There is nothing\n
+to discuss.
 <$00>
 
 // Pos: 00002F1E
@@ -134,8 +130,8 @@ Noble Rock:
 <$0D>
 //\nやっかいなことだ。\nちょっと難しい話だ。
 \n
-This area is off limits. Divert your\n
-attention to elsewhere.
+This area is off limits.\n
+Divert your attention elsewhere.
 <$00>
 
 // Pos: 00002F41
@@ -158,8 +154,8 @@ Noble Rock:
 <$0D>
 //\n悪いが今は通せない。
 \n
-I am sorry, but this area is currently\n
-off limits.
+I am sorry, but this area is\n
+currently off limits.
 <$00>
 
 // Pos: 00002F5A
@@ -191,8 +187,7 @@ Noble Rock:
 //\n憑かれやすいという話ではない。\n少しでも悪に触れると完全な悪に\nなってしまうのだ。
 \n
 It's not about "likelihood". Even the\n
-smallest touch of evil will taint a
-<$0C>
+smallest touch of evil will taint a\n
 person.
 <$00>
 
@@ -237,9 +232,7 @@ Noble Rock:
 //\n善人を保護したんだ、\n善人は危ない。
 \n
 We have protected the good people,\n
-for the good people face the most
-<$0C>
-danger.
+for the good face the most danger.
 <$00>
 
 // Pos: 00002FD8
@@ -258,10 +251,10 @@ Noble Rock:
 <$0D>
 //\n善人は危ない、あっと言う間に悪に染まる。\nしばらくは養生が必要だ。
 \n
-Good people are dangerous, as they\n
-can turn evil in an instant. We must
+Good people are dangerous, as\n
+they can turn evil in an instant.
 <$0C>
-keep them safe for now.
+We must keep them safe for now.
 <$00>
 
 // Pos: 0000300E
@@ -310,8 +303,8 @@ Spacer:
 <$0D>
 //\n悪に憑かれやすい、\nそういうことだな。
 \n
-They're more likely to get possessed\n
-by evil, right?
+They're more likely to get\n
+possessed by evil, right?
 <$00>
 
 // Pos: 00003079
@@ -341,8 +334,8 @@ Ernest:
 <$0D>
 //\n善人だと…\nお前らは善人が苦手なんだ、そうなんだな。
 \n
-You guys don't seem to like good\n
-people very much.
+You guys don't seem to like\n
+good people very much.
 <$00>
 
 // Pos: 000030C6
@@ -357,8 +350,8 @@ Ernest:
 <$0D>
 //\nそうかい、\nどうせ俺はここには入れねぇんだ。
 \n
-Got it. Either way, I'd kill to get in\n
-here.
+Got it. Either way,\n
+I'd kill to get in here.
 <$00>
 
 // Pos: 000030EA
@@ -388,8 +381,8 @@ Yolanda:
 <$0D>
 //\n何よ、アタシが登録されてないから、\nそんなこと言うのね。
 \n
-Huh? This thing says I'm not\n
-registered.
+Huh? This thing says\n
+I'm not registered.
 <$00>
 
 // Pos: 0000312D
@@ -404,8 +397,8 @@ Yolanda:
 <$0D>
 //\nあら索敵。\n危ない善人だなんて…ほんとにアブナイの？
 \n
-The hunt is on, huh. Are good people\n
-really that dangerous?
+The hunt is on, huh. Are good\n
+people really that dangerous?
 <$00>
 
 // Pos: 00003157
@@ -420,10 +413,9 @@ Yolanda:
 <$0D>
 //\nふん、養生ねぇ…\n休んでるうちに悪人に\nなったりするんじゃないの。
 \n
-Whew. Shit's rough. If there's no rest\n
-for the wicked, there's even less
-<$0C>
-rest for the good.
+Whew. Shit's rough. If there's no\n
+rest for the wicked, there's even\n
+less rest for the good.
 <$00>
 
 // Pos: 00003187
@@ -439,8 +431,7 @@ Yolanda:
 //\nいいわよ、危ない善人なんて、興味ないから。
 \n
 Fine by me! I wouldn't want those\n
-unstable "nice guys" around me
-<$0C>
+unstable "nice guys" around me\n
 anyways.
 <$00>
 
@@ -457,9 +448,7 @@ April:
 //\nごめん、さがした？\nアガタに読んでもらったんだ。
 \n
 I'm sorry, were you looking for me?\n
-I went to Agatha for a reading over a
-<$0C>
-dream.
+I went to Agatha for a reading.
 <$00>
 
 // Pos: 000031D0
@@ -474,17 +463,21 @@ April:
 <$0D>
 //\n夢の中に… あれが夢だとしたらね、\nそこで見つけたの。 鏡の破片よ。
 \n
-In my dream, if you could call it that, I\n
-found a shard from a broken mirror.
+I had a dream, if\n
+you can call it that.
+<$0C>
+In it found a shard\n
+from a broken mirror.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n表面にオレンジ色の光が、\nふうっと現れて消える…
 \n
-An orange light reflected on its\n
-surface. It appeared, and then
+An orange light reflected\n
+on its surface. 
 <$0C>
+It appeared, and then
 disappeared just as quickly.
 <$0C><$0B>
 //エイプリル：
@@ -492,8 +485,8 @@ April:
 <$0D>
 //\n不思議でしょ。\n気になってアガタに見てもらったの…
 \n
-It was strange. I got so curious, I\n
-asked Agatha to look at it.
+It was strange. I got so curious,\n
+I asked Agatha to look at it.
 <$00>
 
 // Pos: 00003251
@@ -524,18 +517,16 @@ April:
 <$0D>
 //\nアガタが言ってたの、\nリトルを見つけなきゃって。
 \n
-After that, Agatha told me to find\n
-Little, the guy from the oxygen
-<$0C>
-dispensary.
+Agatha told me to find Little\n
+at the oxygen dispensary.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nリトルって酸索屋のリトルでしょ。\n彼、どこへ行ったの？ 心当たりないの？
 \n
-If he's not there, do you have any\n
-idea where he went?
+If he's not there, do you have\n
+any idea where he went?
 <$00>
 
 // Pos: 000032D7
@@ -549,9 +540,9 @@ idea where he went?
 <$0D>
 //\nエイプリル！ 無事だったのね、\n変な記憶にさいなまれたりしなかったのね、\nよかった、よかったわエイプリル。
 \n
-April! Are you well? You're not\n
-getting caught up in strange
+April! Are you well?
 <$0C>
+You're not lost in any strange\n
 recollections, are you?
 <$0C><$0B>
 //マダム・アガタ：
@@ -559,18 +550,18 @@ Madam Agatha:
 <$0D>
 //\nそれは何？ 鏡の破片ね… めずらしいわ。
 \n
-I would hope not. So, what have we\n
-here...a mirror fragment? How
+I would hope not.\n
+So, what have we here...
 <$0C>
-rare.
+A mirror fragment? How rare.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n待って… ぼんやりと見えるわ、\n大きな鏡が見えるわ、その前に女の人がいる…
 \n
-It's hazy, but I see a mirror. A woman\n
-stands there, looking into it.
+It's hazy, but I see a mirror.\n
+A woman stands, looking into it.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -585,9 +576,10 @@ Madam Agatha:
 <$0D>
 //\n髮の毛が抜け落ちて… 女の人が消えたわ。\nどうしたのかしら、\n鏡に小さな女の子が映ってる、
 \n
-Her hair all falls out, onto the floor,\n
-and she vanishes. But now, in the
+Her hair all falls out onto\n
+the floor, and she vanishes. 
 <$0C>
+But now, in the\n
 mirror's reflection...
 <$0C><$0B>
 //マダム・アガタ：
@@ -595,10 +587,10 @@ Madam Agatha:
 <$0D>
 //\nこっちに歩いてくる、ああ、鏡から出てきたわ。\nかわいい女の子よ まさか！
 \n
-I see a charming young girl? Yes, and\n
-she's steps forward, out of the
+I see a charming young girl?
 <$0C>
-mirror!
+Yes, and she steps forward,\n
+out of the mirror!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -617,7 +609,7 @@ but the vision is fading.
 
 <$12><$13>
 // ヨウコソ プリズン４ヘ。\nミスター
- WELCOME TO PRISON!\n
+ WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -645,9 +637,9 @@ REGISTRANT NAME:\n
 
 <$12><$13>
 // アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY. FOR\n
-DETAILS AND ASSISTANCE, SPEAK TO\n
-AN ADMINISTRATOR.
+ NOT REGISTERED FOR ENTRY.\n
+FOR DETAILS AND ASSISTANCE,\n
+SPEAK TO AN ADMINISTRATOR.
 <$00>
 
 // Pos: 0000348E
@@ -685,8 +677,8 @@ Ernest:
 <$0D>
 //\nちくしょう！\nなにが登録だ、くそったれ！
 \n
-Piece of junk. How am I supposed to\n
-register?
+Piece of junk. How am I\n
+supposed to register?
 <$00>
 
 // Pos: 000034CA

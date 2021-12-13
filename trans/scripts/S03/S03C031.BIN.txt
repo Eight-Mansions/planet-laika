@@ -28,7 +28,7 @@ Marrakech:
 Who knows what it's really for?
 <$0C>
 Are you sure you want\n
-to see yourself in it?
+to see your self in it?
 <$00>
 
 // Pos: 00001F32
@@ -213,7 +213,7 @@ Olympia #2:
 "APRIL, DON'T TALK TO THAT!\n
 THE ROBOT'S MADE FOR HOUSEWORK!"
 <$0C>
-"DON'T GET YOURSELF DIRTY."
+"DON'T GET YOUR SELF DIRTY."
 <$00>
 
 // Pos: 00002189
@@ -649,7 +649,7 @@ Olympia #2:
 \n
 I WAS THINKING ABOUT YOU HUMANS.
 <$0C>
-I HAD TO STOP MYSELF\n
+I HAD TO STOP MY SELF\n
 BEFORE I WENT CRAZY.
 <$0C><$13><$18><$0B>
 //スペーサー：

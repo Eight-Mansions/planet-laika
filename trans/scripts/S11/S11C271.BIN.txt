@@ -32,8 +32,8 @@ Cosmas:
 <$0D>
 //\nお客さん…そこにいるの、お客さんだよね。\n分かるんだよ、気配で。
 \n
-Oh...a customer. Sorry, I didn't see\n
-you. But, maybe this is a...
+Oh...a customer. Sorry, I didn't\n
+see you. But, maybe this is a...
 <$00>
 
 // Pos: 000007DD
@@ -48,13 +48,11 @@ Cosmas:
 <$0D>
 //\nねぇ、ひとつお願いしていい？\n僕を自由にしてくれる？
 \n
-Say, can I ask one favor? Can\n
-you...free me?
+Say, can I ask one favor?\n
+Can you...free me?
 <$1B>
 //、もちろん\nどうやって？
-、Yes
-<$0C>
-How?
+、Yes\nHow?
 <$00><$17><$00>
 
 // Pos: 00000814
@@ -69,16 +67,16 @@ Cosmas:
 <$0D>
 //\nありがとう。きっとだよ。約束だよ。
 \n
-Thank you! Remember, it's a\n
-promise.
+Thank you!\n
+Remember, it's a promise!
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nダークマンの言ったこと、\n本当だったんだね。今に救われるって。
 \n
-Wow, it's just like Dark Man said! I\n
-really will be saved!
+Wow, it's just as Dark Man said!\n
+I really will be saved!
 <$00>
 
 // Pos: 0000085D
@@ -116,8 +114,8 @@ Cosmas:
 <$0D>
 //\nダークマンを呼び戻すからね、\n助けてくれるのはそれからでいいよ。
 \n
-Next time I call out to Dark Man, he'll\n
-surely answer and help me.
+Next time I call out to Dark Man,\n
+he'll surely answer and help me.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -132,10 +130,10 @@ Cosmas:
 <$0D>
 //\nイースト、ウェストに見つからないように…\nコロニーの中じゃないけど。どこかな…
 \n
-He's outside of the colony,\n
-somewhere where East and West
+He's outside of the colony.\n
 <$0C>
-can't find him.
+Somewhere neither East nor\n
+West can find him.
 <$00>
 
 // Pos: 00000920
@@ -323,8 +321,8 @@ Cosmas:
 <$0D>
 //\n待ってるのはあんたのことじゃないよ、\nあんたの中の誰かさ。
 \n
-He's not waiting for "you" per se, but\n
-someone inside of you.
+He's not waiting for "you" per se,\n
+but someone inside of you.
 <$0C><$0B>
 //コスマス：
 Cosmas:

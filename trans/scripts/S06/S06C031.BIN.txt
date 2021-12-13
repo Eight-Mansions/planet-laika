@@ -56,8 +56,8 @@ April:
 <$0D>
 //\n酸索石じゃないの、仲間をさがしてるの。\nお願い。
 \n
-We're not after oxygenite. We're\n
-looking for our friends.
+We're not after oxygenite.\n
+We're looking for our friends.
 <$00>
 
 // Pos: 00001823
@@ -87,8 +87,8 @@ Yolanda:
 <$0D>
 //\n何言ってんのよ！\nあんたの仲間じゃないのよ。
 \n
-Not for you, dummy! April, say their\n
-names please.
+Not for you, dummy!\n
+April, say their names please.
 <$00>
 
 // Pos: 00001861
@@ -275,8 +275,8 @@ April:
 <$0D>
 //\nヌーンは町長なんかじゃないの！\n私たちの仲間なのよ。
 \n
-For real! Noon is NOT your elder! He's\n
-our friend!
+For real! Noon is NOT your elder!\n
+He's our friend!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -291,8 +291,8 @@ April:
 <$0D>
 //\nその話があるから来たの。これでいい？
 \n
-THAT'S why we're here! Are you\n
-happy now?!
+THAT'S why we're here!\n
+Are you happy now?!
 <$00>
 
 // Pos: 00001A2E
@@ -307,8 +307,8 @@ Oxygen Miner 1：
 <$0D>
 //\n住むわけではないのか、シーシーシーシー。
 \n
-Not moving in? Whoosh, whoosh,\n
-whoosh.
+Not moving in?\n
+Whoosh, whoosh, whoosh.
 <$00>
 
 // Pos: 00001A54
@@ -361,8 +361,8 @@ Oxygen Miner 1：
 <$0D>
 //\nシー、シー、やっぱりあやしい、シー。
 \n
-Whoosh, whoosh. Suspicious,\n
-whoosh!
+Whoosh, whoosh.\n
+Suspicious, whoosh!
 <$00>
 
 // Pos: 00001ACA
@@ -439,8 +439,6 @@ Yolanda:
 //\nいいの。 あんたたちは幸せそうね。\n誰も邪魔しようなんて思っちゃいないから。\n安心して。
 \n
 Listen, I'm sure you guys are happy\n
-here. No one's trying to dick with
-<$0C>
-that.
+here. No one's trying to ruin that.
 <$00>
 

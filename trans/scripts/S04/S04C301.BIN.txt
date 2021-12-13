@@ -39,8 +39,8 @@ Little:
 <$0D>
 //\n今度は何をやらかしたんだ…\nあああ、くそっ、思い出せない…
 \n
-But what'd I do this time? Ugh, I don't\n
-even remember.
+But what'd I do this time?\n
+Ugh, I don't even remember.
 <$00>
 
 // Pos: 000035C5
@@ -67,8 +67,8 @@ Who are you, somebody from Earth?
 <$10>
 //俺は…俺は…\nリ、ト、ル…リトルだ、\nそうだそうだ、俺は酸索屋のリトルだ。
 \n
-I'm Little. L-I-T-T-L-E, got it? I work\n
-at the oxygen dispensary.
+I'm Little. L-I-T-T-L-E, got it?\n
+I work at the oxygen dispensary.
 <$0E><$32><$17><$00>
 
 // Pos: 00003611
@@ -83,8 +83,8 @@ Little:
 <$0D>
 //\nそれがなんで…\nちくしょう、またやつだ、やつが俺の時間を！
 \n
-Why do you want to know, huh? Don't\n
-waste my time!
+Why do you want to know, huh?\n
+Don't waste my time!
 <$0E><$32><$17><$00>
 
 // Pos: 0000363C
@@ -100,8 +100,7 @@ you've gotta be smarter than me!
 <$0C>
 //あんたは本の中から生まれてきたみたいな、\nそんな人なんだよ。
 You grow up with your nose in the\n
-books or somethin'? All you smart\n
-people do.
+books? All you smart people do.
 <$0C>
 //問顆が起きないようにするのが\nあんたの役目なんだよね。
 It's your job to get out there and\n
@@ -124,14 +123,12 @@ Oi, I bet you're the kinda punk who\n
 gets off on pickin' fights!
 <$0C>
 //分かるんだ、僕には分かる、\nちょっと怖いよ。
-...Sure, sure. Whatever you want.\n
-But I know how you scare-bear\n
-types are.
+...Eh, whatever you want. I know\n
+how you scare-bear types really are.
 <$0C>
 //でも本当はやさしい人なんだよね、\n誰かを守るために生まれてきたんだね。
-Deep down, you're a softie too, with\n
-your own someone you were born to\n
-protect. 
+Deep down, you're a softie with\n
+someone you were born to protect.
 <$1E>
 //早
 早
@@ -146,17 +143,17 @@ protect.
 <$10><$13><$19>
 //あんたは顔のこと、気にしたりしてるんでしょ。\n分かるんだ、僕にはお見通しだよ。
 You put a lot of focus on your face,\n
-huh. I understand. I see right\n
-through you!
+huh. I see right through you!
 <$0C>
 //顔とか見かけにこだわるんだよね、\nでも本当はすごく寂しがり屋さん。
-You worry about your face and\n
-appearance for others, but while\n
-you put others first, you're lonely.
+You worry about your image for\n
+others' sake, you put others first.\n
+<$0C>
+Meaning, you're lonely.
 <$0C>
 //あんたは誰かの相談相手だったんでしょ。
-That tells me you vied to be a shoulder\n
-for someone to lean on.
+Desperately, you vie to be the\n
+shoulder for someone to lean on.
 <$1E>
 //早
 早
@@ -216,8 +213,8 @@ Linda:
 <$0D>
 //\nここはねー、ちょっとねー、\nいやな部屋よー、焦げ臭いのー。
 \n
-This flat here's disgusting. It smells\n
-burnt for God's sake!
+This flat here's disgusting.\n
+It smells burnt for God's sake!
 <$1E>
 //〇
 〇
@@ -255,8 +252,8 @@ CHARLIE SEES YOU.
 ぁほ
 <$1D><$00><$00><$00>
 //チャーリー、食べたい、ごちそう、\n食べたい。
-CHARLIE'S HUNGRY. FEED HUNGRY\n
-CHARLIE.
+CHARLIE'S HUNGRY.\n
+FEED HUNGRY CHARLIE.
 <$1A>
 //も
 も
@@ -275,8 +272,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS\n
-KNEW.
+CHARLIE KNEW.\n
+CHARLIE ALWAYS KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

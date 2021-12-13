@@ -43,8 +43,8 @@ Feng:
 <$0D>
 //\nさ、来て。私のお店を案内するわ。
 \n
-Now that we're here, I'll show you\n
-around.
+Now that we're here,\n
+I'll show you around.
 <$1E>
 //中
 中
@@ -63,8 +63,8 @@ Sammy:
 //\nあら、またアタシよ。\nトミーはね、お酒が入って寝ちゃったの。
 \n
 Heehee, were you expecting me?\n
-Tommy had a little too much to drink,
 <$0C>
+Tommy had a little too much to drink,\n
 and he passed out.
 <$0C><$0B>
 //サミー：
@@ -81,9 +81,10 @@ Sammy:
 //\nイヤね、まったく。\nどうかしてるのよ… 特に今夜は変よ。
 \n
 People these days... All out here,\n
-acting like it's a full moon so they can
+acting like it's a full moon
 <$0C>
-go crazy.
+They just wait for an\n
+excuse to go crazy.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -91,9 +92,9 @@ Sammy:
 //\n今しがたもね、見たのよ、リトル。\n血相変えて酸索屋から飛び出して行ったのよ。
 \n
 I saw Little leave the oxygen\n
-dispensary just now, and he too was
+dispensary just now, and boy!
 <$0C>
-red in the face!
+Even he was red in the face!
 <$00>
 
 // Pos: 00001F95
@@ -109,9 +110,7 @@ Sammy:
 //\nアタシ、思うんだけど、\nリトルにもリトルじゃない誰かが\nいるんじゃないかって。
 \n
 Know what I think? I think there's\n
-someone else inside of Little besides
-<$0C>
-him.
+someone else in Little besides him.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -119,8 +118,9 @@ Sammy:
 //\n前からね、気にはなっていたのよ。\nさっき走って行ったのは、どうみても建った。\n何が建うかって…
 \n
 The way he was walking early was\n
-totally off! Something's not right
+totally off!
 <$0C>
+Something's not right\n
 with him, a-nope.
 <$00>
 
@@ -137,9 +137,7 @@ Sammy:
 //\nそうね…目かな。 目、目が建うの。\n遠くからだけど分かる、ほんとよ。
 \n
 Little's eyes were off. You can tell\n
-instantly when someone's eyes
-<$0C>
-change.
+instantly when guys like him change.
 <$1E>
 //行
 行
@@ -158,9 +156,7 @@ Sammy:
 //\nリトルにも誰か別な人がいる、そう思うのよ。\n目が建うの、ときどき入れ替わってるんじゃ\nないかしら。
 \n
 I think there's someone else inside\n
-of Little, because his eyes keep
-<$0C>
-changing.
+of Little. His eyes keep changing.
 <$1E>
 //中
 中
@@ -186,8 +182,8 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう、\nアガタのやつと何かやらかそうっていうのか…
 \n
-I heard you might have plans to hit up\n
-that Agatha gal?
+I heard you might have plans\n
+to hit up that Agatha gal?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -195,9 +191,7 @@ Tommy:
 //\nあの女は催眠術を使う、危ねぇんだ、\nようよう、頭ん中、ぐらぐらにされるぞ。
 \n
 Her hypnotherapy will mess with\n
-you just as good, a-yup. You'll wanna
-<$0C>
-be careful.
+you just as good, a-yup. Be careful.
 <$1E>
 //声
 声
@@ -232,9 +226,7 @@ Yang:
 //\nあの女にかかると、誰でもいいなりだ、\nなされるがままだ、ひゃ！おっかないぞ。
 \n
 It's like the second she walks in,\n
-everyone's doing what she tells
-<$0C>
-them to!
+everyone's doing what she asks!
 <$00>
 
 // Pos: 0000215C
@@ -250,17 +242,18 @@ Yang:
 //\nさっきから無線テレビが点いたり消えたり、\nそれもアガタの魔術だろ。
 \n
 Our monitor's blinking on and off\n
-again. I bet that's from her
+again.
 <$0C>
-witchcraft too.
+I bet that's from\n
+Agatha's witchcraft too.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\n点いたり消えたり、放送なんかしてないのに、\nおっかないぞ。
 \n
-What's weirder about that is...it isn't\n
-even broadcasting anything!
+What's weirder about that is it\n
+isn't even broadcasting anything!
 <$1E>
 //理
 理
@@ -286,8 +279,8 @@ Yang:
 <$0D>
 //\n魔術なんかにはたよらない。宇宙の波動だ。
 \n
-As long as I'm in these waves, that's\n
-all I'll ever need.
+As long as I'm in these waves,\n
+that's all I'll ever need.
 <$1E>
 //鋭
 鋭
@@ -305,10 +298,11 @@ Yang:
 <$0D>
 //\nあいつらも波動を惑じはじめたのか？\nなぁ、どう思う…イーストとウェストだ、\nうろちょろしてたぞ。
 \n
-Are East and West trying to meddle\n
-with the waves? Those two pop up
+East and West keep popping\n
+up everywhere!
 <$0C>
-everywhere!
+Are they trying to interfere\n
+with the waves?
 <$1E>
 //理
 理

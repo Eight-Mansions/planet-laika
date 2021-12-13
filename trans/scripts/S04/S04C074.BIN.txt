@@ -162,10 +162,10 @@ Marrakech:
 <$0D>
 //\nダークマンがどうしたこうしたって…\nいじめられすぎたのね。\n窓のところに回ってみれば？開こえるから。
 \n
-"Dark Man" this, "Dark Man" that. The\n
-others will make fun of him if he
+"Dark Man" this, "Dark Man" that.
 <$0C>
-keeps up.
+The others will make fun\n
+of him if he keeps up.
 <$1E>
 //行
 行
@@ -183,10 +183,10 @@ Marrakech:
 <$0D>
 //\nコスマスがまたお話ごっこを始めたのよ。\n開こえるから…窓のところよ。\nあなた、開き耳、得意なんでしょ？
 \n
-Cosmas is talking to himself again.\n
-Don't eavesdrop through the back
+Cosmas is talking to himself again.
 <$0C>
-alley window, okay?
+Don't eavesdrop through the\n
+back alley window, okay?
 <$1E>
 //中
 中
@@ -247,19 +247,20 @@ Marrakech:
 //\n昔ね、リャンハウス始まって以来の\n美人がいたの、アマンダって名前の女よ。
 \n
 Long ago, ever since House Liang\n
-first came to be, there was a
+first came to be,
 <$0C>
-gorgeous woman named Amanda.
+there was a gorgeous woman\n
+named Amanda.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\n最高にキレイなお顔を手に入れて、\nいつも鏡に見入っていたの。
 \n
-She had the most beautiful face, and\n
-she was always looking at it through
+She had the most beautiful face.
 <$0C>
-a mirror.
+She would always look at\n
+it in the mirror..
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -267,9 +268,7 @@ Marrakech:
 //\nそしたらどうなったと思う？
 \n
 And then...something happened,\n
-you know? It's a strange story,
-<$0C>
-really.
+you know? It's a strange story.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -277,9 +276,7 @@ Marrakech:
 //\n変なお話よ。アマンダは鏡に飲込まれて、\n鏡の精になったのよ。
 \n
 Amanda was swallowed by her own\n
-mirror, and that's how she became a
-<$0C>
-mirror spirit.
+mirror, and became a mirror spirit!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -289,8 +286,7 @@ Marrakech:
 Can you believe such a tale?
 <$1B>
 //？信じる\n信じない
-？Yes\n
-No
+？Yes\nNo
 <$00><$17><$00>
 
 // Pos: 00001E0C
@@ -312,7 +308,8 @@ they're not ghosts, what are they?
 Marrakech:
 <$0D>
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
-That reminds me...\n
+That reminds me...
+<$0C>
 Recently, I saw Linda mumbling in\n
 front of the mirror.
 <$0C><$0B>
@@ -341,8 +338,8 @@ Marrakech:
 //\nそうよね、鏡の精なんてね。\n案外オバケの正体だったりしてね…
 \n
 That's right, she's a mirror spirit!\n
-You learn some strange things once
 <$0C>
+You learn some strange things once\n
 you pull off the mask.
 <$0C><$0B>
 //マラケシュ：
@@ -351,17 +348,15 @@ Marrakech:
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
 \n
 That reminds me... Recently, I saw\n
-Linda mumbling in front of the
-<$0C>
-mirror.
+Linda mumbling to a mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nオバケ、呼出してたりしてね、\nああいやだ。
 \n
-I wonder if she's taken to talking to\n
-ghosts? How spooky!
+I wonder if she's taken to\n
+talking to ghosts? How spooky!
 <$1E>
 //行
 行
@@ -379,10 +374,11 @@ Marrakech:
 <$0D>
 //\nあのときのリンダ、\nリンダじゃないみたいだった…\n鏡って怖いのよ、人をおかしくさせるから。
 \n
-When I saw Linda that time, she\n
-looked so different. Mirrors scare
+When I saw Linda that time,\n
+she looked so different.
 <$0C>
-me because they make people crazy.
+Mirrors scare me\n
+because they make people crazy.
 <$1E>
 //中
 中

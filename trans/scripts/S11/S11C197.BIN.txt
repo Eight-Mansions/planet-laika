@@ -33,8 +33,8 @@ Red:
 <$0D>
 //\nどうした、びくついてるのか、ええ？
 \n
-What's the matter. You scared of\n
-me?
+What's the matter.\n
+You scared of me?
 <$0C><$0B>
 //レッド：
 Red:
@@ -42,15 +42,15 @@ Red:
 //\n俺が怖いのか？\nふん、小汚ねぇツラさらしやがって！
 \n
 Am I scary looking? Hmph, a little\n
-rough around the edges, maybe.
+rough around the edges, maybe...
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nあああ、どいつもこいつも、\nいまいましい野郎ばかりだ！
 \n
-Grr, but that's not MY problem! It's\n
-yours, you dumb, little bitch!
+Grr, but that's not MY problem!\n
+It's yours, you dumb, little bitch!
 <$0C><$0B>
 //レッド：
 Red:
@@ -90,27 +90,25 @@ Red:
 //\nあいつはカンペキだ、\nお前らが寄ってたかってもかなわねぇ。
 \n
 We'd nearly groomed him to\n
-perfection before your filthy lot
-<$0C>
-showed up.
+perfection before you showed.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nへへへ、コスマスはなぁ、\n俺なしじゃ生きていけねぇんだ。
 \n
-Hehe, but Cosmas... He can't live\n
-without me.
+Hehe, but Cosmas...\n
+He can't live without me.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nあいつは俺の体の一部なんだ、\nそれが分からねぇのか、作品で、一部なんだ。
 \n
-He's a part of my body. He doesn't\n
-know it, but he makes up only a
+He's one part of my body.
 <$0C>
-fraction of my work.
+He doesn't know it, but he's\n
+one piece in my grand opus.
 <$00>
 
 // Pos: 000024E1
@@ -125,8 +123,8 @@ Red:
 <$0D>
 //\nうはははは、どうだ！\n見ろ、そのくそみたいなツラを！
 \n
-Hahaha, how's that! Take a look! Am I\n
-rough around the edges now?
+Hahaha, how's that! Take a look!\n
+Am I rough around the edges now?
 <$0C><$0B>
 //レッド：
 Red:
@@ -142,8 +140,8 @@ Red:
 //\nそうだろ、そうだろ、そうだろ、\nフユカイでたまらないだろ。
 \n
 Yeah, yeah, that's what I thought.\n
-You're the one with your tail
 <$0C>
+You're the one with your tail\n
 between your legs.
 <$0C><$0B>
 //レッド：
@@ -152,17 +150,17 @@ Red:
 //\nお前は犬だ、ただの犬だ、ははははは、\n犬だ犬だ、クソ犬め。
 \n
 And why's that? Because you're a\n
-dog! Just a dog, hahaha! A dog! A dirty
+dog! Just a dog, hahaha! A dog!
 <$0C>
-fucking dog!
+A filthy fucking dog!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nおじさんの泡で死んでしまえ！
 \n
-Just wait until Uncle kills you with his\n
-bubbles!
+Just wait until Uncle kills\n
+you with his bubbles!
 <$00>
 
 // Pos: 00002598
@@ -194,9 +192,9 @@ Red:
 //\nひー、俺じゃない、このクソガキだよ、\nお仕置きならこいつにだよ、ひー！
 \n
 Hehehe, but not for me. It's for the\n
-shitbag kid here. He needs to be
+shitbag kid here.
 <$0C>
-punished!
+He needs to be punished!
 <$00>
 
 // Pos: 00002614
@@ -226,20 +224,18 @@ Red:
 <$0D>
 //\nはははー、知ってるぜ、あいつは隠れ家だ、\n地下水道にあるんだ、馬鹿野郎！
 \n
-Hahaha, and I know his hideout! That\n
-stupid kid's in the underground
-<$0C>
-canal!
+Hahaha, and I know his hideout!\n
+He's in the underground canal!
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\n俺の眼はごまかせねぇ、\nあそこには電波も届かねぇしな！ はは！
 \n
-He won't get past me! Those radio\n
-waves can't touch me down there
+He won't slip away from me! 
 <$0C>
-either, haha!
+Those radio waves can't touch\n
+me down there either, haha!
 <$00>
 
 // Pos: 000026B0
@@ -254,10 +250,10 @@ Red:
 <$0D>
 //\n俺は守られてる、攻撃は効かないんだ、\n出し抜こうなんて考えは捨てた方がいいぜ！
 \n
-I'm protected! Attacking won't\n
-work, so just forget the idea that
+I'm protected!\n
+Attacking me won't work.
 <$0C>
-you'll escape!
+You'll never escape!
 <$1E>
 //中
 中

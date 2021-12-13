@@ -47,8 +47,8 @@ April:
 <$0D>
 //\nあなたたちとケンカするために\n火星に来たんじゃないの。
 \n
-We didn't come to Mars to start a\n
-fight.
+We didn't come to Mars\n
+to start a fight.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -56,19 +56,15 @@ April:
 //\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
 \n
 We heard troubling reports about\n
-the environment, and came only to
-<$0C>
-inspect.
+environment, and came to inspect.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n先遣隊のガリル大佐について何か知らない？
 \n
-Did you ever hear about Colonel Galil.\n
-He was on the original vanguard unit
-<$0C>
-from Earth.
+Did you hear about Colonel Galil?\n
+From Earth's original vanguard unit?
 <$00>
 
 // Pos: 00001DF0
@@ -84,19 +80,15 @@ Gold:
 //\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
 \n
 Galil? The guy's a legend after all that\n
-"I am the light" good boy bullshit
-<$0C>
-years back.
+"I am the light," good boy bullshit.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
 \n
-He sounds like any other weirdo to\n
-me. Is he really what you came here
-<$0C>
-for?
+Sounds like any other weirdo to me\n
+He really what you here for?
 <$00>
 
 // Pos: 00001E4C
@@ -112,9 +104,7 @@ Smokey:
 //\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
 \n
 Nah, she's here to drink! Here at SNOB\n
-PLANET, we keep it going all night
-<$0C>
-long!
+PLANET, we keep it up all night long!
 <$00>
 
 // Pos: 00001E89
@@ -129,8 +119,8 @@ April:
 <$0D>
 //\n人をさがしてるの、仲間よ。
 \n
-We're also looking for two of our unit\n
-members.
+We're also looking for\n
+two of our unit members.
 <$00>
 
 // Pos: 00001EA3
@@ -168,7 +158,8 @@ half-wit friend here into the sun.
 Smokey:
 <$0D>
 //\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
-\You can stick around and\n
+\n
+You can stick around and\n
 blow the roof off with Old Smokey!
 <$00>
 
@@ -199,10 +190,8 @@ Smokey:
 <$0D>
 //\nてめぇ！ おとなしくしてりゃ、\nでかい口たたくじゃねぇか、お姉ちゃんよう！
 \n
-What'd you call me?! That's not how a\n
-good piggy's supposed to squeal,
-<$0C>
-missy!
+What'd you call me?! That's not how\n
+a piggy's supposed to squeal, missy!
 <$00>
 
 // Pos: 00001F5C
@@ -233,8 +222,8 @@ Smokey:
 <$0D>
 //\nくそ！ 手前ぇら、いい気になりやがって！
 \n
-Grr...! I'll pass. That smug look on her\n
-face says she's fine.
+Grr...! I'll pass. That smug look\n
+on her face says she's fine.
 <$00>
 
 // Pos: 00001FAB
@@ -249,10 +238,8 @@ Smokey:
 <$0D>
 //\n気取り屋どもが！\nせいぜい気を付けることだな！
 \n
-You're all a bunch of snobs! Damned\n
-well better watch your backs out
-<$0C>
-there.
+You're all a bunch of snobs!\n
+You'd better watch your backs.
 <$0E><$3C><$17><$00>
 
 // Pos: 00001FD3
@@ -298,18 +285,18 @@ Gold:
 <$0D>
 //\nここにはいねぇ。見りゃ分かるだろ。
 \n
-They're not here. Anyone with eyes\n
-can see that.
+They're not here.\n
+Anyone with eyes can see that.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nここのやつらは、お前らみたいに制服着てる\nやつにこっぴどくやられたからな、
 \n
-Then again, anyone with a brain\n
-wouldn't waltz in wearing those
+Then again, anyone with a\n
+brain wouldn't waltz in here.
 <$0C>
-uniforms...
+Not with those uniforms...
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -317,9 +304,7 @@ Gold:
 //\nいい気がしねぇんだ。くそったれ！
 \n
 Bad shit happens to hunky-dory\n
-idiots like you. Hence the word,
-<$0C>
-"snob".
+snobs like you.
 <$00>
 
 // Pos: 00002071
@@ -334,8 +319,8 @@ April:
 <$0D>
 //\n私たちはあなたたちの言う\nおまわりじゃないのよ。
 \n
-But you're all wrong! We're not\n
-snobs!
+But you're all wrong!\n
+We're not snobs!
 <$00>
 
 // Pos: 00002094

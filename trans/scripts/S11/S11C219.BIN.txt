@@ -32,8 +32,8 @@ Smokey:
 <$0D>
 //\n何だ？ 開こえねぇな？\n何て言った？
 \n
-Sorry, guess I didn't catch that? The\n
-fuck did you say?
+Sorry, guess I didn't catch that?\n
+The fuck did you say?
 <$00>
 
 // Pos: 00002986
@@ -64,8 +64,8 @@ Smokey:
 <$0D>
 //\n用があるだと… てめぇ、\nいい度胸してるじゃねぇか、ああん？
 \n
-Unfinished business? Heh, you've\n
-got some nerve.
+Unfinished business?\n
+Heh, you've got some nerve.
 <$00>
 
 // Pos: 000029CF
@@ -80,10 +80,10 @@ Smokey:
 <$0D>
 //\nさっきのショータイムじゃ物足りねぇと、\nへん！ 手加減しねぇぜ！ 白ブタ野郎！
 \n
-If the little show earlier didn't get\n
-the message across, I came with
+If the little show earlier didn't\n
+get the message across:
 <$0C>
-encores.
+I came with the encore.
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -123,8 +123,8 @@ Smokey:
 <$0D>
 //\nうううう、くそっ、白ブタ…\nぶっ殺してやる！
 \n
-Grrr, I've had it! Get ready to die,\n
-piggy!
+Grrr, I've had it!\n
+Get ready to die, piggy!
 <$00>
 
 // Pos: 00002A6D
@@ -184,7 +184,7 @@ Ernest:
 //\n誰だ！ 出てこい！\nいい加減なことぬかすな！
 \n
 Who said that? Stop messing with\n
-me, and show yourself!
+me, and show your self!
 <$00>
 
 // Pos: 00002AFB
@@ -242,10 +242,8 @@ Ernest:
 <$0D>
 //\n何だと、くそ野郎！ 俺が… 臆病だと？\nもう一度言ってみろ！
 \n
-What do you want from me,\n
-asshole... What sort of coward do
-<$0C>
-you take me for?!
+What do you want, asshole?\n
+What coward do you take me for?
 <$00>
 
 // Pos: 00002BB9
@@ -260,7 +258,7 @@ Ernest:
 <$0D>
 //\n臆病だと？\nこの俺が… 俺は弱くねぇぜ。
 \n
-Am I a coward? No...I'm not that\n
-weak.
+Am I a coward? No...\n
+I can't be that weak.
 <$00>
 

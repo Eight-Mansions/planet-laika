@@ -143,9 +143,7 @@ Yolanda:
 //\nねえ、ほんとに大丈夫？\nシーシーなんて言わないでね
 \n
 Hey, are you sure you're all right?\n
-You're not whoosh-whooshed out,
-<$0C>
-are you?
+You're not whoosh-whooshed out yet?
 <$00>
 
 // Pos: 000034C3
@@ -175,7 +173,8 @@ Yolanda:
 <$0D>
 //\nならいいけど…\nちょっとさがしてみましょう。
 \n
-If you say so. Let's take a look around.
+If you say so.\n
+Let's take a look around.
 <$00>
 
 // Pos: 000034F8

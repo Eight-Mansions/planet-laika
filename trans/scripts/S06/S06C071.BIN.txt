@@ -18,8 +18,8 @@ Judy:
 <$0D>
 //\nパパは病気なんだよ、ヌーン、\nパパは可哀想な人なんだよ。
 \n
-Papa was sick, Noon. Papa was a\n
-pathetic little man.
+Papa was sick, Noon.\n
+Papa was a pathetic little man.
 <$00>
 
 // Pos: 00001DDE
@@ -35,8 +35,8 @@ Noon:
 <$0D>
 //\nいやだ、ママ…\nこっちに来ないで…ママ。
 \n
-No, Mummy... Mummy, don't come\n
-near me!
+No, Mummy...\n
+Mummy, don't come near me!
 <$0C><$0B>
 //ヌーン：
 Noon:

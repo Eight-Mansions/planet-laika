@@ -13,9 +13,9 @@
 
 <$12><$13><$13>
 //痛みはすぐに引く。\nお前はこれで、苦しみから解き放たれたのだ。\nもう、なにも思い悩むことはない。
-The pain will fade, for you are now\n
-free from suffering. Your fears are\n
-no more.
+The pain will fade, for you\n
+are now free from suffering.\n
+Your fears are no more.
 <$0C>
 //お前は我々と同じ中立だ。\n善き人間も悪しき人間も、\nともに弱い存在だ。
 Your kind and Ours are at balance.\n
@@ -23,8 +23,8 @@ Whether good or evil, the human\n
 existence too is frail...
 <$0C>
 //善悪を乗り越えるのだ。\nお前には、それができる。
-...but you, at least, can overcome\n
-good and evil.
+...but you, at least,\n
+can overcome good and evil.
 <$00>
 
 // Pos: 0000126B
@@ -66,10 +66,11 @@ Cosmas:
 <$0D>
 //\nもう変な夢を見ることもないんだね。\n砂の中に隠れてるような、変な夢…
 \n
-I won't have have those strange\n
-dreams anymore? Like the one
+I won't have have those\n
+strange dreams anymore?
 <$0C>
-where I disappear in the sand?
+Like the one where I\n
+disappear in the sand?
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -115,8 +116,8 @@ Cosmas:
 <$0D>
 //\nあとで寄ってよ。 僕の隠れ家。\nサイコハウスの中にあるんだ。
 \n
-Stop by my hiding place inside of\n
-Psycho Lab, okay?
+Stop by my hiding place\n
+inside of Psycho Lab, okay?
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -139,8 +140,8 @@ Cosmas:
 <$0D>
 //\nおそくなったね、\n僕はコスマス。 風の子コスマスだよ！
 \n
-And before I forget, I'm Cosmas, the\n
-kid who runs like the wind!
+And before I forget, I'm Cosmas,\n
+the kid who runs like the wind!
 <$0C><$0B>
 //コスマス：
 Cosmas:

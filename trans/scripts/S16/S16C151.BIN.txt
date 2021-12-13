@@ -74,7 +74,7 @@ Yang:
 <$0D>
 //\n何かがはねてる、ぴょんぴょん…\n開こえないか？
 \n
-It sounds like something's bouncing.\n
+It sounds like something's crackling.\n
 Can't you hear it?
 <$0C><$0B>
 //ヤング：
@@ -108,7 +108,7 @@ Spacer:
 <$0D>
 //\nはねる音？ここでは開こえない、\nどこか別の場所だろう。
 \n
-A bouncing sound? I don't hear that.\n
+A crackling sound? I don't hear that.\n
 It must be coming from somewhere else.
 <$00>
 
@@ -156,7 +156,8 @@ Yang:
 <$0D>
 //\nはは、はねてるはねてる、いやな音だ。
 \n
-Haha, that bouncing sound is so bad!
+Haha, that crackling sound\n
+is so bad!
 <$1E>
 //鋭
 鋭

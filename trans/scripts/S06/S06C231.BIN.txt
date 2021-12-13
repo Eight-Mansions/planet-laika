@@ -28,7 +28,7 @@ I, Ernest...will protect...\n
 #WHB(PTR, $00000431)
 
 //老ーネスト…正直者のアーネスト。\nウソのつけないアーネスト。
-老Ernest... Honest Ernest.\n
+老 Ernest... Honest Ernest.\n
 You'd never let anyone down.
 <$00>
 
@@ -88,7 +88,7 @@ and a shoulder for Tanya to cry on.
 #WHB(PTR, $00000449)
 
 //談ランダ…うぬぼれ屋のヨランダ。\nいつもひとりのヨランダ。
-談Yolanda... Yolanda, the narcissist.\n
+談 Yolanda... Yolanda, the narcissist.\n
 You will always be alone.
 <$00>
 
@@ -104,13 +104,13 @@ Yolanda:
 <$0D>
 //\n誰なの？\nアタシのこと…そんなふうに言うなんて。
 \n
-Who's there? Don't act like you know\n
-me!
+Who's there? Don't act\n
+like you know me!
 <$0C><$13>
 //君さあ、誰だろう。\nこれはお前自身の声ではないのかな。
 I'm you, that's who!\n
-Don't you know your own inner\n
-voice?
+Don't you know your\n
+own inner voice?
 <$00>
 
 // Pos: 000005E1
@@ -125,15 +125,15 @@ Spacer:
 <$0D>
 //\n私はスペーサー…\n建いない、確かにスペーサーだ。
 \n
-I'm Spacer... Make no mistake, I'm\n
-Spacer.
+I'm Spacer...\n
+Make no mistake, I'm Spacer.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nあのふたりと、そして
 \n
-I'm the control tower over 
+I'm the control tower over\n
 <$0F>
 //にとって\n私が司令塔なのだ。
  and the other two.
@@ -146,7 +146,7 @@ I'm the control tower over
 #WHB(PTR, $0000043D)
 
 //面ペーサーか、出すぎたマネが得意の\nようだな。
-面Spacer, ever a slave to hyperbole.
+面 Spacer, ever a slave to metaphor.
 <$0C>
 //自分をかいかぶってはいないかな、\nスペーサー。
 Don't pretend to be larger than life!

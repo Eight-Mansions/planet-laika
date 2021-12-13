@@ -64,8 +64,8 @@ Madam Agatha:
 <$0D>
 //\nどうしたのリトル。 大声を出さないで。
 \n
-What's the matter, Little? Please\n
-don't shout.
+What's the matter, Little?\n
+Please don't shout.
 <$00>
 
 // Pos: 00002E6C
@@ -87,8 +87,8 @@ Little:
 <$0D>
 //\n俺はどこにもでかけちゃいない！\n何も見ちゃいない！
 \n
-I didn't GO anywhere, I didn't SEE\n
-anythin'!
+I didn't GO anywhere,\n
+I didn't SEE anythin'!
 <$0C><$0B>
 //リトル：
 Little:
@@ -120,17 +120,15 @@ Madam Agatha:
 //\nあなたは自分に向き合う努力が足りないのよ、\nリトル。
 \n
 You're not pulling the weight to face\n
-yourself, Little.
+your self, Little.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nうまくいかないとすぐに人のせいにする、\nそれはよくないわ。 索直にならなくちゃ。
 \n
-It's also impolite to blame your\n
-results on me, just because you
-<$0C>
-dislike them.
+It's impolite to blame the\n
+results you don't like on me.
 <$00>
 
 // Pos: 00002F45
@@ -145,16 +143,16 @@ Little:
 <$0D>
 //\nちくしょう、俺だ、俺だ、\nここにいるのが俺だ…
 \n
-Goddammit! Why me, why me?! Why\n
-am I here?!
+Goddammit! Why me, why me?!\n
+Why am I here?!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nつきまとうな、あああ、失せろ！ 失せろ！
 \n
-And YOU, girly! Get off my ass! Shoo,\n
-shoo!
+And YOU, girly! Get off my ass!
+Shoo,\nshoo!
 <$00>
 
 // Pos: 00002F83
@@ -184,8 +182,10 @@ You're...you're turning...
 No... I can't stop now...!
 <$0C>
 //ねぇ…早く、急いで…\nでなきゃ手おくれになっちゃうよ…\n用済みにすらなれないよう…
-If I don't hurry... I'll be wiped\n
-out...before ever serving my\n
+If I don't hurry...\n
+I'll be wiped out...
+<$0C>
+...before ever serving my\n
 purpose!
 <$00>
 
@@ -214,8 +214,7 @@ your purpose? Can you tell me?
 <$10><$13><$19>
 //行かなきゃならないんだ、約束の場所に。\n苦しみの底にあるんだ。
 I have to go, to the Promised Land,\n
-down at the deepest depths of\n
-suffering.
+to the deepest depths of suffering.
 <$00>
 
 // Pos: 00003039
@@ -247,8 +246,8 @@ connected to the innermost part of\n
 this planet.
 <$0C>
 //そしてリトルがころびそうなとき、\nつっかえ棒をしてる。
-When Little starts to tumble, I am his\n
-rock.
+When Little starts to tumble,\n
+I am his rock.
 <$0C>
 //僕はリバーだよ、\nリトルにとって人生の相棒なんだよ。
 I am Liever, the other pair of\n
@@ -285,8 +284,9 @@ Madam Agatha:
 //\nそう… 星と意志を交わしたのね。\nそして記憶を与えられたのね。
 \n
 I see. You have crossed paths with\n
-the planet, and in return, the planet
+the planet.
 <$0C>
+In return, the planet\n
 granted you recollection.
 <$0C><$0B>
 //マダム・アガタ：
@@ -302,10 +302,8 @@ Madam Agatha:
 <$0D>
 //\nリトルは罪の意識に\nつぶされそうになっているのね。
 \n
-Little realizes he that, despite this,\n
-he is about to be crushed by the
-<$0C>
-weight of that sin.
+Little realizes that he'll soon
+be crushed by his sin's weight.
 <$00>
 
 // Pos: 00003196
@@ -321,9 +319,9 @@ image, but Little handed out\n
 stockings to various twins.
 <$0C>
 //あああ、もう行くんだ、でなきゃリトルが\nなくなってしまう。そうなるとこの僕も…
-I have to go to the Promised Land. If I\n
-don't, Little will be wiped out, and I\n
-shall follow.
+I have to go to the Promised Land.\n
+If I don't, Little will be wiped out,\n
+and I shall follow.
 <$00><$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -331,7 +329,7 @@ Madam Agatha:
 //\nリバーね…\nライカが呼ばれてるって、どういうことなの？
 \n
 Liever, you seem to suggest that\n
-someone is calling out to Laika.
+Laika is being called by someone.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -341,8 +339,8 @@ Madam Agatha:
 Who is calling them?
 <$00><$10><$13><$19>
 //この星だよ、あああ、行くんだ！\n行くんだ行くんだ、ああ、あーあー…
-It's the planet. It's...oh! I'm going\n
-again, I'm...owwe...!
+It's the planet. It's...oh!\n
+I'm going again, I'm...owwe...!
 <$00>
 
 // Pos: 0000325C
@@ -357,8 +355,8 @@ Little:
 <$0D>
 //\n取れた…取れたぞ、何かが取れた。
 \n
-I...spaced out. Somethin' made me\n
-space out.
+I...spaced out.\n
+Somethin' made me space out.
 <$00>
 
 // Pos: 00003278
@@ -434,27 +432,26 @@ Madam Agatha:
 <$0D>
 //\n心に闇を残していてはいけないわ。\nもっと自分を知らなきゃ。そうよね？
 \n
-Don't leave the darkness to settle in\n
-your mind. You have to uncover more
+Don't leave the darkness to\n
+settle in your mind.
 <$0C>
-about yourself.
+You have to uncover more\n
+about your self.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n心のありのままを見つける旅をするの。\nそして気づきを得るの。
 \n
-Go on a journey to shed light on the\n
-truth of your own mind, and you will
-<$0C>
-realize.
+Journey to shed light on the truth\n
+of your own mind, and you will see.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nそれでこの星の使者になれるのよ。
 \n
-That realization you have then will\n
+The realization you have then will\n
 be key to you becoming a messenger
 <$0C>
 of this planet.
@@ -472,16 +469,16 @@ Madam Agatha:
 <$0D>
 //\nライカ、あなたの心にも\nぽっかりと穴が開いているのが分かるわ。
 \n
-Laika, we both know there is a gap\n
-inside of your mind.
+Laika, we both know there is\n
+a gap inside of your mind.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n黒い穴よ… 何も見えないわ。
 \n
-It is a black hole, where I can't see\n
-anything at all.
+It is a black hole, where I\n
+can't see anything at all.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

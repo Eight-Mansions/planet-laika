@@ -17,9 +17,10 @@ Gold:
 <$0D>
 //\n酸索屋さがしてるんなら、見当建いだ。\nこっちじゃねぇ。
 \n
-Smokey's wandering about, only\n
-wish I knew where. At any rate,
+Smokey's wandering about,\n
+only wish I knew where.
 <$0C>
+At any rate,\n
 sorry about earlier.
 <$1E>
 //双
@@ -90,19 +91,17 @@ Gold:
 //\nうろちょろするのが好きなのか？\nこのコロニーのこと、\n何にも知らねぇみたいだな…
 \n
 You like this place or something? You\n
-don't know much about this colony,
-<$0C>
-do you?
+don't know this colony well, do you?
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nお前みたいに制服着てるやつが\n観光できる場所じゃねぇ。\n分かるだろ、分かったらとっとと消えな。
 \n
-It's no the kinda place you uniformed\n
-types can play tourist in. You
+It's not the kinda place for you\n
+uniformed types to play tourist.
 <$0C>
-might...disappear.
+You might...disappear.
 <$1E>
 //双
 双
@@ -135,8 +134,8 @@ Smokey:
 <$0D>
 //\nへへっ、おまわり！\nおまわりが何の用だ！
 \n
-Hehe, hey there, scout! How goes\n
-your little patrol?
+Hehe, hey there, scout!\n
+How goes your little patrol?
 <$00>
 
 // Pos: 00002720
@@ -183,8 +182,8 @@ Gold:
 <$0D>
 //\nなんか飲むのか？\nええ？
 \n
-Unless you want to buy a drink, of\n
-course.
+Unless you want to buy a drink,\n
+of course.
 <$00>
 
 // Pos: 00002778
@@ -262,8 +261,8 @@ Gold:
 <$0D>
 //\nおい、何とか言え！\n飲むのか、飲まねぇのか、どっちだ！
 \n
-You should say something. Are you\n
-here to drink or not?
+You should say something.\n
+Are you here to drink or not?
 <$00>
 
 // Pos: 0000283D
@@ -286,10 +285,8 @@ Smokey:
 <$0D>
 //\nふざけたマネしやがって、くそ！\n吐くまで飲ませてやる！
 \n
-I know! I'll force so many drinks\n
-down your throat, you puke out
-<$0C>
-some manners!
+I'll shove so many drinks down\n
+your throat, you'll puke manners!
 <$00>
 
 // Pos: 0000287F
@@ -304,8 +301,8 @@ Gold:
 <$0D>
 //\nよせ、スモーキー。今夜はやばい。
 \n
-Come on, Smokey. That's enough for\n
-tonight.
+Come on, Smokey.\n
+That's enough for tonight.
 <$00>
 
 // Pos: 0000289B
@@ -320,8 +317,8 @@ Smokey:
 <$0D>
 //\nうるせぇ！ 気に入らねぇんだ！\nこの野郎が！
 \n
-No one tells old Smokey how much is\n
-enough!
+No one tells me\n
+how much is enough!
 <$00>
 
 // Pos: 000028BF
@@ -336,18 +333,16 @@ Smokey:
 <$0D>
 //\nおい！ 気取り屋！\n強いんだろ？\nかかってこいや。
 \n
-Grr... All right, snob. You think you're\n
-so tough? Prove it!
+Grr... All right, snob. You\n
+think you're so tough? Prove it!
 <$0C><$0B>
 //スモーキー：
 Smokey:
 <$0D>
 //\nてめぇなんか、ハイハイしながら\nママのミルクでも飲んでりゃいいんだ、\nくそったれ！
 \n
-Not sure why you came to a bar when\n
-you're clearly stuck on your mom's
-<$0C>
-tit!
+Not sure why you came to a bar so\n
+clearly stuck on your mom's tit!
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -355,17 +350,17 @@ Smokey:
 //\nひぇへへへへ、どうした、\nおっかなくて泣きだしそうか？\nママに抱っこしてもらいてぇんだろ、マヌケ！
 \n
 Hehehe, what's wrong? You scared?\n
-You wanna cry for mommy? Then
+You wanna cry for mommy?
 <$0C>
-cry, bitch!
+Then cry, bitch!
 <$0C><$0B>
 //スモーキー：
 Smokey:
 <$0D>
 //\nちょっとでも動いてみろ、\nその小汚ねぇ犬顔、\n血と涙でぐしょぐしょにしてやる！
 \n
-Sit, dogface, or I'll bash your face so\n
-bad, you drown in your own blood!
+Sit, dogface, or I'll bash your head\n
+so bad, you drown in your own blood!
 <$00>
 
 // Pos: 0000298F
@@ -427,8 +422,8 @@ April:
 <$0D>
 //\nあなたたちとケンカするために\n火星に来たんじゃないの。
 \n
-We didn't come to Mars to start a\n
-fight.
+We didn't come to Mars\n
+to start a fight.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -436,19 +431,15 @@ April:
 //\nこの星に何やら良くないウワサがあって、\nそれを調べに来たのよ。
 \n
 We heard troubling reports about\n
-the environment, and came only to
-<$0C>
-inspect.
+environment, and came to inspect.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n先遣隊のガリル大佐について、何か知らない？
 \n
-Did you ever hear about Colonel Galil.\n
-He was on the original vanguard unit
-<$0C>
-from Earth.
+Did you hear about Colonel Galil?\n
+From Earth's original vanguard unit?
 <$00><$10><$0B>
 //ゴールド：
 Gold:
@@ -456,19 +447,15 @@ Gold:
 //\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
 \n
 Galil? The guy's a legend after all that\n
-"I am the light" good boy bullshit
-<$0C>
-years back.
+"I am the light," good boy bullshit.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nへっ、要は変わり者だってことよ。\nで、ここには何の用なんだ？
 \n
-He sounds like any other weirdo to\n
-me. Is he really what you came here
-<$0C>
-for?
+Sounds like any other weirdo to me\n
+He really what you here for?
 <$00><$11><$0B>
 //スモーキー：
 Smokey:
@@ -476,17 +463,15 @@ Smokey:
 //\n飲みに来たんだよ、\n俺たちと一晩中飲みたいってよ、ひょー！\nおまわり酒場だ、ひょー！
 \n
 Nah, she's here to drink! Here at SNOB\n
-PLANET, we keep it going all night
-<$0C>
-long!
+PLANET, we keep it up all night long!
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n人をさがしてるの、仲間よ。
 \n
-We're also looking for two of our unit\n
-members.
+We're also looking for\n
+two of our unit members.
 <$00><$10><$0B>
 //ゴールド：
 Gold:
@@ -508,7 +493,8 @@ half-wit friend here into the sun.
 Smokey:
 <$0D>
 //\nこのスモーキーちゃんと\nモクモクしねえか、ええ？
-\You can stick around and\n
+\n
+You can stick around and\n
 blow the roof off with Old Smokey!
 <$00><$10><$0B>
 //エイプリル：
@@ -523,10 +509,8 @@ Smokey:
 <$0D>
 //\nてめぇ！ おとなしくしてりゃ、\nでかい口たたくじゃねぇか、お姉ちゃんよう！
 \n
-What'd you call me?! That's not how a\n
-good piggy's supposed to squeal,
-<$0C>
-missy!
+What'd you call me?! That's not how\n
+a piggy's supposed to squeal, missy!
 <$00><$11><$0B>
 //ゴールド：
 Gold:
@@ -541,18 +525,16 @@ Smokey:
 <$0D>
 //\nくそ！ 手前ぇら、いい気になりやがって！
 \n
-Grr...! I'll pass. That smug look on her\n
-face says she's fine.
+Grr...! I'll pass. That smug look\n
+on her face says she's fine.
 <$00><$10><$0B>
 //スモーキー：
 Smokey:
 <$0D>
 //\n気取り屋どもが！\nせいぜい気を付けることだな！
 \n
-You're all a bunch of snobs! Damned\n
-well better watch your backs out
-<$0C>
-there.
+You're all a bunch of snobs!\n
+You'd better watch your backs.
 <$1E>
 //双
 双
@@ -577,18 +559,18 @@ Gold:
 <$0D>
 //\nここにはいねぇ。見りゃ分かるだろ。
 \n
-They're not here. Anyone with eyes\n
-can see that.
+They're not here.\n
+Anyone with eyes can see that.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nここのやつらは、\nお前らみたいに制服着てるやつに\nこっぴどくやられたからな、
 \n
-Then again, anyone with a brain\n
-wouldn't waltz in wearing those
+Then again, anyone with a\n
+brain wouldn't waltz in here.
 <$0C>
-uniforms...
+Not with those uniforms...
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -596,17 +578,15 @@ Gold:
 //\nいい気がしねぇんだ。くそったれ！
 \n
 Bad shit happens to hunky-dory\n
-idiots like you. Hence the word,
-<$0C>
-"snob".
+snobs like you.
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私たちはあなたたちの言う\nおまわりじゃないのよ。
 \n
-But you're all wrong! We're not\n
-snobs!
+But you're all wrong!\n
+We're not snobs!
 <$00><$10><$0B>
 //ゴールド：
 Gold:
@@ -700,9 +680,7 @@ Gold:
 //\n監房にもいねぇし、\n俺がかくまってるんじゃねぇかって\n疑いやがって、あの野郎！
 \n
 I doubt the mongrel got himself a\n
-cell, so he'll be hiding around, I'm
-<$0C>
-sure.
+cell, so he'll be creeping around.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -710,9 +688,7 @@ Gold:
 //\n何回もこの店に来たぜ。\nケンカはごめんだ、さ、もう店じまいだ、\n出てくれ。
 \n
 He's a regular, so I'm sorry he's like\n
-that. Still, we're closed, so hurry on
-<$0C>
-out.
+that. Still, I'm closed. Hurry on out.
 <$1E>
 //声
 声
@@ -730,8 +706,8 @@ Gold:
 <$0D>
 //\n何だ、もう店じまいなんだよ、\n出てくれ、さ、早く。
 \n
-What are you still doing here? Hurry\n
-on out!
+What are you still doing here?\n
+Hurry on out!
 <$1E>
 //家
 家
@@ -750,9 +726,7 @@ Gold:
 //\nおい、あんまりうろちょろしてると、\nスモーキーのやつに見つかるぜ。\n騒ぎはごめんだ、ケンカもな。
 \n
 Don't stick your neck out too much, or\n
-Smokey'll waste no time giving it a
-<$0C>
-good chop.
+Smokey'll waste no time breaking it.
 <$1E>
 //声
 声
@@ -771,9 +745,7 @@ Gold:
 //\nまずいぜ、スモーキーのやつ、\nあれでおとなしく引き下がるはずがねぇや。
 \n
 Just so you know, there's no way\n
-Smokey backed off for good after all
-<$0C>
-that.
+you're off Smokey's hook after that.
 <$1E>
 //家
 家

@@ -25,10 +25,10 @@ Boomer:
 <$0D>
 //\n見えねぇ目玉やら日記やら、\nおかしな話だらけだ。
 \n
-Ohhh, what I cannot see are the\n
-eyeballs or the visual oddities
+Ohhh, what I cannot see...
 <$0C>
-etched on the walls.
+...are the eyeballs and other 
+oddities etched on the walls.
 <$1E>
 //声
 声
@@ -46,8 +46,8 @@ Boomer:
 <$0D>
 //\n俺には見えねぇ、\n見えねぇもんは見えねぇんだ。
 \n
-Ohhh, I can't see it. I can't see it, I\n
-can't see it...
+Ohhh, I can't see it.\n
+I can't see it, I can't see it...
 <$1E>
 //家
 家
@@ -57,8 +57,8 @@ Boomer:
 <$0D>
 //\nレッドのやつ、もうじき戻ってくるぜ…\n気を付けな…
 \n
-Red will be back soon. Ahhh, you\n
-should be careful...
+Red will be back soon.\n
+Ahhh, you should be careful...
 <$00>
 
 // Pos: 000013F1
@@ -73,7 +73,8 @@ Boomer:
 <$0D>
 //\nまだ収まらねぇ… どうなっちまうんだ？
 \n
-It still doesn't fit... What's going on?
+It still doesn't fit...\n
+What's going on?
 <$1E>
 //声
 声
@@ -114,9 +115,9 @@ Boomer:
 //\nあああ、ここにいても何か変な惑じがするぜ。\nパチパチ、パチパチ。
 \n
 Ohhh, there's a strange crackle\n
-crackling around here. Crackle,
+crackling around here.
 <$0C>
-crackle...
+Crackle, crackle...
 <$1E>
 //声
 声
@@ -153,8 +154,8 @@ Boomer:
 <$0D>
 //\nもう夜は来ねぇんじゃねえか、\n白い光が見えたぜ。
 \n
-Ahhh, I don't think night will return. I\n
-saw the white light.
+Ahhh, I don't think night will return.\n
+I saw the white light.
 <$00>
 
 // Pos: 000014B4
@@ -209,9 +210,7 @@ Boomer:
 //\nパチパチだ、デンパでパチパチ。\nあんたも仲間か？
 \n
 Ohhh, with a boom and a crackle,\n
-crackle, crackle. Didn't you go see
-<$0C>
-them?
+crackle, crackle. Didn't you see?
 <$00>
 
 // Pos: 00001555
@@ -226,8 +225,8 @@ Spacer:
 <$0D>
 //\nああ、いや、私は見るだけだ。\n金星人のデンパなど、私は信じない。
 \n
-Oh, uh, just to look. I don't believe in\n
-that Venusian radio wave stuff.
+Oh, uh, just to look. I don't believe\n
+in that Venusian radio wave stuff.
 <$00>
 
 // Pos: 00001585

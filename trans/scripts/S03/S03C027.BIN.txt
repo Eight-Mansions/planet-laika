@@ -92,7 +92,7 @@ Little:
 //\nどうしたレッド？\n善人ってのは見つかったのか？
 \n
 What's up, Red? Have you found\n
-yourself a new "good boy"?
+your self a new "good boy"?
 <$00>
 
 // Pos: 00002FA7
@@ -372,7 +372,7 @@ Little:
 //\n自分の悪に耐えきれなかったんだ。
 \n
 He couldn't stand up to the\n
-evil within himself.
+evil within him self.
 <$0C><$0B>
 //リトル：
 Little:
@@ -735,7 +735,7 @@ April:
 <$0D>
 //\n彼女は何かすごく重いものを\n背負ってるようだけど…
 \n
-From the way she carries herself,\n
+From the way she carries her self,\n
 you'd think she'd be full of it.
 <$0C><$0B>
 //エイプリル：
@@ -860,8 +860,6 @@ Thomas:
 \n
 Amanda is not a woman satisfied\n
 with living as a mirror spirit.
-<$0C>
-spirit.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -881,7 +879,7 @@ Thomas:
 \n
 With such a mirror...
 <$0C>
-...the seas and lands of Planet Mars
+...the seas and lands of Planet Mars\n
 might be reborn in her wicked image.
 <$0C><$0B>
 //トーマス：
@@ -981,7 +979,7 @@ from what me and the guys are.
 <$0D>
 //\n問顆は心も欲しがるかということだ。\n
 \n
-What is Amanda searching for?
+What is Amanda searching for?\n
 
 <$0B>
 //トーマス：

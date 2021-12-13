@@ -25,10 +25,8 @@ Tommy:
 <$0D>
 //\nサイコハウスのやつら、\n電気でビリビリになりやがった。
 \n
-They zapped themselves up with a\n
-boatload of electricity and fried
-<$0C>
-their brains.
+The guys fried their brains\n
+with a boatload of electricity.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -36,17 +34,15 @@ Tommy:
 //\nへん、人のことバカにしやがって！\n地球にいりゃ白いマント着て\nたき火でダンス野郎だ、そうだろ、
 \n
 Shitbags must've thought they were\n
-at that level to wear big cloaks and
-<$0C>
-dance around fire.
+sooooo bright, huh.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nあいつらなんか黒こげになっちまえ！\nひゃひゃひゃ、チャーリーのごちそうだ！
 \n
-And like a real bag of shit, they got\n
-burned and stomped out, a-yup!
+And now, their worlds've all gone\n
+dark, and Charlie had his feast!
 <$0C>
 Charlie saw to that!
 <$00>
@@ -63,18 +59,16 @@ Tommy:
 <$0D>
 //\nチャーリーってのは電気イスのことだ、\nニックネームがあったんだ。
 \n
-"Charlie" is the nickname we have for\n
-the Prison 4 electric chair.
+"Charlie" is the nickname we have\n
+for the Prison 4 electric chair.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n一番えらいのは所長じゃねぇ、\n電気イスのチャーリー様だ。
 \n
-No, it's not the name of anyone using\n
-it. The big honcho is the electric chair
-<$0C>
-itself.
+No, it's not the name of its handler.\n
+The big honcho is the chair itself.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -82,18 +76,16 @@ Tommy:
 //\nやつはなぁ、たまげた欲張りで、何カ月も\n処刑がないといらつきはじめるんだ。
 \n
 Charlie's a hungry boy, but hasn't had\n
-a meal in some months. He's
-<$0C>
-been...jittery.
+a meal in some months. He's...jittery.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n早く新鮮な肉を食いてぇ、\n真っ黒焦げにして食いてぇってな。
 \n
-He needs his fresh meat, and fast.\n
-Just char the suckers up and bon
+He needs his fresh meat, and fast.
 <$0C>
+Just char the suckers up and bon\n
 appetit, a-yup!
 <$0C><$0B>
 //トミー：
@@ -101,10 +93,8 @@ Tommy:
 <$0D>
 //\nチャーリーがいらいらすると、\n刑務所中の電気がぱちぱちするんだ、\n点いたり消えたりするんだ。
 \n
-When Charlie is hungry, the\n
-electricity in the entire prison
-<$0C>
-flickers on and off.
+When Charlie's hungry, Prison 4's\n
+electricity flickers on and off.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -112,7 +102,7 @@ Tommy:
 //\nへへ、今でもぱちぱちしてるか？\nひゃひゃ、チャーリーのごちそうだ。
 \n
 Hehe, if you ever see the power jump\n
-around here, then that's Charlie.
+around here, that's our Charlie.
 <$00>
 
 // Pos: 00003B7E
@@ -274,10 +264,10 @@ Sammy:
 <$0D>
 //\nサイコちゃんたちの実験よ、\n何だかハウスの様子が変なのよ。
 \n
-The little Psycho's, I mean. They're\n
-always up to strange experiments
+The little Psycho's, I mean.
 <$0C>
-over at Psycho Lab.
+They're always up to strange\n
+experiments over at Psycho Lab.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -285,7 +275,7 @@ Sammy:
 //\nばりばり、ばりばりって\n音が開こえてくるのよ。
 \n
 They're always making weird\n
-scritching noises.
+crackling noises.
 <$1E>
 //中
 中
@@ -303,8 +293,8 @@ Sammy:
 <$0D>
 //\n何？ 何がどうしたの？\nリトルがあわてて？
 \n
-Hey, what happened? Why is Little in\n
-such a non-little hurry?
+Hey, what happened? Why is Little\n
+in such a non-little hurry?
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -319,9 +309,7 @@ Sammy:
 //\nアタシの他にもいろいろ？\nあはは、楽しいわね、ユカイだわ！
 \n
 Then that means there are others\n
-like me! Heehee, what fun! Oh, I love
-<$0C>
-this!
+like me! Heehee, what fun! 
 <$1E>
 //中
 中
@@ -347,13 +335,12 @@ Tommy:
 //\nあー、チャーリー様だ、お肉の臭い、\nひへへへへなあ兄ちゃんよう、知ってるか？
 \n
 Charlie's got that bad meat smell\n
-right now. You know what that
+right now.
 <$0C>
-means, right?
+You know what that means, right?
 <$1B>
 //？知ってる\n知らない
-？Yes\n
-No
+？Yes\nNo
 <$00><$17><$00>
 
 // Pos: 00003E71
@@ -369,19 +356,17 @@ Tommy:
 //\nへへ、そうかい。\nいよいよ始まるんだ、蕃判やら奇跡やらだ。
 \n
 Heh, thought so. Both Judgement\n
-and miracles are stirring up in
-<$0C>
-strange ways.
+and miracles blend in odd ways.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nとにかく、今のままじゃねぇぞ。\nいろいろ変わるんだ。
 \n
-But it doesn't hit everyonet he same\n
-way. It's different everywhere you
+But it doesn't appear to everyone\n
+in one set form.
 <$0C>
-look.
+It's different everywhere you look.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -389,17 +374,17 @@ Tommy:
 //\nハウスじゃサイコ野郎がパチパチ実験、\nリャンハウスじゃ布がピカピカ光ってる…
 \n
 Psycho Lab has the crackly\n
-experiment, House Liang has the
+experiments.
 <$0C>
-sparkly cloth.
+House Liang has the sparkly cloth.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n俺はどうなるんだ、\n兄ちゃんはどうなるんだ？
 \n
-What'll happen to me, comrade? And\n
-what'll happen to you?
+How will it come to me, comrade?\n
+And how will it come to you?
 <$1E>
 //声
 声
@@ -418,17 +403,15 @@ Rummy:
 //\nはは、コスマスだな。 僕もコスマスみたいに、\n心の友だちとお話できるようになってきたな。
 \n
 Oh, Cosmas. Hoho, I'm starting to\n
-talk to friends in my head the way he
-<$0C>
-does.
+talk to my self the way he does.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n僕にもいるんだな、\nいつもお酒を飲んでるけれどね。
 \n
-I have friends too, even if one of\n
-them does drink a lot.
+I have friends in there too, even\n
+if one of them's a damn drunk.
 <$00>
 
 // Pos: 00003F73
@@ -444,8 +427,9 @@ Cosmas:
 //\nダークマンは何人もいないよ、ひとりだよ。\nそれにお酒は飲まないよ。
 \n
 There aren't other people like Dark\n
-Man. There's only one, and he doesn't
+Man.
 <$0C>
+There's only one, and he doesn't\n
 drink alcohol.
 <$00>
 
@@ -462,9 +446,7 @@ Rummy:
 //\nそうだね、僕のは建うね、\nダークマンじゃないね。
 \n
 Really? Then I guess Dark Man and I\n
-are different in more ways than one,
-<$0C>
-huh.
+are different in more ways than one.
 <$00>
 
 // Pos: 00003FC3
@@ -488,9 +470,7 @@ Cosmas:
 //\nねぇ、ダークマン、\nそっちにいくとレッドおじさんがいるよ。\nきっといるよ。
 \n
 All right, Dark Man. If you go that\n
-way, you'll find Uncle Red. I'm sure of
-<$0C>
-it.
+way, you'll find Uncle Red. I'm sure.
 <$00>
 
 // Pos: 0000401D
@@ -505,8 +485,8 @@ Rummy:
 <$0D>
 //\n同じ臭いだな、同じだな。\nあんたと僕と。
 \n
-You and I smell the same! We have the\n
-same smell, a-ha!
+You and I smell the same!\n
+We have the same smell, a-ha!
 <$00>
 
 // Pos: 0000403E
@@ -536,8 +516,8 @@ Rummy:
 <$0D>
 //\nブー、だな。 はずれだな。\n僕はラミーだな。
 \n
-Bzzt! I thought you knew better. I'm\n
-Rummy!
+Bzzt! I thought you knew better.\n
+I'm Rummy!
 <$00>
 
 // Pos: 00004076
@@ -576,18 +556,16 @@ Rummy:
 <$0D>
 //\nへへ、金星人か…\n確かに金星人がいるのは本当だな、
 \n
-Hoho, it's true! The Venusians do\n
-exist, a-ha!
+Hoho, it's true! The Venusians\n
+do exist, a-ha!
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nしかしな、電波は届いていないな。\n弱いんだな、電波がな、だから届かない。
 \n
-But alas, we're not getting their\n
-waves. The waves are too weak to
-<$0C>
-reach us.
+But we're not getting waves.\n
+Theirs are too weak to reach us.
 <$00>
 
 // Pos: 00004133

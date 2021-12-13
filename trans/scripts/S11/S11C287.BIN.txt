@@ -58,9 +58,7 @@ Little:
 //\nちくしょう、その声はお前がやってきてから\nひどくなりやがったんだ。
 \n
 Goddammit, the voices only got\n
-worse and worse after you came
-<$0C>
-here.
+worse after you came here.
 <$0C><$0B>
 //リトル：
 Little:
@@ -74,8 +72,8 @@ Little:
 <$0D>
 //\nお前が連れていく、\n俺の頭の中じゃそうなってるんだ。
 \n
-I've got it in my head already that you\n
-should lead.
+I've got it in my head already\n
+that you should lead.
 <$00>
 
 // Pos: 0000213A
@@ -86,9 +84,8 @@ should lead.
 
 <$10><$13><$19><$0B><$0D>
 //あああ、用済み、\nそうさ、用済みの場所に行くんだ！
-Yes, I must go!\n
-To the place where I can serve my\n
-purpose!
+Yes, I must go! To the place\n
+where I can serve my purpose!
 <$00>
 
 // Pos: 00002160
@@ -157,10 +154,10 @@ Little:
 <$0D>
 //\n金星人野郎の頭はこの詩であふれた。\nそして弾けた。
 \n
-A poem that surged into Psycho Lab's\n
-Venusian zealot brains until all their
+A poem that was surged into Psycho\n
+Labs's Venusian zealots brains.
 <$0C>
-brains popped.
+It's why their brains popped.
 <$0C><$0B>
 //リトル：
 Little:
@@ -183,8 +180,8 @@ Little:
 <$0D>
 //\nへっ、他にもお前に話したいやつがいるのか。\n無線テレビだ、そうだそうだ。
 \n
-Oi, if you want to talk with anyone, go\n
-play with that monitor, got it?
+Oi, if you want to talk with anyone,\n
+go play with that monitor, got it?
 <$1E>
 //家
 家

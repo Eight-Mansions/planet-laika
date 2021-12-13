@@ -32,9 +32,10 @@ Yolanda:
 <$0D>
 //\nあーあーよ。新しい事実がどうのこうの…\nまたあの名前で呼んでたわ…アタシのこと…
 \n
-Ayyye, guess I'm a "new reality"\n
-now! Because NO ONE cares that I
+Ayyye, guess I'm a\n
+"new reality"...
 <$0C>
+Because NO ONE cares that I\n
 might have a name already!
 <$00>
 
@@ -89,16 +90,16 @@ April:
 <$0D>
 //\nここは変よ、\nウソの世界を見せられてるみたい…
 \n
-This place is insane. It's like a circus\n
-show made up of lies...
+This place is mad. It's like a circus\n
+show made up of trick mirrors...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nああ、ダメ、もう少しでつながるのに。
 \n
-Drats. Right when I thought we had\n
-an in.
+Drats. Right when I\n
+thought we had an in.
 <$00>
 
 // Pos: 00001A93
@@ -113,8 +114,8 @@ April:
 <$0D>
 //\n気が付いていないみたいね。\n無線テレビはどう？
 \n
-If no one's using the monitor, why\n
-not give it a look?
+If no one's using the monitor,\n
+why not give it a look?
 <$00>
 
 // Pos: 00001AB8
@@ -207,8 +208,8 @@ Yolanda:
 <$0D>
 //\n何かメッセージ、来てない？
 \n
-Oh, oopsie-me. Didn't a message just\n
-come in?
+Oh, oopsie-me.\n
+Didn't a message just come in?
 <$00>
 
 // Pos: 00001B8B
@@ -223,8 +224,8 @@ Oxygen Miner 3：
 <$0D>
 //\n来てるが、勝手に入らないでくれ。
 \n
-OnE dId, bUt thAt dOEsn't mEAn yOU\n
-cAn wAltz OvEr hErE!
+OnE dId, bUt thAt dOEsn't mEAn\n
+yOU cAn wAltz OvEr hErE!
 <$00>
 
 // Pos: 00001BB0
@@ -254,8 +255,8 @@ Oxygen Miner 3：
 <$0D>
 //\nシーシーシー！ ダメだ、出て行け！
 \n
-WhOOsh, whOOsh, whOOsh! TOO BAD,\n
-GET OUT!
+WhOOsh, whOOsh, whOOsh!\n
+TOO BAD,GET OUT!
 <$00>
 
 // Pos: 00001BF2
@@ -307,8 +308,8 @@ Oxygen Miner 3：
 <$0D>
 //\nまただ、また来る、シー。\n静かに放っておいてくれ、
 \n
-HErE AgAIn, whOOsh. LEAvE Us bE\n
-qUIEtly.
+HErE AgAIn, whOOsh.\n
+LEAvE Us bE qUIEtly.
 <$0C><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：

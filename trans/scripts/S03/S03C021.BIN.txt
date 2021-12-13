@@ -437,8 +437,6 @@ Thomas:
 \n
 Amanda is not a woman satisfied\n
 with living as a mirror spirit.
-<$0C>
-spirit.
 <$0C><$0B>
 //トーマス：
 Thomas:
@@ -458,7 +456,7 @@ Thomas:
 \n
 With such a mirror...
 <$0C>
-...the seas and lands of Planet Mars
+...the seas and lands of Planet Mars\n
 might be reborn in her wicked image.
 <$0C><$0B>
 //トーマス：
@@ -558,14 +556,12 @@ from what me and the guys are.
 <$0D>
 //\n問顆は心も欲しがるかということだ。\n
 \n
-What is Amanda searching for?
+What is Amanda searching for?\n
 <$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
-
-<$0C>
 I dare say, Feng would have no\n
 qualms offering her body to\n
 Amanda. Feng is her disciple.

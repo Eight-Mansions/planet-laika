@@ -23,7 +23,8 @@ I think Red's after you, comrade.
 Tommy:
 <$0D>
 //\nひゃー、そりゃ大変だ。
-nYeesh, talk about bad.
+\n
+Yeesh, talk about bad.
 <$00>
 
 // Pos: 000019CB
@@ -38,8 +39,8 @@ Tommy:
 <$0D>
 //\nやつはスモーキーとは建う、\nいきなり殴ったりはしねぇよ。
 \n
-Red's not like Smokey, you\n
-understand. That guy isn't so quick.
+Red's not like Smokey, you know.\n
+He's not that trigger-happy.
 <$00>
 
 // Pos: 000019F1
@@ -54,17 +55,15 @@ Tommy:
 <$0D>
 //\n女はどうだか分からねぇけどな、\n男は殴らねぇ。
 \n
-I'm not sure how he is around women\n
-normally, but guys try not to mess
-<$0C>
-with him.
+I'm not sure how he is with women,\n
+but he doesn't pick on us men.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nそれよりやっかいなのは、兄ちゃんよう、\nやつに気に入られることだ。
 \n
-Still, it looks like he's taken a\n
+Buuut, it looks like he's taken a\n
 particular liking to you, comrade.
 <$0C><$0B>
 //トミー：
@@ -72,18 +71,16 @@ Tommy:
 <$0D>
 //\n兄ちゃんみたいなの、\n好みのタイプだったりしてな、ひゃひゃひゃ。
 \n
-Strapping young'ns like you are his\n
-favorite type, hehe.
+Strapping young'ns like you must\n
+be his favorite type, hehe.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n兄ちゃんよう、このへんはヤバイぜ、\nさっきレッドのやつを見かけたぜ。
 \n
-I'm serious! This is dangerous. I saw\n
-Red earlier and he's on the prowl for
-<$0C>
-YOU!
+I'm serious! I just saw Red,\n
+and he's on the prowl for YOU!
 <$1E>
 //声
 声
@@ -101,10 +98,8 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう、このへんでレッドのやつ見たぜ。\n見つかんないようにしねぇとな、\n気に入られちまうぜ。
 \n
-This is dangerous. I saw Red earlier\n
-and he's on the prowl for YOU! You'd
-<$0C>
-better steer clear!
+Watch out! I just saw Red,\n
+and he's on the prowl for YOU!
 <$1E>
 //家
 家
@@ -122,10 +117,10 @@ Tommy:
 <$0D>
 //\nよう、ブーマーのやつ見たかい？\nへへ！ またコーカイが始まったぜ。
 \n
-Have you seen Boomer? Hehe, he\n
-started another one of his little
+Have you seen Boomer?
 <$0C>
-soliloqueys.
+Hehe, he's on another one\n
+of his little soliloqueys.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -135,11 +130,10 @@ Tommy:
 That guy lives for making a\n
 production out of everything.
 <$0C>
-Wanna hear an example?
+Wanna hear a story about that?
 <$1B>
 //、開きたい\n開きたくない
-、Yes\n
-No
+、Yes\nNo
 <$00><$17><$00>
 
 // Pos: 00001B3B
@@ -154,7 +148,7 @@ Tommy:
 <$0D>
 //\nあいつにはじいさんがいた。
 \n
-The guy had a grandpa.
+All right. Boomer had this grandpa.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -162,35 +156,34 @@ Tommy:
 //\nそのじいさんってのが、ビックリだ、\n６９年間もしゃっくりが止まらねぇじいさんだ。\n６９年だぜ。
 \n
 The grandpa got spooked by\n
-something, and he hiccuped
+something, and got the hiccups.
 <$0C>
-non-stop for 69 years.
+He then hiccuped non-stop\n
+for 69 years.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nある日、ブーマーのやつはひらめいたんだ。\nそれでカンオケこしらえた。
 \n
-One day, Boomer got an idea, and he\n
-made a coffin.
+One day, Boomer got an idea to\n
+help his grandpa. He made a coffin.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nじいさんがしゃっくりにアンディって\n名前まで付けてたもんだから、
 \n
-The grandpa then decided to call the\n
-hiccups "Andy", and they pretended
-<$0C>
-that Andy died.
+The idea was to name the hiccups\n
+"Andy", and roleplay Andy's death.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nアンディが死んだことにすりゃ\nしゃっくりは収まる、\nそう考えたんだな。
 \n
-The logic was, "If Andy dies, the\n
-hiccups die with him!"
+The logic was, "If Andy dies,\n
+the hiccups die with him!"
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -198,19 +191,17 @@ Tommy:
 //\nじいさんが寝てる間にカンオケに入れて、まるで\n本当に死んだみたいに花まで用意したんだ。
 \n
 Boomer put his grandpa into the\n
-casket, and even arranged flowers
+casket, and even arranged flowers.
 <$0C>
-for him. The whole shpeal.
+Seriosuly, the whole shpeal.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n朝になって、じいさんはたまげた。\n確かにしゃっくりは収まったそうだ。
 \n
-That next morning, his grandpa was\n
-elated, shouting, "The hiccups have
-<$0C>
-stopped!"
+Next morning, his grandpa's\n
+shouting, "My hiccups stopped!"
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -218,9 +209,9 @@ Tommy:
 //\nけどよ、じいさんはみるみる弱ってしまい、\n２日後にぽっくりだ。
 \n
 But then, the old man suddenly grew\n
-weaker, and weaker. He died two
+weaker, and weaker. No idea why.
 <$0C>
-days later.
+He died two days later.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -228,9 +219,9 @@ Tommy:
 //\nブーマーは、じいさんは自分のせいで\n死んだと思ってる… まぁ建いねぇな。
 \n
 Boomer thinks the old man died\n
-because of him, a-yup. And he might
+because of him, a-yup.
 <$0C>
-just be right.
+He might be right.
 <$1E>
 //声
 声
@@ -255,10 +246,8 @@ Tommy:
 <$0D>
 //\nへへ、コーカイは先にはなんとかだ、\n兄ちゃんも気を付けな。
 \n
-Hehe, gotta be careful around\n
-people who put themselves out like
-<$0C>
-that.
+Hehe, be careful around people\n
+who put their necks out like that.
 <$1E>
 //家
 家
@@ -318,10 +307,10 @@ Tommy:
 <$0D>
 //\nへへへ、ブーマーのやつ、\nとうとういかれちまった。\n頭ん中で、バケモノが鋭動会してるんだ。
 \n
-Hehe, that Boomer guy finally lost it.\n
-The monsters in his mind are having a
+Hehe, that Boomer guy finally lost it.
 <$0C>
-ball.
+The monsters in his mind are finally\n
+having their ball.
 <$1E>
 //声
 声
@@ -396,7 +385,7 @@ Spacer:
 <$0D>
 //\nこのこよみは… ヘブライのこよみなのか。
 \n
-Tammuz, Tammuz... Is this from a\n
-Hewbrew calander?
+Tammuz, Tammuz...a\n
+Is this the Hewbrew calander?
 <$00>
 

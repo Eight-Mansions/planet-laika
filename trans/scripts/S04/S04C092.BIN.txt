@@ -32,7 +32,8 @@ doing, snoopin' around?!
 April:
 <$0D>
 //\n知ってるの？ ライカのこと。
-nDo you know Laika?
+\n
+Do you know Laika?
 <$00>
 
 // Pos: 00001F58
@@ -63,10 +64,8 @@ April:
 <$0D>
 //\nねぇ、どうしてここの人たちは、\nみんなぴりぴりしてるの？\n何かよくないことでもあるの？
 \n
-Why is everyone here so on edge\n
-then? You can't ALL be hiding
-<$0C>
-something!
+Why is everyone here so on edge?\n
+You can't ALL be hiding something!
 <$00>
 
 // Pos: 00001FB0
@@ -82,8 +81,8 @@ Little:
 //\nここはカンペキだ。何も悪いところはない。\n迷信に振り回されて大騒ぎしてるのは\nお前たちの方だ、ええ？
 \n
 Of course not! There's no evil afoot.\n
-The rumors and uproars are all
 <$0C>
+The rumors and uproars are all\n
 superstition!
 <$00>
 
@@ -99,10 +98,10 @@ April:
 <$0D>
 //\n迷信？ メディスンマンから開いたのよ、\nイーブルマインドや黒い騎士の話。\nどこかで悪が大きく育っているのよ。
 \n
-Superstition? But even the medicine\n
-men told us about Evil Mind and the
+Superstition? 
 <$0C>
-Black Rider!
+But even the medicine men believe\n
+in Evil Mind and the Black Rider!
 <$00>
 
 // Pos: 0000203C
@@ -117,28 +116,28 @@ Little:
 <$0D>
 //\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
 \n
-How lovely. Then, you totally don't\n
-care about what the warehouse
+\n
+How lovely. So, you don't care\n
+about our warehouse next door?
 <$0C>
-next door stores, right? Our\n
-oxygenite?
+The one that stores our\n
+lucrative oxygenite reserves?
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nお前たちが見捨てたこの星は、\nあの酸索石でよみがえる。
 \n
-It is WE who used OUR oxygenite\n
-resources to restore the planet YOU
-<$0C>
-abandoned!
+It is WE who use OUR resources to\n
+restore the planet YOU abandoned!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n今さらお前らの手を借りる必要はない、\nそうだそうだ。
-nPROVING, see, that you are\n
-NOT so indispensible, got it?
+\n
+PROVING, see, that you are NOT\n
+so indispensible, got it?
 <$0C><$0B>
 //リトル：
 Little:
@@ -146,7 +145,7 @@ Little:
 //\nこの星にはこの星なりのやり方がある、\nそういうことだ。
 \n
 Mars has its own way of doing things,\n
-and we'll keep doing it ON OUR OWN.
+and we'll keep doing them ON OUR OWN.
 <$00>
 
 // Pos: 000020F5
@@ -162,8 +161,8 @@ April:
 <$0D>
 //\n分からない…\n迷信なら迷信でいいの。
 \n
-I don't understand. I mean, if all it\n
-was were superstition, that'd be
+I don't understand! If this is\n
+all one big ghost story, fine.
 <$0C>
 fine.
 <$0C><$0B>
@@ -172,7 +171,7 @@ April:
 <$0D>
 //\nでも実際にザ・フェイスの上空で\nおかしな光に包まれたのよ。
 \n
-But even we saw it! The sky about the\n
+But we saw it! The sky above the\n
 Face was engulfed in a strange light!
 <$00>
 
@@ -188,10 +187,10 @@ Little:
 <$0D>
 //\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
 \n
-Nothing happened to the Face. That\n
-thing's only a dumb souvenir left by
+Nothing is wrong with the Face.
 <$0C>
-the Martians.
+That thing's a dumb forget-me-not\n
+left by the Martians.
 <$0C><$0B>
 //リトル：
 Little:
@@ -209,9 +208,10 @@ Little:
 //\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
 \n
 You all obsess over human faces so\n
-bad, you come out here, see it and
+bad, you'll swarm to it like bees.
 <$0C>
-then pay us for cosmetic surgery!
+And then, when you see it, you'll
+pay us for cosmetic surgery!
 <$00>
 
 // Pos: 00002205
@@ -227,8 +227,8 @@ April:
 <$0D>
 //\n私たちが着陸しようとしたとき…それに…
 \n
-So, the disruption we had when we\n
-tried to land was only...
+So, the disruption we felt when\n
+we tried to land was only...
 <$00>
 
 // Pos: 00002225
@@ -243,8 +243,8 @@ Little:
 <$0D>
 //\n操縦を誤っただけだ、よくあることだ、\nそうだそうだ。
 \n
-A fluke on your engineer's part. It\n
-happens all the time, got it?
+A fluke on your engineer's part.\n
+It happens all the time, got it?
 <$00>
 
 // Pos: 0000224B
@@ -259,16 +259,16 @@ April:
 <$0D>
 //\nそうね…分かったわ、\nはぐれたクルーを見つけて、
 \n
-I see. Then, I suppose we should look\n
-for the rest of our crew,
+I see. Then, I suppose we should\n
+look for both men from our crew.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nザ・フェイスに何も異変が見あたらなかったら\nさっさと引き揚げる、これでどう？
 \n
-and if nothing else happens to the\n
-Face, we'll leave first thing. Fair?
+If we don't find anything else,\n
+we'll leave first thing. Fair?
 <$00>
 
 // Pos: 000022A2
@@ -283,8 +283,8 @@ Little:
 <$0D>
 //\n賢明だ。さっさとな、\nそれが賢明だ、そうだそうだ。
 \n
-Yes, fantastic even. And you said,\n
-"first thing", got it?
+Yes, fantastic even.\n
+"First thing," you said, got it?
 <$00>
 
 // Pos: 000022C8
@@ -299,10 +299,8 @@ April:
 <$0D>
 //\n船長と機関士がいないと\nロケットを飛ばせないのよ。
 \n
-But we won't fly the rocket without\n
-both our captain and our engineer,
-<$0C>
-understand?
+Yep. I also said, "both". We need our\n
+captain AND our engineer, got it?
 <$00>
 
 // Pos: 000022F2
@@ -318,7 +316,7 @@ Little:
 //\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
 \n
 Oi, if it speeds things up, I'll dispatch\n
-a search party the mornin'.
+a search party in the mornin'.
 <$00>
 
 // Pos: 00002332
@@ -333,7 +331,8 @@ April:
 <$0D>
 //\nもう行っていい？
 \n
-But Laika and I need to look now!
+Morning?! But Laika and\n
+I need to look now!
 <$00>
 
 // Pos: 00002346
@@ -348,8 +347,8 @@ Little:
 <$0D>
 //\nあのふたりに送らせよう。
 \n
-...Hmph. Excuse me while I speak to\n
-the pair outside.
+...Hmph. Excuse me while I speak\n
+to the pair outside.
 <$1E>
 //家
 家
@@ -367,17 +366,15 @@ April:
 <$0D>
 //\nあのふたりって…\nあの人たちのことね。
 \n
-Those two bouncers...sure are two\n
-peas in a pod.
+Those bouncers...sure are two\n
+peas in a pod. It's like...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nヒガシとニシからやってきて、\nコロニーに居着いたんだって。
 \n
-It's like they came from pure\n
-opposite sides of the world and came
-<$0C>
-together in the colony.
+Like they came from pure opposite\n
+ends of the world to meet here.
 <$00>
 

@@ -24,8 +24,8 @@ Captain Tatler:
 <$0D>
 //\nよかった、ちょうどよかった！\n助けてくれ！
 \n
-Laika, am I glad to see you! You've\n
-gotta help me!
+Laika, am I glad to see you!\n
+You've gotta help me!
 <$00>
 
 // Pos: 00001C84
@@ -55,8 +55,8 @@ Captain Tatler:
 <$0D>
 //\nああ、ライカ君だか、アーネストだか、\n誰でもいい、とにかく急いでくれ。
 \n
-Ernest, Laika, I don't care! There's no\n
-time!
+Ernest, Laika, I don't care!\n
+There's no time!
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -124,8 +124,8 @@ Ernest:
 <$0D>
 //\nおっさんよう、何やってんだ？ ひとりで？
 \n
-Are you kidding, old man?! You can't\n
-go in by yourself!
+Are you kidding, old man?!\n
+You can't go in by your self!
 <$00>
 
 // Pos: 00001D71
@@ -140,17 +140,18 @@ Oxygen Miner 5：
 <$0D>
 //\n燃える燃える、みんな燃える。
 \n
-We will burn! We will burn! Everyone\n
-will burn!
+We will burn! We will burn!\n
+Everyone will burn!
 <$0C><$0B>
 //酸索坑夫５号：
 Oxygen Miner 5：
 <$0D>
 //\n夢も希望も妄想も、心から現れたもの、\n全てが燃える、シー。
 \n
-Dreams, hopes, delusions! All will\n
-rish, whoosh! From the heart,
+Dreams, hopes, delusions!\n
+All will rise, whoosh! 
 <$0C>
+Rise from the heart,\n
 whoosh! All will burn!
 <$1E>
 //理

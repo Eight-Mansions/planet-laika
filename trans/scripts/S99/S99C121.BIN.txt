@@ -29,15 +29,15 @@ Commander October:
 //\nそれともこれは君にとっては\n自分さがしの旅なのかね？
 \n
 What's more, you're on a journey to\n
-find yourself.
+find your self.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\n私としても最善を尽くしているのでね、\n分かって欲しいんだ。
 \n
-I'm doing my best to help you. I want\n
-you to know that.
+I'm doing my best to help you.\n
+ I want you to know that.
 <$00>
 
 // Pos: 00003021
@@ -386,7 +386,7 @@ Commander October:
 <$0D>
 //\nただひとつ、マコトの双子なのだよ。
 \n
-No, the world itself only yearns for\n
+No, the world only yearns for\n
 an answer from the Twins of Truth.
 <$00>
 

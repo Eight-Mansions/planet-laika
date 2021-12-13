@@ -18,25 +18,23 @@ Damian:
 //\nふふふ、あんたもやるじゃない。\nレッドのやつ、とうとうおかしくなったよ。
 \n
 Heehee, so you've seen it too now!\n
-Red has finally lost his mind.
+Red finally lost his mind.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nおかえしだね、これまでさんざん…\nふふふ、もっと他にも楽しみたいでしょ。
 \n
-And now, he's on the revenge path.\n
-It'll get even more fun for you from
-<$0C>
-here on out.
+He's on the revenge path. It'll get\n
+even more fun for you from now on.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\n頭のいいあんたならサイコハウスで\nいいことあるよ、ほんとさ。
 \n
-If you're really smart, you'll go over\n
-to Psycho Lab.
+If you're really smart,\n
+you'll go over to Psycho Lab.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -76,16 +74,16 @@ Red:
 <$0D>
 //\nお前を痛めつける代わりに、\nたっぷり可愛がってやる。
 \n
-Instead of hurting you, I'm going to\n
-love on you big time.
+Instead of hurting you, we'll make\n
+up with a little...tenderness.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nぐずぐずするな、入るんだ！
 \n
-Grr, don't just stand there, get in the\n
-damn house!
+Grr, don't just stand there,\n
+get in the damn house!
 <$1E>
 //中
 中

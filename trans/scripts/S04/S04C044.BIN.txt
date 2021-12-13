@@ -44,8 +44,8 @@ Yang:
 <$0D>
 //\nちょいと手を借りたいんだ。\nスペースルームに来てくれ。
 \n
-Let's get you some help. Come to the\n
-space room.
+Let's get you some help.\n
+Come to the space room.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -71,8 +71,8 @@ Herod:
 <$0D>
 //\n幸福か？\nええ、どうなんだ、お前は幸福なのか？
 \n
-Are you happy? How, then? How are\n
-you happy?
+Are you happy? How, then?\n
+How are you happy?
 <$00><$00><$11>
 //誰
 誰
@@ -99,9 +99,7 @@ Herod:
 //\nこの星では何かにつけそいつが発芽する、\nワケの分からない恐怖に\n追い立てられる毎日だ。
 \n
 Something on Mars germinates this\n
-nonsensical seed. I fend it off every
-<$0C>
-day.
+ludicrous seed. I fend it off every day.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -116,9 +114,10 @@ Herod:
 <$0D>
 //\n何がいけない？ この名前か？\nただ鋭が悪いだけなのか？\nそれとも生まれてきたのが間建いなのか？
 \n
-What do I call this? Is this just my\n
-luck? Would I only know peace if I
+What do I call this?\n
+Is this just my luck? 
 <$0C>
-was never born?
+Would I only know peace if\n
+I was never born?
 <$00>
 

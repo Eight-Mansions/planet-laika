@@ -297,7 +297,7 @@ White Eagle(?):
 <$0D>
 //\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
 \n
-But you cannot use it on yourself.\n
+But you cannot use it on your self.\n
 <$0C>
 There needs to be someone into\n
 whom that evil is transferred
@@ -465,7 +465,7 @@ Laika(?):
 \n
 If that's the case...
 <$0C>
-I suppose Galil perceives himself\n
+I suppose Galil perceives him self\n
 as the "pure good" one of the two.
 <$0C><$0B>
 //ライカ…？：

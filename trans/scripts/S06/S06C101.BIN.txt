@@ -36,8 +36,8 @@ Commander October:
 <$0D>
 //\nあーあー、君は誰？\nあー、新しい事実だ、あーあー…
 \n
-Ayyye? And who are you...? Ah, yes. A\n
-new reality, ayyye...
+Ayyye? And who are you...?\n
+Ah, yes. A new reality, ayyye...
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -56,9 +56,7 @@ Commander October:
 //\nあーあー、ライカ君に代わってくれ、\n彼に話があるんだ、あーあーあー。
 \n
 Ayyye, I see. Very well. I have a story\n
-I'd like you to hear in Laika's place,
-<$0C>
-ayyye...
+I'd like you to hear still, ayyye?
 <$00>
 
 // Pos: 0000139D
@@ -73,10 +71,10 @@ Yolanda:
 <$0D>
 //\n何よ！ シーシーの次は、あーあーなの！
 \n
-People, am I right? First it's,\n
-"Whoosh, whoosh," and then it's
+People, am I right?
 <$0C>
-"Ayyye, ayyye!"
+First it's, "Whoosh, whoosh."
+Then it's, "Ayyye, ayyye."
 <$00>
 
 // Pos: 000013BD
@@ -91,20 +89,20 @@ Commander October:
 <$0D>
 //\nあー、ライカ君だね、騒ぎは収まりそうもない。\nそこで少し見方を変えて、火星人について、\n掘り下げようと思う。
 \n
-Greetings, Laika! Is that you? I'd like\n
-to take your attention from your
+Greetings, Laika! Is that you?\n
 <$0C>
-task for a moment.
+I'd like to take your attention\n
+from your errands for a moment.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\n長年、火星人と昆虫との類似点を研究している\n学者がいる。彼の意見を開いてみて欲しい。
 \n
-This is our entomologist. He has\n
-studied both Martian and insect life
+This is our entomologist. 
 <$0C>
-for many years.
+He has studied both Martian\n
+and insect life for many years.
 <$00>
 
 // Pos: 0000145B
@@ -142,28 +140,26 @@ Entomologist:
 <$0D>
 //\n彼らは何万四という全体でひとつの個性を\n作っています。
 \n
-They're hiveminded. Their tens of\n
-thousands of little minds all act
+They're hiveminded. 
 <$0C>
-under one collective conscience!
+Thens of thousands of minds merged\n
+into one collective conscience!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nつまりです、一四ずつではなく、\n全体でひとつなのです、フンフン。
 \n
-As the saying goes, bzzbzz, "It's all\n
-for one, and one for all...or else!"
+As the saying goes, bzzbzz,\n
+"All for one, and one for all!"
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\n私の白アリ説を用いると、火星人が絶滅した\nそのわけもはっきりしてきます、フンフン！
 \n
-Assuming Martians were\n
-hiveminded too, their extinction
-<$0C>
-starts to make sense, bzzbzz!
+If we plug that theory in, mass
+extinction makes sense, bzzbzz!
 <$00>
 
 // Pos: 00001575
@@ -178,9 +174,8 @@ Entomologist:
 <$0D>
 //\nかねがね火星人というもの、白アリのような生態\nではなかったかと考えます、フン。
 \n
-You didn't see yourself comparing\n
-Martian politics to insect politics
-<$0C>
+Bet you didn't see plan to compare\n
+Martian politics to insect politics\n
 today, now did you, bzz?
 <$0C><$0B>
 //昆虫学者：
@@ -190,7 +185,6 @@ Entomologist:
 \n
 Anyways, long ago, the Martians\n
 came to earth and asked us humans
-<$0C>
 for our faces.
 <$0C><$0B>
 //昆虫学者：
@@ -199,8 +193,7 @@ Entomologist:
 //\nそう伝えられていますが、彼らに人間の顔は\n合わなかったのです、フンフン。
 \n
 As we've since come to find out, the\n
-faces didn't stick onto the Martians
-<$0C>
+faces didn't stick onto the Martians\n
 so well, bzzbzz.
 <$0C><$0B>
 //昆虫学者：
@@ -209,9 +202,8 @@ Entomologist:
 //\n顔の個性が邪魔をした、それで火星人社会の\nルールがおかしくなった、
 \n
 The individuality in every face\n
-disturbed the order of the Martian
-<$0C>
-hivemind.
+threatened the order of the Martian\n
+hivemind, and it collapsed.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -225,10 +217,8 @@ Entomologist:
 <$0D>
 //\n人間の顔がなんと火星人の絶滅をまねいたのです\nフンフンフン！
 \n
-And THAT'S how the human face\n
-wiped all Martian life off the map,
-<$0C>
-bzzbzzbzz!
+And THAT'S how the humans wiped\n
+out all Martian life, bzzbzzbzz!
 <$00>
 
 // Pos: 00001699
@@ -246,14 +236,11 @@ bzzbzzbzz!
 // 坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
  THE MINESHAFT IS CLOSING SOON.\n
 REPEAT: THE MINESHAFT IS CLOSING\n
-SOON.
-<$0C>
-PLEASE EVACUATE IMMEDIATELY.
+SOON. EVACUATE IMMEDIATELY.
 <$0C>
 //繰り返します。坑道を閉鎖します。\n閉鎖まで、あと少し。\n直ちに坑道から退出してください。
 REPEAT: THE MINESHAFT IS CLOSING\n
-SOON.\n
-PLEASE EVACUATE IMMEDIATELY.
+SOON.\n EVACUATE IMMEDIATELY.
 <$0C>
 //これは訓練ではありません。
 THIS IS NOT A DRILL.

@@ -17,10 +17,11 @@ Feng:
 <$0D>
 //\nねえ、どうしたの？ せっかく火星に\n来たんだから、見ていくといいわ。
 \n
-What are you up to? If you've come all\n
-this way to Mars, you might as well
+What are you up to?\n
+You came a long way, right? 
 <$0C>
-enjoy a look around.
+Then you might as well\n
+take a look around.
 <$1E>
 //行
 行
@@ -38,10 +39,10 @@ Yang:
 <$0D>
 //\nへへ、みんな焦りはじめてやがる。さっきもな、\nリトルの野郎があわてて酸索屋から飛び出して\nきたけど、何かあったのか？
 \n
-Everyone's so impatient now. I just\n
-saw Little rushing out of the oxygen
+Everyone's so impatient now.
 <$0C>
-dispensary. What happened?
+I just saw Little storm out of the
+oxygen dispensary. What happened?
 <$1E>
 //理
 理
@@ -68,9 +69,10 @@ Yang:
 //\nお前、そんなもん勝手にガメてよう、\nおっかないことになるんじゃねぇのか。\n金星人の方がましだぜ、すき通ってるぜ。
 \n
 You don't want to get bent on\n
-something ghastly over it. Just go
+something ghastly over it.
 <$0C>
-with the flow, like the Venusians.
+Just go with the flow,\n
+like the Venusians.
 <$1E>
 //理
 理

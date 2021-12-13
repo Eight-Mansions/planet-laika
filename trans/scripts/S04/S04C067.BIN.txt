@@ -26,16 +26,15 @@ Marrakech:
 //\nまさかあなたも…建うでしょうね、そうよね、\nレッドのやつはフケツよ、\nすこぶるつきのフケツ野郎。
 \n
 ...Sorry. I guess you're different.\n
-Red is the fuck up, not you. Fucking
-<$0C>
-mongrel.
+Red is the fuck up, not you.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nあいつはサイテーね。
 \n
-I want to beat the shit out of him.
+Fucking mongrel. I want\n
+to beat the shit out of him.
 <$00>
 
 // Pos: 00003523
@@ -74,8 +73,8 @@ Cosmas:
 <$0D>
 //\nイヤだ、ここはイヤだ、痛いもん。
 \n
-Stop, I...I don't like it here! It hurts a\n
-lot.
+Stop, I...I don't like it here!\n
+It hurts a lot.
 <$00>
 
 // Pos: 00003595
@@ -90,8 +89,8 @@ Marrakech:
 <$0D>
 //\nあら、そんなことないのよ。\n痛くなんてないじゃない。
 \n
-No pet, don't think that way. This\n
-doesn't hurt, really.
+No pet, don't think that way.\n
+This doesn't hurt, really.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -114,20 +113,16 @@ Marrakech:
 <$0D>
 //\nでもね、どんなのが望みなのか\nちゃんとしてないと、ちゃんとならないのよ。
 \n
-What do you want, exactly? If you\n
-don't think properly, it won't work
-<$0C>
-properly.
+What do you want? If you don't think\n
+properly, it won't work properly.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nアタシ、だんだん何が望みなのか\n分からなくなって…
 \n
-I think for me, the problem is that I'm\n
-gradually growing unsure of what I
-<$0C>
-want.
+My problem is that I'm gradually\n
+becoming less sure of what I want.
 <$00>
 
 // Pos: 00003636
@@ -156,9 +151,9 @@ I don't like it here.
 裂に
 <$0B><$0D>
 //約束だコスマス。\nお前を苦悩から解き放ってやる、\n今がその時だ。
-Rest assured, Cosmas. Now is the\n
-time we free you from your\n
-suffering.
+Rest assured, Cosmas.\n
+Now is the time we free\n
+you from your suffering.
 <$00>
 
 // Pos: 00003685
@@ -239,10 +234,8 @@ Marrakech:
 <$0D>
 //\nふふふ、人生だって、\nみんなの後を追いかけてるようなもの。
 \n
-But, c'est la vie. We chase after\n
-everyone we feel is miles ahead of
-<$0C>
-us.
+But, c'est la vie. We chase those\n
+we feel are miles ahead of us.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -265,10 +258,10 @@ Marrakech:
 <$0D>
 //\nアタシはねぇ、どんなお顔がいいのか、\nまだ自分でも分かっちゃないのよ。
 \n
-What face would look good on me? I\n
-still don't know what kind of face I'd
+What face would look good on me?
 <$0C>
-like.
+I still don't know what\n
+kind of face I'd like.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -345,10 +338,10 @@ Marrakech:
 <$0D>
 //\nあああ、また憎しみが深くなるのね…\nもうおしまいよ。
 \n
-If he sees Cosmas now, his hatred\n
-will take over. There'd be no turning
+If he sees Cosmas now,\n
+his hatred will take over.
 <$0C>
-back.
+There'd be no turning back.
 <$1E>
 //行
 行
@@ -395,10 +388,10 @@ Linda:
 <$0D>
 //\nアタシ、また夢見ちゃったのー。\nこのアタシがねー、カベに向かって立ってねー、\nブツブツやってるのー
 \n
-You know, it's funny. I had this one\n
-dream again where I stand and
+You know, it's funny.
 <$0C>
-mumble in front of a wall.
+I had this one dream again where
+I stand and mumble to a wall.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -406,9 +399,9 @@ Linda:
 //\nすごい集中してるんだけどー、\nなんかアタシじゃないみたいなのー。\n他人みたいなのー。
 \n
 It's like I'm really focused on\n
-something, but not as myself. It's
+something, but not my own thoughts.
 <$0C>
-like I'm someone else.
+It's like I'm someone else.
 <$1E>
 //行
 行
@@ -426,10 +419,11 @@ Linda:
 <$0D>
 //\nカベにブツブツよー。 えーっとね、\nブリックロードと避難小屋と記憶の谷よー、
 \n
-Where do I stutter? Let me think...I\n
-suppose around Brick Road, the safe
+Where do I mumble?\n
+Good question! Let me think...
 <$0C>
-house and Valles Memoriae.
+I suppose...around Brick Road,\n
+the safe house and Valles Memoriae.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -455,18 +449,19 @@ Linda:
 <$0D>
 //\nなんだかねー、あんたが来てから\nおかしなことばっかよー。
 \n
-I don't know how to explain it, but\n
-I've had the strangest feeling ever
+I don't know how to explain it,\n
+but ever since you came here...
 <$0C>
-since you came here.
+I've had the funniest feeling\n
+about you.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあんた…あんただよね、\nさっきのあんたよねー。
 \n
-It's...you, isn't it? Aren't you the one I\n
-was talking to before?
+It's...you, isn't it? Aren't you\n
+the one I was talking to before?
 <$00>
 
 // Pos: 00003A87
@@ -481,10 +476,10 @@ Linda:
 <$0D>
 //\nあんたさー、マラケシュに開いたんだけど、\n抜け駆けしてヴァニティフェイス\n手に入れようっていうんでしょ。
 \n
-I had a one-on-one with Marrakesh,\n
-and she said you were sneaking a
+I had a one-on-one with Marrakesh.
 <$0C>
-Vanity Face procedure.
+She told me you were sneaking by\n
+for a Vanity Face procedure.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -495,9 +490,7 @@ Sneaky little devil, you! So, do you\n
 know how a Vanity Face is made?
 <$1B>
 //※もちろん、知ってる\nそんなの、知らない
-※Yes
-<$0C>
-No
+※Yes\nNo
 <$00><$17><$00>
 
 // Pos: 00003B09
@@ -520,9 +513,7 @@ Linda:
 //\n地球じゃできなかったことよ。\nヴェロニカの布は火星にしかないんだから。
 \n
 Earth doesn't have this sort of thing.\n
-Veronica's cloth is only available on
-<$0C>
-Mars.
+Veronica's cloth only exists on Mars.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -530,19 +521,19 @@ Linda:
 //\nで、蕃判の話、地球にも伝わってるの？\nそうよね、そうに建いない…
 \n
 Tell me, have those "Judgement"\n
-rumors spread to Earth? I figured
+rumors spread to Earth?
 <$0C>
-they would.
+I figured they would.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nそれであんたがやってきて…
 \n
-That must be how you were able to\n
-book a free ride here. Hehe, I'm
+That must be how you were able\n
+to book a free ride here.
 <$0C>
-right, aren't I?
+Hehe, I'm right, aren't I?
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -550,9 +541,10 @@ Linda:
 //\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
 \n
 You probably accepted whatever\n
-job Earth gave you, so that you could
+job Earth gave you.
 <$0C>
-get your face done on the side!
+That way, you could get\n
+your face done on the side!
 <$1E>
 //行
 行
@@ -571,9 +563,7 @@ Linda:
 //\nじゃあ、教えてあげる。\n汚い布、かぶせるのよ、お顔に。
 \n
 All right, I'll tell you. First of all, Feng\n
-puts some dirty cloth she got on your
-<$0C>
-face.
+puts some dirty cloth of hers on your face.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -581,18 +571,19 @@ Linda:
 //\nフェイが手に入れたの、その布。\nかぶせると、布の表面に顔が現れて、\nしばらくするとその顔になれるの。
 \n
 Once your face is covered, a face\n
-rises up to the surface of the cloth,
+rises up to the surface of the cloth.
 <$0C>
-and it sticks.
+That face sticks itself over yours.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあの布は火星にしかないんだから。
 \n
-Give it more time, and it becomes\n
-your face. The cloth that does this
+Let it sit there, and it becomes\n
+your permanent face.
 <$0C>
+The cloth that does this\n
 exists only on Mars.
 <$0C><$0B>
 //リンダ：
@@ -601,9 +592,10 @@ Linda:
 //\nで、蕃判の話、地球にも伝わってるの？\nそうよね、そうに建いない…\nそれであんたがやってきて…
 \n
 Tell me, have those "Judgement"\n
-rumors spread to Earth? I figured
+rumors spread to Earth? 
 <$0C>
-that's how you got a free ride.
+I figured that's how\n
+you got a free ride.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -611,9 +603,10 @@ Linda:
 //\nえー、自分だけ人間の顔になろうってコンタン。\n見え見えー、えへへ、でしょ？
 \n
 You probably accepted whatever\n
-job Earth gave you, so that you could
+job Earth gave you.
 <$0C>
-get your face done on the side!
+That way, you could get\n
+your face done on the side!
 <$1E>
 //行
 行
@@ -642,16 +635,17 @@ Cosmas:
 <$0D>
 //\n僕、ときどき夢見るんだ、\n裏側からこの部屋、見てるんだ。
 \n
-Sometimes, when I dream, I'm\n
-looking into this room from the other
+Sometimes, when I dream,...
 <$0C>
-side...
+...I'm looking into this room
+from the other side.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nでもつながってないんだよ。
 \n
-...but it's not connected to anything.
+The thing is, that other side\n
+isn't connected to this room.
 <$00>
 

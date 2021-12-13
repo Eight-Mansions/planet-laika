@@ -13,7 +13,7 @@
 
 <$10><$12>
 //に我々に何か用か？
-What do you want from Us?
+に What do you want from Us?
 <$00>
 
 // Pos: 00003788
@@ -39,7 +39,7 @@ Who said that?
 
 <$10><$12>
 //にどこを見ている、ここだ、お前の前だ。
-にWhere are you looking?\n
+に Where are you looking?\n
 We are here, before you.
 <$00>
 
@@ -66,8 +66,8 @@ Spacer:
 
 <$11><$12>
 //に私はマコトの存在だ。\nマコトの顔とでも理解してくれ。\nトゥルーフェイスだ。
-にWe are the existence of truth, the\n
-face of truth.\n
+に We are the existence of truth,\n
+the face of truth.\n
 We are True Faiths.
 <$00>
 
@@ -83,8 +83,8 @@ Spacer:
 <$0D>
 //\nあなたが人間の顔を作っている…\nそういうことなんだな。
 \n
-That sounds to me like you who make\n
-human faces.
+That sounds to me like you enjoy\n
+making human faces around here.
 <$00>
 
 // Pos: 00003824
@@ -102,20 +102,20 @@ True Faiths:
 <$0D>
 //\n人間の顔！ばかばかしい！\n顔に意味を与えているのは、お前たち人間だ。
 \n
-Human faces?! Foolish! You humans\n
-alone give your faces any
+Enjoy? Foolish!
 <$0C>
-significance.
+You humans alone offer your\n
+faces any significance.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nその人間のおろかさに、\n我々は滅んでしまったのだ。\n顔など、いらない。
 \n
-It was that human folly who sent Us\n
-into extinction. We have no need for
+It was that human folly\n
+that sent Us into extinction.
 <$0C>
-faces.
+We have no need for faces.
 <$00>
 
 // Pos: 00003892
@@ -150,8 +150,7 @@ True Faiths:
 //\n人間はそう呼ぶ。\nしかし、我々は火星人でも宇宙人でもない。
 \n
 Humans may call Us by that name.\n
-However, We are neither Martian
-<$0C>
+However, We are neither Martian\n
 nor Alien.
 <$0C><$0B>
 //トゥルーフェイス：
@@ -159,7 +158,8 @@ True Faiths:
 <$0D>
 //\n我々なのだ。\nお前は、自分をなんだと思っているのか？
 \n
-We are who We are. And what would\n
+We are who We are.\n
+And what would\n
 you say you are?
 <$00>
 
@@ -195,9 +195,10 @@ True Faiths:
 //\nおろかな！地球に住むから地球人か！\nロケットに乗るから宇宙飛行士か！
 \n
 Because you come from Earth,\n
-you're an Earthling? Because you
+you're an Earthling?
 <$0C>
-ride a rocket, you're a cosmonaut?!
+Because you ride a rocket,\n
+you're a cosmonaut?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -205,9 +206,8 @@ True Faiths:
 //\n子をもうければ父親か、盗みを働けば犯罪者か、\n闘いの場では兵士か、お前達はいつも\n都合のいい自分を用意している。
 \n
 If you have a child, you're a father?\n
-If you take, you're a thief? If you
-<$0C>
-fight, you're a soldier?
+If you take, you're a thief?\n
+If you fight, you're a soldier?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -215,9 +215,7 @@ True Faiths:
 //\n真の自分を隠し、目をそらせ、\n何色にでも染まろうとする。
 \n
 You are foolish to hide your true\n
-selves under countless titles of
-<$0C>
-convenience!
+selves under titles of convenience!
 <$00>
 
 // Pos: 000039F7
@@ -233,10 +231,8 @@ Spacer:
 //\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
 \n
 Listen, in our social structure,\n
-humans are given roles: fathers,
-<$0C>
-teachers, mothers, children, et\n
-cetera.
+humans are given roles: fathers,n
+teachers, mothers, children...
 <$00>
 
 // Pos: 00003A55
@@ -254,18 +250,18 @@ True Faiths:
 <$0D>
 //\n役割…社会…たわ言だ！\nでは尋ねる。なぜ、お前達は殺し合う？
 \n
-"Roles"... "Structure"... Hah! Then We\n
-ask you, why do you kill each other?
+"Roles"... "Structure"...\n
+Hah! Then We ask you, why\n
+do you kill each other?
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n憎しみ合う？\nウソをつき、自分のために他人を傷つける？\nなぜ、そのようなことができるのだ？
 \n
-Is it your role to hate? To lie and hurt\n
-others for self-preservation? How
-<$0C>
-can you live that way?!
+Is it your role to hate? To lie and\n
+hurt others for self-preservation? 
+How can you live that way?!
 <$00>
 
 // Pos: 00003ACA
@@ -281,8 +277,7 @@ Spacer:
 //\n憎しみや殺人だけではない。\n人を愛し、いつくしみの心で\n救いの手をさしのべることもある。
 \n
 There's more to life than hatred and\n
-murder. It's about loving others and
-<$0C>
+murder. It's about loving others and\n
 helping them with compassion.
 <$0C><$0B>
 //スペーサー：
@@ -310,8 +305,7 @@ True Faiths:
 //\n個性…\n都合のいい言葉はいくらでもあるものだな。\n身体の器官を想像したまえ。
 \n
 "Personal"... Another convenient\n
-word. Now, imagine organs in the
-<$0C>
+word. Now, imagine organs in the\n
 human body were "personal".
 <$0C><$0B>
 //トゥルーフェイス：
@@ -326,8 +320,8 @@ serve the whole.
 True Faiths:
 <$0D>
 //\nそれは個性などではない。\n心臓は脳にはなれない、\n口は耳にはなれない。
-A heart cannot be a\n
-brain. Nor a mouth, an ear.
+A heart cannot be a brain.\n
+Nor a mouth, an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -335,8 +329,7 @@ True Faiths:
 //\nそれが役割というものだ。\nお前の言い分は、正確ではない。
 \n
 That is how one's true "role" is\n
-determined. Your "personal" logic
-<$0C>
+determined. Your "personal" logic\n
 falls short.
 <$00>
 
@@ -353,8 +346,7 @@ Spacer:
 //\n火星人… いや、あなたたちは、\n全体でひとつの個性を持つ。そう開いたが。
 \n
 I heard the Martians...I mean, you,\n
-are a collective consciousness
-<$0C>
+are a collective consciousness\n
 devoid of individuality.
 <$00>
 
@@ -373,9 +365,8 @@ True Faiths:
 <$0D>
 //\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない。\nそこにお前たちの顔が災いをもたらせたのだ。
 \n
-Indeed, We do not see\n
-"individuality". Your faces ignited
-<$0C>
+Indeed, We did not seek\n
+"individuality". Your faces ignited\n
 Our destruction in its entirety.
 <$00>
 
@@ -391,8 +382,8 @@ Spacer:
 <$0D>
 //\n人間の顔を求めたのは、あなたたちだ。
 \n
-But you were the ones who asked to\n
-have the human faces.
+But you were the ones who\n
+asked to have the human faces.
 <$00>
 
 // Pos: 00003CAF
@@ -411,8 +402,7 @@ True Faiths:
 //\n１２億６０００万年にして、一度の過ちだ。\n我々は過去に三度、地球に向かった。
 \n
 Our one mistake in 1.26 billion years.\n
-Now, We visited Earth thrice in the
-<$0C>
+Now, We visited Earth thrice in the\n
 past...
 <$0C><$0B>
 //トゥルーフェイス：
@@ -420,9 +410,8 @@ True Faiths:
 <$0D>
 //\n三度目にお前たちが現れたのだ。\nお前たち人間は弱く、\n絶滅を予定された種のはずだった。
 \n
-...and in the third day, humans\n
-appeared. Your species was a flicker
-<$0C>
+...and on the third day, humans\n
+appeared. Your species was a flicker\n
 doomed for extinction.
 <$00>
 
@@ -438,10 +427,9 @@ Spacer:
 <$0D>
 //\nだが実際は建った。\n人間は英知を得てさかえたのだ。
 \n
-I don't see why, though. Humans\n
-acquired wisdom, and used it to
-<$0C>
-flourish.
+I don't see why, though.\n
+Humans acquired wisdom,\n
+and used it to flourish.
 <$00>
 
 // Pos: 00003D64
@@ -465,9 +453,9 @@ Wisdom...
 True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
-To "see the world in a\n
-grain of said? See heaven in a single\n
-wildflower"?
+To "see the world in a grain of
+sand"? To "see heaven in a single\n
+wildflower"? 
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -489,7 +477,7 @@ True Faiths:
 //\n神の言葉なのか、それとも妄想なのか。\nお前たちは間建っている！
 \n
 Can you not differentiate the Word\n
-of God and delusion, you insects?!
+of God from delusion, you insects?!
 <$00>
 
 // Pos: 00003E2C
@@ -527,7 +515,7 @@ Spacer:
 <$0D>
 //\nあああ、バカみたいだ。\n汚い布に話しかけるなんて！
 \n
-Sheesh. I must be an idiot, talking to a\n
-rag like this.
+Sheesh. I must be an idiot,\n
+arguing with a rag like this.
 <$00>
 

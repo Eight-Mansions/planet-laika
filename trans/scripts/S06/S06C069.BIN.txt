@@ -14,7 +14,7 @@
 
 <$00>
 //   ママはそんなことじゃ死なないよ。
- No, Mummy! I won't let that 'appen.\n
+ No, Mummy! I won't let that 'appen!\n
 Not on Christmas!
 <$00>
 
@@ -145,8 +145,8 @@ April:
 <$0D>
 //\n私たちと一緒に来て。任務よ。
 \n
-You need to come back with us. We\n
-have a mission to complete.
+You need to come back with us.\n
+We have a mission to complete.
 <$00>
 
 // Pos: 000021AC
@@ -168,10 +168,10 @@ Noon:
 <$0D>
 //\n生憎だが今は書き物の最中でね、自伝だよ、\n歴史が私の名を求めているのだよ。
 \n
-I'm in the middle of penning my\n
-autobiography. My name'll go down
+I'm in the middle of\n
+penning my autobiography. 
 <$0C>
-in history.
+My name'll go down in history!
 <$00>
 
 // Pos: 00002202
@@ -202,19 +202,15 @@ April:
 //\nヌーン、お家に帰りたくないの？\n任務が終われば、それだけ早く帰れるのよ。
 \n
 Noon, you wanted this mission over\n
-with. Why don't you want to come
-<$0C>
-home?
+with. Why won't you come home?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nママの思い出に、会えるのよ。
 \n
-You'll have more time to reminisce in\n
-memories of your mom once we're
-<$0C>
-back on Earth.
+You'll have more time to reminisce\n
+once we're back on Earth.
 <$00>
 
 // Pos: 0000226A
@@ -229,10 +225,8 @@ Noon:
 <$0D>
 //\nううう、ママ！ ママと一緒なんだよう！\nママ、もう僕のことせめたりしないで！
 \n
-Aww, Mummy! But Mummy's right\n
-here! Mummy isn't mad at me
-<$0C>
-anymore!
+Aww, Mummy! Mummy's right here!\n
+Mummy isn't mad at me anymore!
 <$00>
 
 // Pos: 0000229C
@@ -247,8 +241,8 @@ Yolanda:
 <$0D>
 //\nあなたが言うこと開かないと、\nママ怒っちゃうわよ！
 \n
-Didn't you hear what I said? You'll\n
-make Mommy angryyy!
+Didn't you hear what I said?\n
+You'll make Mommy angryyy!
 <$00>
 
 // Pos: 000022C3
@@ -378,9 +372,9 @@ Yolanda:
 //\nよく思い出せないんだけど…\nロケットの中で話してたわね、ガリルのこと。
 \n
 I vaguely remember the Galil\n
-conversation on the rocket, but
+conversation on the rocket.
 <$0C>
-enlighten me on the details.
+Enlighten me on the details?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -395,20 +389,16 @@ April:
 <$0D>
 //\n火星で多くの人が幻覚に悩まされたりするように\nなったのは、ガリルが姿を消してからなの。
 \n
-It wasn't until Galil disappeared that\n
-people on Mars started reporting
-<$0C>
-hallucinations.
+After Galil disappeared, people on\n
+Mars started reporting hallucinations.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
 \n
-Before that, it was just another\n
-deserted planet where exiles and
-<$0C>
-the like lived.
+Before that, it was only some desert\n
+planet where exiles and such lived.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -425,17 +415,17 @@ Yolanda:
 <$0D>
 //\n船長たちねぇ…そう言えばクロエちゃんの\nいい人ってタトラー船長のことでしょ。\nどこにいるの？ さがしてみない？
 \n
-The captain... Chloe did say she got\n
-along well with him. Shouldn't we
+The captain... Chloe did say\n
+she got along well with him. 
 <$0C>
-track him down?
+Shouldn't we track him down?
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n船長をさがすんでしょ。\n町の方に戻ってみない？
 \n
-We should look for the captain. Let's\n
-head back to town.
+We should look for the captain.\n
+Let's head back to town.
 <$00>
 

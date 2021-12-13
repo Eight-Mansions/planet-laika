@@ -18,9 +18,9 @@ Mountain:
 //\nあ… あ…\nす、すごい考えが来る、止まらないんだ！
 \n
 Ohh! Ohh! Wh-what wonderful\n
-thoughts are coming to me! I can't
+thoughts are coming to me!
 <$0C>
-stop!
+I can't stop them!
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -68,9 +68,9 @@ Mountain:
 //\n母の悲しみ… そういえば俺は悲しい、\n最も悲しい… ああ… ああ… あああ…
 \n
 Mother's disappointed. Well, so am I,\n
-by the by. We're as sad as they get,
+by the by. I'm sad about it too, Ma.
 <$0C>
-too. Ohh, ohh...!
+Ohh, ohh...!
 <$00>
 
 // Pos: 00002C4C
@@ -85,20 +85,21 @@ Yang:
 <$0D>
 //\nガキだ！\n…建う、悪ガキだ、そいつが殺したんだ、\n夜は嫌なものだね、諸君。
 \n
-It was the kid! No, that devil! He killed\n
-them! I HATE the night! I HATE the
+It was the kid! No, that devil!\n
+He killed them! 
 <$0C>
-cycle!
+I HATE the night!\n
+I HATE the cycle!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nちくしょう！ 羽根をもぎってやる、\n蝶の羽根をもぎって、青虫に戻してやれば\nいいんだ！ それがサイクルだ！
 \n
-...Forget it! I-I'll tear off those\n
-green butterfly wings and turn back
+...Forget it! I-I'll tear off\n
+those green butterfly wings.
 <$0C>
-into a worm!
+I'm turning back into a worm!
 <$00>
 
 // Pos: 00002CC4
@@ -113,25 +114,25 @@ Mountain:
 <$0D>
 //\n私のここのところをこうしてくれないか？
 \n
-What do I do with myself?
+What do I do with my self?
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\n何を？ 夜のふくろうに言ってるのさ、\n不信者のおそれ…小さなみそさざい…はは！
 \n
-Know what a night owl told me? Fear\n
-the non-believers... The
+Know what a night owl told me?\n
+Fear the non-believers...
 <$0C>
-Troglodytes troglodytes.
+The Troglodytes...
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nみそさざい、食え食え、\n烏のグリルだ、小烏のだ。
 \n
-The wrens! Eat them! Grill them and\n
-eat the little wrens!
+The wrens? Eat them!\n
+Grill and eat the little wrens!
 <$00>
 
 // Pos: 00002D3F
@@ -147,25 +148,25 @@ Yang:
 //\n飛んでるのは蝶だ、いやガだ、\n殺したのかてめぇ！ なんでか分かるか？
 \n
 Why is there a butterfly but not a\n
-"moth-fly"?! Did someone kill him! Do
+"moth-fly"?! Did someone kill him!?
 <$0C>
-you know?
+Do you know?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nへへ！ 俺は知ってるぜ、諸君！\n近づいてるんだ！
 \n
-Hehe! I know, buddy! And it's getting\n
-closer!
+Hehe! I know, buddy!\n
+And it's getting closer!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nあああああああ、近くにな！\nさ…さい…
 \n
-Ahhhhhh! It's almost here! The last...\n
-This is the last....!
+Ahhhhhh! It's almost here!n\n
+The last... It's the last...
 <$00>
 
 // Pos: 00002DAC
@@ -196,9 +197,9 @@ Mountain:
 //\nあ？ あああ？ ぶんぶん飛んでる…\nハエ… 俺のハエを数えてくれないか。
 \n
 Oh? OHHH? There are so many flying.\n
-Flies... Won't you count my flies with
+Flies, flies, flies...! 
 <$0C>
-me?
+Won't you count my flies with me?
 <$00>
 
 // Pos: 00002DF3
@@ -231,10 +232,8 @@ Yang:
 <$0D>
 //\n飛んでるぞ。\nいったい蝶とガの建いは何だ、諸君？
 \n
-They're flying. What's the\n
-difference between butterflies and
-<$0C>
-moths, do you know?
+What's the difference between\n
+butterflies and moths?
 <$1E>
 //鋭
 鋭
@@ -319,9 +318,9 @@ Mountain:
 //\n１０１四 １０２四 １０３四 １０４四
 \n
 ...one hundred and one, one hundred\n
-and two, one hundred and three, one
+and two, one hundred and three...
 <$0C>
-hundred and four...
+...one hundred and four...
 <$1E>
 //鋭
 鋭
@@ -340,10 +339,10 @@ Mountain:
 //\n３７２四 ３７３四 ３７５四 ３７７四
 \n
 ...three hundred seventy-two,\n
-three hundred seventy-three,
+three hundred seventy-three...
 <$0C>
-three hundred seventy-five, three\n
-hundred seventy-seven...
+...three hundred seventy-five,\n
+three hundred seventy-seven...
 <$1E>
 //鋭
 鋭
@@ -411,8 +410,8 @@ Commander October:
 <$0D>
 //\n火星の顔が急に光を放ち、\nいろんな電波や光線が攻撃してくるらしい。
 \n
-It happened suddenly, assaulting us\n
-with a show of radio waves and light
+It assaulted us suddenly with an\n
+array of radio waves and light beams.
 <$0C>
 beams.
 <$0C><$0B>
@@ -421,10 +420,10 @@ Commander October:
 <$0D>
 //\nたんなる光のいたずらだと思いたいが、\n早くもいくつもの奇跡が報告され始めている。
 \n
-I took it for a prank, but now we're\n
-hearing news reports of miracles on
+I took it for a prank...
 <$0C>
-Earth!
+...but now we're hearing news\n
+reports of miracles on Earth!
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -439,10 +438,10 @@ Commander October:
 <$0D>
 //\nだめだ、これは奇跡ではない。\nとにかく、何かあったらまた連絡する。
 \n
-Alas, I fear this is no miracle. I'll\n
-contact you again when there's an
+Alas, I fear this is no miracle. 
 <$0C>
-update.
+I'll contact you again when\n
+there's an update.
 <$00>
 
 // Pos: 000030A0
@@ -460,11 +459,11 @@ How goes it, my little husk?
 You... All of you are pathetic.
 <$0C>
 //ひとつ忠告しておこう。
-Here's a piece of advice.
+Here's a piece of advice:
 <$0C>
 //星の意志に逆らおうとしても\nムダというものだ。
-It's useless to try to defy the will of\n
-this planet.
+It's useless to defy the will of\n
+the planet.
 <$0C>
 //世界の再生、\nそれはこの星が決めたことなのだ。
 This planet has chosen world\n
@@ -472,11 +471,11 @@ rebirth.
 <$0C>
 //私は星の意志に触れ、使命を受けている。\n再生は私の目的ではなく、\nこの星の目的なのだよ。
 I touched the planet's will and found\n
-life. Rebirth is not my purpose. It is\n
-the planet's purpose.
+life. Rebirth is not my purpose.\n
+It is the planet's purpose.
 <$0C>
 //もうすぐ君に会えるだろう。\n楽しみに待っているよ。
-I will see you soon. I'm looking\n
-forward to it.
+I will see you soon.\n
+I'm looking forward to it.
 <$00>
 

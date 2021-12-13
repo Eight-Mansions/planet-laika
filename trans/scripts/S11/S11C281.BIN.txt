@@ -17,26 +17,26 @@ Yang:
 <$0D>
 //\nへへへ、記憶の谷、そうだろ、\nあそこはおっかない。
 \n
-Hehehe, Valles Memoriae. That place\n
-is ghastly!
+Hehehe, Valles Memoriae.\n
+That place is ghastly!
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nみんな憑かれてるんだ、蕃判の始まりだ。\n足音を忍ばせて近付いてくる。 どこにだ？
 \n
-Everyone there is possessed, but\n
-Judgement has begun. It tiptoes
+Everyone there is possessed,\n
+but Judgement has begun. 
 <$0C>
-ever closer.
+It creeps ever closer.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nへっ、心の中にだ。
 \n
-Creep where, you ask? Into the\n
-mind.
+Creeps where, you ask?\n
+Into the mind.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -52,9 +52,7 @@ Yang:
 //\n弱いやつらはみんなやられちまう。\n俺たちは建う。見ろ！
 \n
 The frail pass when they are called\n
-to. But we? We are different, you
-<$0C>
-see.
+to. But we? We are different.
 <$00>
 
 // Pos: 00001CC6
@@ -76,10 +74,10 @@ Yang:
 <$0D>
 //\n金星人のパルスだ。\nもうじき角度が合う、金星を向くんだ。
 \n
-That's a Venusian pulse. We're\n
-almost at the right angle to face
+That's a Venusian pulse.
 <$0C>
-Venus itself.
+We're almost at the right
+angle to face Planet Venus.
 <$00>
 
 // Pos: 00001D06
@@ -95,14 +93,14 @@ Yang:
 //\n心の弱いやつは蕃判を乗り切れないんだ。
 \n
 The frail of mind will answer to\n
-Judgement soon enough.
+Judgement soon.
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nでもな、金星人のパルスがあれば\n大丈夫ってわけよ。
 \n
-But as long we have the Venusian\n
+But, as long we have the Venusian\n
 pulses, we'll be fine.
 <$0C><$0B>
 //ヤング：
@@ -137,10 +135,8 @@ Yang:
 <$0D>
 //\n金星から気づきの波動が放たれているそうだ。
 \n
-Apparently, he was the first to\n
-notice that Venus was releasing
-<$0C>
-waves.
+He was the first to realize\n
+that Venus was releasing waves.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -148,8 +144,8 @@ Yang:
 //\n気づきだ、気がつくことだ、\nピンとくることだ、もうじき実験だ。
 \n
 He, now "we", honed in real good.\n
-We're finally about to start our
 <$0C>
+We're finally about to start our\n
 experiment!
 <$1E>
 //鋭
@@ -168,10 +164,10 @@ Mountain:
 <$0D>
 //\nあんたは…そうか！\nあんたか、新しい使者というのは！\n喜びが増えるぞ。
 \n
-And, you are...oh! Yes, you're our\n
-messanger, here to bring good news
+And, you are...oh! 
 <$0C>
-of great joy!
+Yes, you're our messanger, here
+to bring good news of great joy!
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -182,9 +178,7 @@ Where would you say you're from:\n
 Venus or Earth?
 <$1B>
 //、金星から来た\n地球から来た
-、Venus
-<$0C>
-Earth
+、Venus\nEarth
 <$00><$17><$00>
 
 // Pos: 00001E73
@@ -200,19 +194,17 @@ Mountain:
 //\nあははははは、ユカイだ、いいぞ、そうだ！\nつまるところ、あんたはむかえに行ったんだ。
 \n
 Ahahaha, brilliant! Brilliant, indeed!\n
-Then you mean to say you've left to
-<$0C>
-meet us.
+I'm glad you came to meet us!
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nいや、実際にあるぞ、プラズマになれば\n星間飛行などたやすいことだ。
 \n
-Don't worry, I believe you! It's easy\n
-to travel between planets when
+Don't worry, I believe you! 
 <$0C>
-you're a plasma.
+Inter-planetary travel is when\n
+easy, if you're a plasma.
 <$00>
 
 // Pos: 00001EDA
@@ -227,10 +219,8 @@ Mountain:
 <$0D>
 //\n誰でもそう思っているだけだ、\nでも本当は建う、もっと別の現象だ！
 \n
-Everyone may think otherwise, but\n
-life's phenomena are never so
-<$0C>
-simple!
+Many think otherwise, but life's\n
+phenomena are never so simple!
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -264,10 +254,8 @@ Mountain:
 <$0D>
 //\nあんたを見て分かった、やっぱりな。\nさぐりに行くんだろ、\nやつらだ、メディスンマンのやつらだ。
 \n
-From that look on your face... Yes!\n
-You're sniffing around for medicine
-<$0C>
-men.
+From that look on your face, you!\n
+are sniffing for medicine men.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -275,20 +263,18 @@ Mountain:
 //\nあいつらはたぶらかしの天才、そうなのだ！\n金星人を無視しようとする、いけないことだ。
 \n
 They have their PHDs in screwing\n
-around. They shouldn't
+around. 
 <$0C>
-underestimate the Venusians, but\n
-they do.
+They shouldn't underestimate\n
+the Venusians, but they do.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nよし、やぶさかではないぞ、\n見つからないようにこっそりとな。\n教えてやる、オートロックの暗証番号は…
 \n
-If you want to sneak a peek in the\n
-lodge, I'll give you the PIN to for the
-<$0C>
-autolock.
+If you want into the lodge, I'll\n
+give you the autolock's VPN.
 <$00>
 
 // Pos: 00001FFC
@@ -314,8 +300,8 @@ Mountain:
 <$0D>
 //\n暗証番号は、６だ、そうだ！\n６だ！ オートロックだ、はっ！
 \n
-The PIN is..."6"! Yep, just "6"! That'll\n
-disengage the autolock for you!
+The PIN is..."6"! Yep, just "6"!\n
+That'll disengage the autolock!
 <$1E>
 //理
 理
@@ -333,10 +319,10 @@ Mountain:
 <$0D>
 //\n私は何も言わないぞ、\nただ心をきれいにして信じているだけだ。\n実験が始まったら声をかけるぞ。
 \n
-No more talk. Until we start the\n
-experiment, let's clear our minds
+No more talk. 
 <$0C>
-and believe.
+Until we start the experiment,\n
+clear your mind and believe.
 <$1E>
 //鋭
 鋭
@@ -355,7 +341,7 @@ Mountain:
 //\n円周率だ、円周率で増えたり減ったりするんだ。\n定理を見つけたんだ。
 \n
 I'VE FOUND IT! YES! A constant\n
-circumference to diameter ratio: Pi!
+circumference-to-diameter ratio: Pi!
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -366,9 +352,7 @@ I've memorized the first 30 digits\n
 for testing. Wanna hear?
 <$1B>
 //？開きたい\n開かない
-？Yes
-<$0C>
-No
+？Yes\nNo
 <$00><$17><$00>
 
 // Pos: 000020E3

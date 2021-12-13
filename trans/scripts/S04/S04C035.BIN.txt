@@ -17,8 +17,8 @@ Red:
 <$0D>
 //\nお前か！\nおい、コスマスにちょっかい出したのは？
 \n
-Hey, you! What did you do with\n
-Cosmas?
+Hey, you! What did you\n
+do with Cosmas?
 <$00>
 
 // Pos: 00000FCA
@@ -33,8 +33,8 @@ Red:
 <$0D>
 //\nコスマスをどこに連れて行った？\nさっきまで部屋にいたんだ。
 \n
-Where is he, huh? He was in his room\n
-just a moment ago!
+Where is he, huh? He was in\n
+his room only moments ago!
 <$0C><$0B>
 //レッド：
 Red:
@@ -42,9 +42,7 @@ Red:
 //\nマラケシュに開いたら\nお前がうろちょろしてたってよ。
 \n
 When I checked and didn't see him,\n
-Marrakech told me you've been
-<$0C>
-creeping around.
+Marrakech told me you might know.
 <$0C><$0B>
 //レッド：
 Red:
@@ -67,10 +65,8 @@ Red:
 <$0D>
 //\nコスマスはあと一歩で完成するんだ、\n分かったか、くそ！
 \n
-Whatever. I'm hot on his tail,\n
-understand? You'd BETTER
-<$0C>
-understand.
+I'm hot on his tail, understand?\n
+Yeah, you'd BETTER understand!
 <$1E>
 //中
 中

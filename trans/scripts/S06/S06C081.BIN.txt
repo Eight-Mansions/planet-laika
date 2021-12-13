@@ -48,8 +48,8 @@ Punch:
 <$0D>
 //\nよせ！ ジュディ！ それをわたせ！\nさあ、おとなしくわたすんだ。
 \n
-Bloody hell, Judy! Breathe! 'Ere, calm\n
-down and gimme the knife.
+Bloody hell, Judy! Breathe!\n
+'Ere, calm down and gimme the knife.
 <$0C><$0E><$1E>
 //うんざりよ… もううんざり…\n全部おしまいにしてやる！
 I'm tired...so tired...\n
@@ -96,7 +96,7 @@ would have died instead.
 <$0C>
 //はははは、そうよ！\nアタシが死んだ方がよかったの？\nヌーン！
 Hahaha, that's right! And you\n
-wouldn't like it if Mummy died, would\n
-you, Noon?
+wouldn't like it if Mummy died,\n
+would you, Noon?
 <$00>
 

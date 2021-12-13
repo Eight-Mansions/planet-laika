@@ -57,10 +57,8 @@ Feng:
 <$0D>
 //\nけれど、中には最初の一回でカンペキな顔に\nなれる人もいるわ…アマンダみたいにね
 \n
-But you know, some people start\n
-with the perfect face, like Amanda
-<$0C>
-did.
+But some people start with the\n
+perfect face, like Amanda did.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -68,7 +66,7 @@ Feng:
 //\n今となっては彼女は伝説よ。\n美しい自分の顔を愛し、鏡を愛したの。
 \n
 She was a legendary beauty who\n
-loved to look at her self in the mirror.
+loved to behold her self in the mirror.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -91,8 +89,8 @@ Red:
 <$0D>
 //\nフェイ、薬だ、薬をくれ。
 \n
-Feng, I need medicine. Give me the\n
-the medicine!
+Feng, I need medicine.\n
+Give me the the medicine!
 <$00>
 
 // Pos: 000022DC
@@ -177,17 +175,17 @@ Red:
 //\nみんな妙なウワサにふりまわされてるが、\n俺はそんなことはない。
 \n
 I'm sure everyone's telling you\n
-about the "Judgement Day" rumors,
+about the "Judgement Day" rumors.
 <$0C>
-but I'm not minding it.
+I'm not minding it.
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\n自分を信じてるからな\n自分をつらぬいてるからな。
 \n
-All I've gotta worry about is me. I'm\n
-just gonna work on me.
+All I've gotta worry about is me.\n
+That's what I'm working on.
 <$00>
 
 // Pos: 000023C9
@@ -217,10 +215,10 @@ Feng:
 <$0D>
 //\nねぇ、いつまで続けるの？\nいい惑じになったじゃない、コスマスは。\n私はもう満足よ。
 \n
-Red, how long must we do this? I've a\n
-sense that Cosmas is satisfied
+Red, how long must we do this? 
 <$0C>
-already.
+I've a sense that Cosmas\n
+is satisfied already.
 <$00>
 
 // Pos: 0000240C
@@ -251,8 +249,8 @@ Feng:
 <$0D>
 //\n蕃判には十分よ。
 \n
-In the eyes of Judgement, he is\n
-adequate.
+In the eyes of Judgement,\n
+he is adequate.
 <$00>
 
 // Pos: 0000243D
@@ -299,9 +297,10 @@ Feng:
 <$0D>
 //\n彼女には気をつけてね。催眠術よ…\nまやかしの天才…まるで魔女よ。
 \n
-Be careful around that...angel of\n
-deception. She practices what's
+Be careful around that...\n
+angel of deception. 
 <$0C>
+She practices what's\n
 known as hypnotherapy.
 <$0C><$0B>
 //フェイ：
@@ -309,18 +308,18 @@ Feng:
 <$0D>
 //\nアガタは催眠術でヘロデのことを支配してるの。\n心の中まで全部ね。
 \n
-Agatha uses hypnotherapy to take\n
-over Herod's mind.
+Agatha uses hypnotherapy\n
+to take over Herod's mind.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nヘロデは見かけほど悪い人じゃない、本当よ。\n子どもみたいに純真なの。それをあの女が…
 \n
-Herod isn't as negative as he looks.\n
-His nightmares are those of an
+Herod isn't as negative as he looks.
 <$0C>
-innocent child.
+His nightmares are those\n
+of an innocent child.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -328,18 +327,18 @@ Feng:
 //\nかわいそうなヘロデ…\n彼は悪夢の中に生まれたの。
 \n
 Poor Herod was born in the Land of\n
-Nightmares. Half of his life is
+Nightmares. 
 <$0C>
-nightmares.
+Half of his life is nightmares.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n今でも半分は悪夢の世界に生きているのよ。\nあの女はそこに付け入って…やりたい放顆よ。
 \n
-That witch takes advantage of this\n
-and manipulates Herod to do her
+That witch takes advantage of this.
 <$0C>
+She manipulates Herod to do her\n
 bidding!
 <$00>
 
@@ -364,9 +363,9 @@ Feng:
 //\n誰も彼女の美しさを超えられなかった、\n伝説の美女。そして今じゃ鏡の精よ。
 \n
 She once lived as a legendary beauty\n
-without peer. And now, she is a
+without peer.
 <$0C>
-mirror spirit.
+And now, she is a mirror spirit.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -403,8 +402,8 @@ April:
 //\nなんだか変な臭いがする…生臭いよ。\nねぇ、気味悪いから行こうよ。
 \n
 It...smells like rotten meat.\n
-Actually, can we leave? I don't want
+Actually, can we leave?
 <$0C>
-to be around this.
+I don't want to be around this.
 <$00>
 

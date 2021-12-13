@@ -17,7 +17,7 @@ Feng:
 <$0D>
 //\n簡単なことなのよ。\nヴァニティフェイスで性格が良くなって、\n悪意が無くなる。
 \n
-A Vanity Face can safely better your\n
+Vanity Face can better your\n
 dispostion and remove ill will.
 <$0C><$0B>
 //フェイ：
@@ -25,9 +25,10 @@ Feng:
 <$0D>
 //\nそれでもう安心。 蕃判だの奇跡だの、\n何が起きても変なふうにならずに済むのよ。\n強くなれるのよ。
 \n
-This miracle of Judgement will make\n
-you strong. It'll keep you from
+In the miracle of Judgement,\n
+this will make you strong. 
 <$0C>
+It'll keep you from\n
 feeling not like your self.
 <$00>
 
@@ -73,17 +74,15 @@ Madam Agatha:
 <$0D>
 //\nヴェロニカはフェイを\n取り込もうとしてるみたいね。\nどうするのかしら…
 \n
-It seems Veronica is trying to absorb\n
-Feng. I'm not sure how to feel about
-<$0C>
-that.
+It seems Veronica aims to absorb\n
+Feng. I'm not sure I like that.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nそれにしても心の悪を照らす鏡だなんて、\nイヤな話ね。
 \n
-On top of that, I don't like the idea of a\n
+Plus, I don't like the idea of a\n
 mirror that illuminates a mind's evil.
 <$0C><$0B>
 //マダム・アガタ：
@@ -91,10 +90,8 @@ Madam Agatha:
 <$0D>
 //\nそんな鏡、どこにあるのかしら。\n鏡のことはフェイに\nそれとなく開いてみるしかなさそうね。
 \n
-And where would one find such a\n
-mirror? I've no choice but to ask Feng
-<$0C>
-about it later.
+Where'd she uncover such a mirror?\n
+I have to ask Feng about it later.
 <$00>
 
 // Pos: 00002249
@@ -133,9 +130,9 @@ Madam Agatha:
 //\nこっちに戻れなくなるのよ。\n彼は悪夢の住人なの。もう行かなきゃ。
 \n
 But, he cannot stay here. He is a\n
-dweller of the Land of Nightmares. I
+dweller of the Land of Nightmares.
 <$0C>
-must go.
+I must go.
 <$00>
 
 // Pos: 000022C2
@@ -166,8 +163,8 @@ Madam Agatha:
 <$0D>
 //\nそう… 私、物の記憶が読めるの…。
 \n
-You see, I can peer into a person\n
-simply by looking at their personal
+You see, I can peer into a person's\n
+self through their personal effects.
 <$0C>
 effects.
 <$0C><$0B>
@@ -184,20 +181,18 @@ Madam Agatha:
 <$0D>
 //\nでもここじゃダメね、集中できないから。
 \n
-It demands my full concentration,\n
-so it's not a skill I can use out here in
+It demands my full concentration.\n
 <$0C>
-the street.
+It's not a skill I can use out\n
+here in the street.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何か私に見せたい物があるときは、\n私の部屋に来て。 テレビのそばにある\nクリスタルボールに触れてみて。
 \n
-If you wish to see me, come to my\n
-room. Touch the crystal ball near the
-<$0C>
-television.
+To see me, come to my room, and\n
+Touch the crystal ball.
 <$1E>
 //理
 理
@@ -215,8 +210,8 @@ Linda:
 <$0D>
 //\nここの人、\nみんなあさっての方向見ちゃってるのよねー。
 \n
-The people here have to keep their\n
-eyes on the road ahead.
+The people here have to keep\n
+their eyes on the road ahead.
 <$00>
 
 // Pos: 000023CF
@@ -239,17 +234,15 @@ Linda:
 <$0D>
 //\n気味の悪い顔のお化けを神様だなんて、ねー。\nどうしちゃったの。
 \n
-But then again, he thinks some\n
-awful-looking ghoul is God. Like,
-<$0C>
-what?
+But he also thinks some nasty\n
+ghoul is God. Like, what?
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあー嫌だ嫌だ、
 \n
-Eh, I can't say I'm a fan.
+I can't say I'm a fan.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -275,10 +268,11 @@ Linda:
 <$0D>
 //\nあさって、あさって…\nあさってが来なかったら、ねー、どうしよう…
 \n
-Tomorrow, the day after, and the\n
-day after that... If they don't come,
+Tomorrow, the day after,\n
+and the day after that...
 <$0C>
-what'll we do...?
+If they don't come,\n
+what'll we do?
 <$1E>
 //中
 中
@@ -312,18 +306,19 @@ Linda:
 <$0D>
 //\nねぇー、ここー、寝る時間でもないのに\n消灯時間ですーっていうのよー。
 \n
-You know, those beds likes to say,\n
-"LIGHTS-OUT!" even when it's not
+You know, the bed's speaker there,\n
+calls, "LIGHTS-OUT," through the area.
 <$0C>
-time for bed.
+It'll do this even when\n
+it isn't time for bed.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n変ねー、朝でもそうなのー。
 \n
-It's weird, right? It'll even do it in the\n
-morning!
+Weird, right? It'll even\n
+do it in the morning!
 <$1E>
 //行
 行
@@ -342,9 +337,9 @@ Linda:
 //\n変ねー、いつでも消灯時間だなんてねー、\nあのベッドがこわれてるのよー。
 \n
 How weird. It's always lights-out\n
-time, feels like. Maybe those beds
+time, feels like.
 <$0C>
-are busted.
+Maybe the bed's speaker is busted.\n
 <$1E>
 //中
 中
@@ -370,13 +365,11 @@ Linda:
 <$0D>
 //\nどうやって作るか、知ってる？
 \n
-Do you know how a Vanity Face is\n
-made?
+Do you know how Vanity Face\n
+is made?
 <$1B>
 //？知ってる\n知らない
-？Yes
-<$0C>
-No
+？Yes\nNo
 <$00><$17><$00>
 
 // Pos: 0000257E
@@ -391,10 +384,8 @@ Linda:
 <$0D>
 //\nうそばっかー。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
 \n
-You wouldn't believe it, but it's a\n
-cloth! Veronica uses a cloth to create
-<$0C>
-a Vanity Face.
+You wouldn't guess it, but Veronica\n
+used a cloth to create Vanity Face.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -402,9 +393,7 @@ Linda:
 //\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
 \n
 I'd tell you more, but Marrakech is on\n
-my ass, and it's kind of killing my
-<$0C>
-mood.
+my ass, and it's killing my mood.
 <$1E>
 //中
 中
@@ -422,10 +411,8 @@ Linda:
 <$0D>
 //\nすごいんだからー、すごいの。\n布よ、ヴェロニカの布…\nあー、布をどうするー…
 \n
-It's amazing! The things Veronica\n
-can do with that cloth of hers is
-<$0C>
-stunning!
+It's amazing! The work Veronica\n
+does with her cloth is stunning!
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -433,9 +420,7 @@ Linda:
 //\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
 \n
 I'd tell you more, but Marrakech is on\n
-my ass, and it's kind of killing my
-<$0C>
-mood.
+my ass, and it's killing my mood.
 <$1E>
 //中
 中
@@ -472,16 +457,16 @@ Linda:
 //\n蕃判なんてうそっぱちよー、\n焦る気持ちは分かるけどねー。
 \n
 That "Judgement" talk is straight-up\n
-bullshit. People will freak out over
+bullshit.
 <$0C>
-anything.
+People will freak out over anything.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nみんな自信ないのよー、\nそれでおかしくなるのよー
 \n
-Everyone thinks their so helpless!\n
+They think they're so helpless!\n
 Sad, don't you think?
 <$1E>
 //中

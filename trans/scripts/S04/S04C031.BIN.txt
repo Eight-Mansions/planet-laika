@@ -25,9 +25,9 @@ Sammy:
 //\n今夜はトミー、おかしいみたい。\nすぐアタシになっちゃうの。
 \n
 Tommy sure was antsy tonight.\n
-Heehee, he's turning into me more
 <$0C>
-and more.
+Heehee, he's turning into\n
+me more and more.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -61,8 +61,8 @@ Sammy:
 <$0D>
 //\nそのへんにいるはずよ、さがしてみれば。
 \n
-If you look in the area, I'm sure you'll\n
-find her.
+If you look in the area,\n
+I'm sure you'll find her.
 <$1E>
 //〇
 〇
@@ -115,10 +115,10 @@ Rummy:
 <$0D>
 //\nなんだな、僕だな、ラミーだな。\n今度はふたりだな、あと何人だな…
 \n
-Hey. It's me, Rummy! So, we make\n
-two, and I guess...that person's
+Hey. It's me, Rummy!\n
+So, we make up two, right?
 <$0C>
-number three?
+I guess that last one makes us a trio.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -144,8 +144,8 @@ Rummy:
 <$0D>
 //\nはぐれたやつはきまって記憶の谷へ行くな。
 \n
-Those who get lost wind up in Valles\n
-Memoriae, a-ha!
+Those who get lost wind up\n
+in Valles Memoriae, a-ha!
 <$1E>
 //炎
 炎

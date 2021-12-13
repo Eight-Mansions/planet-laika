@@ -21,16 +21,15 @@ Gold:
 <$0D>
 //\nレッドのやつ、\n朝っぱらからどこか行きやがったぜ。
 \n
-Red ran off somewhere this\n
-morning.
+Red ran off this morning.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nへへん、いいこと教えてやろうか。\nレッドのやつだ、やつが何におびえてるか…
 \n
-Hehe, might as well tell you. The guy's\n
-scared of something.
+Hehe, might as well tell you.\n
+The guy's scared of something.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -40,8 +39,7 @@ Gold:
 Think you know what that is?
 <$1B>
 //？知らない\n知ってる
-？No\n
-Yes
+？No\nYes
 <$00><$17><$00>
 
 // Pos: 00002B8F
@@ -68,20 +66,20 @@ Gold:
 <$0D>
 //\nガキの頃に一緒に住んでたおじさんで、\nそいつに妙な可愛がられ方したんだそうだ
 \n
-The guy's real, though. Lived with\n
-Red when he was a kid. They had some
+The guy's real, though.\n
+Lived with Red when he was a kid.
 <$0C>
-"thing" going on.
+They had some "thing" going on.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\n今でも夢の中に出て来るらしいぜ。\nクロウのやつがのぞき見したんだ。
 \n
-Apparently, he still appears in Red's\n
-dreams. Crow peeked in and saw the
+Apparently, he still appears\n
+ in Red's dreams.
 <$0C>
-guy.
+Crow peeked in and saw the guy.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -154,17 +152,15 @@ Gold:
 //\n何だ、お前、コスマスのことお気に入りか？\nやばいぜ、レッドのやつに見つかると。
 \n
 Why are you so invested in Cosmas?\n
-If Red catches onto you, you're done
-<$0C>
-for.
+If Red catches you, you're done for.
 <$00><$12><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\n扉、壊れちまった、開かねぇんだ！
 \n
-The door's busted. There's no getting\n
-out.
+The door's busted.\n
+There's no getting out.
 <$00>
 
 // Pos: 00002CE3
@@ -179,10 +175,10 @@ Gold:
 <$0D>
 //\nなんだ？ 朝から飲みてぇのか？\nふん！ やめときな。
 \n
-You haven't been drinking since this\n
-morning, have you? Might be time to
+You haven't been drinking since\n
+this morning, have you?
 <$0C>
-tap out.
+Might be time to tap out.
 <$1E>
 //声
 声
@@ -211,8 +207,8 @@ Gold:
 <$0D>
 //\nおい、俺はなぁ、\n別にお前のこと心配ってわけじゃねぇ、
 \n
-I mean, you live your life, kid. I ain't\n
-exactly worried for your sake.
+I mean, you live your life, kid.\n
+I ain't exactly worried for your sake.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -220,9 +216,9 @@ Gold:
 //\nただこれ以上、\n騒ぎを起こしてほしくねぇんだ、分かるか。
 \n
 I don't want the noise seeping into\n
-my bar, got it? That's why they say,
+my bar, got it?
 <$0C>
-"Get a room".
+That's why they say, "Get a room".
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -245,19 +241,15 @@ Gold:
 //\nどっかそのへんに身を隠すところ、ないか？\nあるだろ、ちょっと隠れればいいんだ。
 \n
 You don't need to lay low, do you?\n
-There are places to hide, if you need
-<$0C>
-'em.
+There are hiding places, if you do.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\n部屋の中とかじゃねぇぞ、\nちょっと隠れるんだ。
 \n
-Even if they aren't permanent, you\n
-can tuck away in some of the
-<$0C>
-different flats.
+Even if they aren't forever, you\n
+can tuck away in empty flats.
 <$00>
 
 // Pos: 00002E0F
@@ -294,10 +286,10 @@ Gold:
 <$0D>
 //\nおう… コスマスはどうした…\nレッドのやつが戻るとうるせぇぞ。
 \n
-The heck happened to Cosmas?\n
-There'll be a shitstorm once Red
+The heck happened to Cosmas?
 <$0C>
-comes back and sees him.
+There'll be a shitstorm once\n
+Red comes back and sees him.
 <$1E>
 //声
 声
@@ -323,9 +315,10 @@ Gold:
 //\n記憶の谷で善人が見つかったとかでよ、\n善人はすぐ悪に憑かれちまうから\n危ないんだそうだ。
 \n
 A good person was seen in Valles\n
-Memoriae, meaning they'll soon be
+Memoriae.
 <$0C>
-posessed by evil.
+That means they'll soon\n
+be posessed by evil.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -333,9 +326,7 @@ Gold:
 //\nあんたのお仲間なのか？\nそいつは善人だったのか？
 \n
 It's not safe. Could it be your friend?\n
-Are any of your companions good
-<$0C>
-people?
+Are companions good people?
 <$1E>
 //声
 声
@@ -373,17 +364,15 @@ Gold:
 //\nおう、お前、レッドに何したんだ？\n変なこと口走りながら出て行きやがったぜ。
 \n
 What did you do to Red? He just\n
-walked out mumbling something
-<$0C>
-weird.
+walked out mumbling strangely.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nありゃ戻らねぇな、もう無理だ。\n壊れちまってる。
 \n
-There's no saving him now. That\n
-guy's capital F-A-R-gone.
+There's no saving him now.\n
+That guy's capital F-A-R-gone.
 <$1E>
 //声
 声
@@ -471,24 +460,22 @@ I feel like I'm going crazy.
 <$0C>
 //この歳になって、ヨセミテ、悪夢にうなされた。\nなんと、悪夢は\n全ての人に通じていることを発見。
 At this age I, Yosemite, had a\n
-nightmare. I learned that\n
-nightmares are common for
-<$0C>
-everyone.
+nightmare. I learned that they\n
+are common for everyone.
 <$0C>
 //いろんな人間のおこないが\n手に取るように見えた。
 It seems I'm picking up all sorts of\n
 human behaviors.
 <$0C>
 //なかでもダークマンの名を呼ぶ少年には\nおどろかされる。 惑動すら覚える。\nあの少年、コスマスは作り主だ。
-The boy who calls out the name "Dark\n
-Man", Cosmas, is especially\n
+The boy who calls out the name\n
+"Dark Man", Cosmas, is especially\n
 surprising. He is Dark Man's creator.
 <$0C>
 //すばらしい！\nダークマンは、心の友である。 私にも\nあのようなことが、できるのであろうか。
 How splendid it is, that Dark Man is his\n
-tulpa. I wonder if I will acquire this\n
-ability too.
+friend. I wonder if I will acquire the\n
+ability to make one too.
 <$0C>
 //念じて念じて、\nやがて友が現れてくれるのであろうか。
 Wish I may, and wish I might, will a\n
@@ -513,6 +500,6 @@ Spacer:
 //\nダークマンは実体を持たないのか？\nそれとも…
 \n
 Does Dark Man not have a true\n
-form?? Then, that only means...
+form? Then, that means...
 <$00>
 

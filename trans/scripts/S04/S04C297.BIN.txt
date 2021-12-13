@@ -39,16 +39,16 @@ Marrakech:
 <$0D>
 //\nあなたさっき…そうよね、さっき\nリャンハウスの前でうろうろしてたじゃない、
 \n
-I saw you earlier, didn't I? Standing\n
-around in front of House Liang.
+I saw you earlier, didn't I?\n
+Loitering in front of House Liang.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\n隠してもダメヨ、\nアタシ、見抜く、ミヌク。
 \n
-You can't hide from me, now. I can\n
-see right through you.
+You can't hide from me, now.\n
+I can see right through you.
 <$00>
 
 // Pos: 00002661
@@ -125,10 +125,10 @@ Marrakech:
 <$0D>
 //\nなんてね…\nいいじゃない、陽気なのはアタシの取り柄よ。
 \n
-There's nothing wrong with me! My\n
-playfulness is my most redeeming
+There's nothing wrong with me!
 <$0C>
-feature! 
+My playfulness is my most\n
+redeeming feature! 
 <$1E>
 //行
 行
@@ -165,8 +165,7 @@ Marrakech:
 Hey, are you listening to me?
 <$1B>
 //,ちゃんと開いてる\nしっかり開いてる
-,Yes, closely\n
-Yes, deeply
+,Yes, closely\nYes, deeply
 <$00><$17><$00>
 
 // Pos: 000027CA
@@ -245,9 +244,7 @@ Marrakech:
 //\nあああ、もう、こんなの！ お顔が何よ！\nどうでもよくなってきちゃった。
 \n
 What are you going to do NOW huh?\n
-Keep acting like you give a damn
-<$0C>
-about us?!
+Keep acting like you give a damn?
 <$1E>
 //行
 行
@@ -284,8 +281,8 @@ Marrakech:
 <$0D>
 //\nあのコ… どっかで見たことあるのよね。
 \n
-That lassie...I'd seen her around, I\n
-think.
+That lassie...I'd seen her around,\n
+I think.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -319,8 +316,8 @@ Marrakech:
 <$0D>
 //\nそれにしてもよ、やっぱり変よ、\nあのお顔。いただけない、
 \n
-At any rate, she's a little odd, no? Her\n
-face is off.
+At any rate, she's a little odd, no?\n
+Her face is off.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -346,9 +343,7 @@ Marrakech:
 //\nあのコ、自分のこと、かわいいって\n思ってるのかしらね。きっとそうよね。
 \n
 That lass is very charming in your\n
-eyes, isn't she? Yes, I was sure you'd
-<$0C>
-agree.
+eyes, isn't she? I'm sure of it.
 <$1E>
 //行
 行
@@ -366,20 +361,16 @@ Marrakech:
 <$0D>
 //\nレッドのやつ、あのサイテー野郎、\nあわてて出ていったよ。
 \n
-I saw that bastard, Red, walk out\n
-here acting like he got really fucked
-<$0C>
-up.
+That bastard, Red, walked by.\n
+He looked he got really fucked up.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\n誰かにどやされでもしたの？\nいい気味よね、アタシをぶつからよ。
 \n
-Did someone get to him before I did?\n
-Good. That's what he gets for hitting
-<$0C>
-me!
+I'm happy someone let him have it.\n
+That's what he gets for hitting me!
 <$1E>
 //行
 行
@@ -401,10 +392,8 @@ Marrakech:
 <$0D>
 //\nふん、アタシのことぶつからよ。\nあのヘンタイ野郎が！
 \n
-I hope that dirty bastard gets\n
-everything that's coming to him for
-<$0C>
-hitting me.
+I hope that filth finally gets\n
+his just desserts hitting me.
 <$1E>
 //中
 中

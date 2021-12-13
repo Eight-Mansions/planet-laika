@@ -18,7 +18,7 @@ Linda:
 //\nあらー、あなたも催眠術するのー、されるのー。\n気をつけないとねー。おかしくなるよー。
 \n
 Are you going to try hypnotherapy\n
-too? It sounds so shady, but...
+too? It sounds so shady...
 <$1E>
 //行
 行
@@ -36,7 +36,7 @@ Linda:
 <$0D>
 //\nあたしもよー、アガタとお話してからー、\nおかしくなったのー。
 \n
-...I went to Agatha about it myself.\n
+I went to Agatha about it my self.\n
 And yeah, she's weird in general.
 <$0C><$0B>
 //リンダ：
@@ -63,10 +63,10 @@ Rummy:
 <$0D>
 //\nびっくりしたな、綠の光だな、\n頭に入ってきたな、僕はラミーだな。
 \n
-The green flashing in my head caught\n
-me by surprise... Ah, right. I'm
+The green flashing in my head\n
+caught me by surprise...
 <$0C>
-Rummy!
+Ah, right. I'm Rummy!
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -80,9 +80,10 @@ Rummy:
 <$0D>
 //\n僕はこの世界のからくりを考えてるな。\nふたつのことが、どこかでつながってるな。
 \n
-I'm trying to figure out how the\n
-world works, but maybe those two
+I'm trying to figure out\n
+how the world works.
 <$0C>
+But maybe those two\n
 are connected...
 <$0C><$0B>
 //ラミー：
@@ -90,8 +91,8 @@ Rummy:
 <$0D>
 //\nふたつのどちらを知りたいですか？
 \n
-Which of the two would you like to\n
-know about?
+Which of the two would you\n
+like to know about?
 <$1B>
 //．コスマスのこと\nエレミヤのこと
 ．Cosmas
@@ -127,9 +128,7 @@ Rummy:
 //\n窓のわきにいると開こえてくるな、\n声だな、お話の声だな。
 \n
 If you ever peek through the back\n
-alley window, no one hides anything
-<$0C>
-there.
+alley window, you'll hear people.
 <$1E>
 //理
 理
@@ -148,9 +147,7 @@ Rummy:
 //\nとうに死んだ流刑者だな、\n預言を残したな。
 \n
 He was an exile who died a long time\n
-ago, a-ha! But, he left behind the
-<$0C>
-prophecies.
+ago, a-ha! But! He left prophecies.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -158,9 +155,10 @@ Rummy:
 //\nマコトの双子が現れて、\n人類が再生するんだな。
 \n
 The prophecies say that the Twins of\n
-Truth will appear, and that humanity
+Truth will appear on Mars.
 <$0C>
-will be reborn.
+And once they do,\n
+humanity will be reborn.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -214,9 +212,9 @@ Tommy:
 //\nよう、兄ちゃんよう、\nリトルのやつのこと、知ってるか？\nあいつ、神様こさえてるんだ、ひゃ！神様だ。
 \n
 Hey, do you know that dispensary\n
-employee named Little? He thinks he
+employee named Little?
 <$0C>
-can talk to God!
+He thinks he can talk to God!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -242,20 +240,16 @@ Tommy:
 <$0D>
 //\nリトルのやつな、声がひっくり返って、\n神様神様だ、へん！\nこさえた神様がなんになる？
 \n
-Hehe, that Little guy trying to\n
-accomplish with crying, "God! God!
-<$0C>
-GOD!"
+Hehe, that Little guy was crying\n
+and crying, "God! God! God!"
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nやっぱりあいつにも、別な誰かがいるんだ。\nきっとな。\n心の中に用意してるんだ。建いないぜ。
 \n
-It just doesn't sound like him. No\n
-way. It's like someone else is in his
-<$0C>
-brain.
+It just doesn't sound like him.\n
+No way. Someone's in his head.
 <$1E>
 //家
 家
@@ -293,8 +287,8 @@ CHARLIE SEES YOU.
 ぁほ
 <$1D><$00><$00><$00>
 //チャーリー、食べたい、ごちそう、\n食べたい。
-CHARLIE'S HUNGRY. FEED HUNGRY\n
-CHARLIE.
+CHARLIE'S HUNGRY.\n
+FEED HUNGRY CHARLIE.
 <$1A>
 //も
 も
@@ -313,8 +307,8 @@ CHARLIE KNOWS.
 ぽホ
 <$1C><$00><$00><$00>
 //チャーリー、思い出す。昔、思い出す。
-CHARLIE KNEW. CHARLIE ALWAYS\n
-KNEW.
+CHARLIE KNEW.\n
+CHARLIE ALWAYS KNEW.
 <$1A><$16><$00><$00><$00>
 //チャーリー、目が覚めた、目が覚めた。
 CHARLIE'S AWAKE! CHARLIE'S AWAKE!

@@ -17,16 +17,16 @@ April:
 <$0D>
 //\nここが記憶の谷ね。\n酸索石はここで掘り出していたのよ…
 \n
-This is Valles Memoriae, where the\n
-oxygenite is dug out.
+This is Valles Memoriae,\n
+where oxygenite is dug out.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nなんだか吸い込まれてしまいそうな雰囲気ね。
 \n
-The atmosphere's a little hard to\n
-breathe in.
+The atmosphere's a little\n
+hard to breathe in.
 <$00>
 
 // Pos: 00000816
@@ -41,7 +41,7 @@ April:
 <$0D>
 //\n人の気配がしないけど…\n奥に行ってみない？
 \n
-There's no sign of anyone here, so\n
-why not look around?
+There's no sign of anyone here,\n
+so why not look around?
 <$00>
 

@@ -92,8 +92,8 @@ Captain Tatler:
 <$0D>
 //\nバリアだ。\nオリンピア２号が守ってくれてる。
 \n
-It's a barrier. Olympia #2 is\n
-protecting her.
+It's a barrier.\n
+Olympia #2 is protecting her.
 <$00>
 
 // Pos: 00002247
@@ -143,8 +143,8 @@ Captain Tatler:
 <$0D>
 //\n早く！ ライカ君、急いでくれたまえ！\n私は表で待ってるからね！
 \n
-Do something quick, Laika! I-I'll wait\n
-out front!
+Do something quick, Laika!\n
+I-I'll wait out front!
 <$00>
 
 // Pos: 000022CE
@@ -174,8 +174,8 @@ Captain Tatler:
 <$0D>
 //\n燃える、燃える、何とかしてくれ。
 \n
-She's burning! She's burning! You\n
-have to do something!
+She's burning! She's burning!\n
+You have to do something!
 <$00>
 
 // Pos: 00002304
@@ -260,9 +260,9 @@ Olympia #2:
 //\nホノオがハきダすネンパをはねカエすのです。\nココロのチカラでタタカうのです。
 \n
 THE FLAMES WILL FIRE PULSES AT YOU.\n
-REPEL THEM WITH THE POWER OF YOUR
 <$0C>
-HEART.
+REPEL THE PULSES WITH\n
+THE POWER OF YOUR HEART.
 <$00>
 
 // Pos: 000023F0
@@ -325,9 +325,7 @@ Chloe:
 //\n助けてくれてありがとう…\nはじめてよ…人に助けられたの…
 \n
 Thank you for saving me. It's the\n
-first time anyone has ever helped
-<$0C>
-me.
+first time anyone ever helped me.
 <$00>
 
 // Pos: 00002486
@@ -366,8 +364,8 @@ Ernest:
 <$0D>
 //\nおう、何だ、びっくりするじゃねぇか！
 \n
-Woah, hang on. That doesn't scare\n
-you?
+Woah, hang on.\n
+That doesn't scare you?
 <$00>
 
 // Pos: 000024F8
@@ -400,8 +398,8 @@ Captain Tatler:
 <$0D>
 //\nやあやあやあ、ライカ君！ よくやった！\n君のことは前から頼りにしてたんだ！
 \n
-Oh, Laika! You did so well! I knew I\n
-could count on you!
+Oh, Laika! You did so well!\n
+I knew I could count on you!
 <$00>
 
 // Pos: 00002557
@@ -438,7 +436,7 @@ Captain Tatler:
 <$0D>
 //\nあはは！ 平気だ、平気。\nクロエちゃんが平気だ！
 \n
-Ahaha! You're safe! SAFE! My Chloe is\n
-safe!
+Ahaha! You're safe! SAFE!\n
+My Chloe is safe!
 <$00>
 

@@ -24,8 +24,8 @@ Cosmas:
 <$0D>
 //\nあんただね。\nよく来られたね、ここが僕の隠れ家だよ。
 \n
-You've come here quite a bit, haven't\n
-you? To my hideout here.
+You've come here quite a bit,\n
+haven't you? To my hideout?
 <$00>
 
 // Pos: 00001858
@@ -39,7 +39,7 @@ you? To my hideout here.
 Spacer:
 <$0D>
 //\n隠れ家…
-Your hideout...
+This is your hideout...
 <$00>
 
 // Pos: 0000186B
@@ -74,14 +74,11 @@ Well, as a matter of fact...
 <$0C>
 //１．君とダミアヌスは双子なのか？\n２．全ての預言を得るとどうなる？\n３．フェイとヴェロニカはどうなる？
 1. Are you and Damian twins?\n
-Is Dark Man a doll?\n
-Who is Uncle Bubbles?
+2. Why gather the five prophecies?\n
+3. What does Veronica want?
 <$1B>
 //２１ \n２ \n３ 
-２1 
-<$0C>
-2 \n
-3
+２1 \n2 \n3
 <$00><$17><$00>
 
 // Pos: 000018EF
@@ -104,7 +101,7 @@ Cosmas:
 //\nレッドおじさんは勝手に話を作り出す\n天才なんだよ。
 \n
 Uncle Red has a gift for spinning tall\n
-tales on the fly.
+tales at the drop of a hat.
 <$00>
 
 // Pos: 00001938
@@ -119,10 +116,10 @@ Cosmas:
 <$0D>
 //\nよくは知らないけど、５つの預言から新しい\nひとつの預言ができあがるってことらしいよ。
 \n
-I'm not sure, but it seems that, from\n
-the five prophecies, a new prophecy
+I'm not sure, but it seems that...\n
 <$0C>
-will be created.
+...from those the five prophecies,\n
+a new prophecy will be created.
 <$00>
 
 // Pos: 00001970
@@ -137,8 +134,8 @@ Cosmas:
 <$0D>
 //\nヴェロニカは自分ひとりになろうって\n思ってるんだ。
 \n
-I think Veronica wants to live as her\n
-own individual person.
+I think Veronica wants to live\n
+as her own individual person.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -161,18 +158,18 @@ Cosmas:
 <$0D>
 //\nじゃあ、今度は僕が質問するよ。
 \n
-All right, now it's my turn to ask you\n
-something.
+All right, now it's my\n
+turn to ask you something.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nもしあんたや
 \n
-If you existed separately from 
+If you existed separately from\n
 <$0F>
 //が\n仮の姿だとしたら、どうする？
-, what shape would you take?
+, what shape would\nyou take?
 <$00>
 
 // Pos: 000019FC
@@ -187,10 +184,10 @@ Spacer:
 <$0D>
 //\n仮の姿…どういう意味だ、\n私はこうして実際にいるではないか。
 \n
-What shape would I take? Well, what\n
-you see is what you get. I mean, I
+What shape would I take? Well,\n
+what you see is what you get.
 <$0C>
-exist already, don't I?
+I mean, I exist already, don't I?
 <$00>
 
 // Pos: 00001A2D
@@ -205,8 +202,8 @@ Cosmas:
 <$0D>
 //\nどうだか… 存在するかどうかなんて、\nあんまり意味がないんだ。
 \n
-Whether I existed or not, I suppose it\n
-wouldn't mean much to me.
+As long as I existed, I thought it\n
+wouldn't mean much how I looked.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -237,10 +234,8 @@ Cosmas:
 <$0D>
 //\n深くないなぁ、そんなこと気にするなんて\nレッドおじさん並だよ。
 \n
-That sounds awfully surface-level,\n
-but I don't look it things as deeply as
-<$0C>
-Red does.
+That sounds surface-level, but I\n
+don't look at it as deeply Red.
 <$00>
 
 // Pos: 00001AF0
@@ -256,9 +251,7 @@ Spacer:
 //\nしかし、存在するかしないかは、\n生と死と同じことではないのか。
 \n
 But, existing and not existing are the\n
-same as living and dying, aren't
-<$0C>
-they?
+same as living and dying, aren't they?
 <$00>
 
 // Pos: 00001B21
@@ -296,10 +289,10 @@ Spacer:
 <$0D>
 //\nやつは歪んだ死生観の持ち主だ。\n死から始まるものなどない。
 \n
-Galil's views of life and death are\n
-distorted. Nothing begins with
+Galil's views of life and\n
+death are distorted. 
 <$0C>
-death.
+Nothing begins with death.
 <$00>
 
 // Pos: 00001B9C
@@ -360,9 +353,7 @@ Cosmas:
 //\nあんたも寝るといいよ、\n夢の中で会えるって本当だよ。
 \n
 You should go to sleep too. We can\n
-always meet inside of another
-<$0C>
-dream.
+always meet inside another dream.
 <$00>
 
 // Pos: 00001C2D
@@ -392,10 +383,11 @@ Cosmas:
 <$0D>
 //\n今なら眠れるよ、\n僕が眠ってるときが消灯時間さ。
 \n
-I'm going to sleep for now, but when\n
-I'm sleeping-sleeping, it's
+I'm going to sleep for now,\n
+but when I'm sleeping-sleeping...
 <$0C>
-lights-off time, okay?
+...it's normally at\n
+lights-out time, okay?
 <$00>
 
 // Pos: 00001C6A
@@ -425,7 +417,7 @@ Spacer:
 <$0D>
 //\n消灯時間？
 \n
-Lights-off time?
+Lights-out time?
 <$00>
 
 // Pos: 00001CC2

@@ -49,7 +49,7 @@ Marrakech:
 //\nアタシは洗顔に来たのよ、\n寝る前のお洗顔よ。
 \n
 I came for a face-wash. I like to get\n
-my face washed up before bed.
+my face dolled up right before bed.
 <$00>
 
 // Pos: 00001F9F
@@ -72,10 +72,11 @@ Marrakech:
 <$0D>
 //\n犬の顔で人類が平和になった、\nそう教えられてきたものね。
 \n
-I remember being taught that the\n
-trade for our dog faces ensured
+I remember being taught about\n
+that trade for our faces.
 <$0C>
-peace for mankind.
+That the dog faces we have were\n
+symbols of peace for mankind.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -83,9 +84,7 @@ Marrakech:
 //\nでもガマンすることないのよ。\n火星人は人間の顔の記憶を残して滅んだの。
 \n
 Peace from what, huh? The Martians\n
-died off and took our faces with
-<$0C>
-them!
+died, and took our faces with them!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -108,10 +107,8 @@ Marrakech:
 <$0D>
 //\nそれでこのお仕事、整形屋を始めたのよ。
 \n
-The Face was the inspiration she\n
-needed to open shop as a cosmetic
-<$0C>
-surgeon.
+The Face was her inspiration to\n
+ever become a cosmetic surgeon.
 <$00>
 
 // Pos: 00002085
@@ -135,9 +132,9 @@ Marrakech:
 //\nアタシ、だんだん人間の顔に近づくにつれ、\n優しい気分になれるの。幸せよ。
 \n
 The closer my face gets to looking\n
-human, the more I feel human. I feel
+human, the more I feel human.
 <$0C>
-happy.
+It makes me feel blissful.
 <$1E>
 //〇
 〇
@@ -147,8 +144,8 @@ Marrakech:
 <$0D>
 //\n変ねぇ…どっかで会った気がするのよ…\n気のせい？
 \n
-Dear... Have we met before, or did I\n
-imagine it?
+Dear... Did I imagine it,\n
+or have we met before?
 <$00>
 
 // Pos: 000020E1
@@ -163,8 +160,8 @@ Veronica:
 <$0D>
 //\nあんたも仲間なの？\nあいつらと一緒なの？
 \n
-Where those two your friends? Did\n
-you come here with them?
+Where those two your friends?\n
+Did you come here with them?
 <$00>
 
 // Pos: 00002106
@@ -179,10 +176,10 @@ Veronica:
 <$0D>
 //\n簡単よ、あいつら動かすの。\nあんたもあいつらみたいに簡単なの？
 \n
-What a couple of knucklebones.\n
-You're not a pushover like they are, I
+What a couple of knucklebones.
 <$0C>
-hope,
+You're not a total pushover\n
+like they are, I hope.
 <$00>
 
 // Pos: 00002137
@@ -197,28 +194,27 @@ Veronica:
 <$0D>
 //\nねぇ、簡単ってどういうことか知ってる？
 \n
-You knew what I meant by\n
-"knucklebones", right?
+You know what "knucklebones"\n
+were, right?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nサイコロに命令するようなものよ。\n何回かに一回、必ず命令通りになるの。
 \n
-That's an old dice game. You take\n
-turns until someone rolls a Venus and
+That's the name of an old\n
+dice game that used animal bone.
 <$0C>
-wins the pot.
+You took turns until someone\n
+rolled a Venus and won the pot.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nだから私、命令をためてる。\nいざっていう時に使うのよ。
 \n
-Figuratively speaking, I'd rather\n
-save my lucky rolls for the perfect
-<$0C>
-moment.
+That's how I live: saving up my\n
+lucky rolls for the right moment.
 <$00>
 
 // Pos: 000021B9
@@ -233,10 +229,11 @@ Veronica:
 <$0D>
 //\n今は…そうでもないよ。\n今がいざっていう時じゃないってこと。
 \n
-Getting those two out of your hair\n
-was...an exception, so you're the
+I wouldn't call dealing with\n
+those two "the right moment",
 <$0C>
-lucky roller here.
+so consider your self the\n
+lucky winner of the night.
 <$00>
 
 // Pos: 000021E7
@@ -269,20 +266,19 @@ Veronica:
 <$0D>
 //\nねぇ、あんたの他にも新しい人見たよ。\nナイトプラネットのところで。女の人。
 \n
-Actually, I saw another new face at\n
-over at NIGHT PLANET. It was a young
-<$0C>
-woman.
+Actually, I saw another new face\n
+over at NIGHT PLANET. A young woman.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nナイトプラネットにはゴールドがいるの。\nあとスモーキーもよくやってくる。
 \n
-Gold is always at NIGHT PLANET, but I\n
-know that creeper, Smokey, is a
+Gold never leaves NIGHT PLANET,\n
+so you can go ask, but...
 <$0C>
-regular of the said bar.
+...that creeper, Smokey, is\n
+also a regular of the said bar.
 <$00>
 
 // Pos: 0000226F
@@ -297,10 +293,8 @@ Veronica:
 <$0D>
 //\nあいつ、大キライ。スモーキー…\n死んでしまえばいいのよ。\nあんたもきっとそう思うから。
 \n
-I hate that guy, Smokey. I'd rather he\n
-died. If you ever met him, you'd
-<$0C>
-agree.
+I hate Smokey. I'd rather he died.\n
+If you ever met him, you'd agree.
 <$1E>
 //鋭
 鋭
@@ -310,20 +304,18 @@ Veronica:
 <$0D>
 //\nエッジの鏡ができたら、\nあんなやつら、みんな消えるんだ。\n空の騎士に吸い込まれてしまうのよ。
 \n
-When it's completed, the rider in the\n
-sky will slay them all with Edge's
-<$0C>
-mirror.
+When Edge's mirror is complete,\n
+everyone will be devoured by\n
+the rider in the sky.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\n鏡ができたら、エッジは戻ってくる。\nみんないなくなってから、戻ってくるのよ。
 \n
-When the mirror is complete, Edge\n
-will appear.  When everyone
-<$0C>
-disappears, they will apper.
+When the mirror is complete,\n
+Edge will return. He'll return\n
+once everyone else is dead.
 <$1E>
 //鋭
 鋭
@@ -341,16 +333,16 @@ Linda:
 <$0D>
 //\nあらー、マラケシュに用なのー。
 \n
-Gosh, Marrakech is such a\n
-worrywart.
+Gosh, Marrakech is\n
+such a worrywart.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあんたがー、\n鏡のとこに行ったんじゃないかってー、
 \n
-She'd thought you'd gone into the\n
-mirror or something.
+She'd thought you'd gone into\n
+the mirror or something.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -365,9 +357,7 @@ Linda:
 //\nあんたー、カタブツ？\nヴァニティフェイスに興味ないのー？
 \n
 You look spick-and-span, though.\n
-So, are you here to get your Vanity
-<$0C>
-Face?
+Are you here to get Vanity Face?
 <$1E>
 //〇
 〇
@@ -385,8 +375,8 @@ Linda:
 <$0D>
 //\nマラケシュなら、ブリックロードだよー。
 \n
-If you want Marrakech, check Brick\n
-Road.
+If you want Marrakech,\n
+check Brick Road.
 <$1E>
 //〇
 〇
@@ -404,18 +394,16 @@ Linda:
 <$0D>
 //\nねぇ、アタシとさー、マラケシュさー、
 \n
-Hmmm, you or Marrakech, you or\n
-Marrakech...
+Hmmm, you or Marrakech,\n
+you or Marrakech...
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nどっちがイケてるかって、\n開きたいけどやめるー。
 \n
-I'd ask which of you is\n
-better-looking, but I don't want to
-<$0C>
-open that can of worms.
+I wondered who's better looking\n
+but I've opened a can of worms.
 <$1E>
 //〇
 〇
@@ -433,17 +421,15 @@ Linda:
 <$0D>
 //\nねえ、ちょっと、あんたずるいよー。\nあんな可愛いコと一緒だなんてー。
 \n
-Wow, I can't believe you were\n
-walking around with such a pretty
-<$0C>
-woman!
+Wow, I didn't know you came\n
+here with such a pretty woman!
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nあんたのこと、さがしてたよー。
 \n
-I was keeping an eye out for you.
+She was looking for you.
 <$1E>
 //〇
 〇

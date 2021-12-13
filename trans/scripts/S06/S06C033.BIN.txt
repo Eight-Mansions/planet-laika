@@ -20,7 +20,7 @@ Oxygen Miner 5：
 Is it you, whoosh? You, from\n
 before? I'm number five, whoosh.
 <$0C>
-I'm actually five!
+I'm actually number five!
 <$1E>
 //理
 理
@@ -30,10 +30,10 @@ Oxygen Miner 2：
 <$0D>
 //\nだめだめ、今は立入禁止だ。\n氷がくずれかけている、あぶない、シーシー。
 \n
-It's dangerous! The ice there is\n
-breaking and on the verge of
+It's dangerous! 
 <$0C>
-collapse, whoosh!
+The ice there is breaking and\n
+on the verge of collapse, whoosh!
 <$1E>
 //炎
 炎
@@ -43,10 +43,10 @@ Oxygen Miner 1：
 <$0D>
 //\nお前の連れがアイスレイクに入っていった。\n今連れ戻すところだ、シー。\nうろうろするな、シーシー。
 \n
-Saw your friend, whoosh! Went to ice\n
-lake, whoosh. Dangerous, whoosh,
+Saw your friend, whoosh!
 <$0C>
-whoosh!
+Went to Ice Lake, whoosh.\n
+Dangerous, whoosh, whoosh!
 <$1E>
 //〇
 〇
@@ -79,10 +79,9 @@ Oxygen Miner 2：
 <$0D>
 //\nお前の仲間がアイスレイクに入った、\nアイスなレイクだ、古い酸索坑道がある、\nシーシー！
 \n
-Your friend went to Ice Lake, where\n
-the old oxygenite mineshaft is,
-<$0C>
-whoosh!
+Your friend went to Ice Lake,\n
+where the old oxygenite\n
+mineshaft is, whoosh!
 <$00>
 
 // Pos: 00000F5B
@@ -191,7 +190,7 @@ YOU mUst gO tO IcE LAkE, whOOsh!
 <$00><$10>
 //坑道閉鎖まで、あとわずかです。\n繰り返します、あとわずか。\nこれは訓練ではありません。
 THE MINESHAFT IS CLOSING SOON.\n
-PLEASE EVACUATE IMMEDIATELY.\n
+EVACUATE IMMEDIATELY.\n
 THIS IS NOT A DRILL.
 <$00>
 
