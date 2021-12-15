@@ -165,8 +165,5 @@ Madam Agatha:
 \n
 She must have found another\n
 entrance.
-<$1E>
-//—
-—
-<$00>
+<$1E><$03><$08><$00>
 

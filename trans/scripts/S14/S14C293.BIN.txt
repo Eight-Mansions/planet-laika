@@ -18,10 +18,7 @@ Bull:
 //\nはじまったんだ、くそっ！
 \n
 It's already started...
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 0000118B
 
@@ -37,10 +34,7 @@ Bull:
 \n
 I need to see Agatha. I've got\n
 stuff I'd rather forget too!
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 000011B6
 
@@ -63,10 +57,7 @@ Bull:
 \n
 What, is it my face?\n
 What the heck do you mean by that?
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000011EE
 
@@ -76,13 +67,9 @@ What the heck do you mean by that?
 
 <$10><$0B>
 //ブル：
-Bull:
 <$0D>
 //\nこの俺が！ お顔だと！ へん！
 \n
 This is ME? This is MY face? Shiiit!
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 

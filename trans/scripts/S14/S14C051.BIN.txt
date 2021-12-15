@@ -12,9 +12,9 @@
 #WHB(PTR, $00000481)
 
 
-<$00><$13>
-//（お利口な諸君のことだ、\nここがどういう場所かすでに知ってるだろう。\nルールを守る限りにおいて、諸君は自由だ…
-（YOU HAVE A BRAIN. YOU KNOW\n
+<$00><$13><$2A>
+//お利口な諸君のことだ、\nここがどういう場所かすでに知ってるだろう。\nルールを守る限りにおいて、諸君は自由だ…
+YOU HAVE A BRAIN. YOU KNOW\n
 WHAT TO DO. AS LONG AS YOU\n
 OBEY THE RULES, YOU ARE FREE.
 <$0C>
@@ -31,9 +31,9 @@ MEAN I HAVE TO TALK LIKE ONE!)
 #WHB(PTR, $0000048D)
 
 
-<$00><$13>
-//（プリズン４、第四惑星の刑務所ということだ。\nしかしそれも昔の話、\n今となってはただのハキダメ…
-（PRISON 4 EARNED ITS NAME AS\n
+<$00><$13><$2A>
+//プリズン４、第四惑星の刑務所ということだ。\nしかしそれも昔の話、\n今となってはただのハキダメ…
+PRISON 4 EARNED ITS NAME AS\n
 A PRISON ON THE FOURTH PLANET.\n
 NOW, IT'S A TRASH HEAP.
 <$0C>
@@ -54,9 +54,9 @@ A BAR AND A PLASTIC SURGEON.)
 #WHB(PTR, $00000549)
 
 
-<$00><$13>
-//（死刑がなくなって、お前たちは幸せか…
-（DON'T TELL ME YOU'RE HAPPY THE\n
+<$00><$13><$2A>
+//死刑がなくなって、お前たちは幸せか…
+DON'T TELL ME YOU'RE HAPPY THE\n
 DEATH PENALTY WAS ERADICATED...
 <$0C>
 //いーや、不幸だ！\nここで生きながらえるほど\n不幸なことはないぞ。
@@ -71,9 +71,9 @@ CRUELEST PART ABOUT LIVING HERE!
 #WHB(PTR, $00000559)
 
 
-<$00><$13>
-//（酒場の手前にある屋根の崩れた部屋あるだろう、\n昔は処刑室だったところだ。
-（IN FRONT OF THE BAR IS A FLAT\n
+<$00><$13><$2A>
+//酒場の手前にある屋根の崩れた部屋あるだろう、\n昔は処刑室だったところだ。
+IN FRONT OF THE BAR IS A FLAT\n
 WITH A COLLAPSED ROOF. IT USED\n
 TO BE AN EXECUTION CHAMBER.
 <$0C>
@@ -100,8 +100,8 @@ ELECTRICITY FOR HIS FUN.
 #WHB(PTR, $00000569)
 
 
-<$00><$13>
-//（火星は小さな星だ。\nしかしお前たちにとっては\nとてつもなくデカイ星だ、忘れるな。
+<$00><$13><$2A>
+//火星は小さな星だ。\nしかしお前たちにとっては\nとてつもなくデカイ星だ、忘れるな。
 DO NOT FORGET: MARS IS A VAST\n
 PLANET TO YOU, BUT A FLECK\n
 IN THE EYES OF THE UNIVERSE.
@@ -114,9 +114,9 @@ IN THE EYES OF THE UNIVERSE.
 #WHB(PTR, $00000579)
 
 
-<$00><$13>
-//（今は行けなくなったが、\n記憶の谷からさらに下った自我の谷にも\nコロニーがあったぞ。
-（THERE ONCE WAS A COLONY\n
+<$00><$13><$2A>
+//今は行けなくなったが、\n記憶の谷からさらに下った自我の谷にも\nコロニーがあったぞ。
+THERE ONCE WAS A COLONY\n
 BEYOND VALLES MEMORIAE.\n
 IT IS NOW INACCESSIBLE.
 <$0C>
@@ -143,10 +143,10 @@ THEY HAD ALL GONE MAD.
 #WHB(PTR, $00000589)
 
 
-<$00><$13>
-//（お前たちがなにかを成しとげることなど、\n誰も期待しない。
-（NO ONE EXPECTS YOU TO\n
-ACCOMPLISH ANYTHING. 
+<$00><$13><$2A>
+//お前たちがなにかを成しとげることなど、\n誰も期待しない。
+NO ONE EXPECTS YOU TO\n
+ACCOMPLISH ANYTHING.
 <$0C>
 //この星でゆっくりくたばるだけだ。
 ALL YOUR LOT WILL DO ON THIS\n
@@ -160,9 +160,9 @@ PLANET IS DIE YOUR SLOW DEATHS.
 #WHB(PTR, $00000599)
 
 
-<$00><$13>
-//（地球化計画が始まったのは１０年前だ。\n火星に住む流刑者たちによって\n酸索坑道のエ事が進められた。
-（THE TERRAFORMATION STARTED A\n
+<$00><$13><$2A>
+//地球化計画が始まったのは１０年前だ。\n火星に住む流刑者たちによって\n酸索坑道のエ事が進められた。
+THE TERRAFORMATION STARTED A\n
 DECADE AGO. THE OXYGEN MINESHAFTS\n
 WERE CONSTRUCTED BY EXILES.
 <$0C>
@@ -184,9 +184,9 @@ EVIL MIND WAS THE CAUSE.
 #WHB(PTR, $000005A9)
 
 
-<$00><$13>
-//（変化！ 変化こそお前たちにとっては福音だ。\nだがプリズン４にとってはただの災いだ。
-（CHANGE! TO YOU, CHANGE IS HEAVEN,\n
+<$00><$13><$2A>
+//変化！ 変化こそお前たちにとっては福音だ。\nだがプリズン４にとってはただの災いだ。
+CHANGE! TO YOU, CHANGE IS HEAVEN,\n
 BUT TO PRISON 4, IT IS PURE HELL.
 <$00>
 
@@ -197,9 +197,9 @@ BUT TO PRISON 4, IT IS PURE HELL.
 #WHB(PTR, $000005B9)
 
 
-<$00><$13>
-//（前に調査隊がやってきたのも１０年前だ。\nなんでも１０年前だな。\nそのときの隊長がガリルだ。
-（YOUR VANGUARD UNIT ARRIVED TEN\n
+<$00><$13><$2A>
+//前に調査隊がやってきたのも１０年前だ。\nなんでも１０年前だな。\nそのときの隊長がガリルだ。
+YOUR VANGUARD UNIT ARRIVED TEN\n
 YEARS AGO. THE LEADER AT THE\n
 TIME WAS CAPTAIN GALIL.
 <$0C>
@@ -223,9 +223,9 @@ HEARD HIS WORDS OF WORLD REBIRTH.
 #WHB(PTR, $000005C9)
 
 
-<$00><$13>
-//（お前たちは一人前だ…\nなぜなら息をしてるからだ！
-（YOU ARE ALL ONE IN YOUR FLESH.\n
+<$00><$13><$2A>
+//お前たちは一人前だ…\nなぜなら息をしてるからだ！
+YOU ARE ALL ONE IN YOUR FLESH.\n
 YOUR SHARED BREATHS ARE YOUR PROOF.
 <$0C>
 //自分の酸索くらいかせげ、\nさっさと石を集めに行け！
@@ -240,9 +240,9 @@ THERE AND GATHER THE STONES!
 #WHB(PTR, $000005D9)
 
 
-<$00><$13>
-//（火星の酸索は酸索石によって供給されてる。\n酸索石を掘り出してミキサーにかけて、\nそれで酸索を取り出す。 簡単なことだ。
-（STONES, "OXYGENITE", SUPPLY MARS\n
+<$00><$13><$2A>
+//火星の酸索は酸索石によって供給されてる。\n酸索石を掘り出してミキサーにかけて、\nそれで酸索を取り出す。 簡単なことだ。
+STONES, "OXYGENITE", SUPPLY MARS\n
 WITH AIR. THE STONES ARE MINED,\n
 AND THE OXYGEN IS EXTRACTED.
 <$0C>
@@ -264,9 +264,9 @@ WAS REBORN.
 #WHB(PTR, $000005E9)
 
 
-<$00><$13>
-//（迷いは苦悩の母だ。\n迷いから自由になれば真の存在となれるだろう。\n
-（HESITATION IS THE MOTHER OF\n
+<$00><$13><$2A>
+//迷いは苦悩の母だ。\n迷いから自由になれば真の存在となれるだろう。\n
+HESITATION IS THE MOTHER OF\n
 SUFFERING. FREE YOUR SELF,\n
 AND BECOME A TRUE EXISTENCE.
 <$00>
@@ -278,9 +278,9 @@ AND BECOME A TRUE EXISTENCE.
 #WHB(PTR, $000005F9)
 
 
-<$00><$13>
-//（お前たちは葉っぱではない。\nただ散る日を待つ身ではない、\n自らの意志の元にあるのだ。
-（YOU ARE NOT LEAVES THAT FALL AT\n
+<$00><$13><$2A>
+//お前たちは葉っぱではない。\nただ散る日を待つ身ではない、\n自らの意志の元にあるのだ。
+YOU ARE NOT LEAVES THAT FALL AT\n
 AUTUMN's BECKON. YOU MUST WILL\n
 YOUR SELF TO FALL.
 <$0C>
@@ -301,9 +301,9 @@ DESIRE WILL OPEN THAT DOOR.
 #WHB(PTR, $00000609)
 
 
-<$00><$13>
-//（肉体と精神は向き合っているのではない、\n肉体が精神を閉じ込めているのだ。
-（FLESH AND SPIRIT DO NOT REFLECT ONE\n
+<$00><$13><$2A>
+//肉体と精神は向き合っているのではない、\n肉体が精神を閉じ込めているのだ。
+FLESH AND SPIRIT DO NOT REFLECT ONE\n
 ANOTHER. FLESH TRAPS THE SPIRIT.
 <$00>
 
@@ -314,9 +314,9 @@ ANOTHER. FLESH TRAPS THE SPIRIT.
 #WHB(PTR, $00000619)
 
 
-<$00><$13>
-//（この世界は何だ、天国かそれとも地獄か。\nそれはお前たちが身をもって\n体験しているだろう。
-（WHAT IS THIS WORLD: HEAVEN OR\n
+<$00><$13><$2A>
+//この世界は何だ、天国かそれとも地獄か。\nそれはお前たちが身をもって\n体験しているだろう。
+WHAT IS THIS WORLD: HEAVEN OR\n
 HELL? THAT IS WHAT YOU ALL MUST\n
 DETERMINE WITH YOUR BODIES.
 <$0C>
@@ -342,9 +342,9 @@ BRING TO THE WORLD. BEHOLD IT.
 #WHB(PTR, $00000629)
 
 
-<$00><$13>
-//（死は終わりではない、始まりなのだ。\n死を乗り越えた先をめざさねばならない。
-（DEATH IS NOT THE END,\n
+<$00><$13><$2A>
+//死は終わりではない、始まりなのだ。\n死を乗り越えた先をめざさねばならない。
+DEATH IS NOT THE END,\n
 BUT THE MEANS. NOW, ASCEND\n
 TO THE SUMMIT BEYOND DEATH.
 <$00>
@@ -356,9 +356,9 @@ TO THE SUMMIT BEYOND DEATH.
 #WHB(PTR, $00000639)
 
 
-<$00><$13>
-//（生は始まりか？ そうだとするなら、\n苦悩の始まりといっておこう。
-（IS LIFE THE BEGINNING?\n
+<$00><$13><$2A>
+//生は始まりか？ そうだとするなら、\n苦悩の始まりといっておこう。
+IS LIFE THE BEGINNING?\n
 IF YES, IT IS THE SO-CALLED\n
 BEGINNING OF SUFFERING.
 <$0C>
@@ -385,9 +385,9 @@ THRESHOLD ARE COMING.
 #WHB(PTR, $0000064D)
 
 
-<$00><$13>
-//（再生だ、再生の時だ。\n世界は喜びにあふれ、光が闇を消すだろう！
-（TIME AND AGAIN FOR REBIRTH!\n
+<$00><$13><$2A>
+//再生だ、再生の時だ。\n世界は喜びにあふれ、光が闇を消すだろう！
+TIME AND AGAIN FOR REBIRTH!\n
 THE WORLD WILL GLOW IN HIS JOY.\n
 DARKNESS WILL BURN IN HIS LIGHT.
 <$00>
@@ -399,9 +399,9 @@ DARKNESS WILL BURN IN HIS LIGHT.
 #WHB(PTR, $0000065D)
 
 
-<$00><$13>
-//（肉体をぬぎすてたとき、\nお前たちは自由になれる。
-（BURN THE FLESH, THAT\n
+<$00><$13><$2A>
+//肉体をぬぎすてたとき、\nお前たちは自由になれる。
+BURN THE FLESH, THAT\n
 YOU MAY KNOW FREEDOM.
 <$0C>
 //死の向こうへ歩むとき、\n再生の喜びにむかえられる。
@@ -425,9 +425,9 @@ WARM CRADLES OF SUFFERING.
 #WHB(PTR, $00000679)
 
 
-<$00><$13>
-//（あああ… 言葉はかなり忘れた。
-（AH, I FORGOT WHAT ELSE\n
+<$00><$13><$2A>
+//あああ… 言葉はかなり忘れた。
+AH, I FORGOT WHAT ELSE\n
 I WAS MEANING TO TELL YOU.
 <$0C>
 //昔のことだ、犬だからといって\nそんなことにはならないワン…
