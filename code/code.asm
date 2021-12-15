@@ -1,6 +1,8 @@
 .psx
 .open "exe\SLPM_862.64",0x8000F800
 
+TextDrawFlagsArea: equ 0x800F1000
+
 ; No clearing out my space for code!
 .org 0x8004356c
 	nop
@@ -8,6 +10,43 @@
 ; This tries to pad out the blocks it loads to be divisible by 16. Why?
 .org 0x80023e5c
 	nop
+
+; --------------------------- Text Flag Area Code ---------------------------
+; Clear text flag area
+.org 0x8001cf40
+	la s3, TextDrawFlagsArea
+
+.org 0x8001cf58
+	;SLL     0000000d (a0), 0000000b (v0), 01 (1),
+	sll a0, v0, 3
+
+; Write text flags area
+.org 0x8001e5e8
+	la v0, TextDrawFlagsArea
+
+.org 0x8001e5f0
+	;SLL     00000040 (v1), 0000000c (s0), 01 (1),
+	sll v1, s0, 3
+
+; Load text flags area
+.org 0x8001c6ac
+	la t9, TextDrawFlagsArea
+	
+.org 0x8001c76c
+	;SLL     00000003 (v1), 0000000c (v0), 01 (1),
+	sll v1, v0, 3
+; ---------------------------------------------------------------------------
+
+;----------- TODO: Not hardcode these values ---------------------------------
+; ; This loads the max allowed #s.  We cannot change where it loads from as it's used for the text box too... go figure
+.org 0x8001c89c
+	;LW      00000016 (t0), 0014 (801fff50 (sp)) [801fff64]
+	addiu t0, r0, 0x48
+	
+.org 0x8001cf50
+	addiu a2, r0, 0x48
+; ---------------------------------------------------------------------------
+
 
 ; Setup current width of the letter
 .org 0x8001de9c
@@ -23,48 +62,6 @@
 .org 0x8001c7e0
 	j calculateXPosition
 	nop
-
-; This loads the max allowed #s.  We cannot change where it loads from as it's used for the text box too... go figure
-.org 0x8001c89c
-	;LW      00000016 (t0), 0014 (801fff50 (sp)) [801fff64]
-	addiu t0, r0, 0x4E
-	
-; This adds to the value to store our flags for showing letters.  We increase it by 2 to offset it by quiet a bit more.
-; See 0x8001e610 for the position it stores the flag at which this will affect
-.org 0x8001d634
-	;ADDIU   0000000a (v1), 0000000a (v1), 0001 (1),
-	addiu v1, v1, 0x06
-
-;  Part of the calculation to store the flags for showing letters.  But it increases ita HELLUVA lot for some reason for the start.
-.org 0x8001e600
-	;SLL     0000008f (v1), 0000008f (v1), 01 (1),
-	nop
-	
-.org 0x8001c77c
-	;SLL     00000010 (t4), 00000082 (v1), 01 (1),
-	addu t4, r0, v1
-	
-.org 0x8001c768
-	j multiplyByY
-	nop
-	
-.org 0x8001c784
-	addiu t3, t3, 0xFF90
-	
-	
-; --------------------------- CLEAN UP FLAGS FOR DISPLAYING TEXT -------------
-; For cleaning up our flags
-.org 0x8001cf6c
-	;SLL     00000075 (a0), 00000075 (a0), 01 (1),
-	nop
-
-; Gets how many bytes to clean up yet its a unique instruction so...
-.org 0x8001cf50
-	;LH      60000000 (a2), 0004 (8010a1d4 (s1)) [8010a1d8]
-	addiu a2, r0, 0xC5 ; Add a bit more than our actual length so i can cheat and don't need to fix the calculation...
-					   ; This could bite us in the ass.. so maybe todo? fix it properly
-					   
-; ----------------------------------------------------------------------------
 
 .org 0x80063640
 ; TODO: Cleanup but im lazy...
@@ -132,17 +129,7 @@ onIncreaseY:
 	sb s4, 3(v0) ; we don't care what it is as long as not zero
 	j 0x8001c910
 	slt v0, s4, t5
-	
-multiplyByY:
-	addu t3, t8, s4 ; the value of this gets set to v0 and then used to calculate the line position on screen... yay.... this is used for 0x8001c784
-	sll t3, t3, 0x04
-	
-	addiu v0, r0, 0x06
-	mult v0, s4
-	mflo v0
-	addu v0, t8, v0
-	j 0x8001c770
-	sll v1, v0, 1
+
 
 variables:
 cur_width:

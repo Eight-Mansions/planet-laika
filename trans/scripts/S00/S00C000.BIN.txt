@@ -3,6 +3,11 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2149449728, 32)
+
+// This controls the allowed length of the text shown on screen. Why is it in this file? Meow.
+#JMP($000100B0)
+<$48>
+
 #JMP($000110AC)
 
 //P:000110AC
