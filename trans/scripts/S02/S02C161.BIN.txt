@@ -11,8 +11,9 @@
 
 #WHB(PTR, $00000405)
 
+<$02>
 //災けないわ、その箱を開けちゃ。\n中には悪魔が閉じこめられているの…\nエイプリル、分かって…お願いよ。
-災April, do not open that box.\n
+April, do not open that box.\n
 Many demons writhe within.\n
 Listen to me, please.
 <$00>
@@ -23,8 +24,9 @@ Listen to me, please.
 
 #WHB(PTR, $00000429)
 
+<$02>
 //血あ、クリスマスプレゼントは\nもうおしまいにして、私のところに来て、\nエイプリル…さあ…
-血You're almost home, April.\n
+You're almost home, April.\n
 Come to me if you want your\n
 Christmas present.
 <$00>
@@ -35,26 +37,20 @@ Christmas present.
 
 #WHB(PTR, $000003D9)
 
-//所 
-所
-<$0D>
+
+<$02><$0B><$20><$0D>
 //あなたが言うことを開いてくれて、\n
 You always do as you're told.\n
 
-<$0B>
-//  
-  
-<$0D>
+<$0B><$20><$0D>
+
 //ママは嬉しいわ、エイプリル。\n
 You make Mother so happy, April.\n
 
-<$0B>
-// 
- 
-<$0D>
+<$0B><$20><$0D>
+
 //ずっと側にいてね、いい子だから。
-I'll always be here for you,
-<$0C>
+I'll always be here for you,\n
 because you're my good girl.
 <$00>
 
@@ -64,8 +60,9 @@ because you're my good girl.
 
 #WHB(PTR, $00000511)
 
+<$02>
 //輪イプリル、あなたは汚れを知らないのよ、\nあなたは鏡から生まれたのよ。
-輪April, you are pure, like glass.\n
+April, you are pure, like glass.\n
 You were born in my image.
 <$00>
 
