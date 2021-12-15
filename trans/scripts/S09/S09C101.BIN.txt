@@ -141,10 +141,7 @@ Spacer:
 \n
 The silver what...? Oh, the silver\n
 capsule! We've got that!
-<$00><$00><$11>
-//’N
-’N
-<$1E><$17><$00>
+<$00><$00><$11><$01><$0E><$1E><$17><$00>
 
 // Pos: 00001E47
 
