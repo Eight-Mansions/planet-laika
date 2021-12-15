@@ -19,10 +19,7 @@ Goldman:
 \n
 Not that it concerns me,\n
 but what's all the racket for?
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00000E02
 
@@ -54,8 +51,5 @@ Goldman:
 \n
 I don't get wrapped up in other\n
 people's business. Shit ain't me.
-<$1E>
-//â∆
-â∆
-<$00>
+<$1E><$02><$04><$00>
 

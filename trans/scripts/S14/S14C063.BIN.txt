@@ -27,10 +27,7 @@ Goldman:
 \n
 It's a bit questionable here, but it's\n
 getting colder, so that's fine.
-<$1E>
-//º
-º
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 0000128E
 
@@ -45,10 +42,7 @@ Goldman:
 //\nğ‚ÍŒ™‚¢‚¾c
 \n
 I hate liquor.
-<$1E>
-//º
-º
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000012A5
 
@@ -64,10 +58,7 @@ Gold:
 \n
 Why're you still here, creeping\n
 around wherever I am? Creepy.
-<$1E>
-//º
-º
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000012DD
 
@@ -82,7 +73,5 @@ Gold:
 //\n‚ ‚ Ağ‚ªØ‚ê‚Ä‚«‚â‚ª‚Á‚½B
 \n
 Ah, guess who's running out of liquor.
-<$1E>
-//‰Æ
-<$00>
+<$1E><$02><$04><$00>
 
