@@ -11,8 +11,9 @@
 
 #WHB(PTR, $000006B1)
 
-//歪子タトラー船長：
-歪子Captain Tatler:
+<$02><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\nあああ…君は…あああ…まさか！\n生きていたのか…いや、そんなはずはないぞ！
 \n
@@ -26,8 +27,9 @@ How are you alive?!
 
 #WHB(PTR, $000007FD)
 
-//歪子エイプリル：
-歪子April:
+<$02><$11><$01><$0B>
+//エイプリル：
+April:
 <$0D>
 //\nここは…私の…どうして？\nもうなくなったはずなのに…
 \n
@@ -41,8 +43,9 @@ I thought it was gone forever!
 
 #WHB(PTR, $00000555)
 
-//歪子ヌーン：
-歪子Noon:
+<$02><$11><$01><$0B>
+//ヌーン：
+Noon:
 <$0D>
 //\nママ…ママなの、僕が悪かったの…\nあああ、建う！ ママじゃない、うそだ！
 \n
@@ -56,9 +59,9 @@ Wait, no! You can't be Mummy!
 
 #WHB(PTR, $000009A1)
 
-<$10><$11>
-//子タトラー船長：
-子Captain Tatler:
+<$10><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\nみんな、惑わされるんじゃない！\n何かの…その…幻覚だ。
 \n
@@ -72,9 +75,9 @@ These are...hallucinations!
 
 #WHB(PTR, $000009BD)
 
-<$10><$11>
-//子ヌーン：
-子Noon:
+<$10><$11><$01><$0B>
+//ヌーン：
+Noon:
 <$0D>
 //\n見えたんだ！ 確かに。\nあれは俺の、俺の…
 \n
@@ -88,9 +91,9 @@ That was... That was my...!
 
 #WHB(PTR, $000009D9)
 
-<$10><$11>
-//子タトラー船長：
-子Captain Tatler:
+<$10><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\nヌーン、よさないか！ これは幻覚だ、\nこの星の邪悪な力が作用しているんだ。
 \n
@@ -104,9 +107,8 @@ is the planet's sick power at work!
 
 #WHB(PTR, $00000B15)
 
-//葉顔\n\n      怪物は心の中にいる。
-葉 The monsters\n
-\n
-      are in the mind.
+<$03><$11><$01>
+//\n\n\n      怪物は心の中にいる。
+\n\n\n      The monsters are in the mind.
 <$0E><$FF><$17><$00>
 

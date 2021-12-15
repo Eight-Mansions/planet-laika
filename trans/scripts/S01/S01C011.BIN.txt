@@ -248,9 +248,9 @@ Christmas lights?
 
 #WHB(PTR, $00000649)
 
-//—£ ‚½‚¾‚¢‚Ü‰Î¯‚Ì‹O“¹‚É“ü‚è‚Ü‚µ‚½B\n
-—£ THE PHOENIX IS NOW IN MARS'S ORBIT.\n
-
+<$02><$13><$20>
+//‚½‚¾‚¢‚Ü‰Î¯‚Ì‹O“¹‚É“ü‚è‚Ü‚µ‚½B\n
+THE PHOENIX IS NOW IN MARS'S ORBIT.\n
 <$0E><$0F>
 //‚½‚¾‚¢‚Ü‰Î¯‚Ì‹O“¹‚É“ü‚è‚Ü‚µ‚½B
 THE PHOENIX IS NOW IN MARS'S ORBIT.

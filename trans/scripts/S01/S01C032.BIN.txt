@@ -11,9 +11,7 @@
 
 #WHB(PTR, $00000911)
 
-//離か
-離か
-<$0E><$0F><$14><$01>
+<$02><$13><$3F><$0E><$0F><$14><$01>
 //メッセージはありません。
 THERE ARE NO MESSAGES.
 <$00>
@@ -24,11 +22,7 @@ THERE ARE NO MESSAGES.
 
 #WHB(PTR, $00000CED)
 
-
-<$00><$13>
-//け
-け
-<$0B>
+<$00><$13><$42><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
@@ -277,7 +271,7 @@ Doctor! Doctor October, please!\nSave
 !
 <$00><$12>
 //あああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
-捨Damn! It's too deep! If we force\n
+Damn! It's too deep! If we force\n
 it out, we'll damage the brain!
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…

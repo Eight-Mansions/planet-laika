@@ -66,10 +66,8 @@ So sayeth the fifth prophecy.
 
 #WHB(PTR, $000007C1)
 
-//双
-双
-<$06>
-//生、
+<$02>
+//先生、
 Doctor, can 
 <$0F>
 //は助かるのですか？
@@ -102,11 +100,8 @@ triggering these hallucinations.
 
 #WHB(PTR, $00001F8F)
 
-//双
-双
-<$06>
-//生、オクトーバー先生！\nお願いします、
-\n
+<$02>
+//先生、オクトーバー先生！\nお願いします、
 Doctor! Doctor October, please!\nSave 
 <$0F>
 //を…
