@@ -11,9 +11,9 @@
 
 #WHB(PTR, $0000050D)
 
-<$12><$13>
-// ヨウコソ プリズン４ヘ。\nミスター、
- WELCOME TO PRISON 4!\n
+<$12><$13><$20>
+//ヨウコソ プリズン４ヘ。\nミスター、
+WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -39,9 +39,9 @@ REGISTRANT NAME:\n
 
 #WHB(PTR, $00000C39)
 
-<$12><$13>
-// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY.\n
+<$12><$13><$20>
+//アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+NOT REGISTERED FOR ENTRY.\n
 FOR DETAILS AND ASSISTANCE,\n
 SPEAK TO AN ADMINISTRATOR.
 <$00>
@@ -113,6 +113,6 @@ Hmm... Looks like I'm not getting in.
 
 <$12><$13>
 // ヤハリ アナタハ\nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY.
+USER NOT REGISTERED FOR ENTRY.
 <$00>
 

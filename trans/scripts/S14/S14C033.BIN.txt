@@ -19,10 +19,7 @@ Sparky:
 \n
 The chill's much colder somehow.\n
 I think it's coming from the plaza.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00001538
 
@@ -38,10 +35,7 @@ Sparky:
 \n
 Sometimes, I get hit with this jolt\n
 when I sleep. My bed's not static!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 0000157A
 
@@ -60,10 +54,7 @@ A spark of hatred, probably.
 <$0C>
 The waves are on the\n
 fritz enough as is!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000015B4
 
@@ -78,10 +69,7 @@ Sparky:
 //\n波動の中で私は変わる？
 \n
 Will being in the waves change me?
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000015D1
 
@@ -107,8 +95,5 @@ Sparky:
 \n
 But that doesn't make sense.\n
 She's not in a session now, is she?
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 

@@ -49,10 +49,7 @@ Thomas:
 \n
 But perhaps that's enough\n
 observing for the day.
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00001899
 
@@ -71,10 +68,7 @@ concentration.
 <$0C>
 Thoughts come to me of\n
 their own free will!
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 000018CF
 
@@ -100,10 +94,7 @@ drove me out.
 <$0C>
 What's Agatha so busy\n
 for right now?
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001919
 
@@ -119,10 +110,7 @@ Bull:
 \n
 East and West are so weird.\n
 They're virtually glued together. 
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00001945
 
@@ -153,10 +141,7 @@ Bull:
 //\nブリックロードに出て行ったぜ。
 \n
 He zipped off toward Brick Road.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000019AC
 
@@ -172,8 +157,5 @@ Bull:
 \n
 It's cold! Why is everything so cold?\n
 Because it's Christmas?
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
