@@ -11,8 +11,9 @@
 
 #WHB(PTR, $00000219)
 
-//所     
-所     
+<$02><$0B>
+//     
+     
 <$0D>
 //地球から来たのか？
 You came from Earth?
@@ -198,9 +199,7 @@ brought death and ruin to the world.
 
 #WHB(PTR, $0000046D)
 
-//葉誰ろ
-葉誰ろ
-<$0B>
+<$03><$11><$01><$0E><$64><$0B>
 //   
    
 <$0D>
@@ -221,8 +220,9 @@ calling on ghastly evils to join him.\n
 
 #WHB(PTR, $0000047D)
 
-//葉子   
-葉子 
+<$03><$11><$01><$0B>
+//   
+   
 <$0D>
 //黒い騎士が完全な悪になったその時、\n
 When he becomes wholly evil,\n
@@ -241,8 +241,9 @@ the world will meet its end.
 
 #WHB(PTR, $0000048D)
 
-//葉子      
-葉子 
+<$03><$11><$01><$0B>
+//      
+      
 <$0D>
 //蕃判の時じゃのう、\n
 The hour of Judgement is near.\n
@@ -260,8 +261,9 @@ This is the planet's destiny!
 
 #WHB(PTR, $00000499)
 
-//歪子エイプリル：
-歪子April:
+<$02><$11><$01><$0B>
+//エイプリル：
+April:
 <$0D>
 //\n宿命… 蕃判… なんだか預言みたいね。
 \n

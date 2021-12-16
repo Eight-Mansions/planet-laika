@@ -31,7 +31,8 @@ wait here.
 
 #WHB(PTR, $00000585)
 
-//甘い、ないぞ！\nくそ人形、どこやりやがった！
+<$02>
+//ない、ないぞ！\nくそ人形、どこやりやがった！
 This cannot be!\n
 Where is that damned doll?!
 <$0C>

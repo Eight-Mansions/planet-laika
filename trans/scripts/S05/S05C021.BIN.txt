@@ -247,10 +247,7 @@ Crow:
 \n
 It seems they finally found a good\n
 person, kek! Their new treasure!
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00002CBC
 
@@ -266,8 +263,5 @@ Crow:
 \n
 Who do you think this "good person"\n
 is, kek!
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
