@@ -47,7 +47,8 @@ It's time for presents!
 
 #WHB(PTR, $0000023D)
 
-//仮夢のプレゼントだよ、\nリトル君。
+<$02>
+//悪夢のプレゼントだよ、\nリトル君。
 \n
 Here are your presents of\n
 nightmares, Little!
@@ -78,7 +79,8 @@ Oh! They're stuffed in stockin's!
 
 #WHB(PTR, $000002AD)
 
-//興うだ、\nお前が悪夢をばらまいた。
+<$02>
+//そうだ、\nお前が悪夢をばらまいた。
 That's right. Now, go.\n
 Pass the nightmares all around.
 <$00>
@@ -104,7 +106,8 @@ Hahaha, this'll be fun!
 
 #WHB(PTR, $000002E9)
 
-//仮夢の中で穴を掘ったんだ。\nリトル、お前が生き埋めにしたんだ。
+<$02>
+//悪夢の中で穴を掘ったんだ。\nリトル、お前が生き埋めにしたんだ。
 \n
 You dug holes in nightmares,\n
 and buried us alive!
@@ -132,8 +135,9 @@ everyone! Down the chute!
 
 #WHB(PTR, $0000032D)
 
-//案ぴの中でもがき、苦しみ、\n湿った土が口をふさいだ。
-案ぴWe suffered, struggling in the\n
+<$02>
+//穴の中でもがき、苦しみ、\n湿った土が口をふさいだ。
+We suffered, struggling in the\n
 holes. Wet mud clogged our mouths\n
 shut.
 <$0C>
@@ -176,8 +180,9 @@ All around the world!
 
 #WHB(PTR, $0000034D)
 
-//広かしいなリトル君、\nクリスマスの靴下があと一足あまってるぞ。\n誰の分かね？
-広Behave, Little.\n
+<$02>
+//おかしいなリトル君、\nクリスマスの靴下があと一足あまってるぞ。\n誰の分かね？
+Behave, Little.\n
 We have one more pair of\n
 Christmas stockings.
 <$0C>
