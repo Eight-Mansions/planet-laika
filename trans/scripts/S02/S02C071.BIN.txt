@@ -11,8 +11,9 @@
 
 #WHB(PTR, $00000879)
 
-//案ウが弱いとダメさ。 あんたは…
-案ウYou can't afford to be weak.
+<$02>
+//心が弱いとダメさ。 あんたは…
+You can't afford to be weak.
 <$0C>
 //うーん、読めないな。\n強いのか、弱いのか、わからないよ。
 But you know, even I can't sense\n
@@ -22,8 +23,5 @@ if you're strong enough or not!
 The person I saw earlier was so\n
 scared, so they must have been\n
 weak.
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 

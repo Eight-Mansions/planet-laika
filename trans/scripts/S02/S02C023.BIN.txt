@@ -98,9 +98,7 @@ Hehehe, my treasure...
 
 #WHB(PTR, $00000765)
 
-//離
-離
-<$13><$0B>
+<$02><$13><$13><$0B>
 //    
     
 <$0D>
@@ -127,8 +125,9 @@ Get your mangy hands off it!
 
 #WHB(PTR, $000007BD)
 
-//背   さっきは悪かったな、ええ？\n     あやまるよ、ほんとさ。\n    おわびに、ほら、これをやる。
-背   Aww, that was wrong of me.\n
+<$02>
+//    さっきは悪かったな、ええ？\n     あやまるよ、ほんとさ。\n    おわびに、ほら、これをやる。
+   Aww, that was wrong of me.\n
    I'm sorry. Really!\n
    Here, you take this...
 <$00>
@@ -139,8 +138,9 @@ Get your mangy hands off it!
 
 #WHB(PTR, $000007E1)
 
-//背さあ、食いなよ、俺の目の前で、早く！\nひひひ、腐ったパイだ、お前にぴったりだろ、
-背Come on, eat it! Eat it now!\n
+<$02>
+// さあ、食いなよ、俺の目の前で、早く！\nひひひ、腐ったパイだ、お前にぴったりだろ、
+/ Come on, eat it! Eat it now!\n
 Hehe, eat this moldy pie!\n
 It's perfect for you!
 <$00>
@@ -151,8 +151,9 @@ It's perfect for you!
 
 #WHB(PTR, $000007F9)
 
-//背   男の腐ったやつに腐ったパイだ、\n     ははははは、ぴったりだろ、\n   ああ臭ぇ、お前も同じ臭いがするぜ！
-背Rotten pie for a rotten kid!\n
+<$02>
+//    男の腐ったやつに腐ったパイだ、\n     ははははは、ぴったりだろ、\n   ああ臭ぇ、お前も同じ臭いがするぜ！
+    Rotten pie for a rotten kid!\n
      Hahaha, you even smell stale!\n
      Eat your "just desserts"!
 <$00>

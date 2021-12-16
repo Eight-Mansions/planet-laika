@@ -273,9 +273,9 @@ chest, no doubt.
 
 #WHB(PTR, $00000A1D)
 
-<$10><$11>
-//子タトラー船長：
-子Captain Tatler:
+<$10><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\nいかん、砂嵐が来る！
 \n
@@ -296,9 +296,9 @@ the colony before dark.
 
 #WHB(PTR, $00000B99)
 
-<$10><$11>
-//子タトラー船長：
-子Captain Tatler:
+<$10><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\nはぐれるんじゃないぞ。
 \n
@@ -311,9 +311,9 @@ Don't stray from the group.
 
 #WHB(PTR, $00000BB5)
 
-<$10><$11>
-//子タトラー船長：
-子Captain Tatler:
+<$10><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\nイーブルマインドには気を付けるんだ。
 \n
@@ -326,9 +326,9 @@ Also, watch out for Evil Mind.
 
 #WHB(PTR, $00000BC5)
 
-<$10><$11>
-//子ヌーン：
-子Noon:
+<$10><$11><$01><$0B>
+//ヌーン：
+Noon:
 <$0D>
 //\n何だ？ イーブルマインド？
 \n
@@ -341,9 +341,9 @@ What's "Evil Mind"?
 
 #WHB(PTR, $00000BD5)
 
-<$10><$11>
-//子タトラー船長：
-子Captain Tatler:
+<$10><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\n火星の邪気だ。\n紫色をしているぞ。近づくな。
 \n
@@ -357,9 +357,9 @@ touch. It's the malice of Mars.
 
 #WHB(PTR, $00000BF1)
 
-<$10><$11>
-//子タトラー船長：
-子Captain Tatler:
+<$10><$11><$01><$0B>
+//タトラー船長：
+Captain Tatler:
 <$0D>
 //\nイーブルマインドは妄想をかき立てるぞ、\nあらぬことを考えてしまうぞ。
 \n
@@ -373,9 +373,9 @@ victim's brain and makes them go a-wol.
 
 #WHB(PTR, $00000C01)
 
-<$10><$11>
-//子ヌーン：
-子Noon:
+<$10><$11><$01><$0B>
+//ヌーン：
+Noon:
 <$0D>
 //\nちくしょう！ろくでもないぜ！
 \n

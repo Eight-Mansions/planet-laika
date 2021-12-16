@@ -51,15 +51,13 @@ keep the other two waiting.
 
 #WHB(PTR, $00000809)
 
-//災やな思い出がよみがえったり…
-災Bitter memories will resurface...
+<$02>
+//いやな思い出がよみがえったり…
+Bitter memories will resurface...
 <$0C>
 //思い出だけじゃなくてね、ウソもホントも\n何もかも。 惑わされるかもね。
 Not only memories, but lies and\n
 truths and well. They'll rise up\n
 only to confuse you.
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 

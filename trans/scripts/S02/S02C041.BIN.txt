@@ -431,8 +431,8 @@ on your mind.
 
 #WHB(PTR, $00001C81)
 
-//歪僕、\nまたお星さまとお話ししてるのか？
-歪僕、\n
+<$02><$11><$01><$0F>
+//、\nまたお星さまとお話ししてるのか？
 Are you talking to the stars again?
 <$0E><$3C><$17><$00>
 
@@ -442,8 +442,9 @@ Are you talking to the stars again?
 
 #WHB(PTR, $00001C91)
 
-//歪験ゃひゃひゃ、ケッサクだこりゃ！
-歪験Hyahyahya! Get a life, space\n
+<$02><$11><$01>
+//ひゃひゃひゃ、ケッサクだこりゃ！
+Hyahyahya! Get a life, space\n
 brain!
 <$0E><$3C><$17><$00>
 
@@ -453,8 +454,9 @@ brain!
 
 #WHB(PTR, $00001CA9)
 
-//歪坑つまでいい子でいたいんだ、お前は？
-歪坑You always were a boring goody\n
+<$02><$11><$01>
+//いつまでいい子でいたいんだ、お前は？
+You always were a boring goody\n
 two-shoes.
 <$0E><$3C><$17><$00>
 
@@ -464,13 +466,11 @@ two-shoes.
 
 #WHB(PTR, $00001CB9)
 
-//歪的んな目で私を見るな！
-歪的Don't look at me with those eyes!
+<$02><$11><$01>
+//そんな目で私を見るな！
+Don't look at me with those eyes!
 <$0E><$3C><$17><$00><$00>
 //えへへ、見つかった？ まだ？
 Heehee, found them yet?
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
