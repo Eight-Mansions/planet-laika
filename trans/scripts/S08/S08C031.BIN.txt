@@ -99,9 +99,7 @@ reflection?!
 
 #WHB(PTR, $00000111)
 
-//離
-離
-<$16><$0B>
+<$02><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
@@ -116,9 +114,7 @@ Hyohyo, Laika. You should rest soon.
 
 #WHB(PTR, $0000012D)
 
-//離
-離
-<$16><$0B>
+<$02><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>

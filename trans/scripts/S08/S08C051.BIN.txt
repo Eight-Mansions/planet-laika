@@ -42,8 +42,9 @@ I'm Yolanda, got it? Yo-lan-da!
 
 #WHB(PTR, $000006D1)
 
-//歪所    
-歪所    
+<$02><$11><$02><$0B>
+//    
+    
 <$0D>
 //ライカ… そこにいるの？
 Laika, are you there?
@@ -55,8 +56,9 @@ Laika, are you there?
 
 #WHB(PTR, $000006ED)
 
-//歪所    
-歪所    
+<$02><$11><$02><$0B>
+//    
+    
 <$0D>
 //ここは… 私の夢… 夢の中…
 We're...inside of my dream.
@@ -68,8 +70,9 @@ We're...inside of my dream.
 
 #WHB(PTR, $00000709)
 
-//歪所    
-歪所    
+<$02><$11><$02><$0B>
+//    
+    
 <$0D>
 //どんどんはぎ取られていく…\n
 I'm getting torn apart...\n
@@ -81,8 +84,9 @@ I'm getting torn apart...\n
 
 #WHB(PTR, $00000725)
 
-//歪所       
-歪所       
+<$02><$11><$02><$0B>
+//    
+    
 <$0D>
 //私が…なくなる…
 I'm...going to disappear...
@@ -94,8 +98,9 @@ I'm...going to disappear...
 
 #WHB(PTR, $00000741)
 
-//歪所    
-歪所    
+<$02><$11><$02><$0B>
+//    
+    
 <$0D>
 //お願い、ライカ、行かないで。
 Please, Laika. Don't leave me!
@@ -107,8 +112,9 @@ Please, Laika. Don't leave me!
 
 #WHB(PTR, $0000075D)
 
-//歪所       
-歪所       
+<$02><$11><$02><$0B>
+//       
+       
 <$0D>
 //ここは真っ暗よ…
 It's so dark...
