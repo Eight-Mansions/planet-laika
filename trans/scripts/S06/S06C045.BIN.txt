@@ -30,10 +30,7 @@ Oxygen Miner 4：
 //\n俺の家が…シー…家…
 \n
 My HouSe...WHooSH... NoT MY HouSe...
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00001463
 
@@ -48,10 +45,7 @@ Oxygen Miner 3：
 //\nシーシー…燃える…
 \n
 WhOOsh, whOOsh, It's All bUrnIng...
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00001481
 
@@ -67,8 +61,5 @@ Oxygen Miner 3：
 \n
 Is It thE fIrE thAt's bUrnIng,\n
 Or Is It thE hOUsE, whOOsh?
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 

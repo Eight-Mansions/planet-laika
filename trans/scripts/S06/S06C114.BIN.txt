@@ -65,10 +65,7 @@ April:
 //\nヌーンのママはとっくに死んだのよ！
 \n
 Noon's mom died a long time ago!
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00001659
 
@@ -84,10 +81,7 @@ Oxygen Miner 2：
 \n
 Elder! Town! Mummy!\n
 All wrong, whoosh-woosh!
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 00001681
 

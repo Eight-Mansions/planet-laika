@@ -21,10 +21,7 @@ Is it you, whoosh? You, from\n
 before? I'm number five, whoosh.
 <$0C>
 I'm actually number five!
-<$1E>
-//理
-理
-<$00><$10><$0B>
+<$1E><$03><$08><$00><$10><$0B>
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
@@ -34,10 +31,10 @@ It's dangerous!
 <$0C>
 The ice there is breaking and\n
 on the verge of collapse, whoosh!
-<$1E>
-//炎
-炎
-<$00><$13><$0B>
+<$1E><$03>
+//員
+員
+<$13><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
@@ -47,10 +44,7 @@ Saw your friend, whoosh!
 <$0C>
 Went to Ice Lake, whoosh.\n
 Dangerous, whoosh, whoosh!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00000EF5
 
@@ -127,12 +121,7 @@ whoosh! Go to the girl!
 Oxygen Miner 1：
 <$0D>
 //\n行け。
-\n
-Go!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00000FCF
 
@@ -147,10 +136,7 @@ Oxygen Miner 1：
 //\n大変が起きたんだ、シー。
 \n
 Terrible thing, whoosh!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00000FF2
 
@@ -166,10 +152,7 @@ Oxygen Miner 2：
 \n
 It was your friend, whoosh,\n
 whoosh!
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 00001012
 
@@ -184,10 +167,10 @@ Oxygen Miner 3：
 //\nアイスレイクだ、行け、シー。
 \n
 YOU mUst gO tO IcE LAkE, whOOsh!
-<$1E>
-//〇
-〇
-<$00><$10>
+<$1E><$01>
+//員
+員
+<$10>
 //坑道閉鎖まで、あとわずかです。\n繰り返します、あとわずか。\nこれは訓練ではありません。
 THE MINESHAFT IS CLOSING SOON.\n
 EVACUATE IMMEDIATELY.\n

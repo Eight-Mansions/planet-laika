@@ -27,8 +27,9 @@ I, Ernest...will protect...\n
 
 #WHB(PTR, $00000431)
 
-//老ーネスト…正直者のアーネスト。\nウソのつけないアーネスト。
-老 Ernest... Honest Ernest.\n
+<$02>
+//アーネスト…正直者のアーネスト。\nウソのつけないアーネスト。
+Ernest... Honest Ernest.\n
 You'd never let anyone down.
 <$00>
 
@@ -45,8 +46,8 @@ Ernest:
 //\n誰だ？俺を呼んだのは、誰だ？
 \n
 Who's there? Who called to me?
-<$0C><$13>
-//君誰でもない…\nお前が忘れていったお前自身の声だ。
+<$0C><$13><$FF>
+//誰でもない…\nお前が忘れていったお前自身の声だ。
 Maybe it's no one. You just forgot the\n
 sound of my own voice.
 <$0C><$13><$13><$0B>
@@ -87,8 +88,9 @@ and a shoulder for Tanya to cry on.
 
 #WHB(PTR, $00000449)
 
-//談ランダ…うぬぼれ屋のヨランダ。\nいつもひとりのヨランダ。
-談 Yolanda... Yolanda, the narcissist.\n
+<$02>
+//ヨランダ…うぬぼれ屋のヨランダ。\nいつもひとりのヨランダ。
+Yolanda... Yolanda, the narcissist.\n
 You will always be alone.
 <$00>
 
@@ -106,8 +108,8 @@ Yolanda:
 \n
 Who's there? Don't act\n
 like you know me!
-<$0C><$13>
-//君さあ、誰だろう。\nこれはお前自身の声ではないのかな。
+<$0C><$13><$FF>
+//さあ、誰だろう。\nこれはお前自身の声ではないのかな。
 I'm you, that's who!\n
 Don't you know your\n
 own inner voice?
@@ -145,8 +147,9 @@ I'm the control tower over\n
 
 #WHB(PTR, $0000043D)
 
-//面ペーサーか、出すぎたマネが得意の\nようだな。
-面 Spacer, ever a slave to metaphor.
+<$02>
+//スペーサーか、出すぎたマネが得意の\nようだな。
+Spacer, ever a slave to metaphor.
 <$0C>
 //自分をかいかぶってはいないかな、\nスペーサー。
 Don't pretend to be larger than life!
@@ -166,8 +169,8 @@ Spacer:
 \n
 Who are you?\n
 Are you trying to trick me?
-<$0C><$13>
-//君この声はお前の声だ、スペーサー。\n心の声だ。
+<$0C><$13><$FF>
+//この声はお前の声だ、スペーサー。\n心の声だ。
 I am your voice, Spacer.\n
 The voice in your mind.
 <$00>

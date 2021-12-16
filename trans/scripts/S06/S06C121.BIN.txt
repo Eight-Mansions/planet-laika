@@ -118,10 +118,7 @@ My Chloe's burniiiing!
 
 #WHB(PTR, $000002FD)
 
-<$10><$13>
-//（
-（
-<$0B>
+<$10><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -199,10 +196,7 @@ Some help you are, good for nothing.
 
 #WHB(PTR, $000004E9)
 
-<$10><$13>
-//（
-（
-<$0B>
+<$10><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -250,10 +244,7 @@ supposed to do, punch the flame?!
 
 #WHB(PTR, $00000539)
 
-<$10><$13>
-//（
-（
-<$0B>
+<$10><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -286,10 +277,7 @@ Okay, so I volley the mind bullets?
 
 #WHB(PTR, $00000589)
 
-<$11><$13>
-//（
-（
-<$0B>
+<$11><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -374,10 +362,7 @@ That doesn't scare you?
 
 #WHB(PTR, $000008AD)
 
-<$10><$13>
-//（
-（
-<$0B>
+<$10><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>

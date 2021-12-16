@@ -16,11 +16,9 @@
 Oxygen Miner 2F
 <$0D>
 //\n‚³‚Á‚«‚Æ“¯‚¶‚â‚Âc Œš‚¤‚â‚Âc
+
 \n
 Are you the person I saw before,\n
 or...someone else?
-<$1E>
-//—
-—
-<$00>
+<$1E><$03><$08><$00>
 

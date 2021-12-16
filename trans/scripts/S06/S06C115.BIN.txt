@@ -153,10 +153,7 @@ All will rise, whoosh!
 <$0C>
 Rise from the heart,\n
 whoosh! All will burn!
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00001DCC
 
@@ -172,8 +169,5 @@ Oxygen Miner 2ÅF
 \n
 Houses burn... Towns burn...\n
 Ice...melts, whoosh-whoosh.
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 

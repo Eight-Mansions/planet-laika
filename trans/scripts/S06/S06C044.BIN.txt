@@ -49,10 +49,7 @@ Oxygen Miner 3：
 //\nシーシーシーシー！
 \n
 WhOOsh, whOOsh, whOOsh, whOOsh!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000017D2
 
@@ -84,8 +81,5 @@ April:
 \n
 Noon is an engineer from Earth!\n
 He was never your elder!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 

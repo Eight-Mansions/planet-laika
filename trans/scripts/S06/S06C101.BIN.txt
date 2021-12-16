@@ -27,10 +27,7 @@ Yolanda:
 \n
 Can we help you? Excuse me, is this\n
 message from Earth?
-<$0C><$13>
-//か
-か
-<$0B>
+<$0C><$13><$3F><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
@@ -46,10 +43,7 @@ Yolanda:
 \n
 You're telling me! I've been seeing\n
 nothing but new realities here.
-<$0C><$13>
-//か
-か
-<$0B>
+<$0C><$13><$3F><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
@@ -231,10 +225,9 @@ out all Martian life, bzzbzzbzz!
 
 #WHB(PTR, $00000C5D)
 
-
-<$00><$13>
-// 坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
- THE MINESHAFT IS CLOSING SOON.\n
+<$00><$13><$20>
+//坑道を閉鎖します。\n閉鎖まで、あと少しです。\n直ちに坑道から退出してください。
+THE MINESHAFT IS CLOSING SOON.\n
 REPEAT: THE MINESHAFT IS CLOSING\n
 SOON. EVACUATE IMMEDIATELY.
 <$0C>
@@ -252,10 +245,9 @@ THIS IS NOT A DRILL.
 
 #WHB(PTR, $00000D11)
 
-
-<$00><$13>
-// アラートを解除します。\n繰り返します。 アラートを解除します。
- THE ALARM WILL SHUT DOWN.\n
+<$00><$13><$20>
+//アラートを解除します。\n繰り返します。 アラートを解除します。
+THE ALARM WILL SHUT DOWN.\n
 REPAT: THE ALARM WILL SHUT DOWN.
 <$00>
 

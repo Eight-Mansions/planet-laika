@@ -11,7 +11,6 @@
 
 #WHB(PTR, $0000095D)
 
-
 <$00><$0B>
 //ジュディ母さん：
 Judy:
@@ -53,9 +52,7 @@ You're scaring me, Mummy!
 
 #WHB(PTR, $000004FD)
 
-//離
-離
-<$13>
+<$02><$13><$13>
 //       病気なのさ、\n   そうだよ、パパは病気なんだよ！
        He was a sick man.\n
    That's right, Papa was sick!
@@ -67,9 +64,7 @@ You're scaring me, Mummy!
 
 #WHB(PTR, $00000535)
 
-//離
-離
-<$13>
+<$02><$13><$13>
 //      ママ！やめて！
       Mummy! STOP!
 <$0E><$3C><$17><$00>

@@ -11,8 +11,9 @@
 
 #WHB(PTR, $000002B5)
 
-//輪イプリル…あなたね…
-輪 April, is that you...?
+<$02>
+//エイプリル…あなたね…
+April, is that you...?
 <$00>
 
 // Pos: 00000824
@@ -21,8 +22,9 @@
 
 #WHB(PTR, $000002D9)
 
-//演と愛いエイプリル…\nあなたがこんなに近くにいるなんて…\nうれしいわ…エイプリル…私のエイプリル…
-演と My darling April...\n
+<$03>
+//可愛いエイプリル…\nあなたがこんなに近くにいるなんて…\nうれしいわ…エイプリル…私のエイプリル…
+My darling April...\n
 I'm so happy you're near.\n
 April, my April...
 <$00>

@@ -432,8 +432,9 @@ Mommy's gonna die alone down here!
 
 #WHB(PTR, $000019AD)
 
-//所ヌーン：
-所Noon:
+<$02><$0B>
+//ヌーン：
+Noon:
 <$0D>
 //\nママ、やめて… お願い… ママ…
 \n
@@ -446,8 +447,9 @@ Mummy, stop... Please... Mummy...!
 
 #WHB(PTR, $000019BD)
 
-//所ヌーン：
-所Noon:
+<$02><$0B>
+//ヌーン：
+Noon:
 <$0D>
 //\nママ！ ママ！ もういやだ！
 \n
