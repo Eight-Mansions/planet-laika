@@ -11,8 +11,9 @@
 
 #WHB(PTR, $0000034D)
 
-//興うか、この１月のできごとが先にあったんだ。\nそれからさっきの３月になって、\n１１月でケリがついたんだ。
-興All begins in this first month.\n
+<$02>
+//そうか、この１月のできごとが先にあったんだ。\nそれからさっきの３月になって、\n１１月でケリがついたんだ。
+All begins in this first month.\n
 Then past the third month, until\n
 finally, the eleventh month.
 <$0C>
@@ -194,7 +195,8 @@ having.
 
 #WHB(PTR, $0000012D)
 
-//広客さんだね、そこにいるの。\nわかるんだ、\nここは僕の夢とつながってるからね。
+<$02>
+//お客さんだね、そこにいるの。\nわかるんだ、\nここは僕の夢とつながってるからね。
 I know you're there, young one. This\n
 is where our dreams connect.
 <$0C>
@@ -217,8 +219,9 @@ Let Agatha have a read.
 
 #WHB(PTR, $0000017D)
 
-//振月は寒い、遊ぶには向いてないね。\nもっとも、あんたにしちゃ、\n遊ぶどころじゃなかったみたいだけど。
-振The second month is too cold for\n
+<$02>
+//２月は寒い、遊ぶには向いてないね。\nもっとも、あんたにしちゃ、\n遊ぶどころじゃなかったみたいだけど。
+The second month is too cold for\n
 play.
 <$0C>
 Of course, your home was always
@@ -231,8 +234,9 @@ too "cold" for playtime.
 
 #WHB(PTR, $000001CD)
 
-//立う８月かぁ… 寝付けない夜だね。\nなんだか騒ぎが起きてるみたいだけど、\nだいじょうぶなの？
-立うAugust's long nights welcome\n
+<$02>
+//もう８月かぁ… 寝付けない夜だね。\nなんだか騒ぎが起きてるみたいだけど、\nだいじょうぶなの？
+August's long nights welcome\n
 sleep, but\n
 a commotion keeps you up one night.
 <$0C>
@@ -245,8 +249,9 @@ Is everything sound?
 
 #WHB(PTR, $0000021D)
 
-//捨れから１年近くたったね。\nやけに静かな夜… ６月だよ。
-捨Almost a year has passed.\n
+<$02>
+//あれから１年近くたったね。\nやけに静かな夜… ６月だよ。
+Almost a year has passed.\n
 It's a very quiet night in June.
 <$0C>
 //でもこれからのことを考えると、\n嵐の前の静けさだね、きっと。
@@ -260,8 +265,9 @@ this is the calm before the storm.
 
 #WHB(PTR, $0000026D)
 
-//場９いよ… なんだかとても。\n９月、何かが計画されているみたいだよ。\nあんた、平気なの？
-場The ninth month. Nine. Something\n
+<$02>
+//怖いよ… なんだかとても。\n９月、何かが計画されているみたいだよ。\nあんた、平気なの？
+The ninth month. Nine. Something\n
 was to be delivered after nine\n
 months. Was it peace?
 <$00>
@@ -272,8 +278,9 @@ months. Was it peace?
 
 #WHB(PTR, $000002BD)
 
-//状月！ あああ、イヤな惑じだよ。\nフキツな惑じだよ。
-状What an ominous mess of a month\n
+<$02>
+//３月！ あああ、イヤな惑じだよ。\nフキツな惑じだよ。
+What an ominous mess of a month\n
 this is!
 <$00>
 
@@ -283,8 +290,9 @@ this is!
 
 #WHB(PTR, $0000030D)
 
-//捨れ？ １１月だ…\nそうか、これが最後なんだ。\nいろんなことが終りかけているよ。
-捨Oh? the eleventh month... I see,\n
+<$02>
+//あれ？ １１月だ…\nそうか、これが最後なんだ。\nいろんなことが終りかけているよ。
+Oh? the eleventh month... I see,\n
 this is the last. Many gears stop\n
 turning here.
 <$0C>
@@ -304,8 +312,9 @@ It's worth a look.
 
 #WHB(PTR, $0000039D)
 
-//詳月か… たくらみのにおいがするよ、\nほんとだよ。
-詳This is a busy month. A good month\n
+<$02>
+//５月か… たくらみのにおいがするよ、\nほんとだよ。
+This is a busy month. A good month\n
 for planning ahead.
 <$00>
 
@@ -315,8 +324,9 @@ for planning ahead.
 
 #WHB(PTR, $000003F1)
 
-//諸月！ 静かだよ、とっても。\nそれでいてやっぱりイヤな惑じだ。\nねぇ、これが最後だよ、もうないよ。
-諸This is a quiet month. Still\n
+<$02>
+//７月！ 静かだよ、とっても。\nそれでいてやっぱりイヤな惑じだ。\nねぇ、これが最後だよ、もうないよ。
+This is a quiet month. Still\n
 unpleasant, but... Oh!\n
 There's nothing after this.
 <$00>
