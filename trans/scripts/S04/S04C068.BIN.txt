@@ -34,10 +34,7 @@ Linda:
 \n
 But only a little. It's the chance of\n
 caught that makes hiding such a thrill.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00001DD2
 
@@ -61,10 +58,7 @@ Linda:
 \n
 Maybe you'll find a spot around\n
 where the houses are all lined up.
-<$1E>
-//行
-行
-<$00><$12><$0B>
+<$1E><$01><$08><$00><$12><$0B>
 //リンダ：
 Linda:
 <$0D>
@@ -118,10 +112,7 @@ Linda:
 //\nこれって？？なのー？そうよねー、\n？？よねー。
 But it could happen, don't you think?\n
 I mean, maybe...right?
-<$1E>
-//行
-行
-<$00><$10><$0B>
+<$1E><$01><$08><$00><$10><$0B>
 //リンダ：
 Linda:
 <$0D>
@@ -178,10 +169,7 @@ I'm disgusted by just about\n
 everything. 
 <$0C>
 Seriously, I'm tired.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002047
 
@@ -358,10 +346,7 @@ No, you still have a dogface.\n
 That dirty cloth had changed, though.
 <$0C>
 I remember. It lit up, and was shining.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 0000225F
 
@@ -377,10 +362,7 @@ Linda:
 \n
 That dirty cloth had changed.\n
 It lit up, and was shining.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 0000228A
 
@@ -419,10 +401,7 @@ Linda:
 \n
 That's perhaps the strangest part.\n
 See, in reality, I never met her!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002322
 
@@ -438,10 +417,7 @@ Linda:
 \n
 I bet your head's hazy too.\n
 Then again, you're pretty bright.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 0000235A
 
@@ -544,10 +520,7 @@ Linda:
 \n
 Beddy-byes help with that during\n
 lights-out time, even at daytime!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 0000245A
 
@@ -578,10 +551,7 @@ Linda:
 //\nさっきのあんただよねー。
 \n
 It was you I saw earlier...right?
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000024CA
 
@@ -607,8 +577,5 @@ Come on, you know what I'm talking\n
 about! The cloth!
 <$0C>
 Veronica's cloth stopped shining!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 

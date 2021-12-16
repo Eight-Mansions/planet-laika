@@ -18,9 +18,9 @@ Noon:
 //\nおお、あれだ！\n避難小屋が見えたぞ！おほほー！
 \n
 Whelp, there it is! I see the safe 'ouse!
-<$00><$00><$11>
-//子     
-子     
+<$00><$00><$11><$01><$0B>
+//     
+     
 <$0D>
 //はあ、はあ、だめだ！
 Haah, haah! Damn!
@@ -33,8 +33,8 @@ Haah, haah! Damn!
 #WHB(PTR, $000010F9)
 
 
-<$00><$11>
-//左変だぜ、あああ、俺…\n
+<$00><$11><$01><$20>
+//変だぜ、あああ、俺…\n
 This is weird. I...urrk!\n
 
 <$0E><$1E>
@@ -107,9 +107,9 @@ I'm 'oping the captain doesn't\neither.
 #WHB(PTR, $00001151)
 
 
-<$00><$11>
-//子      
-子      
+<$00><$11><$01><$0B>
+//      
+      
 <$0D>
 //ああああ、何だ？
 Augh! W-what's that?!
@@ -122,9 +122,9 @@ Augh! W-what's that?!
 #WHB(PTR, $00001181)
 
 
-<$00><$11>
-//子   
-子   
+<$00><$11><$01><$0B>
+//   
+   
 <$0D>
 //ああああ、いやだ、来るな！\n
 No! NO, GET AWAY!\n
@@ -144,9 +144,9 @@ Don't come any closer!
 #WHB(PTR, $000011ED)
 
 
-<$00><$11>
-//子      
-子      
+<$00><$11><$01><$0B>
+//      
+      
 <$0D>
 //ママ…ママなの？
 Mummy? Mummy, is that you?
@@ -159,9 +159,9 @@ Mummy? Mummy, is that you?
 #WHB(PTR, $00001209)
 
 
-<$00><$11>
-//子   
-子   
+<$00><$11><$01><$0B>
+//   
+   
 <$0D>
 //どうして…僕のせいなの…
 Why, Mummy? Was I bad again?
