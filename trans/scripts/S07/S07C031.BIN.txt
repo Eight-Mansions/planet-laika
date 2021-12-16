@@ -86,8 +86,9 @@ I'm glad you're okay.
 
 #WHB(PTR, $00000B69)
 
-//離 坑道閉鎖まで、あとちょっとです。\n繰り返します、あとちょっと。\nこれは訓練ではありません。
-離 THE MINESHAFT IS CLOSING SOON.\n
+<$02><$13><$20>
+//坑道閉鎖まで、あとちょっとです。\n繰り返します、あとちょっと。\nこれは訓練ではありません。
+THE MINESHAFT IS CLOSING SOON.\n
 EVACUATE IMMEDIATELY.\n
 THIS IS NOT A DRILL.
 <$00>

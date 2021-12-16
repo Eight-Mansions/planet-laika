@@ -51,10 +51,7 @@ Oxygen Miner 1：
 \n
 Not YOU, whoosh! Don't have power!\n
 We need power, whoosh!
-<$1E>
-//星
-星
-<$00>
+<$1E><$01><$0C><$00>
 
 // Pos: 00001B8E
 
@@ -77,11 +74,8 @@ Oxygen Miner 1：
 //\n力、力、力だ、\n力のためには協力をおしまないぞ、シー。
 \n
 Work together! Find power and use\n
-it, whoosh@
-<$1E>
-//中
-中
-<$00>
+it, whoosh!
+<$1E><$01><$04><$00>
 
 // Pos: 00001BEF
 
@@ -236,10 +230,9 @@ Take it back.
 
 <$10><$12>
 //：
-：
-<$11>
-//顔
-顔
+<$11><$01>
+//\n
+\n
 <$0B>
 //    
     
