@@ -43,10 +43,7 @@ Marrakech:
 \n
 Oh? I'm not wrong, am I? Certainly\n
 not, because you're...Yolanda.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00000B99
 
@@ -64,10 +61,7 @@ It's the same for everyone, Yolanda.\n
 <$0C>
 Faces are the centerpiece of one's
 outward appearance.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00000BCC
 
@@ -90,10 +84,7 @@ Marrakech:
 \n
 Dear, I'm always so confused. I doubt\n
 understanding will help anyways.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00000C0C
 
@@ -154,13 +145,9 @@ be getting sick of it by now.
 Marrakech:
 <$0D>
 //\n何か変よね、変、うまくいえないけど？
-\n
 Something's changed, but I can't put\n
 my finger on what.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00000CAF
 
@@ -176,10 +163,7 @@ Marrakech:
 \n
 I can't rest like this! Not at all! I can't\n
 ho home yet!
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00000CDC
 
@@ -195,8 +179,5 @@ Marrakech:
 \n
 Dear, get out of here.\n
 Come on, let's go.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 

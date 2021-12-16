@@ -66,10 +66,7 @@ Crow:
 \n
 Isn't it great? They're all so scared,\n
 I love it!
-<$1E>
-//—
-—
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 000014C8
 

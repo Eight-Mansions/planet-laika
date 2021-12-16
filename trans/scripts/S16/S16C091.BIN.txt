@@ -59,10 +59,7 @@ Tommy:
 \n
 Well, this here is my dream, Ernest,\n
 my comrade.
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00000BDF
 
@@ -86,10 +83,7 @@ Tommy:
 \n
 We're getting stronger. Lies aren't\n
 powerful enough to ruin MY dreams!
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00000C30
 
@@ -107,10 +101,7 @@ Whew, I'm getting so sleepy. I don't\n
 get it, I didn't drink anything yet.
 <$0C>
 Whew...
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00000C64
 
@@ -126,10 +117,7 @@ Tommy:
 \n
 Whew, am I just hungover or\n
 something?
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00000C81
 
@@ -145,10 +133,7 @@ Tommy:
 \n
 Someone's back here, huh. It reeks\n
 like almonds in here. Ick, I hate it!
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00000CBD
 
@@ -213,10 +198,7 @@ Tommy:
 //\nおえっ、臭ってきそうだ、アーモンド…
 \n
 Ick, it smells like fresh almonds.
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00000D65
 
@@ -232,10 +214,7 @@ Tommy:
 \n
 It sure smells like almonds, don't it.\n
 It's even stronger than before.
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00000D94
 
@@ -250,8 +229,5 @@ Tommy:
 //\n俺はアーモンドなんてきらいだぜ。
 \n
 I hate almonds!
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 

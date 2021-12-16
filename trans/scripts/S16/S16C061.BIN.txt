@@ -27,8 +27,9 @@ engraving on the wall. Let me see...
 
 #WHB(PTR, $000006A1)
 
-//子トーマス：
-子Thomas:
+<$01><$0B>
+//トーマス：
+Thomas:
 <$0D>
 //\n夜になると鏡の中に現れる、そういうウワサが\n広まっているが、私はまだ見たことはない。
 \n
@@ -96,8 +97,9 @@ Oh! Uh, i-it's nothing! I'm good!
 
 #WHB(PTR, $00000815)
 
-//子トーマス：
-子Thomas:
+<$01><$0B>
+//トーマス：
+Thomas:
 <$0D>
 //\n私なりにだ、\n仮説と呼べるところまで導いたわけだ。
 \n
@@ -166,8 +168,9 @@ They don't want to see the truth.
 
 #WHB(PTR, $00000821)
 
-//子トーマス：
-子Thomas:
+<$01><$0B>
+//トーマス：
+Thomas:
 <$0D>
 //\nうっすらとだが、見たような気がする…\n私なりに答を出してもいいのか。
 \n
@@ -225,8 +228,9 @@ from what me and the guys are.
 
 #WHB(PTR, $0000082D)
 
-//子トーマス：
-子Thomas:
+<$01><$0B>
+//トーマス：
+Thomas:
 <$0D>
 //\n問顆は心も欲しがるかということだ。
 \n
