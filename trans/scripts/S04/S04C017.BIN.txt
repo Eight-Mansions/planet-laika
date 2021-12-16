@@ -535,8 +535,9 @@ any idea where he went?
 
 #WHB(PTR, $00001D51)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nエイプリル！ 無事だったのね、\n変な記憶にさいなまれたりしなかったのね、\nよかった、よかったわエイプリル。
 \n
@@ -607,9 +608,9 @@ but the vision is fading.
 
 #WHB(PTR, $00000AB9)
 
-<$12><$13>
-// ヨウコソ プリズン４ヘ。\nミスター
- WELCOME TO PRISON 4!\n
+<$12><$13><$20>
+//ヨウコソ プリズン４ヘ。\nミスター
+WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -635,9 +636,9 @@ REGISTRANT NAME:\n
 
 #WHB(PTR, $000022CD)
 
-<$12><$13>
-// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY.\n
+<$12><$13><$20>
+//アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+NOT REGISTERED FOR ENTRY.\n
 FOR DETAILS AND ASSISTANCE,\n
 SPEAK TO AN ADMINISTRATOR.
 <$00>
@@ -660,9 +661,9 @@ SPEAK TO AN ADMINISTRATOR.
 
 #WHB(PTR, $000022AD)
 
-<$12><$13>
-// ヤハリ アナタハ\nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY.
+<$12><$13><$20>
+//ヤハリ アナタハ\nトウロクサレテイマセン。
+USER NOT REGISTERED FOR ENTRY.
 <$00>
 
 // Pos: 000034A7

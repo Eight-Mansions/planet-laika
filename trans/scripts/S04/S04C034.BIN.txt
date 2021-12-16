@@ -45,10 +45,7 @@ Feng:
 \n
 Now that we're here,\n
 I'll show you around.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00001ED5
 
@@ -135,13 +132,7 @@ with him, a-nope.
 Sammy:
 <$0D>
 //\nそうね…目かな。 目、目が建うの。\n遠くからだけど分かる、ほんとよ。
-\n
-Little's eyes were off. You can tell\n
-instantly when guys like him change.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002035
 
@@ -157,10 +148,7 @@ Sammy:
 \n
 I think there's someone else inside\n
 of Little. His eyes keep changing.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00002079
 
@@ -192,10 +180,7 @@ Tommy:
 \n
 Her hypnotherapy will mess with\n
 you just as good, a-yup. Be careful.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000020FA
 
@@ -254,10 +239,7 @@ Yang:
 \n
 What's weirder about that is it\n
 isn't even broadcasting anything!
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 000021B8
 
@@ -281,10 +263,7 @@ Yang:
 \n
 As long as I'm in these waves,\n
 that's all I'll ever need.
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 0000220E
 
@@ -303,8 +282,5 @@ up everywhere!
 <$0C>
 Are they trying to interfere\n
 with the waves?
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 

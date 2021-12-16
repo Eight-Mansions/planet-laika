@@ -49,10 +49,7 @@ Boomer:
 \n
 Ahhh, they're trying to ride the radio\n
 waves.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000012CE
 
@@ -75,10 +72,7 @@ Boomer:
 //\nâ¥ÇÕÅcñÈÇ™ï|Ç¢ÅB
 \n
 Ohhh, I'm scared of the night...
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 00001308
 
@@ -101,10 +95,7 @@ Boomer:
 \n
 Ahhh, I can't see the eyeballs, no\n
 matter what I do. Was that a hoax?
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 00001352
 
@@ -128,10 +119,7 @@ Boomer:
 \n
 Ahhh, everyone is taken. Taken and\n
 eaten by dreams. Everyone, eaten.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000013A0
 
@@ -147,10 +135,7 @@ Boomer:
 \n
 Ahhh, my dreams creep out from the\n
 dark of night to attack me.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000013CA
 
@@ -166,10 +151,7 @@ Boomer:
 \n
 Ohhh, I'm scared of the night,\n
 I'm scared of my dreams...
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000013E5
 
@@ -185,10 +167,7 @@ Boomer:
 \n
 Ohh, I dreamed that the sun burned\n
 so red, it razed the town to ash.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 00001412
 
@@ -204,10 +183,10 @@ Boomer:
 \n
 Ohhh, I'm scared of my dreams,\n
 I'm scared of my memories...
-<$1E>
-//ëo
-ëo
-<$00><$10><$0B>
+<$1E><$02>
+//àı
+àı
+<$10><$0B>
 //ÉuÅ[É}Å[ÅF
 Boomer:
 <$0D>
@@ -242,7 +221,8 @@ Psycho Lab
 
 #WHB(PTR, $000010E1)
 
-//é_çıêŒíuèÍ
+<$01><$1F>
+//çıêŒíuèÍ
 Oxygenite Storage
 <$00><$00>
 

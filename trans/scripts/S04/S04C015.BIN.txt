@@ -27,10 +27,7 @@ Boomer:
 \n
 Ahhh, come. Smokey is waiting for\n
 you in the plaza.
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00001E59
 
@@ -109,10 +106,7 @@ Of course. I can't shake the feeling\n
 Agatha's out to hijack my mind. 
 <$0C>
 I'm so worried, I can hardly sleep.
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00001F74
 
@@ -140,10 +134,7 @@ If she can control Herod through\n
 hypnotherapy, she can do anything!
 <$0C>
 How scary!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00001FF3
 
@@ -159,10 +150,7 @@ Feng:
 \n
 Agatha is so into hypnotherapy,\n
 I wouldn't dream of stopping her!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00002023
 
@@ -647,9 +635,9 @@ kindred spirits, hoho.
 
 #WHB(PTR, $000006F5)
 
-<$12><$13>
-// ヨウコソ プリズン４ヘ。\nミスター
- WELCOME TO PRISON 4!\n
+<$12><$13><$20>
+//ヨウコソ プリズン４ヘ。\nミスター
+WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -675,9 +663,9 @@ REGISTRANT NAME:\n
 
 #WHB(PTR, $00001B49)
 
-<$12><$13>
-// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY.\n
+<$12><$13><$20>
+//アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+NOT REGISTERED FOR ENTRY.\n
 FOR DETAILS AND ASSISTANCE,\n
 SPEAK TO AN ADMINISTRATOR.
 <$00>
@@ -700,9 +688,9 @@ SPEAK TO AN ADMINISTRATOR.
 
 #WHB(PTR, $00001B29)
 
-<$12><$13>
-// ヤハリ アナタハ\nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY.
+<$12><$13><$20>
+//ヤハリ アナタハ\nトウロクサレテイマセン。
+USER NOT REGISTERED FOR ENTRY.
 <$00>
 
 // Pos: 00002576
