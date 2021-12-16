@@ -67,8 +67,5 @@ Red:
 \n
 I'm hot on his tail, understand?\n
 Yeah, you'd BETTER understand!
-<$1E>
-//’†
-’†
-<$00>
+<$1E><$01><$04><$00>
 

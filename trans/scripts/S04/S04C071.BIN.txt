@@ -285,8 +285,5 @@ Cosmas:
 \n
 That was Uncle Red... I have to go\n
 now, but good luck on your trip!
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 

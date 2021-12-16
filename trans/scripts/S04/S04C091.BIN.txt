@@ -295,10 +295,7 @@ East:
 \n
 Will it lead to the\n
 red stone and to Herod?
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00002BFB
 
@@ -317,10 +314,7 @@ West:
 //\n分かったろ。赤い家だ。\nブリックロード。
 \n
 The red house on Brick Road will!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00002C1E
 
@@ -880,10 +874,10 @@ West:
 //\n昔は牢屋、今はホテルだ。
 \n
 What once was a prison is now a hotel!
-<$1E>
-//〇
-〇
-<$00><$10><$0B>
+<$1E><$01>
+//員
+員
+<$10><$0B>
 //リトル：
 Little:
 <$0D>

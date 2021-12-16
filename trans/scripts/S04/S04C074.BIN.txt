@@ -166,10 +166,7 @@ Marrakech:
 <$0C>
 The others will make fun\n
 of him if he keeps up.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00001C61
 
@@ -187,10 +184,7 @@ Cosmas is talking to himself again.
 <$0C>
 Don't eavesdrop through the\n
 back alley window, okay?
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00001CAA
 
@@ -221,10 +215,7 @@ Marrakech:
 \n
 What else would he be doing with that\n
 dead-eyed stare?
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00001D14
 
@@ -320,10 +311,7 @@ Marrakech:
 \n
 I wonder if she's taken to talking to\n
 ghosts? How spooky!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00001E88
 
@@ -357,10 +345,7 @@ Marrakech:
 \n
 I wonder if she's taken to\n
 talking to ghosts? How spooky!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00001F08
 
@@ -379,8 +364,5 @@ she looked so different.
 <$0C>
 Mirrors scare me\n
 because they make people crazy.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 

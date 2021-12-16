@@ -169,10 +169,7 @@ West:
 //\n犬顔。
 \n
 DOGFACE!
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 0000229A
 
@@ -315,9 +312,9 @@ There's no time!
 
 #WHB(PTR, $00000709)
 
-<$12><$13>
-// ヨウコソ プリズン４ヘ。\nミスター
- WELCOME TO PRISON 4!\n
+<$12><$13><$20>
+//ヨウコソ プリズン４ヘ。\nミスター
+WELCOME TO PRISON 4!\n
 REGISTRANT NAME:\n
 "
 <$0F>
@@ -331,9 +328,9 @@ REGISTRANT NAME:\n
 
 #WHB(PTR, $0000075D)
 
-<$12><$13>
-// アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
- NOT REGISTERED FOR ENTRY.\n
+<$12><$13><$20>
+//アナタハ トウロクサレテイマセン。\nクワシクハ カンリシャニ\nオタズネクダサイ。
+NOT REGISTERED FOR ENTRY.\n
 FOR DETAILS AND ASSISTANCE,\n
 SPEAK TO AN ADMINISTRATOR.
 <$00>
@@ -344,9 +341,9 @@ SPEAK TO AN ADMINISTRATOR.
 
 #WHB(PTR, $00000745)
 
-<$12><$13>
-// ヤハリ アナタハ\nトウロクサレテイマセン。
- USER NOT REGISTERED FOR ENTRY.
+<$12><$13><$20>
+//ヤハリ アナタハ\nトウロクサレテイマセン。
+USER NOT REGISTERED FOR ENTRY.
 <$00>
 
 // Pos: 0000238E
@@ -410,10 +407,10 @@ Boomer:
 \n
 Ohhh, I'm so sorry, but...\n
 Ahhh, I can't let you through.
-<$1E>
-//家
-家
-<$00><$12><$0B>
+<$1E><$02>
+//軌
+軌
+<$12><$0B>
 //フェイ：
 Feng:
 <$0D>
@@ -683,8 +680,5 @@ Feng:
 \n
 Agatha is so into hypnotherapy,\n
 I wouldn't dream of stopping her!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 

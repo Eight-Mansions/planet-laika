@@ -54,10 +54,7 @@ Yang:
 \n
 That's the space room in Psycho Lab.\n
 First door on the right.
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00001BE6
 
@@ -73,10 +70,7 @@ Herod:
 \n
 Are you happy? How, then?\n
 How are you happy?
-<$00><$00><$11>
-//’N
-’N
-<$1E><$17><$00>
+<$00><$00><$11><$01><$0E><$1E><$17><$00>
 
 // Pos: 00001C11
 

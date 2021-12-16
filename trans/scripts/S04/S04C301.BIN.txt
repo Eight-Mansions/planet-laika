@@ -105,10 +105,7 @@ books? All you smart people do.
 //問顆が起きないようにするのが\nあんたの役目なんだよね。
 It's your job to get out there and\n
 solve the big puzzles for us.
-<$1E>
-//早
-早
-<$00>
+<$1E><$02><$0C><$00>
 
 // Pos: 000036A4
 
@@ -129,10 +126,7 @@ how you scare-bear types really are.
 //でも本当はやさしい人なんだよね、\n誰かを守るために生まれてきたんだね。
 Deep down, you're a softie with\n
 someone you were born to protect.
-<$1E>
-//早
-早
-<$00>
+<$1E><$02><$0C><$00>
 
 // Pos: 00003707
 
@@ -154,10 +148,7 @@ Meaning, you're lonely.
 //あんたは誰かの相談相手だったんでしょ。
 Desperately, you vie to be the\n
 shoulder for someone to lean on.
-<$1E>
-//早
-早
-<$00>
+<$1E><$02><$0C><$00>
 
 // Pos: 00003778
 
@@ -196,10 +187,7 @@ Linda:
 \n
 If you'd rather forget you, you can\n
 blow your money at NIGHT PLANET!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00003805
 
@@ -215,10 +203,7 @@ Linda:
 \n
 This flat here's disgusting.\n
 It smells burnt for God's sake!
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00003832
 

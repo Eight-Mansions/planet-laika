@@ -50,10 +50,7 @@ Damian:
 //\n‚İ‚ñ‚È‚İ‚ñ‚È‚¾‚æB
 \n
 Up the wall, up the wall!
-<$1E>
-//—
-—
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00002172
 
@@ -84,8 +81,5 @@ Red:
 \n
 Grr, don't just stand there,\n
 get in the damn house!
-<$1E>
-//’†
-’†
-<$00>
+<$1E><$01><$04><$00>
 
