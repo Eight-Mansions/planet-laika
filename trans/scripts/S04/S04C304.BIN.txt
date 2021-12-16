@@ -19,10 +19,7 @@ Linda:
 \n
 Are you going to try hypnotherapy\n
 too? It sounds so shady...
-<$1E>
-//çs
-çs
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000017EA
 
@@ -46,10 +43,7 @@ Linda:
 \n
 She said, "The planet is plotting\n
 something." Isn't that weird?!
-<$1E>
-//íÜ
-íÜ
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00001842
 
@@ -129,10 +123,7 @@ Rummy:
 \n
 If you ever peek through the back\n
 alley window, you'll hear people.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00001954
 
@@ -175,10 +166,7 @@ Rummy:
 \n
 Still, I can't shake the idea that those\n
 two are connected.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 000019E1
 
@@ -194,10 +182,7 @@ Rummy:
 \n
 You know, nothing clouds the head\n
 better than overthinking, a-ha!
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00001A03
 
@@ -223,10 +208,7 @@ Tommy:
 \n
 Not everyone wants to go meeting\n
 their maker, but Little sure does!
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001A6C
 
@@ -250,10 +232,7 @@ Tommy:
 \n
 It just doesn't sound like him.\n
 No way. Someone's in his head.
-<$1E>
-//â∆
-â∆
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00001AE6
 

@@ -35,8 +35,8 @@ goddammit!
 
 #WHB(PTR, $00000311)
 
-<$12><$11>
-//子レッド：
+<$12><$11><$01><$0B>
+//レッド：
 Red:
 <$0D>
 //\nちくしょう、あの野郎！\nどこに隠れてやがる！
@@ -51,9 +51,9 @@ Where are you hiding?!
 
 #WHB(PTR, $000004B1)
 
-<$10><$11>
-//X６ちゃんよう、こっちだ、右だ。
-X６Comrade, over here, to the right!
+<$10><$11><$01>
+//兄ちゃんよう、こっちだ、右だ。
+Comrade, over here, to the right!
 <$0E><$1E><$17><$00>
 
 // Pos: 0000351F
@@ -62,9 +62,9 @@ X６Comrade, over here, to the right!
 
 #WHB(PTR, $000004DD)
 
-<$10><$11>
-//的こんところを右に来な。\n兄ちゃんから見ると左手の方だ、分かるよな。
-的Check over to the right! From your\n
+<$10><$11><$01>
+//そこんところを右に来な。\n兄ちゃんから見ると左手の方だ、分かるよな。
+Check over to the right! From your\n
 view, we might be on the left.
 <$0E><$1E><$17><$00>
 
@@ -74,9 +74,9 @@ view, we might be on the left.
 
 #WHB(PTR, $00000509)
 
-<$10><$11>
-//的こだそこだ、そこんとこ、右だ。\n兄ちゃんから見ても右、おれは右にいるぜ。
-的Yeah! There, there! To the right!\n
+<$10><$11><$01>
+//そこだそこだ、そこんとこ、右だ。\n兄ちゃんから見ても右、おれは右にいるぜ。
+Yeah! There, there! To the right!\n
 If you look right, I'm on the right.
 <$0E><$1E><$17><$00>
 
@@ -86,9 +86,9 @@ If you look right, I'm on the right.
 
 #WHB(PTR, $00000539)
 
-<$10><$11>
-//的こだそこだ、そうだ真っ直ぐこっちだ。\nまっすぐ、まっつぐ、まっしゅぐだ…来い。
-的Straight! Yeah, straight this way!\n
+<$10><$11><$01>
+//そこだそこだ、そうだ真っ直ぐこっちだ。\nまっすぐ、まっつぐ、まっしゅぐだ…来い。
+Straight! Yeah, straight this way!\n
 Come along straight. Straight...
 <$0E><$1E><$17><$00>
 
@@ -474,10 +474,10 @@ Gold:
 \n
 What are you going to do, now that\n
 he's set his sights on you?
-<$1E>
-//家
-家
-<$00><$10><$0B>
+<$1E><$02>
+//軌
+軌
+<$10><$0B>
 //レッド：
 Red:
 <$0D>
@@ -507,10 +507,7 @@ What did you do to Cosmas?\n
 <$0C>
 Whatever you did,\n
 Red wants your head.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00003AC5
 

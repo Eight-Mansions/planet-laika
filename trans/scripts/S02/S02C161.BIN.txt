@@ -12,7 +12,7 @@
 #WHB(PTR, $00000405)
 
 <$02>
-//災けないわ、その箱を開けちゃ。\n中には悪魔が閉じこめられているの…\nエイプリル、分かって…お願いよ。
+//いけないわ、その箱を開けちゃ。\n中には悪魔が閉じこめられているの…\nエイプリル、分かって…お願いよ。
 April, do not open that box.\n
 Many demons writhe within.\n
 Listen to me, please.
@@ -25,7 +25,7 @@ Listen to me, please.
 #WHB(PTR, $00000429)
 
 <$02>
-//血あ、クリスマスプレゼントは\nもうおしまいにして、私のところに来て、\nエイプリル…さあ…
+//さあ、クリスマスプレゼントは\nもうおしまいにして、私のところに来て、\nエイプリル…さあ…
 You're almost home, April.\n
 Come to me if you want your\n
 Christmas present.
@@ -61,7 +61,7 @@ because you're my good girl.
 #WHB(PTR, $00000511)
 
 <$02>
-//輪イプリル、あなたは汚れを知らないのよ、\nあなたは鏡から生まれたのよ。
+//エイプリル、あなたは汚れを知らないのよ、\nあなたは鏡から生まれたのよ。
 April, you are pure, like glass.\n
 You were born in my image.
 <$00>
