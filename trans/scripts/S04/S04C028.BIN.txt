@@ -19,10 +19,7 @@ Boomer:
 \n
 Night won't come anymore, will it?\n
 I saw a white light...
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002E90
 
@@ -56,10 +53,7 @@ Boomer:
 \n
 This is just like the dreams I saw.\n
 Exactly like them! Ohhh...!
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002F0D
 
@@ -251,10 +245,7 @@ Little:
 \n
 Get all your business in check, got it?\n
 I'll be here.
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00003191
 
@@ -278,10 +269,7 @@ Little:
 \n
 I was waitin', since we have common\n
 interests now, get it?
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 000031E1
 
@@ -569,10 +557,7 @@ Little:
 \n
 I don't have all the time in the world\n
 like you do! I'll wait here, so hurry!
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00003513
 
@@ -595,8 +580,5 @@ Boomer:
 //\nあああ、もう終わりだ、終わりだ…
 \n
 Ahhh, it'll be over soon! It's all over!
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 

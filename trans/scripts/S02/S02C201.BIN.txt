@@ -11,8 +11,9 @@
 
 #WHB(PTR, $0000089D)
 
-//話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the biggest\n
+<$02><$0F>
+//、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
+, we found the biggest\n
 toy rocket in town, just for you!\n
 Do you like your Christmas present?
 <$00>
@@ -39,7 +40,8 @@ Can you hear me, Tanya?! TANYA!
 
 #WHB(PTR, $000008A5)
 
-//想うしたの
+<$02>
+//どうしたの
 想Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
@@ -101,8 +103,9 @@ none of this would have happened!
 
 #WHB(PTR, $0000087D)
 
-//話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the biggest\n
+<$02><$0F>
+//、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
+, we found the biggest\n
 toy rocket in town, just for you!\n
 Do you like your Christmas present?
 <$00>
@@ -129,8 +132,9 @@ I've heard that voice before.
 
 #WHB(PTR, $00000885)
 
-//想うしたの
-想Do you like it, 
+<$02>
+//どうしたの
+Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
 ?\nYour batya drove all over town\n
@@ -167,8 +171,9 @@ That was a Christmas present?
 
 #WHB(PTR, $0000088D)
 
-//話、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
-話, we found the biggest\n
+<$02><$0F>
+//、\nクリスマスプレゼントは大きなロケットよ、\n町で一番大きいのよ！
+, we found the biggest\n
 toy rocket in town, just for you!\n
 Do you like your Christmas present?
 <$00>
@@ -195,8 +200,9 @@ in this room?
 
 #WHB(PTR, $00000895)
 
-//想うしたの
-想Do you like it, 
+<$02>
+//どうしたの
+Do you like it, 
 <$0F>
 //、\nロケット、パパからのプレゼントよ。\n索敵なクリスマスね。ママも嬉しいわ。
 ?\nYour batya drove all over town\n

@@ -11,8 +11,9 @@
 
 #WHB(PTR, $00000BD1)
 
-//広い、そこにいるの… あんただろ？\nさっきのあんただろ？
-広Hey, you there! Weren't you here\n
+<$02>
+//おい、そこにいるの… あんただろ？\nさっきのあんただろ？
+Hey, you there! Weren't you here\n
 before?
 <$00>
 
@@ -22,8 +23,9 @@ before?
 
 #WHB(PTR, $00000D15)
 
-//話っていうんだろ？
-話, is it?
+<$02><$0F>
+//っていうんだろ？
+, is it?
 <$00>
 
 // Pos: 00003B08
@@ -171,10 +173,7 @@ You need to do so out here in the\n
 sands, of course.
 <$0C>
 If not, how am I supposed\nto hear?
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 00003D23
 
@@ -259,10 +258,7 @@ Damian:
 \n
 Anyways, I guess I'd better head\n
 back.
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 00003E2D
 
@@ -341,10 +337,7 @@ Damian:
 \n
 Anyways, I have to go now. Until next\n
 time!
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 00003F7D
 
@@ -417,10 +410,7 @@ Damian:
 //\nさ、じゃあ、もう帰るね。
 \n
 And with that, I'm off!
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 00004098
 
@@ -493,10 +483,7 @@ Damian:
 \n
 Heehee, just wait and see!\n
 Anyways, I'd better go now!
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 000041D7
 
@@ -562,10 +549,7 @@ Damian:
 //\nさ、もう行かなきゃ、またね。
 \n
 And with that, I'm heading out.
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 000042E5
 
@@ -636,10 +620,7 @@ Damian:
 \n
 Dreams are strange like that, aren't\n
 they? And with that, I'd better leave.
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 00004419
 
@@ -691,10 +672,7 @@ Damian:
 \n
 We all have someone to blame, don't\n
 we? Why do humans give in to the cycle?
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 
 // Pos: 000044D6
 
@@ -717,8 +695,5 @@ Damian:
 \n
 Stop calling on me back-to-back,\n
 over and over! I hate it!
-<$1E>
-//炎
-炎
-<$00>
+<$1E><$03><$02><$00>
 

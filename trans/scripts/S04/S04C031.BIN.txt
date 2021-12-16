@@ -44,10 +44,7 @@ Sammy:
 \n
 Are you playing hide-and-seek with\n
 that cute woman running around?
-<$1E>
-//ÅZ
-ÅZ
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 0000244C
 
@@ -63,10 +60,7 @@ Sammy:
 \n
 If you look in the area,\n
 I'm sure you'll find her.
-<$1E>
-//ÅZ
-ÅZ
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 0000246B
 
@@ -98,10 +92,7 @@ Tommy:
 \n
 Whew. Every day, morning to night,\n
 I'm...always so sleepy...
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000024F0
 
@@ -127,10 +118,7 @@ Rummy:
 \n
 You're friend's lost, isn't she. Yeah,\n
 she must be in Valles Memoriae, a-ha!
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002545
 
@@ -146,8 +134,5 @@ Rummy:
 \n
 Those who get lost wind up\n
 in Valles Memoriae, a-ha!
-<$1E>
-//âä
-âä
-<$00>
+<$1E><$03><$02><$00>
 

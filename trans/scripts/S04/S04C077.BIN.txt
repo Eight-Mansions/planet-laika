@@ -88,10 +88,7 @@ Gold:
 \n
 I should mention: Crow has the\n
 ability to peer into people's dreams.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002C47
 
@@ -110,11 +107,7 @@ Gold:
 //\nそうかい、お前もやけに早耳だな。
 \n
 Really, now? Guess you're pretty\n
-keen.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002C66
 
@@ -135,9 +128,7 @@ Gold:
 I wonder why Red went out. He ain't\n
 exactly one to "frolick in the fields".
 <$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00002C94
 
@@ -179,10 +170,7 @@ You haven't been drinking since\n
 this morning, have you?
 <$0C>
 Might be time to tap out.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002D0C
 
@@ -198,10 +186,10 @@ Gold:
 \n
 You're the one Red's looking for,\n
 right? Must've caught his fancy.
-<$1E>
-//家
-家
-<$00><$12><$0B>
+<$1E><$02>
+//軌
+軌
+<$12><$0B>
 //ゴールド：
 Gold:
 <$0D>
@@ -265,10 +253,7 @@ Gold:
 //\nどこかに身を隠した方がいいんじゃねぇのか？
 \n
 Shouldn't you be hiding somewhere?
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002E34
 
@@ -290,10 +275,7 @@ The heck happened to Cosmas?
 <$0C>
 There'll be a shitstorm once\n
 Red comes back and sees him.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002E61
 
@@ -327,10 +309,7 @@ Gold:
 \n
 It's not safe. Could it be your friend?\n
 Are companions good people?
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002EE0
 
@@ -346,10 +325,7 @@ Gold:
 \n
 A white sheet of paper can be turned\n
 any color you pick.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002F03
 
@@ -373,10 +349,7 @@ Gold:
 \n
 There's no saving him now.\n
 That guy's capital F-A-R-gone.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002F5F
 
@@ -399,10 +372,7 @@ Gold:
 //\nほんとだぜ、泡のおじさんだ。
 \n
 Yup, Uncle Bubbles is thin air to me.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002FA5
 
@@ -426,10 +396,7 @@ Gold:
 \n
 Red, Red, Red... I wonder what\n
 happened to that sick pup.
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00002FCC
 
