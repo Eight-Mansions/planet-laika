@@ -50,10 +50,7 @@ Oxygen Miner 3ÅF
 \n
 HEy, ArE yOU hErE fOr thE mIrrOr? NO,\n
 It's my tUrn nOw!
-<$1E>
-//çs
-çs
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00000ADE
 
@@ -72,8 +69,5 @@ bEfOre...
 <$0C>
 ...bUt thIs Is thE fIrst\n
 I'vE sEEn yOU.
-<$1E>
-//íÜ
-íÜ
-<$00>
+<$1E><$01><$04><$00>
 

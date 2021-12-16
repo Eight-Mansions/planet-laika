@@ -238,10 +238,7 @@ Sammy:
 \n
 You don't want to get caught\n
 up in anyone's junk, a-nope.
-<$1E>
-//ñÈ
-ñÈ
-<$00>
+<$1E><$01><$12><$00>
 
 // Pos: 00003278
 
@@ -431,10 +428,7 @@ Tommy:
 \n
 Sorry, comrade, but I can't see them.\n
 Disappointing, ain't it?
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000034CD
 

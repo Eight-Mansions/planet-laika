@@ -11,8 +11,9 @@
 
 #WHB(PTR, $000004A9)
 
-//野あ、レッドボーイ、\nサンタのおじさんだよ。
-野Yes, Red Boy!\n
+<$02>
+//やあ、レッドボーイ、\nサンタのおじさんだよ。
+Yes, Red Boy!\n
 It's me, Uncle Santa!
 <$00>
 
@@ -38,7 +39,8 @@ Get lost! Disappear!
 
 #WHB(PTR, $000004CD)
 
-//広じさんに向かってひどいじゃないか。\n可愛いおしりをひんむいちゃうぞ。
+<$02>
+//おじさんに向かってひどいじゃないか。\n可愛いおしりをひんむいちゃうぞ。
 Isn't that a rude thing\n
 to say to your uncle?
 <$0C>
@@ -67,7 +69,8 @@ S-screw you! Drop dead!
 
 #WHB(PTR, $000004F1)
 
-//仮い言葉はいけないよ。\nさあ、一緒に遊ぼう、青少年の家で遊ぼう。
+<$02>
+//悪い言葉はいけないよ。\nさあ、一緒に遊ぼう、青少年の家で遊ぼう。
 Watch your mouth! Come on, let's\n
 play together. That's right, we're\n
 going back in the dog house.
@@ -94,8 +97,9 @@ No, I won't go! I WON'T!
 
 #WHB(PTR, $00000515)
 
-//勢ンスの時間だ、ボーイ。
-勢It's time to dance, Boy!
+<$02>
+//ダンスの時間だ、ボーイ。
+It's time to dance, Boy!
 <$00>
 
 // Pos: 00001452

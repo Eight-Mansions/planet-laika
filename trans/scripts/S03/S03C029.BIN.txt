@@ -226,8 +226,9 @@ engraving on the wall. Let me see...
 
 #WHB(PTR, $00001399)
 
-//子トーマス：
-子Thomas:
+<$01><$0B>
+//トーマス：
+Thomas:
 <$0D>
 //\n夜になると鏡の中に現れる、\nそういうウワサが広まっているが、\n私はまだ見たことはない。
 \n
@@ -433,8 +434,9 @@ from what me and the guys are.
 
 #WHB(PTR, $00001525)
 
-//子トーマス：
-子Thomas:
+<$01><$0B>
+//トーマス：
+Thomas:
 <$0D>
 //\n問顆は心も欲しがるかということだ。
 \n

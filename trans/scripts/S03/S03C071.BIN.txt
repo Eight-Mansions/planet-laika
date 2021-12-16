@@ -251,8 +251,9 @@ it was her first time seein' anythin.
 
 #WHB(PTR, $000009AD)
 
-//笑うしたのリトル？\nあなた、まさか
-笑What's wrong, Little?\n
+<$01>
+//どうしたのリトル？\nあなた、まさか
+What's wrong, Little?\n
 Should we be concerned?
 <$00>
 
@@ -359,10 +360,7 @@ Little:
 //\n俺の中で何が起きてるんだ？
 \n
 Oi, what's going on inside my head?!
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00001C84
 

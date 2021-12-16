@@ -11,10 +11,7 @@
 
 #WHB(PTR, $000006F1)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -51,10 +48,7 @@ DIALOGUE WAS?
 
 #WHB(PTR, $00000729)
 
-<$13><$13>
-//（
-（
-<$0B>
+<$13><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -72,10 +66,7 @@ THE ROBOT'S MADE FOR HOUSEWORK!"
 
 #WHB(PTR, $0000074D)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -110,10 +101,7 @@ WHO COULD SAY SUCH A THING?
 
 #WHB(PTR, $00000781)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -153,10 +141,7 @@ DID, AND HAD FORGOTTEN IT LONG AGO.
 
 #WHB(PTR, $00000809)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -179,10 +164,7 @@ PLEASE WAIT, JUST A LITTLE LONGER.
 
 #WHB(PTR, $00000BA9)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -198,10 +180,7 @@ Yolanda:
 \n
 Hey, I don't sound like that! Try\n
 something cute, like, "Oh-lala!"
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -228,12 +207,7 @@ Yolanda:
 \n
 Listen dip, if you're on one or\n
 something, don't take it out on me.
-<$0C>
-Tsk, tsk.
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -268,10 +242,7 @@ until the day I die!
 <$0C>
 And I'll make sure\n
 NO ONE forgets it!
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -295,10 +266,7 @@ GET HEAD-STRONGER TOO.
 
 #WHB(PTR, $00000BB1)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -314,10 +282,7 @@ Yolanda:
 \n
 Good! So, do I win a prize or\n
 something?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -333,10 +298,7 @@ WOMAN, WOMAN, WOMAN...
 
 #WHB(PTR, $00000B31)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -354,10 +316,7 @@ Ernest:
 \n
 What are you talking about?\n
 Talk however you want to talk.
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -390,10 +349,7 @@ Ernest:
 \n
 Who's sizing up who here? You on the\n
 fritz or something, little guy?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -415,10 +371,7 @@ Ernest:
 \n
 Ahh, I get it. You ARE sizing me up!\n
 Wanna fight, buddy?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -443,10 +396,7 @@ HERE. SIZE THIS UP INSTEAD.
 
 #WHB(PTR, $00000B3D)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -464,10 +414,7 @@ Ernest:
 \n
 I'll say. Got anything else for me,\n
 champ?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -483,10 +430,7 @@ TO SAVE, OR TO WASTE...
 
 #WHB(PTR, $00000B6D)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -504,10 +448,7 @@ Spacer:
 \n
 Before you went crazy? How come?\n
 Tell me, what's wrong with humans?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -541,10 +482,7 @@ Spacer:
 \n
 ...No, I imagine it's a tougher nut to\n
 crack than that.
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -568,10 +506,7 @@ Spacer:
 \n
 Oh, like the Venusians? You must be\n
 a Psycho type too. Small world!
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -589,10 +524,7 @@ YOU RETURN TO YOUR SENSES.
 
 #WHB(PTR, $00000B79)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -610,10 +542,7 @@ Spacer:
 \n
 Is that it? You don't have anything\n
 else for me?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -637,10 +566,7 @@ Yolanda:
 \n
 Hey, do you have anything for me?\n
 A little souvenir, perhaps?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -662,10 +588,7 @@ Yolanda:
 //\nもうないの、まだあるでしょ。ねぇ！
 \n
 Really? Nothing at all? Damn!
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -687,10 +610,7 @@ Ernest:
 //\nおいオンボロ！ なんかよこせ。
 \n
 Hey, robot. Give me something.
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -716,10 +636,7 @@ Ernest:
 //\nこれだけか。まだあるだろ、もっとよこせ！
 \n
 That's it? Come on, give me more.
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -742,10 +659,7 @@ Spacer:
 \n
 Hey, do you have anything\n
 useful for me?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -769,10 +683,7 @@ Spacer:
 \n
 You really don't have anything else?\n
 Nothing worth my while?
-<$0C><$13>
-//（
-（
-<$0B>
+<$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -790,10 +701,7 @@ YOURS ALL THE DAMN TIME.
 
 #WHB(PTR, $000009A5)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -809,10 +717,7 @@ I DO NOT HAVE ANYTHING FOR YOU.
 
 #WHB(PTR, $000008A5)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -838,10 +743,7 @@ HUMANS BREAK EASILY.
 
 #WHB(PTR, $00000911)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -865,10 +767,7 @@ BE, BUT I DOUBT IT IS ILL WILL ALONE.
 
 #WHB(PTR, $000008F9)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -896,10 +795,7 @@ THE LIFE OUT OF EVERYTHING!
 
 #WHB(PTR, $00000A3D)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
@@ -922,10 +818,7 @@ I AM ALSO GETTING HINTS OF TEETH.
 
 #WHB(PTR, $000008C1)
 
-<$12><$13>
-//（
-（
-<$0B>
+<$12><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>

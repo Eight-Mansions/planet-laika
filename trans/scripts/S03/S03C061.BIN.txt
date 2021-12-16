@@ -31,10 +31,7 @@ Liever:
 \n
 You looking for it means you don't\n
 understand what's going on.
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 000016B0
 
