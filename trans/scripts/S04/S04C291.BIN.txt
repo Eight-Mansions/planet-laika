@@ -116,10 +116,7 @@ Tommy:
 \n
 That's why you want Herod, a-yup...\n
 Brrrp! Ick, don't mind me. I'm just...
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 00002276
 
@@ -135,10 +132,7 @@ Tommy:
 \n
 Ick, I feel sick. I drank too much this\n
 time around. 
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000022A2
 
@@ -338,10 +332,7 @@ That reminds me. Go check out\n
 Psycho Lab. The guys there
 <$0C>
 experiment with radio waves.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 00002584
 
@@ -365,10 +356,7 @@ Tommy:
 \n
 Must be why they like experimenting\n
 with radio waves.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000025CA
 
@@ -400,10 +388,7 @@ Tommy:
 \n
 Give it a good look sometime,\n
 comrade.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 0000263B
 
@@ -488,8 +473,5 @@ Madam Agatha:
 \n
 Mars possesses a vile power. Don't\n
 let that power swallow you whole.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 

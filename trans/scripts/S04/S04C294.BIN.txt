@@ -82,10 +82,7 @@ Feng:
 <$0C>
 Come and see. Let cosmetic\n
 surgery cleanse your mind.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000021BD
 
@@ -128,10 +125,7 @@ Madam Agatha:
 \n
 And, unlike Feng, Veronica does not\n
 lie.
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 0000227E
 
@@ -170,10 +164,7 @@ Marrakech:
 \n
 It sounds like they started a new one\n
 out at the lodge. They're relentless!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 0000231C
 
@@ -189,8 +180,5 @@ Marrakech:
 \n
 Those shaman guys are truly\n
 relentless!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 

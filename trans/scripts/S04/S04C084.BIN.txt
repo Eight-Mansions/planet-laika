@@ -142,10 +142,7 @@ East:
 //\nŠJ‚¯‚ëB‚±‚±‚ğ
 \n
 Is he inside?
-<$1E>
-//Z
-Z
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 0000255C
 
@@ -164,10 +161,7 @@ West:
 //\nŠJ‚¯‚é‚ñ‚¾BƒŠƒgƒ‹‚³‚ñ‚Í‚«‚Á‚Æ’†‚¾B
 \n
 Little must be inside! Open the door!
-<$1E>
-//Z
-Z
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 0000257D
 
@@ -183,10 +177,7 @@ Tommy:
 \n
 Hyahya, sounds like something's\n
 flying, doesn't it? You hear it, right?
-<$1E>
-//º
-º
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000025B8
 
@@ -219,10 +210,7 @@ I'm flying, I'm flying!
 <$0C>
 Hehe, only touching the green\n
 flash will break their spell!
-<$1E>
-//º
-º
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002620
 
@@ -240,10 +228,7 @@ That's shamanic magic!
 <$0C>
 Hehe, only touching the green\n
 flash will break their spell!
-<$1E>
-//‰Æ
-‰Æ
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 0000264C
 
@@ -295,10 +280,7 @@ Tommy:
 \n
 The same green light flashed in my\n
 head, just like last time.
-<$1E>
-//º
-º
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000026EB
 
@@ -314,10 +296,7 @@ Tommy:
 \n
 This flashing's gotta be because\n
 of the magic dance, a-yup.
-<$1E>
-//‰Æ
-‰Æ
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 0000270B
 
@@ -515,8 +494,5 @@ Cosmas:
 \n
 I suppose Liever and that someone\n
 have much to discuss.
-<$1E>
-//—
-—
-<$00>
+<$1E><$03><$08><$00>
 

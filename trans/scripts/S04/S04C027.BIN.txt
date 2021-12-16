@@ -29,10 +29,7 @@ Ohhh, what I cannot see...
 <$0C>
 ...are the eyeballs and other 
 oddities etched on the walls.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 000013A8
 
@@ -48,10 +45,10 @@ Boomer:
 \n
 Ohhh, I can't see it.\n
 I can't see it, I can't see it...
-<$1E>
-//家
-家
-<$00><$10><$0B>
+<$1E><$02>
+//軌
+軌
+<$10><$0B>
 //ブーマー：
 Boomer:
 <$0D>
@@ -75,10 +72,7 @@ Boomer:
 \n
 It still doesn't fit...\n
 What's going on?
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001412
 
@@ -93,10 +87,7 @@ Boomer:
 //\nレッドのやつだ、\nさがしてたぜ、あんたのこと。
 \n
 Red's out there looking for you.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001436
 
@@ -118,10 +109,7 @@ Ohhh, there's a strange crackle\n
 crackling around here.
 <$0C>
 Crackle, crackle...
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001465
 
@@ -137,10 +125,7 @@ Boomer:
 \n
 Is the brain crackling still\n
 underway? Will it be over soon?
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 0000148E
 
