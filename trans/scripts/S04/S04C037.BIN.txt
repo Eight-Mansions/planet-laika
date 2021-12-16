@@ -126,12 +126,9 @@ Tommy:
 \n
 Hehe, it smells like an early-morning\n
 barbeque out here!
-<$1E>
-//声
-声
-<$00><$10><$11>
-//子リトル：
-子Little:
+<$1E><$02><$08><$00><$10><$11><$01><$0B>
+//リトル：
+Little:
 <$0D>
 //\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
 \n
@@ -229,10 +226,10 @@ Sammy:
 //\nそうよ、女っぽかったのよ。\nこれでもアタシ…
 \n
 Yeah, another woman like me...
-<$1E>
-//中
-中
-<$00><$11><$0B>
+<$1E><$01>
+//軌
+軌
+<$11><$0B>
 //ブーマー：
 Boomer:
 <$0D>
@@ -276,10 +273,7 @@ Sammy:
 \n
 They're always making weird\n
 crackling noises.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00003DBA
 
@@ -310,10 +304,7 @@ Sammy:
 \n
 Then that means there are others\n
 like me! Heehee, what fun! 
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00003E16
 
@@ -385,10 +376,7 @@ Tommy:
 \n
 How will it come to me, comrade?\n
 And how will it come to you?
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00003F16
 

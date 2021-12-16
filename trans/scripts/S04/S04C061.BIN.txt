@@ -135,10 +135,10 @@ The closer my face gets to looking\n
 human, the more I feel human.
 <$0C>
 It makes me feel blissful.
-<$1E>
-//Z
-Z
-<$00><$12><$0B>
+<$1E><$01>
+//ˆõ
+ˆõ
+<$12><$0B>
 //ƒ}ƒ‰ƒPƒVƒ…F
 Marrakech:
 <$0D>
@@ -295,10 +295,10 @@ Veronica:
 \n
 I hate Smokey. I'd rather he died.\n
 If you ever met him, you'd agree.
-<$1E>
-//‰s
-‰s
-<$00><$13><$13><$19><$0B>
+<$1E><$03>
+//‹O
+‹O
+<$13><$13><$19><$0B>
 //ƒ”ƒFƒƒjƒJF
 Veronica:
 <$0D>
@@ -316,10 +316,7 @@ Veronica:
 When the mirror is complete,\n
 Edge will return. He'll return\n
 once everyone else is dead.
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002325
 
@@ -358,10 +355,7 @@ Linda:
 \n
 You look spick-and-span, though.\n
 Are you here to get Vanity Face?
-<$1E>
-//Z
-Z
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 000023A6
 
@@ -377,10 +371,7 @@ Linda:
 \n
 If you want Marrakech,\n
 check Brick Road.
-<$1E>
-//Z
-Z
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 000023C5
 
@@ -404,10 +395,7 @@ Linda:
 \n
 I wondered who's better looking\n
 but I've opened a can of worms.
-<$1E>
-//Z
-Z
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 00002404
 
@@ -430,8 +418,5 @@ Linda:
 //\n‚ ‚ñ‚½‚Ì‚±‚ÆA‚³‚ª‚µ‚Ä‚½‚æ[B
 \n
 She was looking for you.
-<$1E>
-//Z
-Z
-<$00>
+<$1E><$01><$02><$00>
 

@@ -81,10 +81,7 @@ Tommy:
 \n
 I'm serious! I just saw Red,\n
 and he's on the prowl for YOU!
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001A96
 
@@ -100,10 +97,7 @@ Tommy:
 \n
 Watch out! I just saw Red,\n
 and he's on the prowl for YOU!
-<$1E>
-//â∆
-â∆
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00001AD5
 
@@ -222,10 +216,7 @@ Boomer thinks the old man died\n
 because of him, a-yup.
 <$0C>
 He might be right.
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001CD5
 
@@ -248,10 +239,7 @@ Tommy:
 \n
 Hehe, be careful around people\n
 who put their necks out like that.
-<$1E>
-//â∆
-â∆
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00001D0E
 
@@ -274,10 +262,7 @@ Tommy:
 \n
 He's always talking about his\n
 hiccupping grandpa.
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001D4B
 
@@ -311,10 +296,7 @@ Hehe, that Boomer guy finally lost it.
 <$0C>
 The monsters in his mind are finally\n
 having their ball.
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00001DAC
 

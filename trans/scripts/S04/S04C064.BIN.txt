@@ -193,10 +193,7 @@ Madam Agatha:
 \n
 To see me, come to my room, and\n
 Touch the crystal ball.
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 000023A9
 
@@ -251,10 +248,7 @@ Linda:
 \n
 For your own sake, I suggest you\n
 avoid his ilk like the plague.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002457
 
@@ -273,10 +267,7 @@ and the day after that...
 <$0C>
 If they don't come,\n
 what'll we do?
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00002484
 
@@ -319,10 +310,7 @@ Linda:
 \n
 Weird, right? It'll even\n
 do it in the morning!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000024F5
 
@@ -340,10 +328,7 @@ How weird. It's always lights-out\n
 time, feels like.
 <$0C>
 Maybe the bed's speaker is busted.\n
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00002529
 
@@ -394,10 +379,7 @@ Linda:
 \n
 I'd tell you more, but Marrakech is on\n
 my ass, and it's killing my mood.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000025DD
 
@@ -421,10 +403,7 @@ Linda:
 \n
 I'd tell you more, but Marrakech is on\n
 my ass, and it's killing my mood.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00002643
 
@@ -439,10 +418,7 @@ Linda:
 //\nヴァニティフェイスのこと、\n後でねー、教えてあげるー。
 \n
 I'll tell you all about Vanity Face later.
-<$1E>
-//〇
-〇
-<$00>
+<$1E><$01><$02><$00>
 
 // Pos: 0000266C
 
@@ -468,10 +444,10 @@ Linda:
 \n
 They think they're so helpless!\n
 Sad, don't you think?
-<$1E>
-//中
-中
-<$00><$10><$0B>
+<$1E><$01>
+//軌
+軌
+<$10><$0B>
 //イースト：
 East:
 <$0D>

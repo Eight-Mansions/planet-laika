@@ -349,10 +349,7 @@ Little:
 \n
 ...Hmph. Excuse me while I speak\n
 to the pair outside.
-<$1E>
-//‰Æ
-‰Æ
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 0000235F
 

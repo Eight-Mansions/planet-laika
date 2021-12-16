@@ -147,8 +147,9 @@ I don't like it here.
 
 #WHB(PTR, $00000431)
 
-//裂に
-裂に
+<$02><$12>
+//に
+に
 <$0B><$0D>
 //約束だコスマス。\nお前を苦悩から解き放ってやる、\n今がその時だ。
 Rest assured, Cosmas.\n
@@ -178,7 +179,8 @@ cloth again going to do that?
 
 #WHB(PTR, $00000459)
 
-//裂に痛みには耐えるのだ。\n耐えねばならん。 それで苦悩は去る。
+<$02><$12>
+//に痛みには耐えるのだ。\n耐えねばならん。 それで苦悩は去る。
 \n
 Face your pain. If you can endure it\n
 now, your suffering will go away.
@@ -342,10 +344,7 @@ If he sees Cosmas now,\n
 his hatred will take over.
 <$0C>
 There'd be no turning back.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000038F1
 
@@ -363,10 +362,7 @@ If Red sees Cosmas's face, he'll riot.\n
 You'd both better keep away from
 <$0C>
 Red.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 0000392C
 
@@ -402,10 +398,7 @@ It's like I'm really focused on\n
 something, but not my own thoughts.
 <$0C>
 It's like I'm someone else.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000039BD
 
@@ -432,10 +425,10 @@ Linda:
 \n
 But, I'd never be caught dead around\n
 those places. Not now, not ever!
-<$1E>
-//中
-中
-<$00><$12><$0B>
+<$1E><$01>
+//軌
+軌
+<$12><$0B>
 //リンダ：
 Linda:
 <$0D>
@@ -545,10 +538,7 @@ job Earth gave you.
 <$0C>
 That way, you could get\n
 your face done on the side!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00003BC7
 
@@ -607,10 +597,7 @@ job Earth gave you.
 <$0C>
 That way, you could get\n
 your face done on the side!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00003CBD
 
@@ -626,10 +613,10 @@ Linda:
 \n
 Oh, what happened to your face?\n
 You're a dog again, aren't you...
-<$1E>
-//中
-中
-<$00><$12><$0B>
+<$1E><$01>
+//軌
+軌
+<$12><$0B>
 //コスマス：
 Cosmas:
 <$0D>

@@ -511,8 +511,5 @@ Madam Agatha:
 \n
 Oh, dear... Now I'm starting to sound\n
 like Feng, aren't I.
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 

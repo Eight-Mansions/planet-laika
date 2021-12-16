@@ -150,10 +150,7 @@ Tommy:
 //\nヤバイヤバイってな。
 \n
 This is real bad, a-yup.
-<$1E>
-//声
-声
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00000EB2
 
@@ -169,8 +166,5 @@ Tommy:
 \n
 Hehe, Red went the other way. You'll\n
 want to do go the OTHER-other way.
-<$1E>
-//家
-家
-<$00>
+<$1E><$02><$04><$00>
 
