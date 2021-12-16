@@ -227,10 +227,7 @@ Tommy:
 //\nâ¥ÅAÇ±ÇÒÇ»Ç”Ç§Ç…ÇµÇ·Ç◊Ç¡ÇΩÇ©ÅH
 \n
 Hey, did I say something weird?
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002C28
 
@@ -246,10 +243,7 @@ Tommy:
 \n
 I knew it! Those eyeballs were real\n
 after all, a-yup.
-<$1E>
-//â∆
-â∆
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00002C53
 
