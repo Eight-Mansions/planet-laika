@@ -29,9 +29,9 @@ How is April?
 
 #WHB(PTR, $000005DD)
 
-<$11><$11>
-//子マダム・アガタ：
-子Madam Agatha:
+<$11><$11><$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n記憶の谷はなくした記憶が\nよみがえる場所と言われているわ。\nでもそれは本当の記憶じゃないのよ。
 \n
@@ -48,9 +48,9 @@ memories are always true.
 
 #WHB(PTR, $000005ED)
 
-<$10><$11>
-//子マダム・アガタ：
-子Madam Agatha:
+<$10><$11><$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nこの星の力で歪んでしまった、ウソの思い出…
 \n
@@ -67,9 +67,9 @@ projections for true recollections.
 
 #WHB(PTR, $000005FD)
 
-<$10><$11>
-//子マダム・アガタ：
-子Madam Agatha:
+<$10><$11><$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nそれに憑かれてしまうと、\n元の状態に戻すのが大変なの…
 \n
@@ -83,9 +83,9 @@ recovering will be no easy feat.
 
 #WHB(PTR, $00000609)
 
-<$10><$11>
-//子マダム・アガタ：
-子Madam Agatha:
+<$10><$11><$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nエイプリルが変な記憶に\nとらわれてなければいいんだけど…
 \n
@@ -215,10 +215,7 @@ Madam Agatha:
 \n
 I wanted to speak with the other\n
 Feng. You can come too.
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 000035A1
 
@@ -242,10 +239,7 @@ Madam Agatha:
 \n
 Moreover, I wanted to speak with\n
 the other Feng. You can come too.
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 000035FA
 
@@ -368,8 +362,9 @@ exist to teach us powerful lessons.
 
 #WHB(PTR, $00000A25)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n見えてきたわ… 白い部屋よ…
 \n
@@ -422,8 +417,9 @@ sure. Everyone is under the ice.
 
 #WHB(PTR, $00000C8D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nディセンバー、春のような１２月よ。\n１台のバスが見えるわ。
 \n
@@ -437,8 +433,9 @@ I see a bus in the distance.
 
 #WHB(PTR, $00000CAD)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n小さな男の子の手を引いた…\n男の子はあなたね、あなたとお母さんよ、\nふたりがバスから降りてくる。
 \n
@@ -472,8 +469,9 @@ Sergei. His eyes are so, so dark.
 
 #WHB(PTR, $00000A7D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nフェブラリー、凍える２月ね。
 \n
@@ -504,8 +502,9 @@ basement stairs. They speak.
 
 #WHB(PTR, $00000A9D)
 
-//X（いだろ、
-X（It's cold, isn't it, 
+<$01>
+//寒いだろ、
+寒It's cold, isn't it, 
 <$0F>
 //、\n俺があたためてやるぜ…
 ?\n
@@ -518,8 +517,8 @@ Here, I'll warm you up!
 
 #WHB(PTR, $00000AAD)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
 <$0D>
 //\nこの声の主はセルゲイね。
 \n
@@ -532,8 +531,8 @@ The voice is Sergei's.
 
 #WHB(PTR, $00000ABD)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
 <$0D>
 //\n煙、白い煙が見える…\n火？ 建うわ、あれは火じゃない、\n真っ赤になった火かき棒よ。
 \n
@@ -565,8 +564,9 @@ You faint. The pain is too much.
 
 #WHB(PTR, $00000BCD)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nオーガスト、寝付けない８月の夜よ。\n見えているのはキッチンね…
 \n
@@ -588,8 +588,9 @@ banging together. A revolting scene.
 
 #WHB(PTR, $00000BED)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nウラジミールよ、わめきながら暴れてる…\nいろんな物を壊している、
 \n
@@ -619,8 +620,9 @@ She must have been struck.
 
 #WHB(PTR, $00000B5D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nジュン、悲しみの６月よ。\nまたキッチンね… 今度は夜じゃないわね、
 \n
@@ -658,8 +660,9 @@ situation.
 
 #WHB(PTR, $00000C0D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nセプテンバーは９月、実りのときね。\n今までとは建う惑じね… うまく見えないわ。\nちょっと待ってね…
 \n
@@ -673,8 +676,9 @@ ripe with uncertainty. Wait...
 
 #WHB(PTR, $00000C2D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n夜のキッチンね。 でも今度は静かね…\nあなたとタニア母さんが見えるわ、\n何かひそひそ話し合ってる…
 \n
@@ -695,8 +699,9 @@ Something scary is about to happen.
 
 #WHB(PTR, $00000ADD)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nマーチは３月、芽吹く春ね。\nでもやっぱり様子が変よ、\nこんな風になったことはなかった…
 \n
@@ -710,8 +715,9 @@ But this is strange... Too strange.
 
 #WHB(PTR, $00000AFD)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nあああ、真っ赤な炎よ、夜を染める炎…\n火事みたいね。 誰かが叫んでる…
 \n
@@ -741,8 +747,9 @@ sense of.
 
 #WHB(PTR, $00000C4D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n冷たい霧の朝、１１月…\n制服を着た男がふたり、ポーチにいるわ。\nはげしくドアをノックしてる…
 \n
@@ -758,8 +765,9 @@ banging the door.
 
 #WHB(PTR, $00000C6D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n出てきたのはセルゲイよ。\n左右の手が後ろに…
 \n
@@ -781,8 +789,9 @@ The foggy curtain is lifted.
 
 #WHB(PTR, $00000A31)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nジャニュアリー、始まりの１月よ。\n見えるのは…
 \n
@@ -807,8 +816,9 @@ strewn about this strange home.
 
 #WHB(PTR, $00000A5D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n誰か… 人がうつぶせになっている…
 \n
@@ -838,8 +848,9 @@ of a robbery. My heart aches.
 
 #WHB(PTR, $00000B1D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nメイは５月、光の月ね。\n見えているのは…
 \n
@@ -869,8 +880,9 @@ but you're very far away.
 
 #WHB(PTR, $00000B3D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n部屋の中みたいね…\nクロゼットの前であなたとお母さん、誰の…
 \n
@@ -895,8 +907,9 @@ but it's open. That's all I can tell.
 
 #WHB(PTR, $00000B8D)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n風が心地よい朝、７月… なのに、光はないわ。\nうっすらと人の影、あれはウラジミールね。
 \n
@@ -910,8 +923,9 @@ but there is no light in this home.
 
 #WHB(PTR, $00000BAD)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nウラジミールがキッチンにいるわ、\nしゃがみ込んでる。
 \n
@@ -936,8 +950,9 @@ He's in pain, as if about to die.
 
 #WHB(PTR, $00000CE1)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nあら、これは… マラケシュのアレね…
 \n
@@ -950,8 +965,9 @@ Oh? This is...Marrakech's, is it?
 
 #WHB(PTR, $00000D01)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nちょっと待って…\n見えるわ、マラケシュよ、誰かのあとを…
 \n
@@ -977,8 +993,9 @@ be seen. What is this about?
 
 #WHB(PTR, $00000D45)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nリンダよ、\nマラケシュはリンダをさぐってるのよ…
 \n
@@ -1011,8 +1028,9 @@ she's saying.
 
 #WHB(PTR, $00000D65)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nあら、ブーマーのアレよね…
 \n
@@ -1046,8 +1064,9 @@ I wonder what the matter is.
 
 #WHB(PTR, $00000DB9)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nブリックロードよ…\n赤い家の中にブーマーがいるわ。
 \n
@@ -1071,8 +1090,9 @@ This isn't the Boomer I know.
 
 #WHB(PTR, $00000DD9)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\nこれは…\nクロウのアレだわ、ずいぶんと古そうね。
 \n
@@ -1108,8 +1128,9 @@ Crow is digging the corpse back up...!
 
 #WHB(PTR, $00000E29)
 
-//子マダム・アガタ：
-子Madam Agatha:
+<$01><$0B>
+//マダム・アガタ：
+Madam Agatha:
 <$0D>
 //\n地下室みたいなところよ、\n古びたコンロが見えるわ、\n上にナベが乗ってる、
 \n

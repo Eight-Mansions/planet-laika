@@ -129,10 +129,7 @@ There's nothing wrong with me!
 <$0C>
 My playfulness is my most\n
 redeeming feature! 
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002750
 
@@ -181,10 +178,7 @@ Marrakech:
 //\nそうよねぇ、そうこなくちゃ。
 \n
 You'd better be.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000027E6
 
@@ -245,10 +239,7 @@ Marrakech:
 \n
 What are you going to do NOW huh?\n
 Keep acting like you give a damn?
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000028A9
 
@@ -264,10 +255,7 @@ Marrakech:
 \n
 Damn Red to Hell! He hit me right in the\n
 face!
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000028D1
 
@@ -291,10 +279,7 @@ Marrakech:
 \n
 Do people down on Earth like that\n
 face of hers?
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002920
 
@@ -325,10 +310,7 @@ Marrakech:
 //\nそうよ、いただけないわ。
 \n
 Yes, very off!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002993
 
@@ -344,10 +326,7 @@ Marrakech:
 \n
 That lass is very charming in your\n
 eyes, isn't she? I'm sure of it.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000029C6
 
@@ -371,10 +350,7 @@ Marrakech:
 \n
 I'm happy someone let him have it.\n
 That's what he gets for hitting me!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00002A1E
 
@@ -394,10 +370,7 @@ Marrakech:
 \n
 I hope that filth finally gets\n
 his just desserts hitting me.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00002A48
 
@@ -405,8 +378,8 @@ his just desserts hitting me.
 
 #WHB(PTR, $00000A45)
 
-<$10><$11>
-//子リトル：
+<$10><$11><$01><$0B>
+//リトル：
 Little:
 <$0D>
 //\nなんで俺が…\nくそっ！俺が俺が、こんなところで！
