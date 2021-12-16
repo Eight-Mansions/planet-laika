@@ -45,10 +45,7 @@ Oxygen Miner 3：
 \n
 ThAt wAs whEn I rEAlIzEd jUst hOw\n
 crUEl actUAlIty cAn bE.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000033A6
 
@@ -64,10 +61,7 @@ Oxygen Miner 3：
 \n
 ActUAlIty wIll AlwAys hAvE Its hOOks\n
 In mE. ThAt mUch Is trUE.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000033DE
 

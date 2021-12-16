@@ -11,10 +11,7 @@
 
 #WHB(PTR, $000006A9)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -39,10 +36,7 @@ Why else would you be here?
 
 #WHB(PTR, $00000CC5)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -58,10 +52,7 @@ your body to my Chloe! She's waiting!
 
 #WHB(PTR, $00000C6D)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -80,10 +71,7 @@ your purpose.
 
 #WHB(PTR, $00000CE9)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -114,10 +102,7 @@ she's happy. I hope she's so happy.
 
 #WHB(PTR, $00000C51)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -136,10 +121,7 @@ they go.
 
 #WHB(PTR, $00000D11)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -165,10 +147,7 @@ stopped, so there's no going.
 
 #WHB(PTR, $00000D21)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -187,10 +166,7 @@ the tears can I turn back time.
 
 #WHB(PTR, $00000D31)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -226,10 +202,7 @@ you might understand me a little.
 
 #WHB(PTR, $00000B01)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -260,10 +233,7 @@ Turn back? To where?
 
 #WHB(PTR, $000007B9)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -278,10 +248,7 @@ Think. Think long and hard...
 
 #WHB(PTR, $00000A91)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -308,10 +275,7 @@ sad. A signpost is useless if it's sad.
 
 #WHB(PTR, $000007DD)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -334,10 +298,7 @@ No
 
 #WHB(PTR, $00000D3D)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -352,10 +313,7 @@ I'm a useless signpost.
 
 #WHB(PTR, $000007FD)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -371,10 +329,7 @@ Let's prepare to turn back.
 
 #WHB(PTR, $00000D49)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -422,10 +377,7 @@ the smartass to interpret this?
 
 #WHB(PTR, $00000BC9)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -441,10 +393,7 @@ useful.
 
 #WHB(PTR, $00000AF9)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -483,10 +432,7 @@ Yolanda:
 \n
 Sorry, 'cap. Even I have my limits on\n
 who can cry on my shoulder.
-<$00><$10><$13>
-//く
-く
-<$0B>
+<$00><$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -516,10 +462,7 @@ What shape would I take...?
 
 #WHB(PTR, $0000047D)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -577,10 +520,7 @@ sure...
 
 #WHB(PTR, $000004A1)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>
@@ -614,10 +554,7 @@ more time?
 
 #WHB(PTR, $0000054D)
 
-<$10><$13>
-//く
-く
-<$0B>
+<$10><$13><$41><$0B>
 //道しるべ：
 Signpost:
 <$0D>

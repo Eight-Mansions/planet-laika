@@ -89,10 +89,7 @@ Tommy:
 \n
 But the gate's closed.\n
 Just our luck, a-yup.
-<$1E>
-//‰Æ
-‰Æ
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00003B3B
 
@@ -108,10 +105,7 @@ Tommy:
 \n
 If only we could squeeze through\n
 this thing and get to Ice Lake.
-<$1E>
-//‰Æ
-‰Æ
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00003B65
 

@@ -41,10 +41,7 @@ Oxygen Miner 1：
 //\n力がみなぎって、\n代わりに歌を忘れた。
 \n
 So much power, forgot how to sing.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000014F3
 
@@ -60,9 +57,7 @@ Oxygen Miner 1：
 \n
 Argh, power worthless.\n
 Can't sing with it.
-<$1E>
-//中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00001522
 

@@ -132,10 +132,7 @@ Crow:
 \n
 And right when I made it to that house\n
 with the eyeball, I fainted.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 0000120D
 
@@ -151,8 +148,5 @@ Crow:
 \n
 But I'm not scared. I've got the\n
 glowing stone to protect me.
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
