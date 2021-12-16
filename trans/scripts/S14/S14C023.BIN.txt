@@ -35,10 +35,7 @@ Rummy:
 \n
 He's lurking around the colony now,\n
 supposedly searching for someone.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00003FEF
 
@@ -58,12 +55,7 @@ It's me, Rummy...but, actually...
 Rummy:
 <$0D>
 //\nÇ†Ç†ÅAé¿ç€ÇÕÅcÇ»ÇÒÇæÇ»ÅcïœÇæÇ»Åc
-\n
-Actually, I think I'm...changing...
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00004032
 
@@ -232,10 +224,7 @@ Rummy:
 \n
 Hey, hey, hey, what was that\n
 look for? It's scary, a-ha!
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 0000426D
 
@@ -251,10 +240,7 @@ Rummy:
 \n
 I don't know who or what it is, but I\n
 hear a faint voice calling for you.
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00004299
 
@@ -270,10 +256,7 @@ Sammy:
 \n
 Change, don't, change...don't...\n
 This doesn't feel right, a-nope.
-<$1E>
-//çs
-çs
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000042B3
 
@@ -313,10 +296,7 @@ Sammy:
 \n
 That stuff is too scary for me now.\n
 I've lost sight of my self as is.
-<$1E>
-//íÜ
-íÜ
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 00004344
 
@@ -332,8 +312,5 @@ Sammy:
 \n
 If you think something doesn't\n
 matter, act like it doesn't matter.
-<$1E>
-//íÜ
-íÜ
-<$00>
+<$1E><$01><$04><$00>
 

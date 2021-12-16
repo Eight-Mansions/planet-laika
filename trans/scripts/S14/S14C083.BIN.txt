@@ -19,10 +19,7 @@ Oxygen Miner 3：
 \n
 ThE cOlOny gOt sO cOld OUt Of\n
 nOwhErEs... StrAngE!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 000006DC
 
@@ -40,10 +37,7 @@ I hAd a drEAm thAt OUr hOUsEs wErE\n
 bUrnIng. It wAs sO hOt And IntEnsE.
 <$0C>
 All I cOUld dO wAs rUn.
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 00000728
 
@@ -69,10 +63,7 @@ Oxygen Miner 3：
 \n
 OH! OH! ThAt's rIght, fUckIng TOmmy!\n
 ThAt's thE gUy whO blEw mE Off!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 0000078F
 
@@ -87,10 +78,7 @@ Oxygen Miner 3：
 //\nなんでトミーは俺のこと知らないんだ？
 \n
 DOEsn't TOmmy knOw whO I Am?
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000007B6
 
@@ -106,8 +94,5 @@ Oxygen Miner 3：
 \n
 WhAt's thIs lOUd, crAcklIng sOUnd\n
 blArIng In my hElmEt? It wOn't stOp!
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 

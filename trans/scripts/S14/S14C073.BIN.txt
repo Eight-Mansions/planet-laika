@@ -19,12 +19,7 @@ Thomas:
 \n
 Oh, what scary eyes he\n
 looked at me with too!
-<$0C>
-I've no words to describe them!
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00004595
 
@@ -200,12 +195,7 @@ Thomas:
 \n
 As for you, you look at me with such\n
 scary eyes. I've no words to describe
-<$0C>
-them.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 000047ED
 
@@ -221,10 +211,7 @@ Thomas:
 \n
 Ohh, is this a nightmare?!\n
 I dare say, I'm living a nightmare!
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00004815
 
@@ -243,10 +230,7 @@ about things closer to me...
 <$0C>
 ...all that matters\n
 is that they're close.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00004862
 
@@ -264,8 +248,5 @@ I've come to the conclusion that even\n
 those distant from us are close.
 <$0C>
 Distance is a construct!
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 

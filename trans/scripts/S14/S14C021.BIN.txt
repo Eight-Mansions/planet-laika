@@ -19,10 +19,7 @@ Thomas:
 \n
 Do you believe in reincarnation?\n
 That's one puzzle I aim to solve!
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 000013FC
 
@@ -46,10 +43,7 @@ Thomas:
 \n
 No, perhaps "you" wouldn't know for\n
 sure now, but I did tell you.
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00001440
 
@@ -73,10 +67,7 @@ Sparky:
 \n
 ...he was surrounded by a strange\n
 light. What happened to him?
-<$1E>
-//行
-行
-<$00>
+<$1E><$01><$08><$00>
 
 // Pos: 0000148F
 
@@ -92,10 +83,7 @@ Sparky:
 \n
 Everyone's starting to wake up for\n
 real.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
 // Pos: 000014B4
 
@@ -113,10 +101,7 @@ Reincarnation? That's not the same\n
 thing as being immortal.
 <$0C>
 It's about living a new life.
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 000014E4
 
@@ -132,10 +117,10 @@ Thomas:
 \n
 I dare say, not all things are seen to\n
 be believed.
-<$1E>
-//鋭
-鋭
-<$00><$12><$0B>
+<$1E><$03>
+//軌
+軌
+<$12><$0B>
 //トーマス：
 Thomas:
 <$0D>
@@ -143,10 +128,7 @@ Thomas:
 \n
 Who was I in my past life? Who\n
 knows? All I can do is hypothesize.
-<$1E>
-//理
-理
-<$00><$12><$0B>
+<$1E><$03><$08><$00><$12><$0B>
 //スパーキー：
 Sparky:
 <$0D>
@@ -154,8 +136,5 @@ Sparky:
 \n
 Gee, I wonder if I'll ever wake up\n
 from this either, even for a moment.
-<$1E>
-//中
-中
-<$00>
+<$1E><$01><$04><$00>
 
