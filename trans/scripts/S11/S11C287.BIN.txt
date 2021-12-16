@@ -182,8 +182,5 @@ Little:
 \n
 Oi, if you want to talk with anyone,\n
 go play with that monitor, got it?
-<$1E>
-//‰Æ
-‰Æ
-<$00>
+<$1E><$02><$04><$00>
 

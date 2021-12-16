@@ -252,10 +252,5 @@ Red:
 \n
 I'm protected!\n
 Attacking me won't work.
-<$0C>
-You'll never escape!
-<$1E>
-//’†
-’†
-<$00>
+<$1E><$01><$04><$00>
 

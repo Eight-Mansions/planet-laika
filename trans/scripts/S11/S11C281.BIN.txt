@@ -110,10 +110,7 @@ Yang:
 \n
 Hehe, we're about to begin our\n
 experiment.
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00001D72
 
@@ -147,10 +144,7 @@ He, now "we", honed in real good.\n
 <$0C>
 We're finally about to start our\n
 experiment!
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00001DEE
 
@@ -237,10 +231,7 @@ their names are always in a stir.
 
 #WHB(PTR, $00000F59)
 
-
-<$00><$11>
-//íN
-<$1E><$17><$00>
+<$00><$11><$01><$0E><$1E><$17><$00>
 
 // Pos: 00001F46
 
@@ -283,10 +274,7 @@ give you the autolock's VPN.
 
 #WHB(PTR, $00000F7D)
 
-
-<$00><$11>
-//íN
-<$1E><$17><$00>
+<$00><$11><$01><$0E><$1E><$17><$00>
 
 // Pos: 00002003
 
@@ -302,10 +290,7 @@ Mountain:
 \n
 The PIN is..."6"! Yep, just "6"!\n
 That'll disengage the autolock!
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00002032
 
@@ -323,10 +308,7 @@ No more talk.
 <$0C>
 Until we start the experiment,\n
 clear your mind and believe.
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002074
 
@@ -369,10 +351,7 @@ Mountain:
 \n
 "Three-point-141 592 653 589 793\n
 238 462 643 383 279!"
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00002113
 
@@ -388,10 +367,7 @@ Mountain:
 \n
 So be it! Pi was always MY puzzle to\n
 solve, not yours!
-<$1E>
-//âs
-âs
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 0000213B
 
@@ -415,8 +391,5 @@ Mountain:
 \n
 I'll call for you when we start the\n
 experiment!
-<$1E>
-//óù
-óù
-<$00>
+<$1E><$03><$08><$00>
 

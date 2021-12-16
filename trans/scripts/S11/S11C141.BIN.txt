@@ -333,8 +333,9 @@ you should be aware of.
 
 #WHB(PTR, $0000121D)
 
-//船マウンテン：
-船Mountain:
+<$03><$0B>
+//マウンテン：
+Mountain:
 <$0D>
 //\nそうだ、金星人だ。
 \n
@@ -371,8 +372,9 @@ are trying to channeling us in return.
 
 #WHB(PTR, $0000122D)
 
-//所ヤング：
-所Yang:
+<$02><$0B>
+//ヤング：
+Yang:
 <$0D>
 //\n金星人は星の鋭行で知らせて来るんだ、\nすげぇな。
 \n
@@ -386,8 +388,9 @@ are watching over us so closely.
 
 #WHB(PTR, $0000125D)
 
-//所マウンテン：
-所Mountain:
+<$02><$0B>
+//マウンテン：
+Mountain:
 <$0D>
 //\nただやっかいなことが起きた。
 \n
@@ -653,10 +656,7 @@ Yang:
 \n
 Aww, you'd have to be an\n
 idiot to not be able to see it!
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00003C95
 
@@ -680,13 +680,7 @@ Well, that may be true.
 Mountain:
 <$0D>
 //\nいやきっとこいつには見えるんだ、\n俺たちに通じるところを惑じるぞ。
-\n
-But I'm talking about our little friend\n
-here. Gotta sense the connection.
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00003CD8
 
@@ -722,10 +716,7 @@ Yang:
 \n
 Those light tricks it does are optical\n
 illusions, at best. None of it's real.
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00003D45
 
@@ -747,10 +738,7 @@ Our experiment will be much\n
 cooler than that monitor.
 <$0C>
 You should join us tonight!
-<$1E>
-//理
-理
-<$00>
+<$1E><$03><$08><$00>
 
 // Pos: 00003D7F
 
@@ -813,10 +801,7 @@ Mountain:
 \n
 We can test that right now. Let's see\n
 if the new guy can find the journal.
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00003DFE
 
@@ -839,10 +824,7 @@ Yang:
 //\nへっ！\nどうだかな。
 \n
 All right, whatever you say!
-<$1E>
-//鋭
-鋭
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00003E14
 
@@ -910,8 +892,9 @@ there's an update.
 
 #WHB(PTR, $00000E11)
 
-//子オクトーバー司令官：
-子Commander October:
+<$01><$0B>
+//オクトーバー司令官：
+Commander October:
 <$0D>
 //\nああ、ライカ君、私にも見えたよ。\n火星の顔の付近は、確かに妙な輝きに\n包まれている。
 \n
@@ -963,8 +946,9 @@ disturbance must be related.
 
 #WHB(PTR, $00000E21)
 
-//子オクトーバー司令官：
-子Commander October:
+<$01><$0B>
+//オクトーバー司令官：
+Commander October:
 <$0D>
 //\nところでクルーのメンバーは\nみんな無事かな。
 \n
@@ -993,9 +977,7 @@ I'll contact you again soon.
 
 #WHB(PTR, $00000D29)
 
-//離か
-離か
-<$0E><$0F><$14><$01>
+<$02><$13><$3F><$0E><$0F><$14><$01>
 //メッセージはありません。
 THERE ARE NO MESSAGES.
 <$00>

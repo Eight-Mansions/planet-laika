@@ -215,10 +215,7 @@ Yang:
 //\n­‚È‚­‚È‚¢‚Í‚¸‚¾A”ŒNI
 \n
 There aren't that many, buddy!
-<$1E>
-//M
-M
-<$00>
+<$1E><$03><$0C><$00>
 
 // Pos: 00002E0D
 
@@ -234,10 +231,7 @@ Yang:
 \n
 What's the difference between\n
 butterflies and moths?
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002E35
 
@@ -252,10 +246,7 @@ Mountain:
 //\n‚Pl ‚Ql ‚Rl ‚Sl ‚Tl ‚Ul
 \n
 One, two, three, four, five, six...
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002E5A
 
@@ -270,10 +261,7 @@ Mountain:
 //\n‚P‚Ol ‚P‚Pl ‚P‚Ql ‚P‚Rl
 \n
 ...ten, eleven, twelve, thirteen...
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002E7B
 
@@ -289,10 +277,10 @@ Mountain:
 \n
 ...thirty-four, thirty-five,\n
 thirty-six, thirty-seven...
-<$1E>
-//‰s
-‰s
-<$00><$10><$0B>
+<$1E><$03>
+//‹O
+‹O
+<$10><$0B>
 //ƒ}ƒEƒ“ƒeƒ“F
 Mountain:
 <$0D>
@@ -300,10 +288,7 @@ Mountain:
 \n
 ...eighty-seven, eighty-eight,\n
 eighty-nine, ninety...
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002EBD
 
@@ -321,10 +306,7 @@ Mountain:
 and two, one hundred and three...
 <$0C>
 ...one hundred and four...
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002EE2
 
@@ -343,10 +325,7 @@ three hundred seventy-three...
 <$0C>
 ...three hundred seventy-five,\n
 three hundred seventy-seven...
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002F07
 
@@ -362,10 +341,7 @@ Mountain:
 \n
 Not enough. IT's not enough! There\n
 are MORE flies! BUT IT'S NOT ENOUGH!
-<$1E>
-//‰s
-‰s
-<$00>
+<$1E><$03><$04><$00>
 
 // Pos: 00002F3B
 

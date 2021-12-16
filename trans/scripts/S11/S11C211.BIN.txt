@@ -22,10 +22,7 @@ only wish I knew where.
 <$0C>
 At any rate,\n
 sorry about earlier.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000025F6
 
@@ -41,10 +38,7 @@ Gold:
 \n
 Sorry. I'm not taking orders right\n
 now, even if you came a long way.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 00002621
 
@@ -67,9 +61,9 @@ Gold:
 \n
 There's more than a handful of guys\n
 here who envy you uniformed types.
-<$1E>
-//ëo
-<$00><$10><$0B>
+<$1E><$02>
+//àı
+<$10><$0B>
 //ÉSÅ[ÉãÉhÅF
 Gold:
 <$0D>
@@ -102,10 +96,7 @@ It's not the kinda place for you\n
 uniformed types to play tourist.
 <$0C>
 You might...disappear.
-<$1E>
-//ëo
-ëo
-<$00>
+<$1E><$02><$02><$00>
 
 // Pos: 000026EE
 
@@ -535,10 +526,10 @@ Smokey:
 \n
 You're all a bunch of snobs!\n
 You'd better watch your backs.
-<$1E>
-//ëo
-ëo
-<$0E><$3C><$17><$00><$10><$0B>
+<$1E><$02>
+//âÔÇ§
+âÔÇ§
+<$17><$00><$10><$0B>
 //ÉSÅ[ÉãÉhÅF
 Gold:
 <$0D>
@@ -689,10 +680,7 @@ Gold:
 \n
 He's a regular, so I'm sorry he's like\n
 that. Still, I'm closed. Hurry on out.
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002ECE
 
@@ -708,10 +696,7 @@ Gold:
 \n
 What are you still doing here?\n
 Hurry on out!
-<$1E>
-//â∆
-â∆
-<$00>
+<$1E><$02><$04><$00>
 
 // Pos: 00002EF7
 
@@ -727,10 +712,7 @@ Gold:
 \n
 Don't stick your neck out too much, or\n
 Smokey'll waste no time breaking it.
-<$1E>
-//ê∫
-ê∫
-<$00>
+<$1E><$02><$08><$00>
 
 // Pos: 00002F35
 
@@ -746,8 +728,5 @@ Gold:
 \n
 Just so you know, there's no way\n
 you're off Smokey's hook after that.
-<$1E>
-//â∆
-â∆
-<$00>
+<$1E><$02><$04><$00>
 
