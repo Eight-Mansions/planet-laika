@@ -26,8 +26,9 @@ This is it! The birth of a new human!
 
 #WHB(PTR, $00000509)
 
-//歪命船ホワイトイーグル：
-歪命船White Eagle:
+<$02><$11><$01><$14><$03><$0B>
+//ホワイトイーグル：
+White Eagle:
 <$0D>
 //\n分身は合わさり、人格は統合され…
 \n
@@ -41,8 +42,9 @@ All personalities have integrated!
 
 #WHB(PTR, $00000519)
 
-//歪命船ホワイトイーグル：
-歪命船White Eagle:
+<$02><$11><$01><$14><$03><$0B>
+//ホワイトイーグル：
+White Eagle:
 <$0D>
 //\n宿命の子は神の手に触れたのじゃな、\nふほふほ。
 \n
@@ -56,8 +58,9 @@ Touched by the hand of God!
 
 #WHB(PTR, $00000555)
 
-//歪命船ホワイトイーグル：
-歪命船White Eagle:
+<$02><$11><$01><$14><$03><$0B>
+//ホワイトイーグル：
+White Eagle:
 <$0D>
 //\nおおお、いよいよか、まさにその時か！
 \n
@@ -70,8 +73,9 @@ Your time has come at long last!
 
 #WHB(PTR, $00000571)
 
-//葉命船ホワイトイーグル：
-歪命船White Eagle:
+<$03><$11><$01><$14><$03><$0B>
+//ホワイトイーグル：
+White Eagle:
 <$0D>
 //\n新しき人間は高みに昇り、\nやがて落ちていくのかのう…\nふたたび世界が生まれるのかのう…
 \n
@@ -87,8 +91,9 @@ Can your world be reborn?
 
 #WHB(PTR, $0000058D)
 
-//歪命愛いじょうぶ？ 
-歪命船Are you all right, 
+<$02><$11><$01><$14><$03>
+//だいじょうぶ？ 
+Are you all right, 
 <$0F>
 //…\nうなされてたみたいだけど。
 ?\n
@@ -101,10 +106,8 @@ You look like you had a bad dream.
 
 #WHB(PTR, $000005A9)
 
-//歪命王
-歪命王
-<$0F>
-//は… どうしてここにいるのかなぁ…
+<$02><$11><$01><$14><$03>
+//僕は… どうしてここにいるのかなぁ…
 ... Why are we here?
 <$0E><$3C><$17><$00>
 
@@ -114,7 +117,8 @@ You look like you had a bad dream.
 
 #WHB(PTR, $000005C5)
 
-//歪命我かった、
+<$02><$11><$01><$14><$03>
+//よかった、
 Oh, 
 <$0F>
 //！\nこれからよ、これからはじまるの。
@@ -128,8 +132,9 @@ It's okay. We're going to start over.
 
 #WHB(PTR, $000005E1)
 
-//歪命容イプリル…\n僕には何ができるんだろう…
-歪命容April...\n
+<$02><$11><$01><$14><$03>
+//エイプリル…\n僕には何ができるんだろう…
+April...\n
 I hope I'm up to the task.
 <$0E><$5A><$17><$00><$10><$0B>
 //ライカ：
@@ -176,9 +181,9 @@ I'm glad you're back.
 #WHB(PTR, $00000655)
 
 
-<$00><$11>
-//命船       
-命船       
+<$00><$11><$01><$14><$03><$0B>
+//       
+       
 <$0D>
 //あっ、雪よ。
 Look, it's snowing.

@@ -24,9 +24,9 @@ What's the matter, April? You are me.
 #WHB(PTR, $00000129)
 
 
-<$00><$14><$02><$11>
-//~フみたいにほほえんでね、エイプリル。
-~フWon't you smile like you used to?
+<$00><$14><$02><$11><$01>
+//昔みたいにほほえんでね、エイプリル。
+Won't you smile like you used to?
 <$0E><$78><$17><$00>
 
 // Pos: 00004DE0
@@ -36,8 +36,8 @@ What's the matter, April? You are me.
 #WHB(PTR, $00000131)
 
 
-<$00><$14><$02><$11>
-//神イプリル、あなたをずっと待っていたのよ。
-神I shall wait for you always.
+<$00><$14><$02><$11><$01>
+//エイプリル、あなたをずっと待っていたのよ。
+I shall wait for you always.
 <$0E><$78><$17><$00>
 

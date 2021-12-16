@@ -136,8 +136,9 @@ disturbance, and nothing more!
 
 #WHB(PTR, $000004E5)
 
-//輪イプリル、私のエイプリル、\nずっとそう呼び続けてきたのよ。
-輪April, my April.\n
+<$02>
+//エイプリル、私のエイプリル、\nずっとそう呼び続けてきたのよ。
+April, my April.\n
 I called for you all this time.
 <$00>
 
@@ -163,8 +164,9 @@ not...April's mother, are you?
 
 #WHB(PTR, $00000511)
 
-//捨なたは私なのよ、エイプリル。\n私そのものなのよ。
-捨 You are me, April. Me, my self.
+<$02>
+//あなたは私なのよ、エイプリル。\n私そのものなのよ。
+You are me, April. Me, my self.
 <$00>
 
 // Pos: 00002CF5
@@ -173,8 +175,9 @@ not...April's mother, are you?
 
 #WHB(PTR, $000006A9)
 
-//捨はははははははははははははははははははは
-捨AHAHAHAHAHAHAHAHA!
+<$02>
+//あはははははははははははははははははははは
+AHAHAHAHAHAHAHAHA!
 <$00>
 
 // Pos: 00002D0C
@@ -397,7 +400,8 @@ mom!
 
 #WHB(PTR, $00000BED)
 
-//老ーモンドの香り…\nうふふふふ、あなたは兵士、立派な兵士よ…
+<$02>
+//アーモンドの香り…\nうふふふふ、あなたは兵士、立派な兵士よ…
 Ah. the scent of almonds...\n
 Ohoho, what a good soldier you are.
 <$00>
