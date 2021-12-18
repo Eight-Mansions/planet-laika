@@ -498,3 +498,5 @@ echo ins\S99\S99C121.BIN >> error.txt
 tools\atlas ins\S99\S99C121.BIN trans\scripts\S99\S99C121.BIN.txt >> error.txt
 echo ins\S99\S99C981.BIN >> error.txt
 tools\atlas ins\S99\S99C981.BIN trans\scripts\S99\S99C981.BIN.txt >> error.txt
+
+tools\planet_laika_bin_size_update.exe ins

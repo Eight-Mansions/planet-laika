@@ -314,6 +314,12 @@ of the vanguard unit from Earth's\n
 previous mission to Mars.
 <$00>
 
+
+
+
+
+#JMP($00003FC0)
+
 // Pos: 00003F60
 
 #WLB(PTR, $00000D20)
@@ -326,12 +332,6 @@ previous mission to Mars.
 Hyohyo, I can feel you! You're so\n
 close already! Its so potent, hyo!
 <$00>
-
-// Pos: 00003FC0
-
-#JMP($00003FC0)
-
-
 
 // Pos: 00003DBF
 
