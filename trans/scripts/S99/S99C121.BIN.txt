@@ -3,7 +3,7 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2149613568, 32)
-#JMP($00003667)
+#JMP($00002F95)
 
 // Pos: 00002F95
 
@@ -75,7 +75,7 @@ Commander October:
 <$0D>
 //\n君のお母さんはウラジミールという\nエ員上がりの男と再婚した。
 \n
-Your mother remarried a former\n
+Your mother remarried to a former\n
 factory worker, Vladimir.
 <$0C><$0B>
 //オクトーバー司令官：

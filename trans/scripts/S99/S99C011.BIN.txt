@@ -3,7 +3,7 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2149613568, 32)
-#JMP($000014B8)
+#JMP($0000120A)
 
 // Pos: 0000120A
 
@@ -77,7 +77,7 @@ Vladimir:
 <$0D>
 //\nセルゲイ兄さんを見習え！\nええ？ 見習うんだ、できそこないめが！
 \n
-Where you dropped on the fucking\n
+Were you dropped on the fucking\n
 head?! Why can't you be like Sergei?!
 <$0E><$3C><$17><$00>
 

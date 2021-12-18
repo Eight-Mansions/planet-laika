@@ -3,7 +3,7 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2149613568, 32)
-#JMP($00000A78)
+#JMP($000008A5)
 
 // Pos: 000008A5
 
@@ -22,7 +22,7 @@ CHARLIE SEES YOU.
 <$1A><$81><$00><$00><$00><$18><$00><$81><$57><$1D><$00><$00><$00>
 //チャーリー、食べたい、ごちそう、\n食べたい。
 CHARLIE'S HUNGRY.\n
-FEED HUNGRY CHARLIE
+FEED HUNGRY CHARLIE.
 <$1A><$5C><$00><$00><$00><$18><$00><$80><$E7><$1A><$00><$00><$00>
 //チャーリー、考える、ごちそう、考える。
 FEED CHARLIE. CHARLIE KNOWS.\n
