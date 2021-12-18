@@ -140,9 +140,9 @@ Get your mangy hands off it!
 
 <$02>
 // さあ、食いなよ、俺の目の前で、早く！\nひひひ、腐ったパイだ、お前にぴったりだろ、
-/ Come on, eat it! Eat it now!\n
-Hehe, eat this moldy pie!\n
-It's perfect for you!
+   Come on, eat it! Eat it now!\n
+   Hehe, eat this moldy pie!\n
+   It's perfect for you!
 <$00>
 
 // Pos: 00002275
@@ -154,7 +154,7 @@ It's perfect for you!
 <$02>
 //    男の腐ったやつに腐ったパイだ、\n     ははははは、ぴったりだろ、\n   ああ臭ぇ、お前も同じ臭いがするぜ！
     Rotten pie for a rotten kid!\n
-     Hahaha, you even smell stale!\n
-     Eat your "just desserts"!
+    Hahaha, you even smell stale!\n
+    Eat your "just desserts"!
 <$00>
 

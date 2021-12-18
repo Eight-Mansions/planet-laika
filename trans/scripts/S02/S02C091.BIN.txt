@@ -17,8 +17,8 @@ April:
 <$0D>
 //\nあっライカ…\nまたふたりになっちゃったね。
 \n
-There you are, Laika. Listen, I still\n
-haven't seen the others.
+There you are, Laika. I wish I\n
+could say I found the others, but...
 <$00>
 
 // Pos: 00003DE5
@@ -100,7 +100,7 @@ April:
 //\nほんとに急だったのよ。
 \n
 Maybe its efficacy against humans\n
-would be news to me, but...
+would be worth notarizing, but...
 <$0C><$0B>
 //エイプリル：
 April:
@@ -139,7 +139,7 @@ April:
 //\nまだ気分がすぐれないから、\nちょっとここで休んでいくね。
 \n
 I wish I was feeling better for this.\n
-Do you mind if I still rest here a bit?
+Do you mind if I rest here for a bit?
 <$0C><$0B>
 //エイプリル：
 April:
