@@ -100,8 +100,8 @@ Noon:
 <$0D>
 //\n火星人のやつら、ハダに合わなかったんだよ、\n人間の顔が。
 \n
-Oh, so it's OUR fault those filthy\n
-Martians got what they deserved?
+Only because those filthy Martian\n
+bodies rejected our 'uman faces.
 <$00>
 
 // Pos: 00003AA3
@@ -116,8 +116,8 @@ Captain Tatler:
 <$0D>
 //\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
 \n
-If their bodies rejected the "filthy"\n
-bacteria littered on our faces, yes.
+One theory does point fingers at the\n
+bacteria we carried up from Earth.
 <$00>
 
 // Pos: 00003AD3
@@ -314,12 +314,6 @@ of the vanguard unit from Earth's\n
 previous mission to Mars.
 <$00>
 
-
-
-
-
-#JMP($00003FC0)
-
 // Pos: 00003F60
 
 #WLB(PTR, $00000D20)
@@ -371,10 +365,12 @@ Commander October:
 <$0D>
 //\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
 \n
-See, "face-shaped creatures"\n
-have reportedly appeared on Mars.
+See, rumors have sprouted saying\n
+that "face-shaped creatures"\n
+have appeared on Mars.
 <$0C>
-It has those currently living there\n
+This, among other things,\n
+has those currently living there\n
 fearing the supposed End Times.
 <$0C><$0B>
 //オクトーバー司令官：
@@ -410,27 +406,25 @@ Captain Tatler:
 //\n先遣隊が火星に送られたのは\n１０年前のことだ。
 \n
 Ten years ago, we sent a vanguard\n
-unit to Mars, led by Colonel Galil.
-<$0C>
-But then...something went wrong.
+unit to Mars.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n地球化計画の再開で、\n火星に調査のためにやってきた。\nガリル大佐はそのときのリーダーだった。
 \n
-Now that colonization plans have\n
-resumed, that remains a loose end.
+They went to survey the area while\n
+Earth re-attempted colonization.
 <$0C>
-Our secondary job is to find out what\n
-happened to the vanguard unit.
+Colonel Galil was the vanguard\n
+unit's leader at that time, but...
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n神は死んだ、光の私…
 \n
-On the last mission, the colonel\n
+...on the last mission, the colonel\n
 wired in a bizarre final message:
 <$0C><$0B>
 //タトラー船長：
@@ -448,26 +442,23 @@ Captain Tatler:
 <$0D>
 //\n火星に妙なウワサがはびこるようになったのは\nそれからのことだ。
 \n
-And THEN, shortly after all that,\n
-we got even more bad news.
-<$0C>
-Word started spreading that Mars\n
-got infested with monsters.
+Right after that, weird rumors
+began spreading about Mars.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n我々はウワサの出所をさぐって、\n火星はなんでもない、
 \n
-The ISF searched in vain for a\n
-source to the rumor ever since. 
+Our mission now is to identify\n
+the source of those rumors.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n平和で友好的だと報告しなければならない。\nそれが任務だ。
 \n
-We, the survey unit, are here to\n
-prove that Mars is safe to terraform.
+Once we report back, we can\n
+declare Mars safe to terraform.
 <$00>
 

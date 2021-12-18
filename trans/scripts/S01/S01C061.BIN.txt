@@ -32,8 +32,8 @@ Captain Tatler:
 <$0D>
 //\n降りたら勝手に動くな、全員で行動する、\n分かったな。
 \n
-Not one of you better run off,\n
-am I clear?
+We all need to work together.\n
+No loose agents, am I clear?
 <$00>
 
 // Pos: 000034E8
@@ -48,8 +48,8 @@ Noon:
 <$0D>
 //\nうまく着陸できた、機関も異常なしだ。
 \n
-Listen, I landed this ship too damn\n
-well to be talked like some kid.
+We landed successfully, and\n
+with zero engine abnormalities.
 <$00>
 
 // Pos: 00003509
@@ -71,7 +71,7 @@ Captain Tatler:
 <$0D>
 //\nそういうことだ。
 \n
-That's your whole job.
+That's all there is to it.
 <$00>
 
 // Pos: 0000354B
@@ -86,8 +86,8 @@ April:
 <$0D>
 //\n船長、ヌーンのおかげで私たち…
 \n
-Captain, it's only thanks to Noon that\n
-we landed without having an accident.
+Captain, it's only thanks to Noon\n
+that we landed without accident.
 <$00>
 
 // Pos: 00003567
@@ -110,7 +110,8 @@ Captain Tatler:
 <$0D>
 //\n報告書はそうまとめる。 さ、準備だ！
 \n
-For now, we head out!
+Let's cut the report,\n
+and head out!
 <$00>
 
 // Pos: 000035B5
@@ -133,8 +134,8 @@ Noon:
 <$0D>
 //\nこの星には頭がおかしくなった\n密航者ばかりだ。
 \n
-I hate Mars. Anyone who chooses to\n
-live 'ere clearly lost their mind.
+I hate Mars. Anyone stowin' away\n
+'ere clearly lost their mind.
 <$00>
 
 // Pos: 00003620
@@ -243,8 +244,8 @@ Noon:
 <$0D>
 //\nロケットから離れるんじゃないぞ、\n迷子になっても\nママはむかえに来てくれないぜ。
 \n
-If you run off and get lost,\n
-don't come crying to Mummy.
+If you run off from the rocket,\n
+there's no crying to Mummy.
 <$00>
 
 // Pos: 00003753
@@ -289,7 +290,7 @@ April:
 <$0D>
 //\n前の任務もうまくいったじゃない。\n今度もきっと平気よ。
 \n
-Maybe the previous mission went\n
-awry, but we're going to nail it!
+Our last mission went well enough.\n
+We're gonna nail this one too!
 <$00>
 

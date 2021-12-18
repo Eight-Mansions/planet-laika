@@ -135,7 +135,7 @@ Underground Canal
 //P:0001115A
 #WRITE(PTR, $0000FB44)
 //グランパ
-Grandpa's
+Gramps
 <$00>
 
 //P:00011160
@@ -364,7 +364,7 @@ Valles Memoriae
 //P:0001137C
 #WRITE(PTR, $0000FBE4)
 //グランパ
-Grandpa's
+Gramps
 <$00>
 
 //P:00011382
@@ -990,13 +990,13 @@ April:
 April:
 <$0D>
 //\nどうしたの、ライカ？\n宿命とか蕃判とか、変な話ばっかり…
-\nWhat's wrong, Laika? Is that "destiny" and "Judgement" stuff freaking you out?
+\nWhat's wrong, Laika? Are "destiny"\nand "Judgement" freaking you out?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nでもなんだか面白そうじゃない？
-\nI understand, but it does make for a juicy day on the job, no?
+\nI understand, but it does make\nfor a juicy day on the job, no?
 <$00>
 
 //P:000114C6
@@ -1006,13 +1006,13 @@ April:
 April:
 <$0D>
 //\n消灯時間っていつのことなのかなぁ…
-\nWhat time do they shut off the lights normally?
+\nWhat time do they shut off the\nlights normally?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n消灯時間になったりなってなかったり、\nフキソクなのよ。
-\nIt's mighty irregular, so I can't tell you if it comes now or later on.
+\nIs it irregular? How can we tell\nif it comes sooner or later on?
 <$00>
 
 //P:0001150F
@@ -1029,7 +1029,7 @@ April:
 April:
 <$0D>
 //\nきっとブリックロードの黒いカベに\n入口があるのよ。
-\nIf we pass through the black wall on Brick Road, we should find the valley.
+\nIf we pass through the black wall\non Brick Road, we'll find the valley.
 <$00>
 
 //P:0001154D
@@ -1049,7 +1049,7 @@ April:
 Yolanda:
 <$0D>
 //\nそれにしてもさ、何か陰気くさいところよね。\n気が滅入っちゃう。
-\nLook at this gloomy-ass place. Talk about depressing.
+\nLook at this gloomy-ass place.\nTalk about depressing.
 <$0C><$13>
 //か
 <$0B>
@@ -1069,7 +1069,7 @@ April:
 Yolanda:
 <$0D>
 //\n家がみんな書き割りよ、ウソの町よ、\n気味悪い。
-\nThe houses are all painted standees, as if this town's entirely made up.
+\nThe houses are all painted standees,\nas if this town's one big set up.
 <$0C><$13>
 //か
 <$0B>
@@ -1077,7 +1077,7 @@ Yolanda:
 April:
 <$0D>
 //\n記憶… それとも願望なのかな…
-\nMaybe...it's made up of memories...or some kind of wish.
+\nMaybe...it's made up of memories,\nor some kind of wish.
 <$00>
 
 //P:000115DE
@@ -1087,7 +1087,7 @@ April:
 Yolanda:
 <$0D>
 //\n妙なカッコウね… なんだかね。
-\nA figure in the sand? What's up with that?
+\nA figure in the sand?\nWhat's up with that?
 <$0C><$13>
 //か
 か
@@ -1106,7 +1106,7 @@ April:
 Yolanda:
 <$0D>
 //\nすっかりいかれちゃった、そんな惑じね。
-\nThe hell happened to your friend, huh? He's lost it!
+\nThe hell happened to your\nfriend, huh? He's lost it!
 <$0C><$13>
 //か
 か
@@ -1121,13 +1121,13 @@ April:
 Yolanda:
 <$0D>
 //\nよく思い出せないんだけど…\nロケットの中で話してたわね、ガリルのこと。
-\nI don't remember the details, but I heard his name back on our flight over.
+\nI don't remember the details,\nbut I heard his name on the flight.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n話の雰囲気からして、神様になろうとしている…\nそんな惑じじゃなかった？
-\nSomething about him wanting to become God. What makes you think he's here?
+\nGod-complex, something-something.\nWhat makes you think he's here?
 <$0C><$13>
 //か
 か
@@ -1136,19 +1136,19 @@ Yolanda:
 April:
 <$0D>
 //\n火星で多くの人が幻覚に悩まされたりするように\nなったのは、ガリルが姿を消してからなの。
-\nWell, it wasn't until Galil went MIA that residents on Mars began hallucinating.
+\nWell, it wasn't until Galil went\nMIA that people began hallucinating.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
-\nBefore that, it was nothing but a deserted planet where exiles were left to rot.
+\nBefore that, Mars was another\ndeserted planet to leave the exiles.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nこの星とガリルがつながっている…\n光の私…船長はそんな言葉を口にしていたね。
-\nGalil claimed to have a purpose here. The captain said he called himself "the light".
+\nGalil claimed to have a purpose\nhere. He called himself "the light".
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
@@ -1160,13 +1160,13 @@ Yolanda:
 Yolanda:
 <$0D>
 //\nそう言えばクロエちゃんのいい人って\nタトラー船長のことでしょ。
-\nHe also mentioned being sweet on a girl named Chloe.
+\nYou also mentioned him being\nsweet on a girl named Chloe.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nどこにいるの？ さがしてみない？
-\nDo you think she's here? Should we go look for her?
+\nDo you think she's here?\nShould we go look for her?
 <$00>
 
 //P:000117F7
@@ -1179,7 +1179,7 @@ Yolanda:
 April:
 <$0D>
 //\nヌーンよ、彼が持ちこたえられなくなったのよ。\n町長屋敷に行ってみない？
-\nNoon can't last much longer like this. Shouldn't we go to the cottage?
+\nNoon can't last like this.\nShouldn't we go to the cottage?
 <$00>
 
 //P:000118D5
@@ -1190,13 +1190,13 @@ April:
 Cosmas:
 <$0D>
 //\n僕は出歩いてなんかいないよ、ダークマン。
-\nI didn't expect taking a walk today, Dark Man.
+\nI didn't expect taking\na walk today, Dark Man.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nねぇ、そうだろ、\n僕、ずっとオウチにいたよね。
-\nYeah, you know me. I'm always stuck indoors, aren't I?
+\nYeah, you know me. I'm always\nstuck indoors, aren't I?
 <$00>
 
 //P:0001182C
@@ -1208,7 +1208,7 @@ Cosmas:
 Cosmas:
 <$0D>
 //\nねぇ、ダークマン、\n他の人の苦しみも増えてるの？\nここは苦しみで埋めつくされるの？
-\nHey, Dark Man? Are people suffering more? Is this place filled with suffering yet?
+\nHey, Dark Man? Are people suffering\nmore? Is this place filled with suffering yet?
 <$00>
 
 //P:00011864
@@ -1218,7 +1218,7 @@ Cosmas:
 Cosmas:
 <$0D>
 //\nねぇ、ダークマン。 そっちにいくと\nレッドおじさんがいるよ。 きっといるよ。
-\nWait, Dark Man. If you go that way, you're bound to  run into Uncle Red.
+\nWait, Dark Man. If you go that\nway, you'll run into Uncle Red.
 <$00>
 
 //P:00011894
@@ -1228,13 +1228,13 @@ Cosmas:
 Cosmas:
 <$0D>
 //\n僕、ときどき夢見るんだ。\n裏側からこの部屋、見てるんだ。
-\nSometimes, I have this dream where I'm looking into this room from the opposite side.
+\nSometimes, I have this dream where\nI look into this room from the other side.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nでもつながってないんだよ。
-\nBut that'd mean it's connected to a way out, which it's not.
+\nBut "other side" means it's\nconnected to a way out, which it's not.
 <$00>
 
 //P:00011917
@@ -1246,7 +1246,7 @@ Cosmas:
 Little:
 <$0D>
 //\nそうだそうだ、デジャブみたいだ、\n前にも同じことしてたぞ…さあ、急いでくれ。
-\nI'm feelin' deja vu, get it? Yeah, I've dealt with this before... Come on.
+\nI'm feelin' deja vu, get it? Yeah,\nI've dealt with this before... Come on.
 <$00>
 
 //P:00011948
@@ -1266,7 +1266,7 @@ Little:
 April:
 <$0D>
 //\n忘却の海にはなにもなさそうね。
-\nIt doesn't seem to be anything in Oceanum oblivionis.
+\nIt doesn't seem to be anything\nin Oceanum oblivionis.
 <$00>
 
 //P:00011965
@@ -1276,7 +1276,7 @@ April:
 April:
 <$0D>
 //\n何かあったら知らせてね。\nここで待ってるから。
-\nLet me know if anything comes up. I'll wait here.
+\nLet me know if anything comes\nup. I'll wait here.
 <$00>
 
 //P:00011A03
@@ -1290,7 +1290,7 @@ April:
 \n
 <$0F>
 //…\nなんでかなあ、ついライカって呼んじゃうの。
-...\nSorry, I know "Laika" tends to slip out when I call on you.
+...\nSorry, I know "Laika" tends\nto slip out when I call on you.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -1299,7 +1299,7 @@ April:
 \n
 <$0F>
 //ってすごくステキな名前なのに\n私にはライカの方が呼びやすいの。 変ね。
- is a nice name, but Laika comes to mind first. Silly, isn't it?
+ is a nice name, but Laika comes\nto mind first. Silly, isn't it?
 <$00>
 
 //P:00011A59
@@ -1311,7 +1311,7 @@ April:
 April:
 <$0D>
 //\nねえ、ライカ、リトルよ。\nリトルを見つけるの。
-\nHey, Laika. It's Little. We should look for him.
+\nHey, Laika. It's Little.\nWe should look for him.
 <$00>
 
 //P:000119E2
@@ -1321,7 +1321,7 @@ April:
 April:
 <$0D>
 //\nねえ、ここ階段がある。\n降りてみない？
-\nAh! There are stairs here. Why not take the first step? 
+\nAh! There are stairs here.\nWhy not take the first step? 
 <$00>
 
 //P:00011A7B
@@ -1331,6 +1331,6 @@ April:
 April:
 <$0D>
 //\nどうしたの、急におびえはじめて。\nこの先に何があるの？
-\nWhat's going on? I feel so scared all of a sudden. Is it something up ahead?
+\nWhat's going on? I feel so scared\nall of a sudden. What's up ahead?
 <$00>
 

@@ -41,34 +41,24 @@ Captain Tatler:
 <$0D>
 //\nガリル大佐は火星が秘めている\nよこしまな力に憑かれたのだ。
 \n
-Officials suspect Colonel Galil\n
-fell victim to something on Mars.
-<$0C>
-Some kind of vile substance\n
-floating on the surface.
+Colonel Galil was likely possessed\n
+by some hidden evil here on Mars.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\nよほど強い意志の持ち主でない限り、\nあらぬ妄想にとらわれてしまうというぞ。
 \n
-When on Mars, we do risk exposing\n
-our selves to said energy.
-<$0C>
-Thanks to it, even we are\n
-subject to hallucinating.
+It's said that, unless one has
+a great deal of mental fortitude,
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n自分を見失ってしまうというぞ。
 \n
-Supposing Colonel Galil lacked\n
-a certain mental fortitude...
-<$0C>
-\n
-...it's no wonder he fell for\n
-whatever bizarre fantasy he saw.
+they're subject to fall for\n
+all sorts of bizarre fantasies.
 <$00>
 
 // Pos: 000033FB
@@ -83,15 +73,15 @@ Noon:
 <$0D>
 //\nへっ、どんな妄想なんだ？
 \n
-Pfft! Fantasy, aye?
+Pfft! Fantasies, aye?
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nまさか滅んだ火星人をよみがえらそうって、\nそんな計画とかじゃないだろうな。
 \n
-It was fantasy to think those\n
-Martians were EVER trustworthy.
+And what was Galil's fantasy?\n
+To play God? Revive the Martians?
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -166,8 +156,8 @@ Captain Tatler:
 <$0D>
 //\n星全体が悪意を秘めているんだ。\nガリル大佐はその悪意に触れたに建いない。
 \n
-If Mars is topped with contaminated\n
-soil, maybe that's what got Galil.
+If Mars is contaminated by evil,\n
+Colonel Galil must've been exposed.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -236,9 +226,9 @@ Noon:
 <$0D>
 //\n輝いてるのか？\n火星で、輝いてるってのか。
 \n
-Hah! Does Mars light up now?\n
+Hah! Does he mean he shines here?\n
 <$0C>
-Think Mars is covered in bloomin'\n
+Think he's covered in bloomin'\n
 Christmas lights?
 <$00>
 
@@ -292,7 +282,7 @@ Captain Tatler:
 <$0D>
 //\nヌーン、よせ。誰にでも初心者の時期はある。
 \n
-Everyone has a first time, Noon.
+Easy, Noon. Everyone has a first time.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
