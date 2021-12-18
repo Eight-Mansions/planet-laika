@@ -214,7 +214,7 @@ Yolanda:
 Yeah, they always wanted to see\n
 Mars from inside a rocket. 
 <$0C>
-I mean, shit, who knew Mars had a face?
+I mean, shit, who knew Mars\nhad a face?
 <$00>
 
 // Pos: 000049D4
@@ -229,8 +229,8 @@ Spacer:
 <$0D>
 //\n本物だ。 ザ・フェイスと呼ばれている、\n火星人のイセキだ。
 \n
-Literally everyone, Jo. We're near the\n
-Face, a major Martian archeological site.
+Everyone, Jo. We're near the Face,\n
+a major Martian archeological site.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -389,7 +389,7 @@ Spirit Man:
 When you make contact with an\n
 influence, as in, another person,
 <$0C>
-a colorful aura will leave
+a colorful aura will leave\n
 that influence and enter you.
 <$0C><$0B>
 //スピリットマン：
