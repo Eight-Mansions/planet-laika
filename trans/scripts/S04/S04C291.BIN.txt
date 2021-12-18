@@ -42,7 +42,7 @@ Tommy:
 
 <$12>
 //つくそっ、気分が悪い、吐きそうだぜ…\nおぇっ、うぐぐぐ、おえっ…
-Ick, I feel sick. Totally about\n
+...Ick, I feel sick. Totally about\n
 to puke... This sucks!
 <$0C><$0B>
 //トミー：
@@ -229,9 +229,7 @@ Tommy:
 //\nハウスにいるヤングやクロウに言わせりゃ\n火星人の扉だと。
 \n
 That's a Martian door. You'll have to\n
-ask Yang or Crow over at Psycho Lab
-<$0C>
-about it.
+ask Yang or Crow over at Psycho Lab.
 <$0C><$0B>
 //トミー：
 Tommy:

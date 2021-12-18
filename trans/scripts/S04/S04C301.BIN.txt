@@ -66,7 +66,6 @@ Who are you, somebody from Earth?
 
 <$10>
 //俺は…俺は…\nリ、ト、ル…リトルだ、\nそうだそうだ、俺は酸索屋のリトルだ。
-\n
 I'm Little. L-I-T-T-L-E, got it?\n
 I work at the oxygen dispensary.
 <$0E><$32><$17><$00>
@@ -162,7 +161,7 @@ Linda:
 <$0D>
 //\nあらー、アタシに用？
 \n
-My, are you looking for me?
+My, were you looking for me?
 <$0C><$0B>
 //リンダ：
 Linda:
