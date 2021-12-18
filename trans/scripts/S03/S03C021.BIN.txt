@@ -82,8 +82,6 @@ Spirit Man:
 \n
 If a Phase depletes your Evil Meter\n
 (EM) to zero, you disappear, hyohyo!
-<$0C>
-disappear, hyohyo!
 <$00>
 
 // Pos: 0000213F
@@ -123,7 +121,7 @@ Spirit Man:
 //\nタイミングをうまく合わせてな、\nココロの〇ボタンを押すのだ、ひょひょ。
 \n
 When a Phase fires a pulse, press the\n
-〇 button to push your Mind Core.
+O button to push your Mind Core.
 <$0C>
 If you can repel the pulse foreward,\n
 you will not be hurt by the attack.
