@@ -79,7 +79,7 @@ Damian:
 <$0D>
 //\n僕が誘導したんだ、\nでも途中で勝手に抜け出したんだよ、ふふふ。
 \n
-I offered to show them around, but,\n
+I tried to lead them around, but,\n
 heehee, they wandered off part-way.
 <$00>
 
@@ -110,16 +110,16 @@ Damian:
 <$0D>
 //\nふふふ、女の子だけ帰納の丘に誘導したよ…
 \n
-Hehee, the girl was led to the\n
-Inductive Hills.
+Hehee, I pointed the girl in the\n
+direction to the Inductive Hills.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nそれにしても不思議だなぁ、あんただけは\n誘導できなかったよ。
 \n
-Still, it's strange that you of all\n
-people were not called there.
+Although, it's strange that you alone\n
+weren't called on to go there.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -233,7 +233,7 @@ Damian:
 //\nそんな僕にも分からないことがあるんだ。\nどうしてだろう、あんたを誘導できなかった。
 \n
 I still don't understand why Planet\n
-Mars failed to lead you anywhere.
+Mars hadn't called you anywhere.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -303,8 +303,8 @@ Damian:
 <$0D>
 //\nイーブルマインドのことだろ、\n顔に書いてあるさ。
 \n
-Your face is crawling with Evil\n
-Mind.
+I can see on your face that you want\n
+to know more about Evil Mind.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -457,8 +457,8 @@ Damian:
 <$0D>
 //\nそれよりさ、欲悪がビジュアル系っていうのは、\nなんだか建わない？
 \n
-...their traits aren't so simple! You\n
-see, greed is a Visual type trait.
+...more importantly, isn't it weird\n
+that greed is a Visual type trait?
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -466,22 +466,24 @@ Damian:
 //\n力悪がアニマル系っていうのはよく分かるし、\n知悪がサイコ系っていうのも\nその通りだけどさ。
 \n
 Power is Animal type, and wisdom is\n
-Psycho type. Do you see now?
+Psycho type. Those are obvious.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nねぇ、欲悪ってコロニーには\nリンダとマラケシュしかいないけど、\n他にもいるって知ってる？
 \n
-Linda and Marrakech aren't the\n
-only greedy people in the colony.
+Linda and Marrakech may be the\n
+only "greedy" types, but...
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nえへへ、ほんとだよ。\nじゃあね、帰るから。
 \n
-Heehee, just wait and see!\n
+...you'll see soon that they're\n
+not the only greedy people! 
+<$0C>
 Anyways, I'd better go now!
 <$1E><$03><$02><$00>
 
@@ -635,7 +637,7 @@ Damian:
 //\nねぇ、あんたはなにをされるのがイヤなの？
 \n
 Hey, have you ever had to do\n
-something you didn't want to do?
+something you hated doing?
 <$00>
 
 // Pos: 00004438
@@ -650,20 +652,22 @@ Damian:
 <$0D>
 //\nオトナになっていやなことって、\n本当はコドモのころにすごくいやな目に\nあってるんだよ…
 \n
-Know what I hate about becoming an\n
-adult? 
+The things we hate when we become
+adults...
 <$0C>
-All the really bad experiences with\n adults I put up with as a kid.
+...are often rooted in bad experiences\n
+we suffered through in our childhoods.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\n忘れてるだけで。\nふふふ、おかしいのはそのいやなことを\nまたやってる自分がいるんだ。
 \n
-Only, I don't recall what those\n
-experiences were.
+Only, we often forget what those\n
+experiences were over time.
 <$0C>
-And who knows? I could be one of those\n bad experiences to someone right now.
+And who knows? You might be repeating\n
+that cycle without knowing it, hehehe.
 <$0C><$0B>
 //ダミアヌス：
 Damian:

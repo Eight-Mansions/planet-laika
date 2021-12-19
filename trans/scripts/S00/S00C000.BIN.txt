@@ -394,7 +394,7 @@ Memory card corrupt!
 //P:000113A2
 #WRITE(PTR, $0000FBF8)
 //ブリックロード
-Brick Road
+ - Brick Road
 <$00>
 
 //P:00011AB8
@@ -996,7 +996,7 @@ April:
 April:
 <$0D>
 //\nでもなんだか面白そうじゃない？
-\nI understand, but it does make\nfor a juicy day on the job, no?
+\nI understand, but it does make\nfor an interesting workday, no?
 <$00>
 
 //P:000114C6

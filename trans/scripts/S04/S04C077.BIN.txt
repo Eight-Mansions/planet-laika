@@ -299,16 +299,16 @@ Gold:
 A good person was seen in Valles\n
 Memoriae.
 <$0C>
-That means they'll soon\n
-be posessed by evil.
+They're not safe there. They could\n
+wind up posessed by evil very soon.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nあんたのお仲間なのか？\nそいつは善人だったのか？
 \n
-It's not safe. Could it be your friend?\n
-Are companions good people?
+Are your crewmates good people.\n
+Then hope it isn't one of them.
 <$1E><$02><$08><$00>
 
 // Pos: 00002EE0
@@ -340,7 +340,7 @@ Gold:
 //\nおう、お前、レッドに何したんだ？\n変なこと口走りながら出て行きやがったぜ。
 \n
 What did you do to Red? He just\n
-walked out mumbling strangely.
+walked out mumbling nonsense.
 <$0C><$0B>
 //ゴールド：
 Gold:

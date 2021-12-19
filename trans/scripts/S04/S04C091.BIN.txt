@@ -378,7 +378,8 @@ Hand over the Red Stone?\n
 
 <$1B>
 //。渡す\n渡さない
-。Yes\nNo
+。Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00002C78
@@ -607,10 +608,10 @@ Herod:
 <$0D>
 //\nふん、お前か、調査隊っていうのは。\nまた地球化計画とやらの話が持ち上がったのか。\nそれでこそこそ調べに来た、そうなんだな。
 \n
-They mean you, kid? Are you here
+They mean you, kid? Are you here\n
 for the terraformation project?
 <$0C>
-Let me quess: you're here to
+Let me quess: you're here to\n
 see if we're up to any trouble.
 <$0C><$0B>
 //ヘロデ：

@@ -135,11 +135,11 @@ Spacer:
 But those voices came from deep,\n
 dark childhood memories.
 <$0C>
-Honestly, I thought 
+...
 <$0F>
 //は、忘れてなかったんだ。
-\n
-forgot all that.
+ still hasn't\n
+forgotten about all that.
 <$00>
 
 // Pos: 000048D0
@@ -154,7 +154,7 @@ Yolanda:
 <$0D>
 //\nあーら、作用だなんて、\nいやな惑じね。
 \n
-Oh, so we're getting a contact high?\n
+And we're getting a contact high?\n
 Aren't we lucky.
 <$0C><$0B>
 //ヨランダ：
@@ -172,8 +172,8 @@ Yolanda:
 <$0D>
 //\n宇宙航空隊の無線技師って、\nえらく大変なお仕事なのね。
 \n
-Honestly, who accepts a radio tech\n
-job from the ISF at this time of year?
+Being a radio tech for the ISF\n
+sure is a fucky little job.
 <$00>
 
 // Pos: 00004958
@@ -195,8 +195,8 @@ Ernest:
 <$0D>
 //\nちょっとばかしタイクツしてたところだ、\nせいぜい楽しませてもらうぜ。
 \n
-Bores me to tears, but if that's\n
-what decks their halls, so be it.
+I was getting bored, so if this\n
+decks ALL our halls, I'm in.
 <$00>
 
 // Pos: 0000499E
@@ -211,10 +211,11 @@ Yolanda:
 <$0D>
 //\nじゃあ、ロケットから見えたのは、本物なのね。\n火星の顔、あれがそうなのね？
 \n
-Yeah, they always wanted to see\n
-Mars from inside a rocket. 
+Mhmm, and we saw from inside the\n
+rocket was the real deal then?
 <$0C>
-I mean, shit, who knew Mars\nhad a face?
+Shit, then THAT means that face
+we landed by really exists too!
 <$00>
 
 // Pos: 000049D4
@@ -229,7 +230,7 @@ Spacer:
 <$0D>
 //\n本物だ。 ザ・フェイスと呼ばれている、\n火星人のイセキだ。
 \n
-Everyone, Jo. We're near the Face,\n
+That's right, Jo. We're near "The Face",\n
 a major Martian archeological site.
 <$0C><$0B>
 //スペーサー：
@@ -444,8 +445,8 @@ Are you talking to the stars again?
 
 <$02><$11><$01>
 //ひゃひゃひゃ、ケッサクだこりゃ！
-Hyahyahya! Get a life, space\n
-brain!
+Hyahyahya!\n
+Get a life, space brain!
 <$0E><$3C><$17><$00>
 
 // Pos: 00004C76
@@ -456,8 +457,8 @@ brain!
 
 <$02><$11><$01>
 //いつまでいい子でいたいんだ、お前は？
-You always were a boring goody\n
-two-shoes.
+How long do you plan on playing\n
+the boring goody two-shoes?
 <$0E><$3C><$17><$00>
 
 // Pos: 00004C90
@@ -471,6 +472,6 @@ two-shoes.
 Don't look at me with those eyes!
 <$0E><$3C><$17><$00><$00>
 //えへへ、見つかった？ まだ？
-Heehee, found them yet?
+Heehee, found me yet?
 <$1E><$03><$02><$00>
 

@@ -41,8 +41,8 @@ Captain Tatler:
 <$0D>
 //\n着陸予定地を少しずれたが、\nなんとかなるだろう。
 \n
-Whatever happened, we missed our\n
-intended landing site by a hair.
+Whatever happened, we only missed\n
+our intended landing site by a hair.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -56,8 +56,11 @@ Captain Tatler:
 <$0D>
 //\n実は先遣隊が隠れ住んでいるというウワサも\nあるんだ。
 \n
-Monsters aside, there's a rumor that\n
-some ex-vanguard units live out there.
+There's another fruit there to\n
+be reaped from today's labor.
+<$0C>
+Rumor says our ex-vanguard units\n
+are living out here in secret.
 <$00>
 
 // Pos: 00002B7F
