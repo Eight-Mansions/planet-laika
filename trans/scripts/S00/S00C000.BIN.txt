@@ -4,11 +4,7 @@
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2149449728, 32)
 
-// This controls the allowed length of the text shown on screen. Why is it in this file? Meow.
-#JMP($000100B0)
-<$48>
-
-#JMP($000110AC)
+#JMP($000124B8)
 
 //P:000110AC
 #WRITE(PTR, $0000FAAC)
@@ -165,7 +161,7 @@ Select page.
 //P:0001118C
 #WRITE(PTR, $0000FB60)
 //フォーマットしますか？     はい いいえ
-Format?                Yes  No
+Format?                 Yes  No
 <$00>
 
 //P:000111A4
@@ -195,7 +191,7 @@ Memory card not formatted.
 //P:000111EC
 #WRITE(PTR, $0000FB74)
 //ファイルを作ってもいいですか？ はい いいえ
-Create file?              Yes  No
+Create?                 Yes  No
 <$00>
 
 //P:00011204
@@ -219,7 +215,7 @@ Insufficient blocks!
 //P:00011238
 #WRITE(PTR, $0000FB84)
 //上書きしてもいいですか？    はい いいえ
-Overwrite?             Yes  No
+Overwrite?              Yes  No
 <$00>
 
 //P:00011252
@@ -919,7 +915,9 @@ Restores EM
 April:
 <$0D>
 //\nメディスンマンに話を開きに行かない？
-\nAren't we off to speak with the medicine men?
+\n
+Aren't we off to speak with\n
+the medicine men?
 <$00>
 
 //P:00011421
@@ -929,13 +927,17 @@ April:
 April:
 <$0D>
 //\nそこが整形屋さんね、\n人間に似せて顔を作るところって。
-\nThere's a plastic surgeon there who makes faces for people who want to look human.
+\n
+There's a plastic surgeon there who\n
+makes human-looking faces for people.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nなんだか変な臭いがする…生臭いよ。\nねぇ、気味悪いから行こうよ。
-\nIt smells weird... It's too creepy for me. Can we leave?
+\n
+It smells weird... It's too\n
+creepy for me. Can we leave?
 <$00>
 
 //P:000113CC
@@ -945,19 +947,24 @@ April:
 April:
 <$0D>
 //\nハウスってここのことね。
-\nThis is the lab, isn't it.
+\n
+This is the lab, isn't it.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n暗証番号だよライカ、\nマウンテンが教えてくれるって。
-\nWe're supposed to find a man named Mountain. He'll give us the PIN we need.
+\n
+A man named Mountain will\n
+give us the PIN we need.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n私、ここで待ってる。
-\nGo ahead, Laika. I'll wait here.
+\n
+Go ahead, Laika.\n
+I'll wait here.
 <$00>
 
 //P:00011565
@@ -967,7 +974,9 @@ April:
 April:
 <$0D>
 //\nちゃんと開けた、暗証番号？\n行こう、換気塔の手前を右よ。
-\nIf all we need's the PIN, let's check to the right of the ventilation tower.
+\n
+If all we need's the PIN, let's\n
+look around ventilation tower.
 <$00>
 
 //P:0001147E
@@ -990,13 +999,17 @@ April:
 April:
 <$0D>
 //\nどうしたの、ライカ？\n宿命とか蕃判とか、変な話ばっかり…
-\nWhat's wrong, Laika? Are "destiny"\nand "Judgement" freaking you out?
+\n
+What's wrong, Laika? Are "destiny"\n
+and "Judgement" freaking you out?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nでもなんだか面白そうじゃない？
-\nI understand, but it does make\nfor an interesting workday, no?
+\n
+I understand, but it does make\n
+for an interesting workday, no?
 <$00>
 
 //P:000114C6
@@ -1006,13 +1019,16 @@ April:
 April:
 <$0D>
 //\n消灯時間っていつのことなのかなぁ…
-\nWhat time do they shut off the\nlights normally?
+\n
+What time do they shut off the\n
+lights normally?
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n消灯時間になったりなってなかったり、\nフキソクなのよ。
-\nIs it irregular? How can we tell\nif it comes sooner or later on?
+\nIs it irregular? How can we tell\n
+if it comes sooner or later on?
 <$00>
 
 //P:0001150F
@@ -1023,13 +1039,14 @@ April:
 April:
 <$0D>
 //\n記憶の谷よ、ライカ。
-\nWe're off to Valles Memoriae, Laika.
+\nWe're off to Valles Memoriae.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nきっとブリックロードの黒いカベに\n入口があるのよ。
-\nIf we pass through the black wall\non Brick Road, we'll find the valley.
+\nIf we pass through the black wall\n
+on Brick Road, we'll find it.
 <$00>
 
 //P:0001154D
@@ -1039,7 +1056,7 @@ April:
 April:
 <$0D>
 //\n記憶の谷よ、ライカ。
-\nWe're off to Valles Memoriae, Laika.
+\nWe're off to Valles Memoriae.
 <$00>
 
 //P:00011596
@@ -1049,7 +1066,9 @@ April:
 Yolanda:
 <$0D>
 //\nそれにしてもさ、何か陰気くさいところよね。\n気が滅入っちゃう。
-\nLook at this gloomy-ass place.\nTalk about depressing.
+\n
+Look at this gloomy-ass place.\n
+Talk about depressing.
 <$0C><$13>
 //か
 <$0B>
@@ -1057,7 +1076,8 @@ Yolanda:
 April:
 <$0D>
 //\n町の中に入ってみない？
-\nShouldn't we go farther in?
+\n
+Shouldn't we go farther in?
 <$00>
 
 //P:00011613
@@ -1069,7 +1089,9 @@ April:
 Yolanda:
 <$0D>
 //\n家がみんな書き割りよ、ウソの町よ、\n気味悪い。
-\nThe houses are all painted standees,\nas if this town's one big set up.
+\n
+The houses are all standees,\n
+as if this town's one big set up.
 <$0C><$13>
 //か
 <$0B>
@@ -1077,7 +1099,9 @@ Yolanda:
 April:
 <$0D>
 //\n記憶… それとも願望なのかな…
-\nMaybe...it's made up of memories,\nor some kind of wish.
+\n
+Maybe...it's made up of memories,\n
+or some kind of wish.
 <$00>
 
 //P:000115DE
@@ -1087,7 +1111,9 @@ April:
 Yolanda:
 <$0D>
 //\n妙なカッコウね… なんだかね。
-\nA figure in the sand?\nWhat's up with that?
+\n
+A figure in the sand?\n
+What's up with that?
 <$0C><$13>
 //か
 か
@@ -1096,7 +1122,8 @@ Yolanda:
 April:
 <$0D>
 //\n私たちが見えてないのかな？
-\nCan they not see us?
+\n
+Can they not see us?
 <$00>
 
 //P:0001165A
@@ -1106,7 +1133,9 @@ April:
 Yolanda:
 <$0D>
 //\nすっかりいかれちゃった、そんな惑じね。
-\nThe hell happened to your\nfriend, huh? He's lost it!
+\n
+The hell happened to your\n
+friend, huh? He's lost it!
 <$0C><$13>
 //か
 か
@@ -1115,19 +1144,24 @@ Yolanda:
 April:
 <$0D>
 //\nガリルがいるのよ、すぐ近くに。
-\nGalil is in the immediate area.
+\n
+Galil is in the immediate area.
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nよく思い出せないんだけど…\nロケットの中で話してたわね、ガリルのこと。
-\nI don't remember the details,\nbut I heard his name on the flight.
+\n
+I don't remember the details,\n
+but I heard his name on the flight.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n話の雰囲気からして、神様になろうとしている…\nそんな惑じじゃなかった？
-\nGod-complex, something-something.\nWhat makes you think he's here?
+\n
+God-complex, something-something.\n
+What makes you think he's here?
 <$0C><$13>
 //か
 か
@@ -1136,37 +1170,48 @@ Yolanda:
 April:
 <$0D>
 //\n火星で多くの人が幻覚に悩まされたりするように\nなったのは、ガリルが姿を消してからなの。
-\nWell, it wasn't until Galil went\nMIA that people began hallucinating.
+\n
+Well, it wasn't until Galil went\n
+MIA that people began hallucinating.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
-\nBefore that, Mars was another\ndeserted planet to leave the exiles.
+\n
+Before that, Mars was another\n
+deserted planet to leave the exiles.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nこの星とガリルがつながっている…\n光の私…船長はそんな言葉を口にしていたね。
-\nGalil claimed to have a purpose\nhere. He called himself "the light".
+\n
+Galil claimed to have a purpose\n
+here. He called himself "the light".
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n船長たちねぇ…
-\nYeah. Speaking of Captain Tatler...
+\n
+Yeah. Speaking of Captain Tatler...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nそう言えばクロエちゃんのいい人って\nタトラー船長のことでしょ。
-\nYou also mentioned him being\nsweet on a girl named Chloe.
+\n
+You also mentioned him being\n
+sweet on a girl named Chloe.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nどこにいるの？ さがしてみない？
-\nDo you think she's here?\nShould we go look for her?
+\n
+Do you think he's here?\n
+Should we go look for him?
 <$00>
 
 //P:000117F7
@@ -1179,7 +1224,9 @@ Yolanda:
 April:
 <$0D>
 //\nヌーンよ、彼が持ちこたえられなくなったのよ。\n町長屋敷に行ってみない？
-\nNoon can't last like this.\nShouldn't we go to the cottage?
+\n
+Noon can't last like this.\n
+Can we go to the cottage?
 <$00>
 
 //P:000118D5
@@ -1190,13 +1237,16 @@ April:
 Cosmas:
 <$0D>
 //\n僕は出歩いてなんかいないよ、ダークマン。
-\nI didn't expect taking\na walk today, Dark Man.
+\n
+I didn't expect taking\n
+a walk today, Dark Man.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nねぇ、そうだろ、\n僕、ずっとオウチにいたよね。
-\nYeah, you know me. I'm always\nstuck indoors, aren't I?
+\nYeah, you know me. I'm always\n
+stuck indoors, aren't I?
 <$00>
 
 //P:0001182C
@@ -1208,7 +1258,9 @@ Cosmas:
 Cosmas:
 <$0D>
 //\nねぇ、ダークマン、\n他の人の苦しみも増えてるの？\nここは苦しみで埋めつくされるの？
-\nHey, Dark Man? Are people suffering\nmore? Is this place filled with suffering yet?
+\nHey, Dark Man? Are people\n
+suffering more? Is this place\n
+filled with suffering yet?
 <$00>
 
 //P:00011864
@@ -1218,7 +1270,9 @@ Cosmas:
 Cosmas:
 <$0D>
 //\nねぇ、ダークマン。 そっちにいくと\nレッドおじさんがいるよ。 きっといるよ。
-\nWait, Dark Man. If you go that\nway, you'll run into Uncle Red.
+\n
+Wait, Dark Man. If you go that\n
+way, you'll run into Uncle Red.
 <$00>
 
 //P:00011894
@@ -1228,13 +1282,16 @@ Cosmas:
 Cosmas:
 <$0D>
 //\n僕、ときどき夢見るんだ。\n裏側からこの部屋、見てるんだ。
-\nSometimes, I have this dream where\nI look into this room from the other side.
+\n
+Sometimes, I have this dream where I\n
+look into this room from the other side.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nでもつながってないんだよ。
-\nBut "other side" means it's\nconnected to a way out, which it's not.
+\nBut "other side" means it's\n
+connected to a way out, which it's not.
 <$00>
 
 //P:00011917
@@ -1246,7 +1303,9 @@ Cosmas:
 Little:
 <$0D>
 //\nそうだそうだ、デジャブみたいだ、\n前にも同じことしてたぞ…さあ、急いでくれ。
-\nI'm feelin' deja vu, get it? Yeah,\nI've dealt with this before... Come on.
+\n
+I'm feelin' deja vu, get it? Yeah,\n
+I've dealt with this before... Come on.
 <$00>
 
 //P:00011948
@@ -1266,7 +1325,9 @@ Little:
 April:
 <$0D>
 //\n忘却の海にはなにもなさそうね。
-\nIt doesn't seem to be anything\nin Oceanum oblivionis.
+\n
+It doesn't seem to be anything\n
+in Oceanum oblivionis.
 <$00>
 
 //P:00011965
@@ -1276,7 +1337,9 @@ April:
 April:
 <$0D>
 //\n何かあったら知らせてね。\nここで待ってるから。
-\nLet me know if anything comes\nup. I'll wait here.
+\n
+Let me know if anything comes\n
+up. I'll wait here.
 <$00>
 
 //P:00011A03
@@ -1290,7 +1353,9 @@ April:
 \n
 <$0F>
 //…\nなんでかなあ、ついライカって呼んじゃうの。
-...\nSorry, I know "Laika" tends\nto slip out when I call on you.
+...\n
+Sorry, I know "Laika" tends\n
+to slip out when I call on you.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -1299,7 +1364,8 @@ April:
 \n
 <$0F>
 //ってすごくステキな名前なのに\n私にはライカの方が呼びやすいの。 変ね。
- is a nice name, but Laika comes\nto mind first. Silly, isn't it?
+ is a nice name, but "Laika"\n
+mentally cuts in line. Silly, huh.
 <$00>
 
 //P:00011A59
@@ -1311,7 +1377,9 @@ April:
 April:
 <$0D>
 //\nねえ、ライカ、リトルよ。\nリトルを見つけるの。
-\nHey, Laika. It's Little.\nWe should look for him.
+\n
+Hey, Laika. It's Little.\n
+We should look for him.
 <$00>
 
 //P:000119E2
@@ -1321,7 +1389,9 @@ April:
 April:
 <$0D>
 //\nねえ、ここ階段がある。\n降りてみない？
-\nAh! There are stairs here.\nWhy not take the first step? 
+\n
+Ah! There are stairs here.\n
+Why not take the first step? 
 <$00>
 
 //P:00011A7B
@@ -1331,6 +1401,62 @@ April:
 April:
 <$0D>
 //\nどうしたの、急におびえはじめて。\nこの先に何があるの？
-\nWhat's going on? I feel so scared\nall of a sudden. What's up ahead?
+\n
+What's going on? I feel so scared\n
+all of a sudden. What's up ahead?
 <$00>
 
+
+// Pos: 00011AA4
+#WLB(PTR, $00006EBC)
+#WHB(PTR, $00006EBD)
+<$10>
+//\nアイテムがいっぱいです。
+The item bag is full!
+<$0E><$1E><$17><$00><$10><$00>
+//を手に入れた。
+ acquired.
+<$00><$00><$00>
+
+// Pos: 00011AC4
+#WLB(PTR, $000066F8)
+#WHB(PTR, $000066F9)
+<$10><$0B><$10>
+//：
+:
+<$0D>
+//\n何かあるが…取れない、私では無理だ。
+\n
+I see something in there,\n
+but I can't force it out.
+<$00>
+
+// Pos: 00011AE0
+#WLB(PTR, $00006700)
+#WHB(PTR, $00006701)
+<$10><$0B><$10>
+//：
+:
+<$0D>
+//\n何かしら…何かあるわ、取れそうもないわね。
+\n
+Something's in there, but I'm\n
+not breaking a nail to grab it.
+<$00>
+
+// Pos: 00011AFD
+#WLB(PTR, $000079B4)
+#WHB(PTR, $000079B5)
+#WLB(PTR, $00007BB8)
+#WHB(PTR, $00007BB9)
+#WLB(PTR, $00007D10)
+#WHB(PTR, $00007D11)
+#WLB(PTR, $00007E60)
+#WHB(PTR, $00007E61)
+#WLB(PTR, $00007EF8)
+#WHB(PTR, $00007EF9)
+
+<$00>
+//何も起こらなかった。
+Nothing happened.
+<$0E><$1E><$17><$00>

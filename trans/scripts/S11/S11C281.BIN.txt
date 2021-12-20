@@ -160,7 +160,7 @@ Mountain:
 \n
 And, you are...oh! 
 <$0C>
-Yes, you're our messanger, here
+Yes, you're our messanger, here\n
 to bring good news of great joy!
 <$0C><$0B>
 //マウンテン：
@@ -197,8 +197,8 @@ Mountain:
 \n
 Don't worry, I believe you! 
 <$0C>
-Inter-planetary travel is when\n
-easy, if you're a plasma.
+Inter-planetary travel is easy,\n
+when assuming a plasma-like form!
 <$00>
 
 // Pos: 00001EDA
@@ -246,7 +246,7 @@ Mountain:
 //\nあんたを見て分かった、やっぱりな。\nさぐりに行くんだろ、\nやつらだ、メディスンマンのやつらだ。
 \n
 From that look on your face, you!\n
-are sniffing for medicine men.
+are sniffing for the medicine men.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -257,7 +257,7 @@ They have their PHDs in screwing\n
 around. 
 <$0C>
 They shouldn't underestimate\n
-the Venusians, but they do.
+the Venusians, and yet they do.
 <$0C><$0B>
 //マウンテン：
 Mountain:

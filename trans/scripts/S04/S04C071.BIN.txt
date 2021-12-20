@@ -110,8 +110,8 @@ April:
 What makes the medicine men\n
 so different? 
 <$0C>
-Don they not live among\n
-the colony?
+Do they not get along\n
+with the rest of colony?
 <$00>
 
 // Pos: 000030B8
@@ -159,7 +159,7 @@ Cosmas:
 \n
 He's a researcher at Psycho Lab.
 <$0C>
-He know the PIN to enter the\n
+He knows the PIN to enter the\n
 medicine men's lodge.
 <$0C><$0B>
 //コスマス：
@@ -240,8 +240,8 @@ Cosmas:
 \n
 Not people from Venus, no.\n
 <$0C>
-Venusians are the energy being\n
-sent through space from Venus.
+"Venusians" are the energy waves\n
+sent from Venus into outer space.
 <$00>
 
 // Pos: 0000320E

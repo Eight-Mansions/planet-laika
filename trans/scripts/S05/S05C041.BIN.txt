@@ -86,8 +86,7 @@ White Eagle:
 <$0D>
 //\n星の邪気と言ってもいいじゃろう。
 \n
-It's a fitting name for Mars's malice,\n
-no?
+It's a fitting name for Mars's malice.
 <$00>
 
 // Pos: 00003CE9
@@ -102,16 +101,16 @@ April:
 <$0D>
 //\nイーブルマインド…\n土が原因だったわけじゃないのね。
 \n
-Evil Mind... It's not so simple as "toxic\n
-topsoil", I see.
+Evil Mind... It's not so simple\n
+as "toxic topsoil", I see.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nガリル大佐もそのイーブルマインドに…
 \n
-Maybe this Evil Mind is what got to Col.\n
-Galil as well.
+Maybe this ill will was what got\n
+to Colonel Galil.
 <$00>
 
 // Pos: 00003D2F
@@ -310,7 +309,7 @@ April:
 //\nだからウワサの出所を突きとめることなの。\nガリル大佐が何か関係してる、\nそこまではつかんでいるのよ。
 \n
 Our unit's mission is to investigate\n
-them, plus learn the fate of Colonel Galil.
+the rumors, and find Colonel Galil.
 <$00>
 
 // Pos: 00003F8F
@@ -329,7 +328,7 @@ Haww, haww, haww!\n
 Terraformation...
 <$0C>
 Yes, I see. Is this to bring\n
-MORE people back to Mars?
+MORE people up to Mars?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -548,7 +547,7 @@ April:
 <$0D>
 //\nブリックロードの黒いカベね。\nありがとう。
 \n
-A black wall in Brick Road? All right.\n
+A black wall on Brick Road? All right.\n
 Thank you very much.
 <$00>
 

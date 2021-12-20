@@ -178,8 +178,8 @@ Veronica:
 \n
 What a couple of knucklebones.
 <$0C>
-You're not a total pushover\n
-like they are, I hope.
+You're not a total space\n
+case like they are, I hope.
 <$00>
 
 // Pos: 00002137
@@ -194,8 +194,8 @@ Veronica:
 <$0D>
 //\nねぇ、簡単ってどういうことか知ってる？
 \n
-You know what "knucklebones"\n
-were, right?
+You at least know what\n
+"knucklebones" are, right?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -251,7 +251,7 @@ Veronica:
 I'm Veronica. And you are?
 <$1B>
 //．ライカ\n
-. Laika\n
+.Laika\n
 <$0F><$00><$17><$00>
 
 // Pos: 0000220C
@@ -275,9 +275,9 @@ Veronica:
 //\nナイトプラネットにはゴールドがいるの。\nあとスモーキーもよくやってくる。
 \n
 Gold never leaves NIGHT PLANET,\n
-so you can go ask, but...
+so you can ask him about her,
 <$0C>
-...that creeper, Smokey, is\n
+but that creeper, Smokey, is\n
 also a regular of the said bar.
 <$00>
 
@@ -294,7 +294,7 @@ Veronica:
 //\nあいつ、大キライ。スモーキー…\n死んでしまえばいいのよ。\nあんたもきっとそう思うから。
 \n
 I hate Smokey. I'd rather he died.\n
-If you ever met him, you'd agree.
+If you meet him, you'll agree.
 <$1E><$03>
 //軌
 軌
@@ -305,8 +305,8 @@ Veronica:
 //\nエッジの鏡ができたら、\nあんなやつら、みんな消えるんだ。\n空の騎士に吸い込まれてしまうのよ。
 \n
 When Edge's mirror is complete,\n
-everyone will be devoured by\n
-the rider in the sky.
+all like them will be devoured\n
+by the rider in the sky.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -315,7 +315,7 @@ Veronica:
 \n
 When the mirror is complete,\n
 Edge will return. He'll return\n
-once everyone else is dead.
+once everyone is dead.
 <$1E><$03><$04><$00>
 
 // Pos: 00002325

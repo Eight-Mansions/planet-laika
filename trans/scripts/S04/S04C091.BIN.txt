@@ -394,10 +394,11 @@ West:
 <$0D>
 //\nそれはない。\nお前は赤い石を持ってる、\n渡すことでお前は救われる。
 \n
-That's not right, you have the red\n
-stone! Giving us the red stone will
+That's not right!\n
+You have the red stone!
 <$0C>
-help you!
+Giving us the red stone\n
+will help you!
 <$00>
 
 // Pos: 00002CA8
@@ -611,7 +612,7 @@ Herod:
 They mean you, kid? Are you here\n
 for the terraformation project?
 <$0C>
-Let me quess: you're here to\n
+Let me guess: you're here to\n
 see if we're up to any trouble.
 <$0C><$0B>
 //ヘロデ：
@@ -684,7 +685,8 @@ Herod:
 <$0D>
 //\n私はお前たちが見捨てたこの星を\nなんとか立て直そうと、身を粉にして働いた。
 \n
-I worked my ass off, got it?
+I worked too hard for your shit,\n
+got it?
 <$0C>
 I rebuilt this planet from the dust\n
 up after YOU parasites dumped it!
@@ -706,7 +708,7 @@ Herod:
 //\nその甲斐あってコロニーはよみがえった。\nもう流刑地などと呼ばせるわけにはいかない。
 \n
 I revived this colony to "be like\n
-Earth", not "be Earth 2.0"!
+Earth", not "be Earth's"!
 <$0C><$0B>
 //ヘロデ：
 Herod:
