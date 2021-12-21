@@ -48,8 +48,16 @@ TextDrawFlagsArea: equ 0x800F1000
 ; ---------------------------------------------------------------------------
 
 
-; Setup current width of the letter
+; Dialogue
 .org 0x8001de9c
+	jal getLetterWidth
+	
+; Items
+.org 0x8001e6b4
+	jal getLetterWidth
+
+; Names
+.org 0x8001d568
 	jal getLetterWidth
 	
 .org 0x8001e620
@@ -81,7 +89,7 @@ getLetterWidth:
 not_newline:
 	j 0x8001e518	
 	nop
-	
+
 storeLetterWidth:
 	la v0, nex_width
 	lb v0, 0(v0)
