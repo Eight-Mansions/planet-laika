@@ -938,7 +938,7 @@ Little:
 <$0D>
 //\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
 \n
-How lovely. So, you don't care\n
+How lovely. So, you DON'T care\n
 about our warehouse next door?
 <$0C>
 The one that stores our\n
@@ -1013,7 +1013,7 @@ Little:
 You all obsess over human faces so\n
 bad, you'll swarm to it like bees.
 <$0C>
-And then, when you see it, you'll
+And then, when you see it, you'll\n
 pay us for cosmetic surgery!
 <$00><$10><$0B>
 //エイプリル：

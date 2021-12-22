@@ -1283,15 +1283,18 @@ Cosmas:
 <$0D>
 //\n僕、ときどき夢見るんだ。\n裏側からこの部屋、見てるんだ。
 \n
-Sometimes, I have this dream where I\n
-look into this room from the other side.
+Sometimes, when I dream,...
+<$0C>
+...I'm looking into this room
+from the other side.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nでもつながってないんだよ。
-\nBut "other side" means it's\n
-connected to a way out, which it's not.
+\n
+The thing is, that other side\n
+isn't connected to this room.
 <$00>
 
 //P:00011917
@@ -1412,6 +1415,7 @@ all of a sudden. What's up ahead?
 #WHB(PTR, $00006EBD)
 <$10>
 //\nアイテムがいっぱいです。
+\n
 The item bag is full!
 <$0E><$1E><$17><$00><$10><$00>
 //を手に入れた。

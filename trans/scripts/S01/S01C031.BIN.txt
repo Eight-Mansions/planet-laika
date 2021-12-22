@@ -24,8 +24,8 @@ AUTO LANDING SYSTEM, CHECK.
 
 <$10>
 //装置、オン！\n目標、シドニアエリア。顔のそば！
-NOW APPROACHING PARAMETER OF THE\n
-FACE IN THE CYDONIA REGION.
+NOW APPROACHING PARAMETER OF\n
+"THE FACE" IN THE CYDONIA REGION.
 <$00>
 
 // Pos: 000039D3
@@ -433,7 +433,7 @@ Captain Tatler:
 //\nナゾのメッセージを最後に連絡は途絶えた。
 \n
 "God is dead. I am the light."\n
-And with that, his unit cut all contact.
+And with that, his unit cut contact.
 <$0C>
 Forever.
 <$0C><$0B>
@@ -442,7 +442,7 @@ Captain Tatler:
 <$0D>
 //\n火星に妙なウワサがはびこるようになったのは\nそれからのことだ。
 \n
-Right after that, weird rumors
+Right after that, weird rumors\n
 began spreading about Mars.
 <$0C><$0B>
 //タトラー船長：
@@ -450,8 +450,8 @@ Captain Tatler:
 <$0D>
 //\n我々はウワサの出所をさぐって、\n火星はなんでもない、
 \n
-Our mission now is to identify\n
-the source of those rumors.
+Our mission now is to find who,\n
+or what, sparked those rumors.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
