@@ -17,7 +17,8 @@ Little:
 <$0D>
 //\nそうだそうだ！ ただの夢だ！
 \n
-Get it? I get it! This is still a dream!
+Get it? I get it!\n
+This is still a dream!
 <$0C><$0B>
 //リトル：
 Little:
@@ -40,16 +41,16 @@ Little:
 <$0D>
 //\nああああ、トーテムポールみたいな怪物が…
 \n
-Brr, that great, totem-like\n
-monster...
+Brr, that great,\n
+totem-like monster...
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nああああ、ばらばらになりそうだ！ ひゃー！
 \n
-...I thought it was going to tear me\n
-apart! Brr!
+...I thought it was going\n
+to tear me apart! Brr!
 <$00>
 
 // Pos: 00002E49
@@ -80,7 +81,8 @@ Little:
 <$0D>
 //\nあれは夢だ。 そうだ！
 \n
-It's okay! It was only a dream, get it?
+It's okay! It was\n
+only a dream, get it?
 <$0C><$0B>
 //リトル：
 Little:
@@ -95,16 +97,16 @@ Little:
 <$0D>
 //\nちくしょう、あんたの催眠術から\nおかしなことになったんだ。
 \n
-Yeah, it was only YOUR hypnotherapy\n
-that messed me up!
+Yeah, it was only YOUR\n
+hypnotherapy that messed me up!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n俺をどうするつもりなんだ、ええ？
 \n
-What are you trying to do to me,\n
-girly?
+What are you trying\n
+to do to me, girly?
 <$00>
 
 // Pos: 00002EE2
@@ -119,8 +121,8 @@ Madam Agatha:
 <$0D>
 //\nあなたは自分に向き合う努力が足りないのよ、\nリトル。
 \n
-You're not pulling the weight to face\n
-your self, Little.
+You're not pulling the weight\n
+to face your self, Little.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -151,7 +153,7 @@ Little:
 <$0D>
 //\nつきまとうな、あああ、失せろ！ 失せろ！
 \n
-And YOU, girly! Get off my ass!
+And YOU, girly! Get off my ass!\n
 Shoo,\nshoo!
 <$00>
 
@@ -201,8 +203,8 @@ Madam Agatha:
 <$0D>
 //\n何を急ぐの？\n差し支えなければ、教えてくれない？
 \n
-What are you in a hurry for? What is\n
-your purpose? Can you tell me?
+What are you in a hurry for? What\n
+is your purpose? Can you tell me?
 <$00>
 
 // Pos: 0000300F
@@ -229,8 +231,8 @@ Madam Agatha:
 <$0D>
 //\n約束の場所？\n誰と約束したの、ガリルとなの？
 \n
-The Promised Land? Who told you to\n
-go there? Was it Galil?
+The Promised Land? Who told\n
+you to go there? Was it Galil?
 <$00>
 
 // Pos: 00003063
@@ -264,8 +266,8 @@ lifelong journey.
 <$10><$13><$19>
 //この人も知ってるよ、約束の場所のこと。\nそこに行けば僕は用済みになれるんだ。
 This person knows about the\n
-Promised Land too. If we go, I will be\n
-able to serve my purpose.
+Promised Land too. If we go,\n
+I will be able to serve my purpose.
 <$0C>
 //やっとね、ちゃんとね。
 Finally, finally, finally...
@@ -283,8 +285,8 @@ Madam Agatha:
 <$0D>
 //\nそう… 星と意志を交わしたのね。\nそして記憶を与えられたのね。
 \n
-I see. You have crossed paths with\n
-the planet.
+I see. You have crossed\n
+paths with the planet.
 <$0C>
 In return, the planet\n
 granted you recollection.
@@ -294,7 +296,7 @@ Madam Agatha:
 <$0D>
 //\n双子が生き埋めにされたのは\nずいぶん昔のことよ… それなのに…
 \n
-It's been a long time since all of those\n
+It's been a long time since all those\n
 twins were buried alive, and now...
 <$0C><$0B>
 //マダム・アガタ：

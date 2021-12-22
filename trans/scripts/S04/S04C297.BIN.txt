@@ -32,7 +32,8 @@ Marrakech:
 <$0D>
 //\nそうじゃないの？\nええ？ そうなんでしょ、
 \n
-That's it, isn't it? I though so.
+That's it, isn't it?\n
+I though so.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -78,8 +79,8 @@ Marrakech:
 <$0D>
 //\nあら嫌だ、顔だなんて、\n顔ねらってるの顔で分かる、
 \n
-Well, not just your face, but the face\n
-of the face that you're facing.
+Well, not just your face, but the\n
+face of the face you're facing.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -143,16 +144,16 @@ Marrakech:
 <$0D>
 //\nねえ、リャンハウスで\nなにやらかそうっていうの？
 \n
-So, what business did you have at\n
-House Liang?
+So, what business did you\n
+have at House Liang?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nあなたよね、さっきいたの…\nしらばくれてるの？
 \n
-I saw you there before, so no need to\n
-play coy.
+I saw you there before,\n
+so no need to play coy.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -162,7 +163,8 @@ Marrakech:
 Hey, are you listening to me?
 <$1B>
 //,ちゃんと開いてる\nしっかり開いてる
-,Yes, closely\nYes, deeply
+,Yes, closely\n
+Yes, deeply
 <$00><$17><$00>
 
 // Pos: 000027CA
@@ -199,23 +201,23 @@ Marrakech:
 <$0D>
 //\nアタシのことぶったのよ。\nひどい、ぶつなんて！
 \n
-He hit me! He just fucking hit me!
+He hit me! He fucking hit me!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nあんたのせいよ、\nあんたが余計なことするから…
 \n
-This is YOUR fault! YOU'RE the one who\n
-stuck your nose out!
+This is YOUR fault! YOU'RE the\n
+one who stuck your nose out!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nなのにアタシまで手を貸したみたいに\n言われたの。
 \n
-I thought I could diffuse the\n
-situation, but nooo!
+I thought I could diffuse\n
+the situation, but nooo!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -253,8 +255,8 @@ Marrakech:
 <$0D>
 //\nレッドのやつ、ちくしょう！\nアタシのことぶったのよ！
 \n
-Damn Red to Hell! He hit me right in the\n
-face!
+Damn Red to Hell! He hit\n
+me right in the face!
 <$1E><$01><$04><$00>
 
 // Pos: 000028D1
@@ -269,16 +271,16 @@ Marrakech:
 <$0D>
 //\nあのコ… どっかで見たことあるのよね。
 \n
-That lassie...I'd seen her around,\n
-I think.
+That lassie...I'd seen\n
+her around, I think.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\n地球じゃああいうお顔がはやってるの、\nみんなあんなお顔してるの？
 \n
-Do people down on Earth like that\n
-face of hers?
+Do people down on Earth\n
+like that face of hers?
 <$1E><$01><$08><$00>
 
 // Pos: 00002920
@@ -301,8 +303,8 @@ Marrakech:
 <$0D>
 //\nそれにしてもよ、やっぱり変よ、\nあのお顔。いただけない、
 \n
-At any rate, she's a little odd, no?\n
-Her face is off.
+At any rate, she's a little\n
+odd, no? Her face is off.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:

@@ -33,8 +33,8 @@ April:
 <$0D>
 //\nさっきの子、催眠術でも使ったの？
 \n
-That little boy just now, did he use\n
-hypnosis or something?
+That little boy just now,\n
+did he use hypnosis or something?
 <$0C><$0B>
 //エイプリル：
 April:
@@ -81,8 +81,8 @@ April:
 <$0D>
 //\nただ火星の土のサンプルを持ち帰る…\nなんでもいいってわけじゃないけど、\n急にそういう話になって…
 \n
-All I had to do was collect samples of\n
-Martian topsoil, but now...
+All I had to do was collect samples\n
+of Martian topsoil, but now...
 <$0C>
 ...that feels like a goose chase.
 <$0C><$0B>
@@ -214,21 +214,22 @@ April:
 <$0D>
 //\nちゃんとライカ…じゃなかった\n
 \n
-I don't think the name "Laika" will be
-in their registry, though.
+I don't think the name "Laika" will\n
+be in their registry, though.
 <$0D>
 Sorry, but if "
 <$0F>
 //って名前で\n登録されてるはずよ。
-" is on your\npaperwork, you'll have to enter that.
+" is on your\n
+paperwork, you'll have to enter that.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nもう少ししたら私も行くから。
 \n
-Go on without me, and I'll join you\n
-once I catch my breath.
+Go on without me, and I'll join\n
+you once I catch my breath.
 <$00>
 
 // Pos: 00004112
@@ -277,7 +278,8 @@ April:
 <$0D>
 //\n愛されるって、ホントはすごく幸せなこと…
 \n
-I know being loved is a truly happy\n thing to have happen, but...it hurts me.
+I know being loved is a truly happy\n
+thing to have happen, but it hurts.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -291,8 +293,8 @@ April:
 <$0D>
 //\nママのせいよ。\nママは私をかわいがってくれたけど、\nそれはママがそうしたかったからなの。
 \n
-It's my mom's fault. She took care of\n
-me, but only for her own image.
+It's my mom's fault. She took care\n
+of me, but only for her own image.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -315,8 +317,8 @@ April:
 <$0D>
 //\nライカのママはきっと\nすてきな人なんでしょうね…
 \n
-Something tells me your mom was\n
-very good to you.
+Something tells me your mom\n
+was very good to you.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -324,7 +326,7 @@ April:
 //\nライカを見てると分かるような気がする。\nライカのことをすごくほこりに思ってた、\nそうじゃない？
 \n
 When I look at you, I can almost hear\n
-her saying, "I'm so proud of my baby."
+her say, "I'm so proud of my baby."
 <$00>
 
 // Pos: 0000427E

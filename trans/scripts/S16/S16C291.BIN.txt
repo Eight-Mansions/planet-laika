@@ -34,14 +34,14 @@ Feng:
 //\nうふふふふふふ、ヴェロニカは死んだの、\nバカな女。
 \n
 Hohohohoho, well good news!\n
-Veronica is dead, the stupid woman!
+Veronica is dead. Stupid woman!
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nふふふ、蕃判の鏡で私は真っ先に\n自分を照らし出したの…
 \n
-The Mirror of Judgement has revealed\n
+The Mirror of Judgement revealed\n
 the self I was always meant to be!
 <$0C><$0B>
 //フェイ：
@@ -49,8 +49,8 @@ Feng:
 <$0D>
 //\nうふふふふふふ、鏡は私の顔を映すの、\nヴェロニカじゃないのよ！
 \n
-Hohohohoho, the face the mirror\n
-reflected was not Veronica's, but MINE!
+Hohoho, the reflected face in the\n
+mirror was not Veronica's, but MINE!
 <$00>
 
 // Pos: 00001BB8
@@ -76,16 +76,20 @@ Feng:
 <$0D>
 //\n真実の光があばくの、\n隠していたすべてを。
 \n
-May the light of absolute truth shine\n
-and expose all that was hidden from us!
+May the light of absolute\n
+truth shine\n
+<$0C>
+Expose all that was hidden from us!
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nまやかしの世界は消えて、\n私は美のクリエイターになるの！
 \n
-May this world of deception vanish, that\n
-I may be the creator of its true beauty!
+May this world of deception vanish,
+<$0C>
+that I may be the creator\n
+of its true beauty!
 <$0C><$0B>
 //フェイ：
 Feng:

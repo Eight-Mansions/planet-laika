@@ -17,10 +17,12 @@ Tommy:
 <$0D>
 //\nようよう、レッドのやつのこと、開きてぇか？
 \n
-Hey, do you want to hear about Red?
+Hey, do you want to\n
+hear about Red?
 <$1B>
 //、開きたい\n開きたくない
-、Yes\nNo
+、Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00000C9D
@@ -52,7 +54,7 @@ Tommy:
 <$0D>
 //\n本当だ、やつはガキの頃は別人みたいに\n美少年だったんだ、へっ、信じられねぇだろ？
 \n
-Believe it or not, but Red was a real\n
+Believe it or not, Red was a real\n
 pretty boy back in his day.
 <$0C>
 I mean a whole other person.
@@ -62,7 +64,8 @@ Tommy:
 <$0D>
 //\nその美少年顔が災いの元だったんだ。
 \n
-But, that pretty face he had before...\n
+But, that pretty face\n
+he had before...
 <$0C>
 ...is the cause of what he's\n
 doing to that Cosmas kid now.
@@ -118,8 +121,8 @@ Tommy:
 <$0D>
 //\nそうかい、\nとにかくレッドのやつには気を付けな。
 \n
-Gotcha. Either way, make sure you\n
-steer clear of him, a-yup.
+Gotcha. Either way, make sure\n
+you steer clear of him, a-yup.
 <$00>
 
 // Pos: 00000E62
@@ -142,7 +145,7 @@ Tommy:
 //\nはっ、兄ちゃんよう、\nこのへんもヤバイ惑じだな、
 \n
 My Tommy senses are Tommy-ing,\n
-comrade, and that's not a good thing.
+comrade, and that's not good.
 <$0C><$0B>
 //トミー：
 Tommy:

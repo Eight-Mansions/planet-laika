@@ -32,7 +32,8 @@ Madam Agatha:
 <$0D>
 //\nそうよ。\nさあ、行って。早く！
 \n
-Yes, for a moment. Now, you must go!
+Yes, for a moment.\n
+Now, you must go!
 <$00>
 
 // Pos: 00001DBF
@@ -113,8 +114,8 @@ April:
 <$0D>
 //\nわかった。\nありがとう、アガタ。
 \n
-I understand. Thank you for this,\n
-Agatha.
+I understand.\n
+Thank you for this, Agatha.
 <$00>
 
 // Pos: 00001E9B
@@ -129,8 +130,8 @@ Madam Agatha:
 <$0D>
 //\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところよ。
 \n
-Take Brick Road down to Valles\n
-Memoriae.
+Take Brick Road down to\n
+Valles Memoriae.
 <$0C>
 Look for the black wall.
 <$00>

@@ -137,8 +137,8 @@ April:
 <$0D>
 //\nヌーン… ここは屋敷なんかじゃない、\nそれにあなたは町長じゃない、
 \n
-Noon... This isn't your house, and\n
-your not this town's elder.
+Noon... This isn't your house,\n
+and your not this town's elder.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -161,7 +161,8 @@ Noon:
 <$0D>
 //\n任務！\nほほー、これはおどろきだ。
 \n
-The mission?! Hah! 'Ave fun with that.
+The mission?! Hah!\n
+'Ave fun with that.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -272,7 +273,7 @@ April:
 <$0D>
 //\nここはあなたのお家じゃないのよ、ヌーン。
 \n
-And this place isn't your home, Noon.
+And this isn't your home, Noon.
 <$00>
 
 // Pos: 000022FC
@@ -287,15 +288,16 @@ Noon:
 <$0D>
 //\nううう、もらったんだ、\nガリルさんにもらったんだ、
 \n
-Oh, but it IS mine! Galil gave it to me!
+Oh, but it IS mine!\n
+Galil gave it to me!
 <$0C><$0B>
 //ヌーン：
 Noon:
 <$0D>
 //\nここでママと一緒になれる…
 \n
-Galil gave it to me so I could live\n
-together with Mummy.
+Galil gave it to me so I could\n
+live together with Mummy.
 <$00>
 
 // Pos: 00002335
@@ -310,8 +312,8 @@ Yolanda:
 <$0D>
 //\nガリル！\nアタシたちがさがしている人ね！
 \n
-Galil?! That's that colonel guy we\n
-were looking for!
+Galil?! That's that colonel\n
+guy we were looking for!
 <$00>
 
 // Pos: 00002355
@@ -326,8 +328,8 @@ April:
 <$0D>
 //\nガリルに会ったの？\nヌーン、目を覚まして！
 \n
-You met Galil?! Noon, listen to what\n
-you're saying!
+You met Galil?! Noon, listen\n
+to what you're saying!
 <$00>
 
 // Pos: 00002378

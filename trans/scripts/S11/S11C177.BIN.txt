@@ -88,7 +88,9 @@ Well, as a matter of fact...
 3. Who is Uncle Bubbles?
 <$1B>
 //２１ \n２ \n３ 
-２1 \n2 \n3
+２1 \n
+2 \n
+3
 <$00><$17><$00>
 
 // Pos: 0000197D
@@ -103,15 +105,15 @@ Cosmas:
 <$0D>
 //\n僕に兄弟なんていないさ、本当だよ。
 \n
-The truth is, I don't have any siblings.
+The truth is, I don't have siblings.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nレッドおじさんは勝手に話を作り出す\n天才なんだよ。
 \n
-Uncle Red has a gift for spinning tall\n
-tales at the drop of a hat.
+Uncle Red has a gift for spinning\n
+tall tales at the drop of a hat.
 <$00>
 
 // Pos: 000019C6

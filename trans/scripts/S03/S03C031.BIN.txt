@@ -181,8 +181,7 @@ WOULD YOU LIKE TO HEAR WHAT THAT\n
 DIALOGUE WAS?
 <$1B>
 //。開いてみる\n開かない
-。Yes
-<$0C>
+。Yes\n
 No
 <$00><$17><$00>
 
@@ -473,7 +472,7 @@ Olympia #2:
 \n
 IT SURE IS BORING DOWN HERE.
 <$0C>
-WHY ARE YOU STARING ME DOWN
+WHY ARE YOU STARING ME DOWN\n
 LIKE THAT, HUH?
 <$0C><$0B>
 //オリンピア２号：
@@ -629,8 +628,8 @@ Spacer:
 <$0D>
 //\nいやそれはむつかしい問顆をはらんでいる。
 \n
-...No, I imagine it's a tougher nut to\n
-crack than that.
+...No, I imagine it's a tougher nut\n
+to crack than that.
 <$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -711,8 +710,8 @@ Yolanda:
 <$0D>
 //\nねぇ、なんかちょうだいよ。\nくれるんでしょ？
 \n
-Hey, do you have anything for me? A\n
-little souvenir, perhaps?
+Hey, do you have anything for me?\n
+A little souvenir, perhaps?
 <$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -804,8 +803,8 @@ Spacer:
 <$0D>
 //\n何か、持っているだろう。\n私の役に立つ物を。
 \n
-Hey, do you have anything useful for\n
-me?
+Hey, do you have anything\n
+useful for me?
 <$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -970,16 +969,16 @@ Olympia #2:
 <$0D>
 //\nアタラしいテンカイになってきましたね。\nワタシはここでケンブツです。
 \n
-THIS IS A PLOT TWIST, IF I HAVE EVER\n
-HEARD ONE.
+THIS IS A PLOT TWIST,\n
+IF I HAVE EVER HEARD ONE.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nこれがノゾみです。
 \n
-I THINK IT IS FOR THE BEST THAT I\n
-SPECTATE FROM OUT HERE.
+I THINK IT IS FOR THE BEST\n
+THAT I SPECTATE FROM OUT HERE.
 <$00>
 
 // Pos: 00002CC0

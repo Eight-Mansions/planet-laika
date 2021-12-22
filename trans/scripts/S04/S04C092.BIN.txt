@@ -48,8 +48,8 @@ Little:
 <$0D>
 //\nいや、俺は何も知らない、\nそうだそうだ、何もな。
 \n
-No. I don't know any such person, got\n
-it?
+No. I don't know any such person,\n
+got it?
 <$00>
 
 // Pos: 00001F7A
@@ -80,7 +80,8 @@ Little:
 <$0D>
 //\nここはカンペキだ。何も悪いところはない。\n迷信に振り回されて大騒ぎしてるのは\nお前たちの方だ、ええ？
 \n
-Of course not! There's no evil afoot.\n
+Of course not!\n
+There's no evil afoot.\n
 <$0C>
 The rumors and uproars are all\n
 superstition!

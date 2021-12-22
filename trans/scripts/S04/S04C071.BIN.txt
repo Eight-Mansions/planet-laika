@@ -28,7 +28,8 @@ Cosmas:
 <$0D>
 //\nお客さん？
 \n
-You're tourists, right? I'm Cosmas.
+You're tourists, right?\n
+I'm Cosmas.
 <$00>
 
 // Pos: 00002FCF
@@ -43,8 +44,8 @@ April:
 <$0D>
 //\nちょっと開いていい？
 \n
-Oh! Uhm, can we ask you something,\n
-Cosmas?
+Oh! Uhm, can we ask you\n
+something, Cosmas?
 <$00>
 
 // Pos: 00002FE5
@@ -198,8 +199,8 @@ Cosmas:
 <$0D>
 //\nマウンテンたちと\nメディスンマンは仲が悪いんだ。
 \n
-Mountain and the medicine men are\n
-not on good terms.
+Mountain and the medicine\n
+men are not on good terms.
 <$0C><$0B>
 //コスマス：
 Cosmas:

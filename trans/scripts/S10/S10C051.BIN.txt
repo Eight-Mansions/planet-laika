@@ -33,8 +33,8 @@ Liever:
 <$0D>
 //\n子供の頃、遊んだんじゃないの？\nあんたが。
 \n
-Didn't you play with this very rocket\n
-during your childhood?
+Didn't you play with this very\n
+rocket during your childhood?
 <$00>
 
 // Pos: 00000D1A
@@ -104,8 +104,8 @@ Yolanda:
 <$0D>
 //\n彼は刃向かえないのよ。
 \n
-They couldn't accomplish anything\n
-on their own.
+They couldn't accomplish\n
+anything on their own.
 <$00>
 
 // Pos: 00000DB4
@@ -123,8 +123,8 @@ Liever:
 Are you sure? 
 <$0F>
 //なんじゃないの？
- did a smashing job breaking\n
-their own memories apart, after all.
+ did a swell job,\n
+breaking their own memories apart.
 <$00>
 
 // Pos: 00000DE5
@@ -139,8 +139,8 @@ Yolanda:
 <$0D>
 //\nうそ、うそよ、そんなはずないじゃない！
 \n
-No, you're lying! I told you that's not\n
-how it fucking happened!
+No, you're lying! I said that's\n
+not how it fucking happened!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -150,7 +150,7 @@ Yolanda:
 
 <$0F>
 //は善でも悪でもないわ、\n無なのよ。 なにもないの、心もないのよ。
- never accomplished anything!
+ never did ANYTHING!
 <$0C>
 They never HAD anything,\n
 not even a mind of their own!

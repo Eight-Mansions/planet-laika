@@ -32,8 +32,8 @@ Yolanda:
 <$0D>
 //\nあーあ、ジョーダン言わないでよ。
 \n
-Please, I've had enough jokes about\n
-this for one day.
+Please, I've had enough jokes\n
+about this for one day.
 <$00>
 
 // Pos: 00002409
@@ -190,8 +190,8 @@ Oxygen Miner 2：
 <$0D>
 //\n町長か！ この町は町長がこしらえた。\nお前たちの家はない、シーシー。
 \n
-Elder Noon? He made the town, but he\n
-made no houses for you!
+Elder Noon? He made the town,\n
+but he made no houses for you!
 <$0C>
 Whoosh, whoosh.
 <$00>
@@ -286,7 +286,8 @@ Oxygen Miner 2：
 <$0D>
 //\nお前たち、ほんとに住まない？
 \n
-Are you two really going to live here?
+Are you two really going\n
+to live here?
 <$00>
 
 // Pos: 0000262F
@@ -301,8 +302,8 @@ Yolanda:
 <$0D>
 //\nしつこいわね、住むわけないじゃない、\nこんなところに！
 \n
-I've said it enough times already, but\n
-I'd never live in this dump.
+I've said it enough times already,\n
+but I'd never live in this dump.
 <$00>
 
 // Pos: 00002657
@@ -359,7 +360,7 @@ Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-I have no doubt that it's Amanda
+I have no doubt that it's Amanda\n
 who's inside the mirror. 
 <$0C>
 From what I concluded, it's because\n

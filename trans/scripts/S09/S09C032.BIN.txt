@@ -105,8 +105,8 @@ Spacer:
 <$0D>
 //\n靴下…\nプレゼントは何だ？
 \n
-Stockings, huh. And what were these\n
-"presents", exactly?
+Stockings, huh. And what were\n
+these "presents", exactly?
 <$00>
 
 // Pos: 00001711
@@ -121,8 +121,8 @@ Liever:
 <$0D>
 //\nプレゼントは、悪夢だよ。\n双子たちは眠ってる間に… 姿を消した。
 \n
-Nightmares. When both twins fell asleep,\n
-they would both disappear.
+Nightmares. When both twins fell\n
+asleep, they would both disappear.
 <$00>
 
 // Pos: 00001743
@@ -137,8 +137,8 @@ Spacer:
 <$0D>
 //\nしかし、なぜ双子なんだ？\n双子に何かいわれでもあるのか？
 \n
-But why twins? Surely you had a\n
-reason to target twins.
+But why twins? Surely you had\n
+a reason to target twins.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -193,8 +193,8 @@ Spacer:
 <$0D>
 //\nヘロデについて教えてくれ。\nヘロデは誰かにおどかされていたのか？
 \n
-Tell me about Herod. Is he scared of\n
-someone in particular?
+Tell me about Herod. Is he scared\n
+of someone in particular?
 <$00>
 
 // Pos: 0000184D
@@ -209,8 +209,8 @@ Liever:
 <$0D>
 //\n分からないよ。\nあの人は悪夢の中で生まれてきたんだ。
 \n
-That, I don't know. Herod was born\n
-into nightmares.
+That, I don't know.\n
+Herod was born into nightmares.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -233,8 +233,8 @@ Spacer:
 <$0D>
 //\nおびえる心もイーブルマインドにねらわれる、\nそういうことなんだな。
 \n
-A frightened mind is an evil mind, I\n
-suppose.
+A frightened mind is an evil mind,\n
+I suppose.
 <$00>
 
 // Pos: 000018C7
@@ -280,8 +280,8 @@ Little:
 <$0D>
 //\nうううう、何だ？…お前は…
 \n
-Oww, what happened? What're\n
-you...
+Oww, what happened?\n
+What're you...
 <$0C><$0B>
 //リトル：
 Little:
@@ -335,8 +335,8 @@ Liever:
 <$0D>
 //\nはあはあ、僕は、もう用済みだ…\nふふふ、用済み…
 \n
-Haah, I...am obselete. I've,\n
-haah...served my purpose.
+Haah, I...am obselete.\n
+I've, haah...served my purpose.
 <$00>
 
 // Pos: 000019B6

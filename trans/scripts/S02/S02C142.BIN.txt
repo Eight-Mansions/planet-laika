@@ -146,7 +146,7 @@ Liever:
 //\nどうしたの？恐いんじゃないの？\n僕といれば平気だよ。神様が守ってくれるさ。
 \n
 What's the matter? Are you scared?\n
-If you follow me, God will protect you.
+If you follow, God will protect you.
 <$00>
 
 // Pos: 00000EF7
@@ -161,7 +161,8 @@ Yolanda:
 <$0D>
 //\n神様？ここには神様がいるの？
 \n
-God will? You say that like he's here.
+God will? You say that\n
+like he's here.
 <$00>
 
 // Pos: 00000F15

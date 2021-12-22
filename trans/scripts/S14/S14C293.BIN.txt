@@ -55,8 +55,8 @@ Bull:
 <$0D>
 //\nお顔だと？\nおい、お前、俺に変なこと言ったか？
 \n
-What, is it my face?\n
-What the heck do you mean by that?
+What, is it my face? What\n
+the heck do you mean by that?
 <$1E><$02><$08><$00>
 
 // Pos: 000011EE
@@ -67,9 +67,11 @@ What the heck do you mean by that?
 
 <$10><$0B>
 //ブル：
+Bull:
 <$0D>
 //\nこの俺が！ お顔だと！ へん！
 \n
-This is ME? This is MY face? Shiiit!
+This is ME? This is MY face?\n
+Shiiit!
 <$1E><$02><$04><$00>
 

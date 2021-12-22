@@ -24,7 +24,8 @@ Veronica:
 <$0D>
 //\nアタシはただあのまじない人形を…
 \n
-I just took the enchanted doll when...
+I just took the enchanted\n
+doll, when...
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -279,8 +280,8 @@ Mountain:
 <$0D>
 //\nまだ少し残ってるがな、今回のはかなりいい、\n効いたぞ。
 \n
-I've still got a ways to go, but it's\n
-working good so far.
+I've still got a ways to go,\n
+but it's working good so far.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -303,8 +304,8 @@ Mountain:
 <$0D>
 //\nあああ、おお！まただ、また見え始めたぞ、\n映ってるぞ！おおお、これだ、これが望みだ！
 \n
-AHHH! It's there! I see it again! It's\n
-reflecting! This is what I wanted!!
+AHHH! It's there! I see it! It's\n
+reflecting! THIS is what I wanted!
 <$00>
 
 // Pos: 00003F94
@@ -336,8 +337,8 @@ Sparky:
 <$0D>
 //\nねぇ、ここはなんかクサくない？\nああ、分かった、ウィリアムのニオい、\nそうよね、これは…
 \n
-Hey, it kinda smells, doesn't it? Ahh,\n
-yeah, that smells like William.
+Hey, it kinda smells, doesn't it?\n
+Ahh, yeah, that smells like William.
 <$0C><$0B>
 //スパーキー：
 Sparky:

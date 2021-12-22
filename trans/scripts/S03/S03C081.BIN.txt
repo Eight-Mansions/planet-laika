@@ -161,8 +161,8 @@ Ernest:
 <$0D>
 //\nうるせぇ、俺は開いてるんだ！\nお前は誰だ、さっきもいやがったな！
 \n
-Either you'll shut up, or you'll answer\n
-my question.
+Either you'll shut up,\n
+or you'll answer my question.
 <$00>
 
 // Pos: 00002EE7
@@ -203,7 +203,7 @@ Ernest:
 <$0D>
 //\nお前が呼んだのか？
 \n
-Are you the one that called us?
+Are you the one who called us?
 <$0C><$0B>
 //アーネスト：
 Ernest:

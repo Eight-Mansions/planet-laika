@@ -17,16 +17,16 @@ Boomer:
 <$0D>
 //\n悪いな…顔貸してくれ。
 \n
-Ohhh, forgive me... We need only a\n
-moment of your time.
+Ohhh, forgive me... We needa\n
+only  moment of your time.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
 //\n広場でスモーキーが待ってるんだ、来てくれ。\n広場だ。
 \n
-Ahhh, come. Smokey is waiting for\n
-you in the plaza.
+Ahhh, come. Smokey is waiting\n
+for you in the plaza.
 <$1E><$02><$04><$00>
 
 // Pos: 00001E59
@@ -87,7 +87,8 @@ I'm sure that sounds silly.\n
 Do you find that silly?
 <$1B>
 //、おかしい\nおかしくない
-、Yes\nNo
+、Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00001F25
@@ -307,8 +308,8 @@ Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit, and beauty\n
-incarnate. 
+A mirror spirit,\n
+and beauty incarnate. 
 <$0C>
 You can say she and I are\n
 kindred spirits, hoho.
@@ -393,7 +394,7 @@ Feng:
 \n
 My, my! So, you knew.
 <$0C>
-When our inner evils can destroy
+When our inner evils can destroy\n
 our outer, we find Judgement.
 <$00>
 

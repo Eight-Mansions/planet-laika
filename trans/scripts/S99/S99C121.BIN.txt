@@ -28,8 +28,8 @@ Commander October:
 <$0D>
 //\nそれともこれは君にとっては\n自分さがしの旅なのかね？
 \n
-What's more, you're on a journey to\n
-find your self.
+What's more, you're on a journey\n
+to find your self.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -37,7 +37,7 @@ Commander October:
 //\n私としても最善を尽くしているのでね、\n分かって欲しいんだ。
 \n
 I'm doing my best to help you.\n
- I want you to know that.
+I want you to know that.
 <$00>
 
 // Pos: 00003021
@@ -198,7 +198,8 @@ Yolanda:
 <$0D>
 //\nどんな風にしたかって？\n開かないでよアタシに。
 \n
-How he pulled that off,\ndon't ask me.
+How he pulled that off,\n
+don't ask me.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -287,15 +288,15 @@ Commander October:
 <$0D>
 //\nだが、忘れちゃいかん、
 \n
-Do not forget that all you see, and all\n
-you hear...
+Do not forget that all you see,\n
+and all you hear...
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\n君が見るもの、開いたこと、それこそが\n真実の芽になるのだよ、
 \n
-...are the seeds from which you will\n
+...are seeds from which you will\n
 reap absolute truth, 
 <$0F>
 //君。
@@ -346,8 +347,8 @@ Commander October:
 <$0D>
 //\nなんとも罪作りな子羊たちだ。
 \n
-A field for other sinful little lambs to\n
-flock.
+A field for other sinful\n
+little lambs to flock.
 <$00>
 
 // Pos: 000034B8

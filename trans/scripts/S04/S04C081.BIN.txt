@@ -13,8 +13,8 @@
 
 <$10>
 //そうだ、コスマス、\n早くその薬を顔に塗るんだ。
-All right, Cosmas. Let's get this\n
-medicine on your face now.
+All right, Cosmas. Let's get\n
+this medicine on your face now.
 <$00>
 
 // Pos: 00001E72
@@ -41,8 +41,8 @@ made this darling face for you?\n
 Hmm?
 <$0C>
 //俺はなぁ…今夜は気分が乗ってるんだ、\nさあ、こっちへおいで。\nおじさんが塗ってあげよう。
-That's right, me. Now, come over\n
-here and let Uncle doll up your face.\n
+That's right, me. Now, come here\n
+and let Uncle doll up your face.\n
 It'll make you feel good.
 <$00>
 
@@ -81,7 +81,7 @@ April:
 <$0D>
 //\nさっきの子ね。\n無理に整形させられたのね…
 \n
-That's the little boy we saw! Is that\n
+It's the little boy we saw! Is that\n
 man forcing cosmetic surgery on him?!
 <$00>
 
@@ -128,7 +128,8 @@ Hehehe. Cosmas, you're so cute.\n
 You're so damn cute.
 <$0C>
 //おじさん、眠いよ、眠い…
-Uncle. I'm sleepy. Let me sleep...
+Uncle. I'm sleepy.\n
+Let me sleep...
 <$00>
 
 // Pos: 00001F86

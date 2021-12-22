@@ -20,16 +20,16 @@ Madam Agatha:
 Bad news, 
 <$0F>
 //！\nエイプリルよ、彼女も悪夢につかまってるの。
-! It's April.\n
-She's trapped in the nightmares too!
+! It's April. She's\n
+trapped in the nightmares too!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nヘロデの姿も見えるけど、\nどうしても近づけないわ。
 \n
-I can see Herod now, but I can't reach\n
-him to help. He's so scared...
+I can see Herod now, but I can't\n
+reach him to help. He's so scared!
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -80,7 +80,7 @@ Madam Agatha:
 \n
 We cannot fight the planet.
 <$0C>
-Neither can we expect it to
+Neither can we expect it to\n
 side with our selfish ambitions.
 <$0C><$0B>
 //マダム・アガタ：
@@ -99,8 +99,8 @@ Madam Agatha:
 <$0D>
 //\nこの星はあなたを待っているわ。\n使者となったあなたを。
 \n
-The planet is waiting for you to serve\n
-your purpose as its messenger.
+The planet is waiting for you to\n
+serve your purpose as its messenger.
 <$00>
 
 // Pos: 00001247
@@ -147,16 +147,16 @@ Madam Agatha:
 <$0D>
 //\n悪夢の世界にはつながったけど、\nここからは無理ね。
 \n
-It's impossible to reach the Land of\n
-Nightmares from here.
+It's impossible to reach the Land\n
+of Nightmares from here.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何も見えなくなったの。\nエイプリルもいるのよ、悪夢の中に。
 \n
-I can't see anything, but April is there\n
-too. She's in the nightmares.
+I can't see anything, but April is\n
+there too. She's in the nightmares.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

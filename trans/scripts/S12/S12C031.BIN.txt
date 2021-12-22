@@ -143,8 +143,8 @@ Tommy:
 <$0D>
 //\nまた気が遠くなるぜ、おい、何のまじないだ、\n兄ちゃん…
 \n
-I feel like I'm gonna pass out again.\n
-What the heck...
+I feel like I'm gonna pass\n
+out again. What the heck...
 <$00>
 
 // Pos: 00003BCA
@@ -203,8 +203,8 @@ Phoenix:
 <$0D>
 //\nエイプリルはどこにいるんだ？\nまだ見えないのか？
 \n
-Where is April? Have you still not seen\n
-her?
+Where is April? Have you\n
+still not seen her?
 <$00>
 
 // Pos: 00003C75
@@ -235,8 +235,8 @@ Phoenix:
 <$0D>
 //\nエイプリルのことが気になるんだ。\n何か関係ある、この星と関係あるんだ。
 \n
-April makes me curious. She must be\n
-tethered to the planet somehow.
+April makes me curious. She must\n
+be tethered to the planet somehow.
 <$00>
 
 // Pos: 00003CCC
@@ -267,8 +267,8 @@ Phoenix:
 <$0D>
 //\n不思議なんだ、この火星には\nエイプリルの思い出が残されている…
 \n
-It's strange to me that Mars has\n
-memories of April.
+It's strange to me that Mars\n
+has memories of April.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -299,8 +299,8 @@ Chloe:
 <$0D>
 //\n分からないわ。\nとにかくエイプリルは不思議なの、\n私にはそれしか言えないわ。
 \n
-I don't know. April is a mystery on all\n
-counts. That's all I can say.
+I don't know. April is a mystery on\n
+all counts. That's all I can say.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -340,7 +340,7 @@ Chloe:
 <$0D>
 //\nそう、ほら惑じるでしょ、フェニックス、\nこれが本当の瞬間よ。
 \n
-Yes, Phoenix, it is just as you sensed.\n
+Yes, Phoenix, it is as you sensed.\n
 This is the moment of truth.
 <$0C><$0B>
 //クロエ：
@@ -348,8 +348,8 @@ Chloe:
 <$0D>
 //\n体がないと、こんな気分にはなれないのよ。\n開いてる、フェニックス？
 \n
-Of course, you can't feel it without a\n
-body now, can you, Phoenix?
+Of course, you can't feel it without\n
+a body now, can you, Phoenix?
 <$00>
 
 // Pos: 00003E6F
@@ -643,7 +643,8 @@ Chloe:
 <$0D>
 //\n化かされてなんかいないわ、\nあなたの見たものが現実なのよ。
 \n
-This is no illusion. What you see is real.
+This is no illusion.\n
+What you see is real.
 <$00>
 
 // Pos: 00004124
@@ -658,7 +659,8 @@ Yolanda:
 <$0D>
 //\nあらクロエちゃん…\nその顔はどうしたの？
 \n
-Oh! Chloe... What's with the faces?
+Oh! Chloe...\n
+What's with the faces?
 <$00>
 
 // Pos: 00004145
@@ -723,7 +725,8 @@ Chloe:
 <$0D>
 //\nそうよ。\nもらったの。
 \n
-That's right.\nThey are mine.
+That's right.\n
+They are mine.
 <$00>
 
 // Pos: 000041BB
@@ -754,8 +757,8 @@ Chloe:
 <$0D>
 //\n幻覚なんかじゃないわ、これが本当なの。\nあなたの見たものが真実なのよ。
 \n
-This is no hallucination. This is the\n
-truth. What you see is real.
+This is no hallucination. This is\n
+the truth. What you see is real.
 <$00>
 
 // Pos: 00004219

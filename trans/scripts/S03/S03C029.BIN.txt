@@ -86,8 +86,8 @@ William:
 <$0D>
 //\n預言が一連の出来事のカギになっていることも\n知っています。
 \n
-William knows that they are the key\n
-to these chains of events.
+William knows that they are the\n
+keys to these chains of events.
 <$0C><$0B>
 //ウィリアム：
 William:
@@ -159,8 +159,8 @@ White Eagle:
 <$0D>
 //\n合体の現場じゃ、\n危ないのじゃ。
 \n
-This is the site of integration. It's\n
-dangerous.
+This is the site of integration.\n
+It's dangerous.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -183,8 +183,8 @@ Phoenix:
 <$0D>
 //\nどうしたの？\n何をそんなにあわててるの？
 \n
-Wait, what's the matter? Is\n
-something going to happen?
+Wait, what's the matter?\n
+Is something going to happen?
 <$00>
 
 // Pos: 00003E79
@@ -200,8 +200,8 @@ I don't feel anything.
 <$0C>
 //この鏡じゃダメなのかしら。\nでもここにはほかに鏡はないわね、\nやっぱりこの鏡よね。
 Maybe this mirror is no good?\n
-But there's no other mirror, so this\n
-must be it.
+But there's no other mirror,\n
+so this must be it.
 <$00>
 
 // Pos: 00003EBE
@@ -242,7 +242,7 @@ Thomas:
 <$0D>
 //\n鏡の中なら、\nそれはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-I have no doubt that it's Amanda
+I have no doubt that it's Amanda\n
 who's inside the mirror. 
 <$0C>
 From what I concluded, it's because\n

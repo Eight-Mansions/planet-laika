@@ -165,8 +165,8 @@ April:
 <$0D>
 //\n青ざめた馬を見よ。\nこれに乗る騎士の名を死と呼ぶ。
 \n
-"And I looked, and behold a pale\n
-horse."
+"And I looked, and\n
+behold a pale horse."
 <$0C>
 "And his name that sat\n
 on him was Death."
@@ -200,8 +200,8 @@ April:
 <$0D>
 //\n黙示録のことは子供のころ本で読んだの。\n全てがなくなる、世界が終わる…
 \n
-I remember looking at Revelations\n
-as a kid.
+I remember looking at\n
+Revelations as a kid.
 <$0C>
 It was a prophetic account of\n
 the End Times.
@@ -259,8 +259,8 @@ Vladimir:
 <$0D>
 //\nなんだ、もう帰ってたのか、\n
 \n
-What are you doing home from\n
-school so early?
+What are you doing home\n
+from school so early?
 <$0C>
 
 <$0F>
@@ -280,7 +280,7 @@ Vladimir:
 <$0D>
 //\nセルゲイ兄さんに遊んでもらえ。
 \n
-I don't have time for this.\n
-Go get Sergei to play with you.
+I don't have time for you.\n
+Go find Sergei and play.
 <$00>
 

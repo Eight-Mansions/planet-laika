@@ -62,16 +62,16 @@ Captain Tatler:
 <$0D>
 //\nさあ、ライカ君、任務に戻りたまえ。\nめざすはコロニーだ！
 \n
-Now, Laika, we've got a mission to do!\n
-Hurry back to the colony!
+Now, Laika, we've got a mission to\n
+finish! Hurry back to the colony!
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\n私はクロエちゃんの手当をしてから、\nすぐに合流するぞ。
 \n
-Once I'm done checking in on Chloe,\n
-I'll rush over.
+Once I'm done checking in\n
+on Chloe, I'll rush over.
 <$00>
 
 // Pos: 0000177F
@@ -86,8 +86,8 @@ Liever:
 <$0D>
 //\nあいつらは？ もう追ってこない？
 \n
-Have those two stopped following\n
-you?
+Have those two stopped\n
+following you?
 <$00>
 
 // Pos: 0000179B
@@ -334,7 +334,7 @@ Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-I have no doubt that it's Amanda
+I have no doubt that it's Amanda\n
 who's inside the mirror. 
 <$0C>
 From what I concluded, it's because\n
@@ -525,7 +525,7 @@ Thomas:
 <$0D>
 //\n問顆は心も欲しがるかということだ。\n
 \n
-What is Amanda searching for?\n
+What is Amanda searching for?
 <$0B>
 //トーマス：
 Thomas:

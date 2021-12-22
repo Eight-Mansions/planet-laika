@@ -65,8 +65,8 @@ Spacer:
 <$0D>
 //\n凍っているのか。\nまるで生きたまま凍ってしまったかのようだ。
 \n
-Are we freezing? It feels like we're\n
-being frozen alive...
+Are we freezing? It feels like\n
+we're being frozen alive...
 <$00>
 
 // Pos: 000031BC
@@ -121,7 +121,7 @@ Ernest:
 <$0D>
 //\nあああ、何だ、イヤな気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
 \n
-Urk, I...don't feel so good. Damn!\n
+Urk, I...don't feel so good.\n
 It's like my head is shrinking...!
 <$00>
 

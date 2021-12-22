@@ -65,8 +65,8 @@ Phoenix:
 <$0D>
 //\n試すも何も、\n僕が話しかけるだけでみんなおかしくなる…
 \n
-It's not worth trying. Everyone I\n
-speak to loses their mind.
+It's not worth trying. Everyone\n
+I speak to loses their mind.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -137,7 +137,8 @@ White Eagle:
 Universal Man beckons his alter ego\n
 to come to him.
 <$0C>
-Should they meet, Universal Man might\n at last seek out the lost prophecy.
+Should they meet, Universal Man may\n
+at last seek out the lost prophecy.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -163,7 +164,8 @@ Phoenix:
 Some prophecies are only heard in\n
 death. 
 <$0C>
-Is it his aim to become one with\n Jeremiah?
+Is it his aim to become one with\n
+Jeremiah?
 <$00>
 
 // Pos: 000035AD
@@ -177,8 +179,8 @@ Is it his aim to become one with\n Jeremiah?
 White Eagle:
 <$0D>
 //\nそもそもこの星は死の動機を秘めておる。
-Well, for one, this\n
-planet has its own reason for dying.
+Well, for one, this planet\n
+has its own reason for dying.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -187,7 +189,8 @@ White Eagle:
 \n
 The Martians used death as a means.
 <$0C>
-Death allowed the Martians to separate\n their good will from their ill will.
+Death allowed the Martians to separate\n
+their good will from their ill will.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -218,16 +221,16 @@ White Eagle:
 <$0D>
 //\nそして５つの預言を得よった。
 \n
-In that time, the five prophecies will\n
-be realized.
+In that time, the five prophecies\n
+will be realized.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nそのエレミヤに近づくには、\n死に向き合うしかないのじゃ。
 \n
-The only way to face Jeremiah now is\n
-to face death itself.
+The only way to face Jeremiah\n
+now is to face death itself.
 <$00>
 
 // Pos: 000036DF
@@ -273,21 +276,22 @@ White Eagle:
 <$0D>
 //\n分身と合体してユニバーサルマンは新しくなる。\nおそらく残りの預言は\nそこで得られるじゃろう。
 \n
-Universal Man will be reborn once he\n
-merges with his alter ego.
+Universal Man will only be reborn\n
+once he merges with his alter ego.
 <$0C>
-The remaining prophecies may rise in\n
-the wake of that merge.
+The remaining prophecies may rise\n
+in the wake of that merge.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n全ての預言がそろうと\nガリルの妄想は消えてなくなり、\n預言が現実のものとなるのじゃ。
 \n
-When all prophecies are seen, Galil's\n
-fantasies too will die.
+When all prophecies are seen,\n
+Galil's fantasies too will die.
 <$0C>
-Afterwards, those fantasies will be\n reborn as realities.
+And afterwards, those fantasies\n
+will be reborn as realities.
 <$00>
 
 // Pos: 000037D6
@@ -303,7 +307,7 @@ Phoenix:
 //\n今はそうじゃないの？\n預言が実現しかけてるんじゃないの？
 \n
 Isn't that already the case? Aren't\n
-the prohpecies coming true right now?
+the prophecies coming true right now?
 <$00>
 
 // Pos: 00003804
@@ -349,15 +353,16 @@ April:
 <$0D>
 //\n私、ヌーンの思い出に\n引きずり込まれたみたいになって…
 \n
-It felt like I'd been sucked into Noon's\n
-memories.
+It felt like I'd been sucked\n
+into Noon's memories.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n気が付くとママの気配やら、子供の頃の家やら、\nまがまがしい幻覚の中にいたの。
 \n
-I was in these creepy visions about\n "cottage" this, and "Mummy" that.
+I was in these creepy visions about\n
+"cottage" this, and "Mummy" that.
 <$00>
 
 // Pos: 000038BC
@@ -388,8 +393,8 @@ April:
 <$0D>
 //\nそれなのに思うようにならない…\nそれに夢だって、\n本当に自分が見ている夢かどうか怪しいよね。
 \n
-For all that, it wasn't as I'd thought,\n
-that dream.
+For all that, it wasn't as\n
+I'd thought, that dream.
 <$0C>
 It made me doubt I'd dreamt it.
 <$0C><$0B>
@@ -422,8 +427,8 @@ April:
 <$0D>
 //\nコロニーのほかの人たちは平気なのかなぁ。
 \n
-I hope the people in the colony are\n
-doing all right.
+I hope the people in the colony\n
+are doing all right.
 <$00>
 
 // Pos: 000039C8
@@ -454,7 +459,7 @@ Ernest:
 <$0D>
 //\n何だ、また現れやがった。俺に用か？
 \n
-You're back again? What for?
+Pestering me again? What for?
 <$00>
 
 // Pos: 00003A0A
@@ -487,8 +492,8 @@ Ernest:
 <$0D>
 //\n火事…燃えた町…いやな惑じだぜ。
 \n
-A fire, huh. That could mean that\n
-town that burned down.
+A fire, huh. That could mean the\n
+other town that burned down.
 <$0C>
 It's a tasteless clue if it does.
 <$00>
@@ -521,7 +526,7 @@ Spacer:
 <$0D>
 //\n鏡から出てきたのか。\nイレギュラーなことだ。
 \n
-Coming out of mirrors now?\n
+Popping out of mirrors now?\n
 That's not something you see everyday.
 <$00>
 
@@ -558,7 +563,8 @@ Spacer:
 "Rocket"... Of course I'd get the\n
 easiest clue.
 <$0C>
-That'd be the rocket we came to Mars in.
+That'd be the rocket we\n
+came to Mars in.
 <$00>
 
 // Pos: 00003B05
@@ -590,7 +596,7 @@ Yolanda:
 //\nどうしたっていうのよ。もう疲れたわ。
 \n
 Is this a joke or something?\n
-I'm tired of running around for shit.
+I hate running around for shit.
 <$00>
 
 // Pos: 00003B45
@@ -625,7 +631,8 @@ Yolanda:
 \n
 "Shelter", shelter, shelter... 
 <$0C>
-Well, actually, we did have to run for\n cover somewhere shortly after we landed.
+Well, actually, we did have to run for\n
+cover somewhere shortly after we landed.
 <$00>
 
 // Pos: 00003BA6
@@ -648,8 +655,8 @@ White Eagle:
 <$0D>
 //\n結界のようなものがあってな、\nそれを抜けねばならんのじゃが…
 \n
-It seems there is a boundary in place\n
-that we must breach.
+It seems there is a boundary in\n
+place that we must breach.
 <$00>
 
 // Pos: 00003C06
@@ -688,8 +695,8 @@ White Eagle:
 <$0D>
 //\nせっかく開きかけた入り口が閉じてしまうぞ。
 \n
-If the path is opened so narrowly, it\n
-may stay closed.
+If the path is opened so narrowly,\n
+it might stay closed.
 <$00>
 
 // Pos: 00003CBC
@@ -704,8 +711,8 @@ White Eagle:
 <$0D>
 //\n光る石は火星人の善意と言われておる。\nどこかにあるはずじゃ。
 \n
-The glowing stones are said to be\n
-Martian good will. 
+The glowing stones are said\n
+to be Martian good will. 
 <$0C>
 They must be around here somewhere.
 <$00>

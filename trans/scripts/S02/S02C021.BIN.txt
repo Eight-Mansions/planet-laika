@@ -122,8 +122,8 @@ Noon:
 <$0D>
 //\nこの先にヨセミテ台地に登る道があって、\nそれから…
 \n
-Beyond this is a path that trails up to\n
-Yosemite Plateau.
+Beyond this is a path that trails up\n
+to Yosemite Plateau.
 <$00>
 
 // Pos: 00002C27
@@ -195,7 +195,7 @@ Captain Tatler:
 //\nとにかくその帰納の丘を通れば\nコロニーに着くんだな？
 \n
 But once we get through the\n
-Inductive Hills, we'll find the colony?
+Inductive Hills, we hit the colony?
 <$00>
 
 // Pos: 00002CF4
@@ -210,8 +210,8 @@ Noon:
 <$0D>
 //\nああそうだ、\n地球からのご一行様ご到着ってな。
 \n
-Yeah, that's right. And then, we tell\n
-them we're from Earth.
+Yeah, that's right. And then,\n
+we tell them we're from Earth.
 <$00>
 
 // Pos: 00002D1B
@@ -226,7 +226,7 @@ Captain Tatler:
 <$0D>
 //\nよし、コロニーをめざす。\nさぁ出発だ、準備はいいな。
 \n
-Okay then, we're off to the colony.\n
+Okay, we're off to the colony.\n
 Is everyone ready to go?
 <$00>
 
@@ -258,7 +258,7 @@ Noon:
 <$0D>
 //\nへん、ちゃんとタンクも背負ってるし、\nヘルメットも着けてるぜ。
 \n
-All right. There's a tank on the back,\n
+Right. There's a tank on the back,\n
 and an 'elmet on the dome.
 <$0C><$0B>
 //ヌーン：
@@ -350,8 +350,8 @@ Captain Tatler:
 <$0D>
 //\n火星の邪気だ。\n紫色をしているぞ。近づくな。
 \n
-All that purple stuff you don't want to\n
-touch. It's the malice of Mars.
+All that purple stuff you don't want\n
+to touch. It's the malice of Mars.
 <$0E><$0F><$17><$00>
 
 // Pos: 00002E86
@@ -406,8 +406,8 @@ April:
 <$0D>
 //\nどうなの、あんた、案内役でしょ。\nはっきりしてよ。
 \n
-You're supposed to be our guide. You\n
-should have a clearer idea!
+You're supposed to be our guide.\n
+You should have a clearer idea!
 <$00>
 
 // Pos: 00002F1C
@@ -430,8 +430,8 @@ Captain Tatler:
 <$0D>
 //\nお前がミスしなければこんなハメにはならずに\n済んだんだ。なんとかしろ！
 \n
-We wouldn't be wandering like this if\n
-you didn't mess us all up.
+We wouldn't be wandering like this\n
+if you didn't mess everything up.
 <$00>
 
 // Pos: 00002F73
@@ -515,8 +515,8 @@ Captain Tatler:
 <$0D>
 //\nでもクロエちゃんは生きてるぞ。\n名前を呼んだら、ハーイって答えるんだぞ。
 \n
-Oh, but my Chloe's still alive! When I\n
-call her up, she goes, "Hiii!"
+Oh, but my Chloe's still alive! When\n
+I call her up, she goes, "Hiii!"
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -548,10 +548,10 @@ Noon:
 <$0D>
 //\n地球からのご一行様ご到着、\nみんな俺たちを待ってるんだ。
 \n
-And then, we tell them we're from\n
-Earth, and they'll welcome us with
+And then, we tell them we're\n
+from Earth.
 <$0C>
-open arms.
+They'll welcome us with open arms!
 <$00>
 
 // Pos: 000030FC
@@ -566,7 +566,7 @@ Captain Tatler:
 <$0D>
 //\nよし、クロエちゃんに会いに行く。\nさぁ出発だ、準備はいいな。
 \n
-Okay then, I'm off to see my Chloe.\n
+Okay, I'm off to see my Chloe.\n
 Is everyone ready to go?
 <$0C><$0B>
 //タトラー船長：
@@ -590,7 +590,7 @@ Noon:
 <$0D>
 //\nへん、ちゃんとタンクも背負ってるし、\nヘルメットも着けてるぜ。 でもよ、
 \n
-All right. There's a tank on the back,\n
+Right. There's a tank on the back,\n
 and an 'elmet on the dome.
 <$00>
 

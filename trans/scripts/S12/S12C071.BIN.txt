@@ -27,8 +27,8 @@ Chloe:
 <$0D>
 //\nあなたがくれるのよ、選ぶだけよ。
 \n
-I shall choose from the ones you have\n
-lead to me.
+I shall choose from the ones\n
+you have lead to me.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -276,8 +276,8 @@ Chloe:
 <$0D>
 //\nそんなふうに言わないでよ。\nあなたが喜ぶと思ってしたまでよ。
 \n
-Don't say that. I thought this would\n
-make you happy.
+Don't say that. I thought this\n
+would make you happy.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -326,7 +326,8 @@ Phoenix:
 But how would she know that,\n
 if I was never...
 <$0C>
-Sorry, this stops here.\nI don't want this.
+Sorry, this stops here.\n
+I don't want this.
 <$00>
 
 // Pos: 000029AF
@@ -525,8 +526,8 @@ Chloe:
 <$0D>
 //\nううう…、\n体が勝手に話しはじめる…
 \n
-O-owwww...! This body is...trying to\n
-speak out of turn...!
+O-owwww...! This body is...trying\n
+to speak out of turn...!
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -549,8 +550,8 @@ Chloe:
 <$0D>
 //\nううう…、\n体が勝手に話しはじめる…
 \n
-O-owwww...! This body is...trying to\n
-speak out of turn...!
+O-owwww...! This body is...trying\n
+to speak out of turn...!
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -573,16 +574,16 @@ Chloe:
 <$0D>
 //\nううう…、\n体が勝手に話しはじめる…
 \n
-O-owwww...! This body is...trying to\n
-speak out of turn...!
+O-owwww...! This body is...trying\n
+to speak out of turn...!
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nエイプリルのやつは大丈夫だ、\nあいつは… ううう
 \n
-That April girl is alive. Grrr, hurry up\n
-and find... Owww!
+That April girl is alive. Grrr,\n
+hurry up and find... Owww!
 <$00>
 
 // Pos: 00002C6E
@@ -727,8 +728,8 @@ Phoenix:
 <$0D>
 //\nでもどうして？\n表に出ていかなきゃならないの？
 \n
-But what's going on? What's making\n
-me surface like this?
+But what's going on? What's\n
+making me surface like this?
 <$0E><$78><$17><$00>
 
 // Pos: 00002DE6

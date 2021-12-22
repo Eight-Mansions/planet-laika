@@ -17,13 +17,15 @@ Phoenix:
 <$0D>
 //\n僕が？ これは僕の見たものじゃない！\n
 \n
-Is this my...no! I didn't see this!\n
+Is this my...no!\n
+I didn't see this!\n
 
 <$0F>
 //だ、あいつだ！\nここが憎しみの原点なのか！
- did! Was this the origin of their
+ did!
 <$0C>
-hatred?
+Was this the origin\n
+of their hatred?
 <$0E><$5A><$17><$00>
 
 // Pos: 00001D82
@@ -38,8 +40,8 @@ Phoenix:
 <$0D>
 //\nデスロック…\n死を誘うのか。
 \n
-The deathrock... It beckons those\n
-near it toward death.
+The deathrock... It beckons\n
+those near it toward death.
 <$00>
 
 // Pos: 00001DA0
@@ -54,7 +56,8 @@ Phoenix:
 <$0D>
 //\n体… これが僕の体…\nはじめてだ、こんなのはじめてだ。\nあああ、混乱する！
 \n
-This body! T-this is the first time I've\n
-felt anything like this! It's Madness!
+This body! T-this is the\n
+first time I've felt anything\n
+like this! It's Madness!
 <$0E><$78><$17><$00>
 

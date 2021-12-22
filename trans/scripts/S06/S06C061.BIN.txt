@@ -48,8 +48,8 @@ Yolanda:
 <$0D>
 //\nイヤだ… エイプリル… あなた、まさか…\nちょっと、どういうこと？
 \n
-Sorry... April, I'm not so sure about...\n
-Sorry, where was I?
+Sorry... April, I'm not so sure\n
+about... Sorry, where was I?
 <$00>
 
 // Pos: 000033F4
@@ -110,8 +110,8 @@ Yolanda:
 <$0D>
 //\nそう… ならよかった。\nここが町長さんのお屋敷ね。
 \n
-This it? I take it this is the elder's\n
-cottage.
+This it? I take it this\n
+is the elder's cottage.
 <$00>
 
 // Pos: 00003479
@@ -126,8 +126,8 @@ April:
 <$0D>
 //\nここには誰もいない… 他に部屋はない…
 \n
-There's no one here, and there's no\n
-other rooms.
+There's no one here,\n
+and there's no other rooms.
 <$00>
 
 // Pos: 0000349B
@@ -219,8 +219,8 @@ April:
 <$0D>
 //\nでも、誰もいないよ。\n他に部屋はないみたいだし…
 \n
-There's no one here, and there's no\n
-other rooms.
+There's no one here,\n
+and there's no other rooms.
 <$00>
 
 // Pos: 0000354F
@@ -265,8 +265,8 @@ April:
 <$0D>
 //\nねえ、ヨランダ、\nあなたならヌーンをどんなふうにしかる？
 \n
-Hey, Yolanda? How do you intend to\n
-call to Noon?
+Hey, Yolanda? How do you\n
+intend to call to Noon?
 <$00>
 
 // Pos: 000035AC
@@ -349,16 +349,16 @@ April:
 <$0D>
 //\nそう。 お母さんみたいに。
 \n
-Yeah, that sounds as motherly as it\n
-gets!
+Yeah, that sounds as\n
+motherly as it gets!
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nヌーンはちょっとマザコンで、\nすぐにホームシックにかかっちゃう人なの。
 \n
-Noon's a bit of a mommy's boy, so I'm\n
-betting he's homesick by now.
+Noon's a bit of a mommy's boy, so\n
+I'm betting he's homesick by now.
 <$00>
 
 // Pos: 000036A2
@@ -412,10 +412,8 @@ Yolanda:
 <$0D>
 //\nあなたと一緒に食べようと思って…
 \n
-If we're both feeling peckish, why\n
-not come down and eat breakfast
-<$0C>
-with Mommy?
+If we're both peckish, why not\n
+come down for breakfast with Mommy?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -438,7 +436,8 @@ Noon:
 <$0D>
 //\nママ、やめて… お願い… ママ…
 \n
-Mummy, stop... Please... Mummy...!
+Mummy, stop...\n
+Please... Mummy...!
 <$0E><$3C><$17><$00>
 
 // Pos: 0000379A
@@ -468,8 +467,8 @@ April:
 <$0D>
 //\nヌーン！\n私よ、エイプリルよ、分かる？
 \n
-Noon, it's me! April! Are you\n
-listening?
+Noon, it's me! April!\n
+Are you listening?
 <$00>
 
 // Pos: 000037D2
@@ -515,8 +514,8 @@ April:
 <$0D>
 //\nあそこ！ ライカ、あの窓よ！\n中に誰かいる！
 \n
-Laika, over there! I see someone in\n
-the window!
+Laika, over there!\n
+I see someone in the window!
 <$00>
 
 // Pos: 00003838
@@ -531,8 +530,8 @@ April:
 <$0D>
 //\n誰なの？\nいやよ、離して、手を離して、お願い！
 \n
-Who are you? ...No! Get off! Please!\n
-Get your hands of me!
+Who are you? ...No! Get off!\n
+Please! Get your hands of me!
 <$00>
 
 // Pos: 0000385F
@@ -554,8 +553,8 @@ Noon:
 <$0D>
 //\nそうだ、病気だ、パパは病気、ママも病気、\nみんな病気、みんな死ぬんだ！
 \n
-Papa's sick, Mummy's sick, we're all\n
-sick! We're all going to die!
+Papa's sick, Mummy's sick, we're\n
+all sick! We're all going to die!
 <$0C><$0B>
 //ヌーン：
 Noon:

@@ -17,8 +17,8 @@ Liever:
 <$0D>
 //\nカギ、開けたから。\nこの中を通って行くんだ。
 \n
-This way is open, so this is how we're\n
-getting in.
+This way is open, so this is\n
+how we're getting in.
 <$00>
 
 // Pos: 000018CF
@@ -33,8 +33,8 @@ Ernest:
 <$0D>
 //\n何だこりゃ？ 下水じゃねぇか！
 \n
-What's all this? It better not be\n
-sewage.
+What's all this?\n
+It better not be sewage.
 <$00>
 
 // Pos: 000018ED

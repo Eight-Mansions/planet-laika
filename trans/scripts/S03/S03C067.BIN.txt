@@ -17,8 +17,10 @@ Little:
 <$0D>
 //\nここだな？そうだ、見たぞ、夢の中で。\nここを俺が入って行くんだ。嫌な気分だ。
 \n
-Oi, is it here? Yeah, must be. I saw it in\n
-my dream. I don't like it, but I'm goin'.
+Oi, is it here? Yeah, must be.\n
+I saw it in my dream.
+<$0C>
+I don't like it, but I'm goin'.
 <$00><$12><$13><$19><$0B>
 //リバー：
 Liever:
@@ -33,8 +35,8 @@ Liever:
 <$0D>
 //\nやっぱりダメだよ、ここから先は\n信仰のないあんたじゃ無理さ。
 \n
-Listen, it's as I said before. You can't\n
-proceed without faith.
+Listen, it's as I said before.\n
+You can't proceed without faith.
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -49,8 +51,8 @@ Liever:
 <$0D>
 //\nやっぱりダメだよ、ここから先は\n信仰のないあんたじゃ無理さ。
 \n
-Listen, it's as I said before. You can't\n
-proceed without faith.
+Listen, it's as I said before.\n
+You can't proceed without faith.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:

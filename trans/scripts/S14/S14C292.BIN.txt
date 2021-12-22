@@ -33,8 +33,8 @@ Marrakech:
 <$0D>
 //\nああ、アタシもときどき分からなくなるのよ、\n自分っていうのが、なにかこう…
 \n
-Sometimes you just don't know, you\n
-know? Even I lose sight of my...self...
+Sometimes you don't know, you know?\n
+Even I lose sight of my...self...
 <$00>
 
 // Pos: 000026A9
@@ -49,7 +49,8 @@ Bull:
 <$0D>
 //\nおおお、イヤな惑じだ、ちくしょう！
 \n
-Shit, my senses are all out of whack.
+Shit, my senses are all\n
+out of whack.
 <$00>
 
 // Pos: 000026C3
@@ -64,8 +65,8 @@ Bull:
 <$0D>
 //\n俺はあんたがきらいだ…\nあー、何て言うか、きらいなんだ。
 \n
-I don't like you, or anything you have\n
-to say.
+I don't like you, or anything\n
+you have to say.
 <$0C><$0B>
 //ブル：
 Bull:
@@ -80,7 +81,8 @@ Bull:
 <$0D>
 //\nあんた、アガタと組んでるのか、分かるんだ。
 \n
-All I know is, you're on Agatha's team.
+All I know is, you're\n
+on Agatha's team.
 <$0C><$0B>
 //ブル：
 Bull:
@@ -107,8 +109,8 @@ Bull:
 \n
 Why'd I have to be me, huh? 
 <$0C>
-Well, I'm here, Agatha! Open up!\n 
-Let my forget my self!
+Well, I'm here, Agatha!\n 
+Open up! Let my forget my self!
 <$00>
 
 // Pos: 0000278F
@@ -123,8 +125,8 @@ Bull:
 <$0D>
 //\nへん！ 俺は自分もきらいなんだ、\nそういうことだ。
 \n
-Hmph, on top of everything else I\n
-hate...I hate my self.
+Hmph, on top of everything else\n
+I hate...I hate my self.
 <$00>
 
 // Pos: 000027B1
@@ -154,7 +156,7 @@ Bull:
 <$0D>
 //\n俺を差しおいて、アガタのやつ…\n俺も忘れたいことがあるんだ！
 \n
-I need to see Agatha. I've got stuff\n
-I'd rather forget too!
+I need to see Agatha. I've got\n
+stuff I'd rather forget too!
 <$00>
 

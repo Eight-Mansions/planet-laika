@@ -17,7 +17,8 @@ Noon:
 <$0D>
 //\nおお、あれだ！\n避難小屋が見えたぞ！おほほー！
 \n
-Whelp, there it is! I see the safe 'ouse!
+Whelp, there it is!\n
+I see the safe 'ouse!
 <$00><$00><$11><$01><$0B>
 //     
      
@@ -39,7 +40,7 @@ This is weird. I...urrk!\n
 
 <$0E><$1E>
 // いやな気分でいっぱいになってきた…\n
-I'm feeling all twisted up...!\n
+I'm feeling all twisted...!\n
 <$0E><$5A><$17><$00>
 
 // Pos: 000021D2
@@ -97,7 +98,8 @@ Noon:
 I don't sense any good coming from\n
 the mission.
 <$0C>
-I'm 'oping the captain doesn't\neither.
+I'm 'oping the captain doesn't\n
+either.
 <$00>
 
 // Pos: 00002277

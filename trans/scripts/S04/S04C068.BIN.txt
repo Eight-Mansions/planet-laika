@@ -149,8 +149,8 @@ Linda:
 <$0D>
 //\n頭の中に変な言葉が？れてきてさ。
 \n
-And what are these voices in my\n
-head? So obnoxious.
+And what are these voices\n
+in my head? So obnoxious.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -307,8 +307,8 @@ Linda:
 <$0D>
 //\n出かけてるのよー…\n昨日の夜からいないのよ、変ねぇ。
 \n
-I've no idea. I hadn't gone there since\n
-last night. Very weird.
+I've no idea. I hadn't gone there\n
+since last night. Very weird.
 <$00>
 
 // Pos: 000021E3
@@ -323,8 +323,8 @@ Linda:
 <$0D>
 //\nねー、あんたー、隠れんぼはおしまい？
 \n
-Done playing hide-and-seek, are\n
-you?
+Done playing hide-and-seek,\n
+are you?
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -345,7 +345,8 @@ Linda:
 No, you still have a dogface.\n
 That dirty cloth had changed, though.
 <$0C>
-I remember. It lit up, and was shining.
+I remember. It lit up,\n
+and was shining.
 <$1E><$01><$08><$00>
 
 // Pos: 0000225F
@@ -463,8 +464,8 @@ Linda:
 <$0D>
 //\nそおー、アタシには同じに見えるけどねー。
 \n
-Really? But you see things the same\n
-way they do...
+Really? But you see things\n
+the same way they do...
 <$00>
 
 // Pos: 000023CB
@@ -494,8 +495,8 @@ Spacer:
 <$0D>
 //\n金星人など… ばかばかしい！
 \n
-I don't have time to gush over\n
-Venusians!
+I don't have time to\n
+gush over Venusians!
 <$00>
 
 // Pos: 00002402
@@ -510,7 +511,7 @@ Linda:
 <$0D>
 //\nあんたちょっとアカ抜けたー？\nそれとも変わんないー？
 \n
-You lose some of your spark?n
+You lose some of your spark?\n
 Or are you still the same?
 <$0C><$0B>
 //リンダ：
@@ -550,7 +551,8 @@ Linda:
 <$0D>
 //\nさっきのあんただよねー。
 \n
-It was you I saw earlier...right?
+It was you I saw\n
+earlier...right?
 <$1E><$01><$08><$00>
 
 // Pos: 000024CA
@@ -565,16 +567,16 @@ Linda:
 <$0D>
 //\nもう光ってないみたいよー。
 \n
-It doesn't look like it's shining\n
-anymore.
+It doesn't look like\n
+it's shining anymore.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n何の話かってー、布よー、布。\nヴェロニカの布、もう光ってないわー。
 \n
-Come on, you know what I'm talking\n
-about! The cloth!
+Come on, you know what I'm\n
+talking about! The cloth!
 <$0C>
 Veronica's cloth stopped shining!
 <$1E><$01><$08><$00>

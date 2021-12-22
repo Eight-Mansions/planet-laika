@@ -30,8 +30,8 @@ It's me. Mama's here.
 <$0C>
 //ねぇ、覚えてる、あなたが５歳の時の\nクリスマスプレゼント。
 Say, do you remember the Christmas\n
-present I gave you when you were 5\n
-years old?
+present I gave you when you were\n
+five years old?
 <$00>
 
 // Pos: 00002676
@@ -43,8 +43,8 @@ years old?
 
 <$00>
 //パパはあなたのために一番大きなロケットを\nさがしてきたのよ。\n町中のおもちゃ屋さんを回ったのよ。
-Your batya went to every toy store,\n
-looking for the biggest\n
+Your batya went to every toy\n
+store, looking for the biggest\n
 rocket in town to give to you.
 <$0C><$0F>
 //、夢を捨てないで。\nあなたなら大丈夫、きっと立派な兵士に…\n宇宙飛行士になれるわ。
@@ -66,8 +66,8 @@ Yolanda:
 <$0D>
 //\nタニア… 建う、この声はタニアじゃない、\n亡霊よ！ 亡霊のしわざよ！
 \n
-Tanya...? No, that's not Tanya's voice.\n
-That's a ghost! A SICK FUCKING GHOST!
+Tanya...? No, that's not her.\n
+That's a ghost! A SICK GHOST!
 <$00>
 
 // Pos: 0000271C
@@ -91,8 +91,8 @@ Galil:
 <$0D>
 //\n私にしてみれば、\nそれは怪しいエ作にほかならない。
 \n
-I, for one, don't care to waste time on\n
-such fruitless endeavors.
+I, for one, care not to waste\n
+time on such fruitless endeavors.
 <$00>
 
 // Pos: 00002767
@@ -108,8 +108,8 @@ Galil:
 <$0D>
 //\n君たちはやっかいな問顆を抱え込んでいる。
 \n
-You each hold a piece to a particularly\n
-nasty puzzle.
+You each hold a piece to a\n
+particularly nasty puzzle.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -124,8 +124,8 @@ Galil:
 <$0D>
 //\n君たちの心に降り積もった悪意を\n取り除いてやろう。
 \n
-Lay down every last piece of ill will\n
-you've amassed in your minds.
+Lay down every last piece of ill\n
+will you've amassed in your minds.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -139,8 +139,8 @@ Galil:
 <$0D>
 //\n私にはすでに見えているようだ、読めるぞ、\n隠された時間が動きはじめたようだ。
 \n
-Let me peer at what I already see. Let\n
-me turn the clock that you forsook!
+Let me peer at what I already see.\n
+Let me turn the forsaken clock!
 <$00>
 
 // Pos: 00002822
@@ -156,16 +156,16 @@ Galil:
 <$0D>
 //\nアーネスト、馬屋に火を放ったのは君だ、\nそうじゃないのかね。
 \n
-Ernest, you were the one who set the\n
-barn on fire.
+Ernest, you were the one who\n
+set the barn on fire.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nウラジミールが大切にしていた馬が\n焼け死んだ。
 \n
-You burned Vladimir's beloved horse\n
-to death.
+You burned Vladimir's beloved\n
+horse to death.
 <$00>
 
 // Pos: 00002871
@@ -211,15 +211,16 @@ Galil:
 <$0D>
 //\nしかし馬屋に火を放ったりはしない。
 \n
-...but he did not set the barn on fire.
+...but he did not set\n
+the barn on fire.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nあれは君がセルゲイのせいにしようと\nやったことだ。
 \n
-You only WISH it was Sergei's fault\n
-because YOU did it!
+You only WISH it was Sergei's\n
+fault because YOU did it!
 <$00>
 
 // Pos: 00002917
@@ -234,7 +235,8 @@ Ernest:
 <$0D>
 //\nあああ、やめてくれ！\n俺じゃねぇ、俺じゃねぇ！
 \n
-No, stop! It wasn't me! IT WASN'T ME!
+No, stop! It wasn't me!\n
+IT WASN'T ME!
 <$00>
 
 // Pos: 0000293B
@@ -265,15 +267,16 @@ Ernest:
 <$0D>
 //\nちくしょう！\nセルゲイは馬をきらってたんだ、
 \n
-Screw you! Sergei never liked that\n
-horse!
+Screw you! Sergei never\n
+liked that horse!
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n俺がやらなけりゃやつがやってたに\n建いねぇんだ！
 \n
-I could never stoop down to his level!
+I could never stoop\n
+down to his level!
 <$00>
 
 // Pos: 000029AB
@@ -288,8 +291,8 @@ Galil:
 <$0D>
 //\nスペーサー、君だね、\nセルゲイを強盗殺人の犯人に\n仕立て上げたのは。
 \n
-Ah, but Spacer could. Spacer could\n
-easily pin Sergei as a lowly criminal.
+Ah, but Spacer... Spacer could\n
+easily pin Sergei as the culprit.
 <$00>
 
 // Pos: 000029DD
@@ -305,8 +308,8 @@ Spacer:
 <$0D>
 //\n仕立て上げたんじゃない、\nやつには殺意があったんだ。私には分かる。
 \n
-I didn't have to pin that. He had a\n
-murderous impulse well before I moved in!
+I didn't pin anything. He had those\n
+impulses well before I moved in!
 <$00>
 
 // Pos: 00002A10
@@ -322,17 +325,17 @@ Galil:
 <$0D>
 //\nさあ、それはどうかな。
 \n
-Let's take a closer look at that,\n
-shall we?
+Let's take a closer look\n
+at that, shall we?
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n彼はたんに悪ふざけのつもりだった…
 \n
-You see, at the time of the fire...\n
+Sergei, at the time of the fire...\n
 <$0C>
-Sergei was already in the middle of\n
+...was already in the middle of\n
 committing different crime that night.
 <$0C><$0B>
 //ガリル：
@@ -393,8 +396,8 @@ Galil:
 After the arson, you snuck back to\n
 the scene.
 <$0C>
-You wanted to retrieve a blood-stained\n
-fire hook.
+You wanted to retrieve a\n
+blood-stained fire hook.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -497,15 +500,15 @@ Galil:
 <$0D>
 //\nウラジミールは酒好きだ。\nそれをいいことに、\nやつに質の悪い酒を飲ませたのは君だ。
 \n
-Yes, Vladimir did love his liquor, but you\n
-deliberately gave him tainted liquor.
+Yes, Vladimir drank, but you gave\n
+him tainted liquor on purpose.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nエ場から盗み出した\nひどいシロモノを飲ませたんだ。\nウラジミールは見る間に調子を崩していった。
 \n
-You stole bad alchohol from the distillery\n
+You stole some from the distillery\n
 and served it to him at breakfast.
 <$0C>
 Someone had to wane his temper.
@@ -524,8 +527,8 @@ Yolanda:
 <$0D>
 //\n人開きの悪いこと言わないでよ、
 \n
-That guy didn't have a decent shred\n
-to his name.
+That guy didn't have a decent\n
+shred to his name.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -556,14 +559,15 @@ Galil:
 <$0D>
 //\n君はタニアのそばにいながら、彼女が\n生きているときには一度も現れなかった。
 \n
-If you really wanted to help Tanya...
+If you really wanted\n
+to help Tanya...
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\nどうしてかな？
 \n
-...what reason did you have to never show\n
+...why was it you never showed\n
 your face to her when she was alive?
 <$00>
 

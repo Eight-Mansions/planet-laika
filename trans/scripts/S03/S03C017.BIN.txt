@@ -17,8 +17,8 @@ Little:
 <$0D>
 //\n気になるのか、\nお前と一緒に来た女のことだろ…
 \n
-...You thinking about the girly you\n
-came here with?
+...You worried about the girly\n
+you came here with?
 <$0C><$0B>
 //リトル：
 Little:
@@ -84,8 +84,8 @@ Little:
 <$0D>
 //\nメディスンマンのやつがここを閉めたんだ。
 \n
-Oi, looks like the medicine men closed\n
-this.
+Oi, looks like the medicine men\n
+closed this.
 <$0C><$0B>
 //リトル：
 Little:
@@ -137,7 +137,8 @@ Little:
 <$0D>
 //\nおい、俺はのんびり屋じゃないんだ、\n急いでるんだ、そうだそうだ、\n俺には時間がない！
 \n
-Oi, I'm not some bum like you, got it?
+Oi, I'm not some bum like you,\n
+got it?
 <$0C>
 I've got things to do,\n
 and no time to do 'em!
@@ -241,8 +242,8 @@ Tommy:
 <$0D>
 //\nやっぱりだな、目ん玉、\nあのウワサは本当だったんだな。
 \n
-I knew it! Those eyeballs were real\n
-after all, a-yup.
+I knew it! Those eyeballs were\n
+real after all, a-yup.
 <$1E><$02><$04><$00>
 
 // Pos: 00002C53
@@ -334,8 +335,8 @@ Tommy:
 <$0D>
 //\nさっきと同じか、同じやつなのか？
 \n
-You're not the person I was talking to\n
-before, are you?
+You're not the person I was\n
+talking to before, are you?
 <$00>
 
 // Pos: 00002D20
@@ -350,8 +351,8 @@ Tommy:
 <$0D>
 //\nリトルには見えるんだ、\nようよう、おかしな話だ。
 \n
-Anyways, Little can see them, a-yup!\n
-It was so weird.
+Anyways, Little can see them,\n
+a-yup! It was so weird.
 <$00>
 
 // Pos: 00002D42
@@ -366,8 +367,8 @@ Yolanda:
 <$0D>
 //\n目ん玉ね、たしか…頭いいと見える…\n思い出したわ。
 \n
-Note to self: nerds can see the\n
-eyeballs. Got it.
+Note to self: nerds can see\n
+the eyeballs. Got it.
 <$00>
 
 // Pos: 00002D6C

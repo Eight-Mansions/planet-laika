@@ -213,8 +213,8 @@ Marrakech:
 <$0D>
 //\nじっと見つめられるとさ、\n心がスケスケになるのよね。
 \n
-What else would he be doing with that\n
-dead-eyed stare?
+What else would he be doing\n
+with that dead-eyed stare?
 <$1E><$01><$08><$00>
 
 // Pos: 00001D14
@@ -277,7 +277,8 @@ Marrakech:
 Can you believe such a tale?
 <$1B>
 //？信じる\n信じない
-？Yes\nNo
+？Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00001E0C
@@ -301,16 +302,16 @@ Marrakech:
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
 That reminds me...
 <$0C>
-Recently, I saw Linda mumbling in\n
-front of the mirror.
+Recently, I saw Linda mumbling\n
+in front of the mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nオバケ、呼出してたりしてね、\nああいやだ。
 \n
-I wonder if she's taken to talking to\n
-ghosts? How spooky!
+I wonder if she's taken to\n
+talking to ghosts? How spooky!
 <$1E><$01><$08><$00>
 
 // Pos: 00001E88
@@ -335,8 +336,8 @@ Marrakech:
 <$0D>
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
 \n
-That reminds me... Recently, I saw\n
-Linda mumbling to a mirror.
+That reminds me... Recently,\n
+I saw Linda mumbling to a mirror.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:

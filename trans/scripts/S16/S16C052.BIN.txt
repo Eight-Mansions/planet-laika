@@ -50,7 +50,7 @@ Crow:
 //\n女だ、汚ねぇ女だ。ホレてるのか。ひゃ！\n女は汚れてるぜ、純粋じゃない！
 \n
 Look at this filthy woman. Shameful,\n
-isn't she? Kekeke! She's dirty, not pure!
+isn't she? Kekeke! She's not pure!
 <$00>
 
 // Pos: 00002EA5
@@ -81,8 +81,8 @@ Crow:
 <$0D>
 //\nへへへ、死者の光だ。索敵なショーだ。
 \n
-Check it out, that's the light of the\n
-dead. It's lovely to see, no?
+Check it out, that's the light of\n
+the dead. It's lovely to see, no?
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -108,7 +108,7 @@ Crow:
 <$0D>
 //\nどうだ、死者の気分は、いい気分だろう。\n俺は夢見る天才だ。
 \n
-How does it feel to be deceased? Does\n
+How's it feel to be deceased? Does\n
 it feel good, my dreaming prodigy?
 <$0C><$0B>
 //クロウ：
@@ -116,8 +116,8 @@ Crow:
 <$0D>
 //\nさあ、お次は特別サービス、\nこの女はアシが汚れてるときたもんだ。
 \n
-Then, next is our special service. This\n
-sick rose needs a closer sniff.
+Then, next is our special service.\n
+This sick rose needs a closer sniff.
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -155,8 +155,8 @@ Crow:
 <$0D>
 //\nむしゃむしゃむしゃ、\n腐った子宮はどんな味がするんだ？
 \n
-Grumble, grumble. I wonder what a\n
-rotted uterus tastes like.
+Grumble, grumble. I wonder what\n
+a rotted uterus tastes like.
 <$00>
 
 // Pos: 00002FEE
@@ -171,8 +171,8 @@ Crow:
 <$0D>
 //\n変な光だ、あーあー、やめろ！ ちくしょう！\nあーあー、目が覚める…
 \n
-What's this strange light, huh? Ahh!\n
-STOP! NO! I'll wake up!
+What's this strange light, huh?\n
+Ahh! STOP! NO! I'll wake up!
 <$0C><$0B>
 //クロウ：
 Crow:

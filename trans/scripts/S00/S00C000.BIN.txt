@@ -161,7 +161,7 @@ Select page.
 //P:0001118C
 #WRITE(PTR, $0000FB60)
 //フォーマットしますか？     はい いいえ
-Format?                 Yes  No
+Format?                           Yes   No
 <$00>
 
 //P:000111A4
@@ -191,7 +191,7 @@ Memory card not formatted.
 //P:000111EC
 #WRITE(PTR, $0000FB74)
 //ファイルを作ってもいいですか？ はい いいえ
-Create?                 Yes  No
+Create?                           Yes   No
 <$00>
 
 //P:00011204
@@ -215,7 +215,7 @@ Insufficient blocks!
 //P:00011238
 #WRITE(PTR, $0000FB84)
 //上書きしてもいいですか？    はい いいえ
-Overwrite?              Yes  No
+Overwrite?                        Yes   No
 <$00>
 
 //P:00011252
@@ -281,7 +281,7 @@ Reading data...
 //P:000112F6
 #WRITE(PTR, $0000FBB0)
 //ロードしてもいいですか？    はい いいえ
-Load?                   Yes  No
+Load?                             Yes   No
 <$00>
 
 //P:00011310

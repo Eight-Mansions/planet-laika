@@ -33,7 +33,7 @@ Little:
 //\nそして俺の目の前で、土の中にうずもれていく…\nまるで俺が埋めてるみたいな惑じだ。\n俺は…利用されたんだ。
 \n
 They crawled out from the dirt, like\n
-I'd buried 'em,. But I was used, get it?
+I'd buried 'em. I was used, get it?
 <$00>
 
 // Pos: 000024B7
@@ -55,8 +55,8 @@ Little:
 <$0D>
 //\n何か開きたいことでもあるんじゃないのか？
 \n
-...Whatever. Did you want to ask me\n
-anythin'?
+...Whatever. Did you want\n
+to ask me anythin'?
 <$1B>
 //いなぜ双子を誘ったんだ？\nヘロデも罪を？\nエイプリルはどこに？
 Why take twins？\n
@@ -76,8 +76,8 @@ Little:
 <$0D>
 //\n双子を生き埋めにするためだ。\n預言に出てくるんだ、
 \n
-We buried twins alive in order to\n
-fulfill the prophecy.
+We buried twins alive in order\n
+to fulfill the prophecy.
 <$0C><$0B>
 //リトル：
 Little:
@@ -130,7 +130,8 @@ Little:
 <$0D>
 //\nせいぜいがそんなところだ。
 \n
-That's as far as his track record goes.
+That's as far as his rap\n
+sheet goes.
 <$0C><$0B>
 //リトル：
 Little:
@@ -197,8 +198,8 @@ Little:
 <$0D>
 //\nあああ、早く忘れてしまいたい！\nさあ、連れてってくれ。
 \n
-Man, I can't wait to put this behind\n
-me! Come on, show the way.
+Man, I can't wait to put this\n
+behind me! Come on, show the way.
 <$0C><$0B>
 //リトル：
 Little:
@@ -251,7 +252,8 @@ WOULD YOU LIKE TO HEAR WHAT THAT\n
 DIALOGUE WAS?
 <$1B>
 //。開いてみる\n開かない
-。Yes\nNo
+。Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 000027CB
@@ -1038,8 +1040,8 @@ Olympia #2:
 <$0D>
 //\nアタラしいテンカイになってきましたね。\nワタシはここでケンブツです。
 \n
-THIS IS A PLOT TWIST, IF I HAVE EVER\n
-HEARD ONE.
+THIS IS A PLOT TWIST,\n
+IF I HAVE EVER HEARD ONE.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:

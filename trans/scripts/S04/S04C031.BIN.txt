@@ -17,7 +17,8 @@ Sammy:
 <$0D>
 //\nあら、またまたサミーよ。
 \n
-Guess who it is? It's me, Sammy!
+Guess who it is?\n
+It's me, Sammy!
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -107,17 +108,18 @@ Rummy:
 //\nなんだな、僕だな、ラミーだな。\n今度はふたりだな、あと何人だな…
 \n
 Hey. It's me, Rummy!\n
-So, we make up two, right?
+So, we're two, see?
 <$0C>
-I guess that last one makes us a trio.
+But there's one more hanging\n
+around, which makes us a trio.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n仲間、はぐれたんだな。\n記憶の谷だな、あそこだな。
 \n
-You're friend's lost, isn't she. Yeah,\n
-she must be in Valles Memoriae, a-ha!
+Is your friend lost. Yeah, they\n
+must be in Valles Memoriae, a-ha!
 <$1E><$03><$04><$00>
 
 // Pos: 00002545

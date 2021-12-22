@@ -78,7 +78,9 @@ Well, as a matter of fact...
 3. What does Veronica want?
 <$1B>
 //２１ \n２ \n３ 
-２1 \n2 \n3
+２1 \n
+2 \n
+3
 <$00><$17><$00>
 
 // Pos: 000018EF
@@ -93,15 +95,15 @@ Cosmas:
 <$0D>
 //\n僕に兄弟なんていないさ、本当だよ。
 \n
-The truth is, I don't have any siblings.
+The truth is, I don't have siblings.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nレッドおじさんは勝手に話を作り出す\n天才なんだよ。
 \n
-Uncle Red has a gift for spinning tall\n
-tales at the drop of a hat.
+Uncle Red has a gift for spinning\n
+tall tales at the drop of a hat.
 <$00>
 
 // Pos: 00001938
@@ -218,16 +220,16 @@ Cosmas:
 <$0D>
 //\n結局、見た目なんだ…
 \n
-At the end of the day, this is what I\n
-look like.
+At the end of the day,\n
+this is what I look like.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\n存在するってそういうことだろ、\n見て分かること…
 \n
-When I look at it, it's the proof I have\n
-that this me exists.
+When I look at it, it's the proof\n
+I have that this me exists.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -273,7 +275,7 @@ Cosmas:
 <$0D>
 //\n死はなくなっちゃうことじゃないって、\nガリルが説いてたよ。死は始まりなんだって。
 \n
-As Galil explained it in the past, death\n
+As Galil put it in the past, death\n
 isn't the end. It's the beginning.
 <$00>
 

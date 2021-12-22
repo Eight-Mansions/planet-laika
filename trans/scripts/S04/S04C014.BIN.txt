@@ -17,8 +17,8 @@ East:
 <$0D>
 //\nおい、犬顔！ 見なかったか、リトルさんだ。
 \n
-Is it your fault we can't find Little,\n
-dogface?
+Is it your fault we can't\n
+find Little, dogface?
 <$00>
 
 // Pos: 000021BA
@@ -93,7 +93,8 @@ West:
 <$0D>
 //\nこんな夜中に！
 \n
-In the middle of the night like this!
+In the middle of the\n
+night like this!
 <$00>
 
 // Pos: 00002228
@@ -108,7 +109,8 @@ East:
 <$0D>
 //\nどこかに出かけるんだ。
 \n
-Why would he storm out like that?
+Why would he storm out\n
+like that?
 <$00>
 
 // Pos: 0000223E
@@ -496,8 +498,8 @@ Feng:
 <$0D>
 //\n鏡の精よ、ふふふふふふ。美の権化よ…\nいずれ私のものとなるの、ふふふ。
 \n
-A mirror spirit, and beauty\n
-incarnate. 
+A mirror spirit,\n
+and beauty incarnate. 
 <$0C>
 You can say she and I are\n
 kindred spirits, hoho.
@@ -542,7 +544,7 @@ Feng:
 \n
 My, my! So, you knew.
 <$0C>
-When our inner evils can destroy
+When our inner evils can destroy\n
 our outer, we find Judgement.
 <$00><$12><$13><$18><$0B>
 //スペーサー：

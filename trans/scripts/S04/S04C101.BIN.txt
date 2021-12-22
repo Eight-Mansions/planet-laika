@@ -35,8 +35,8 @@ Madam Agatha:
 <$0D>
 //\n記憶の谷はなくした記憶が\nよみがえる場所と言われているわ。\nでもそれは本当の記憶じゃないのよ。
 \n
-Valles Memoriae is revered as a place\n
-that revives lost memories.
+Valles Memoriae is revered as a\n
+place that revives lost memories.
 <$0C>
 That does not mean those\n
 memories are always true.
@@ -54,8 +54,8 @@ Madam Agatha:
 <$0D>
 //\nこの星の力で歪んでしまった、ウソの思い出…
 \n
-This planet's powers can take lies\n
-and distort them.
+This planet's powers can take\n
+lies and distort them.
 <$0C>
 Victims mistake these vivid\n
 projections for true recollections.
@@ -121,8 +121,8 @@ Madam Agatha:
 <$0D>
 //\n彼女のこと、前から知ってるような気がして…
 \n
-But it's as if I'd already known her for\n
-a long time.
+But it's as if I'd already known\n
+her for a long time.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -145,8 +145,8 @@ Madam Agatha:
 <$0D>
 //\nねぇ、ちょっと試してみたいことがあるの。\n一緒に来ない？
 \n
-Say, there's something I'd like for us\n
-to try. Would you come with me?
+Say, there's something I'd like for\n
+us to try. Would you come with me?
 <$1B>
 //？行く\n行かない
 ？Yes\nNo
@@ -168,7 +168,8 @@ I see. Have you met Feng,\n
 by any chance?
 <$1B>
 //,もう会った\nまだ会っていない
-,Yes\nNo
+,Yes\n
+No
 <$00><$17><$00><$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -721,7 +722,7 @@ Madam Agatha:
 <$0D>
 //\nあああ、真っ赤な炎よ、夜を染める炎…\n火事みたいね。 誰かが叫んでる…
 \n
-Gasp! The night sky is stained by red
+Gasp! The night sky is stained by red\n
 flames. It's a fire. Someone screams.
 <$0C><$0B>
 //マダム・アガタ：
@@ -737,8 +738,8 @@ Madam Agatha:
 <$0D>
 //\nでもごめんなさい、\nここまでしか分からないわ。
 \n
-...I'm sorry. That's all I can make\n
-sense of.
+...I'm sorry.\n
+That's all I can make sense of.
 <$00>
 
 // Pos: 00003DA7
@@ -929,8 +930,8 @@ Madam Agatha:
 <$0D>
 //\nウラジミールがキッチンにいるわ、\nしゃがみ込んでる。
 \n
-I see only the faint shadow of\n
-Vladimir.
+I see only the faint\n
+shadow of Vladimir.
 <$0C>
 He is doubled over\n
 on the kitchen floor.
@@ -1112,9 +1113,9 @@ Madam Agatha:
 <$0D>
 //\nいやだ、あれは子猫よ、死んでるみたいね。\n生き埋めにしたのね、それを掘り返してる。\nあれはクロウよ、子供のころのクロウよ…
 \n
-...Oh, no. It's a kitten! And it's dead!\n
+Oh, no. It's a kitten! And it's dead!\n
 <$0C>
-It must have been buried alive, but
+It must have been buried alive, but\n
 Crow is digging the corpse back up...!
 <$00>
 
@@ -1134,8 +1135,8 @@ Madam Agatha:
 <$0D>
 //\n地下室みたいなところよ、\n古びたコンロが見えるわ、\n上にナベが乗ってる、
 \n
-He's in some sort of cellar. I see an old\n
-gas burner with a saucepan on top.
+He's in some sort of cellar. I see an\n
+old gas burner with a saucepan on top.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

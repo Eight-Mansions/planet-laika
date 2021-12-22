@@ -64,7 +64,7 @@ Spacer:
 <$0D>
 //\nもう間に合わないのか？\nどうなんだ、教えてくれ！
 \n
-Dangit, we're not too late, are we?\n
+Dang, we're not too late, are we?\n
 Come on, answer me!
 <$00>
 
@@ -80,8 +80,8 @@ Universal Man:
 <$0D>
 //\nあああ… ガリルのやつ…\n完全なる善となるべく… あああ…
 \n
-Gaaa...Galiiiil...seeks to become\n
-pure gooooood...
+Gaaa...Galiiiil...seeks to\n
+become pure gooooood...
 <$00>
 
 // Pos: 0000256C
@@ -114,16 +114,16 @@ Universal Man:
 <$0D>
 //\nひとつはここに、私のうちに。\n残るは死者に…
 \n
-Onnne is here, in me... The rest are in\n
-deaaath...
+Onnne is here, in me...\n
+The rest are in deaaath...
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
 <$0D>
 //\nあああ、やはり私は死と\n向き合わなければならないのか！
 \n
-Ahhhh, after all this, even I cannot\n
-escape deaaaath...
+Ahhhh, after all this,\n
+even I cannot escape deaaaath...
 <$0C><$0B>
 //ユニバーサルマン：
 Universal Man:
@@ -161,8 +161,8 @@ Universal Man:
 <$0D>
 //\nあああ…\n呪いの火に焼きつくされてもいいのか…\nあああ…
 \n
-Ahhh... Let me burn in the flames\n
-of...maledictionnnn....
+Ahhh... Let me burn in the\n
+flames of...maledictionnnn....
 <$00>
 
 // Pos: 00002645
@@ -177,8 +177,8 @@ Spacer:
 <$0D>
 //\nなんと、心の中から開こえてくるようだ…\nこれがエレミヤの預言か。
 \n
-It feels like my mind's being pulled open\n
-in some way. Is this Jeremiah's prophecy?
+It feels like my mind's being pulled\n
+open. Is this Jeremiah's prophecy?
 <$00>
 
 // Pos: 00002676
@@ -193,9 +193,9 @@ May there be one who boldly siezes\n
 the truth within the chaos.
 <$0C>
 //自らのタマシイを浄化して、\nいかり、おごり、さげすみなど、\n闇の諸力から解放された存在として、
-May he purify his own spirit, and free\n
-himself from the dark hooks of\n
-anger, pride and envy.
+May he purify his own spirit,\n
+and free himself from the dark\n
+hooks of anger, pride and envy.
 <$0C>
 //光の中に輝くであろう。
 That he may shine in that light.

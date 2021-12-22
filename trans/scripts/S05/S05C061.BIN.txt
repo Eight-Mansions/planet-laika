@@ -131,9 +131,8 @@ Veronica:
 <$0F>
 //じゃない、あんたは誰？
 \n
-...? No, that's not it. What's your
-<$0C>
-name?
+...? No, that's not it.\n
+What's your name?
 <$00>
 
 // Pos: 00002271
@@ -148,7 +147,8 @@ Spacer:
 <$0D>
 //\nあああ、私はスペーサーだ、スペーサー。\n君は確か…
 \n
-Uhhh, I'm Spacer. And who're you?
+Uhhh, I'm Spacer.\n
+And who're you?
 <$00>
 
 // Pos: 00002298
@@ -170,8 +170,8 @@ Veronica:
 <$0D>
 //\nねぇ、開くけどあんたは、あんただけなの？\n他にはいないの？
 \n
-I thought I heard talking, but it's just\n
-you. Are you expecting someone?
+I thought I heard talking, but it's\n
+only you. Are you expecting someone?
 <$00>
 
 // Pos: 000022D8
@@ -372,17 +372,17 @@ Spacer:
 <$0D>
 //\nまだ眠っているのか。\n人格統合だ、その時はどうなる？
 \n
-Are you two still sleeping? Guys,\n
-what happens in personality
+Are you two still sleeping?
 <$0C>
-integration?
+Guys, what happens in\n
+personality integration?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n誰が残るんだ。\nそれとも誰も残れないのか、どうなんだ？
 \n
-Who remains, huh? Does everyone remain,\n
-or does everyone disappear? Which is it?
+Who remains, huh? Does everyone stay,\n
+or do we all disappear? Which is it?
 <$00>
 

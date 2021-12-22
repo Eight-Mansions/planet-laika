@@ -82,7 +82,8 @@ Mountain:
 <$0D>
 //\nロックバースは火星の宿命だ。
 \n
-Rock birth is Mars's very destiny.\n
+Rock birth is Mars's history\n
+and its very destiny.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -189,8 +190,8 @@ Mountain:
 <$0D>
 //\nつながった１と３はプラスの世界ではもちろん、\nマイナスの世界でも緊張関係にある。
 \n
-Positive "one" and "three" are tightly\n
-connected.
+Positive "one" and "three" are\n
+tightly connected.
 <$0C>
 Negative "one" and negative "three"\n
 are also tightly connected.
@@ -249,8 +250,8 @@ Mountain:
 <$0D>
 //\n宇宙には波動が満ちている。\n少しずつ周期的に変化する波動を集めて
 \n
-Outer space is full of waves. Our amp\n
-picks up those smaller waves...
+Outer space is full of waves. Our\n
+amp picks up those smaller waves...
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -308,7 +309,8 @@ Be honest. You overlooked it too,\n
 didn't you?
 <$1B>
 //,見落としてきた\n見落とさなかった
-,Yes\nNo
+,Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 000038C3
@@ -346,8 +348,8 @@ Mountain:
 <$0D>
 //\nまだ発表はしていないが、金星人は\n私たちのことをすでに知っているんだ。
 \n
-No one's outright said it yet, but the\n
-Venusians already know about us.
+No one's outright said it yet, but\n
+the Venusians already know about us.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -576,8 +578,8 @@ Mountain:
 <$0D>
 //\nこいつの頭の中にはいろいろ現れてるんだ。\n私たちと同じように。
 \n
-If he's anything like us,\n
-he's got a lot on his mind as is.
+If he's anything like us, he's\n
+got a lot on his mind as it is.
 <$0C><$0B>
 //マウンテン：
 Mountain:
@@ -680,6 +682,9 @@ Well, that may be true.
 Mountain:
 <$0D>
 //\nいやきっとこいつには見えるんだ、\n俺たちに通じるところを惑じるぞ。
+\n
+This may look exhausting, but\n
+we believe we're onto something!
 <$1E><$03><$04><$00>
 
 // Pos: 00003CD8
@@ -698,16 +703,16 @@ Yang:
 <$0D>
 //\n何だお前…いまどきそんな無線テレビ、\nどうしようってんだ？
 \n
-What are you doing with that busted,\n
-old monitor?
+What are you doing with\n
+that busted, old monitor?
 <$0C><$0B>
 //ヤング：
 Yang:
 <$0D>
 //\nもう放送なんかしてねぇ。映りっこねぇ！
 \n
-That thing doesn't broadcast or\n
-show anything anymore.
+That thing doesn't broadcast\n
+or show anything anymore.
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -756,7 +761,8 @@ Mountain:
 <$0D>
 //\nどうした、\n波動を惑じるようになったのか？
 \n
-Well, kid, can you sense the waves?
+Well, kid, can you sense\n
+the waves?
 <$00>
 
 // Pos: 00003DA2
@@ -910,7 +916,7 @@ Commander October:
 \n
 There's uproar on Earth now. 
 <$0C>
-"The Martians are back!
+"The Martians are back!\n
 They're back to take our bodies!"
 <$0C><$0B>
 //オクトーバー司令官：

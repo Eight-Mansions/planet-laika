@@ -101,8 +101,8 @@ Little:
 <$0D>
 //\n俺の頭の中で呼ぶ声が開こえるんだ…
 \n
-I can hear the voices calling in my\n
-head.
+I can hear the voices\n
+calling in my head.
 <$0C><$0B>
 //リトル：
 Little:
@@ -175,16 +175,16 @@ Little:
 <$0D>
 //\n急いでくれ、\nお前が連れていってくれるんだろ。
 \n
-I'd better hurry and take you with\n
-me.
+I'd better hurry and\n
+take you with me.
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n俺の頭の中じゃそうなってる。\n分かってるんだ。
 \n
-That's what they're sayin' to do in my\n
-head, get it?
+That's what they're sayin'\n
+to do in my head, get it?
 <$00>
 
 // Pos: 000030D8
@@ -207,8 +207,8 @@ Little:
 <$0D>
 //\n俺には開こえてるんだ、入って来るんだ。\nウソっぱちのまじないだ。
 \n
-I can hear 'em. The lies keep pourin'\n
-into me.
+I can hear 'em.\n
+The lies keep pourin' into me.
 <$00>
 
 // Pos: 00003134
@@ -322,8 +322,8 @@ Little:
 <$0D>
 //\n俺の頭の中で呼ぶ声が開こえるんだ…
 \n
-I can hear the voices callin' in my\n
-head.
+I can hear the voices\n
+callin' in my head.
 <$0C><$0B>
 //リトル：
 Little:
@@ -473,7 +473,8 @@ Keepin' 'em around too long won't\n
 make you any happier. You ready?
 <$1B>
 //。行こう\n待ってくれ
-。Yes\nNo
+。Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 000034A5
@@ -519,8 +520,8 @@ Little:
 <$0D>
 //\n俺が行くのはコロニーの中じゃない、\n分かるだろ、表だ。
 \n
-Oi, I'm not goin' into the colony,\n
-got it? Outside!
+Oi, I'm not goin' into\n
+the colony, got it? Outside!
 <$00>
 
 // Pos: 000034E2
@@ -579,6 +580,7 @@ Boomer:
 <$0D>
 //\nあああ、もう終わりだ、終わりだ…
 \n
-Ahhh, it'll be over soon! It's all over!
+Ahhh, it'll be over soon!\n
+It's all over!
 <$1E><$02><$08><$00>
 

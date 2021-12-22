@@ -17,16 +17,16 @@ Commander October:
 <$0D>
 //\nあーあー、ライカ君かね？\nあー、君はライカ君？ そこにいるかね？
 \n
-Ayyye, greetings, Laika! Is that you,\n
-Laika? Are you there?
+Ayyye, greetings, Laika!\n
+Is that you, Laika? Are you there?
 <$0C><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nアタシたちに用なの？\nねえ、これ地球からなんでしょ？
 \n
-Can we help you? Excuse me, is this\n
-message from Earth?
+Can we help you? Excuse me,\n
+is this message from Earth?
 <$0C><$13><$3F><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -83,7 +83,7 @@ Commander October:
 <$0D>
 //\nあー、ライカ君だね、騒ぎは収まりそうもない。\nそこで少し見方を変えて、火星人について、\n掘り下げようと思う。
 \n
-Greetings, Laika! Is that you?\n
+Greetings, Laika! Is that you?
 <$0C>
 I'd like to take your attention\n
 from your errands for a moment.
@@ -186,9 +186,9 @@ Entomologist:
 <$0D>
 //\nそう伝えられていますが、彼らに人間の顔は\n合わなかったのです、フンフン。
 \n
-As we've since come to find out, the\n
-faces didn't stick onto the Martians\n
-so well, bzzbzz.
+As we've since come to find out,\n
+the faces didn't stick onto the\n
+Martians so well, bzzbzz.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:

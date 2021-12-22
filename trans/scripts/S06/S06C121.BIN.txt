@@ -32,7 +32,8 @@ Captain Tatler:
 <$0D>
 //\nライカ君、頼む、クロエちゃんを！
 \n
-Laika, please! You have save Chloe!
+Laika, please!\n
+You have save Chloe!
 <$00>
 
 // Pos: 000021D7
@@ -62,7 +63,8 @@ Captain Tatler:
 <$0D>
 //\nクロエちゃーん、今そこに行くからねー
 \n
-Don't worry, Chloe! Help's on the way!
+Don't worry, Chloe!\n
+Help's on the way!
 <$00>
 
 // Pos: 00002209
@@ -108,8 +110,8 @@ Captain Tatler:
 <$0D>
 //\nああ、燃える燃える、クロエちゃんが、\n燃えてしまうぅぅぅぅ…
 \n
-Please, no! She's burning! Burning!\n
-My Chloe's burniiiing!
+Please, no! She's burning!\n
+Burning! My Chloe's burniiiing!
 <$00>
 
 // Pos: 00002276
@@ -124,8 +126,8 @@ Olympia #2:
 <$0D>
 //\nホノオがオソってきます。\nオンドはアツいです。
 \n
-THE FLAMES ARE RISING. THE\n
-TEMPERATURES ARE RISING.
+THE FLAMES ARE RISING.\n
+THE TEMPERATURES ARE RISING.
 <$00>
 
 // Pos: 0000229D
@@ -187,7 +189,8 @@ Ernest:
 <$0D>
 //\nくそったれ！ 役に立たねぇ野郎だぜ！
 \n
-Some help you are, good for nothing.
+Some help you are,\n
+good for nothing.
 <$00>
 
 // Pos: 00002327
@@ -210,16 +213,16 @@ Olympia #2:
 <$0D>
 //\nホノオは、このホシのアクイにフレて\nイシをモッたのです。
 \n
-THESE FLAMES ARE STOKED BY THE ILL\n
-WILL OF MARS.
+THESE FLAMES ARE STOKED\n
+BY THE ILL WILL OF MARS.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>
 //\nホノオとタタカってください。
 \n
-THESE FLAMES CAN ONLY BE DEFEATED\n
-THROUGH BATTLE.
+THESE FLAMES CAN ONLY BE\n
+DEFEATED THROUGH BATTLE.
 <$00>
 
 // Pos: 00002395

@@ -40,8 +40,8 @@ Liever:
 <$0D>
 //\nこうだよ。
 \n
-If you go in, you'll come out the other\n
-side.
+If you go in, you'll come\n
+out the other side.
 <$00>
 
 // Pos: 000028F1
@@ -72,7 +72,7 @@ April:
 //\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
 \n
 What is a mirror doing here?\n
-And why won't it show my reflection?!
+Why won't it show my reflection?!
 <$0E><$1E><$17><$00>
 
 // Pos: 00002934
@@ -88,7 +88,7 @@ April:
 //\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
 \n
 What is a mirror doing here?\n
-And why won't it show my reflection?!
+Why won't it show my reflection?!
 <$0C>
 reflection?!
 <$00>
@@ -105,7 +105,8 @@ Spirit Man:
 <$0D>
 //\nひょひょ、ライカ、\nお前はそろそろ休んだ方がいい、ひょ。
 \n
-Hyohyo, Laika. You should rest soon.
+Hyohyo, Laika.\n
+You should rest soon.
 <$0E><$1E><$17><$00>
 
 // Pos: 0000298B

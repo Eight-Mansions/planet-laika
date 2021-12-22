@@ -62,7 +62,8 @@ Is the mind's eye asking\n
 if I'll read its poetry?
 <$1B>
 //？読む\n読まない
-？Read\nExit
+？Read\n
+Exit
 <$00><$17><$00>
 
 // Pos: 00002767
@@ -141,7 +142,7 @@ Spacer:
 <$0D>
 //\nスペースアンプが暴走している。\nこのまま続けると…
 \n
-The Space A.M.P. is out of control! If it\n
+The Space A.M.P.'s out of control! If it\n
 keeps running like this, these guys'll...
 <$0C><$0B>
 //スペーサー：
@@ -418,7 +419,8 @@ A-hah! So, you're NOT Spacer\n
 without 
 <$0F>
 //なのですか！\nいずれにせよ、ひとつ忠告しておこう。
-! Very well.\nHere's a piece of advice:
+! Very well.\n
+Here's a piece of advice:
 <$0C>
 //この星のことをろくに知らない者が、\n星の意志に逆らおうとしても\n無駄というものだ。
 As someone who knows Mars,\n

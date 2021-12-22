@@ -25,7 +25,8 @@ Liever:
 //\n
 <$0F>
 //の新しいパパでしょ。\nあんたにとっても。
-'s step-father.\nHe did this to you.
+'s step-father.\n
+He did this to you.
 <$00>
 
 // Pos: 00004046
@@ -40,7 +41,7 @@ Yolanda:
 <$0D>
 //\nふん！ ウラジミールなんてろくでなしよ。\nすこぶる付きのろくでなし。
 \n
-Hmph. Vladimir was a dirt-fucking\n
+Vladimir was a dirt-fucking\n
 bastard, to put it nicely.
 <$00>
 
@@ -90,7 +91,8 @@ Yolanda:
 <$0D>
 //\nそして限界を超えちゃったのよ。
 \n
-And, when they started digging...
+And as the saying goes,\n
+someone knocked from below.
 <$00>
 
 // Pos: 00004101
@@ -129,8 +131,8 @@ Yolanda:
 <$0D>
 //\n可哀想に… もっと早く\nアタシが話し相手になってあげれば…
 \n
-I'm pathetic... If only I'd talked to\n
-her sooner.
+I'm pathetic...\n
+If only I'd talked to her sooner.
 <$00>
 
 // Pos: 00004178
@@ -218,16 +220,16 @@ Yolanda:
 <$0D>
 //\n守るためよ。\n生まれてくるはずだった妹…
 \n
-To protect. He came to protect the\n
-little sister...
+To protect. He came to protect\n
+the little sister...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nアーネストは\nその妹を守るためにやってきたのよ。
 \n
-...the little sister whom Tanya was to\n
-give birth to.
+...the little sister whom\n
+Tanya was to give birth to.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -272,8 +274,8 @@ Yolanda:
 <$0D>
 //\nアーネストにしてみれば、\n生まれたことになってるの。
 \n
-...but in Ernest's eyes, she's out\n
-there, somewhere.
+...but in Ernest's eyes,\n
+she's out there, somewhere.
 <$00>
 
 // Pos: 000042F4
@@ -303,7 +305,8 @@ Yolanda:
 <$0D>
 //\nどうやらそのようね。\n詳しいことは分からない、本人じゃなきゃね。
 \n
-Apparently, he did it to fill that gap.
+Apparently, he did it\n
+to fill that gap.
 <$0C>
 I don't know the details,\n
 so you'd have to ask him.
@@ -382,7 +385,8 @@ Yolanda:
 Spacer is our personal command\n
 tower.
 <$0C>
-He keeps an eye over the lot of us.
+He keeps an eye over\n
+the lot of us.
 <$00>
 
 // Pos: 000043EC
@@ -413,8 +417,8 @@ Yolanda:
 <$0D>
 //\nそうよ。ミーシャっていう人格が\nひとり歩きしないようにね。
 \n
-Definitely. By that point, Ernest's idea\n
-of "Masha" had taken a life of its own.
+Definitely. By that point, Ernest's\n
+"Masha" had taken a life of her own.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -437,8 +441,8 @@ Liever:
 <$0D>
 //\nスペーサーは大の勉強家だよね。
 \n
-But Spacer is a largely studious\n
-person, isn't he.
+But Spacer is a largely\n
+studious person, isn't he.
 <$00>
 
 // Pos: 0000447C
@@ -471,15 +475,16 @@ Yolanda:
 ...he'd planted himself in 
 <$0F>
 //の中に住み着いたのよ、
-'s\nmind upon them reading the book.
+'s\n
+mind upon them reading the book.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nアタシはそう思ってる。
 \n
-At least, that's my understanding of\n
-the situation.
+At least, that's my understanding\n
+of the situation.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -530,16 +535,16 @@ Galil:
 <$0D>
 //\nしかしどうだ、\n今や明るい理性の庭にいる。
 \n
-And now, the shining beacon of all\n
-reason stands before you!
+And now, the shining beacon of\n
+all reason stands before you!
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n全てはこの星の意志に\n触れたからに他ならない。
 \n
-All because I was touched by the will\n
-of the planet.
+All because I was touched by\n
+the will of the planet.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -588,8 +593,8 @@ Liever:
 <$0D>
 //\nそいつはあんたの苦しみを\n利用しようとしてるんだ。
 \n
-All Galil wants is to capitalize on your\n
-suffering!
+All Galil wants is to capitalize\n
+on your suffering!
 <$00>
 
 // Pos: 00004666
@@ -622,8 +627,8 @@ Liever:
 <$0D>
 //\nあれは神様なんかじゃない！\nイーブルマインドのカスだ！
 \n
-That wasn't God! That was just a\n
-mass of Evil Mind!
+That wasn't God! That was\n
+just a mass of Evil Mind!
 <$00>
 
 // Pos: 000046B8
@@ -687,11 +692,11 @@ Galil:
 <$0D>
 //\nそうだ、リトル。お前だリトル。\nリトル、リトル、この名を呼び続けてやろう！
 \n
-That's right, LITTLE! It was you,\n
-LITTLE!
+That's right, LITTLE!\n
+It was you, LITTLE!
 <$0C>
-AND I SHALL CALL YOU "LITTLE" IN
-THE EYES OF GOD FOR IT!
+AND I SHALL CALL YOU "LITTLE"\n
+IN THE EYES OF GOD FOR IT!
 <$00>
 
 // Pos: 0000475D
@@ -732,7 +737,8 @@ Yolanda:
 
 <$0F>
 //を追いやって…
- couldn't help it.\nI forced him inside.
+ couldn't help it.\n
+I forced him inside.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -747,8 +753,8 @@ Yolanda:
 <$0D>
 //\n家に帰って人の気配がしないからさがしたの、
 \n
-When I got home, there was no sign\n
-of her, so I went looking.
+When I got home, there was no\n
+sign of her, so I went looking.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -763,8 +769,8 @@ Yolanda:
 <$0D>
 //\nバスルームから水の音が開こえて…\nもう見るまでもなかった。
 \n
-I heard the sound of running water\n
-from the bath room.
+I heard the sound of running\n
+water from the bath room.
 <$0C>
 I didn't have to look anymore.
 <$0C><$0B>
@@ -780,8 +786,8 @@ Yolanda:
 <$0D>
 //\nタニアの心が\n持ちこたえられそうもないってことは。
 \n
-I knew Tanya's heart couldn't take it\n
-any longer.
+I knew Tanya's heart couldn't\n
+take it any longer.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:

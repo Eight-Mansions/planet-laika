@@ -57,15 +57,15 @@ Crow:
 //\nもうえらそうなことは言わさない、\nヘロデのやつもおびえきってたぞ。
 \n
 Bet they won't talk like that anymore.\n
-Even old Herod was shakin' in his boots!
+Even old Herod's shakin' in his boots!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n楽しいな、おびえてたぞ、楽しいな！
 \n
-Isn't it great? They're all so scared,\n
-I love it!
+Isn't it great? They're all\n
+so scared, I love it!
 <$1E><$03><$08><$00>
 
 // Pos: 000014C8
@@ -95,8 +95,8 @@ Neo-Universal Man:
 <$0D>
 //\nああ、言葉が届かない…\n死への道が開かない…
 \n
-Ah, my words won't reach. The road\n
-to Death won't open.
+Ah, my words won't reach.\n
+The road to Death won't open.
 <$00>
 
 // Pos: 00001540
@@ -128,8 +128,8 @@ Spacer:
 <$0D>
 //\nユニバーサルマン…\nここは死の世界に通じているのか！
 \n
-Universal Man... This is the way he\n
-took to the Land of the Dead!
+Universal Man... This is the way\n
+he took to the Land of the Dead!
 <$1A>
 //：
 <$00><$00><$00><$13><$1D><$0B>
@@ -138,10 +138,10 @@ Yolanda:
 <$0D>
 //\nあああ、いや！ 死への道だなんて！\n帰して、元の場所に。ねぇ！
 \n
-No, no, NO! This can't be the path to\n
-death! Take me back to where I came
+No, no, NO! This can't be\n
+the path to death!
 <$0C>
-from!
+Take me back to where I came from!
 <$00>
 
 // Pos: 000015E3

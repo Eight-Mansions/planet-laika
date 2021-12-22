@@ -193,8 +193,8 @@ Spacer:
 <$0D>
 //\n自分の中に広がる闇から目をそむけているんだ。\n広がった隠しようのない闇を恐れているんだ。
 \n
-You're afraid of the darkness in you\n
-spreading beyond restoration.
+You're afraid of the darkness in\n
+you spreading beyond restoration.
 <$00>
 
 // Pos: 00003702
@@ -217,7 +217,8 @@ Red:
 <$0D>
 //\nここにはここのやり方があるんだ！\nちくしょうめ！
 \n
-This is how we do things around here!
+This is how we do\n
+things around here!
 <$00>
 
 // Pos: 0000373B
@@ -642,8 +643,8 @@ Red:
 <$0D>
 //\nあああ、泡、俺のウデがない…
 \n
-Oh, no, not the bubbles! I'll be\n
-dirty!
+Oh, no, not the bubbles!\n
+I'll be dirty!
 <$0C><$0B>
 //レッド：
 Red:

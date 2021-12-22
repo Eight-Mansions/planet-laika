@@ -18,7 +18,7 @@ Little:
 //\nあああ、見たぞ、この先…\nそうだ、鏡だ… ダムだ！
 \n
 Wait! I know I saw it... Up ahead,\n
-right? Yeah, it was a wall, or...a dam.
+right? Yeah, it was a wall or a dam.
 <$00>
 
 // Pos: 0000168D
@@ -49,16 +49,16 @@ Little:
 <$0D>
 //\nあああ、あれは夢じゃなかったのか、
 \n
-Oi, it's almost like it was...no dream\n
-at all...
+Oi, it's almost like it\n
+was...no dream at all...
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\nあああ、いやだ、建う、思い出したくない、\nあれはただの夢だったんだ。そうだそうだ！
 \n
-NO! I don't want to remember! That\n
-was a dream! It HAD to be!
+NO! I don't want to remember!\n
+That was a dream! It HAD to be!
 <$00>
 
 // Pos: 00001720

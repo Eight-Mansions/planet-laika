@@ -61,8 +61,8 @@ Sammy:
 \n
 Heehee, were you expecting me?\n
 <$0C>
-Tommy had a little too much to drink,\n
-and he passed out.
+Tommy had a little too much\n
+to drink, and he passed out.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -114,8 +114,8 @@ Sammy:
 <$0D>
 //\n前からね、気にはなっていたのよ。\nさっき走って行ったのは、どうみても建った。\n何が建うかって…
 \n
-The way he was walking early was\n
-totally off!
+The way he was walking early\n
+was totally off!
 <$0C>
 Something's not right\n
 with him, a-nope.
@@ -132,6 +132,8 @@ with him, a-nope.
 Sammy:
 <$0D>
 //\nそうね…目かな。 目、目が建うの。\n遠くからだけど分かる、ほんとよ。
+\nThe eyes... They're real...
+You can see them from a mile away.
 <$1E><$01><$08><$00>
 
 // Pos: 00002035
@@ -226,8 +228,8 @@ Yang:
 <$0D>
 //\nさっきから無線テレビが点いたり消えたり、\nそれもアガタの魔術だろ。
 \n
-Our monitor's blinking on and off\n
-again.
+Our monitor's blinking\n
+on and off again.
 <$0C>
 I bet that's from\n
 Agatha's witchcraft too.

@@ -16,8 +16,8 @@
 Oxygen Miner 1：
 <$0D>
 //\nお空は青い、海も青い、\nだから僕のにじは映えるのさ…
-"Skies are blue, seas\n
-are bluer, that's why my rainbow\n
+"Skies are blue, seas are\n
+bluer, that's why my rainbow\n
 shines every co...lor..."
 <$0C><$0B>
 //酸索坑夫１号：
@@ -33,14 +33,16 @@ Oxygen Miner 1：
 <$0D>
 //\nふん、ダメさ。\n僕は、さっきまでの僕じゃないんだ。
 \n
-Hmph. No good. Not as good as before.
+Hmph. No good.\n
+Not as good as before.
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
 //\n力がみなぎって、\n代わりに歌を忘れた。
 \n
-So much power, forgot how to sing.
+So much power.\n
+Forgot how to sing.
 <$1E><$01><$08><$00>
 
 // Pos: 000014F3
@@ -71,8 +73,8 @@ Oxygen Miner 1：
 <$0D>
 //\nにじ色から好きな色を抜き出せばいいんだ、\nそうだろ。
 \n
-If life gives rainbows, take favorite\n
-colors.
+If life gives rainbows,\n
+take favorite colors.
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
@@ -94,8 +96,8 @@ Oxygen Miner 1：
 <$0D>
 //\nお空は青い、お肉は赤い、\nだから僕は不幸の子…\nああ、だめだ、やっぱり歌にならないよ。
 \n
-"Skies are blue, meats are red, that's\n
-why I am an unhappy kid..."
+"Skies are blue, meats are red,\n
+that's why I am an unhappy kid..."
 <$0C>
 Damn! Rhymes bad!
 <$00>
@@ -128,8 +130,8 @@ Rummy:
 <$0D>
 //\n緊急事態レベル３だな、これだな。
 \n
-I take it this is a Level 3 emergency\n
-lock.
+I take it this is a Level 3\n
+emergency lock.
 <$00>
 
 // Pos: 0000160C
@@ -198,6 +200,7 @@ Oxygen Miner 1：
 <$0D>
 //\n力が強いって、いいことだ、\nそう思うだろ、ははっ！
 \n
-Having power is better, I think. Haha!
+Having power is better,\n
+I think. Haha!
 <$00>
 

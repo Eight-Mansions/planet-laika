@@ -47,7 +47,7 @@ Crow:
 <$0D>
 //\n何だお前は…
 \n
-What do you want to know about?
+What are you here for?
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -73,7 +73,7 @@ Crow:
 <$0D>
 //\nへへ！ それともなにか、使えもしねえ\n無線テレビで遊ぼうってのか…へへ！
 \n
-We can't use it any other way. What\n
+Can't use it any other way. What\n
 do we look like, wireless TVs? Kek!
 <$1E><$03><$02><$00>
 

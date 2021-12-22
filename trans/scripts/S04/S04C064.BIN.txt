@@ -165,16 +165,14 @@ Madam Agatha:
 \n
 You see, I can peer into a person's\n
 self through their personal effects.
-<$0C>
-effects.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n物を見るだけで、いろんなようすが\n目に浮かんでくるの。\n物はいろんなことを教えてくれる…
 \n
-When I see an object, various other\n
-images related to it will pour into me.
+When I see an object, various images\n
+related to it will pour into me.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -183,16 +181,16 @@ Madam Agatha:
 \n
 It demands my full concentration.\n
 <$0C>
-It's not a skill I can use out\n
-here in the street.
+It's not a skill I can use\n
+out here in the street.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何か私に見せたい物があるときは、\n私の部屋に来て。 テレビのそばにある\nクリスタルボールに触れてみて。
 \n
-To see me, come to my room, and\n
-Touch the crystal ball.
+To see me, come to my room,\n
+and touch the crystal ball.
 <$1E><$03><$08><$00>
 
 // Pos: 000023A9
@@ -223,8 +221,8 @@ Linda:
 <$0D>
 //\nリトルって知ってるよね、\nあの人もあさって組よー。
 \n
-You know Little, right? He keeps his\n
-eyes on the road too.
+You know Little, right?\n
+He keeps his eyes on the road too.
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -327,7 +325,7 @@ Linda:
 How weird. It's always lights-out\n
 time, feels like.
 <$0C>
-Maybe the bed's speaker is busted.\n
+Maybe the bed's speaker is busted.
 <$1E><$01><$04><$00>
 
 // Pos: 00002529
@@ -377,8 +375,8 @@ Linda:
 <$0D>
 //\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
 \n
-I'd tell you more, but Marrakech is on\n
-my ass, and it's killing my mood.
+I'd tell you more, but Marrakech is\n
+on my ass, and it's killing my mood.
 <$1E><$01><$04><$00>
 
 // Pos: 000025DD
@@ -401,8 +399,8 @@ Linda:
 <$0D>
 //\nそばにマラケシュがいると、\nアタシ、うまくないのよー。\n後で教えてあげるねー。
 \n
-I'd tell you more, but Marrakech is on\n
-my ass, and it's killing my mood.
+I'd tell you more, but Marrakech is\n
+on my ass, and it's killing my mood.
 <$1E><$01><$04><$00>
 
 // Pos: 00002643

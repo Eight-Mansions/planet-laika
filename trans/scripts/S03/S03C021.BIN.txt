@@ -96,7 +96,7 @@ Ernest:
 <$0D>
 //\nEM値だと？ 消えるだと…\n俺はそんなことにはならないぜ！
 \n
-If the Phase are so bad, I'll just sock\n
+If the Phase are so bad, I'll sock\n
 them into space before they get close!
 <$00>
 
@@ -162,7 +162,8 @@ Spirit Man:
 <$0D>
 //\n難しいことは無しだぞ、\n来い来い。
 \n
-Don't worry about that. Come, come!
+Don't worry about that.\n
+Come, come!
 <$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
@@ -177,18 +178,19 @@ Spirit Man:
 <$0D>
 //\n詩はお前の思念だ、\nお前の頭の中にある言葉だ、ひょ。\n
 \n
-That poem reflects the thoughts and\n
-words circling in your head.
+That poem reflects the thoughts\n
+and words circling in your head.
 <$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nいや、私は何も考えなかった、\n私の思念なはずがない！
 \n
-No way! I didn't think up any of those\n
-words. Those couldn't be my
+No way! I didn't think up\n
+any of those words. 
 <$0C>
-thoughts!
+Those words couldn't be\n
+from my thoughts!
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
@@ -205,8 +207,8 @@ Spacer:
 <$0D>
 //\n私たちの歴史…あなたはいったい…
 \n
-My history, personally? Or do you\n
-mean people in general?
+My history, personally? Or do\n
+you mean people in general?
 <$00><$10><$13><$16><$0B>
 //スピリットマン：
 Spirit Man:
@@ -322,8 +324,8 @@ Come! Come with me to\n
 the mirror room!
 <$00><$10>
 //ガレキのすきまの奥で\n何かが光っているようだ。
-Something glows through the cracks\n
-of the rubble.
+Something glows through\n
+the cracks of the rubble.
 <$00><$10>
 //サイコカプセルを手にいれた！
 P Capsule acquired.
@@ -367,7 +369,7 @@ Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-I have no doubt that it's Amanda
+I have no doubt that it's Amanda\n
 who's inside the mirror. 
 <$0C>
 From what I concluded, it's because\n

@@ -25,8 +25,8 @@ Little:
 <$0D>
 //\nええ？ …それで…お前は何してるんだ、\nこんなところで？ 俺を連れてきたのか…
 \n
-Oi, what are you doin' in a place like\n
-this?! Did YOU drag me here?
+Oi, what are you doin' in a place\n
+like this?! Did YOU drag me here?
 <$00>
 
 // Pos: 000028AE
@@ -108,16 +108,16 @@ Little:
 <$0D>
 //\n何が来ようと俺は大丈夫だ、くそったれ！
 \n
-I've got nothing to answer for, get\n
-it?!
+I've got nothing to answer for,\n
+get it?!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n何が蕃判だ、インチキだ、\nそうだそうだ、インチキだ。
 \n
-This is some kind of scam. Yeah, it's all\n
-bogus!
+This is some kind of scam.\n
+Yeah, it's all bogus!
 <$0C><$0B>
 //リトル：
 Little:
@@ -132,8 +132,8 @@ Little:
 <$0D>
 //\n蕃判なんて…ガリルの寝言に過ぎない、\nばかばかしい！
 \n
-Galil's talkin' out of his ass. Don't be so\n
-stupid as to fall for it.
+Galil's talkin' out of his ass.\n
+Don't be so stupid as to fall for it.
 <$0C><$0B>
 //リトル：
 Little:
@@ -164,8 +164,8 @@ Please, no... The twins are getting\n
 closer...
 <$0C>
 //早くしないと、追いかけてくる…\nそんなの嫌だよう、僕は、僕は…
-If I don't hurry, they're going to\n
-catch me.
+If I don't hurry,\n
+they're going to catch me.
 <$00>
 
 // Pos: 00002AE2
@@ -180,7 +180,8 @@ Little:
 <$0D>
 //\nくそったれ！ またか、\nまた、これか、ちくしょう！
 \n
-Ugh, that again... I hate it, I HATE IT!
+Ugh, that again...\n
+I hate it, I HATE IT!
 <$00>
 
 // Pos: 00002B04
@@ -203,8 +204,8 @@ Little:
 <$0D>
 //\nそれで…お前は何してるんだ、\nこんなところで？ 俺を連れてきたのか…
 \n
-Oi, what are you doin' in a place like\n
-this?! Did YOU drag me here?
+Oi, what are you doin' in a place\n
+like this?! Did YOU drag me here?
 <$00>
 
 // Pos: 00002B53
@@ -315,8 +316,8 @@ Little:
 <$0D>
 //\n何が神様だ、あれはイーブルマインドの\nカスみたいなもんだ。
 \n
-What is God, if not a disgustin' mass of\n
-Evil Mind?
+What is God, if not a disgustin'\n
+mass of Evil Mind?
 <$0C><$0B>
 //リトル：
 Little:

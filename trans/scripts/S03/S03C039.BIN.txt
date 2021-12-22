@@ -39,7 +39,8 @@ WOULD YOU LIKE TO HEAR WHAT THAT\n
 DIALOGUE WAS?
 <$1B>
 //。開いてみる\n開かない
-。Yes\nNo
+。Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00001562
@@ -480,8 +481,8 @@ Spacer:
 <$0D>
 //\nいやそれはむつかしい問顆をはらんでいる。
 \n
-...No, I imagine it's a tougher nut to\n
-crack than that.
+...No, I imagine it's a tougher\n
+nut to crack than that.
 <$0C><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
@@ -824,8 +825,8 @@ Olympia #2:
 <$0D>
 //\nアタラしいテンカイになってきましたね。\nワタシはここでケンブツです。
 \n
-THIS IS A PLOT TWIST, IF I HAVE EVER\n
-HEARD ONE.
+THIS IS A PLOT TWIST,\n
+IF I HAVE EVER HEARD ONE.
 <$0C><$0B>
 //オリンピア２号：
 Olympia #2:

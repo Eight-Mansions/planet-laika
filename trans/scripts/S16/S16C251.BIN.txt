@@ -17,8 +17,8 @@ Marrakech:
 <$0D>
 //\n決まってるわよ、お顔のためでしょ。
 \n
-Have you made a decision about your\n
-face?
+Have you made a decision\n
+about your face?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -33,16 +33,16 @@ Marrakech:
 <$0D>
 //\n同じこと考えてるのよね、\nそうよね、ヨランダ。
 \n
-Great minds think alike, so surely\n
-you agree. Right Yolanda?
+Great minds think alike, so\n
+surely you agree, Yolanda.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nあら、そういうんじゃないの、\nあなたは…ヨランダ。
 \n
-Oh? I'm not wrong, am I? Certainly\n
-not, because you're...Yolanda.
+Oh? I'm not wrong, am I?\n
+No, because you're...Yolanda.
 <$1E><$01><$08><$00>
 
 // Pos: 00000B99
@@ -57,10 +57,11 @@ Marrakech:
 <$0D>
 //\nお顔がなにより、見かけの人よ。\nアタシもあなたも、そうでしょ、ヨランダ。
 \n
-It's the same for everyone, Yolanda.\n
+It's the same for everyone,\n
+Yolanda.
 <$0C>
-Faces are the centerpiece of one's
-outward appearance.
+Faces are the centerpiece\n
+of one's outward appearance.
 <$1E><$01><$04><$00>
 
 // Pos: 00000BCC
@@ -75,15 +76,16 @@ Marrakech:
 <$0D>
 //\nこれは夢よね、そうよね。
 \n
-This is a dream, isn't it. Yes, it is.
+This is a dream, isn't it.\n
+Yes, it is.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nでもいつもと建う惑じよ、\nどこがとはいえないけど。
 \n
-Dear, I'm always so confused. I doubt\n
-understanding will help anyways.
+Dear, I'm always so confused, not\n
+that I think understanding will help.
 <$1E><$01><$04><$00>
 
 // Pos: 00000C0C
@@ -98,8 +100,8 @@ Spacer:
 <$0D>
 //\nこの世界で眠れば戻れるんだな、\nここはただの悪夢だろ。
 \n
-If we sleep in this world, we can still\n
-turn back. This is still a nightmare.
+If we sleep in this world, we can\n
+turn back. This IS a nightmare.
 <$00>
 
 // Pos: 00000C39
@@ -114,8 +116,10 @@ Yolanda:
 <$0D>
 //\nそうよ、ただの夢よ。\nアタシがいつも見る夢じゃないけどね。
 \n
-Yes. While this isn't a dream I'd normally\n
-have, it's still only a dream.
+Yes. While this isn't a dream\n
+I'd normally have...
+<$0C>
+It's still only a dream.
 <$00>
 
 // Pos: 00000C64
@@ -145,8 +149,8 @@ be getting sick of it by now.
 Marrakech:
 <$0D>
 //\n何か変よね、変、うまくいえないけど？
-Something's changed, but I can't put\n
-my finger on what.
+Something's changed, but I can't\n
+put my finger on what.
 <$1E><$01><$04><$00>
 
 // Pos: 00000CAF
@@ -161,8 +165,8 @@ Marrakech:
 <$0D>
 //\nなかなか眠れないのよ、ぜんぜんダメ！\nこれじゃ戻れないわ！
 \n
-I can't rest like this! Not at all! I can't\n
-ho home yet!
+I can't rest like this!\n
+Not at all! I can't go home yet!
 <$1E><$01><$04><$00>
 
 // Pos: 00000CDC

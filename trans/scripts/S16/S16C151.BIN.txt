@@ -17,8 +17,8 @@ Yang:
 <$0D>
 //\nひゃひゃー、乗ったぞ、\nひゅーっと電波に乗ったぞ。
 \n
-Wheeeeee, I'm riding! I'm riding on\n
-radio waves! Weee!
+Wheeeeee, I'm riding! I'm riding\n
+on radio waves! Weee!
 <$0C><$0B>
 //ヤング：
 Yang:
@@ -26,7 +26,8 @@ Yang:
 //\nあんたもだろ、俺と一緒に電波に乗れるんだろ。\n見たところそんな惑じだ、俺と一緒だ、
 \n
 You are too! We're riding\n
-together on radio waves!\n
+together on radio waves!
+<$0C>
 You sense it too, just like I do!
 <$0C><$0B>
 //ヤング：
@@ -34,8 +35,8 @@ Yang:
 <$0D>
 //\nあんたはスペーサーっていうんだ。\n知ってるよ、頭にびんびんくるタイプだ。
 \n
-You, who goes by Spacer. Our type is\n
-hard-headed, I know.
+You, who goes by Spacer.\n
+Our type is hard-headed, I know.
 <$1E><$03><$04><$00>
 
 // Pos: 00000B84
@@ -131,8 +132,8 @@ Ernest:
 <$0D>
 //\n何も開こえねぇな。\nおい、お前の空耳なんじゃねぇのか。
 \n
-I don't hear anything. Maybe you're\n
-just mishearing things.
+I don't hear anything.\n
+Maybe you're mishearing things.
 <$00>
 
 // Pos: 00000C9B

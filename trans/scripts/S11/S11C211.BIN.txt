@@ -630,15 +630,15 @@ Gold:
 <$0D>
 //\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
 \n
-At the lodge, in front of the\n
-ventilation tower in the piazza.
+At the lodge, around the\n
+ventilation tower in the plaza.
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n換気塔の手前ね。ありがとう。
 \n
-In front of the ventilation tower?\n
+Around the ventilation tower?\n
 Got it. Thank you so much!
 <$0C><$0B>
 //エイプリル：

@@ -130,7 +130,8 @@ April:
 <$0D>
 //\n行きましょ。 きっとこの先よ。
 \n
-Let's go. Noon should be up this way.
+Let's go.\n
+Noon should be up this way.
 <$00>
 
 // Pos: 000037B1
@@ -206,7 +207,8 @@ April:
 <$0D>
 //\n私たち、人をさがしてるんです。
 \n
-Please, sir. We're looking for people.
+Please, sir.\n
+We're looking for people.
 <$00>
 
 // Pos: 00003845
@@ -1034,16 +1036,16 @@ April:
 <$0D>
 //\n気が付いていないみたいね。\n無線テレビはどう？
 \n
-If no one's using the monitor, why\n
-not give it a look?
+If no one's using the monitor,\n
+why not give it a look?
 <$00><$12><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：
 <$0D>
 //\nまただ、また来る、シー。\n静かに放っておいてくれ、
 \n
-HErE AgAIn, whOOsh. LEAvE Us bE\n
-qUIEtly.
+HErE AgAIn, whOOsh.\n
+LEAvE Us bE qUIEtly.
 <$0C><$0B>
 //酸索坑夫３号：
 Oxygen Miner 3：

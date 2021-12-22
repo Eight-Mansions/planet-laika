@@ -113,8 +113,8 @@ Damian:
 <$0D>
 //\nそう、よかったね。ふふふ、よかった。
 \n
-Yes, good! I thought as much,\n
-heehee!
+Yes, good!\n
+I thought as much, heehee!
 <$00>
 
 // Pos: 00002AF4
@@ -228,8 +228,8 @@ Damian:
 <$0D>
 //\nあんたがここまで来れたのもあいつのおかげ…\nそうじゃないの？
 \n
-You only got this far because of him,\n
-you know, so...please?
+You only got this far because\n
+of him, you know, so...please?
 <$00>
 
 // Pos: 00002C1B
@@ -244,8 +244,8 @@ Spacer:
 <$0D>
 //\n彼と約束をかわした。\nしかし、どうやって？
 \n
-I promise, but...save him "how"? Red\n
-keeps constant tabs on him.
+I promise, but...save him "how"?\n
+Red keeps constant tabs on him.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -268,8 +268,8 @@ Damian:
 <$0D>
 //\nレッドは出かけてるよ。\n今の間にコスマスを連れ出すのさ。
 \n
-Red is out. Now's the time for you to\n
-lead Cosmas.
+Red is out. Now's the time\n
+for you to lead Cosmas.
 <$00>
 
 // Pos: 00002C9E
@@ -300,16 +300,16 @@ Damian:
 <$0D>
 //\n人形だよ。\n黒い人形であいつを誘い出せる。
 \n
-There's a doll. A black doll that will get\n
-Cosmas out of the house.
+There's a doll. A black doll that\n
+will get Cosmas out of the house.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nあいつ、夢遊病みたいに付いてくるよ。
 \n
-If you use it, he'll come to you as if he\n
-were sleepwalking.
+If you use it, he'll come to\n
+you as if he were sleepwalking.
 <$00>
 
 // Pos: 00002D04

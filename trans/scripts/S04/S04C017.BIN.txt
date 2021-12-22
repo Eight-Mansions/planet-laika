@@ -25,7 +25,8 @@ Do you have any remaining\n
 business in the colony?
 <$1B>
 //※ちょっと戻ってみる\n今はよしておく
-※Yes\n No
+※Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00002E40
@@ -154,8 +155,8 @@ Noble Rock:
 <$0D>
 //\n悪いが今は通せない。
 \n
-I am sorry, but this area is\n
-currently off limits.
+I am sorry, but this area\n
+is currently off limits.
 <$00>
 
 // Pos: 00002F5A
@@ -170,8 +171,8 @@ Noble Rock:
 <$0D>
 //\n善人は危ない、不安定だ。
 \n
-Good people are dangerous because\n
-they are vulnerable.
+Good people are dangerous\n
+because they are vulnerable.
 <$00>
 
 // Pos: 00002F78
@@ -186,9 +187,9 @@ Noble Rock:
 <$0D>
 //\n憑かれやすいという話ではない。\n少しでも悪に触れると完全な悪に\nなってしまうのだ。
 \n
-It's not about "likelihood". Even the\n
-smallest touch of evil will taint a\n
-person.
+It's not about "likelihood".\n
+Even the smallest touch of\n
+evil will taint a person.
 <$00>
 
 // Pos: 00002FB4
@@ -288,7 +289,8 @@ Spacer:
 <$0D>
 //\n分かってる。\nちょっと寄っただけだ。
 \n
-I know. All I wanted was to pass by.
+I know. All I wanted\n
+was to pass by.
 <$00>
 
 // Pos: 00003058

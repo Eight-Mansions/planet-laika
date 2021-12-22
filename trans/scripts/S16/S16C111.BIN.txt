@@ -29,7 +29,7 @@ Madam Agatha:
 //\nいつもとは建うのよ、壊れそうなのよ。
 \n
 Sense anything wicked? I suspect\n
-things are still tearing at the seams.
+things are still tearing away.
 <$00>
 
 // Pos: 00002B93
@@ -44,8 +44,8 @@ Madam Agatha:
 <$0D>
 //\nあっ、待って。 これは… あなたのこと。\nあなたね、
 \n
-Oh, wait. I see... Yes, this pertains to\n
-you, 
+Oh, wait. I see... Yes, this\n
+pertains to you, 
 <$0F>
 //…
 .
@@ -55,8 +55,8 @@ Madam Agatha:
 <$0D>
 //\nあなたのことが… 読めそうよ…\nあなたの過去が。
 \n
-Let me take a closer look, and peer\n
-into your past.
+Let me take a closer look,\n
+and peer into your past.
 <$00>
 
 // Pos: 00002BE4
@@ -95,16 +95,16 @@ Madam Agatha:
 <$0D>
 //\nあなたの過去、\nもう少しで読めるわ。
 \n
-Let's take a short peer into your past,\n
-shall we?
+Let's take a short peer\n
+into your past, shall we?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n遠い昔…\nそこからとても強い力がおよんでいるのよ。
 \n
-Back to when you first received your\n
-powerful abilities.
+Back to when you first received\n
+your powerful abilities.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -135,8 +135,8 @@ Madam Agatha:
 <$0D>
 //\n薄暗い部屋の中…\nあなたとお母さんがいるわ。
 \n
-You're inside of a dim room...you and\n
-your mother.
+You're inside of a dim room...\n
+You and your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -144,7 +144,7 @@ Madam Agatha:
 //\nお母さんはあなたの手を取って…\n何か渡そうとしている…
 /\n
 Your mother takes your hand.\n
-She's trying to give you something.
+She tries to give you something.
 <$00>
 
 // Pos: 00002D25
@@ -217,7 +217,7 @@ Madam Agatha:
 <$0D>
 //\n何かを企んでいるふうよ。\nあなたは何も覚えてはいないのね
 \n
-She is planning something, but you\n
-don't remember what.
+She is planning something,\n
+but you don't remember what.
 <$00>
 

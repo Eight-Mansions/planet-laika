@@ -17,16 +17,16 @@ Oxygen Miner 1：
 <$0D>
 //\nダメだ、ゲートが開かない！だんぜん開かない、\nああ、俺じゃ力がたりない、\nお前、貸せ、シー。
 \n
-Can't open gate, whoosh! I don't have\n
-power, whoosh! Go get power!
+Can't open gate, whoosh! I don't\n
+have power, whoosh! Go get power!
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
 //\nさあ、貸せ、力だ、\n俺じゃ足りない、シーシー。
 \n
-Can't do alone. Need your power,\n
-whoosh...
+Can't do alone.\n
+Need your power, whoosh...
 <$00>
 
 // Pos: 00001B1F
@@ -41,8 +41,8 @@ Oxygen Miner 1：
 <$0D>
 //\nなんだ、お前は？ シー、それでどうする？\nシー。なさそうだ、力、
 \n
-Where do you look, whoosh? Help\n
-me, whoosh? Need power!
+Where do you look, whoosh?\n
+Help me, whoosh? Need power!
 <$0C><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
@@ -73,8 +73,8 @@ Oxygen Miner 1：
 <$0D>
 //\n力、力、力だ、\n力のためには協力をおしまないぞ、シー。
 \n
-Work together! Find power and use\n
-it, whoosh!
+Work together! Find power\n
+and use it, whoosh!
 <$1E><$01><$04><$00>
 
 // Pos: 00001BEF
@@ -405,8 +405,8 @@ Spacer:
 <$0D>
 //\nここはアイスレイクだな。\n凍った酸索が溶けだしている。
 \n
-The frozen oxygenite is starting\n
-to melt down.
+The frozen oxygenite is\n
+starting to melt down.
 <$00>
 
 // Pos: 00001F13
@@ -421,8 +421,8 @@ Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。\nお前…ダメだ、力ない、シー、全然ない！
 \n
-Gate open, whoosh! Not you, whoosh!\n
-Need...power!
+Gate open, whoosh!\n
+Not you, whoosh! Need...power!
 <$00>
 
 // Pos: 00001F47
@@ -467,7 +467,8 @@ Yolanda:
 <$0D>
 //\n何よここ、ううう、寒い！
 \n
-What is this place? God, it's cold!
+What is this place?\n
+God, it's cold!
 <$00>
 
 // Pos: 00001F9F

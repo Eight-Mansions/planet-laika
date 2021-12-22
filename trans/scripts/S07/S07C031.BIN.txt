@@ -120,8 +120,8 @@ April:
 <$0D>
 //\n人が凍ってるの？ イヤな惑じよ…
 \n
-I don't like the idea of us freezing\n
-where we stand.
+I don't like the idea of\n
+us freezing where we stand.
 <$00>
 
 // Pos: 00001507
@@ -143,8 +143,8 @@ Ernest:
 <$0D>
 //\n何だ、ここは…
 \n
-Hmph. What did the kid get us into this\n
-time?
+Hmph. What did the kid get\n
+us into this time?
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -159,7 +159,7 @@ Ernest:
 <$0D>
 //\nあああ、何だ、嫌な気分だ。\n俺が…小さくなっていくようだ…ちくしょう！
 \n
-Urk, I...don't feel so good. Damn!\n
+Urk, I...don't feel so good.\n
 It's like my head is shrinking...!
 <$00>
 

@@ -40,8 +40,8 @@ Oxygen Miner 1：
 <$0D>
 //\n坑道はふさがってる、\n酸索はもう十分だ、シーシー。
 \n
-Mineshaft closed. Little oxygen left,\n
-whoosh, whoosh.
+Mineshaft closed.\n
+Little oxygen left, whoosh, whoosh.
 <$00>
 
 // Pos: 000017FA
@@ -103,8 +103,8 @@ April:
 <$0D>
 //\nタトラー、ヌーン、\nこの名前を開いたことはない？
 \n
-Tatler and Noon. Do either of those\n
-names ring a bell?
+Tatler and Noon. Do either\n
+of those names ring a bell?
 <$00>
 
 // Pos: 00001886

@@ -202,8 +202,8 @@ Sammy:
 <$0D>
 //\nあら、あなた… でも変ね、\nさっきリャンハウスのところにいなかった？
 \n
-Hey, you look different! You didn't go\n
-to House Liang, did you?
+Hey, you look different! You\n
+didn't go to House Liang, did you?
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -217,8 +217,8 @@ Sammy:
 <$0D>
 //\nいや、建うわよ、人建いよね、\nさっきのはなんだかアタシみたい、
 \n
-No, forget it. I'm mistaking you for\n
-someone else I saw.
+No, forget it. I'm mistaking\n
+you for someone else I saw.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -331,7 +331,8 @@ right now.
 You know what that means, right?
 <$1B>
 //？知ってる\n知らない
-？Yes\nNo
+？Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00003E71
@@ -414,8 +415,8 @@ Cosmas:
 <$0D>
 //\nダークマンは何人もいないよ、ひとりだよ。\nそれにお酒は飲まないよ。
 \n
-There aren't other people like Dark\n
-Man.
+There aren't other people like\n
+Dark Man.
 <$0C>
 There's only one, and he doesn't\n
 drink alcohol.
@@ -449,8 +450,8 @@ Cosmas:
 <$0D>
 //\nダークマンと話ができるのは僕だけさ。\nそうだよね、ダークマン。
 \n
-I'm the only person who can talk to\n
-Dark Man. At least...
+I'm the only person who can\n
+talk to Dark Man. At least...
 <$00><$13><$0B>
 //コスマス：
 Cosmas:
@@ -520,8 +521,8 @@ Spacer:
 <$0D>
 //\nそうか、分かった\nなら開くが、君は金星人をどう思う？
 \n
-Ah, I see. So, what do you think about\n
-the Venusians?
+Ah, I see. So, what do you\n
+think about the Venusians?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -544,8 +545,8 @@ Rummy:
 <$0D>
 //\nへへ、金星人か…\n確かに金星人がいるのは本当だな、
 \n
-Hoho, it's true! The Venusians\n
-do exist, a-ha!
+Hoho, it's true!\n
+The Venusians do exist, a-ha!
 <$0C><$0B>
 //ラミー：
 Rummy:

@@ -106,7 +106,7 @@ Gold:
 <$0D>
 //\nそうかい、お前もやけに早耳だな。
 \n
-Really, now? Guess you're pretty\n
+Really, now? Fast learner, huh.\n
 <$1E><$02><$08><$00>
 
 // Pos: 00002C66
@@ -236,8 +236,8 @@ Gold:
 <$0D>
 //\n部屋の中とかじゃねぇぞ、\nちょっと隠れるんだ。
 \n
-Even if they aren't forever, you\n
-can tuck away in empty flats.
+Even if they aren't forever,\n
+you can tuck away in empty flats.
 <$00>
 
 // Pos: 00002E0F
@@ -296,8 +296,8 @@ Gold:
 <$0D>
 //\n記憶の谷で善人が見つかったとかでよ、\n善人はすぐ悪に憑かれちまうから\n危ないんだそうだ。
 \n
-A good person was seen in Valles\n
-Memoriae.
+A good person was seen\n
+in Valles Memoriae.
 <$0C>
 They're not safe there. They could\n
 wind up posessed by evil very soon.
@@ -323,8 +323,8 @@ Gold:
 <$0D>
 //\nま、白い紙はいろんな色になるってことよ。
 \n
-A white sheet of paper can be turned\n
-any color you pick.
+A white sheet of paper can be\n
+turned any color you pick.
 <$1E><$02><$08><$00>
 
 // Pos: 00002F03
@@ -410,8 +410,8 @@ Spacer:
 <$0D>
 //\n今度はひときわ強いぞ…\nああ、気が変になりそうだ。
 \n
-It's especially strong this time. Ugh,\n
-I feel like I'm going crazy.
+It's especially strong this time.\n
+Ugh, I feel like I'm going crazy.
 <$00>
 
 // Pos: 00002FF6
@@ -445,13 +445,13 @@ friend. I wonder if I will acquire the\n
 ability to make one too.
 <$0C>
 //念じて念じて、\nやがて友が現れてくれるのであろうか。
-Wish I may, and wish I might, will a\n
-friend appear before my sight?
+Wish I may, and wish I might, will\n
+a friend appear before my sight?
 <$0C>
 //苦しみから逃れるだけではいけない。\n私はまた学んだ。
-Try as I might, it is not so easy to\n
-escape one's suffering. That, I have\n
-learned too.
+Try as I might, it is not so\n
+easy to escape one's suffering.\n
+That, I have learned too.
 <$00>
 
 // Pos: 00003109

@@ -113,8 +113,8 @@ Rummy:
 <$0D>
 //\nあいつは心のトモダチとお話ししてるな、\n今もだな、お話の最中だな。
 \n
-He's always talking with the friend in\n
-his head. He doesn't hide it either.
+He talks with a friend in his\n
+head. He doesn't hide it, either.
 <$0C><$0B>
 //ラミー：
 Rummy:
@@ -156,16 +156,16 @@ Rummy:
 <$0D>
 //\n再生って、どうするんだかな、\nわからないな。
 \n
-I don't know what "reborn" means in\n
-this case.
+I don't know what "reborn"\n
+means in this case.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nふたつのこと、つながってるな、\n僕の読みだな。
 \n
-Still, I can't shake the idea that those\n
-two are connected.
+Still, I can't shake the idea\n
+that those two are connected.
 <$1E><$03><$08><$00>
 
 // Pos: 000019E1

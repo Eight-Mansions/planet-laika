@@ -25,7 +25,8 @@ Liever:
 <$0D>
 //\n他に誰もいないよね、あんただけだよね。
 \n
-There's no one else here besides you.
+There's no one else here\n
+besides you.
 <$00>
 
 // Pos: 00000C44
@@ -56,7 +57,8 @@ Liever:
 <$0D>
 //\nあんたに神様の名前、教えてなかったね。
 \n
-I never did tell you God's name, did I?
+I never did tell you\n
+God's name, did I?
 <$00>
 
 // Pos: 00000C83
@@ -109,8 +111,8 @@ Liever:
 <$0D>
 //\n次に来たら顔ができてた。 下の方にだよ。
 \n
-The next time I came, a face had\n
-formed at its base.
+The next time I came,\n
+a face had formed at its base.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -128,16 +130,16 @@ Liever:
 <$0D>
 //\n今じゃ柱中に顔がある。 すごいよ。
 \n
-And now, their faces live all over that\n
-giant pillar. It's a marvel!
+And now, their faces live all over\n
+that giant pillar. It's a marvel!
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
 \n
-There are sockets in the eyes of the\n
-first face that appeared.
+There are sockets in the eyes of\n
+the first face that appeared.
 <$0C>
 Surely they can fit something.
 <$0C><$0B>
@@ -146,10 +148,8 @@ Liever:
 <$0D>
 //\nそれで家にあった光る石を\n思いついたってわけだよ。
 \n
-I imagine two of those glowing stones\n
-would do the
-<$0C>
-trick.
+I imagine two of those glowing\n
+stones would do the trick.
 <$00>
 
 // Pos: 00000DFD
@@ -164,8 +164,8 @@ Spacer:
 <$0D>
 //\nここはイーブルマインドのダムではないのか。
 \n
-This place isn't a dam for Evil Mind at\n
-all!
+This place isn't a dam\n
+for Evil Mind at all!
 <$00>
 
 // Pos: 00000E1F
@@ -188,8 +188,8 @@ Liever:
 <$0D>
 //\nトールボーイは悪を食べるんだよ。\n食べてきれいにしてくれるんだ。\nでも、眼を入れないと本物にはならない。
 \n
-Tall Boy devours evil, and keeps Mars\n
-clean.
+Tall Boy devours evil,\n
+and keeps Mars clean.
 <$0C>
 Of course, I know you'll want\n
 to see it to believe it.

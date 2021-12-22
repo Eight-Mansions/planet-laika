@@ -17,8 +17,8 @@ East:
 <$0D>
 //\nここがホテル。１３号監房だ。\nそこの派手なのがリャンハウス。
 \n
-Do you see the wall here that says Cell\n
-13, next to the flashy House Liang?
+Do you see the wall that says "Cell\n
+13", next to the flashy House Liang?
 <$00>
 
 // Pos: 00001446
@@ -218,15 +218,16 @@ April:
 <$0D>
 //\nアガタ！\nあのふたりを返したの？
 \n
-Agatha! Did you get those two off our\n
-backs?
+Agatha! Did you get those\n
+two off our backs?
 <$00><$10><$0B>
 //マダム・アガタ…：
 Madam Agatha...:
 <$0D>
 //\nそうよ。\nさあ、行って。早く！
 \n
-Yes, for a moment. Now, you must go!
+Yes, for a moment.\n
+Now, you must go!
 <$00><$10><$0B>
 //エイプリル：
 April:
@@ -267,16 +268,16 @@ April:
 <$0D>
 //\nわかった。\nありがとう、アガタ。
 \n
-I understand. Thank you for this,\n
-Agatha.
+I understand.\n
+Thank you for this, Agatha.
 <$00><$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n記憶の谷はブリックロードから行くのよ。\n黒いカベのところ。
 \n
-Take Brick Road down to Valles\n
-Memoriae.
+Take Brick Road down\n
+to Valles Memoriae.
 <$0C>
 Look for the black wall.
 <$00><$10><$0B>

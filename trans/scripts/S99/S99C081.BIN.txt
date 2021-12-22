@@ -197,8 +197,8 @@ having.
 
 <$02>
 //お客さんだね、そこにいるの。\nわかるんだ、\nここは僕の夢とつながってるからね。
-I know you're there, young one. This\n
-is where our dreams connect.
+I know you're there, young one.\n
+This is where our dreams connect.
 <$0C>
 //それで何を見つけたの？
 So, what have you found?
@@ -237,8 +237,8 @@ too "cold" for playtime.
 <$02>
 //もう８月かぁ… 寝付けない夜だね。\nなんだか騒ぎが起きてるみたいだけど、\nだいじょうぶなの？
 August's long nights welcome\n
-sleep, but\n
-a commotion keeps you up one night.
+sleep, but a commotion keeps\n
+you up one night.
 <$0C>
 Is everything sound?
 <$00>
@@ -297,8 +297,8 @@ this is the last. Many gears stop\n
 turning here.
 <$0C>
 //でも、あんたがここで見つけなきゃ\nいけないもの、まだ残ってるんだけどなぁ…
-But you must still search.\n
-There are still things you must find.\n
+But you must still search. There\n
+are still things you must find.
 <$00>
 //親月！ じゅんばんが逆になってたんだね…\nうん！ すごくイヤな惑じだよ。
 Interestingly, I think this month\n

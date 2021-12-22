@@ -76,7 +76,7 @@ Yang:
 \n
 That's a Venusian pulse.
 <$0C>
-We're almost at the right
+We're almost at the right\n
 angle to face Planet Venus.
 <$00>
 
@@ -140,7 +140,7 @@ Yang:
 <$0D>
 //\n気づきだ、気がつくことだ、\nピンとくることだ、もうじき実験だ。
 \n
-He, now "we", honed in real good.\n
+He, now "we", honed in real good.
 <$0C>
 We're finally about to start our\n
 experiment!
@@ -172,7 +172,8 @@ Where would you say you're from:\n
 Venus or Earth?
 <$1B>
 //、金星から来た\n地球から来た
-、Venus\nEarth
+、Venus\n
+Earth
 <$00><$17><$00>
 
 // Pos: 00001E73
@@ -334,7 +335,8 @@ I've memorized the first 30 digits\n
 for testing. Wanna hear?
 <$1B>
 //？開きたい\n開かない
-？Yes\nNo
+？Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 000020E3

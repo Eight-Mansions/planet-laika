@@ -32,7 +32,8 @@ Tommy:
 <$0D>
 //\n兄ちゃん… ああん？\n会ったことあるか、俺と？
 \n
-Have we met before? You and me?
+Have we met before?\n
+You and me?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -42,16 +43,16 @@ Tommy:
 
 <$12>
 //つくそっ、気分が悪い、吐きそうだぜ…\nおぇっ、うぐぐぐ、おえっ…
-...Ick, I feel sick. Totally about\n
-to puke... This sucks!
+...Ick, I feel sick. Totally\n
+about to puke... This sucks!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nなあ、酸索屋になんか用か？
 \n
-So, you're looking for the oxygen\n
-dispensary? For what?
+So, you're looking for the\n
+oxygen dispensary? For what?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -90,8 +91,8 @@ Tommy:
 <$0D>
 //\nぐげげ、ケチな酒場だぜ。
 \n
-Brrrp...! I'm warning you, the place is\n
-highway robbery.
+Brrrp...! I'm warning you,\n
+the place is highway robbery.
 <$00>
 
 // Pos: 0000221F
@@ -130,8 +131,8 @@ Tommy:
 <$0D>
 //\nこんな早い時間から飲み過ぎたぜ、\nくそっ、気分が悪い…
 \n
-Ick, I feel sick. I drank too much this\n
-time around. 
+Ick, I feel sick. I drank\n
+too much this time around. 
 <$1E><$02><$02><$00>
 
 // Pos: 000022A2
@@ -146,8 +147,8 @@ Tommy:
 <$0D>
 //\nようよう、兄ちゃんよう、\nあいつらに何たのまれたんだ？ え？
 \n
-Hey, comrade. Did those nuts want\n
-something from you?
+Hey, comrade. Did those nuts\n
+want something from you?
 <$00>
 
 // Pos: 000022CA
@@ -162,8 +163,8 @@ Tommy:
 <$0D>
 //\nおお？ 兄ちゃんの顔、やっぱり\n見たことあるぜ…
 \n
-Wait, I'm right, ain't I? I can\n
-see it on your face.
+Wait, I'm right, ain't I?\n
+I can see it on your face.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -202,7 +203,7 @@ Tommy:
 <$0D>
 //\nでもな、赤い石なんて誰も見たことねえんだ！\nなんでか分かるか？ ああん？
 \n
-Too bad, no one has actually laid eyes\n
+Too bad, no one's actually laid eyes\n
 on the red stone. Wanna know why?
 <$00>
 
@@ -275,8 +276,8 @@ Tommy:
 <$0D>
 //\nううう、また気分が悪くなってきた…\n吐きそうだ…おぇっおぇっおぇっ…\nいつ会ったんだ…おえっ！
 \n
-Ick, I feel sick. Totally about to puke\n
-again. Brrrp! I've gotta run!
+Ick, I feel sick. Totally about to\n
+puke again. Brrrp! I've gotta run!
 <$00>
 
 // Pos: 000024D4
@@ -291,8 +292,8 @@ Tommy:
 <$0D>
 //\nよよ、兄ちゃんよう、\n赤い石、手に入れたのか？
 \n
-Hey, comrade! You find that red\n
-stone in one piece?
+Hey, comrade! You find that\n
+red stone in one piece?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -319,8 +320,8 @@ Tommy:
 <$0D>
 //\nほんとかよ、へへ、\nどうせ俺たちには見えねぇんだ。
 \n
-So, they're real! Hehe, too bad we\n
-can't see 'em, you know?
+So, they're real! Hehe, too bad\n
+we can't see 'em, you know?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -370,8 +371,8 @@ Tommy:
 <$0D>
 //\n知ってるか、兄ちゃん。
 \n
-Have you ever checked out the\n
-monitor in Psycho Lab?
+Have you ever checked out\n
+the monitor in Psycho Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -461,10 +462,8 @@ Madam Agatha:
 <$0D>
 //\n気を確かに持つのよ、\n記憶の谷で何が起きても動じないでね。
 \n
-Keep your mind sharp. Don't\n
-succumb to the wiles of Valles
-<$0C>
-Memoriae.
+Stay sharp. Don't succumb to\n
+the wiles of Valles Memoriae.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -472,6 +471,6 @@ Madam Agatha:
 //\nこの星のよこしまな力に\nとらわれたりしないでね。
 \n
 Mars possesses a vile power. Don't\n
-let that power swallow you whole.
+let that power swallow your mind.
 <$1E><$03><$08><$00>
 

@@ -17,16 +17,16 @@ Liever:
 <$0D>
 //\nあんたがさがしてるメディスンマンは、\n階段を降りたところにいるよ。
 \n
-The medicine man you seek is just\n
-down this stairway.
+The medicine man you seek\n
+is just down this stairway.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nイーブルマインドが下がって\n通れるようになったんだ。
 \n
-With Evil Mind now out of the way,\n
-you can get through.
+With Evil Mind now out of\n
+the way, you can get through.
 <$00>
 
 // Pos: 00001CF1
@@ -41,8 +41,8 @@ Spacer:
 <$0D>
 //\nユニバーサルマンか！
 \n
-The stairs here will take me to\n
-Universal Man?
+The stairs here will take\n
+me to Universal Man?
 <$00>
 
 // Pos: 00001D08
@@ -73,8 +73,8 @@ Spacer:
 <$0D>
 //\n預言！\nそうか、ユニバーサルマンが知っているのか！
 \n
-Does Universal Man know all of the\n
-prophecies?
+Does Universal Man know\n
+all of the prophecies?
 <$00>
 
 // Pos: 00001D66
@@ -89,8 +89,8 @@ Liever:
 <$0D>
 //\n全部じゃないと思うけどね。\nエレミヤの預言を得るのはあんたの仕事だよ。
 \n
-Not all. Remember, it's your job to\n
-find Jeremiah's prophecies.
+Not all. Remember, it's your job\n
+to find Jeremiah's prophecies.
 <$00>
 
 // Pos: 00001D9B
@@ -105,8 +105,8 @@ Spacer:
 <$0D>
 //\nエレミヤ…死んだ流刑者のことだな。\nそれがなぜ私と関係あるんだ…
 \n
-Jeremiah the Exile's the dead guy,\n
-right? What does he want?
+Jeremiah the Exile's the dead\n
+guy, right? What does he want?
 <$00>
 
 // Pos: 00001DCE
@@ -121,9 +121,10 @@ Liever:
 <$0D>
 //\n理解できないとダメなのさ。\nそれに銀のカプセルがないと、預言は\n呪いの言葉になってあんたを焼き尽くすよ。
 \n
-Understanding.
+Understanding.\n
+But be warned...
 <$0C>
-But be warned, without the silver capsule,\n
+...without the silver capsule,\n
 Jeremiah's words will consume you.
 <$00>
 
@@ -139,7 +140,7 @@ Spacer:
 <$0D>
 //\n銀の… おお、持ってる、\n持ってるぞ、銀のカプセル！
 \n
-The silver what...? Oh, the silver\n
+The silver what? Oh, the silver\n
 capsule! We've got that!
 <$00><$00><$11><$01><$0E><$1E><$17><$00>
 
@@ -155,11 +156,11 @@ Liever:
 <$0D>
 //\nもう行くよ。付き合ってくれてありがとう。\nこれ、もういらないからお礼にあげるよ、\n赤い石。
 \n
-I'm going now. Thank you for seeing\n
-me.
+I'm going now.\n
+Thank you for seeing me.
 <$0C>
-I don't need this red stone anymore,\n
-so take it.
+I don't need this red\n
+stone anymore, so take it.
 <$00>
 
 // Pos: 00001E85
@@ -210,7 +211,8 @@ Spacer:
 <$0D>
 //\nリバー！\nどうしたんだ？ リバー！
 \n
-Liever, what's happening? Liever!
+Liever, what's happening?\n
+Liever!
 <$00>
 
 // Pos: 00001F03

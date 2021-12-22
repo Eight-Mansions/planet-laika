@@ -17,8 +17,8 @@ Boomer:
 <$0D>
 //\nハウスのやつらが…\nああなるのは分かってたんだ。
 \n
-I see the men at Psycho Lab...have\n
-moved on.
+I see the men at\n
+Psycho Lab...have moved on.
 <$0C><$0B>
 //ブーマー：
 Boomer:
@@ -27,7 +27,7 @@ Boomer:
 \n
 Ohhh, what I cannot see...
 <$0C>
-...are the eyeballs and other 
+...are the eyeballs and other\n
 oddities etched on the walls.
 <$1E><$02><$08><$00>
 
@@ -86,7 +86,7 @@ Boomer:
 <$0D>
 //\nレッドのやつだ、\nさがしてたぜ、あんたのこと。
 \n
-Red's out there looking for you.
+Red's out looking for you.
 <$1E><$02><$08><$00>
 
 // Pos: 00001436

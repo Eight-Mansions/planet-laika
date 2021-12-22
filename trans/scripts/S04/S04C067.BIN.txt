@@ -17,8 +17,8 @@ Marrakech:
 <$0D>
 //\nあら、コスマスをどうするつもりなの？
 \n
-Hey, what do you think you're doing\n
-with Cosmas?
+Hey, what do you think\n
+you're doing with Cosmas?
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -49,16 +49,16 @@ Marrakech:
 <$0D>
 //\nねぇ、コスマス君、\nあなた…すごくうまくいってると思うわ、
 \n
-Oh, Cosmas. You're...coming along so\n
-moothly. Really, I'm jealous.
+Oh, Cosmas. You're...coming along\n
+so smoothly. Really, I'm jealous.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nうらやましいわ、本当よ。\nでもあんまり欲張らない方がいいわよ。
 \n
-Of course, I won't let jealousy come\n
-between friends.
+Of course, I won't let jealousy\n
+come between friends.
 <$00>
 
 // Pos: 0000357A
@@ -244,8 +244,8 @@ Marrakech:
 <$0D>
 //\n人の失敗に学ぶのよ。
 \n
-Best we can do is learn from their\n
-mistakes.
+Best we can do is learn from\n
+their mistakes.
 <$00>
 
 // Pos: 00003797
@@ -270,16 +270,16 @@ Marrakech:
 <$0D>
 //\nそういうことにしておく。
 \n
-If I got a nickel every time someone\n
-said that...
+If I got a nickel every time\n
+someone said that...
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\n元が良くないなんて、言わせないから…\nねぇそうよね？
 \n
-I'm not acting like my original face\n
-was that bad...am I?
+I'm not acting like my original\n
+face was that bad...am I?
 <$00>
 
 // Pos: 00003803
@@ -376,8 +376,8 @@ Linda:
 <$0D>
 //\nあらー、あなたも行ったり来たりねー。
 \n
-You're always coming and going too,\n
-aren't you?
+You're always coming and\n
+going too, aren't you?
 <$0C><$0B>
 //リンダ：
 Linda:
@@ -386,7 +386,7 @@ Linda:
 \n
 You know, it's funny.
 <$0C>
-I had this one dream again where
+I had this one dream again where\n
 I stand and mumble to a wall.
 <$0C><$0B>
 //リンダ：
@@ -483,7 +483,8 @@ Sneaky little devil, you! So, do you\n
 know how a Vanity Face is made?
 <$1B>
 //※もちろん、知ってる\nそんなの、知らない
-※Yes\nNo
+※Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00003B09
@@ -624,7 +625,7 @@ Cosmas:
 \n
 Sometimes, when I dream,...
 <$0C>
-...I'm looking into this room
+...I'm looking into this room\n
 from the other side.
 <$0C><$0B>
 //コスマス：

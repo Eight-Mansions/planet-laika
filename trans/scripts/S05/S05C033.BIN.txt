@@ -17,8 +17,8 @@ Noble Rock:
 <$0D>
 //\nテレポーテーションだな、ホワイトイーグルは\nどこへ行った？ 一緒に来たのか？
 \n
-And THAT iS teleportation! Where is White\n
-Eagle? Shall we look together?
+And THAT iS teleportation! Where is\n
+White Eagle? Shall we look together?
 <$00>
 
 // Pos: 0000141B
@@ -33,8 +33,8 @@ Noble Rock:
 <$0D>
 //\n歳だからな、時間がかかるのだ。\nこの大事なときに！
 \n
-Walking takes too much time, but\n
-time is of the essence!
+Walking takes too much time,\n
+and time is of the essence!
 <$00>
 
 // Pos: 00001446
@@ -49,8 +49,8 @@ Noble Rock:
 <$0D>
 //\nああ、いよいよだ、合体の時だ。\nみだりにここを動くんじゃないぞ。
 \n
-Ah, merging time is here! Now, do not\n
-make any sudden movements.
+Ah, merging time is here! Now,\n
+do not make any sudden movements.
 <$00>
 
 // Pos: 00001477
@@ -81,8 +81,8 @@ Noble Rock:
 <$0D>
 //\nおい、大丈夫なのか？\nホワイトイーグルは何て言ってたんだ…
 \n
-Hey, are you all right? What did White\n
-Eagle say about this...?
+Hey, are you all right? What did\n
+White Eagle say about this...?
 <$0C><$0B>
 //ノーブルロック：
 Noble Rock:

@@ -371,8 +371,8 @@ Spirit Man:
 <$0D>
 //\nその影響を受けて、お前はどんどん変わるぞ。\n人格変容するぞ、ひょひょひょ！
 \n
-When that happens, you'll undergo a\n
-personality shift, hyohyoh!
+When that happens, you'll undergo\n
+a personality shift, hyohyoh!
 <$00>
 
 // Pos: 00004BA1
@@ -391,7 +391,7 @@ When you make contact with an\n
 influence, as in, another person,
 <$0C>
 a colorful aura will leave\n
-that influence and enter you.
+said influence, and enter you!
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:

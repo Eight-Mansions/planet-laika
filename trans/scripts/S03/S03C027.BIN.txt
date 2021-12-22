@@ -355,8 +355,8 @@ Red:
 <$0D>
 //\nやっぱりだ、\n泡のおじさん、音が開こえるじゃないか！
 \n
-I knew it was you, Uncle Bubbles! I\n
-heard your voice!
+I knew it was you, Uncle Bubbles!\n
+I heard your voice!
 <$00>
 
 // Pos: 000030DC
@@ -395,7 +395,8 @@ Little:
 <$0D>
 //\nどうしたんだ… レッドのやつ…\nどこ行きやがった？
 \n
-Oi, is that Red? Where's he goin'?
+Oi, is that Red?\n
+Where's he goin'?
 <$00>
 
 // Pos: 0000313B
@@ -426,7 +427,8 @@ Little:
 <$0D>
 //\nあれは夢なんかじゃなかった、\nそういうことだな。
 \n
-It wasn't a dream at all. I get it now.
+It wasn't a dream at all.\n
+I get it now.
 <$0C><$0B>
 //リトル：
 Little:
@@ -494,7 +496,7 @@ Noble Rock:
 The greatest of happenings! Under\n
 the watchful eye of White Eagle...
 <$0C>
-...one of your companions has
+...one of your companions has\n
 become a wholly "good person"!
 <$00>
 
@@ -560,8 +562,8 @@ Spacer:
 <$0D>
 //\n善人は染まりやすいと、\n悪におちいりやすいと。
 \n
-That which is pure is the most easy to\n
-stain...
+That which is pure is the\n
+most easy to stain...
 <$00>
 
 // Pos: 00003302
@@ -668,7 +670,7 @@ Yes, with bottles.
 Spacer:
 <$0D>
 //\nびんでイーブルマインドを\nシャットアウトするということか。
-\Oh. Shit, umm... Do you mean\n
+\Oh. Dang, umm... Do you mean\n
 you're bottling the purple gas?
 <$00>
 
@@ -700,16 +702,16 @@ April:
 <$0D>
 //\n何、これ… 泡みたい…\nおフロの泡？
 \n
-What is this...? It looks like bubbles\n
-from a bubble bath.
+What is this...? It looks like\n
+bubbles from a bubble bath.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nまさか、こんなところにあるわけないよね。
 \n
-What is a bubble bath doing way out\n
-here?
+What is a bubble bath doing\n
+way out here?
 <$00>
 
 // Pos: 00003453
@@ -741,14 +743,15 @@ April:
 //\nもう少し話してみたいの。\n見てもらいたい物もあるし。
 \n
 But I like talking to her! In fact,\n
-there's something I wanted to ask her.
+I did want to ask her something...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nちょっと行ってくるね。
 \n
-I'm going on a little detour, okay?
+I'm going on a little\n
+side errand, okay?
 <$00>
 
 // Pos: 000034D5
@@ -789,7 +792,7 @@ Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-I have no doubt that it's Amanda
+I have no doubt that it's Amanda\n
 who's inside the mirror. 
 <$0C>
 From what I concluded, it's because\n

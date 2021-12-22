@@ -40,7 +40,8 @@ Ernest:
 <$0D>
 //\n何だよおっさん。\n俺はアーネストだぜ！
 \n
-Who're you calling Laika? I'm Ernest!
+Who're you calling Laika?\n
+I'm Ernest!
 <$00>
 
 // Pos: 00001CA4
@@ -63,7 +64,8 @@ Captain Tatler:
 <$0D>
 //\nクロエちゃんが…\nあああ、クロエちゃんが…
 \n
-It's Chloe! She's... Oh my God, Chloe!
+It's Chloe! She's...\n
+Oh my God, Chloe!
 <$00>
 
 // Pos: 00001CF9

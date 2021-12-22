@@ -17,8 +17,8 @@ Cosmas:
 <$0D>
 //\nダークマン、さっき呼んだとき、\nどうして来てくれなかったの？
 \n
-Dark Man, why didn't you come when\n
-I called for you earlier?
+Dark Man, why didn't you come\n
+when I called for you earlier?
 <$00>
 
 // Pos: 00001FCF
@@ -30,8 +30,8 @@ I called for you earlier?
 
 <$00><$12>
 //にお前の声はかき消されてしまったのだ、\nコスマス。
-にYour voice was drowned out by\n
-others, Cosmas.
+に Your voice was drowned\n
+out by others, Cosmas.
 <$00>
 
 // Pos: 00001FED
@@ -46,8 +46,8 @@ Cosmas:
 <$0D>
 //\n僕だけのダークマンじゃなかったの。
 \n
-But Darkman, I thought you could\n
-hear only me.
+But Dark Man, I thought you\n
+could hear only me.
 <$00>
 
 // Pos: 00002009
@@ -60,7 +60,7 @@ hear only me.
 <$00><$12>
 //に苦しみが育っているのだ、コスマス。\nお前の声では小さすぎるのだ。
 \n
-Your suffering grows, Cosmas.\n
+に Your suffering grows, Cosmas.\n
 Your voice is too quiet.
 <$00>
 
@@ -88,7 +88,7 @@ How much suffering must I endure?
 
 <$00><$12>
 //にいずれ私は限界をむかえるだろう。\nこの星は苦しみの王国となるだろう。
-にIn time, We will reach Our limit,\n
+に In time, We will reach Our limit,\n
 and Mars will become a planet of\n
 suffering.
 <$00>

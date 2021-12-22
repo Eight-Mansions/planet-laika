@@ -268,7 +268,8 @@ Cosmas:
 <$0D>
 //\nうーんと、あんたはねぇ…\nよく見えてこないなぁ。
 \n
-Hmmm... How odd. I can't seem to tell.
+Hmmm... How odd.\n
+I can't seem to tell.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -298,8 +299,8 @@ Cosmas:
 <$0D>
 //\nタイプをはっきりさせないと、\nリバーは見つからないよ。
 \n
-...if you don't have a type, you'll\n
-never find Liever.
+...if you don't have a type,\n
+you'll never find Liever.
 <$00>
 
 // Pos: 00000B6B

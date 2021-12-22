@@ -127,7 +127,8 @@ production out of everything.
 Wanna hear a story about that?
 <$1B>
 //、開きたい\n開きたくない
-、Yes\nNo
+、Yes\n
+No
 <$00><$17><$00>
 
 // Pos: 00001B3B
@@ -153,7 +154,7 @@ The grandpa got spooked by\n
 something, and got the hiccups.
 <$0C>
 He then hiccuped non-stop\n
-for 69 years.
+for sixty-nine years.
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -276,8 +277,8 @@ Red:
 <$0D>
 //\n臭うぜ、可愛い子犬ちゃんの臭いだ。
 \n
-You smell so good. That's a good scent\n
-for my darling puppy.
+You smell so good. That's a good\n
+scent for my darling puppy.
 <$0E><$1E><$17><$00>
 
 // Pos: 00001D6E
@@ -292,10 +293,11 @@ Tommy:
 <$0D>
 //\nへへへ、ブーマーのやつ、\nとうとういかれちまった。\n頭ん中で、バケモノが鋭動会してるんだ。
 \n
-Hehe, that Boomer guy finally lost it.
+Hehe, that Boomer guy\n
+finally lost it.
 <$0C>
-The monsters in his mind are finally\n
-having their ball.
+The monsters in his mind are\n
+finally having their ball.
 <$1E><$02><$08><$00>
 
 // Pos: 00001DAC
@@ -310,7 +312,7 @@ Spacer:
 <$0D>
 //\nまただ… 強い思念だ。\n頭の中にひびいてくる。
 \n
-That strong feeling I had... It's back.\n
+That feeling I had... It's back.\n
 Makes my head want to split...!
 <$00>
 
@@ -346,8 +348,8 @@ freed from the rock. When I sprang\n
 back to life, I forgot his words.
 <$0C>
 //エレミヤとは実在しない、\nいわば死のシンボルなのだ。
-Jeremiah is not real. He is, so to\n
-speak, a symbol of death.
+Jeremiah is not real. He is,\n
+so to speak, a symbol of death.
 <$0C>
 //それを私は身をもって知った。\n深く記憶にきざもう。
 I witnessed this with my own soul, so\n

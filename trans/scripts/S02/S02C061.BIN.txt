@@ -41,8 +41,8 @@ Noon:
 <$0D>
 //\n避難小屋はすぐそこだ。\n船長たちが待ってるに建いない。 急ごう。
 \n
-The safe 'ouse is this way. Let's not\n
-keep the other two waiting.
+The safe 'ouse is this way. Let's\n
+not keep the other two waiting.
 <$00>
 
 // Pos: 00000F60
@@ -57,7 +57,7 @@ Bitter memories will resurface...
 <$0C>
 //思い出だけじゃなくてね、ウソもホントも\n何もかも。 惑わされるかもね。
 Not only memories, but lies and\n
-truths and well. They'll rise up\n
+truths as well. They'll rise up\n
 only to confuse you.
 <$1E><$03><$02><$00>
 

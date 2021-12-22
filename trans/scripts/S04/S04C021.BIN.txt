@@ -17,16 +17,16 @@ Boomer:
 <$0D>
 //\n見ねぇ顔だな…
 \n
-I don't think I've seen your face\n
-before...
+I don't think I've seen\n
+your face before...
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
 //\nもうヘロデんとこには行ったのか。\nコロニーの親玉、酸索屋だ。
 \n
-Have you been to the oxygen\n
-dispensary?
+Have you been to the\n
+oxygen dispensary?
 <$0C>
 The owner, Herod, is the\n
 leader of the colony.
@@ -47,8 +47,8 @@ Boomer:
 <$0D>
 //\n電波が飛んでくるってな。
 \n
-Ahhh, they're trying to ride the radio\n
-waves.
+Ahhh, they're trying to\n
+ride the radio waves.
 <$1E><$02><$02><$00>
 
 // Pos: 000012CE
@@ -133,8 +133,8 @@ Boomer:
 <$0D>
 //\n夢に襲われるんだ、\n夜から抜け出して来るんだ…
 \n
-Ahhh, my dreams creep out from the\n
-dark of night to attack me.
+Ahhh, my dreams creep out from\n
+the dark of night to attack me.
 <$1E><$02><$02><$00>
 
 // Pos: 000013CA
@@ -192,17 +192,18 @@ Boomer:
 <$0D>
 //\n誰も戻らねぇ…誰もな。
 \n
-Ahhh, no one's coming back! No one!
+Ahhh, no one's coming back!\n
+No one!
 <$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nちゃんと開けた、暗証番号？\n行こう、換気塔の手前を右よ
 \n
-The password opened the way.
+The password opens the way.
 <$0C>
-Let's check the ventilator\n
-tower on the right.
+Now, let's check around\n
+the ventilation tower.
 <$00>
 
 // Pos: 00001478

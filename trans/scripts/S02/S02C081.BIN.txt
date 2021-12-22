@@ -40,8 +40,8 @@ Damian:
 <$0D>
 //\n不思議だなぁ…\nあんたって…つかみどころないんだよ。\nなかなか読めないからね。
 \n
-You're so...shifty! I had an especially\n
-hard time getting a good look at you.
+You're so...shifty! I had an extra\n
+hard time getting a solid look at you.
 <$00>
 
 // Pos: 00003B3E
@@ -63,8 +63,8 @@ Damian:
 <$0D>
 //\n僕はダミアヌス…\nへへ、砂の子ダミアヌスさ。
 \n
-I'm Damian, heehee! Damian, the kid\n
-who shifts like the sand!
+I'm Damian, heehee! Damian,\n
+the kid who shifts like the sand!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -110,8 +110,8 @@ Damian:
 <$0D>
 //\nふふふ、女の子だけ帰納の丘に誘導したよ…
 \n
-Hehee, I pointed the girl in the\n
-direction to the Inductive Hills.
+Hehee, at least the girl followed\n
+me direction to the Inductive Hills.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -126,8 +126,8 @@ Damian:
 <$0D>
 //\nなんでかな…最大のナゾだね。
 \n
-And why is that? That's the real\n
-puzzle.
+And why is that?\n
+That's the real puzzle.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -169,8 +169,8 @@ Damian:
 <$0D>
 //\nもっとも、この場所じゃなきゃ、\nだめだけどね。
 \n
-You need to do so out here in the\n
-sands, of course.
+You need to do so out here\n
+in the sands, of course.
 <$0C>
 If not, how am I supposed\nto hear?
 <$1E><$03><$02><$00>
@@ -283,8 +283,8 @@ Damian:
 Seeking me like this means you\n
 have something on your mind.
 <$0C>
-Something you wish you could
-\nopen up about.
+Something you wish you could\n
+open up about.
 <$00>
 
 // Pos: 00003E78
@@ -303,8 +303,8 @@ Damian:
 <$0D>
 //\nイーブルマインドのことだろ、\n顔に書いてあるさ。
 \n
-I can see on your face that you want\n
-to know more about Evil Mind.
+I can see on your face that you\n
+want to know more about Evil Mind.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -335,8 +335,8 @@ Damian:
 <$0D>
 //\nじゃあ、もう帰るよ。\nあんたも気をつけてね。
 \n
-Anyways, I have to go now. Until next\n
-time!
+Anyways, I have to go now.\n
+Until next time!
 <$1E><$03><$02><$00>
 
 // Pos: 00003F7D
@@ -351,8 +351,8 @@ Damian:
 <$0D>
 //\nまたまた僕だよ、で、今度はなんだい？
 \n
-It's me again! So, what will we talk\n
-about this time?
+It's me again! So, what will we\n
+talk about this time?
 <$00>
 
 // Pos: 00003F9D
@@ -367,8 +367,8 @@ Damian:
 <$0D>
 //\nあはー、そんな目で僕のこと見て…
 \n
-Well, well! Look at you, looking at me\n
-with those eyes...
+Well, well! Look at you, looking\n
+at me with those eyes...
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -424,7 +424,7 @@ Damian:
 <$0D>
 //\nあんた、僕のこと気に入ったの？\nそんなワケないよね。
 \n
-Do you like me? You don't see why you\n
+Do you like me? I don't see why you\n
 would.
 <$0C><$0B>
 //ダミアヌス：
@@ -474,7 +474,7 @@ Damian:
 //\nねぇ、欲悪ってコロニーには\nリンダとマラケシュしかいないけど、\n他にもいるって知ってる？
 \n
 Linda and Marrakech may be the\n
-only "greedy" types, but...
+only "greedy types", but...
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -531,9 +531,11 @@ Damian:
 <$0D>
 //\nね、不思議だろ…\n昔あそこはとびっきりの悪人を\n閉じ込めておく部屋だったんだ。
 \n
-In the old prison days, they used to\n have this one cell with a bed.
+In the old prison days, they used\n
+to have this one cell with a bed.
 <$0C>
-It was in this one room that they imprisoned the worst of the worst!
+It was in this one room that they\n
+imprisoned the worst of the worst!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -541,9 +543,7 @@ Damian:
 //\nあそこって、知ってるよね、\nあんたの個室だよ。
 \n
 Do you know where that room is?\n
-Actually, it's the room you're staying
-<$0C>
-in!
+Actually, you were booked in it!
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -565,8 +565,8 @@ Damian:
 <$0D>
 //\nいきなりだけど、夢の話なんてどう？
 \n
-I know it's random, but do you want\n
-to talk about dreams?
+I know it's random, but do you\n
+want to talk about dreams?
 <$00>
 
 // Pos: 00004303
@@ -610,8 +610,8 @@ Damian:
 <$0D>
 //\nまるで夜がそのまま人形になったみたいなんだ。\nでも、その人形となにするわけでもなくて、\nただ僕は遠くから見てるだけなんだけどね…
 \n
-It's as if the night sky became a doll\n
-that does nothing. 
+It's as if the night sky became\n
+a doll that does nothing. 
 <$0C>
 I can only watch the doll from afar.
 <$0C><$0B>
@@ -621,7 +621,7 @@ Damian:
 //\n夢ってそんなもんだよね、おかしいね。\nさて、そろそろ、帰るね。
 \n
 Dreams are strange like that, aren't\n
-they? And with that, I'd better leave.
+they? With that, I'd better leave.
 <$1E><$03><$02><$00>
 
 // Pos: 00004419
@@ -652,8 +652,8 @@ Damian:
 <$0D>
 //\nオトナになっていやなことって、\n本当はコドモのころにすごくいやな目に\nあってるんだよ…
 \n
-The things we hate when we become
-adults...
+The things we hate when\n
+we become adults...
 <$0C>
 ...are often rooted in bad experiences\n
 we suffered through in our childhoods.
@@ -675,7 +675,7 @@ Damian:
 //\n誰かをギセイにしてね。\n人間ってどうしていつもくり返すんだろ。
 \n
 We all have someone to blame, don't\n
-we? Why do humans give in to the cycle?
+we? Why do we give in to the cycle?
 <$1E><$03><$02><$00>
 
 // Pos: 000044D6

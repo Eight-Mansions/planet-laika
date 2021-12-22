@@ -17,8 +17,8 @@ Sergei:
 <$0D>
 //\nいつまでロケット遊びしてるんだ？
 \n
-How long are you going to play with\n
-that rocket?
+How long are you going\n
+to play with that rocket?
 <$0E><$B7><$17><$00>
 
 // Pos: 00000AA1
@@ -29,7 +29,8 @@ that rocket?
 
 <$00><$11><$01>
 //先生、
-Doctor, what's wrong\nwith 
+Doctor, what's wrong\n
+with 
 <$0F>
 //はどうなんです？
 ?
@@ -88,7 +89,8 @@ You're covered in mud, hahaha!
 
 <$00><$11><$01><$0F>
 //！しっかりするんだ！\nパパの声が開こえるか？
-, focus!\nListen to batya's voice, 
+, focus!\n
+Listen to batya's voice, 
 <$0F>
 //！
 !

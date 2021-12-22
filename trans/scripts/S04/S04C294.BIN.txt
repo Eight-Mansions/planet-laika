@@ -51,16 +51,16 @@ Feng:
 <$0D>
 //\nリャンハウスは本当は\n整形屋なんかじゃないのよ。
 \n
-At House Liang, I do more than just\n
-cosmetic surgery.
+At House Liang, I do more\n
+than just cosmetic surgery.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n心の奥にしまい込んだ、小さな声に\n耳をかたむけるの。それが仕事なのよ。
 \n
-It's my job to listen to that little voice\n
-hidden deep in your mind.
+It's my job to listen to that little\n
+voice hidden deep in your mind.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -96,16 +96,16 @@ Madam Agatha:
 <$0D>
 //\nヴェロニカ…\nフェイの別人格の名前なの。
 \n
-Veronica... That is the name of Feng's\n
-other personality.
+Veronica... That is the name\n
+of Feng's other personality.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nヴェロニカは苦しみの世界に通じている…\n彼女の言うことには一貫性がないけど、
 \n
-Veronica is well-versed in the world\n
-of suffering. 
+Veronica is well-versed in\n
+the world of suffering. 
 <$0C>
 But, those verses, and everything\n
 else she says, is inconsistent.
@@ -123,8 +123,8 @@ Madam Agatha:
 <$0D>
 //\nそれにフェイと建ってウソはないわ。
 \n
-And, unlike Feng, Veronica does not\n
-lie.
+And, unlike Feng,\n
+Veronica does not lie.
 <$1E><$03><$04><$00>
 
 // Pos: 0000227E

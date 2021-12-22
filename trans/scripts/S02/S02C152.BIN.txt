@@ -22,8 +22,8 @@ Sorry, I remembered something 'eavy.
 <$0C>
 //なあ、お前、\nこれ避難小屋に見えるよな？
 \n
-Say, does this look like a safe 'ouse\n
-to you?
+Say, does this look like\n
+a safe 'ouse to you?
 <$0C>
 //俺にもそう見える…\nちょっと開けてみてくれ。\n扉だよ、そこの扉を開けるんだ。
 \n
@@ -45,7 +45,8 @@ Noon:
 <$0D>
 //\n大丈夫だ…入ってみよう。
 \n
-Everything looks clear? In we go, then!
+Everything looks clear?\n
+In we go, then!
 <$00>
 
 // Pos: 00002840
@@ -311,7 +312,7 @@ Thomas:
 <$0D>
 //\n鏡の中なら、それはアマンダに建いない。\n私なりに言うと彼女は鏡の精となったからだ。
 \n
-I have no doubt that it's Amanda
+I have no doubt that it's Amanda\n
 who's inside the mirror. 
 <$0C>
 From what I concluded, it's because\n

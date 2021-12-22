@@ -64,8 +64,8 @@ Madam Agatha:
 <$0D>
 //\nこれは預言じゃない？\nみんながうわさしてる預言…
 \n
-That's not a prophecy, is it? Like the\n
-ones everyone was talking about?
+That's not a prophecy, is it? Like\n
+the ones everyone was talking about?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -112,9 +112,9 @@ Madam Agatha:
 //\nなんとか悪夢につなげなきゃ。\nもう一度、試してみるわ。
 \n
 For now, I have to access the\n
-nightmares any way I can. I'll try
+nightmares any way I can.
 <$0C>
-again.
+I'll try again.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -159,7 +159,8 @@ Madam Agatha:
 <$0D>
 //\nじゃあクリスタルボールのところに行ってね。
 \n
-All right, step over to the crystal ball.
+All right, step over to\n
+the crystal ball.
 <$00>
 
 // Pos: 00002BCF
@@ -189,8 +190,8 @@ Madam Agatha:
 <$0D>
 //\nヘロデは迷子になっているのよ。\n建う次元にはまりこんだみたいなの。
 \n
-I lost Herod. It's almost like he's\n
-trapped in another dimension.
+I lost Herod. It's almost like\n
+he's lost in another dimension.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -700,7 +701,7 @@ Madam Agatha:
 <$0D>
 //\nあああ、真っ赤な炎よ、夜を染める炎…\n火事みたいね。 誰かが叫んでる…
 \n
-Gasp! The night sky is stained by red
+Gasp! The night sky is stained by red\n
 flames. It's a fire. Someone screams.
 <$0C><$0B>
 //マダム・アガタ：
@@ -732,7 +733,7 @@ Madam Agatha:
 <$0D>
 //\n冷たい霧の朝、１１月…\n制服を着た男がふたり、ポーチにいるわ。\nはげしくドアをノックしてる…
 \n
-A cold, foggy November morning.\n
+A cold, foggy November morning.
 <$0C>
 Two policemen stand on the porch,\n
 banging the door.
@@ -908,8 +909,8 @@ Madam Agatha:
 <$0D>
 //\nウラジミールがキッチンにいるわ、\nしゃがみ込んでる。
 \n
-I see only the faint shadow of\n
-Vladimir.
+I see only the faint shadow\n
+of Vladimir.
 <$0C>
 He is doubled over\n
 on the kitchen floor.
@@ -1057,7 +1058,7 @@ Madam Agatha:
 <$0D>
 //\nなにやらしきりに頭を動かしてる…\n体は相変わらず小きざみに上下してるわ。\nいつものブーマーじゃないみたいね。
 \n
-His head and body twitch about
+His head and body twitch about\n
 in the tiniest convulsions.
 <$0C>
 This isn't the Boomer I know.
@@ -1091,9 +1092,10 @@ Madam Agatha:
 <$0D>
 //\nいやだ、あれは子猫よ、死んでるみたいね。\n生き埋めにしたのね、それを掘り返してる。\nあれはクロウよ、子供のころのクロウよ…
 \n
-...Oh, no. It's a kitten! And it's dead!\n
+...Oh, no. It's a kitten!\n
+And it's dead!
 <$0C>
-It must have been buried alive, but
+It must have been buried alive, but\n
 Crow is digging the corpse back up...!
 <$00>
 
