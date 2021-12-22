@@ -358,12 +358,6 @@ April:
 You're...Laika, aren't you?
 <$00>
 
-// Pos: 00003230
-
-#JMP($00003230)
-
-
-
 // Pos: 00002EAA
 
 #WLB(PTR, $00001930)
