@@ -301,14 +301,6 @@ April:
 
 #WHB(PTR, $00000BF1)
 
-#WLB(PTR, $000011A6)
-
-#WHB(PTR, $000011A7)
-
-#WLB(PTR, $0000180A)
-
-#WHB(PTR, $0000180B)
-
 <$10><$0B>
 //ÉÑÉìÉOÅF
 Yang:
