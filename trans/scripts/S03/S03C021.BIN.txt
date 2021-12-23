@@ -17,7 +17,7 @@ Spirit Man:
 <$0D>
 //\nお勉強だ、アーネスト。
 \n
-It's time to study, Ernest.
+It's time, Ernest.
 <$00>
 
 // Pos: 00002061
@@ -49,7 +49,7 @@ Ernest:
 //\nへん、現れやがったな、顔のバケモンめが！
 \n
 Well, that appeared out of nowhere.\n
-What in blazes is that thing?
+What in blazes is that thing?!
 <$00>
 
 // Pos: 000020B8
@@ -96,8 +96,8 @@ Ernest:
 <$0D>
 //\nEM値だと？ 消えるだと…\n俺はそんなことにはならないぜ！
 \n
-If the Phase are so bad, I'll sock\n
-them into space before they get close!
+If the Phase are so bad, I'll crush\n
+them to bits before they get close!
 <$00>
 
 // Pos: 0000216B
@@ -123,7 +123,7 @@ Spirit Man:
 When a Phase fires a pulse, press\n
 the O button to push your Mind Core.
 <$0C>
-If you can repel the pulse foreward,\n
+If you can volley the pulse back,\n
 you will not be hurt by the attack.
 <$0C><$0B>
 //スピリットマン：

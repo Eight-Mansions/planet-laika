@@ -15,7 +15,7 @@
 <$00>
 //えへへへ、びっくりしてる…\nねぇ、そうなんだろ？
 Hyohyo, you look startled!\n
-I don't blame you.
+Can't say I blame you.
 <$00>
 
 // Pos: 00000FDB
@@ -27,8 +27,8 @@ I don't blame you.
 
 <$00>
 //オーラだよ、あんたは惑応してるんだ。\n火星の人間はみんなこうだよ、\nあんたを惑応させるよ。
-That aura is a sensory response that\n
-all humans on Mars feel. Humans\n
-stimulate, and you undergo change.
+That aura is a sensory response\n
+all humans on Mars feel. If others\n
+stimulate, you will undergo change.
 <$1E><$03><$02><$00>
 

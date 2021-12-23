@@ -343,7 +343,7 @@ So, I'm sticking with Laika!
 #WHB(PTR, $00002F6D)
 
 //ÇÊÇÎÇµÇ¢Ç≈Ç∑Ç©ÅH
-Use this name?
+Accept?
 <$00><$00>
 
 // Pos: 0000378E
@@ -753,7 +753,7 @@ q
 #WHB(PTR, $00003011)
 
 //Éd
-e
+r
 <$00>
 
 // Pos: 000037F0

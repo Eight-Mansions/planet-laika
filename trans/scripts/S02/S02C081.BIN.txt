@@ -14,7 +14,7 @@
 <$02>
 //おい、そこにいるの… あんただろ？\nさっきのあんただろ？
 Hey, you there!\n
-Weren't you here before?
+Weren't you just here?
 <$00>
 
 // Pos: 00003AFD
@@ -41,7 +41,7 @@ Damian:
 //\n不思議だなぁ…\nあんたって…つかみどころないんだよ。\nなかなか読めないからね。
 \n
 You're so...shifty! I had an extra\n
-hard time getting a solid look at you.
+hard time getting a look at you.
 <$00>
 
 // Pos: 00003B3E
@@ -56,7 +56,7 @@ Damian:
 <$0D>
 //\nライカ…\nそれがあんたのニックネームなんだろ。
 \n
-Laika... That's only a nickname, I see.
+Laika... That's your nickname, I see.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -79,8 +79,8 @@ Damian:
 <$0D>
 //\n僕が誘導したんだ、\nでも途中で勝手に抜け出したんだよ、ふふふ。
 \n
-I tried to lead them around, but,\n
-heehee, they wandered off part-way.
+I tried to lead them, but, heehee,\n
+they wandered off part-way.
 <$00>
 
 // Pos: 00003BD5
@@ -96,7 +96,7 @@ Damian:
 //\nあのふたりはね、\nこの星に呼ばれたってこと。
 \n
 The planet called out to those two,\n
-and they answered.
+and they answered it over me.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
@@ -111,15 +111,15 @@ Damian:
 //\nふふふ、女の子だけ帰納の丘に誘導したよ…
 \n
 Hehee, at least the girl followed\n
-me direction to the Inductive Hills.
+my direction to the Inductive Hills.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
 <$0D>
 //\nそれにしても不思議だなぁ、あんただけは\n誘導できなかったよ。
 \n
-Although, it's strange that you alone\n
-weren't called on to go there.
+Although, it's strange... You\n
+alone are above my influence.
 <$0C><$0B>
 //ダミアヌス：
 Damian:
