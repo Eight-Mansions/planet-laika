@@ -94,6 +94,8 @@ storeLetterWidth:
 	la v0, nex_width
 	lb v0, 0(v0)
 	nop
+	sll v0, v0, 4
+	or v0, v0, a0
 	jr ra
 	sb v0, 0(v1)
 	
@@ -119,15 +121,15 @@ calculateXPosition:
 	sb r0, 3(t1)
 		
 not_start_printing:
-	nop
-	addu a2, a2, v0 ; next width
-	sw a2, 0(t1)
+	srl a1, a2, 4 ; a2 contains letter width + color so shift off the color
+	addu a1, a1, v0 ; next width
+	sw a1, 0(t1)
 	lw t1, 0x0018(sp) ; reset t1 back to normal
 
 	sb s3, 0x000C(v1)
 	lui a1, 0x8006
 	lw a1, 0x5824(a1)
-	addiu a2, r0, 1 ; reset a2 back to 1 as it should be
+	andi a2, a2, 0x0F ; and off the letter width so we only have our color left
 	j 0x8001c7fc
 	addiu v0, v0, 0xFF64
 
