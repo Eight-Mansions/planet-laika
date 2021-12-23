@@ -47,6 +47,43 @@ TextDrawFlagsArea: equ 0x800F1000
 	addiu a2, r0, 0x48
 ; ---------------------------------------------------------------------------
 
+;----------  little text scroller button gif - Credit : Cargodin ------------
+;.org 0x8001c128
+	; ; 8001c128 : LUI     800657aa (v0), 8006 (32774),
+	; ; 8001c12c : LW      80060000 (v0), 5824 (80060000 (v0)) [80065824]
+	; la v0, cur_width
+	; ; 8001c130 : NOP    
+	; lh v0, 0(v0)
+	; ; 8001c134 : SLL     00065798 (a0), 00000000 (v0), 02 (2),
+	; nop
+	; ; 8001c138 : ADDU    00000000 (a0), 00000000 (a0), 00000000 (v0),
+	; nop
+	; ; 8001c13c : SLL     00000000 (a0), 00000000 (a0), 02 (2),
+	; nop
+	; ; 8001c140 : ADDU    00000000 (a0), 00000000 (a0), 00000050 (a3),
+	; nop
+	; ; 8001c144 : ADDU    00000050 (a0), 00000050 (a0), 800f7b50 (t2),
+	; addu a0, a0, t2
+	; ; 8001c148 : SLL     00000000 (v0), 0000001d (v1), 01 (1),
+	; nop
+	; ; 8001c14c : ADDU    0000003a (v0), 0000003a (v0), 0000001d (v1),
+	; nop
+	; ; 8001c150 : SLL     00000057 (v0), 00000057 (v0), 02 (2),
+	; nop
+	; ; 8001c154 : ADDIU   0000015c (v0), 0000015c (v0), ff64 (65380),
+	; addiu v0, v0, 0xFF64
+	; ; 8001c158 : SH      000000c0 (v0), 0008 (800f7ba0 (a0)) [800f7ba8]	
+	; sh v0, 0x08(a0)
+.org 0x8001c130
+	j getTextScrollerButtonGifXPosition
+	
+.org 0x8001c148
+	nop
+	addu v0, r0, v1
+	nop
+	
+; ---------------------------------------------------------------------------
+
 
 ; Dialogue
 .org 0x8001de9c
@@ -114,7 +151,7 @@ calculateXPosition:
 	nop
 	beq v0, r0, not_start_printing
 	lw v0, 0(t1) ;	current width
-
+	nop
 	sll v0, a1, 1
 	addu v0, v0, a1
 	sll v0, v0, 2
@@ -140,6 +177,10 @@ onIncreaseY:
 	j 0x8001c910
 	slt v0, s4, t5
 
+getTextScrollerButtonGifXPosition:
+	la v1, cur_width
+	j 0x8001c138
+	lbu v1, 0(v1)
 
 variables:
 cur_width:
