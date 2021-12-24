@@ -274,6 +274,8 @@ echo ins\S06\S06C171.BIN >> error.txt
 tools\atlas ins\S06\S06C171.BIN trans\scripts\S06\S06C171.BIN.txt >> error.txt
 echo ins\S06\S06C211.BIN >> error.txt
 tools\atlas ins\S06\S06C211.BIN trans\scripts\S06\S06C211.BIN.txt >> error.txt
+echo ins\S06\S06C231.BIN >> error.txt
+tools\atlas ins\S06\S06C231.BIN trans\scripts\S06\S06C231.BIN.txt >> error.txt
 echo ins\S07\S07C011.BIN >> error.txt
 tools\atlas ins\S07\S07C011.BIN trans\scripts\S07\S07C011.BIN.txt >> error.txt
 echo ins\S07\S07C031.BIN >> error.txt

@@ -246,16 +246,16 @@ Mountain:
 <$0D>
 //\nあんたを見て分かった、やっぱりな。\nさぐりに行くんだろ、\nやつらだ、メディスンマンのやつらだ。
 \n
-From that look on your face, you!\n
-are sniffing for the medicine men.
+From that look on your face, I'd\n
+say you're after the medicine men.
 <$0C><$0B>
 //マウンテン：
 Mountain:
 <$0D>
 //\nあいつらはたぶらかしの天才、そうなのだ！\n金星人を無視しようとする、いけないことだ。
 \n
-They have their PHDs in screwing\n
-around. 
+They do have their PHDs in\n
+screwing around, don't they... 
 <$0C>
 They shouldn't underestimate\n
 the Venusians, and yet they do.
@@ -266,7 +266,7 @@ Mountain:
 //\nよし、やぶさかではないぞ、\n見つからないようにこっそりとな。\n教えてやる、オートロックの暗証番号は…
 \n
 If you want into the lodge, I'll\n
-give you the autolock's VPN.
+give you the autolock's PIN.
 <$00>
 
 // Pos: 00001FFC

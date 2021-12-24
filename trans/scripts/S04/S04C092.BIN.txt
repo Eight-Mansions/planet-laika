@@ -81,7 +81,7 @@ Little:
 //\nここはカンペキだ。何も悪いところはない。\n迷信に振り回されて大騒ぎしてるのは\nお前たちの方だ、ええ？
 \n
 Of course not!\n
-There's no evil afoot.\n
+There's no mischief afoot.\n
 <$0C>
 The rumors and uproars are all\n
 superstition!
@@ -118,7 +118,7 @@ Little:
 //\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
 \n
 How lovely. So, you DON'T care\n
-about our warehouse next door?
+about our d next door?
 <$0C>
 The one that stores our\n
 lucrative oxygenite reserves?
@@ -128,7 +128,7 @@ Little:
 <$0D>
 //\nお前たちが見捨てたこの星は、\nあの酸索石でよみがえる。
 \n
-It is WE who use OUR resources to\n
+It is WE who used OUR resources to\n
 restore the planet YOU abandoned!
 <$0C><$0B>
 //リトル：
@@ -163,8 +163,6 @@ April:
 \n
 I don't understand! If this is\n
 all one big ghost story, fine.
-<$0C>
-fine.
 <$0C><$0B>
 //エイプリル：
 April:

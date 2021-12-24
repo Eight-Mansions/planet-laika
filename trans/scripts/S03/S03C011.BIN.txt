@@ -304,8 +304,8 @@ Spirit Man:
 <$0D>
 //\nひょ、まだお前はいろいろを\n知らなさすぎるぞ。
 \n
-...there's still much you don't know,\n
-hyohyo.
+...there's still much you\n
+don't know, hyohyo.
 <$00>
 
 // Pos: 00003372
@@ -321,7 +321,7 @@ Ernest:
 //\nちょろちょろしやがって、\nうるせぇやつだ。 先に行かせろ！
 \n
 You're the last person I need\n
-scolding me about buzzing around.
+telling me about buzzing around.
 <$00>
 
 // Pos: 0000339E
@@ -382,8 +382,8 @@ Spirit Man:
 <$0D>
 //\nひょひょ、アーネストや、\nお前にできることは何だ？
 \n
-Hyohyo, Ernest! What ever can you\n
-do?
+Hyohyo, Ernest!\n
+What ever can you do?
 <$00>
 
 // Pos: 00003447
@@ -462,7 +462,7 @@ Ernest:
 //\n目ん玉だと？ おい、ウスノロ！\nいいかげんなこと言うんじゃねぇぞ。
 \n
 Eyeball? Sorry, boozehound. Don't know\n
-what in blazes you're talking about.
+what the blazes you're talking about.
 <$00>
 
 // Pos: 00003543

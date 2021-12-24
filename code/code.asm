@@ -180,7 +180,7 @@ onIncreaseY:
 getTextScrollerButtonGifXPosition:
 	la v1, cur_width
 	j 0x8001c138
-	lbu v1, 0(v1)
+	lhu v1, 0(v1)
 
 variables:
 cur_width:

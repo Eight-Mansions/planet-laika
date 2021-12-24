@@ -36,8 +36,8 @@ Gold:
 <$0D>
 //\n何の用だ？まだ客は入れねぇ…\nお前が客だとしてもな。
 \n
-Sorry. I'm not taking orders right\n
-now, even if you came a long way.
+Sorry. I'm not taking orders\n
+right now, even for tourists.
 <$1E><$02><$02><$00>
 
 // Pos: 00002621
@@ -268,8 +268,8 @@ Smokey:
 <$0D>
 //\n…どうした、おい！ ちくしょう！
 \n
-God, what do you want, huh? For\n
-Christ's sake, who raised you?!
+What do you want, huh?\n
+Seriously, who raised you?!
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -438,7 +438,7 @@ Gold:
 //\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
 \n
 Galil? The guy's a legend after all that\n
-"I am the light," good boy bullshit.
+"I am the light," god complex bull.
 <$0C><$0B>
 //ゴールド：
 Gold:

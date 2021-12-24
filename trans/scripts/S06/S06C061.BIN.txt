@@ -94,8 +94,8 @@ April:
 <$0D>
 //\n平気よ。 私はまっすぐここに来たの。\n別に… なんともないよ…
 \n
-I was fine. I walked straight here\n
-with...no problems...
+I was fine. I walked straight\n
+here with...no problems...
 <$00>
 
 // Pos: 00003450
@@ -126,8 +126,8 @@ April:
 <$0D>
 //\nここには誰もいない… 他に部屋はない…
 \n
-There's no one here,\n
-and there's no other rooms.
+There's no one here, and\n
+it's only this one room.
 <$00>
 
 // Pos: 0000349B
@@ -265,8 +265,8 @@ April:
 <$0D>
 //\nねえ、ヨランダ、\nあなたならヌーンをどんなふうにしかる？
 \n
-Hey, Yolanda? How do you\n
-intend to call to Noon?
+Hey, Yolanda?\n
+How should we call Noon?
 <$00>
 
 // Pos: 000035AC
@@ -281,7 +281,7 @@ Yolanda:
 <$0D>
 //\nしかる？\nアタシが…ヌーンを？
 \n
-How will I...call to Noon?
+How will I...call Noon?
 <$00>
 
 // Pos: 000035C7
@@ -296,7 +296,8 @@ April:
 <$0D>
 //\n例えばよ。
 \n
-Yeah! I mean while we're looking!
+Yeah! I mean, in case he\n
+won't show himself outright!
 <$0C><$0B>
 //エイプリル：
 April:
@@ -311,7 +312,7 @@ April:
 <$0D>
 //\nそんなふうに大声で呼んで…
 \n
-Noon, come out here this instant!
+"Noon, come out here this instant!"
 <$00>
 
 // Pos: 0000361A
@@ -326,15 +327,15 @@ Yolanda:
 <$0D>
 //\nあなたがグズだから、せっかくのスープが\nさめちゃうじゃない、何してんのよ！
 \n
-I spent all day on this soup, and you'll\n
-either eat it warm or NOT AT ALL!
+"I spent all day on this soup, so\n
+you'll eat it warm or NOT AT ALL!"
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n…こんな惑じ？
 \n
-...Like that.
+...Like that?
 <$00>
 
 // Pos: 0000365C
@@ -349,7 +350,7 @@ April:
 <$0D>
 //\nそう。 お母さんみたいに。
 \n
-Yeah, that sounds as\n
+Haha! That sounds as\n
 motherly as it gets!
 <$0C><$0B>
 //エイプリル：
@@ -357,7 +358,7 @@ April:
 <$0D>
 //\nヌーンはちょっとマザコンで、\nすぐにホームシックにかかっちゃう人なの。
 \n
-Noon's a bit of a mommy's boy, so\n
+Noon's a bit of a mommy's boy.\n
 I'm betting he's homesick by now.
 <$00>
 
@@ -373,7 +374,7 @@ Yolanda:
 <$0D>
 //\nそうね…
 \n
-Ah, I see.
+Ah, I see...
 <$00>
 
 // Pos: 000036B2
@@ -389,7 +390,7 @@ Yolanda:
 //\nヌーン！ 隠れてないで…\nいるのはわかってるのよ！ ヌーン！
 \n
 Noon! You can run, and you can hide,\n
-but I know where you are! Noooon!
+but I know where you are, Noooon!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -405,23 +406,23 @@ Yolanda:
 //\nヌーン、あなたのためにパンケーキ焼いたのよ、\nねえいいにおいでしょ、ママもお腹ぺこぺこ、
 \n
 Guess who baked all these pancakes,\n
-just for you! Don't they smell niiiice?
+just for you! Don't they smell niiice?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nあなたと一緒に食べようと思って…
 \n
-If we're both peckish, why not\n
-come down for breakfast with Mommy?
+If you're peckish, why not come\n
+down for breakfast with Mommy?
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nいつまでも隠れてると\nママお腹すかして死んじゃうかも。
 \n
-If you let me starve for long,\n
-Mommy's gonna die alone down here!
+If you let Mommy starve for long,\n
+Mommy will die all alone down here!
 <$00>
 
 // Pos: 0000377D
@@ -436,8 +437,8 @@ Noon:
 <$0D>
 //\nママ、やめて… お願い… ママ…
 \n
-Mummy, stop...\n
-Please... Mummy...!
+Mummy, stop!\n
+Please, Mummy...!
 <$0E><$3C><$17><$00>
 
 // Pos: 0000379A
@@ -452,7 +453,7 @@ Noon:
 <$0D>
 //\nママ！ ママ！ もういやだ！
 \n
-No more, Mummy, no more!
+No more, Mummy! No more!
 <$0E><$3C><$17><$00>
 
 // Pos: 000037B4
@@ -531,7 +532,7 @@ April:
 //\n誰なの？\nいやよ、離して、手を離して、お願い！
 \n
 Who are you? ...No! Get off!\n
-Please! Get your hands of me!
+Please! Get your hands off me!
 <$00>
 
 // Pos: 0000385F

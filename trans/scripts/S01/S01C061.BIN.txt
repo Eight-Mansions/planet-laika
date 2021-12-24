@@ -64,14 +64,16 @@ Captain Tatler:
 <$0D>
 //\nヌーン、もういいぞ。\n私たちは着陸すべくして着陸した。
 \n
-And? When I say, "land", you land.
+And, Noon? When I say,\n
+"land", you land.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\nそういうことだ。
 \n
-That's all there is to it.
+If you don't land,\n
+you don't get paid!
 <$00>
 
 // Pos: 0000354B
@@ -103,7 +105,7 @@ Captain Tatler:
 //\nこの船にアクシデントなどなかったのだ。\nわからんのか…
 \n
 I don't care about accidents. If we\n
-dent something, we fix it later.
+dent something, we'll fix it later.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -150,8 +152,8 @@ Captain Tatler:
 <$0D>
 //\n密航者だけではない。\n流刑者のなれのはても生きながらえている。
 \n
-Some inhabitants were exiled,\n
-and forced to live out here.
+Some inhabitants were exiled.\n
+They're forced to live out here.
 <$00>
 
 // Pos: 00003654
@@ -291,6 +293,6 @@ April:
 //\n前の任務もうまくいったじゃない。\n今度もきっと平気よ。
 \n
 Our last mission went well enough.\n
-We're gonna nail this one too!
+We're going to nail this one too!
 <$00>
 

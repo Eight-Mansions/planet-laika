@@ -300,8 +300,8 @@ April:
 \n
 No, not a thing!
 <$0C>
-Earth was concerned about rumors that\n
-threatened the terraformation project.
+The ISF was worried about rumors\n
+hurting the terraformation project.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -309,7 +309,7 @@ April:
 //\nだからウワサの出所を突きとめることなの。\nガリル大佐が何か関係してる、\nそこまではつかんでいるのよ。
 \n
 Our unit's mission is to investigate\n
-the rumors, and find Colonel Galil.
+the rumors and find Colonel Galil.
 <$00>
 
 // Pos: 00003F8F
@@ -335,8 +335,8 @@ White Eagle:
 <$0D>
 //\nいかん！ それはいかん！\nますますいかん！
 \n
-No! I won't have it! We cannot, will not\n
-absolutely should not have it!
+No! I won't have it! We cannot, will\n
+not, absolutely MUST NOT have it!
 <$00>
 
 // Pos: 00003FE5

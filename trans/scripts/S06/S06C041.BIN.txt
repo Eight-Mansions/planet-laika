@@ -590,9 +590,9 @@ Yolanda:
 //\nいいわよそれでも。\n迷わないでね。 町長屋敷よ。
 \n
 That's a good plan, but let's not\n
-mosey. It's the elder's cottage we
+stick around longer than we have to.
 <$0C>
-want.
+It's the elder's cottage we want.
 <$00>
 
 // Pos: 00003B7B
@@ -1130,8 +1130,8 @@ Yolanda:
 <$0D>
 //\nどう？うまくいきそう？\n町長さんのこと、報告してみれば。
 \n
-How's it going over here? We'd\n
-better report this to the elder.
+How's it going over here?\n
+Should we report our "elder"?
 <$00>
 
 // Pos: 00004010
@@ -1162,7 +1162,7 @@ April:
 <$0D>
 //\nああ、ダメ、もう少しでつながるのに。
 \n
-Drats. Right when I thought we had\n
-an in.
+...Drats. Right when I thought\n
+we had an in.
 <$00>
 

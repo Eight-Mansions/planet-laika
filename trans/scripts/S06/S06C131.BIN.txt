@@ -57,8 +57,8 @@ Yolanda:
 <$0D>
 //\nねぇ、町の中に入ってみましょう。
 \n
-That's it for up here!\n
-It's time we in the town.
+That's it for out here!\n
+It's time we checked in-town.
 <$00>
 
 // Pos: 00000896
@@ -73,7 +73,7 @@ April:
 <$0D>
 //\n誰の声なの… 私のこと…
 \n
-That voice again...\n
-It did call my name.
+(That voice again...\n
+It did call my name!)
 <$00>
 
