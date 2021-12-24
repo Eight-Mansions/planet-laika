@@ -27,10 +27,6 @@ I can hear...words in my head...!
 
 #WHB(PTR, $000009B1)
 
-#WLB(PTR, $000026A2)
-
-#WHB(PTR, $000026A3)
-
 <$12><$13><$18><$0B>
 //スペーサー：
 Spacer:
