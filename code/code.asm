@@ -44,7 +44,7 @@ TextDrawFlagsArea: equ 0x800F1000
 	addiu t0, r0, 0x48
 	
 .org 0x8001cf50
-	addiu a2, r0, 0x48
+	addiu a2, r0, 0x45
 ; ---------------------------------------------------------------------------
 
 ;----------  little text scroller button gif - Credit : Cargodin ------------

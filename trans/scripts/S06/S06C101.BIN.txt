@@ -105,7 +105,7 @@ and insect life for many years.
 
 #WHB(PTR, $00000B05)
 
-<$10><$0B>
+<$11><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
@@ -162,7 +162,7 @@ extinction makes sense, bzzbzz!
 
 #WHB(PTR, $00000B21)
 
-<$10><$0B>
+<$11><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
@@ -178,7 +178,7 @@ Entomologist:
 //\n火星人がその昔に地球にやってきて\n人間の顔を求めた…
 \n
 Anyways, long ago, the Martians\n
-came to earth and asked us humans
+came to earth and asked us humans\n
 for our faces.
 <$0C><$0B>
 //昆虫学者：
