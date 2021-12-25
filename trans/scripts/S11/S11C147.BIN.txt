@@ -278,10 +278,7 @@ Mountain:
 \n
 ...thirty-four, thirty-five,\n
 thirty-six, thirty-seven...
-<$1E><$03>
-//軌
-軌
-<$10><$0B>
+<$1E><$03><$04><$00><$10><$0B>
 //マウンテン：
 Mountain:
 <$0D>

@@ -31,10 +31,7 @@ It's dangerous!
 <$0C>
 The ice there is breaking and\n
 on the verge of collapse, whoosh!
-<$1E><$03>
-//員
-員
-<$13><$0B>
+<$1E><$03><$02><$00><$13><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
@@ -169,10 +166,7 @@ Oxygen Miner 3：
 //\nアイスレイクだ、行け、シー。
 \n
 YOU mUst gO tO IcE LAkE, whOOsh!
-<$1E><$01>
-//員
-員
-<$10>
+<$1E><$01><$02><$00><$10>
 //坑道閉鎖まで、あとわずかです。\n繰り返します、あとわずか。\nこれは訓練ではありません。
 THE MINESHAFT IS CLOSING SOON.\n
 EVACUATE IMMEDIATELY.\n

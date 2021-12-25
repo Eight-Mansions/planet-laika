@@ -45,10 +45,7 @@ Boomer:
 \n
 Ohhh, I can't see it.\n
 I can't see it, I can't see it...
-<$1E><$02>
-//軌
-軌
-<$10><$0B>
+<$1E><$02><$04><$00><$10><$0B>
 //ブーマー：
 Boomer:
 <$0D>
