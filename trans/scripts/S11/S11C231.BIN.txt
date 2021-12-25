@@ -382,10 +382,7 @@ Feng:
 \n
 But I'll be fine, right?\n
 Yes, of course. Hohoho!
-<$1E><$01>
-//軌
-軌
-<$11><$0B>
+<$1E><$01><$04><$00><$11><$0B>
 //エイプリル：
 April:
 <$0D>

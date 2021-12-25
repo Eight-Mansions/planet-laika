@@ -111,8 +111,8 @@ Hmm... Looks like I'm not getting in.
 
 #WHB(PTR, $00000C19)
 
-<$12><$13>
-// ヤハリ アナタハ\nトウロクサレテイマセン。
+<$12><$13><$20>
+//ヤハリ アナタハ\nトウロクサレテイマセン。
 USER NOT REGISTERED FOR ENTRY.
 <$00>
 
