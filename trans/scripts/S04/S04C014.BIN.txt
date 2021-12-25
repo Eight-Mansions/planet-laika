@@ -409,10 +409,7 @@ Boomer:
 \n
 Ohhh, I'm so sorry, but...\n
 Ahhh, I can't let you through.
-<$1E><$02>
-//軌
-軌
-<$12><$0B>
+<$1E><$02><$04><$00><$12><$0B>
 //フェイ：
 Feng:
 <$0D>
