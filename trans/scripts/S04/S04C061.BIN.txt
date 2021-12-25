@@ -133,10 +133,7 @@ Marrakech:
 \n
 The more my face looks human,\n
 the more I FEEL human. What bliss!
-<$1E><$01>
-//員
-員
-<$12><$0B>
+<$1E><$01><$02><$00><$12><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
@@ -293,10 +290,7 @@ Veronica:
 \n
 I hate Smokey. I'd rather he died.\n
 If you meet him, you'll agree.
-<$1E><$03>
-//軌
-軌
-<$13><$13><$19><$0B>
+<$1E><$03><$04><$00><$13><$13><$19><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>

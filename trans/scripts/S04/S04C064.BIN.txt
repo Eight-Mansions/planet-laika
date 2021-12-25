@@ -442,10 +442,7 @@ Linda:
 \n
 They think they're so helpless!\n
 Sad, don't you think?
-<$1E><$01>
-//軌
-軌
-<$10><$0B>
+<$1E><$01><$04><$00><$10><$0B>
 //イースト：
 East:
 <$0D>

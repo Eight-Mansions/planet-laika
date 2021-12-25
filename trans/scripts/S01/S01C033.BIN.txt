@@ -80,7 +80,8 @@ Doctor, can
 
 #WHB(PTR, $00000839)
 
-//快からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
+<$02>
+//分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
 We'll find out in the operation room.\n
 There's a mass near the brain\n
 triggering these hallucinations.
@@ -114,7 +115,8 @@ Doctor! Doctor October, please!\nSave
 
 #WHB(PTR, $000008F5)
 
-//捨ああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
+<$02>
+//あああ、ダメだ、深すぎる。\n無理をすれば脳を傷つけてしまう、\n手術はあきらめるしかない。
 Damn! It's too deep!\n
 If we force it out,\n
 we'll damage the brain!
