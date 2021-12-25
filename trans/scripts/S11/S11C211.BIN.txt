@@ -61,9 +61,7 @@ Gold:
 \n
 There's more than a handful of guys\n
 here who envy you uniformed types.
-<$1E><$02>
-//員
-<$10><$0B>
+<$1E><$02><$02><$00><$10><$0B>
 //ゴールド：
 Gold:
 <$0D>
@@ -526,9 +524,9 @@ Smokey:
 \n
 You're all a bunch of snobs!\n
 You'd better watch your backs.
-<$1E><$02>
-//会う
-会う
+<$1E><$02><$02><$0E>
+//う
+う
 <$17><$00><$10><$0B>
 //ゴールド：
 Gold:

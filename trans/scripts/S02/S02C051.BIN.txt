@@ -19,9 +19,9 @@ that.
 <$0C>
 //あんた、大丈夫なの？ 耐えられるの？
 Do you think you can handle it?\n
-<$1E><$03>
-//員案ウが弱いとダメさ。 あんたは…
-員案ウYou can't afford to be weak.
+<$1E><$03><$02><$00>
+//案ウが弱いとダメさ。 あんたは…
+案ウYou can't afford to be weak.
 <$0C>
 //うーん、読めないな。\n強いのか、弱いのか、わからないよ。
 But you know, even I can't sense\n
