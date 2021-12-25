@@ -877,10 +877,7 @@ West:
 //\n昔は牢屋、今はホテルだ。
 \n
 What once was a prison is now a hotel!
-<$1E><$01>
-//員
-員
-<$10><$0B>
+<$1E><$01><$02><$00><$10><$0B>
 //リトル：
 Little:
 <$0D>

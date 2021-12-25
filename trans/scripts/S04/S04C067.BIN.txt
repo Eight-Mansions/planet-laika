@@ -425,10 +425,7 @@ Linda:
 \n
 But, I'd never be caught dead around\n
 those places. Not now, not ever!
-<$1E><$01>
-//軌
-軌
-<$12><$0B>
+<$1E><$01><$04><$00><$12><$0B>
 //リンダ：
 Linda:
 <$0D>
@@ -614,10 +611,7 @@ Linda:
 \n
 Oh, what happened to your face?\n
 You're a dog again, aren't you...
-<$1E><$01>
-//軌
-軌
-<$12><$0B>
+<$1E><$01><$04><$00><$12><$0B>
 //コスマス：
 Cosmas:
 <$0D>
