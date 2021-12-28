@@ -4,6 +4,7 @@ del exe\SLPM_862.64
 
 copy exe\orig\SLPM_862.64 exe\SLPM_862.64
 tools\armips.exe code\code.asm
+tools\atlas exe\SLPM_862.64 trans\scripts\exe.txt >> error.txt
 copy exe\SLPM_862.64 cd\laika\SLPM_862.64
 
 del ins\S01\S01C01I4.IMG

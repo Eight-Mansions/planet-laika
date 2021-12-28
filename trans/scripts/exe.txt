@@ -1,0 +1,34 @@
+#VAR(Table, TABLE)
+#ADDTBL("laika.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147547136, 32)
+#STRINGALIGN(4)
+
+#JMP($00054400)
+
+// Ptr: 00055E60
+#WRITE(PTR, $0004CC48)
+//ヨランダ
+Yolanda
+<$00>
+
+// Ptr: 00055E68
+#WRITE(PTR, $0004CC44)
+//スペーサー
+Spacer
+<$00>
+
+// Ptr: 00055E70
+#WRITE(PTR, $0004CC40)
+//アーネスト
+Ernest
+<$00>
+
+// Ptr: 00055E78
+#WRITE(PTR, $0004CC3C)
+//ライカ
+Laika
+<$00>
+
+
