@@ -47,8 +47,8 @@ Liever:
 <$0D>
 //\nなんだかあんたをだましたみたいで…\n僕はやっぱり中途ハンパな存在なんだね…
 \n
-Ah, seems I lead you on a red herring.\n
-I'm a made up existence, after all.
+Sorry I lead you on a red herring.\n
+Guess everything about me's made up.
 <$00>
 
 // Pos: 00001678
@@ -161,16 +161,16 @@ Liever:
 <$0D>
 //\n預言だよ！ 預言にあるんだ、\nマコトの双子が完全な人間になれるって。
 \n
-It was the prophecy! In the prophecy\n
-the Twins of Truth become wholly human.
+The Exile's prophecies speak of two\n
+"Twins of Truth" who become pure human.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nヘロデさんは夢の中で\n神様から教えてもらったらしいよ。
 \n
-Apparently, God came to Herod and\n
-told him everything in a dream.
+Apparently, God came to Herod in a\n
+dream, and told him about the twins.
 <$0C><$0B>
 //リバー：
 Liever:

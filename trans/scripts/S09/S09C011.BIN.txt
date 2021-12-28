@@ -103,8 +103,8 @@ Liever:
 <$0D>
 //\n最初に見つけたときは、つららを逆さにした\nみたいな柱だったんだ。
 \n
-When I first found this place, an icicle\n
-came down like a great pillar before me.
+When I found this place, an icicle\n
+crashed down like a great pillar.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -122,8 +122,8 @@ Liever:
 And what happened the next time?\n
 Three faces appeared!
 <$0C>
-The number of faces goes up\n
-each time.
+The number of faces went up\n
+each time I came down.
 <$0C><$0B>
 //リバー：
 Liever:
@@ -138,18 +138,19 @@ Liever:
 <$0D>
 //\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
 \n
-There are sockets in the eyes of\n
-the first face that appeared.
+There eyes on the first face\n
+that appeared are hollow.
 <$0C>
-Surely they can fit something.
+I think we're supposed to\n
+fit something in each socket.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nそれで家にあった光る石を\n思いついたってわけだよ。
 \n
-I imagine two of those glowing\n
-stones would do the trick.
+I figured, "Two glowing stones\n
+ought to do the trick!"
 <$00>
 
 // Pos: 00000DFD
@@ -207,7 +208,7 @@ Liever:
 <$0D>
 //\nいよいよなんだよ、ドキドキさ、そりゃ。\nあんたもでしょ。\nでも恐くないよ、神様だもん。
 \n
-That's why you're here! Aren't you\n
+And now, you can! Aren't you\n
 excited? It's time to face God!
 <$00>
 

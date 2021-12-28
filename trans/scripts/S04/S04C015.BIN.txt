@@ -17,7 +17,7 @@ Boomer:
 <$0D>
 //\n悪いな…顔貸してくれ。
 \n
-Ohhh, forgive me... We needa\n
+Ohhh, forgive me... We need\n
 only  moment of your time.
 <$0C><$0B>
 //ブーマー：
@@ -57,15 +57,15 @@ Feng:
 <$0D>
 //\nねぇ、アガタには気を付けてね。\nあの人、きっと邪悪な心の持ち主よ。
 \n
-Listen. Be wary around Agatha. She\n
-clearly possesses a wicked mind.
+Listen. Be wary around Agatha.\n
+She possesses a wicked mind.
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n私、思うの。
 \n
-At least, I'd say so.
+You know what I think?
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -73,9 +73,9 @@ Feng:
 //\nときどき自分がどこにいるのか\n分からなくなることがあって、それはきまって\nアガタに会った後なのよ。
 \n
 Sometimes, I wonder where\n
-my "self" is.
+my "self" is, but...
 <$0C>
-That only started after\n
+...that only started after\n
 I met Agatha.
 <$0C><$0B>
 //フェイ：
@@ -106,7 +106,7 @@ Feng:
 Of course. I can't shake the feeling\n
 Agatha's out to hijack my mind. 
 <$0C>
-I'm so worried, I can hardly sleep.
+I'm so worried, I can hardly sleep!
 <$1E><$01><$02><$00>
 
 // Pos: 00001F74
@@ -123,8 +123,8 @@ Feng:
 \n
 You really think so? 
 <$0C>
-Then maybe Agatha does have it\n
-in her to hijack my mind.
+What if Agatha does have it\n
+in her to hijack my mind?
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -165,7 +165,8 @@ Feng:
 <$0D>
 //\nあら、あなたも眠れないの？
 \n
-Oh, dear. You can't sleep either?
+Oh, dear.\n
+You can't sleep either?
 <$00>
 
 // Pos: 0000203A
@@ -327,7 +328,8 @@ Feng:
 <$0D>
 //\nあら、あなたも眠れないの？
 \n
-Oh, dear. You can't sleep either?
+Oh, dear.\n
+You can't sleep either?
 <$00>
 
 // Pos: 00002203
@@ -482,7 +484,8 @@ Feng:
 <$0D>
 //\nあら、あなたも眠れないの？
 \n
-Oh, dear. You can't sleep either?
+Oh, dear.\n
+You can't sleep either?
 <$00>
 
 // Pos: 0000237F

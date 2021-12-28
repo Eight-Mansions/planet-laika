@@ -254,10 +254,11 @@ Madam Agatha:
 <$0D>
 //\nわかったわね、夢の中で手に入れたのものは\nはかないのよ。 消えてしまうわ。
 \n
-You understand, don't you? 
+You understand what this\n
+means, don't you? 
 <$0C>
-Things found in dreaming only\n
-fleet until they are gone.
+The things you find in your dreams\n
+only fleet until they are gone.
 <$00>
 
 // Pos: 00002D31
@@ -272,8 +273,8 @@ Madam Agatha:
 <$0D>
 //\nあら、これも同じね。\n夢の中で手に入れたものとおなじ…\nはかないわ、消えてしまうわ。
 \n
-Things found in dreaming only\n
-fleet until they are gone.
+The things you find in your dreams\n
+only fleet until they are gone.
 <$0C>
 This is no exception.
 <$00>
@@ -959,8 +960,8 @@ Madam Agatha:
 <$0D>
 //\n見つからないようにしながら…\nなにしてるのかしらね。
 \n
-She's acts she doesn't want to\n
-be seen. What is this about?
+Marrakech is trying to avoid\n
+detection. What is this about?
 <$00>
 
 // Pos: 000037D3

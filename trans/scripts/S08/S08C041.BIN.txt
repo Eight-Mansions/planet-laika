@@ -246,6 +246,7 @@ Who cares about the damned walls?!
 Little:
 <$0D>
 //\nそれで…お前は何してるんだ、\nこんなところで？
+\n
 So tell me, goddammit!\n
 How'd I get here this time?
 <$0C><$0B>
@@ -253,6 +254,7 @@ How'd I get here this time?
 Little:
 <$0D>
 //\n俺を連れてきたのか？
+\n
 Did YOU drag me here?
 <$00>
 

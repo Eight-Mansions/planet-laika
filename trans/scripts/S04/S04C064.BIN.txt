@@ -44,7 +44,7 @@ Madam Agatha:
 <$0D>
 //\n私が先に入るわ。 後に続いて。
 \n
-I'll go in first. You should follow.
+This is our stop. Come along.
 <$00>
 
 // Pos: 00002192
@@ -59,7 +59,7 @@ Madam Agatha:
 <$0D>
 //\n私が先に入るわ。 後に続いて。
 \n
-I'll go in first. You should follow.
+This is our stop. Come along.
 <$00>
 
 // Pos: 000021B2
@@ -295,11 +295,14 @@ Linda:
 <$0D>
 //\nねぇー、ここー、寝る時間でもないのに\n消灯時間ですーっていうのよー。
 \n
-You know, the bed's speaker there,\n
-calls, "LIGHTS-OUT," through the area.
+You've no doubt heard the speaker\n
+on the bed in this cell by now.
 <$0C>
-It'll do this even when\n
-it isn't time for bed.
+When it calls, "LIGHTS-OUT,"\n
+everyone in the area hears it!
+<$0C>
+What's silly is, it'll do this\n
+even when it isn't time for bed!
 <$0C><$0B>
 //リンダ：
 Linda:

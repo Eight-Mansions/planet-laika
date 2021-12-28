@@ -674,7 +674,7 @@ Silver Capsule
 //P:00011F4C
 #WRITE(PTR, $0000FCB0)
 //‚T‚Â‚Ì—aŒ¾‚ð‚µ‚Ü‚Á‚Ä‚¨‚­
-Stores the five propechies
+Stores the propechies
 <$00>
 
 //P:00011F5A

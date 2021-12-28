@@ -17,15 +17,15 @@ Laika(?):
 <$0D>
 //\nねぇ、教えてよ、\n神のさばきがくだる、それが蕃判なんだろ？
 \n
-All right, tell me. This "Judgement"\n
-business. It sounds like God's will.
+Tell me about this incoming\n
+"Judgement". Is it God's will?
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
 <$0D>
 //\nここには神がいるの？
 \n
-Does that mean God is here?
+Does that mean God exists?
 <$00>
 
 // Pos: 00002F60
@@ -40,7 +40,7 @@ White Eagle(?):
 <$0D>
 //\n神はいつもおいでじゃ。\nだがやつは、ガリルは神ではない！
 \n
-God was always here.\n
+God always existed.\n
 However, Galil, is no god!
 <$00>
 
@@ -56,8 +56,8 @@ Laika(?):
 <$0D>
 //\nガリルが神？\nすごいことになってるんだね。
 \n
-Galil really did go off the deep end,\n
-if he thought he could attain godhood.
+Galil went off the deep end if he\n
+thought he could attain godhood.
 <$00>
 
 // Pos: 00002FB3
@@ -139,8 +139,8 @@ stairway to God as we speak.
 <$0D>
 //\n得体の知れない死の情熱で、\n肉体を超えた存在になろうとしておるのじゃ。
 \n
-He means to embrace his reason for dying,\n
-and become that which exceeds the flesh.
+He will embrace his reason for dying,\n
+and become that which exceeds flesh.
 <$00>
 
 // Pos: 00003022
@@ -155,10 +155,11 @@ Laika(?):
 <$0D>
 //\n死の情熱？\nまるで自殺願望だね、それじゃ。
 \n
-And to that end, that was his reason\n
-for dying?
+Does anyone have a "reason\n
+for dying"?
 <$0C>
-It sounds like he had a suicidal ideation.
+That sounds more like suicidal\n
+ideation to me.
 <$00>
 
 // Pos: 0000304B
@@ -180,8 +181,8 @@ White Eagle(?):
 <$0D>
 //\n心の悪のそのすべてを浄化したとき、\n永遠の存在になるというのじゃ。
 \n
-When one purifies their mind of all evil,\n
-some say he becomes an eternal existence.
+When one purifies their mind of evil,\n
+they become an eternal existence.
 <$00>
 
 // Pos: 000030A4
@@ -227,8 +228,8 @@ White Eagle(?):
 <$0D>
 //\nガリルはユニバーサルマンから\nうばったのじゃ。
 \n
-Galil stole this power from Universal\n
-Man.
+Galil stole this power from\n
+Universal Man.
 <$00>
 
 // Pos: 0000313D
@@ -251,7 +252,8 @@ White Eagle(?):
 <$0D>
 //\nこの力をお前にさずけよう。
 \n
-I give this ounce of power to you.
+I give this last morsel of\n
+power to you.
 <$00>
 
 // Pos: 00003187
@@ -289,29 +291,29 @@ White Eagle(?):
 <$0D>
 //\nお前の心に積もった悪をな。
 \n
-The evil that has accumulated in\n
-one's mind, that is.
+It rips out the evil that has\n
+accumulated in one's mind.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
 \n
-But you cannot use it on your self.\n
+But you cannot use it alone.\n
 <$0C>
-There needs to be someone into\n
-whom that evil is transferred
+There needs to be someone else\n
+into whom that evil is transferred.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\n心が弱い相手じゃと、ふほ…\nおかしくなってしまうかも知れないのう。
 \n
-It takes someone of strong mind to\n
-withstand it.
+It takes someone of strong mind\n
+to withstand it.
 <$0C>
-You don't want to make\n
-people sick, do you?
+If one's mind is weak, the\n
+transfer will make them sick.
 <$00>
 
 // Pos: 0000325D
@@ -326,8 +328,8 @@ Laika(?):
 <$0D>
 //\n人をギセイにするんだ…\nその人はおかしくなるの？
 \n
-So, I'd be pushing my evil onto\n
-someone else? And making them sick?
+I'd be pushing evil onto someone\n
+else, and making them sick?
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
@@ -357,8 +359,8 @@ White Eagle(?):
 <$0D>
 //\nその力はやがて役に立つじゃろうて。\nふほふほ。
 \n
-But, even if that is a risk, you will\n
-need to use this power soon enough.
+But, knowing that is a risk, you will\n
+still need to use this power soon.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
@@ -465,16 +467,16 @@ Laika(?):
 \n
 If that's the case...
 <$0C>
-I suppose Galil perceives him self\n
-as the "pure good" one of the two.
+I suppose Galil believes he is\n
+the "pure good" one of the two.
 <$0C><$0B>
 //ライカ…？：
 Laika(?):
 <$0D>
 //\nすごいや、それで光の私なんだ。\n輝いてるんだ。
 \n
-That explains his, "I am the light,"\n
-statement and the bursts around the Face.
+That explains his "I am the light,"\n
+statement and the lights everywhere.
 <$00>
 
 // Pos: 00003483
@@ -525,8 +527,8 @@ Laika(?):
 \n
 I see...
 <$0C>
-The rising Black Rider we saw earlier\n
-must be another pawn in the prophecy.
+The rising Black Rider we saw must\n
+be another pawn in the prophecy.
 <$00>
 
 // Pos: 0000354E
@@ -574,7 +576,7 @@ Laika(?):
 //\n銀のカプセル… 確か記憶の谷で…
 \n
 A silver capsule, got it.\n
-I found one in Memory Valley.
+I found one in the valley.
 <$0C><$0B>
 //ライカ…？：
 Laika(?):

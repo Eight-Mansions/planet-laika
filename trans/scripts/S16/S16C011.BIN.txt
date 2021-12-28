@@ -25,18 +25,19 @@ White Eagle:
 <$0D>
 //\nほうほう、３人の悪夢がつながっておるのう。\nトミー、マラケシュ、ヤング…
 \n
-Actually, it's three nightmares\n
+Actually, three nightmares\n
 tethered into one:
 <$0C>
-Tommy's, Marrakech's, and Yang's!
+This nightmare is Tommy,\n
+Marrakech and Young's!
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nトミーには会ったのう。\nあとニ人はどこじゃ？
 \n
-You must've seen Tommy by now,\n
-but where are the other two?
+If you've seen Tommy by now,\n
+where are the other two?
 <$00>
 
 // Pos: 00000665
@@ -51,8 +52,8 @@ White Eagle:
 <$0D>
 //\nトミーには会ったのう。 あとニ人じゃ。\nマラケシュにヤングじゃ。
 \n
-You must've seen Tommy by now,\n
-but where are Marrakech and Yang?
+If you've seen Tommy by now,\n
+where are Marrakech and Young?
 <$00>
 
 // Pos: 00000695
@@ -75,7 +76,7 @@ White Eagle:
 //\nこれでお前もこの悪夢の住人になったぞ。\nようやくな、ふほ。
 \n
 In doing that, you too are now a\n
-tethered dweller of nightmares.
+bound dweller of this nightmare.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:

@@ -3,6 +3,15 @@
 #ACTIVETBL(Table)
 #VAR(PTR, CUSTOMPOINTER)
 #CREATEPTR(PTR, "LINEAR", -2149613568, 32)
+
+// Enable small b for naming screen
+#JMP($00003116)
+<$01>
+
+// Enable small d for naming screen
+#JMP($00003118)
+<$01>
+
 #JMP($00003958)
 
 // Pos: 00003324
@@ -463,7 +472,7 @@ c
 #WHB(PTR, $00002F9D)
 
 //Å¶
-b
+d
 <$00>
 
 // Pos: 000037B6

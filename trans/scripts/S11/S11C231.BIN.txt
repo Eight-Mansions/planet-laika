@@ -90,7 +90,7 @@ Red:
 //\nフェイ、薬だ、薬をくれ。
 \n
 Feng, I need medicine.\n
-Give me the the medicine!
+Give me the medicine!
 <$00>
 
 // Pos: 000022DC
@@ -177,7 +177,7 @@ Red:
 I'm sure everyone's telling you\n
 about the "Judgement Day" rumors.
 <$0C>
-I'm not minding it.
+Rumors mean nothing to me.
 <$0C><$0B>
 //レッド：
 Red:
@@ -232,9 +232,9 @@ is satisfied already.
 Red:
 <$0D>
 //\nまだだ。もっとよくなるはずだ、そうだろ？
-/\n
-Then he's wrong. His face deserves\n
-to be better, doesn't it?
+\n
+Then he's wrong. He DESERVES\n
+the very best face, doesn't he?
 <$00>
 
 // Pos: 00002429
@@ -250,7 +250,7 @@ Feng:
 //\n蕃判には十分よ。
 \n
 In the eyes of Judgement,\n
-he is adequate.
+his face is adequate.
 <$00>
 
 // Pos: 0000243D
@@ -265,7 +265,7 @@ Red:
 <$0D>
 //\nおい、余計なこと言うんじゃない！\nまたあいつを連れてくるからな。
 \n
-All that yippin' won't do your face any\n
+All this yippin' won't do his face any\n
 good, Feng. I'm bringing him in again!
 <$00>
 

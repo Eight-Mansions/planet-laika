@@ -25,10 +25,11 @@ Feng:
 <$0D>
 //\n悪口言う人もあるけど、そんな人は\n無理してるだけなのよ。
 \n
-Some people speak ill of them, yes,\n
-but such folks don't want to be
+Indeed, there are people who do\n
+speak ill of Vanity Face...
 <$0C>
-reasoned with.
+...but I don't bother reasoning\n
+with such hopeless individuals.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -69,8 +70,8 @@ Sammy:
 <$0D>
 //\nゴールドに開いたわよ。\nあなた、騒ぎ起こしたんですって。\nそれも相手はスモーキー…
 \n
-More importantly, Gold told me that\n
-you got into a tussle with Smokey.
+More importantly, Gold told me\n
+you butted heads with Smokey.
 <$0C><$0B>
 //サミー：
 Sammy:
@@ -78,7 +79,7 @@ Sammy:
 //\nイヤね、まったく。\nどうかしてるのよ… 特に今夜は変よ。
 \n
 People these days... All out here,\n
-acting like it's a full moon
+acting like it's a full moon.
 <$0C>
 They just wait for an\n
 excuse to go crazy.
@@ -132,8 +133,8 @@ with him, a-nope.
 Sammy:
 <$0D>
 //\nそうね…目かな。 目、目が建うの。\n遠くからだけど分かる、ほんとよ。
-\nThe eyes... They're real...
-You can see them from a mile away.
+\nThe eyes are real... They're\n
+distant, but I know they're there.
 <$1E><$01><$08><$00>
 
 // Pos: 00002035
@@ -180,8 +181,8 @@ Tommy:
 <$0D>
 //\nあの女は催眠術を使う、危ねぇんだ、\nようよう、頭ん中、ぐらぐらにされるぞ。
 \n
-Her hypnotherapy will mess with\n
-you just as good, a-yup. Be careful.
+Her hypnotherapy will mess you\n
+up real good, a-yup. Be careful.
 <$1E><$02><$08><$00>
 
 // Pos: 000020FA
@@ -192,7 +193,7 @@ you just as good, a-yup. Be careful.
 
 <$10><$0B>
 //ヤング：
-Yang:
+Young:
 <$0D>
 //\nお前、おっかないの、好きなのか？\nあの女は魔女だ、催眠術使いだ。
 \n
@@ -208,7 +209,7 @@ Like that hypnotherapist?
 
 <$10><$0B>
 //ヤング：
-Yang:
+Young:
 <$0D>
 //\nあの女にかかると、誰でもいいなりだ、\nなされるがままだ、ひゃ！おっかないぞ。
 \n
@@ -224,7 +225,7 @@ everyone's doing what she asks!
 
 <$10><$0B>
 //ヤング：
-Yang:
+Young:
 <$0D>
 //\nさっきから無線テレビが点いたり消えたり、\nそれもアガタの魔術だろ。
 \n
@@ -235,7 +236,7 @@ I bet that's from\n
 Agatha's witchcraft too.
 <$0C><$0B>
 //ヤング：
-Yang:
+Young:
 <$0D>
 //\n点いたり消えたり、放送なんかしてないのに、\nおっかないぞ。
 \n
@@ -251,7 +252,7 @@ isn't even broadcasting anything!
 
 <$10><$0B>
 //ヤング：
-Yang:
+Young:
 <$0D>
 //\n俺たちはな、宇宙の力だ、\n波動の中にいるからな、それが本気なんだ。
 \n
@@ -259,7 +260,7 @@ We don't need magic hoo-ha when we\n
 have the powers of outer space.
 <$0C><$0B>
 //ヤング：
-Yang:
+Young:
 <$0D>
 //\n魔術なんかにはたよらない。宇宙の波動だ。
 \n
@@ -275,7 +276,7 @@ that's all I'll ever need.
 
 <$11><$0B>
 //ヤング：
-Yang:
+Young:
 <$0D>
 //\nあいつらも波動を惑じはじめたのか？\nなぁ、どう思う…イーストとウェストだ、\nうろちょろしてたぞ。
 \n

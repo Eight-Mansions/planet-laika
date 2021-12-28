@@ -17,8 +17,8 @@ Liever:
 <$0D>
 //\n最近、夜でも砂嵐が襲って来るんだ。
 \n
-Lately, you've been assailed by\n
-sandstorms, even in the nighttime.
+Mars has been been assailed by\n
+sandstorms, even at nighttime.
 <$00>
 
 // Pos: 00000DC7
@@ -33,8 +33,8 @@ Yolanda:
 <$0D>
 //\n今は大丈夫よ。\nあら…あなた、アタシの知ってる人？
 \n
-Oh, I'm fine. I'm only...\n
-Sorry, do you know me?
+The weather's fine now, but...\n
+Sorry, have we met?
 <$00>
 
 // Pos: 00000DF1
@@ -193,9 +193,9 @@ Liever:
 <$0D>
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。\n分かるよね。
 \n
-Meet me down in the underground canal.
+Meet me in the underground canal.
 <$0C>
-Take the entrance on Brick Road,\n
-just before entering the colony.
+Take a right turn on Brick Road.
+I'll be near the rescue dog.
 <$00>
 
