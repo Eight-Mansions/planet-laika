@@ -4,6 +4,8 @@ xcopy /e orig\* ins
 
 echo ins\S00\S00C000.BIN >> error.txt
 tools\atlas ins\S00\S00C000.BIN trans\scripts\S00\S00C000.BIN.txt >> error.txt
+echo ins\S00\S00C011.BIN >> error.txt
+tools\atlas ins\S00\S00C011.BIN trans\scripts\S00\S00C011.BIN.txt >> error.txt
 echo ins\S01\S01C011.BIN >> error.txt
 tools\atlas ins\S01\S01C011.BIN trans\scripts\S01\S01C011.BIN.txt >> error.txt
 echo ins\S01\S01C013.BIN >> error.txt
@@ -64,6 +66,8 @@ echo ins\S02\S02C152.BIN >> error.txt
 tools\atlas ins\S02\S02C152.BIN trans\scripts\S02\S02C152.BIN.txt >> error.txt
 echo ins\S02\S02C161.BIN >> error.txt
 tools\atlas ins\S02\S02C161.BIN trans\scripts\S02\S02C161.BIN.txt >> error.txt
+echo ins\S02\S02C201.BIN >> error.txt
+tools\atlas ins\S02\S02C201.BIN trans\scripts\S02\S02C201.BIN.txt >> error.txt
 echo ins\S03\S03C011.BIN >> error.txt
 tools\atlas ins\S03\S03C011.BIN trans\scripts\S03\S03C011.BIN.txt >> error.txt
 echo ins\S03\S03C012.BIN >> error.txt
@@ -166,6 +170,8 @@ echo ins\S04\S04C081.BIN >> error.txt
 tools\atlas ins\S04\S04C081.BIN trans\scripts\S04\S04C081.BIN.txt >> error.txt
 echo ins\S04\S04C084.BIN >> error.txt
 tools\atlas ins\S04\S04C084.BIN trans\scripts\S04\S04C084.BIN.txt >> error.txt
+echo ins\S04\S04C085.BIN >> error.txt
+tools\atlas ins\S04\S04C085.BIN trans\scripts\S04\S04C085.BIN.txt >> error.txt
 echo ins\S04\S04C087.BIN >> error.txt
 tools\atlas ins\S04\S04C087.BIN trans\scripts\S04\S04C087.BIN.txt >> error.txt
 echo ins\S04\S04C091.BIN >> error.txt
@@ -322,6 +328,8 @@ echo ins\S10\S10C081.BIN >> error.txt
 tools\atlas ins\S10\S10C081.BIN trans\scripts\S10\S10C081.BIN.txt >> error.txt
 echo ins\S11\S11C131.BIN >> error.txt
 tools\atlas ins\S11\S11C131.BIN trans\scripts\S11\S11C131.BIN.txt >> error.txt
+echo ins\S11\S11C137.BIN >> error.txt
+tools\atlas ins\S11\S11C137.BIN trans\scripts\S11\S11C137.BIN.txt >> error.txt
 echo ins\S11\S11C141.BIN >> error.txt
 tools\atlas ins\S11\S11C141.BIN trans\scripts\S11\S11C141.BIN.txt >> error.txt
 echo ins\S11\S11C147.BIN >> error.txt
@@ -336,6 +344,8 @@ echo ins\S11\S11C177.BIN >> error.txt
 tools\atlas ins\S11\S11C177.BIN trans\scripts\S11\S11C177.BIN.txt >> error.txt
 echo ins\S11\S11C178.BIN >> error.txt
 tools\atlas ins\S11\S11C178.BIN trans\scripts\S11\S11C178.BIN.txt >> error.txt
+echo ins\S11\S11C187.BIN >> error.txt
+tools\atlas ins\S11\S11C187.BIN trans\scripts\S11\S11C187.BIN.txt >> error.txt
 echo ins\S11\S11C197.BIN >> error.txt
 tools\atlas ins\S11\S11C197.BIN trans\scripts\S11\S11C197.BIN.txt >> error.txt
 echo ins\S11\S11C211.BIN >> error.txt
@@ -374,6 +384,8 @@ echo ins\S12\S12C061.BIN >> error.txt
 tools\atlas ins\S12\S12C061.BIN trans\scripts\S12\S12C061.BIN.txt >> error.txt
 echo ins\S12\S12C071.BIN >> error.txt
 tools\atlas ins\S12\S12C071.BIN trans\scripts\S12\S12C071.BIN.txt >> error.txt
+echo ins\S12\S12C081.BIN >> error.txt
+tools\atlas ins\S12\S12C081.BIN trans\scripts\S12\S12C081.BIN.txt >> error.txt
 echo ins\S12\S12C091.BIN >> error.txt
 tools\atlas ins\S12\S12C091.BIN trans\scripts\S12\S12C091.BIN.txt >> error.txt
 echo ins\S13\S13C031.BIN >> error.txt
@@ -488,6 +500,8 @@ echo ins\S99\S99C011.BIN >> error.txt
 tools\atlas ins\S99\S99C011.BIN trans\scripts\S99\S99C011.BIN.txt >> error.txt
 echo ins\S99\S99C041.BIN >> error.txt
 tools\atlas ins\S99\S99C041.BIN trans\scripts\S99\S99C041.BIN.txt >> error.txt
+echo ins\S99\S99C051.BIN >> error.txt
+tools\atlas ins\S99\S99C051.BIN trans\scripts\S99\S99C051.BIN.txt >> error.txt
 echo ins\S99\S99C071.BIN >> error.txt
 tools\atlas ins\S99\S99C071.BIN trans\scripts\S99\S99C071.BIN.txt >> error.txt
 echo ins\S99\S99C081.BIN >> error.txt
@@ -500,5 +514,7 @@ echo ins\S99\S99C121.BIN >> error.txt
 tools\atlas ins\S99\S99C121.BIN trans\scripts\S99\S99C121.BIN.txt >> error.txt
 echo ins\S99\S99C981.BIN >> error.txt
 tools\atlas ins\S99\S99C981.BIN trans\scripts\S99\S99C981.BIN.txt >> error.txt
+echo ins\S99\S99C991.BIN >> error.txt
+tools\atlas ins\S99\S99C991.BIN trans\scripts\S99\S99C991.BIN.txt >> error.txt
 
 tools\planet_laika_bin_size_update.exe ins
