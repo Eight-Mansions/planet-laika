@@ -11,6 +11,14 @@ TextDrawFlagsArea: equ 0x800F1000
 .org 0x80023e5c
 	nop
 
+; --------------------------- Centering code for items?----------------------
+
+; Force it to use whatever length the text is regardless of how it should be centered (we don't care about centering ;_;)
+.org 0x8001e93c
+	;SLT     00000013 (v0), 00000002 (s3), 00000013 (a2),
+	slt v0, a2, a2
+; ---------------------------------------------------------------------------	
+
 ; --------------------------- Text Flag Area Code ---------------------------
 ; Clear text flag area
 .org 0x8001cf40
