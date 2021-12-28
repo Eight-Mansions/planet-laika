@@ -358,6 +358,14 @@ Ernie? Jo? ...Hello!
 
 #WHB(PTR, $00000705)
 
+#WLB(PTR, $00001A72)
+
+#WHB(PTR, $00001A73)
+
+#WLB(PTR, $00001B32)
+
+#WHB(PTR, $00001B33)
+
 <$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
