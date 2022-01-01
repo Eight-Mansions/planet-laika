@@ -27,10 +27,6 @@ Is this...the Promised Land?
 
 #WHB(PTR, $0000022D)
 
-#WLB(PTR, $00002282)
-
-#WHB(PTR, $00002283)
-
 <$10><$0B>
 //リトル：
 Little:
@@ -59,10 +55,6 @@ nightmares, Little!
 #WLB(PTR, $0000028C)
 
 #WHB(PTR, $0000028D)
-
-#WLB(PTR, $00002486)
-
-#WHB(PTR, $00002487)
 
 <$10><$0B>
 //リトル：
@@ -230,17 +222,7 @@ Blue Stone acquired.
 
 #WHB(PTR, $00002A51)
 
-
-<$00>
-
-// Pos: 00002E33
-
-#WLB(PTR, $000022A6)
-
-#WHB(PTR, $000022A7)
-
-
-<$00>
+<$00><$00>
 
 // Pos: 00002E34
 
@@ -262,14 +244,6 @@ Marrakech Flower
 <$00>
 
 // Pos: 00002E40
-
-#WLB(PTR, $0000272A)
-
-#WHB(PTR, $0000272B)
-
-#WLB(PTR, $00002742)
-
-#WHB(PTR, $00002743)
 
 #WLB(PTR, $00002A5C)
 
@@ -301,14 +275,6 @@ A scary evening?
 
 // Pos: 00002E60
 
-#WLB(PTR, $00002786)
-
-#WHB(PTR, $00002787)
-
-#WLB(PTR, $000027A6)
-
-#WHB(PTR, $000027A7)
-
 #WLB(PTR, $00002A68)
 
 #WHB(PTR, $00002A69)
@@ -318,10 +284,6 @@ Crow Dream
 <$00>
 
 // Pos: 00002E68
-
-#WLB(PTR, $00002446)
-
-#WHB(PTR, $00002447)
 
 #WLB(PTR, $00002A6C)
 
@@ -700,14 +662,6 @@ Boosts wisdom
 
 // Pos: 00002FA6
 
-#WLB(PTR, $000019EA)
-
-#WHB(PTR, $000019EB)
-
-#WLB(PTR, $0000235A)
-
-#WHB(PTR, $0000235B)
-
 #WLB(PTR, $00002B00)
 
 #WHB(PTR, $00002B01)
@@ -737,26 +691,6 @@ V Capsule
 <$00>
 
 // Pos: 00002FBE
-
-#WLB(PTR, $000016AA)
-
-#WHB(PTR, $000016AB)
-
-#WLB(PTR, $0000183A)
-
-#WHB(PTR, $0000183B)
-
-#WLB(PTR, $00001A02)
-
-#WHB(PTR, $00001A03)
-
-#WLB(PTR, $00001E52)
-
-#WHB(PTR, $00001E53)
-
-#WLB(PTR, $0000232E)
-
-#WHB(PTR, $0000232F)
 
 #WLB(PTR, $00002B0C)
 
