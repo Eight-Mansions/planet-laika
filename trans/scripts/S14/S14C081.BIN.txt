@@ -27,22 +27,6 @@ but what's all the racket for?
 
 #WHB(PTR, $00000181)
 
-#WLB(PTR, $0000098E)
-
-#WHB(PTR, $0000098F)
-
-#WLB(PTR, $00000A0A)
-
-#WHB(PTR, $00000A0B)
-
-#WLB(PTR, $00000A3A)
-
-#WHB(PTR, $00000A3B)
-
-#WLB(PTR, $00000A6A)
-
-#WHB(PTR, $00000A6B)
-
 <$10><$0B>
 //ゴールドマン：
 Goldman:

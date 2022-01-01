@@ -127,23 +127,7 @@ Bull:
 \n
 Hmph, on top of everything else\n
 I hate...I hate my self.
-<$00>
-
-// Pos: 000027B1
-
-#WLB(PTR, $00000802)
-
-#WHB(PTR, $00000803)
-
-#WLB(PTR, $0000082E)
-
-#WHB(PTR, $0000082F)
-
-#WLB(PTR, $0000083A)
-
-#WHB(PTR, $0000083B)
-
-<$10><$0B>
+<$00><$10><$0B>
 //ÉuÉãÅF
 Bull:
 <$0D>
