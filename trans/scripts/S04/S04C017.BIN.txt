@@ -31,10 +31,6 @@ No
 
 // Pos: 00002E40
 
-#WLB(PTR, $000001E6)
-
-#WHB(PTR, $000001E7)
-
 #WLB(PTR, $000019CC)
 
 #WHB(PTR, $000019CD)
@@ -194,10 +190,6 @@ evil will taint a person.
 
 // Pos: 00002FB4
 
-#WLB(PTR, $000007DE)
-
-#WHB(PTR, $000007DF)
-
 #WLB(PTR, $00001598)
 
 #WHB(PTR, $00001599)
@@ -205,26 +197,6 @@ evil will taint a person.
 #WLB(PTR, $0000160C)
 
 #WHB(PTR, $0000160D)
-
-#WLB(PTR, $00001FFE)
-
-#WHB(PTR, $00001FFF)
-
-#WLB(PTR, $000020B6)
-
-#WHB(PTR, $000020B7)
-
-#WLB(PTR, $000024FA)
-
-#WHB(PTR, $000024FB)
-
-#WLB(PTR, $0000267A)
-
-#WHB(PTR, $0000267B)
-
-#WLB(PTR, $000027D2)
-
-#WHB(PTR, $000027D3)
 
 <$12><$0B>
 //ノーブルロック：
