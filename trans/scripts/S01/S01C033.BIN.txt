@@ -93,14 +93,6 @@ triggering these hallucinations.
 
 #WHB(PTR, $000008B1)
 
-#WLB(PTR, $00001F76)
-
-#WHB(PTR, $00001F77)
-
-#WLB(PTR, $00001F8E)
-
-#WHB(PTR, $00001F8F)
-
 <$02>
 //先生、オクトーバー先生！\nお願いします、
 Doctor! Doctor October, please!\nSave 
@@ -216,75 +208,7 @@ Ernest:
 \n
 Could've fooled me. I've never seen\n
 hair like that before.
-<$00>
-
-// Pos: 00002FA0
-
-#WLB(PTR, $00000796)
-
-#WHB(PTR, $00000797)
-
-#WLB(PTR, $0000079A)
-
-#WHB(PTR, $0000079B)
-
-#WLB(PTR, $0000079E)
-
-#WHB(PTR, $0000079F)
-
-#WLB(PTR, $0000080E)
-
-#WHB(PTR, $0000080F)
-
-#WLB(PTR, $00000812)
-
-#WHB(PTR, $00000813)
-
-#WLB(PTR, $00000816)
-
-#WHB(PTR, $00000817)
-
-#WLB(PTR, $00000886)
-
-#WHB(PTR, $00000887)
-
-#WLB(PTR, $0000088A)
-
-#WHB(PTR, $0000088B)
-
-#WLB(PTR, $0000088E)
-
-#WHB(PTR, $0000088F)
-
-#WLB(PTR, $00000A1A)
-
-#WHB(PTR, $00000A1B)
-
-#WLB(PTR, $000022AA)
-
-#WHB(PTR, $000022AB)
-
-#WLB(PTR, $000022CE)
-
-#WHB(PTR, $000022CF)
-
-#WLB(PTR, $000024E6)
-
-#WHB(PTR, $000024E7)
-
-#WLB(PTR, $000024EA)
-
-#WHB(PTR, $000024EB)
-
-#WLB(PTR, $000024EE)
-
-#WHB(PTR, $000024EF)
-
-#WLB(PTR, $00002586)
-
-#WHB(PTR, $00002587)
-
-<$13><$13><$13><$0B>
+<$00><$13><$13><$13><$0B>
 //フェニックス：
 Phoenix:
 <$0D>

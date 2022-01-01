@@ -13,20 +13,12 @@
 
 <$11><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nダメだ、ゲートが開かない！だんぜん開かない、\nああ、俺じゃ力がたりない、\nお前、貸せ、シー。
-\n
-Can't open gate, whoosh! I don't\n
-have power, whoosh! Go get power!
 <$0C><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nさあ、貸せ、力だ、\n俺じゃ足りない、シーシー。
-\n
-Can't do alone.\n
-Need your power, whoosh...
 <$00>
 
 // Pos: 00001B1F
@@ -37,20 +29,12 @@ Need your power, whoosh...
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nなんだ、お前は？ シー、それでどうする？\nシー。なさそうだ、力、
-\n
-Where do you look, whoosh?\n
-Help me, whoosh? Need power!
 <$0C><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nお前、ダメだ、力、あるのか、ないのか、\nあるのか、ないんだないんだ！ 力、シー。
-\n
-Not YOU, whoosh! Don't have power!\n
-We need power, whoosh!
 <$1E><$01><$0C><$00>
 
 // Pos: 00001B8E
@@ -61,20 +45,12 @@ We need power, whoosh!
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nお前、ない、力、ないないないないない、\nシーシーシー。
-\n
-You can't help! No power, power,\n
-power! Whoosh, whoosh, whoosh!
 <$0C><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\n力、力、力だ、\n力のためには協力をおしまないぞ、シー。
-\n
-Work together! Find power\n
-and use it, whoosh!
 <$1E><$01><$04><$00>
 
 // Pos: 00001BEF
@@ -85,11 +61,8 @@ and use it, whoosh!
 
 <$10><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\n開かねぇのか？
-\n
-Need a hand?
 <$00>
 
 // Pos: 00001C04
@@ -100,11 +73,8 @@ Need a hand?
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\n…さっきと同じやつ？\nシー…
-\n
-...You changed, whoosh?
 <$00>
 
 // Pos: 00001C24
@@ -115,12 +85,8 @@ Oxygen Miner 1：
 
 <$10><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\nさっきって何だ？\n俺はお前なんか知らねぇ。煙が出てきたぜ。
-\n
-Different how? I don't know what\n
-you're up in a puff over.
 <$00>
 
 // Pos: 00001C51
@@ -131,11 +97,8 @@ you're up in a puff over.
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\n煙…燃えてる…シー。
-\n
-Smoke and fire...puff, whoosh.
 <$00>
 
 // Pos: 00001C6E
@@ -146,12 +109,8 @@ Smoke and fire...puff, whoosh.
 
 <$10><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\n火事かよ…ついてねぇぜ、まったく。\nそこどきな！
-\n
-A fire? Not sure what you're talking\n
-about. Color me out of the loop.
 <$00>
 
 // Pos: 00001C95
@@ -162,11 +121,8 @@ about. Color me out of the loop.
 
 <$10><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\nさあ、開いたぜ。
-\n
-...Whatever, let me open this.
 <$00>
 
 // Pos: 00001CAB
@@ -177,11 +133,8 @@ Ernest:
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\n礼だ、シー。
-\n
-Ankh, whoosh.
 <$00>
 
 // Pos: 00001CC3
@@ -192,11 +145,8 @@ Ankh, whoosh.
 
 <$10><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\n礼はどうした。
-\n
-What's "ankh"?
 <$00>
 
 // Pos: 00001CD8
@@ -207,19 +157,12 @@ What's "ankh"?
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nこれが礼だ、言った、今。
-\n
-Ankh you very much.
 <$0C><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nこれも返してやる、さっきひろったんだ。\nお前かあの若い女が落とした物だ。
-\n
-You or other girl dropped this.\n
-Take it back.
 <$00>
 
 // Pos: 00001D30
@@ -232,13 +175,10 @@ Take it back.
 //：
 <$11><$01>
 //\n
-\n
 <$0B>
 //    
-    
 <$0D>
 //銀のカプセルを手に入れた。
-Silver Capsule acquired.
 <$0E><$3C><$17><$00>
 
 // Pos: 00001D50
@@ -249,8 +189,6 @@ Silver Capsule acquired.
 
 <$10>
 //アイテムがいっぱいです。\nどれか、捨てるアイテムを選んでください。
-The item bag is full!\n
-Select an item to discard.
 <$0E><$1E><$17><$00>
 
 // Pos: 00001D78
@@ -261,8 +199,6 @@ Select an item to discard.
 
 <$10>
 //それは、捨てられません。\nもう一度、アイテムを選んでください。
-That item cannot be discarded.\n
-Please try again.
 <$0E><$1E><$17><$00>
 
 // Pos: 00001DA0
@@ -273,12 +209,8 @@ Please try again.
 
 <$11><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\n何だこりゃ？ 銀のカプセル…まあいい、\nもらっておくぜ。\nそれにしてもどうなっちまったんだ、ここは？
-\n
-What's this silver capsule? I'll take\n
-it, but seriously, what happened here?
 <$00>
 
 // Pos: 00001DE0
@@ -289,12 +221,8 @@ it, but seriously, what happened here?
 
 <$11><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nヌーン町長が町を作った、\nその町が火事になった、\n燃えてる、シーシー。
-\n
-Elder Noon made town. Caught fire\n
-and burned, whoosh, whoosh.
 <$00>
 
 // Pos: 00001E1C
@@ -305,14 +233,8 @@ and burned, whoosh, whoosh.
 
 <$10><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\n火事…おい、あのこおった野郎は誰だ？
-\n
-A fire, huh... 
-<$0C>
-Speaking of natural disasters,\n
-who's the big frozen guy down here?
 <$00>
 
 // Pos: 00001E40
@@ -323,14 +245,8 @@ who's the big frozen guy down here?
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nアイスマンだ、ユニバーサルマンの分身、\n死の動機に憑かれてる、シーシー。
-\n
-Ice Man, whoosh. Universal Man's\n
-alter ego, whoosh, whoosh.
-<$0C>
-Had reason for dying.
 <$00>
 
 // Pos: 00001E7A
@@ -341,11 +257,8 @@ Had reason for dying.
 
 <$10><$13><$13><$0B>
 //アーネスト：
-Ernest:
 <$0D>
 //\n何で火事になったんだ？
-\n
-What caused the fire?
 <$00>
 
 // Pos: 00001E94
@@ -356,11 +269,8 @@ What caused the fire?
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\n火がついたからだ、シー。
-\n
-Fire did, whoosh.
 <$00>
 
 // Pos: 00001EB2
@@ -371,11 +281,8 @@ Fire did, whoosh.
 
 <$12><$13><$18><$0B>
 //スペーサー：
-Spacer:
 <$0D>
 //\nどうした？何があったんだ？
-\n
-Huh? What happened?
 <$00>
 
 // Pos: 00001ECC
@@ -386,11 +293,8 @@ Huh? What happened?
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nさっきのやつ…シー。
-\n
-You changed, whoosh?
 <$00>
 
 // Pos: 00001EE7
@@ -401,12 +305,8 @@ You changed, whoosh?
 
 <$12><$13><$18><$0B>
 //スペーサー：
-Spacer:
 <$0D>
 //\nここはアイスレイクだな。\n凍った酸索が溶けだしている。
-\n
-The frozen oxygenite is\n
-starting to melt down.
 <$00>
 
 // Pos: 00001F13
@@ -417,12 +317,8 @@ starting to melt down.
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。\nお前…ダメだ、力ない、シー、全然ない！
-\n
-Gate open, whoosh!\n
-Not you, whoosh! Need...power!
 <$00>
 
 // Pos: 00001F47
@@ -433,11 +329,8 @@ Not you, whoosh! Need...power!
 
 <$12><$13><$18><$0B>
 //スペーサー：
-Spacer:
 <$0D>
 //\nゲートが開かないんだな。
-\n
-I see the gate won't open.
 <$00>
 
 // Pos: 00001F61
@@ -448,11 +341,8 @@ I see the gate won't open.
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nお前、全然ダメ、力ないない、シー！
-\n
-You won't help! No power, whoosh!
 <$00>
 
 // Pos: 00001F86
@@ -463,12 +353,8 @@ You won't help! No power, whoosh!
 
 <$12><$13><$1D><$0B>
 //ヨランダ：
-Yolanda:
 <$0D>
 //\n何よここ、ううう、寒い！
-\n
-What is this place?\n
-God, it's cold!
 <$00>
 
 // Pos: 00001F9F
@@ -479,12 +365,8 @@ God, it's cold!
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。お前…ダメだ、\n見たところあまり力ない、シー、あまりない！
-\n
-Gate open, whoosh! Not you, whoosh!\n
-Must go find...power!
 <$00>
 
 // Pos: 00001FDA
@@ -495,12 +377,8 @@ Must go find...power!
 
 <$12><$13><$1D><$0B>
 //ヨランダ：
-Yolanda:
 <$0D>
 //\nいいから早く出してよ、凍えちゃうじゃない！
-\n
-Just get me out of here.\n
-I'm freezing my ass off!
 <$00>
 
 // Pos: 00001FFE
@@ -511,12 +389,8 @@ I'm freezing my ass off!
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nゲート、開ける、シー。\nお前…ダメだ、力ない、シー、あんまりない！
-\n
-Gate open, whoosh! Not you,\n
-whoosh! Need...POWER!
 <$00>
 
 // Pos: 00002032
@@ -527,12 +401,8 @@ whoosh! Need...POWER!
 
 <$12><$13><$1D><$0B>
 //ヨランダ：
-Yolanda:
 <$0D>
 //\nゲート開けるのね、アタシじゃ無理ね。
-\n
-We need to open the gate, but...\n
-I'm not built for this.
 <$00>
 
 // Pos: 00002053
@@ -543,12 +413,8 @@ I'm not built for this.
 
 <$10><$0B>
 //酸索坑夫１号：
-Oxygen Miner 1：
 <$0D>
 //\nお前、ダメ、力ない、やる気ない、シー！
-\n
-You won't help!\n
-No power to help, whoosh!
 <$00>
 
 // Pos: 00002078
@@ -556,7 +422,6 @@ No power to help, whoosh!
 #WLB(PTR, $0000180C)
 
 #WHB(PTR, $0000180D)
-
 
 <$00><$00>
 
@@ -566,7 +431,6 @@ No power to help, whoosh!
 
 #WHB(PTR, $00001811)
 
-
 <$00><$00>
 
 // Pos: 0000207C
@@ -575,8 +439,8 @@ No power to help, whoosh!
 
 #WHB(PTR, $00001815)
 
-//マラケシュフラワー
-Marrakech Flower
+<$A8>
+//ラケシュフラワー
 <$00>
 
 // Pos: 00002086
@@ -585,8 +449,8 @@ Marrakech Flower
 
 #WHB(PTR, $00001819)
 
-//花の命ははかない？
-A flower, wilted?
+<$01>
+//言の命ははかない？
 <$00>
 
 // Pos: 00002092
@@ -595,8 +459,8 @@ A flower, wilted?
 
 #WHB(PTR, $0000181D)
 
-//ブーマーズナイト
-Boomer Night
+<$C9>
+//ーマーズナイト
 <$00><$00>
 
 // Pos: 0000209C
@@ -605,8 +469,8 @@ Boomer Night
 
 #WHB(PTR, $00001821)
 
-//怖い夜って？
-A scary evening?
+<$03>
+//９い夜って？
 <$00><$00>
 
 // Pos: 000020A6
@@ -615,8 +479,8 @@ A scary evening?
 
 #WHB(PTR, $00001825)
 
-//クロウドリーム
-Crow Dream
+<$91>
+//ロウドリーム
 <$00>
 
 // Pos: 000020AE
@@ -625,8 +489,8 @@ Crow Dream
 
 #WHB(PTR, $00001829)
 
-//夢の散歩者？
-A strolling dream?
+<$01><$0D>
+//の散歩者？
 <$00><$00>
 
 // Pos: 000020BA
@@ -635,8 +499,8 @@ A strolling dream?
 
 #WHB(PTR, $0000182D)
 
-//ジャニュアリー
-January
+<$BE>
+//ャニュアリー
 <$00>
 
 // Pos: 000020C2
@@ -645,8 +509,8 @@ January
 
 #WHB(PTR, $00001831)
 
-//始まりの１月
-When solemnity began?
+<$03>
+//「まりの１月
 <$00><$00>
 
 // Pos: 000020CC
@@ -655,8 +519,8 @@ When solemnity began?
 
 #WHB(PTR, $00001835)
 
-//フェブラリー
-February
+<$A5>
+//ェブラリー
 <$00><$00>
 
 // Pos: 000020D4
@@ -665,8 +529,8 @@ February
 
 #WHB(PTR, $00001839)
 
-//凍える２月
-When everything froze?
+<$02>
+//ヒえる２月
 <$00>
 
 // Pos: 000020DC
@@ -675,8 +539,8 @@ When everything froze?
 
 #WHB(PTR, $0000183D)
 
-//マーチ
-March
+<$A8>
+//ーチ
 <$00>
 
 // Pos: 000020E0
@@ -685,8 +549,8 @@ March
 
 #WHB(PTR, $00001841)
 
-//３月、芽吹く春
-When new life budded?
+<$33>
+//月、芽吹く春
 <$00><$00>
 
 // Pos: 000020EC
@@ -695,8 +559,8 @@ When new life budded?
 
 #WHB(PTR, $00001845)
 
-//メイ
-May
+<$AB>
+//イ
 <$00><$00>
 
 // Pos: 000020F0
@@ -705,8 +569,8 @@ May
 
 #WHB(PTR, $00001849)
 
-//５月、光のシーズン
-When light came down?
+<$35>
+//月、光のシーズン
 <$00>
 
 // Pos: 000020FC
@@ -715,8 +579,8 @@ When light came down?
 
 #WHB(PTR, $0000184D)
 
-//ジュン
-June
+<$BE>
+//ュン
 <$00>
 
 // Pos: 00002100
@@ -725,8 +589,8 @@ June
 
 #WHB(PTR, $00001851)
 
-//悲しみの６月
-When sadness deepened?
+<$03>
+//びしみの６月
 <$00><$00>
 
 // Pos: 0000210A
@@ -735,8 +599,8 @@ When sadness deepened?
 
 #WHB(PTR, $00001855)
 
-//ジュライ
-July
+<$BE>
+//ュライ
 <$00><$00>
 
 // Pos: 00002110
@@ -745,8 +609,8 @@ July
 
 #WHB(PTR, $00001859)
 
-//風の７月
-When breezes soothed?
+<$01>
+//ャの７月
 <$00><$00>
 
 // Pos: 00002118
@@ -755,8 +619,8 @@ When breezes soothed?
 
 #WHB(PTR, $0000185D)
 
-//オーガスト
-August
+<$8E>
+//ーガスト
 <$00>
 
 // Pos: 0000211E
@@ -765,8 +629,8 @@ August
 
 #WHB(PTR, $00001861)
 
-//寝付けない８月の夜
-When nights were longest?
+<$03>
+//ぷ付けない８月の夜
 <$00>
 
 // Pos: 0000212C
@@ -775,8 +639,8 @@ When nights were longest?
 
 #WHB(PTR, $00001865)
 
-//セプテンバー
-September
+<$97>
+//プテンバー
 <$00><$00>
 
 // Pos: 00002134
@@ -785,8 +649,8 @@ September
 
 #WHB(PTR, $00001869)
 
-//９月、実り
-When miracles were due?
+<$39>
+//月、実り
 <$00>
 
 // Pos: 0000213C
@@ -795,8 +659,8 @@ When miracles were due?
 
 #WHB(PTR, $0000186D)
 
-//ノベンバー
-November
+<$A2>
+//ベンバー
 <$00>
 
 // Pos: 00002142
@@ -805,8 +669,8 @@ November
 
 #WHB(PTR, $00001871)
 
-//冷たい朝、１１月
-When fog closed in?
+<$01>
+//ピたい朝、１１月
 <$00>
 
 // Pos: 0000214E
@@ -815,8 +679,8 @@ When fog closed in?
 
 #WHB(PTR, $00001875)
 
-//ディセンバー
-December
+<$C5>
+//ィセンバー
 <$00><$00>
 
 // Pos: 00002156
@@ -825,8 +689,8 @@ December
 
 #WHB(PTR, $00001879)
 
-//春のような１２月
-When omens were realized?
+<$F1>
+//のような１２月
 <$00>
 
 // Pos: 00002160
@@ -837,7 +701,6 @@ When omens were realized?
 
 <$08>
 //砂のシンパシー
-Sand Sympathy
 <$05><$00><$00>
 
 // Pos: 0000216C
@@ -846,8 +709,8 @@ Sand Sympathy
 
 #WHB(PTR, $00001881)
 
-//ダミアヌスを呼び出す
-Calls for Damian
+<$C2>
+//ミアヌスを呼び出す
 <$00><$00>
 
 // Pos: 0000217A
@@ -858,7 +721,6 @@ Calls for Damian
 
 <$08>
 //銀のカプセル
-Silver Capsule
 <$05><$00>
 
 // Pos: 00002184
@@ -867,8 +729,8 @@ Silver Capsule
 
 #WHB(PTR, $00001889)
 
-//５つの預言をしまう
-Stores the propechies
+<$35>
+//つの預言をしまう
 <$00><$00>
 
 // Pos: 00002190
@@ -879,7 +741,6 @@ Stores the propechies
 
 <$08>
 //赤い石
-Red Stone
 <$05><$00>
 
 // Pos: 00002198
@@ -888,8 +749,8 @@ Red Stone
 
 #WHB(PTR, $00001891)
 
-//赤い石
-Red Stone
+<$03>
+//ぴい石
 <$00>
 
 // Pos: 0000219E
@@ -900,7 +761,6 @@ Red Stone
 
 <$08>
 //青い石
-Blue Stone
 <$05><$00>
 
 // Pos: 000021A6
@@ -909,8 +769,8 @@ Blue Stone
 
 #WHB(PTR, $00001899)
 
-//青い石
-Blue Stone
+<$01>
+//ヘい石
 <$00>
 
 // Pos: 000021AC
@@ -921,7 +781,6 @@ Blue Stone
 
 <$08>
 //白い石
-White Stone
 <$05><$00>
 
 // Pos: 000021B4
@@ -930,8 +789,8 @@ White Stone
 
 #WHB(PTR, $000018A1)
 
-//白い石
-White Stone
+<$03><$16>
+//い石
 <$00>
 
 // Pos: 000021BA
@@ -942,7 +801,6 @@ White Stone
 
 <$08>
 //黄色い石
-Yellow Stone
 <$05><$00>
 
 // Pos: 000021C4
@@ -951,8 +809,8 @@ Yellow Stone
 
 #WHB(PTR, $000018A9)
 
-//黄色い石
-Yellow Stone
+<$02>
+//君色い石
 <$00>
 
 // Pos: 000021CC
@@ -963,7 +821,6 @@ Yellow Stone
 
 <$08>
 //綠の石
-Green Stone
 <$05><$00>
 
 // Pos: 000021D4
@@ -972,8 +829,8 @@ Green Stone
 
 #WHB(PTR, $000018B1)
 
-//綠の石
-Green Stone
+<$02>
+//オの石
 <$00>
 
 // Pos: 000021DA
@@ -982,8 +839,8 @@ Green Stone
 
 #WHB(PTR, $000018B5)
 
-//Pカプセル
-P Capsule
+<$EA>
+//カプセル
 <$00>
 
 // Pos: 000021E0
@@ -992,8 +849,8 @@ P Capsule
 
 #WHB(PTR, $000018B9)
 
-//知悪を増やすクスリ
-Boosts wisdom
+<$01>
+//よ悪を増やすクスリ
 <$00>
 
 // Pos: 000021EC
@@ -1002,8 +859,8 @@ Boosts wisdom
 
 #WHB(PTR, $000018BD)
 
-//Aカプセル
-A Capsule
+<$DB>
+//カプセル
 <$00>
 
 // Pos: 000021F2
@@ -1012,8 +869,8 @@ A Capsule
 
 #WHB(PTR, $000018C1)
 
-//力悪を増やすクスリ
-Boosts power
+<$02>
+//で悪を増やすクスリ
 <$00>
 
 // Pos: 000021FE
@@ -1022,8 +879,8 @@ Boosts power
 
 #WHB(PTR, $000018C5)
 
-//Vカプセル
-V Capsule
+<$F0>
+//カプセル
 <$00>
 
 // Pos: 00002204
@@ -1032,8 +889,8 @@ V Capsule
 
 #WHB(PTR, $000018C9)
 
-//欲悪を増やすクスリ
-Boosts greed
+<$03><$1B>
+//悪を増やすクスリ
 <$00>
 
 // Pos: 00002210
@@ -1042,8 +899,8 @@ Boosts greed
 
 #WHB(PTR, $000018CD)
 
-//ペキン
-Peking
+<$CF>
+//キン
 <$00>
 
 // Pos: 00002214
@@ -1052,8 +909,8 @@ Peking
 
 #WHB(PTR, $000018D1)
 
-//知悪をかなり増やせる
-Greatly boosts wisdom
+<$01>
+//よ悪をかなり増やせる
 <$00><$00>
 
 // Pos: 00002222
@@ -1062,8 +919,8 @@ Greatly boosts wisdom
 
 #WHB(PTR, $000018D5)
 
-//マルセイユ
-Marseille
+<$A8>
+//ルセイユ
 <$00>
 
 // Pos: 00002228
@@ -1072,8 +929,8 @@ Marseille
 
 #WHB(PTR, $000018D9)
 
-//力悪をかなり増やせる
-Greatly boosts power
+<$02>
+//で悪をかなり増やせる
 <$00><$00>
 
 // Pos: 00002236
@@ -1082,8 +939,8 @@ Greatly boosts power
 
 #WHB(PTR, $000018DD)
 
-//サイゴン
-Saigon
+<$94>
+//イゴン
 <$00><$00>
 
 // Pos: 0000223C
@@ -1092,8 +949,8 @@ Saigon
 
 #WHB(PTR, $000018E1)
 
-//欲悪をかなり増やせる
-Greatly boosts greed
+<$03><$1B>
+//悪をかなり増やせる
 <$00><$00>
 
 // Pos: 0000224A
@@ -1102,8 +959,8 @@ Greatly boosts greed
 
 #WHB(PTR, $000018E5)
 
-//フラッシュ
-Flash
+<$A5>
+//ラッシュ
 <$00>
 
 // Pos: 00002250
@@ -1112,8 +969,8 @@ Flash
 
 #WHB(PTR, $000018E9)
 
-//マインドスコープを中和
-Wipes the Mind Scope
+<$A8>
+//インドスコープを中和
 <$00>
 
 // Pos: 0000225E
@@ -1122,8 +979,8 @@ Wipes the Mind Scope
 
 #WHB(PTR, $000018ED)
 
-//４９
-49
+<$34>
+//９
 <$00><$00>
 
 // Pos: 00002262
@@ -1132,8 +989,8 @@ Wipes the Mind Scope
 
 #WHB(PTR, $000018F1)
 
-//惑応中の悪を増やす
-Boosts evil reception
+<$02>
+//ざ応中の悪を増やす
 <$00>
 
 // Pos: 00002270
@@ -1142,8 +999,8 @@ Boosts evil reception
 
 #WHB(PTR, $000018F5)
 
-//マジックライト
-Magic Light
+<$A8>
+//ジックライト
 <$00>
 
 // Pos: 00002278
@@ -1152,8 +1009,8 @@ Magic Light
 
 #WHB(PTR, $000018F9)
 
-//３悪いずれかを増やす
-Boosts one evil
+<$33>
+//悪いずれかを増やす
 <$00>
 
 // Pos: 00002284
@@ -1162,8 +1019,8 @@ Boosts one evil
 
 #WHB(PTR, $000018FD)
 
-//ブルースモーク
-Blue Smoke
+<$C9>
+//ルースモーク
 <$00>
 
 // Pos: 0000228C
@@ -1172,8 +1029,8 @@ Blue Smoke
 
 #WHB(PTR, $00001901)
 
-//スペーサーのEM回復
-Restores Spacer's EM
+<$96>
+//ペーサーのEM回復
 <$00><$00>
 
 // Pos: 0000229A
@@ -1182,8 +1039,8 @@ Restores Spacer's EM
 
 #WHB(PTR, $00001905)
 
-//レッドスモーク
-Red Smoke
+<$B3>
+//ッドスモーク
 <$00>
 
 // Pos: 000022A2
@@ -1192,8 +1049,8 @@ Red Smoke
 
 #WHB(PTR, $00001909)
 
-//アーネストのEM回復
-Restores Ernest's EM
+<$8A>
+//ーネストのEM回復
 <$00><$00>
 
 // Pos: 000022B0
@@ -1202,8 +1059,8 @@ Restores Ernest's EM
 
 #WHB(PTR, $0000190D)
 
-//イエロースモーク
-Yellow Smoke
+<$8B>
+//エロースモーク
 <$00><$00>
 
 // Pos: 000022BA
@@ -1212,8 +1069,8 @@ Yellow Smoke
 
 #WHB(PTR, $00001911)
 
-//ヨランダのEM回復
-Restores Yolanda's EM
+<$AF>
+//ランダのEM回復
 <$00>
 
 // Pos: 000022C6
@@ -1222,8 +1079,8 @@ Restores Yolanda's EM
 
 #WHB(PTR, $00001915)
 
-//タオゴールド
-Tao Gold
+<$99>
+//オゴールド
 <$00><$00>
 
 // Pos: 000022CE
@@ -1232,7 +1089,7 @@ Tao Gold
 
 #WHB(PTR, $00001919)
 
-//全てのEMを回復する
-Restores all EMs
+<$02><$09>
+//てのEMを回復する
 <$00>
 
