@@ -130,8 +130,7 @@ Veronica:
 
 <$0F>
 //じゃない、あんたは誰？
-\n
-...? No, that's not it.\n
+...? No.\n
 What's your name?
 <$00>
 
@@ -170,8 +169,8 @@ Veronica:
 <$0D>
 //\nねぇ、開くけどあんたは、あんただけなの？\n他にはいないの？
 \n
-I thought I heard talking, but it's\n
-only you. Are you expecting someone?
+I heard voices, but I see you're\n
+alone. Are you expecting someone?
 <$00>
 
 // Pos: 000022D8
@@ -202,8 +201,8 @@ Veronica:
 <$0D>
 //\nじゃあ、合わさったの？\nそれともはじめからひとりなの？\nねえ、どっち？
 \n
-Well, either you were you talking to\n
-someone, or were you were scheming alone.
+Well, there's either someone here,\n
+or you're scheming by your self...
 <$00>
 
 // Pos: 00002331
@@ -219,7 +218,7 @@ Spacer:
 //\n合わさる…\nどういうことだ、合わさるとは。\n私たちが合わさる…
 \n
 What? There's no scheming,\n
-we were just...
+he and I were just...
 <$00>
 
 // Pos: 00002360
@@ -235,7 +234,7 @@ Veronica:
 //\nほら、やっぱり。\nひとりじゃないんだよ。\n私たちだなんて言って…ばれてるよ。
 \n
 Gotcha! You weren't alone after all!\n
-I caught you when you said "we"!
+I caught you when you said "he"!
 <$00>
 
 // Pos: 00002393
@@ -250,16 +249,15 @@ Spacer:
 <$0D>
 //\n君は…\n君にも誰かいるのか…
 \n
-W-well, what about you, huh?\n
-What's your deal?
+W-well, what about you, huh?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nそうか！ 思い出したぞ、フェイだ、\n君はフェイのことをきらってる、\nそして取り込もうとしているんだな！
 \n
-Oh, now I remember! You don't like Feng.\n
-You're the half trying to subdue her.
+...I remember! You're with Feng!\n
+You're the half out to subdue her!
 <$00>
 
 // Pos: 000023F0
@@ -274,8 +272,8 @@ Veronica:
 <$0D>
 //\nふふふ、アタシはいいこと思いついたのよ、\nふたりがひとりになれる特別の方法を。
 \n
-Hohoho! I thought long and hard, and\n
-now, I plan to become one with her.
+Heh, there was much to consider, but\n
+personality integration is the answer.
 <$00>
 
 // Pos: 00002429
@@ -290,7 +288,8 @@ Spacer:
 <$0D>
 //\nなんだ、どうするんだ？\n教えてくれ！
 \n
-How would that work, huh? Tell me.
+Personality integration?\n
+And how does that work?
 <$00>
 
 // Pos: 00002449
@@ -304,9 +303,8 @@ How would that work, huh? Tell me.
 Veronica:
 <$0D>
 //\nアタシ、決めたの。\n吸収するのよ、あの女を、フェイを。\nアタシが見つけたやり方で！
-Simple, really. I've decided\n
-I'll absorb Feng, that woman.\n
-It's the most realistic solution.
+\nSimple, really. All I have to\n
+do is absorb the woman's spirit.
 <$00>
 
 // Pos: 00002484
@@ -321,19 +319,19 @@ Spacer:
 <$0D>
 //\nドールダンスか…
 \n
-Using the doll dance?\n
-That's it, isn't it?
+Hmmm... The medicine men control\n
+spirits using that turn-key doll.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nそうなのか、メディスンマンたちのまじないで\n人格を統合させようとしているのか…\n人格統合…
 \n
-Veronica wants to use shamanic\n
-magic to integrate with Feng.
+Will Veronica perform a doll\n
+to absorb Feng's spirit?
 <$0C>
-If the two integrate, Veronica can\n
-easily consume Feng's personality.
+Or, can personality integration\n
+be done without shamanic magic?
 <$00>
 
 // Pos: 000024D6
@@ -366,15 +364,15 @@ Spacer:
 \n
 Are you two still sleeping?
 <$0C>
-Guys, what happens in\n
-personality integration?
+Guys, what happens when\n
+personalities integrate?
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\n誰が残るんだ。\nそれとも誰も残れないのか、どうなんだ？
 \n
-Who remains, huh? Does everyone stay,\n
-or do we all disappear? Which is it?
+Who remains, huh? Would we all stay,\n
+or would we all disappear?
 <$00>
 

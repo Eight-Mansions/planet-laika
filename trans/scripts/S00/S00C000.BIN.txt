@@ -282,7 +282,7 @@ Reading data...
 //P:000112F6
 #WRITE(PTR, $0000FBB0)
 //ÉçÅ[ÉhÇµÇƒÇ‡Ç¢Ç¢Ç≈Ç∑Ç©ÅH    ÇÕÇ¢ Ç¢Ç¢Ç¶
-Load?                                     Yes   No
+Load?                                       Yes   No
 <$00>
 
 //P:00011310

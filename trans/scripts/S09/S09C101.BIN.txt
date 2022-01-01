@@ -17,16 +17,16 @@ Liever:
 <$0D>
 //\nあんたがさがしてるメディスンマンは、\n階段を降りたところにいるよ。
 \n
-The medicine man you seek\n
-is just down this stairway.
+The medicine man you seek is\n
+down the stairs past here.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nイーブルマインドが下がって\n通れるようになったんだ。
 \n
-With Evil Mind now out of\n
-the way, you can get through.
+Now that the Evil Mind has\n
+dissipated, you can descend.
 <$00>
 
 // Pos: 00001CF1
@@ -41,8 +41,7 @@ Spacer:
 <$0D>
 //\nユニバーサルマンか！
 \n
-The stairs here will take\n
-me to Universal Man?
+Universal Man is here?
 <$00>
 
 // Pos: 00001D08
@@ -57,8 +56,8 @@ Liever:
 <$0D>
 //\nそうだよ。\n彼はこのグランパでずっと眠ってるんだ。\n預言と共に眠ってるのさ。
 \n
-Yes. He's been resting in the ground,\n
-keeping the prophecy safe all this time.
+He rested in this passage all\n
+along, protecting the prophecy.
 <$00>
 
 // Pos: 00001D3E
@@ -74,7 +73,7 @@ Spacer:
 //\n預言！\nそうか、ユニバーサルマンが知っているのか！
 \n
 Does Universal Man know\n
-all of the prophecies?
+all five prophecies?
 <$00>
 
 // Pos: 00001D66
@@ -89,7 +88,7 @@ Liever:
 <$0D>
 //\n全部じゃないと思うけどね。\nエレミヤの預言を得るのはあんたの仕事だよ。
 \n
-Not all. Remember, it's your job\n
+No. Ultimately, it is your job\n
 to find Jeremiah's prophecies.
 <$00>
 
@@ -105,8 +104,8 @@ Spacer:
 <$0D>
 //\nエレミヤ…死んだ流刑者のことだな。\nそれがなぜ私と関係あるんだ…
 \n
-Jeremiah the Exile's the dead\n
-guy, right? What does he want?
+Jeremiah the Exile is already\n
+dead, right? What does he want?
 <$00>
 
 // Pos: 00001DCE
@@ -121,8 +120,8 @@ Liever:
 <$0D>
 //\n理解できないとダメなのさ。\nそれに銀のカプセルがないと、預言は\n呪いの言葉になってあんたを焼き尽くすよ。
 \n
-Understanding.\n
-But be warned...
+Our understanding.\n
+But, be warned...
 <$0C>
 ...without the silver capsule,\n
 Jeremiah's words will consume you.
@@ -140,8 +139,8 @@ Spacer:
 <$0D>
 //\n銀の… おお、持ってる、\n持ってるぞ、銀のカプセル！
 \n
-The silver what? Oh, the silver\n
-capsule! We've got that!
+The silver...? Oh, the silver\n
+capsule we found in the valley!
 <$00><$00><$11><$01><$0E><$1E><$17><$00>
 
 // Pos: 00001E47
@@ -159,8 +158,8 @@ Liever:
 I'm going now.\n
 Thank you for seeing me.
 <$0C>
-I don't need this red\n
-stone anymore, so take it.
+I don't need the red stone\n
+anymore. Take it back.
 <$00>
 
 // Pos: 00001E85

@@ -95,7 +95,7 @@ The cloth that made my face.
 
 <$10><$12>
 //にそうだ。私は顔だ。
-に That's right. We are the face.
+に That's right. We are your faces.
 <$00>
 
 // Pos: 000023D8
@@ -171,8 +171,8 @@ Cosmas:
 <$0D>
 //\n顔！ 僕は…僕のこの顔が、嫌いだ。\nこの顔のおかげで、僕は…
 \n
-I... I hate my face! Thanks to this\n
-face, all I do is...
+I... I hate my face!\n
+Having it makes me suffer!
 <$00>
 
 // Pos: 000024E1
@@ -183,9 +183,8 @@ face, all I do is...
 
 <$10><$12>
 //にその顔が災いをもたらしたのだな。\n戻すのはたやすい。\nさあ、来るのだ。
-に That faces harkens disaster,\n
-but you can turn it back.\n
-Yes, it comes.
+に That face harkens disaster,\n
+but you can get rid of it.
 <$00>
 
 // Pos: 0000250C

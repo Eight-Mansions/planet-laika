@@ -82,7 +82,7 @@ Little:
 <$0D>
 //\nちくしょう、帰るぞ、\nどっちだ、帰り道は…こっちか？
 \n
-Oi, forget this. I'm gettin' out of here!\n
+Oi, forget this. I'm out of here!\n
 Now, which way's the exit...?
 <$0C>
 Is it over here?
@@ -325,6 +325,7 @@ mass of Evil Mind?
 Little:
 <$0D>
 //\nあれが神様だと…笑わせやがる。\n俺をおとしいれようっていうんだ。\n俺は何もしちゃいねぇ、そうだろ、
+\n
 Please, don't make me laugh!\n
 HE tricked you, not me!
 <$0C><$0B>
@@ -356,9 +357,9 @@ Is it over here?
 
 <$12><$1F><$00>
 //場
-場
+He...
 <$0E><$3D>
 //た…砂嵐の中に…
-He disappeared into the sandstorm.
+left into the sandstorm.
 <$00>
 

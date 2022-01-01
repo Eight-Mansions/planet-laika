@@ -262,7 +262,7 @@ Yolanda:
 //\nアーネストはお疲れのようだし。
 \n
 Or trio, if Ernest chooses to stare\n
-at the damn sun till kingdom come.
+at the damn sun 'til kingdom come.
 <$00>
 
 // Pos: 00001C85
@@ -357,7 +357,7 @@ Spacer:
 <$0D>
 //\nいや…私ではない。
 \n
-No, it wasn't me either.
+No, it wasn't me either.\n
 My senses were strained, but...
 <$0C><$0B>
 //スペーサー：
@@ -366,14 +366,14 @@ Spacer:
 //\nしかし、ああ、ぼんやりと覚えてるぞ…\nアーモンドの香りがしていた…
 \n
 I vaguely remember smelling almonds\n
-around the time of the ceremony.
+around the time of the doll dance.
 <$0C><$0B>
 //スペーサー：
 Spacer:
 <$0D>
 //\nそれに、いつもより開きづらい惑じだった…\n黒い騎士が悪を集めている、そんな話だった。
 \n
-Whoever was out, they were told about\n
+Whoever was out, they were told that\n
 the Black Rider was gathering evil.
 <$00>
 
@@ -469,8 +469,8 @@ Ernest:
 <$0D>
 //\nいや、俺じゃないぜ。\n俺は疲れてうとうとしてた。
 \n
-No, it wasn't me. I was too exhausted\n
-to come out.
+No, it wasn't me. I was too\n
+exhausted to come out.
 <$0C><$0B>
 //アーネスト：
 Ernest:
@@ -787,7 +787,7 @@ Spacer:
 //\n人格によって体力も建うのか…\nよしひと休みしよう。
 \n
 Gotta wonder if personality determines\n
-strength sometimes. Anyways, let's rest.
+strength sometimes. Anyways, I'm out.
 <$00>
 
 // Pos: 00002261
