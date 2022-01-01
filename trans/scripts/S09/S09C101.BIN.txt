@@ -658,10 +658,6 @@ Green Stone
 
 // Pos: 00002080
 
-#WLB(PTR, $000017EE)
-
-#WHB(PTR, $000017EF)
-
 #WLB(PTR, $00001B0C)
 
 #WHB(PTR, $00001B0D)
@@ -671,10 +667,6 @@ P Capsule
 <$00>
 
 // Pos: 00002086
-
-#WLB(PTR, $000013DE)
-
-#WHB(PTR, $000013DF)
 
 #WLB(PTR, $00001B10)
 
