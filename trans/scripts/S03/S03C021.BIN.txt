@@ -141,15 +141,7 @@ Spirit Man:
 \n
 Hyohyo, what are you looking for?\n
 Lost time?
-<$00>
-
-// Pos: 00002243
-
-#WLB(PTR, $00001032)
-
-#WHB(PTR, $00001033)
-
-<$10><$13><$18><$0B>
+<$00><$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
