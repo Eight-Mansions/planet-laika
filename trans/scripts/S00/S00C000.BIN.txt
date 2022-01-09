@@ -72,7 +72,7 @@ Vibration
 //P:00011102
 #WRITE(PTR, $0000FAF4)
 //コロニー
-<Ice Lake>
+<Colony>
 <$00>
 
 //P:00011108
@@ -132,19 +132,19 @@ Vibration
 //P:0001115A
 #WRITE(PTR, $0000FB44)
 //グランパ
-Passage
+<Passage>
 <$00>
 
 //P:00011160
 #WRITE(PTR, $0000FB4C)
 //サイコハウス
-Psycho Lab
+<Psycho Lab>
 <$00>
 
 //P:00011168
 #WRITE(PTR, $0000FB54)
 //ロッジ
-Lodge
+<Lodge>
 <$00>
 
 //P:0001116C
