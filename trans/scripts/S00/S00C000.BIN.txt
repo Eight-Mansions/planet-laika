@@ -48,85 +48,85 @@ Vibration
 //P:000110E0
 #WRITE(PTR, $0000FAD4)
 //忘却の海
-Oceanum Oblivionis
+<Oceanum Oblivionis>
 <$00>
 
 //P:000110E8
 #WRITE(PTR, $0000FADC)
 //避難小屋
-Safe House
+<Safe House>
 <$00>
 
 //P:000110F2
 #WRITE(PTR, $0000FAE4)
 //帰納の丘
-Inductive Hills
+<Inductive Hills>
 <$00>
 
 //P:000110FA
 #WRITE(PTR, $0000FAEC)
 //ブリックロード
-Brick Road
+<Brick Road>
 <$00>
 
 //P:00011102
 #WRITE(PTR, $0000FAF4)
 //コロニー
-Colony
+<Ice Lake>
 <$00>
 
 //P:00011108
 #WRITE(PTR, $0000FAFC)
 //酸索屋
-Oxygen Dispensary
+<Oxygen Dispensary>
 <$00>
 
 //P:00011110
 #WRITE(PTR, $0000FB04)
 //リャンハウス
-House Liang
+<House Liang>
 <$00>
 
 //P:00011118
 #WRITE(PTR, $0000FB0C)
 //１３号監房
-Cell 13
+<Cell 13>
 <$00>
 
 //P:00011122
 #WRITE(PTR, $0000FB14)
 //ナイトプラネット
-NIGHT PLANET
+<Night Planet>
 <$00>
 
 //P:0001112C
 #WRITE(PTR, $0000FB1C)
 //記憶の谷
-Valles Memoriae
+<Valles Memoriae>
 <$00>
 
 //P:00011134
 #WRITE(PTR, $0000FB24)
 //町長屋敷
-Elder's Cottage
+<Elder's Cottage>
 <$00>
 
 //P:0001113E
 #WRITE(PTR, $0000FB2C)
 //アイスレイク
-Ice Lake
+<Ice Lake>
 <$00>
 
 //P:00011146
 #WRITE(PTR, $0000FB34)
 //地下水道
-Underground Canal
+<Underground Canal>
 <$00>
 
 //P:00011150
 #WRITE(PTR, $0000FB3C)
 //地下水道
-Underground Canal
+<Underground Canal>
 <$00>
 
 //P:0001115A

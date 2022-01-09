@@ -1,7 +1,7 @@
 .psx
 .open "exe\SLPM_862.64",0x8000F800
 
-TextDrawFlagsArea: equ 0x800F1000
+TextDrawFlagsArea: equ 0x801F5000
 
 ; No clearing out my space for code!
 .org 0x8004356c
@@ -17,6 +17,7 @@ TextDrawFlagsArea: equ 0x800F1000
 .org 0x8001e93c
 	;SLT     00000013 (v0), 00000002 (s3), 00000013 (a2),
 	slt v0, a2, a2
+
 ; ---------------------------------------------------------------------------	
 
 ; --------------------------- Text Flag Area Code ---------------------------
