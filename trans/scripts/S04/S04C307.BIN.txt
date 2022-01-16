@@ -138,7 +138,7 @@ Spacer:
 <$0D>
 //\n私に何を求めているのだ、レッド！
 \n
-What do you want from me, Red?!
+What is it you want, Red?
 <$00>
 
 // Pos: 00003621
@@ -337,7 +337,7 @@ Red:
 <$0D>
 //\nおおおお、俺のウデがない！
 \n
-I'm filth! Oh, Uncle Bubbles!\n
+Uncle Bubbles, I lost my grip!\n
 Where did you go?! See? Look!
 <$0C><$0B>
 //レッド：
@@ -345,8 +345,8 @@ Red:
 <$0D>
 //\nどこへやった、おい！お前に開いてるんだ！\n泡でできたウデだ、真っ白なんだ！
 \n
-I'm ready for you! Make me pure\n
-again with your white froth!
+I'm ready for you! Cleanse this\n
+filth with your white froth!
 <$00>
 
 // Pos: 000038D6
@@ -361,7 +361,7 @@ Spacer:
 <$0D>
 //\nウデがないのか。\nそれなら泡のおじさんが食べたんだ。
 \n
-You're filth? Is that why\n
+You're "filth"? Is that why\n
 Uncle Bubbles preyed on you?
 <$00>
 
@@ -410,7 +410,7 @@ Red:
 //\n泡はおじさんのものだからだ！\n馬鹿野郎！ あああ、泡、俺のウデがない…
 \n
 Because it's his essence, idiot!\n
-No! NO! I don't wanna be dirty...!
+Please, God! I feel so dirty...
 <$0C><$0B>
 //レッド：
 Red:
@@ -457,7 +457,7 @@ Gold:
 <$0D>
 //\nコスマスにちょっかい出すからだ、\nコスマスはレッドの宝物なんだ。
 \n
-Red's pissed you that meddled with\n
+Red's pissed that you meddled with\n
 his precious Cosmas. His treasure.
 <$0C><$0B>
 //ゴールド：
@@ -561,17 +561,16 @@ Red:
 <$0D>
 //\nおおおお、俺のウデがない！\nどこへやった、おい！
 \n
-Am I...dirty? Where did you go?
+God, I've lost my grip!\n
+Where did it go?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nお前に開いてるんだ！\n泡でできたウデだ、真っ白なんだ！
 \n
-I'm all clean for you, Uncle Bubbles!\n
-I'm covered in white, frothing
-<$0C>
-bubbles!
+Uncle Bubbles! Cleanse this\n
+filth with your white froth!
 <$00>
 
 // Pos: 00003B8B
@@ -586,7 +585,7 @@ Spacer:
 <$0D>
 //\nウデがないのか。\nそれなら泡のおじさんが食べたんだ。
 \n
-You're filth? Is that why\n
+You're "filth"? Is that why\n
 Uncle Bubbles preyed on you?
 <$00>
 

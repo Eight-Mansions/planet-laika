@@ -46,7 +46,7 @@ It's time for presents!
 <$02>
 //悪夢のプレゼントだよ、\nリトル君。
 \n
-Here are your presents of\n
+Here is your present of\n
 nightmares, Little!
 <$00>
 
@@ -240,7 +240,7 @@ Blue Stone acquired.
 #WHB(PTR, $00002A59)
 
 //マラケシュフラワー
-Marrakech Flower
+Marrakech
 <$00>
 
 // Pos: 00002E40
@@ -250,7 +250,7 @@ Marrakech Flower
 #WHB(PTR, $00002A5D)
 
 //花の命ははかない？
-A flower, wilted?
+A wilted flower?
 <$00>
 
 // Pos: 00002E4C
@@ -260,7 +260,7 @@ A flower, wilted?
 #WHB(PTR, $00002A61)
 
 //ブーマーズナイト
-Boomer Night
+Boomer
 <$00><$00>
 
 // Pos: 00002E56
@@ -270,7 +270,7 @@ Boomer Night
 #WHB(PTR, $00002A65)
 
 //怖い夜って？
-A scary evening?
+A fearer of night?
 <$00><$00>
 
 // Pos: 00002E60
@@ -280,7 +280,7 @@ A scary evening?
 #WHB(PTR, $00002A69)
 
 //クロウドリーム
-Crow Dream
+Crow
 <$00>
 
 // Pos: 00002E68
@@ -290,7 +290,7 @@ Crow Dream
 #WHB(PTR, $00002A6D)
 
 //夢の散歩者？
-A strolling dream?
+A dream traveler?
 <$00><$00>
 
 // Pos: 00002E74
@@ -430,7 +430,7 @@ August
 #WHB(PTR, $00002AA5)
 
 //寝付けない８月の夜
-When nights were longest?
+When nights endured?
 <$00>
 
 // Pos: 00002EE6
@@ -450,7 +450,7 @@ September
 #WHB(PTR, $00002AAD)
 
 //９月、実り
-When miracles were due?
+When miracles fell?
 <$00>
 
 // Pos: 00002EF6
@@ -490,7 +490,7 @@ December
 #WHB(PTR, $00002ABD)
 
 //春のような１２月
-When omens were realized?
+When omens thrived?
 <$00>
 
 // Pos: 00002F1A

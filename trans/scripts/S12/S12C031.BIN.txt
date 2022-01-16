@@ -40,8 +40,9 @@ Did you come here with him?
 Tommy:
 <$0D>
 //\nよう、俺はなぁ、あの赤い家のとこだ、そこで、\nああ、くそったれ！ 気が遠くなりやがった。
+\n
 I was at that red house before,\n
-when...BAM! I fainted!
+when... BAM! I fainted!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -476,8 +477,8 @@ Chloe:
 <$0D>
 //\n余計なことを…\n私は現実だ、私がオリジナルだ。
 \n
-Listen... I am real.
-\nI am the original.
+Listen... I am real.\n
+I am the original.
 <$00>
 
 // Pos: 00003FB9
@@ -492,8 +493,8 @@ Ernest:
 <$0D>
 //\nおお…可愛いじゃねぇか…\nミーシャみたいだぜ。
 \n
-Hmm, this one's cute.\n
-Almost reminds me of Masha.
+Hmm, you're a pretty face.\n
+You almost remind me of Masha.
 <$00>
 
 // Pos: 00003FDF
@@ -509,7 +510,7 @@ Chloe:
 //\nこんにちは。\nミーシャじゃないよ、クロエよ。
 \n
 Hello. My name is not Masha.\n
-It's Chloe.
+It is Chloe.
 <$00>
 
 // Pos: 00003FFE
@@ -531,8 +532,8 @@ Ernest:
 <$0D>
 //\nなぁ、クロエちゃんよ、\nそこにある顔は、そりゃ何だ？
 \n
-So, tell me, Chloe. What are those\n
-faces you have there?
+So, tell me, Chloe. What's\n
+that face you have there?
 <$00>
 
 // Pos: 0000403C
@@ -547,17 +548,17 @@ Chloe:
 <$0D>
 //\nこれは
 \n
-This is
+This face was 
 <$18><$00><$81><$43><$08><$00><$00><$00>
 //リバー
-Liever...
+Liever's\n
 <$1A><$13><$00><$00><$00><$18><$00><$81><$44><$08><$00><$00><$00>
 //リトル
-Little...
+Little's\n
 <$1A><$03><$00><$00><$00>
 //レッドよ。\n用済みになったの。
-Red...\n
-They have served their purpose.
+Red's\n
+before he served his purpose.
 <$00>
 
 // Pos: 00004079
@@ -587,8 +588,8 @@ Chloe:
 <$0D>
 //\n用済みは用済みよ。\nあなたもなりたいの？
 \n
-Becoming obsolete.\n
-Would you like to join them?
+To become obsolete.\n
+Would you like to join him?
 <$00>
 
 // Pos: 000040B2
@@ -603,7 +604,7 @@ Ernest:
 <$0D>
 //\nあ…いや、\nよしとくぜ。
 \n
-Err...no, I'm covered.
+Uh... No, thanks.
 <$00>
 
 // Pos: 000040CB
@@ -618,7 +619,7 @@ Ernest:
 <$0D>
 //\nなあ、ここは火事だったんじゃねぇのか…\n化かされてるみたいだぜ。
 \n
-If one you burned in the fire before,\n
+If that you burned in the fire,\n
 this you has to be an illusion.
 <$00>
 
@@ -651,7 +652,7 @@ Yolanda:
 //\nあらクロエちゃん…\nその顔はどうしたの？
 \n
 Oh! Chloe...\n
-What's with the faces?
+What's with the new face?
 <$00>
 
 // Pos: 00004145
@@ -666,17 +667,17 @@ Chloe:
 <$0D>
 //\nこれは
 \n
-This is
+This face was 
 <$18><$00><$81><$43><$08><$00><$00><$00>
 //リバー
-Liever...
+Liever's\n
 <$1A><$13><$00><$00><$00><$18><$00><$81><$44><$08><$00><$00><$00>
 //リトル
-Little...
+Little's\n
 <$1A><$03><$00><$00><$00>
 //レッドよ。\n用済みになったの。
-Red...\n
-They have served their purpose.
+Red's\n
+before he served his purpose.
 <$00>
 
 // Pos: 00004182
@@ -691,8 +692,8 @@ Yolanda:
 <$0D>
 //\nそうなの…用済み…\n今はあなたのものなのね。
 \n
-I see... So, they became obsolete\n
-the moment you felt done with them.
+I see... You claimed it as\n
+soon as he became obsolete.
 <$00>
 
 // Pos: 000041A7
@@ -708,7 +709,7 @@ Chloe:
 //\nそうよ。\nもらったの。
 \n
 That's right.\n
-They are mine.
+It is mine.
 <$00>
 
 // Pos: 000041BB
@@ -723,8 +724,8 @@ Yolanda:
 <$0D>
 //\nここは何でこんなにメルヘンチックなの…\n誰かの幻覚なのね。
 \n
-It looks like a fairy tale here.\n
-Someone must be hallucinating.
+It looks like a story book here.\n
+Someone's hallucinating again.
 <$00>
 
 // Pos: 000041E7
@@ -755,11 +756,11 @@ Spacer:
 <$0D>
 //\n開いてくれ、さっきのことだ、\nここで君と話して、
 \n
-What was with that 
+What happened to 
 <$0F>
 //は\nどうなったんだ？
- person\n
-you were talking to earlier?
+\n
+after you spoke with them?
 <$00>
 
 // Pos: 0000424B
@@ -792,8 +793,8 @@ Spacer:
 <$0D>
 //\n私は実体だ、仮でもなんでもない！\nあああ、さっきは誰と話してたんだ？
 \n
-I'm no imposter. I'm real! Well, come\n
-on! Who were you talking to earlier?
+I'm no imposter. I'm real! Come\n
+on! Who did you talk to earlier?
 <$00>
 
 // Pos: 000042A2
@@ -808,8 +809,8 @@ Spacer:
 <$0D>
 //\n教えてくれ、\nさっき君と話してたのは誰なんだ？
 \n
-Tell me, who were you talking to\n
-earlier?
+Tell me, who did you\n
+talk to earlier?
 <$00>
 
 // Pos: 000042C9
@@ -824,7 +825,7 @@ Chloe:
 <$0D>
 //\n私は実体だ、仮でもなんでもない。\nあああ、さっきは誰と話してたんだ？
 \n
-I'm no imposter. I'm real! Well, come\n
-on! Who were you talking to earlier?
+I'm no imposter. I'm real! Come\n
+on! Who did you talk to earlier?
 <$00>
 

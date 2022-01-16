@@ -17,12 +17,13 @@ Liever:
 <$0D>
 //\nすべてはウラジミールのせいなの？
 \n
-It was all Vladimir's fault, no?
+It was all Vladimir's fault.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\n
+\n
 <$0F>
 //の新しいパパでしょ。\nあんたにとっても。
 's step-father.\n
@@ -61,7 +62,7 @@ It's true.
 <$0F>
 //のママは\nウラジミールにはひどい目にあわされた、\nそうなんだね。
 's mother lived a\n
-hellish life under Vladimir's hand.
+sad life under Vladimir's hand.
 <$00>
 
 // Pos: 000040A2
@@ -83,7 +84,7 @@ Yolanda:
 <$0D>
 //\nすっかり性格が変わって、\nすぐにふさぎ込むようになって…
 \n
-Her disposition changed entirely.\n
+Her attitude changed entirely.\n
 Her spirits hit rock bottom.
 <$0C><$0B>
 //ヨランダ：
@@ -91,8 +92,8 @@ Yolanda:
 <$0D>
 //\nそして限界を超えちゃったのよ。
 \n
-And as the saying goes,\n
-someone knocked from below.
+And, as the saying goes,\n
+"someone knocked from below".
 <$00>
 
 // Pos: 00004101
@@ -108,14 +109,14 @@ Liever:
 //\n自殺したんだね、バスルームで。\n見たんでしょ。
 \n
 She committed suicide in the\n
-bathroom. You found her.
+bathroom, and you found her.
 <$0C><$0B>
 //リバー：
 Liever:
 <$0D>
 //\nあんたが表に出たのは\nその時がはじめてなんだね。
 \n
-That was the first time you,\n
+That was the first day you,\n
 Yolanda, ever surfaced.
 <$00>
 
@@ -131,8 +132,8 @@ Yolanda:
 <$0D>
 //\n可哀想に… もっと早く\nアタシが話し相手になってあげれば…
 \n
-I'm pathetic...\n
-If only I'd talked to her sooner.
+I'm pathetic, aren't I...\n
+If only I'd talked to her.
 <$00>
 
 // Pos: 00004178
@@ -147,13 +148,13 @@ Liever:
 <$0D>
 //\nタニアは
 \n
-Tanya is 
+Tanya was 
 <$0F>
 //のママだよね、\nあんたのママってこと？\nどう思ってたの？
-'s mother. Does\n
-that make her your mother as well?
+'s mother.
 <$0C>
-Or am I wrong?
+Would that not make her your\n
+mother too? Or am I wrong?
 <$00>
 
 // Pos: 000041A5
@@ -168,7 +169,7 @@ Yolanda:
 <$0D>
 //\nアタシには友達なのよ。
 \n
-She was my friend!
+Tanya was MY friend!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -178,18 +179,18 @@ Yolanda:
 
 <$0F>
 //には何もできないの…\nせいぜいが宇宙飛行士になることくらい。
- couldn't help her!
+ didn't help her!
 <$0C>
-He was too busy striving\n
-to be a fucking cosmonaut!
+He was too busy studying\n
+to be some stupid cosmonaut!
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nタニアの相談相手は、アタシをおいて\n他にいないわ。
 \n
-I was Tanya's shoulder to lean on!\n
-I was the only one there for her!
+"I" was Tanya's rock!\n
+"I" was the one there for her!
 <$00>
 
 // Pos: 00004212
@@ -220,23 +221,23 @@ Yolanda:
 <$0D>
 //\n守るためよ。\n生まれてくるはずだった妹…
 \n
-To protect. He came to protect\n
-the little sister...
+He lives to protect\n
+"his" little sister...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nアーネストは\nその妹を守るためにやってきたのよ。
 \n
-...the little sister whom\n
-Tanya was to give birth to.
+Or rather, the baby girl\n
+Tanya was pregnant with.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nウラジミールとセルゲイの暴力から\n妹を守るためよ。
 \n
-Ernest meant to keep them safe from\n
+Ernest meant to keep Masha safe from\n
 Vladimir and Sergei's physical abuse.
 <$00>
 
@@ -252,7 +253,7 @@ Liever:
 <$0D>
 //\nでも妹は生まれてこなかった。
 \n
-But that sister arrived stillborn.
+But the baby arrived stillborn.
 <$00>
 
 // Pos: 000042B9
@@ -267,15 +268,16 @@ Yolanda:
 <$0D>
 //\nううん、生まれたの。
 \n
-In reality, yes she did...
+Yes, she did,\n
+but in Ernest's eyes...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nアーネストにしてみれば、\n生まれたことになってるの。
 \n
-...but in Ernest's eyes,\n
-she's out there, somewhere.
+"His" little sister, Masha,\n
+is still somewhere out there.
 <$00>
 
 // Pos: 000042F4
@@ -290,7 +292,8 @@ Liever:
 <$0D>
 //\n作り出したの？
 \n
-He dreamed her up after the fact?
+Are you saying he dreamed\n
+her up after the fact?
 <$00>
 
 // Pos: 00004308
@@ -305,8 +308,8 @@ Yolanda:
 <$0D>
 //\nどうやらそのようね。\n詳しいことは分からない、本人じゃなきゃね。
 \n
-Apparently, he did it\n
-to fill that gap.
+Yeah. He must've done so\n
+to fill the gap she left.
 <$0C>
 I don't know the details,\n
 so you'd have to ask him.
@@ -324,10 +327,10 @@ Liever:
 <$0D>
 //\n本当は生まれたときには死んでたんだよね、\nミーシャって名前まで用意してたのに。
 \n
-So, she was born dead.
+Masha was born dead...
 <$0C>
-Was "Masha" the name that Tanya\n
-and Vladimir planned to give her?
+Was "Masha" the name Tanya and\n
+Vladimir planned to give her?
 <$00>
 
 // Pos: 0000436F
@@ -352,7 +355,7 @@ Yolanda:
 Vladimir made sure of that by\n
 plotting with Tanya's doctor.
 <$0C>
-He didn't want more children.
+He didn't want her children.
 <$00>
 
 // Pos: 000043B1
@@ -385,7 +388,7 @@ Yolanda:
 Spacer is our personal command\n
 tower.
 <$0C>
-He keeps an eye over\n
+He keeps a watchful eye over\n
 the lot of us.
 <$00>
 
@@ -417,7 +420,7 @@ Yolanda:
 <$0D>
 //\nそうよ。ミーシャっていう人格が\nひとり歩きしないようにね。
 \n
-Definitely. By that point, Ernest's\n
+Sure. By that point, Ernest's\n
 "Masha" had taken a life of her own.
 <$0C><$0B>
 //ヨランダ：
@@ -426,7 +429,7 @@ Yolanda:
 //\n妹を消されたことでアーネストは\n彼をうらんでるわ。
 \n
 Ernest resents Spacer for letting\n
-that idea, his "sister", slip away.
+that life, his "sister", slip away.
 <$00>
 
 // Pos: 0000445E
@@ -441,8 +444,8 @@ Liever:
 <$0D>
 //\nスペーサーは大の勉強家だよね。
 \n
-But Spacer is a largely\n
-studious person, isn't he.
+But Spacer earns his\n
+keep too, doesn't he?
 <$00>
 
 // Pos: 0000447C
@@ -457,34 +460,37 @@ Yolanda:
 <$0D>
 //\nそうみたいね。
 \n
-I'd say so.
+I would say so.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\n彼は図書室の本の中から現れて
 \n
-He emerged from some book in the\n
-library. Before we noticed him...
+Spacer emerged from a book,\n
+actually. He wasn't born.
+<$0C>
+He snuck in under all\n
+our noses one day,
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nいつのまにか…\n
 \n
-...he'd planted himself in 
+when 
 <$0F>
 //の中に住み着いたのよ、
-'s\n
-mind upon them reading the book.
+ unwittingly read\n
+that book in the library.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nアタシはそう思ってる。
 \n
-At least, that's my understanding\n
-of the situation.
+At least, that's how\n
+I understand it.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -493,7 +499,7 @@ Yolanda:
 \n
 <$0F>
 //が宇宙飛行士になれたのも\nスペーサーがいたからよ。
- only became a cosmonaut\n
+ became a cosmonaut\n
 because Spacer stole the wheel.
 <$00>
 
@@ -525,10 +531,10 @@ Galil:
 <$0D>
 //\n私は君よりもっとあやふやな存在だった。\nせまり来る不安の中で自信を失っていた。
 \n
-Once, I was more uncertain an\n
+Once, I was an even less certain\n
 existance than you.
 <$0C>
-I knew no ease, no self-confidence.
+I knew no ease, no self-worth.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -543,8 +549,8 @@ Galil:
 <$0D>
 //\n全てはこの星の意志に\n触れたからに他ならない。
 \n
-All because I was touched by\n
-the will of the planet.
+I was touched by the\n
+will of the planet.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -628,7 +634,7 @@ Liever:
 //\nあれは神様なんかじゃない！\nイーブルマインドのカスだ！
 \n
 That wasn't God! That was\n
-just a mass of Evil Mind!
+nothing but a mass of Evil Mind!
 <$00>
 
 // Pos: 000046B8

@@ -97,8 +97,8 @@ Entomologist:
 Meanwhile, as we've known, the\n
 Martian's unfathomable ill will...
 <$0C>
-...became the miasmic malice we
-call Evil Mind.\n
+...became the miasmic malice we\n
+now call Evil Mind.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -122,16 +122,18 @@ I suggest you look for them, bzz.
 Entomologist:
 <$0D>
 //\nフンフン、光る石は全部で５つあるようだ。\n全ての石が集まれば…
-Bzzbzz! There are five stones total,\n
+\n
+Bzz! There are five stones in all,\n
 and when all five are gathered...
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\nフンフンフン、そうなれば火星人が\nよみがえるかも知れない。\nフンフン、そうだ！
+\n
 ...Hehe, who knows?\n
-Maybe the Martians will spring\n
-back to life, bzzbzz!
+Maybe the Martians will\n
+jolt back to life, bzzbzz!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -139,7 +141,7 @@ Entomologist:
 //\n君は歴史のヒストリーが\n生まれるその瞬間に立ち会えるのだ！\nフン！ あああ！ フン！
 \n
 You could bear witness to a\n
-brilliant new history in the making!
+brilliant history in the making!
 <$00>
 
 // Pos: 00001BB4
@@ -188,8 +190,8 @@ Rummy:
 <$0D>
 //\nあああ、先生はほほえんでいるな
 \n
-Ahh, see, you're smirking even now,\n
-aren't you?
+Ahh, see, I bet you're looking\n
+at me smug even now, aren't you?
 <$00>
 
 // Pos: 00001C20
@@ -206,8 +208,8 @@ Rummy:
 \n
 But I'm Rummy! 
 <$0C>
-You think I was the one walking hand\n
-in hand with that little girl?!
+You think I walked hand-in-hand\n
+with that little girl?! ME?!
 <$00>
 
 // Pos: 00001C45
@@ -222,7 +224,7 @@ Rummy:
 <$0D>
 //\nあああ、先生、僕は眠いんです…\nたまらなく眠いんです。
 \n
-Ohhh, doctor... I'm so tired...\n
+Ohhh, doctor. I'm so tired...\n
 I'm so tired of this, I could die!
 <$00>
 

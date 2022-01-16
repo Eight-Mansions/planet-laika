@@ -156,17 +156,17 @@ Chloe:
 //\n目よ、そう… 目を見るのよ。\n今、あなたは暗闇にいる。
 \n
 Do you see? I am looking into your\n
-eyes, at the darkness deep within.
+eyes, at the dark depths within.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\n暗闇のなかで一筋の光を見つめてきた…\n光に導かれて、あなたは現れる…
 \n
-From the deepest depths, sole beam\n
-of light cuts the darkness.
+But, from those depths, a sole\n
+beam of light cuts the darkness.
 <$0C>
-Guided by the light, you emerge.
+Guided by the light, you emerged.
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -357,7 +357,7 @@ Chloe:
 <$0D>
 //\nそう思ってるの？
 \n
-Is that what you think??
+Is that how you really feel?
 <$00>
 
 // Pos: 00002A02
@@ -372,8 +372,8 @@ Phoenix:
 <$0D>
 //\nそうじゃないさ。\nただ生きていて楽しいことなんて少ないよ、
 \n
-No, it's not. I never thought being\n
-born sounded very fun, is all.
+No. The truth is, I didn't think\n
+being born sounded very pleasant.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -396,24 +396,23 @@ Chloe:
 <$0D>
 //\nじゃあ、あなたのその力は？
 \n
-But, what about your power?
+What about your power?\n
+The secret power...
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nシークレットパワー、\nあなたはすごい力の持ち主よ。
 \n
-The secret power? Yes, you are the\n
-possessor of a marvelous power.
-<$0C>
-That much IS yours.
+Yes, you are the possessor\n
+of a marvelous gift.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nそれでも楽しくないの？
 \n
-And yet, you don't enjoy having it?
+Why don't you enjoy having it?
 <$00>
 
 // Pos: 00002AAC
@@ -428,8 +427,8 @@ Phoenix:
 <$0D>
 //\nシークレットパワー…\n確か、あのロッジで…
 \n
-The secret power...?\n
-Ah, from back at the lodge.
+The secret power...\n
+The one I got at the lodge.
 <$0C><$0B>
 //フェニックス：
 Phoenix:
@@ -444,7 +443,7 @@ Phoenix:
 <$0D>
 //\nあたたかい…\n体があたたかくなった…
 \n
-I did feel warmer.\n
+I did feel warmer receiving it.\n
 This body felt warmer.
 <$00>
 
@@ -460,26 +459,26 @@ Chloe:
 <$0D>
 //\nシークレットパワーは\n心の悪をきれいにする力よ。
 \n
-That secret power allows you to\n
-purify evil from the minds of others.
+The secret power allows you to\n
+rid evil from the minds of others.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nあなたの心に秘めた悪が、\n話す相手に影響を与えるの…
 \n
-But when you absorb that evil from\n
-those people, new gaps remain.
+But, when you absorb that evil from\n
+those people, new gaps tear open.
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nあなたと話して\nおかしくなってしまう人もいるわよ。
 \n
-Some people could lose their minds\n
-over this.
+People may lose their minds\n
+in this process.
 <$0C>
-People could go insane simply\n
+People will go insane simply\n
 by speaking to you.
 <$00>
 
@@ -526,16 +525,16 @@ Chloe:
 <$0D>
 //\nううう…、\n体が勝手に話しはじめる…
 \n
-O-owwww...! This body is...trying\n
-to speak out of turn...!
+O-owwww...! This body is...\n
+trying to speak out of turn!
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nエイプリルは大丈夫だ、\nそうだ… うううう
 \n
-The girly's doin' all right, get it?\n
-You bum... Owww!
+The girly's all right, get it?\n
+Get goin', you bum... Owww!
 <$00>
 
 // Pos: 00002BEA
@@ -550,15 +549,15 @@ Chloe:
 <$0D>
 //\nううう…、\n体が勝手に話しはじめる…
 \n
-O-owwww...! This body is...trying\n
-to speak out of turn...!
+O-owwww...! This body is...\n
+trying to speak out of turn!
 <$0C><$0B>
 //クロエ：
 Chloe:
 <$0D>
 //\nエイプリルは平気だよ、\n全然平気さ… うううう
 \n
-April is all right! Just have faith...\n
+April is all right! Have faith...\n
 Owww!
 <$00>
 
@@ -574,8 +573,8 @@ Chloe:
 <$0D>
 //\nううう…、\n体が勝手に話しはじめる…
 \n
-O-owwww...! This body is...trying\n
-to speak out of turn...!
+O-owwww...! This body is...\n
+trying to speak out of turn!
 <$0C><$0B>
 //クロエ：
 Chloe:
@@ -616,11 +615,11 @@ Chloe:
 <$0D>
 //\nううう、まだちゃんとなってないの、\n私の体。まだ意識があるの、邪魔するの。
 \n
-Owww... I am not one with my body\n
-just yet.
+Owww... I am not one with\n
+my body just yet.
 <$0C>
-My consciousness is still\n
-facing a little resistance.
+My consciousness still\n
+faces a little resistance.
 <$00>
 
 // Pos: 00002CD7
@@ -650,7 +649,7 @@ Chloe:
 <$0D>
 //\nエイプリル？ あの女の人のこと？
 \n
-April? You mean that woman?
+April? That woman again?
 <$00>
 
 // Pos: 00002D0D
@@ -712,8 +711,8 @@ Phoenix:
 <$0D>
 //\nさっきはいきなりだったよ、\nインディアンみたいな人もおかしくなってたし
 \n
-It feels like before, when those\n
-shaman-like men had that incident.
+This feels familiar, like that\n
+shamanic incident at the lodge.
 <$0E><$78><$17><$00>
 
 // Pos: 00002DBA
@@ -728,7 +727,7 @@ Phoenix:
 <$0D>
 //\nでもどうして？\n表に出ていかなきゃならないの？
 \n
-But what's going on? What's\n
+What is going on? What is\n
 making me surface like this?
 <$0E><$78><$17><$00>
 
@@ -747,6 +746,6 @@ Phoenix:
 I'd wanted to stay in the dark\n
 forever, but I guess...
 <$0C>
-I don't have much say.
+That's not my choice to make.
 <$0E><$78><$17><$00>
 

@@ -215,10 +215,10 @@ April:
 //\nねぇ、この星では\n夢と現実が入れ替わったりするの？
 \n
 Still, all this dream talk\n
-makes me wonder.
+makes me wonder...
 <$0C>
 Are "dreams" and "reality"\n
-swapped on this planet?
+inverted on Planet Mars?
 <$00>
 
 // Pos: 00001ABC
@@ -242,7 +242,7 @@ Little:
 //\nそれなのに、しらばっくれてやがる。\nまるではじめてみたいに
 \n
 But she played dumb, and acted like\n
-it was her first time seein' anythin.
+it was her first time seein'.
 <$00>
 
 // Pos: 00001B09
@@ -309,16 +309,16 @@ Little:
 <$0D>
 //\nない、ない、絶対にないぞ！\nあああ、側で見ていたことはあるが
 \n
-No, no, DEFINITELY not! I've seen her\n
-administer it up close, but...
+No, no, DEFINITELY not!\n
+I've seen her sessions up!
 <$0C><$0B>
 //リトル：
 Little:
 <$0D>
 //\n俺にはかからなかったはずだ…\n本当だ、俺にはかからない…
 \n
-Oi, I'll tell you what, I'd never her do\n
-that stuff to me!
+Oi, I'll tell you what, I'd NEVER\n
+let her do that stuff to me!
 <$00>
 
 // Pos: 00001BDE

@@ -47,7 +47,7 @@ Spacer:
 <$0D>
 //\nこの石は…これが酸索石なのか…\nいや建う…他にもどこかで見たようだが…
 \n
-This stone. Is it oxygenite...? No,\n
+This stone. Is it oxygenite? ...No,\n
 but I have seen it somewhere before.
 <$00>
 
@@ -63,8 +63,8 @@ Spacer:
 <$0D>
 //\nヘロデ、悪夢の中にいるんじゃなかったのか…\n向こうで目覚めて戻ってきたのか？
 \n
-Herod? I thought you were in one of\n
-your nightmares right now.
+Herod? I thought you were in one\n
+of your nightmares right now.
 <$0C>
 Did you wake up?
 <$00>
@@ -81,8 +81,8 @@ Herod:
 <$0D>
 //\nここは悪夢じゃない…\nもっと別なイヤな場所だ。
 \n
-This may not be a nightmare,\n
-but a differently vile place.
+This place is not my nightmare,\n
+but it is an equally vile place.
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -97,23 +97,23 @@ Herod:
 <$0D>
 //\nああ、早く抜け出したい
 \n
-I want out! I want out of it NOW!
+I want out! I want out NOW!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\n悪夢の中だったら、くそっ、本当だったら\nアガタがむかえに来ているはずだ。
 \n
-If this WAS a nightmare, if that WAS\n
-the case, Agatha've come for me.
+If this WAS a nightmare,\n
+Agatha would have come for me.
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\n誰かが邪魔してやがる、\nそんな気がするんだ。
 \n
-Still, I do feel something.\n
-Someone, making a disturbance.
+I feel something still.\n
+Someone's making a disturbance.
 <$00>
 
 // Pos: 00004341
@@ -128,7 +128,7 @@ Spacer:
 <$0D>
 //\n誰かが… あんたが悪夢に入るのを\n邪魔してるというのか。
 \n
-Do you feel a disturbance every time\n
+Can you sense it every time\n
 someone enters your nightmares?
 <$0C><$0B>
 //スペーサー：
@@ -136,7 +136,7 @@ Spacer:
 <$0D>
 //\n誰なんだ？
 \n
-Is someone else here?
+Is someone else here now?
 <$00>
 
 // Pos: 0000437F
@@ -532,8 +532,8 @@ Spacer:
 <$0D>
 //\n何だ、この音は？\n何かがはねてるような音だ。
 \n
-What's that noise? It sounds like\n
-something is bouncing around.
+What's that noise? It sounds\n
+like something is ripping.
 <$00>
 
 // Pos: 00004834
@@ -564,7 +564,7 @@ Ernest:
 <$0D>
 //\n何だ？\nはねていやがる？
 \n
-What's going on? Are people\n
-bouncing around?
+What's going on? It sounds\n
+like somethings ripping apart.
 <$00>
 

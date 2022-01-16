@@ -99,8 +99,8 @@ Oxygen Miner 6：
 <$0D>
 //\n俺が調子こいて話してたのに。ここは…\nおお！ 記憶の谷か！
 \n
-Before I get circle back, where were\n
-we...oh! Right, Valles Memoriae!
+Before we get too lost, where were\n
+we... Oh! Right, Valles Memoriae!
 <$00>
 
 // Pos: 00003463
@@ -115,7 +115,7 @@ Oxygen Miner 6：
 <$0D>
 //\nおいおい、何じろじろ見てんだ。\nこのカッコウか、ああん？
 \n
-Hey, what are you staring at, huh?\n
+Hey, what are you staring at?\n
 My devilish good looks?
 <$0C><$0B>
 //酸索坑夫６号：
@@ -123,7 +123,7 @@ Oxygen Miner 6：
 <$0D>
 //\nこりゃ俺の制服だ、\nホマレ高き酸索坑夫様だ！
 \n
-Or is it my uniform? It's proof\n
+Do you like my uniform? It's proof\n
 I'm a top-of-the-line oxygen miner!
 <$0C><$0B>
 //酸索坑夫６号：
@@ -131,7 +131,7 @@ Oxygen Miner 6：
 <$0D>
 //\n俺は… １、２、３、４、\nえーっと、６号だ、覚えとけ！
 \n
-I'm Oxygen Minder 1...2...no...3?\n
+I'm Oxygen Miner 1...2...no...3?\n
 No, 6! I'm 6, and don't you forget it!
 <$00>
 
@@ -272,15 +272,15 @@ Rummy:
 //\nやはりだな、緊急事態レベル３だな。
 \n
 Hoho, this is a Level 3 emergency,\n
-a-ha.
+a-ha. I'd better shut this off.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nこれを解除するには…\n思い出すことがたくさんあるな…
 \n
-Shutting this off might call for a\n
-a down memory lane, a-ha!
+Who knew this'd all send me on a\n
+trip a down memory lane, a-ha!
 <$00>
 
 // Pos: 0000368F

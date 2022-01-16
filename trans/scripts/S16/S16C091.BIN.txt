@@ -17,8 +17,8 @@ Tommy:
 <$0D>
 //\nおう？\n兄ちゃんよう、俺の夢になんか用か？
 \n
-Oh？ Hey, comrade. You've got\n
-business in my dream？
+Oh? Hey, comrade. I didn't\n
+expect to see you in my dream.
 <$00>
 
 // Pos: 00000B4A
@@ -33,32 +33,32 @@ Tommy:
 <$0D>
 //\nああ、クロウのやつみたいに\n人の夢に出入りしてるのか。
 \n
-I take it you can enter people's\n
-dreams like that Crow guy does.
+You must have the same ability to\n
+enter people's dreams as Crow has.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nなぁ、兄ちゃんよう、俺とおんなじだろ、\nなあ、おんなじだろ。
 \n
-Nah, you're just like me huh?\n
-Aren't you, a-yup!
+But you're not like him, are you?\n
+Nah, you're just like me, a-yup!
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n力がわいてくる惑じだろ、へへ、知ってるぜ。
 \n
-I just know we're getting stronger,\n
-hehe.
+All you care about is finding power,\n
+hehe. I know how it is.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nここは俺の夢だ、\n兄ちゃんはアーネストっていうんだ。
 \n
-Well, this here is my dream, Ernest,\n
-my comrade.
+This is MY dream, remember?\n
+Ernest, my comrade?
 <$1E><$02><$04><$00>
 
 // Pos: 00000BDF

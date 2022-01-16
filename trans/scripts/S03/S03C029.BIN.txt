@@ -195,13 +195,13 @@ Is something going to happen?
 
 <$10>
 //うーん… おかしいわね…\n気分じゃないのね。
-Hmmm, how weird.\n
-I don't feel anything.
+Hmmm, hOw wEIRd.\n
+I dOn't fEEl AnythIng.
 <$0C>
 //この鏡じゃダメなのかしら。\nでもここにはほかに鏡はないわね、\nやっぱりこの鏡よね。
-Maybe this mirror is no good?\n
-But there's no other mirror,\n
-so this must be it.
+MAybE thIs mIrrOr Is nO gOOd?\n
+BUt thErE's nO OthEr mIrrOr,\n
+sO thIs mUst bE It.
 <$00>
 
 // Pos: 00003EBE

@@ -487,7 +487,7 @@ Spacer:
 <$0D>
 //\n君は確か… サミー…
 \n
-You are you...Sammy?!
+Are you...Sammy?
 <$00>
 
 // Pos: 00004056
@@ -518,8 +518,8 @@ Spacer:
 <$0D>
 //\nそうか、分かった\nなら開くが、君は金星人をどう思う？
 \n
-Ah, I see. So, what do you\n
-think about the Venusians?
+Ah, got it. What do you think\n
+about the Venusians, Sammy?
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -527,7 +527,7 @@ Spacer:
 //\n本当に電波を送ってきているのか、\nそれともマウンテンたちの思い建いなのか？
 \n
 Are they really sending us radio\n
-waves, or is Mountain just full of it?
+waves, or is Mountain full of it?
 <$00>
 
 // Pos: 000040D7
@@ -542,7 +542,7 @@ Rummy:
 <$0D>
 //\nへへ、金星人か…\n確かに金星人がいるのは本当だな、
 \n
-Hoho, it's true!\n
+Hoho, it's all true!\n
 The Venusians do exist, a-ha!
 <$0C><$0B>
 //ラミー：
@@ -550,7 +550,7 @@ Rummy:
 <$0D>
 //\nしかしな、電波は届いていないな。\n弱いんだな、電波がな、だから届かない。
 \n
-But we're not getting waves.\n
+But we're not getting any waves.\n
 Theirs are too weak to reach us.
 <$00>
 
@@ -566,7 +566,7 @@ Spacer:
 <$0D>
 //\n金星人はいる、\nけれど電波は届いてはいないんだな。
 \n
-So, there are Venusians, but we're\n
+The Venusians exist, but we're\n
 not receiving their radio waves?
 <$00>
 

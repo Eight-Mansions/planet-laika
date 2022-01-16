@@ -33,8 +33,8 @@ Red:
 <$0D>
 //\nうわわわわ、ここにもいやがった。\n何を企んでるんだ、お前らは！
 \n
-Grr, this place is just as bad!\n
-What are you guys planning?!
+Grr, not here either!\n
+What are they planning?!
 <$00>
 
 // Pos: 00002F27
@@ -107,7 +107,7 @@ Little:
 <$0D>
 //\nどうした、レッドだ、こっちだ。
 \n
-What brings you here, Red?
+What's Red doing here?
 <$00>
 
 // Pos: 00002FBF
@@ -122,7 +122,7 @@ Little:
 <$0D>
 //\nどうした、レッドだ、こっちだ。
 \n
-What brings you here, Red?
+What's Red doing here?
 <$00>
 
 // Pos: 00002FD7
@@ -137,8 +137,8 @@ Red:
 <$0D>
 //\nくそったれ！\nあの女は誰なんだ、あうあうあうあう…
 \n
-Hmph! Who was that woman?\n
-Grr, grr...
+Hmph! Who was that woman\n
+in Oceanum Oblivionis?
 <$0C><$0B>
 //レッド：
 Red:
@@ -155,8 +155,8 @@ Red:
 <$0D>
 //\nあああ、おじさんだ。\nそうだ、おじさんに建いない！
 \n
-...It was Uncle again!\n
-That's right, it was Uncle!
+...Where are you, Uncle?\n
+Come on, I know you're here!
 <$00>
 
 // Pos: 0000305B
@@ -171,8 +171,8 @@ Little:
 <$0D>
 //\n変な扉… 消えた…\nおじさんって誰だ、俺は知らないぞ。
 \n
-The strange door...disappeared?\n
-And who's this "Uncle"? Beats me...
+A vanishing door? Interesting.\n
+And who's this "Uncle" of his?
 <$00>
 
 // Pos: 00003084
@@ -187,8 +187,8 @@ Red:
 <$0D>
 //\nあうあうあうあう、おじさんが来る、\nやって来る、怖いよ、おじさんが来るんだ、
 \n
-Awoooo! Uncle is coming! He's finally\n
-coming! I'm scared, but he's coming!
+Awoooo! Uncle is coming! Finally\n
+coming! I'm scared, but he's here!
 <$0C><$0B>
 //レッド：
 Red:
@@ -212,7 +212,7 @@ Little:
 //\n自分の悪に耐えきれなかったんだ。
 \n
 He couldn't stand up to the\n
-evil within him self.
+evil within him.
 <$0C><$0B>
 //リトル：
 Little:

@@ -17,15 +17,15 @@ Phoenix:
 <$0D>
 //\n僕が？ これは僕の見たものじゃない！\n
 \n
-Is this my...no!\n
+Is this my... No!\n
 I didn't see this!\n
 
 <$0F>
 //だ、あいつだ！\nここが憎しみの原点なのか！
  did!
 <$0C>
-Was this the origin\n
-of their hatred?
+Was this the place where\n
+their hatred was born?
 <$0E><$5A><$17><$00>
 
 // Pos: 00001D82
@@ -58,6 +58,6 @@ Phoenix:
 \n
 This body! T-this is the\n
 first time I've felt anything\n
-like this! It's Madness!
+like this! It's madness!
 <$0E><$78><$17><$00>
 

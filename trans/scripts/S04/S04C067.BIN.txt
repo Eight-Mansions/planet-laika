@@ -49,16 +49,16 @@ Marrakech:
 <$0D>
 //\nねぇ、コスマス君、\nあなた…すごくうまくいってると思うわ、
 \n
-Oh, Cosmas. You're...coming along\n
-so smoothly. Really, I'm jealous.
+Oh, Cosmas! Your face is coming\n
+along so smoothly, I'm jealous!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nうらやましいわ、本当よ。\nでもあんまり欲張らない方がいいわよ。
 \n
-Of course, I won't let jealousy\n
-come between friends.
+Don't you worry. I wouldn't let\n
+jealousy come between us chums!
 <$00>
 
 // Pos: 0000357A
@@ -73,8 +73,8 @@ Cosmas:
 <$0D>
 //\nイヤだ、ここはイヤだ、痛いもん。
 \n
-Stop, I...I don't like it here!\n
-It hurts a lot.
+Wait. I...I don't like it here!\n
+I get hurt here all the time!
 <$00>
 
 // Pos: 00003595
@@ -90,15 +90,15 @@ Marrakech:
 //\nあら、そんなことないのよ。\n痛くなんてないじゃない。
 \n
 No pet, don't think that way.\n
-This doesn't hurt, really.
+The surgery's not hurting you.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nただ布をかぶせるだけ。\nそれで望みの顔になれるのよ。
 \n
-It's just a cloth they put on your face\n
-that gives you the face you want.
+It's just a fancy cloth that\n
+gives you any face you want.
 <$00>
 
 // Pos: 000035E2
@@ -113,8 +113,8 @@ Marrakech:
 <$0D>
 //\nでもね、どんなのが望みなのか\nちゃんとしてないと、ちゃんとならないのよ。
 \n
-What do you want? If you don't think\n
-properly, it won't work properly.
+So? What DO you want? If you\n
+don't know, it won't work right!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
@@ -152,8 +152,8 @@ I don't like it here.
 に
 <$0B><$0D>
 //約束だコスマス。\nお前を苦悩から解き放ってやる、\n今がその時だ。
-Rest assured, Cosmas.\n
-Now is the time we free\n
+Believe, Cosmas.\n
+The time has come to free\n
 you from your suffering.
 <$00>
 
@@ -169,8 +169,8 @@ Cosmas:
 <$0D>
 //\nどうやって？\nまたあの布をかぶせるの？
 \n
-But how is covering me with that\n
-cloth again going to do that?
+But how is smothering me with\n
+a cloth again going to do that?
 <$00>
 
 // Pos: 000036A3
@@ -182,7 +182,7 @@ cloth again going to do that?
 <$02><$12>
 //に痛みには耐えるのだ。\n耐えねばならん。 それで苦悩は去る。
 \n
-Face your pain. If you can endure it\n
+Face your pain. If you endure it\n
 now, your suffering will go away.
 <$00>
 
@@ -198,7 +198,7 @@ Cosmas:
 <$0D>
 //\n中に入ろうよ。
 \n
-Let's go inside.
+...All right. Let's go.
 <$00>
 
 // Pos: 000036DD
@@ -220,23 +220,23 @@ Marrakech:
 <$0D>
 //\nコスマスはどんどんきれいになって、\nアタシは置いてけぼり。 いっつもそう。
 \n
-Cosmas is always getting prettier\n
-and prettier while I'm out in the dirt.
+Cosmas just gets prettier and\n
+prettier, while I'm out in the dirt!
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nアタシって、なんでも後回しにされるの。\n小さいころからよ…
 \n
-It's what I get for putting things off\n
-since my own youth.
+It's what I get for putting off\n
+all that self-care in my youth.
 <$0C><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
 //\nふふふ、人生だって、\nみんなの後を追いかけてるようなもの。
 \n
-But, c'est la vie. We chase those\n
+But, c'est la vie. We envy those\n
 we feel are miles ahead of us.
 <$0C><$0B>
 //マラケシュ：
@@ -244,8 +244,8 @@ Marrakech:
 <$0D>
 //\n人の失敗に学ぶのよ。
 \n
-Best we can do is learn from\n
-their mistakes.
+The best I can do now is learn\n
+from my mistakes.
 <$00>
 
 // Pos: 00003797
@@ -503,18 +503,19 @@ Linda:
 <$0D>
 //\n地球じゃできなかったことよ。\nヴェロニカの布は火星にしかないんだから。
 \n
-Earth doesn't have this sort of thing.\n
-Veronica's cloth only exists on Mars.
+Veronica's cloth only exists on Mars.\n
+Earth doesn't have anything like it.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nで、蕃判の話、地球にも伝わってるの？\nそうよね、そうに建いない…
 \n
-Tell me, have those "Judgement"\n
-rumors spread to Earth?
+But Earth doesn't hear all those\n
+"Judgement" rumors either, do they?
 <$0C>
-I figured they would.
+Actually, I'd be shocked if Earth\n
+didn't.
 <$0C><$0B>
 //リンダ：
 Linda:

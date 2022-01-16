@@ -26,7 +26,7 @@
 
 <$00><$0F>
 //、ママよ、あなたのママよ。
-It's me. Mama's here.
+, it's me. Mama's here.
 <$0C>
 //ねぇ、覚えてる、あなたが５歳の時の\nクリスマスプレゼント。
 Say, do you remember the Christmas\n
@@ -48,7 +48,7 @@ store, looking for the biggest\n
 rocket in town to give to you.
 <$0C><$0F>
 //、夢を捨てないで。\nあなたなら大丈夫、きっと立派な兵士に…\n宇宙飛行士になれるわ。
-, don't give away your dream.\n
+, don't lose your dream.\n
 I know you'll become a great\n
 cosmonaut all on your own.
 <$00>
@@ -333,18 +333,18 @@ Galil:
 <$0D>
 //\n彼はたんに悪ふざけのつもりだった…
 \n
-Sergei, at the time of the fire...\n
+Sergei, at the time of the fire...
 <$0C>
-...was already in the middle of\n
-committing different crime that night.
+...was out committing an\n
+entirely different crime.
 <$0C><$0B>
 //ガリル：
 Galil:
 <$0D>
 //\n老人の家に忍び込んで手を下したのは\n彼の仲間だ、そうじゃないのかね。
 \n
-While his friend kept watch from outside,\n
-Sergei broke into an old man's house, see?
+As his friend kept watch from outside,\n
+Sergei broke into an old man's house.
 <$0C><$0B>
 //ガリル：
 Galil:

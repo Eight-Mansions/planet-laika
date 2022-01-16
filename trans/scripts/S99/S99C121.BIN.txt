@@ -46,18 +46,6 @@ I want you to know that.
 
 #WHB(PTR, $000004A1)
 
-#WLB(PTR, $000015CC)
-
-#WHB(PTR, $000015CD)
-
-#WLB(PTR, $00001790)
-
-#WHB(PTR, $00001791)
-
-#WLB(PTR, $000022E4)
-
-#WHB(PTR, $000022E5)
-
 <$10><$0B>
 //オクトーバー司令官：
 Commander October:

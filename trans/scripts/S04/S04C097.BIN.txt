@@ -129,8 +129,8 @@ Madam Agatha:
 <$0D>
 //\nうまくいかないとすぐに人のせいにする、\nそれはよくないわ。 索直にならなくちゃ。
 \n
-It's impolite to blame me\n
-over results you don't like.
+It's not fair to blame me if\n
+you don't like the outcome.
 <$00>
 
 // Pos: 00002F45
@@ -154,7 +154,7 @@ Little:
 //\nつきまとうな、あああ、失せろ！ 失せろ！
 \n
 And YOU, girly! Get off my ass!\n
-Shoo,\nshoo!
+Shoo, shoo!
 <$00>
 
 // Pos: 00002F83
@@ -170,7 +170,7 @@ Madam Agatha:
 //\nどうしたの？\nリトル…あなた…まさか…
 \n
 What's wrong, Little?!\n
-You're...you're turning...
+You're... You're turning...
 <$00>
 
 // Pos: 00002FA3
@@ -181,7 +181,7 @@ You're...you're turning...
 
 <$10><$13><$19>
 //あーあー… 邪魔をしないで…
-No... I can't stop now...!
+No... I can't stop now!
 <$0C>
 //ねぇ…早く、急いで…\nでなきゃ手おくれになっちゃうよ…\n用済みにすらなれないよう…
 If I don't hurry...\n
@@ -215,7 +215,7 @@ is your purpose? Can you tell me?
 
 <$10><$13><$19>
 //行かなきゃならないんだ、約束の場所に。\n苦しみの底にあるんだ。
-I have to go, to the Promised Land,\n
+I have to go to the Promised Land,\n
 to the deepest depths of suffering.
 <$00>
 
@@ -304,7 +304,7 @@ Madam Agatha:
 <$0D>
 //\nリトルは罪の意識に\nつぶされそうになっているのね。
 \n
-Little realizes that he'll soon
+Little realizes that he'll soon\n
 be crushed by his sin's weight.
 <$00>
 
@@ -316,9 +316,9 @@ be crushed by his sin's weight.
 
 <$10><$13><$19>
 //僕は見たよ、ぼんやりとだけど。 リトルが\n双子たちに靴下を配るのを。 ぼんやりと。
-I saw it only vaguely. It was a hazy\n
-image, but Little handed out\n
-stockings to various twins.
+The image was hazy, so I didn't\n
+see much, but Little was handing\n
+out stockings to various twins.
 <$0C>
 //あああ、もう行くんだ、でなきゃリトルが\nなくなってしまう。そうなるとこの僕も…
 I have to go to the Promised Land.\n
@@ -388,7 +388,7 @@ Madam Agatha:
 <$0D>
 //\nリトルは罪のいしきに\n今にも押しつぶされそうよ…
 \n
-Little is about to be crushed by the\n
+Little will soon be crushed by the\n
 weight of his sins.
 <$00>
 
@@ -411,8 +411,8 @@ Madam Agatha:
 <$0D>
 //\nここの誰もが心の中に増えてくる悪によって\nつぶされそうになっているの…
 \n
-Everyone here is about to be crushed\n
-by the evil swelling in their minds.
+Everyone here will soon be crushed\n
+by the evil welling in their minds.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -453,10 +453,11 @@ Madam Agatha:
 <$0D>
 //\nそれでこの星の使者になれるのよ。
 \n
-The realization you have then will\n
-be key to you becoming a messenger
+The realizations you see then\n
+will be the key. 
 <$0C>
-of this planet.
+With that key, you will become\n
+a messenger for this planet.
 <$00>
 
 // Pos: 000033DF

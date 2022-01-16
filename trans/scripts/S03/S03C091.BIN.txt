@@ -17,8 +17,8 @@ Yolanda:
 <$0D>
 //\nあれは… バスルーム… タニアが、
 \n
-It's a bathroom. It's\n
-just like the one Tanya...
+It's a bathroom.\n
+Just like the one Tanya...
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -48,14 +48,14 @@ Are you okay there?\n
      
 <$0D>
 //何かを見たんだろうけど、\n
-You must have seen something\n
+You must have seen something.\n
 
 <$0B>
 //  
   
 <$0D>
 //それがあんたの本質にかかわることだよ。
-that hit too close to home.
+Did it strike a nerve?
 <$00>
 
 // Pos: 00001A90
@@ -71,7 +71,7 @@ Yolanda:
 //\nどこにいるの？ あなたは？\nなんでアタシをつらくさせるの？
 \n
 Where are you? WHO are you?\n
-Stay the FUCK out of my head!
+Why are you in my head?!
 <$00>
 
 // Pos: 00001AB9
@@ -85,15 +85,14 @@ Stay the FUCK out of my head!
     
 <$0D>
 //リバーだよ、一緒に来ただろ。\nあんたはヨランダだね。分かるかい、ヨランダ。\n
-Please calm down, it's me, Liever.\n
-I came with, Yolanda.\n
-It IS Yolanda, right?
+Calm down. It's me, Liever.\n
+I came here with you, Yolanda.
 <$0B>
 //   
    
 <$0D>
 //この部屋に苦しみの権化がいるんだ、\n
-Expel the incarnation...\n
+Expel the suffering here...\n
 <$0C>
 
 <$0B>
@@ -101,7 +100,7 @@ Expel the incarnation...\n
      
 <$0D>
 //そいつを取り除くんだ。
-...of suffering in this room.
+The incarnation of suffering...
 <$00>
 
 // Pos: 00001B1A
@@ -116,7 +115,7 @@ Yolanda:
 <$0D>
 //\nうそよ、何も見あたらないわ。
 \n
-I don't see anything!
+I don't see anything.
 <$00>
 
 // Pos: 00001B34
@@ -138,13 +137,13 @@ There is a disturbance.\n
      
 <$0D>
 //どっかそのへんだよ、\n
-It is here in this room,\n
+It is here in this room.\n
 
 <$0B>
 //     
      
 <$0D>
 //あんたの近くだよ。
-and it's coming closer.
+It is coming closer.
 <$00>
 

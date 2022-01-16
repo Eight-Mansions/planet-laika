@@ -179,8 +179,9 @@ Jeremiah?
 White Eagle:
 <$0D>
 //\nそもそもこの星は死の動機を秘めておる。
-Well, for one, this planet\n
-has its own reason for dying.
+\n
+This planet has its own\n
+reasons for dying, Phoenix.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -204,9 +205,10 @@ Their ill will became Evil Mind.
 White Eagle:
 <$0D>
 //\n流刑者エレミヤはこの星の精神に触れ、\n死は終わりではなく始まり、
+\n
 Jeremiah the Exile was touched by\n
-the soul of the planet. His death was\n
-not his end, but his beginning.
+the soul of the planet. His death\n
+was not his end, but his beginning.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -353,15 +355,15 @@ April:
 <$0D>
 //\n私、ヌーンの思い出に\n引きずり込まれたみたいになって…
 \n
-It felt like I'd been sucked\n
-into Noon's memories.
+I feel like I got sucked\n
+into Noon's memories somehow.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n気が付くとママの気配やら、子供の頃の家やら、\nまがまがしい幻覚の中にいたの。
 \n
-I was in these creepy visions about\n
+I saw these creepy visions with\n
 "cottage" this, and "Mummy" that.
 <$00>
 
@@ -377,34 +379,32 @@ April:
 <$0D>
 //\n見えていたのよ、ライカのこと。\nでも金しばりにあったみたいになって、\n体が動かなかったの。
 \n
-But I saw you, Laika. It was like you\n
-were cast in metal, and couldn't move.
+I saw you too, Laika. It was like you\n
+were cast in metal and couldn't move.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n夢の中…\n夢の中がどこか別な場所につながってるのよ。
 \n
-Like the inside of that dream...was\n
-connected to another unknown place.
+It's like the insides of that dream\n
+were connected to places unknown.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそれなのに思うようにならない…\nそれに夢だって、\n本当に自分が見ている夢かどうか怪しいよね。
 \n
-For all that, it wasn't as\n
-I'd thought, that dream.
-<$0C>
-It made me doubt I'd dreamt it.
+I didn't know what I was dreaming,\n
+or if I was dreaming at all...
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n夢にそっくりなんだけど、\nきっとまどわされたのよ。
 \n
-I know that is what dreams are meant\n
-to do, but I felt so lost afterwards.
+I know that's how dreams are meant\n
+to feel, but now I'm at a loss.
 <$00>
 
 // Pos: 00003985

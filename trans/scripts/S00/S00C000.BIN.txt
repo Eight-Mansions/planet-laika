@@ -624,7 +624,7 @@ September
 //P:00011EE8
 #WRITE(PTR, $0000FC90)
 //９月、報われるキセツ
-When miracles were due?
+When miracles fell?
 <$00>
 
 //P:00011EF6
@@ -648,7 +648,7 @@ December
 //P:00011F16
 #WRITE(PTR, $0000FCA0)
 //予惑に満ちたやさしい１２月
-When omens answered?
+When omens thrived?
 <$00>
 
 //P:00011F28
@@ -1331,8 +1331,8 @@ April:
 <$0D>
 //\n忘却の海にはなにもなさそうね。
 \n
-It doesn't seem to be anything\n
-in Oceanum oblivionis.
+I don't think there's anything\n
+going on in Oceanum Oblivionis.
 <$00>
 
 //P:00011965
@@ -1383,7 +1383,7 @@ April:
 <$0D>
 //\nねえ、ライカ、リトルよ。\nリトルを見つけるの。
 \n
-Hey, Laika. It's Little.\n
+Have you seen Little?\n
 We should look for him.
 <$00>
 
@@ -1407,8 +1407,8 @@ April:
 <$0D>
 //\nどうしたの、急におびえはじめて。\nこの先に何があるの？
 \n
-What's going on? I feel so scared\n
-all of a sudden. What's up ahead?
+I feel anxious all of a sudden.\n
+What do you think is up ahead?
 <$00>
 
 

@@ -576,7 +576,7 @@ No power to help, whoosh!
 #WHB(PTR, $00001815)
 
 //マラケシュフラワー
-Marrakech Flower
+Marrakech
 <$00>
 
 // Pos: 00002086
@@ -586,7 +586,7 @@ Marrakech Flower
 #WHB(PTR, $00001819)
 
 //花の命ははかない？
-A flower, wilted?
+A wilted flower?
 <$00>
 
 // Pos: 00002092
@@ -596,7 +596,7 @@ A flower, wilted?
 #WHB(PTR, $0000181D)
 
 //ブーマーズナイト
-Boomer Night
+Boomer
 <$00><$00>
 
 // Pos: 0000209C
@@ -606,7 +606,7 @@ Boomer Night
 #WHB(PTR, $00001821)
 
 //怖い夜って？
-A scary evening?
+A fearer of night?
 <$00><$00>
 
 // Pos: 000020A6
@@ -616,7 +616,7 @@ A scary evening?
 #WHB(PTR, $00001825)
 
 //クロウドリーム
-Crow Dream
+Crow
 <$00>
 
 // Pos: 000020AE
@@ -626,7 +626,7 @@ Crow Dream
 #WHB(PTR, $00001829)
 
 //夢の散歩者？
-A strolling dream?
+A dream traveler?
 <$00><$00>
 
 // Pos: 000020BA
@@ -766,7 +766,7 @@ August
 #WHB(PTR, $00001861)
 
 //寝付けない８月の夜
-When nights were longest?
+When nights endured?
 <$00>
 
 // Pos: 0000212C
@@ -786,7 +786,7 @@ September
 #WHB(PTR, $00001869)
 
 //９月、実り
-When miracles were due?
+When miracles fell?
 <$00>
 
 // Pos: 0000213C
@@ -826,7 +826,7 @@ December
 #WHB(PTR, $00001879)
 
 //春のような１２月
-When omens were realized?
+When omens thrived?
 <$00>
 
 // Pos: 00002160

@@ -33,7 +33,7 @@ Cosmas:
 //\nレッドおじさんは\n地下水道にあると思い込んでるけどね。
 \n
 Uncle Red still thinks my hiding\n
-place is the underground canal.
+place is in the underground canal.
 <$00>
 
 // Pos: 000018D3
@@ -221,10 +221,10 @@ Cosmas:
 <$0D>
 //\nなんでか分からないけど、おじさんが\n僕のクビ筋に息を吹きかけたりしはじめると、\nいつも眠っちゃうんだよ。
 \n
-I don't know why, but...
+All I know is that, when Uncle\n
+Red breathed down my neck...
 <$0C>
-...when my uncle breathed on the
-back of my neck, I'd fall asleep.
+...I'd always fall asleep.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -235,7 +235,7 @@ And when I walked through the\n
 scary sandstorms in my dreams...
 <$0C>
 ...a whistling howl would blow\n
-it back, and it'd all go still.
+it back, and all would go still.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -243,7 +243,7 @@ Cosmas:
 //\nそうなるのはダークマンが\n僕を鋭んでくれるからだよ。
 \n
 I suppose I only noticed because\n
-Dark Man is sharpening my mind.
+Dark Man was sharpening my mind.
 <$00>
 
 // Pos: 00001B8A

@@ -14,7 +14,7 @@
 <$02>
 //やあ、レッドボーイ、\nサンタのおじさんだよ。
 Yes, Red Boy!\n
-It's me, Uncle Santa!
+It's me, your Santa Claus!
 <$00>
 
 // Pos: 000013A6
@@ -45,7 +45,7 @@ Isn't that a rude thing\n
 to say to your uncle?
 <$0C>
 Strip off, and show me that\n
-cute littleass ofyours.
+cute little ass of yours.
 <$00>
 
 // Pos: 000013E8
@@ -114,8 +114,9 @@ Red:
 <$0D>
 //\nへへへ… へへ…ついに来やがった、おじさんだ\n泡のおじさんに捕まった… へへへ…\nへへへへへへへへへへへへへへへ…
 \n
-Hehehe... You're finally here, Uncle.\n
-You caught me, Uncle Bubbles... Hehehe!
+Hehehe, You're finally here, Uncle.\n
+You caught me in your bubbles...\n
+Hehehehehe...
 <$00>
 
 // Pos: 00001497
@@ -138,13 +139,14 @@ Red:
 //\nへへ… 俺はどうなるんだ…\nこれが用済みってことなのか？
 \n
 Hehe, what will happen to me now?\n
-Will I have...served my purpose?
+Have I...served my purpose?
 <$0C><$0B>
 //レッド：
 Red:
 <$0D>
 //\nああ、用済み、あああああああああああ…
 \n
-Ah, guess I'll be obsolete a...gain...
+Ah, then I really am old news.\n
+I'm obso...lete...
 <$00>
 

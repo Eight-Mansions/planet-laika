@@ -25,16 +25,16 @@ Madam Agatha:
 <$0D>
 //\nどうやらヘロデは\n別な場所にはまりこんだみたいなの。
 \n
-It seems Herod is trapped in some\n
-other location.
+I'm afraid Herod is trapped\n
+in an other location.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nそこから声だけが開こえてくるの。\nこんな内容だった…
 \n
-Wherever that is, I can only hear\n
-voices coming from it. As in...
+Wherever he is, I can only hear\n
+his voice calling out, saying...
 <$00>
 
 // Pos: 00002A4F
@@ -56,23 +56,23 @@ Madam Agatha:
 <$0D>
 //\nああ、その後は分からない。\n開き取れないの。
 \n
-I...wish I could figure out the rest.\n
-I can't hear it.
+I wish I could figure out the rest,\n
+but I can't hear anything more.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nこれは預言じゃない？\nみんながうわさしてる預言…
 \n
-That's not a prophecy, is it? Like\n
-the ones everyone was talking about?
+That couldn't be one of those\n
+rumored prophecies, could it?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nでもどうして？
 \n
-But why?
+But why would he know one?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -80,7 +80,7 @@ Madam Agatha:
 //\nヘロデに預言が分かるとは思えないのに、\nなぜ？
 \n
 I can't imagine Herod would know\n
-the prophecies, so why?
+the prophecies, so...why?
 <$00>
 
 // Pos: 00002AF2
@@ -95,8 +95,8 @@ Madam Agatha:
 <$0D>
 //\n預言はその言葉を待つ人のところに\n降りてくるのよ。
 \n
-The words of prophecy come to\n
-those who open up to them.
+The words of prophecy only come to\n
+those who open their minds to them.
 <$00>
 
 // Pos: 00002B1C
@@ -111,20 +111,16 @@ Madam Agatha:
 <$0D>
 //\nなんとか悪夢につなげなきゃ。\nもう一度、試してみるわ。
 \n
-For now, I have to access the\n
-nightmares any way I can.
-<$0C>
-I'll try again.
+For now, I'll keep trying to access\n
+Herod's nightmare any way I can.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nとても集中力がいるから、あなたの持ち物を\n見てあげられなくなるわ。
 \n
-I'll have to concentrate. 
-<$0C>
-I won't be able to look at anything\n
-else for you in the meantime.
+I must concentrate, so I won't\n
+be able to read objects for you.
 <$00>
 
 // Pos: 00002B7A
@@ -190,16 +186,16 @@ Madam Agatha:
 <$0D>
 //\nヘロデは迷子になっているのよ。\n建う次元にはまりこんだみたいなの。
 \n
-I lost Herod. It's almost like\n
-he's lost in another dimension.
+I lost Herod. I fear he's somehow\n
+lost in the other dimension.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nきっとあのエネルギーのせいね。\n大きなエネルギー…
 \n
-I'm sure it's that massive energy\n
-I sense coming from the Face.
+A massive energy radiating from\n
+the Face is intercepting contact.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -207,15 +203,15 @@ Madam Agatha:
 //\nザ・フェイスの近くに惑じるの。\nいよいよなのね、この星が…
 \n
 The time's come for the planet to\n
-finally... Tch, time's too short.
+finally... Sorry. There's no time.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nああ、ぐずぐずしてはいられない、\nもう一度つなげてみるわ。悪夢の世界に。
 \n
-For now, I must try connecting to\n
-the world of nightmares again.
+For now, I must try reconnecting\n
+to the Land of Nightmares.
 <$1E><$03><$08><$00>
 
 // Pos: 00002C9F
@@ -230,8 +226,8 @@ Madam Agatha:
 <$0D>
 //\n何かを持ってきたのね。\nそれを読んであげるわ。
 \n
-I see you have something for me to\n
-read. Shall I read it for you?
+Did you bring an object for me\n
+to peer into?
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -1160,7 +1156,7 @@ I can't look anymore!
 #WHB(PTR, $000027C1)
 
 //マラケシュフラワー
-Marrakech Flower
+Marrakech
 <$00>
 
 // Pos: 00003A74
@@ -1170,7 +1166,7 @@ Marrakech Flower
 #WHB(PTR, $000027C5)
 
 //花の命ははかない？
-A flower, wilted?
+A wilted flower?
 <$00>
 
 // Pos: 00003A80
@@ -1180,7 +1176,7 @@ A flower, wilted?
 #WHB(PTR, $000027C9)
 
 //ブーマーズナイト
-Boomer Night
+Boomer
 <$00><$00>
 
 // Pos: 00003A8A
@@ -1190,7 +1186,7 @@ Boomer Night
 #WHB(PTR, $000027CD)
 
 //怖い夜って？
-A scary evening?
+A fearer of night?
 <$00><$00>
 
 // Pos: 00003A94
@@ -1200,7 +1196,7 @@ A scary evening?
 #WHB(PTR, $000027D1)
 
 //クロウドリーム
-Crow Dream
+Crow
 <$00>
 
 // Pos: 00003A9C
@@ -1210,7 +1206,7 @@ Crow Dream
 #WHB(PTR, $000027D5)
 
 //夢の散歩者？
-A strolling dream?
+A dream traveler?
 <$00><$00>
 
 // Pos: 00003AA8
@@ -1350,7 +1346,7 @@ August
 #WHB(PTR, $0000280D)
 
 //寝付けない８月の夜
-When nights were longest?
+When nights endured?
 <$00>
 
 // Pos: 00003B1A
@@ -1370,7 +1366,7 @@ September
 #WHB(PTR, $00002815)
 
 //９月、実り
-When miracles were due?
+When miracles fell?
 <$00>
 
 // Pos: 00003B2A
@@ -1410,7 +1406,7 @@ December
 #WHB(PTR, $00002825)
 
 //春のような１２月
-When omens were realized?
+When omens thrived?
 <$00>
 
 // Pos: 00003B4E

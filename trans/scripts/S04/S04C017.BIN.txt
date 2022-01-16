@@ -437,10 +437,10 @@ April:
 <$0D>
 //\n夢の中に… あれが夢だとしたらね、\nそこで見つけたの。 鏡の破片よ。
 \n
-I had a dream, if\n
-you can call it that.
+I had a dream...\n
+Well, if you can call it one.
 <$0C>
-In it found a shard\n
+In it, I found a shard\n
 from a broken mirror.
 <$0C><$0B>
 //エイプリル：
@@ -448,18 +448,18 @@ April:
 <$0D>
 //\n表面にオレンジ色の光が、\nふうっと現れて消える…
 \n
-An orange light reflected\n
-on its surface. 
+An orange light flickered\n
+on its reflective surface. 
 <$0C>
-It appeared, and then
-disappeared just as quickly.
+It appeared in an instant,\n
+and vanished just as quickly.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\n不思議でしょ。\n気になってアガタに見てもらったの…
 \n
-It was strange. I got so curious,\n
+It was odd. I got so curious,\n
 I asked Agatha to look at it.
 <$00>
 
@@ -475,8 +475,8 @@ April:
 <$0D>
 //\n鏡は私の物じゃなかったみたい。\n変ね、夢の中で見つけたのに…
 \n
-The mirror shard wasn't something\n
-of mine. I'd only found it in a dream.
+The mirror shard wasn't mine.\n
+I'd only found it in a dream.
 <$00>
 
 // Pos: 0000327F
@@ -499,8 +499,8 @@ April:
 <$0D>
 //\nリトルって酸索屋のリトルでしょ。\n彼、どこへ行ったの？ 心当たりないの？
 \n
-If he's not there, do you have\n
-any idea where he went?
+If Little isn't there,\n
+where do you think he went?
 <$00>
 
 // Pos: 000032D7

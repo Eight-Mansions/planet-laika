@@ -25,16 +25,16 @@ White Eagle:
 <$0D>
 //\nあのウデがただひとつの\n生者のあかしじゃった…
 \n
-That arm was his only proof of being\n
-alive.
+That arm is his only proof of ever\n
+being alive.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nいよいよお前の中で死が熟したのじゃな…
 \n
-In the end, Death finally sewed its\n
-seed into him.
+In the face of that proof, Death\n
+has finally sewn its seed into him.
 <$00>
 
 // Pos: 00002933
@@ -49,16 +49,16 @@ White Eagle:
 <$0D>
 //\nとうとうユニバーサルマンは\n死の世界で再生したのじゃ。
 \n
-Ultimately, Universal Man found\n
-rebirth in the Land of the Dead.
+Universal Man found his rebirth\n
+waiting in the Land of the Dead.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\n再生して\nネオ・ユニバーサルマンとなったのじゃ。
 \n
-From there, he was reborn as\n
-Neo-Universal Man.
+Upon finding it, he has been\n
+reborn as Neo-Universal Man.
 <$00>
 
 // Pos: 00002988
@@ -73,10 +73,10 @@ White Eagle:
 <$0D>
 //\nネオや、預言はどうなったのじゃ…\nここにおる者が受けるのか…
 \n
-What will Neo do with the prophecy?\n
+Neo cannot use his prophecy now.
 <$0C>
-Is there not someone here who can\n
-withstand its words?
+Is there anyone else here who\n
+can withstand the words?
 <$00>
 
 // Pos: 000029B7
@@ -99,7 +99,7 @@ White Eagle:
 //\nお前は、お前ではないな、\nさっきのお前ではない…
 \n
 It's you, isn't it? While you're not\n
-the you from before, it is you.
+the you from before, it is you!
 <$00>
 
 // Pos: 000029F7
@@ -192,8 +192,8 @@ Neo-Universal Man:
 <$0D>
 //\n預言を理解する人間の前に、\nあああ、私は現れる。
 \n
-If there is a human who can bear\n
-the prophecy, and I shall come.
+If that human who can bear the\n
+prophecy, I shall come down.
 <$00>
 
 // Pos: 00002B62
@@ -577,7 +577,7 @@ THRESHOLD ARE COMING.
 
 <$00><$13><$2A>
 //再生だ、再生の時だ。\n世界は喜びにあふれ、光が闇を消すだろう！
-TIME AND AGAIN FOR REBIRTH!\n
+TIME AND AGAIN, WE FACE REBIRTH!\n
 THE WORLD WILL GLOW IN HIS JOY.\n
 DARKNESS WILL BURN IN HIS LIGHT.
 <$00>

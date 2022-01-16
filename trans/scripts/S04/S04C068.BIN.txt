@@ -342,11 +342,10 @@ Linda:
 <$0D>
 //\n建うよねー、犬顔だものねー。\n汚い布が変なのー、光ってるのー。
 \n
-No, you still have a dogface.\n
-That dirty cloth had changed, though.
+No. You still have a dogface,\n
+but that dirty cloth changed.
 <$0C>
-I remember. It lit up,\n
-and was shining.
+I remember seeing it light up.
 <$1E><$01><$08><$00>
 
 // Pos: 0000225F
@@ -361,8 +360,8 @@ Linda:
 <$0D>
 //\nあの布、光ってるのー。\n変よー、ぴかぴか光ってるのー。
 \n
-That dirty cloth had changed.\n
-It lit up, and was shining.
+That dirty cloth changed.\n
+I remember seeing it light up.
 <$1E><$01><$04><$00>
 
 // Pos: 0000228A

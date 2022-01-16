@@ -1069,7 +1069,7 @@ Madam Agatha:
 <$0D>
 //\nなにやらしきりに頭を動かしてる…\n体は相変わらず小きざみに上下してるわ。\nいつものブーマーじゃないみたいね。
 \n
-His head and body twitch about
+His head and body twitch about\n
 in the tiniest convulsions.
 <$0C>
 This isn't the Boomer I know.
@@ -1172,7 +1172,7 @@ I can't look anymore!
 #WHB(PTR, $00003095)
 
 //マラケシュフラワー
-Marrakech Flower
+Marrakech
 <$00>
 
 // Pos: 000043D0
@@ -1182,7 +1182,7 @@ Marrakech Flower
 #WHB(PTR, $00003099)
 
 //花の命ははかない？
-A flower, wilted?
+A wilted flower?
 <$00>
 
 // Pos: 000043DC
@@ -1192,7 +1192,7 @@ A flower, wilted?
 #WHB(PTR, $0000309D)
 
 //ブーマーズナイト
-Boomer Night
+Boomer
 <$00><$00>
 
 // Pos: 000043E6
@@ -1202,7 +1202,7 @@ Boomer Night
 #WHB(PTR, $000030A1)
 
 //怖い夜って？
-A scary evening?
+A fearer of night?
 <$00><$00>
 
 // Pos: 000043F0
@@ -1212,7 +1212,7 @@ A scary evening?
 #WHB(PTR, $000030A5)
 
 //クロウドリーム
-Crow Dream
+Crow
 <$00>
 
 // Pos: 000043F8
@@ -1222,7 +1222,7 @@ Crow Dream
 #WHB(PTR, $000030A9)
 
 //夢の散歩者？
-A strolling dream?
+A dream traveler?
 <$00><$00>
 
 // Pos: 00004404
@@ -1362,7 +1362,7 @@ August
 #WHB(PTR, $000030E1)
 
 //寝付けない８月の夜
-When nights were longest?
+When nights endured?
 <$00>
 
 // Pos: 00004476
@@ -1382,7 +1382,7 @@ September
 #WHB(PTR, $000030E9)
 
 //９月、実り
-When miracles were due?
+When miracles fell?
 <$00>
 
 // Pos: 00004486
@@ -1422,7 +1422,7 @@ December
 #WHB(PTR, $000030F9)
 
 //春のような１２月
-When omens were realized?
+When omens thrived?
 <$00>
 
 // Pos: 000044AA

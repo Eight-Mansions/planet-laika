@@ -13,7 +13,7 @@
 
 <$10><$12>
 //に我々に何か用か？
-に What do you want from Us?
+にWhat do you want from Us?
 <$00>
 
 // Pos: 00003788
@@ -39,7 +39,7 @@ Who said that?
 
 <$10><$12>
 //にどこを見ている、ここだ、お前の前だ。
-に Where are you looking?\n
+にWhere are you looking?\n
 We are here, before you.
 <$00>
 
@@ -66,8 +66,8 @@ Spacer:
 
 <$11><$12>
 //に私はマコトの存在だ。\nマコトの顔とでも理解してくれ。\nトゥルーフェイスだ。
-に We are the existence of truth,\n
-the face of truth.\n
+にWe are the existence of truth,\n
+the faces of truth.\n
 We are True Faiths.
 <$00>
 
@@ -83,8 +83,8 @@ Spacer:
 <$0D>
 //\nあなたが人間の顔を作っている…\nそういうことなんだな。
 \n
-That sounds to me like you enjoy\n
-making human faces around here.
+Ah! You're the ones who enjoy\n
+making human faces around here!
 <$00>
 
 // Pos: 00003824
@@ -104,8 +104,8 @@ True Faiths:
 \n
 Enjoy? Foolish!
 <$0C>
-You humans alone offer your\n
-faces any significance.
+You humans alone appraise\n
+your faces with significance.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -130,8 +130,8 @@ Spacer:
 <$0D>
 //\n滅んだ…すると、あなたは火星人なのか…
 \n
-Extinction...?\n
-Ah, so you're Martians.
+Extinction...\n
+Say, are you Martians?
 <$00>
 
 // Pos: 000038B5
@@ -175,7 +175,7 @@ Spacer:
 <$0D>
 //\n私は地球人…地球から来た…
 \n
-I came here from Earth, so that\n
+I came from Earth, so that\n
 would make me an Earthling.
 <$00>
 
@@ -206,7 +206,7 @@ True Faiths:
 //\n子をもうければ父親か、盗みを働けば犯罪者か、\n闘いの場では兵士か、お前達はいつも\n都合のいい自分を用意している。
 \n
 If you have a child, you're a father?\n
-If you take, you're a thief?\n
+If you steal, you're a thief?\n
 If you fight, you're a soldier?
 <$0C><$0B>
 //トゥルーフェイス：
@@ -230,7 +230,7 @@ Spacer:
 <$0D>
 //\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
 \n
-Listen, in our social structure,\n
+Listen. In our social structure,\n
 humans are given roles: fathers,n
 teachers, mothers, children...
 <$00>
@@ -285,7 +285,7 @@ Spacer:
 <$0D>
 //\nひとりひとりが、個性を持ち、\n生きているからだ。
 \n
-Because each and every one of us has\n
+Each and every one of us has\n
 a personal story to tell.
 <$00>
 
@@ -320,8 +320,9 @@ serve the whole.
 True Faiths:
 <$0D>
 //\nそれは個性などではない。\n心臓は脳にはなれない、\n口は耳にはなれない。
-A heart cannot be a brain.\n
-Nor a mouth, an ear.
+\n
+A heart cannot be a brain,\n
+nor a mouth an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -366,8 +367,8 @@ True Faiths:
 //\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない。\nそこにお前たちの顔が災いをもたらせたのだ。
 \n
 Indeed, We did not seek\n
-"individuality". Your faces ignited\n
-Our destruction in its entirety.
+"individuality". Your faces\n
+ignited Our very destruction.
 <$00>
 
 // Pos: 00003C8D
@@ -401,8 +402,8 @@ True Faiths:
 <$0D>
 //\n１２億６０００万年にして、一度の過ちだ。\n我々は過去に三度、地球に向かった。
 \n
-Our one mistake in 1.26 billion years.\n
-Now, We visited Earth thrice in the\n
+One mistake in 1.26 billion years.\n
+We had visited Earth thrice in the\n
 past...
 <$0C><$0B>
 //トゥルーフェイス：
@@ -453,14 +454,15 @@ Wisdom...
 True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
-To "see the world in a grain of\n
-sand"? To "see heaven in a single\n
-wildflower"? 
+\n
+"To see a World in a Grain of Sand"?\n
+And a Heaven in a Wild Flower"?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\nこれのどこが英知なのだ。
+\n
 What "wisdom" is this?!
 <$0C><$0B>
 //トゥルーフェイス：
@@ -468,7 +470,7 @@ True Faiths:
 <$0D>
 //\n砂は砂だ。野花とはおそらく植物だろう。\n植物がなぜ天国なのだ。
 \n
-Sand is sand! Wildflowers are plants.\n
+Sand is sand! Flowers are plants!\n
 Why would Heaven exist in a plant?!
 <$0C><$0B>
 //トゥルーフェイス：
@@ -516,6 +518,6 @@ Spacer:
 //\nあああ、バカみたいだ。\n汚い布に話しかけるなんて！
 \n
 Sheesh. I must be an idiot,\n
-arguing with a rag like this.
+arguing with a dirty rag.
 <$00>
 

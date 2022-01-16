@@ -29,7 +29,7 @@ I want to go home!
 
 <$10><$12>
 //に苦しいのか？
-に Does it hurt?
+にDoes it hurt?
 <$00>
 
 // Pos: 0000234A
@@ -56,7 +56,7 @@ Captain? Captain Galil, is that you?
 
 <$10><$12>
 //にお前を苦悩から救えるのは、\n我々しかいない。
-に We are the only one who can save\n
+にWe are the only one who can save\n
 you from your suffering.
 <$00>
 
@@ -68,7 +68,7 @@ you from your suffering.
 
 <$10><$12>
 //に覚えているだろう、私だ。
-に Surely you remember Us.
+にSurely you remember Us.
 <$00>
 
 // Pos: 000023A5
@@ -95,7 +95,7 @@ The cloth that made my face.
 
 <$10><$12>
 //にそうだ。私は顔だ。
-に That's right. We are your faces.
+にThat's right. We are your faces.
 <$00>
 
 // Pos: 000023D8
@@ -122,7 +122,7 @@ Are you...God? Are you the god of that\n
 
 <$10><$12>
 //に我々は神ではない。存在なのだ。\n存在に形を与えて、顔となった。\n存在は、善でも悪でもない。
-に We are no God. We are one\n
+にWe are no God. We are one\n
 existence, given facely shape.\n
 We are neither good nor evil.
 <$00>
@@ -151,7 +151,7 @@ you mean. Can you show me?
 
 <$10><$12>
 //に見えるか見えないかは、問顆ではない。
-に To show or not to show,\n
+にTo show or not to show,\n
 that is now the question.
 <$0C>
 //存在としての我々は、\n顔を得たことで実体化した。\nしかし、顔によって崩壊したのだ。
@@ -183,7 +183,7 @@ Having it makes me suffer!
 
 <$10><$12>
 //にその顔が災いをもたらしたのだな。\n戻すのはたやすい。\nさあ、来るのだ。
-に That face harkens disaster,\n
+にThat face harkens suffering,\n
 but you can get rid of it.
 <$00>
 
@@ -221,7 +221,7 @@ Who said that?
 
 <$10><$12>
 //にどこを見ている、ここだ、お前の前だ。
-に Where are you looking?\n
+にWhere are you looking?\n
 We are here, before you.
 <$00>
 
@@ -248,8 +248,8 @@ Spacer:
 
 <$10><$12>
 //に私は真の存在だ。\n真の顔とでも理解してくれ。\nトゥルーフェイスだ。
-に We are the existence of truth,\n
-the face of truth.\n
+にWe are the existence of truth,\n
+the faces of truth.\n
 We are True Faiths.
 <$00>
 
@@ -265,8 +265,8 @@ Spacer:
 <$0D>
 //\nあなたが人間の顔を作っている…\nそういうことなんだな。
 \n
-That sounds to me like you enjoy\n
-making human faces around here.
+Ah! You're the ones who enjoy\n
+making human faces around here!
 <$00>
 
 // Pos: 000025B5
@@ -286,8 +286,8 @@ True Faiths:
 \n
 Enjoy? Foolish!
 <$0C>
-You humans alone offer your\n
-faces any significance.
+You humans alone appraise\n
+your faces with significance.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -312,8 +312,8 @@ Spacer:
 <$0D>
 //\n滅んだ…すると、あなたは火星人なのか…
 \n
-Extinction...?\n
-Ah, so you're Martians.
+Extinction...\n
+Say, are you Martians?
 <$00>
 
 // Pos: 00002647
@@ -361,7 +361,7 @@ Spacer:
 <$0D>
 //\n私は地球人…地球から来た…
 \n
-I came here from Earth, so that\n
+I came from Earth, so that\n
 would make me an Earthling.
 <$00>
 
@@ -392,7 +392,7 @@ True Faiths:
 //\n子をもうければ父親か、盗みを働けば犯罪者か、\n闘いの場では兵士か、お前達はいつも\n都合のいい自分を用意している。
 \n
 If you have a child, you're a father?\n
-If you take, you're a thief?\n
+If you steal, you're a thief?\n
 If you fight, you're a soldier?
 <$0C><$0B>
 //トゥルーフェイス：
@@ -416,8 +416,8 @@ Spacer:
 <$0D>
 //\n私たち人間は、社会の中で役割を演じている。\n子の前では父でも、教え子の前では教師となり、\n母の前では子になる。逃げてなど、いない。
 \n
-Listen, in our social structure,\n
-humans are given roles: fathers,n
+Listen. In our social structure,\n
+humans are given roles: fathers,\n
 teachers, mothers, children...
 <$00>
 
@@ -471,7 +471,7 @@ Spacer:
 <$0D>
 //\nひとりひとりが、個性を持ち、\n生きているからだ。
 \n
-Because each and every one of us has\n
+Each and every one of us has\n
 a personal story to tell.
 <$00>
 
@@ -501,7 +501,7 @@ True Faiths:
 \n
 Each and every organ is fixed to\n
 serve the whole. A heart cannot be\n
-a brain. Nor a mouth, an ear.
+a brain, nor a mouth an ear.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -546,8 +546,8 @@ True Faiths:
 //\n個性、その言葉はもうよい。\n我々にはひとり、ふたりという発想はない\nそこにお前たちの顔が災いをもたらせたのだ。
 \n
 Indeed, We did not seek\n
-"individuality". Your faces ignited\n
-Our destruction in its entirety.
+"individuality". Your faces\n
+ignited Our very destruction.
 <$00>
 
 // Pos: 00002A13
@@ -581,8 +581,8 @@ True Faiths:
 <$0D>
 //\n１２億６０００万年にして、一度の過ちだ。\n我々は過去に三度、地球に向かった。
 \n
-Our one mistake in 1.26 billion years.\n
-Now, We visited Earth thrice in the\n
+One mistake in 1.26 billion years.\n
+We had visited Earth thrice in the\n
 past...
 <$0C><$0B>
 //トゥルーフェイス：
@@ -591,7 +591,7 @@ True Faiths:
 //\n三度目にお前たちが現れたのだ。\nお前たち人間は弱く、\n絶滅を予定された種のはずだった。
 \n
 ...and on the third day, humans\n
-appeared. Your species was a flicker\n
+appeared. Your species is a flicker\n
 doomed for extinction.
 <$00>
 
@@ -633,9 +633,9 @@ Wisdom...
 True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る\nこれのどこが英知なのだ。
-To "see the world in a grain of\n
-sand"? To "see heaven in a single\n
-wildflower"? 
+\n
+"To see a World in a Grain of Sand"?\n
+And a Heaven in a Wild Flower"?!
 <$0C>
 What "wisdom" is this?!
 <$0C><$0B>
@@ -644,7 +644,7 @@ True Faiths:
 <$0D>
 //\n砂は砂だ。野花とはおそらく植物だろう。\n植物がなぜ天国なのだ。
 \n
-Sand is sand! Wildflowers are plants.\n
+Sand is sand! Flowers are plants!\n
 Why would Heaven exist in a plant?!
 <$0C><$0B>
 //トゥルーフェイス：
@@ -692,6 +692,6 @@ Spacer:
 //\nあああ、バカみたいだ。\n汚い布に話しかけるなんて！
 \n
 Sheesh. I must be an idiot,\n
-arguing with a rag like this.
+arguing with a dirty rag.
 <$00>
 

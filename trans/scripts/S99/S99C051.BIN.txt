@@ -803,7 +803,7 @@ Yolanda:
 //\nリャンハウス… 入れなかった…\n誰かが先に… ふん、ついてないね。
 \n
 I couldn't get into House Liang.\n
-Someone beat me to it, the fuck.
+Some bimbo beat me to it.
 <$00>
 
 // Pos: 00002291
@@ -867,7 +867,7 @@ Yolanda:
 //\nリャンハウス… 入れなかった…\n誰かが先に… ふん、ついてないね。
 \n
 I couldn't get into House Liang.\n
-Someone beat me to it, the fuck.
+Some bimbo beat me to it.
 <$00>
 
 // Pos: 0000232E
@@ -898,7 +898,7 @@ Ernest:
 <$0D>
 //\n誰かが俺の中に入ってきやがった。\n頭ん中に…
 \n
-Someone's been inside of me.\n
+Someone got inside of me.\n
 Inside of my head...
 <$00>
 
@@ -930,14 +930,15 @@ Ernest:
 //\n建う！ 俺はあの野郎を…\nナイトプラネットの前まで行ったんだ。
 \n
 No, I tried to go to NIGHT PLANET,\n
-but that mongrel was in the way.
+but that mongrel got in the way.
 <$0C><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n中に入れなくて… そん時だ、誰かが…
-He wouldn't let me in, and\n
-then, someone came and...
+\n
+When I couldn't get in,\n
+someone else must've...
 <$00>
 
 // Pos: 000023E5
@@ -952,7 +953,7 @@ Yolanda:
 <$0D>
 //\n出くわさなくてよかった…
 \n
-Hmm. Glad it wasn't me, I guess.
+Hmph. Glad it wasn't me, I guess.
 <$00>
 
 // Pos: 000023FE
@@ -982,8 +983,8 @@ Ernest:
 <$0D>
 //\n出かけてるんだ、そうに建いねぇ。
 \n
-He must be out.\n
-Only possibility.
+He must be the one out right\n
+now. It's the only possibility.
 <$00>
 
 // Pos: 0000243B
@@ -998,8 +999,8 @@ Yolanda:
 <$0D>
 //\nあの赤い家のとこ？\n目の玉のあるって言うとこ？
 \n
-You think he went to the red building?\n
-The one with the eyeballs.
+Think he went to the red building?\n
+The one with "the eyeballs"?
 <$00>
 
 // Pos: 00002462
@@ -1014,8 +1015,8 @@ Ernest:
 <$0D>
 //\n知らねぇ、おう、俺は知らねぇ。
 \n
-I don't know. God, I don't know\n
-anything right now.
+I don't know, Yolanda.\n
+I don't know anything right now.
 <$00>
 
 // Pos: 00002480
@@ -1030,9 +1031,10 @@ Yolanda:
 <$0D>
 //\nどうもアタシに関係してるのよ、\nあの扉の中にあるものが。
 \n
-I have the strangest feeling.\n
+Sorry. It's just, I have this\n
+weird feeling.
 <$0C>
-Like, whatever's behind that yonder\n
+Like, whatever's behind that weird\n
 door is somehow related to me.
 <$0C><$0B>
 //ヨランダ：
@@ -1057,6 +1059,6 @@ Yolanda:
 //\nまたアタシを呼んでる…\n誰なの… 声がするのよ… か細い声…
 \n
 Someone's...calling me again. \n
-I hear their...feeble little voice...
+I hear their feeble little voice.
 <$00>
 

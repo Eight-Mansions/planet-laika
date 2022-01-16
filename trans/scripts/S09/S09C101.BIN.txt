@@ -255,7 +255,7 @@ I guess he "served his purpose".
 #WHB(PTR, $00001A6D)
 
 //マラケシュフラワー
-Marrakech Flower
+Marrakech
 <$00>
 
 // Pos: 00001F2C
@@ -265,7 +265,7 @@ Marrakech Flower
 #WHB(PTR, $00001A71)
 
 //花の命ははかない？
-A flower, wilted?
+A wilted flower?
 <$00>
 
 // Pos: 00001F38
@@ -275,7 +275,7 @@ A flower, wilted?
 #WHB(PTR, $00001A75)
 
 //ブーマーズナイト
-Boomer Night
+Boomer
 <$00><$00>
 
 // Pos: 00001F42
@@ -285,7 +285,7 @@ Boomer Night
 #WHB(PTR, $00001A79)
 
 //怖い夜って？
-A scary evening?
+A fearer of night?
 <$00><$00>
 
 // Pos: 00001F4C
@@ -305,7 +305,7 @@ Crow Dream
 #WHB(PTR, $00001A81)
 
 //夢の散歩者？
-A strolling dream?
+A dream traveler?
 <$00><$00>
 
 // Pos: 00001F60
@@ -445,7 +445,7 @@ August
 #WHB(PTR, $00001AB9)
 
 //寝付けない８月の夜
-When nights were longest?
+When nights endured?
 <$00>
 
 // Pos: 00001FD2
@@ -465,7 +465,7 @@ September
 #WHB(PTR, $00001AC1)
 
 //９月、実り
-When miracles were due?
+When miracles fell?
 <$00>
 
 // Pos: 00001FE2
@@ -505,7 +505,7 @@ December
 #WHB(PTR, $00001AD1)
 
 //春のような１２月
-When omens were realized?
+When omens thrived?
 <$00>
 
 // Pos: 00002006

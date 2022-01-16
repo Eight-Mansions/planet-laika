@@ -20,22 +20,22 @@ Linda:
 A stranger passed\n
 through here a while ago.
 <$0C>
-He looked like a mangled corpse.
+He looked like a frozen corpse.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n死人みたいな変なのがー、ロッジの方に\n行ったけど、途中で消えたのー。
-The man went towards the lodge,\n
-but disappeared along the way.
+The made for the lodge, but\n
+disappeared along the way.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\nアタシ、幽霊でも見たのー？ 変？\n夢見てるみたいねー。
 \n
-Did I see a ghost? It's strange, no?\n
-I must have dreamed it.
+Did I see a ghost? It's weird.\n
+Maybe I dreamed it all up...
 <$00>
 
 // Pos: 00002B6B
@@ -50,8 +50,8 @@ Linda:
 <$0D>
 //\nあらー、またまた現実惑ないのー、\nないない、あー、ないない、ないなー…
 \n
-Oh, here I go. I've lost all sense of\n
-reali...! R-reali...realit-t-ty...!
+Oh, here I go. I've lost sense of\n
+reali...! R-reali...! Realit-t-ty!
 <$00>
 
 // Pos: 00002B9A

@@ -25,16 +25,16 @@ Rummy:
 <$0D>
 //\nアイス、溶けてるな。\n僕のこと、怖い目で見るんだな。
 \n
-Even if ice melts, he's looking at me\n
-with scary eyes.
+Even after the ice melted, he still\n
+looks at me with those scary eyes.
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nコロニー中、動きまわってたな、\n誰かをさがしてるみたいだったな。
 \n
-He's lurking around the colony now,\n
-supposedly searching for someone.
+He might still be in the colony.\n
+I think he was searching for someone.
 <$1E><$03><$08><$00>
 
 // Pos: 00003FEF
@@ -49,12 +49,16 @@ Rummy:
 <$0D>
 //\nそうだな、僕がラミーだな、\nといっても実際は…
 \n
-It's me, Rummy...but, actually...
+It's me, Rummy...\n
+But...I don't feel so...
 <$0C><$12><$0B><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nああ、実際は…なんだな…変だな…
+\n
+Ugh, this...doesn't feel right.\n
+I think I'm gonna be...
 <$1E><$03><$04><$00>
 
 // Pos: 00004032
@@ -113,6 +117,7 @@ Neo-Universal Man:
 //\nおおお、私を呼ぶ者がある…
 \n
 Oh, someone calls for me...
+leading me to Jeremiah...
 <$0C><$12>
 //に
 に
@@ -122,9 +127,7 @@ Neo-Universal Man:
 <$0D>
 //\nエレミヤの元へ、純粋な死へ。\nさらなる死へ、その深みへ。
 \n
-...leading me to Jeremiah.\n
-Leading me to sweet Death. 
-<$0C>
+Leading me to sweet Death...\n
 To the deepest depths of Death.
 <$00>
 
@@ -151,7 +154,7 @@ White Eagle:
 It waits beyond the nightmares,\n
 beyond all falsehood.
 <$0C>
-It waits the Land of the Dead.
+It waits in the Land of the Dead.
 <$00>
 
 // Pos: 00004187
@@ -166,7 +169,7 @@ White Eagle:
 <$0D>
 //\nいよいよじゃな、最後の試練じゃ。\nそれを乗り越えて、お前たちは…
 \n
-At last, you all must band together\n
+You all must band together\n
 to overcome this final test.
 <$0C><$0B>
 //ホワイトイーグル：
@@ -238,7 +241,7 @@ Rummy:
 <$0D>
 //\nなんでかな、声がかすめたな。\nあんたを呼ぶ声がかすめたな。
 \n
-I don't know who or what it is, but I\n
+I don't know who or what from, but I\n
 hear a faint voice calling for you.
 <$1E><$03><$04><$00>
 
@@ -254,7 +257,7 @@ Sammy:
 <$0D>
 //\nだな、だな、だな…建うわ。
 \n
-Change, don't, change...don't...\n
+Change, don't change, change...\n
 This doesn't feel right, a-nope.
 <$1E><$01><$08><$00>
 
@@ -278,24 +281,24 @@ Sammy:
 <$0D>
 //\nだからもう、あれこれかぎ回るの、\nよそうと思うの。
 \n
-As things are now, I feel it best we go\n
-and make whatever rounds we have left.
+As things are now, you'd better\n
+go handle any unfinished business.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\n忘却の海に変な扉があったけど…
 \n
-But you know, I saw a strange door\n
-over at Oceanum oblivionis.
+I saw a strange door out\n
+in Oceanum oblivionis.
 <$0C><$0B>
 //サミー：
 Sammy:
 <$0D>
 //\nいや、もう怖いから、入らないわ。\nアタシを見失いそうになるのよ。
 \n
-That stuff is too scary for me now.\n
-I've lost sight of my self as is.
+It was too scare for me to go in.\n
+I'm past my breaking point as it is.
 <$1E><$01><$04><$00>
 
 // Pos: 00004344

@@ -92,7 +92,7 @@ Still,
 <$0F>
 //。\nこの星の声に耳をかたむけるのよ。
 , you must open\n
-your self to the planet, and listen.
+your self to the planet. Listen.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -123,16 +123,16 @@ Madam Agatha:
 <$0D>
 //\nエイプリルがいるのなら\nどこか他に入口があるはず。
 \n
-If April is in there, she\n
-must have found an entrance.
+If April is in there, she must\n
+have gone through another door.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nここからは入れないわ、\n何も見えなくなったの。
 \n
-I can't get to her from here.\n
-I can't see anything.
+I can't reach from here.\n
+I can't see anything!
 <$00>
 
 // Pos: 000012D0
