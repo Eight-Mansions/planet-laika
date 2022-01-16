@@ -75,7 +75,7 @@ What's going on with my face?!
 FEED CHARLIE. FEED CHARLIE.\n
 NOW. NOW. FEED CHARLIE NOW.
 
-<$1A><$FA><$00><$00><$00>
+<$1A><$F9><$00><$00><$00>
 
 // From Jump #1 
 
@@ -89,7 +89,7 @@ NOW. NOW. FEED CHARLIE NOW.
 CHARLIE SEES YOU. FEED CHARLIE.\n
 CHARLIE SEES YOU.
 
-<$1A><$BC><$00><$00><$00>
+<$1A><$BB><$00><$00><$00>
 
 // From Jump #2
 
@@ -103,7 +103,7 @@ CHARLIE SEES YOU.
 CHARLIE'S HUNGRY.\n
 FEED HUNGRY CHARLIE.
 
-<$1A><$89><$00><$00><$00>
+<$1A><$88><$00><$00><$00>
 
 // From Jump #3
 
@@ -117,7 +117,7 @@ FEED HUNGRY CHARLIE.
 FEED CHARLIE. CHARLIE KNOWS.\n
 CHARLIE KNOWS.
 
-<$1A><$51><$00><$00><$00>
+<$1A><$50><$00><$00><$00>
 
 // From Jump #4
 
@@ -131,7 +131,7 @@ CHARLIE KNOWS.
 CHARLIE KNEW.\n
 CHARLIE ALWAYS KNEW.
 
-<$1A><$22><$00><$00><$00>
+<$1A><$21><$00><$00><$00>
 
 // From Jump #6
 
