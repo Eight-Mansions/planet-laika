@@ -17,8 +17,8 @@ Spacer:
 <$0D>
 //\nここは…なにもかもが逆の世界。\n悪夢の世界なのか。
 \n
-Everything in this world is reversed.\n
-Is this the Land of Nightmares?
+Is this the Land of Nightmares?\n
+Everything in this world is reversed.
 <$00>
 
 // Pos: 00002DF9
@@ -33,7 +33,8 @@ Spacer:
 <$0D>
 //\nアーネスト…やつならやりかねない。
 \n
-Ernie... Yeah, I can see him doing it.
+Ernie... Yeah, I can see him\n
+lighting the stables on fire.
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -41,7 +42,7 @@ Spacer:
 //\nやつは破壊と暴力に憑かれている。\n馬屋に火を放つくらい…
 \n
 With his lust for power and conflict,\n
-he could easily set fire to a stable.
+he could easily kill Vladimir's horse.
 <$00>
 
 // Pos: 00002E46
@@ -72,7 +73,7 @@ Ernest:
 <$0D>
 //\nふん、あの女ならやりかねないぜ…
 \n
-Hmph. That woman...
+Hmph. That woman, Tanya...
 <$0C>
 I can't imagine her giving Vladimir\n
 tainted liquor for breakfast.
@@ -83,7 +84,7 @@ Ernest:
 //\nウラジミールにインチキな酒飲ませることなど、\nヨランダにしちゃ朝メシ前だ、建いねぇ。
 \n
 But Yolanda? I'm not one to point\n
-fingers, but she'd absolutely do that.
+fingers, but she could poison him.
 <$00>
 
 // Pos: 00002EC4
@@ -98,8 +99,8 @@ Yolanda:
 <$0D>
 //\n夢よね、\nそうよ、アタシは悪い夢の中にいるのよ。
 \n
-I'm in a dream, aren't I. Yeah...\n
-This is only a bad dream.
+I'm in a dream, aren't I?\n
+Yeah, this is only a bad dream.
 <$00>
 
 // Pos: 00002EEB
@@ -114,14 +115,15 @@ Yolanda:
 <$0D>
 //\nお利口さんのスペーサーなら考えつくことよ。
 \n
-I can see smartass Spacer doing it.
+Yeah, I can see smartass Spacer\n
+framing Sergei.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
 //\nそうよ、おろかなセルゲイに\n濡れ衣を着せるくらい簡単なこと…
 \n
-He'd have zero difficulty framing that\n
-shit-for-brains, Sergei, with a crime.\n
+He'd have zero difficulty pinning\n
+that little fuck-up with arson.
 <$00>
 

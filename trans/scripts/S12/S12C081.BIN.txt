@@ -14,11 +14,11 @@
 
 <$12><$1F><$00>
 //国ああ、ちくしょう、火だ、馬屋が燃えてる。\n俺なのか…俺が火をつけたのか…
-No, no, NO! The stable's on fire!\n
+国No, no, NO! The stable's on fire!\n
 I...I didn't start this, did I?!
 <$0C><$1F><$00>
 //国あああ、ちくしょう！
-NOOO! NOOOOOOOOOO!
+国NOOO! NOOOOOOOOOO!
 <$00>
 
 // Pos: 000005E0
@@ -30,11 +30,11 @@ NOOO! NOOOOOOOOOO!
 
 <$12><$1F><$00>
 //制よ、ドクだなんて…人開きの悪い…
-It was a toxic drink for a toxic\n
+制It was a toxic drink for a toxic\n
 man...
 <$0C><$1F><$00>
 //番ああ、あたしはただウラジミールが…\nいやよ、建うわ！
-B-but I didn't think Vladimir\n
+制B-but I didn't think Vladimir\n
 would... NO! NOOOOOO!
 <$00>
 
@@ -47,7 +47,7 @@ would... NO! NOOOOOO!
 
 <$12><$1F><$00>
 //双ニれ衣を着せただと？
-Funny how I'd use his own\n
+双Funny how I'd use his own\n
 clothes to...fabricate his...
 <$0C><$1F><$00>
 //権の私が…そんなひきょうなマネは…\nあああ、そんなはずはない！ 絶対に！

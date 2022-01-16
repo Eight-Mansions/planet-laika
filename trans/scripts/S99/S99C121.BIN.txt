@@ -150,8 +150,8 @@ Commander October:
 <$0D>
 //\nそうだよ、君には妹ができることになった。
 \n
-That's right. You had a baby sister on\n
-the way.
+That's right.\n
+You had a baby sister on the way.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -177,7 +177,6 @@ Yolanda:
 Until Vladimir hatched a plot with\n
 Tanya's doctor behind her back.
 <$0C>
-\n
 The doctor went and killed the baby\n
 when it was still in Tanya's stomach.
 <$0C><$0B>
@@ -186,8 +185,8 @@ Yolanda:
 <$0D>
 //\nどんな風にしたかって？\n開かないでよアタシに。
 \n
-How he pulled that off,\n
-don't ask me.
+Only God knows how he pulled\n
+that off.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:
@@ -210,8 +209,8 @@ Ernest:
 <$0D>
 //\n死んじゃいねぇ、ミーシャはいるんだ、\n俺が守ってやるぜ！
 \n
-Masha's not dead! She's right here,\n
-and I'm going to protect her！
+Masha's not dead, she's right here!\n
+And I'm going to protect her！
 <$00>
 
 // Pos: 000032AB
@@ -260,16 +259,16 @@ Commander October:
 <$0D>
 //\nこの天地にはかの哲学の考えも\nおよばないことがあるのだ。
 \n
-As no single philosophy can fulfill\n
-every aspect of life,
+As no one philosophy can fulfill\n
+all aspects of human life alone,
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\n３人にはもうひと働きしてもらうといい。
 \n
-you and the three must work as one\n
-to carry said one through.
+your one self cannot go on unless\n
+you learn to work with the trio.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -303,8 +302,8 @@ Commander October:
 <$0D>
 //\n君はずっといい子を演じてきた、建うかな？\n亡きお父さんの期待に応えようと頑張った。
 \n
-You always tried to be a "good child",\n
-no? To fill your late father's shoes?
+To fill your late father's shoes,\n
+you strived to be Tanya's "good child".
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -320,22 +319,22 @@ Commander October:
 //\n痛みや悲しみすら惑じなくなったのだ。
 \n
 Pain and sadness were no longer\n
-things you even remotely sensed.
+things you felt for your self.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\nぽっかり空いた君の心を、\n子羊たちがさまよいはじめた。
 \n
-That void in your mind became a\n
-ground for other children to play.
+The gaps that left in your mind became\n
+grounds for other children to play.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\nなんとも罪作りな子羊たちだ。
 \n
-A field for other sinful\n
+Fields for other sinful\n
 little lambs to flock.
 <$00>
 
@@ -352,7 +351,7 @@ Commander October:
 //\n君は生まれ変わりを信じるかね。\nそれとも分身はどうかな…
 \n
 Do you believe in rebirth?\n
-What about alter egoes?
+What about alter egos?
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -367,8 +366,8 @@ Commander October:
 <$0D>
 //\nだがな、本当に世界が求めているのは\nそんなまやかしではないぞ。
 \n
-But the world does not ask these\n
-questions to deceive you.
+But the world does not raise these\n
+concepts in hopes of deceiving you.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -376,6 +375,6 @@ Commander October:
 //\nただひとつ、マコトの双子なのだよ。
 \n
 No, the world only yearns for\n
-an answer from the Twins of Truth.
+answers from the Twins of Truth.
 <$00>
 

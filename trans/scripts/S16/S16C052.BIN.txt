@@ -109,7 +109,7 @@ Crow:
 //\nどうだ、死者の気分は、いい気分だろう。\n俺は夢見る天才だ。
 \n
 How's it feel to be deceased? Does\n
-it feel good, my dreaming prodigy?
+it feel good, my dreaming angel?
 <$0C><$0B>
 //クロウ：
 Crow:
@@ -147,16 +147,16 @@ Crow:
 <$0D>
 //\nへっ、こりゃ子宮の臭いだ。\n腐った子宮の臭いがするぜ。
 \n
-Blech, what a smelly womb. Her\n
-womb smells like it's rotted!
+Blech, what a smelly womb!\n
+Her womb smells all rotted!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nむしゃむしゃむしゃ、\n腐った子宮はどんな味がするんだ？
 \n
-Grumble, grumble. I wonder what\n
-a rotted uterus tastes like.
+Well, one can't help but wonder\n
+what a rotted uterus'd taste like...
 <$00>
 
 // Pos: 00002FEE
@@ -179,16 +179,16 @@ Crow:
 <$0D>
 //\nイヤだ、戻りたくない！\n俺はここがいいんだ、とめろ、この光を！
 \n
-STOP! I DON'T WANT TO GO BACK! I LIKE\n
-THIS PLACE! DON'T MAKE ME SEE THE LIGHT!
+STOP! I DON'T WANNA GO BACK! I LIKE\n
+IT HERE! DON'T MAKE ME SEE THE LIGHT!
 <$0C><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\nあああああ、イヤだ、\n光なんかいらないんだ！
 \n
-AHHHH, NOOOO! I DON'T WANT TO GO TO\n
-THE LIGHT!
+AHHHH, NOOOO!\n
+I DON'T WANT TO GO TO THE LIGHT!
 <$00>
 
 // Pos: 00003064

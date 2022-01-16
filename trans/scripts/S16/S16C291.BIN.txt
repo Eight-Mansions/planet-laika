@@ -34,7 +34,7 @@ Feng:
 //\nうふふふふふふ、ヴェロニカは死んだの、\nバカな女。
 \n
 Hohohohoho, well good news!\n
-Veronica is dead. Stupid woman!
+Pesky little Veronica is dead!
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -49,8 +49,8 @@ Feng:
 <$0D>
 //\nうふふふふふふ、鏡は私の顔を映すの、\nヴェロニカじゃないのよ！
 \n
-Hohoho, the reflected face in the\n
-mirror was not Veronica's, but MINE!
+The face reflected in the mirror\n
+was not Veronica's, but MINE!
 <$00>
 
 // Pos: 00001BB8
@@ -66,38 +66,37 @@ Feng:
 //\nオレンジ色の光はどう？ どんな心地？\nついに完成したのよ、蕃判の鏡。
 \n
 What is this orange light?\n
-This feeling?
+This feeling? Ah, yes...
 <$0C>
-At last, the Mirror of\n
-Judgement is complete!
+The Mirror of Judgement is\n
+complete at long last!
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\n真実の光があばくの、\n隠していたすべてを。
 \n
-May the light of absolute\n
-truth shine\n
-<$0C>
-Expose all that was hidden from us!
+May the light of absolute truth\n
+shine over us and expose all!
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nまやかしの世界は消えて、\n私は美のクリエイターになるの！
 \n
-May this world of deception vanish,
+May this planet of deception\n
+vanish!
 <$0C>
-that I may be the creator\n
-of its true beauty!
+May Planet Mars revere me as\n
+the creator of true beauty!
 <$0C><$0B>
 //フェイ：
 Feng:
 <$0D>
 //\nあああ、アマンダ！\n今、あなたはこの肉体に宿るのよ、
 \n
-O Amanda！ My flesh is now yours to\n
-live in!
+O Amanda! Come unto me!\n
+My flesh is yours to live in!
 <$0C><$0B>
 //フェイ：
 Feng:

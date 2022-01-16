@@ -135,14 +135,14 @@ Madam Agatha:
 <$0D>
 //\n薄暗い部屋の中…\nあなたとお母さんがいるわ。
 \n
-You're inside of a dim room,\n
-alone your mother.
+You are in a dim room,\n
+alone with your mother.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nお母さんはあなたの手を取って…\n何か渡そうとしている…
-/\n
+\n
 Your mother takes your hand.\n
 She tries to give you something.
 <$00>
@@ -175,10 +175,11 @@ Madam Agatha:
 <$0D>
 //\n今度は夜… またふたりでいるわ…\n馬小屋ね、月明かりに照らされて…\nふたりで馬小屋を見ているところね。
 \n
-Evening comes.
+Evening comes.\n
+You are with Tanya again.
 <$0C>
-You two are together again, looking\n
-at the stables in the moonlight.
+The two of you are looking at\n
+the stables under the moonlight.
 <$00>
 
 // Pos: 00002D96
@@ -201,8 +202,8 @@ Madam Agatha:
 <$0D>
 //\nあなたとお母さんが…\nクロゼットの扉を開けている…
 \n
-It's you and your mother. You both\n
-stand near Sergei's closet.
+You and your mother are standing\n
+in front of Sergei's open closet.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -210,14 +211,14 @@ Madam Agatha:
 //\nセルゲイのシャツを\n手にしたお母さん…
 \n
 Your mother digs through the closet,\n
-until she takes a shirt.
+until she pulls out a shirt.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\n何かを企んでいるふうよ。\nあなたは何も覚えてはいないのね
 \n
-She is planning something,\n
-but you don't remember what.
+She has plans to use it, but\n
+you don't remember what for.
 <$00>
 
