@@ -83,13 +83,11 @@ TextDrawFlagsArea: equ 0x801F5000
 	; addiu v0, v0, 0xFF64
 	; ; 8001c158 : SH      000000c0 (v0), 0008 (800f7ba0 (a0)) [800f7ba8]	
 	; sh v0, 0x08(a0)
+.org 0x8001d0a8
+	j setIsScrollerButtonThingy
+
 .org 0x8001c130
 	j getTextScrollerButtonGifXPosition
-	
-.org 0x8001c148
-	nop
-	addu v0, r0, v1
-	nop
 	
 ; ---------------------------------------------------------------------------
 
@@ -187,17 +185,43 @@ onIncreaseY:
 	slt v0, s4, t5
 
 getTextScrollerButtonGifXPosition:
-	la v1, cur_width
-	j 0x8001c138
-	lhu v1, 0(v1)
+	la t3, cur_width
+	lb t4, 5(t3) ; get items screen flag
+	addu a0, a0, v0
+	sll a0, a0, 2
+	addu a0, a0, a3
+	bne t4, r0, isNotItemsScreen
+	addu a0, a0, t2
+	
+isItemsScreen:
+	sll v0, v1, 1
+	addu v0, v0, v1
+	sll v0, v0, 2
+	j  doneGetTextScrollerButtonGifXPosition
+	nop
+	
+isNotItemsScreen:
+	lhu v1, 0(t3)
+	nop
+	addu v0, r0, v1
+	
+doneGetTextScrollerButtonGifXPosition:
+	sb r0, 5(t3)
+	j 0x8001c158
+	addiu v0, v0, 0xff64
+
+setIsScrollerButtonThingy:
+	la a0, is_items
+	jr ra
+	sb a1, 0(a0) ; long as its not 0
 
 variables:
 cur_width:
 	.dw 0x18
 nex_width:
 	.db 0x08
-sta_print:
-	.db 1
+is_items:
+	.db 0
 new_line:
 	.db 0
 tmp_buffer:
