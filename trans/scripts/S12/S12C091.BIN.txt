@@ -59,8 +59,8 @@ Entomologist:
 <$0D>
 //\nあー、えー、フンフン、\n君は石を見たことがあるかね？\n普通の石じゃない、光る石だ、フン。
 \n
-Tell me, bzzbzz. Have you seen a\n
-stone before?
+Tell me, bzzbzz.\n
+Have you seen a stone before?
 <$0C>
 Not a regular stone,\n
 but a glowing stone, bzz?
@@ -71,7 +71,7 @@ Entomologist:
 //\nもし見つけたなら、\nそれは大変な発見なのだよ、ライカ君。
 \n
 If you found one, you'd know right\n
-away, and for good reason, bzzbzzbzz.
+away, and for good reason, bzzbzz.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
@@ -79,14 +79,14 @@ Entomologist:
 //\n光る石とは、滅んでしまった火星人の\n良心なんだ、フンフンフン。
 \n
 Those glowing stones are masses made\n
-up of extracted Martian conscience.
+from extracts of Martian conscience.
 <$0C><$0B>
 //昆虫学者：
 Entomologist:
 <$0D>
 //\n善意のカタマリが\n石となって残っているのだよ。
 \n
-That is, the stones are a physical\n
+Or rather, the stones are a physical\n
 manifestation of their good will.
 <$0C><$0B>
 //昆虫学者：
@@ -113,8 +113,8 @@ Entomologist:
 <$0D>
 //\nおそらく今も火星のどこかにあるはず。\nさがしてみてはくれないか。
 \n
-The Martians made the stones on the\n
-brink of their extinction.
+The Martians made the stones on\n
+the brink of their extinction.
 <$0C>
 I suggest you look for them, bzz.
 <$0C><$0B>
@@ -132,8 +132,7 @@ Entomologist:
 //\nフンフンフン、そうなれば火星人が\nよみがえるかも知れない。\nフンフン、そうだ！
 \n
 ...Hehe, who knows?\n
-Maybe the Martians will\n
-jolt back to life, bzzbzz!
+Maybe the Martians will revive!
 <$0C><$0B>
 //昆虫学者：
 Entomologist:

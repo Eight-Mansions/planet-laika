@@ -149,9 +149,10 @@ True Faiths:
 <$0D>
 //\n人間はそう呼ぶ。\nしかし、我々は火星人でも宇宙人でもない。
 \n
-Humans may call Us by that name.\n
-However, We are neither Martian\n
-nor Alien.
+Humans may call Us by that name.
+<$0C>
+However, We are neither\n
+Martian nor Alien.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
@@ -159,6 +160,7 @@ True Faiths:
 //\n我々なのだ。\nお前は、自分をなんだと思っているのか？
 \n
 We are who We are.\n
+<$0C>
 And what would\n
 you say you are?
 <$00>
@@ -347,8 +349,9 @@ Spacer:
 //\n火星人… いや、あなたたちは、\n全体でひとつの個性を持つ。そう開いたが。
 \n
 I heard the Martians...I mean, you,\n
-are a collective consciousness\n
-devoid of individuality.
+were a collective consciousness.
+<$0C>
+You're devoid of individuality.
 <$00>
 
 // Pos: 00003C3C
@@ -402,18 +405,19 @@ True Faiths:
 <$0D>
 //\n１２億６０００万年にして、一度の過ちだ。\n我々は過去に三度、地球に向かった。
 \n
-One mistake in 1.26 billion years.\n
-We had visited Earth thrice in the\n
-past...
+One mistake in 1.26 billion years,\n
+but we visited Earth three times.
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:
 <$0D>
 //\n三度目にお前たちが現れたのだ。\nお前たち人間は弱く、\n絶滅を予定された種のはずだった。
 \n
-...and on the third day, humans\n
-appeared. Your species was a flicker\n
-doomed for extinction.
+Only on our third descent\n
+did you humans appear.
+<$0C>
+Your species was a flicker\n
+doomed to be extinguished.
 <$00>
 
 // Pos: 00003D37
@@ -428,9 +432,8 @@ Spacer:
 <$0D>
 //\nだが実際は建った。\n人間は英知を得てさかえたのだ。
 \n
-I don't see why, though.\n
-Humans acquired wisdom,\n
-and used it to flourish.
+I don't see why. Humans found\n
+wisdom and flourished with it!
 <$00>
 
 // Pos: 00003D64
@@ -455,8 +458,8 @@ True Faiths:
 <$0D>
 //\n一粒の砂にも世界を見て\n一輪の野花にも天国を見る
 \n
-"To see a World in a Grain of Sand"?\n
-And a Heaven in a Wild Flower"?!
+"A World in a Grain of Sand"?\n
+"A Heaven in a Wild Flower"?!
 <$0C><$0B>
 //トゥルーフェイス：
 True Faiths:

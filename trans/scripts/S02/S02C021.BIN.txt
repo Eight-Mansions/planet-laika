@@ -367,7 +367,7 @@ Captain Tatler:
 //\nイーブルマインドは妄想をかき立てるぞ、\nあらぬことを考えてしまうぞ。
 \n
 Evil Mind stirs up fantasies in the\n
-victim's brain and makes them go a-wol.
+victim's brain and makes them go AWOL.
 <$0E><$0F><$17><$00>
 
 // Pos: 00002EBF
@@ -383,7 +383,7 @@ Noon:
 //\nちくしょう！ろくでもないぜ！
 \n
 Well, isn't that lovely... What the\n
-BLOODY HELL did I get my self into?!
+BLOODY HELL did I get my self into?! 			
 <$0E><$0F><$17><$00>
 
 // Pos: 00002EDB

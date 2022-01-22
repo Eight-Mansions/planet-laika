@@ -55,7 +55,7 @@ In we go, then!
 
 #WHB(PTR, $000005F9)
 
-<$13><$0B>
+<$12><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -119,7 +119,7 @@ and his relationship with Chloe.
 
 #WHB(PTR, $0000066D)
 
-<$13><$0B>
+<$12><$0B>
 //エイプリル：
 April:
 <$0D>

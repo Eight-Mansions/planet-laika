@@ -122,7 +122,7 @@ and head out!
 
 #WHB(PTR, $00000C35)
 
-<$11><$0B>
+<$10><$0B>
 //ヌーン：
 Noon:
 <$0D>
@@ -240,7 +240,7 @@ and tight before you do!
 
 #WHB(PTR, $00000D5D)
 
-<$11><$0B>
+<$10><$0B>
 //ヌーン：
 Noon:
 <$0D>

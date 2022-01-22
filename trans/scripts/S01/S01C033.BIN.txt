@@ -114,9 +114,9 @@ If we force it out,\n
 we'll damage the brain!
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…
-Even though the mass is so small,\n
-we must give up on the operation\n
-for now.
+As small as the mass is,\n
+we must give up on the\n
+operation for now.
 <$00>
 
 // Pos: 00002EB3
@@ -206,8 +206,8 @@ Ernest:
 <$0D>
 //\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…
 \n
-Could've fooled me. I've never seen\n
-hair like that before.
+Could've fooled me.\n
+I've never seen a hairdo like that.
 <$00><$13><$13><$13><$0B>
 //フェニックス：
 Phoenix:

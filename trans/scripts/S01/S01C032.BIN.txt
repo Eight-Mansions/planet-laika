@@ -95,7 +95,7 @@ Noon:
 <$0D>
 //\nで、どこにいると思うんだ？
 \n
-Well? Where do you think he is?
+Well? Where do you think 'e is?
 <$00>
 
 // Pos: 00003B85
@@ -111,7 +111,7 @@ Captain Tatler:
 //\nエレミヤは私の目の前にいる。\nそうだよ、ライカ、君がエレミヤだ。
 \n
 Jeremiah's right before my eyes.\n
-That's right, Laika. You're Jeremiah.
+Get it, Laika? You're Jeremiah.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -203,24 +203,23 @@ the Grim Reaper?
 
 #WHB(PTR, $00000D25)
 
-<$10><$13><$19><$0B>
+<$11><$13><$19><$0B>
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
 //\nエレミヤよ、おおエレミヤ…\n私はついに悪夢を乗り越えた。
 \n
-Jeremiah, O Jeremiah. At last I can\n
-overcome these nightmares.
+Jeremiah, O Jeremiah. At last,\n
+I can overcome these nightmares.
 <$0C><$0B>
 //ネオ・ユニバーサルマン：
 Neo-Universal Man:
 <$0D>
 //\n死の谷を駆け抜け、今ここに…\nさあ、最後の預言だ、言葉を放ってくれ。
 \n
-I now walk through the valley\n
-of the shadow of death.
-<$0C>
-I seek your final prophecy.
+I now walk through the\n
+valley of the shadow of death,\n
+seeking your final prophecy.
 <$00><$12><$13><$13><$0B>
 //フェニックス：
 Phoenix:
@@ -262,7 +261,7 @@ Doctor, can
 //分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
 We'll find out in the operation room.\n
 There's a mass near the brain\n
-triggering these hallucinations.
+triggering their hallucinations.
 <$00><$12>
 //先生、オクトーバー先生！\nお願いします、
 Doctor! Doctor October, please!\nSave 
@@ -275,9 +274,9 @@ Damn! It's too deep! If we force\n
 it out, we'll damage the brain!
 <$0C>
 //今は小さな肉のかたまり…\nだが、共に成長したとき…
-Even though the mass is so small,\n
-we must give up on the operation\n
-for now.
+As small as the mass is,\n
+we must give up on the\n
+operation for now.
 <$00><$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
@@ -327,8 +326,8 @@ Ernest:
 <$0D>
 //\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…\n
 \n
-Could've fooled me. I've never seen\n
-hair like that before.
+Could've fooled me.\n
+I've never seen a hairdo like that.\n
 <$0C>
 <$00>
 

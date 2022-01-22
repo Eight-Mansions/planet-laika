@@ -103,20 +103,20 @@ Hehehe, my treasure...
     
 <$0D>
 //おうおう、俺の石だ、お宝だ、\n
-Hey! This is my treasure.\n
+This stone is MY treasure.\n
 
 <$0B>
 //     
 <$0D>
 //これは俺が見つけたんだ、\n
-I found this stone. Me!\n
+I'M the one who found it!\n
 
 <$0B>
 //     
      
 <$0D>
 //手を出すな、ちくしょう！
-Get your mangy hands off it!
+No one lays hands on what's MINE.
 <$00>
 
 // Pos: 0000220F
@@ -155,6 +155,6 @@ Get your mangy hands off it!
 //    男の腐ったやつに腐ったパイだ、\n     ははははは、ぴったりだろ、\n   ああ臭ぇ、お前も同じ臭いがするぜ！
     Rotten pie for a rotten kid!\n
     Hahaha, you even smell stale!\n
-    Eat your "just desserts"!
+    Eat your just desserts, freak!
 <$00>
 
