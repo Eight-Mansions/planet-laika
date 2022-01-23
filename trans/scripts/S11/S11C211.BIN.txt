@@ -36,8 +36,8 @@ Gold:
 <$0D>
 //\n何の用だ？まだ客は入れねぇ…\nお前が客だとしてもな。
 \n
-Sorry. I'm not taking orders\n
-right now, even for tourists.
+Sorry. I'm not taking orders right now,\n
+even for tourists.
 <$1E><$02><$02><$00>
 
 // Pos: 00002621
@@ -411,8 +411,7 @@ April:
 <$0D>
 //\nあなたたちとケンカするために\n火星に来たんじゃないの。
 \n
-We didn't come to Mars\n
-to start a fight.
+We didn't come to Mars to start a fight.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -445,7 +444,7 @@ Gold:
 \n
 Sounds like any other weirdo to me.\n
 He really what you here for?
-<$00><$11><$0B>
+<$00><$10><$0B>
 //スモーキー：
 Smokey:
 <$0D>
@@ -500,7 +499,7 @@ Smokey:
 \n
 What'd you call me?! That's not how\n
 a piggy's supposed to squeal, missy!
-<$00><$11><$0B>
+<$00><$10><$0B>
 //ゴールド：
 Gold:
 <$0D>
@@ -542,7 +541,7 @@ April:
 \n
 Sorry. It's just, two of our\n
 teammates are missing.
-<$00><$11><$0B>
+<$00><$10><$0B>
 //ゴールド：
 Gold:
 <$0D>
@@ -654,7 +653,7 @@ medicine men!
 
 #WHB(PTR, $00000285)
 
-<$11><$0B>
+<$10><$0B>
 //ゴールド：
 Gold:
 <$0D>
@@ -702,7 +701,7 @@ Hurry on out!
 
 #WHB(PTR, $00000325)
 
-<$11><$0B>
+<$10><$0B>
 //ゴールド：
 Gold:
 <$0D>

@@ -147,8 +147,8 @@ Tommy:
 <$0D>
 //\nようよう、兄ちゃんよう、\nあいつらに何たのまれたんだ？ え？
 \n
-Hey, comrade. Did those nuts\n
-want something from you?
+Hey, comrade. Did those nuts want\n
+something from you?
 <$00>
 
 // Pos: 000022CA
@@ -195,8 +195,8 @@ Tommy:
 <$0D>
 //\nひーひひひ、あいつら欲しがってる…\nへへへー、
 \n
-Hehe, that's what they want\n
-you to get? I knew it!
+Hehe, that's what they want you to\n
+get? I knew it!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -292,16 +292,16 @@ Tommy:
 <$0D>
 //\nよよ、兄ちゃんよう、\n赤い石、手に入れたのか？
 \n
-Hey, comrade! You find that\n
-red stone in one piece?
+Hey, comrade! You find that red stone\n
+in one piece?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nすげぇな、そりゃすげぇ。\n目ん玉はどうした？ ほんとにあるのか？
 \n
-Hehe, nice! So, what about the\n
-talking eyeballs? Are they real?
+Hehe, nice! So, what about the talking\n
+eyeballs? Are they real?
 <$1B>
 //」ある\nない
 」Yes\n
@@ -320,19 +320,19 @@ Tommy:
 <$0D>
 //\nほんとかよ、へへ、\nどうせ俺たちには見えねぇんだ。
 \n
-So, they're real! Hehe, too bad\n
-we can't see 'em, you know?
+So, they're real! Hehe, too bad we can't\n
+see 'em, you know?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n兄ちゃんもハウスの野郎と一緒だ、\n電波の実験してるやつと一緒だ。
 \n
-That reminds me. You should\n
-check out Psycho Lab. 
+That reminds me. You should check out\n
+Psycho Lab. 
 <$0C>
-The guys there experiment\n
-with radio waves.
+The guys there experiment with\n
+radio waves.
 <$1E><$02><$02><$00>
 
 // Pos: 00002584
@@ -365,30 +365,29 @@ with radio waves.
 
 #WHB(PTR, $000007B5)
 
-<$11><$0B>
+<$10><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n知ってるか、兄ちゃん。
 \n
-Have you ever checked out\n
-the monitor in Psycho Lab?
+Have you ever checked out the monitor\n
+in Psycho Lab?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nハウスの無線テレビな、\nとっくに放送なんかやってねぇのによ、\nときどき妙なもんが映ったりするんだ、
 \n
-It's a wireless monitor that\n
-broadcasts some creepy stuff.
+It's a wireless monitor that broadcasts\n
+some creepy stuff.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n気味悪いぜ、なあ兄ちゃんよう。
 \n
-Give it a good look sometime,\n
-comrade.
+Give it a good look sometime, comrade.
 <$1E><$02><$02><$00>
 
 // Pos: 0000263B

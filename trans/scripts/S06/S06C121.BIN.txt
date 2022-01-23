@@ -33,7 +33,7 @@ Captain Tatler:
 //\nライカ君、頼む、クロエちゃんを！
 \n
 Laika, please!\n
-You have save Chloe!
+You have to save Chloe!
 <$00>
 
 // Pos: 000021D7
@@ -280,7 +280,7 @@ Okay, so I volley the mind bullets?
 
 #WHB(PTR, $00000589)
 
-<$11><$13><$2A><$0B>
+<$10><$13><$2A><$0B>
 //オリンピア２号：
 Olympia #2:
 <$0D>

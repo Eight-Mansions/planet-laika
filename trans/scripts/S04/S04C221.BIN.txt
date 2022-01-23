@@ -70,7 +70,7 @@ We were just there!
 <$10><$13><$19>
 //アガタをさがして欲しいんだって。\nもう眠いんだって。
 Herod wants to sleep now, so you\n
-two must fetch Agatha for him.\n
+two must fetch Agatha for him.
 <$00>
 
 // Pos: 00002ABE
@@ -259,8 +259,8 @@ Vladimir:
 <$0D>
 //\nなんだ、もう帰ってたのか、\n
 \n
-What are you doing home\n
-from school so early?
+What are you doing home from school\n
+so early?
 <$0C>
 
 <$0F>
@@ -272,8 +272,8 @@ Vladimir:
 <$0D>
 //\nお前が早く帰ってきたからといって、\nこの私が喜ぶとでも？
 \n
-Weird little fuck. Am I supposed\n
-to congratulate you or something?
+Weird little fuck. Am I supposed to\n
+congratulate you or something?
 <$0C><$0B>
 //ウラジミール：
 Vladimir:

@@ -80,8 +80,9 @@ April:
 <$0D>
 //\nあなたたちは整形を受けないの？\nコロニーでは、ヴァニティフェイスが\n流行ってるのよ。
 \n
-If Vanity Face is so popular on Mars, why\n
-haven't you guys gotten plastic surgery?
+If Vanity Face is so popular on Mars,\n
+why haven't you guys gotten plastic\n
+surgery?
 <$00>
 
 // Pos: 00001871
@@ -90,7 +91,7 @@ haven't you guys gotten plastic surgery?
 
 #WHB(PTR, $00000121)
 
-<$13><$0B>
+<$12><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
@@ -106,7 +107,7 @@ human faces. That is an evil path.
 
 #WHB(PTR, $00000151)
 
-<$13><$0B>
+<$12><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -122,7 +123,7 @@ face! The technology has come so far!
 
 #WHB(PTR, $00000161)
 
-<$13><$0B>
+<$12><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
@@ -202,7 +203,7 @@ wisdom, what is Animal type?
 
 #WHB(PTR, $000001E1)
 
-<$13><$0B>
+<$12><$0B>
 //ノーブルロック：
 Noble Rock:
 <$0D>
@@ -248,8 +249,9 @@ Noble Rock:
 <$0D>
 //\n記憶の谷では気を付けるんだ。\nあらぬものが見えても心を\n動かされるんじゃない。分かったな。
 \n
-No matter how strange your visions are\n
-in Valles Memoriae, do not fall to them.
+No matter how strange your visions\n
+are in Valles Memoriae, do not fal\n
+to them.
 <$00>
 
 // Pos: 00001A98

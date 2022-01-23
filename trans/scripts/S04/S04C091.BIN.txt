@@ -123,8 +123,8 @@ West:
 <$0D>
 //\nブリックロードだ。\n赤い家。
 \n
-They say, go to the red house\n
-on Brick Road!
+They say, go to the red house on\n
+Brick Road!
 <$00>
 
 // Pos: 00002B19
@@ -293,8 +293,8 @@ East:
 <$0D>
 //\n赤い石、ヘロデさん。\n分かったか？
 \n
-Will it lead to the\n
-red stone and to Herod?
+Will it lead to the red stone and\n
+to Herod?
 <$1E><$01><$02><$00>
 
 // Pos: 00002BFB
@@ -378,8 +378,8 @@ Hand over the Red Stone?\n
 
 <$1B>
 //。渡す\n渡さない
-。Yes\n
-No
+。 Yes\n
+ No
 <$00><$17><$00>
 
 // Pos: 00002C78
@@ -388,7 +388,7 @@ No
 
 #WHB(PTR, $00000BD5)
 
-<$11><$0B>
+<$10><$0B>
 //ウェスト：
 West:
 <$0D>
@@ -603,7 +603,7 @@ The survey unit on Mars!
 
 #WHB(PTR, $00000F7D)
 
-<$11><$0B>
+<$10><$0B>
 //ヘロデ：
 Herod:
 <$0D>
@@ -669,16 +669,16 @@ Herod:
 <$0D>
 //\n地球のやつらが、\nここをどうしようっていうんだ？
 \n
-What do you Earth fogeys\n
-want to do here anyhow?
+What do you Earth fogeys want to do\n
+here anyhow?
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nいいか、これだけは忘れるんじゃない。
 \n
-Maybe this should stay between\n
-you and me, but...
+Maybe this should stay between you\n
+and me, but...
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -699,16 +699,15 @@ Herod:
 I found the oxygenite veins and\n
 opened the mines.
 <$0C>
-I did that to make this\n
-place livable!
+I did that to make this place livable!
 <$0C><$0B>
 //ヘロデ：
 Herod:
 <$0D>
 //\nその甲斐あってコロニーはよみがえった。\nもう流刑地などと呼ばせるわけにはいかない。
 \n
-I revived this colony to "be like\n
-Earth", not "be Earth's"!
+I revived this colony to "be like Earth",\n
+not "be Earth's"!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -901,7 +900,7 @@ Little:
 \n
 No. I don't know any such person,\n
 got it?
-<$00><$11><$0B>
+<$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -909,7 +908,7 @@ April:
 \n
 Why is everyone here so on edge?\n
 You can't ALL be hiding something!
-<$00><$11><$0B>
+<$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
@@ -920,7 +919,7 @@ There's no mischief afoot.
 <$0C>
 The rumors and uproars are all\n
 superstition!
-<$00><$11><$0B>
+<$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -930,7 +929,7 @@ Superstition?
 <$0C>
 But even the medicine men believe\n
 in Evil Mind and the Black Rider!
-<$00><$11><$0B>
+<$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
@@ -965,7 +964,7 @@ Little:
 \n
 Mars has its own way of doing things,\n
 and we'll keep doing them ON OUR OWN.
-<$00><$11><$0B>
+<$00><$10><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -981,7 +980,7 @@ April:
 \n
 But we saw it! The sky above the\n
 Face was engulfed in a strange light!
-<$00><$11><$0B>
+<$00><$0><$0B>
 //リトル：
 Little:
 <$0D>
@@ -1063,7 +1062,7 @@ Yep. I also said, "both". We need our\n
 captain AND our engineer, got it?
 <$0C>
 understand?
-<$00><$11><$0B>
+<$00><$10><$0B>
 //リトル：
 Little:
 <$0D>

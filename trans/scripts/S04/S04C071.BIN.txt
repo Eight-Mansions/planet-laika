@@ -11,7 +11,7 @@
 
 #WHB(PTR, $000003FD)
 
-<$12>
+<$11>
 //お客さんなの？
 Are you tourists?
 <$00>
@@ -86,7 +86,7 @@ you know the medicine men?
 
 #WHB(PTR, $00000595)
 
-<$13><$0B>
+<$12><$0B>
 //コスマス：
 Cosmas:
 <$0D>
@@ -152,7 +152,7 @@ And who is Mountain?
 
 #WHB(PTR, $000005E5)
 
-<$13><$0B>
+<$12><$0B>
 //コスマス：
 Cosmas:
 <$0D>
@@ -223,8 +223,8 @@ April:
 <$0D>
 //\n金星人？\nここには金星人もいるの？
 \n
-Venusians? Are there\n
-people from Venus here?
+Venusians? Are there people from\n
+Venus here?
 <$00>
 
 // Pos: 000031E6
@@ -257,8 +257,8 @@ April:
 <$0D>
 //\nところで、あなたのその顔、どうしたの？
 \n
-I see. Now, before I go...what\n
-happened to your face?
+I see. Now, before I go...\n
+what happened to your face?
 <$00>
 
 // Pos: 0000322D

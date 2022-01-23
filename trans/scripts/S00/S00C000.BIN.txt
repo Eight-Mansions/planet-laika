@@ -35,14 +35,14 @@ Yolanda
 #WRITE(PTR, $0000FAC8)
 <$08>
 //バイブレーション機能
-Vibration
+       Vibration
 <$00>
 
 //P:000110D2
 #WRITE(PTR, $0000FACC)
 <$05>
 // 使う  使わない
- Use  Pass
+    On        Off
 <$00>
 
 //P:000110E0

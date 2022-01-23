@@ -234,7 +234,8 @@ SOON. EVACUATE IMMEDIATELY.
 <$0C>
 //繰り返します。坑道を閉鎖します。\n閉鎖まで、あと少し。\n直ちに坑道から退出してください。
 REPEAT: THE MINESHAFT IS CLOSING\n
-SOON.\n EVACUATE IMMEDIATELY.
+SOON.\n
+EVACUATE IMMEDIATELY.
 <$0C>
 //これは訓練ではありません。
 THIS IS NOT A DRILL.

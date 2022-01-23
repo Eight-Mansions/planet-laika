@@ -152,7 +152,7 @@ experiment!
 
 #WHB(PTR, $00000F15)
 
-<$11><$0B>
+<$10><$0B>
 //マウンテン：
 Mountain:
 <$0D>
@@ -160,7 +160,7 @@ Mountain:
 \n
 And, you are...oh! 
 <$0C>
-Yes, you're our messanger, here\n
+Yes, you're our messenger, here\n
 to bring good news of great joy!
 <$0C><$0B>
 //マウンテン：
@@ -240,7 +240,7 @@ their names are always in a stir.
 
 #WHB(PTR, $00000F6D)
 
-<$11><$0B>
+<$10><$0B>
 //マウンテン：
 Mountain:
 <$0D>
@@ -299,7 +299,7 @@ That'll disengage the autolock!
 
 #WHB(PTR, $00000FE1)
 
-<$11><$0B>
+<$10><$0B>
 //マウンテン：
 Mountain:
 <$0D>

@@ -11,7 +11,7 @@
 
 #WHB(PTR, $00000895)
 
-<$11><$0B>
+<$10><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>
@@ -238,6 +238,7 @@ Take it back.
     
 <$0D>
 //銀のカプセルを手に入れた。
+\n
 Silver Capsule acquired.
 <$0E><$3C><$17><$00>
 
@@ -271,7 +272,7 @@ Please try again.
 
 #WHB(PTR, $00000651)
 
-<$11><$13><$13><$0B>
+<$10><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
@@ -287,7 +288,7 @@ it, but seriously, what happened here?
 
 #WHB(PTR, $00000665)
 
-<$11><$0B>
+<$10><$0B>
 //酸索坑夫１号：
 Oxygen Miner 1：
 <$0D>

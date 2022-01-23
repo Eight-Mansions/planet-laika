@@ -169,8 +169,8 @@ Veronica:
 \n
 What a couple of knucklebones.
 <$0C>
-You're not a total space\n
-case like they are, I hope.
+You're not a total space case like\n
+they are, I hope.
 <$00>
 
 // Pos: 00002137
@@ -185,16 +185,16 @@ Veronica:
 <$0D>
 //\nねぇ、簡単ってどういうことか知ってる？
 \n
-You at least know what\n
-"knucklebones" are, right?
+You at least know what "knucklebones"\n
+are, right?
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
 //\nサイコロに命令するようなものよ。\n何回かに一回、必ず命令通りになるの。
 \n
-That's the name of an old\n
-dice game that used animal bone.
+That's the name of an old dice game\n
+that used animal bone.
 <$0C>
 You took turns until someone\n
 rolled a Venus and won the pot.
@@ -220,11 +220,11 @@ Veronica:
 <$0D>
 //\n今は…そうでもないよ。\n今がいざっていう時じゃないってこと。
 \n
-I wouldn't call dealing with\n
-those two "the right moment",
+I wouldn't call dealing with those two\n
+"the right moment",
 <$0C>
-so consider your self the\n
-lucky winner of the night.
+so consider your self the lucky winner\n
+of the night.
 <$00>
 
 // Pos: 000021E7
@@ -257,8 +257,8 @@ Veronica:
 <$0D>
 //\nねぇ、あんたの他にも新しい人見たよ。\nナイトプラネットのところで。女の人。
 \n
-Actually, I saw another new face\n
-over at NIGHT PLANET. A young woman.
+Actually, I saw another new face over\n
+at NIGHT PLANET. A young woman.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -278,7 +278,7 @@ also a regular of the same bar.
 
 #WHB(PTR, $00000345)
 
-<$13><$13><$19><$0B>
+<$12><$13><$19><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>

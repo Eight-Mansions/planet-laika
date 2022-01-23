@@ -276,7 +276,7 @@ How...prophetic.
 
 #WHB(PTR, $00000545)
 
-<$12><$0B>
+<$11><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
@@ -292,7 +292,7 @@ Do you know about the prophecies?!
 
 #WHB(PTR, $00000559)
 
-<$13><$0B>
+<$12><$0B>
 //エイプリル：
 April:
 <$0D>

@@ -58,7 +58,7 @@ got it?
 
 #WHB(PTR, $000002CD)
 
-<$11><$0B>
+<$10><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -74,7 +74,7 @@ You can't ALL be hiding something!
 
 #WHB(PTR, $000002E1)
 
-<$11><$0B>
+<$10><$0B>
 //リトル：
 Little:
 <$0D>
@@ -93,7 +93,7 @@ superstition!
 
 #WHB(PTR, $000002F5)
 
-<$11><$0B>
+<$10><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -111,7 +111,7 @@ in Evil Mind and the Black Rider!
 
 #WHB(PTR, $00000365)
 
-<$13><$0B>
+<$12><$0B>
 //リトル：
 Little:
 <$0D>
@@ -179,7 +179,7 @@ Face was engulfed in a strange light!
 
 #WHB(PTR, $00000495)
 
-<$11><$0B>
+<$10><$0B>
 //リトル：
 Little:
 <$0D>
@@ -307,7 +307,7 @@ captain AND our engineer, got it?
 
 #WHB(PTR, $00000599)
 
-<$11><$0B>
+<$10><$0B>
 //リトル：
 Little:
 <$0D>
