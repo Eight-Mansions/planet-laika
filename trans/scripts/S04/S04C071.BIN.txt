@@ -127,8 +127,11 @@ Cosmas:
 <$0D>
 //\n彼らは特別なんだよ。超能力があるんだ。\nでも、マウンテンはインチキだって言ってる。
 \n
-The medicine men have ESP, but\n
-Mountain says theirs is fake.
+The medicine men have ESP.\n
+They have extraordinaty powers.
+<$0C>
+Mountain stirs up trouble by\n
+insisting that they're frauds.
 <$00>
 
 // Pos: 000030F1
@@ -168,8 +171,8 @@ Cosmas:
 <$0D>
 //\nマウンテンはこっそり\nロッジの様子をさぐったりしてるんだ。
 \n
-Mountain likes to stalk the medicine\n
-men and spy on their activities.
+Mountain often stalks the medicine\n
+men, and spies on their activities.
 <$00>
 
 // Pos: 00003169
@@ -184,7 +187,7 @@ April:
 <$0D>
 //\nどうしてこっそりなの？
 \n
-Why spy on them?
+Why would he spy on them?
 <$00>
 
 // Pos: 0000317F
@@ -199,8 +202,8 @@ Cosmas:
 <$0D>
 //\nマウンテンたちと\nメディスンマンは仲が悪いんだ。
 \n
-Mountain and the medicine\n
-men are not on good terms.
+Because they don't like\n
+him either.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -208,7 +211,7 @@ Cosmas:
 //\nメディスンマンは金星人を\n信じちゃいないからね。
 \n
 The medicine men don't believe\n
-in the Venusians like he does.
+in Venusians like Mountain does.
 <$00>
 
 // Pos: 000031C6
@@ -239,10 +242,10 @@ Cosmas:
 <$0D>
 //\nここにはいないさ。\n力がやって来るんだ、宇宙からね。
 \n
-Not people from Venus, no.\n
+Not "people" from Venus, no.\n
 <$0C>
 "Venusians" are the energy waves\n
-sent from Venus into outer space.
+sent from Planet Venus into space.
 <$00>
 
 // Pos: 0000320E
@@ -258,7 +261,7 @@ April:
 //\nところで、あなたのその顔、どうしたの？
 \n
 I see. Now, before I go...\n
-what happened to your face?
+What happened to your face?
 <$00>
 
 // Pos: 0000322D
@@ -284,7 +287,7 @@ Cosmas:
 <$0D>
 //\nレッドおじさんだ…もう行くね、じゃあね。
 \n
-That was Uncle Red... I have to go\n
+That was Uncle Red. I have to go\n
 now, but good luck on your trip!
 <$1E><$03><$04><$00>
 

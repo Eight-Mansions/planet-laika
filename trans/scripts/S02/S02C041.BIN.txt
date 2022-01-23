@@ -399,15 +399,15 @@ Spirit Man:
 //\nオーラの色で悪の種類が分かる、\nひょひょ。
 \n
 The color of that aura designates\n
-what type of evil the influence is.
+what type of evil you'll absorb.
 <$0C><$0B>
 //スピリットマン：
 Spirit Man:
 <$0D>
 //\nさあ、心の状態を見えるようにしてやろう。\nマインドスコープだ、
 \n
-Now, let's check the condition of\n
-your mind via the mind scope.
+Now, let's check the condition\n
+of your mind via the mind scope.
 <$00>
 
 // Pos: 00004C20

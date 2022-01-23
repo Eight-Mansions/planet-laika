@@ -33,7 +33,7 @@ Captain Tatler:
 //\n降りたら勝手に動くな、全員で行動する、\n分かったな。
 \n
 We all need to work together.\n
-No loose agents, am I clear?
+No more slip-ups, am I clear?
 <$00>
 
 // Pos: 000034E8
@@ -48,8 +48,8 @@ Noon:
 <$0D>
 //\nうまく着陸できた、機関も異常なしだ。
 \n
-We landed successfully, and\n
-with zero engine abnormalities.
+Slip-ups? We landed safely, and\n
+with ZERO engine abnormalities!
 <$00>
 
 // Pos: 00003509
@@ -64,16 +64,15 @@ Captain Tatler:
 <$0D>
 //\nヌーン、もういいぞ。\n私たちは着陸すべくして着陸した。
 \n
-And, Noon? When I say,\n
-"land", you land.
+And your point, Noon?
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
 //\nそういうことだ。
 \n
-If you don't land,\n
-you don't get paid!
+Anything less, and you'dve\n
+been fired...or worse.\n
 <$00>
 
 // Pos: 0000354B
@@ -112,8 +111,8 @@ Captain Tatler:
 <$0D>
 //\n報告書はそうまとめる。 さ、準備だ！
 \n
-Let's cut the report,\n
-and head out!
+My point is, let's cut the\n
+report and head out!
 <$00>
 
 // Pos: 000035B5
@@ -128,8 +127,8 @@ Noon:
 <$0D>
 //\nけっ、とっととガリルって妄想野郎を\nとっつかまえて地球に戻ろうぜ。\nこんなブッソウな星に長居したくない。
 \n
-Heh, if we can drag that mad dog\n
-Galil back to Earth, let's be quick.
+Heh. If we're dragging the mad dog,\n
+Galil, back to Earth, let's be quick.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -152,7 +151,7 @@ Captain Tatler:
 <$0D>
 //\n密航者だけではない。\n流刑者のなれのはても生きながらえている。
 \n
-Some inhabitants were exiled.\n
+Eh, some inhabitants were exiled.\n
 They're forced to live out here.
 <$00>
 
@@ -168,8 +167,8 @@ April:
 <$0D>
 //\n彼らの協力が得られないと、\nちょっとやっかいよ。
 \n
-If we can't get along with\n
-everyone, this won't be easy.
+If we can't get along with the\n
+residents, this won't be easy.
 <$00>
 
 // Pos: 0000367B
@@ -199,7 +198,8 @@ Captain Tatler:
 <$0D>
 //\nさ、用意はいいか。
 \n
-Enough. Is everyone ready?
+Whatever works.\n
+Is everyone ready?
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:

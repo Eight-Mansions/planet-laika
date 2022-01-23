@@ -357,32 +357,32 @@ Commander October:
 <$0D>
 //\nさて、君たちが向かう火星だが、\nどうも様子がおかしいんだ。
 \n
-Actually, I have a small errand for\n
-you.
+As you know, you are headed to Mars,\n
+but this will be no ordinary survey.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
 \n
-See, rumors have sprouted saying\n
-that "face-shaped creatures"\n
+See, a rumor has sprouted that\n
+says "face-shaped creatures"\n
 have appeared on Mars.
 <$0C>
-This, among other things,\n
-has those currently living there\n
-fearing the supposed End Times.
+This, among other things, has\n
+left people fearing that the\n
+End Times are coming for Mars.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
 <$0D>
 //\nこれから地球化計画を再開するにあたって、\nそんなブッソウなことではいかん。
 \n
-Obviously, this is all\n
-baseless conjecture.
+Obviously, this rumor is nothing\n
+more than baseless conjecture...
 <$0C>
 ...but it threatens to halt our\n
-terraformation plans just the same.
+terraformation plans the very same.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -424,7 +424,7 @@ Captain Tatler:
 <$0D>
 //\n神は死んだ、光の私…
 \n
-...on the last mission, the colonel\n
+...over that mission, the colonel\n
 wired in a bizarre final message:
 <$0C><$0B>
 //タトラー船長：
@@ -442,7 +442,7 @@ Captain Tatler:
 <$0D>
 //\n火星に妙なウワサがはびこるようになったのは\nそれからのことだ。
 \n
-Right after that, weird rumors\n
+Right after that, that weird rumor\n
 began spreading about Mars.
 <$0C><$0B>
 //タトラー船長：
@@ -451,7 +451,7 @@ Captain Tatler:
 //\n我々はウワサの出所をさぐって、\n火星はなんでもない、
 \n
 Our mission now is to find who,\n
-or what, sparked those rumors.
+or what, sparked the rumor.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:

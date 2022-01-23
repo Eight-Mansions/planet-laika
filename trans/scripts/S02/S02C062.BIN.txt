@@ -671,23 +671,23 @@ White Eagle:
 <$0D>
 //\nおう、そうじゃ、石じゃ。\n光る石じゃ。 光る石はすべて集めたか？
 \n
-Ah, yes. The stones! Tell me, have you\n
-collected all of the glowing stones?
+Ah, yes. The stones! Tell me, have\n
+you found all of the glowing stones?
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nいや最後のひとつは悪夢の中じゃ。\nすると残るは４つ…
 \n
-The last one is inside of the\n
-nightmares. That leaves the other four.
+The fifth is inside of a nightmare,\n
+which means we need the first four.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
 //\nどうじゃ、足りないじゃろう。\nさがすのじゃ、あまり時間はないぞ。
 \n
-This won't do. I fear we don't have\n
+Tsk, tsk. I fear we don't have\n
 much time to look for them.
 <$0C><$0B>
 //ホワイトイーグル：
@@ -695,8 +695,8 @@ White Eagle:
 <$0D>
 //\nせっかく開きかけた入り口が閉じてしまうぞ。
 \n
-If the path is opened so narrowly,\n
-it might stay closed.
+The doorway that's been ready to\n
+open might just close after all.
 <$00>
 
 // Pos: 00003CBC
@@ -714,6 +714,6 @@ White Eagle:
 The glowing stones are said\n
 to be Martian good will. 
 <$0C>
-They must be around here somewhere.
+They must be here somewhere.
 <$00>
 
