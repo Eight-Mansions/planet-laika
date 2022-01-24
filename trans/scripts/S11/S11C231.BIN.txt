@@ -17,8 +17,8 @@ Feng:
 <$0D>
 //\nここがお店。\n整形って呼ばれてもかまわないわ。
 \n
-What others call "cosmetic\n
-surgery", I call Vanity Face.
+What others call "cosmetic surgery",\n
+I call Vanity Face.
 <$0C><$0B>
 //フェイ：
 Feng:
@@ -43,7 +43,7 @@ true self!" That's my desire.
 
 #WHB(PTR, $000002E1)
 
-<$11><$0B>
+<$10><$0B>
 //フェイ：
 Feng:
 <$0D>
@@ -209,7 +209,7 @@ Here's the medicine.
 
 #WHB(PTR, $000004A9)
 
-<$11><$0B>
+<$10><$0B>
 //フェイ：
 Feng:
 <$0D>

@@ -11,7 +11,7 @@
 
 #WHB(PTR, $00000171)
 
-<$13><$0B>
+<$12><$0B>
 //フェイ：
 Feng:
 <$0D>
@@ -68,7 +68,7 @@ This is our stop. Come along.
 
 #WHB(PTR, $0000043D)
 
-<$13><$0B>
+<$11><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
@@ -157,7 +157,7 @@ personal belongings?
 
 #WHB(PTR, $0000053D)
 
-<$13><$0B>
+<$12><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>

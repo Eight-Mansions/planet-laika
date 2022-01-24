@@ -263,7 +263,7 @@ only fleet until they are gone.
 
 #WHB(PTR, $00000D89)
 
-<$11><$0B>
+<$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
@@ -307,7 +307,7 @@ Otherwise, how could
 
 #WHB(PTR, $00000701)
 
-<$11><$0B>
+<$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>

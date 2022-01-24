@@ -76,6 +76,7 @@ Not entirely, for Galil ascends\n
 the stairway to God as we speak.
 <$0C><$0B>
 //ホワイトイーグル…？：
+White Eagle(?):
 <$0D>
 //\n得体の知れない死の情熱で、\n肉体を超えた存在になろうとしておるのじゃ。
 \n
@@ -192,8 +193,8 @@ White Eagle(?):
 <$0D>
 //\nこの力をお前にさずけよう。
 \n
-I give this last morsel of\n
-power to you.
+I give this last morsel of power\n
+to you.
 <$00>
 
 // Pos: 00003187
@@ -308,7 +309,9 @@ White Eagle(?):
 //\nお前には資質があるということじゃなぁ。\nまことにそういうことじゃ。
 \n
 This conversation proves you have the\n
-qualities we need in the moment of truth.
+qualities we need in the moment
+<$0C>
+of truth.
 <$00>
 
 // Pos: 00003314
@@ -375,7 +378,7 @@ Mars?
 
 #WHB(PTR, $00001BCD)
 
-<$11><$13><$16><$0B>
+<$10><$13><$16><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
@@ -440,7 +443,9 @@ White Eagle(?):
 //\nガリルはイーブルマインドをさぐるうちに\n世界の再生に触れた預言と出会った。
 \n
 In Galil's search for Evil Mind, he\n
-uncovered prophecies of world rebirth.
+uncovered prophecies of
+<$0C>
+world rebirth.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):

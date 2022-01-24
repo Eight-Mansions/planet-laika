@@ -54,7 +54,7 @@ I'll show you around.
 
 #WHB(PTR, $00000F95)
 
-<$13><$0B>
+<$12><$0B>
 //サミー：
 Sammy:
 <$0D>
@@ -101,7 +101,7 @@ Even he was red in the face!
 
 #WHB(PTR, $00000FB1)
 
-<$13><$0B>
+<$12><$0B>
 //サミー：
 Sammy:
 <$0D>
@@ -128,7 +128,7 @@ with him, a-nope.
 
 #WHB(PTR, $00000FCD)
 
-<$13><$0B>
+<$12><$0B>
 //サミー：
 Sammy:
 <$0D>
@@ -143,7 +143,7 @@ distant, but I know they're there.
 
 #WHB(PTR, $00000FD5)
 
-<$13><$0B>
+<$12><$0B>
 //サミー：
 Sammy:
 <$0D>
@@ -229,8 +229,8 @@ Young:
 <$0D>
 //\nさっきから無線テレビが点いたり消えたり、\nそれもアガタの魔術だろ。
 \n
-Our monitor's blinking\n
-on and off again.
+Our monitor's blinking on and off\n
+again.
 <$0C>
 I bet that's from\n
 Agatha's witchcraft too.
@@ -274,7 +274,7 @@ that's all I'll ever need.
 
 #WHB(PTR, $00000BC1)
 
-<$11><$0B>
+<$10><$0B>
 //ヤング：
 Young:
 <$0D>

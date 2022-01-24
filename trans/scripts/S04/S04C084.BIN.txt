@@ -170,7 +170,7 @@ Open the door!
 
 #WHB(PTR, $00001A45)
 
-<$11><$0B>
+<$10><$0B>
 //トミー：
 Tommy:
 <$0D>
@@ -190,7 +190,7 @@ flying, doesn't it? You hear it, right?
 
 #WHB(PTR, $00001A29)
 
-<$11><$0B>
+<$10><$0B>
 //トミー：
 Tommy:
 <$0D>

@@ -43,7 +43,7 @@ Did something happen?
 
 #WHB(PTR, $00000201)
 
-<$13><$14><$04><$0B>
+<$12><$14><$04><$0B>
 //フェイ：
 Feng:
 <$0D>
@@ -136,7 +136,7 @@ I am looking into your eyes...
 
 #WHB(PTR, $00000571)
 
-<$11><$0B>
+<$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
@@ -508,7 +508,7 @@ the personification of beauty.
 
 #WHB(PTR, $00000C19)
 
-<$13><$13><$19><$0B>
+<$12><$13><$19><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
@@ -552,7 +552,7 @@ Veronica:
 Amanda. Cosmetic surgery made\n
 her into an amazing beauty.
 <$0C>
-She looked into mirrors so often,
+She looked into mirrors so often,\n
 she was eventually sucked into one.
 <$0C><$0B>
 //ヴェロニカ：
@@ -622,7 +622,7 @@ Edge calls it the\n
 
 #WHB(PTR, $00000C7D)
 
-<$13><$0B>
+<$12><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
@@ -631,7 +631,7 @@ Madam Agatha:
 The Mirror of Judgement?\n
 I see...
 <$0C>
-Edge is your closest friend, yes?
+Edge is your closest friend, yes?\n
 What else did they say?
 <$00>
 
@@ -661,7 +661,7 @@ Veronica:
 <$0D>
 //\nよくわからないけど、\nそんなことよ。
 \n
-No one knows for sure, but it we\n
+No one knows for sure, but we\n
 believe a new world will be born.
 <$0C><$0B>
 //ヴェロニカ：
@@ -695,7 +695,7 @@ what happens to you, Veronica?
 
 #WHB(PTR, $00000CB9)
 
-<$13><$13><$19><$0B>
+<$12><$13><$19><$0B>
 //ヴェロニカ：
 Veronica:
 <$0D>
@@ -806,7 +806,7 @@ but I can't tell you more than that.
 
 #WHB(PTR, $00000ECD)
 
-<$11><$0B>
+<$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
@@ -978,7 +978,7 @@ for the night.
 
 #WHB(PTR, $00001119)
 
-<$11><$0B>
+<$10><$0B>
 //フェイ：
 Feng:
 <$0D>

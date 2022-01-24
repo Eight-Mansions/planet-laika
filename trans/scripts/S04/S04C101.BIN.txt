@@ -29,7 +29,7 @@ How is April?
 
 #WHB(PTR, $000005DD)
 
-<$11><$11><$01><$0B>
+<$10><$11><$01><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
@@ -149,7 +149,7 @@ Say, there's something I'd like for\n
 us to try. Would you come with me?
 <$1B>
 //？行く\n行かない
-？Yes\nNo
+？ Yes\n No
 <$00><$17><$00>
 
 // Pos: 0000349B
@@ -285,7 +285,7 @@ only fleet until they are gone.
 
 #WHB(PTR, $00000F45)
 
-<$11><$0B>
+<$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
@@ -329,7 +329,7 @@ Otherwise, how could
 
 #WHB(PTR, $000008BD)
 
-<$11><$0B>
+<$10><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
