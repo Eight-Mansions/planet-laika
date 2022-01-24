@@ -78,7 +78,7 @@ How are you happy?
 
 #WHB(PTR, $0000027D)
 
-<$11><$0B>
+<$10><$0B>
 //ヘロデ：
 Herod:
 <$0D>
@@ -93,7 +93,9 @@ Herod:
 //\nこの星では何かにつけそいつが発芽する、\nワケの分からない恐怖に\n追い立てられる毎日だ。
 \n
 Something on Mars germinates this\n
-ludicrous seed. I fend it off every day.
+ludicrous seed. I fend it off
+<$0C>
+every day.
 <$0C><$0B>
 //ヘロデ：
 Herod:

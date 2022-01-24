@@ -51,7 +51,7 @@ pigtailed, pigshit little tramp.
 
 #WHB(PTR, $00000765)
 
-<$11><$0B>
+<$10><$0B>
 //スモーキー：
 Smokey:
 <$0D>
@@ -366,9 +366,9 @@ EXTRACTED OXYGEN BLED OUT OVER\n
 MOST OF THE PLANET'S SURFACE.
 <$0C>
 //もうヘルメットはいらないんだ、\n星が生まれ変わったんだ。
-HELMETS ARE NO LONGER NECESSITY.\n
-IN THAT ONE WAY, THE PLANET\n
-WAS REBORN.
+HELMETS ARE NO LONGER A NECESSITY.\n
+IN THAT ONE WAY, THE PLANET WAS\n
+REBORN.
 <$00>
 
 // Pos: 0000309F

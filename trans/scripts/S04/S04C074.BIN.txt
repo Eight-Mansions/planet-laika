@@ -146,7 +146,7 @@ There's no time!
 
 #WHB(PTR, $00000B25)
 
-<$13><$0B>
+<$12><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
@@ -174,7 +174,7 @@ of him if he keeps up.
 
 #WHB(PTR, $00000B81)
 
-<$13><$0B>
+<$12><$0B>
 //マラケシュ：
 Marrakech:
 <$0D>
@@ -277,8 +277,8 @@ Marrakech:
 Can you believe such a tale?
 <$1B>
 //？信じる\n信じない
-？Yes\n
-No
+？ Yes\n
+ No
 <$00><$17><$00>
 
 // Pos: 00001E0C
@@ -300,6 +300,7 @@ they're not ghosts, what are they?
 Marrakech:
 <$0D>
 //\nそういえばリンダが鏡のそばでなにやら\nブツブツやってるの、見たわよ。
+\n
 That reminds me...
 <$0C>
 Recently, I saw Linda mumbling\n

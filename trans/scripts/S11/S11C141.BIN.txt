@@ -37,7 +37,7 @@ Everything is connected! Have\n
 you ever heard of rock birth?
 <$1B>
 //。知っている\n知らない
-。Yes\nNo
+。 Yes\n No
 <$00><$17><$00>
 
 // Pos: 000034FD
@@ -159,7 +159,7 @@ And yet, they are not the same!\n
 Three or one: which do you choose?
 <$1B>
 //「３\n１
-「３\n１
+「 ３\n １
 <$00><$17><$00>
 
 // Pos: 00003696
@@ -309,8 +309,8 @@ Be honest. You overlooked it too,\n
 didn't you?
 <$1B>
 //,見落としてきた\n見落とさなかった
-,Yes\n
-No
+, Yes\n
+ No
 <$00><$17><$00>
 
 // Pos: 000038C3
@@ -365,7 +365,7 @@ Mountain:
 //\n彼らもチャネリングしたい、\n私にはそう思えるのだ。
 \n
 They noticed the abnormalities, and\n
-are trying to channeling us in return.
+are trying to channel us in return.
 <$00>
 
 // Pos: 00003978
@@ -782,7 +782,8 @@ Young:
 //\nこいつ！おい、お前、\nあの魔女に変な魔法でも\nかけられたんじゃねぇのか、ひゃ！
 \n
 A-are you serious?! Hey, kid. Did that\n
-witch cast any weird hexes on you? No?
+witch cast any weird hexes on you?\n
+No?
 <$00>
 
 // Pos: 00003DD7

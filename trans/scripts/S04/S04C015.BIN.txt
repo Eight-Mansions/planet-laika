@@ -51,7 +51,7 @@ Returning to Earth already?
 
 #WHB(PTR, $000010AD)
 
-<$13><$0B>
+<$12><$0B>
 //フェイ：
 Feng:
 <$0D>
@@ -87,8 +87,8 @@ I'm sure that sounds silly.\n
 Do you find that silly?
 <$1B>
 //、おかしい\nおかしくない
-、Yes\n
-No
+、 Yes\n
+ No
 <$00><$17><$00>
 
 // Pos: 00001F25
@@ -115,7 +115,7 @@ I'm so worried, I can hardly sleep!
 
 #WHB(PTR, $000010D1)
 
-<$13><$0B>
+<$12><$0B>
 //フェイ：
 Feng:
 <$0D>
@@ -215,11 +215,12 @@ Mirror of Judgement? Where from?\n
 
 #WHB(PTR, $000012D1)
 
-<$13><$13><$13><$0B>
+<$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\nああ、でも分かるぜ。\nここのやつらは鏡をイヤガってる、\nそうじゃないのか。
+\n
 Does that matter? The people here\n
 are all spooked by mirrors.
 <$00>
@@ -230,7 +231,7 @@ are all spooked by mirrors.
 
 #WHB(PTR, $000012F5)
 
-<$13><$0B>
+<$12><$0B>
 //フェイ：
 Feng:
 <$0D>
