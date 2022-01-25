@@ -39,7 +39,7 @@ Gold:
 Think you know what that is?
 <$1B>
 //？知らない\n知ってる
-？No\nYes
+？ No\n Yes
 <$00><$17><$00>
 
 // Pos: 00002B8F
@@ -77,7 +77,7 @@ Gold:
 //\n今でも夢の中に出て来るらしいぜ。\nクロウのやつがのぞき見したんだ。
 \n
 Apparently, he still appears\n
- in Red's dreams.
+in Red's dreams.
 <$0C>
 Crow peeked in and saw the guy.
 <$0C><$0B>
@@ -127,7 +127,6 @@ Gold:
 \n
 I wonder why Red went out. He ain't\n
 exactly one to "frolick in the fields".
-<$1E>
 <$1E><$02><$04><$00>
 
 // Pos: 00002C94

@@ -82,7 +82,7 @@ Does God have a name?
 
 #WHB(PTR, $00000149)
 
-<$11><$13><$19><$0B>
+<$10><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
@@ -138,11 +138,11 @@ Liever:
 <$0D>
 //\nそのうち最初にできた一番下の顔の眼のあたりが\nくぼんで、何かをはめるような惑じに\nなってきたんだ。
 \n
-There eyes on the first face\n
-that appeared are hollow.
+The very first face  on the totem\n
+appeared with hollow eye sockets.
 <$0C>
-I think we're supposed to\n
-fit something in each socket.
+I figured, "Two glowing stones\n
+out to do the trick!"
 <$0C><$0B>
 //リバー：
 Liever:
@@ -175,7 +175,7 @@ for Evil Mind at all!
 
 #WHB(PTR, $00000171)
 
-<$11><$13><$19><$0B>
+<$10><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
@@ -202,7 +202,7 @@ to see it to believe it.
 
 #WHB(PTR, $000001CD)
 
-<$11><$13><$19><$0B>
+<$10><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>

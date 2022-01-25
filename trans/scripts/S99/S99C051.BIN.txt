@@ -133,7 +133,7 @@ saying if you didn't play defensive.
 
 #WHB(PTR, $000008B1)
 
-<$13><$13><$1D><$0B>
+<$12><$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
@@ -149,7 +149,7 @@ Yolanda:
 \n
 Guess the crew's back on track for\n
 now.
-<$0D>
+<$0C>
 How did 
 <$0F>
 //は平気なの？
@@ -383,7 +383,7 @@ the Black Rider was gathering evil.
 
 #WHB(PTR, $00000965)
 
-<$13><$13><$13><$0B>
+<$12><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
@@ -564,8 +564,8 @@ Spacer:
 <$0D>
 //\nまるでガリルの妄想が邪悪な意志を得て\n一人歩きしているようだ。
 \n
-...it's like Galil's delusions and ill\n
-will have steadily taken tangible forms.
+...it's like Galil's delusions and ill will\n
+have steadily taken tangible forms.
 <$00>
 
 // Pos: 00002060
@@ -643,6 +643,7 @@ they're more like us after all.
 Spacer:
 <$0D>
 //\n分からない…\nあのふたり、顔は似ていないようだが…
+\n
 Who knows. You couldn't tell\n
 just by looking at them.
 <$00>

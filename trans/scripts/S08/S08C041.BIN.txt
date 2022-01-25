@@ -355,11 +355,8 @@ Is it over here?
 #WHB(PTR, $000000E9)
 
 
-<$12><$1F><$00>
-//場
-He...
-<$0E><$3D>
-//た…砂嵐の中に…
-left into the sandstorm.
+<$12><$1F><$00><$02>
+//消えた…砂嵐の中に…
+He...left into the sandstorm.
 <$00>
 

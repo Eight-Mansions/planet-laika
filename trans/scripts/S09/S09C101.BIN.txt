@@ -50,7 +50,7 @@ Universal Man is here?
 
 #WHB(PTR, $00000309)
 
-<$11><$13><$19><$0B>
+<$10><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
@@ -114,7 +114,7 @@ dead, right? What does he want?
 
 #WHB(PTR, $00000359)
 
-<$11><$13><$19><$0B>
+<$10><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
@@ -149,7 +149,7 @@ capsule we found in the valley!
 
 #WHB(PTR, $00000395)
 
-<$11><$13><$19><$0B>
+<$10><$13><$19><$0B>
 //リバー：
 Liever:
 <$0D>
@@ -186,7 +186,7 @@ Red Stone acquired.
 
 #WHB(PTR, $000004D1)
 
-<$11><$13><$18><$0B>
+<$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>

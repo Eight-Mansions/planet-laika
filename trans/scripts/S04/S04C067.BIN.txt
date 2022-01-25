@@ -359,9 +359,7 @@ Marrakech:
 //\nコスマスの犬顔、レッドが見たら怒り狂うわよ。\nあなた、見つからないようにしなきゃ。
 \n
 If Red sees Cosmas's face, he'll riot.\n
-You'd both better keep away from
-<$0C>
-Red.
+You'd both better keep away from Red.
 <$1E><$01><$04><$00>
 
 // Pos: 0000392C
@@ -370,7 +368,7 @@ Red.
 
 #WHB(PTR, $00000689)
 
-<$13><$0B>
+<$12><$0B>
 //リンダ：
 Linda:
 <$0D>
