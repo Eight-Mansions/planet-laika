@@ -11,7 +11,7 @@
 
 #WHB(PTR, $000011E5)
 
-<$13><$0B>
+<$12><$0B>
 //リトル：
 Little:
 <$0D>
@@ -57,8 +57,8 @@ Little:
 \n
 ...Whatever. Did you want\n
 to ask me anythin'?
-<$1B>
-//いなぜ双子を誘ったんだ？\nヘロデも罪を？\nエイプリルはどこに？
+<$1B><$3B>
+//なぜ双子を誘ったんだ？\nヘロデも罪を？\nエイプリルはどこに？
 Why take twins?\n
 Did Herod sin too?\n
 Where is April?
@@ -130,8 +130,7 @@ Little:
 <$0D>
 //\nせいぜいがそんなところだ。
 \n
-That's as far as his rap\n
-sheet goes.
+That's as far as his rap sheet goes.
 <$0C><$0B>
 //リトル：
 Little:

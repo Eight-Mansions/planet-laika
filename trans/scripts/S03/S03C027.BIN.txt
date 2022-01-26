@@ -131,7 +131,7 @@ What's Red doing here?
 
 #WHB(PTR, $00001321)
 
-<$11><$0B>
+<$10><$0B>
 //レッド：
 Red:
 <$0D>
@@ -590,8 +590,7 @@ April:
 <$0D>
 //\nちょっと行ってくるね。
 \n
-I'm going on a little\n
-side errand, okay?
+I'm going on a little side errand, okay?
 <$00>
 
 // Pos: 000034D5

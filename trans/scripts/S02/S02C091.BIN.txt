@@ -272,7 +272,7 @@ loving you ever, I don't know...
 
 #WHB(PTR, $00001189)
 
-<$11><$0B>
+<$10><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -311,7 +311,7 @@ all to suit her self. It was choking.
 
 #WHB(PTR, $00001215)
 
-<$11><$0B>
+<$10><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -342,7 +342,7 @@ April:
 //\nこの星は忘れたい昔を思い起こさせるのね…\nすごく意地悪なおじいさんみたいに。
 \n
 I feel old saying this, but being here\n
-reminds me days I'd rather forget.
+reminds me of days I'd rather forget.
 <$00>
 
 // Pos: 000042B6
@@ -390,8 +390,14 @@ April:
 //\n早くなんとかしないと\n取り返しのつかないことになりそうよ…
 \n
 If we don't wrap this up soon, I worry\n
-the wounds we open here won't close up.
-<$0C><$0B>
+the wounds we open here won't
+<$0C>
+<$0B>
+//エイプリル：
+April:
+<$0D>
+close up.
+<$0B>
 //エイプリル：
 April:
 <$0D>

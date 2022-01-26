@@ -473,8 +473,8 @@ Keepin' 'em around too long won't\n
 make you any happier. You ready?
 <$1B>
 //。行こう\n待ってくれ
-。Yes\n
-No
+。 Yes\n
+ No
 <$00><$17><$00>
 
 // Pos: 000034A5

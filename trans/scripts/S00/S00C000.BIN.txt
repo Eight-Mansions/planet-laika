@@ -1350,7 +1350,7 @@ up. I'll wait here.
 //P:00011A03
 #WRITE(PTR, $000104E8)
 #WRITE(PTR, $000104F8)
-<$10><$0B>
+<$11><$0B>
 //エイプリル：
 April:
 <$0D>
