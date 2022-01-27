@@ -509,7 +509,7 @@ to see that eyeball?
 
 #WHB(PTR, $00000FC1)
 
-<$13><$0B>
+<$12><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -518,7 +518,6 @@ April:
 According to Agatha, Little hasn't\n
 come out even once.
 <$0C>
-She says it's because\n
-he hates Mars.
+She says it's because he hates Mars.
 <$00>
 

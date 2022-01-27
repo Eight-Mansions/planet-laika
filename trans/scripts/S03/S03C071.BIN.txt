@@ -214,8 +214,8 @@ April:
 <$0D>
 //\nねぇ、この星では\n夢と現実が入れ替わったりするの？
 \n
-Still, all this dream talk\n
-makes me wonder...
+Still, all this dream talk makes me\n
+wonder...
 <$0C>
 Are "dreams" and "reality"\n
 inverted on Planet Mars?
@@ -368,7 +368,7 @@ Oi, what's going on inside my head?!
 
 #WHB(PTR, $00000A71)
 
-<$11><$0B>
+<$10><$0B>
 //エイプリル：
 April:
 <$0D>

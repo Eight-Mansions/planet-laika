@@ -211,8 +211,7 @@ Galil:
 <$0D>
 //\nしかし馬屋に火を放ったりはしない。
 \n
-...but he did not set\n
-the barn on fire.
+...but he did not set the barn on fire.
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -275,8 +274,7 @@ Ernest:
 <$0D>
 //\n俺がやらなけりゃやつがやってたに\n建いねぇんだ！
 \n
-I could never stoop\n
-down to his level!
+I could never stoop down to his level!
 <$00>
 
 // Pos: 000029AB
@@ -325,8 +323,8 @@ Galil:
 <$0D>
 //\nさあ、それはどうかな。
 \n
-Let's take a closer look\n
-at that, shall we?
+Let's take a closer look at that,\n
+shall we?
 <$0C><$0B>
 //ガリル：
 Galil:
@@ -428,8 +426,8 @@ Spacer:
 <$0D>
 //\nあああ、やめろ！ セルゲイは悪人だ、\nいずれ殺人を犯すに建いない！
 \n
-Stop! Stop! STOP! Sergei was an evil\n
-person! He was BOUND to murder someday!
+Stop! Stop! STOP! Sergei was an evil person!\n
+He was BOUND to murder someday!
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -509,8 +507,7 @@ Galil:
 //\nエ場から盗み出した\nひどいシロモノを飲ませたんだ。\nウラジミールは見る間に調子を崩していった。
 \n
 You stole some from the distillery\n
-and served it to him at breakfast.
-<$0C>
+and served it to him at breakfast.\n
 Someone had to wane his temper.
 <$00>
 
@@ -559,8 +556,7 @@ Galil:
 <$0D>
 //\n君はタニアのそばにいながら、彼女が\n生きているときには一度も現れなかった。
 \n
-If you really wanted\n
-to help Tanya...
+If you really wanted to help Tanya...\n
 <$0C><$0B>
 //ガリル：
 Galil:

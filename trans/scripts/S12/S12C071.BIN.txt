@@ -260,6 +260,10 @@ Phoenix:
 But what am I supposed to do with\n
 this thing?
 <$0C>
+<$0B>
+//フェニックス：
+Phoenix:
+<$0D>
 Shed tears of lament for my dead\n
 mother?
 <$00>
@@ -477,7 +481,10 @@ Chloe:
 \n
 People may lose their minds\n
 in this process.
-<$0C>
+<$0C><$0B>
+//クロエ：
+Chloe:
+<$0D
 People will go insane simply\n
 by speaking to you.
 <$00>

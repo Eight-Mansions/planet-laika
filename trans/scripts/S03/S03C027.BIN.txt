@@ -402,8 +402,8 @@ Spacer:
 <$0D>
 //\n善人は染まりやすいと、\n悪におちいりやすいと。
 \n
-That which is pure is the\n
-most easy to stain...
+That which is pure is the most easy\n
+to stain...
 <$00>
 
 // Pos: 00003302
@@ -451,7 +451,7 @@ Spacer:
 //\n呪術でどうする？\nバリアを張るのか。
 \n
 How, exactly? I don't see any\n
-barriers around the parameter.
+barriers around the perimeter.
 <$00>
 
 // Pos: 00003396
@@ -510,7 +510,7 @@ Yes, with bottles.
 Spacer:
 <$0D>
 //\nびんでイーブルマインドを\nシャットアウトするということか。
-\Oh. Dang, umm... Do you mean\n
+Oh. Dang, umm... Do you mean\n
 you're bottling the purple gas?
 <$00>
 
