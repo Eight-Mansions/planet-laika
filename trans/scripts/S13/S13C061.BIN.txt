@@ -46,7 +46,7 @@ You tweaking my brain?
 
 #WHB(PTR, $00000261)
 
-<$11><$0B>
+<$10><$0B>
 //クロウ：
 Crow:
 <$0D>
@@ -86,15 +86,17 @@ ME?! Fuck off, you're scaring me!
 
 #WHB(PTR, $0000037D)
 
-<$11><$0B>
+<$10><$0B>
 //クロウ：
 Crow:
 <$0D>
 //\n兄さん、ひらめいたんだ、すごいこと。\nあいつらを悪夢の中に閉じ込めてやる、
 \n
-...Hey, Bro, I just got\n
-a great idea. 
-<$0C>
+...Hey, Bro, I just got a great idea. 
+<$0C><$0B>
+//クロウ：
+Crow:
+<$0D>
 I'm going to trap all these\n
 losers in your nightmare.
 <$0C><$0B>

@@ -49,8 +49,7 @@ Bull:
 <$0D>
 //\nおおお、イヤな惑じだ、ちくしょう！
 \n
-Shit, my senses are all\n
-out of whack.
+Shit, my senses are all out of whack.
 <$00>
 
 // Pos: 000026C3
@@ -65,8 +64,8 @@ Bull:
 <$0D>
 //\n俺はあんたがきらいだ…\nあー、何て言うか、きらいなんだ。
 \n
-I don't like you, or anything\n
-you have to say.
+I don't like you, or anything you have \n
+to say.
 <$0C><$0B>
 //ブル：
 Bull:
@@ -81,16 +80,15 @@ Bull:
 <$0D>
 //\nあんた、アガタと組んでるのか、分かるんだ。
 \n
-All I know is, you're\n
-on Agatha's team.
+All I know is, you're on Agatha's team.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\n俺は落ち込むとすぐにここに来るんだ、\n催眠術で何もかも忘れることができるんだ。
 \n
-I come here the minute I\n
-start feeling depressed. 
+I come here the minute I start feeling\n
+depressed. 
 <$0C>
 The hypnotherapy helps me forget.
 <$00>
@@ -101,15 +99,18 @@ The hypnotherapy helps me forget.
 
 #WHB(PTR, $00000275)
 
-<$11><$0B>
+<$10><$0B>
 //ブル：
 Bull:
 <$0D>
 //\nちくしょう！ 俺は何で俺なんだ？\nもうあきたぜ。アガタ、ここを開けてくれ。\n自分を忘れたいぜ！
 \n
 Why'd I have to be me, huh? 
-<$0C>
-Well, I'm here, Agatha!\n 
+<$0C><$0B>
+//ブル：
+Bull:
+<$0D>
+Well, I'm here, Agatha!\n
 Open up! Let my forget my self!
 <$00>
 

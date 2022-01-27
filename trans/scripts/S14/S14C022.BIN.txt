@@ -24,8 +24,7 @@ Veronica:
 <$0D>
 //\nアタシはただあのまじない人形を…
 \n
-I just took the enchanted\n
-doll, when...
+I just took the enchanted doll, when...
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -33,7 +32,7 @@ Veronica:
 //\nそしたらカベに埋まってる人のウデが\nのびてきて、人形を持っていったのよ。
 \n
 ...the guy buried in the cave wall\n
-reach out and took the doll away!
+reached out and took the doll away!
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
@@ -48,9 +47,12 @@ Veronica:
 <$0D>
 //\n死の動機、死の動機って…\nねぇ、開いてる？
 \n
-They say, "Reason for\n
-dying...reason for dying..."
-<$0C>
+They say, "Reason for dying...\n
+reason for dying..."
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
 Tell me, do you hear them?
 <$0C><$0B>
 //ヴェロニカ：
@@ -224,9 +226,11 @@ Veronica:
 \n
 It's funny.\n
 It's precisely as I envisioned. 
-<$0C>
-I didn't have to pull\n
-any strings.
+<$0C><$0B>
+//ヴェロニカ：
+Veronica:
+<$0D>
+I didn't have to pull any strings.
 <$00>
 
 // Pos: 00003E86
@@ -355,7 +359,7 @@ who likes to stand around this spot.
 
 #WHB(PTR, $0000070D)
 
-<$13><$0B>
+<$12><$0B>
 //スパーキー：
 Sparky:
 <$0D>
@@ -363,7 +367,10 @@ Sparky:
 \n
 Sniff, sniff... I can smell William.\n
 Where would he have gone?
-<$0C>
+<$0C><$0B>
+//スパーキー：
+Sparky:
+<$0D>
 I thought he liked this spot...
 <$00>
 

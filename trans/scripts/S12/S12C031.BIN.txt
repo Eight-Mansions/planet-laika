@@ -294,7 +294,7 @@ items carried memories of people?
 
 #WHB(PTR, $000006F9)
 
-<$11><$0B>
+<$10><$0B>
 //クロエ：
 Chloe:
 <$0D>
@@ -308,8 +308,11 @@ Chloe:
 <$0D>
 //\nアガタについては…\nそうね、彼女はこの星の意志に\n触れてから人が変わったのよ。
 \n
-As for Agatha...\n
-<$0C>
+As for Agatha...
+<$0C><$0B>
+//クロエ：
+Chloe:
+<$0D>
 She changed greatly after being\n
 touched by the will of the planet.
 <$0C><$0B>
