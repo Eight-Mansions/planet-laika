@@ -260,7 +260,7 @@ Captain Tatler:
 <$0D>
 //\nいつまでそこにいる？
 \n
-Anyways, what are you waiting for?
+Well? What are you waiting for?
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -324,7 +324,7 @@ previous mission to Mars.
 <$00><$13><$16><$0E><$0F>
 //ひょひょ、お前を惑じるぞ、近くに惑じるぞ。\nひときわ強く、ひょ。
 Hyohyo, I can feel you! You're so\n
-close already! Its so potent, hyo!
+close already! It's so potent, hyo!
 <$00>
 
 // Pos: 00003DBF

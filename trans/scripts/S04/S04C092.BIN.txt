@@ -118,7 +118,7 @@ Little:
 //\nやけに威勢がいいな、ええ？\n隣の倉庫を見たか？ あれが酸索石だ。\nあれは俺たちが掘り出したものだ。
 \n
 How lovely. So, you DON'T care\n
-about our d next door?
+about our warehouse next door?
 <$0C>
 The one that stores our\n
 lucrative oxygenite reserves?
@@ -196,9 +196,10 @@ Little:
 //\nご希望とあらば、ザ・フェイスまで\n酸索パイプラインを敷いて観光名所にしたって\n構わないんだ、ええ、そうだそうだ。
 \n
 We laid out an oxygenite pipeline up\n
-to the Face. It's now a tourist spot for
+to the Face.
 <$0C>
-you Earthlings.
+It wouldn't be a bad tourist spot\n
+for you narcissistic Earthlings.
 <$0C><$0B>
 //リトル：
 Little:
@@ -206,10 +207,10 @@ Little:
 //\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
 \n
 You all obsess over human faces so\n
-bad, you'll swarm to it like bees.
+badly, you swarm to it like bees.
 <$0C>
-And then, when you see it, you'll\n
-pay us for cosmetic surgery!
+And then, when you see it,\n
+you pay us for cosmetic surgery!
 <$00>
 
 // Pos: 00002205
@@ -313,8 +314,8 @@ Little:
 <$0D>
 //\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
 \n
-Oi, if it speeds things up, I'll dispatch\n
-a search party in the mornin'.
+Oi, if it SPEEDS THINGS UP, I'll\n
+dispatch a search party in the mornin'!
 <$00>
 
 // Pos: 00002332

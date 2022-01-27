@@ -84,30 +84,30 @@ April:
 All I had to do was collect samples\n
 of Martian topsoil, but now...
 <$0C>
-...that feels like a goose chase.
+...that's hardly important.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nオクトーバー司令官は、\n火星の土に含まれてる成分が人に\n幻覚をもたらす、そう考えてるみたいなの。
 \n
-Commander October thinks that\n
-Martian topsoil contains toxic agents.
+I knew Commander October believed\n
+Martian topsoil held toxic agents.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nほんとに急だったのよ。
 \n
-My invitation onto the unit came\n
-out of nowhere, so...
+Even still, my invitation to join\n
+the survey unit came out of nowhere.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nはじめは乗り気がしなかったけど、\nライカと一緒って開いて引き受けたんだ。
 \n
-...I wasn't truly interested in coming\n
+I wasn't truly interested in coming\n
 until I heard you'd be here.
 <$00>
 
@@ -272,7 +272,7 @@ loving you ever, I don't know...
 
 #WHB(PTR, $00001189)
 
-<$10><$0B>
+<$11><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -311,7 +311,7 @@ all to suit her self. It was choking.
 
 #WHB(PTR, $00001215)
 
-<$10><$0B>
+<$11><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -342,7 +342,7 @@ April:
 //\nこの星は忘れたい昔を思い起こさせるのね…\nすごく意地悪なおじいさんみたいに。
 \n
 I feel old saying this, but being here\n
-reminds me of days I'd rather forget.
+reminds me days I'd rather forget.
 <$00>
 
 // Pos: 000042B6

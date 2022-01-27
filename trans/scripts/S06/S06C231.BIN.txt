@@ -48,15 +48,15 @@ Ernest:
 Who's there? Who called to me?
 <$0C><$13><$FF>
 //誰でもない…\nお前が忘れていったお前自身の声だ。
-Maybe it's no one. You just forgot\n
-the sound of my own voice.
+...It's probably no one. Must've\n
+forgotten the sound of my own voice.
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n俺が？忘れた？何を言ってやがる！
 \n
-Wait, I forgot? What am I saying?
+Wait, "I" forgot? What am I saying?
 <$00>
 
 // Pos: 00000531
@@ -72,7 +72,7 @@ Yolanda:
 //\nアタシは…ヨランダ、そうよ、ヨランダよ。
 \n
 I'm...Yolanda.\n
-That's right. Yolanda.
+That's right. Yo-lan-da.
 <$0C><$0B>
 //ヨランダ：
 Yolanda:

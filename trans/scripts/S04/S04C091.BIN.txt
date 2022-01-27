@@ -685,8 +685,8 @@ Herod:
 <$0D>
 //\n私はお前たちが見捨てたこの星を\nなんとか立て直そうと、身を粉にして働いた。
 \n
-I worked too hard for your shit,\n
-got it?
+I worked too hard to have to put\n
+up with the ISF's shit, got it?
 <$0C>
 I rebuilt this planet from the dust\n
 up after YOU parasites dumped it!
@@ -707,7 +707,7 @@ Herod:
 //\nその甲斐あってコロニーはよみがえった。\nもう流刑地などと呼ばせるわけにはいかない。
 \n
 I revived this colony to "be like Earth",\n
-not "be Earth's"!
+not "belong to Earth"!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -996,10 +996,10 @@ Little:
 <$0D>
 //\nご希望とあらば、ザ・フェイスを\n火星きっての観光名所にしたって\n構わないんだ、ええ、そうだそうだ。
 \n
-You know, we can lay out an\n
-oxygenite pipeline to the Face. 
+You know how we laid out that\n
+oxygenite pipeline to the Face? 
 <$0C>
-That'd make it a great tourist spot\n
+It wouldn't be a bad tourist spot\n
 for you narcissistic Earthlings.
 <$0C><$0B>
 //リトル：
@@ -1008,10 +1008,10 @@ Little:
 //\n地球のやつら、人間の顔を拝みに\nはるばるやってくるだろう、\nそうだそうだ、整形屋はおおはやりだ！
 \n
 You all obsess over human faces so\n
-bad, you'll swarm to it like bees.
+badly, you swarm to it like bees.
 <$0C>
-And then, when you see it, you'll\n
-pay us for cosmetic surgery!
+And then, when you see it,\n
+you pay us for cosmetic surgery!
 <$00><$10><$0B>
 //エイプリル：
 April:
@@ -1060,15 +1060,13 @@ April:
 \n
 Yep. I also said, "both". We need our\n
 captain AND our engineer, got it?
-<$0C>
-understand?
 <$00><$10><$0B>
 //リトル：
 Little:
 <$0D>
 //\n仲間さがしには協力をおしまないつもりだ。\n明日の朝にでも人手を出してやろう、\nそうだそうだ。
 \n
-Oi, if it speeds things up, I'll dispatch\n
+If it SPEEDS THINGS UP, I'll dispatch\n
 a search party in the mornin'.
 <$00><$10><$0B>
 //エイプリル：

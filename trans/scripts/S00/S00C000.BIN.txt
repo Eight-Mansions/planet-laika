@@ -1173,15 +1173,15 @@ April:
 //\n火星で多くの人が幻覚に悩まされたりするように\nなったのは、ガリルが姿を消してからなの。
 \n
 Well, it wasn't until Galil went\n
-MIA that people began hallucinating.
+MIA that people began to see Phases.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそれまでは流刑者の生き残りが暮らすだけの\nさびれた星だったのよ。
 \n
-Before that, Mars was just another\n
-deserted planet to leave the exiles.
+Before that, the only living things\n
+here were survivors among the exiles.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -1350,7 +1350,7 @@ up. I'll wait here.
 //P:00011A03
 #WRITE(PTR, $000104E8)
 #WRITE(PTR, $000104F8)
-<$11><$0B>
+<$10><$0B>
 //エイプリル：
 April:
 <$0D>
