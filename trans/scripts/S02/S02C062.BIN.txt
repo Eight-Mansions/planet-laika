@@ -121,7 +121,7 @@ about what happened at the lodge?
 
 #WHB(PTR, $000002E9)
 
-<$11><$0B>
+<$10><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
@@ -163,7 +163,10 @@ Phoenix:
 \n
 Some prophecies are only heard in\n
 death. 
-<$0C>
+<$0C><$0B>
+//フェニックス：
+Phoenix:
+<$0D>\n
 Is it his aim to become one with\n
 Jeremiah?
 <$00>
@@ -189,7 +192,10 @@ White Eagle:
 //\n火星人たちは自らの死をもって、\nその善意と悪意を分けたのじゃ。
 \n
 The Martians used death as a means.
-<$0C>
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>\n
 Death allowed the Martians to separate\n
 their good will from their ill will.
 <$0C><$0B>
@@ -207,8 +213,13 @@ White Eagle:
 //\n流刑者エレミヤはこの星の精神に触れ、\n死は終わりではなく始まり、
 \n
 Jeremiah the Exile was touched by\n
-the soul of the planet. His death\n
-was not his end, but his beginning.
+the soul of the planet.
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>\n
+His death was not his end,\n
+but his beginning.
 <$0C><$0B>
 //ホワイトイーグル：
 White Eagle:
@@ -241,7 +252,7 @@ now is to face death itself.
 
 #WHB(PTR, $00000325)
 
-<$13><$13><$13><$0B>
+<$12><$13><$13><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
@@ -272,7 +283,7 @@ Did Universal Man die and be reborn?
 
 #WHB(PTR, $000003D5)
 
-<$11><$0B>
+<$10><$0B>
 //ホワイトイーグル：
 White Eagle:
 <$0D>
@@ -280,7 +291,10 @@ White Eagle:
 \n
 Universal Man will only be reborn\n
 once he merges with his alter ego.
-<$0C>
+<$0C><$0B>
+//ホワイトイーグル：
+White Eagle:
+<$0D>\n
 The remaining prophecies may rise\n
 in the wake of that merge.
 <$0C><$0B>

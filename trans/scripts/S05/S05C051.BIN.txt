@@ -300,18 +300,16 @@ White Eagle(?):
 <$0D>
 //\nその力はやがて役に立つじゃろうて。\nふほふほ。
 \n
-But, knowing that is a risk, you will\n
-still need to use this power soon.
+Still, knowing that is a risk, you\n
+will need to use this power soon.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):
 <$0D>
 //\nお前には資質があるということじゃなぁ。\nまことにそういうことじゃ。
 \n
-This conversation proves you have the\n
-qualities we need in the moment
-<$0C>
-of truth.
+You have the qualities we need.\n
+This conversation proves it.
 <$00>
 
 // Pos: 00003314
@@ -344,8 +342,8 @@ White Eagle(?):
 \n
 Haww, that you are part of another.
 <$0C>
-You are a Twin of Truth spoken of\n
-in the prophecies.
+You are a Twin of Truth as foretold\n
+of in the prophecies.
 <$0C><$0B>
 //ホワイトイーグル…？：
 White Eagle(?):

@@ -166,8 +166,8 @@ Red:
 <$0D>
 //\nで、こそこそかぎ回って何が分かった？\nここは万事うまくいってる、そうだろ？
 \n
-What've you found out after\n
-creeping around like you have been?
+You've been creeping around a good\n
+deal, huh. Learn anything cool?
 <$0C><$0B>
 //レッド：
 Red:
@@ -184,8 +184,8 @@ Red:
 <$0D>
 //\n自分を信じてるからな\n自分をつらぬいてるからな。
 \n
-All I've gotta worry about is me.\n
-That's what I'm working on.
+All I've gotta work on is me, and\n
+that's precisely what I'm doing.
 <$00>
 
 // Pos: 000023C9

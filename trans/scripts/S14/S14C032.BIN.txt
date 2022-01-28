@@ -17,16 +17,20 @@ Linda:
 <$0D>
 //\nさっきさー、変なのがここ通ったよー。
 \n
-A stranger passed\n
-through here a while ago.
-<$0C>
+A stranger passed through here\n
+a while ago.
+<$0C><$0B>
+//リンダ：
+Linda:
+<$0D>\n
 He looked like a frozen corpse.
 <$0C><$0B>
 //リンダ：
 Linda:
 <$0D>
 //\n死人みたいな変なのがー、ロッジの方に\n行ったけど、途中で消えたのー。
-The made for the lodge, but\n
+\n
+They made for the lodge, but\n
 disappeared along the way.
 <$0C><$0B>
 //リンダ：
@@ -84,7 +88,10 @@ Thomas:
 \n
 I dare say! After re-arranging the\n
 images entering my thoughts,
-<$0C>
+<$0C><$0B>
+//トーマス：
+Thomas:
+<$0D>\n
 I've a new genius discovery:\n
 everyone in the plaza is shaking.
 <$0C><$0B>

@@ -18,7 +18,7 @@ Feng:
 //\n私に何かできるかしら。\n今は何もしたくないわ。 眠いだけよ。
 \n
 I don't have time for this now,\n
-Agatha. I downright exhausted!
+Agatha. I'm downright exhausted!
 <$00>
 
 // Pos: 000035A3
@@ -781,7 +781,7 @@ Madam Agatha:
 //\nさっきの話、合わさるって、\nどうやって合わさるの？
 \n
 All right. So, you mentioned the word\n
-"integrate". What did you mean?
+"integrate". What did you mean by it?
 <$00>
 
 // Pos: 00003DF8
@@ -812,8 +812,8 @@ Madam Agatha:
 <$0D>
 //\nそのこと、フェイは知ってるのかしら。\nあなたが合わさるって思ってること。
 \n
-I wonder if Feng found out about\n
-your thoughts to integrate with her.
+Has Feng pieced together your hidden\n
+intention to integrate with her?
 <$00>
 
 // Pos: 00003E50
@@ -844,8 +844,8 @@ Madam Agatha:
 <$0D>
 //\nねぇ、\nそんなことが本当にできるのかしら。
 \n
-Hmm, I wonder if such an option can\n
-truly be taken.
+It's an interesting gamble. I wonder\n
+how well it will work in your favor.
 <$00>
 
 // Pos: 00003EA5
@@ -860,7 +860,7 @@ Veronica:
 <$0D>
 //\nできるよ、できるんだ、\n絶対できるんだ！
 \n
-If anyone can do it, it's me.\n
+If anyone can nail it, it's me.\n
 I'll make her see eye-to-eye!
 <$00>
 
@@ -878,7 +878,7 @@ Feng:
 \n
 Judgement has no standards!\n
 If your self is satisfactory,\n
-you're fine. Understand?
+you're safe. Understand?
 <$00>
 
 // Pos: 00003EFB
@@ -909,8 +909,8 @@ Feng:
 <$0D>
 //\nもちろんよ。アマンダほどじゃないけど。\nとにかく私は大丈夫よ。
 \n
-Of course! Mine's not at\n
-Amanda's level, but it'll do.
+Of course! Surely, my face is not\n
+at Amanda's level, but it'll do.
 <$00>
 
 // Pos: 00003F4C
@@ -968,8 +968,8 @@ Madam Agatha:
 <$0D>
 //\nありがとうフェイ。\n今夜はもう帰るわ。
 \n
-...Thank you, Feng. Let's each turn in\n
-for the night.
+...Thank you, Feng.\n
+Let's turn in for the night.
 <$00>
 
 // Pos: 0000400D

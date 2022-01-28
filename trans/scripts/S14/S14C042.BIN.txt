@@ -103,7 +103,10 @@ Young:
 \n
 Ohh, could I...could I be a radio\n
 wave?! 
-<$0C>
+<$0C><$0B>
+//ヤング：
+Young:
+<$0D>\n
 Ahh, my existence is fading away!
 <$0C><$0B>
 //ヤング：
@@ -113,8 +116,10 @@ Young:
 \n
 For the first time ever,\n
 I understand, Mountain!
-<$0C>
-I understand\n
-my own significance!
+<$0C><$0B>
+//ヤング：
+Young:
+<$0D>\n
+I understand my own significance!
 <$00>
 

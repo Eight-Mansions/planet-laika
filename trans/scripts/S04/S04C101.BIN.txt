@@ -1096,7 +1096,7 @@ Madam Agatha:
 //\nさて何が見えるかしら…\n穴の中に何かあるわ、白っぽいもの…
 \n
 There's a hole in the ground. Crow\n
-peers down to see something whitish.
+peers inside at something whitish...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -1136,14 +1136,15 @@ Madam Agatha:
 God, it's the kitten! The kitten\n
 from the hole is now in the saucepan! 
 <$0C>
-The fire to the stovetop is on!
+The fire to the stovetop is on,\n
+and...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nあああ、いやよ、怖ろしいこと…\nなんてこと…
 \n
-No, no, no, what is happening?!\n
+No, no, no, what is Crow doing?!\n
 I can't look anymore!
 <$00><$00>
 
