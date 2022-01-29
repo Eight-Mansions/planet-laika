@@ -105,7 +105,11 @@ The road to Death won't open.
 
 #WHB(PTR, $00000271)
 
-<$10><$18><$03><$01><$36><$00><$00><$00><$13><$13><$0B>
+<$10><$18><$03><$01>
+
+<$50><$00><$00><$00>
+
+<$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
@@ -113,7 +117,15 @@ Ernest:
 \n
 "Road to Death?" That ain't right!\n
 Listen, buddy, I'm not dead!
-<$1A><$64><$00><$00><$00><$18><$03><$02><$2E><$00><$00><$00><$13><$18><$0B>
+<$1A>
+
+<$DE><$00><$00><$00>
+
+<$18><$03><$02>
+
+<$52><$00><$00><$00>
+
+<$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>
@@ -121,7 +133,11 @@ Spacer:
 \n
 Universal Man... This is the way\n
 he took to the Land of the Dead!
-<$1A><$2F><$00><$00><$00><$13><$1D><$0B>
+<$1A>
+
+<$85><$00><$00><$00>
+
+<$13><$1D><$0B>
 //ヨランダ：
 Yolanda:
 <$0D>
@@ -129,7 +145,10 @@ Yolanda:
 \n
 No, no, NO! Listen, I can't\n
 be on the "road to Death"!
-<$0C>
+<$0C><$0B>
+//ヨランダ：
+Yolanda:
+<$0D>\n
 Are you listening?! Take me back\n
 to where I came from!
 <$00>

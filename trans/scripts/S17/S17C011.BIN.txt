@@ -35,16 +35,19 @@ beauty, I am beauty incarnate!
 
 #WHB(PTR, $00000375)
 
-<$11><$13><$13><$0B>
+<$10><$13><$13><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
 //\nこれが…鏡…蕃判の鏡なのか。\nこの鏡が映すのは真実なのか、\nそれともまやかしか…
 \n
 Is this...the Mirror of Judgement?\n
-<$0C>
-Does it reflect absolute\n
-truth...or deception?
+<$0C><$0B>
+//フェニックス：
+Phoenix:
+<$0D>\n
+Does it reflect absolute truth...\n
+or deception?
 <$00>
 
 // Pos: 00002B53
@@ -93,7 +96,7 @@ mirror too?!
 
 #WHB(PTR, $0000048D)
 
-<$13><$0B>
+<$12><$0B>
 //フェイ：
 Feng:
 <$0D>
@@ -117,7 +120,10 @@ Feng:
 \n
 If Amanda takes this woman's mind,\n
 she will become complete.
-<$0C>
+<$0C><$0B>
+//フェイ：
+Feng:
+<$0D>\n
 And with that, I shall become\n
 an eternal existence.
 <$0C><$0B>

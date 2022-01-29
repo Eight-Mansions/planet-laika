@@ -100,8 +100,8 @@ Spacer:
 <$0D>
 //\nはねる音？ここでは開こえない、\nどこか別の場所だろう。
 \n
-A crackling sound? I don't hear that.\n
-It must be coming from somewhere else.
+A crackling sound? I don't hear that. It\n
+must be coming from somewhere else.
 <$00>
 
 // Pos: 00000C47
@@ -148,8 +148,7 @@ Young:
 <$0D>
 //\nはは、はねてるはねてる、いやな音だ。
 \n
-Haha, that crackling sound\n
-is so bad!
+Haha, that crackling sound is so bad!
 <$1E><$03><$04><$00>
 
 // Pos: 00000CBA

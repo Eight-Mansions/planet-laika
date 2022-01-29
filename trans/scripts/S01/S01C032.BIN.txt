@@ -81,7 +81,7 @@ world beyond all nightmare.
 
 #WHB(PTR, $0000056D)
 
-<$13><$0B>
+<$12><$0B>
 //ヌーン：
 Noon:
 <$0D>
@@ -104,7 +104,7 @@ Well? Where do you think 'e is?
 
 #WHB(PTR, $00000581)
 
-<$13><$0B>
+<$12><$0B>
 //タトラー船長：
 Captain Tatler:
 <$0D>
@@ -119,7 +119,10 @@ Captain Tatler:
 //\n君は強い死の動機に付き動かされている。\n君は死の世界の\nすぐとなりで生きてきたんだよ。
 \n
 Driven powerfully towards death...
-<$0C>
+<$0C><$0B>
+//タトラー船長：
+Captain Tatler:
+<$0D>\n
 You were living on the doorstep to\n
 the Land of the Dead all this time.
 <$00>
