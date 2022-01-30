@@ -221,7 +221,9 @@ Tommy:
 \n
 The door that leads to the stone\n
 won't open! 
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Even Boomer can't break it down!
 <$0C><$0B>
 //トミー：
@@ -330,7 +332,9 @@ Tommy:
 \n
 That reminds me. You should check out\n
 Psycho Lab. 
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 The guys there experiment with\n
 radio waves.
 <$1E><$02><$02><$00>

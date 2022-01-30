@@ -35,7 +35,9 @@ Feng:
 \n
 Say, why don't I\n
 show you to my store?
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 I'm Feng, owner of House Liang.
 <$00>
 
@@ -69,7 +71,9 @@ Feng:
 \n
 Everyone has that whisper of the\n
 heart!
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 Whether it be feminine or\n
 masculine...
 <$0C><$0B>
@@ -79,7 +83,9 @@ Feng:
 //\nもっときれいになりたい。みんな同じなのよ。\n整形は心をきれいにする手段なのよ。分かる？
 \n
 ...everyone desires beauty. 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 Come and see. Let cosmetic\n
 surgery cleanse your mind.
 <$1E><$01><$04><$00>
@@ -106,7 +112,9 @@ Madam Agatha:
 \n
 Veronica is well-versed in the world\n
 of suffering. 
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 However, her observations aren't\n
 always consistent.
 <$0C><$0B>

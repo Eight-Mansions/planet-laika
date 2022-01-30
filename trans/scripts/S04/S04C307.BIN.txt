@@ -122,7 +122,9 @@ Red:
 \n
 Oh, I get it. You're the one filling\n
 Cosmas's head with ideas.
-<$0C>
+<$0C><$0B>
+Red:
+<$0D>\n
 Darling puppy, you.
 <$00>
 
@@ -320,7 +322,9 @@ Red:
 //\n真っ白な泡だ、知ってるだろ…\n俺はいつも急いでた、ガキの頃からずっとな。
 \n
 I know that white froth...
-<$0C>
+<$0C><$0B>
+Red:
+<$0D>\n
 I never made him wait for\n
 it, ever since I was a kid.
 <$00>
@@ -502,7 +506,9 @@ Gold:
 //\nお前、コスマスになにしたんだ？\nレッドがあんなになって\nお前をさがしまわるなんてよ。
 \n
 What did you do to Cosmas?\n
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 Whatever you did,\n
 Red wants your head.
 <$1E><$02><$08><$00>
@@ -544,7 +550,9 @@ Red:
 //\n泡のおじさんが待ってて… 知ってるだろ…\n俺はいつも急いでた、ガキの頃からずっとな。
 \n
 I know Uncle Bubbles is waiting...
-<$0C>
+<$0C><$0B>
+Red:
+<$0D>\n
 I never made him wait for\n
 it, ever since I was a kid.
 <$00>
