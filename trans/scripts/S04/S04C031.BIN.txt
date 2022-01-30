@@ -26,7 +26,9 @@ Sammy:
 //\n今夜はトミー、おかしいみたい。\nすぐアタシになっちゃうの。
 \n
 Tommy sure was bitchy tonight.\n
-<$0C>
+<$0C><$0B>
+Sammy:
+<$0D>\n
 Heehee, he's turning into\n
 me, more and more.
 <$0C><$0B>
@@ -109,7 +111,9 @@ Rummy:
 \n
 Hey. It's me, Rummy!\n
 So, we're two, see?
-<$0C>
+<$0C><$0B>
+Rummy:
+<$0D>\n
 But there's one more hanging\n
 around, which makes us a trio.
 <$0C><$0B>

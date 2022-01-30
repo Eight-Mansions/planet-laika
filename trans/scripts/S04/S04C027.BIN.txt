@@ -26,7 +26,9 @@ Boomer:
 //\n見えねぇ目玉やら日記やら、\nおかしな話だらけだ。
 \n
 Ohhh, what I cannot see...
-<$0C>
+<$0C><$0B>
+Boomer:
+<$0D>\n
 ...are the eyeballs and other\n
 oddities etched on the walls.
 <$1E><$02><$08><$00>
@@ -104,7 +106,9 @@ Boomer:
 \n
 Ohhh, there's a strange crackle\n
 crackling around here.
-<$0C>
+<$0C><$0B>
+Boomer:
+<$0D>\n
 Crackle, crackle...
 <$1E><$02><$08><$00>
 

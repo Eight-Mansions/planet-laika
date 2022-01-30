@@ -42,7 +42,9 @@ Boomer:
 //\n黒い空から舞い降りて、\n鋭いかぎ爪ではらわたを切り裂くんだ、
 \n
 Raining down from the black sky!
-<$0C>
+<$0C><$0B>
+Boomer:
+<$0D>\n
 Tearing through with their\n
 sword-like hooks!
 <$0C><$0B>
@@ -68,7 +70,9 @@ Little:
 //\nいろいろあったな。\nそうだ、俺には分かってる、何もかもな。
 \n
 There's so much amiss, get it?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 Luckily, I know just about\n
 everythin' and anythin'.
 <$0C><$0B>

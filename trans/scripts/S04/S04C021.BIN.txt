@@ -27,7 +27,9 @@ Boomer:
 \n
 Have you been to the\n
 oxygen dispensary?
-<$0C>
+<$0C><$0B>
+Boomer:
+<$0D>\n
 The owner, Herod, is the\n
 leader of the colony.
 <$0C><$0B>
@@ -38,7 +40,9 @@ Boomer:
 \n
 Or do you want to see Psycho Lab?
 
-<$0C>
+<$0C><$0B>
+Boomer:
+<$0D>\n
 The guys there shoot radio\n
 waves into their heads.
 <$0C><$0B>
@@ -198,7 +202,9 @@ April:
 //\nちゃんと開けた、暗証番号？\n行こう、換気塔の手前を右よ
 \n
 The password opens the way.
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 Now, let's check around\n
 the ventilation tower.
 <$00>

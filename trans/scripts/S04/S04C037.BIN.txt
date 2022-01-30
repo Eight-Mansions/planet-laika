@@ -43,7 +43,9 @@ Tommy:
 \n
 And now, their worlds've all gone\n
 dark, and Charlie had his feast!
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Charlie saw to that!
 <$00>
 
@@ -84,7 +86,9 @@ Tommy:
 //\n早く新鮮な肉を食いてぇ、\n真っ黒焦げにして食いてぇってな。
 \n
 He needs his fresh meat, and fast.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Just char the suckers up and bon\n
 appetit, a-yup!
 <$0C><$0B>
@@ -234,7 +238,9 @@ Boomer:
 \n
 They bump in the night, anytime,\n
 anywhere! They can do it all night...
-<$0C>
+<$0C><$0B>
+Boomer:
+<$0D>\n
 Oh, it's over! It's all over!
 <$00>
 
@@ -259,7 +265,9 @@ Sammy:
 //\nサイコちゃんたちの実験よ、\n何だかハウスの様子が変なのよ。
 \n
 The little Psycho's, I mean.
-<$0C>
+<$0C><$0B>
+Sammy:
+<$0D>\n
 They're always up to strange\n
 experiments over at Psycho Lab.
 <$0C><$0B>
@@ -324,7 +332,9 @@ Tommy:
 \n
 Charlie's got that bad meat smell\n
 right now.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 You know what that means, right?
 <$1B>
 //？知ってる\n知らない
@@ -354,7 +364,9 @@ Tommy:
 \n
 But it doesn't appear to everyone\n
 in one set form.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 It's different everywhere you look.
 <$0C><$0B>
 //トミー：
@@ -364,7 +376,9 @@ Tommy:
 \n
 Psycho Lab has the crackly\n
 experiments.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 House Liang has the sparkly cloth.
 <$0C><$0B>
 //トミー：
@@ -414,7 +428,9 @@ Cosmas:
 \n
 There aren't other people like\n
 Dark Man.
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 There's only one, and he doesn't\n
 drink alcohol.
 <$00>
