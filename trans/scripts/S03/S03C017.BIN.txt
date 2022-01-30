@@ -94,7 +94,9 @@ Little:
 \n
 Must mean a "good person"\n
 was seen in Valles Memoriae.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 Let's hope they make it back soon.
 <$0C><$0B>
 //リトル：
@@ -103,7 +105,9 @@ Little:
 //\n善人は危ないんだ、\nそうだ、すぐ悪にころんでしまうからな。
 \n
 Good people are dangerous, got it?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 The gooder they are,\n
 the harder they fall before evil.
 <$0C><$0B>
@@ -121,7 +125,9 @@ Little:
 \n
 Had enough? Anyone who says\n
 memories don't affect 'em is a liar.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 They ain't for me either. Come on.
 <$00>
 
@@ -139,7 +145,9 @@ Little:
 \n
 Oi, I'm not some bum like you,\n
 got it?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 I've got things to do,\n
 and no time to do 'em!
 <$00>
@@ -517,7 +525,9 @@ April:
 \n
 According to Agatha, Little hasn't\n
 come out even once.
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 She says it's because he hates Mars.
 <$00>
 

@@ -65,7 +65,9 @@ Spacer:
 \n
 Herod? I thought you were in one\n
 of your nightmares right now.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Did you wake up?
 <$00>
 
@@ -391,7 +393,9 @@ William:
 \n
 Oh, why doesn't William recognize\n
 this face...
-<$0C>
+<$0C><$0B>
+William:
+<$0D>\n
 William's brain is crackling...\n
 Hic!
 <$00>
@@ -482,7 +486,9 @@ Herod:
 \n
 I finally made it out of the white\n
 room in these everlasting
-<$0C>
+<$0C><$0B>
+Herod:
+<$0D>\n
 nightmares.
 <$0C><$0B>
 //ヘロデ：
@@ -491,7 +497,9 @@ Herod:
 //\nさあ、アガタ、早くむかえに来るんだ…\nあのいまいましい生クビ野郎め！
 \n
 Come on, Agatha, come for me soon.\n
-<$0C>
+<$0C><$0B>
+Herod:
+<$0D>\n
 The floating heads are\n
 chasing me again!
 <$0C><$0B>

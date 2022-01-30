@@ -26,7 +26,9 @@ Marrakech:
 //\n大きな鏡があるのよ… 鏡なんてと思いながら、\nでもやっぱり見てみたいの… 自分のお顔。
 \n
 Who knows what it's really for?
-<$0C>
+<$0C><$0B>
+Marrakech:
+<$0D>\n
 Are you sure you want\n
 to see your self in it?
 <$00>
@@ -45,7 +47,9 @@ Marrakech:
 \n
 By the way, do you think spirits live in\n
 mirrors?
-<$0C>
+<$0C><$0B>
+Marrakech:
+<$0D>\n
 
 <$1B>
 //。思う\n思わない
@@ -106,7 +110,9 @@ Marrakech:
 \n
 Ah, you uniformed folk are usually\n
 pretty cold to that stuff.
-<$0C>
+<$0C><$0B>
+Marrakech:
+<$0D>\n
 Still, watch out for ghosts.\n
 I'm serious!
 <$0C><$0B>
@@ -199,7 +205,9 @@ Olympia #2:
 \n
 "APRIL, DON'T TALK TO THAT!\n
 THE ROBOT'S MADE FOR HOUSEWORK!"
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 "DON'T GET YOUR SELF DIRTY."
 <$00>
 
@@ -217,7 +225,9 @@ Olympia #2:
 \n
 HOUSEWORK... DOES THAT MEAN\n
 COOKING, OR LAUNDRY?
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 EITHER OR, IT IS EXHAUSTING.
 <$0C><$0B>
 //オリンピア２号：
@@ -344,7 +354,9 @@ Olympia #2:
 \n
 WE CAN EAT OUT ON THE\n
 MOTHER####ING WEEKEND!
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 #### YEAH, LADIES, WE ARE\n
 LIVING THE GOOD LIFE!
 <$0C><$13><$1D><$0B>
@@ -362,7 +374,9 @@ Olympia #2:
 //\nふん！ イエのことばかりでトシトルのよ、\nこのままオンナをワスれて、トシトルのよ、
 \n
 BUT I AM NOT! IT IS USE IT OR LOSE IT!\n
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 WE HAVE TO USE FEMININITY\n
 OR WE WILL LOSE IT!
 <$0C><$0B>
@@ -387,7 +401,9 @@ Yolanda:
 \n
 I'm a woman, from now\n
 until the day I die!
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 And I'll make sure\n
 NO ONE forgets it!
 <$0C><$13><$2A><$0B>
@@ -453,7 +469,9 @@ Olympia #2:
 //\nワタシはジブンをワタシとヨびますが、\nオレと言うのはヘンですか？
 \n
 I AM REFERRED TO AS "IT". \n
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 WOULD IT BE WEIRD IF I CHOSE TO\n
 SPEAK WITH A MASCULINE TONE?
 <$0C><$13><$13><$0B>
@@ -471,7 +489,9 @@ Olympia #2:
 //\nタイクツだぜ、こんなところでよ、\nおい、おマエ、なんでオレをミるんだ？
 \n
 IT SURE IS BORING DOWN HERE.
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 WHY ARE YOU STARING ME DOWN\n
 LIKE THAT, HUH?
 <$0C><$0B>
@@ -527,7 +547,9 @@ Olympia #2:
 \n
 FIGHTS CAN EITHER SAVE\n
 TIME, OR WASTE TIME.
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 WHAT DOES FIGHTING DO FOR YOU?
 <$0C><$0B>
 //オリンピア２号：
@@ -552,7 +574,9 @@ Olympia #2:
 \n
 IF YOU DO NOT WASTE TIME, YOUR\n
 FIGHTS WILL NOT WASTE TIME.
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 THAT IS HOW I SEE IT.
 <$0C><$13><$13><$0B>
 //アーネスト：
@@ -585,7 +609,9 @@ Olympia #2:
 //\nカンガえてもみたまえ、\nキミたちニンゲンは、いやよしましょう。
 \n
 I WAS THINKING ABOUT YOU HUMANS.
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 I HAD TO STOP MY SELF\n
 BEFORE I WENT CRAZY.
 <$0C><$13><$18><$0B>
@@ -603,7 +629,9 @@ Olympia #2:
 //\nロボットにカンジョウがないというのは、\nムチにすぎる。
 \n
 ROBOTS DO NOT HAVE SENTIMENTS.\n
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 THINKING ABOUT HUMANS WAS A\n
 WASTE OF TIME.
 <$0C><$0B>
@@ -661,7 +689,9 @@ Olympia #2:
 //\nおかしいのはキミではないか、これでモトに\nモドれるか、ショウキになれるか。
 \n
 ARE YOU NOT CRAZY?
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 HERE, MAYBE THIS WILL HELP\n
 YOU RETURN TO YOUR SENSES.
 <$00>
@@ -764,7 +794,9 @@ Olympia #2:
 \n
 ANYTHING I GIVE YOU IS A PEARL HORSE\n
 BEFORE A SWINE.
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 AND YOU'RE THE SWINE WHO WOULD\n
 LOOK IT IN THE MOUTH!
 <$00>
@@ -836,7 +868,9 @@ Olympia #2:
 //\nイマはこれだけ、ノチほどのタイミングを\nノがさないことだね。
 \n
 MY WHILE IS ALL I HAVE!
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 I CANNOT AFFORD TO WORRY ABOUT\n
 YOURS ALL THE DAMN TIME.
 <$00>
@@ -879,7 +913,9 @@ Olympia #2:
 \n
 IN COMPARISON, HUMANS MAKE A\n
 MUCH HARDER TIME OF THIS.
-<$0C>
+<$0C><$0B>
+Olympia #2:
+<$0D>\n
 HUMANS BREAK EASILY.
 <$00>
 

@@ -19,7 +19,9 @@ Little:
 \n
 Oi, is it here? Yeah, must be.\n
 I saw it in my dream.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 I don't like it, but I'm goin'.
 <$00><$12><$13><$19><$0B>
 //リバー：
@@ -61,7 +63,9 @@ Yolanda:
 \n
 God giving me a boot up the\n
 proverbial is no surprise.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 ...Assuming he exists.
 <$00><$12><$13><$19><$0B>
 //リバー：
@@ -71,7 +75,9 @@ Liever:
 \n
 This canal was made by exiles.\n
 It's time you descended.
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 God is waiting for you!
 <$00><$12><$13><$18><$0B>
 //スペーサー：

@@ -60,7 +60,9 @@ Spirit Man:
 //\nたまった悪でお前は人格変容するぞ。\n自分を映して自分でなくなる、ひょひょひょ。
 \n
 It won't reflect your current self.
-<$0C>
+<$0C><$0B>
+Spirit Man:
+<$0D>\n
 Rather, it reflects the self of\n
 the evil you've harbored, hyohyo!
 <$00>

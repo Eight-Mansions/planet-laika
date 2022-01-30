@@ -59,7 +59,9 @@ Little:
 \n
 Maybe he wants to see\n
 the medicine men?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 If so, he's makin' for\n
 Oceanum Oblivionis.
 <$00>
@@ -147,7 +149,9 @@ Red:
 \n
 As soon as our eyes met, she\n
 left through a strange door.
-<$0C>
+<$0C><$0B>
+Red:
+<$0D>\n
 And then, the door disappeared!
 <$0C><$0B>
 //レッド：
@@ -284,7 +288,9 @@ Little:
 //\nお前もだろ、お前の中にも誰かがいるんだ、\nそうだそうだ！
 \n
 Oi, you're just like me!
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 There's another you in\n
 there too. I just know it!
 <$1E><$02><$12><$00>
@@ -335,7 +341,9 @@ Noble Rock:
 \n
 The greatest of happenings! Under\n
 the watchful eye of White Eagle...
-<$0C>
+<$0C><$0B>
+Noble Rock:
+<$0D>\n
 ...one of your companions has\n
 become a wholly "good person"!
 <$00>
@@ -377,7 +385,9 @@ Noble Rock:
 \n
 But, wholly good people are\n
 dreadfully unstable.
-<$0C>
+<$0C><$0B>
+Noble Rock:
+<$0D>\n
 None are more vulnerable\n
 to evil's take.
 <$00>
@@ -623,7 +633,9 @@ Thomas:
 \n
 There are tales of a woman who\n
 appears in mirrors at night.
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 I dare say, I've never seen her.
 <$0C><$0B>
 //トーマス：
@@ -633,7 +645,9 @@ Thomas:
 \n
 I have no doubt that it's Amanda\n
 who's inside the mirror. 
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 From what I concluded, it's because\n
 she's become a mirror spirit.
 <$0C><$0B>
@@ -644,7 +658,9 @@ Thomas:
 \n
 I'd stay up at night just to see her,\n
 but my memory of this is hazy.
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 Does she too have the ability to\n
 travel from mirror to mirror?
 <$00>
@@ -709,7 +725,9 @@ Thomas:
 \n
 She wants to create a perfect\n
 mirror.
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 A mirror so perfect, it will reflect\n
 her face for everything it really is.
 <$0C><$0B>
@@ -719,7 +737,9 @@ Thomas:
 //\n火星に憎しみの大地が生まれ、\n苦しみが海をなす…
 \n
 With such a mirror...
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 ...the seas and lands of Planet Mars\n
 might be reborn in her wicked image.
 <$0C><$0B>
@@ -746,7 +766,9 @@ Yolanda:
 \n
 No wonder everyone else here's\n
 piss-scared of mirrors.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 They don't want to see the truth.
 <$00>
 
@@ -772,7 +794,9 @@ Thomas:
 \n
 There was a woman who looked\n
 precisely like Amanda.
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 She faded in and out of my dream.
 <$0C><$0B>
 //トーマス：
@@ -790,7 +814,9 @@ Thomas:
 \n
 Was she an alter ego, or a hint\n
 at Amanda's reincarnation?
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 I dare say, I am confused.
 <$00>
 
@@ -830,7 +856,9 @@ Thomas:
 <$0D>
 //\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
 
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 I dare say, Feng would have no\n
 qualms offering her body to\n
 Amanda. Feng is her disciple.
@@ -842,7 +870,9 @@ Thomas:
 \n
 Amanda must want a heart, but how\n
 does one get a mind of their own?
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 Would she take another's?
 <$0C><$0B>
 //トーマス：
@@ -852,7 +882,9 @@ Thomas:
 \n
 The more I ponder it, the hazier\n
 and...hazier my mind gets...
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 ("Thomas! Where are you going?!")
 <$00>
 
@@ -877,7 +909,9 @@ Yolanda:
 //\n心はどうするの、心はうばえないわよ。\nいくらなんでも… ねぇ。
 \n
 How do you take someone's mind?
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 I don't care what anyone says, you\n
 can't steal someone else's mind.
 <$00>

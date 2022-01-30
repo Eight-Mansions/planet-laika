@@ -51,7 +51,9 @@ Spacer:
 \n
 ...Lines from an old poem.\n
 Interesting.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 I'm sensing some prophetic insight\n
 here!
 <$00>
@@ -70,7 +72,9 @@ Spacer:
 \n
 It sounds so feeble, like a whisper,\n
 but...
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 //一粒の…花？\n無限を…\n分からない、何のことだ？
 "Grain", "flower", "eternity"...\n
 What does it all mean?
@@ -518,7 +522,9 @@ Yolanda:
 \n
 Am I looking for an eyeball?\n
 The fuck are you talking about?
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 I don't have time for this!
 <$00>
 
