@@ -190,7 +190,9 @@ Galil:
 \n
 You laugh because you burdened\n
 others.
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>
 You passed on your sins before\n
 you could learn their weight.
 <$0C><$0B>
@@ -436,7 +438,9 @@ Galil:
 \n
 What is this? Do you fancy your self\n
 the leading starlet of this show?
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>
 Do you wish to be\n
 a Destined Child too?
 <$0C><$0B>
@@ -558,7 +562,9 @@ April:
 \n
 You must have been touched by\n
 the prophet at some point.
-<$0C>
+<$0C><$0B>
+April:
+<$0D>
 Let his words pour\n
 out from within you!
 <$00>
@@ -648,7 +654,9 @@ April:
 //\nすべての預言がそろったのね…\n奇跡は起きるの？
 \n
 We've found all of the prophecies.\n
-<$0C>
+<$0C><$0B>
+April:
+<$0D>
 Does that mean a miracle will come?
 <$00>
 
@@ -861,7 +869,9 @@ Galil:
 \n
 Can you fully bring the\n
 Black Rider into existence?
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>
 Can you, with such hatred\n
 clouding your mind?
 <$0C><$0B>
@@ -931,7 +941,9 @@ Galil:
 \n
 Your mind was shrouded in\n
 darkness, but no one noticed.
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>
 Not even pitiful Tanya.
 <$0C><$0B>
 //ガリル：

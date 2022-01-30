@@ -18,7 +18,9 @@ Galil:
 //\nわれらがヒーロー、アーネストのご登場か！\nこの星で自分を実惑したか、どうなんだ？
 \n
 And Ernest the Hero takes the stage!
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>
 Did you like grasping for\n
 a sense of self here?
 <$0C><$0B>
@@ -29,7 +31,9 @@ Galil:
 \n
 Alas, your powerless escapades\n
 on this planet end here.
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>
 I'm sending you home to Masha!
 <$00>
 
