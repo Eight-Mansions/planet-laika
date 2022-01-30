@@ -70,7 +70,9 @@ Captain Tatler:
 \n
 Between the end of life and the\n
 advent of death lies a gap.
-<$0C>
+<$0C><$0B>
+Captain Tatler:
+<$0D>\n
 You are in that gap now, in a\n
 world beyond all nightmare.
 <$00>
@@ -164,7 +166,9 @@ Captain Tatler:
 //\n君の半分はすでに死んでいる、\n死は君自身の問顆なんだ。
 \n
 One half of you is already dead.
-<$0C>
+<$0C><$0B>
+Captain Tatler:
+<$0D>\n
 Only you can determine what death\n
 means to the rest of you.
 <$00>
@@ -330,8 +334,7 @@ Ernest:
 //\nじゃあ、こいつは何だ？\nまさか髮の毛じゃねぇだろう…\n
 \n
 Could've fooled me.\n
-I've never seen a hairdo like that.\n
-<$0C>
+I've never seen a hairdo like that.
 <$00>
 
 // Pos: 00003F68
@@ -348,7 +351,9 @@ Phoenix:
 \n
 He's from the survey unit.\n
 Did he become "a good person"?
-<$0C>
+<$0C><$0B>
+Phoenix:
+<$0D>\n
 Is trapping him in a bottle the\n
 only way to save him from evil?
 <$00>
@@ -367,7 +372,9 @@ Phoenix:
 \n
 Becoming a good person should lead\n
 to a happier ending than this.
-<$0C>
+<$0C><$0B>
+Phoenix:
+<$0D>\n
 At least, that's what I'd want.
 <$00>
 

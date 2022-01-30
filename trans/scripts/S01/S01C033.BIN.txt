@@ -216,7 +216,9 @@ Phoenix:
 \n
 He's from the survey unit.\n
 Did he become "a good person"?
-<$0C>
+<$0C><$0B>
+Phoenix:
+<$0D>\n
 Is trapping him in a bottle the\n
 only way to save him from evil?
 <$00><$13><$13><$13><$0B>
@@ -227,7 +229,9 @@ Phoenix:
 \n
 Becoming a good person should lead\n
 to a happier ending than this.
-<$0C>
+<$0C><$0B>
+Phoenix:
+<$0D>\n
 At least, that's what I'd want.
 <$00>
 

@@ -79,12 +79,16 @@ Spacer:
 //\nそうだ。
 \n
 Not bad, not bad.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 //そして分かった、\n蕃判だの奇跡だのは妄想の産物なんだ。
 \n
 Thankfully, any Judgement and\n
 miracle worries are invalid.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 They're nothing but figments\n
 of everyone's imaginations.
 <$00>
@@ -119,7 +123,9 @@ Spacer:
 \n
 Hmph, then why are you so calm?\n
 Why not run from Judgement?
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Everyone else in the colony is.
 <$00>
 
@@ -230,7 +236,9 @@ Liever:
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。
 \n
 Meet me in the underground canal.
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 Take a right turn on Brick Road.\n
 I'll be near the rescue dog.
 <$00>

@@ -98,7 +98,9 @@ Noon:
 //\nクリスマスだっていうのに、\n妄想野郎のお相手か。
 \n
 Hell, I need fantasy too...
-<$0C>
+<$0C><$0B>
+Noon:
+<$0D>\n
 If I'm to believe this job's\n
 not a waste o' me damn time!
 <$0C><$0B>
@@ -133,7 +135,9 @@ April:
 \n
 Surface exposure can have negative\n
 effects on the human psyche.
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 That's why I'm here.
 <$0C><$0B>
 //エイプリル：
@@ -197,7 +201,9 @@ Noon:
 //\n輝いてるのか？\n火星で、輝いてるってのか。
 \n
 Hah! Does he mean he shines here?\n
-<$0C>
+<$0C><$0B>
+Noon:
+<$0D>\n
 Think he's covered in bloomin'\n
 Christmas lights?
 <$00>
