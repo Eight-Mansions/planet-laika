@@ -112,7 +112,9 @@ Tommy:
 //\nよう、ブーマーのやつ見たかい？\nへへ！ またコーカイが始まったぜ。
 \n
 Have you seen Boomer?
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Hehe, he's on another one\n
 of his little soliloqueys.
 <$0C><$0B>
@@ -123,7 +125,9 @@ Tommy:
 \n
 That guy lives for making a\n
 production out of everything.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Wanna hear a story about that?
 <$1B>
 //、開きたい\n開きたくない
@@ -152,7 +156,9 @@ Tommy:
 \n
 The grandpa got spooked by\n
 something, and got the hiccups.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 He then hiccuped non-stop\n
 for sixty-nine years.
 <$0C><$0B>
@@ -187,7 +193,9 @@ Tommy:
 \n
 Boomer put his grandpa into the\n
 casket, and even arranged flowers.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Seriosuly, the whole shpeal.
 <$0C><$0B>
 //トミー：
@@ -205,7 +213,9 @@ Tommy:
 \n
 But then, the old man suddenly grew\n
 weaker, and weaker. No idea why.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 He died two days later.
 <$0C><$0B>
 //トミー：
@@ -215,7 +225,9 @@ Tommy:
 \n
 Boomer thinks the old man died\n
 because of him, a-yup.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 He might be right.
 <$1E><$02><$08><$00>
 
@@ -295,7 +307,9 @@ Tommy:
 \n
 Hehe, that Boomer guy\n
 finally lost it.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 The monsters in his mind are\n
 finally having their ball.
 <$1E><$02><$08><$00>

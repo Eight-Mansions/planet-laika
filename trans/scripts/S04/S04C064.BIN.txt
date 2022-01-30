@@ -27,7 +27,9 @@ Feng:
 \n
 In the miracle of Judgement,\n
 this will make you strong. 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 It'll keep you from\n
 feeling not like your self.
 <$00>
@@ -131,7 +133,9 @@ Madam Agatha:
 \n
 But, he cannot stay here. He is a\n
 dweller of the Land of Nightmares.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 I must go.
 <$00>
 
@@ -180,7 +184,9 @@ Madam Agatha:
 //\nでもここじゃダメね、集中できないから。
 \n
 It demands my full concentration.\n
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 It's not a skill I can use\n
 out here in the street.
 <$0C><$0B>
@@ -262,7 +268,9 @@ Linda:
 \n
 Tomorrow, the day after,\n
 and the day after that...
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 If they don't come,\n
 what'll we do?
 <$1E><$01><$04><$00>
@@ -297,10 +305,14 @@ Linda:
 \n
 You've no doubt heard the speaker\n
 on the bed in this cell by now.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 When it calls, "LIGHTS-OUT,"\n
 everyone in the area hears it!
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 What's silly is, it'll do this\n
 even when it isn't time for bed!
 <$0C><$0B>
@@ -327,7 +339,9 @@ Linda:
 \n
 How weird. It's always lights-out\n
 time, feels like.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Maybe the bed's speaker is busted.
 <$1E><$01><$04><$00>
 
@@ -435,7 +449,9 @@ Linda:
 \n
 That "Judgement" talk is straight-up\n
 bullshit.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 People will freak out over anything.
 <$0C><$0B>
 //リンダ：

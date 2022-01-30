@@ -261,7 +261,9 @@ Marrakech:
 //\nアタシはねぇ、どんなお顔がいいのか、\nまだ自分でも分かっちゃないのよ。
 \n
 What face would look good on me?
-<$0C>
+<$0C><$0B>
+Marrakech:
+<$0D>\n
 I still don't know what\n
 kind of face I'd like.
 <$0C><$0B>
@@ -342,7 +344,9 @@ Marrakech:
 \n
 If he sees Cosmas now,\n
 his hatred will take over.
-<$0C>
+<$0C><$0B>
+Marrakech:
+<$0D>\n
 There'd be no saving him.
 <$1E><$01><$08><$00>
 
@@ -383,7 +387,9 @@ Linda:
 //\nアタシ、また夢見ちゃったのー。\nこのアタシがねー、カベに向かって立ってねー、\nブツブツやってるのー
 \n
 You know, it's funny.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 I had this one dream again where\n
 I stand and mumble to a wall.
 <$0C><$0B>
@@ -394,7 +400,9 @@ Linda:
 \n
 It's like I'm really focused on\n
 something, but not my own thoughts.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 It's like I'm someone else.
 <$1E><$01><$08><$00>
 
@@ -412,7 +420,9 @@ Linda:
 \n
 Where do I mumble?\n
 Good question! Let me think...
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 I suppose...around Brick Road,\n
 the safe house and Valles Memoriae.
 <$0C><$0B>
@@ -439,7 +449,9 @@ Linda:
 \n
 I don't know how to explain it,\n
 but ever since you came here...
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 I've had the funniest feeling\n
 about you.
 <$0C><$0B>
@@ -465,7 +477,9 @@ Linda:
 //\nあんたさー、マラケシュに開いたんだけど、\n抜け駆けしてヴァニティフェイス\n手に入れようっていうんでしょ。
 \n
 I had a talk with Marrakech.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 She told me you were sneaking by\n
 for a Vanity Face procedure.
 <$0C><$0B>
@@ -511,7 +525,9 @@ Linda:
 \n
 But Earth doesn't hear all those\n
 "Judgement" rumors either, do they?
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Actually, I'd be shocked if Earth\n
 didn't.
 <$0C><$0B>
@@ -522,7 +538,9 @@ Linda:
 \n
 That must be how you were able\n
 to book a free ride here.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Hehe, I'm right, aren't I?
 <$0C><$0B>
 //リンダ：
@@ -532,7 +550,9 @@ Linda:
 \n
 You probably accepted whatever\n
 job Earth gave you.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 That way, you could get\n
 your face done on the side!
 <$1E><$01><$08><$00>
@@ -559,7 +579,9 @@ Linda:
 \n
 Once your face is covered, a face\n
 rises up to the surface of the cloth.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 That face sticks itself over yours.
 <$0C><$0B>
 //リンダ：
@@ -569,7 +591,9 @@ Linda:
 \n
 Let it sit there, and it becomes\n
 your permanent face.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 The cloth that does this\n
 exists only on Mars.
 <$0C><$0B>
@@ -580,7 +604,9 @@ Linda:
 \n
 Tell me, have those "Judgement"\n
 rumors spread to Earth? 
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 I figured that's how\n
 you got a free ride.
 <$0C><$0B>
@@ -591,7 +617,9 @@ Linda:
 \n
 You probably accepted whatever\n
 job Earth gave you.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 That way, you could get\n
 your face done on the side!
 <$1E><$01><$08><$00>
@@ -617,7 +645,9 @@ Cosmas:
 //\n僕、ときどき夢見るんだ、\n裏側からこの部屋、見てるんだ。
 \n
 Sometimes, when I dream,...
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 ...I'm looking into this room\n
 from the other side.
 <$0C><$0B>

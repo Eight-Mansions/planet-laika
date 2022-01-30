@@ -232,7 +232,9 @@ April:
 //\n教えて欲しいの。この星には何があるの？\n黒い騎士とか預言とか…
 \n
 Can I ask you something?
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 How are the Black Rider and\n
 the prophecies affecting Mars?
 <$00><$10><$0B>
@@ -275,7 +277,9 @@ Madam Agatha:
 \n
 Take Brick Road down\n
 to Valles Memoriae.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Look for the black wall.
 <$00><$10><$0B>
 //エイプリル：
@@ -285,7 +289,9 @@ April:
 \n
 When someone is lost in the world,\n
 that's the only place for them to go.
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 //さ、行って。…気を付けてね。
 \n
 There is no time, so please.\n

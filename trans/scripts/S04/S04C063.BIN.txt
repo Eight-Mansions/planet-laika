@@ -49,7 +49,9 @@ April:
 //\n‹³‚¦‚Ä—~‚µ‚¢‚ÌB‚±‚Ì¯‚É‚Í‰½‚ª‚ ‚é‚ÌH\n•‚¢‹Rm‚Æ‚©”×”»‚Æ‚©c
 \n
 Can I ask you something?
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 How are the Black Rider and\n
 the prophecies affecting Mars?
 <$00>
@@ -132,7 +134,9 @@ Madam Agatha:
 \n
 Take Brick Road down to\n
 Valles Memoriae.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Look for the black wall.
 <$00>
 
