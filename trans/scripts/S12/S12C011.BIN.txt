@@ -18,7 +18,9 @@ Crow:
 //\nえらいことになった、フェイだ、\nあいつがよう、メディスンマンのドームから\n気味悪い人形を盗もうとしたんだ。
 \n
 Kekeke, Feng's done it now.
-<$0C>
+<$0C><$0B>
+Crow:
+<$0D>\n
 She tried swiping that creepy doll\n
 from the medicine men's dome.
 <$0C><$0B>
@@ -54,7 +56,9 @@ Crow:
 \n
 If he thawed, he must've gone to\n
 merge with the guy in the wall!
-<$0C>
+<$0C><$0B>
+Crow:
+<$0D>\n
 This can't be good!
 <$0C><$0B>
 //クロウ：
@@ -96,7 +100,9 @@ Crow:
 \n
 I lost count how many times the\n
 voice said it. I was going nuts! 
-<$0C>
+<$0C><$0B>
+Crow:
+<$0D>\n
 All I could do was keep squeezing\n
 the glowing stone.
 <$0C><$0B>

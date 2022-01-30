@@ -61,7 +61,9 @@ Entomologist:
 \n
 Tell me, bzzbzz.\n
 Have you seen a stone before?
-<$0C>
+<$0C><$0B>
+Entomologist:
+<$0D>\n
 Not a regular stone,\n
 but a glowing stone, bzz?
 <$0C><$0B>
@@ -96,7 +98,9 @@ Entomologist:
 \n
 Meanwhile, as we've known, the\n
 Martian's unfathomable ill will...
-<$0C>
+<$0C><$0B>
+Entomologist:
+<$0D>\n
 ...became the miasmic malice we\n
 now call Evil Mind.
 <$0C><$0B>
@@ -115,7 +119,9 @@ Entomologist:
 \n
 The Martians made the stones on\n
 the brink of their extinction.
-<$0C>
+<$0C><$0B>
+Entomologist:
+<$0D>\n
 I suggest you look for them, bzz.
 <$0C><$0B>
 //昆虫学者：
@@ -156,7 +162,9 @@ Rummy:
 //\nあああ、思い出してきたな…\nあああ、開こえるんだな、先生の声だな
 \n
 Hey, I remember that voice!
-<$0C>
+<$0C><$0B>
+Rummy:
+<$0D>\n
 That was my favorite doctor\n
 once upon a time!
 <$00>
@@ -206,7 +214,9 @@ Rummy:
 //\nラミー君、\nその女の子と手をつないで歩いたんだね
 \n
 But I'm Rummy! 
-<$0C>
+<$0C><$0B>
+Rummy:
+<$0D>\n
 You think I walked hand-in-hand\n
 with that little girl?! ME?!
 <$00>
@@ -240,7 +250,9 @@ Rummy:
 //\nラミー君、\nおなかのアザをその子に見せたんだね？
 \n
 I'M RUMMY! 
-<$0C>
+<$0C><$0B>
+Rummy:
+<$0D>\n
 You think I showed that little girl\n
 the birthmark on my stomach?!
 <$00>

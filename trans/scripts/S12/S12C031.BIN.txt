@@ -779,7 +779,9 @@ Chloe:
 //\nせめてるの、私のせいなの？\nあなたはニセモノなのよ。
 \n
 Who wants to know?
-<$0C>
+<$0C><$0B>
+Chloe:
+<$0D>\n
 You're not trying to frame me for\n
 anything, are you, you imposter?
 <$00>

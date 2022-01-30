@@ -26,7 +26,9 @@ Signpost:
 \n
 Have you come to offer your body to\n
 my Chloe?
-<$0C>
+<$0C><$0B>
+Signpost:
+<$0D>\n
 Why else would you be here?
 <$00>
 
@@ -60,7 +62,9 @@ Signpost:
 \n
 My Chloe lives in the mushroom\n
 house.
-<$0C>
+<$0C><$0B>
+Signpost:
+<$0D>\n
 Give her your body and serve\n
 your purpose.
 <$00>
@@ -110,7 +114,9 @@ Signpost:
 \n
 If the pain in my right eye goes,\n
 it stops.
-<$0C>
+<$0C><$0B>
+Signpost:
+<$0D>\n
 If the tears in my left eye stop,\n
 they go.
 <$00>
@@ -136,7 +142,9 @@ Signpost:
 //\nこれで平気、戻れる戻れる。\n左目の涙はまだ乾かない。まだ行けない。
 \n
 But it'll be back.
-<$0C>
+<$0C><$0B>
+Signpost:
+<$0D>\n
 The tears in my left eye haven't\n
 stopped, so there's no going.
 <$00>
@@ -155,7 +163,9 @@ Signpost:
 \n
 There's so many tears.\n
 My left eye is tearful.
-<$0C>
+<$0C><$0B>
+Signpost:
+<$0D>\n
 Only when I can turn back\n
 the tears can I turn back time.
 <$00>
@@ -256,7 +266,9 @@ Signpost:
 \n
 When I thought long and hard,\n
 I started to cry again.
-<$0C>
+<$0C><$0B>
+Signpost:
+<$0D>\n
 Oh, the tears are welling\n
 up again...
 <$0C><$0B>
@@ -528,7 +540,9 @@ Signpost:
 \n
 We're done with turning back.\n
 It's already over.
-<$0C>
+<$0C><$0B>
+Signpost:
+<$0D>\n
 We're done with turning back.
 <$00>
 

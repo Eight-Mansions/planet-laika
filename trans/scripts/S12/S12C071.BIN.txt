@@ -19,7 +19,9 @@ Chloe:
 \n
 We are here in Tatler's beloved\n
 Marchen Village.
-<$0C>
+<$0C><$0B>
+Chloe:
+<$0D>\n
 All I need is to acquire a body.
 <$0C><$0B>
 //クロエ：
@@ -124,7 +126,9 @@ Chloe:
 \n
 Of course. You don't want to be\n
 trapped in the darkness anymore.
-<$0C>
+<$0C><$0B>
+Chloe:
+<$0D>\n
 This is your chance to escape.
 <$0C><$0B>
 //クロエ：
@@ -165,7 +169,9 @@ Chloe:
 \n
 But, from those depths, a sole\n
 beam of light cuts the darkness.
-<$0C>
+<$0C><$0B>
+Chloe:
+<$0D>\n
 Guided by the light, you emerged.
 <$0C><$0B>
 //クロエ：
@@ -174,7 +180,9 @@ Chloe:
 //\n本当の瞬間よ、全てに実際の形と色がある、\n自分の目で確かめて…
 \n
 This is the moment of truth!
-<$0C>
+<$0C><$0B>
+Chloe:
+<$0D>\n
 Where all have proper color and\n
 shape in the eyes of the self!
 <$00>
@@ -259,8 +267,7 @@ Phoenix:
 \n
 But what am I supposed to do with\n
 this thing?
-<$0C>
-<$0B>
+<$0C><$0B>
 //フェニックス：
 Phoenix:
 <$0D>
@@ -329,7 +336,9 @@ Phoenix:
 \n
 But how would she know that,\n
 if I was never...
-<$0C>
+<$0C><$0B>
+Phoenix:
+<$0D>\n
 Sorry, this stops here.\n
 I don't want this.
 <$00>
@@ -606,7 +615,9 @@ Phoenix:
 \n
 April! She must have some\n
 connection to the planet.
-<$0C>
+<$0C><$0B>
+Phoenix:
+<$0D>\n
 I'll have to dig further.
 <$00>
 
@@ -624,7 +635,9 @@ Chloe:
 \n
 Owww... I am not one with\n
 my body just yet.
-<$0C>
+<$0C><$0B>
+Chloe:
+<$0D>\n
 My consciousness still\n
 faces a little resistance.
 <$00>
@@ -752,7 +765,9 @@ Phoenix:
 \n
 I'd wanted to stay in the dark\n
 forever, but I guess...
-<$0C>
+<$0C><$0B>
+Phoenix:
+<$0D>\n
 That's not my choice to make.
 <$0E><$78><$17><$00>
 
