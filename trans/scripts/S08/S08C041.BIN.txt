@@ -74,7 +74,9 @@ Little:
 \n
 HE tricked you, not me! HEROD created\n
 the Land of Nightmares, not me!
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 I never did anythin'!
 <$0C><$0B>
 //ƒŠƒgƒ‹F
@@ -84,7 +86,9 @@ Little:
 \n
 Oi, forget this. I'm out of here!\n
 Now, which way's the exit...?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 Is it over here?
 <$00>
 
@@ -222,7 +226,9 @@ Spacer:
 \n
 Is this...Martian metal?\n
 First time seeing it. 
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 So, it's real?\n
 The Martians really left it?
 <$00>
@@ -344,7 +350,9 @@ Little:
 \n
 Oi, forget this. I'm gettin' out of here!\n
 Now, which way's the exit...?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 Is it over here?
 <$00>
 
