@@ -458,7 +458,9 @@ Feng:
 \n
 Indeed. Because they don't wish to\n
 see the hatred their faces project.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 You see, mirrors cultivate evil.
 <$0C><$0B>
 //フェイ：
@@ -499,7 +501,9 @@ Feng:
 \n
 A mirror spirit,\n
 and beauty incarnate. 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 You can say she and I are\n
 kindred spirits, hoho.
 <$00><$12><$0B>
@@ -532,7 +536,9 @@ Spacer:
 \n
 You know that looking into\n
 the mirror stirs hate.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Was that mirror made\n
 to harness evil?
 <$00><$13><$0B>
@@ -542,7 +548,9 @@ Feng:
 //\nあら、よく知ってるわね。\n誰もが自分の中にふくらんでくる\n悪につぶされるの、それが蕃判なのよ。
 \n
 My, my! So, you knew.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 When our inner evils can destroy\n
 our outer, we find Judgement.
 <$00><$12><$13><$18><$0B>
@@ -616,7 +624,9 @@ Yolanda:
 \n
 Aww, I'm not scared. I bet it's\n
 a trick mirror anyways, right?
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 One that makes people prettier?
 <$00><$13><$0B>
 //フェイ：
@@ -625,7 +635,9 @@ Feng:
 //\nきれいになんて見えないわ、そのままよ、\nそれが憎しみをはぐくむの、悪を育てるの。
 \n
 ...It's not for seeing beauty.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 It's for projecting one's hatred.\n
 Or rather, one's inner evil.
 <$0C><$0B>
@@ -636,7 +648,9 @@ Feng:
 \n
 Think of it like Dorian Gray, where\n
 our inner evils are what destroy us.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 That is Judgement.
 <$00><$12><$13><$1D><$0B>
 //ヨランダ：
@@ -670,7 +684,9 @@ Feng:
 \n
 A mirror spirit, and beauty\n
 incarnate. 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 You can say she and I are\n
 kindred spirits, hoho.
 <$00><$12><$0B>

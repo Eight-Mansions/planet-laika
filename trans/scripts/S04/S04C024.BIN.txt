@@ -19,7 +19,9 @@ Feng:
 \n
 What are you up to?\n
 You came a long way, right? 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 Then you might as well\n
 take a look around.
 <$1E><$01><$08><$00>
@@ -37,7 +39,9 @@ Young:
 //\nへへ、みんな焦りはじめてやがる。さっきもな、\nリトルの野郎があわてて酸索屋から飛び出して\nきたけど、何かあったのか？
 \n
 Everyone's so impatient now.
-<$0C>
+<$0C><$0B>
+Young:
+<$0D>\n
 I just saw Little storm out of the\n
 oxygen dispensary. What happened?
 <$1E><$03><$08><$00>
@@ -64,7 +68,9 @@ Young:
 \n
 You don't want to get bent on\n
 something ghastly over it.
-<$0C>
+<$0C><$0B>
+Young:
+<$0D>\n
 Just go with the flow,\n
 like the Venusians.
 <$1E><$03><$08><$00>
