@@ -122,7 +122,9 @@ Liever:
 \n
 Our understanding.\n
 But, be warned...
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 ...without the silver capsule,\n
 Jeremiah's words will consume you.
 <$00>
@@ -157,7 +159,9 @@ Liever:
 \n
 I'm going now.\n
 Thank you for seeing me.
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 I don't need the red stone\n
 anymore. Take it back.
 <$00>
@@ -175,7 +179,7 @@ anymore. Take it back.
 <$0B>
 //      
       
-<$0D>
+<$0D>\n
 //Ô‚¢Î‚ğè‚É“ü‚ê‚½B
 Red Stone acquired.
 <$00>
@@ -194,7 +198,9 @@ Spacer:
 \n
 What happened to the blue stone?\n
 Does Little have it?!
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Quick, Liever, call Little back!
 <$00>
 
