@@ -177,7 +177,9 @@ Madam Agatha:
 \n
 Evening comes.\n
 You are with Tanya again.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 The two of you are looking at\n
 the stables under the moonlight.
 <$00>

@@ -99,7 +99,9 @@ Tommy:
 \n
 Whew, I'm getting so sleepy. I don't\n
 get it, I didn't drink anything yet.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Whew...
 <$1E><$02><$04><$00>
 
@@ -165,7 +167,9 @@ Yolanda:
 \n
 Almonds, almonds...\n
 I swear I heard someone say that.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 Must've been the smartass.
 <$00>
 
