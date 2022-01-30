@@ -82,7 +82,9 @@ Little:
 \n
 Of course not!\n
 There's no mischief afoot.\n
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 The rumors and uproars are all\n
 superstition!
 <$00>
@@ -100,7 +102,9 @@ April:
 //\n迷信？ メディスンマンから開いたのよ、\nイーブルマインドや黒い騎士の話。\nどこかで悪が大きく育っているのよ。
 \n
 Superstition? 
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 But even the medicine men believe\n
 in Evil Mind and the Black Rider!
 <$00>
@@ -119,7 +123,9 @@ Little:
 \n
 How lovely. So, you DON'T care\n
 about our warehouse next door?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 The one that stores our\n
 lucrative oxygenite reserves?
 <$0C><$0B>
@@ -186,7 +192,9 @@ Little:
 //\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
 \n
 Nothing is wrong with the Face.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 That thing's a dumb forget-me-not\n
 left by the Martians.
 <$0C><$0B>
@@ -197,7 +205,9 @@ Little:
 \n
 We laid out an oxygenite pipeline up\n
 to the Face.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 It wouldn't be a bad tourist spot\n
 for you narcissistic Earthlings.
 <$0C><$0B>
@@ -208,7 +218,9 @@ Little:
 \n
 You all obsess over human faces so\n
 badly, you swarm to it like bees.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 And then, when you see it,\n
 you pay us for cosmetic surgery!
 <$00>

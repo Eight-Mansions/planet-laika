@@ -110,7 +110,9 @@ April:
 \n
 What makes the medicine men\n
 so different? 
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 Do they not get along\n
 with the rest of colony?
 <$00>
@@ -129,7 +131,9 @@ Cosmas:
 \n
 The medicine men have ESP.\n
 They have extraordinaty powers.
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 Mountain stirs up trouble by\n
 insisting that they're frauds.
 <$00>
@@ -162,7 +166,9 @@ Cosmas:
 //\nハウスでいろいろ研究してる。\nメディスンマンのロッジに入る暗証番号を\n教えてくれるよ。
 \n
 He's a researcher at Psycho Lab.
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 He knows the PIN to enter the\n
 medicine men's lodge.
 <$0C><$0B>
@@ -243,7 +249,9 @@ Cosmas:
 //\nここにはいないさ。\n力がやって来るんだ、宇宙からね。
 \n
 Not "people" from Venus, no.\n
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 "Venusians" are the energy waves\n
 sent from Planet Venus into space.
 <$00>

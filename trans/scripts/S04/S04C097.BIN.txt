@@ -286,7 +286,9 @@ Madam Agatha:
 \n
 I see. You have crossed\n
 paths with the planet.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 In return, the planet\n
 granted you recollection.
 <$0C><$0B>
@@ -435,7 +437,9 @@ Madam Agatha:
 \n
 Don't leave the darkness to\n
 settle in your mind.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 You have to uncover more\n
 about your self.
 <$0C><$0B>
@@ -454,7 +458,9 @@ Madam Agatha:
 \n
 The realizations you see then\n
 will be the key. 
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 With that key, you will become\n
 a messenger for this planet.
 <$00>

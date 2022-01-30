@@ -68,7 +68,9 @@ Gold:
 \n
 The guy's real, though.\n
 Lived with Red when he was a kid.
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 They had some "thing" going on.
 <$0C><$0B>
 //ゴールド：
@@ -78,7 +80,9 @@ Gold:
 \n
 Apparently, he still appears\n
 in Red's dreams.
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 Crow peeked in and saw the guy.
 <$0C><$0B>
 //ゴールド：
@@ -167,7 +171,9 @@ Gold:
 \n
 You haven't been drinking since\n
 this morning, have you?
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 Might be time to tap out.
 <$1E><$02><$08><$00>
 
@@ -201,7 +207,9 @@ Gold:
 \n
 I don't want the noise seeping into\n
 my bar, got it?
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 That's why they say, "Get a room".
 <$0C><$0B>
 //ゴールド：
@@ -268,7 +276,9 @@ Gold:
 //\nおう… コスマスはどうした…\nレッドのやつが戻るとうるせぇぞ。
 \n
 The heck happened to Cosmas?
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 There'll be a shitstorm once\n
 Red comes back and sees him.
 <$1E><$02><$08><$00>
@@ -294,7 +304,9 @@ Gold:
 \n
 A good person was seen\n
 in Valles Memoriae.
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 They're not safe there. They could\n
 wind up posessed by evil very soon.
 <$0C><$0B>

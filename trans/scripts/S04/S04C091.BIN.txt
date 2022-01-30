@@ -396,7 +396,9 @@ West:
 \n
 That's not right!\n
 You have the red stone!
-<$0C>
+<$0C><$0B>
+West:
+<$0D>\n
 Giving us the red stone\n
 will help you!
 <$00>
@@ -611,7 +613,9 @@ Herod:
 \n
 They mean you, kid? Are you here\n
 for the terraformation project?
-<$0C>
+<$0C><$0B>
+Herod:
+<$0D>\n
 Let me guess: you're here to\n
 see if we're up to any trouble.
 <$0C><$0B>
@@ -622,7 +626,9 @@ Herod:
 \n
 I mean, I don't know what you\n
 expected to find out here.
-<$0C>
+<$0C><$0B>
+Herod:
+<$0D>\n
 Tell them everything's peachy.
 <$00>
 
@@ -687,7 +693,9 @@ Herod:
 \n
 I worked too hard to have to put\n
 up with the ISF's shit, got it?
-<$0C>
+<$0C><$0B>
+Herod:
+<$0D>\n
 I rebuilt this planet from the dust\n
 up after YOU parasites dumped it!
 <$0C><$0B>
@@ -698,7 +706,9 @@ Herod:
 \n
 I found the oxygenite veins and\n
 opened the mines.
-<$0C>
+<$0C><$0B>
+Herod:
+<$0D>\n
 I did that to make this place livable!
 <$0C><$0B>
 //ヘロデ：
@@ -916,7 +926,9 @@ Little:
 \n
 Of course not!\n
 There's no mischief afoot.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 The rumors and uproars are all\n
 superstition!
 <$00><$10><$0B>
@@ -926,7 +938,9 @@ April:
 //\n迷信？ メディスンマンから開いたのよ、\nイーブルマインドや黒い騎士の話。\nどこかで悪が大きく育っているのよ。
 \n
 Superstition? 
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 But even the medicine men believe\n
 in Evil Mind and the Black Rider!
 <$00><$10><$0B>
@@ -937,7 +951,9 @@ Little:
 \n
 How lovely. So, you DON'T care\n
 about our warehouse next door?
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 The one that stores our\n
 lucrative oxygenite reserves?
 <$0C><$0B>
@@ -987,7 +1003,9 @@ Little:
 //\nザ・フェイスには何の変化もない。\nあれは滅んだ火星人の\n置きみやげみたいなもんだ。
 \n
 Nothing is wrong with the Face.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 That thing's a dumb forget-me-not\n
 left by the Martians.
 <$0C><$0B>
@@ -998,7 +1016,9 @@ Little:
 \n
 You know how we laid out that\n
 oxygenite pipeline to the Face? 
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 It wouldn't be a bad tourist spot\n
 for you narcissistic Earthlings.
 <$0C><$0B>
@@ -1009,7 +1029,9 @@ Little:
 \n
 You all obsess over human faces so\n
 badly, you swarm to it like bees.
-<$0C>
+<$0C><$0B>
+Little:
+<$0D>\n
 And then, when you see it,\n
 you pay us for cosmetic surgery!
 <$00><$10><$0B>

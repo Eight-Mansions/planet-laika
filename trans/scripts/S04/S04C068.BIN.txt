@@ -65,7 +65,9 @@ Linda:
 //\nあら、あんたなのー、こんな朝早くから…
 \n
 Oh, it's you again, from this morning.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 //それにしちゃ変わってないじゃん、\nまだ犬じゃん。
 \n
 But you haven't changed a bit!\n
@@ -78,15 +80,21 @@ Linda:
 \n
 Is something different? Did you use\n
 the cloth? Whose face was on it?
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 //あの布はね、完全な顔にかぶせると、その顔を\nはぎ取ることができるのよー、\n怖いわ、嫌だわ、汚いわ。
 I heard that putting that cloth on\n
 a perfect face causes the face to\n
 tear off. Talk about terrifying!
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 //欲張りすぎると顔が元に戻っちゃうのよー、\nほどほどで満足しないとね。
 It's a good warning to take it slow.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Be happy with your progress,\n
 or risk going back to square one.
 <$00><$10><$0B>
@@ -167,7 +175,9 @@ Linda:
 \n
 I'm disgusted by just about\n
 everything. 
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Seriously, I'm tired.
 <$1E><$01><$08><$00>
 
@@ -215,7 +225,9 @@ Linda:
 \n
 Pfft, I'm not talking about your\n
 name, I'm talking about your face!
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Did you change it from last time?
 <$00>
 
@@ -248,7 +260,9 @@ Linda:
 \n
 That's a loaded question.\n
 Yes, very loaded.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 But you have a wiser air\n
 about you now.
 <$0C><$0B>
@@ -258,7 +272,9 @@ Linda:
 //\nあいつらといい勝負？サイコハウスのやつらさ、\nいばってるよー、\n自分たちは特別だと思ってるしさー。
 \n
 Oh,  do you sound like... 
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 That's it. I think you'd fit in\n
 with those guys at Psycho Lab.
 <$00>
@@ -333,7 +349,9 @@ Linda:
 \n
 So, what were you doing with that\n
 cloth at House Liang?
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Were you performing\n
 surgery on your self?!
 <$0C><$0B>
@@ -344,7 +362,9 @@ Linda:
 \n
 No. You still have a dogface,\n
 but that dirty cloth changed.
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 I remember seeing it light up.
 <$1E><$01><$08><$00>
 
@@ -576,7 +596,9 @@ Linda:
 \n
 Come on, you know what I'm\n
 talking about! The cloth!
-<$0C>
+<$0C><$0B>
+Linda:
+<$0D>\n
 Veronica's cloth stopped shining!
 <$1E><$01><$08><$00>
 

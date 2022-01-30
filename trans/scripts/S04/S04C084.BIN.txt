@@ -198,7 +198,9 @@ Tommy:
 \n
 They started that weird\n
 chanting again.
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Hehe, means it's time\n
 for the magic dance!
 <$0C><$0B>
@@ -208,7 +210,9 @@ Tommy:
 //\nひゅんひゅん、飛んで来るんだ、へへー。\n綠の光、あれに触れると、ひひひ、\nバラバラになるぜ。
 \n
 I'm flying, I'm flying!
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Hehe, only touching the green\n
 flash will break their spell!
 <$1E><$02><$08><$00>
@@ -226,7 +230,9 @@ Tommy:
 //\nインディアンのまじない、\nへへー、綠の光、バラバラごっこだ。
 \n
 That's shamanic magic!
-<$0C>
+<$0C><$0B>
+Tommy:
+<$0D>\n
 Hehe, only touching the green\n
 flash will break their spell!
 <$1E><$02><$04><$00>
