@@ -311,7 +311,9 @@ Ernest:
 //\n火事…おい、あのこおった野郎は誰だ？
 \n
 A fire, huh... 
-<$0C>
+<$0C><$0B>
+Ernest:
+<$0D>\n
 Speaking of natural disasters,\n
 who's the big frozen guy down here?
 <$00>
