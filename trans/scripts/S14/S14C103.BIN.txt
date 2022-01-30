@@ -69,7 +69,9 @@ Madam Agatha:
 //\nこの星は強い意志を持ち、\n新しい歴史を書き記そうとしているの。\n星には逆らえないのよ…
 \n
 The planet told me that.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 It has the willpower, a wish,\n
 to write a new history.
 <$0C><$0B>
@@ -79,7 +81,9 @@ Madam Agatha:
 //\n野心や欲では星の望みを\nかなえることはできないわ。\nなのに…
 \n
 We cannot fight the planet.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Neither can we expect it to\n
 side with our selfish ambitions.
 <$0C><$0B>

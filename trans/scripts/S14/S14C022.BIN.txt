@@ -52,7 +52,7 @@ reason for dying..."
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
-<$0D>
+<$0D>\n
 Tell me, do you hear them?
 <$0C><$0B>
 //ヴェロニカ：
@@ -93,7 +93,9 @@ Veronica:
 \n
 What's the matter?\n
 ...Wait.
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 Who are you? You're not the\n
 Earthling I met earlier.
 <$00>
@@ -127,7 +129,9 @@ Veronica:
 //\nいやよ！ 入れ替わらないで！\n勝手に持っていかないで、アタシの時間よ！
 \n
 NO! I don't want to change places!
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 This is MY time!\n
 Don't take it away from me!
 <$00>
@@ -200,7 +204,9 @@ Veronica:
 \n
 I sense a strong power in you,\n
 understand. 
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 Hohoho, why don't you try it out?
 <$00>
 
@@ -229,7 +235,7 @@ It's precisely as I envisioned.
 <$0C><$0B>
 //ヴェロニカ：
 Veronica:
-<$0D>
+<$0D>\n
 I didn't have to pull any strings.
 <$00>
 
@@ -324,7 +330,9 @@ Sparky:
 <$0D>
 //\n何か寒いわね…あら、初めての方？\n私はスパーキー、ちょっと派手ないいやつよ。
 \nIt's kind of cold here...
-<$0C>
+<$0C><$0B>
+Sparky:
+<$0D>\n
 Oops, have we met?\n
 I'm Sparky. Promise I don't bite.
 <$00>
@@ -370,7 +378,7 @@ Where would he have gone?
 <$0C><$0B>
 //スパーキー：
 Sparky:
-<$0D>
+<$0D>\n
 I thought he liked this spot...
 <$00>
 

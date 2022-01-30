@@ -74,7 +74,9 @@ White Eagle:
 //\nネオや、預言はどうなったのじゃ…\nここにおる者が受けるのか…
 \n
 Neo cannot use his prophecy now.
-<$0C>
+<$0C><$0B>
+White Eagle:
+<$0D>\n
 Is there anyone else here who\n
 can withstand the words?
 <$00>

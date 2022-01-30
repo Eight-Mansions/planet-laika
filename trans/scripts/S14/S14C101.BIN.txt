@@ -252,7 +252,9 @@ Madam Agatha:
 \n
 You understand what this\n
 means, don't you? 
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 The things you find in your dreams\n
 only fleet until they are gone.
 <$00>
@@ -271,7 +273,9 @@ Madam Agatha:
 \n
 The things you find in your dreams\n
 only fleet until they are gone.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 This is no exception.
 <$00>
 
@@ -420,7 +424,9 @@ Madam Agatha:
 \n
 Waiting on the porch is Vladimir,\n
 your new father.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 His face is glazed and puffy.
 <$0C><$0B>
 //マダム・アガタ：
@@ -452,7 +458,9 @@ Madam Agatha:
 //\n地下室よ、あなたはどうしてかしら、\nびしょぬれになってふるえているわ。
 \n
 We're in a basement.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 I don't know why, but you're\n
 soaking wet, and you're shaking.
 <$0C><$0B>
@@ -509,7 +517,9 @@ Madam Agatha:
 \n
 Smoke. I see a white smoke.\n
 Is it fire? No...
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 It is the bright and searing\n
 end of a fire hook.
 <$0C><$0B>
@@ -655,7 +665,9 @@ Madam Agatha:
 \n
 I see a kitchen on a quiet night.\n
 Both you and Tanya there.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 I'm lead to believe you met here\n
 in secret, as if to scheme.
 <$0C><$0B>
@@ -728,7 +740,9 @@ Madam Agatha:
 //\n冷たい霧の朝、１１月…\n制服を着た男がふたり、ポーチにいるわ。\nはげしくドアをノックしてる…
 \n
 A cold, foggy November morning.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Two policemen stand on the porch,\n
 banging the door.
 <$00>
@@ -779,7 +793,9 @@ Madam Agatha:
 \n
 Ah, the fresh aftermath of a\n
 skirmish.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Chairs and floor lamps are\n
 strewn about this strange home.
 <$00>
@@ -862,7 +878,9 @@ Madam Agatha:
 \n
 We're in a bedroom. You and your\n
 mother stand before a closet.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Is it yours? Or...
 <$0C><$0B>
 //マダム・アガタ：
@@ -872,7 +890,6 @@ Madam Agatha:
 \n
 ...No, this is Sergei's closet,\n
 but it's open. That's all I can tell.
-<$0C>
 <$00>
 
 // Pos: 000036C2
@@ -905,7 +922,9 @@ Madam Agatha:
 \n
 I see only the faint shadow\n
 of Vladimir.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 He is doubled over\n
 on the kitchen floor.
 <$0C><$0B>
@@ -991,7 +1010,9 @@ Madam Agatha:
 \n
 Her mouth is moving. She's\n
 mumbling to the wall itself.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 I can't make out what\n
 she's saying.
 <$00>
@@ -1017,7 +1038,9 @@ Madam Agatha:
 \n
 I can only see a little, but his\n
 body is making small twitches.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Aww, it looks like he's hiccupping.
 <$0C><$0B>
 //マダム・アガタ：
@@ -1054,7 +1077,9 @@ Madam Agatha:
 \n
 His head and body twitch about\n
 in the tiniest convulsions.
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 This isn't the Boomer I know.
 <$00>
 
@@ -1088,7 +1113,9 @@ Madam Agatha:
 \n
 ...Oh, no. It's a kitten!\n
 And it's dead!
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 It must have been buried alive, but\n
 Crow is digging the corpse back up...!
 <$00>
@@ -1119,7 +1146,9 @@ Madam Agatha:
 \n
 God, it's the kitten! The kitten\n
 from the hole is now in the saucepan! 
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 The fire to the stovetop is on,\n
 and...
 <$0C><$0B>

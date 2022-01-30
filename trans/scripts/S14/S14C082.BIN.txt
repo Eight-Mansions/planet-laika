@@ -43,7 +43,9 @@ Gold:
 \n
 Nothing good's come out of you\n
 Earthlings showin' up.
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 Blowin' sparks wherever you go.
 <$0C><$0B>
 //ゴールド：
@@ -84,7 +86,9 @@ Goldman:
 //\nははは、バカめ。\n俺はゴールドマン、誰よりも強い。
 \n
 Heyyyy, tweaker! 
-<$0C>
+<$0C><$0B>
+Goldman:
+<$0D>\n
 I'm Goldman, and I'm tougher\n
 than every last one of you!
 <$0C><$0B>

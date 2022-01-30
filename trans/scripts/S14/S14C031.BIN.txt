@@ -27,7 +27,9 @@ Thomas:
 \n
 I dare say, my observations\n
 are all correct.
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 You're lucky I work so tirelessly.
 <$0C><$0B>
 //トーマス：
@@ -53,7 +55,9 @@ Thomas:
 \n
 There's no breaking my\n
 concentration. 
-<$0C>
+<$0C><$0B>
+Thomas:
+<$0D>\n
 Thoughts come to me of\n
 their own free will!
 <$1E><$03><$04><$00>
@@ -79,7 +83,9 @@ Bull:
 \n
 Those East and West guys\n
 drove me out. 
-<$0C>
+<$0C><$0B>
+Bull:
+<$0D>\n
 What's Agatha so busy\n
 for right now?
 <$1E><$02><$08><$00>
