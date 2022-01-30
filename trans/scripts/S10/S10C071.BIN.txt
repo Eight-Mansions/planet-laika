@@ -332,7 +332,9 @@ Galil:
 //\n”Ş‚Í‚½‚ñ‚Éˆ«‚Ó‚´‚¯‚Ì‚Â‚à‚è‚¾‚Á‚½c
 \n
 Sergei, at the time of the fire...
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>\n
 ...was out committing an\n
 entirely different crime.
 <$0C><$0B>
@@ -393,7 +395,9 @@ Galil:
 \n
 After the arson, you snuck back to\n
 the scene.
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>\n
 You wanted to retrieve a\n
 blood-stained fire hook.
 <$0C><$0B>
@@ -582,7 +586,9 @@ Yolanda:
 \n
 The plan was for...Vladimir to die\n
 first, b-but then, Tanya went and...
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 AUUUUUUGH!
 <$00>
 

@@ -76,7 +76,9 @@ Liever:
 <$0F>
 //が壊したんだよ、\nヤケになって、手当たり次第に。
  broke it. 
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 In a fit of despair, they took whatever\n
 they could get their hands on, and...
 <$00>
@@ -151,7 +153,9 @@ Yolanda:
 <$0F>
 //は善でも悪でもないわ、\n無なのよ。 なにもないの、心もないのよ。
  never did ANYTHING!
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 They never HAD anything,\n
 not even a mind of their own!
 <$00>

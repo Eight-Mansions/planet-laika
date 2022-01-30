@@ -152,7 +152,9 @@ Tanya was
 <$0F>
 //のママだよね、\nあんたのママってこと？\nどう思ってたの？
 's mother.
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 Would that not make her your\n
 mother too? Or am I wrong?
 <$00>
@@ -180,7 +182,9 @@ Yolanda:
 <$0F>
 //には何もできないの…\nせいぜいが宇宙飛行士になることくらい。
  didn't help her!
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 He was too busy studying\n
 to be some stupid cosmonaut!
 <$0C><$0B>
@@ -308,7 +312,9 @@ Yolanda:
 \n
 Yeah. He must've done so\n
 to fill the gap she left.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 I don't know the details,\n
 so you'd have to ask him.
 <$00>
@@ -326,7 +332,9 @@ Liever:
 //\n本当は生まれたときには死んでたんだよね、\nミーシャって名前まで用意してたのに。
 \n
 Masha was born dead...
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 Was "Masha" the name Tanya and\n
 Vladimir planned to give her?
 <$00>
@@ -352,7 +360,9 @@ Yolanda:
 \n
 Vladimir made sure of that by\n
 plotting with Tanya's doctor.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 He didn't want her children.
 <$00>
 
@@ -385,7 +395,9 @@ Yolanda:
 \n
 Spacer is our personal command\n
 tower.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 He keeps a watchful eye over\n
 the lot of us.
 <$00>
@@ -467,7 +479,9 @@ Yolanda:
 \n
 Spacer emerged from a book, actually.\n
 He wasn't born.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 He snuck in under all our\n
 noses one day,
 <$0C><$0B>
@@ -530,7 +544,9 @@ Galil:
 \n
 Once, I was an even less certain\n
 existance than you.
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>\n
 I knew no ease, no self-worth.
 <$0C><$0B>
 //ガリル：
@@ -614,7 +630,9 @@ Galil:
 \n
 Ah, the "leading star" makes his\n
 appearance.
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>\n
 Where is your god to rear you in?
 <$00>
 
@@ -679,7 +697,9 @@ Galil:
 \n
 YOU gave twins the present of\n
 nightmares, Little!
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>\n
 YOU buried them alive!
 <$00>
 
@@ -697,7 +717,9 @@ Galil:
 \n
 That's right, LITTLE!\n
 It was you, LITTLE!
-<$0C>
+<$0C><$0B>
+Galil:
+<$0D>\n
 AND I SHALL CALL YOU "LITTLE"\n
 IN THE EYES OF GOD FOR IT!
 <$00>
@@ -774,7 +796,9 @@ Yolanda:
 \n
 I heard the sound of running\n
 water from the bath room.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 I didn't have to look anymore.
 <$0C><$0B>
 //ヨランダ：
