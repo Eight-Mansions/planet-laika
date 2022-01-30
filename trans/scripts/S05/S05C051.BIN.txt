@@ -98,7 +98,9 @@ Laika(?):
 \n
 Does anyone have a "reason\n
 for dying"?
-<$0C>
+<$0C><$0B>
+Laika(?):
+<$0D>\n
 That sounds more like suicidal\n
 ideation to me.
 <$00>
@@ -241,7 +243,9 @@ White Eagle(?):
 //\nだが、ひとりではできん。その悪をそそぎ込む\n相手が必要じゃな。
 \n
 But you cannot use it alone.\n
-<$0C>
+<$0C><$0B>
+White Eagle(?):
+<$0D>\n
 There needs to be someone else\n
 into whom that evil is transferred.
 <$0C><$0B>
@@ -252,7 +256,9 @@ White Eagle(?):
 \n
 It takes someone of strong mind\n
 to withstand it.
-<$0C>
+<$0C><$0B>
+White Eagle(?):
+<$0D>\n
 If one's mind is weak, the\n
 transfer will make them sick.
 <$00>
@@ -341,7 +347,9 @@ White Eagle(?):
 //\nふほ、お前とそれからもうひとりの…\nふほ、もしや預言にあるマコトの双子…
 \n
 Haww, that you are part of another.
-<$0C>
+<$0C><$0B>
+White Eagle(?):
+<$0D>\n
 You are a Twin of Truth as foretold\n
 of in the prophecies.
 <$0C><$0B>
@@ -407,7 +415,9 @@ Laika(?):
 //\nじゃあガリルは…\nもしかして完全なる善になろうってことなの。
 \n
 If that's the case...
-<$0C>
+<$0C><$0B>
+Laika(?):
+<$0D>\n
 I suppose Galil believes he is\n
 the "pure good" one of the two.
 <$0C><$0B>
@@ -442,7 +452,9 @@ White Eagle(?):
 \n
 In Galil's search for Evil Mind, he\n
 uncovered prophecies of
-<$0C>
+<$0C><$0B>
+White Eagle(?):
+<$0D>\n
 world rebirth.
 <$0C><$0B>
 //ホワイトイーグル…？：
@@ -452,7 +464,9 @@ White Eagle(?):
 \n
 These prophecies were left behind\n
 by an exile who died long ago.
-<$0C>
+<$0C><$0B>
+White Eagle(?):
+<$0D>\n
 That was Jeremiah the Exile.
 <$00>
 
@@ -469,7 +483,9 @@ Laika(?):
 //\nそうだったのか…さっき見た黒い騎士も\nその預言から現れたんだな。
 \n
 I see...
-<$0C>
+<$0C><$0B>
+Laika(?):
+<$0D>\n
 The rising Black Rider we saw must\n
 be another pawn in the prophecy.
 <$00>
@@ -528,7 +544,9 @@ Laika(?):
 \n
 ...Speaking of which,\n
 where are the prophecies?
-<$0C>
+<$0C><$0B>
+Laika(?):
+<$0D>\n
 Is it possible for me to\n
 speak with Universal Man?
 <$00>

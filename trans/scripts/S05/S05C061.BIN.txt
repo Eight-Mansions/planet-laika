@@ -329,7 +329,9 @@ Spacer:
 \n
 Will Veronica perform a doll\n
 to absorb Feng's spirit?
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Or, can personality integration\n
 be done without shamanic magic?
 <$00>
@@ -363,7 +365,9 @@ Spacer:
 //\nまだ眠っているのか。\n人格統合だ、その時はどうなる？
 \n
 Are you two still sleeping?
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Guys, what happens when\n
 personalities integrate?
 <$0C><$0B>

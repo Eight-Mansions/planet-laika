@@ -299,7 +299,9 @@ April:
 //\nいいえ、何にも。私たちの任務は、\n火星に妙なウワサがあると\n地球化計画が進まない…
 \n
 No, not a thing!
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 The ISF was worried about rumors\n
 hurting the terraformation project.
 <$0C><$0B>
@@ -326,7 +328,9 @@ White Eagle:
 \n
 Haww, haww, haww!\n
 Terraformation...
-<$0C>
+<$0C><$0B>
+White Eagle:
+<$0D>\n
 Yes, I see. Is this to bring\n
 MORE people up to Mars?
 <$0C><$0B>

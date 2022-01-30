@@ -300,7 +300,9 @@ Noble Rock:
 \n
 We must do the doll dance properly\n
 this time.
-<$0C>
+<$0C><$0B>
+Noble Rock:
+<$0D>\n
 The spirits that escaped will be\n
 cast back to their proper places.
 <$0C><$0B>
@@ -326,7 +328,9 @@ Noble Rock:
 //\nタンキー人形はタマシイを操る。\n人から出したり入れたりできるんだ。
 \n
 Turn-key dolls control spirits.
-<$0C>
+<$0C><$0B>
+Noble Rock:
+<$0D>\n
 They can be used to direct spirits\n
 in and out from a person.
 <$0C><$0B>
