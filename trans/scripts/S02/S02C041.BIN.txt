@@ -19,7 +19,9 @@ Yolanda:
 \n
 Did you hear that? Those were\n
 Vladimir and Sergei's voices.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 But...why now?
 <$00>
 
@@ -37,7 +39,9 @@ Ernest:
 \n
 Who knows. I did see my treasure\n
 though.
-<$0C>
+<$0C><$0B>
+Ernest:
+<$0D>\n
 My brightly glowing treasure...
 <$00>
 
@@ -124,7 +128,9 @@ affecting
 <$0F>
 //に作用して、\nあんな声が開こえたんだ。
 's mind.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 That's why we heard voices.
 <$0C><$0B>
 //スペーサー：
@@ -134,7 +140,9 @@ Spacer:
 \n
 But those voices came from deep,\n
 dark childhood memories.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 ...
 <$0F>
 //は、忘れてなかったんだ。
@@ -164,7 +172,9 @@ Yolanda:
 \n
 Whatever it is, the three of us may\n
 have more shifts soon.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 And none of us'll be home for Xmas.
 <$0C><$0B>
 //ヨランダ：
@@ -213,7 +223,9 @@ Yolanda:
 \n
 Mhmm. What we saw from inside\n
 the rocket's the real deal then?
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 Woah, then THAT means that face\n
 we landed by really exists too!
 <$00>
@@ -256,7 +268,9 @@ Yolanda:
 \n
 Oh, that's right! Aren't human faces\n
 made here?
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 Can we all get the surgery too?
 <$00>
 
@@ -389,7 +403,9 @@ Spirit Man:
 \n
 When you make contact with an\n
 influence, as in, another person,
-<$0C>
+<$0C><$0B>
+Spirit Man:
+<$0D>\n
 a colorful aura will leave\n
 said influence, and enter you!
 <$0C><$0B>

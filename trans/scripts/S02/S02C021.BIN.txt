@@ -58,7 +58,9 @@ Captain Tatler:
 \n
 There's another fruit there to\n
 be reaped from today's labor.
-<$0C>
+<$0C><$0B>
+Captain Tatler:
+<$0D>\n
 Rumor says our ex-vanguard units\n
 are living out here in secret.
 <$00>
@@ -524,7 +526,9 @@ Captain Tatler:
 //\n„‚ÌŒã‚ë‚ğ’…‚¢‚Ä‚«‚ÄA‚R‰ñU‚è•Ô‚Á‚½‚ç\nÎ‚Á‚Ä‚é‚ñ‚¾‚¼B
 \n
 She'll sneak up behind me.
-<$0C>
+<$0C><$0B>
+Captain Tatler:
+<$0D>\n
 If I look back three times and don't\n
 catch her, she giggles like a kid.
 <$00>
@@ -550,7 +554,9 @@ Noon:
 \n
 And then, we tell them we're\n
 from Earth.
-<$0C>
+<$0C><$0B>
+Noon:
+<$0D>\n
 They'll welcome us with open arms!
 <$00>
 

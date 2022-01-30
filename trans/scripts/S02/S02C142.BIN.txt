@@ -113,7 +113,9 @@ Liever:
 //\nあんたには信仰がないんだ。\nひとりで強がってるんだ。
 \n
 You have no faith. 
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 You think you're strong enough to\n
 handle life's burdens on your own.
 <$00>
@@ -194,7 +196,9 @@ Liever:
 //\n地下水道の入口のところにいるよ。\nブリックロードのコロニーに入る手前。\n分かるよね。
 \n
 Meet me in the underground canal.
-<$0C>
+<$0C><$0B>
+Liever:
+<$0D>\n
 Take a right turn on Brick Road.\n
 I'll be near the rescue dog.
 <$00>

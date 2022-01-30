@@ -136,7 +136,9 @@ White Eagle:
 \n
 Universal Man beckons his alter ego\n
 to come to him.
-<$0C>
+<$0C><$0B>
+White Eagle:
+<$0D>\n
 Should they meet, Universal Man may\n
 at last seek out the lost prophecy.
 <$0C><$0B>
@@ -305,7 +307,9 @@ White Eagle:
 \n
 When all prophecies are seen,\n
 Galil's fantasies too will die.
-<$0C>
+<$0C><$0B>
+White Eagle:
+<$0D>\n
 And afterwards, those fantasies\n
 will be reborn as realities.
 <$00>
@@ -489,7 +493,9 @@ Spirit Man:
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…火事、リバー…ひょひょ。
 \n
 You're a forgetful one, hyohyo!\n
-<$0C>
+<$0C><$0B>
+Spirit Man:
+<$0D>\n
 Remember, if you want to see\n
 Liever, seek "fire".
 <$00>
@@ -508,7 +514,9 @@ Ernest:
 \n
 A fire, huh. That could mean the\n
 other town that burned down.
-<$0C>
+<$0C><$0B>
+Ernest:
+<$0D>\n
 It's a tasteless clue if it does.
 <$00>
 
@@ -557,7 +565,9 @@ Spirit Man:
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…ロケット、リバー…ひょひょ。
 \n
 You're a forgetful one, hyohyo!
-<$0C>
+<$0C><$0B>
+Spirit Man:
+<$0D>\n
 Remember, if you want to see\n
 Liever, seek the "rocket".
 <$00>
@@ -576,7 +586,9 @@ Spacer:
 \n
 "Rocket"... Of course I'd get the\n
 easiest clue.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 That'd be the rocket we\n
 came to Mars in.
 <$00>
@@ -626,7 +638,9 @@ Spirit Man:
 //\nお前は忘れっぽいぞ、ひょひょ。\n思い出せ…避難小屋、リバー…ひょひょ。
 \n
 You're a forgetful one, hyohyo!
-<$0C>
+<$0C><$0B>
+Spirit Man:
+<$0D>\n
 Remember, if you want to see\n
 Liever, seek "shelter".
 <$00>
@@ -644,7 +658,9 @@ Yolanda:
 //\n避難小屋…\nたしかにあったわね、そんなところが。
 \n
 "Shelter", shelter, shelter... 
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 Well, actually, we did have to run for\n
 cover somewhere shortly after we landed.
 <$00>
@@ -727,7 +743,9 @@ White Eagle:
 \n
 The glowing stones are said\n
 to be Martian good will. 
-<$0C>
+<$0C><$0B>
+White Eagle:
+<$0D>\n
 They must be here somewhere.
 <$00>
 
