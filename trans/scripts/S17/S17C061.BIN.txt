@@ -110,7 +110,7 @@ You look like you had a bad dream.
 
 <$02><$11><$01><$14><$03>
 //僕は… どうしてここにいるのかなぁ…
-... Why are we here?
+I... Why am I here?
 <$0E><$3C><$17><$00>
 
 // Pos: 0000122A
@@ -124,7 +124,7 @@ You look like you had a bad dream.
 Oh, 
 <$0F>
 //！\nこれからよ、これからはじまるの。
-！\n
+! It IS you!\n
 It's okay. We're going to start over.
 <$0E><$3C><$17><$00>
 
@@ -151,7 +151,7 @@ April:
 <$0D>
 //\nライカね、
 \n
-Laika, it's you! It's you, 
+Laika, it's you! 
 <$0F>
 //ね！
 !
@@ -161,7 +161,7 @@ Laika, it's you! It's you,
 <$0D>
 //\n僕は… どうしたんだろう…\n君のこと、守ってあげられなかった。
 \n
-I don't know what happened.\n
+I don't know why I'm here.\n
 I'm...sorry I couldn't protect you.
 <$00><$10><$0B>
 //エイプリル：
