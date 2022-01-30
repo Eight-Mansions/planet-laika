@@ -88,7 +88,7 @@ April:
 //\n船長、ヌーンのおかげで私たち…
 \n
 Captain, it's only thanks to Noon\n
-that we landed without accident.
+that we landed without an accident.
 <$00>
 
 // Pos: 00003567
@@ -103,8 +103,8 @@ Captain Tatler:
 <$0D>
 //\nこの船にアクシデントなどなかったのだ。\nわからんのか…
 \n
-I don't care about accidents. If we\n
-dent something, we'll fix it later.
+Who cares about accidents? If we\n
+dent anything, we'll fix it later.
 <$0C><$0B>
 //タトラー船長：
 Captain Tatler:
@@ -112,7 +112,7 @@ Captain Tatler:
 //\n報告書はそうまとめる。 さ、準備だ！
 \n
 My point is, let's cut the\n
-report and head out!
+small talk and head out!
 <$00>
 
 // Pos: 000035B5

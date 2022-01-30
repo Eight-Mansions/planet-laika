@@ -1240,15 +1240,15 @@ Cosmas:
 <$0D>
 //\n僕は出歩いてなんかいないよ、ダークマン。
 \n
-I didn't expect taking\n
+I didn't expect us to take\n
 a walk today, Dark Man.
 <$0C><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nねぇ、そうだろ、\n僕、ずっとオウチにいたよね。
-\nYeah, you know me. I'm always\n
-stuck indoors, aren't I?
+\nWell, you know me.\n
+I'm always stuck indoors...
 <$00>
 
 //P:0001182C
@@ -1261,8 +1261,8 @@ Cosmas:
 <$0D>
 //\nねぇ、ダークマン、\n他の人の苦しみも増えてるの？\nここは苦しみで埋めつくされるの？
 \nHey, Dark Man? Are people\n
-suffering more? Is this place\n
-filled with suffering yet?
+suffering more? Is Mars filled\n
+with enough suffering yet?
 <$00>
 
 //P:00011864
@@ -1273,8 +1273,8 @@ Cosmas:
 <$0D>
 //\nねぇ、ダークマン。 そっちにいくと\nレッドおじさんがいるよ。 きっといるよ。
 \n
-Wait, Dark Man. If we go that\n
-way, we'll run into Uncle Red.
+Wait, Dark Man! If we go that\n
+way, we'll run into Uncle Red!
 <$00>
 
 //P:00011894

@@ -17,7 +17,7 @@ Captain Tatler:
 <$0D>
 //\nあああ…君は…あああ…まさか！\n生きていたのか…いや、そんなはずはないぞ！
 \n
-A-are you...? No! There's no way!\n
+Is that...you? That can't be!\n
 How are you alive?!
 <$0E><$1E><$17><$00>
 
@@ -33,8 +33,8 @@ April:
 <$0D>
 //\nここは…私の…どうして？\nもうなくなったはずなのに…
 \n
-Is this my room? But, how?\n
-I thought it was gone forever!
+Is this my room? But how?\n
+It's supposed to be gone!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001BDF
@@ -49,8 +49,8 @@ Noon:
 <$0D>
 //\nママ…ママなの、僕が悪かったの…\nあああ、建う！ ママじゃない、うそだ！
 \n
-Mummy? Mummy, was I bad again?\n
-Wait, no! You can't be Mummy!
+Mummy, was I bad again?\n
+Wait... You can't be Mummy!
 <$0E><$1E><$17><$00>
 
 // Pos: 00001C13

@@ -554,13 +554,13 @@ Chloe:
 This face was 
 <$18><$00><$81><$43><$08><$00><$00><$00>
 //リバー
-Liever's\n
+Liever's,
 <$1A><$13><$00><$00><$00><$18><$00><$81><$44><$08><$00><$00><$00>
 //リトル
-Little's\n
+Little's,
 <$1A><$03><$00><$00><$00>
 //レッドよ。\n用済みになったの。
-Red's\n
+Red's,\n
 before he served his purpose.
 <$00>
 
@@ -622,8 +622,8 @@ Ernest:
 <$0D>
 //\nなあ、ここは火事だったんじゃねぇのか…\n化かされてるみたいだぜ。
 \n
-If that you burned in the fire,\n
-this you has to be an illusion.
+I saw you burn in that fire.\n
+This you has to be an illusion.
 <$00>
 
 // Pos: 000040FB
@@ -673,13 +673,13 @@ Chloe:
 This face was 
 <$18><$00><$81><$43><$08><$00><$00><$00>
 //リバー
-Liever's\n
+Liever's,
 <$1A><$13><$00><$00><$00><$18><$00><$81><$44><$08><$00><$00><$00>
 //リトル
-Little's\n
+Little's,
 <$1A><$03><$00><$00><$00>
 //レッドよ。\n用済みになったの。
-Red's\n
+Red's,\n
 before he served his purpose.
 <$00>
 

@@ -65,13 +65,13 @@ April:
 <$0D>
 //\n人間の顔を手に入れて、それで火星人は滅んだ…\nなんか妙な惑じね。
 \n
-To think, they all died the moment\n
-they tried to wear human faces.
+To think, they all died en masse\n
+the moment they put on human faces.
 <$0C><$0B>
 April:
 <$0D>\n
 Who knew the face pact would lead\n
-to such an unhappy end.
+to such an unhappy end?
 <$00>
 
 // Pos: 00003A45
@@ -87,7 +87,7 @@ Captain Tatler:
 //\n人間の顔が、彼らに災いをもたらした。\n今ではそう考えられている。
 \n
 Theory says our faces were what\n
-triggered the mass extinction.
+triggered the Martian extinction.
 <$00>
 
 // Pos: 00003A79
@@ -102,8 +102,8 @@ Noon:
 <$0D>
 //\n火星人のやつら、ハダに合わなかったんだよ、\n人間の顔が。
 \n
-Only because those filthy Martian\n
-bodies rejected our 'uman faces.
+Aye, those filthy Martian bodies\n
+didn't deserve our pure 'uman faces.
 <$00>
 
 // Pos: 00003AA3
@@ -118,8 +118,8 @@ Captain Tatler:
 <$0D>
 //\n地球からバクテリアを持ち帰ってしまった、\nそんな説もある。
 \n
-One theory does point fingers at the\n
-bacteria we carried up from Earth.
+One theory says it was triggered\n
+by bacteria we brought from Earth.
 <$00>
 
 // Pos: 00003AD3
@@ -134,8 +134,8 @@ Noon:
 <$0D>
 //\nけっ、大きなお世話って惑じだな。
 \n
-I don't care, Cap'n.\n
-Blame our bacteria all you want.
+I don't care, Cap'n. Blame\n
+facial bacteria all you want.
 <$00>
 
 // Pos: 00003AF0
@@ -149,14 +149,14 @@ Blame our bacteria all you want.
   
 <$0D>
 //これより火星の軌道に向かいます。\n
-NOW ENTERING MARTIAN ORBIT.\n
+THE PHOENIX IS ENTERING MARTIAN ORBIT.\n
 
 <$0E><$1E><$0B>
 //  
   
 <$0D>
 //これより火星の軌道に向かいます。
-NOW ENTERING MARTIAN ORBIT.
+THE PHOENIX IS ENTERING MARTIAN ORBIT.
 <$00>
 
 // Pos: 00003B2D
@@ -370,8 +370,8 @@ Commander October:
 //\nなんでも顔の形の怪物が現れただの、\n世界の破滅が近いだの、\n妙なうわさが飛び交っている。
 \n
 See, a rumor has sprouted that\n
-says "face-shaped creatures"\n
-have appeared on Mars.
+describes face-shaped monsters\n
+having appeared on Mars.
 <$0C><$0B>
 Commander October:
 <$0D>\n

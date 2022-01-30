@@ -402,16 +402,16 @@ Rummy:
 <$0D>
 //\nはは、コスマスだな。 僕もコスマスみたいに、\n心の友だちとお話できるようになってきたな。
 \n
-Oh, Cosmas. Hoho, I'm starting to\n
-talk to my self the way he does.
+Guess what, Cosmas? I have\n
+friends in my mind too!
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\n僕にもいるんだな、\nいつもお酒を飲んでるけれどね。
 \n
-I have friends in there too, even\n
-if one of them's a damn drunk.
+Even if one's a damn drunk,\n
+they're just like your friend!
 <$00>
 
 // Pos: 00003F73
@@ -426,13 +426,12 @@ Cosmas:
 <$0D>
 //\nダークマンは何人もいないよ、ひとりだよ。\nそれにお酒は飲まないよ。
 \n
-There aren't other people like\n
-Dark Man.
+Nuh-uh! Dark Man doesn't exist!\n
+I'm all by myself, okay?!
 <$0C><$0B>
 Cosmas:
 <$0D>\n
-There's only one, and he doesn't\n
-drink alcohol.
+And I don't drink either!
 <$00>
 
 // Pos: 00003FA0
@@ -447,8 +446,8 @@ Rummy:
 <$0D>
 //\nそうだね、僕のは建うね、\nダークマンじゃないね。
 \n
-Really? Then I guess Dark Man and I\n
-are different in more ways than one.
+Oh dear, was I mistaken?\n
+My apologies to Dark Man...
 <$00>
 
 // Pos: 00003FC3
@@ -463,16 +462,16 @@ Cosmas:
 <$0D>
 //\nダークマンと話ができるのは僕だけさ。\nそうだよね、ダークマン。
 \n
-I'm the only person who can\n
-talk to Dark Man. At least...
+Only I can talk to Dark Man.\n
+(Isn't that right, Dark Man?)
 <$00><$13><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nねぇ、ダークマン、\nそっちにいくとレッドおじさんがいるよ。\nきっといるよ。
 \n
-All right, Dark Man. If you go that\n
-way, you'll find Uncle Red. I'm sure.
+Dark Man! If we go that way,\n
+Uncle Red will see us for sure!
 <$00>
 
 // Pos: 0000401D

@@ -28,7 +28,7 @@ Gold:
 <$0D>
 //\nへへん、いいこと教えてやろうか。\nレッドのやつだ、やつが何におびえてるか…
 \n
-Hehe, might as well tell you.\n
+Hehe, I'm sure you know, right?\n
 The guy's scared of something.
 <$0C><$0B>
 //ゴールド：
@@ -58,15 +58,15 @@ Gold:
 <$0D>
 //\n泡のおじさんだ…どう思う？\n泡のおじさんだとよ、へへん、笑わせるぜ！
 \n
-"Uncle Bubbles". Like, really? "Uncle\n
-Bubbles"?! Tell me he's not stupid.
+"Uncle Bubbles". Seriously?!"Uncle\n
+Bubbles"?! Tell me he's not stupid!
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nガキの頃に一緒に住んでたおじさんで、\nそいつに妙な可愛がられ方したんだそうだ
 \n
-The guy's real, though.\n
+Uncle Bubbles is real, though.\n
 Lived with Red when he was a kid.
 <$0C><$0B>
 Gold:
@@ -91,7 +91,7 @@ Gold:
 //\nクロウのやつは人の夢の中がのぞけるんだ。
 \n
 I should mention: Crow has the\n
-ability to peer into people's dreams.
+ability to enter people's dreams.
 <$1E><$02><$08><$00>
 
 // Pos: 00002C47
@@ -110,7 +110,7 @@ Gold:
 <$0D>
 //\nそうかい、お前もやけに早耳だな。
 \n
-Really, now? Fast learner, huh.\n
+I thought so. You learn fast.\n
 <$1E><$02><$08><$00>
 
 // Pos: 00002C66
@@ -129,8 +129,8 @@ Gold:
 <$0D>
 //\nしかし何かあったのか？\nレッドのやつがいそいそ出かけるなんてな。
 \n
-I wonder why Red went out. He ain't\n
-exactly one to "frolick in the fields".
+I wonder where Red went. He ain't\n
+the type to frolick in the fields.
 <$1E><$02><$04><$00>
 
 // Pos: 00002C94
@@ -169,12 +169,12 @@ Gold:
 <$0D>
 //\nなんだ？ 朝から飲みてぇのか？\nふん！ やめときな。
 \n
-You haven't been drinking since\n
-this morning, have you?
+Huh? You want a drink this\n
+early in the morning?
 <$0C><$0B>
 Gold:
 <$0D>\n
-Might be time to tap out.
+Get out of here!
 <$1E><$02><$08><$00>
 
 // Pos: 00002D0C
@@ -224,8 +224,8 @@ Gold:
 <$0D>
 //\nやつは？血眼になってお前をさがしてる、
 \n
-He's lookin' like a mad dog after you.\n
-Eyes all bloodshot, like that.
+He's lookin' like a mad dog after.\n
+you. His eyes are bloodshot.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -240,8 +240,8 @@ Gold:
 <$0D>
 //\n部屋の中とかじゃねぇぞ、\nちょっと隠れるんだ。
 \n
-Even if they aren't forever,\n
-you can tuck away in empty flats.
+You can't run forever, but you\n
+can hide inside the empty flats.
 <$00>
 
 // Pos: 00002E0F
@@ -302,7 +302,7 @@ Gold:
 <$0D>
 //\n記憶の谷で善人が見つかったとかでよ、\n善人はすぐ悪に憑かれちまうから\n危ないんだそうだ。
 \n
-A good person was seen\n
+A "good person" was seen\n
 in Valles Memoriae.
 <$0C><$0B>
 Gold:
@@ -371,15 +371,15 @@ Gold:
 <$0D>
 //\nレッドのやつ、泡のおじさんが怖いんだ、\nへへ、ああ見えてもな。
 \n
-Red's scared of Uncle Bubbles, hehe.\n
-Even if none of us can see him.
+Red's scared of Uncle Bubbles,\n
+even if none of us can see him.
 <$0C><$0B>
 //ゴールド：
 Gold:
 <$0D>
 //\nほんとだぜ、泡のおじさんだ。
 \n
-Yup, Uncle Bubbles is thin air to me.
+Uncle Bubbles is thin air to me.
 <$1E><$02><$08><$00>
 
 // Pos: 00002FA5
@@ -431,8 +431,8 @@ nightmare. I learned that they\n
 are common for everyone.
 <$0C>
 //いろんな人間のおこないが\n手に取るように見えた。
-It seems I'm picking up all sorts of\n
-human behaviors.
+It seems I'm picking up all sorts\n
+of human behaviors.
 <$0C>
 //なかでもダークマンの名を呼ぶ少年には\nおどろかされる。 惑動すら覚える。\nあの少年、コスマスは作り主だ。
 The boy who calls out the name\n
@@ -440,9 +440,9 @@ The boy who calls out the name\n
 surprising. He is Dark Man's creator.
 <$0C>
 //すばらしい！\nダークマンは、心の友である。 私にも\nあのようなことが、できるのであろうか。
-How splendid it is, that Dark Man is his\n
-friend. I wonder if I will acquire the\n
-ability to make one too.
+How splendid it is, that Dark Man is\n
+his friend. I wonder if I will acquire\n
+the ability to make one too.
 <$0C>
 //念じて念じて、\nやがて友が現れてくれるのであろうか。
 Wish I may, and wish I might, will\n

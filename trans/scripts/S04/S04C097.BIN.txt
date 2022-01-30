@@ -120,16 +120,16 @@ Madam Agatha:
 <$0D>
 //\nあなたは自分に向き合う努力が足りないのよ、\nリトル。
 \n
-You're not pulling the weight\n
-to face your self, Little.
+Little, you're not pulling the\n
+weight needed to face your self.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
 <$0D>
 //\nうまくいかないとすぐに人のせいにする、\nそれはよくないわ。 索直にならなくちゃ。
 \n
-It's not fair to blame me if\n
-you don't like the outcome.
+It's not fair to blame others\n
+when you don't like an outcome.
 <$00>
 
 // Pos: 00002F45
@@ -405,7 +405,7 @@ Madam Agatha:
 <$0D>
 //\nリトルだけじゃない…
 \n
-This problem isn't just Little.
+This crisis isn't Little's alone.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

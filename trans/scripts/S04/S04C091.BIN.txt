@@ -47,7 +47,7 @@ East:
 <$0D>
 //\nだと。\n見れば分かる。
 \n
-You can tell?
+Can East tell?
 <$00>
 
 // Pos: 00002A9A
@@ -62,7 +62,7 @@ West:
 <$0D>
 //\nなら取って来い。
 \n
-Can tell why they came!
+I can tell why they came!
 <$00>
 
 // Pos: 00002AAE
@@ -123,8 +123,7 @@ West:
 <$0D>
 //\nブリックロードだ。\n赤い家。
 \n
-They say, go to the red house on\n
-Brick Road!
+Go to the red house on Brick Road!
 <$00>
 
 // Pos: 00002B19
