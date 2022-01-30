@@ -171,7 +171,9 @@ Noon:
 \n
 I'm in the middle of\n
 penning my autobiography. 
-<$0C>
+<$0C><$0B>
+Noon:
+<$0D>\n
 My name'll go down in history!
 <$00>
 
@@ -375,7 +377,9 @@ Yolanda:
 \n
 I vaguely remember the Galil\n
 conversation on the rocket.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 Enlighten me on the details?
 <$0C><$0B>
 //ヨランダ：
@@ -409,7 +413,9 @@ April:
 \n
 If Galil is "the light" like the captain\n
 said, Galil must think he's bound to
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 the planet.
 <$00><$11><$13><$1D><$0B>
 //ヨランダ：
@@ -419,7 +425,9 @@ Yolanda:
 \n
 The captain... Chloe did say\n
 she got along well with him. 
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 Shouldn't we track him down?
 <$00><$10><$0B>
 //エイプリル：

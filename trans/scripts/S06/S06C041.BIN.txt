@@ -478,7 +478,9 @@ Yolanda:
 //\nちょっとあんた、何やってんの？\nアタシたち、ここにいるよ。
 \n
 Why are you holding your door shut?
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 It's rude to keep ladies waiting\n
 outside!
 <$00>
@@ -591,7 +593,9 @@ Yolanda:
 \n
 That's a good plan, but let's not\n
 stick around longer than we have to.
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 It's the elder's cottage we want.
 <$00>
 
@@ -1098,7 +1102,9 @@ Yolanda:
 \n
 Ayyye, guess I'm a\n
 "new reality"...
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 Because NO ONE cares that I\n
 might have a name already!
 <$00>

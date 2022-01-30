@@ -66,7 +66,9 @@ Yolanda:
 //\n何よ！ シーシーの次は、あーあーなの！
 \n
 People, am I right?
-<$0C>
+<$0C><$0B>
+Yolanda:
+<$0D>\n
 First it's, "Whoosh, whoosh."\n
 Then it's, "Ayyye, ayyye."
 <$00>
@@ -84,7 +86,9 @@ Commander October:
 //\nあー、ライカ君だね、騒ぎは収まりそうもない。\nそこで少し見方を変えて、火星人について、\n掘り下げようと思う。
 \n
 Greetings, Laika! Is that you?
-<$0C>
+<$0C><$0B>
+Commander October:
+<$0D>\n
 I'd like to take your attention\n
 from your errands for a moment.
 <$0C><$0B>
@@ -94,7 +98,9 @@ Commander October:
 //\n長年、火星人と昆虫との類似点を研究している\n学者がいる。彼の意見を開いてみて欲しい。
 \n
 This is our entomologist. 
-<$0C>
+<$0C><$0B>
+Commander October:
+<$0D>\n
 He has studied both Martian\n
 and insect life for many years.
 <$00>
@@ -135,7 +141,9 @@ Entomologist:
 //\n彼らは何万四という全体でひとつの個性を\n作っています。
 \n
 They're hiveminded. 
-<$0C>
+<$0C><$0B>
+Entomologist:
+<$0D>\n
 Tens of thousands of minds merged\n
 into one collective conscience!
 <$0C><$0B>
