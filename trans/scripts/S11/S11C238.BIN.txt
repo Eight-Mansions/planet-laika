@@ -103,7 +103,9 @@ True Faiths:
 //\n人間の顔！ばかばかしい！\n顔に意味を与えているのは、お前たち人間だ。
 \n
 Enjoy? Foolish!
-<$0C>
+<$0C><$0B>
+True Faiths:
+<$0D>\n
 You humans alone appraise\n
 your faces with significance.
 <$0C><$0B>
@@ -114,7 +116,9 @@ True Faiths:
 \n
 It was that human folly\n
 that sent Us into extinction.
-<$0C>
+<$0C><$0B>
+True Faiths:
+<$0D>\n
 We have no need for faces.
 <$00>
 
@@ -150,7 +154,9 @@ True Faiths:
 //\n人間はそう呼ぶ。\nしかし、我々は火星人でも宇宙人でもない。
 \n
 Humans may call Us by that name.
-<$0C>
+<$0C><$0B>
+True Faiths:
+<$0D>\n
 However, We are neither\n
 Martian nor Alien.
 <$0C><$0B>
@@ -160,7 +166,9 @@ True Faiths:
 //\n我々なのだ。\nお前は、自分をなんだと思っているのか？
 \n
 We are who We are.\n
-<$0C>
+<$0C><$0B>
+True Faiths:
+<$0D>\n
 And what would\n
 you say you are?
 <$00>
@@ -198,7 +206,9 @@ True Faiths:
 \n
 Because you come from Earth,\n
 you're an Earthling?
-<$0C>
+<$0C><$0B>
+True Faiths:
+<$0D>\n
 Because you ride a rocket,\n
 you're a cosmonaut?!
 <$0C><$0B>
@@ -350,7 +360,9 @@ Spacer:
 \n
 I heard the Martians...I mean, you,\n
 were a collective consciousness.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 You're devoid of individuality.
 <$00>
 
@@ -415,7 +427,9 @@ True Faiths:
 \n
 Only on our third descent\n
 did you humans appear.
-<$0C>
+<$0C><$0B>
+True Faiths:
+<$0D>\n
 Your species was a flicker\n
 doomed to be extinguished.
 <$00>

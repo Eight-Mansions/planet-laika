@@ -19,7 +19,9 @@ Red:
 \n
 What are you doing, creeping\n
 around the neighborhood? 
-<$0C>
+<$0C><$0B>
+Red:
+<$0D>\n
 I haven't seen\n
 your ugly mug before.
 <$00>
@@ -69,7 +71,9 @@ Red:
 \n
 But they're there one second,\n
 and then...poof! All gone!
-<$0C>
+<$0C><$0B>
+Red:
+<$0D>\n
 Oh, don't leave me!\n
 Bubbles, don't...
 <$00>

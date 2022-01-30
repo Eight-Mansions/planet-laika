@@ -19,7 +19,9 @@ Mountain:
 \n
 Ohh! Ohh! Wh-what wonderful\n
 thoughts are coming to me!
-<$0C>
+<$0C><$0B>
+Mountain:
+<$0D>\n
 I can't stop them!
 <$0C><$0B>
 //マウンテン：
@@ -60,7 +62,9 @@ Mountain:
 \n
 No, that's wrong! The gold-bug does\n
 NOT become a cabbageworm!
-<$0C>
+<$0C><$0B>
+Mountain:
+<$0D>\n
 Eeeyah!
 <$0C><$0B>
 //マウンテン：
@@ -70,7 +74,9 @@ Mountain:
 \n
 Mother's disappointed. Well, so am I,\n
 by the by. I'm sad about me too, Ma.
-<$0C>
+<$0C><$0B>
+Mountain:
+<$0D>\n
 Ohh, ohh...!
 <$00>
 
@@ -88,7 +94,9 @@ Young:
 \n
 It was the kid! No, that devil!\n
 He killed them! 
-<$0C>
+<$0C><$0B>
+Young:
+<$0D>\n
 I HATE the night!\n
 I HATE the cycle!
 <$0C><$0B>
@@ -99,7 +107,9 @@ Young:
 \n
 ...Forget it! I-I'll tear off\n
 those green butterfly wings.
-<$0C>
+<$0C><$0B>
+Young:
+<$0D>\n
 I'm turning back into a worm!
 <$00>
 
@@ -124,7 +134,9 @@ Mountain:
 \n
 Know what a night owl told me?\n
 Fear the non-believers...
-<$0C>
+<$0C><$0B>
+Mountain:
+<$0D>\n
 The Troglodytes...
 <$0C><$0B>
 //マウンテン：
@@ -150,7 +162,9 @@ Young:
 \n
 Why is there a butterfly but not a\n
 "moth-fly"?! Did someone kill him!?
-<$0C>
+<$0C><$0B>
+Young:
+<$0D>\n
 Do you know?
 <$0C><$0B>
 //ヤング：
@@ -199,7 +213,9 @@ Mountain:
 \n
 Oh? OHHH? There are so many flying.\n
 Flies, flies, flies...! 
-<$0C>
+<$0C><$0B>
+Mountain:
+<$0D>\n
 Won't you count my flies with me?
 <$00>
 
@@ -302,7 +318,9 @@ Mountain:
 \n
 ...one hundred and one, one hundred\n
 and two, one hundred and three...
-<$0C>
+<$0C><$0B>
+Mountain:
+<$0D>\n
 ...one hundred and four...
 <$1E><$03><$04><$00>
 
@@ -320,7 +338,9 @@ Mountain:
 \n
 ...three hundred seventy-two,\n
 three hundred seventy-three...
-<$0C>
+<$0C><$0B>
+Mountain:
+<$0D>\n
 ...three hundred seventy-five,\n
 three hundred seventy-seven...
 <$1E><$03><$04><$00>
@@ -386,8 +406,6 @@ Commander October:
 \n
 It assaulted us suddenly with an\n
 array of radio waves and light beams.
-<$0C>
-beams.
 <$0C><$0B>
 //オクトーバー司令官：
 Commander October:
@@ -395,7 +413,9 @@ Commander October:
 //\nたんなる光のいたずらだと思いたいが、\n早くもいくつもの奇跡が報告され始めている。
 \n
 I took it for a prank...
-<$0C>
+<$0C><$0B>
+Commander October:
+<$0D>\n
 ...but now we're hearing news\n
 reports of miracles on Earth!
 <$0C><$0B>
@@ -413,7 +433,9 @@ Commander October:
 //\nだめだ、これは奇跡ではない。\nとにかく、何かあったらまた連絡する。
 \n
 Alas, I fear this is no miracle. 
-<$0C>
+<$0C><$0B>
+Commander October:
+<$0D>\n
 I'll contact you again when\n
 there's an update.
 <$00>

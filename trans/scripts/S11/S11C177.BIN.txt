@@ -81,7 +81,9 @@ Spacer:
 //\nあ、ああ… あるにはあるが…
 \n
 Well, as a matter of fact...
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 //１．君とダミアヌスは双子なのか\n２．ダークマンというのはあの人形のことなのか\n３．泡のおじさんって誰のことだ？
 1. Are you and Damian twins?\n
 2. Is Dark Man a doll?\n
@@ -129,7 +131,9 @@ Cosmas:
 //\nときどきね。ときどき人形の体を借りに来る…\nでもいつもは別のところにいるんだ。
 \n
 On and off.
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 When he does come around, he\n
 likes to borrow a doll's body.
 <$00>
@@ -196,7 +200,9 @@ Spacer:
 \n
 What you went through was\n
 horrible!
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 He forced you to get\n
 Vanity Face, and...
 <$00>
@@ -223,7 +229,9 @@ Cosmas:
 \n
 All I know is that, when Uncle\n
 Red breathed down my neck...
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 ...I'd always fall asleep.
 <$0C><$0B>
 //コスマス：
@@ -233,7 +241,9 @@ Cosmas:
 \n
 And when I walked through the\n
 scary sandstorms in my dreams...
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 ...a whistling howl would blow\n
 it back, and all would go still.
 <$0C><$0B>
@@ -306,7 +316,9 @@ Spacer:
 \n
 ...but they helped me rid\n
 the evil in my heart...
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 ...could I forgive my oppressor?
 <$1B>
 //※許してもかまわない\n許すことはできない
@@ -403,7 +415,9 @@ Cosmas:
 \n
 I'm going to sleep for now,\n
 but when I'm sleeping-sleeping...
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 ...it's normally at\n
 lights-out time, okay?
 <$00>
@@ -422,7 +436,9 @@ Cosmas:
 \n
 You might not remember well,\n
 but we met before.
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 I can tell you about
 the glowing stones, at least.
 <$00>

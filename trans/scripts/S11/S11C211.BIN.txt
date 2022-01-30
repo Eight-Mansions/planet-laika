@@ -19,7 +19,9 @@ Gold:
 \n
 Smokey's wandering about,\n
 only wish I knew where.
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 At any rate,\n
 sorry about earlier.
 <$1E><$02><$02><$00>
@@ -92,7 +94,9 @@ Gold:
 \n
 It's not the kinda place for you\n
 uniformed types to play tourist.
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 You might...disappear.
 <$1E><$02><$02><$00>
 
@@ -340,7 +344,9 @@ Smokey:
 \n
 Hehehe, what's wrong? You scared?\n
 You wanna cry for Mommy?
-<$0C>
+<$0C><$0B>
+Smokey:
+<$0D>\n
 Then cry, bitch!
 <$0C><$0B>
 //スモーキー：
@@ -557,7 +563,9 @@ Gold:
 \n
 Then again, anyone with a\n
 brain wouldn't waltz in here.
-<$0C>
+<$0C><$0B>
+Gold:
+<$0D>\n
 Not with those uniforms...
 <$0C><$0B>
 //ゴールド：

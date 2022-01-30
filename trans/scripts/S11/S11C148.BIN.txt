@@ -84,7 +84,9 @@ Spacer:
 \n
 "A dog starved at his master's gate.\n
 Predicts the ruin of the state..."
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Augh!
 <$00>
 
@@ -156,7 +158,9 @@ Spacer:
 //\nまただ… また問いかけだ。\nこのまま続けると、このふたりが… 危ない…
 \n
 It's still going! I'll check again. 
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 If this keeps running,\n
 these two are going to...!
 <$1B>
@@ -260,7 +264,9 @@ Spacer:
 \n
 "A Horse misused upon the Road.\n
 Calls to Heaven for Human blood..."
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Haah...haah...
 <$00>
 
@@ -328,7 +334,9 @@ Spacer:
 \n
 "Each outcry of the hunted hare.\n
 A fibre from the Brain does tear..."
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Sounds...painful...
 <$00>
 
@@ -472,7 +480,9 @@ Spacer:
 \n
 It promotes sicking our inner evils\n
 on others to promote a spread.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Don't you think that's wrong?
 <$0C><$13><$13>
 //そう憤るな。もうすぐ君に会えそうだ。\n楽しみに待っているよ。
@@ -597,12 +607,16 @@ Spacer:
 \n
 I've seen the torment Evil Mind\n
 inflicts on people.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 //心の悪に働きかけ、人を苦しめるのを！\nそれが悪でなくてなんだ？
 \n
 It promotes sicking our inner evils\n
 on others to promote a spread.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Don't you think that's wrong?
 <$0C><$13><$13>
 //そう憤るな。もうすぐ君に会えそうだ。\n楽しみに待っているよ。

@@ -144,7 +144,9 @@ Madam Agatha:
 \n
 Feng, you are floating\n
 weightlessly through space. 
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 No one can disturb you here.
 <$00>
 
@@ -216,7 +218,9 @@ Madam Agatha:
 //\nâΩÇ‡ÇΩÇﬂÇÁÇ¡ÇΩÇËÇÕÇµÇ»Ç¢ÇÃÅB\nó\íËí ÇËÇ»ÇÃÇÊÅB
 \n
 You move with no hesitation.\n
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Everything you do happens\n
 exactly as you wish it to.
 <$00>
@@ -235,7 +239,9 @@ Feng:
 \n
 It's a snow white entrance.\n
 I'm inside... 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 Ah, all is snow white here.\n
 It's lovely...
 <$00>
@@ -516,7 +522,9 @@ Veronica:
 \n
 Right. All she cares about\n
 is becoming wholly beautiful.
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 She thinks giving her body to the\n
 mirror spirit will ensure that.
 <$00>
@@ -551,7 +559,9 @@ Veronica:
 \n
 Amanda. Cosmetic surgery made\n
 her into an amazing beauty.
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 She looked into mirrors so often,\n
 she was eventually sucked into one.
 <$0C><$0B>
@@ -611,7 +621,9 @@ Veronica:
 \n
 All who are swallowed by that evil\n
 will vanish.
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 Edge calls it the\n
 "Mirror of Judgement".
 <$00>
@@ -630,7 +642,9 @@ Madam Agatha:
 \n
 The Mirror of Judgement?\n
 I see...
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Edge is your closest friend, yes?\n
 What else did they say?
 <$00>
@@ -649,10 +663,14 @@ Veronica:
 \n
 The Mirror of Judgement feeds on\n
 the evil in the mind.
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 The more he feeds, the more the\n
 Black Rider becomes whole.
-<$0C>
+<$0C><$0B>
+Veronica:
+<$0D>\n
 And once the Black Rider does\n
 become whole...
 <$0C><$0B>
@@ -927,7 +945,9 @@ Madam Agatha:
 \n
 And what about everyone else\n
 with a human face?
-<$0C>
+<$0C><$0B>
+Madam Agatha:
+<$0D>\n
 Can everyone with a human face\n
 hope to survive Judgement?\n
 <$00>
@@ -986,7 +1006,9 @@ Feng:
 \n
 Agatha. Do not torment\n
 Herod any longer.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 It's your fault he can't leave\n
 the Land of Nightmares.
 <$0C><$0B>

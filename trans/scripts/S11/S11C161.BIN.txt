@@ -18,7 +18,9 @@ Spacer:
 //\n何だ、この惑じは？ 誰かの思念だ…\n私の頭の中を、抜けていく。
 \n
 What's this feeling?
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 It's like someone's thoughts\n
 are...spilling into my head.
 <$00>

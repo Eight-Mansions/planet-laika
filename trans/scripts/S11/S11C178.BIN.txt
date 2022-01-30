@@ -71,7 +71,9 @@ Spacer:
 //\nあ、ああ… あるにはあるが…
 \n
 Well, as a matter of fact...
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 //１．君とダミアヌスは双子なのか？\n２．全ての預言を得るとどうなる？\n３．フェイとヴェロニカはどうなる？
 1. Are you and Damian twins?\n
 2. Why gather the five prophecies?\n
@@ -119,7 +121,9 @@ Cosmas:
 //\nよくは知らないけど、５つの預言から新しい\nひとつの預言ができあがるってことらしいよ。
 \n
 I'm not sure, but it seems that...\n
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 ...from those the five prophecies,\n
 a new prophecy will be created.
 <$00>
@@ -188,7 +192,9 @@ Spacer:
 \n
 What shape would I take? Well,\n
 what you see is what you get.
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 I mean, I exist already, don't I?
 <$00>
 
@@ -293,7 +299,9 @@ Spacer:
 \n
 Galil's views of life and\n
 death are distorted. 
-<$0C>
+<$0C><$0B>
+Spacer:
+<$0D>\n
 Nothing begins with death.
 <$00>
 
@@ -387,7 +395,9 @@ Cosmas:
 \n
 I'm going to sleep for now,\n
 but when I'm sleeping-sleeping...
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 ...it's normally at\n
 lights-out time, okay?
 <$00>

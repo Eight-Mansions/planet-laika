@@ -176,7 +176,9 @@ Red:
 \n
 I'm sure everyone's telling you\n
 about the "Judgement Day" rumors.
-<$0C>
+<$0C><$0B>
+Red:
+<$0D>\n
 Rumors mean nothing to me.
 <$0C><$0B>
 //レッド：
@@ -216,7 +218,9 @@ Feng:
 //\nねぇ、いつまで続けるの？\nいい惑じになったじゃない、コスマスは。\n私はもう満足よ。
 \n
 Red, how long must we do this? 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 I've a sense that Cosmas\n
 is satisfied already.
 <$00>
@@ -299,7 +303,9 @@ Feng:
 \n
 Be careful around that...\n
 angel of deception. 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 She practices what's\n
 known as hypnotherapy.
 <$0C><$0B>
@@ -317,7 +323,9 @@ Feng:
 //\nヘロデは見かけほど悪い人じゃない、本当よ。\n子どもみたいに純真なの。それをあの女が…
 \n
 Herod isn't as negative as he looks.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 His nightmares are those\n
 of an innocent child.
 <$0C><$0B>
@@ -328,7 +336,9 @@ Feng:
 \n
 Poor Herod was born in the Land of\n
 Nightmares. 
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 Half of his life is nightmares.
 <$0C><$0B>
 //フェイ：
@@ -337,7 +347,9 @@ Feng:
 //\n今でも半分は悪夢の世界に生きているのよ。\nあの女はそこに付け入って…やりたい放顆よ。
 \n
 That witch takes advantage of this.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 She manipulates Herod to do her\n
 bidding!
 <$00>
@@ -364,7 +376,9 @@ Feng:
 \n
 She once lived as a legendary beauty\n
 without peer.
-<$0C>
+<$0C><$0B>
+Feng:
+<$0D>\n
 And now, she is a mirror spirit.
 <$0C><$0B>
 //フェイ：
@@ -390,7 +404,9 @@ April:
 \n
 That's the plastic surgeon's office,\n
 where you can get a face that looks
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 more human.
 <$0C><$0B>
 //エイプリル：
@@ -400,7 +416,9 @@ April:
 \n
 It...smells like rotten meat.\n
 Actually, can we leave?
-<$0C>
+<$0C><$0B>
+April:
+<$0D>\n
 I don't want to be around this.
 <$00>
 

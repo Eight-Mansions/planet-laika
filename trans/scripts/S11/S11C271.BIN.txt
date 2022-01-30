@@ -131,7 +131,9 @@ Cosmas:
 //\nイースト、ウェストに見つからないように…\nコロニーの中じゃないけど。どこかな…
 \n
 He's outside of the colony.\n
-<$0C>
+<$0C><$0B>
+Cosmas:
+<$0D>\n
 Somewhere neither East nor\n
 West can find him.
 <$00>
