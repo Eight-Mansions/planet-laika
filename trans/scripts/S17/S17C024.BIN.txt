@@ -20,7 +20,7 @@ Galil:
 And Ernest the Hero takes the stage!
 <$0C><$0B>
 Galil:
-<$0D>
+<$0D>\n
 Did you like grasping for\n
 a sense of self here?
 <$0C><$0B>
@@ -33,7 +33,7 @@ Alas, your powerless escapades\n
 on this planet end here.
 <$0C><$0B>
 Galil:
-<$0D>
+<$0D>\n
 I'm sending you home to Masha!
 <$00>
 

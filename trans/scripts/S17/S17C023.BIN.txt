@@ -20,7 +20,7 @@ Galil:
 My, oh my! Yolanda, is that you?\n
 <$0C><$0B>
 Galil:
-<$0D>
+<$0D>\n
 I hope this outing of yours was\n
 everything you desired.
 <$0C><$0B>
@@ -32,7 +32,7 @@ Galil:
 There's nothing for you here now.\n
 <$0C><$0B>
 Galil:
-<$0D>
+<$0D>\n
 It's high time I laid you to rest\n
 with your Tanya.
 <$00>
@@ -53,7 +53,7 @@ That's right. There's no place for me\n
 to go. But I'm here, aren't I?
 <$0C><$0B>
 Yolanda:
-<$0D>
+<$0D>\n
 So here I belong!
 <$00>
 
