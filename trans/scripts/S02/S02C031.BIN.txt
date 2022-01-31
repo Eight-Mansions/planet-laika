@@ -48,8 +48,8 @@ Captain Tatler:
 <$0D>
 //\nヌーン、どこかに待避場所はないのか？
 \n
-Noon, were there any safe houses\n
-marked for the area?
+Noon, isn't there a safe house\n
+around here?
 <$0E><$14><$17><$00>
 
 // Pos: 00000F54
@@ -80,8 +80,7 @@ April:
 <$0D>
 //\n近くに避難小屋があるはずよ。ねぇ、ヌーン。
 \n
-There should be a safe house nearby,\n
-right Noon?
+Noon, what about the safe house?!
 <$0E><$14><$17><$00>
 
 // Pos: 00000FB5
@@ -96,7 +95,7 @@ Noon:
 <$0D>
 //\nあああ、避難小屋だ。\n
 \n
-Ohhh, right! A safe 'ouse!\n
+Ohhh, right! The safe 'ouse!\n
 <$0E><$14><$17><$00>
 
 // Pos: 00000FD2

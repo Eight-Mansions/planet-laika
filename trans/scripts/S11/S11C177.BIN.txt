@@ -81,9 +81,7 @@ Spacer:
 //\nあ、ああ… あるにはあるが…
 \n
 Well, as a matter of fact...
-<$0C><$0B>
-Spacer:
-<$0D>\n
+<$0C>
 //１．君とダミアヌスは双子なのか\n２．ダークマンというのはあの人形のことなのか\n３．泡のおじさんって誰のことだ？
 1. Are you and Damian twins?\n
 2. Is Dark Man a doll?\n
@@ -322,7 +320,8 @@ Spacer:
 ...could I forgive my oppressor?
 <$1B>
 //※許してもかまわない\n許すことはできない
-※Possibly\nNever
+※Possibly\n
+Never
 <$00><$17><$00>
 
 // Pos: 00001C61

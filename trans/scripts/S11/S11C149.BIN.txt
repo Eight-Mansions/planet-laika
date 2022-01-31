@@ -17,8 +17,8 @@ Spacer:
 <$0D>
 //\nここは… サイコハウスではないか！\n何かが私を待っているのか？
 \n
-This place... Psycho Lab, isn't it?\n
-Is something waiting for me here?
+Huh? Isn't this Psycho Lab?\n
+What's waiting for me here?
 <$00>
 
 // Pos: 000026F3
@@ -48,8 +48,8 @@ Spacer:
 <$0D>
 //\n深い… あああ、言葉が… 出てこない…\nあ、あ、あ… 詩… 読む… 詩を読むか？
 \n
-It's coursing...augh! I can't...!\n
-I... I hear a question?
+It's coursing... Augh, I can't!\n
+Okay, I... I hear a...question...
 <$0C><$0B>
 Spacer:
 <$0D>\n
@@ -64,8 +64,8 @@ Is the mind's eye asking\n
 if I'll read its poetry?
 <$1B>
 //？読む\n読まない
-？ Read\n
- Exit
+？Read\n
+Exit
 <$00><$17><$00>
 
 // Pos: 00002767
@@ -146,8 +146,8 @@ Spacer:
 <$0D>
 //\nスペースアンプが暴走している。\nこのまま続けると…
 \n
-The Space A.M.P.'s out of control! If it\n
-keeps running like this, these guys'll...
+The Space A.M.P.'s out of control!\n
+If it keeps running, these guys'll...
 <$0C><$0B>
 //スペーサー：
 Spacer:
@@ -155,7 +155,7 @@ Spacer:
 //\nああ、なんということ、\nマウンテンとヤングは惑電死だ。
 \n
 Ah, what am I saying? Mountain and\n
-Young are dead by electrocution.
+Young already died by electrocution.
 <$00>
 
 // Pos: 0000283B
@@ -178,8 +178,8 @@ If this keeps running,\n
 these two are going to...!
 <$1B>
 //？読む\n読まない
-？ Read\n
- Exit
+？Read\n
+Exit
 <$00><$17><$00>
 
 // Pos: 0000287B
@@ -260,8 +260,8 @@ Haah, haah...\n
 Are you t-trying to test me?
 <$1B>
 //？読む\n読まない
-？ Read\n
- Exit
+？Read\n
+Exit
 <$00><$17><$00>
 
 // Pos: 0000294D
@@ -330,8 +330,8 @@ Haah! Augh! D-dammit!\n
 I can't...take it any more...!
 <$1B>
 //？読む\n読まない
-？ Read\n
- Exit
+？Read\n
+Exit
 <$00><$17><$00>
 
 // Pos: 000029ED
