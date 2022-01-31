@@ -17,7 +17,7 @@ Spacer:
 <$0D>
 //\nここは… サイコハウスではないか！\n何かが私を待っているのか？
 \n
-This place... Psycho Lab, isn't it?
+This place... Psycho Lab, isn't it?\n
 Is something waiting for me here?
 <$00>
 
@@ -64,8 +64,8 @@ Is the mind's eye asking\n
 if I'll read its poetry?
 <$1B>
 //？読む\n読まない
-？Read\n
-Exit
+？ Read\n
+ Exit
 <$00><$17><$00>
 
 // Pos: 00002767
@@ -178,7 +178,8 @@ If this keeps running,\n
 these two are going to...!
 <$1B>
 //？読む\n読まない
-？Read\nExit
+？ Read\n
+ Exit
 <$00><$17><$00>
 
 // Pos: 0000287B
@@ -259,7 +260,8 @@ Haah, haah...\n
 Are you t-trying to test me?
 <$1B>
 //？読む\n読まない
-？Read\nExit
+？ Read\n
+ Exit
 <$00><$17><$00>
 
 // Pos: 0000294D
@@ -328,7 +330,8 @@ Haah! Augh! D-dammit!\n
 I can't...take it any more...!
 <$1B>
 //？読む\n読まない
-？Read\nExit
+？ Read\n
+ Exit
 <$00><$17><$00>
 
 // Pos: 000029ED
@@ -337,7 +340,7 @@ I can't...take it any more...!
 
 #WHB(PTR, $00001505)
 
-<$11><$13><$18><$0B>
+<$10><$13><$18><$0B>
 //スペーサー：
 Spacer:
 <$0D>

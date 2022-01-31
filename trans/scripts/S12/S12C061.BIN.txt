@@ -296,8 +296,8 @@ Signpost:
 Are you ready to turn back?
 <$1B>
 //？戻る\n戻らない
-？Yes\n
-No
+？ Yes\n
+ No
 <$00><$17><$00>
 
 // Pos: 00002497
@@ -330,7 +330,7 @@ I'm a useless signpost.
 Signpost:
 <$0D>
 //\n少し昔だ、そこに戻れる。用意はいいぞ。
-/\n
+\n
 It's been a while.\n
 Let's prepare to turn back.
 <$00>

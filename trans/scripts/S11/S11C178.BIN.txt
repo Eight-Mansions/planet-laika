@@ -39,6 +39,7 @@ haven't you? To my hideout?
 Spacer:
 <$0D>
 //\n隠れ家…
+\n
 This is your hideout...
 <$00>
 
@@ -71,9 +72,7 @@ Spacer:
 //\nあ、ああ… あるにはあるが…
 \n
 Well, as a matter of fact...
-<$0C><$0B>
-Spacer:
-<$0D>\n
+<$0C>
 //１．君とダミアヌスは双子なのか？\n２．全ての預言を得るとどうなる？\n３．フェイとヴェロニカはどうなる？
 1. Are you and Damian twins?\n
 2. Why gather the five prophecies?\n
@@ -134,7 +133,7 @@ a new prophecy will be created.
 
 #WHB(PTR, $00000585)
 
-<$11><$0B>
+<$10><$0B>
 //コスマス：
 Cosmas:
 <$0D>
@@ -175,7 +174,7 @@ Cosmas:
 If you existed separately from\n
 <$0F>
 //が\n仮の姿だとしたら、どうする？
-, what shape would\nyou take?
+, what shape would you take?
 <$00>
 
 // Pos: 000019FC
@@ -219,7 +218,7 @@ Cosmas:
 //\n僕は顔のことでいやな目にあったけど、\nこうやって元に戻せばもう平気だよ。
 \n
 I suffered a lot because of my face,\n
-but I'm glad it have it back like this.
+but I'm glad to have it back like this.
 <$0C><$0B>
 //コスマス：
 Cosmas:
@@ -408,11 +407,12 @@ lights-out time, okay?
 
 #WHB(PTR, $00000875)
 
-<$11><$0B>
+<$10><$0B>
 //コスマス：
 Cosmas:
 <$0D>
 //\nよくは覚えてないんだね、さっきも会ったのに。\nもう石はないよ、\n光る石のことなら教えてあげられるよ。
+\n
 I can tell you about the\n
 glowing stones, at least.
 <$00>
