@@ -271,6 +271,7 @@ this thing?
 //フェニックス：
 Phoenix:
 <$0D>
+\n
 Shed tears of lament for my dead\n
 mother?
 <$00>
@@ -493,7 +494,8 @@ in this process.
 <$0C><$0B>
 //クロエ：
 Chloe:
-<$0D
+<$0D>
+\n
 People will go insane simply\n
 by speaking to you.
 <$00>

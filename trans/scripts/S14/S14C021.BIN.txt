@@ -57,16 +57,16 @@ Sparky:
 <$0D>
 //\n気になったのよ…
 \n
-William's worrying me. When I saw\n
-him over at the red house...
+William's worrying me. When I\n
+saw him over at the red house,
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>
 //\nそしたらウィリアム、彼ったら変な光に包まれて\n赤い家の中に… どうしちゃったの？
 \n
-...he was surrounded by a strange\n
-light. What happened to him?
+he was surrounded by a strange\n
+light. (Soy un poco curiosa...)
 <$1E><$01><$08><$00>
 
 // Pos: 0000148F
@@ -81,8 +81,7 @@ Sparky:
 <$0D>
 //\nみんな目覚めはじめたのね、きっとそうよね。
 \n
-Everyone's starting to wake up for\n
-real.
+Everyone's waking up now? Bravo!
 <$1E><$01><$04><$00>
 
 // Pos: 000014B4
@@ -97,8 +96,8 @@ Thomas:
 <$0D>
 //\n生まれ変わり？\n不老不死とは建うんだ、新しくなるんだ…
 \n
-Reincarnation? That's not the same\n
-thing as being immortal.
+Reincarnation? That's not the\n
+same thing as being immortal.
 <$0C><$0B>
 Thomas:
 <$0D>\n
@@ -117,8 +116,8 @@ Thomas:
 <$0D>
 //\nまだ信じがたいことがあるとな、そうだな。
 \n
-I dare say, not all things are seen to\n
-be believed.
+I dare say, not all things should\n
+be seen to be believed.
 <$1E><$03><$04><$00><$12><$0B>
 //トーマス：
 Thomas:
@@ -133,7 +132,7 @@ Sparky:
 <$0D>
 //\nああ、アタシも目覚めるのかしら、\nもう少しね。
 \n
-Gee, I wonder if I'll ever wake up\n
-from this either, even for a moment.
+Bah, I wonder if I'll ever get\n
+to wake up too, even for a moment.
 <$1E><$01><$04><$00>
 

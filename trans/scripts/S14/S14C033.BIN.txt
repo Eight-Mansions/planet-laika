@@ -33,8 +33,8 @@ Sparky:
 <$0D>
 //\nときどきビリってくるのよ、電気よ。\n寝てるときにね、ビリビリ…\nベッドに電気なんか来てないのに。
 \n
-Sometimes, I get hit with this jolt\n
-when I sleep. My bed's not static!
+Mira, a veces...I feel a shock in\n
+my sleep, but my bed's not static!
 <$1E><$01><$08><$00>
 
 // Pos: 0000157A
@@ -54,8 +54,8 @@ A spark of hatred, probably.
 <$0C><$0B>
 Sparky:
 <$0D>\n
-The waves are on the\n
-fritz enough as is!
+The radio waves are muy\n
+decompuesta as it is!
 <$1E><$01><$08><$00>
 
 // Pos: 000015B4
@@ -70,7 +70,8 @@ Sparky:
 <$0D>
 //\n波動の中で私は変わる？
 \n
-Will being in the waves change me?
+Will sinking into the waves\n
+change me?
 <$1E><$01><$04><$00>
 
 // Pos: 000015D1
@@ -85,7 +86,8 @@ Sparky:
 <$0D>
 //\nぼわんぼわんって、何？ 催眠術の音？
 \n
-What's that wub-wub-wub sound?\n
+(Arrullar, arrullar...) Hey,\n
+you, what's that cooing sound?
 <$0C><$0B>
 Sparky:
 <$0D>\n

@@ -1352,7 +1352,7 @@ up. I'll wait here.
 //P:00011A03
 #WRITE(PTR, $000104E8)
 #WRITE(PTR, $000104F8)
-<$10><$0B>
+<$11><$0B>
 //エイプリル：
 April:
 <$0D>
@@ -1371,8 +1371,9 @@ April:
 \n
 <$0F>
 //ってすごくステキな名前なのに\n私にはライカの方が呼びやすいの。 変ね。
- is a nice name, but "Laika"\n
-just...cuts in line. Silly, huh.
+ is a nice name, but\n
+"Laika" always wants to cut\n
+in line somehow. Silly, huh.
 <$00>
 
 //P:00011A59

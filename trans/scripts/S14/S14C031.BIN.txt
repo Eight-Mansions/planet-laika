@@ -127,14 +127,14 @@ Bull:
 //\nあの世につながる穴だ、\nスパーキーのやつがさがしに行ったぜ。
 \n
 It's a hole to the other world.\n
-Sparky went looking for it.
+That Sparky gal wanted a look.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\nブリックロードに出て行ったぜ。
 \n
-He zipped off toward Brick Road.
+She "vamosed" off to Brick Road.
 <$1E><$02><$08><$00>
 
 // Pos: 000019AC

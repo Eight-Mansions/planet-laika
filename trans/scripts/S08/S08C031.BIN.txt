@@ -32,7 +32,7 @@ Liever:
 <$0D>
 //\n中に実際にはない入口がうつってるだろ。\nそこから向こうへ抜けるんだ。
 \n
-You might find things in reflections\n
+You may find things in reflections\n
 you wouldn't otherwise see.
 <$0C><$0B>
 //リバー：
@@ -87,12 +87,11 @@ April:
 <$0D>
 //\nこの鏡… どうして？\nねぇ、どうして私は映らないの。
 \n
-What is a mirror doing here?\n
-Why won't it show my reflection?!
+What is a mirror doing here?
 <$0C><$0B>
 April:
 <$0D>\n
-reflection?!
+Why won't it show my reflection?!
 <$00>
 
 // Pos: 0000295B

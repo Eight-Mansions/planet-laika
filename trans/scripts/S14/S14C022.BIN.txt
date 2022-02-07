@@ -155,7 +155,7 @@ Hohoho, I have won.
 <$0C>
 //アマンダにこの体をささげるの。\n私は美の権化となるのよ！
 I offer this body to Amanda,\n
-that I may become beauty incarnate!
+that I may be beauty incarnate!
 <$00>
 
 // Pos: 00003D8B
@@ -329,12 +329,14 @@ reflecting! THIS is what I wanted!
 Sparky:
 <$0D>
 //\n何か寒いわね…あら、初めての方？\n私はスパーキー、ちょっと派手ないいやつよ。
-\nIt's kind of cold here...
+\n
+(Ay, hace un fr...)\n
+Oops, have we met?
 <$0C><$0B>
 Sparky:
 <$0D>\n
-Oops, have we met?\n
-I'm Sparky. Promise I don't bite.
+I'm Sparky. Unlike this sudden\n
+chill in the air, I don't bite!
 <$00>
 
 // Pos: 00003FCA
@@ -350,15 +352,15 @@ Sparky:
 //\nねぇ、ここはなんかクサくない？\nああ、分かった、ウィリアムのニオい、\nそうよね、これは…
 \n
 Hey, it kinda smells, doesn't it?\n
-Ahh, yeah, that smells like William.
+Ahh, si, that smells like William.
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>
 //\nいつもこのあたりに立っていたのよ。\n大きな体のウィリアム。
 \n
-William is the really well-built guy\n
-who likes to stand around this spot.
+William's the really buff guy\n
+who likes to loiter out here.
 <$00>
 
 // Pos: 0000402B
@@ -373,12 +375,13 @@ Sparky:
 <$0D>
 //\nくんくん、ニオう、ウィリアムのニオい…\nどこ行ったのかしらウィリアムったら、\nいつもここがお気に入りなのにね。
 \n
-Sniff, sniff... I can smell William.\n
-Where would he have gone?
+Sniff, sniff... I smell William,\n
+so where would he have gone?
 <$0C><$0B>
 //スパーキー：
 Sparky:
 <$0D>\n
-I thought he liked this spot...
+Guau, I thought he liked it\n
+here...
 <$00>
 

@@ -295,16 +295,17 @@ Rummy:
 <$0D>
 //\n緊急事態レベル３のロックは解除したな。\nこれで酸索坑道のゲートが開くな、\n古い坑道に入れるな。
 \n
-The lock is shut off. We can get into\n
-the oxygen mineshaft through the gate.
+The lock is shut off.\n
+We can get into the oxygen\n
+mineshaft through the gate, but...
 <$0C><$0B>
 //ラミー：
 Rummy:
 <$0D>
 //\nあそこにはデスロックがあるな、\n死だ、死にたくなる岩だな。
 \n
-The deathrock is in there. It's a rock\n
-that makes people want to die.
+The deathrock, a rock that makes\n
+people wanna die, is back there.
 <$00>
 
 // Pos: 000036FE
@@ -320,7 +321,7 @@ Rummy:
 //\nデスロックの前に立つと、\n死にたくなるんだな。僕はイヤだな。
 \n
 I hate the deathrock. It makes people\n
-who stand in front of it want to die.
+who stand in front of seek death.
 <$00>
 
 // Pos: 00003728
@@ -360,7 +361,7 @@ Oxygen Miner 6：
 //\nおかしいな、あいつ、俺に気付いてないのかな。\nトミーのやつ。
 \n
 How weird. It's like Tommy doesn't\n
-even notice me at all...
+even remember me at all...
 <$00>
 
 // Pos: 000037B9

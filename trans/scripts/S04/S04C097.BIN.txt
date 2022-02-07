@@ -120,8 +120,8 @@ Madam Agatha:
 <$0D>
 //\nあなたは自分に向き合う努力が足りないのよ、\nリトル。
 \n
-Little, you're not pulling the\n
-weight needed to face your self.
+Little, if you want to face your\n
+self, you need to pull your weight.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -129,7 +129,7 @@ Madam Agatha:
 //\nうまくいかないとすぐに人のせいにする、\nそれはよくないわ。 索直にならなくちゃ。
 \n
 It's not fair to blame others\n
-when you don't like an outcome.
+when you don't like what you see.
 <$00>
 
 // Pos: 00002F45
@@ -509,8 +509,8 @@ Madam Agatha:
 <$0D>
 //\n心の奥にしまい込んだ\n小さな声に耳をかたむけるのよ。
 \n
-Listen to the little voices laced\n
-deep in your mind.
+Listen to the little voices woven\n
+ever-so-deeply into your mind.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
