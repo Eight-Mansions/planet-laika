@@ -127,14 +127,14 @@ Bull:
 //\nあの世につながる穴だ、\nスパーキーのやつがさがしに行ったぜ。
 \n
 It's a hole to the other world.\n
-That Sparky gal wanted a look.
+That Sparky guy wanted a look.
 <$0C><$0B>
 //ブル：
 Bull:
 <$0D>
 //\nブリックロードに出て行ったぜ。
 \n
-She "vamosed" off to Brick Road.
+He vamosed off to Brick Road.
 <$1E><$02><$08><$00>
 
 // Pos: 000019AC
@@ -149,7 +149,7 @@ Bull:
 <$0D>
 //\n寒いぜ… 何でこんなに寒いんだ。\nクリスマスだからか？
 \n
-It's cold! Why is everything so cold?\n
-Because it's Christmas?
+It's cold! Why is everything\n
+so cold? Because of Christmas?
 <$1E><$02><$04><$00>
 

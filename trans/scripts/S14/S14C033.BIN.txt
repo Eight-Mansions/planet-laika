@@ -33,8 +33,8 @@ Sparky:
 <$0D>
 //\nときどきビリってくるのよ、電気よ。\n寝てるときにね、ビリビリ…\nベッドに電気なんか来てないのに。
 \n
-Mira, a veces...I feel a shock in\n
-my sleep, but my bed's not static!
+Sometimes, I feel a BZZT in my\n
+sleep, but my bed's not static!
 <$1E><$01><$08><$00>
 
 // Pos: 0000157A
@@ -49,13 +49,13 @@ Sparky:
 <$0D>
 //\n電気だわ？それから？\nああ、ハエの憎しみだ、そうだ！\n波動がゆらぎはじめたんだ！
 \n
-What happens next, huh?\n
-A spark of hatred, probably.
+If it isn't static, is it flies?\n
+Now everyone'll blame insects.
 <$0C><$0B>
 Sparky:
 <$0D>\n
-The radio waves are muy\n
-decompuesta as it is!
+The radio waves have started\n
+to fluctate beyond reason!
 <$1E><$01><$08><$00>
 
 // Pos: 000015B4
@@ -70,8 +70,8 @@ Sparky:
 <$0D>
 //\n波動の中で私は変わる？
 \n
-Will sinking into the waves\n
-change me?
+Is...sinking into the waves\n
+going to change me?
 <$1E><$01><$04><$00>
 
 // Pos: 000015D1
@@ -86,8 +86,8 @@ Sparky:
 <$0D>
 //\nぼわんぼわんって、何？ 催眠術の音？
 \n
-(Arrullar, arrullar...) Hey,\n
-you, what's that cooing sound?
+(Arrullar, arrullar...)\n
+Hey, what's that cooing sound?
 <$0C><$0B>
 Sparky:
 <$0D>\n
@@ -100,6 +100,6 @@ Sparky:
 //\n建うのね、\nアガタが何か始めたんじゃないのね。
 \n
 But that doesn't make sense.\n
-She's not in a session now, is she?
+She's not in a session, is she?
 <$1E><$01><$08><$00>
 

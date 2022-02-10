@@ -17,7 +17,7 @@ Noble Rock:
 <$0D>
 //\nテレポーテーションだな、ホワイトイーグルは\nどこへ行った？ 一緒に来たのか？
 \n
-And THAT iS teleportation! Where is\n
+And THAT is teleportation! Where is\n
 White Eagle? Shall we look together?
 <$00>
 
@@ -65,8 +65,8 @@ Noble Rock:
 <$0D>
 //\nまだ早い、今はだめだ、危ないぞ。\n巻き込まれる、合体してしまうぞ。
 \n
-It is still too early for this. You can't\n
-afford to get caught in the integration!
+It is still too early now! You cannot\n
+risk getting caught in the integration!
 <$00>
 
 // Pos: 000014AC
