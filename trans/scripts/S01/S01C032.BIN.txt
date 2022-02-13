@@ -74,7 +74,7 @@ advent of death lies a gap.
 Captain Tatler:
 <$0D>\n
 You are in that gap now, in a\n
-world beyond all nightmare.
+world beyond all nightmares.
 <$00>
 
 // Pos: 00003B3D
@@ -89,8 +89,8 @@ Noon:
 <$0D>
 //\nよう、ライカ。\nお前、エレミヤをさがしてんだな、\nそうだろ。顔見りゃわかるって。
 \n
-That look on your mug says you're\n
-looking for Jeremiah.
+That look on your face says\n
+you're looking for Jeremiah.
 <$0C><$0B>
 //ヌーン：
 Noon:
@@ -243,7 +243,7 @@ Earth pass,
 <$0C>
 //海もまた消え失せ、今よりのち、悲しみも喜びも\n苦しみもなく、歓喜の歌にたたえられた\n永遠が続くであろう。
 and may the seas dry, that their\n
-sad and lonely suffering\n
+sad and lonely sufferings\n
 are no more.
 <$0C>
 And may eternity move past this\n
@@ -266,7 +266,7 @@ Doctor, can
  be saved?
 <$00><$12>
 //分からん、とにかく手術室へ。\n脳のそばに何かがあるんだ、\n幻覚はその影響だ。
-We'll find out in the operation room.\n
+We'll find out in the operating room.\n
 There's a mass near the brain\n
 triggering their hallucinations.
 <$00><$12>

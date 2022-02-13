@@ -5,10 +5,6 @@
 #CREATEPTR(PTR, "LINEAR", -2149449728, 32)
 #STRINGALIGN(4)
 
-// Modify the clear length for Use/Trash
-//#JMP($000106AC)
-//<$50>
-
 #JMP($000124D8)
 
 //P:000110AC
@@ -413,7 +409,7 @@ Use
 //P:00011DBE
 #WRITE(PTR, $0000FC04)
 //ŽÌ‚Ä‚é
-Tra
+Trash
 <$00>
 
 //P:00011DC4
@@ -427,7 +423,7 @@ Use
 #WRITE(PTR, $0000FC0C)
 <$05>
 //ŽÌ‚Ä‚é
-Tra
+Trash
 <$00>
 
 //P:00011DD0
@@ -440,7 +436,7 @@ Use
 #WRITE(PTR, $0000FC14)
 <$07>
 //ŽÌ‚Ä‚é
-Tra
+Trash
 <$00>
 
 //P:00011DDA
@@ -454,7 +450,7 @@ Use
 #WRITE(PTR, $0000FC1C)
 <$07>
 //ŽÌ‚Ä‚é
-Tra
+Trash
 <$00>
 
 //P:00011DE8
@@ -468,7 +464,7 @@ Use
 #WRITE(PTR, $0000FC24)
 <$05>
 //ŽÌ‚Ä‚é
-Tra
+Trash
 <$00>
 
 //P:00011DF4
@@ -482,7 +478,7 @@ Use
 #WRITE(PTR, $0000FC2C)
 <$05>
 //ŽÌ‚Ä‚é
-Tra
+Trash
 <$00>
 
 //P:00011E00

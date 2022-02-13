@@ -17,7 +17,8 @@ Ernest:
 <$0D>
 //\nおい、俺が分からねぇのか、うすのろ！
 \n
-Hey, idiot. Don't you recognize me?
+Hey, idiot.\n
+Don't you recognize me?
 <$00>
 
 // Pos: 00002968
@@ -32,7 +33,7 @@ Smokey:
 <$0D>
 //\n何だ？ 開こえねぇな？\n何て言った？
 \n
-Sorry, guess I didn't catch that?\n
+Sorry, guess I didn't catch that.\n
 The fuck did you say?
 <$00>
 
@@ -80,12 +81,12 @@ Smokey:
 <$0D>
 //\nさっきのショータイムじゃ物足りねぇと、\nへん！ 手加減しねぇぜ！ 白ブタ野郎！
 \n
-If the little show earlier didn't\n
-get the message across:
+If the warm display last time\n
+didn't get my message across:
 <$0C><$0B>
 Smokey:
 <$0D>\n
-I came with the encore.
+Don't mess with Old Smokey.
 <$0C><$0B>
 //スモーキー：
 Smokey:
@@ -112,7 +113,8 @@ Ernest:
 <$0D>
 //\n俺を甘く見るんじゃねぇぜ、\nスモーキーちゃんよ。
 \n
-Don't understimate me, Puff Puff.
+Don't understimate me,\n
+Puff Puff.
 <$00>
 
 // Pos: 00002A4A
@@ -143,8 +145,8 @@ Ernest:
 <$0D>
 //\nそれはお前だ、スモーキー。\n白ブタから産まれたのはお前だ！
 \n
-Sorry, Smokey. The piglet that's\n
-about to get smoked is you!
+Sorry, Smokey. I'm not the\n
+piglet getting smoked today.
 <$00>
 
 // Pos: 00002A99
@@ -159,7 +161,8 @@ Ernest:
 <$0D>
 //\n何だ？ 誰かいるのか？
 \n
-What was that? Is someone here?
+What was that?\n
+Is someone here?
 <$00>
 
 // Pos: 00002AB2
@@ -187,8 +190,8 @@ Ernest:
 <$0D>
 //\n誰だ！ 出てこい！\nいい加減なことぬかすな！
 \n
-Who said that? Stop messing with\n
-me, and show your self!
+Who said that? Show your self!\n
+Don't mess with me!
 <$00>
 
 // Pos: 00002AFB
@@ -200,8 +203,8 @@ me, and show your self!
 
 <$00>
 //怖いのか、アーネスト。\n人を刺すにはうってつけの日じゃないか。
-What's wrong, dear?\n
-Isn't it a lovely day to stab someone?
+What's wrong, dear? Isn't it\n
+a lovely day to stab someone?
 <$00>
 
 // Pos: 00002B1F
@@ -213,12 +216,12 @@ Isn't it a lovely day to stab someone?
 
 <$00>
 //そのナイフをやつのみぞおちに\n突き立てるのだ。
-Thrust the knife straight into the\n
-belly.
+First, thrust the knife straight\n
+into their belly.
 <$0C>
 //腹を切り裂け！\n内臓を引きずり出してやつの口に\n突っ込んでやれ！
 And then, slit! Pull out the innards,\n
-and stuff it all down his throat!
+and stuff them all down his throat!
 <$00>
 
 // Pos: 00002B65

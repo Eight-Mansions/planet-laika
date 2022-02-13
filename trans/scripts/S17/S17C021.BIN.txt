@@ -25,7 +25,7 @@ Galil:
 <$0D>
 //\nフェニックス。君こそが最後のピースなのだ、\n待ち望まれていた最後のな。
 \n
-Phoenix. You are the last piece of a\n
+Phoenix. You were the last piece of a\n
 puzzle I had long waited to solve.
 <$00>
 
@@ -254,7 +254,7 @@ Galil:
 <$0D>
 //\n脳に寄生する肉のかたまりが、\n
 \n
-You became a tumor, a parasite\n
+You became a tumor, a parasite who\n
 craved 
 <$0F>
 //の心と体をうばったのだ。
@@ -397,7 +397,7 @@ Galil:
 //\n体と心を得て、美の権化として\nよみがえろうというのだな。
 \n
 You have claimed your throne over\n
-beauty in both body and in mind.
+beauty in both body and mind.
 <$00>
 
 // Pos: 00004744
@@ -896,7 +896,7 @@ Galil:
 <$0D>
 //\n本当なのか…\n火星人の善意が、本当に残されていたのか…
 \n
-Then it's true! You Martian's\n
+Then it's true! You Martians\n
 did leave your good will behind!
 <$0C><$0B>
 //ガリル：
