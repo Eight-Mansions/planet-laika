@@ -347,5 +347,8 @@ letter_widths:
 	.db 0x08 ;x
 	.db 0x08 ;y
 	.db 0x08 ;z
+	.db 0x0C ;Tr
+	.db 0x0C ;as
+	.db 0x0C ;h
 
 .close
