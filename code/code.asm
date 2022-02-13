@@ -49,11 +49,13 @@ TextDrawFlagsArea: equ 0x801F5000
 ;----------- TODO: Not hardcode these values ---------------------------------
 ; ; This loads the max allowed #s.  We cannot change where it loads from as it's used for the text box too... go figure
 .org 0x8001c89c
-	;LW      00000016 (t0), 0014 (801fff50 (sp)) [801fff64]
-	addiu t0, r0, 0x48
+	; ;LW      00000016 (t0), 0014 (801fff50 (sp)) [801fff64]
+	; addiu t0, r0, 0x48
+	j checkWriteValue
 	
 .org 0x8001cf50
-	addiu a2, r0, 0x45
+	;addiu a2, r0, 0x45
+	j checkClearValue
 ; ---------------------------------------------------------------------------
 
 ;----------  little text scroller button gif - Credit : Cargodin ------------
@@ -214,6 +216,28 @@ setIsScrollerButtonThingy:
 	la a0, is_items
 	jr ra
 	sb a1, 0(a0) ; long as its not 0
+	
+	
+checkClearValue:
+	lh a2, 4(s1)
+	addiu a0, r0, 0x05
+	bne a0, a2, dontModifyClearLength
+	addiu a2, r0, 0x47
+	addiu a2, r0, 0x05 ; For Use/Trash items....	
+dontModifyClearLength:
+	j 0x8001cf58
+	nop
+	
+	
+checkWriteValue:
+	lw t0, 0x0014(sp)
+	addiu t3, r0, 0x03
+	bne t0, t3, dontModifyWriteLength
+	addiu t0, r0, 0x44
+	addiu t0, r0, 0x03 ; For Use/Trash items....	
+dontModifyWriteLength:
+	j 0x8001c8a4
+	nop
 
 variables:
 cur_width:
