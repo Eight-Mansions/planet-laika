@@ -222,7 +222,7 @@ checkClearValue:
 	lh a2, 4(s1)
 	addiu a0, r0, 0x05
 	bne a0, a2, dontModifyClearLength
-	addiu a2, r0, 0x47
+	addiu a2, r0, 0x45
 	addiu a2, r0, 0x05 ; For Use/Trash items....	
 dontModifyClearLength:
 	j 0x8001cf58

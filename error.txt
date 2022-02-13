@@ -6751,3 +6751,27 @@ Insertion - 0 error(s), 0 warning(s)
 +------------------------------------------------------------------------------
 
 Execution time: 82 msecs
+Atlas 1.11 by Klarth
+
+Parsing summary: 2 msecs
+Parsing - 0 error(s), 0 warning(s)
+
+Insertion summary: 74 msecs
+Insertion - 0 error(s), 0 warning(s)
+
++------------------------------------------------------------------------------
+| Total
+|   Start: Line 8  File Position $54400
+|   End: Line 36  File Position $5441C
++------------------------------------------------------------------------------
+| Script size 28
+| Bytes Inserted 28
+|
+| Command Execution Listing
+|   WRITE: 4
+|
+| Pointer Listing
+|   General Pointers Written: 4
++------------------------------------------------------------------------------
+
+Execution time: 76 msecs
