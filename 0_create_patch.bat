@@ -1,2 +1,2 @@
-del planet_laika-patcher\patch\patch.xdelta3
-tools\xdelta3-3.0.11-x86_64.exe -9 -S djw -B 1812725760 -e -vfs cd\orig\laika.bin cd\laika.bin planet_laika-patcher\patch\patch.xdelta3
+del planet_laika-patcher\patch_data\planet-laika-patch.xdelta3
+planet_laika-patcher\patch_data\xdelta.exe -9 -S djw -B 1812725760 -e -vfs cd\orig\laika.bin cd\laika.bin planet_laika-patcher\patch_data\planet-laika-patch.xdelta3

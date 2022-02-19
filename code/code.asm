@@ -10,6 +10,9 @@ TextDrawFlagsArea: equ 0x801F5000
 ; This tries to pad out the blocks it loads to be divisible by 16. Why?
 .org 0x80023e5c
 	nop
+	
+.org 0x8002dba4
+	j 0x8002dbe0
 
 ; --------------------------- Centering code for items?----------------------
 
