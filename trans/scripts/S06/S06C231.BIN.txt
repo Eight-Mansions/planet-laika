@@ -29,7 +29,7 @@ I, Ernest...will protect...\n
 
 <$02>
 //アーネスト…正直者のアーネスト。\nウソのつけないアーネスト。
-Ernest... Honest Ernest.\n
+Ernest, Honest Ernest.\n
 You'd never let anyone down.
 <$00>
 
@@ -111,8 +111,8 @@ Who's there? Don't act\n
 like you know me!
 <$0C><$13><$FF>
 //さあ、誰だろう。\nこれはお前自身の声ではないのかな。
-I'm you, that's who!\n
-Don't you know your own inner voice?
+I'm you, Yo-lan-DUH! Focus on who\n
+you are on the INSIDE for once!
 <$00>
 
 // Pos: 000005E1
@@ -152,7 +152,8 @@ I'm the command tower over\n
 Spacer, ever a slave to metaphor.
 <$0C>
 //自分をかいかぶってはいないかな、\nスペーサー。
-Don't pretend to be larger than life!
+Don't pretend to be more\n
+than you are!
 <$00>
 
 // Pos: 00000663

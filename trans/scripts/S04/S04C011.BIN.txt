@@ -143,7 +143,7 @@ West:
 <$0D>
 //\nリトルさんがな。顔貸してもらおう。
 \n
-Little will borrow a face!
+Little will face your face!
 <$00>
 
 // Pos: 00001C28
@@ -158,7 +158,7 @@ East:
 <$0D>
 //\n顔。
 \n
-A face?
+With his face?
 <$00>
 
 // Pos: 00001C35
@@ -209,23 +209,23 @@ April:
 <$0D>
 //\n分かった！\n顔の怪物でしょ、ねぇ、それが気になる…
 \n
-I see! So, that monster was\n
-a Phase, was it? Makes sense.
+I see! So, those monster outside\n
+are Phases, are they? I see.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nそうじゃない？\n普通じゃ見えないっていうから、\n幻覚じゃないかと思うんだけど。
 \n
-I don't know how anyone would see\n
-that if they weren't hallucinating.
+I don't know how any of us'd see\n
+them if we weren't hallucinating.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nどうしてもっていうなら、私はここで待ってる。\n気を付けてね。
 \n
-I'll wait back here, if that works.\n
-Just be careful, okay?
+I'll wait back here to be safe.\n
+You be careful out there, okay?
 <$00>
 

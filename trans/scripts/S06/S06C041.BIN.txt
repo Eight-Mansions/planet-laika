@@ -18,9 +18,8 @@ Oxygen Miner 3：
 //\n何だ、シーシー、人の家に勝手に…\nそっとしておいてくれないか。
 \n
 WhAt ArE yOU dOIng, ActIng\n
-lIkE yOU Own thE plAce?
-<$0C>
-Why wOn't yOU lEAvE Us AlOne?
+lIkE yOU Own thE plAce?\n
+Why dOn't yOU lEAvE Us AlOne?
 <$00>
 
 // Pos: 000036C5
@@ -161,7 +160,7 @@ Yolanda:
 <$0D>
 //\n話にならないわね、これじゃ。
 \n
-A man of few words, as they say.
+A lassie of few words, for once.
 <$00>
 
 // Pos: 000037EA

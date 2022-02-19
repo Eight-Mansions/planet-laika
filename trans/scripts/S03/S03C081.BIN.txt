@@ -65,6 +65,11 @@ Spirit Man:
 <$0D>\n
 Rather, it reflects the self of\n
 the evil you've harbored, hyohyo!
+<$0C><$0B>
+Spirit Man:
+<$0D>\n
+This mirror will draw out the\n
+face shown in the mind scope.
 <$00>
 
 // Pos: 00002DE0
@@ -179,11 +184,11 @@ Spirit Man:
 <$0D>
 //\n見えていたのか！\n
 \n
-You can see me, right? Do you see me\n
-through 
+You see me now, right? Did you see\n
+me through 
 <$0F>
 //の時も、表が見えていたのか！
-'s eyes?
+'s eyes too?
 <$00>
 
 // Pos: 00002F10
@@ -198,7 +203,8 @@ Ernest:
 <$0D>
 //\nはっきりじゃねぇ、\nぼんやりだ。
 \n
-Not clearly, no. It gets hazy.
+Not clearly, no.\n
+It's hazy in there.
 <$0C><$0B>
 //アーネスト：
 Ernest:

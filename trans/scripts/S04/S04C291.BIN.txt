@@ -219,20 +219,27 @@ Tommy:
 <$0D>
 //\n石のとこに行けねぇんだ！ 扉が開かねぇ…\nブーマーのやつが力任せにやっても開かねぇ…
 \n
-The door that leads to the stone\n
-won't open! 
+The door to the UFO building\n
+it's inside of won't open!
 <$0C><$0B>
 Tommy:
 <$0D>\n
-Even Boomer can't break it down!
+Even Boomer can't break it down!\n
+It just freaks everybody out.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nハウスにいるヤングやクロウに言わせりゃ\n火星人の扉だと。
 \n
-That's a Martian door. You'll have\n
-to ask Young or Crow at Psycho Lab.
+"Death has many doors," or so\n
+guys like Young and Crow say.
+<$0C><$0B>
+Tommy:
+<$0D>
+\n
+But some of us aren't blue\n
+enough to play that game...
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -254,24 +261,24 @@ Tommy:
 <$0D>
 //\nやつらにゃ目ん玉が見えるんだとよ、\n人の頭ほどのでっけえ目ん玉がよ！
 \n
-You know those big booby-sized\n
-eyeballs people see on doors?
+You know the booby-sized eyeball\n
+some people see on the door?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nその目ん玉とお話ししないと、扉は開かねぇ…\nひゃー！ でっけぇ目ん玉だとよ！
 \n
-You'll have to talk to one of those\n
-giant boobies to get inside, a-yup.
+You'll have to talk to that\n
+giant booby to get inside, a-yup.
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\n恐々行ってみたぜ、俺もよ、見えねぇ…\n俺には目ん玉なんて、見えねえ…\nくそったれ…
 \n
-I'd love to help, but I can't see 'em.\n
-I can't see the boobies, dangit!
+I'd love to help, but I can't see it.\n
+I'm blind to the big booby, dangit!
 <$0C><$0B>
 //トミー：
 Tommy:
@@ -302,8 +309,8 @@ Tommy:
 <$0D>
 //\nすげぇな、そりゃすげぇ。\n目ん玉はどうした？ ほんとにあるのか？
 \n
-Hehe, nice! So, what about the talking\n
-eyeballs? Are they real?
+Hehe, nice! So, what about the\n
+talking eyeball? Is it real?
 <$1B>
 //」ある\nない
 」Yes\n
@@ -322,8 +329,8 @@ Tommy:
 <$0D>
 //\nほんとかよ、へへ、\nどうせ俺たちには見えねぇんだ。
 \n
-So, they're real! Hehe, too bad we can't\n
-see 'em, you know?
+So, they're real! Hehe, too bad I can't\n
+see it, you know?
 <$0C><$0B>
 //トミー：
 Tommy:

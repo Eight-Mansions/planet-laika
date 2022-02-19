@@ -17,8 +17,8 @@ Ernest:
 <$0D>
 //\nおい、俺が分からねぇのか、うすのろ！
 \n
-Hey, idiot.\n
-Don't you recognize me?
+Howdy, dipshit.\n
+Recognize me?
 <$00>
 
 // Pos: 00002968
@@ -50,7 +50,7 @@ Ernest:
 //\n用があると言ったんだ、マヌケ！
 \n
 You and I've got unfinished\n
-business, don't we?
+business.
 <$00>
 
 // Pos: 000029A3
@@ -93,8 +93,8 @@ Smokey:
 <$0D>
 //\nママー、ママー、どうした、叫べ！
 \n
-What's stopping you, huh? Go ahead\n
-and cry to your pigshit Mommy!
+Better run off to your pigshit\n
+Mommy while you still can!
 <$0C><$0B>
 Smokey:
 <$0D>\n
@@ -129,7 +129,7 @@ Smokey:
 <$0D>
 //\nうううう、くそっ、白ブタ…\nぶっ殺してやる！
 \n
-Grrr, I've had it!\n
+Grrr, now I've had it!\n
 Get ready to die, piggy!
 <$00>
 
@@ -145,8 +145,8 @@ Ernest:
 <$0D>
 //\nそれはお前だ、スモーキー。\n白ブタから産まれたのはお前だ！
 \n
-Sorry, Smokey. I'm not the\n
-piglet getting smoked today.
+Sorry, but I'm not the\n
+pig getting smoked today.
 <$00>
 
 // Pos: 00002A99
@@ -161,8 +161,8 @@ Ernest:
 <$0D>
 //\n何だ？ 誰かいるのか？
 \n
-What was that?\n
-Is someone here?
+(What was that?\n
+Is someone here?)
 <$00>
 
 // Pos: 00002AB2
@@ -191,7 +191,7 @@ Ernest:
 //\n誰だ！ 出てこい！\nいい加減なことぬかすな！
 \n
 Who said that? Show your self!\n
-Don't mess with me!
+D-don't mess with me!
 <$00>
 
 // Pos: 00002AFB
@@ -203,8 +203,8 @@ Don't mess with me!
 
 <$00>
 //怖いのか、アーネスト。\n人を刺すにはうってつけの日じゃないか。
-What's wrong, dear? Isn't it\n
-a lovely day to stab someone?
+What's wrong, dear? Isn't it a\n
+lovely night to cut open a pig?
 <$00>
 
 // Pos: 00002B1F
@@ -217,7 +217,7 @@ a lovely day to stab someone?
 <$00>
 //そのナイフをやつのみぞおちに\n突き立てるのだ。
 First, thrust the knife straight\n
-into their belly.
+into his belly.
 <$0C>
 //腹を切り裂け！\n内臓を引きずり出してやつの口に\n突っ込んでやれ！
 And then, slit! Pull out the innards,\n
@@ -234,7 +234,7 @@ and stuff them all down his throat!
 <$00>
 //何をためらってる、アーネスト。\n臆病風にでも吹かれたのか？
 Why are you hesitating, Ernest?\n
-Are your nerves getting to you?
+Are you nervous?
 <$00>
 
 // Pos: 00002B88
@@ -266,6 +266,6 @@ Ernest:
 //\n臆病だと？\nこの俺が… 俺は弱くねぇぜ。
 \n
 Am I a coward? No...\n
-I can't be that weak.
+I can't afford to be!
 <$00>
 

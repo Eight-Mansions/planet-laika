@@ -103,7 +103,7 @@ He can't sleep without Agatha!
 
 <$10>
 //俺たちじゃ務まらない。
-Can we not stop the nightmares?
+Can't we not stop his nightmares?
 <$00>
 
 // Pos: 00002AEA
@@ -231,7 +231,7 @@ April:
 //\nそんな心配より自分のことや\n私のことが心配なんだって。
 \n
 She said the book lied. We only\n
-needed to worry about ourselves.
+need to worry about our selves.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -291,6 +291,6 @@ Vladimir:
 //\nセルゲイ兄さんに遊んでもらえ。
 \n
 I don't have time for you.\n
-Go find Sergei and play.
+Go find Sergei and play with him.
 <$00>
 

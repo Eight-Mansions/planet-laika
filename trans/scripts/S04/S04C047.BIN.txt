@@ -17,14 +17,14 @@ Tommy:
 <$0D>
 //\n兄ちゃんよう、\nレッドのやつに追われてるんだって？
 \n
-I think Red's after you, comrade.
+Is Red after you, comrade?
 <$0C><$0B>
 //トミー：
 Tommy:
 <$0D>
 //\nひゃー、そりゃ大変だ。
 \n
-Yeesh, talk about bad.
+Yeesh, talk about bad news!
 <$00>
 
 // Pos: 000019CB
@@ -289,8 +289,8 @@ Red:
 <$0D>
 //\n臭うぜ、可愛い子犬ちゃんの臭いだ。
 \n
-You smell so good. That's a good\n
-scent for my darling puppy.
+You smell so good. That's a nice\n
+scent for such a naughty pup.
 <$0E><$1E><$17><$00>
 
 // Pos: 00001D6E

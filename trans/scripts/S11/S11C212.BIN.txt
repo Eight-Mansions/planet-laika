@@ -63,8 +63,8 @@ April:
 <$0D>
 //\n先遣隊のガリル大佐について何か知らない？
 \n
-Did you hear about Colonel Galil?\n
-From Earth's original vanguard unit?
+Have you heard of a "Colonel Galil"?\n
+From the original ISF vanguard unit?
 <$00>
 
 // Pos: 00001DF0
@@ -80,7 +80,7 @@ Gold:
 //\nガリル！ 今や伝説だ、\n今頃は善人の光に包まれてることだろう。
 \n
 Galil? The guy's a legend after all that\n
-"I am the light," god complex bull.
+"I am the light," god complex foolery.
 <$0C><$0B>
 //ゴールド：
 Gold:
@@ -384,8 +384,8 @@ April:
 <$0D>
 //\n先遣隊ね！ 生きてたんだ！
 \n
-That...must be the members of the\n
-vanguard unit! They ARE alive!
+They must be the survivors from\n
+the vanguard unit! They ARE alive!
 <$00>
 
 // Pos: 0000211C
@@ -431,8 +431,8 @@ Gold:
 <$0D>
 //\nやつらはロッジだ。\n広場の換気塔の手前を右に行くんだ。
 \n
-At the lodge, around the\n
-ventilation tower in the plaza.
+At the lodge, behind the large\n
+ventilation tower in mid-town.
 <$00>
 
 // Pos: 0000218B
@@ -447,7 +447,7 @@ April:
 <$0D>
 //\n換気塔の手前ね。ありがとう。
 \n
-In front of the ventilation tower?\n
+Behind the ventilation tower?\n
 Got it. Thank you so much!
 <$0C><$0B>
 //エイプリル：
@@ -456,6 +456,6 @@ April:
 //\nライカ、行きましょ。\nメディスンマンに話を開くのよ。
 \n
 Okay, Laika. Let's go talk to the\n
-medicine men!
+the medicine men!
 <$00>
 

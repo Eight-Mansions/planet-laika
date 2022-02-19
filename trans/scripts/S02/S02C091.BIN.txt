@@ -41,8 +41,8 @@ April:
 <$0D>
 //\n知らない間にここまで歩いてきた…\n変な気分ね。
 \n
-I found my self walking here before\n
-I knew what was happening. So weird.
+I found I was on this path before I\n
+knew what was happening... So weird.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -216,17 +216,18 @@ April:
 <$0D>
 //\nちゃんとライカ…じゃなかった\n
 \n
-I don't think the name "Laika" will\n
-be in their registry, though.
+I don't think the name "Laika"\n
+is in their registry, though.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
-Sorry, but if "
+\n
+Sorry, since "
 <$0F>
 //って名前で\n登録されてるはずよ。
-" is on your\n
-paperwork, you'll have to enter that.
+" is your given\n
+name, you'll have to enter that.
 <$0C><$0B>
 //エイプリル：
 April:

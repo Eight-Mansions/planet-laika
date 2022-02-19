@@ -90,7 +90,8 @@ Marrakech:
 <$0D>
 //\nビジュアル系の人は要注意よ。
 \n
-If you're a Visual type, be careful!
+If you're a Visual type,\n
+don't go near mirrors at night!
 <$1E><$01><$02><$00>
 
 // Pos: 00001FF2
@@ -126,7 +127,8 @@ Marrakech:
 <$0D>
 //\nビジュアル系の人は特にね。
 \n
-Visual types need to be careful!
+If you're a Visual type,\n
+don't go near mirrors at night!
 <$1E><$01><$02><$00>
 
 // Pos: 00002070

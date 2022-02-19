@@ -73,16 +73,15 @@ We only came here to find Noon.
 
 #WHB(PTR, $000004AD)
 
-<$10><$0B>
+<$11><$0B>
 //酸索坑夫２号：
 Oxygen Miner 2：
 <$0D>
 //\n町長か！ この町は町長がこしらえた。\nお前たちの家はない、シーシー。
 \n
 Elder Noon? He made the town,\n
-but he made no houses for you!
-<$0C>
-Whoosh, whoosh.
+but he made no houses for you!\n
+Whoosh, whoosh!
 <$00>
 
 // Pos: 00002488

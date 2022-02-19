@@ -58,8 +58,8 @@ Madam Agatha:
 <$0D>
 //\nこの星の力で歪んでしまった、ウソの思い出…
 \n
-This planet's powers can take\n
-lies and distort them.
+This planet's powers can conjure\n
+lies and project false memories.
 <$0C><$0B>
 Madam Agatha:
 <$0D>\n
@@ -377,7 +377,7 @@ Madam Agatha:
 //\n少女が見えるわ… かわいい少女…
 \n
 I see a young girl.\n
-A darling young girl...
+A charming young girl...
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -511,7 +511,7 @@ basement stairs. They speak.
 
 <$01>
 //寒いだろ、
-寒It's cold, isn't it, 
+It's cold, isn't it, 
 <$0F>
 //、\n俺があたためてやるぜ…
 ?\n
@@ -1091,8 +1091,8 @@ Madam Agatha:
 <$0D>
 //\nブリックロードよ…\n赤い家の中にブーマーがいるわ。
 \n
-Boomer is inside...of the red house\n
-on Brick Road.
+Boomer is inside...of the UFO\n
+building on Brick Road.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:

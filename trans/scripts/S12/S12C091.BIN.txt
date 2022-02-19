@@ -181,8 +181,8 @@ Rummy:
 <$0D>
 //\nラミー君だね、\n小さな女の子が好きなんだね？
 \n
-It's me, Rummy! The one you kept\n
-insisting liked little girls.
+"Tell me, Rummy. How long have you\n
+been sexually attracted to minors?"
 <$00>
 
 // Pos: 00001C06
@@ -197,7 +197,7 @@ Rummy:
 <$0D>
 //\nあああ、先生はほほえんでいるな
 \n
-Ahh, see, I bet you're looking at\n
+Hmph, see? I bet you're looking at\n
 me all smug even now, aren't you?
 <$00>
 
@@ -213,12 +213,8 @@ Rummy:
 <$0D>
 //\nラミー君、\nその女の子と手をつないで歩いたんだね
 \n
-But I'm Rummy! 
-<$0C><$0B>
-Rummy:
-<$0D>\n
-You think I walked hand-in-hand\n
-with that little girl?! ME?!
+"Okay, Rummy. Then why were you\n
+holding hands with a little girl?"
 <$00>
 
 // Pos: 00001C45
@@ -249,12 +245,8 @@ Rummy:
 <$0D>
 //\nラミー君、\nおなかのアザをその子に見せたんだね？
 \n
-I'M RUMMY! 
-<$0C><$0B>
-Rummy:
-<$0D>\n
-You think I showed that little girl\n
-the birthmark on my stomach?!
+"But Rummy, is it true you 'showed\n
+her a birthmark' on your stomach?"
 <$00>
 
 // Pos: 00001C90
@@ -269,7 +261,7 @@ Rummy:
 <$0D>
 //\nあああ、先生、僕じゃないんです、
 \n
-I swear, Doctor! IT WASN'T ME!
+NO! I swear, Doctor! IT WASN'T ME!
 <$0C><$0B>
 //ラミー：
 Rummy:

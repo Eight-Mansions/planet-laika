@@ -47,7 +47,7 @@ East:
 <$0D>
 //\nだと。\n見れば分かる。
 \n
-Can East tell?
+Can West tell?
 <$00>
 
 // Pos: 00002A9A
@@ -77,8 +77,8 @@ East:
 <$0D>
 //\n来い。 赤い石だ。\n取って来い。
 \n
-Will you come in?\n
-Come in with the red stone?
+Will you come back\n
+with the red stone?
 <$00>
 
 // Pos: 00002ACD
@@ -93,7 +93,7 @@ West:
 <$0D>
 //\n取ってきたら会わす。
 \n
-Get the red stone!
+Come back with the red stone!
 <$00>
 
 // Pos: 00002AE3
@@ -123,7 +123,8 @@ West:
 <$0D>
 //\nブリックロードだ。\n赤い家。
 \n
-Go to the red house on Brick Road!
+The one inside the UFO\n
+building on Brick Road!
 <$00>
 
 // Pos: 00002B19
@@ -138,7 +139,8 @@ East:
 <$0D>
 //\n扉、開かない。
 \n
-The one where the door won't open?
+The UFO building where the\n
+door won't open?
 <$00>
 
 // Pos: 00002B2C
@@ -153,7 +155,7 @@ West:
 <$0D>
 //\nナゾだ。
 \n
-Who knows!
+If you're smart, it will open!
 <$00>
 
 // Pos: 00002B3A
@@ -312,7 +314,8 @@ West:
 <$0D>
 //\n分かったろ。赤い家だ。\nブリックロード。
 \n
-The red house on Brick Road will!
+The UFO building on Brick Road\n
+will!
 <$1E><$01><$02><$00>
 
 // Pos: 00002C1E
@@ -708,7 +711,7 @@ opened the mines.
 <$0C><$0B>
 Herod:
 <$0D>\n
-I did that to make this place livable!
+I made this place livable!
 <$0C><$0B>
 //ヘロデ：
 Herod:
@@ -800,7 +803,7 @@ West:
 <$0D>
 //\n…
 \n
-...
+Understand!
 <$00>
 
 // Pos: 00002FDF

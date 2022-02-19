@@ -123,8 +123,8 @@ Yolanda:
 <$0D>
 //\nなんか大事な物でも\nしまってあるのかしらねぇ…
 \n
-I wonder if something important's\n
-hidden in there...
+I wonder if something really\n
+snazzy is locked up in there.
 <$00>
 
 // Pos: 000030F9
@@ -135,11 +135,11 @@ hidden in there...
 
 <$10>
 //まだだめなのね。
-No luck yet, a-nope.
+No luck getting in yet, a-nope.
 <$0C>
 //アタシには見えない。\nサイコちゃんには簡単なことなのに。
-This'd be simple for the little\n
-Psycho, but I can't see a thing.
+This'd be simple for a Psycho,\n
+but I can't see the eyeball.
 <$0C>
 //ふん、ラミーのやつ…\nまだ何かアタシに隠してるのね。
 Rummy, Rummy, Rummy...\n
@@ -166,8 +166,8 @@ Sammy:
 <$0D>
 //\nあなたは…どのタイプなの？\nねぇ、サイコちゃんなの？
 \n
-So, what's your type? Might you be\n
-another little Psycho?
+So, what's your type?\n
+Are you another Psycho, perhaps?
 <$00>
 
 // Pos: 0000317C
@@ -182,8 +182,8 @@ Sammy:
 <$0D>
 //\nだったらそこの目玉、扉の前にある\nでっかい目玉が見えるはずよ…どう？見える？
 \n
-A Psycho type is able to see a large\n
-eyeball on that door. Do you see it?
+Psycho types can see a big eyeball\n
+on that far door. Do you see one?
 <$00>
 
 // Pos: 000031B0
@@ -228,8 +228,8 @@ Sammy:
 <$0D>
 //\n何しに来たの、ここはサイテーよ、\nどいつもこいつも、うそつきばっかで。
 \n
-What brings you to this garbage\n
-heap? Even the people are trash!
+What brings you to this heap?\n
+Trash place, trasier people...
 <$0C><$0B>
 //サミー：
 Sammy:

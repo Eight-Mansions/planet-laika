@@ -17,8 +17,8 @@ East:
 <$0D>
 //\nここがホテル。１３号監房だ。\nそこの派手なのがリャンハウス。
 \n
-Do you see the wall that says "Cell\n
-13", next to the flashy House Liang?
+This is our hotel, Cell 13.\n
+Across from it is House Liang.
 <$00>
 
 // Pos: 00001446
@@ -33,7 +33,7 @@ West:
 <$0D>
 //\n火星で人気の整形屋。
 \n
-Mars's popular plastic surgery\n
+Mars' popular plastic surgery\n
 office!
 <$00>
 
@@ -49,7 +49,8 @@ East:
 <$0D>
 //\n犬顔、直す。
 \n
-Will you get fixed, dogface?
+Will you get fixed at\n
+House Liang, dogface?
 <$00>
 
 // Pos: 00001472
@@ -83,7 +84,7 @@ East:
 <$0D>
 //\n冒険は終わりだ。
 \n
-Is your adventure over?
+Haven't you done enough?
 <$00>
 
 // Pos: 0000149C
@@ -102,7 +103,7 @@ West:
 <$0D>
 //\nもう寝ろ。
 \n
-Go to sleep!
+Go to sleep now!
 <$1E><$01><$04><$00>
 
 // Pos: 000014AF
