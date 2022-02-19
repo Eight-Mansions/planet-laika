@@ -81,8 +81,8 @@ Young:
 <$0D>
 //\nブリックロードの赤い家の中で\n開いたことがある…
 \n
-The red house on Brick Road...\n
-It's open!
+The UFO building on Brick Road...\n
+The door's been opened!
 <$0C><$0B>
 //ヤング：
 Young:
@@ -104,8 +104,8 @@ Spacer:
 <$0D>
 //\nはねる音？ここでは開こえない、\nどこか別の場所だろう。
 \n
-A crackling sound? I don't hear that. It\n
-must be coming from somewhere else.
+A crackling sound? I don't hear that.\n
+It must be coming from somewhere else.
 <$00>
 
 // Pos: 00000C47
