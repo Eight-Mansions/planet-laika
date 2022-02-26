@@ -230,8 +230,8 @@ Phoenix:
 <$0D>
 //\nエイプリル… やはり君は…
 \n
-April. It's really you...\n
-You're a mirror spirit.
+April. You were...\n
+a mirror spirit all along.
 <$00>
 
 // Pos: 00002D8E
@@ -246,8 +246,8 @@ April:
 <$0D>
 //\nママが死んだとき、私は解放された…
 \n
-Mhmm. I first escaped the mirror\n
-the moment I took her life.
+Yes. I first escaped the mirror\n
+when I took my mother's life.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -271,7 +271,7 @@ Phoenix:
 //\n鏡から生まれたというのは君なんだな。
 \n
 You forced your self out from\n
-the mirror.
+Amanda's mirror.
 <$00>
 
 // Pos: 00002DF1
@@ -313,8 +313,8 @@ Phoenix:
 <$0D>
 //\nアマンダは鏡の精となり、\n君は鏡から生まれた…
 \n
-Amanda was a mirror spirit, so you\n
-pushed your self out in her place.
+Amanda became a mirror spirit\n
+when you stole her place.
 <$0C><$0B>
 Phoenix:
 <$0D>\n
@@ -340,7 +340,7 @@ April:
 <$0D>
 //\nママが死んで、私は深い罪悪惑に\nさいなまれ続けたの。でも…
 \n
-My mom died, and I was overcome\n
+She died, and I was overcome\n
 with a deep sense of guilt.
 <$00>
 

@@ -11,8 +11,13 @@ TextDrawFlagsArea: equ 0x801F5000
 .org 0x80023e5c
 	nop
 	
+; Bypass mod chip check
 .org 0x8002dba4
 	j 0x8002dbe0
+	
+; Bypass expansion terminal check
+.org 0x8001f1c4
+	j 0x8001f1d4
 
 ; --------------------------- Centering code for items?----------------------
 

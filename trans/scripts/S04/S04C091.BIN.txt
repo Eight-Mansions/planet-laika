@@ -200,7 +200,7 @@ East:
 <$0D>
 //\n開けられる。
 \n
-So you can go through?
+Where does one get smart?
 <$00>
 
 // Pos: 00002B6F
@@ -215,7 +215,7 @@ West:
 <$0D>
 //\n鏡の部屋の先だ。
 \n
-Through the mirror room!
+In the mirror room!
 <$00>
 
 // Pos: 00002B85
@@ -260,7 +260,8 @@ East:
 <$0D>
 //\n鏡はキライだ、見たくない。
 \n
-The one I hate and do not wish to see?
+The mirror I hate and do not\n
+wish to see?
 <$00>
 
 // Pos: 00002BC9
@@ -294,8 +295,8 @@ East:
 <$0D>
 //\n赤い石、ヘロデさん。\n分かったか？
 \n
-Will it lead to the red stone and\n
-to Herod?
+But it will lead to the red stone\n
+and to Herod?
 <$1E><$01><$02><$00>
 
 // Pos: 00002BFB

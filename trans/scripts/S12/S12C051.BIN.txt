@@ -132,7 +132,7 @@ Oxygen Miner 6：
 //\n俺は… １、２、３、４、\nえーっと、６号だ、覚えとけ！
 \n
 I'm Oxygen Miner 1...2...no...3?\n
-No, 6! I'm 6, and don't you forget it!
+No, 6! I'm 6, and don't forget it!
 <$00>
 
 // Pos: 000034EA
@@ -177,15 +177,14 @@ It wasn't me!
 
 #WHB(PTR, $00000985)
 
-<$10><$0B>
+<$11><$0B>
 //酸索坑夫６号：
 Oxygen Miner 6：
 <$0D>
 //\nおい、お前にじゃないのか。無線テレビだ。\nどっからか、送ってきてるんだ。
 \n
-It wasn't you who set off the\n
-monitor, right?
-<$0C>
+It wasn't you who set\n
+off the monitor, right?\n
 Maybe the job was remote?
 <$00>
 
@@ -225,8 +224,8 @@ Rummy:
 <$0D>
 //\nでもダメだな、あいつのだな、\n他人のは勝手に触っちゃだめだな。
 \n
-It isn't right to touch other people's\n
-things without permission.
+It isn't right to touch anyone's\n
+things without their consent.
 <$00>
 
 // Pos: 000035E3
@@ -256,7 +255,7 @@ Oxygen Miner 6：
 <$0D>
 //\nトミーのやつ、ときどき俺を\n無視しやがるんだ。
 \n
-He acts very hot and cold around me.
+He keeps giving me mixed messages.
 <$00>
 
 // Pos: 0000364B
@@ -321,7 +320,7 @@ Rummy:
 //\nデスロックの前に立つと、\n死にたくなるんだな。僕はイヤだな。
 \n
 I hate the deathrock. It makes people\n
-who stand in front of seek death.
+who stand too close to it seek death.
 <$00>
 
 // Pos: 00003728
@@ -344,8 +343,8 @@ Oxygen Miner 6：
 <$0D>
 //\nあんまりじろじろ見ないほうがいいよな、\n気があるみたいだもんな。
 \n
-Maybe it's not in my best interest to\n
-stare him down like I've been doing.
+I shouldn't stare at him too much.\n
+Might give him the wrong idea...
 <$00>
 
 // Pos: 00003789
@@ -361,7 +360,7 @@ Oxygen Miner 6：
 //\nおかしいな、あいつ、俺に気付いてないのかな。\nトミーのやつ。
 \n
 How weird. It's like Tommy doesn't\n
-even remember me at all...
+remember me at all...
 <$00>
 
 // Pos: 000037B9

@@ -45,18 +45,18 @@ Ernest:
 <$0D>
 //\n誰だ？俺を呼んだのは、誰だ？
 \n
-Who's there? Who called to me?
+Who's there? Who said that?
 <$0C><$13><$FF>
 //誰でもない…\nお前が忘れていったお前自身の声だ。
-...It's probably no one. Must've\n
-forgotten the sound of my own voice.
+No one that matters. Clearly you\n
+forgot the sound of your own voice!
 <$0C><$13><$13><$0B>
 //アーネスト：
 Ernest:
 <$0D>
 //\n俺が？忘れた？何を言ってやがる！
 \n
-Wait, "I" forgot? What am I saying?
+Wait, "I" forgot? That isn't me!
 <$00>
 
 // Pos: 00000531

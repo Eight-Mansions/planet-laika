@@ -380,8 +380,8 @@ Madam Agatha:
 <$0D>
 //\n人が動く様子も見えるけど…\nよく分からないわ。 氷の中よ。
 \n
-I can see people moving, but I'm not\n
-sure. Everyone is under the ice.
+Do I see a someone moving?\n
+I'm not sure. They are in ice.
 <$00>
 
 // Pos: 00002F22
@@ -668,7 +668,7 @@ Both you and Tanya there.
 <$0C><$0B>
 Madam Agatha:
 <$0D>\n
-I'm lead to believe you met here\n
+I'm led to believe you met here\n
 in secret, as if to scheme.
 <$0C><$0B>
 //マダム・アガタ：
@@ -723,8 +723,8 @@ Madam Agatha:
 <$0D>
 //\nでもごめんなさい、\nここまでしか分からないわ。
 \n
-...I'm sorry. That's all I can make\n
-sense of.
+...I'm sorry.\n
+That's all I can make sense of.
 <$00>
 
 // Pos: 0000344C
@@ -767,7 +767,7 @@ Madam Agatha:
 <$0D>
 //\nさっきの制服の男は警官だったのね、\nセルゲイが連行されて行くわ。\nそして霧のカーテンが降りる…
 \n
-The men here to take Sergei away.\n
+The men came to take Sergei away.\n
 The foggy curtain is lifted.
 <$00>
 
@@ -861,7 +861,7 @@ Madam Agatha:
 //\nたぶんあなたとタニア母さんね。\nとっても遠い惑じよ。
 \n
 It could be you and Tanya,\n
-but you're very far away.
+but you're very distant.
 <$00>
 
 // Pos: 0000365A
@@ -888,8 +888,8 @@ Madam Agatha:
 <$0D>
 //\nああ、セルゲイよ、セルゲイの部屋、\nクロゼットを開いて… 分かるのはここまでよ。\n
 \n
-...No, this is Sergei's closet,\n
-but it's open. That's all I can tell.
+...No, it's Sergei's closet, but\n
+it's open. That's all I can tell.
 <$00>
 
 // Pos: 000036C2
@@ -949,7 +949,8 @@ Madam Agatha:
 <$0D>
 //\nあら、これは… マラケシュのアレね…
 \n
-Oh? This is...Marrakech's, is it?
+Oh? This is...Marrakech's dream,\n
+is it?
 <$00>
 
 // Pos: 00003782
@@ -1013,7 +1014,7 @@ mumbling to the wall itself.
 <$0C><$0B>
 Madam Agatha:
 <$0D>\n
-I can't make out what\n
+I dare say, I can't make out what\n
 she's saying.
 <$00>
 
@@ -1029,7 +1030,8 @@ Madam Agatha:
 <$0D>
 //\nあら、ブーマーのアレよね…
 \n
-Oh? This is...Boomer's, I see.
+Oh? This is...Boomer's dream,\n
+I see.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -1067,7 +1069,7 @@ Madam Agatha:
 <$0D>
 //\nブリックロードよ…\n赤い家の中にブーマーがいるわ。
 \n
-Boomer is inside...of the UFO\n
+Boomer has...entered the UFO\n
 building on Brick Road.
 <$0C><$0B>
 //マダム・アガタ：
@@ -1080,7 +1082,8 @@ in the tiniest convulsions.
 <$0C><$0B>
 Madam Agatha:
 <$0D>\n
-This isn't the Boomer I know.
+And yet, this doesn't seem to be\n
+the Boomer I know.
 <$00>
 
 // Pos: 00003936
@@ -1095,8 +1098,8 @@ Madam Agatha:
 <$0D>
 //\nこれは…\nクロウのアレだわ、ずいぶんと古そうね。
 \n
-Is that...Crow? It's Crow as a child.\n
-This memory must be very old.
+Is that...Crow? Yes, as a child.\n
+This dream must be very old.
 <$0C><$0B>
 //マダム・アガタ：
 Madam Agatha:
@@ -1117,7 +1120,7 @@ And it's dead!
 Madam Agatha:
 <$0D>\n
 It must have been buried alive, but\n
-Crow is digging the corpse back up...!
+Crow is digging the corpse back up!
 <$00>
 
 // Pos: 000039DA

@@ -239,8 +239,8 @@ Little:
 <$0D>
 //\nどうしたんだ… レッドのやつ…\nどこ行きやがった？
 \n
-Oi, is that Red?\n
-Where's he goin'?
+Oi, was that Red?\n
+Where'd he go?
 <$00>
 
 // Pos: 0000313B
@@ -553,15 +553,15 @@ April:
 <$0D>
 //\n何、これ… 泡みたい…\nおフロの泡？
 \n
-What is this...? It looks like\n
-bubbles from a bubble bath.
+What is this...? It looks\n
+bubbles out of a bubble bath.
 <$0C><$0B>
 //エイプリル：
 April:
 <$0D>
 //\nまさか、こんなところにあるわけないよね。
 \n
-What is a bubble bath doing\n
+Who's having bubble bath\n
 way out here?
 <$00>
 
@@ -586,7 +586,7 @@ April:
 //\n彼女は何かすごく重いものを\n背負ってるようだけど…
 \n
 From the way she carries her self,\n
-you'd think she'd be full of it.
+you'd think she'd be withdrawn.
 <$0C><$0B>
 //エイプリル：
 April:
@@ -601,7 +601,8 @@ April:
 <$0D>
 //\nちょっと行ってくるね。
 \n
-I'm going on a little side errand, okay?
+I'm going to her for a reading.\n
+You should check in on the town.
 <$00>
 
 // Pos: 000034D5
@@ -850,16 +851,12 @@ Thomas:
 //\n問顆は心も欲しがるかということだ。\n
 \n
 What is Amanda searching for?\n
-
 <$0B>
 //トーマス：
 Thomas:
 <$0D>
 //\n私なりには、体は間建いなくフェイが与える。\nフェイはアマンダに仕えているからな。
-
-<$0C><$0B>
-Thomas:
-<$0D>\n
+\n
 I dare say, Feng would have no\n
 qualms offering her body to\n
 Amanda. Feng is her disciple.

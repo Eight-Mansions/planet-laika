@@ -17,8 +17,8 @@ Little:
 <$0D>
 //\n気になるのか、\nお前と一緒に来た女のことだろ…
 \n
-...You worried about the girly\n
-you came here with?
+...You worried about your girly\n
+friend? Red mentioned a door...
 <$0C><$0B>
 //リトル：
 Little:
@@ -26,7 +26,7 @@ Little:
 //\nレッドのやつが見たのは幻覚かもな。\n見に行くのか？
 \n
 Red might've been seeing things,\n
-but... want to go check?
+but... do want to go check?
 <$1B>
 //（ちょっと行ってみる。\n今はよしておく。
 。 Yes\n No
@@ -376,7 +376,7 @@ Yolanda:
 //\n目ん玉ね、たしか…頭いいと見える…\n思い出したわ。
 \n
 Note to self: nerds can see\n
-the eyeballs. Got it.
+eyeballs. Got it.
 <$00>
 
 // Pos: 00002D6C

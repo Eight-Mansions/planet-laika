@@ -17,20 +17,20 @@ Boomer:
 <$0D>
 //\nハウスのやつらが…\nああなるのは分かってたんだ。
 \n
-I see the men at\n
-Psycho Lab...have moved on.
+I see...that the men at\n
+Psycho Lab...have transcended.
 <$0C><$0B>
 //ブーマー：
 Boomer:
 <$0D>
 //\n見えねぇ目玉やら日記やら、\nおかしな話だらけだ。
 \n
-Ohhh, what I cannot see...
+Ohhh, what can't I see...?
 <$0C><$0B>
 Boomer:
 <$0D>\n
-...are the eyeballs and other\n
-oddities etched on the walls.
+Yes, the eyeballs and blue\n
+scriptures glowing on the walls.
 <$1E><$02><$08><$00>
 
 // Pos: 000013A8
@@ -156,7 +156,8 @@ Boomer:
 <$0D>
 //\nあんた… 夜を抜けてきたのか。
 \n
-Did you...break the night?
+Did you Psychos...break the\n
+night?
 <$00>
 
 // Pos: 000014CF
@@ -171,8 +172,8 @@ Spacer:
 <$0D>
 //\nそこの様子が変だぞ。\nあそこは何て言ったか…
 \n
-That's a wild thing to ask. What\n
-"break" are you talking about?
+That's a wild thing to ask.\n
+Who "broke" what now?
 <$00>
 
 // Pos: 000014F5
@@ -211,7 +212,7 @@ Spacer:
 <$0D>
 //\nああ、いや、私は見るだけだ。\n金星人のデンパなど、私は信じない。
 \n
-Oh, uh, just to look. I don't believe\n
+Oh, uh, to be clear. I don't believe\n
 in that Venusian radio wave stuff.
 <$00>
 
@@ -227,8 +228,8 @@ Boomer:
 <$0D>
 //\nそうかい。でもよ、\nガツンといきたいって顔に書いてあるぜ。
 \n
-I see, and yet, it's written on your\n
-face that you're ready to pop too.
+And yet, it's written on your face\n
+that you too are ready to burst.
 <$00>
 
 // Pos: 000015AE
@@ -251,6 +252,7 @@ Spacer:
 <$0D>
 //\nいや、私に限ってそんなことはない。
 \n
-No, it just isn't for me.
+No, it's just that their beliefs\n
+aren't for me.
 <$00>
 
