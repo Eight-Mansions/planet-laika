@@ -1469,3 +1469,97 @@ not breaking a nail to grab it.
 //何も起こらなかった。
 Nothing happened.
 <$0E><$1E><$17><$00>
+
+
+// Pos: 00011B0D
+
+#WLB(PTR, $00007B80)
+
+#WHB(PTR, $00007B81)
+
+<$01><$18><$00><$81><$D3>
+<$EE><$00><$00><$00>
+
+//第一の預言：\nカオスの中にマコトに\n主体的な者が現れるであろう。
+First Prophecy:\n
+May there be one who boldly siezes\n
+the truth within the chaos.
+<$0C>
+//第一の預言：\n自らのタマシイを浄化して、\nいかり、おごり、さげすみなど、\n闇の諸力から解放された存在として、
+First Prophecy:\n
+May he purify his own spirit,\n
+and free his self from the dark\n
+hooks of anger, pride and envy,
+<$0C>
+//第一の預言：\n光の中に輝くであろう。
+First Prophecy:\n
+that he may shine in that light.
+
+<$0C><$18><$00><$81><$D4>
+<$93><$00><$00><$00>
+
+//第ニの預言：\n完全なる善を見よ。完全なる悪を見よ。
+Second Prophecy:\n
+Behold pure good! Behold pure evil!
+<$0C>
+//第ニの預言：\nこのふたつが最後の出会いを果たすとき、\nタマシイは再生の時を得るであろう。
+Second Prophecy:\n
+May the two meet at the end of the\n
+world, that the spirit will know\n
+rebirth.
+
+
+<$0C><$18><$00><$81><$D5>
+<$E5><$00><$00><$00>
+
+//第三の預言：\n罪を背負う子羊たちが暗闇に解き放たれ、\n時の中でつながる双子を目覚めさせるだろう。
+Third Prophecy:\n
+May the sinful lambs be set loose in\n
+the dark, and awaken the Twins of\n
+Truth in time.
+<$0C>
+//第三の預言：\nマコトの双子がはじめの一歩を記し、\n光の夢におどる。\n新たなる人間として歩み始めるであろう。
+Third Prophecy:\n
+May the Twins of Truth take the first\n
+steps, and dance in the shining dream\n
+that they walk away as new humans.
+
+
+<$0C><$18><$00><$81><$D6>
+<$FE><$00><$00><$00>
+
+
+//第四の預言：\n今こそ終わりがお前の上に来る。\n私は怒りを送り、お前の行いにしたがって栽き、\nいまわしい全てのことをお前に報いる。
+Fourth Prophecy:\n
+The end is upon you now. I shall send\n
+my wrath to reap all you have sewn,\n
+that all deeds may know reward.
+<$0C>
+//第四の預言：\n終わりが来る、終わりが来る、\n終わりの時がお前のために熟す。\n今や見よ、この時が来る。
+Fourth Prophecy:\n
+The end is upon you! The end is upon you!\n
+The end of the world burns for you.\n
+Now, behold! This hour is upon you!
+
+
+<$0C><$18><$00><$81><$D8>
+<$05><$01><$00><$00>
+
+
+//第五の預言：\nここに新しき天と、新しき地とを見たり。
+Fifth Prophecy:\n
+For a new Heaven and a new Earth\n
+await you, may this Heaven and\n
+Earth pass,
+<$0C>
+//第五の預言：\nこれまでの天とこれまでの地とは過ぎ去り、\n海もまた消え失せ、\n今よりのち、悲しみもさけびも苦しみもなく、
+Fifth Prophecy:\n
+and may the seas dry, that their\n
+sad and lonely sufferings\n
+are no more.
+<$0C>
+//第五の預言：\n歓喜の歌にたたえられた永遠が続くであろう。
+Fifth Prophecy:\n
+And may eternity move past this\n
+moment, chanting in celebration.
+<$0C><$17><$00><$00>
